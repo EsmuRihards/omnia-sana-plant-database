@@ -19879,11 +19879,14 @@
     },
     {
      "condition": "high-cholesterol",
-     "note": "Insoluble fibre from carrots limited the rise in blood lipids after a fatty meal in mice (preclinical)",
+     "note": "Insoluble fibre from carrots limited the rise in blood lipids after a fatty meal in mice (preclinical); in people, dried purple carrot did not lower cholesterol in a small placebo-controlled trial",
      "reference_ids": [
       "REF-2720"
      ],
      "status": "needs-review",
+     "null_result_ids": [
+      "REF-5317"
+     ],
      "evidence": 2,
      "label": "High cholesterol"
     },
@@ -19931,6 +19934,15 @@
       "REF-2708",
       "REF-2610",
       "REF-2611"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Allergy: carrot (the cultivated form of the same species) can cause food allergy, mostly in people allergic to birch pollen; in a placebo-controlled food-challenge study, 20 of 26 people with suspected carrot allergy reacted, most to the birch-related allergen Dau c 1. A delayed allergic skin reaction to carrot and other carrot-family roots has also been reported (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5315",
+      "REF-5316"
      ],
      "status": "verified"
     }
@@ -20328,6 +20340,14 @@
       "REF-0528"
      ],
      "status": "needs-review"
+    },
+    {
+     "note": "Skin products: a 2004 Cosmetic Ingredient Review safety assessment concluded that wild yam root extract is safe as used in cosmetics; the tested extract showed no oestrogen-like activity in young rats, and undiluted extract irritated rabbit skin while a 10% dilution did not.",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5318"
+     ],
+     "status": "verified"
     }
    ],
    "references": [
@@ -20574,22 +20594,33 @@
      "reference_ids": [
       "REF-0308",
       "REF-3543",
-      "REF-2013"
+      "REF-2013",
+      "REF-5323"
      ],
      "status": "verified",
-     "note": "Improved immune markers vs placebo in randomized trials (healthy adults; athletes); traditional immunostimulant (WHO monograph)",
-     "evidence": 6,
+     "note": "Improved immune markers vs placebo in randomized trials (healthy adults; athletes) and raised white-cell and natural-killer-cell counts during a cold (placebo-controlled study); the pressed juice of the herb did not stimulate immune cells in two placebo-controlled crossover trials in healthy men; traditional immunostimulant (WHO monograph)",
+     "null_result_ids": [
+      "REF-5324",
+      "REF-5325"
+     ],
+     "evidence": 7,
      "label": "Immune support"
     },
     {
      "condition": "infection",
-     "note": "Reduced respiratory infections and antibiotic use in children in a randomized trial; supportive use for respiratory and urinary infections (WHO monograph)",
+     "note": "Echinacea extracts reduced respiratory infections, their complications and antibiotic use in a 2024 meta-analysis of clinical trials (strongest for fresh E. purpurea alcoholic extracts); E. purpurea reduced respiratory infections and antibiotic use in children in a randomized trial, and an open randomized trial in adults found fewer SARS-CoV-2 infections; it did not reduce recurrences of genital herpes or prevent ear infections in otitis-prone children (placebo-controlled trials); supportive use for respiratory and urinary infections (WHO monograph)",
      "reference_ids": [
       "REF-0308",
-      "REF-3538"
+      "REF-3538",
+      "REF-5319",
+      "REF-5320"
      ],
      "status": "needs-review",
-     "evidence": 5,
+     "null_result_ids": [
+      "REF-5321",
+      "REF-5322"
+     ],
+     "evidence": 9,
      "label": "Infection (general)"
     },
     {
@@ -20642,7 +20673,8 @@
      "note": "Generally considered safe, but caution advised for those with autoimmune conditions. Not recommended for long-term use (more than 8 weeks continuously).",
      "severity": "caution",
      "reference_ids": [
-      "REF-3988"
+      "REF-3988",
+      "REF-5326"
      ],
      "status": "verified"
     },
@@ -20651,6 +20683,34 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Allergy: echinacea, a daisy-family plant, can rarely cause allergic reactions, sometimes severe; people with allergies or asthma should take care. E. purpurea was among the herbal medicines most often linked to allergy-like reactions in children in the WHO safety database.",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5327",
+      "REF-5328"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Pregnancy and breastfeeding: there are too few data on echinacea in pregnancy and breastfeeding to judge its safety, and a systematic review of its safety advised against use in these periods.",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5327"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Medicines: in clinical studies, E. purpurea did not meaningfully change blood levels of the cancer drug docetaxel or the HIV drugs darunavir-ritonavir and etravirine, and had only minor, non-significant effects on the liver enzymes CYP1A2, CYP2D6, CYP2E1 and CYP3A4 in healthy volunteers.",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5329",
+      "REF-5330",
+      "REF-5331",
+      "REF-5332"
      ],
      "status": "verified"
     }
@@ -20986,12 +21046,13 @@
     },
     {
      "condition": "high-blood-pressure",
-     "note": "Green cardamom lowered blood pressure in a meta-analysis of small randomized trials in metabolic syndrome",
+     "note": "Green cardamom lowered blood pressure in meta-analyses of small randomized trials, in metabolic syndrome and in adults generally, though the falls were very small (under 1 mmHg in the 2024 analysis)",
      "reference_ids": [
-      "REF-3546"
+      "REF-3546",
+      "REF-5337"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 8,
      "label": "High blood pressure"
     },
     {
@@ -21014,6 +21075,30 @@
      "status": "verified",
      "evidence": 5,
      "label": "Nausea"
+    },
+    {
+     "condition": "blood-sugar",
+     "note": "Green cardamom (3 g a day) lowered HbA1c and insulin resistance, though not fasting blood sugar, in a 2022 meta-analysis of randomized trials and in a placebo-controlled trial in type 2 diabetes; a trial in pre-diabetic women found no difference from placebo",
+     "reference_ids": [
+      "REF-5333",
+      "REF-5334"
+     ],
+     "status": "verified",
+     "null_result_ids": [
+      "REF-5335"
+     ],
+     "evidence": 8,
+     "label": "Blood sugar / diabetes support"
+    },
+    {
+     "condition": "liver-support",
+     "note": "Green cardamom capsules (3 g a day) reduced the degree of fatty liver, the liver enzyme ALT and inflammatory markers vs placebo in overweight people with non-alcoholic fatty liver disease (randomized trial)",
+     "reference_ids": [
+      "REF-5336"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Liver support"
     }
    ],
    "contraindications": [
@@ -21310,16 +21395,20 @@
     },
     {
      "condition": "immune-support",
-     "note": "Immunostimulant effects reported (reviews)",
+     "note": "Immunostimulant effects reported (reviews); an ethanolic root extract raised T-cell and natural-killer-cell counts vs placebo in healthy volunteers (1987 double-blind study), but an extract did not change immune cells in endurance athletes (2001 placebo-controlled trial)",
      "reference_ids": [
       "REF-0506",
-      "REF-0587"
+      "REF-0587",
+      "REF-5338"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
       "REF-0509"
      ],
-     "evidence": 7,
+     "null_result_ids": [
+      "REF-5339"
+     ],
+     "evidence": 8,
      "label": "Immune support"
     },
     {
@@ -21344,7 +21433,7 @@
     },
     {
      "condition": "stress",
-     "note": "Traditional adaptogen to improve resistance to stress (reviews); a randomized trial adding it to stress-management training found no benefit",
+     "note": "Traditional adaptogen to improve resistance to stress (reviews); a randomized trial adding it to stress-management training found no benefit, and in endurance athletes it raised rather than lowered hormonal markers of stress (placebo-controlled trial)",
      "reference_ids": [
       "REF-0506",
       "REF-0509",
@@ -21353,7 +21442,8 @@
      ],
      "status": "verified",
      "null_result_ids": [
-      "REF-3393"
+      "REF-3393",
+      "REF-5339"
      ],
      "evidence": 7,
      "label": "Stress"
@@ -21375,6 +21465,22 @@
       "REF-0509"
      ],
      "status": "needs-review"
+    },
+    {
+     "note": "Medicines: a standardised extract (485 mg twice daily for 14 days) did not change CYP2D6 or CYP3A4 activity in healthy volunteers, so interactions with drugs cleared by these liver enzymes are unlikely (clinical study).",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5340"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Injections: eleuthero (Acanthopanax) injections used in Chinese hospitals have caused anaphylactic shock, sometimes fatal; in a review of 57 Chinese cases almost all followed an infusion (literature analysis).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5341"
+     ],
+     "status": "verified"
     }
    ],
    "references": [

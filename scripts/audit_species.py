@@ -58,6 +58,7 @@ STOP_EPITHETS = {
     "var", "subsp", "spp", "sp", "cv", "aqueous", "methanol", "ethanol", "vulgaris",
     "vegetables", "supplements", "products", "derivatives", "preparations", "containing",
     "related", "emodin", "aloin",  # compounds that begin with a genus-like token
+    "group", "groups",  # trial prose: "Echinacea groups compared with any control"
 }
 
 

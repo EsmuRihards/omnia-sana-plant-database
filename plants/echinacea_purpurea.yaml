@@ -175,16 +175,31 @@ indications:
   - REF-0308
   - REF-3543
   - REF-2013
+  - REF-5323
   status: verified
-  note: Improved immune markers vs placebo in randomized trials (healthy adults; athletes); traditional
-    immunostimulant (WHO monograph)
+  note: Improved immune markers vs placebo in randomized trials (healthy adults; athletes) and raised
+    white-cell and natural-killer-cell counts during a cold (placebo-controlled study); the pressed juice
+    of the herb did not stimulate immune cells in two placebo-controlled crossover trials in healthy men;
+    traditional immunostimulant (WHO monograph)
+  null_result_ids:
+  - REF-5324
+  - REF-5325
 - condition: infection
-  note: Reduced respiratory infections and antibiotic use in children in a randomized trial; supportive
-    use for respiratory and urinary infections (WHO monograph)
+  note: Echinacea extracts reduced respiratory infections, their complications and antibiotic use in a
+    2024 meta-analysis of clinical trials (strongest for fresh E. purpurea alcoholic extracts); E. purpurea
+    reduced respiratory infections and antibiotic use in children in a randomized trial, and an open randomized
+    trial in adults found fewer SARS-CoV-2 infections; it did not reduce recurrences of genital herpes
+    or prevent ear infections in otitis-prone children (placebo-controlled trials); supportive use for
+    respiratory and urinary infections (WHO monograph)
   reference_ids:
   - REF-0308
   - REF-3538
+  - REF-5319
+  - REF-5320
   status: needs-review
+  null_result_ids:
+  - REF-5321
+  - REF-5322
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids: []
@@ -215,6 +230,7 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-3988
+  - REF-5326
   status: verified
 - note: 'Duke (2002) rates echinacea as +++ - among the most thoroughly documented herbal immunostimulants.
     It notes experimental and clinical evidence for immunostimulant, antiviral, and anti-inflammatory
@@ -226,6 +242,30 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0063
+  status: verified
+- note: 'Allergy: echinacea, a daisy-family plant, can rarely cause allergic reactions, sometimes severe;
+    people with allergies or asthma should take care. E. purpurea was among the herbal medicines most
+    often linked to allergy-like reactions in children in the WHO safety database.'
+  severity: caution
+  reference_ids:
+  - REF-5327
+  - REF-5328
+  status: verified
+- note: 'Pregnancy and breastfeeding: there are too few data on echinacea in pregnancy and breastfeeding
+    to judge its safety, and a systematic review of its safety advised against use in these periods.'
+  severity: caution
+  reference_ids:
+  - REF-5327
+  status: verified
+- note: 'Medicines: in clinical studies, E. purpurea did not meaningfully change blood levels of the cancer
+    drug docetaxel or the HIV drugs darunavir-ritonavir and etravirine, and had only minor, non-significant
+    effects on the liver enzymes CYP1A2, CYP2D6, CYP2E1 and CYP3A4 in healthy volunteers.'
+  severity: info
+  reference_ids:
+  - REF-5329
+  - REF-5330
+  - REF-5331
+  - REF-5332
   status: verified
 references:
 - REF-0797
@@ -295,4 +335,22 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): generic WHO vol. 1 citation
   REF-0308 replaced by the Herba Echinaceae Purpureae entry REF-3988 (external use for wounds and
   inflammatory skin conditions; not in autoimmune disease; no more than 8 weeks) and removed from the
-  Duke note.'
+  Duke note.
+  | 2026-11-25: symptom-source audit research-deepening batch 11 - Searched PubMed (Echinacea
+  purpurea / purple coneflower tiab, echinacea ti: 140 HT, 30 SR, 206 SAFE hits; SR/MA, safety and
+  E. purpurea trials read in depth), Europe PMC, ClinicalTrials.gov (42) and OpenAlex. Species
+  rule: only E. purpurea products, or reviews pooling Echinacea products with E. purpurea named as
+  the leading preparation. Added: ERA-PRIMA MA 2024 and the 2022 Echinaforce open RCT to
+  infection, with E. purpurea placebo trials in genital herpes (2001) and otitis-prone children
+  (2008) as no-effect; Echinilin cold study 2005 to immune-support with the two pressed-juice
+  crossover trials (2002, 2005) as no-effect; 2026 safety MA (48 trials, adverse events no higher
+  than control) to the safety note; new allergy and pregnancy cautions (2005 safety SR, 2017
+  VigiBase children); human interaction studies (docetaxel, darunavir-ritonavir, etravirine, CYP
+  phenotyping) as an info note. Not added: the cold pair (already 9 with five no-effect trials)
+  was not padded either way - positive (Schulten 2001, Brinkeborn 1999, air travellers 2012, 2019
+  URTI MA) and null (Barrett 2002, Grimm 1999, Turner 2000) trials logged here only; 2015
+  recurrent-RTI MA (superseded by ERA-PRIMA); anxiety trials (EP107 is E. angustifolia root); oral
+  lichen planus RCT 2022, tonsillitis add-on study 2020 and COVID syrup RCT 2024 (species not
+  stated); warfarin and digoxin interaction studies (species not stated in the abstract); athletic
+  VO2max/EPO trials and MA (no vocab condition); combinations (Kan Jang, Imupret, echinacea + zinc
+  / propolis / ginger / sage); homeopathic products.'

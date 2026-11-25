@@ -173,6 +173,13 @@ contraindications:
   reference_ids:
   - REF-0528
   status: needs-review
+- note: 'Skin products: a 2004 Cosmetic Ingredient Review safety assessment concluded that wild yam root
+    extract is safe as used in cosmetics; the tested extract showed no oestrogen-like activity in young
+    rats, and undiluted extract irritated rabbit skin while a 10% dilution did not.'
+  severity: info
+  reference_ids:
+  - REF-5318
+  status: verified
 references:
 - REF-0794
 - REF-0795
@@ -231,4 +238,13 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementa
   | 2026-11-12: symptom-source audit deep re-sweep batch 6 - Deep re-sweep. REF-0528 removed from
   the antispasmodic action (measured pain and inflammation only). Notes rewritten.
   | 2026-11-19 (monograph-source audit): preparations[2] checked against REF-0614 (crossover RCT of wild yam cream): rewritten to the trial result. Dropped: root extract and historically marketed (not in the abstract).
-  | 2026-11-19 (monograph-source audit): botanical_description, habitat and traditional_uses cited only REF-0528 (rat toxicity study). RE-SOURCED: Grieve Wild Yam (REF-4014, new), Wikipedia (REF-4015, new), PFAF REF-3246, and the wild yam cream RCT REF-0614 (no change in FSH, oestradiol or serum/salivary progesterone). Dropped as unsupported: alternate leaves (Wikipedia: whorls of four), cinnamon-brown rhizome, three-winged capsule, flowering in summer (PFAF gives September-October, which was not adopted), woodland edges and fence rows, Eclectic medicine, ''not converted into progesterone in the body'' (replaced by what the sources state).'
+  | 2026-11-19 (monograph-source audit): botanical_description, habitat and traditional_uses cited only REF-0528 (rat toxicity study). RE-SOURCED: Grieve Wild Yam (REF-4014, new), Wikipedia (REF-4015, new), PFAF REF-3246, and the wild yam cream RCT REF-0614 (no change in FSH, oestradiol or serum/salivary progesterone). Dropped as unsupported: alternate leaves (Wikipedia: whorls of four), cinnamon-brown rhizome, three-winged capsule, flowering in summer (PFAF gives September-October, which was not adopted), woodland edges and fence rows, Eclectic medicine, ''not converted into progesterone in the body'' (replaced by what the sources state).
+  | 2026-11-25: symptom-source audit research-deepening batch 11 - Searched PubMed (Dioscorea
+  villosa / wild yam / Mexican wild yam tiab, diosgenin ti: 15 HT, 3 SR, 113 SAFE hits), Europe
+  PMC, ClinicalTrials.gov (3) and OpenAlex. Still no human trial of oral wild yam. Added: 2004 CIR
+  cosmetic safety assessment as an info note. Not added: diosgenin-rich yam extract cognition RCT
+  2017 (Japanese "yam", species not stated), Dioscorea + Vitex + Turnera phyto-progestin pilot and
+  Dioscorea comp. ovules (combinations), diosgenin + vitamin D + lactalbumin in PCOS
+  (combination), the 2010 OTC hot-flash review (no wild yam pair to attach; consistent with the
+  null cream RCT REF-0614), diosgenin lab and animal work (other Dioscorea species or isolated
+  compound).'

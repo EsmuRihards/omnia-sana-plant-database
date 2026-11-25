@@ -3868,6 +3868,17 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "blood-sugar",
+     "label": "Blood sugar / diabetes support",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5333",
+      "REF-5334"
+     ]
+    },
+    {
      "condition": "cardiovascular-support",
      "label": "Cardiovascular / heart health",
      "evidence": 8,
@@ -3877,6 +3888,17 @@
       "REF-0292",
       "REF-1668",
       "REF-3545"
+     ]
+    },
+    {
+     "condition": "high-blood-pressure",
+     "label": "High blood pressure",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3546",
+      "REF-5337"
      ]
     },
     {
@@ -3902,13 +3924,13 @@
      ]
     },
     {
-     "condition": "high-blood-pressure",
-     "label": "High blood pressure",
-     "evidence": 7,
+     "condition": "liver-support",
+     "label": "Liver support",
+     "evidence": 5,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-3546"
+      "REF-5336"
      ]
     },
     {
@@ -12940,15 +12962,29 @@
      ]
     },
     {
+     "condition": "infection",
+     "label": "Infection (general)",
+     "evidence": 9,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0308",
+      "REF-3538",
+      "REF-5319",
+      "REF-5320"
+     ]
+    },
+    {
      "condition": "immune-support",
      "label": "Immune support",
-     "evidence": 6,
+     "evidence": 7,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0308",
       "REF-3543",
-      "REF-2013"
+      "REF-2013",
+      "REF-5323"
      ]
     },
     {
@@ -12959,17 +12995,6 @@
      "inferred": false,
      "references": [
       "REF-3544"
-     ]
-    },
-    {
-     "condition": "infection",
-     "label": "Infection (general)",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0308",
-      "REF-3538"
      ]
     },
     {
@@ -14669,6 +14694,18 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "immune-support",
+     "label": "Immune support",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0506",
+      "REF-0587",
+      "REF-5338"
+     ]
+    },
+    {
      "condition": "cognitive-function",
      "label": "Cognitive function",
      "evidence": 7,
@@ -14690,17 +14727,6 @@
       "REF-0506",
       "REF-0587",
       "REF-2295"
-     ]
-    },
-    {
-     "condition": "immune-support",
-     "label": "Immune support",
-     "evidence": 7,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0506",
-      "REF-0587"
      ]
     },
     {

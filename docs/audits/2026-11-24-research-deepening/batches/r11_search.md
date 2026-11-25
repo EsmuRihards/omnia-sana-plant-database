@@ -1,0 +1,1364 @@
+# Research-deepening batch 11 - search
+
+## daucus-carota (Daucus carota) - name clause: "Daucus carota"[tiab] OR "wild carrot"[tiab] OR "Queen Anne's lace"[tiab] OR "carrot seed"[tiab]
+
+### PubMed HT - 18 hits, 18 not already listed above, 17 new
+- new | 2026 | 41577084 |  | Use of a Novel UV-C Tunnel with PAA Misting to Reduce Escherichia coli on Carrots (Daucus carota). | J Food Prot
+- new | 2026 | 42207094 |  | Antioxidant capacity in relation to nutrition, stomatal density, and yield of carrot (Daucus carota L.) fertilized with bleaching soil compost. | Braz J Biol
+- new | 2025 | 40292258 |  | Effect of Daucus carota L. extract on spermiogram factors in men with idiopathic infertility: A double-blinded randomized clinical trial. | Avicenna J Phytomed
+- new | 2025 | 39959354 |  | Evaluation of carrot (Daucus carota L.) varieties for growth and yield as affected by NPSB fertilizer rates in Gondar district, Ethiopia. | Front Plant Sci
+- new | 2025 | 40226756 |  | Comparative bioavailability of β-carotene from raw carrots and fresh carrot juice in humans: a crossover study. | Nutr Res Pract
+- new | 2025 | 39877810 |  | Data on effect of NPSB fertilizer rates on growth and yield of carrot (Daucus carrota L.) varieties in Gondar district, Northwestern Ethiopia. | Data Brief
+- new | 2023 | 37549572 |  | Biosynthesis of ZnO and TiO(2) nanoparticles using Ipomoea carnea leaf extract and its effect on black carrot (Daucus carota L.) cv. Pusa Asita. | Plant Physiol Biochem
+- new | 2021 | 34069593 |  | Occurrence and Anastomosis Grouping of Rhizoctonia spp. Inducing Black Scurf and Greyish-White Felt-Like Mycelium on Carrot in Sweden. | J Fungi (Basel)
+- new | 2021 | 34222703 |  | Effect of tillage, biochar, poultry manure and NPK 15-15-15 fertilizer, and their mixture on soil properties, growth and carrot (Daucus carota L.) yield under tropical conditions. | Heliyon
+- HELD REF-3654 | 2020 | 33183662 | Randomized Controlled Trial | Evaluation of the effect of carrot seed (Daucus Carota) in women of fertile age with hypoactive sexual desire disorder: A randomized double-blind clinical trial. | Complement Ther Med
+- new | 2019 | 34466504 |  | Efficacy of a Persian Herbal Remedy and Electroacupuncture on Metabolic Profiles and Anthropometric Parameters in Women with Polycystic Ovary Syndrome: A Randomized Controlled Tria | Galen Med J
+- new | 2018 | 29881519 |  | Effects of a food product (based on Daucus carota) and education based on traditional Persian medicine on female sexual dysfunction: a randomized clinical trial. | Electron Physician
+- new | 2018 | 29187419 | Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S. | Dissecting the Genetic Architecture of Shoot Growth in Carrot (Daucus carota L.) Using a Diallel Mating Design. | G3 (Bethesda)
+- new | 2016 | 27769229 |  | Herbal remedies and functional foods used by cancer patients attending specialty oncology clinics in Trinidad. | BMC Complement Altern Med
+- new | 2016 | 27052932 |  | Residual tembotrione and atrazine in carrot. | J Environ Sci Health B
+- new | 2014 | 30708568 |  | First Report of Bacterial Blight of Carrot in Indiana Caused by Xanthomonas hortorum pv. carotae. | Plant Dis
+- new | 2010 | 20131807 | Research Support, Non-U.S. Gov't | Anthocyanins in purple-orange carrots (Daucus carota L.) do not influence the bioavailability of beta-carotene in young women. | J Agric Food Chem
+- new | 1999 | 18944788 |  | Long-Term Biosanitation by Application of Coniothyrium minitans on Sclerotinia sclerotiorum-Infected Crops. | Phytopathology
+
+### PubMed SR - 2 hits, 2 not already listed above, 2 new
+- new | 2024 | 38754518 | Systematic Review | Pollen-mediated gene flow from wild carrots (Daucus carota L. subsp. carota) affects the production of commercial carrot seeds (Daucus carota L. subsp. sativus) internationally and | Sci Total Environ
+- new | 2015 | 26819805 |  | Effect of Carrot Intake in the Prevention of Gastric Cancer: A Meta-Analysis. | J Gastric Cancer
+
+### PubMed SAFE - 92 hits, 87 not already listed above, 83 new
+- new | 2026 | 42582725 |  | Wild Daucus carota Subsp. maximus: Phytochemicals, Bioactivities, and Pharmacokinetic Insights for Future Food and Therapeutic Applications. | Food Sci Nutr
+- new | 2026 | 41643253 | Case Reports | Conium Maculatum, one plant, four presentations: A case series. | Am J Emerg Med
+- new | 2026 | 42902354 | Case Reports | Thyroid nodule treated by herbal food composite formulation: a case report. | J Med Case Rep
+- new | 2026 | 43022536 |  | Antioxidant and hepatoprotective effects of carrot seed oil in a cholestasis-induced rat model: involvement of the SIRT1/FOXO1 signaling pathway. | Avicenna J Phytomed
+- new | 2026 | 42797728 |  | Acetylsalicylic Acid at Trace Concentrations Induces Cellular Toxicity and Phytotoxicity in the Roots of Cultivated Plants. | Toxics
+- new | 2026 | 41054931 |  | Ecotoxicological Evaluation of Organic Sunscreens Used Worldwide, Alone and in Mixture, on Terrestrial Plants. | Environ Toxicol
+- new | 2025 | 40481984 |  | Uncovering the efficacy of a natural homemade sunscreen in protection from ultraviolet radiation. | Photochem Photobiol Sci
+- new | 2025 | 40697352 |  | Chemical composition and transcriptomic analysis revealed the dynamic changes of saponins during the growth of Panax japonicus var. major. | AoB Plants
+- new | 2025 | 41304519 |  | Genotoxic and Toxicopathological Responses to Ethylparaben in Plants: Potential Impacts to Crop Yields. | Toxics
+- new | 2025 | 39919063 |  | Seed priming and abiotic stress tolerance in carrot: Unraveling the mechanisms of improved germination. | PLoS One
+- new | 2025 | 41463307 | Research Support, Non-U.S. Gov't | Microbial Biotransformation of the Sesquiterpene Carotol: Generation of Hydroxylated Metabolites with Potential Cytotoxic and Target-Specific Binding Activities. | Biomolecules
+- new | 2024 | 38370039 |  | Techno-economic analysis of a solar-assisted heat pump dryer for drying agricultural products. | Food Sci Nutr
+- new | 2024 | 38691526 | Research Support, Non-U.S. Gov't | Intercropping on Mars: A promising system to optimise fresh food production in future martian colonies. | PLoS One
+- new | 2024 | 38555610 | Review | [Sweet protein brazzein as a promising sweetener]. | Vopr Pitan [rus]
+- new | 2024 | 38754499 | Comparative Study | Comparing the impact of microplastics derived from a biodegradable and a conventional plastic mulch on plant performance. | Sci Total Environ
+- new | 2024 | 39326712 |  | In vitro safety profile and phyto-ecotoxicity assessment of the eco-friendly calcium oxide nanoparticles. | Chemosphere
+- new | 2024 | 37403288 | Research Support, Non-U.S. Gov't | Identification of novel c-Kit inhibitors from natural sources using virtual screening and molecular dynamics simulations. | J Biomol Struct Dyn
+- HELD REF-2903 | 2024 | 39192720 |  | Bioactive potential of Mentha arvensis L. essential oil. | J Environ Sci Health B
+- new | 2024 | 39046113 | Research Support, Non-U.S. Gov't | An anthocyanin activation gene underlies the purple central flower pigmentation in wild carrot. | Plant Physiol
+- new | 2024 | 39275035 |  | Presence of Heavy Metals in Irrigation Water, Soils, Fruits, and Vegetables: Health Risk Assessment in Peri-Urban Boumerdes City, Algeria. | Molecules
+- new | 2023 | 37786729 |  | Telomere-to-telomere carrot (Daucus carota) genome assembly reveals carotenoid characteristics. | Hortic Res
+- new | 2023 | 37505549 |  | Health Risk and Quality Assessment of Vegetables Cultivated on Soils from a Heavily Polluted Old Mining Area. | Toxics
+- new | 2023 | 37402048 |  | Increased health risk assessment in different vegetables grown under untreated sewerage irrigation regime due to higher heavy metals accumulation. | Environ Sci Pollut Res Int
+- new | 2023 | 36458641 | Research Support, Non-U.S. Gov't | Allergenicity and IgE Recognition of New Dau c 1 Allergens from Carrot. | Mol Nutr Food Res
+- new | 2022 | 36450872 |  | Degree of Dietary Specialization on Furanocoumarin-Containing Hostplants in a Newly Invasive Web Building Caterpillar. | J Chem Ecol
+- new | 2022 | 35113380 |  | Heavy metals and health risk assessment in vegetables grown in the vicinity of a former non-metallic facility located in Romania. | Environ Sci Pollut Res Int
+- new | 2022 | 35280542 |  | Potential health risks assessment cognate with selected heavy metals contents in some vegetables grown with four different irrigation sources near Lahore, Pakistan. | Saudi J Biol Sci
+- new | 2022 | 35267276 |  | Detection of Peanut Traces in Food by an Official Food Safety Laboratory. | Foods
+- new | 2022 | 35775473 |  | Screening of biosynthesized zinc oxide nanoparticles for their effect on Daucus carota pathogen and molecular docking. | Microsc Res Tech
+- new | 2022 | 34689668 | Retracted Publication | Biosorptive removal of crystal violet dye from aqueous solutions by Ficus religiosa leaves and Daucus carota pomace in ecofriendly way. | Int J Phytoremediation
+- new | 2022 | 35426957 | Research Support, Non-U.S. Gov't | Diverse and mobile: eccDNA-based identification of carrot low-copy-number LTR retrotransposons active in callus cultures. | Plant J
+- new | 2021 | 33833896 | Review | Review of Pharmacological Properties and Chemical Constituents of Pastinaca sativa. | J Pharmacopuncture
+- new | 2021 | 34030418 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Coupling sprinkler freshwater irrigation with vegetable species selection as a sustainable approach for agricultural production in farmlands with a history of 50-year wastewater ir | J Hazard Mater
+- new | 2021 | 34776632 |  | Black carrot anthocyanins exhibit neuroprotective effects against MPP+ induced cell death and cytotoxicity via inhibition of oxidative stress mediated apoptosis. | Cytotechnology
+- new | 2021 | 34579346 |  | Repression of Carotenoid Accumulation by Nitrogen and NH(4)(+) Supply in Carrot Callus Cells In Vitro. | Plants (Basel)
+- new | 2021 | 34170621 |  | Characterization of an Acidic Polysaccharides from Carrot and Its Hepatoprotective Effect on Alcoholic Liver Injury in Mice. | Chem Biodivers
+- new | 2020 | 32151604 |  | Safety assessment of rhamnogalacturonan-enriched carrot pectin fraction: 90-Day oral toxicity study in rats and in vitro genotoxicity studies. | Food Chem Toxicol
+- new | 2020 | 33426336 |  | Quality assessment and potential health risk of heavy metals in leafy and non-leafy vegetables irrigated with groundwater and municipal-waste-dominated stream in the Western Region | Heliyon
+- new | 2019 | 30392168 | Letter | Screening for natural medicines effective for the treatment of osteoporosis. | J Nat Med
+- new | 2019 | 31330195 | Research Support, Non-U.S. Gov't | Detection of unprecedented allene oxide synthase member of CYP74B subfamily: CYP74B33 of carrot (Daucus carota). | Biochim Biophys Acta Mol Cell Biol Lipid
+- new | 2019 | 31144001 |  | Dissecting the genetic control of root and leaf tissue-specific anthocyanin pigmentation in carrot (Daucus carota L.). | Theor Appl Genet
+- new | 2018 | 29674280 |  | The chemotherapeutic effect of β-2-himachalen-6-ol in chemically induced skin tumorigenesis. | Biomed Pharmacother
+- new | 2018 | 29546679 |  | Protective effects of purple carrot extract (Daucus carota) against rat tongue carcinogenesis induced by 4-nitroquinoline 1-oxide. | Med Oncol
+- new | 2017 | 27951746 |  | Glutathione sulfotransferase inhibition activity of a self-fermented beverage, Kanji. | Pharm Biol
+- new | 2017 | 28871548 |  | Studying Individual Plant AOX Gene Functionality in Early Growth Regulation: A New Approach. | Methods Mol Biol
+- new | 2017 | 28872682 | Comparative Study | β-2-himachalen-6-ol protects against skin cancer development in vitro and in vivo. | J Pharm Pharmacol
+- new | 2017 | 28073348 |  | Wild carrot pentane-based fractions suppress proliferation of human HaCaT keratinocytes and protect against chemically-induced skin cancer. | BMC Complement Altern Med
+- new | 2017 | 28959639 |  | Assessment of the potential health risks associated with the aluminium, arsenic, cadmium and lead content in selected fruits and vegetables grown in Jamaica. | Toxicol Rep
+- new | 2017 | 28782499 |  | Antitumor activity of β-2-himachalen-6-ol in colon cancer is mediated through its inhibition of the PI3K and MAPK pathways. | Chem Biol Interact
+- new | 2017 | 27764685 |  | Assessing the impact of geogenic chromium uptake by carrots (Daucus carota) grown in Asopos river basin. | Environ Res
+- new | 2016 | 27127313 |  | Carrot (Daucus carota L.): Nephroprotective against gentamicin-induced nephrotoxicity in rats. | Indian J Pharmacol
+- HELD REF-2715 | 2015 | 25856705 |  | Antioxidant and hepatoprotective activities of the oil fractions from wild carrot (Daucus carota ssp. carota). | Pharm Biol
+- new | 2015 | 26247897 | Research Support, Non-U.S. Gov't | Ecotoxicity of neutral red (dye) and its environmental applications. | Ecotoxicol Environ Saf
+- new | 2015 | 25904232 | Research Support, Non-U.S. Gov't | Transfer model of lead in soil-carrot (Daucus carota L.) system and food safety thresholds in soil. | Environ Toxicol Chem
+- new | 2015 | 27069613 |  | Does origin always matter? Evaluating the influence of nonlocal seed provenances for ecological restoration purposes in a widespread and outcrossing plant species. | Ecol Evol
+- new | 2014 | 24102077 | Case Reports | Systemic allergic dermatitis caused by Apiaceae root vegetables. | Contact Dermatitis
+- new | 2014 | 24464601 | Research Support, Non-U.S. Gov't | Heavy metals bioconcentration from soil to vegetables and assessment of health risk caused by their ingestion. | Biol Trace Elem Res
+- new | 2014 | 23876154 |  | Exploring insights for virulent gene inhibition of multidrug resistant Salmonella typhi, Vibrio cholerae, and Staphylococcus areus by potential phytoligands via in silico screening | J Biomol Struct Dyn
+- new | 2013 | 23627459 | Research Support, Non-U.S. Gov't | Molecular characterisation of a calmodulin gene, VcCaM1, that is differentially expressed under aluminium stress in highbush blueberry. | Plant Biol (Stuttg)
+- new | 2013 | 24079518 | Research Support, Non-U.S. Gov't | Prediction model for cadmium transfer from soil to carrot (Daucus carota L.) and its application to derive soil thresholds for food safety. | J Agric Food Chem
+- new | 2013 | 23498592 | Letter/Research Support, Non-U.S. Gov't | Identification of allergen-resolved threshold doses of carrot (Daucus carota) by means of oral challenge and ELISA. | J Allergy Clin Immunol
+- new | 2013 | 30722556 |  | First Report of Pythium recalcitrans Causing Cavity Spot of Carrot in Michigan. | Plant Dis
+- new | 2012 | 22093066 | Research Support, Non-U.S. Gov't | Identification of a Dau c PRPlike protein (Dau c 1.03) as a new allergenic isoform in carrots (cultivar Rodelika). | Clin Exp Allergy
+- new | 2012 | 22085278 | Comparative Study/Research Support, Non-U.S. Gov't | Effects of dietary fruits, vegetables and a herbal tea on the in vitro transport of cimetidine: comparing the Caco-2 model with porcine jejunum tissue. | Pharm Biol
+- new | 2011 | 22016300 | Case Reports/Letter | Phytophotodermatitis due to wild carrot decoction. | Indian J Dermatol Venereol Leprol
+- new | 2011 | 21046078 | Validation Study | Development and in-house validation of allergen-specific ELISA tests for the quantification of Dau c 1.01, Dau c 1.02 and Dau c 4 in carrot extracts (Daucus carota). | Anal Bioanal Chem
+- new | 2010 | 19834694 | Research Support, Non-U.S. Gov't | Gene transcription analysis of carrot allergens by relative quantification with single and duplex reverse transcription real-time PCR. | Anal Bioanal Chem
+- new | 2009 | 19923716 | Research Support, Non-U.S. Gov't | Structure of the major carrot allergen Dau c 1. | Acta Crystallogr D Biol Crystallogr
+- new | 2008 | 18491912 | Research Support, Non-U.S. Gov't | Novel mechanism of modulating natural antioxidants in functional foods: involvement of plant growth promoting Rhizobacteria NRRL B-30488. | J Agric Food Chem
+- new | 2006 | 16496592 | Research Support, Non-U.S. Gov't | Radiation processing to ensure safety of minimally processed carrot (Daucus carota) and cucumber (Cucumis sativus): optimization of dose for the elimination of Salmonella Typhimuri | J Food Prot
+- new | 2006 | 16650471 | Research Support, Non-U.S. Gov't | Cultivation of garden vegetables in Peoria Pool sediments from the Illinois River: a case study in trace element accumulation and dietary exposures. | Environ Int
+- new | 2004 | 18943479 |  | Biopriming of Infected Carrot Seed with an Antagonist, Clonostachys rosea, Selected for Control of Seedborne Alternaria spp. | Phytopathology
+- new | 2003 | 12520332 | Research Support, Non-U.S. Gov't | Cytokinins: new apoptotic inducers in plants. | Planta
+- new | 2002 | 12112294 | Research Support, Non-U.S. Gov't | Peroxynitrite scavenging activity of herb extracts. | Phytother Res
+- new | 2002 | 12111711 | Comparative Study/Research Support, Non-U.S. Gov't | Monitoring urban air particulate matter (fractions PM 2.5 and PM 10) genotoxicity by plant systems and human cells in vitro: a comparative analysis. | Teratog Carcinog Mutagen
+- HELD REF-2615 | 2001 | 11205076 | Case Reports | A fatal case of apparent water hemlock poisoning. | Vet Hum Toxicol
+- new | 1999 | 10336602 | Research Support, Non-U.S. Gov't | Molecular characterization of Dau c 1, the Bet v 1 homologous protein from carrot and its cross-reactivity with Bet v 1 and Api g 1. | Clin Exp Allergy
+- new | 1995 | 7500638 |  | Hepatoprotective activity of carrot (Daucus carota L.) against carbon tetrachloride intoxication in mouse liver. | J Ethnopharmacol
+- new | 1994 | 8003696 | Research Support, Non-U.S. Gov't | The highly edited orf206 in Oenothera mitochondria may encode a component of a heme transporter involved in cytochrome c biogenesis. | Plant Mol Biol
+- new | 1988 | 24226539 |  | Ethanol production and toxicity in suspension-cultured carrot cells and embryos. | Planta
+- new | 1987 | 3595486 |  | Methyl mercury toxicity in plant cultures: modification of resistance and demethylation by light and/or 2,4-dichlorophenoxyacetic acid. | Ecotoxicol Environ Saf
+- new | 1987 | 2821918 | Research Support, Non-U.S. Gov't | Chlorogenic acid biosynthesis: characterization of a light-induced microsomal 5-O-(4-coumaroyl)-D-quinate/shikimate 3'-hydroxylase from carrot (Daucus carota L.) cell suspension cu | Arch Biochem Biophys
+- new | 1986 | 16664660 |  | Calcium transport in tonoplast and endoplasmic reticulum vesicles isolated from cultured carrot cells. | Plant Physiol
+- new | 1984 | 16663623 |  | Comparative effects of ethylene and cyanide on respiration, polysome prevalence, and gene expression in carrot roots. | Plant Physiol
+- new | 1984 | 6510322 |  | Relative resistance of and delayed toxicity in undifferentiated plant cells to methyl mercury. | Ecotoxicol Environ Saf
+- new | 1978 | 17847331 |  | Morphogenetic Responses of Cultured Totipotent Cells of Carrot (Daucus carota var. carota) at Zero Gravity. | Science
+- HELD REF-2724 | 1976 | 992821 |  | Estrogenic and pregnancy interceptory effects of carrot daucus carota seeds. | Indian J Exp Biol
+
+### PubMed OBS - 2 hits, 1 not already listed above, 1 new
+- new | 2024 | 38512863 |  | Parasitic contamination of fresh vegetables and fruits sold in open-air markets in peri-urban areas of Jimma City, Oromia, Ethiopia: A community-based cross-sectional study. | PLoS One
+
+### PubMed REV - 39 hits, 23 not already listed above, 21 new
+- new | 2025 | 41440172 | Review | Somatic Embryogenesis: A Biotechnological Route in the Production of Recombinant Proteins. | BioTech (Basel)
+- new | 2025 | 40699870 | Review | The Known Unknowns: An Enigmatic Pathway of C(17)-Polyacetylenic Oxylipins in Carrot (Daucus carota L.). | Curr Issues Mol Biol
+- new | 2024 | 39619954 | Review | From Root to Seed: Unearthing the Potential of Carrot Processing and Comprehensive Utilization. | Food Sci Nutr
+- HELD REF-2708 | 2023 | 38202401 | Review | The Wild Carrot (Daucus carota): A Phytochemical and Pharmacological Review. | Plants (Basel)
+- new | 2023 | 35975861 | Review | Chlorogenic Acid: A Dietary Phenolic Acid with Promising Pharmacotherapeutic Potential. | Curr Med Chem
+- new | 2023 | 38148861 | Review | The advent of plant cells in bioreactors. | Front Plant Sci
+- new | 2023 | 38079026 | Review | Exploitation of tolerance to drought stress in carrot (Daucus carota L.): an overview. | Stress Biol
+- new | 2022 | 35832515 | Review/Retracted Publication | Prevention and Treatment of Cardiovascular Diseases with Plant Phytochemicals: A Review. | Evid Based Complement Alternat Med
+- new | 2021 | 34575872 | Review | Impact of Genomic and Transcriptomic Resources on Apiaceae Crop Breeding Strategies. | Int J Mol Sci
+- new | 2020 | 32784714 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S./Review | Carrot Anthocyanins Genetics and Genomics: Status and Perspectives to Improve Its Application for the Food Colorant Industry. | Genes (Basel)
+- new | 2019 | 31546950 | Review | Phytochemicals in Daucus carota and Their Health Benefits-Review Article. | Foods
+- new | 2019 | 31231527 | Review | Advances in research on the carrot, an important root vegetable in the Apiaceae family. | Hortic Res
+- new | 2019 | 31783600 | Review | Green Chemistry Extractions of Carotenoids from Daucus carota L.-Supercritical Carbon Dioxide and Enzyme-Assisted Methods. | Molecules
+- new | 2018 | 29485125 | Review | Plant reference genes for development and stress response studies. | J Biosci
+- new | 2018 | 29908576 | Review | Traditional and ethnobotanical dermatology practices in Romania and other Eastern European countries. | Clin Dermatol
+- new | 2015 | 26323798 | Review | Alternative methods for feline fertility control: Use of melatonin to suppress reproduction. | J Feline Med Surg
+- HELD REF-2710 | 2015 | 26451696 | Review | Bioactive C₁₇-Polyacetylenes in Carrots (Daucus carota L.): Current Knowledge and Future Perspectives. | J Agric Food Chem
+- new | 2015 | 25572939 | Review | Carrot cells: a pioneering platform for biopharmaceuticals production. | Mol Biotechnol
+- new | 2013 | 23876238 | Research Support, Non-U.S. Gov't/Review | Biosynthesis of carotenoids in carrot: an underground story comes to light. | Arch Biochem Biophys
+- new | 2013 | 24688688 | Review | Untargeted metabolomics: an emerging approach to determine the composition of herbal products. | Comput Struct Biotechnol J
+- new | 2006 | 30000953 | Review | Carrot. | 
+- new | 2000 | 11108390 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S./Review | Biology, ecology, and management of the bulb mites of the genus Rhizoglyphus (Acari: Acaridae). | Exp Appl Acarol
+- new | 1994 | 7981037 | Review | Mechanisms of the proliferation and differentiation of plant cells in cell culture systems. | Int J Dev Biol
+
+### ClinicalTrials.gov - 34 registered studies
+- NCT05873933 | WITHDRAWN | results=False | NA | An Investigation of a Multi-Function Skincare Product to Improve Aging, Eczema, and Acne Outcomes | conds: Acne, Eczema, Skin Aging | intr: Hemptress Oil
+- NCT04323826 | COMPLETED | results=False | NA | Effect of the Type and Emulsification of Dietary Fat on the Carotenoids Absorption | conds: Carotenoids | intr: olive oil-water mixture, olive oil-water emulsion, coconut oil-water mixture, coconut oil-water emul | pubs: ['41117881:DERIVED (new)', '36921903:DERIVED (new)']
+- NCT06985381 | ACTIVE_NOT_RECRUITING | results=False | NA | ESAN III - Energy Sensing in Depression | conds: Obesity, Gut Microbiota Modulation, Immunomodulation | intr: Carotenoid-rich juice, Control
+- NCT06748313 | COMPLETED | results=False | NA | Fermented Food - Achars (fermented Pickles) in Pakistan | conds: Maternal Health, Gut Health | intr: Mango Pickle (Water-Based), Mango Pickle (Oil Based), Carrot Pickle (Water-Based), Radish Pickle (Wa
+- NCT02696811 | COMPLETED | results=False | NA | The Effects of Foods on Cell Damage Study | conds: DNA Damage, Inflammation | intr: White carrots, Oat biscuits
+- NCT06021639 | COMPLETED | results=False | NA | Comparison of Bowel Cleansing Regimens for Colonoscopy | conds: Colonoscopy Preparation | intr: The last 24 hours will consume low fiber food.
+- NCT03478631 | UNKNOWN | results=False | PHASE3 | Dietary Nitrate on Blood Pressure and Cardiovascular Disease Risk Factors | conds: Hypertension, Blood Pressure, High | intr: High-nitrate dehydrated vegetable powder, Low-nitrate dehydrated vegetable powder
+- NCT07530939 | RECRUITING | results=False | NA | The Relationship Between Satiety Per Calorie (SPC) and Food Intake | conds: Healthy | intr: body composition measurements
+- NCT04103775 | TERMINATED | results=False | NA | Mechanisms of Cognitive Change | conds: Psychosis | intr: Cognitive Remediation, Active Control
+- NCT02550483 | COMPLETED | results=False | NA | Novel Metabolites of Beta-Carotene and Lycopene | conds: Healthy | intr: Base diet + high beta-carotene tomato juice, Base diet + high lycopene tomato juice, Base diet + pla | pubs: ['30239552:DERIVED (new)']
+- NCT06335420 | RECRUITING | results=False | NA | Prophylactic Properties of Carrot Juice in Patients With High-Risk Colorectal Polyps | conds: Colorectal Cancer Prevention | intr: Carrot juice from Yellowstone carrots cultivars, Placebo juice | pubs: ['41314836:DERIVED (new)']
+- NCT03062527 | COMPLETED | results=False | NA | Effect of Glycemic Index on Physical Capacity in Runners | conds: Nutrition, Sport, Glycemic Index, Physical Capacity | intr: Dietary Intervention: Low vs. moderate glycemic index
+- NCT05492253 | COMPLETED | results=False | NA | First Complementary Foods and the Infant Gastrointestinal Microbiota | conds: Healthy Participants, Infants, Gastrointestinal Microbiota | intr: Infant fruit, Infant vegetable, Infant meat, Infant grain | pubs: ['41825736:DERIVED (new)']
+- NCT06686004 | COMPLETED | results=False | NA | Bioavailability Trial | conds: Absorption, Metabolism and Excretion in Healthy Volunteers, Bioavailability and AUC | intr: Carrots
+- NCT01895816 | COMPLETED | results=False | PHASE3 | Herbal Tonic Fertile Supplement(ZO2C5) | conds: Male Infertility | intr: coated tablet
+- NCT02696473 | COMPLETED | results=False | NA | The Bioavailability of Polyacetylenes From Carrots Study | conds: Healthy | intr: Carrot
+- NCT03031886 | COMPLETED | results=False | NA | Energy Flux and Fat Oxidation Using Low and High Glycaemic Index Foods | conds: Type 2 Diabetes, Obesity, PreDiabetes | intr: low glycaemic index intervention, high glycaemic index intervention
+- NCT03407794 | COMPLETED | results=True | NA | Effects of Fermented Vegetables on Gut Microflora and Inflammation in Women | conds: Inflammation, Women's Health, Gastrointestinal Microbiome | intr: Fermented vegetable, Non-fermented vegetable
+- NCT06476990 | COMPLETED | results=False | NA | Food Rx + Community Health Worker | conds: Diabetes Type 2 | intr: Healthy food box | pubs: ['41699557:DERIVED (new)']
+- NCT01564498 | UNKNOWN | results=False | PHASE1 | Effects of Purple Vegetables on Cardiovascular Disease (CVD) Risk Factors | conds: Hypertension, Hypercholesterolemia, Type II Diabetes, Obesity | intr: vegetable
+- NCT07141290 | COMPLETED | results=False | EARLY_PHASE1 | Motor Control Exergame | conds: Proprioception Knee, Healthy Volunteers | intr: Silent fish and bunny game, Sound supported fish and bunny game | pubs: ['41747255:DERIVED (new)']
+- NCT07800650 | COMPLETED | results=False | NA | Low-FODMAP vs Gluten-Free Diet in Irritable Bowel Syndrome | conds: Irritable Bowel Syndrome | intr: Low-FODMAP Diet, Gluten-Free Diet
+- NCT01978041 | COMPLETED | results=False | PHASE1 | Fluoride Bioavailability After Ingestion of Water or Foods Prepared With Fluoridated Water | conds: Dental Caries, Dental Fluorosis | intr: Meal prepared with non fluoridated water, Meal prepared with fluoridated water, Non fluoridated wate
+- NCT01694043 | COMPLETED | results=False | NA | The Effect of Watching a Television Show on the Liking of Snack Foods | conds: Measure Grams and Kcals of Snack Foods Consumed in Each Condition | intr: Healthy Foods, Unhealthy Snack Foods
+- NCT05308615 | COMPLETED | results=False | NA | Randomized Controlled Clinical Trial to Evaluate The Efficacy and Safety of Healthtone as Prophylaxis for COVID-19 | conds: COVID-19 | intr: Rhea® Health Tone
+- NCT01454674 | COMPLETED | results=False | NA | The Vegetable Dose Response Study: Effects of Consumption on Inflammation and Oxidative Stress | conds: Chronic Disease | intr: 2, 5 & 10 Vegetable doses
+- NCT03410342 | COMPLETED | results=False | NA | The Effects of Types of Fruits and Vegetables on Vascular Function | conds: Blood Pressure, Vascular Stiffness, Cardiovascular Risk Factor | intr: LFV, HFV, CC
+- NCT06466408 | UNKNOWN | results=False | NA | Effect of Vegetable and Fruit Enzyme Supplementation on Muscle Activation, Aerobic Capacity, and Blood Biochemical Parameters After High-Int | conds: Overtraining Syndrome | intr: Supplementation Protocol, Blood Lactate Test, Training Impulse, Exergaming HIIE Test
+- NCT05319548 | COMPLETED | results=False | NA | Plant Pigments for Human Health: Impact of Lycopene and Anthocyanins on Bioefficacy of Provitamin A Carotenoids From Carrots | conds: Healthy | intr: Purple-Red Carrot Juice, Red Carrot Juice, Purple Carrot Juice
+- NCT06866626 | COMPLETED | results=False | NA | Impact of Harvest Lentil Vegetable Blend and Nutrition Education on Turkana Children's Health Outcomes | conds: Malnutrition, Child | intr: Theory-Based Nutrition Education Intervention to Improve Infant and Young Child Feeding Practices an
+- NCT07511699 | NOT_YET_RECRUITING | results=False | NA | Produce Prescriptions and Veggie Meter Scores for College Food Security | conds: Food Insecurity, Carotenoid Status, Produce Prescription | intr: Produce boxes
+- NCT04308473 | COMPLETED | results=False | NA | Analysis of MicroBial Metabolites After Eating Refined Food | conds: Dietary Habits | intr: Ultra-processed Food Meal, Whole Food Meal
+- NCT05621863 | COMPLETED | results=False | NA | Fruit and Vegetable Biomarker Discovery | conds: Biomarkers | intr: Aim 1 Meal Challenge 1, Aim 1 Meal Challenge 2, Aim 1 Meal Challenge 3, Aim 2 Typical American Diet | pubs: ['40641655:DERIVED (new)']
+- NCT07958756 | NOT_YET_RECRUITING | results=False | NA | A Clinical Feasibility Study of Falcarinol- and Falcarindiol-Rich Carrot Juice as Treatment for Chronic Pouchitis | conds: Chronic Pouchitis | intr: FaOH- and FaDOH-rich carrot juice
+
+### OpenAlex no-PMID trial-worded - 4058 hits, 69 without PMID, 69 new
+- new | 2026 | 10.1017/wsc.2026.10151 | article | Predictive mapping of wild carrot (Daucus carota ssp. carota) in central Oregon | Weed Science
+- new | 2026 | 10.1038/s41598-026-76296-0 | article | NPSBZn fertilizer rate and variety effects on carrot yield, quality, and soil acidity in the central highlands of Ethiopia: a two-year field trial | Scientific Reports
+- new | 2025 | 10.1071/cp24320 | article | Natural genetic adaptation allows flexible reproductive behaviour: the case of wild carrot (Daucus carota L. subsp. carota) vs cultivated carrot (Daucus carota L. subsp. sativus) | Australian Journal of Agricultural Resea
+- new | 2025 | 10.1111/rec.70002 | article | Volunteer plants obscure the benefits of seed mixes for wild pollinator communities | Restoration Ecology
+- new | 2025 | 10.32793/jmkg.v11i2.412 | article | Efektivitas Berkumur Jus Wortel (Daucus Carota l.) Terhadap Indeks Plak Pasien Prolanis: Effectiveness Carrot Juice (Daucus carota l.) Gargling The Plaque Index Prolanic Patients | Jurnal Material Kedokteran Gigi
+- new | 2025 | https://openalex.org/W7132328059 | dissertation | HPLC-Based Evaluation of Vitamin C Bioavailability Following the Consumption of Plant-Based Juices: A Randomized, Controlled Intervention Study Using Daucus carota subsp. sativus a | FH JOANNEUM ePUB
+- new | 2024 | 10.1016/j.jafr.2024.101213 | article | Comparing vegetative growth patterns of cultivated (Daucus carota L. subsp. sativus) and wild carrots (Daucus carota L. subsp. carota) to eliminate genetic contamination from weed  | Journal of Agriculture and Food Research
+- new | 2024 | 10.18585/inabj.v16i3.3023 | article | The Combination of Gardenia jasminoides, Boswellia serrata, Commiphora myrrha, Foeniculum vulgarae, and Daucus carota Essential Oil Blend Improved the Inflammatory and Clinical Sta | The Indonesian Biomedical Journal
+- new | 2024 | 10.1016/j.scienta.2024.113387 | article | GGE biplot analysis for yield performance and stability assessment of carrot genotypes (Daucus carota L.) under multi-environment trials (METs) | Scientia Horticulturae
+- new | 2024 | 10.20868/upm.thesis.85751 | dissertation | Evolution and ecology of virus host range and host utilisation in a heterogeneous ecosystem | 
+- new | 2023 | 10.2174/18741045-v17-e230414-2022-8 | article | Phyto-Extracts and Silicone Gel (JUMI) in Reduction of Surgical Scar Post-joint Arthroplasty. A Randomized Control Trial | The Open Medicinal Chemistry Journal
+- new | 2023 | https://openalex.org/W7209541906 | report | Master Gardener 2023 Seed Trials: Results and Observations | University of Minnesota Digital Conserva
+- new | 2023 | https://openalex.org/W7217318383 | article | Development and characterisation of blended carrot (Daucus carota L.) juice | Indian Journal of Hill Farming
+- new | 2023 | 10.1088/1755-1315/1230/1/012026 | conference-paper | Fortification of carrot (Daucus carota L.) and snakehead fish (Channa striata) in bagea product for nutrition fulfillment patients of type II diabetes mellitus (DM) | IOP Conference Series Earth and Environm
+- new | 2022 | 10.1002/ndr2.12097 | article | First report of Apium virus Y in wild carrot (Daucus carota ssp. carota) in Spain | New Disease Reports
+- new | 2022 | 10.32598/jsmj.21.4.2923 | article | Preparation of Sepestan Anti-cough Syrup and Comparison of its Effectiveness With Diphenhydramine Syrup in Treating Cough in Children With Upper Respiratory Tract Infection: A Doub | مجله علمی پزشکی جندی شاپور
+- new | 2022 | 10.46676/ij-fanres.v3i3.100 | article | The Effect of Tempeh Substitution and Carrot (Daucus carota L.) Addition on The Acceptance and Nutrition of Lempuk Nugget (Gobiopterus sp.) as A Snack for PEM Patient | International Journal on Food Agricultur
+- new | 2020 | 10.1002/csc2.20333 | article | Wild carrot diversity for new sources of abiotic stress tolerance to strengthen vegetable breeding in Bangladesh and Pakistan | Crop Science
+- new | 2020 | 10.46607/iamj05p5012020 | article | RANDOMIZED OPEN LABELLED CLINICAL TRIAL OF HERBAL COOKIES AND HERBAL SOUP ON DYSMENORRHOEA – A GUJCOST SPONSORED MINOR RESEARCH PROJECT | International Ayurvedic Medical Journal
+- new | 2019 | 10.5334/cstp.201 | article | Wild Carrot (Daucus carota) Management in the Dungeness Valley, Washington, United States: The Power of Citizen Scientists to Leverage Policy Change | Citizen Science Theory and Practice
+- new | 2019 | 10.17660/actahortic.2019.1242.9 | conference-paper | Quality differences between organic and conventional field grown vegetables – experiences from a Swedish long-term field trial | Acta Horticulturae
+- new | 2019 | 10.1007/s40093-019-00312-9 | article | Maximizing rice husk waste for Daucus carota production | International Journal Of Recycling of Or
+- new | 2017 | 10.1139/cjps-2017-0131 | article | Control of wild carrot (Daucus carota L.) in corn, soybean, and winter wheat | Canadian Journal of Plant Science
+- new | 2017 | 10.26722/rpmi.2017.21.41 | article | Efecto de Maytenus krukovii "Chuchuhuasi" en el tratamiento de osteoartrosis leve-moderada. Ensayo clínico aleatorizado doble-ciego, controlado con placebo. | Revista Peruana de Medicina Integrativa
+- new | 2016 | 10.26756/th.2016.3 | dissertation | The anticancer effect of β-2 himachalen-6-ol from Lebanese wild carrot on human acute myeloid leukemia cells. (c2016) | 
+- new | 2016 | 10.1080/14735903.2015.1137685 | article | Volunteer farmer-trainer motivations in East Africa: practical implications for enhancing farmer-to-farmer extension | International Journal of Agricultural Su
+- new | 2015 | 10.6084/m9.figshare.1558653 | dataset | Sampling Wild Carrots in the Danby Grassland using Transects | Figshare
+- new | 2015 | 10.6084/m9.figshare.1558288 | dataset | Biodiversity of species on the grassland of Stong Pond, York University. | Figshare
+- new | 2015 | 10.31258/sagu.v13i2.2577 | article | PEMANFAATAN WORTEL (Daucus carota L.) DALAM MENINGKATKAN MUTU NUGGET TEMPE | 
+- new | 2014 | 10.6084/m9.figshare.1232112 | dataset | the effect of power lines on plant growth data/metadata | Figshare
+- new | 2014 | 10.6084/m9.figshare.1234068 | dataset | Correlation between plant height and distance from power line | Figshare
+- new | 2013 | 10.1590/s0100-83582013000200004 | article | Seed bank modelling of volunteer oil seed rape: from seeds fate in the soil to seedling emergence | Planta Daninha
+- new | 2013 | 10.3329/agric.v11i1.15246 | article | Effect of Nitrogen on the Growth and Yield of Carrot (Daucus carota L.) | The Agriculturists
+- new | 2011 | https://openalex.org/W2264783181 | conference-abstract | Development of Random Amplified Polymorphic DNA (RAPD) Marker Related to Seed-hair Characteristic of Daucus carota var. sativa | 한국원예학회 학술발표요지
+- new | 2011 | 10.1016/j.jscs.2011.06.011 | article | Removal of cationic methylene blue and malachite green dyes from aqueous solution by waste materials of Daucus carota | Journal of Saudi Chemical Society
+- new | 2010 | https://openalex.org/W2345547404 | article | Weed Management in Horticultural Crops: Research Results 2010 | The Knowledge Bank (The Ohio State Unive
+- new | 2010 | https://openalex.org/W2328979117 | article | Anti-Dementia Potential of Daucus carota Seed Extract in Rats | Pharmacologyonline
+- new | 2009 | https://openalex.org/W2271081555 | conference-abstract | Development of Random Amplified Polymorphic DNA (RAPD) Markers Related Hairless Seed Characteristic in Daucus carota var. sativa | 한국원예학회 학술발표요지
+- new | 2007 | https://openalex.org/W103245786 | article | Integrated nutrient management in carrot (Daucus carota L.) | 
+- new | 2005 | 10.1614/wt-04-334r2.1 | article | Alternative to Hand-Weeding Volunteer Potato (Solanum tuberosum) in Carrot (Daucus carota)1 | Weed Technology
+- new | 2005 | https://openalex.org/W2276937016 | article | Performance of temperate carrot (Daucus carota) genotypes including F1 hybrids and varieties in multi-location trials* | The Indian Journal of Agricultural Scien
+- new | 2005 | 10.1111/j.1744-7909.2005.00077.x | article | Analysis of the Genetic Structure of Sclerotinia sclerotiorum (Lib.) de Bary Populations from Different Regions and Host Plants by Random Amplified Polymorphic DNA Markers | Journal of Integrative Plant Biology
+- new | 2004 | https://openalex.org/W2336528358 | article | Trials of chemical control of the carrot cyst nematode in Sicily [Daucus carota L.] | Informatore fitopatologico
+- new | 2004 | 10.1614/wt-03-202r1 | article | Response of Biennial and Perennial Weeds to Selected Herbicides and Prepackaged Herbicide Combinations in Grass Pastures and Hay Fields | Weed Technology
+- new | 2004 | 10.21273/hortsci.39.4.801b | article | Carrot Cultivar Trials in Oklahoma | HortScience
+- new | 2004 | 10.21273/hortsci.39.4.851a | article | Yield and Fruiting Characteristics of 28 Selections in the Kentucky Pawpaw Cultivar Trial | HortScience
+- new | 2002 | https://openalex.org/W589892726 | dissertation | The process of conducting herbal medicine research through the clinical trials exemption scheme | Middlesex University Research Repository
+- new | 2001 | 10.17660/actahortic.2001.546.10 | conference-paper | EVALUATION OF CARROT GENETIC SUBSTRUCTURE: COMPARISON OF THE EFFICIENCY OF MAPPED MOLECULAR MARKERS WITH RANDOMLY CHOSEN MARKERS | Acta Horticulturae
+- new | 2000 | 10.21273/hortsci.35.4.567c | article | Herbaceous Plant Trial Results—1999 | HortScience
+- new | 2000 | 10.21273/hortsci.35.4.563e | article | Integrating Plant Trials into Teaching and Graduate Research Programs | HortScience
+- new | 2000 | 10.21273/hortsci.35.4.564b | article | Horticultural Trials: Balancing Academic Goals with Industry Support | HortScience
+- new | 2000 | 10.21273/hortsci.35.4.564e | article | Using Hanging Baskets and Containers in Garden Trials at the University of Tennessee | HortScience
+- new | 1999 | 10.21273/hortsci.34.3.466e | article | Survey of Virginia Master Gardener Volunteer Management | HortScience
+- new | 1999 | 10.21273/hortsci.34.3.466d | article | The Ripple Effect: Training Veteran Master Gardeners to Train Incoming Volunteers | HortScience
+- new | 1999 | 10.21273/jashs.124.1.32 | article | Effects of Plant Tissue and DNA Purification Method on Randomly Amplified Polymorphic DNA-based Genetic Fingerprinting Analysis in Carrot | Journal of the American Society for Hort
+- new | 1999 | 10.21273/hortsci.34.3.483a | article | Rootstock and Scion Trials for Lemon in Arizona | HortScience
+- new | 1999 | https://openalex.org/W2298181609 | report | Muck Vegetable Cultivar Trial and Research Report 1999 | The Atrium (University of Guelph)
+- new | 1997 | 10.1023/a:1002901112164 | article | Genetic variation of mitochondrial and nuclear genomes in carrots revealed by random amplified polymorphic DNA (RAPD) | Euphytica
+- new | 1997 | 10.21273/hortsci.32.3.492c | article | Master Gardener–Water Stewards: Advanced Training to Enhance Community Volunteerism | HortScience
+- new | 1997 | 10.21273/hortsci.32.3.435a | article | Nematicide Trials on Paprika Pepper | HortScience
+- new | 1997 | 10.21273/hortsci.32.3.503e | article | Vegetable Variety Trial Programs: Opportunities and Challenges at Auburn University | HortScience
+- new | 1996 | 10.2307/2426878 | article | The Influence of Dark Central Florets on Insect Attraction and Fruit Production in Queen Anne's Lace (Daucus carota L.) | The American Midland Naturalist
+- new | 1990 | 10.1007/978-3-642-61499-6_20 | book-chapter | Carrot (Daucus carota L.): In Vitro Productionof Haploids and Field Trials | Biotechnology in agriculture and forestr
+- new | 1986 | https://openalex.org/W2790529835 | article | Varietal trial of selected vegetable crops at Natubling, Buguias: cabbage (Brassica oleracea), carrots (Daucus carota L.) and garden pea (Pisum sativum)[Philippines] | 
+- new | 1985 | 10.21273/hortsci.20.3.449 | article | Training Volunteer Fieldmen to Conduct Trials for Minor Crop Herbicide Registrations | HortScience
+- new | 1979 | 10.1080/00288233.1979.10420860 | article | Pathogenicity and control of Alternaria radicina and A. dauci in carrots | New Zealand Journal of Agricultural Rese
+- new | 1972 | https://openalex.org/W781358973 | article | A trial with three new pre-em. herbicides in carrots (Daucus carota). | 
+- new | 1970 | https://openalex.org/W2175602873 | article | Two-year trials on the phosphorus and nitrogen fertilizing of carrot (Daucus carota, L.). | 
+- new | 1959 | 10.1007/bf00022434 | article | Problems in the design of variety trials with spring cabbage | Euphytica
+
+## dioscorea-villosa (Dioscorea villosa) - name clause: "Dioscorea villosa"[tiab] OR "wild yam"[tiab] OR "Mexican wild yam"[tiab] OR "diosgenin"[ti]
+
+### PubMed HT - 15 hits, 15 not already listed above, 13 new
+- new | 2026 | 42497519 |  | Yin-Huang-Qing-Fei-Capsule derived diosgenin and its optimized nanoconjugate target STAT3 against pulmonary fibrosis. | Phytomedicine
+- new | 2025 | 41373986 |  | The Combination of Diosgenin, Vitamin D, and α-Lactalbumin Normalizes the Menstrual Cycle in Women with PCOS of Phenotype D: A Pilot Clinical Study. | Nutrients
+- new | 2025 | 40432831 |  | Food taboos among indigenous pregnant women of Khagrachari District, Bangladesh. | SAGE Open Med
+- new | 2023 | 37494965 |  | Phyto-progestins for the treatment of abnormal uterine bleeding without organic cause in women at high risk for breast cancer and breast cancer survivors: a prospective, pilot stud | Gynecol Endocrinol
+- new | 2018 | 29633800 | Clinical Trial, Phase I | The role of diallyl thiosulfinate associated with nuciferine and diosgenin in the treatment of premature ejaculation: A pilot study. | Arch Ital Urol Androl
+- new | 2017 | 29064406 | Randomized Controlled Trial | Diosgenin-Rich Yam Extract Enhances Cognitive Function: A Placebo-Controlled, Randomized, Double-Blind, Crossover Study of Healthy Adults. | Nutrients
+- new | 2015 | 26391664 | Comparative Study/Randomized Controlled Trial | [Results of a single blind study placebo vs Diallil-Tiosulphinate, Nucipherine and Diosgenin in patients reponders to Tadalafil 5 mg]. | Urologia [ita]
+- HELD REF-0794 | 2014 | 24314619 | Review | Herbal preparations for the menopause: beyond isoflavones and black cohosh. | Maturitas
+- new | 2011 | 22139538 | Review | Complementary and alternative medicine in the treatment of menopausal symptoms. | Chin J Integr Med
+- new | 2010 | 20833608 | Review | Evaluating the evidence for over-the-counter alternatives for relief of hot flashes in menopausal women. | J Am Pharm Assoc (2003)
+- new | 2010 | 20883295 |  | Top 10 botanical ingredients in 2010 anti-aging creams. | J Cosmet Dermatol
+- new | 2006 | 16477892 | Review | Nonhormonal therapies for hot flashes in menopause. | Am Fam Physician
+- new | 2005 | 16167914 | Review | Hot flashes revisited: pharmacological and herbal options for hot flashes management. What does the evidence tell us? | Acta Obstet Gynecol Scand
+- HELD REF-0614 | 2001 | 11428178 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of wild yam extract on menopausal symptoms, lipids and sex hormones in healthy menopausal women. | Climacteric
+- new | 1983 | 17404975 |  | Hybridisation for genetic improvement in the yield of diosgenin from fenugreek seed. | Planta Med
+
+### PubMed SR - 3 hits, 3 not already listed above, 3 new
+- new | 2026 | 41941318 |  | Fenugreek (Trigonella foenum-graecum) and its Active Compounds, Diosgenin and Trigonelline, in the Prevention of Cancer and Aging: A Systematic Review of Preclinical Studies. | Curr Drug Res Rev
+- new | 2025 | 40139421 | Network Meta-Analysis/Systematic Review | Efficacy of mangiferin, kaempferol, and diosgenin on models of depression: A systematic review and network meta-analysis of rodent studies. | Eur J Pharmacol
+- new | 2022 | 36126194 | Systematic Review/Research Support, Non-U.S. Gov't | Therapeutic potential and research progress of diosgenin for lipid metabolism diseases. | Drug Dev Res
+
+### PubMed SAFE - 113 hits, 106 not already listed above, 102 new
+- new | 2027 | 42858480 |  | Spatial metabolomics based on desorption electrospray ionization-ion mobility-mass spectrometry imaging reveals distinct accumulation patterns and biosynthetic sites of diosgenin-t | J Pharm Biomed Anal
+- new | 2027 | 42956668 |  | Design, synthesis, and biological evaluation of diosgenin derivatives containing arylsulfonamide moieties as anti-osteosarcoma agents through modulation of the Hippo pathway. | Eur J Med Chem
+- new | 2026 | 42770809 | Review | Preclinical advances on diosgenin-loaded nanomedicines. | Nanomedicine (Lond)
+- new | 2026 | 41627045 |  | Discovery of a Neuroprotective Diosgenin Derivative as a Novel Antidepressant Candidate Targeting LPS-TLR4 Signaling. | J Med Chem
+- new | 2026 | 41792780 |  | Protective effects of diosgenin against non-alcoholic fatty liver disease through inhibiting the STING-dependent inflammatory pathway. | Eur J Med Res
+- new | 2026 | 42288029 |  | Synthesis, anti-tumor activity, and mechanistic study of triphenylphosphonium (TPP) conjugates of diosgenin. | Eur J Med Chem
+- new | 2026 | 41553617 | Review | Diosgenin-mediated NF-κB and MAPK pathway modulation for osteoarthritis treatment: molecular mechanisms, bioavailability enhancement, and therapeutic applications. | Inflammopharmacology
+- new | 2026 | 41540302 | Review | Therapeutic potential of diosgenin in hepatocellular carcinoma through molecular mechanisms and nanodelivery strategies. | Discov Oncol
+- new | 2026 | 42163995 |  | Synergistic Enhancement of Diosgenin Dissolution and Bioavailability via Ternary Solid Dispersions and Self-Assembled Polymeric Micelles. | Drug Des Devel Ther
+- new | 2026 | 42532183 |  | A highly-sensitive and selective LC-MS/MS platform for quantitative determination of diosgenin in mice plasma with comprehensive bioanalytical validation and pharmacokinetic study. | Ann Pharm Fr
+- new | 2026 | 42480106 |  | Acute and Chronic Toxicity Assessment of Diosgenin Polyethylene Glycol Succinate in Wistar Rats: Safety Evaluation of a Novel Universal Solubilizer. | Int J Toxicol
+- new | 2026 | 42867288 |  | Prophylactic oral diosgenin attenuates acute sleep deprivation-induced liver injury in mice via modulation of the gut microbiota and vascular barrier. | Food Funct
+- new | 2026 | 42819837 | Review | Diosgenin in polyendocrine metabolic ovarian syndrome: modulation of insulin resistance, inflammation, steroidogenesis, and metabolic dysfunction. | Front Endocrinol (Lausanne)
+- new | 2026 | 41998510 |  | Silymarin and serotonin, individually and synergistically, enhance fenugreek resistance to salt stress by modulating pathways involved in chlorophyll biosynthesis, defense system,  | BMC Plant Biol
+- new | 2026 | 42113396 |  | The neuroprotective potential of diosgenin: an integrated in silico, in vitro, and in vivo approach in colchicine-induced Alzheimer's model. | J Comput Aided Mol Des
+- new | 2025 | 40122485 | Research Support, Non-U.S. Gov't | BSS-4, a diosgenin analogue, reduces carrageenan-induced paw inflammation in rat. | Steroids
+- new | 2025 | 40751020 | Review | Role of diosgenin in gastrointestinal cancers: recent trends and future perspectives. | Med Oncol
+- new | 2025 | 40542767 |  | Anti- Cancer Potential of Diosgenin, a Steroidal Saponin, against Human Oral Cancer Cells. | Asian Pac J Cancer Prev
+- new | 2025 | 40160969 | Review | An Updated Review of Molecular Mechanisms Implicated with the Anticancer Potential of Diosgenin and Its Nanoformulations. | Drug Des Devel Ther
+- new | 2025 | 40916420 |  | Diosgenin-loaded Silver Nanoparticles: Dual Protective Role and Enhanced Radiosensitivity against ENU-induced Leukemia and γ-irradiation-induced Liver Toxicity. | Recent Pat Anticancer Drug Discov
+- new | 2025 | 40609810 | Validation Study | Exploring the diosgenin and β-sitosterol content in different populations of Dioscorea deltoidea Wall. ex Griseb: Insights into their antidiabetic activity and genotoxicity. | J Ethnopharmacol
+- new | 2025 | 40812017 | Comparative Study | Antihypertensive potential of diosgenin: A comparative pharmacoinformatics study. | Comput Biol Med
+- new | 2025 | 39805881 | Research Support, Non-U.S. Gov't | Titanium dioxide -mediated regulation of enzymatic and non-enzymatic antioxidants, pigments, and diosgenin content promotes cold stress tolerance in Trigonella foenum-graecum L. | Sci Rep
+- new | 2024 | 39366126 | Review | Plant based steroidal and triterpenoid sapogenins: Chemistry on diosgenin and biological aspects. | Eur J Med Chem
+- new | 2024 | 39059093 |  | Diosgenin alleviates arsenic trioxide induced cardiac fibrosis by inhibiting endothelial mesenchymal transition. | Phytomedicine
+- new | 2024 | 38458224 |  | Therapeutic Potential of Diosgenin in Amelioration of Carbon Tetrachloride-Induced Murine Liver Injury. | Drug Res (Stuttg)
+- new | 2024 | 37944715 |  | Fabrication and evaluation of anticancer potential of diosgenin incorporated chitosan-silver nanoparticles; in vitro, in silico and in vivo studies. | Int J Biol Macromol
+- new | 2024 | 38944952 |  | Diosgenin attenuates metabolic-associated fatty liver disease through the hepatic NLRP3 inflammasome-dependent signaling pathway. | Int Immunopharmacol
+- new | 2024 | 38705555 | Research Support, Non-U.S. Gov't | The neuroprotective effect of Diosgenin in the rat Valproic acid model of autism. | Brain Res
+- new | 2023 | 37767400 | Review | Literature review on hepatoprotective effects of diosgenin: possible mechanisms of action. | Front Pharmacol
+- new | 2023 | 36753603 |  | Biosynthetic Gene Expression and Tissue Distribution of Diosgenin in Dioscorea japonica. | J Agric Food Chem
+- new | 2023 | 37146712 |  | Dietary phytoestrogen diosgenin interrupts metabolism, physiology, and reproduction of Swiss albino mice: Possible mode of action as an emerging environmental contaminant, endocrin | Food Chem Toxicol
+- new | 2022 | 35875677 | Review | Diosgenin and Its Analogs: Potential Protective Agents Against Atherosclerosis. | Drug Des Devel Ther
+- new | 2022 | 34816537 | Research Support, Non-U.S. Gov't | 22R- but not 22S-hydroxycholesterol is recruited for diosgenin biosynthesis. | Plant J
+- new | 2022 | 35085779 | Research Support, Non-U.S. Gov't | Metabolic engineering of Saccharomyces cerevisiae for gram-scale diosgenin production. | Metab Eng
+- new | 2022 | 36248054 |  | Pharmacokinetic Analysis of Diosgenin in Rat Plasma by a UPLC-MS/MS Approach. | J Anal Methods Chem
+- new | 2022 | 34738247 |  | A novel UPLC-MS/MS method for simultaneous quantification of trigonelline, 4-hydroxyisoleucine, and diosgenin from Trigonella foenum-graecum extract: Application to pharmacokinetic | Biomed Chromatogr
+- new | 2022 | 35346012 | Review | Diosgenin: Mechanistic Insights on its Anti-inflammatory Effects. | Antiinflamm Antiallergy Agents Med Chem
+- new | 2022 | 35914860 |  | Diosgenin increases BBC3 expression in HepG2/C3A cells and alters cell communication in a 3D spheroid model. | Mutat Res Genet Toxicol Environ Mutagen
+- new | 2022 | 35157911 | Research Support, Non-U.S. Gov't | Anti-apoptotic effects of diosgenin on ovariectomized hearts. | Steroids
+- new | 2021 | 34541370 | Review | The effects of twenty-one nutrients and phytonutrients on cognitive function: A narrative review. | J Clin Transl Res
+- new | 2021 | 34552341 | Review | The Effects of Diosgenin on Hypolipidemia and Its Underlying Mechanism: A Review. | Diabetes Metab Syndr Obes
+- new | 2021 | 32447972 |  | Pharmacokinetic profile of diosgenin and trigonelline following intravenous and oral administration of fenugreek seed extract and pure compound in rabbit. | J Asian Nat Prod Res
+- new | 2021 | 33995027 |  | Pharmacokinetic Profile and Oral Bioavailability of Diosgenin, Charantin, and Hydroxychalcone From a Polyherbal Formulation. | Front Pharmacol
+- new | 2021 | 34252545 |  | Diosgenin suppresses COX-2 and mPGES-1 via GR and improves LPS-induced liver injury in mouse. | Prostaglandins Other Lipid Mediat
+- new | 2021 | 34324855 |  | Diosgenin exerts anti-tumor effects through inactivation of cAMP/PKA/CREB signaling pathway in colorectal cancer. | Eur J Pharmacol
+- new | 2021 | 32679011 | Research Support, Non-U.S. Gov't | Diosgenin via NMDA Receptor Exerted Anxiolytic-like Effect on Maternally Separated Mice. | Curr Pharm Des
+- new | 2021 | 33922675 |  | Anti-Allergic Diarrhea Effect of Diosgenin Occurs via Improving Gut Dysbiosis in a Murine Model of Food Allergy. | Molecules
+- new | 2020 | 32626765 |  | Diosgenin Exerts Antitumor Activity via Downregulation of Skp2 in Breast Cancer Cells. | Biomed Res Int
+- new | 2020 | 31899316 | Research Support, Non-U.S. Gov't/Review | The role of diosgenin in diabetes and diabetic complications. | J Steroid Biochem Mol Biol
+- new | 2020 | 32781063 | Review | Diosgenin, a steroidal saponin, and its analogs: Effective therapies against different chronic diseases. | Life Sci
+- new | 2020 | 32389705 |  | Protective effect of diosgenin on LPS/D-Gal-induced acute liver failure in C57BL/6 mice. | Microb Pathog
+- new | 2020 | 32017993 | Research Support, Non-U.S. Gov't | Synthesis and anti-tumour, immunomodulating activity of diosgenin and tigogenin conjugates. | J Steroid Biochem Mol Biol
+- new | 2020 | 31469464 |  | New insights into diosgenin biosynthesis pathway and its regulation in Trigonella foenum-graecum L. | Phytochem Anal
+- new | 2020 | 32801637 |  | Soluplus-Mediated Diosgenin Amorphous Solid Dispersion with High Solubility and High Stability: Development, Characterization and Oral Bioavailability. | Drug Des Devel Ther
+- new | 2020 | 32138534 |  | Anti-Apoptotic Effects of Diosgenin in D-Galactose-Induced Aging Brain. | Am J Chin Med
+- new | 2019 | 30640578 | Research Support, Non-U.S. Gov't | Diosgenin exerts its tumor suppressive function via inhibition of Cdc20 in osteosarcoma cells. | Cell Cycle
+- new | 2019 | 31806994 |  | Diosgenin Suppresses Cholangiocarcinoma Cells Via Inducing Cell Cycle Arrest And Mitochondria-Mediated Apoptosis. | Onco Targets Ther
+- new | 2019 | 30609669 |  | Comparative Transcriptome Analysis Identifies Genes Involved in Diosgenin Biosynthesis in Trigonella foenum-graecum L. | Molecules
+- new | 2019 | 31687707 | Review | Effects of diosgenin and its derivatives on atherosclerosis. | Food Funct
+- new | 2019 | 31080828 |  | Diosgenin and Its Fenugreek Based Biological Matrix Affect Insulin Resistance and Anabolic Hormones in a Rat Based Insulin Resistance Model. | Biomed Res Int
+- new | 2019 | 31881805 |  | Induction of G2/M Phase Arrest by Diosgenin via Activation of Chk1 Kinase and Cdc25C Regulatory Pathways to Promote Apoptosis in Human Breast Cancer Cells. | Int J Mol Sci
+- new | 2018 | 30005871 |  | Diosgenin inhibited the expression of TAZ in hepatocellular carcinoma. | Biochem Biophys Res Commun
+- new | 2018 | 29783752 | Review | Pro-Apoptotic and Anti-Cancer Properties of Diosgenin: A Comprehensive and Critical Review. | Nutrients
+- new | 2018 | 29981786 |  | Diosgenin induces genotoxic and mutagenic effects on HepG2 cells. | Food Chem Toxicol
+- HELD REF-2288 | 2018 | 30083104 |  | Hepatoprotective Effect of Steroidal Glycosides From Dioscorea villosa on Hydrogen Peroxide-Induced Hepatotoxicity in HepG2 Cells. | Front Pharmacol
+- new | 2018 | 29309910 | Research Support, Non-U.S. Gov't | The diosgenin prodrug nanoparticles with pH-responsive as a drug delivery system uniquely prevents thrombosis without increased bleeding risk. | Nanomedicine
+- new | 2018 | 29610553 |  | Preventive effect of Dioscorea japonica on squamous cell carcinoma of mouse skin involving down-regulation of prostaglandin E(2) synthetic pathway. | J Clin Biochem Nutr
+- new | 2017 | 28918484 | Review | Drug-Herb Interactions in the Elderly Patient with IBD: a Growing Concern. | Curr Treat Options Gastroenterol
+- new | 2017 | 27995466 |  | Preparation and Evaluation of Diosgenin Nanocrystals to Improve Oral Bioavailability. | AAPS PharmSciTech
+- new | 2017 | 27886644 |  | Oral administration with diosgenin enhances the induction of intestinal T helper 1-like regulatory T cells in a murine model of food allergy. | Int Immunopharmacol
+- new | 2017 | 28954389 |  | Diosgenin a phytosterol substitute for cholesterol, prolongs the lifespan and mitigates glucose toxicity via DAF-16/FOXO and GST-4 in Caenorhabditis elegans. | Biomed Pharmacother
+- new | 2017 | 28255111 |  | [Sirtuin type 1 signaling pathway mediates the effect of diosgenin on chondrocyte metabolisms in osteoarthritis]. | Zhong Nan Da Xue Xue Bao Yi Xue Ban [chi]
+- new | 2016 | 27217000 | Research Support, Non-U.S. Gov't | Preventive effect of a novel diosgenin derivative on arterial and venous thrombosis in vivo. | Bioorg Med Chem Lett
+- new | 2016 | 28087904 |  | [Protective effect of diosgenin on chondrocytes mediated by JAK2/STAT3 signaling pathway in mice with osteoarthritis]. | Zhejiang Da Xue Xue Bao Yi Xue Ban [chi]
+- new | 2016 | 28116217 | Review | Diosgenin: Recent Highlights on Pharmacology and Analytical Methodology. | J Anal Methods Chem
+- new | 2015 | 25878948 |  | A molecular docking study of phytochemical estrogen mimics from dietary herbal supplements. | In Silico Pharmacol
+- new | 2014 | 24973886 | Research Support, Non-U.S. Gov't | Fenugreek extract diosgenin and pure diosgenin inhibit the hTERT gene expression in A549 lung cancer cell line. | Mol Biol Rep
+- new | 2014 | 24954725 |  | Effect of liquid crystals with cyclodextrin on the bioavailability of a poorly water-soluble compound, diosgenin, after its oral administration to rats. | Int J Pharm
+- new | 2014 | 24993510 |  | Modulatory effects of diosgenin on attenuating the key enzymes activities of carbohydrate metabolism and glycogen content in streptozotocin-induced diabetic rats. | Can J Diabetes
+- new | 2014 | 24495488 | Comparative Study/Research Support, Non-U.S. Gov't | Comparison of behavioral and biochemical deficits in rats with hereditary defined or D-galactose-induced accelerated senescence: evaluating the protective effects of diosgenin. | Pharmacol Biochem Behav
+- new | 2013 | 23423339 |  | Diosgenin attenuates vascular calcification in chronic renal failure rats. | Mol Cell Biochem
+- HELD REF-2286 | 2013 | 23970424 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Characterization of in vitro ADME properties of diosgenin and dioscin from Dioscorea villosa. | Planta Med
+- HELD REF-0528 | 2013 | 23889998 | Research Support, Non-U.S. Gov't | Bioassay-guided evaluation of Dioscorea villosa - an acute and subchronic toxicity, antinociceptive and anti-inflammatory approach. | BMC Complement Altern Med
+- new | 2013 | 22956342 | Research Support, Non-U.S. Gov't | Preconditioning with diosgenin and treadmill exercise preserves the cardiac toxicity of isoproterenol in rats. | J Physiol Biochem
+- new | 2012 | 23216637 |  | Diosgenin, a steroidal saponin, exhibits anticancer activity by attenuating lipid peroxidation via enhancing antioxidant defense system during NMU-induced breast carcinoma. | J Environ Pathol Toxicol Oncol
+- new | 2012 | 22704886 | Research Support, Non-U.S. Gov't | Small molecular weight PEGylation of diosgenin in an in vivo animal study for diabetic auditory impairment treatment. | Bioorg Med Chem Lett
+- new | 2012 | 21990007 | Research Support, Non-U.S. Gov't | Anti-tumour and anti-oxidative potential of diosgenin against 7, 12-dimethylbenz(a)anthracene induced experimental oral carcinogenesis. | Pathol Oncol Res
+- new | 2012 | 22719792 |  | Diosgenin Induces Apoptosis in HepG2 Cells through Generation of Reactive Oxygen Species and Mitochondrial Pathway. | Evid Based Complement Alternat Med
+- new | 2011 | 21367960 | Research Support, Non-U.S. Gov't | Chemoprevention of azoxymethane/dextran sodium sulfate-induced mouse colon carcinogenesis by freeze-dried yam sanyaku and its constituent diosgenin. | Cancer Prev Res (Phila)
+- new | 2011 | 21629786 |  | Diosgenin, a steroidal saponin, inhibits migration and invasion of human prostate cancer PC-3 cells by reducing matrix metalloproteinases expression. | PLoS One
+- new | 2010 | 20465230 | Research Support, Non-U.S. Gov't | Diosgenin, a plant-derived sapogenin, enhances regulatory T-cell immunity in the intestine of mice with food allergy. | J Nat Prod
+- new | 2010 | 20865911 | Case Reports | [Case of colchicine intoxication caused by tubers of Gloriosa superba]. | Chudoku Kenkyu [jpn]
+- new | 2009 | 19116873 | Review | Cancer chemopreventive and therapeutic effects of diosgenin, a food saponin. | Nutr Cancer
+- new | 2009 | 19372064 | Comparative Study/Evaluation Study/Research Support, Non-U.S. Gov't/Validation Study | Development and validation of a sensitive and rapid non-aqueous LC-ESI-MS/MS method for measurement of diosgenin in the plasma of normal and hyperlipidemic rats: a comparative stud | J Chromatogr B Analyt Technol Biomed Lif
+- new | 2009 | 19343624 | Research Support, Non-U.S. Gov't | Diosgenin attenuates allergen-induced intestinal inflammation and IgE production in a murine model of food allergy. | Planta Med
+- HELD REF-2283 | 2008 | 18662738 |  | Dioscorea villosa (wild yam) induces chronic kidney injury via pro-fibrotic pathways. | Food Chem Toxicol
+- new | 2005 | 16187016 | Research Support, Non-U.S. Gov't | Bitterness and toxicity in wild yam (Dioscorea spp.) tubers of Nepal. | Plant Foods Hum Nutr
+- new | 2005 | 15619238 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Diosgenin-induced biliary cholesterol secretion in mice requires Abcg8. | Hepatology
+- new | 2004 | 15513824 | Review | Final report of the amended safety assessment of Dioscorea Villosa (Wild Yam) root extract. | Int J Toxicol
+- new | 2004 | 15553174 | Research Support, Non-U.S. Gov't | Cytotoxicity of the phytosterol diosgenin and its derivatives in rat cultured hepatocytes and V79 fibroblasts. | Hum Exp Toxicol
+- new | 2004 | 15289856 | Research Support, Non-U.S. Gov't | Diosgenin induces cell cycle arrest and apoptosis in HEL cells with increase in intracellular calcium level, activation of cPLA2 and COX-2 overexpression. | Int J Oncol
+- new | 2004 | 15008458 | Research Support, Non-U.S. Gov't | Diosgenin-3-O-alpha-L-rhamnopyranosyl-(1 --> 4)-beta-D-glucopyranoside obtained as a new anticancer agent from Dioscorea futschauensis induces apoptosis on human colon carcinoma HC | J Asian Nat Prod Res
+- new | 2004 | 15298963 | Comparative Study/Research Support, U.S. Gov't, P.H.S. | Diosgenin, a steroid saponin of Trigonella foenum graecum (Fenugreek), inhibits azoxymethane-induced aberrant crypt foci formation in F344 rats and induces apoptosis in HT-29 human | Cancer Epidemiol Biomarkers Prev
+- new | 2003 | 12724916 | Comparative Study | The effects of sustained delivery of diosgenin on the adrenal gland of female rats. | Biomed Sci Instrum
+- new | 1993 | 16031724 |  | An attempt to reproduce crystal-associated cholangitis in lambs in experimental dosing of sarsasapogenin or diosgenin alone and in combination with sporidesmin. | N Z Vet J
+
+### PubMed OBS - 2 hits, 2 not already listed above, 2 new
+- new | 2024 | 38211573 |  | Herbal Treatment of Female Urogenital Atrophy: A Retrospective Cohort Analysis. | Complement Med Res
+- new | 2024 | 39071813 |  | Co-Expression Network Analysis and Molecular Docking Demonstrate That Diosgenin Inhibits Gastric Cancer Progression via SLC1A5/mTORC1 Pathway. | Drug Des Devel Ther
+
+### PubMed REV - 49 hits, 9 not already listed above, 9 new
+- new | 2024 | 38371502 | Review | Fenugreek derived diosgenin as an emerging source for diabetic therapy. | Front Nutr
+- new | 2023 | 36940072 | Review | Anticancer Activity of Diosgenin and Its Molecular Mechanism. | Chin J Integr Med
+- new | 2022 | 35677108 | Review | Diosgenin: An Updated Pharmacological Review and Therapeutic Perspectives. | Oxid Med Cell Longev
+- new | 2022 | 36106684 | Review | Diosgenin: An ingress towards solving puzzle for diabetes treatment. | J Food Biochem
+- new | 2021 | 34581038 | Review | [Research on anti-tumor natural product diosgenin]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2021 | 34799857 | Review | Diosgenin a steroidal compound: An emerging way to cancer management. | J Food Biochem
+- new | 2020 | 31586606 | Review | Pharmacological activities of dehydroepiandrosterone: A review. | Steroids
+- new | 2020 | 33014161 | Review | Inhibition of invadopodia formation by diosgenin in tumor cells. | Oncol Lett
+- new | 2003 | 12798545 | Review | "Bust enhancing" herbal products. | Obstet Gynecol
+
+### ClinicalTrials.gov - 3 registered studies
+- NCT06800170 | COMPLETED | results=False | NA | Treatment of Menstrual Cycle Alterations in Adolescents | conds: Amenorrhea, Oligomenorrhea, PCOS (Polycystic Ovary Syndrome) | intr: myo-Inositol plus DIoscorea Villosa
+- NCT01174511 | UNKNOWN | results=False | PHASE1,PHASE2 | Evaluation of A-1 Cool Cream Efficacy for Treatment Atopic Dermatitis | conds: ATOPIC DERMATITIS | intr: A -1 Cool Cream,Vaselin ointment
+- NCT06639698 | COMPLETED | results=False | NA | Treatment of Women With PCOS of Phenotype D | conds: PCOS (Polycystic Ovary Syndrome) | intr: Diosgenin
+
+### OpenAlex no-PMID trial-worded - 136 hits, 54 without PMID, 54 new
+- new | 2026 | 10.17632/rz832sxgs9 | dataset | A randomized trial of homeopathic Dioscorea villosa in acute paronychia in adults | Mendeley Data
+- new | 2026 | 10.67440/ahj.vi.3182 | article | Effect of Baryta muriatica 3X on Low-Density Lipoprotein Cholesterol in Adults with Hyperlipidemia: A Randomized, Placebo-Controlled Single-Blind Clinical Trial | Adolescencia e Saude
+- new | 2026 | 10.13005/bbra/3480 | article | Anticancer Potential of Dioscorea villosa Derived Diosgenin in PA-1 Ovarian Cancer Cells: Mechanistic Insights into Apoptosis and PI3K/Akt Signaling | Biosciences Biotechnology Research Asia
+- new | 2026 | 10.5281/zenodo.19420081 | article | Development and Evaluation of Diosgenin-Rich Dioscorea villosa and Solanum nigrum Extract-Loaded Transdermal Patch for Psoriasis Using Solvent Evaporation Technique | Zenodo (CERN European Organization for N
+- new | 2026 | 10.67440/ahj.vi.3030 | article | Clinical Effectiveness Of Individualized Rare and Lesser-Known Homoeopathic Medicines in Lumbosacral Radiculopathy (Sciatica): A Prospective, Single-Blind Interventional Study Base | Adolescencia e Saude
+- new | 2026 | 10.6084/m9.figshare.34874006 | article | Phyto-progestins for the management of oligomenorrhea and/or endometrial thickening in reproductive-age breast cancer survivors with BRCA mutation: a retrospective, real-world stud | Figshare
+- new | 2026 | 10.33545/26164485.2026.v10.i6.a.2823 | article | Efficacy of individualised homoeopathic medicine versus usual care in the management of hyperlipidemia using homoeopathic medical repertory by robin murphy: A double blind, randomi | International Journal of Homoeopathic Sc
+- new | 2026 | 10.65786/njmrys.2026.3304 | article | Role of Homoeopathy in the Management of Dyslipidaemia: A Comprehensive Review | National Journal of Medical Research & Y
+- new | 2025 | 10.53945/2320-7094.2027 | article | Effect of individualised homoeopathic intervention in dyslipidaemia: An open-label, randomised, controlled, exploratory trial | Indian Journal of Research in Homoeopath
+- new | 2025 | 10.4314/njb.v41i2.11 | article | The impact of Dioscorea villosa extracts on haematological parameters in gentamicin-induced nephrotoxicity in albino wistar rats | Nigerian Journal of Biotechnology
+- new | 2025 | 10.18370/2309-4117.2025.80.37-47 | article | Phytocombinations as a way to comfort: non-hormonal support for women in perimenopause | Reproductive Endocrinology
+- new | 2025 | 10.53469/jcmp.2025.07(07).32 | article | Research Progress of Traditional Chinese Medicine in the Prevention and Treatment of Postoperative Complications of Anal and Intestinal Diseases | Journal of Contemporary Medical Practice
+- new | 2025 | 10.23977/medcm.2025.070207 | article | Discussion on Chinese Medicine Treatment of Chronic Itching Based on the Theory of "Unity of Form and Spirit" | MEDS Chinese Medicine
+- new | 2025 | 10.54254/2753-8818/2025.au27079 | article | Herbal Medicine in the Molecular Era: Integrating Traditional Chinese Herb Signatures with Chemotherapy Efficacy and Tumor Microenvironment Using Machine Learning Models | Theoretical and Natural Science
+- new | 2024 | 10.6084/m9.figshare.24981957 | supplementary-materials | Supplementary Material for: Herbal treatment of female urogenital atrophy: A retrospective cohort analysis | Figshare
+- new | 2024 | 10.21203/rs.3.rs-5661693/v1 | preprint | Exploration of Potential Therapeutic Targets of Diosgenin in Pulmonary Fibrosis through Network Pharmacology and Mendelian Randomization | Research Square
+- new | 2024 | 10.3126/ajms.v15i3.59601 | article | A prospective comparative study of the intraoperative difficulties during laparoscopic cholecystectomy in patients taking homeopathic medications for cholelithiasis versus cholelit | Asian Journal of Medical Sciences
+- new | 2024 | 10.69598/sehs.18.24010002 | article | Herbal medicine use in patients seeking treatment in emergency departments | Science, Engineering and Health Studies
+- new | 2024 | 10.51470/plantarchives.2025.v25.supplement-1.100 | article | DOCUMENTATION OF WILD MEDICINAL PLANT RESOURCES IN WEST RAJABHATKHAWA RANGE OF BUXA TIGER RESERVE, WEST BENGAL, INDIA | PLANT ARCHIVES
+- new | 2024 | 10.53555/jptcp.v31i1.3956 | article | EVALUATING THE EFFICACY OF WILD YAM HORMONAL SALVE IN MANAGING MENOPAUSAL SYMPTOMS: A COHORT STUDY | 
+- new | 2024 | 10.34172/ajah.1024 | review | A Systematic Review of Effective Herbal Medicine in Alleviating Hot Flashes During Menopause | Avicenna Journal of Aging and Healthcare
+- new | 2024 | 10.51910/ijhdr.v23icf.1388 | article | Efficacy of Homoeopathic Ultra High Dilutions in management of Dysmenorrhoea: A Review | International Journal of High Dilution R
+- new | 2023 | 10.26442/20795696.2023.2.202215 | article | Efficacy and safety of non-hormonal agents for vasomotor symptoms of menopause: A prospective, double-blind, placebo-controlled study | GYNECOLOGY
+- new | 2021 | 10.51415/10321/4022 | dissertation | A study on the management of menopausal syndrome by registered homeopathic practitioners in Ethekwini municipality | DUT Open Scholar (Durban University of T
+- new | 2020 | 10.4103/jpnr.jpnr_13_19 | article | Efficacy of Dioscorea villosa 6CH in treatment of dyslipidemia: A double-blind, randomized, placebo-controlled, clinical trial | Journal of Pharmaceutical Negative Resul
+- new | 2020 | 10.17504/protocols.io.bek5jcy6 | preprint | Emergency Phytotheraphy Field Practice Protocol Covid19 Materials and Methods v1 | 
+- new | 2020 | 10.28940/terra.v38i1.583 | article | Respuesta del frijol común (Phaseolus vulgaris L.) variedad Quivicán a la aplicación de medicamentos homeopáticos | Terra Latinoamericana
+- new | 2020 | 10.28940/terra.v38i1.581 | article | Efectos de medicamentos homeopáticos en indicadores fisiológicos y del desarrollo inicial del frijol Yorimón (Vigna unguiculata L., Walp.) | Terra Latinoamericana
+- new | 2019 | 10.22437/ifstj.v1i2.5342 | article | Comparative Analysis of Flour Properties of Dioscorea alata Tuber And Its Utilization On Wet Noodle | Indonesian Food Science and Technology J
+- new | 2019 | 10.4314/njbas.v26i1.8 | article | Aphrodisiac effect of aqueous stem bark extract ofFicus sycomorus on female wistar rats | Nigerian Journal of Basic and Applied Sc
+- new | 2018 | https://openalex.org/W2920178566 | dissertation | The Effect Of Wild Yam (Dioscorea Villosa) Tincture On Memory And Learning In Mice | University of Nairobi Research Archive (
+- new | 2018 | 10.51415/10321/3082 | dissertation | The efficacy of a homoeophathic complex (Angelica sinensis, Dioscorea villosa 6cH, Matricaria chamomilla 6cH, Viburnum opulus 6cH, and Zingiber officinalis 6cH) compared with homoe | DUT Open Scholar (Durban University of T
+- new | 2018 | 10.5530/pj.2018.6.185 | article | Effect of Lutein on Cytochrome P450 (Isoform CYP3A4) - An in vitro Study | Pharmacognosy Journal
+- new | 2017 | https://openalex.org/W2910088132 | dissertation | Soins de support en phytothérapie et en micro nutrition utilisés pour pallier aux effets secondaires de l’hormonothérapie suite à un cancer du sein hormono-dépendant : synthèse des | HAL
+- new | 2017 | 10.7241/ourd.20172.42 | article | A hedonic response to an assay made on octogenarians using cosmetics that promise to donate comfort, attractiveness and youth | Our Dermatology Online
+- new | 2016 | 10.51415/10321/1621 | dissertation | The efficacy of a phytotherapeutic complex (Angelica sinensis, Dioscorea villosa, Matricaria chamomilla, Viburnum opulus and Zingiber officinalis) compared with homoeopathic simili | DUT Open Scholar (Durban University of T
+- new | 2016 | 10.9734/bjpr/2016/21719 | article | Effects of Ethanolic Extract of Dioscorea villosa Tubers on Male Reproductive Parameters in Wistar Rats | Journal of Pharmaceutical Research Inter
+- new | 2016 | 10.33915/etd.6895 | dissertation | Does enhanced nitrogen input affect the structure and composition of forest vegetation? Results from long-term experiments at the Fernow Experimental Forest | The Research Repository @ WVU (West Virg
+- new | 2015 | https://openalex.org/W3022037014 | article | Rimedi fitoterapici per la sindrome dell’ovaio policistico. Review di clinical trials | CINECA IRIS Institutial research informa
+- new | 2015 | 10.9734/ijbcrr/2015/13433 | article | Contraceptive Effect of Ethanolic Extract of Dioscorea villosa Tuber on Reproductive Hormones of Female Wistar Rats | International Journal of Biochemistry Re
+- new | 2015 | 10.3923/rjmp.2015.72.80 | article | Effect of Different Physicochemical Treatments on Seed Dormancy of Medicinal Herbs (Portulaca oleracea L.) | Research Journal of Medicinal Plant
+- new | 2014 | https://openalex.org/W1745128542 | dissertation | The relationship between riparian zone width and floristic quality in Shenandoah County, Virginia | JMU Scholoraly Commons (James Madison Un
+- new | 2012 | https://openalex.org/W1968500629 | article | Letter to Editor Management of Post Menstrual Syndromes: From Traditional Knowledge to Evidence-Based Medicine | International Journal of Biotechnology f
+- new | 2012 | 10.5772/2374 | book | Bioactive Compounds in Phytomedicine | InTech eBooks
+- new | 2011 | 10.51415/10321/694 | dissertation | The efficacy of a complementary formulation of Folliculinum D6 and Five-Flower Formula, in the treatment of menopausal symptoms | DUT Open Scholar (Durban University of T
+- new | 2010 | 10.51415/10321/576 | dissertation | A clinical audit of the Durban University of Technology homoeopathic satellite clinic established at Ukuba Nesibindi | DUT Open Scholar (Durban University of T
+- new | 2009 | 10.1016/j.maturitas.2009.08.006 | letter | Reply to: Suspected black cohosh hepatotoxicity-Causality assessment versus safety signal. Quality versus quantity | Maturitas
+- new | 2007 | 10.1016/b978-0-323-02998-8.50024-x | book-chapter | Veterinary Herbal Medicine: A Systems-Based Approach | Elsevier eBooks
+- new | 2007 | https://openalex.org/W330350634 | dissertation | In vitro - Identifizierung fettassimilationsinhibierender Bioaktivität | MACAU: Open Access Repository of Kiel Un
+- new | 2005 | 10.1089/act.2005.11.17 | article | Combining Herbs in a Formula for Irritable Bowel Syndrome | Alternative and Complementary Therapies
+- new | 2003 | 10.51415/10321/2774 | dissertation | The efficacy of Dioscorea villosa cream in the treatment of menopausal syndrome | DUT Open Scholar (Durban University of T
+- new | 2003 | 10.51415/10321/71 | dissertation | The efficacy of ProgestoNat cream in the treatment of menopausal syndrome | DUT Open Scholar (Durban University of T
+- new | 2002 | https://openalex.org/W589892726 | dissertation | The process of conducting herbal medicine research through the clinical trials exemption scheme | Middlesex University Research Repository
+- new | 1891 | 10.1001/jama.1891.02410690006001a | article | A CASE OF EXTRA-UTERINE RETRO-PERITONEAL, PREGNANCY IN THE SEVENTH MONTH.Read before the Chicago Gynecological Society, December 19, 1890. | JAMA
+
+## echinacea-purpurea (Echinacea purpurea) - name clause: "Echinacea purpurea"[tiab] OR "purple coneflower"[tiab] OR "echinacea"[ti]
+
+### PubMed HT - 140 hits, 140 not already listed above, 118 new
+- new | 2026 | 42951292 |  | Safety of Oral Echinacea Preparations: Systematic Review and Meta-Analysis in the Context of Therapeutic Benefit. | Planta Med
+- new | 2025 | 41234257 | Review | Role of Echinacea in the management and prevention of acute respiratory tract infections in children: A systematic review of the evidence. | J Family Community Med
+- new | 2025 | 40872598 |  | Safety Considerations for Natural Products with Adaptogenic and Immunomodulating Activities. | Pharmaceuticals (Basel)
+- new | 2025 | 40006076 |  | The Effects of Echinacea (EP107(TM)) on Anxiety: A Comparison of Anxiety Measures in a Randomized, Double Blind, Placebo-Controlled Study. | Pharmaceuticals (Basel)
+- HELD REF-3536 | 2025 | 40311928 | Systematic Review/Meta-Analysis | Efficacy and safety of Echinacea purpurea in treating upper respiratory infections and complications of otitis media in children: Systematic review and meta-analysis. | Clin Nutr ESPEN
+- HELD REF-0798 | 2025 | 40376625 | Systematic Review | Phytotherapy for acute respiratory tract infections in children: a systematically conducted, comprehensive review. | Front Pediatr
+- new | 2025 | 40063279 |  | Determination of Morphogenetic and Diurnal Variability in Phenolic and Flavonoid Content of Echinacea purpurea (L.) Moench: A Potential Source of Natural Anioxidants. | Plant Foods Hum Nutr
+- HELD REF-3543 | 2024 | 38743584 | Randomized Controlled Trial | A randomized, double-blind, placebo-controlled study on immune improvement effects of ethanolic extract of Echinacea purpurea (L.) Moench in Korean adults. | Phytother Res
+- new | 2024 | 39702335 | Randomized Controlled Trial | Investigating the effect of echinacea extraction syrup on the outcomes of lower respiratory infections in patients with COVID-19: a randomized clinical trial study. | Virol J
+- new | 2024 | 38999738 | Meta-Analysis/Systematic Review | Echinacea Supplementation Does Not Impact Aerobic Capacity and Erythropoiesis in Athletes: A Meta-Analysis. | Nutrients
+- new | 2024 | 39769201 | Randomized Controlled Trial | Therapeutic Potential of a Natural Blend of Aronia melancarpa, Lonicera caerulea, and Echinacea purpurea Extracts in Treating Upper Respiratory Tract Infections: Preliminary Clinic | Int J Mol Sci
+- new | 2023 | 37138742 |  | Novel Echinacea formulations for the treatment of acute respiratory tract infections in adults-A randomized blinded controlled trial. | Front Med (Lausanne)
+- new | 2023 | 36889292 | Observational Study | Reduction of Viral Load in Patients with Acute Sore Throats: Results from an Observational Clinical Trial with Echinacea/Salvia Lozenges. | Complement Med Res
+- new | 2023 | 37163146 |  | Evaluating the Efficacy and Safety of EZC Pak, a 5-Day Combination Echinacea-Zinc-Vitamin C Dose Pack with or without Vitamin D, in the Management of Outpatient Upper Respiratory I | Infect Drug Resist
+- new | 2022 | 35208665 | Review | Echinacea as a Potential Force against Coronavirus Infections? A Mini-Review of Randomized Controlled Trials in Adults and Children. | Microorganisms
+- new | 2022 | 36605140 |  | Evaluation of the efficacy of Echinacea on clinical indices of Erosive Oral Lichen Planus: A randomized double-blind clinical trial. | Dent Res J (Isfahan)
+- new | 2022 | 35559249 |  | Echinacea Purpurea For the Long-Term Prevention of Viral Respiratory Tract Infections During Covid-19 Pandemic: A Randomized, Open, Controlled, Exploratory Clinical Study. | Front Pharmacol
+- new | 2022 | 35630063 | Randomized Controlled Trial | Echinacea angustifolia and Echinacea purpurea Supplementation Combined with Vaginal Hyaluronic Acid to Boost the Remission of Cervical Low-Grade Squamous Intraepithelial Lesions (L | Medicina (Kaunas)
+- HELD REF-3538 | 2021 | 33832544 | Randomized Controlled Trial | Echinacea reduces antibiotic usage in children through respiratory tract infection prevention: a randomized, blinded, controlled clinical trial. | Eur J Med Res
+- new | 2021 | 33787192 | Randomized Controlled Trial | The effects of combination of Zingiber officinale and Echinacea on alleviation of clinical symptoms and hospitalization rate of suspected COVID-19 outpatients: a randomized control | J Complement Integr Med
+- new | 2021 | 34217960 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | An investigation into the anxiety-relieving and mood-enhancing effects of Echinacea angustifolia (EP107™): A randomised, double-blind, placebo-controlled study. | J Affect Disord
+- new | 2020 | 31581155 | News | Echinacea for Cancer Patients: To Give or Not to Give. | Complement Med Res
+- new | 2020 | 31876052 | Clinical Trial | Double-blind placebo controlled trial of the anxiolytic effects of a standardized Echinacea extract. | Phytother Res
+- new | 2020 | 33333722 |  | Safety and Dose-Dependent Effects of Echinacea for the Treatment of Acute Cold Episodes in Children: A Multicenter, Randomized, Open-Label Clinical Trial. | Children (Basel)
+- new | 2020 | 32487336 | Randomized Controlled Trial | Echinacea can help with Azithromycin in prevention of recurrent tonsillitis in children. | Am J Otolaryngol
+- new | 2020 | 33207557 |  | Echinacea angustifolia DC. Lipophilic Extract Patch for Skin Application: Preparation, In Vitro and In Vivo Studies. | Pharmaceutics
+- new | 2020 | 31952199 |  | Anti-Bacterial and Anti-Inflammatory Effects of Toothpaste with Swiss Medicinal Herbs towards Patients Suffering from Gingivitis and Initial Stage of Periodontitis: from Clinical E | Dent J (Basel)
+- new | 2019 | 31126553 | Meta-Analysis/Systematic Review | Echinacea for the prevention and treatment of upper respiratory tract infections: A systematic review and meta-analysis. | Complement Ther Med
+- new | 2019 | 30660822 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Interaction of herbal products with prescribed medications: A systematic review and meta-analysis. | Pharmacol Res
+- new | 2019 | 31134491 |  | Protective effect of Echinacea purpurea (Immulant) against cisplatin-induced immunotoxicity in rats. | Daru
+- new | 2019 | 31111049 | Randomized Controlled Trial | Effect of Immunomodulatory Supplements Based on Echinacea Angustifolia and Echinacea Purpurea on the Posttreatment Relapse Incidence of Genital Condylomatosis: A Prospective Random | Biomed Res Int
+- new | 2019 | 30608872 | Randomized Controlled Trial | Six weeks of oral Echinacea purpurea supplementation does not enhance the production of serum erythropoietin or erythropoietic status in recreationally active males with above-aver | Appl Physiol Nutr Metab
+- new | 2019 | 31557666 | Clinical Trial | Combined extracts of Echinacea angustifolia DC. and Zingiber officinale Roscoe in softgel capsules: Pharmacokinetics and immunomodulatory effects assessed by gene expression profil | Phytomedicine
+- new | 2017 | 27737573 |  | The effect and safety of highly standardized Ginger (Zingiber officinale) and Echinacea (Echinacea angustifolia) extract supplementation on inflammation and chronic pain in NSAIDs  | Nat Prod Res
+- HELD REF-3544 | 2017 | 28610718 | Randomized Controlled Trial | Echinacea purpurea-derived alkylamides exhibit potent anti-inflammatory effects and alleviate clinical symptoms of atopic eczema. | J Dermatol Sci
+- new | 2017 | 28164789 |  | Preliminary data on antibacterial activity of Echinacea purpurea-associated bacterial communities against Burkholderia cepacia complex strains, opportunistic pathogens of Cystic Fi | Microbiol Res
+- new | 2017 | 29184589 |  | Comparing the Effect of Echinacea and Chlorhexidine Mouthwash on the Microbial Flora of Intubated Patients Admitted to the Intensive Care Unit. | Iran J Nurs Midwifery Res
+- new | 2017 | 28846157 | Multicenter Study | Allergy-like immediate reactions with herbal medicines in children: A retrospective study using data from VigiBase(®). | Pediatr Allergy Immunol
+- new | 2016 | 26871250 | Multicenter Study/Randomized Controlled Trial | Echinacea Formula (Echinaforce® Hotdrink): Effects of a Proprietary Echinacea Formula Compared With Oseltamivir in the Early Treatment of Influenza. | Holist Nurs Pract
+- new | 2016 | 27095919 |  | A natural herbal remedy modulates angiogenic activity of bronchoalveolar lavage cells from sarcoidosis patients. | Cent Eur J Immunol
+- new | 2016 | 26317662 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Echinacea-Based Dietary Supplement Does Not Increase Maximal Aerobic Capacity in Endurance-Trained Men and Women. | J Diet Suppl
+- new | 2015 | 26265958 |  | Effect of an Echinacea-Based Hot Drink Versus Oseltamivir in Influenza Treatment: A Randomized, Double-Blind, Double-Dummy, Multicenter, Noninferiority Clinical Trial. | Curr Ther Res Clin Exp
+- new | 2015 | 26455420 | Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Pharmacokinetics and immunomodulatory effect of lipophilic Echinacea extract formulated in softgel capsules. | Eur J Pharm Biopharm
+- new | 2015 | 25784510 | Multicenter Study | Echinacea reduces the risk of recurrent respiratory tract infections and complications: a meta-analysis of randomized controlled trials. | Adv Ther
+- new | 2015 | 30647582 |  | In vitro and in vivo studies of the immunomodulatory effect of Echinacea purpurea on dendritic cells. | J Genet Eng Biotechnol
+- new | 2015 | 25953494 | Comparative Study/Letter/Randomized Controlled Trial | Comparison of shock wave therapy and nutraceutical composed of Echinacea angustifolia, alpha lipoic acid, conjugated linoleic acid and quercetin (perinerv) in patients with carpal  | Int J Immunopathol Pharmacol
+- new | 2015 | 26598919 | Clinical Trial, Phase II/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Antitussive effect of a fixed combination of Justicia adhatoda, Echinacea purpurea and Eleutherococcus senticosus extracts in patients with acute upper respiratory tract infection: | Phytomedicine
+- HELD REF-0797 | 2015 | 25668266 | Comment | Echinacea for preventing and treating the common cold. | JAMA
+- new | 2014 | 24045635 | Randomized Controlled Trial | Echinacea purpurea supplementation does not enhance VO2max in distance runners. | J Strength Cond Res
+- HELD REF-0797 | 2014 | 24554461 | Meta-Analysis/Research Support, N.I.H., Intramural/Research Support, Non-U.S. Gov't/Systematic Review | Echinacea for preventing and treating the common cold. | Cochrane Database Syst Rev
+- new | 2014 | 24877712 | Research Support, Non-U.S. Gov't | Immunomodulation mediated by a herbal syrup containing a standardized Echinacea root extract: a pilot study in healthy human subjects on cytokine gene expression. | Phytomedicine
+- new | 2013 | 23263637 | Review | Efficacy and safety of Echinaforce® in respiratory tract infections. | Wien Med Wochenschr
+- new | 2013 | 23701184 | Clinical Trial/Research Support, Non-U.S. Gov't | The effect of Echinacea purpurea on the pharmacokinetics of docetaxel. | Br J Clin Pharmacol
+- new | 2013 | 22451347 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The anxiolytic potential and psychotropic side effects of an echinacea preparation in laboratory animals and healthy volunteers. | Phytother Res
+- HELD REF-0799 | 2012 | 22962927 | Review | Treatment of the common cold in children and adults. | Am Fam Physician
+- new | 2012 | 22229040 |  | Randomised, double blind, placebo-controlled trial of echinacea supplementation in air travellers. | Evid Based Complement Alternat Med
+- new | 2012 | 22151837 | Research Support, Non-U.S. Gov't | Neuroprotective effects of a new skin care formulation following ultraviolet exposure. | Cell Prolif
+- new | 2012 | 22869560 | Clinical Trial/Research Support, Non-U.S. Gov't | Herb-drug interaction between Echinacea purpurea and etravirine in HIV-infected patients. | Antimicrob Agents Chemother
+- HELD REF-3392 | 2012 | 23024696 |  | Safety and Efficacy Profile of Echinacea purpurea to Prevent Common Cold Episodes: A Randomized, Double-Blind, Placebo-Controlled Trial. | Evid Based Complement Alternat Med
+- new | 2012 | 22728943 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Running economy and maximal oxygen consumption after 4 weeks of oral Echinacea supplementation. | J Strength Cond Res
+- new | 2011 | 21078942 | Clinical Trial/Research Support, Non-U.S. Gov't | Herb-drug interaction between Echinacea purpurea and darunavir-ritonavir in HIV-infected patients. | Antimicrob Agents Chemother
+- new | 2011 | 21062330 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Echinacea purpurea along with zinc, selenium and vitamin C to alleviate exacerbations of chronic obstructive pulmonary disease: results from a randomized controlled trial. | J Clin Pharm Ther
+- new | 2011 | 21566549 | Comparative Study/Randomized Controlled Trial | Oral supplementation with a nutraceutical containing Echinacea, methionine and antioxidant/immunostimulating compounds in patients with cutaneous viral warts. | G Ital Dermatol Venereol
+- new | 2010 | 20384903 | Research Support, Non-U.S. Gov't | Skin improvement and stability of Echinacea purpurea dermatological formulations. | Int J Cosmet Sci
+- new | 2010 | 21173411 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Echinacea for treating the common cold: a randomized trial. | Ann Intern Med
+- new | 2010 | 20573086 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Pharmacokinetic and pharmacodynamic interactions of echinacea and policosanol with warfarin in healthy subjects. | Br J Clin Pharmacol
+- new | 2010 | 20653355 | Comparative Study/Research Support, N.I.H., Extramural/Research Support, N.I.H., Intramural | Echinacea purpurea significantly induces cytochrome P450 3A activity but does not alter lopinavir-ritonavir exposure in healthy subjects. | Pharmacotherapy
+- new | 2010 | 21173397 | Comment/Patient Education Handout | Summaries for patients. Echinacea for the common cold. | Ann Intern Med
+- new | 2009 | 19748859 | Comparative Study/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Echinacea/sage or chlorhexidine/lidocaine for treating acute sore throats: a randomized double-blind trial. | Eur J Med Res
+- new | 2008 | 18240099 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Pharmacokinetics of the main alkamides after administration of three different Echinacea purpurea preparations in humans. | Planta Med
+- new | 2008 | 18831749 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | Echinacea purpurea and osteopathic manipulative treatment in children with recurrent otitis media: a randomized controlled trial. | BMC Complement Altern Med
+- HELD REF-3542 | 2008 | 18450126 | Randomized Controlled Trial/Research Support, U.S. Gov't, P.H.S. | Effects of echinacea on the frequency of upper respiratory tract symptoms: a randomized, double-blind, placebo-controlled trial. | Ann Allergy Asthma Immunol
+- new | 2008 | 18214850 | Research Support, N.I.H., Extramural | Gauging the clinical significance of P-glycoprotein-mediated herb-drug interactions: comparative effects of St. John's wort, Echinacea, clarithromycin, and rifampin on digoxin phar | Mol Nutr Food Res
+- HELD REF-5051 | 2008 | 18214849 | Research Support, N.I.H., Extramural | Clinical assessment of CYP2D6-mediated herb-drug interactions in humans: effects of milk thistle, black cohosh, goldenseal, kava kava, St. John's wort, and Echinacea. | Mol Nutr Food Res
+- HELD REF-0797 | 2008 | 18186015 | Review | Echinacea for preventing and treating the common cold. | Planta Med
+- new | 2007 | 18005908 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Review | Rationale and methods for a trial assessing placebo, echinacea, and doctor-patient interaction in the common cold. | Explore (NY)
+- new | 2007 | 17661330 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | The effect of Echinacea purpurea, Astragalus membranaceus and Glycyrrhiza glabra on CD25 expression in humans: a pilot study. | Phytother Res
+- HELD REF-2017 | 2007 | 18066121 | Research Support, Non-U.S. Gov't | Echinacea purpurea L. in children: safety, tolerability, compliance, and clinical effectiveness in upper respiratory tract infections. | Can J Physiol Pharmacol
+- HELD REF-2013 | 2007 | 17436202 | Randomized Controlled Trial | Echinacea purpurea and mucosal immunity. | Int J Sports Med
+- new | 2007 | 17646564 | Randomized Controlled Trial | Effects of echinacea on electrocardiographic and blood pressure measurements. | Am J Health Syst Pharm
+- new | 2007 | 17289362 |  | Comparison of Echinacea alkylamide pharmacokinetics between liquid and tablet preparations. | Phytomedicine
+- new | 2007 | 17962712 | Randomized Controlled Trial | The effect of 4 wk of oral echinacea supplementation on serum erythropoietin and indices of erythropoietic status. | Int J Sport Nutr Exerc Metab
+- new | 2006 | 16678640 | Meta-Analysis/Review | Echinacea in the prevention of induced rhinovirus colds: a meta-analysis. | Clin Ther
+- new | 2006 | 17142219 | Clinical Trial/Multicenter Study | Open, multicenter study to evaluate the tolerability and efficacy of Echinaforce Forte tablets in athletes. | Adv Ther
+- new | 2006 | 16714733 | Review | Does treatment with Echinacea purpurea effectively shorten the course of upper respiratory tract infections in children? | Arch Dis Child
+- new | 2006 | 16995328 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Bioavailability and pharmacokinetics of Echinacea purpurea preparations and their interaction with the immune system. | Int J Clin Pharmacol Ther
+- new | 2006 | 16807880 | Clinical Trial/Research Support, Non-U.S. Gov't | The effect of Echinacea purpurea, Astragalus membranaceus and Glycyrrhiza glabra on CD69 expression and immune cell activation in humans. | Phytother Res
+- new | 2006 | 17238809 | Clinical Trial | Oral Echinacea purpurea extract in low-grade, steroid-dependent, autoimmune idiopathic uveitis: a pilot study. | J Ocul Pharmacol Ther
+- HELD REF-0797 | 2006 | 16437427 | Meta-Analysis/Systematic Review | Echinacea for preventing and treating the common cold. | Cochrane Database Syst Rev
+- new | 2005 | 16102249 | Review | Echinacea species (Echinacea angustifolia (DC.) Hell., Echinacea pallida (Nutt.) Nutt.,Echinacea purpurea (L.) Moench): a review of their chemistry, pharmacology and clinical prope | J Pharm Pharmacol
+- new | 2005 | 15736012 | Review | Treatment of the common cold with echinacea: a structured review. | Clin Infect Dis
+- new | 2005 | 16049208 | Clinical Trial/Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, P.H.S. | An evaluation of Echinacea angustifolia in experimental rhinovirus infections. | N Engl J Med
+- new | 2005 | 16323289 | Clinical Trial, Phase III/Randomized Controlled Trial | A randomized, double-blind, placebo-controlled, clinical dose-response trial of an extract of Baptisia, Echinacea and Thuja for the treatment of patients with common cold. | Phytomedicine
+- new | 2005 | 16398593 | Research Support, N.I.H., Extramural | Echinacea purpurea for prevention of upper respiratory tract infections in children. | J Altern Complement Med
+- new | 2005 | 15856390 | Clinical Trial/Comparative Study/Multicenter Study | [Effectiveness of echinacin in therapy of chronic recurrent respiratory disease]. | Gesundheitswesen [ger]
+- new | 2005 | 15919096 | Comparative Study/Research Support, Non-U.S. Gov't | Echinacea alkamide disposition and pharmacokinetics in humans after tablet ingestion. | Life Sci
+- new | 2005 | 32313445 |  | Laboratory-derived formulations of Echinacea angustifolia roots lack preventive and treatment efficacy against experimental rhinovirus infections of healthy volunteers. | Focus Altern Complement Ther
+- new | 2005 | 15901750 | Clinical Trial/Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, P.H.S. | Bioavailability and pharmacokinetics of alkamides from the roots of Echinacea angustifolia in humans. | J Clin Pharmacol
+- new | 2005 | 16121513 | Clinical Trial/Randomized Controlled Trial | Randomized trial of a fixed combination (KanJang) of herbal extracts containing Adhatoda vasica, Echinacea purpurea and Eleutherococcus senticosus in patients with upper respirator | Phytomedicine
+- new | 2005 | 16194048 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of oral administration of freshly pressed juice of Echinacea purpurea on the number of various subpopulations of B- and T-lymphocytes in healthy volunteers: results of a dou | Phytomedicine
+- new | 2005 | 19668620 |  | Efficacy of echinacea for upper respiratory tract infections in children. | Paediatr Child Health
+- new | 2005 | 15985050 | Clinical Trial/Research Support, Non-U.S. Gov't | Echinacea intake induces an immune response through altered expression of leucocyte hsp70, increased white cell counts and improved erythrocyte antioxidant defences. | J Clin Pharm Ther
+- new | 2005 | 18007516 | Clinical Trial, Phase I/Research Support, Non-U.S. Gov't | Bioavailability of Echinacea constituents: Caco-2 monolayers and pharmacokinetics of the alkylamides and caffeic acid conjugates. | Molecules
+- new | 2005 | 16177972 | Controlled Clinical Trial | A proprietary extract from the echinacea plant (Echinacea purpurea) enhances systemic immune response during a common cold. | Phytother Res
+- new | 2004 | 14993079 | Comment | Can an herbal preparation of echinacea, propolis, and vitamin C reduce respiratory illnesses in children? | Arch Pediatr Adolesc Med
+- HELD REF-3540 | 2004 | 15238926 |  | Efficacy and safety of echinacea in treating upper respiratory tract infections in children: a randomized controlled trial. | J Pediatr
+- HELD REF-2445 | 2004 | 14749695 | Evaluation Study/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S./Research Support, U.S. Gov't, P.H.S. | The effect of echinacea (Echinacea purpurea root) on cytochrome P450 activity in vivo. | Clin Pharmacol Ther
+- HELD REF-3539 | 2004 | 15197051 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Echinacea purpurea therapy for the treatment of the common cold: a randomized, double-blind, placebo-controlled clinical trial. | Arch Intern Med
+- HELD REF-3537 | 2004 | 14748902 | Clinical Trial/Randomized Controlled Trial | Efficacy of a standardized echinacea preparation (Echinilin) for the treatment of the common cold: a randomized, double-blind, placebo-controlled trial. | J Clin Pharm Ther
+- new | 2004 | 14993078 | Clinical Trial/Multicenter Study/Randomized Controlled Trial | Effectiveness of an herbal preparation containing echinacea, propolis, and vitamin C in preventing respiratory tract infections in children: a randomized, double-blind, placebo-con | Arch Pediatr Adolesc Med
+- new | 2004 | 15026397 | Comment/Letter | Echinacea for treating colds in children. | JAMA
+- new | 2004 | 15536458 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | In vivo assessment of botanical supplementation on human cytochrome P450 phenotypes: Citrus aurantium, Echinacea purpurea, milk thistle, and saw palmetto. | Clin Pharmacol Ther
+- new | 2004 | 14750201 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Comparative controlled study of Andrographis paniculata fixed combination, Kan Jang and an Echinacea preparation as adjuvant, in the treatment of uncomplicated respiratory disease  | Phytother Res
+- new | 2004 | 15002392 |  | Echinacea, colds, and children--finally, a good study. | Child Health Alert
+- new | 2004 | 15026398 | Comment/Letter | Echinacea for treating colds in children. | JAMA
+- HELD REF-3541 | 2004 | 15156472 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Echinacea purpurea for prevention of experimental rhinovirus colds. | Clin Infect Dis
+- new | 2003 | 12622467 | Research Support, U.S. Gov't, P.H.S./Review | Medicinal properties of Echinacea: a critical review. | Phytomedicine
+- HELD REF-3540 | 2003 | 14657066 | Clinical Trial/Randomized Controlled Trial/Research Support, U.S. Gov't, P.H.S. | Efficacy and safety of echinacea in treating upper respiratory tract infections in children: a randomized controlled trial. | JAMA
+- new | 2003 | 14530514 | Clinical Trial | Regulation of human immune gene expression as influenced by a commercial blended Echinacea product: preliminary studies. | Exp Biol Med (Maywood)
+- new | 2002 | 12484708 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Treatment of the common cold with unrefined echinacea. A randomized, double-blind, placebo-controlled trial. | Ann Intern Med
+- new | 2002 | 11991793 | Clinical Trial/Randomized Controlled Trial | Immunological activity of larch arabinogalactan and Echinacea: a preliminary, randomized, double-blind, placebo-controlled trial. | Altern Med Rev
+- new | 2002 | 11933115 | Clinical Trial/Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Polysaccharides isolated from Echinacea purpurea herba cell cultures to counteract undesired effects of chemotherapy--a pilot study. | Phytother Res
+- new | 2002 | 12218779 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Oral administration of freshly expressed juice of Echinacea purpurea herbs fail to stimulate the nonspecific immune response in healthy young men: results of a double-blind, placeb | J Immunother
+- new | 2002 | 11777363 | Meta-Analysis/Review | The risk-benefit profile of commonly used herbal therapies: Ginkgo, St. John's Wort, Ginseng, Echinacea, Saw Palmetto, and Kava. | Ann Intern Med
+- new | 2002 | 12484743 | Patient Education Handout | Summaries for patients. Treatment of colds with a capsule form of the herb echinacea. | Ann Intern Med
+- new | 2001 | 11505787 | Clinical Trial/Clinical Trial, Phase IV/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy of Echinacea purpurea in patients with a common cold. A placebo-controlled, randomised, double-blind clinical trial. | Arzneimittelforschung
+- new | 2001 | 11231867 | Clinical Trial/Randomized Controlled Trial | Does the extract of the plant Echinacea purpurea influence the clinical course of recurrent genital herpes? | Int J STD AIDS
+- new | 2000 | 10817735 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Ineffectiveness of echinacea for prevention of experimental rhinovirus colds. | Antimicrob Agents Chemother
+- new | 2000 | 11247420 | Clinical Trial | [Applications of immunomodulators in complex of treatment of the soft tissue purulent wounds]. | Klin Khir [rus]
+- new | 2000 | 10976979 | Clinical Trial/Randomized Controlled Trial | The efficacy of echinacea compound herbal tea preparation on the severity and duration of upper respiratory and flu symptoms: a randomized, double-blind placebo-controlled study. | J Altern Complement Med
+- HELD REF-0797 | 2000 | 10796553 | Systematic Review | Echinacea for preventing and treating the common cold. | Cochrane Database Syst Rev
+- new | 1999 | 10496642 | Review | Echinacea for upper respiratory infection. | J Fam Pract
+- new | 1999 | 10539093 | Review | Efficacy and mode of action of an immunomodulator herbal preparation containing Echinacea, wild indigo, and white cedar. | Adv Ther
+- new | 1999 | 10228604 | Clinical Trial/Randomized Controlled Trial | Echinaforce and other Echinacea fresh plant preparations in the treatment of the common cold. A randomized, placebo controlled, double-blind clinical trial. | Phytomedicine
+- new | 1999 | 10230741 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A randomized controlled trial of the effect of fluid extract of Echinacea purpurea on the incidence and severity of colds and respiratory infections. | Am J Med
+- new | 1998 | 9821828 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Echinacea root extracts for the prevention of upper respiratory tract infections: a double-blind, placebo-controlled randomized trial. | Arch Fam Med
+- new | 1997 | 9043936 |  | In vitro effects of echinacea and ginseng on natural killer and antibody-dependent cell cytotoxicity in healthy subjects and chronic fatigue syndrome or acquired immunodeficiency s | Immunopharmacology
+- new | 1995 | 9395611 | Clinical Trial/Randomized Controlled Trial | Results of five randomized studies on the immunomodulatory activity of preparations of Echinacea. | J Altern Complement Med
+- new | 1994 | 23195946 |  | Immunomodulation with echinacea - a systematic review of controlled clinical trials. | Phytomedicine
+- new | 1992 | 1393685 | Clinical Trial | Nonspecific immunostimulation with low doses of cyclophosphamide (LDCY), thymostimulin, and Echinacea purpurea extracts (echinacin) in patients with far advanced colorectal cancers | Cancer Invest
+
+### PubMed SR - 30 hits, 13 not already listed above, 13 new
+- new | 2026 | 41764614 | Review | Herbal Medicines and Drugs Interactions: Cytochrome P450 Responsibility. | Curr Med Chem
+- new | 2026 | 42828078 | Review | A Systematic Review on Green Synthesized Selenium Nanoparticles as Antioxidant and Antidiabetic Agents: Mechanistic Insights and Therapeutic Potential. | Avicenna J Med Biotechnol
+- new | 2025 | 40149916 | Review | Interplay Between Traditional and Scientific Knowledge: Phytoconstituents and Their Roles in Lung and Colorectal Cancer Signaling Pathways. | Biomolecules
+- new | 2024 | 38667040 | Review | Echinacea Reduces Antibiotics by Preventing Respiratory Infections: A Meta-Analysis (ERA-PRIMA). | Antibiotics (Basel)
+- new | 2024 | 38732450 | Review | Echinacea: Bioactive Compounds and Agronomy. | Plants (Basel)
+- new | 2023 | 37484695 | Review | The Efficacy of Herbs as Complementary and Alternative Therapy in Recovery and Clinical Outcome Among People with COVID-19: A Systematic Review, Meta-Analysis, and Meta-Regression. | Ther Clin Risk Manag
+- new | 2021 | 34341776 |  | A systematic review on the effects of Echinacea supplementation on cytokine levels: Is there a role in COVID-19? | Metabol Open
+- new | 2016 | 27268043 | Research Support, Non-U.S. Gov't/Systematic Review | Medicinal plants--prophylactic and therapeutic options for gastrointestinal and respiratory diseases in calves and piglets? A systematic review. | BMC Vet Res
+- new | 2011 | 21322286 | Review | Complementary and alternative medicine for prevention and treatment of the common cold. | Can Fam Physician
+- new | 2007 | 17597571 | Meta-Analysis/Review | Evaluation of echinacea for the prevention and treatment of the common cold: a meta-analysis. | Lancet Infect Dis
+- new | 2006 | 16768061 | Meta-Analysis/Review | The effect of Echinacea on upper respiratory infection symptom severity and quality of life. | Conn Med
+- new | 2005 | 15853441 | Case Reports/Research Support, Non-U.S. Gov't/Systematic Review | The safety of herbal medicinal products derived from Echinacea species: a systematic review. | Drug Saf
+- new | 2005 | 16260410 | Historical Article/Systematic Review | An evidence-based systemic review Echinacea E. angustifolia DC, E. pallida, E. purpurea by the Natural Standard Research Collaboration. | J Herb Pharmacother
+
+### PubMed SAFE - 206 hits, 140 not already listed above, 136 new
+- new | 2026 | 42627351 |  | Alleviating effect of Echinacea purpurea petal water extract on symptoms of ovalbumin-induced allergic rhinitis in mice. | Biosci Biotechnol Biochem
+- new | 2026 | 42737476 | Review | From Phytochemical Diversity to Clinical Translation: Preparation-Dependent Bioactivity of Echinacea purpurea. | Int J Mol Sci
+- new | 2026 | 42610214 |  | Sensitive electrochemical and hepatoprotective assessment of polyphenols in Echinacea purpurea-based pharmaceutical products. | Free Radic Res
+- new | 2026 | 42216677 |  | Pharmacokinetic Assessment of Atazanavir and Favipiravir Following Echinacea Supplementation: A Controlled Herb-Drug Interaction Investigation. | Biopharm Drug Dispos
+- new | 2026 | 42718682 |  | Dietary Echinacea purpurea polysaccharide supplementation improves antioxidative status, intestinal immune, and structure of cecal microbiota in Mahuang chickens. | Front Vet Sci
+- new | 2026 | 42892104 |  | Echinacea and Ginger combination reduces inflammatory responses of preeclamptic placental cells. | J Reprod Immunol
+- new | 2026 | 42227392 |  | Transcript-Level Modulation of Drug-Metabolizing Enzymes by Echinacea, Salvia, and Thymus in Adult Male Rats: Implications for Herb-Drug Interactions. | Curr Pharm Des
+- new | 2026 | 41957223 |  | In vivo evaluation of the anti-inflammatory efficacy of liposomes loaded with Echinacea purpurea roots extracts. | Drug Deliv Transl Res
+- new | 2026 | 42015445 |  | Significance of Herbs in the Dental World. | J Coll Physicians Surg Pak
+- new | 2026 | 42758440 |  | Modulation of Nrf2/TNF-α and TLR4/TGF-β1 Signaling Pathways by Nigella Sativa Oil and Echinacea Purpurea Extract Attenuates Cyclosporine A-Induced Nephrotoxicity and Immunotoxicity | Cell Biochem Biophys
+- new | 2026 | 43062555 | Review | Chicoric acid: A critical review of extraction, preclinical pharmacology, pharmacokinetics and the human evidence gap. | Inflammopharmacology
+- new | 2026 | 42115237 |  | Ameliorative effects of Spirulina platensis niosome and Echinacea purpura on cyclophosphamide-induced splenic, cardiac and neurotoxicity via modulating NF-κB pathway and oxidative  | Sci Rep
+- new | 2025 | 40265854 | Review | Herbal Immunostimulants and Their Phytochemicals: Exploring Morinda citrifolia, Echinacea purpurea, and Phyllanthus niruri. | Plants (Basel)
+- new | 2025 | 41630714 |  | The ameliorative effects of Echinacea purpurea and vitamin E against linezolid-induced hepatotoxicity in rats. | Open Vet J
+- new | 2025 | 40897757 |  | Echinacea purpurea ameliorates Bleomycin-induced pulmonary fibrosis in rats through modulating NADPH oxidase-4 and endothelin-1/connective tissue growth factor/matrix metalloprotei | Sci Rep
+- new | 2025 | 40698369 |  | Effect of Echinacea purpurea extract and powder with reduced sodium nitrite on quality, oxidative stability, and microbial safety of dry-fermented duck sausage. | Food Chem X
+- new | 2025 | 39425923 | Review | Recent advances in natural products and derivatives with antiviral activity against respiratory syncytial virus (RSV). | J Asian Nat Prod Res
+- new | 2025 | 40560228 | Review | A review of herbal therapeutics for the prevention and management of poxvirus infections. | Arch Microbiol
+- new | 2025 | 41123779 |  | Kaempferols from Echinacea purpurea demonstrate anti-cancer potential by targeting anexelekto in breast cancer therapy using chemoinformatics approach. | Discov Oncol
+- new | 2025 | 39945995 |  | The effects of anti-galactagogue (sage, parsley extract) and anti-inflammatory (echinacea extract) feed supplements on prolactin levels and fertility in the re-pregnancy of lactati | Trop Anim Health Prod
+- new | 2025 | 41471290 |  | Comparative Study on Extracts from Traditional Medicinal Plants Echinacea purpurea (L.) Moench and Onopordum acanthium (L.): Antioxidant Activity In Vitro and Anxiolytic Effect In  | Pharmaceuticals (Basel)
+- new | 2025 | 40049118 | Research Support, Non-U.S. Gov't | Modulation of neuroinflammation and oxidative stress by Echinacea purpurea extract: Therapeutic potential in maternal separation-induced autism spectrum disorder. | J Psychiatr Res
+- new | 2024 | 38467789 |  | Immuno-antioxidative reno-modulatory effectiveness of Echinacea purpurea extract against bifenthrin-induced renal poisoning. | Sci Rep
+- new | 2024 | 38309407 |  | Echinacea purpurea polysaccharide intervene in hepatocellular carcinoma via modulation of gut microbiota to inhibit TLR4/NF-κB pathway. | Int J Biol Macromol
+- new | 2024 | 39678074 |  | Oral toxicity and genotoxicity assessment of standardized Echinacea purpurea (L.) extract and the pharmacokinetic profile of its active ingredient chicoric acid. | Toxicol Res
+- new | 2024 | 39258513 | Research Support, Non-U.S. Gov't | Effect of dietary medicinal plants on physiological responses of broiler chickens challenged with Campylobacter jejuni. | Vet Med Sci
+- new | 2024 | 38150137 | Research Support, Non-U.S. Gov't | Echinacea purpurea extract intervention for counteracting neurochemical and behavioral changes induced by bifenthrin. | Metab Brain Dis
+- new | 2024 | 38474483 |  | Analytical Assessment of the Antioxidant Properties of the Coneflower (Echinacea purpurea L. Moench) Grown with Various Mulch Materials. | Molecules
+- new | 2024 | 39336535 | Review | Diagnostic Workup in IgE-Mediated Allergy to Asteraceae Weed Pollen and Herbal Medicine Products in Europe. | Medicina (Kaunas)
+- new | 2024 | 38459283 |  | Echinacea purpurea root extract mitigates hepatotoxicity, genotoxicity, and ultrastructural changes induced by hexavalent chromium via oxidative stress suppression. | Environ Sci Pollut Res Int
+- new | 2024 | 38732552 |  | Echinacea purpurea Polysaccharide Ameliorates Dextran Sulfate Sodium-Induced Colitis by Restoring the Intestinal Microbiota and Inhibiting the TLR4-NF-κB Axis. | Nutrients
+- new | 2024 | 39092399 |  | Formulation of Neem and Echinacea Gel for Oral Health Along With the Evaluation of Antimicrobial, Cytotoxic, Anti-inflammatory, and Free Radical Scavenging Activity: An In Vitro St | Cureus
+- new | 2024 | 39184651 |  | An In Vitro Study of Antioxidant, Anti-inflammatory, and Cytotoxic Effects of Echinacea-Mediated Zinc Oxide Nanoparticles. | Cureus
+- new | 2024 | 38711406 |  | Dynamics of the content of reactive oxygen species and the state of the glutathione system in the oral cavity during subchronic intoxication wuth the fungicide thiram and its antio | Biomed Khim
+- new | 2023 | 36640914 |  | Evaluation of anti-Alzheimer activity of Echinacea purpurea extracts in aluminum chloride-induced neurotoxicity in rat model. | J Chem Neuroanat
+- new | 2023 | 37111777 |  | In Vivo Acute Toxicity and Immunomodulation Assessment of a Novel Nutraceutical in Mice. | Pharmaceutics
+- new | 2023 | 38529086 |  | Plasmopara echinaceae, a new species of downy mildew affecting cone flowers (Echinacea purpurea) in the United States. | Fungal Syst Evol
+- new | 2023 | 36645711 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Fexofenadine Plasma Concentrations to Estimate Systemic Exposure in Healthy Adults Using a Limited Sampling Strategy with a Population Pharmacokinetic Approach. | Ther Drug Monit
+- new | 2023 | 37930572 |  | Chicoric acid enhances the antioxidative defense system and protects against inflammation and apoptosis associated with the colitis model induced by dextran sulfate sodium in rats. | Environ Sci Pollut Res Int
+- new | 2022 | 35843188 |  | Polysaccharide from Echinacea purpurea plant ameliorates oxidative stress-induced liver injury by promoting Parkin-dependent autophagy. | Phytomedicine
+- new | 2022 | 35135449 |  | Rational and Safe Use of the Top Two Botanical Dietary Supplements to Enhance the Immune System. | Comb Chem High Throughput Screen
+- new | 2022 | 35874082 |  | The intestinal absorption mechanism of chicoric acid and its bioavailability improvement with chitosan. | Heliyon
+- new | 2022 | 36362404 |  | On the Bioactivity of Echinacea purpurea Extracts to Modulate the Production of Inflammatory Mediators. | Int J Mol Sci
+- new | 2022 | 35461865 |  | In-depth investigation of the mechanisms of Echinacea purpurea polysaccharide mitigating alcoholic liver injury in mice via gut microbiota informatics and liver metabolomics. | Int J Biol Macromol
+- new | 2022 | 35057067 | Review | Herbal Medicines-Are They Effective and Safe during Pregnancy? | Pharmaceutics
+- new | 2021 | 34029938 | Review | Echinacea in hepatopathy: A review of its phytochemistry, pharmacology, and safety. | Phytomedicine
+- new | 2021 | 33732394 |  | Safety and efficacy of feed additives consisting of dried extracts from Echinacea angustifolia DC. or Echinacea purpurea (L.) Moench for use in cats and dogs (C.I.A.M.). | EFSA J
+- HELD REF-2020 | 2021 | 33730506 | Research Support, Non-U.S. Gov't | Interaction of Phytocompounds of Echinacea purpurea with ABCB1 and ABCG2 Efflux Transporters. | Mol Pharm
+- new | 2021 | 34218367 |  | Multi-protective role of Echinacea purpurea L. water extract in Allium cepa L. against mercury(II) chloride. | Environ Sci Pollut Res Int
+- new | 2021 | 34293362 |  | Echinacea purpurea polysaccharide prepared by fractional precipitation prevents alcoholic liver injury in mice by protecting the intestinal barrier and regulating liver-related pat | Int J Biol Macromol
+- new | 2021 | 32959676 | Research Support, Non-U.S. Gov't | Echinacea Angustifolia DC Extract Induces Apoptosis and Cell Cycle Arrest and Synergizes with Paclitaxel in the MDA-MB-231 and MCF-7 Human Breast Cancer Cell Lines. | Nutr Cancer
+- new | 2020 | 32237435 |  | [Study on literature of Echinacea purpurea and discussion on its herbalization]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2020 | 32837894 |  | The effect of Echinacea spp. on the prevention or treatment of COVID-19 and other respiratory tract infections in humans: A rapid review. | Adv Integr Med
+- new | 2020 | 31931071 |  | A strategy for test article selection and phytochemical characterization of Echinacea purpurea extract for safety testing. | Food Chem Toxicol
+- new | 2020 | 31828572 |  | Impact of dietary supplementation with Echinacea purpurea on growth performance, immunological, biochemical, and pathological findings in broiler chickens infected by pathogenic E. | Trop Anim Health Prod
+- new | 2019 | 29582619 | Case Reports/Review | Oral echinacea exerts complete clearing of multiple facial molluscum contagiosum in a young black patient. | G Ital Dermatol Venereol
+- new | 2019 | 31113761 |  | Analysis of spontaneous adverse drug reactions to echinacea, valerian, black cohosh and ginkgo in Australia from 2000 to 2015. | J Integr Med
+- new | 2019 | 30342330 |  | Growth and nutrient content of Echinacea purpurea as affected by the combination of phosphorus with arbuscular mycorrhizal fungus and Pseudomonas florescent bacterium under differe | J Environ Manage
+- new | 2018 | 29430971 |  | Insulin-like 3 expression and fibrosis induction after intra-testicular injection of magnetic nanoparticles in rat testis and the ameliorative role of Echinacea purpurea extract. | Biotech Histochem
+- new | 2018 | 29184939 |  | Consumption of plant food supplements in the Netherlands. | Food Funct
+- new | 2018 | 28990842 |  | MicroRNA-655-3p regulates Echinacea purpurea mediated activation of ABCG2. | Xenobiotica
+- new | 2017 | 28880243 |  | Simultaneous Determination of Seven Phenolic Acids in Rat Plasma Using UHPLC-ESI-MS/MS after Oral Administration of Echinacea purpurea Extract. | Molecules
+- new | 2017 | 28353157 |  | Spontaneously Reported Adverse Reactions for Herbal Medicinal Products and Natural Remedies in Sweden 2007-15: Report from the Medical Products Agency. | Drugs Real World Outcomes
+- new | 2016 | 26441065 | Review | Review and Assessment of Medicinal Safety Data of Orally Used Echinacea Preparations. | Planta Med
+- new | 2016 | 27479684 | Validation Study | Pharmacokinetics, tissue distribution, and plasma protein binding study of chicoric acid by HPLC-MS/MS. | J Chromatogr B Analyt Technol Biomed Lif
+- new | 2016 | 27383155 |  | Plant Polysaccharides Attenuate Fluorouracil Toxicity for the Small Intestinal Epithelium. | Bull Exp Biol Med
+- new | 2016 | 27860473 |  | Use of plant extracts as an efficient alternative therapy of respiratory tract infections. | Ceska Slov Farm
+- new | 2016 | 26924074 |  | Simultaneous determination and pharmacokinetic study of four phenol compounds in rat plasma by ultra-high performance liquid chromatography with tandem mass spectrometry after oral | J Sep Sci
+- new | 2016 | 27114944 |  | Proliferative activity of a blend of Echinacea angustifolia and Echinacea purpurea root extracts in human vein epithelial, HeLa, and QBC-939 cell lines, but not in Beas-2b cell lin | J Tradit Complement Med
+- new | 2016 | 27695271 |  | Inhibition of Human Cytochrome P450 2c8-catalyzed Amodiaquine N-desethylation: Effect of Five Traditionally and Commonly Used Herbs. | Pharmacognosy Res
+- new | 2016 | 26895223 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Pregnancy outcomes after prenatal exposure to echinacea: the Norwegian Mother and Child Cohort Study. | Eur J Clin Pharmacol
+- new | 2015 | 25600644 | Review | Contact dermatitis as an adverse reaction to some topically used European herbal medicinal products - part 2: Echinacea purpurea-Lavandula angustifolia. | Contact Dermatitis
+- HELD REF-2011 | 2015 | 26009695 | Review | Echinacea purpurea: Pharmacology, phytochemistry and analysis methods. | Pharmacogn Rev
+- new | 2015 | 25377539 | Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S. | Echinacea purpurea up-regulates CYP1A2, CYP3A4 and MDR1 gene expression by activation of pregnane X receptor pathway. | Xenobiotica
+- new | 2015 | 26119446 | Case Reports/Letter | Echinacea-associated acute cholestatic hepatitis. | J Postgrad Med
+- new | 2015 | 26593037 | Research Support, Non-U.S. Gov't | Effect of Chicoric Acid on Mast Cell-Mediated Allergic Inflammation in Vitro and in Vivo. | J Nat Prod
+- new | 2014 | 24624087 | Review | Echinacea and elderberry-should they be used against upper respiratory tract infections during pregnancy? | Front Pharmacol
+- new | 2014 | 25362606 |  | The protective effect of Echinacea spp. (Echinacea angustifolia and Echinacea purpurea) in a rat colitis model induced by acetic acid. | Pak J Pharm Sci
+- new | 2014 | 25077363 | Comparative Study | The antioxidant effect of Echinacea angustifolia and Echinacea purpurea in rat colitis model induced by acetic acid. | Bratisl Lek Listy
+- new | 2014 | 30708662 |  | White Rust of Echinacea angustifolia and E. purpurea in North America Caused by a Pustula Species. | Plant Dis
+- new | 2014 | 25288248 | Case Reports/Letter | Echinacea-induced acute liver failure in a child. | J Paediatr Child Health
+- new | 2014 | 25115096 | Research Support, Non-U.S. Gov't | Possible role of fat tissue in the pharmacokinetics of Dodeca-2E,4E,8Z,10E/Z-tetraenoic acid isobutylamides after oral administration of Echinacea angustifolia extract in rats. | Nat Prod Commun
+- new | 2013 | 24624189 |  | Effects of Echinacea purpurea on Hepatic and Renal Toxicity Induced by Diethylnitrosamine in Rats. | Jundishapur J Nat Pharm Prod
+- new | 2013 | 23408271 | Research Support, N.I.H., Extramural | Echinacea sanguinea and Echinacea pallida extracts stimulate glucuronidation and basolateral transfer of Bauer alkamides 8 and 10 and ketone 24 and inhibit P-glycoprotein transport | Planta Med
+- new | 2013 | 23322561 |  | Alkamides from Echinacea angustifolia Interact with P-glycoprotein of primary brain capillary endothelial cells isolated from porcine brain blood vessels. | Planta Med
+- new | 2013 | 23674609 | Research Support, Non-U.S. Gov't | Milk thistle's active components silybin and isosilybin: novel inhibitors of PXR-mediated CYP3A4 induction. | Drug Metab Dispos
+- new | 2012 | 31643759 | Review | Echinacea. | 
+- new | 2012 | 22607644 | Case Reports | Probable etoposide interaction with Echinacea. | J Diet Suppl
+- new | 2012 | 22588833 | Review | Phenotyping studies to assess the effects of phytopharmaceuticals on in vivo activity of main human cytochrome p450 enzymes. | Planta Med
+- new | 2012 | 21923308 |  | Efficacy of Arnica Echinacea powder in umbilical cord care in a large cohort study. | J Matern Fetal Neonatal Med
+- new | 2012 | 22319006 |  | In vitro inhibition of CYP3A4 by the multiherbal commercial product Sambucus Force and its main constituents Echinacea purpurea and Sambucus nigra. | Phytother Res
+- new | 2011 | 19906827 |  | Safety of Herbal Medicinal Products: Echinacea and Selected Alkylamides Do Not Induce CYP3A4 mRNA Expression. | Evid Based Complement Alternat Med
+- new | 2011 | 21312240 | Research Support, Non-U.S. Gov't | Effects of phenytoin and Echinacea purpurea extract on proliferation and apoptosis of mouse embryonic palatal mesenchymal cells. | J Cell Biochem
+- new | 2011 | 21123121 | Research Support, Non-U.S. Gov't | A sensitive LC-MS/MS method for the quantitative analysis of the Echinacea purpurea constituent undeca-2-ene-8,10-diynoic acid isobutylamide in human plasma. | J Chromatogr B Analyt Technol Biomed Lif
+- new | 2011 | 21604240 | Research Support, Non-U.S. Gov't | Absolute/relative bioavailability and metabolism of dodeca-2E,4E,8Z,10E/Z-tetraenoic acid isobutylamides (tetraenes) after intravenous and oral single doses to rats. | Planta Med
+- new | 2010 | 20374973 | Research Support, Non-U.S. Gov't | The effect of standardized Echinacea purpurea extract on rat cytochrome P450 expression level. | Phytomedicine
+- new | 2010 | 20890257 | Case Reports | Hypereosinophilia associated with echinacea use. | South Med J
+- new | 2010 | 19790031 | Research Support, Non-U.S. Gov't | Metabolomic profiling of liquid Echinacea medicinal products with in vitro inhibitory effects on cytochrome P450 3A4 (CYP3A4). | Planta Med
+- new | 2010 | 20135639 | Research Support, Non-U.S. Gov't | Metabolism of the major Echinacea alkylamide N-isobutyldodeca-2E,4E,8Z,10Z-tetraenamide by human recombinant cytochrome P450 enzymes and human liver microsomes. | Phytother Res
+- new | 2009 | 19427870 | Research Support, Non-U.S. Gov't/Review | Echinacea metabolism and drug interactions: the case for standardization of a complementary medicine. | Life Sci
+- new | 2009 | 18688789 | Research Support, Non-U.S. Gov't | Echinacea purpurea and P-glycoprotein drug transport in Caco-2 cells. | Phytother Res
+- new | 2009 | 19581209 | Research Support, Non-U.S. Gov't | Biological effects of Echinacea purpurea on human blood cells. | Arh Hig Rada Toksikol
+- new | 2009 | 19650152 | Research Support, Non-U.S. Gov't | Spontaneously reported adverse reactions in association with complementary and alternative medicine substances in Sweden. | Pharmacoepidemiol Drug Saf
+- new | 2008 | 18618481 | Review | A critical evaluation of drug interactions with Echinacea spp. | Mol Nutr Food Res
+- new | 2008 | 18249315 | Case Reports/Letter | Echinacea-induced severe acute hepatitis with features of cholestatic autoimmune hepatitis. | Eur J Intern Med
+- new | 2008 | 18947363 | Comparative Study/Research Support, Non-U.S. Gov't | In vitro CYP3A4 metabolism: inhibition by Echinacea purpurea and choice of substrate for the evaluation of herbal inhibition. | Basic Clin Pharmacol Toxicol
+- new | 2008 | 18583121 | Research Support, Non-U.S. Gov't | Pharmacokinetics and immunomodulatory effects of phytotherapeutic lozenges (bonbons) with Echinacea purpurea extract. | Phytomedicine
+- HELD REF-5018 | 2008 | 18331390 | Research Support, Non-U.S. Gov't | In vitro inhibition of CYP3A4 metabolism and P-glycoprotein-mediated transport by trade herbal products. | Basic Clin Pharmacol Toxicol
+- new | 2008 | 18425719 |  | P-Glycoprotein inhibitory activity of lipophilic constituents of Echinacea pallida roots in a human proximal tubular cell line. | Planta Med
+- new | 2007 | 17209665 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S./Review | Ocular adverse effects associated with systemic medications : recognition and management. | Drugs
+- new | 2007 | 17404072 | Comparative Study | Influence of Echinacea purpurea (L.) Moench extract on the toxicity of cadmium. | Ann N Y Acad Sci
+- new | 2007 | 17538868 | Review | The role of alkamides as an active principle of echinacea. | Planta Med
+- new | 2007 | 17430641 | Comparative Study/Research Support, Non-U.S. Gov't | Cytochrome P450 inhibitory action of Echinacea preparations differs widely and co-varies with alkylamide content. | J Pharm Pharmacol
+- new | 2007 | 18292834 |  | Influence of Echinacea purpurea intake during pregnancy on fetal growth and tissue angiogenic activity. | Folia Histochem Cytobiol
+- HELD REF-5019 | 2007 | 17214607 |  | The induction of CYP1A2, CYP2D6 and CYP3A4 by six trade herbal products in cultured primary human hepatocytes. | Basic Clin Pharmacol Toxicol
+- new | 2007 | 17658211 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Effects of herbal products and their constituents on human cytochrome P450(2E1) activity. | Food Chem Toxicol
+- new | 2007 | 17404071 |  | Assessment of the effect of Echinacea purpurea (L.) Moench on apoptotic and mitotic activity of liver cells during intoxication by cadmium. | Ann N Y Acad Sci
+- new | 2006 | 17085774 | Review | Safety and efficacy of echinacea (Echinacea angustafolia, e. purpurea and e. pallida) during pregnancy and lactation. | Can J Clin Pharmacol
+- new | 2006 | 16210848 | Research Support, Non-U.S. Gov't | Dietary Echinacea purpurea during murine pregnancy: effect on maternal hemopoiesis and fetal growth. | Biol Neonate
+- new | 2006 | 16493617 | Case Reports/Letter | Severe thrombotic thrombocytopenic purpura (TTP) induced or exacerbated by the immunostimulatory herb Echinacea. | Am J Hematol
+- new | 2006 | 17054047 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Liver enzyme-mediated oxidation of Echinacea purpurea alkylamides: production of novel metabolites and changes in immunomodulatory activity. | Planta Med
+- new | 2006 | 16889880 | Comparative Study/Research Support, Non-U.S. Gov't | A comparison study of effects of Echinacea extract and levamisole on phenytoin-induced cleft palate in mice. | Regul Toxicol Pharmacol
+- new | 2006 | 16781646 | Case Reports/Letter | Echinacea's immune effects-possibilities and pitfalls-two cases. | Explore (NY)
+- new | 2005 | 15885678 | Research Support, Non-U.S. Gov't | Cytochrome P450 enzyme-mediated degradation of Echinacea alkylamides in human liver microsomes. | Chem Biol Interact
+- new | 2005 | 15992226 |  | Analysis of the inhibitory potential of Ginkgo biloba, Echinacea purpurea, and Serenoa repens on the metabolic activity of cytochrome P450 3A4, 2D6, and 2C9. | J Altern Complement Med
+- new | 2004 | 15330011 | Research Support, U.S. Gov't, P.H.S./Review | Complementary and alternative interventions in asthma, allergy, and immunology. | Ann Allergy Asthma Immunol
+- new | 2004 | 15488795 | Research Support, Non-U.S. Gov't | Ocular side effects from herbal medicines and nutritional supplements. | Am J Ophthalmol
+- new | 2004 | 15197212 | Review | Herbal remedies in the United States: potential adverse interactions with anticancer agents. | J Clin Oncol
+- new | 2004 | 15070158 |  | An approach to the in vitro evaluation of potential for cytochrome P450 enzyme inhibition from herbals and other natural remedies. | Phytomedicine
+- new | 2003 | 12537169 |  | Echinacea. | Am Fam Physician
+- new | 2003 | 12784483 | Clinical Trial/Multicenter Study/Research Support, Non-U.S. Gov't | Echinacea powder: treatment for canine chronic and seasonal upper respiratory tract infections. | Schweiz Arch Tierheilkd
+- new | 2003 | 12740687 | Case Reports/Letter | Critical hypokalemic renal tubular acidosis due to Sjögren's syndrome: association with the purported immune stimulant echinacea. | Clin Rheumatol
+- new | 2002 | 11814284 | Comment/Editorial | Adverse reactions to complementary and alternative medicine: ragweed's cousin, the coneflower (echinacea), is "a problem more than a sneeze". | Ann Allergy Asthma Immunol
+- new | 2001 | 11570295 |  | Can herbal products be used safely during pregnancy? Focus on echinacea. | Can Fam Physician
+- new | 2001 | 11174391 | Case Reports | Recurrent erythema nodosum associated with Echinacea herbal therapy. | J Am Acad Dermatol
+- new | 2000 | 11074744 |  | Pregnancy outcome following gestational exposure to echinacea: a prospective controlled study. | Arch Intern Med
+- new | 1998 | 9507713 | Case Reports | Echinacea-associated anaphylaxis. | Med J Aust
+- new | 1998 | 9640313 | Letter | Echinacea-associated anaphylaxis. | Med J Aust
+- new | 1996 | 23194871 |  | Benefit-risk assessment of the squeezed sap of the purple coneflower (Echinacea purpurea) for long-term oral immunostimulation. | Phytomedicine
+- new | 1991 | 1799389 |  | Toxicity of Echinacea purpurea. Acute, subacute and genotoxicity studies. | Arzneimittelforschung
+
+### PubMed OBS - 12 hits, 3 not already listed above, 3 new
+- new | 2025 | 39861359 | Review | Herbal and Dietary Supplements as Adjunctive Treatment for Mild SARS-CoV-2 Infection in Italy. | Nutrients
+- new | 2011 | 21654598 | Research Support, Non-U.S. Gov't | Efficacy of complex herbal compound of Echinacea angustifolia (Imoviral® Junior) in recurrent upper respiratory tract infections during pediatric age: preliminary results. | Minerva Pediatr
+- new | 2011 | 32288746 |  | [A preliminary survey on the interest of eating probiotics, cypress and echinacea to prevent the apparition of winter infections]. | Phytotherapie (Paris) [fre]
+
+### PubMed REV - 106 hits, 12 not already listed above, 10 new
+- new | 2023 | 37350689 | Review | Efficacy of traditional herbal formulas on human immunity. | Eur Rev Med Pharmacol Sci
+- new | 2023 | 37313550 | Review | Plants and Plant-Derived Molecules as Natural Immunomodulators. | Biomed Res Int
+- HELD REF-2012 | 2022 | 35567246 | Review | Echinacea purpurea (L.) Moench: Biological and Pharmacological Properties. A Review. | Plants (Basel)
+- new | 2022 | 35894129 | Review | Antiviral activity of medicinal plant-derived products against SARS-CoV-2. | Exp Biol Med (Maywood)
+- new | 2017 | 29472815 | Review | Angiogenesis modulation by exogenous antioxidants. | Cent Eur J Immunol
+- new | 2014 | 24564587 | Review | Immunity: plants as effective mediators. | Crit Rev Food Sci Nutr
+- HELD REF-2015 | 2012 | 22131823 | Review | Applications of the phytomedicine Echinacea purpurea (Purple Coneflower) in infectious diseases. | J Biomed Biotechnol
+- new | 2006 | 30000869 | Review | Echinacea. | 
+- new | 2006 | 17012489 | Review | Echinacea. | Pediatr Rev
+- new | 2003 | 14639783 | Review | Echinacea as a functional food ingredient. | Adv Food Nutr Res
+- new | 1999 | 10030527 | Review | Echinacea. | Am J Health Syst Pharm
+- new | 1994 | 35951950 | Review | Echinacea. | 
+
+### ClinicalTrials.gov - 42 registered studies
+- NCT01129128 | COMPLETED | results=True | NA | Three Arm Trial of Immune Effects of Echinacea | conds: Upper Respiratory Tract Infections | intr: Echinacea purpurea product, Echinacea purpurea product, Placebo
+- NCT07398885 | COMPLETED | results=False | NA | Assessing the Impact of Herbal Supplement on Fatigue and Disease Activity in SLE: Results From an 8-Week Randomized Trial | conds: System; Lupus Erythematosus | intr: EVACUR, PLACEBO | pubs: ['34441861:RESULT (new)', '33214160:RESULT (new)']
+- NCT02394366 | COMPLETED | results=False | PHASE2 | Topical Salve for Skin Oxygenation and Blood Flow | conds: Skin Oxygenation, Peripheral Perfusion | intr: Original Healing Salve (OHS), OHS base only
+- NCT02134119 | COMPLETED | results=True | NA | Echinacea-based Supplement Does Not Improve Markers of Performance in Athletes | conds: Ineffective Erythropoiesis | intr: Echinacea-based dietary supplement, Placebo
+- NCT00029211 | COMPLETED | results=False | PHASE3 | A Trial of Echinacea in Children | conds: Common Cold | intr: Echinacea
+- NCT01046890 | COMPLETED | results=False | PHASE4 | Drug Interactions Between Echinacea Purpurea and Darunavir/Ritonavir | conds: HIV Infections | intr: Echinacea
+- NCT00689468 | COMPLETED | results=False | NA | Echinacea Purpurea and Osteopathy in Children With Recurrent Otitis Media | conds: Otitis Media | intr: Cranial osteopathic manipulative treatment., Echinacea purpurea, Sham osteopathic manipulative treat
+- NCT00103012 | COMPLETED | results=True | PHASE4 | Drug Interactions of Echinacea, Ginseng, and Ginkgo Biloba Taken With Lopinavir/Ritonavir in Healthy Volunteers | conds: Healthy | intr: Gingko Biloba, Echinacea purpurea, Panax ginseng
+- NCT03812900 | COMPLETED | results=False | PHASE2,PHASE3 | Superiority of Newly Developed Over Basic Echinacea Formulations for the Treatment of Respiratory Tract Infections | conds: Respiratory Tract Infections | intr: Echinacea purpurea alcoholic extract | pubs: ['37138742:DERIVED (new)']
+- NCT00231218 | COMPLETED | results=False | PHASE3 | Echinacea, Propolis and Vitamin C for URI Prevention in Preschoolers | conds: Common Cold, Gastroenteritis | intr: dietary supplement--echinacea, propolis, and vitamin c
+- NCT02345447 | COMPLETED | results=False | PHASE3 | Herbal-Based Medication vs. Placebo in Preventing Acute Otitis Media in Children at High Risk of Recurrence | conds: Acute Otitis Media | intr: Herbal-based medication, Placebo
+- NCT00032500 | COMPLETED | results=False | PHASE2 | Evaluation of Echinacea for the Common Cold | conds: Common Cold | intr: Echinacea | pubs: ['16049208:RESULT (new)']
+- NCT02168335 | COMPLETED | results=False | PHASE2 | The Efficacy of OrasaltsTM in the Treatment of Gingivitis | conds: Gingivitis | intr: OrasaltsTM, Sea salt
+- NCT04999098 | TERMINATED | results=False | PHASE4 | Echinaforce COVID-19 Shedding Study | conds: COVID-19 Respiratory Infection, SARS-CoV2 Infection | intr: Echinaforce Forte tablets, Echinaforce Chewable tablets, Echinaforce tincture
+- NCT05242718 | COMPLETED | results=False | NA | Immune Diversity Response to Oral Dosing of Nutritional Health Products in Healthy Participants | conds: Immunity Disorders | intr: N-Acetyl-L-cysteine (NAC), Echinacea purpurea, Curcumin, Palmitoylethanolamide
+- NCT00065715 | COMPLETED | results=False | PHASE3 | Echinacea Versus Placebo Effect in Common Cold (Physician Echinacea Placebo) | conds: Common Cold | intr: Echinacea, Blinded placebo | pubs: ['22046723:DERIVED (new)', '21173411:DERIVED (new)']
+- NCT01347658 | COMPLETED | results=False | NA | Drug Interactions Between Echinacea Purpurea and Etravirine | conds: HIV | intr: Echinacea purpurea
+- NCT00860795 | COMPLETED | results=True | NA | Immunologic Effects of Echinacea | conds: Upper Respiratory Tract Infections | intr: Echinacea purpurea, placebo
+- NCT01396889 | COMPLETED | results=False | NA | Impact of Echinacea as Prophilaxis for Upper Respiratory Tract Infections in Children 1-5 Years | conds: Upper Respiratory Tract Infections | intr: Echinacea, Placebo
+- NCT05077813 | UNKNOWN | results=False | PHASE2 | Utilizing the Crosstalk Among Chicoric Acid, 13-Cis Retinoic Acid(Aerosolized), Minocycline and Vitamin D as a Potent Quadrate Therapy for T | conds: Tuberculosis | intr: 13 cis retinoic acid, Minocycline, Chicroic Acid and Vitamin D for (MDR-TB), 9 cis retinoic acid, Mi
+- NCT03070314 | WITHDRAWN | results=False | PHASE4 | Echinaforce Junior Bioavailability Trial | conds: Common Cold | intr: Echinaforce junior
+- NCT02971384 | COMPLETED | results=False | PHASE3 | Echinacea Junior vs Vitamin C in Children 4-12 Years Old | conds: Respiratory Tract Infection Viral | intr: Echinaforce | pubs: ['33832544:DERIVED (HELD REF-3538)']
+- NCT03959410 | COMPLETED | results=False | NA | Impact of HPV on a Cohort of Southern Italian Women: Epidemiological, Clinical, Morphological and Microbiological Features | conds: Cervix Cancer | intr: Cervical biopsy
+- NCT05002179 | COMPLETED | results=False | PHASE4 | Echinaforce Study to Investigate Explorative Pharmacology and Effectiveness to Prevent From Enveloped Virus Infections | conds: Respiratory Tract Infections, Common Cold | intr: Echinaforce Chewable tablets
+- NCT01674374 | WITHDRAWN | results=False | PHASE2 | Botanical Therapy in Treating Mucositis in Patients With Head and Neck Cancer Who Have Undergone Chemoradiation Therapy | conds: Mucositis, Recurrent Squamous Cell Carcinoma of the Hypopharynx, Recurrent Squamous Cell Carcinoma of the Larynx, Recurrent Squamous Cell Carcinoma of the Lip and Oral Cavity | intr: placebo, quality-of-life assessment, questionnaire administration, Vaccinium myrtillus/Macleaya cord
+- NCT06583863 | COMPLETED | results=False | NA | Parasitic Infections and Ulcerative Colitis: Combining Anti-parasitic and Immunomodulatory Treatments May Achieve Remission | conds: Ulcerative Colitis | intr: Echinacea Extract, MetroNIDAZOLE 500 MG Oral Tablet [Flagyl]
+- NCT00010465 | COMPLETED | results=False | PHASE2 | Nervous System Manipulation and Botanicals for the Treatment of Recurrent Ear Infections in Children | conds: Otitis Media | intr: Craniosacral Osteopathic Manipulative Treatment, Botanicals | pubs: ['18831749:DERIVED (new)']
+- NCT02003651 | COMPLETED | results=False | NA | Echinacea and Acute Respiratory Illness | conds: Acute Respiratory Infections | intr: Quick Defense, Placebo
+- NCT04103099 | COMPLETED | results=False | NA | Impact of HLNatural Immune Supplement on Colds | conds: Immune System Diseases | intr: HLNatural Immune
+- NCT06190028 | TERMINATED | results=False | NA | Evaluation of Performance and Safety of Carbopol 980 NF 0.2%- Based Medical Device in the Management of Patients With Glaucomar or Ocular Hy | conds: Dry Eye Syndrome, Glaucoma and Concomitant Dry Eye Syndrome, Ocular Hypertension and Concomitant Dry Eye Syndrome, Multiple Long-term Topical Hypotensive Therapy | intr: Iridium A Gel
+- NCT00773435 | WITHDRAWN | results=False | NA | Effects of Echinacea in Children | conds: Upper Respiratory Infections | intr: Echinacea purpurea 100 mg/ml in liquid formulation, placebo
+- NCT03463018 | TERMINATED | results=False | PHASE2 | Echinacea Angustifolia (AnxioCalm) in Anxiety | conds: Generalized Anxiety Disorder | intr: Echinacea angustifolia, Placebo
+- NCT07388615 | RECRUITING | results=False | PHASE2 | The Effect of Echinacea (Immulant ®) in the Treatment of CRYPTOSPORIDIOSIS in Immunocompromised Children | conds: Cryptosporidium Infection | intr: Echinacea Extract
+- NCT07759180 | COMPLETED | results=False | NA | Sterile Plant-Based Gauze for Eyelid Hygiene in Anterior Blepharitis | conds: Blepharitis | intr: Plant-Based Sterile Eyelid Gauze, Sterile Cotton Gauze Moistened with Saline Solution
+- NCT06020001 | COMPLETED | results=False | NA | Clinical Evaluation of the AP203 Plant Extract Mixture in Adult Patients With Increased Incidence of Viral and/or Bacterial Upper Respirator | conds: Upper Respiratory Tract Infection Bacterial | intr: AP203 mixture (RESCOVIN®), AP203 mixture (RESCOVIN®), Placebo | pubs: ['39769201:DERIVED (new)']
+- NCT04981314 | UNKNOWN | results=False | PHASE4 | Echinacea Drug for Covid-19 | conds: Covid19 | intr: Equinacea Arkopharma, Placebo
+- NCT01021995 | COMPLETED | results=False | PHASE4 | Echinacea Safety Study | conds: Infections | intr: echinacea, placebo
+- NCT02313545 | COMPLETED | results=False | PHASE1,PHASE2 | Phase I-B Study to Evaluate the Safety, Tolerability and Efficacy of IZN-6NVS for the Treatment of AV and DIV | conds: Atrophic Vaginitis | intr: IZN-6NVS Cream
+- NCT00707902 | COMPLETED | results=False | PHASE3 | Clinical Trial for Assessment of Safety and Efficacy of a Echinacea/Sage Spray Compared to a Chlorhexidine/Lidocaine Spray in the Treatment  | conds: Pharyngitis | intr: chlorhexidine/lidocaine, echinacea/sage | pubs: ['15556647:RESULT (new)', '17597571:RESULT (new)', '14526713:RESULT (new)', '16504956:RESULT (HELD REF-3750)', '19748859:DERIVED (new)']
+- NCT01049373 | COMPLETED | results=True | PHASE3 | Efficacy and Safety of Lymphdiaral Basistropfen (HDC) in the Treatment of Chronic Low-back Pain | conds: Low Back Pain | intr: HDC, Placebo solution
+- NCT05067998 | RECRUITING | results=False |  | The Benefits of Natural Medicine, Vitamin IV Therapy and Supplements: Maintaining Good Health Through Nature | conds: Anxiety Disorders and Symptoms, Fibromyalgia, Arthritis, Chronic Pain | intr: IV Vitamin Infused Therapy Treatment, Herbal medicine
+- NCT05117385 | UNKNOWN | results=False | NA | The Effect of the Consumption of 4 Botanical Extracts on Immunity in Healthy Adults (B-4-Immune) | conds: Healthy Subject, Immunity | intr: Botanical extract
+
+### OpenAlex no-PMID trial-worded - 2198 hits, 31 without PMID, 30 new
+- new | 2026 | 10.5281/zenodo.23287596 | article | Echinacea (Echinacea purpurea): cold trials and safety | Zenodo (CERN European Organization for N
+- new | 2025 | 10.31579/2690-4861/651 | article | Treatment of Covid-19 Ambulatory Patients with A Medicinal Preparation of Echinacea Purpurea: The Ecco-2 Investigator-Initiated, Randomised, Double Blind, Controlled Trial | International Journal of Clinical Case R
+- new | 2024 | 10.37609/akya.2380.c13885 | book-chapter | Ekinezya (Echinacea Purpurea) | Akademisyen Kitabevi eBooks
+- new | 2022 | 10.1055/s-0042-1759342 | article | Reduction of viral load in patients with acute sore throats: Results from an observational clinical trial with Echinacea/Salvia lozenges | Planta Medica
+- new | 2022 | 10.1055/s-0042-1749304 | article | Reduction of viral load in patients with acute sore throats: Results from an observational clinical trial with Echinacea/Salvia lozenges | Zeitschrift für Phytotherapie
+- new | 2022 | 10.1055/s-0042-1749291 | article | Echinacea purpurea for the long-term prevention of viral respiratory tract infections during COVID-19 pandemic: A randomized, open, controlled clinical study | Zeitschrift für Phytotherapie
+- new | 2021 | 10.1055/s-0041-1736840 | review | Echinacea as a Potential Weapon against Coronavirus Infections?: A Mini-Review of randomized controlled trials | Planta Medica
+- new | 2021 | 10.1055/s-011-52534 | paratext | Effects of Echinacea purpurea (L.) Moench extract in calves | Planta Medica
+- new | 2021 | 10.1055/s-0041-1736827 | conference-paper | Effects of Echinacea purpurea (L.) Moench extract in calves | Planta Medica
+- new | 2019 | 10.1055/s-0039-3400122 | conference-paper | Echinacea reduces antibiotics through prevention of respiratory tract infections in children: a randomized, blinded, controlled clinical trial | Planta Medica
+- new | 2018 | https://openalex.org/W2918374449 | article | Effects of an oral Echinacea purpurea alcoholic spissum extract in calves. A placebo-controlled, randomized, double blinded study | Organic Eprints (International Centre fo
+- new | 2018 | 10.34101/actaagrar/74/1671 | article | The purple coneflower’s (Echinacea purpurea L.) nutrient requirements investigation in a small plot trial | Acta Agraria Debreceniensis
+- new | 2016 | 10.1055/s-0042-107997 | article | Phyto-Kombination im Vergleich zu Placebo und Bromhexin bei Husten | Zeitschrift für Phytotherapie
+- new | 2015 | 10.14200/jrm.2015.4.0106 | article | Assessing the Effect of Orally Administered Echinacea purpurea Extracts vs. Placebo on Pro-Inflammatory Cytokine Responses Ex Vivo | Journal of Restorative Medicine
+- new | 2014 | 10.4236/fns.2014.54041 | article | Immunomodulatory Activities of a Concentrated Fruit and Vegetable Juice Tested in a Randomized, Placebo-Controlled, Double-Blind Clinical Trial in Healthy Volunteers | Food and Nutrition Sciences
+- new | 2013 | https://openalex.org/W2517114364 | article | Perfil de eficacia y seguridad de Echinacea purpurea en la prevención de episodios de resfriado común: estudio clínico aleatorizado, doble ciego y controlado con placebo | Revista de fitoterapia
+- new | 2012 | 10.17816/rcf102103_1 | article | Randomized, Double Blind, Placebo-Controlled Study on Long-term Prophylaxis with Echinacea purpurea | Reviews on Clinical Pharmacology and Dru
+- new | 2012 | 10.4236/fns.2012.311200 | article | Tolerability of a Proprietary Larch Arabinogalactan Extract: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial in Healthy Subjects | Food and Nutrition Sciences
+- new | 2011 | 10.5897/ajb11.1484 | article | Enhancement of broiler performance and immune response by Echinacea purpurea supplemented in diet | AFRICAN JOURNAL OF BIOTECHNOLOGY
+- new | 2011 | https://openalex.org/W2185286480 | article | Pharmacotherapeutics of Echinacea purpurea: Gardening shelf to Clinic | 
+- new | 2010 | 10.1186/1758-2652-13-s4-p187 | article | Herb‐drug interaction between Echinacea purpurea and darunavir/ritonavir in HIV‐infected patients | Journal of the International AIDS Societ
+- new | 2009 | 10.1055/s-0029-1234439 | article | Assessment of somaclonal variation in purple coneflower (Echinacea purpurea (L.) Moench) by RAPD (Random Amplification of Polymorphic DNA) fingerprinting analyses | Planta Medica
+- new | 2008 | 10.22059/ijvm.2008.19734 | article | Antihelminic Effects of Echinacea purpurea in rat | Iranian Journal of Veterinary Medicine
+- new | 2008 | 10.1016/j.livsci.2008.07.013 | article | Echinacea purpurea as a potential immunostimulatory feed additive in laying hens and fattening pigs by intermittent application | Livestock Science
+- new | 2007 | 10.3742/opem.2007.7.4.372 | article | A single blind randomised placebo controlled clinical trial of a classical Ayurvedic formulation Ashokarista in the treatment of menorrhagia and dysmenorrhoea | Oriental Pharmacy and Experimental Medic
+- new | 2006 | https://openalex.org/W2187943681 | article | IMMUMNOLOGICAL EFFECTS OF AN ECHINACEA PURPUREA EXTRACT IN PATIENTS WITH BREAST CANCER | 
+- new | 2006 | 10.1007/s11240-006-9096-0 | article | Anther culture and haploid plant regeneration in purple coneflower (Echinacea purpurea L.) | Plant Cell Tissue and Organ Culture (PCT
+- HELD REF-3539 | 2005 | 10.1542/peds.2005-0698eeee | conference-abstract | Echinacea purpurea Therapy for the Treatment of the Common Cold: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial | PEDIATRICS
+- new | 2004 | 10.1211/fact.2004.00249 | article | Echinacea purpurea for prevention of colds in volunteers | Focus on Alternative and Complementary T
+- new | 2004 | 10.1211/fact.2004.00093 | article | First trial of Echinacea purpurea as treatment for colds in children is negative | Focus on Alternative and Complementary T
+- new | 2004 | 10.1016/s1462-9410(04)00045-2 | article | Echinacea purpurea is ineffective for upper respiratory tract infections in children | Evidence-based Healthcare
+
+## elettaria-cardamomum (Elettaria cardamomum) - name clause: "Elettaria cardamomum"[tiab] OR "cardamom"[tiab]
+
+### PubMed HT - 42 hits, 42 not already listed above, 35 new
+- new | 2026 | 42027681 | Clinical Trial | A full-spectrum aqueous extract of black cardamom (Amomum subulatum) improves focus/alertness and executive function: a randomized, double-blinded, placebo- and active-controlled,  | Front Neurosci
+- new | 2026 | 42877594 | Clinical Trial | Influence of a full-spectrum aqueous extract of black cardamom (Amomum subulatum Roxb.) fruits on focus/alertness and executive function: a randomized, double-blind, placebo-and ac | Front Neurosci
+- new | 2025 | 40967081 | Randomized Controlled Trial/Comparative Study | Comparison of the effect of ice sucking containing peppermint (Mentha piperita L.) with cardamom (Elettaria cardamomum) extract on nausea, vomiting, and drug request after laparosc | Explore (NY)
+- new | 2025 | 41029669 | Systematic Review | The efficacy and safety of herbal medicines for glycaemic control and insulin resistance in individuals with type 2 diabetes: an umbrella review. | BMC Complement Med Ther
+- new | 2024 | 38268891 | Review | Effect of cardamom consumption on inflammation and blood pressure in adults: A systematic review and meta-analysis of randomized clinical trials. | Food Sci Nutr
+- new | 2024 | 42038138 |  | Effect of Hiwa syrup, a Persian Medicine Product, on Autism Symptoms and in Children with Autism Spectrum Disorders: A Randomized Double-Blinded Clinical Trial. | Galen Med J
+- HELD REF-3545 | 2024 | 38593657 | Systematic Review/Meta-Analysis/Research Support, Non-U.S. Gov't | Cardamom consumption may improve cardiovascular metabolic biomarkers in adults: A systematic review and meta-analysis of randomized controlled trials. | Nutr Res
+- new | 2024 | 39479136 | Scoping Review | Available Treatments and Adjunctive Therapies for Polycystic Ovarian Syndrome (PCOS) Patients of Reproductive Age: A Scoping Review. | Cureus
+- HELD REF-3546 | 2023 | 36181264 | Meta-Analysis/Systematic Review | The effect of green cardamom on blood pressure and inflammatory markers among patients with metabolic syndrome and related disorders: A systematic review and meta-analysis of rando | Phytother Res
+- new | 2023 | 36707760 | Published Erratum | Correction: Effect of green cardamom on the expression of genes implicated in obesity and diabetes among obese women with polycystic ovary syndrome: a double blind randomized contr | Genes Nutr
+- new | 2023 | 37644446 | Systematic Review | The effects of medicinal and food homologous substances on blood lipid and blood glucose levels and liver function in patients with nonalcoholic fatty liver disease: a systematic r | Lipids Health Dis
+- new | 2023 | 37361940 | Review | Efficacy and Safety of Add-On Plant-Based Drugs for COVID-19 Patients: A Review of the Randomized Control Trials. | Infect Drug Resist
+- new | 2023 | 37885445 |  | Chronic supplementation of a multi-ingredient herbal supplement increases speed of cognitive task performance alongside changes in the urinary metabolism of dopamine and the gut mi | Front Nutr
+- new | 2023 | 37141519 |  | [Impact of essential oil vapors inhalation on blood pressure in patients with hypertension]. | Vopr Kurortol Fizioter Lech Fiz Kult [rus]
+- new | 2023 | 38053097 | Clinical Trial | Fractional Exhalation Nitric Oxide (FeNO) changes in cystic fibrosis patients induced by compound honey syrup: a pretest-posttest clinical trial. | BMC Pulm Med
+- new | 2022 | 35691204 | Meta-Analysis/Systematic Review | Effect of cardamom supplementation on a number of metabolic factors: A systematic review and meta-analysis. | Diabetes Metab Syndr
+- new | 2022 | 34057705 | Randomized Controlled Trial | Green cardamom plus low-calorie diet can decrease the expression of inflammatory genes among obese women with polycystic ovary syndrome: a double-blind randomized clinical trial. | Eat Weight Disord
+- new | 2022 | 36522620 |  | Effect of green cardamom on the expression of genes implicated in obesity and diabetes among obese women with polycystic ovary syndrome: a double blind randomized controlled trial. | Genes Nutr
+- HELD REF-3549 | 2022 | 35581106 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of Cardamom Inhalation Therapy on Intra-and Postoperative Nausea and Vomiting of Mothers Undergoing Spinal Anesthesia for Elective Cesarean Section. | J Perianesth Nurs
+- new | 2022 | 37025308 |  | Effect of Herbal Medicine Formulation (Compound Honey Syrup) on Quality of Life in Patients With COPD: A Randomized Clinical Trial. | Tanaffos
+- new | 2022 | 35320494 |  | Anti-inflammatory response of cardamom extract and prediction of therapeutic window in COVID-19 patients by assessing inflammatory markers using RT-PCR. | Inflammopharmacology
+- new | 2021 | 33804328 |  | Efficacy of Arabic Coffee and Black Tea in Reducing Halitosis: A Randomized, Double-Blind, Controlled, Crossover Clinical Trial. | Healthcare (Basel)
+- new | 2021 | 34765785 |  | Effect of harvesting stage, form and duration of storage on some physico-chemical properties of Korarima (Afframomum (Braun) P.C.M. Jansen) collected from Masha Woreda, Sheka Zone, | Heliyon
+- HELD REF-3548 | 2020 | 31755188 | Meta-Analysis/Systematic Review | Effects of cardamom supplementation on lipid profile: A systematic review and meta-analysis of randomized controlled clinical trials. | Phytother Res
+- HELD REF-3547 | 2020 | 32359750 | Meta-Analysis/Systematic Review | Effect of green cardamom on lipoproteins, glycemic control and anthropometric parameters: A meta-analysis of randomized clinical trials. | Clin Nutr ESPEN
+- new | 2020 | 32358339 | Clinical Trial Protocol | The effects of green cardamom supplementation on blood pressure and endothelium function in type 2 diabetic patients: A study protocol for a randomized controlled clinical trial. | Medicine (Baltimore)
+- new | 2020 | 31215276 | Systematic Review | A systematic review of the efficacy of alternative medicine in the treatment of nausea and vomiting of pregnancy. | J Obstet Gynaecol
+- new | 2019 | 30701554 | Randomized Controlled Trial | Beneficial effects of green cardamom on serum SIRT1, glycemic indices and triglyceride levels in patients with type 2 diabetes mellitus: a randomized double-blind placebo controlle | J Sci Food Agric
+- new | 2019 | 30871514 | Randomized Controlled Trial | Green cardamom supplementation improves serum irisin, glucose indices, and lipid profiles in overweight or obese non-alcoholic fatty liver disease patients: a double-blind randomiz | BMC Complement Altern Med
+- new | 2018 | 30319738 | Review | Effects of Complementary Medicine on Nausea and Vomiting in Pregnancy: A Systematic Review. | Int J Prev Med
+- new | 2018 | 29343256 | Randomized Controlled Trial | The effects of green cardamom supplementation on blood glucose, lipids profile, oxidative stress, sirtuin-1 and irisin in type 2 diabetic patients: a study protocol for a randomize | BMC Complement Altern Med
+- new | 2018 | 30263038 |  | Green cardamom increases Sirtuin-1 and reduces inflammation in overweight or obese patients with non-alcoholic fatty liver disease: a double-blind randomized placebo-controlled cli | Nutr Metab (Lond)
+- new | 2017 | 29026804 |  | The effect of cardamom supplementation on serum lipids, glycemic indices and blood pressure in overweight and obese pre-diabetic women: a randomized controlled trial. | J Diabetes Metab Disord
+- new | 2017 | 28592311 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effects of green cardamom on blood glucose indices, lipids, inflammatory factors, paraxonase-1, sirtuin-1, and irisin in patients with nonalcoholic fatty liver disease and obes | Trials
+- HELD REF-3550 | 2017 | 28480505 | Randomized Controlled Trial | Cardamom supplementation improves inflammatory and oxidative stress biomarkers in hyperlipidemic, overweight, and obese pre-diabetic women: a randomized double-blind clinical trial | J Sci Food Agric
+- new | 2016 | 26758574 | Randomized Controlled Trial | Effect of cinnamon, cardamom, saffron and ginger consumption on blood pressure and a marker of endothelial function in patients with type 2 diabetes mellitus: A randomized controll | Blood Press
+- new | 2014 | 26177486 | Research Support, Non-U.S. Gov't | Effects of Cinnamon, Cardamom, Saffron, and Ginger Consumption on Markers of Glycemic Control, Lipid Profile, Oxidative Stress, and Inflammation in Type 2 Diabetes Patients. | Rev Diabet Stud
+- new | 2013 | 22392970 | Randomized Controlled Trial | Aromatherapy as treatment for postoperative nausea: a randomized trial. | Anesth Analg
+- new | 2010 | 19504465 | Randomized Controlled Trial | In vivo enhancement of natural killer cell activity through tea fortified with Ayurvedic herbs. | Phytother Res
+- HELD REF-0292 | 2009 | 20361714 | Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Blood pressure lowering, fibrinolysis enhancing and antioxidant activities of cardamom (Elettaria cardamomum). | Indian J Biochem Biophys
+- new | 2008 | 18646130 | Systematic Review | Pharmacological interventions for clozapine-induced hypersalivation. | Cochrane Database Syst Rev
+- new | 2005 | 16106388 | Research Support, Non-U.S. Gov't | Cardamom extract as inhibitor of human platelet aggregation. | Phytother Res
+
+### PubMed SR - 19 hits, 7 not already listed above, 7 new
+- new | 2025 | 40386086 | Review | Acupuncture and Herbal Medicine for Nausea and Vomiting in Pregnancy: An Overview and Quality Assessment of Systematic Reviews. | Int J Womens Health
+- new | 2024 | 39306065 | Systematic Review | Heavy metals in spices and herbs from worldwide markets: A systematic review and health risk assessment. | Environ Pollut
+- new | 2024 | 38325073 | Systematic Review | The favorable impacts of cardamom on related complications of diabetes: A comprehensive literature systematic review. | Diabetes Metab Syndr
+- new | 2023 | 38068725 | Scoping Review | A Scoping Review of the Clinical Evidence for the Health Benefits of Culinary Doses of Herbs and Spices for the Prevention and Treatment of Metabolic Syndrome. | Nutrients
+- new | 2022 | 33506690 | Systematic Review | Functional foods modulating inflammation and metabolism in chronic diseases: a systematic review. | Crit Rev Food Sci Nutr
+- new | 2021 | 34283916 | Systematic Review | Effectiveness of Inhaled Aromatherapy on Chemotherapy-Induced Nausea and Vomiting: A Systematic Review. | J Altern Complement Med
+- new | 2017 | 29214141 | Review | New trends in anaphylaxis. | Allergo J Int
+
+### PubMed SAFE - 77 hits, 63 not already listed above, 60 new
+- new | 2026 | 42445324 |  | Self-Medication With Herbal Remedies During Pregnancy: Practices, Reasons, and Adverse Effects. | Scientifica (Cairo)
+- new | 2026 | 42405068 |  | In situ nanoencapsulation of essential oils in alginate on a cotton fabric for a controlled release system: statistical evaluation, application, and release mechanism. | RSC Adv
+- new | 2025 | 40140723 |  | Cardamom synergizes with cisplatin against human osteosarcoma cells by mTOR-mediated autophagy. | Cancer Gene Ther
+- new | 2025 | 40630427 |  | Acrylamide Occurrence in Iranian Biscuits and Its Potential Risk of Exposure. | Food Sci Nutr
+- new | 2025 | 40316790 | Review | Preliminary Assessment of Essential and Potentially Toxic Elements in the Most Common Spices in a Developing Country: Health Hazard Implication. | Biol Trace Elem Res
+- new | 2025 | 40796594 |  | Cardamonin inhibits the growth and stemness of osteosarcoma stem cells by inducing autophagy and inhibiting the Wnt/β-catenin signaling pathway. | Sci Rep
+- new | 2025 | 40045745 |  | Investigating the Cytoprotective Effect of Syzygium aromaticum and Elettaria cardamomum in Arsenic-Induced Toxicity in the HCT-116 Cell Model: A Luminesce-Based Study. | Luminescence
+- new | 2025 | 39791835 |  | An Assessment of the Cyto-Genotoxicity Effects of Green-Synthesized Silver Nanoparticles and ATCBRA Insecticide on the Root System of Vicia faba. | Nanomaterials (Basel)
+- new | 2024 | 38888582 |  | Identification of the Protein a-L-Fucosidase as the Possible Cause of Allergy to Cardamom. | J Investig Allergol Clin Immunol
+- new | 2024 | 38672692 | Review | An Overview of the Spices Used for the Prevention and Potential Treatment of Gastric Cancer. | Cancers (Basel)
+- new | 2024 | 36433866 | Review | Exploring the mechanism of action of Chinese medicine in regulating liver fibrosis based on the alteration of glucose metabolic pathways. | Phytother Res
+- new | 2024 | 39181767 | Research Support, Non-U.S. Gov't | Enhanced healing of burn wounds by multifunctional alginate-chitosan hydrogel enclosing silymarin and zinc ‎oxide ‎nanoparticles. | Burns
+- new | 2024 | 39592636 |  | Assessing multi-decadal climatic variability and its impact on cardamom cultivation in the Indian Cardamom Hills. | Sci Rep
+- new | 2023 | 37954396 |  | Heavy metals induced health risk assessment through consumption of selected commercially available spices in Noakhali district of Bangladesh. | Heliyon
+- new | 2023 | 36781058 |  | Cardamom oil ameliorates behavioral and neuropathological disorders in a rat model of depression induced by reserpine. | J Ethnopharmacol
+- new | 2023 | 37318456 |  | Protective effect of ethanolic extract of Elettaria Cardamomum against gentamicin hepato-renal toxicity in male albino rats. | Eur Rev Med Pharmacol Sci
+- new | 2023 | 36219334 | Review | Critical Review on Nutritional, Bioactive, and Medicinal Potential of Spices and Herbs and Their Application in Food Fortification and Nanotechnology. | Appl Biochem Biotechnol
+- new | 2022 | 36438833 | Review | From kitchen to clinic: Pharmacotherapeutic potential of common spices in Indian cooking in age-related neurological disorders. | Front Pharmacol
+- new | 2022 | 35319401 |  | Powerful Stress Relieving Medicinal Plants for Anger, Anxiety, Depression, and Stress During Global Pandemic. | Recent Pat Biotechnol
+- new | 2022 | 35996271 |  | Large Cardamom Extract Enhances Ramipril's Vasoprotective Action in the Aorta by Modulating Endothelial Redox Biology. An Evaluation based on In-silico and In-vitro Research. | Curr Comput Aided Drug Des
+- new | 2022 | 36045659 |  | In Vivo Efficacy, Toxicity Assessment, and Elemental Analysis of Traditionally Used Polyherbal Recipe for Diarrhea. | Evid Based Complement Alternat Med
+- new | 2022 | 36354677 |  | Cardamom Extract Alleviates the Oxidative Stress, Inflammation and Apoptosis Induced during Acetaminophen-Induced Hepatic Toxicity via Modulating Nrf2/HO-1/NQO-1 Pathway. | Curr Issues Mol Biol
+- new | 2022 | 35670907 |  | In Silico Analysis of the Apoptotic and HPV Inhibitory Roles of Some Selected Phytochemicals Detected from the Rhizomes of Greater Cardamom. | Appl Biochem Biotechnol
+- new | 2021 | 33625726 |  | Pattern of genetic structure of the common stream fish, Neolissochilus soroides (Pisces: Cyprinidae), addresses the importance of protected areas in eastern Thailand. | J Fish Biol
+- HELD REF-1673 | 2021 | 33926427 |  | Effects of Green cardamom (Elettaria cardamomum Maton) and its combination with cyclophosphamide on Ehrlich solid tumors. | BMC Complement Med Ther
+- new | 2021 | 34126118 |  | Green Synthesis of Ciprofloxacin-Loaded Cerium Oxide/Chitosan Nanocarrier and its Activity Against MRSA-Induced Mastitis. | J Pharm Sci
+- new | 2021 | 33670293 |  | Co-Toxicity Factor Analysis Reveals Numerous Plant Essential Oils Are Synergists of Natural Pyrethrins against Aedes aegypti Mosquitoes. | Insects
+- new | 2020 | 32224026 | Review | Cardamonin: A new player to fight cancer via multiple cancer signaling pathways. | Life Sci
+- new | 2020 | 33014687 | Case Reports | Novel interactions of cardamom mosaic virus VPg with cardamom histones H3 and H4. | 3 Biotech
+- HELD REF-1668 | 2020 | 31541721 | Review | Botany, traditional uses, phytochemistry and biological activities of cardamom [Elettaria cardamomum (L.) Maton] - A critical review. | J Ethnopharmacol
+- new | 2020 | 32906636 |  | Cardamonin Inhibits Oxazolone-Induced Atopic Dermatitis by the Induction of NRF2 and the Inhibition of Th2 Cytokine Production. | Antioxidants (Basel)
+- new | 2020 | 33746434 |  | Prevalence of Acute Pesticide Poisoning among Pesticide Applicators in Cardamom Plantations: A Cross-Sectional Study from Idukki District, Kerala. | Indian J Occup Environ Med
+- new | 2019 | 31196040 |  | Curcumin as a permeability enhancer enhanced the antihyperlipidemic activity of dietary green tea extract. | BMC Complement Altern Med
+- new | 2019 | 32626343 |  | Safety and efficacy of an essential oil from Elettaria cardamomum (L.) Maton when used as a sensory additive in feed for all animal species. | EFSA J
+- new | 2019 | 30677615 |  | In vitro anthelmintic activity and safety of different plant species against the ovine gastrointestinal nematode Teladorsagia circumcincta. | Res Vet Sci
+- new | 2018 | 29916095 |  | Cross-reactivity by botanicals used in dietary supplements and spices using the multiplex xMAP food allergen detection assay (xMAP FADA). | Anal Bioanal Chem
+- new | 2018 | 30264761 |  | Dohra- a mixture of potent carcinogens. | Indian J Med Res
+- new | 2018 | 29629668 |  | Using DNA Barcoding to Detect Adulteration in Different Herbal Plant- Based Products in the United Arab Emirates: Proof of Concept and Validation. | Recent Pat Food Nutr Agric
+- new | 2017 | 28735432 | Case Reports | Eucalyptol, sabinene and cinnamaldehyde: potent inhibitors of salmonella target protein L-asparaginase. | 3 Biotech
+- new | 2017 | 27774899 | Review | Spices: Therapeutic Potential in Cardiovascular Health. | Curr Pharm Des
+- HELD REF-1676 | 2017 | 28073098 |  | The effect of Elettaria cardamomum extract on anxiety-like behavior in a rat model of post-traumatic stress disorder. | Biomed Pharmacother
+- new | 2016 | 27022381 |  | Evaluation of knowledge of Health care professionals on warfarin interactions with drug and herb medicinal in Central Saudi Arabia. | Pak J Med Sci
+- new | 2016 | 27433883 |  | Chemical Composition, Anticonvulsant Activity, and Toxicity of Essential Oil and Methanolic Extract of Elettaria cardamomum. | Planta Med
+- new | 2016 | 28681014 |  | The Evaluation of the virulence factors of clinical Candida isolates and the anti-biofilm activity of Elettaria cardamomum against multi-drug resistant Candida albicans. | Curr Med Mycol
+- new | 2013 | 27092039 | Review | Anti-oncogenic perspectives of spices/herbs: A comprehensive review. | EXCLI J
+- new | 2012 | 22404574 |  | Chemopreventive effects of cardamom (Elettaria cardamomum L.) on chemically induced skin carcinogenesis in Swiss albino mice. | J Med Food
+- new | 2012 | 22182368 | Research Support, Non-U.S. Gov't | Antioxidative effects of the spice cardamom against non-melanoma skin cancer by modulating nuclear factor erythroid-2-related factor 2 and NF-κB signalling pathways. | Br J Nutr
+- new | 2011 | 22242564 | Research Support, Non-U.S. Gov't | Fumigant toxicity and oviposition deterrency of the essential oil from cardamom, Elettaria cardamomum, against three stored–product insects. | J Insect Sci
+- new | 2011 | 21660407 | Case Reports/Letter | Cardamom ingestion as a possible cause of hematuria. | Indian J Pediatr
+- new | 2010 | 20653562 | Research Support, Non-U.S. Gov't/Review | Chemopreventive properties of indole-3-carbinol, diindolylmethane and other constituents of cardamom against carcinogenesis. | Recent Pat Food Nutr Agric
+- new | 2010 | 20210607 |  | In vitro investigation of the potential immunomodulatory and anti-cancer activities of black pepper (Piper nigrum) and cardamom (Elettaria cardamomum). | J Med Food
+- new | 2010 | 20069631 | Evaluation Study/Research Support, Non-U.S. Gov't | Toxicity of diafenthiuron to honey bees in laboratory, semi-field and field conditions. | Pest Manag Sci
+- new | 2008 | 20020923 |  | Panmasala chewing induces deterioration in oral health and its implications in carcinogenesis. | Toxicol Mech Methods
+- new | 2007 | 18260732 |  | Inhibition of lipid peroxidation and enhancement of GST activity by cardamom and cinnamon during chemically induced colon carcinogenesis in Swiss albino mice. | Asian Pac J Cancer Prev
+- new | 2005 | 16101317 |  | Dietary cardamom inhibits the formation of azoxymethane-induced aberrant crypt foci in mice and reduces COX-2 and iNOS expression in the colon. | Asian Pac J Cancer Prev
+- new | 2004 | 15244513 | Comparative Study | Indian food ingredients and cancer prevention - an experimental evaluation of anticarcinogenic effects of garlic in rat colon. | Asian Pac J Cancer Prev
+- new | 1998 | 9717530 |  | Protection from pan masala induced genomic damage by beta-carotene and retinoic acid--an in vitro experience. | Neoplasma
+- new | 1998 | 9639686 | Research Support, Non-U.S. Gov't | In vivo antigenotoxic effects of dietary agents and beverages co-administered with urethane: assessment of the role of glutathione S-transferase activity. | Mutat Res
+- new | 1994 | 8072879 | Research Support, Non-U.S. Gov't | Influence of certain essential oils on carcinogen-metabolizing enzymes and acid-soluble sulfhydryls in mouse liver. | Nutr Cancer
+- new | 1993 | 8366543 | Research Support, Non-U.S. Gov't | Crude drug (zingiberaceae) enhancement of percutaneous absorption of indomethacin: in vitro and in vivo permeation. | Gaoxiong Yi Xue Ke Xue Za Zhi
+- new | 1990 | 2137403 | Case Reports | Contact and systemic contact-type dermatitis to spices. | Dermatol Clin
+- new | 1987 | 28145344 |  | Condiments and Contact Dermatitis of the Finger - Tips. | Indian J Dermatol Venereol Leprol
+- new | 1975 | 138507 | Case Reports | Allergic contact dermatitis from cardamom. | Contact Dermatitis
+
+### PubMed OBS - 7 hits, 4 not already listed above, 4 new
+- new | 2025 | 40856273 | Review/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Combining Observations and Models: A Review of the CARDAMOM Framework for Data-Constrained Terrestrial Ecosystem Modeling. | Glob Chang Biol
+- new | 2025 | 40872677 |  | Histopathological Picture of Lung Organs Towards Combination of Java Cardamom Seed Extract and Turmeric Rhizome as Anti-Colibacillosis in Broiler Chickens. | Vet Sci
+- new | 2022 | 36457618 |  | Arabic Coffee Consumption and Its Correlation to Obesity Among the General Population in the Eastern Province, Kingdom of Saudi Arabia. | Cureus
+- new | 2022 | 36066026 |  | Association of food habit with the COVID-19 severity and hospitalization: A cross-sectional study among the recovered individuals in Bangladesh. | Nutr Health
+
+### PubMed REV - 46 hits, 14 not already listed above, 13 new
+- new | 2026 | 43067873 | Review | Bioactive Constituents of Cardamom and Their Therapeutic Relevance in Oral Health: A Narrative Review. | Int J Dent
+- new | 2025 | 40465016 | Review | The cardamom-Fusarium pathosystem: current knowledge and future directions. | World J Microbiol Biotechnol
+- new | 2024 | 38558676 | Review | Ayurvedic Herbal Medicines: A Literature Review of Their Applications in Female Reproductive Health. | Cureus
+- new | 2024 | 38070792 | Review/Research Support, Non-U.S. Gov't | SIRT1/SREBPs-mediated regulation of lipid metabolism. | Pharmacol Res
+- new | 2024 | 39334932 | Review | Deciphering the Potentials of Cardamom in Cancer Prevention and Therapy: From Kitchen to Clinic. | Biomolecules
+- new | 2023 | 37686886 | Review | Recent Advances in Nutraceuticals for the Treatment of Sarcopenic Obesity. | Nutrients
+- new | 2023 | 37241765 | Review | Antioxidant Activity in Extracts from Zingiberaceae Family: Cardamom, Turmeric, and Ginger. | Molecules
+- new | 2022 | 36014186 | Review | Chitosan Nanoparticle Encapsulation of Antibacterial Essential Oils. | Micromachines (Basel)
+- new | 2022 | 35245798 | Review | Health benefits of spices in individuals with chemotherapeutic drug-induced cardiotoxicity. | Curr Opin Pharmacol
+- HELD REF-1670 | 2021 | 35317114 | Review | The effect of Elettaria cardamomum (cardamom) on the metabolic syndrome: Narrative review. | Iran J Basic Med Sci
+- new | 2020 | 32202757 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S./Review | Syntheses of Complex Terpenes from Simple Polyprenyl Precursors. | Acc Chem Res
+- new | 2019 | 31035513 | Research Support, Non-U.S. Gov't/Review | Chyawanprash: A Traditional Indian Bioactive Health Supplement. | Biomolecules
+- new | 2012 | 22149093 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Review | Cancer cell signaling pathways targeted by spice-derived nutraceuticals. | Nutr Cancer
+- new | 2006 | 40460231 | Review | Cardamom. | 
+
+### ClinicalTrials.gov - 13 registered studies
+- NCT01915966 | COMPLETED | results=False | NA | Efficacy Study of a Ginger and Cardamom Gelatin for Xerostomy in Terminally Ill Patients | conds: Xerostomia, Salivary Gland Diseases, Mouth Diseases | intr: Cardamom, ginger and orange juice gelatin, Camomile infusion with lemon juice
+- NCT05202366 | COMPLETED | results=False |  | An Open-label Study Evaluating the Effectiveness of CGB-400 Topical Gel for Fungal Infection | conds: Fungal Infection, Onychomycosis, Tinea Unguium | intr: CGB-400 Topical Gel
+- NCT06096857 | RECRUITING | results=False | PHASE2 | Cardamom and Topical Roseomonas in Atopic Dermatitis | conds: Atopic Dermatitis, Eczema | intr: Roseomonas mucosa (RSM2015) and Cardamom seeds, Placebo (sucrose)
+- NCT05504668 | COMPLETED | results=False | NA | The Cognitive Effects of 'Brainwaves' Supplementation in Cognitively Intact Older Adults | conds: Cognitive Change, Mood Change, Microbial Colonization | intr: Turmeric Brainwave | pubs: ['37885445:DERIVED (new)']
+- NCT07202806 | NOT_YET_RECRUITING | results=False | NA | A Study on the Application of Aromatherapy Combined With Transcranial Magnetic Stimulation in Insomnia of Stroke Patients | conds: Stroke | intr: Aromatherapy
+- NCT05245019 | COMPLETED | results=False | NA | Effects of Cardamom and Fennel on Salivary pH and Anti Microbial Activity | conds: Electrolyte Disturbance, Saliva Altered | intr: cardamom, fennel
+- NCT03063320 | COMPLETED | results=False | NA | The Effect of Spice Consumption on Postprandial Vascular Function | conds: Cardiovascular Risk Factor | intr: Spice blend | pubs: ['42602914:DERIVED (new)']
+- NCT06682390 | RECRUITING | results=False | NA | Role of Race in Nutritional Approach in Men on ADT | conds: Prostate Cancer Metastatic Disease | intr: Hypocaloric anti-inflammatory diet
+- NCT07038135 | COMPLETED | results=False | NA | Formulation, Phytochemical Characterization, and Clinical Assessment of a Novel Natural Supplement Targeting Body Composition in Physically  | conds: Improving Body Composition, Novel Natural Gym Nutrient Formulation, Increase Muscle Mass, Reduce Body Fat Percentage | intr: Novel Natural Supplement (NNS), Placebo | pubs: ['36778595:RESULT (new)', '37686725:RESULT (new)']
+- NCT07318779 | NOT_YET_RECRUITING | results=False | NA | Effect of Cardamom and Peppermint Oils on Chemotherapy-Related Nausea-Vomiting and Food Intake | conds: Cancer | intr: Peppermint Oil, cardomom oil, sweet almond oil
+- NCT07653815 | NOT_YET_RECRUITING | results=False | NA | Essential Oil-Based Product System for Digestive Support | conds: Healthy | intr: essential oil supplement, Essential Oil, Placebo supplement, placebo essential oil
+- NCT01129089 | COMPLETED | results=False | NA | Acceptability of Nutrient Supplements Among Women and Children in Bangladesh | conds: Malnutrition | intr: Lipid-based nutrient supplement, Lipid-based nutrient supplement, Micronutrient powder
+- NCT02189980 | UNKNOWN | results=False | NA | Aromatherapy Using a Nasal Clip After Surgery | conds: Post-operative Nausea | intr: Aromatherapy blend, Duration of effectiveness of the essential oil blend, Participant comfort using 
+
+### OpenAlex no-PMID trial-worded - 978 hits, 60 without PMID, 60 new
+- new | 2026 | 10.20935/acadnutr8095 | article | Evidence from randomized trials on lipid-lowering by culinary herbs and spices | Academia Nutrition and Dietetics
+- new | 2026 | 10.2139/ssrn.6155402 | preprint | Spatial random forest analysis for fertilizer recommendation: Understanding yield-limiting factors for Guatemalan cardamom | SSRN Electronic Journal
+- new | 2026 | 10.33545/26647613.2026.v8.i3b.224 | article | A review of Elettaria cardamomum Leaves' analgesic activity: Connecting ethnomedical knowledge with contemporary review | International Journal of Pharmacology an
+- new | 2026 | 10.9734/jabb/2026/v29i43880 | article | Influence of Plant Growth Regulators on Growth and Capsule Traits of Small Cardamom (Elettaria cardamomum L. Maton) | Journal of Advances in Biology & Biotech
+- new | 2026 | 10.33545/26180723.2026.v9.i11g.91416 | article | A multidimensional profile analysis of small cardamom (Elettaria cardamomum (L.) Maton) growers in the Cardamom Hill Reserve of Kerala | International Journal of Agriculture Ext
+- new | 2026 | 10.5281/zenodo.19874528 | article | A COMPREHENSIVE REVIEW OF ELETTARIA CARDAMOMUM (LINN.) MATON (ELA): INTEGRATING CLASSICAL CATEGORIZATION, PHARMACOPOEIA MONOGRAPH, AND MODERN META-ANALYSIS | World Journal of Pharmaceutical Research
+- new | 2026 | 10.5281/zenodo.24136830 | preprint | Does Smelling a Nature-Inspired Fragrance Change How Calm People Feel? A Randomised Crossover Study of a Botanical Blend Made from Eight Plant Parts | Zenodo (CERN European Organization for N
+- new | 2026 | 10.31435/ijitss.3(51).2026.6388 | review | DOES THE 'QUEEN OF SPICES' LIVE UP TO ITS NAME? THE THERAPEUTIC POTENTIAL OF ELETTARIA CARDAMOMUM: A NARRATIVE REVIEW OF CURRENT EVIDENCE AND MOLECULAR MECHANISMS | International Journal of Innovative Tech
+- new | 2026 | 10.7897/2277-4343.173100 | article | EFFICACY OF PATHADI KWATHA AND KANCHNARADI KWATHA WITH AROGYAVARDHINI VATI IN THE MANAGEMENT OF PCOS: AN OPEN-LABELLED, RANDOMISED COMPARATIVE CLINICAL TRIAL | International Journal of Research in Ayu
+- new | 2026 | 10.47552/ijam.v17i1s.7212 | article | Development and Evaluation of Ayurvedic Polyherbal Pharmaceutical Excipients for Taste and Odor Masking in Oral Dosage Forms Using Glycyrrhiza glabra, Foeniculum vulgare, Mentha ar | International Journal of Ayurvedic Medic
+- new | 2025 | 10.30595/hmj.v7i2.24364 | article | Antidiabetic Effects of Curcuma longa, Zingiber officinale, and Elettaria cardamomum : Scoping Review of the Family Zingiberaceae in Patients with Diabetes Mellitus | Herb-Medicine Journal Terbitan Berkala I
+- new | 2025 | 10.9734/jabb/2025/v28i113323 | article | Nutritional and Biochemical Variation in Small Cardamom (Elettaria cardamomum (L.) Maton) Capsules | Journal of Advances in Biology & Biotech
+- new | 2025 | 10.18502/jnfs.v10i2.18543 | review | Systematic Review and Meta-analysis of the Effects of Elettaria Cardamomum Supplementation on Glycemic Indices and Anthropometric Measurements | Journal of Nutrition and Food Security
+- new | 2025 | 10.51470/plantarchives.2026.v26.supplement-1.370 | article | INFLUENCE OF LIQUID NUTRITION AND FOLIAR APPLICATION OF GROWTH SUBSTANCES ON SUCKER GROWTH PARAMETERS OF SMALL CARDAMOM (ELETTARIA CARDAMOMUM MATON) CV. NJALLANI GREEN GOLD | PLANT ARCHIVES
+- new | 2024 | 10.22271/flora.2024.v12.i4a.938 | article | A clinical study on subclinical hypothyroidism and its management with an extract of Jawarish e Bisbasa formulation: A randomized double-blind placebo-controlled clinical trial | International Journal of Herbal Medicine
+- new | 2024 | 10.9734/arja/2024/v17i4536 | article | Effect of Nitrogen Levels on Growth Performance of Cardamom (Elettaria cardamomum M.) CV. Mudigere-1 | Asian Research Journal of Agriculture
+- new | 2024 | 10.1177/09731296241278035 | article | Attenuation of L-NAME-induced Hypertension in Rats with Elettaria cardamomum –Low-dose Amlodipine Combination: A Possible Synergism of Covasodilatory Effect | Pharmacognosy Magazine
+- new | 2023 | 10.5256/f1000research.157503.r216596 | peer-review | Peer Review Report For: Effect of Nigella sativa on general health and immune system in young healthy volunteers; a randomized, placebo-controlled, double-blinded clinical trial [v | F1000Research
+- new | 2023 | 10.5256/f1000research.77179.r208614 | peer-review | Peer Review Report For: Effect of Nigella sativa on general health and immune system in young healthy volunteers; a randomized, placebo-controlled, double-blinded clinical trial [v | F1000Research
+- new | 2023 | 10.60151/envec/gimm4882 | article | Effect of Foliar Application of Macro and Micronutrients on Quality Seedlings Production in Small Cardamom (Elettaria cardamomum Maton.) | Environment and Ecology
+- new | 2023 | 10.31018/jans.v15i1.4299 | article | Evaluation of selected promising land races of small cardamom (Elettaria cardamomum (L.) Maton) in South India | Journal of Applied and Natural Science
+- new | 2023 | 10.30742/jnsl.v2i2.100 | article | Cardamom (Elettaria cardamomum) and Sappan Wood (Caesalpinia sappan L.) Proportion Effect on the Antioxidant Activity of "Wedang Kapusecang" | Journal of Natural Sciences and Learning
+- new | 2023 | https://openalex.org/W7217815876 | conference-abstract | Essential oils as potential acetylcholinesterase and butyrylcholinesterase inhibitors. A case study: Elettaria cardamomum (L.) Maton essential oil | Institutional Research Information Syste
+- new | 2022 | 10.23960/jtep-l.v11i3.531-541 | article | Microencapsulation of Green Capulaga (Elettaria cardamomum) Essential Oil with Maltodextrin and Its Applications in Coffee Drink | Jurnal Teknik Pertanian Lampung (Journal
+- new | 2022 | 10.47750/pnr.2022.13.s09.1010 | article | A Double Blind, Randomized, Placebo Controlled Clinical Study To Evaluate The Efficacy And Safety Of Tfn34 Tablets For Individuals With Subclinical And Clinical Hypothyroidism | Journal of Pharmaceutical Negative Resul
+- new | 2021 | 10.1016/j.jff.2021.104449 | review | Effects of culinary herbs and spices on obesity: A systematic literature review of clinical trials | Journal of Functional Foods
+- new | 2021 | 10.26181/14907966 | review | Effects of culinary herbs and spices on obesity: a systematic literature review of clinical trials | La Trobe University
+- new | 2021 | 10.1097/nt.0000000000000507 | article | Cardamom: Potential Health Benefits | Nutrition Today
+- new | 2021 | https://openalex.org/W3172949749 | dissertation | PERTUMBUHAN POPULASI Pentalonia nigronervosa PADA TANAMAN KAPULAGA(Elettaria cardamomum) DAN PENGARUHNYA TERHADAP EFISIENSINYA SEBAGAI VEKTOR PENYAKIT BBTV | 
+- new | 2020 | 10.5603/dk.2020.0021 | review | Cinnamon supplementation improves blood pressure in type 2 diabetic patients: A systematic review and meta-analysis of randomized controlled trials | Clinical Diabetology
+- new | 2020 | 10.47552/ijam.v11i3.1560 | article | Efficacy of Prakriti specific Herbal Tea in Diabetes A Randomized controlled trial | International Journal of Ayurvedic Medic
+- new | 2020 | 10.22146/mot.62363 | article | Effects of Polyherbal Tablet for Hypertensive Patients | Majalah Obat Tradisional
+- new | 2020 | 10.1080/0972060x.2020.1869105 | article | A Study of Essential Oil Constituents from Capsules, Physiological and Quality Parameters of Small Cardamom Ecotypes [Elettaria cardamomum(L.) Maton] Growing in the Western Ghats,  | Journal of Essential Oil Bearing Plants
+- new | 2020 | 10.1093/cdn/nzaa040_001 | review | Efficacy of Common Spices on Improving Serum Lipids in Individuals with Type 2 Diabetes: Systematic Review and Meta-Analysis of Clinical Trials | Current Developments in Nutrition
+- new | 2020 | 10.1093/cdn/nzaa040_002 | review | Impact of Common Spices on Glycemia in Individuals with Type 2 Diabetes: Systematic Review and Meta-Analysis of Clinical Trials | Current Developments in Nutrition
+- new | 2020 | 10.33541/pro-life.v7i1.1542 | article | RESPON PERTUMBUHAN KAPULAGA LOKAL (Amomum compactum Soland Ex. Maton) DAN KAPULAGA SABRANG (Elettaria cardamomum (L.) Maton Var. Mysore) TERHADAP CEKAMAN KEKERINGAN | Pro-Life
+- new | 2019 | 10.1016/j.hermed.2019.100318 | article | A quantitative documentation of traditionally-used medicinal plants from Northeastern Algeria: Interactions of beliefs among healers and diabetic patients | Journal of Herbal Medicine
+- new | 2019 | https://openalex.org/W3197741128 | article | Green synthesis of silver nitrate treated emulsified Elettaria cardamomum herbal suspensions and study their comparative antioxidant properties | 
+- new | 2018 | https://openalex.org/W2801296333 | article | Natural and herbal medicine for breast cancer using Elettaria cardamomum (L.) Maton | International Journal of Herbal Medicine
+- new | 2018 | 10.22376/ijpbs.2018.9.3.p74-78 | article | Repellent potential of leaf extracts of elettaria Cardamomum maton. (zingiberaceae) against Malarial vector, anopheles stephensi Liston (diptera: culicidae) | International Journal of Pharma and Bio 
+- new | 2017 | 10.31661/gmj.v6i4.884 | article | Efficacy and Safety of Iranian Poly Herbal Formulation (Compound Honey Syrup) in Pediatric Patients with Mild to Moderate Asthma: A Randomized Clinical Trial | Galen Medical Journal
+- new | 2017 | https://openalex.org/W2980911603 | article | Protective effects of Elettaria cardamomum L. hydroalcoholic extract on serum levels of Gonadotropins and Testosterone in adult male wistar rats induced with Lead acetate | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2015 | 10.4038/suslj.v14i2.7698 | article | Application of Seed Treatments to Increase Germinability of Cardamom (Elettaria cardamomum) Seeds under in vitro Conditions | Sabaragamuwa University Journal
+- new | 2015 | 10.4038/suslj.v13i2.7679 | article | Application of Seed Treatments to Increase Germinability of Cardamom (Elettaria cardamomum) Seeds under in vitro Conditions | Sabaragamuwa University Journal
+- new | 2015 | 10.33899/rden.2015.160868 | article | Antimicrobial Effects of some Plants on Bacteria Isolated from Oral Halitosis Patients | Al-Rafidain dental journal/Maǧallaẗ al-r
+- new | 2014 | 10.21123/bsj.2014.11.2.317-330 | article | Effect of Some Herbs on the Level of Some Biochemical Parameters in Blood of Diabetic Patients Type II | Baghdad Science Journal
+- new | 2013 | https://openalex.org/W2309433895 | article | RESPONSE OF BROILER CHICKS TO DIETARY CARDAMOM (Elettaria cardamomum) AS A FEED ADDITIVE | Journal of Veterinary Medicine and Anima
+- new | 2011 | 10.15373/2249555x/feb2013/96 | article | Antimicrobial Effect of chewing Tamboolam (betal leaves and its combinations) by testing saliva of volunteers | Indian Journal Of Applied Research
+- new | 2009 | 10.1007/s11627-009-9234-6 | article | Micropropagation and slow growth conservation of cardamom (Elettaria cardamomum Maton) | In Vitro Cellular & Developmental Biolog
+- new | 2009 | 10.1007/s10457-009-9210-5 | article | Spice crops agroforestry systems in the East Usambara Mountains, Tanzania: growth analysis | Agroforestry Systems
+- new | 2008 | 10.4103/0971-5851.51426 | article | An ayurvedic herbal compound to reduce toxicity to cancer chemotherapy: A randomized controlled trial | Indian Journal of Medical and Paediatric
+- new | 2006 | 10.4103/0019-5154.26931 | article | Profile of food allergens in urticaria patients in Hyderabad | Indian Journal of Dermatology
+- new | 2005 | 10.1007/bf02788890 | article | Isolation and PCR amplification of genomic DNA from dried capsules of cardamon (Elettaria cardamomum M.) | Plant Molecular Biology Reporter
+- new | 2002 | https://openalex.org/W1582521840 | article | Genetic analysis for quantitative characters in cardamom (Elettaria cardamomum Maton) | Indian Journal of Genetics and Plant Bre
+- new | 1998 | https://openalex.org/W7217804477 | article | Cultivation of cardamom (Elettaria cardamomum Maton) in homesteads | Journal of Spices and Aromatic Crops
+- new | 1995 | https://openalex.org/W2564392252 | article | Economics of sustained production of cardamom (Elettaria cardamomum M.) | Journal of Spices and Aromatic Crops
+- new | 1994 | https://openalex.org/W2302546589 | article | Pathogenicity of Meloidogyne incognita on small cardamom, Elettaria Cardamomum maton | Indian Journal Of Nematology
+- new | 1993 | 10.17660/actahortic.1993.330.30 | conference-paper | SOMACLONAL VARIATION IN CARDAMOM (ELETTARIA CARDAMOMUM MATON) DERIVED FROM AXENIC CULTURE OF JUVENILE SHOOT PRIMORDIA | Acta Horticulturae
+- new | 1986 | 10.1111/j.1745-4565.1986.tb00546.x | article | RADIATION STERILIZATION OF SPICES FOR HOSPITAL FOOD SERVICES AND PATIENT CARE | Journal of Food Safety
+- new | 1981 | 10.29321/maj.10.003272 | article | Control of Capsule Rot and Rhizome Rot of Cardamom (Elettaria Cardamomum Salisb) | Madras Agricultural Journal
+
+## eleutherococcus-senticosus (Eleutherococcus senticosus) - name clause: "Eleutherococcus senticosus"[tiab] OR "Acanthopanax senticosus"[tiab] OR "Siberian ginseng"[tiab] OR "eleuthero"[tiab] OR "eleutherococcus"[ti] OR "acanthopanax"[ti]
+
+### PubMed HT - 72 hits, 72 not already listed above, 67 new
+- new | 2026 | 42284089 | Clinical Trial Protocol/Research Support, Non-U.S. Gov't | Evaluation of the TiaoShenZhiAi Regimen for Patients With Ovarian Cancer Experiencing a Psychoneurological Symptom Cluster: Protocol for a Multicenter, Double-Blind, Randomized Con | JMIR Res Protoc
+- new | 2026 | 41901106 | Review | System-Level, Molecular and Cellular Mechanisms of Selected Plant Adaptogens-A Review. | Nutrients
+- new | 2025 | 41394382 |  | Efficacy of fumigation with traditional Chinese medicine combined with Acanthopanax Senticosus injection in patients with sleep disorders. | Pak J Med Sci
+- new | 2024 | 39281184 |  | Feasibility and Safety of Food Containing Acanthopanax senticosus for Treating Patients with Cancer-Related Fatigue. | Palliat Med Rep
+- new | 2024 | 38525193 |  | Effects of continuous supplementation of Acanthopanax senticosus Harms on the cardiac autonomic function of community-dwelling elderly individuals during resting and standing tests | Front Cardiovasc Med
+- new | 2024 | 38287355 | Meta-Analysis/Systematic Review | Effectiveness of Shugan Jieyu capsules for psychiatric symptoms of epilepsy: a systematic review and meta-analysis. | BMC Complement Med Ther
+- new | 2023 | 37765004 |  | Efficacy of Kan Jang(®) in Patients with Mild COVID-19: A Randomized, Quadruple-Blind, Placebo-Controlled Trial. | Pharmaceuticals (Basel)
+- new | 2023 | 37007289 |  | Effectiveness of the Shugan Jieyu Capsule against Psychiatric Symptoms in Epilepsy: a protocol for systematic review and meta-analysis. | J Pharmacopuncture
+- new | 2022 | 36015163 |  | Efficacy of Kan Jang(®) in Patients with Mild COVID-19: Interim Analysis of a Randomized, Quadruple-Blind, Placebo-Controlled Trial. | Pharmaceuticals (Basel)
+- new | 2022 | 34551361 | Review | Chinese patent medicine Aidi injection for cancer care: An overview of systematic reviews and meta-analyses. | J Ethnopharmacol
+- new | 2022 | 33650944 | Systematic Review | Modulation of the hypothalamic-pituitary-adrenal (HPA) axis by plants and phytonutrients: a systematic review of human trials. | Nutr Neurosci
+- HELD REF-2295 | 2021 | 34087398 | Historical Article/Review | Findings of Russian literature on the clinical application of Eleutherococcus senticosus (Rupr. & Maxim.): A narrative review. | J Ethnopharmacol
+- new | 2021 | 34541998 | Comparative Study/Meta-Analysis/Systematic Review | Aidi injection as adjunctive treatment to gemcitabine-based chemotherapy for advanced non-small cell lung cancer: a systematic review and meta-analysis. | Pharm Biol
+- new | 2021 | 34765519 |  | Early intervention with Kan Jang® to treat upper-respiratory tract infections: A randomized, quadruple-blind study. | J Tradit Complement Med
+- new | 2020 | 31979283 | Randomized Controlled Trial | Combined Treatment with Two Water Extracts of Eleutherococcus senticosus Leaf and Rhizome of Drynaria fortunei Enhances Cognitive Function: A Placebo-Controlled, Randomized, Double | Nutrients
+- new | 2020 | 32035307 | Research Support, Non-U.S. Gov't | Improve cognition of depressive patients through the regulation of basal ganglia connectivity: Combined medication using Shuganjieyu capsule. | J Psychiatr Res
+- new | 2020 | 32765813 |  | The fruit of Acanthopanax senticosus Harms improves arterial stiffness and blood pressure: a randomized, placebo-controlled trial. | Nutr Res Pract
+- new | 2020 | 32893745 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Vitamin E and ginseng supplementation to enhance female sexual function: a randomized, double-blind, placebo-controlled, clinical trial. | Women Health
+- new | 2019 | 30243827 | Meta-Analysis | Clinical efficacy and safety of Aidi injection plus paclitaxel-based chemotherapy for advanced non-small cell lung cancer: A meta-analysis of 31 randomized controlled trials follow | J Ethnopharmacol
+- new | 2018 | 29655852 | Meta-Analysis/Systematic Review | Aidi injection plus platinum-based chemotherapy for stage IIIB/IV non-small cell lung cancer: A meta-analysis of 42 RCTs following the PRISMA guidelines. | J Ethnopharmacol
+- new | 2017 | 28568743 | Systematic Review | Interventions for treatment and/or prevention of alcohol hangover: Systematic review. | Hum Psychopharmacol
+- new | 2016 | 27333960 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Antiedema effects of Siberian ginseng in humans and its molecular mechanism of lymphatic vascular function in vitro. | Nutr Res
+- new | 2016 | 28462133 |  | Effects of the herb mixture, DTS20, on oxidative stress and plasma alcoholic metabolites after alcohol consumption in healthy young men. | Integr Med Res
+- new | 2015 | 25533505 | Comparative Study/Research Support, Non-U.S. Gov't | Protective effects of Acanthopanax vs. Ulinastatin against severe acute pancreatitis-induced brain injury in rats. | Int Immunopharmacol
+- new | 2015 | 25537278 | Randomized Controlled Trial | Burnout: evaluation of the efficacy and tolerability of TARGET 1® for professional fatigue syndrome (burnout). | J Int Med Res
+- new | 2015 | 26012258 | Randomized Controlled Trial | Clinical effect of a polysaccharide-rich extract of Acanthopanax senticosus on alcohol hangover. | Pharmazie
+- new | 2015 | 26598919 | Clinical Trial, Phase II/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Antitussive effect of a fixed combination of Justicia adhatoda, Echinacea purpurea and Eleutherococcus senticosus extracts in patients with acute upper respiratory tract infection: | Phytomedicine
+- new | 2015 | 26612980 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Acute effectiveness of a "fat-loss" product on substrate utilization, perception of hunger, mood state and rate of perceived exertion at rest and during exercise. | J Int Soc Sports Nutr
+- HELD REF-3393 | 2013 | 23740477 | Clinical Trial, Phase IV/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | No benefit adding eleutherococcus senticosus to stress management training in stress-related fatigue/weakness, impaired work or concentration, a randomized controlled study. | Pharmacopsychiatry
+- new | 2010 | 20374974 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Double-blind, placebo-controlled, randomised study of single dose effects of ADAPT-232 on cognitive functions. | Phytomedicine
+- new | 2010 | 21793317 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effect of eight weeks of supplementation with Eleutherococcus senticosus on endurance capacity and metabolism in human. | Chin J Physiol
+- new | 2009 | 19885024 |  | Effects of AIF on Knee Osteoarthritis Patients: Double-blind, Randomized Placebo-controlled Study. | Korean J Physiol Pharmacol
+- new | 2009 | 19452124 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effects of Acanthopanax senticosus extract on bone turnover and bone mineral density in Korean postmenopausal women. | J Bone Miner Metab
+- new | 2009 | 19170145 | Randomized Controlled Trial | The influence of adaptogens on ultraweak biophoton emission: a pilot-experiment. | Phytother Res
+- new | 2009 | 19588417 | Meta-Analysis/Systematic Review | Acanthopanax for acute ischaemic stroke. | Cochrane Database Syst Rev
+- new | 2008 | 19434890 |  | Reprint of The Herbal Alternatives for Menopause (HALT) Study: background and study design. | Maturitas
+- new | 2008 | 18671947 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effects of A. senticosus supplementation on serum lipid profiles, biomarkers of oxidative stress, and lymphocyte DNA damage in postmenopausal women. | Biochem Biophys Res Commun
+- new | 2007 | 24683218 |  | Comparison of the Addition of Siberian Ginseng (Acanthopanax senticosus) Versus Fluoxetine to Lithium for the Treatment of Bipolar Disorder in Adolescents: A Randomized, Double-Bli | Curr Ther Res Clin Exp
+- new | 2007 | 21901061 |  | The adaptogens rhodiola and schizandra modify the response to immobilization stress in rabbits by suppressing the increase of phosphorylated stress-activated protein kinase, nitric | Drug Target Insights
+- new | 2006 | 16759447 | Review | Management of SAH with traditional Chinese medicine in China. | Neurol Res
+- new | 2006 | 16619374 |  | Effect of a combination of extract from several plants on cell-mediated and humoral immunity of patients with advanced ovarian cancer. | Phytother Res
+- new | 2005 | 16323290 | Clinical Trial, Phase III/Randomized Controlled Trial | Impact of Chisan (ADAPT-232) on the quality-of-life and its efficacy as an adjuvant in the treatment of acute non-specific pneumonia. | Phytomedicine
+- new | 2005 | 15793525 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Treatment of atopic dermatitis with herbal combination of Eleutherococcus, Achillea millefolium, and Lamium album has no advantage over placebo: a double blind, placebo-controlled, | J Am Acad Dermatol
+- new | 2005 | 16008115 | Clinical Trial/Clinical Trial, Phase I/Randomized Controlled Trial | A phase I clinical study of Andrographis paniculata fixed combination Kan Jang versus ginseng and valerian on the semen quality of healthy male subjects. | Phytomedicine
+- new | 2005 | 16121513 | Clinical Trial/Randomized Controlled Trial | Randomized trial of a fixed combination (KanJang) of herbal extracts containing Adhatoda vasica, Echinacea purpurea and Eleutherococcus senticosus in patients with upper respirator | Phytomedicine
+- new | 2005 | 16186076 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, P.H.S. | The Herbal Alternatives for Menopause (HALT) Study: background and study design. | Maturitas
+- new | 2005 | 16011291 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | [Effect of Acanthopanax senticosus injection on the activities of human tumor necrosis factor and natural killer cell in blood in the patients with lung cancer]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2005 | 15916450 | Review | Herb-drug interactions: a literature review. | Drugs
+- HELD REF-3551 | 2004 | 14971626 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Randomized controlled trial of Siberian ginseng for chronic fatigue. | Psychol Med
+- HELD REF-1622 | 2004 | 14748896 | Comparative Study/Systematic Review | Andrographis paniculata in the symptomatic treatment of uncomplicated upper respiratory tract infection: systematic review of randomized controlled trials. | J Clin Pharm Ther
+- new | 2004 | 15207399 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of Siberian ginseng (Eleutherococcus senticosus maxim.) on elderly quality of life: a randomized clinical trial. | Arch Gerontol Geriatr Suppl
+- new | 2004 | 15190050 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Decreasing, null and increasing effects of eight popular types of ginseng on acute postprandial glycemic indices in healthy humans: the role of ginsenosides. | J Am Coll Nutr
+- new | 2003 | 12695337 | Clinical Trial/Research Support, U.S. Gov't, P.H.S. | Siberian ginseng (Eleutheroccus senticosus) effects on CYP2D6 and CYP3A4 activity in normal volunteers. | Drug Metab Dispos
+- new | 2003 | 12809357 | Clinical Trial/Randomized Controlled Trial | Double-blind, placebo-controlled, randomized, pilot clinical trial of ImmunoGuard--a standardized fixed combination of Andrographis paniculata Nees, with Eleutherococcus senticosus | Phytomedicine
+- new | 2002 | 12133541 |  | Effect of Acanthopanax giraldii Harms Var. Hispidus Hoo polysaccharides on the human gastric cancer cell line SGC-7901 and its possible mechanism. | Chin Med J (Engl)
+- new | 2001 | 11351368 |  | The synthesis of Rantes, G-CSF, IL-4, IL-5, IL-6, IL-12 and IL-13 in human whole-blood cultures is modulated by an extract from Eleutherococcus senticosus L. roots. | Phytother Res
+- new | 2001 | 11798012 | Clinical Trial/Controlled Clinical Trial | The effects of Eleutherococcus senticosus and Panax ginseng on steroidal hormone indices of stress and lymphocyte subset numbers in endurance athletes. | Life Sci
+- new | 2001 | 12577391 | Clinical Trial/Randomized Controlled Trial | [Effect of Acanthopanax senticosus injection on plasma and urinary endothelin in early stage of diabetic nephropathy]. | Zhongguo Zhong Xi Yi Jie He Za Zhi [chi]
+- HELD REF-2290 | 2000 | 10996277 | Review | Eleutherococcus senticosus (Rupr. & Maxim.) Maxim. (Araliaceae) as an adaptogen: a closer look. | J Ethnopharmacol
+- new | 2000 | 11099371 | Clinical Trial/Randomized Controlled Trial | The effect of siberian ginseng (Eleutherococcus senticosus) on substrate utilization and performance. | Int J Sport Nutr Exerc Metab
+- new | 2000 | 10641044 | Clinical Trial/Randomized Controlled Trial | The influence of active components of Eleutherococcus senticosus on cellular defence and physical fitness in man. | Phytother Res
+- new | 2000 | 11077531 | Clinical Trial/Comparative Study | [The efficacy of Eleutherococcus and cralonin in the sanatorium-health resort treatment of patients with ischemic heart disease and neurocirculatory dystonia]. | Voen Med Zh [rus]
+- new | 1999 | 14528703 | Review | Counseling cancer patients about herbal medicine. | Patient Educ Couns
+- new | 1998 | 11477830 | Clinical Trial/Randomized Controlled Trial | [Clinical and experimental study on treatment of acute cerebral infarction with Acanthopanax Injection]. | Zhongguo Zhong Xi Yi Jie He Za Zhi [chi]
+- new | 1997 | 9483409 | Clinical Trial/Comparative Study/Controlled Clinical Trial | [Effects of eleutherococcus, elton, leuzea, and leveton on the blood coagulation system during training in athletes]. | Eksp Klin Farmakol [rus]
+- new | 1996 | 8778554 | Clinical Trial/Randomized Controlled Trial | Effect of Eleutherococcus senticosus on submaximal and maximal exercise performance. | Med Sci Sports Exerc
+- new | 1990 | 2379299 |  | [Effect of a mixture of Acanthopanax senticosus and Elsholtzia splendens on serum-lipids in patients with hyperlipemia]. | Zhong Xi Yi Jie He Za Zhi [chi]
+- new | 1987 | 2963645 | Clinical Trial/Controlled Clinical Trial/Randomized Controlled Trial | Flow-cytometric studies with eleutherococcus senticosus extract as an immunomodulatory agent. | Arzneimittelforschung
+- new | 1986 | 3770180 |  | [Effect of the glycosides of Eleutherococcus senticosus on the hemodynamic indices of children with hypotensive states]. | Farmakol Toksikol [rus]
+- new | 1986 | 3526720 | Clinical Trial/Randomized Controlled Trial | [Stimulation of the immunological reactivity of cancer patients by Eleutherococcus extract]. | Vopr Onkol [rus]
+- new | 1980 | 6446077 | Comparative Study | [Effect of Eleutherococcus on respiratory viral infectious morbidity in children in organized collectives]. | Pediatriia [rus]
+- new | 1978 | 354512 | Clinical Trial/Comparative Study/Controlled Clinical Trial | [Treatment of dysentery in children with a combination of monomycin and Eleutherococcus]. | Antibiotiki [rus]
+
+### PubMed SR - 15 hits, 5 not already listed above, 4 new
+- new | 2023 | 36641105 | Systematic Review | Botany, traditional usages, phytochemistry, pharmaceutical analysis, and pharmacology of Eleutherococcus nodiflorus (Dunn) S.Y.Hu: A systematic review. | J Ethnopharmacol
+- new | 2023 | 36987052 | Review | Nootropic Herbs, Shrubs, and Trees as Potential Cognitive Enhancers. | Plants (Basel)
+- new | 2023 | 36986547 | Review | A Systematic Review of In Vivo Studies of the Efficacy of Herbal Medicines for Anti-Aging in the Last Five Years. | Pharmaceuticals (Basel)
+- HELD REF-0506 | 2021 | 34445021 | Historical Article/Meta-Analysis/Systematic Review | Plant Adaptogens-History and Future Perspectives. | Nutrients
+- new | 2021 | 35009068 | Review | Comparison between the Biological Active Compounds in Plants with Adaptogenic Properties (Rhaponticum carthamoides, Lepidium meyenii, Eleutherococcus senticosus and Panax ginseng). | Plants (Basel)
+
+### PubMed SAFE - 135 hits, 109 not already listed above, 106 new
+- new | 2026 | 41448365 |  | From traditional tonic herb to molecular therapy: The natural peptide G-6-Y from Eleutherococcus sessiliflorus protects against drug-induced liver injury. | J Ethnopharmacol
+- new | 2026 | 42335639 |  | Ciwujianoside B alleviates cholestatic liver injury by regulating TMAO synthesis via remodeling of the gut microbiota. | Phytomedicine
+- new | 2026 | 42432900 |  | Exploring the mechanism of Acanthopanax in treating vertigo: A network pharmacology and molecular docking study. | Medicine (Baltimore)
+- new | 2026 | 41819440 |  | Developmental exposure to isofraxidin induces neurobehavioral toxicity in zebrafish embryos via oxidative stress and apoptotic signaling. | Chem Biol Interact
+- new | 2026 | 41961730 |  | An Integrated Approach Combining Regulatory Tests in tg(cyp19a1b:GFP) Zebrafish Embryos to Assess Toxicity, Developmental Effects, and Estrogenic Activity of Chemicals: A Case Stud | Environ Sci Technol
+- new | 2025 | 41245186 |  | Improvement of Menopausal Symptoms by Beta vulgaris, Artemisia princeps, and Eleutherococcus senticosus via Estrogen Pathway Activation in MCF-7 Cells and OVX Mice. | Food Sci Nutr
+- new | 2025 | 41228527 |  | Hepatoprotective Activity of the Fruits of Eleutherococcus senticosus in Acetaminophen-Induced Liver Injury in Mice and Their Chemical Composition. | Nutrients
+- new | 2024 | 38380695 | Research Support, Non-U.S. Gov't | Ameliorating effects of Acanthopanax koreanum extract and components on nicotine dependence and withdrawal symptoms. | Addict Biol
+- new | 2024 | 38380572 |  | Integrating serum pharmacochemistry and network pharmacology to explore the molecular mechanisms of Acanthopanax senticosus (Rupr. & Maxim.) Harms on attenuating doxorubicin-induce | J Ethnopharmacol
+- new | 2024 | 39505327 |  | Chiisanoside from the Leaves of Acanthopanax sessiliflorus Can Resist Cisplatin-Induced Ototoxicity by Maintaining Cytoskeletal Homeostasis and Inhibiting Ferroptosis. | J Agric Food Chem
+- new | 2024 | 39273243 |  | UHPLC-DAD/ESI-TOF-MS Phytochemical Characterization and Evaluation of the Impact of Eleutherococcus senticosus Fruit Intractum on Biochemical, Hepatological, and Blood Parameters i | Int J Mol Sci
+- new | 2024 | 39057081 |  | Assessing the Efficacy of Acanthoic Acid Isolated from Acanthopanax koreanum Nakai in Male Infertility: An In Vivo and In Silico Approach. | Curr Issues Mol Biol
+- new | 2024 | 39104400 | Review | Syringin: a naturally occurring compound with medicinal properties. | Front Pharmacol
+- new | 2024 | 39881873 |  | The chiisanoside derivatives present in the leaves of Acanthopanax sessiliflorus activate autophagy through the LRP6/GSK3β axis and thereafter inhibit oxidative stress, thereby cou | Front Pharmacol
+- new | 2024 | 38675443 | Review | State-of-the-Art Review on Botanical Hybrid Preparations in Phytomedicine and Phytotherapy Research: Background and Perspectives. | Pharmaceuticals (Basel)
+- new | 2023 | 37101730 | Review | A Comprehensive Review of Herbal Supplements Used for Persistent Symptoms Attributed to Lyme Disease. | Integr Med (Encinitas)
+- HELD REF-5199 | 2023 | 37829299 |  | Harder, better, faster, stronger? Retrospective chart review of adverse events of interactions between adaptogens and antidepressant drugs. | Front Pharmacol
+- new | 2023 | 36576017 |  | Potential Antiaging and Hepatoprotective Effects of Acanthopanax senticosus Extracts in Adult Rat Models. | Rejuvenation Res
+- new | 2023 | 36866192 |  | Safety and efficacy of a feed additive consisting of a tincture derived from the roots of Eleutherococcus senticosus (Rupr. & Maxim.) Maxim. (taiga root tincture) for use in dogs,  | EFSA J
+- new | 2023 | 36963691 |  | Insight into Chinese medicine residue biochar combined with ultrasound for persulfate activation in atrazine degradation: Acanthopanax senticosus precursors, synergistic effects an | Sci Total Environ
+- new | 2023 | 37405267 | Case Reports | Identification of the AP2/ERF transcription factor family of Eleutherococcus senticosus and its expression correlation with drought stress. | 3 Biotech
+- new | 2023 | 37509245 | Review | Exploring Natural Products as Radioprotective Agents for Cancer Therapy: Mechanisms, Challenges, and Opportunities. | Cancers (Basel)
+- new | 2023 | 36874619 |  | Antioxidant and Antiapoptotic Properties of n-Butanol Fraction the Acanthopanax senticosus Extracts in H(2)O(2)-RAW264.7 Cells and CCl(4)-Induced Liver Injury in Mice. | Evid Based Complement Alternat Med
+- new | 2023 | 37624934 |  | Effect of the supplementation with a combination of plant extracts on sow and piglet performance and physiology during lactation and around weaning. | J Anim Sci
+- new | 2023 | 37467688 |  | Syringin alleviates hepatic fibrosis by enhancing autophagic flux and attenuating ER stress-TRIB3/SMAD3 in diabetic mice. | Tissue Cell
+- new | 2023 | 37631048 |  | Purification Effect of PES-C Ultrafiltration Membrane Incorporated with Emodin on Acanthopanax Senticosus Injection. | Pharmaceuticals (Basel)
+- new | 2022 | 36046857 |  | [Research progress of Acanthopanax senticosus in prevention and treatment of neurodegenerative diseases]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2022 | 35164373 |  | The Therapeutic Effect of Acanthopanax senticosus Components on Radiation-Induced Brain Injury Based on the Pharmacokinetics and Neurotransmitters. | Molecules
+- new | 2021 | 33212178 | Review | A review of Acanthopanax senticosus (Rupr and Maxim.) harms: From ethnopharmacological use to modern application. | J Ethnopharmacol
+- new | 2021 | 34108572 | Research Support, Non-U.S. Gov't | Spatiotemporal imaging and pharmacokinetics of fluorescent compounds in zebrafish eleuthero-embryos after different routes of administration. | Sci Rep
+- new | 2021 | 34339030 |  | Pharmacological Effects of Natural Components Against Ovarian Cancer and Mechanisms. | Adv Exp Med Biol
+- new | 2021 | 32757816 |  | A comprehensive in silico exploration of pharmacological properties, bioactivities and COX-2 inhibitory potential of eleutheroside B from Eleutherococcus senticosus (Rupr. & Maxim. | J Biomol Struct Dyn
+- new | 2021 | 33549279 | Review | Traditional and Current Use of Ginseng. | Nurs Clin North Am
+- new | 2021 | 33483753 | Research Support, Non-U.S. Gov't | Hyperactivity and Seizure Induced by Tricresyl Phosphate Are Isomer Specific and Not Linked to Phenyl Valerate-Neuropathy Target Esterase Activity Inhibition in Zebrafish. | Toxicol Sci
+- new | 2020 | 32685423 |  | Inhibition of cytochrome P450 2B6 by Astragalus extract mixture HT042. | Toxicol Res
+- new | 2020 | 32378558 |  | Acanthopanax senticosus Root Extract Exerts Dual Action on Mouse Ileal Smooth Muscle Function, Leading to Modulation of Gastrointestinal Motility. | Biol Pharm Bull
+- new | 2020 | 32922299 |  | An Integrated Pharmacokinetic Study of an Acanthopanax senticosus Extract Preparation by Combination of Virtual Screening, Systems Pharmacology, and Multi-Component Pharmacokinetic | Front Pharmacol
+- new | 2020 | 32077871 |  | Study on the therapeutic material basis and effect of Acanthopanax senticosus (Rupr. et Maxim.) Harms leaves in the treatment of ischemic stroke by PK-PD analysis based on online m | Food Funct
+- new | 2020 | 31644940 |  | Toxicological safety evaluation in acute and 28-day studies of aqueous extract from Bei-Qi-Wu-Jia formula. | J Ethnopharmacol
+- new | 2020 | 33328962 |  | LongShengZhi Capsule Attenuates Alzheimer-Like Pathology in APP/PS1 Double Transgenic Mice by Reducing Neuronal Oxidative Stress and Inflammation. | Front Aging Neurosci
+- new | 2019 | 31342475 |  | Acanthopanax senticosus Induces Vasorelaxation via Endothelial Nitric Oxide-Dependent and -Independent Pathways. | Planta Med
+- new | 2019 | 31602838 |  | [Modulation effect of Acanthopanax senticosus polysaccharides through inflammatory cytokines in protecting immunological liver-injured mice]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2019 | 30959884 |  | Safety Assessment of Compounds after In Vitro Metabolic Conversion Using Zebrafish Eleuthero Embryos. | Int J Mol Sci
+- new | 2019 | 30552777 |  | Hepatoprotective effect of chiisanoside from Acanthopanax sessiliflorus against LPS/D-GalN-induced acute liver injury by inhibiting NF-κB and activating Nrf2/HO-1 signaling pathway | J Sci Food Agric
+- new | 2019 | 30865910 |  | The effects of binary mixtures of estradiol and progesterone on transcriptional expression profiles of genes involved in hypothalamic-pituitary-gonadal axis and circadian rhythm si | Ecotoxicol Environ Saf
+- new | 2018 | 29710476 | Comparative Study | Acanthopanax senticosus reduces brain injury in mice exposed to low linear energy transfer radiation. | Biomed Pharmacother
+- new | 2018 | 30090975 |  | Acanthopanax senticosus Protects Structure and Function of Mesencephalic Mitochondria in A Mouse Model of Parkinson's Disease. | Chin J Integr Med
+- new | 2018 | 29342911 |  | Effects of Acanthopanax senticosus on Brain Injury Induced by Simulated Spatial Radiation in Mouse Model Based on Pharmacokinetics and Comparative Proteomics. | Int J Mol Sci
+- new | 2018 | 30127238 | Comparative Study | A Comparative Metabolomics Analysis Reveals the Tissue-Specific Phenolic Profiling in Two Acanthopanax Species. | Molecules
+- new | 2017 | 28133509 |  | Subchronic Oral Toxicity Study of Acanthopanax divaricatus var. albeofructus in Rats. | Toxicol Res
+- new | 2017 | 29464125 | Research Support, Non-U.S. Gov't/Review | Botanicals as Modulators of Neuroplasticity: Focus on BDNF. | Neural Plast
+- new | 2017 | 28732808 |  | Safety evaluation of Astragalus extract mixture HT042 and its constituent herbs in Sprague-Dawley rats. | Phytomedicine
+- new | 2017 | 28118999 |  | Reproductive and transcriptional effects of the antiandrogenic progestin chlormadinone acetate in zebrafish (Danio rerio). | Environ Pollut
+- new | 2017 | 28214734 |  | Developmental toxicity and molecular responses of marine medaka (Oryzias melastigma) embryos to ciguatoxin P-CTX-1 exposure. | Aquat Toxicol
+- new | 2016 | 27329331 | Review | Network pharmacology of cancer: From understanding of complex interactomes to the design of multi-target specific therapeutics from nature. | Pharmacol Res
+- new | 2016 | 27190706 |  | Screening of cytoprotectors against methotrexate-induced cytogenotoxicity from bioactive phytochemicals. | PeerJ
+- new | 2016 | 26925497 |  | Acute and subchronic (13-week) toxicity of fermented Acanthopanax koreanum extracts in Sprague Dawley rats. | Regul Toxicol Pharmacol
+- new | 2016 | 26463231 | Review | Advances on Bioactive Polysaccharides from Medicinal Plants. | Crit Rev Food Sci Nutr
+- new | 2016 | 28036026 |  | Simultaneous Determination and Pharmacokinetic Study of Six Components in Rat Plasma by HPLC-MS/MS after Oral Administration of Acanthopanax sessiliflorus Fruit Extract. | Int J Mol Sci
+- new | 2016 | 27324351 |  | Simultaneous determination and pharmacokinetics of four triterpenoids by ultra high performance liquid chromatography with tandem mass spectrometry after the oral administration of | J Sep Sci
+- new | 2015 | 25888223 | Research Support, Non-U.S. Gov't | Transcriptomic analysis of Siberian ginseng (Eleutherococcus senticosus) to discover genes involved in saponin biosynthesis. | BMC Genomics
+- new | 2015 | 26161812 | Research Support, Non-U.S. Gov't | Environmental Progestins Progesterone and Drospirenone Alter the Circadian Rhythm Network in Zebrafish (Danio rerio). | Environ Sci Technol
+- new | 2015 | 25666732 | Research Support, Non-U.S. Gov't | Evaluation of the estrogenic and oxidative stress effects of the UV filter 3-benzophenone in zebrafish (Danio rerio) eleuthero-embryos. | Ecotoxicol Environ Saf
+- new | 2015 | 26587397 |  | Literature analysis of Acanthopanax anaphylactic shock in China. | J Tradit Complement Med
+- new | 2015 | 26626238 | Comparative Study/Research Support, Non-U.S. Gov't | Development of a highly reproducible system to evaluate inhibition of cytochrome P450 3A4 activity by natural medicines. | J Pharm Pharm Sci
+- new | 2015 | 25742325 | Research Support, Non-U.S. Gov't | Synthetic progestins medroxyprogesterone acetate and dydrogesterone and their binary mixtures adversely affect reproduction and lead to histological and transcriptional alterations | Environ Sci Technol
+- new | 2014 | 24913295 | Research Support, Non-U.S. Gov't | Anticarcinogenic activity of alpha-difluoromethylornithine, ginseng, eleutherococcus, and leuzea on radiation-induced carcinogenesis in female rats. | Int J Radiat Biol
+- new | 2014 | 24383621 | Research Support, Non-U.S. Gov't | Effects of eleutheroside B and eleutheroside E on activity of cytochrome P450 in rat liver microsomes. | BMC Complement Altern Med
+- new | 2014 | 23620140 | Research Support, Non-U.S. Gov't | Hepatoprotective effects of syringin on fulminant hepatic failure induced by D-galactosamine and lipopolysaccharide in mice. | J Appl Toxicol
+- new | 2013 | 24353831 |  | Acanthopanax koreanum Nakai modulates the immune response by inhibiting TLR 4-dependent cytokine production in rat model of endotoxic shock. | Nutr Res Pract
+- new | 2013 | 24578798 |  | Evaluation of the Mutagenic Properties of Two Lignans from Acanthopanax koreanum Nakai. | Toxicol Res
+- new | 2013 | 23903060 | Research Support, Non-U.S. Gov't | Immunostimulating effects of extract of Acanthopanax sessiliflorus. | Exp Anim
+- new | 2013 | 23369882 | Research Support, Non-U.S. Gov't | Simultaneous determination of Eleutheroside B and Eleutheroside E in rat plasma by high performance liquid chromatography-electrospray ionization mass spectrometry and its applicat | J Chromatogr B Analyt Technol Biomed Lif
+- new | 2012 | 22326821 | Research Support, Non-U.S. Gov't | Anti-diabetic activities of Acanthopanax senticosus polysaccharide (ASP) in combination with metformin. | Int J Biol Macromol
+- new | 2012 | 23130522 | Comparative Study | [Comparative effects of difluoromethylornithine and tincture of Siberian ginseng root on radiation carcinogenesis and life span in rats]. | Adv Gerontol [rus]
+- new | 2012 | 22497733 |  | LC-MS/MS determination and pharmacokinetic study of four lignan components in rat plasma after oral administration of Acanthopanax sessiliflorus extract. | J Ethnopharmacol
+- new | 2011 | 22076758 | Research Support, Non-U.S. Gov't | Anti-inflammatory activity on LPS-stimulated dendritic cells of lupanetype triterpenoids from the leaves of Acanthopanax koreanum. | Arch Pharm Res
+- new | 2010 | 19836221 | Research Support, Non-U.S. Gov't | Acanthoic acid, a diterpene in Acanthopanax koreanum, protects acetaminophen-induced hepatic toxicity in mice. | Phytomedicine
+- new | 2010 | 20091240 |  | Effects of Acanthopanax senticosus HARMS extract on drug transport in human intestinal cell line Caco-2. | J Nat Med
+- new | 2010 | 20368786 | Research Support, Non-U.S. Gov't | Acanthopanax koreanum fruit waste inhibits lipopolysaccharide-induced production of nitric oxide and prostaglandin E2 in RAW 264.7 macrophages. | J Biomed Biotechnol
+- new | 2009 | 19122289 | Research Support, Non-U.S. Gov't | Inhibitory effects of herbal extracts on the activity of human sulfotransferase isoform sulfotransferase 1A3 (SULT1A3). | Biol Pharm Bull
+- new | 2009 | 19723071 | Research Support, Non-U.S. Gov't | Estimation of the combined effect of Eleutherococcus senticosus extract and cadmium on liver cells. | Ann N Y Acad Sci
+- new | 2009 | 19650152 | Research Support, Non-U.S. Gov't | Spontaneously reported adverse reactions in association with complementary and alternative medicine substances in Sweden. | Pharmacoepidemiol Drug Saf
+- new | 2008 | 18367983 | Review | Herbal supplements and therapeutic drug monitoring: focus on digoxin immunoassays and interactions with St. John's wort. | Ther Drug Monit
+- HELD REF-0509 | 2008 | 18607235 | Review | Deconstructing an adaptogen: Eleutherococcus senticosus. | Holist Nurs Pract
+- new | 2008 | 18379074 | Research Support, Non-U.S. Gov't | A diterpenoid acanthoic acid from Acanthopanax koreanum protects against D-galactosamine/lipopolysaccharide-induced fulminant hepatic failure in mice. | Biol Pharm Bull
+- new | 2008 | 18563665 | Research Support, Non-U.S. Gov't | Mechanism-based inactivation of cytochrome P450 3A4 by methylenedioxyphenyl lignans from Acanthopanax chiisanensis. | Planta Med
+- new | 2007 | 17634840 | Case Reports | Multifocal and recurrent subarachnoid hemorrhage due to an herbal supplement containing natural coumarins. | Neurocrit Care
+- new | 2007 | 17827750 | Research Support, Non-U.S. Gov't | Pharmacokinetics of isofraxidin in rat plasma after oral administration of the extract of Acanthopanax senticosus using HPLC with solid phase extraction method. | Chem Pharm Bull (Tokyo)
+- new | 2006 | 16462037 | Research Support, Non-U.S. Gov't | Glycoprotein isolated from Acanthopanax senticosus protects against hepatotoxicity induced by acute and chronic alcohol treatment. | Biol Pharm Bull
+- new | 2006 | 17126636 | Research Support, U.S. Gov't, P.H.S. | Availability of weight-loss supplements: Results of an audit of retail outlets in a southeastern city. | J Am Diet Assoc
+- new | 2006 | 16635739 | Comparative Study | The effect of Kan Jang extract on the pharmacokinetics and pharmacodynamics of warfarin in rats. | Phytomedicine
+- new | 2005 | 16261511 | Review | Stimulating effect of adaptogens: an overview with particular reference to their efficacy following single dose administration. | Phytother Res
+- new | 2005 | 15676159 | Research Support, Non-U.S. Gov't/Review | Cardiovascular pharmacotherapy and herbal medicines: the risk of drug interaction. | Int J Cardiol
+- new | 2004 | 14969348 | Comparative Study/Research Support, Non-U.S. Gov't | Anti-oxidant activities of Acanthopanax senticosus stems and their lignan components. | Arch Pharm Res
+- new | 2004 | 15095147 | Research Support, Non-U.S. Gov't | Acanthoic acid from Acanthopanax koreanum protects against liver injury induced by tert-butyl hydroperoxide or carbon tetrachloride in vitro and in vivo. | Planta Med
+- new | 2002 | 11849840 | Research Support, Non-U.S. Gov't | Effect of Acanthopanax senticosus stem on mast cell-dependent anaphylaxis. | J Ethnopharmacol
+- new | 2001 | 11322643 | Comparative Study/Evaluation Study/Research Support, Non-U.S. Gov't | Inhibitory effects of mast cell-mediated allergic reactions by cell cultured Siberian Ginseng. | Immunopharmacol Immunotoxicol
+- new | 2001 | 11580922 | Research Support, Non-U.S. Gov't | Acanthopanax senticosus root inhibits mast cell-dependent anaphylaxis. | Clin Chim Acta
+- new | 2000 | 11081990 |  | Phyto-adaptogens protect against environmental stress-induced death of embryos from the freshwater snail Lymnaea stagnalis. | Phytomedicine
+- new | 2000 | 12531167 |  | Efficacy and safety of herbal stimulants and sedatives in sleep disorders. | Sleep Med Rev
+- new | 1997 | 10743190 |  | [Protective action of Acanthopanax giraldii harms polysaccharides against experimental liver injury in rats and mice]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 1996 | 8964001 | Comment | Siberian ginseng toxicity may be case of mistaken identity. | CMAJ
+- HELD REF-2478 | 1996 | 8705908 | Case Reports | Elevated serum digoxin levels in a patient taking digoxin and Siberian ginseng. | CMAJ
+- new | 1994 | 8011124 |  | [An experimental observation on the analgesic and antipyretic effects and toxicity of Acanthopanax giraldii Harms]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 1992 | 1300820 | Comparative Study | [The inhibiting effect of phytoadaptogenic preparations from bioginseng, Eleutherococcus senticosus and Rhaponticum carthamoides on the development of nervous system tumors in rats | Vopr Onkol [rus]
+- new | 1984 | 6242223 |  | Effect of aqueous extracts of Acanthopanax senticosus on parathion toxicity in mice. | Zhongguo Yao Li Xue Bao
+- new | 1981 | 6462031 |  | Hypoglycemic effect and toxicity of Eleutherococcus senticosus following acute and chronic administration in mice. | Zhongguo Yao Li Xue Bao
+- new | 1965 | 5875749 |  | [Influence of the liquid extract from the roots of Eleutherococcus senticosus on the toxicity and antitumor activity of cyclophosphan]. | Vopr Onkol [rus]
+
+### PubMed OBS - 4 hits, 4 not already listed above, 4 new
+- new | 2023 | 37112558 |  | From Cohort to Cohort: A Similar Mixture Approach (SMACH) to Evaluate Exposures to a Mixture Leading to Thyroid-Mediated Neurodevelopmental Effects Using NHANES Data. | Toxics
+- new | 2021 | 34960000 | Observational Study | A Pilot, Phase II, Observational, Case-Control, 1-Month Study on Asthenopia in Video Terminal Operators without Dry Eye: Contrast Sensitivity and Quality of Life before and after t | Nutrients
+- new | 2021 | 34017541 |  | Clinical effect and changes of ET-1, FMD and NO levels in the treatment of acute cerebral infarction with acanthopanax injection. | Am J Transl Res
+- new | 2017 | 28572830 |  | Astragalus Extract Mixture HT042 Improves Bone Growth, Mass, and Microarchitecture in Prepubertal Female Rats: A Microcomputed Tomographic Study. | Evid Based Complement Alternat Med
+
+### PubMed REV - 69 hits, 17 not already listed above, 13 new
+- HELD REF-0587 | 2025 | 40572479 | Review | Eleutherococcus senticosus (Acanthopanax senticosus): An Important Adaptogenic Plant. | Molecules
+- new | 2025 | 41440172 | Review | Somatic Embryogenesis: A Biotechnological Route in the Production of Recombinant Proteins. | BioTech (Basel)
+- new | 2025 | 41048351 | Review | Study on the protective effects and mechanisms of eleutherococcus senticosus on korsakoff syndrome. | Front Neurosci
+- new | 2024 | 39701702 | Review | [Resources and secondary metabolites from Eleutherococcus plants: a review]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2024 | 38846546 | Review | A review of the extraction and purification methods, biological activities, and applications of active compounds in Acanthopanax senticosus. | Front Nutr
+- new | 2023 | 37764339 | Review | Phytochemistry and Pharmacology of Eleutherococcus sessiliflorus (Rupr. & Maxim.) S.Y.Hu: A Review. | Molecules
+- HELD REF-0800 | 2022 | 35844057 | Review | Pharmacological effects of Eleutherococcus senticosus on the neurological disorders. | Phytother Res
+- new | 2021 | 34981485 | Review | Role of Herbal Medicines in the Management of Brain Injury. | Adv Exp Med Biol
+- new | 2021 | 33309919 | Review | Medicinal plants from the 14(th) edition of the Russian Pharmacopoeia, recent updates. | J Ethnopharmacol
+- new | 2021 | 33618133 | Review | Structural characterization of the metabolites of orally ingested hederasaponin B, a natural saponin that is isolated from Acanthopanax senticosus leaves by liquid chromatography-m | J Pharm Biomed Anal
+- HELD REF-0801 | 2021 | 34790125 | Review | Advances in the Extraction, Purification, Structural Characteristics and Biological Activities of Eleutherococcus senticosus Polysaccharides: A Promising Medicinal and Edible Resou | Front Pharmacol
+- new | 2019 | 31388349 | Review | A review on the immunomodulatory activity of Acanthopanax senticosus and its active components. | Chin Med
+- new | 2018 | 29369521 | Review | Brief Challenges on Medicinal Plants: An Eye-Opening Look at Ageing-Related Disorders. | Basic Clin Pharmacol Toxicol
+- HELD REF-2470 | 2013 | 23538076 | Review | Adaptogens in mental and behavioral disorders. | Psychiatr Clin North Am
+- new | 2006 | 30000865 | Review | Eleuthero. | 
+- new | 2001 | 11749801 | Review | Constituents and pharmacological effects of Eucommia and Siberian ginseng. | Acta Pharmacol Sin
+- new | 1999 | 10404532 | Review | Adaptogenic properties of six rasayana herbs used in Ayurvedic medicine. | Phytother Res
+
+### ClinicalTrials.gov - 25 registered studies
+- NCT07050121 | NOT_YET_RECRUITING | results=False |  | A Prospective Multi-Center Real-World Study of Ciwujia Capsules in the Treatment of Cancer-Related Insomnia | conds: Cancer, Insomnia, Cancer Related Insomnia | intr: Ciwujia capsules
+- NCT04847518 | UNKNOWN | results=False | PHASE2,PHASE3 | Assessment of Efficacy of KAN-JANG® in Mild COVID-19 | conds: Covid19 | intr: Kan Jang capsules, Placebo capsules
+- NCT01938859 | UNKNOWN | results=False | PHASE4 | Algorithm Guided Treatment Strategies for Bipolar Depression | conds: Bipolar Disorder | intr: Lithium, Quetiapine, Shuganjieyu capsule
+- NCT03850275 | COMPLETED | results=True | NA | The Effects of e+Shots Energy Beverage on Mental Energy | conds: Caffeine | intr: Intervention/treatment
+- NCT01006460 | COMPLETED | results=False | NA | A Study With Arctic Root Compared With the Extract When Combined With Schizandra and Russian Root (Adapt 232), Standardized Ginseng Extract  | conds: Depression, Stress | intr: Rhodiola rosea, L, Rhodiola rosea, L., Eleutherococcus senticosus, Schisandra chinensis, Panax ginse
+- NCT01599169 | COMPLETED | results=False | NA | Evaluation of the Efficacy and Tolerance of B-Back® on the Burnout Syndrome | conds: Efficacy and Tolerance of B-Back® on the Burnout Syndrome | intr: Dietary supplement : B-Back® (α-casozepine, taurine, eleutherococcus senticosus, Extramel), B-Back® 
+- NCT03210519 | COMPLETED | results=True | NA | To Evaluate the Efficacy of Eleutherococcus Senticosus for Subjects Under Renal Dialysis | conds: Renal Dialysis | intr: Eleutherococcus senticosus, Placebo
+- NCT07286838 | NOT_YET_RECRUITING | results=False |  | Ciwujia Capsules/Compound Ciwujia Granules in the Treatment of Insomnia | conds: Insomnia Disorders | intr: Ciwujia Capsules/Compound Ciwujia Granules
+- NCT07306494 | NOT_YET_RECRUITING | results=False | PHASE4 | Compound Ciwujia Granules in the Treatment of Insomnia | conds: Insomnia Disorder | intr: Compound Ciwujia Granules group, Estazolam, Compound Ciwujia Granules and estazolam
+- NCT02975011 | TERMINATED | results=False |  | Effectiveness and Safety of Korean Medicine for Lumbar Stenosis Patients With Sciatica | conds: Lumbar Spinal Stenosis | intr: Herbal medicine, Chuna manipulation, Bee venom pharmacopuncture, Pharmacopuncture
+- NCT01910116 | COMPLETED | results=True | PHASE2,PHASE3 | Efficacy of Shinabro in Hand Osteoarthritis | conds: Hand Osteoarthritis | intr: Shinbaro, Placebo | pubs: ['27449412:DERIVED (new)']
+- NCT06137833 | COMPLETED | results=False | NA | Wide Spectrum Micronutrients Supplementation in Patients With Cancer Related Fatigue During Neoadjuvant and Adjuvant Chemotherapy | conds: Fatigue, Breast Cancer | intr: APPOPRTAL®, Placebo
+- NCT03571503 | COMPLETED | results=False |  | The Effectiveness of Doin (Conduction Exercise) of the Pelvic Joint for HLD With Radiating Leg Pain | conds: Intervertebral Disc Displacement, Sciatica, Sciatic Radiculopathy | intr: Doin (conduction exercise), Herbal medicine, Chuna manual therapy, Bee venom pharmacopuncture
+- NCT02257723 | RECRUITING | results=False |  | The Effect of Integrated CAM Treatment in Hospitalized Patients | conds: Low Back Pain, Neck Pain, Knee Pain, Shoulder Pain | intr: Herbal medicine, Acupuncture, Pharmacopuncture, Bee venom pharmacopuncture | pubs: ['28928789:DERIVED (new)', '26850111:DERIVED (new)']
+- NCT07085143 | ACTIVE_NOT_RECRUITING | results=False | PHASE4 | Clinical Study of Compound Ciwujia Granules in the Treatment of Depression | conds: Depression - Major Depressive Disorder, Depression Disorders | intr: Compound Ciwujia Granules, placebo
+- NCT02841163 | COMPLETED | results=False |  | Disc Resorption in Lumbar and Cervical Disc Herniation Patients Receiving Integrative Korean Medicine Treatment | conds: Lumbar Intervertebral Disc Displacement, Cervical Intervertebral Disc Displacement | intr: Herbal medicine, Acupuncture, Pharmacopuncture, Bee venom pharmacopuncture | pubs: ['28769985:DERIVED (new)']
+- NCT01791933 | COMPLETED | results=False |  | The Evaluation of the Effectiveness of CAM Treatments for Lumbar and Cervical Spine Pain Patients Due to Spinal Disease | conds: Lumbar and Cervical Pain | intr: herbal medicine, Chuna manual therapy, Acupuncture, Bee-venom pharmacoacupuncture/pharmacoacupunctur
+- NCT04795557 | COMPLETED | results=False | PHASE2,PHASE3 | Efficacy of Adaptogens in Patients With Long COVID-19 | conds: Covid19 | intr: ADAPT-232 oral solution, Placebo oral solution
+- NCT03879447 | ACTIVE_NOT_RECRUITING | results=False |  | Effectiveness and Safety of Korean Medicine for Low Back Pain or Sciatica Due to Lumbar Stenosis/Spondylolisthesis | conds: Lumbar Spinal Stenosis, Lumbar Spondylolisthesis, Low Back Pain, Sciatica | intr: Herbal medicine, Chuna manual medicine, Bee venom pharmacopuncture, Pharmacopuncture
+- NCT03858556 | WITHDRAWN | results=False |  | Effect of Chuna Manipulation Therapy on Gait in Patients With Lumbar Disc Herniation | conds: Lumbar Disc Herniation, Gait Analysis, Manual Therapy | intr: Chuna manipulation, Herbal medicine, Bee venom pharmacopuncture, Pharmacopuncture
+- NCT02299739 | COMPLETED | results=False |  | Liver Enzyme Abnormalities and Risk Factors in Taking Herbal Medicine | conds: Drug-Induced Liver Injury, Musculoskeletal Diseases | intr: Herbal medicine, Acupuncture, Pharmacopuncture, Bee venom pharmacopuncture
+- NCT06245642 | COMPLETED | results=False | PHASE4 | Compound Ciwujia Granules Treat Chronic Fatigue Syndrome | conds: Chronic Fatigue Syndrome | intr: Compound Ciwujia Granules, Guipi Granules
+- NCT03750591 | COMPLETED | results=False |  | Observational Study on Effectiveness and Safety of Integrative Korean Medicine Treatment for Inpatients With Sciatica Due to Lumbar Interver | conds: Sciatica Due to Intervertebral Disc Disorder, Intervertebral Disc Displacement, Sciatica, Sciatic Radiculopathy | intr: Herbal medicine, Chuna manual therapy, Bee venom pharmacopuncture, Pharmacopuncture | pubs: ['41063378:DERIVED (new)']
+- NCT07050563 | NOT_YET_RECRUITING | results=False | NA | Clinical Evaluation of the Tiaoshen Anti-Cancer Regimen in Treating Psycho-Neurological Symptom Cluster in Ovarian Cancer | conds: Cancer, Cancer Symptom Clusters | intr: Compound Ciwujia Granules, Placebo granules, Standard treatment protocol for ovarian cancer combined | pubs: ['42284089:DERIVED (new)']
+- NCT01701804 | COMPLETED | results=False |  | The Effectiveness of Non-surgical Integrative Package on Failed Back Surgery Syndrome | conds: Failed Back Surgery Syndrome | intr: Chuna herbal medicine, Chuna manual therapy, Acupuncture, Bee-venom pharmacoacupuncture
+
+### OpenAlex no-PMID trial-worded - 586 hits, 41 without PMID, 40 new
+- new | 2026 | 10.46966/msjar.v6i4.344 | article | The Therapeutic Effect of Herbal Composition of Scutellaria baicalensis and Eleutherococcus senticosus in Patients with Recurrent Aphthous Stomatitis: A Randomized Controlled Trial | Medical Science Journal for Advance Rese
+- new | 2025 | 10.1158/1557-3265.sabcs24-p2-12-16 | conference-abstract | Abstract P2-12-16: A PROSPECTIVE RANDOMIZED PLACEBO-CONTROLLED TRIAL EVALUATING EFFECT OF A WIDE SPECTRUM MICRONUTRIENTS SUPPLEMENT ON CANCER RELATED FATIGUE IN BREAST CANCER PATIE | Clinical Cancer Research
+- new | 2025 | 10.1016/j.jff.2025.107086 | article | Protein matrix interactions and adaptogenic bioactive release in high-protein cracker systems enriched with Rhodiola rosea and Eleutherococcus senticosus | Journal of Functional Foods
+- new | 2024 | 10.1016/j.microc.2024.111905 | article | Developing an effective approach based on microwave distillation and extraction using deep eutectic solvents for multiple target analytes prepared from Eleutherococcus senticosus f | Microchemical Journal
+- new | 2024 | 10.2139/ssrn.4868788 | preprint | A Suitable Solvent System for Microwave Hydrodistillation and Extraction for Multiple Target Analytes Preparation from Eleutherococcus Senticosus Fruits Based on Deep Eutectic Solv | SSRN Electronic Journal
+- new | 2023 | 10.1016/j.jff.2023.105695 | review | The effect of adaptogenic plants on stress: A systematic review and meta-analysis | Journal of Functional Foods
+- new | 2022 | 10.37766/inplasy2022.9.0020 | study-registration | Efficacy of Aidi injection combined with chemotherapy, radiotherapyor chemoradiotherapy for unresectable esophageal cancer treatment: A meta-analysis and systematic review of 29 ra | 
+- new | 2022 | 10.1016/j.scispo.2021.08.011 | article | Eleutherococcus senticosus dry extract does not alter the cardiorespiratory fitness of physically active Brazilian young men | Science & Sports
+- new | 2021 | 10.1016/b978-0-12-815565-3.00017-5 | book-chapter | Herbal medicines (Eleutherococcus senticosus, Astragalus membranaceus) used to treat andrological problems: Asia and Indian Subcontinent | Elsevier eBooks
+- new | 2020 | 10.17480/psk.2020.64.4.307 | article | Effect of Eleutheroside E from Eleutherococcus senticosus on the Contractility of Rabbit Penile Corpus Cavernosum Smooth Muscle | Yakhak Hoeji
+- new | 2018 | 10.18821/1028-9984-2018-23-3-6-158-163 | article | THE EFFECT OF HERBAL MEDICINE ON THE IMMEDIATE INDICATORS OF HOMEOSTASIS IN PATIENTS WITH LOCALLY ADVANCED CERVICAL CANCER WHO RECEIVED SPECIAL TREATMENT | Russian Journal of Oncology
+- new | 2017 | 10.1186/s40816-017-0058-3 | article | A herbal composition of Scutellaria baicalensis and Eleutherococcus senticosus shows vasocontrictive effects in an ex-vivo mucosal tissue model and in allergic rhinitis patients | Clinical Phytoscience
+- new | 2016 | 10.1055/s-0042-107997 | article | Phyto-Kombination im Vergleich zu Placebo und Bromhexin bei Husten | Zeitschrift für Phytotherapie
+- new | 2016 | https://openalex.org/W4353027614 | article | Immunomodulatory effect of Eleutherococcus senticosus on Newcastle disease vaccine in broiler | Al-Qadisiyah Journal of Veterinary Medic
+- new | 2014 | 10.1096/fasebj.28.1_supplement.lb322 | conference-abstract | The effects of a multi‐herbal mixture HT042 on height gain in short children: a double‐blind, randomized, placebo‐controlled trial (LB322) | The FASEB Journal
+- new | 2014 | 10.2147/btat.s60734 | article | Myths and facts in herbal medicines: Eleutherococcus senticosus (Siberian ginseng) and its contraindication in hypertensive patients | Botanics Targets and Therapy
+- new | 2013 | 10.4172/2167-0889.1000116 | article | Effect of Combination of Some Natural Products and Chloroquine on HCV Infection in Egyptian Patients: Pilot Study | Journal of Liver
+- new | 2012 | 10.2478/s11535-012-0037-0 | article | Experimental addition of Eleutherococcus senticosus and probiotic to the canine diet | Open Life Sciences
+- new | 2012 | https://openalex.org/W2384246572 | article | Cloning and expression analysis of mevalonate diphosphate decarboxylasa gene in Eleutherococcus senticosus. | Xibei zhiwu xuebao
+- new | 2012 | https://openalex.org/W2386367939 | article | Cloning and sequence analyzing of squalene synthase gene from Eleutherococcus senticosus endogenetic Penicillium minioluteum P116-1a | Microbiology, China
+- new | 2011 | https://openalex.org/W632376780 | article | Cloning and Sequence Analysis of ATPase Beta Subunit Gene from Eleutherococcus senticosus | Agricultural Science and Technology Huna
+- new | 2010 | https://openalex.org/W2554012394 | review | Methods for exploring heterogeneity in systematic reviews of randomized controlled trials. | TSpace (University of Toronto)
+- new | 2010 | https://openalex.org/W2258989146 | article | The Role of Adaptogens in Stress Management | Australian journal of medical herbalism
+- new | 2008 | https://openalex.org/W560268493 | article | Siberian ginseng eleutherococcus senticosus | RMIT Research Repository (RMIT Universit
+- new | 2008 | https://openalex.org/W2373702319 | article | Genetic Diversity of Eleutherococcus senticosus by RAPD Analysis | Lishizhen Medicine and Materia Medica Re
+- new | 2008 | https://openalex.org/W898439733 | article | Effects of Eleutherococcus senticosus and Several Oriental Medicinal Herbs Extracts on Serum Lipid Concentrations | The Korean Journal of Food And Nutrition
+- new | 2008 | https://openalex.org/W7132284556 | conference-paper | Estimation of common effect of Eleutherococcus Senticosus (Rupr. et Maxim. ex Maxim) extract and cadmium used intraperitoneal | Lithuanian University of Health Sciences
+- new | 2008 | https://openalex.org/W232314272 | article | The use of a ginseng extract in rabbits. | Proceedings of the 9th World Rabbit Cong
+- new | 2008 | https://openalex.org/W7132164719 | conference-paper | Estimation of common effect of Eleutherococcus senticosus (rupr. et maxim. ex maxim) extract and cadmium on mitotic and apoptotic activity of liver cells | Lithuanian University of Health Sciences
+- new | 2008 | https://openalex.org/W7132657994 | conference-paper | Assessment of effect of Eleutherococcus Senticosus (Rupr. et Maxim. ex Maxim) extract on the accumulation of cadmium in liver; Apoptotic and Mitotic activity of liver cells | Lithuanian University of Health Sciences
+- HELD REF-3405 | 2007 | 10.1097/01.ogx.0000259156.08271.b4 | article | Treatment of Vasomotor Symptoms of Menopause With Black Cohosh, Multibotanicals, Soy, Hormone Therapy, or Placebo: A Randomized Trial | Obstetrical & Gynecological Survey
+- new | 2007 | https://openalex.org/W7132484257 | conference-paper | The influence of eleutherococcus senticosus (rupr. et maxim. ex maxim) extract to the toxicity of cadmium | Lithuanian University of Health Sciences
+- new | 2007 | https://openalex.org/W330345600 | dissertation | Authentication of the Panax genus plants used in Traditional Chinese Medicine (TCM) using Randomly Amplified Polymorphic DNA (RAPD) analysis | UWA Profiles and Research Repository (Un
+- new | 2007 | 10.33393/dti.2007.1309 | article | The Adaptogens Rhodiola and Schizandra Modify the Response to Immobilization Stress in Rabbits by Suppressing the Increase of Phosphorylated Stress-activated Protein Kinase, Nitric | Drug Target Insights
+- new | 2006 | 10.1249/00005768-200605001-02566 | conference-abstract | Effects of Eleutherococcus Senticosus (CIWUJIA) on Fat Metabolism and Endurance Performance in Long Distance Runners | Medicine & Science in Sports & Exercise
+- new | 2005 | https://openalex.org/W2164510014 | article | Effect of adaptogens on the central nervous sys- tem | 
+- new | 2002 | 10.1002/smi.914 | article | Eleutherococcus senticosus reduces cardiovascular stress response in healthy subjects: a randomized, placebo‐controlled trial | Stress and Health
+- new | 2002 | https://openalex.org/W2273462786 | article | The effects of Eleutherococcus senticosus extract on human fatigue factors and oxidant-antioxidant system during maximal and submaximal exercise. | 한국체육학회지-인문사회과학
+- new | 1999 | 10.1097/00005768-199905001-00444 | conference-abstract | THE EFFECT OF ELEUTHEROCOCCUS SENTICOSUS (SIBERIAN GINSENG) ON SUBSTRATE UTILIZATION AND PERFORMANCE DURING PROLONGED CYCLING | Medicine & Science in Sports & Exercise
+- new | 1998 | 10.51415/10321/2013 | dissertation | The effects of eleutherococcus senticosus on egg laying hens | DUT Open Scholar (Durban University of T
+- new | 1998 | https://openalex.org/W774187221 | article | Intraspecific Relationship of Eleutherococcus senticosus Max. by RAPD Markers | Korean Journal of Medicinal Crop Science

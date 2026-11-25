@@ -1,0 +1,30 @@
+plant	condition	ref	op
+daucus_carota	high-cholesterol	REF-5317	nulladd
+daucus_carota	high-cholesterol	-	note
+echinacea_purpurea	infection	REF-5319	add
+echinacea_purpurea	infection	REF-5320	add
+echinacea_purpurea	infection	REF-5321	nulladd
+echinacea_purpurea	infection	REF-5322	nulladd
+echinacea_purpurea	infection	-	note
+echinacea_purpurea	immune-support	REF-5323	add
+echinacea_purpurea	immune-support	REF-5324	nulladd
+echinacea_purpurea	immune-support	REF-5325	nulladd
+echinacea_purpurea	immune-support	-	note
+elettaria_cardamomum	blood-sugar	REF-5333,REF-5334	newpair
+elettaria_cardamomum	blood-sugar	REF-5335	nulladd
+elettaria_cardamomum	liver-support	REF-5336	newpair
+elettaria_cardamomum	high-blood-pressure	REF-5337	add
+elettaria_cardamomum	high-blood-pressure	-	note
+eleutherococcus_senticosus	immune-support	REF-5338	add
+eleutherococcus_senticosus	immune-support	REF-5339	nulladd
+eleutherococcus_senticosus	immune-support	-	note
+eleutherococcus_senticosus	stress	REF-5339	nulladd
+eleutherococcus_senticosus	stress	-	note
+daucus_carota	cinew	Allergy: carrot (the cultivated form of 	REF-5315,REF-5316
+dioscorea_villosa	cinew	Skin products: a 2004 Cosmetic Ingredien	REF-5318
+echinacea_purpurea	ciadd	Generally considered safe, but caution	REF-5326
+echinacea_purpurea	cinew	Allergy: echinacea, a daisy-family plant	REF-5327,REF-5328
+echinacea_purpurea	cinew	Pregnancy and breastfeeding: there are t	REF-5327
+echinacea_purpurea	cinew	Medicines: in clinical studies, E. purpu	REF-5329,REF-5330,REF-5331,REF-5332
+eleutherococcus_senticosus	cinew	Medicines: a standardised extract (485 m	REF-5340
+eleutherococcus_senticosus	cinew	Injections: eleuthero (Acanthopanax) inj	REF-5341

@@ -347,10 +347,13 @@ indications:
   - REF-2720
   status: needs-review
 - condition: high-cholesterol
-  note: Insoluble fibre from carrots limited the rise in blood lipids after a fatty meal in mice (preclinical)
+  note: Insoluble fibre from carrots limited the rise in blood lipids after a fatty meal in mice (preclinical);
+    in people, dried purple carrot did not lower cholesterol in a small placebo-controlled trial
   reference_ids:
   - REF-2720
   status: needs-review
+  null_result_ids:
+  - REF-5317
 - condition: low-libido
   note: Carrot seed improved sexual desire and function vs placebo in women with low sexual desire in
     a randomized trial. The seed blocks pregnancy in animal studies and is a folk contraceptive - avoid
@@ -391,6 +394,15 @@ contraindications:
   - REF-2708
   - REF-2610
   - REF-2611
+  status: verified
+- note: 'Allergy: carrot (the cultivated form of the same species) can cause food allergy, mostly in people
+    allergic to birch pollen; in a placebo-controlled food-challenge study, 20 of 26 people with suspected
+    carrot allergy reacted, most to the birch-related allergen Dau c 1. A delayed allergic skin reaction
+    to carrot and other carrot-family roots has also been reported (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5315
+  - REF-5316
   status: verified
 references:
 - REF-2708
@@ -609,4 +621,14 @@ internal_notes: 'Created 2026-07-10 as a new medicinal-plant record (wild carrot
   carrot-seed RCT in women with hypoactive sexual desire disorder REF-3654 (500 mg x3/day, 12
   weeks; FSFI desire, arousal, lubrication, orgasm, satisfaction and pain improved vs placebo).
   Note carries the seed''s anti-fertility / folk-contraceptive warning (REF-2724). Not filed under
-  fertility.'
+  fertility.
+  | 2026-11-25: symptom-source audit research-deepening batch 11 - Searched PubMed (Daucus carota
+  / wild carrot / Queen Anne''s lace / carrot seed tiab: 18 HT, 2 SR, 92 SAFE hits, mostly crop
+  science), Europe PMC, ClinicalTrials.gov (34, all dietary-carrot studies) and OpenAlex. Added:
+  carrot-allergy caution (2001 double-blind placebo-controlled food challenge, Dau c 1; 2014
+  systemic contact dermatitis case); 2013 QUENCH placebo RCT of dried purple carrot (no change in
+  cholesterol, BP or CRP) as no-effect for high-cholesterol. Not added: carrot seed + clomiphene +
+  lifestyle RCT in male infertility (2025; carrot effect not isolated, and the seed is a folk
+  contraceptive, see the owner note of 2026-11-12), Jazar (Vitex + fennel + carrot seed) and
+  wild-carrot halva (multi-herb), phytophotodermatitis letter 2011 and 2013 threshold-dose letter
+  (no abstract), gastric-cancer intake MA (dietary, risk-only), Dau c 1 lab characterisation.'

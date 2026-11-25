@@ -189,13 +189,18 @@ indications:
   - REF-3551
   - REF-2291
 - condition: immune-support
-  note: Immunostimulant effects reported (reviews)
+  note: Immunostimulant effects reported (reviews); an ethanolic root extract raised T-cell and natural-killer-cell
+    counts vs placebo in healthy volunteers (1987 double-blind study), but an extract did not change immune
+    cells in endurance athletes (2001 placebo-controlled trial)
   reference_ids:
   - REF-0506
   - REF-0587
+  - REF-5338
   status: verified
   mechanistic_exclude_ids:
   - REF-0509
+  null_result_ids:
+  - REF-5339
 - condition: memory
   note: Memory-supporting activity reported in lab and animal studies (review)
   reference_ids:
@@ -208,7 +213,8 @@ indications:
   status: needs-review
 - condition: stress
   note: Traditional adaptogen to improve resistance to stress (reviews); a randomized trial adding it
-    to stress-management training found no benefit
+    to stress-management training found no benefit, and in endurance athletes it raised rather than lowered
+    hormonal markers of stress (placebo-controlled trial)
   reference_ids:
   - REF-0506
   - REF-0509
@@ -217,6 +223,7 @@ indications:
   status: verified
   null_result_ids:
   - REF-3393
+  - REF-5339
 contraindications:
 - note: Generally safe with few side effects; taken late in the day it may cause mild insomnia or irritability.
     Use caution in uncontrolled high blood pressure.
@@ -230,6 +237,20 @@ contraindications:
   reference_ids:
   - REF-0509
   status: needs-review
+- note: 'Medicines: a standardised extract (485 mg twice daily for 14 days) did not change CYP2D6 or CYP3A4
+    activity in healthy volunteers, so interactions with drugs cleared by these liver enzymes are unlikely
+    (clinical study).'
+  severity: info
+  reference_ids:
+  - REF-5340
+  status: verified
+- note: 'Injections: eleuthero (Acanthopanax) injections used in Chinese hospitals have caused anaphylactic
+    shock, sometimes fatal; in a review of 57 Chinese cases almost all followed an infusion (literature
+    analysis).'
+  severity: caution
+  reference_ids:
+  - REF-5341
+  status: verified
 references:
 - REF-0800
 - REF-0801
@@ -316,4 +337,19 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Holistic Nursin
   (no endurance benefit) removed from the ergogenic action and recorded as no-effect for fatigue,
   with Hartz 2004 RCT REF-3551 ("overall efficacy was not demonstrated" in chronic fatigue). Notes
   rewritten; fatigue and stress notes state the null trials. REF-0506 kept as narrative-review
-  (PubMed tags it MA, but it is a history/perspectives review).'
+  (PubMed tags it MA, but it is a history/perspectives review).
+  | 2026-11-25: symptom-source audit research-deepening batch 11 - Searched PubMed
+  (Eleutherococcus senticosus / Acanthopanax senticosus / Siberian ginseng / eleuthero tiab;
+  eleutherococcus, acanthopanax ti: 72 HT, 15 SR, 135 SAFE hits), Europe PMC, ClinicalTrials.gov
+  (25) and OpenAlex. Added: 1987 double-blind flow-cytometry study to immune-support, with the
+  2001 endurance-athlete placebo trial as no-effect for immune-support and stress (its
+  testosterone-to-cortisol ratio fell); 2003 CYP2D6/CYP3A4 phenotyping study and a 2015 analysis
+  of injection anaphylaxis as notes. Not added: fruit extract BP RCT 2020 (the record cautions
+  about uncontrolled high blood pressure, inv. 12d), postmenopausal lipid RCT 2008 (calcium
+  control; abstract reports within-group changes only), elderly quality-of-life RCT 2004 and
+  endurance RCT 2010 (no vocab condition), hangover RCT 2015, bone-density RCT 2009,
+  cancer-fatigue feasibility study 2024 (single arm), Siberian ginseng vs fluoxetine add-on in
+  bipolar adolescents (active comparator), Acanthopanax injections for stroke and Aidi / Shugan
+  Jieyu / ADAPT-232 / Kan Jang / ImmunoGuard and other combinations, subarachnoid haemorrhage case
+  (red clover + dong quai + Siberian ginseng product), other Acanthopanax and Eleutherococcus
+  species.'

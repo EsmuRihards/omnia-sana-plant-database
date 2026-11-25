@@ -212,10 +212,11 @@ indications:
   - REF-1674
   - REF-0144
 - condition: high-blood-pressure
-  note: Green cardamom lowered blood pressure in a meta-analysis of small randomized trials in metabolic
-    syndrome
+  note: Green cardamom lowered blood pressure in meta-analyses of small randomized trials, in metabolic
+    syndrome and in adults generally, though the falls were very small (under 1 mmHg in the 2024 analysis)
   reference_ids:
   - REF-3546
+  - REF-5337
   status: verified
 - condition: high-cholesterol
   note: Cardamom lowered triglycerides (but not cholesterol) in meta-analyses of randomized trials
@@ -228,6 +229,23 @@ indications:
     trial
   reference_ids:
   - REF-3549
+  status: verified
+- condition: blood-sugar
+  note: Green cardamom (3 g a day) lowered HbA1c and insulin resistance, though not fasting blood sugar,
+    in a 2022 meta-analysis of randomized trials and in a placebo-controlled trial in type 2 diabetes;
+    a trial in pre-diabetic women found no difference from placebo
+  reference_ids:
+  - REF-5333
+  - REF-5334
+  status: verified
+  null_result_ids:
+  - REF-5335
+- condition: liver-support
+  note: Green cardamom capsules (3 g a day) reduced the degree of fatty liver, the liver enzyme ALT and
+    inflammatory markers vs placebo in overweight people with non-alcoholic fatty liver disease (randomized
+    trial)
+  reference_ids:
+  - REF-5336
   status: verified
 contraindications:
 - note: Cardamom is generally considered safe for most people when used in culinary amounts. At medicinal
@@ -315,4 +333,16 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (triglycerides only, labelled); nausea REF-3549 (aromatherapy RCT).
   | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0028 ''Bhilave 2013,
   antibacterial activity of cardamom seeds'' is not in PubMed, Crossref or OpenAlex as cited: removed
-  from every entry (each kept another source) and deleted.'
+  from every entry (each kept another source) and deleted.
+  | 2026-11-25: symptom-source audit research-deepening batch 11 - Searched PubMed (Elettaria
+  cardamomum / cardamom tiab: 42 HT, 19 SR, 77 SAFE hits), Europe PMC, ClinicalTrials.gov (13) and
+  OpenAlex; black cardamom (Amomum subulatum) hits excluded as another species. Added: NEW
+  blood-sugar pair (2022 glycaemic MA: HbA1c and HOMA-IR fell, fasting glucose did not; 2019 T2DM
+  placebo RCT) with the 2017 pre-diabetes RCT as no-effect; NEW liver-support pair (2018 NAFLD
+  placebo RCT, IRCT2015121317254N4; its 2019 companion paper 30871514 reports the same trial and
+  was not added as a second source); 2024 inflammation/BP MA to high-blood-pressure with its tiny
+  effect size stated. Not added: inflammation (already 8), peppermint vs cardamom ice cubes for
+  post-operative nausea 2025 (abstract does not state a significant difference from placebo), PCOS
+  gene-expression trials (surrogates), Arabic coffee, compound honey syrup and other combinations,
+  two trial protocols, cardamom allergy protein study 2024 (no abstract), hematuria letter 2011
+  and contact dermatitis case 1975 (no abstract).'

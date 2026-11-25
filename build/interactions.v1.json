@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 121,
+ "count": 125,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -433,6 +433,21 @@
    "references": [
     "REF-2452",
     "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "carum-carvi",
+   "plant": "Caraway",
+   "scientific": "Carum carvi",
+   "common_slug": "caraway",
+   "wp_post_id": null,
+   "drug_class": "antibiotics",
+   "drug_class_label": "Antibiotics",
+   "severity": "caution",
+   "mechanism": "In 20 healthy volunteers, 100 mg of caraway extract raised blood levels of the tuberculosis antibiotics rifampicin, isoniazid and pyrazinamide by roughly a quarter to a third; anyone on tuberculosis treatment should not add caraway extracts without medical advice.",
+   "references": [
+    "REF-5249"
    ],
    "status": "approved"
   },
@@ -909,12 +924,58 @@
    "scientific": "Cannabis sativa",
    "common_slug": "hemp",
    "wp_post_id": null,
+   "drug_class": "anticoagulants-antiplatelets",
+   "drug_class_label": "Anticoagulants / antiplatelets",
+   "severity": "caution",
+   "mechanism": "Interactions between cannabis or cannabinoids and warfarin are among the most often reported, with bleeding risk among the effects (2024 systematic review of case reports and studies).",
+   "references": [
+    "REF-5241"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "cannabis-sativa",
+   "plant": "Hemp",
+   "scientific": "Cannabis sativa",
+   "common_slug": "hemp",
+   "wp_post_id": null,
    "drug_class": "anticonvulsants",
    "drug_class_label": "Anticonvulsants (anti-seizure)",
    "severity": "caution",
    "mechanism": "Cannabidiol (CBD) interacts with anti-seizure medicines - notably raising exposure to clobazam - and can add to sedation; anyone combining cannabis/CBD with anticonvulsants should be monitored and doses reviewed by their clinician.",
    "references": [
     "REF-2497"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "cannabis-sativa",
+   "plant": "Hemp",
+   "scientific": "Cannabis sativa",
+   "common_slug": "hemp",
+   "wp_post_id": null,
+   "drug_class": "immunosuppressants",
+   "drug_class_label": "Immunosuppressants",
+   "severity": "caution",
+   "mechanism": "Cannabis and cannabinoids have been reported to change blood levels of the transplant drugs tacrolimus and sirolimus, which have a narrow safe range (2024 systematic review).",
+   "references": [
+    "REF-5241"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "cannabis-sativa",
+   "plant": "Hemp",
+   "scientific": "Cannabis sativa",
+   "common_slug": "hemp",
+   "wp_post_id": null,
+   "drug_class": "cyp3a4-substrates",
+   "drug_class_label": "Medicines processed by CYP3A4",
+   "severity": "caution",
+   "mechanism": "CBD and THC inhibit several drug-metabolising CYP450 enzymes, which can raise levels of medicines cleared by them and increase side effects; clinical data are still limited (2024 systematic reviews).",
+   "references": [
+    "REF-5242",
+    "REF-5241"
    ],
    "status": "approved"
   },

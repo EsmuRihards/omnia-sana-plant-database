@@ -12556,6 +12556,40 @@
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
      "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "anticoagulants-antiplatelets",
+     "severity": "caution",
+     "mechanism": "Interactions between cannabis or cannabinoids and warfarin are among the most often reported, with bleeding risk among the effects (2024 systematic review of case reports and studies).",
+     "reference_ids": [
+      "REF-5241"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-25"
+    },
+    {
+     "drug_class": "immunosuppressants",
+     "severity": "caution",
+     "mechanism": "Cannabis and cannabinoids have been reported to change blood levels of the transplant drugs tacrolimus and sirolimus, which have a narrow safe range (2024 systematic review).",
+     "reference_ids": [
+      "REF-5241"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-25"
+    },
+    {
+     "drug_class": "cyp3a4-substrates",
+     "severity": "caution",
+     "mechanism": "CBD and THC inhibit several drug-metabolising CYP450 enzymes, which can raise levels of medicines cleared by them and increase side effects; clinical data are still limited (2024 systematic reviews).",
+     "reference_ids": [
+      "REF-5242",
+      "REF-5241"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-25"
     }
    ],
    "lookalikes_review": {
@@ -13511,7 +13545,19 @@
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-08-15",
-   "drug_class_interactions": [],
+   "drug_class_interactions": [
+    {
+     "drug_class": "antibiotics",
+     "severity": "caution",
+     "mechanism": "In 20 healthy volunteers, 100 mg of caraway extract raised blood levels of the tuberculosis antibiotics rifampicin, isoniazid and pyrazinamide by roughly a quarter to a third; anyone on tuberculosis treatment should not add caraway extracts without medical advice.",
+     "reference_ids": [
+      "REF-5249"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-25"
+    }
+   ],
    "common_slug": "caraway"
   },
   {

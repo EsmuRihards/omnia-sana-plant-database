@@ -329,14 +329,18 @@ drug_class_interactions:
     with bleeding risk among the effects (2024 systematic review of case reports and studies).
   reference_ids:
   - REF-5241
-  status: draft
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-11-25'
 - drug_class: immunosuppressants
   severity: caution
   mechanism: Cannabis and cannabinoids have been reported to change blood levels of the transplant drugs
     tacrolimus and sirolimus, which have a narrow safe range (2024 systematic review).
   reference_ids:
   - REF-5241
-  status: draft
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-11-25'
 - drug_class: cyp3a4-substrates
   severity: caution
   mechanism: CBD and THC inhibit several drug-metabolising CYP450 enzymes, which can raise levels of medicines
@@ -344,7 +348,9 @@ drug_class_interactions:
   reference_ids:
   - REF-5242
   - REF-5241
-  status: draft
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-11-25'
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -415,4 +421,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   vomiting - flagged for owner, same rule as tea and insomnia); Cochrane 2018 neuropathic pain
   (benefit may be outweighed by harms; not a null), nabilone fibromyalgia Cochrane (synthetic
   analogue), dementia Cochrane, epilepsy MAs (no vocab condition; CBD-clobazam is already in the
-  approved anticonvulsant interaction), cannabis-use-disorder, driving and adolescent literature.'
+  approved anticonvulsant interaction), cannabis-use-disorder, driving and adolescent literature.
+  | 2026-11-25: owner approved the research-deepening draft herb-drug interaction(s):
+  anticoagulants-antiplatelets, immunosuppressants, cyp3a4-substrates.'

@@ -318,7 +318,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   pyrazinamide levels) as a DRAFT antibiotics interaction, needs owner sign-off. Not added: Bunium
   persicum ("black caraway") trials (a different species), Komouni and other Persian formulas,
   ginger/caraway/peppermint TB trial (caraway arm not reported as effective), computational
-  re-analyses of the obesity trial.'
+  re-analyses of the obesity trial.
+  | 2026-11-25: owner approved the research-deepening draft herb-drug interaction(s): antibiotics.'
 drug_class_interactions:
 - drug_class: antibiotics
   severity: caution
@@ -327,4 +328,6 @@ drug_class_interactions:
     treatment should not add caraway extracts without medical advice.
   reference_ids:
   - REF-5249
-  status: draft
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-11-25'

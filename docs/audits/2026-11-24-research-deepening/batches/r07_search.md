@@ -1,0 +1,2067 @@
+# Research-deepening batch 7 - search
+
+## cannabis-sativa (Cannabis sativa) - name clause: "Cannabis sativa"[tiab] OR "hemp seed"[tiab] OR "hempseed"[tiab] OR "hemp oil"[tiab] OR "hemp extract"[tiab] OR "cannabis"[ti] OR "cannabinoid"[ti] OR "cannabinoids"[ti] OR "cannabidiol"[ti] OR "nabiximols"[ti] OR "medical cannabis"[ti]
+
+### PubMed HT - 4605 hits, 200 not already listed above, 199 new
+- new | 2026 | 41296368 | Review | Therapeutic Use of Cannabis and Cannabinoids: A Review. | JAMA
+- new | 2026 | 41822997 | Review | Insights Into Cannabis and Cannabinoids: Chemical Properties, Legal Perspectives, and Therapeutic Applications. | Chem Biodivers
+- new | 2026 | 42863850 | Systematic Review/Meta-Analysis | Medical cannabis for the treatment of insomnia. | Cochrane Database Syst Rev
+- new | 2026 | 40624323 | Editorial | "Medical Cannabis": Advising Patients While Navigating Medical Ethics and Limited Evidence. | J Gen Intern Med
+- new | 2026 | 42210342 | Systematic Review | Efficacy, effectiveness and safety of medical cannabis in PTSD: a scoping review. | J Cannabis Res
+- new | 2026 | 42653735 | Review | Cannabis and Cannabinoids: The Medical Potential of Cannabidiol in Mental and Neurological Disorders. | Pharmaceuticals (Basel)
+- new | 2026 | 42758935 | Letter | When 'Cannabidiol' Is Not Cannabidiol - And Why It Matters for Clinicians and Patients. | Braz J Psychiatry
+- new | 2026 | 41510814 |  | Pilot Randomized Trial of Medical Cannabis to Reduce Symptom Burden in Patients With Newly Diagnosed Advanced Pancreatic Cancer (CanPan). | JCO Oncol Pract
+- new | 2026 | 42304702 |  | Exploratory Prospective Study of Self-Titrated Medical Cannabis for Nonmotor Symptoms in Parkinson's Disease. | Cannabis Cannabinoid Res
+- new | 2026 | 42387975 | Observational Study | UK Medical Cannabis Registry: A Clinical Outcomes Analysis for Autism Spectrum Disorder. | Neuropsychopharmacol Rep
+- new | 2026 | 42946199 |  | Are Cannabis and Cannabinoids a Valid Treatment Option in Patients with Rheumatic Diseases? A narrative review. | Joint Bone Spine
+- new | 2026 | 43047344 | Systematic Review | Effectiveness and safety of different administration routes of medical cannabis or cannabinoids for chronic pain in adults: a systematic review and network meta-analysis with GRADE | Front Pharmacol
+- new | 2026 | 41497552 |  | Risk of Heart Failure-related Events in Patients Exposed to Medical Cannabis: A Longitudinal Cohort Study. | Am J Med Open
+- new | 2026 | 41867251 | Editorial | Special issue: The harms and benefits of cannabis and cannabinoids in women and men and effects on their progeny. | Drug Alcohol Depend Rep
+- new | 2026 | 41714301 | Systematic Review | Medical Cannabis for the Treatment of Peripheral Neuropathy due to Diabetes: A Systematic Review. | Cannabis Cannabinoid Res
+- new | 2026 | 42033891 | Randomized Controlled Trial | Plasma cannabinoid pharmacokinetics following the inhalation of vaporised cannabis with and without cannabidiol. | Drug Alcohol Depend
+- new | 2026 | 41943196 |  | UK Medical Cannabis Registry: A Clinical Outcomes Analysis for Migraine. | Brain Behav
+- new | 2026 | 41482365 | Review | Medical Cannabis for Best Supportive Care of Patients Affected by Cancers of the Head and Neck: A Narrative Review. | In Vivo
+- new | 2025 | 41181596 | Systematic Review | Cannabis and cannabinoids in dermatology: a systematic review and meta-analysis of quantitative outcomes. | Front Pharmacol
+- new | 2025 | 41357430 |  | UK Medical Cannabis Registry: An Updated Analysis of Cannabis-Based Medicinal Products for Multiple Sclerosis. | Med Cannabis Cannabinoids
+- new | 2025 | 41357860 |  | Medical cannabis utilization in children - a study based on a nationwide cohort. | Front Pharmacol
+- new | 2025 | 40556619 | Review | Medical cannabis for chronic pain management: questions and answers between clinical and medico-legal issues. | Clin Exp Rheumatol
+- new | 2025 | 40272804 |  | Characteristics of Medical Cannabis Patients and Clinicians in 7 US States. | JAMA Netw Open
+- new | 2025 | 41662070 |  | UK Medical Cannabis Registry: A clinical outcomes analysis for insomnia. | PLOS Ment Health
+- new | 2025 | 40687272 |  | Inflammatory bowel disease patients believe cannabis and cannabidiol oil relieve symptoms. | Acad Med (San Franc)
+- new | 2025 | 39942412 |  | Women's Experiences with Nicotine and Cannabis Vaping During Pregnancy and Postpartum. | Healthcare (Basel)
+- new | 2025 | 41396801 |  | Concomitant use of medical cannabis and drugs associated with risks of interaction in older patients: a longitudinal cohort study. | Age Ageing
+- new | 2025 | 40249168 | Observational Study | UK Medical Cannabis Registry: A Clinical Outcomes Analysis for Epilepsy. | Brain Behav
+- new | 2025 | 41368882 | Research Support, Non-U.S. Gov't | Assessing anxiety longitudinally among medical cannabis patients in Pennsylvania. | Am J Drug Alcohol Abuse
+- new | 2025 | 38282460 |  | Psychosexual dysfunction in male patients with cannabis dependence and synthetic cannabinoid dependence. | Int J Psychiatry Med
+- new | 2025 | 40738021 |  | UK Medical Cannabis Registry: A Clinical Analysis of Patients with Substance Use Disorder. | Eur Addict Res
+- new | 2025 | 40670615 |  | Machine-learning of medical cannabis chemical profiles reveals analgesia beyond placebo expectations. | Commun Med (Lond)
+- new | 2025 | 39921589 |  | UK Medical Cannabis Registry: An Analysis of Clinical Outcomes of Medicinal Cannabis Therapy for Cancer Pain. | J Pain Palliat Care Pharmacother
+- new | 2025 | 40605183 |  | Cannabis Practices and Cannabinoid/Terpene Preferences in Medical Cannabis Patients Who Use Cannabis for Pain and Anxiety. | J Psychoactive Drugs
+- new | 2025 | 40235073 | Observational Study | UK medical cannabis registry: an updated clinical outcomes analysis of patients with post-traumatic stress disorder. | Expert Rev Neurother
+- new | 2025 | 40490405 |  | Perceptions and Use of Medical Cannabis in Patients with Head and Neck Cancer. | Am J Clin Oncol
+- new | 2025 | 40519367 |  | Patterns, Efficacy, and Cognitive Effects of Medical Cannabis Use in Chronic Musculoskeletal Pain Patients. | Cureus
+- new | 2025 | 41437413 |  | Minor Cannabinoid Use Among Medical Cannabis Patients. | J Psychoactive Drugs
+- new | 2025 | 41153555 |  | Effects of Medical Cannabis Treatment for Autistic Children on Family Accommodation: An Open-Label Mixed-Methods Study. | Children (Basel)
+- new | 2025 | 40304409 | Comparative Study | Cost-Effectiveness of Medical Cannabis Versus Opioids for Chronic Noncancer Pain. | Cannabis Cannabinoid Res
+- new | 2024 | 38478773 | Practice Guideline/Systematic Review/Research Support, Non-U.S. Gov't/Research Support, N.I.H., Extramural | Cannabis and Cannabinoids in Adults With Cancer: ASCO Guideline. | J Clin Oncol
+- new | 2024 | 38337193 |  | UK Medical Cannabis Registry: Assessment of clinical outcomes in patients with insomnia. | Brain Behav
+- new | 2024 | 38832841 | Systematic Review | Medical cannabis and its efficacy/effectiveness on the management of osteoarthritis pain and function. | Curr Med Res Opin
+- new | 2024 | 39096481 | Review | Clinical Benefits and Safety of Medical Cannabis Products: A Narrative Review on Natural Extracts. | Pain Ther
+- new | 2024 | 37812748 | Review | Subjective, behavioral and neurobiological effects of cannabis and cannabinoids in social anxiety. | Rev Neurosci
+- new | 2024 | 38477532 | Scoping Review | Medical cannabis use in oncology and associated outcomes: A scoping review. | J Oncol Pharm Pract
+- new | 2024 | 38332979 |  | Removing barriers to accessing medical cannabis for paediatric patients. | Paediatr Child Health
+- new | 2024 | 38913638 |  | Poster: Evaluating pain control and tolerability of medical cannabis formulations in patients. | Int J Palliat Nurs
+- new | 2024 | 38332980 |  | Serious and life-threatening events associated with non-medical cannabis use in Canadian children and youth. | Paediatr Child Health
+- new | 2024 | 38343069 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Simultaneous Cannabis and Alcohol Use among Medical Cannabis Patients. | Subst Use Misuse
+- new | 2024 | 37130724 |  | Medical cannabis is effective for cancer-related pain: Quebec Cannabis Registry results. | BMJ Support Palliat Care
+- new | 2024 | 38092565 |  | Greater vulnerability to cannabis dependence among heavy cannabis user French women. | Am J Addict
+- new | 2024 | 38978789 | Review | Potential perioperative cardiovascular outcomes in cannabis/cannabinoid users. A call for caution. | Front Cardiovasc Med
+- new | 2024 | 39015610 |  | Characteristics for Medical Cannabis Treatment Adherence among Autistic Children and Their Families: A Mixed-Methods Analysis. | Med Cannabis Cannabinoids
+- new | 2024 | 39908507 | Observational Study | Pregnant Women Perceptions of Cannabinoid Use in Milwaukee, Wisconsin. | WMJ
+- new | 2024 | 38561859 | Scoping Review | Perceptions and engagement of patients with chronic conditions on the use of medical cannabis: a scoping review. | Eur J Med Res
+- new | 2024 | 38975599 |  | Age-related Patterns of Medical Cannabis Use: A Survey of Authorized Patients in Canada. | Cannabis
+- new | 2024 | 36342776 | Research Support, Non-U.S. Gov't | Medical Cannabis Use and Inflammatory Cytokines and Chemokines Among Adult Chronic Pain Patients. | Cannabis Cannabinoid Res
+- new | 2024 | 39526700 |  | UK Medical Cannabis Registry: a cohort study of patients prescribed cannabis-based oils and dried flower for generalised anxiety disorder. | Expert Rev Neurother
+- new | 2024 | 38443674 |  | Self-reported knowledge of tetrahydrocannabinol and cannabidiol concentration in cannabis products among cancer patients and survivors. | Support Care Cancer
+- new | 2024 | 39144529 |  | Medical Cannabis Prescription Practices and Quality of Life in Thai Patients: A Nationwide Prospective Observational Cohort Study. | Med Cannabis Cannabinoids
+- new | 2024 | 39768938 |  | The Perceived Effectiveness of Cannabidiol on Adult Women with Inflammatory Bowel Disease. | Medicina (Kaunas)
+- new | 2024 | 38586483 | Review | Medical cannabis for children: Evidence and recommendations. | Paediatr Child Health [eng,eng]
+- new | 2024 | 38669060 |  | Assessment of Clinical Outcomes in Patients With Osteoarthritis: Analysis From the UK Medical Cannabis Registry. | J Pain Palliat Care Pharmacother
+- new | 2024 | 38361722 | Review | Neurocognitive Impact of Exposure to Cannabis Concentrates and Cannabinoids Including Vaping in Children and Adolescents: A Systematic Review. | Cureus
+- new | 2024 | 36342913 | Clinical Trial | Use of Medical Cannabis in Patients with Gilles de la Tourette's Syndrome in a Real-World Setting. | Cannabis Cannabinoid Res
+- new | 2023 | 37283486 | Meta-Analysis/Research Support, Non-U.S. Gov't/Review | Cannabis-based medicines and medical cannabis for adults with cancer pain. | Cochrane Database Syst Rev
+- new | 2023 | 37641180 | Editorial/Comment | Cannabinoids for symptom management in children with cancer: It's complicated. | Cancer
+- new | 2023 | 37515745 | Review | The Exploration of Cannabis and Cannabinoid Therapies for Migraine. | Curr Pain Headache Rep
+- new | 2023 | 38041708 | Systematic Review | Medical Cannabis and Its Efficacy/Effectiveness for the Treatment of Low-Back Pain: a Systematic Review. | Curr Pain Headache Rep
+- new | 2023 | 37199833 |  | Assessment of clinical outcomes in patients with fibromyalgia: Analysis from the UK Medical Cannabis Registry. | Brain Behav
+- new | 2023 | 36633803 | Review | Therapeutic and Supportive Effects of Cannabinoids in Patients with Brain Tumors (CBD Oil and Cannabis). | Curr Treat Options Oncol
+- new | 2023 | 35488381 |  | Medical cannabis and stigma: A qualitative study with patients living with chronic pain. | J Clin Nurs
+- new | 2023 | 38201908 |  | Medical Cannabis Increases Appetite but Not Body Weight in Patients with Inflammatory Bowel Diseases. | Nutrients
+- new | 2023 | 37007688 |  | Medical cannabis for pain management in patients undergoing chronic hemodialysis: randomized, double-blind, cross-over, feasibility study. | Clin Kidney J
+- new | 2023 | 38094100 |  | Medical Cannabis: A Review from the American Society of Pain and Neuroscience. | J Pain Res
+- new | 2023 | 36722292 |  | UK medical cannabis registry: assessment of clinical outcomes in patients with headache disorders. | Expert Rev Neurother
+- new | 2023 | 34893392 |  | Assessment of Medical Cannabis in Patients With Osteoarthritis of the Thumb Basal Joint. | J Hand Surg Am
+- new | 2023 | 35749740 |  | Assessing Efficacy and Use Patterns of Medical Cannabis for Symptom Management in Elderly Cancer Patients. | Am J Hosp Palliat Care
+- new | 2023 | 37456642 |  | A single-center real-life study on the use of medical cannabis in patients with dystonia. | Front Neurol
+- new | 2023 | 36704391 |  | Hand Surgery Patient Perspectives on Medical Cannabis: A Survey of Over 600 Patients. | J Hand Surg Glob Online
+- new | 2023 | 36803620 |  | Comparing the effects of medical cannabis for chronic pain patients with and without co-morbid anxiety: A cohort study. | Expert Rev Neurother
+- new | 2023 | 35616591 |  | Medical cannabis use by rheumatology patients in routine clinical care: results from The Ontario Best Practices Research Initiative. | Clin Exp Rheumatol
+- new | 2023 | 36317603 | Letter/Comment | Conflicting recommendations: A labyrinth for the clinician and patients: A comment to Eisenberg's et al. "medical cannabis for chronic pain". | Eur J Pain
+- new | 2023 | 37244526 |  | Use of Medical Cannabis by Patients With Cancer: Attitudes, Knowledge, and Practice. | J Pain Symptom Manage
+- new | 2023 | 37941019 |  | The holistic effects of medical cannabis compared to opioids on pain experience in Finnish patients with chronic pain. | J Cannabis Res
+- new | 2023 | 35319274 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Research Support, N.I.H., Extramural | Delta-9-Tetrahydrocannabinol, Cannabidiol, and Acute Psychotomimetic States: A Balancing Act of the Principal Phyto-Cannabinoids on Human Brain and Behavior. | Cannabis Cannabinoid Res
+- new | 2023 | 35073160 |  | An Updated Analysis of Clinical Outcome Measures Across Patients From the UK Medical Cannabis Registry. | Cannabis Cannabinoid Res
+- new | 2023 | 36399996 |  | Patient priorities for research: A focus group study of UK medical cannabis patients. | Complement Ther Clin Pract
+- new | 2022 | 34802112 | Research Support, Non-U.S. Gov't/Review | Cannabis-Based Medicines and Medical Cannabis for Chronic Neuropathic Pain. | CNS Drugs
+- new | 2022 | 34043900 | Systematic Review | Cannabis and cannabinoid use in autism spectrum disorder: a systematic review. | Trends Psychiatry Psychother
+- new | 2022 | 35510826 | Research Support, Non-U.S. Gov't/Systematic Review | Cannabis and cannabinoids for symptomatic treatment for people with multiple sclerosis. | Cochrane Database Syst Rev
+- new | 2022 | 34875873 | Review | Risks and Benefits of Cannabis and Cannabinoids in Psychiatry. | Am J Psychiatry
+- new | 2022 | 35228923 |  | Medical Cannabis Use Reduces Opioid Prescriptions in Patients With Osteoarthritis. | Cureus
+- HELD REF-2133 | 2022 | 36467781 | Review | Cannabis sativa and Cannabidiol: A Therapeutic Strategy for the Treatment of Neurodegenerative Diseases? | Med Cannabis Cannabinoids
+- new | 2022 | 35223236 |  | Medical Cannabis Use Reduces Opioid Prescriptions in Patients With Chronic Back Pain. | Cureus
+- new | 2022 | 35958223 |  | Enhancement of growth and Cannabinoids content of hemp (Cannabis sativa) using arbuscular mycorrhizal fungi. | Front Plant Sci
+- new | 2022 | 35815028 | Systematic Review | Cannabinoids in the Treatment of Cannabis Use Disorder: Systematic Review of Randomized Controlled Trials. | Front Psychiatry
+- new | 2022 | 35104069 | Systematic Review | Medical Cannabis for Gynecologic Pain Conditions: A Systematic Review. | Obstet Gynecol
+- new | 2022 | 34980282 | Letter | UK Medical Cannabis Registry palliative care patients cohort: initial experience and outcomes. | J Cannabis Res
+- new | 2022 | 35067772 | Randomized Controlled Trial | Medical cannabis oil for benign essential blepharospasm: a prospective, randomized controlled pilot study. | Graefes Arch Clin Exp Ophthalmol
+- new | 2022 | 35310886 |  | Medical Cannabis for Gilles de la Tourette Syndrome: An Open-Label Prospective Study. | Behav Neurol
+- new | 2022 | 35631293 | Randomized Controlled Trial | Cannabidiol and Cannabidiol Metabolites: Pharmacokinetics, Interaction with Food, and Influence on Liver Function. | Nutrients
+- new | 2022 | 34309706 |  | Use and caregiver-reported efficacy of medical cannabis in children and adolescents in Switzerland. | Eur J Pediatr
+- new | 2022 | 35926992 | Meta-Analysis/Systematic Review | Long-term and serious harms of medical cannabis and cannabinoids for chronic pain: a systematic review of non-randomised studies. | BMJ Open
+- new | 2022 | 34467598 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | Effects of cannabidiol in cannabis flower: Implications for harm reduction. | Addict Biol
+- new | 2022 | 35571129 | Review | What Do We Know About Medical Cannabis in Neurological Disorders and What Are the Next Steps? | Front Pharmacol
+- new | 2022 | 34546363 | Meta-Analysis/Systematic Review | Medical cannabis and cannabinoids for impaired sleep: a systematic review and meta-analysis of randomized clinical trials. | Sleep
+- new | 2022 | 36405915 | Review | The value of real world evidence: The case of medical cannabis. | Front Psychiatry
+- new | 2022 | 35686188 | Case Reports | Efficiency of Inhaled Cannabidiol in Cannabis Use Disorder: The Pilot Study Cannavap. | Front Psychiatry
+- new | 2022 | 35485690 |  | Attitudes and Beliefs of Cancer Patients Demanding Medical Cannabis Use in North Thailand. | Asian Pac J Cancer Prev
+- new | 2022 | 36168127 | Research Support, Non-U.S. Gov't | Medical Cannabis Patients Report Improvements in Health Functioning and Reductions in Opiate Use. | Subst Use Misuse
+- new | 2022 | 35316689 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Mood, sleep and pain comorbidity outcomes in cannabis dependent patients: Findings from a nabiximols versus placebo randomised controlled trial. | Drug Alcohol Depend
+- new | 2022 | 35221321 |  | Clinical Management of Sleep and Sleep Disorders With Cannabis and Cannabinoids: Implications to Practicing Psychiatrists. | Clin Neuropharmacol
+- new | 2022 | 35770374 | Randomized Controlled Trial | Urinary Excretion Profile of Cannabinoid Analytes Following Acute Administration of Oral and Vaporized Cannabis in Infrequent Cannabis Users. | J Anal Toxicol
+- new | 2022 | 35669038 |  | The Effectiveness and Safety of Medical Cannabis for Treating Cancer Related Symptoms in Oncology Patients. | Front Pain Res (Lausanne)
+- new | 2021 | 34497047 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Medical cannabis or cannabinoids for chronic non-cancer and cancer related pain: a systematic review and meta-analysis of randomised clinical trials. | BMJ
+- new | 2021 | 34226095 | Letter/Comment | Dosage of cannabidiol-enriched cannabis in children and adults with epilepsy. | Brain Dev
+- new | 2021 | 34729274 | Review | Medical Cannabis as Adjunctive Therapy for Head and Neck Cancer Patients. | Cureus
+- new | 2021 | 33256496 | Review | Use of Medical Cannabis to Treat Traumatic Brain Injury. | J Neurotrauma
+- new | 2021 | 34825644 | Review | The Use of Cannabis and Cannabinoid-based Products by Pregnant Women: A Patent Review. | Recent Pat Biotechnol
+- new | 2021 | 33280111 |  | Pharmacokinetics of cannabidiol in children with refractory epileptic encephalopathy. | Epilepsia
+- new | 2021 | 33940011 | Review | Current controversies in medical cannabis: Recent developments in human clinical applications and potential therapeutics. | Neuropharmacology
+- new | 2021 | 34083092 | Review | "Is medical cannabis safe for my patients?" A practical review of cannabis safety considerations. | Eur J Intern Med
+- new | 2021 | 32804833 | Research Support, Non-U.S. Gov't | Cannabinoids, cannabis, and cannabis-based medicines for pain management: an overview of systematic reviews. | Pain
+- new | 2021 | 33070617 |  | Use of Cannabis and Cannabinoids in Patients With Cancer. | Ann Pharmacother
+- new | 2021 | 32804836 | Research Support, Non-U.S. Gov't/Systematic Review | Cannabinoids, cannabis, and cannabis-based medicine for pain management: a systematic review of randomised controlled trials. | Pain
+- new | 2021 | 34157999 |  | Sativex® (nabiximols) cannabinoid oromucosal spray in patients with resistant multiple sclerosis spasticity: the Belgian experience. | BMC Neurol
+- new | 2021 | 33790818 | Scoping Review | Duration of Neurocognitive Impairment With Medical Cannabis Use: A Scoping Review. | Front Psychiatry
+- new | 2021 | 34321302 | Meta-Analysis/Systematic Review | Opioid-sparing effects of medical cannabis or cannabinoids for chronic pain: a systematic review and meta-analysis of randomised and observational studies. | BMJ Open
+- new | 2021 | 34663604 |  | Improving the regulation of medical cannabis in Canada to better serve pediatric patients. | CMAJ
+- new | 2021 | 33932156 |  | Medical cannabis in pediatric oncology: a survey of patients and caregivers. | Support Care Cancer
+- new | 2021 | 33597032 |  | Medical cannabis for the treatment of fibromyalgia syndrome: a retrospective, open-label case series. | J Cannabis Res
+- new | 2021 | 34173005 |  | Blood and Oral Fluid Cannabinoid Profiles of Frequent and Occasional Cannabis Smokers. | J Anal Toxicol
+- new | 2021 | 33526140 |  | Communication between healthcare providers and medical cannabis patients regarding referral and medication substitution. | J Cannabis Res
+- new | 2021 | 33636612 |  | Patterns of Medical Cannabis Use among Patients Diagnosed with Multiple Sclerosis. | Mult Scler Relat Disord
+- new | 2021 | 34215325 | Letter | A cannabis oracle? Delphi method not a substitute for randomized controlled trials of cannabinoids as therapeutics. | J Cannabis Res
+- new | 2021 | 31790276 | Observational Study | Short-term effects of cannabis consumption on cognitive performance in medical cannabis patients. | Appl Neuropsychol Adult
+- new | 2021 | 34497049 |  | Offer medical cannabis to patients with chronic pain, experts recommend. | BMJ
+- new | 2020 | 33004171 | Review | Cannabis and cannabidiol (CBD) for the treatment of fibromyalgia. | Best Pract Res Clin Anaesthesiol
+- new | 2020 | 32017680 | Review | Medical Cannabis in Children. | Rambam Maimonides Med J
+- new | 2020 | 32017681 | Review | Medicinal Use of Cannabis in Children and Pregnant Women. | Rambam Maimonides Med J
+- new | 2020 | 31895183 | Editorial | Medical Cannabis as a Treatment for Patients With Epilepsy, Sleep Disorders, and Posttraumatic Stress Disorder. | J Clin Neurophysiol
+- new | 2020 | 31833952 | Review | The cannabidiol conundrum: potential benefits and risks of cannabidiol products for children. | Curr Opin Pediatr
+- new | 2020 | 31897080 |  | Epidiolex (Cannabidiol) Primer: Frequently Asked Questions for Patients and Caregivers. | J Pediatr Pharmacol Ther
+- new | 2020 | 32351233 | Systematic Review | Medical cannabis as an alternative therapeutics for Parkinsons' disease: Systematic review. | Complement Ther Clin Pract
+- new | 2020 | 32655704 | Review | Medical cannabis for orthopaedic patients with chronic musculoskeletal pain: does evidence support its use? | Ther Adv Musculoskelet Dis
+- new | 2020 | 33318887 |  | Women's cannabis use before, during, and after pregnancy in New Hampshire. | Prev Med Rep
+- new | 2020 | 32392412 |  | Development of Cannabinoids in Flowers of Industrial Hemp (Cannabis sativa L.): A Pilot Study. | J Agric Food Chem
+- new | 2020 | 33204797 |  | Prescribed medical cannabis in women with gynecologic malignancies: A single-institution survey-based study. | Gynecol Oncol Rep
+- new | 2020 | 31987223 |  | Medical students are unprepared to counsel patients about medical cannabis and want to learn more. | Complement Ther Med
+- new | 2020 | 31887404 |  | Medical Cannabis Authorization in Patients With Cancer in the Prelegalization Era: A Population-Based Study. | J Pain Symptom Manage
+- new | 2020 | 32286026 | Case Reports/Review | Medical Cannabis in Asthmatic Patients. | Isr Med Assoc J
+- new | 2019 | 31332738 | Review | Pharmacology of Medical Cannabis. | Adv Exp Med Biol
+- new | 2019 | 31541311 | Review/Consensus Statement | [Position paper on medical cannabis and cannabis-based medicines in pain medicine]. | Schmerz [ger]
+- new | 2019 | 31583357 | Review | Risks of harm with cannabinoids, cannabis, and cannabis-based medicine for pain management relevant to patients receiving pain treatment: protocol for an overview of systematic rev | Pain Rep
+- new | 2019 | 30527857 |  | An Integrated Review of Cannabis and Cannabinoids in Adult Oncologic Pain Management. | Pain Manag Nurs
+- new | 2019 | 30647183 | Review/Consensus Statement | Position Statement: A Pragmatic Approach for Medical Cannabis and Patients with Rheumatic Diseases. | J Rheumatol
+- new | 2019 | 30488174 | Review | Medical Cannabis for Older Patients. | Drugs Aging
+- new | 2019 | 31683817 |  | Medical Cannabis for Older Patients-Treatment Protocol and Initial Results. | J Clin Med
+- new | 2019 | 30706168 | Systematic Review | How effective and safe is medical cannabis as a treatment of mental disorders? A systematic review. | Eur Arch Psychiatry Clin Neurosci
+- new | 2019 | 31823819 | Research Support, N.I.H., Extramural/Scoping Review | Benefits and harms of medical cannabis: a scoping review of systematic reviews. | Syst Rev
+- new | 2019 | 30806339 |  | Hair cannabinoid concentrations in emergency patients with cannabis hyperemesis syndrome. | CJEM
+- new | 2019 | 30635715 | Review | Understanding the evidence for medical cannabis and cannabis-based medicines for the treatment of chronic non-cancer pain. | Eur Arch Psychiatry Clin Neurosci
+- new | 2019 | 30664949 |  | Effects of Medical Cannabis on Use of Opioids and Hospital Visits by Patients With Painful Chronic Pancreatitis. | Clin Gastroenterol Hepatol
+- new | 2019 | 31043373 |  | Why medical cannabis is still out of patients' reach-an essay by David Nutt. | BMJ
+- new | 2019 | 30382443 |  | Brief Report: Cannabidiol-Rich Cannabis in Children with Autism Spectrum Disorder and Severe Behavioral Problems-A Retrospective Feasibility Study. | J Autism Dev Disord
+- new | 2019 | 31477576 |  | Medical cannabis: patients turn to private clinics because of NHS void. | BMJ
+- new | 2019 | 31559336 |  | Reduction of Benzodiazepine Use in Patients Prescribed Medical Cannabis. | Cannabis Cannabinoid Res
+- new | 2019 | 31132510 |  | Cannabis Use Preferences and Decision-making Among a Cross-sectional Cohort of Medical Cannabis Patients with Chronic Pain. | J Pain
+- new | 2018 | 29307505 | Review | Practical considerations in medical cannabis administration and dosing. | Eur J Intern Med
+- new | 2018 | 30415756 | Review | Medical cannabis use in older patients: Update on medical knowledge. | Maturitas
+- new | 2018 | 29159413 | Review | The Achilles Heel of Medical Cannabis Research-Inadequate Blinding of Placebo-Controlled Trials. | JAMA Intern Med
+- new | 2018 | 30092751 |  | Safety of cannabidiol prescribed for children with refractory epilepsy. | Med J Aust
+- new | 2018 | 30343297 |  | Medical Cannabis Use by Hodgkin Lymphoma Patients: Experience of a Single Center. | Acta Haematol
+- new | 2018 | 29766748 | Randomized Controlled Trial | Medical Cannabis for Pediatric Moderate to Severe Complex Motor Disorders. | J Child Neurol
+- new | 2018 | 30020072 | Review | [Should ophtalmologists recommend medical cannabis to patients with glaucoma?]. | Ugeskr Laeger [dan]
+- new | 2018 | 29398248 |  | Epidemiological characteristics, safety and efficacy of medical cannabis in the elderly. | Eur J Intern Med
+- new | 2018 | 29511052 | Research Support, Non-U.S. Gov't/Systematic Review | Evidence for cannabis and cannabinoids for epilepsy: a systematic review of controlled and observational evidence. | J Neurol Neurosurg Psychiatry
+- new | 2018 | 29955195 |  | Should Medical Cannabis Administered by Inhalation Be Allowed for Hospitalized Patients? | Can J Hosp Pharm
+- new | 2018 | 30774573 |  | Use of Medical Cannabis in Patients With Inflammatory Bowel Disease. | Gastroenterol Hepatol (N Y)
+- new | 2018 | 29388063 | Review | Medical Cannabis for Neuropathic Pain. | Curr Pain Headache Rep
+- new | 2018 | 30332386 |  | Determination of cannabinoids in oral fluid and urine of "light cannabis" consumers: a pilot study. | Clin Chem Lab Med
+- new | 2018 | 29045928 |  | Factors associated with alcohol consumption among medical cannabis patients with chronic pain. | Addict Behav
+- new | 2018 | 29227883 | Research Support, N.I.H., Extramural | Associations between medical cannabis and other drug use among unstably housed women. | Int J Drug Policy
+- new | 2017 | 29061872 | Case Reports/Systematic Review | Medical Cannabinoids in Children and Adolescents: A Systematic Review. | Pediatrics
+- new | 2017 | 28866904 | Review | A selective review of medical cannabis in cancer pain management. | Ann Palliat Med
+- new | 2017 | 29073741 | Review | A Systematic Review of the Effectiveness of Medical Cannabis for Psychiatric, Movement and Neurodegenerative Disorders. | Clin Psychopharmacol Neurosci
+- new | 2017 | 27647820 |  | Cannabinoid disposition in oral fluid after controlled smoked, vaporized, and oral cannabis administration. | Drug Test Anal
+- new | 2017 | 28457054 |  | Efficacy of Medical Cannabis for Treatment of Refractory Epilepsy in Children and Adolescents with Emphasis on the Israeli Experience. | Isr Med Assoc J
+- new | 2017 | 27539096 |  | Long-term stability of cannabinoids in oral fluid after controlled cannabis administration. | Drug Test Anal
+- new | 2016 | 28223891 | Editorial | What Should We Tell Our Patients About Marijuana (Cannabis indica and Cannabis sativa)? | Integr Med (Encinitas)
+- new | 2016 | 27538663 | Letter | The use of medical-grade cannabis in patients non-responders to Nabiximols. | J Neurol Sci
+- new | 2016 | 26257143 |  | Controlled vaporized cannabis, with and without alcohol: subjective effects and oral fluid-blood cannabinoid relationships. | Drug Test Anal
+- new | 2016 | 26708108 | Multicenter Study/Randomized Controlled Trial | Oral Cannabidiol does not Alter the Subjective, Reinforcing or Cardiovascular Effects of Smoked Cannabis. | Neuropsychopharmacology
+- new | 2015 | 25922240 | Case Reports | [Cannabinoid hyperemesis syndrome causing prolonged nausea and vomiting in patients with cannabis abuse]. | Ugeskr Laeger [dan]
+- new | 2014 | 25030096 | Letter | Cannabis poisoning in children. | Intensive Care Med
+- new | 2012 | 22729452 | Research Support, Non-U.S. Gov't/Review | Cannabidiol, a Cannabis sativa constituent, as an anxiolytic drug. | Braz J Psychiatry [eng,por]
+- new | 2009 | 19729432 | Research Support, Non-U.S. Gov't/Review | Cannabinoids for clinicians: the rise and fall of the cannabinoid antagonists. | Eur J Endocrinol
+- new | 2006 | 16612464 | Research Support, Non-U.S. Gov't/Review | Cannabidiol, a Cannabis sativa constituent, as an antipsychotic drug. | Braz J Med Biol Res
+
+### PubMed SR - 1505 hits, 83 not already listed above, 83 new
+- new | 2025 | 40527600 | Systematic Review/Meta-Analysis | Cardiovascular risk associated with the use of cannabis and cannabinoids: a systematic review and meta-analysis. | Heart
+- new | 2025 | 41025421 | Systematic Review/Meta-Analysis | Pharmacotherapies for cannabis use disorder. | Cochrane Database Syst Rev
+- new | 2025 | 41218851 | Systematic Review | Adverse events and cannabinoid use in cancer management: systematic review. | BMJ Support Palliat Care
+- new | 2025 | 41384242 |  | Cannabinoids for Anxiety and Sleep Disturbances: A Scoping Review. | Med Cannabis Cannabinoids
+- new | 2025 | 41052415 | Systematic Review | Misinformation About Medical Cannabis in YouTube Videos: Systematic Review. | JMIR Form Res
+- new | 2025 | 40303989 | Systematic Review | Meta-analysis of medical cannabis outcomes and associations with cancer. | Front Oncol
+- new | 2025 | 40589083 | Systematic Review/Research Support, Non-U.S. Gov't | Risks of Cannabinoid Exposure on Birth Outcomes: A Systematic Review. | Cannabis Cannabinoid Res
+- new | 2024 | 38924898 | Systematic Review/Meta-Analysis | Therapeutic potential of cannabidiol (CBD) in anxiety disorders: A systematic review and meta-analysis. | Psychiatry Res
+- new | 2024 | 37953193 | Systematic Review | Effectiveness of Cannabidiol to Manage Chronic Pain: A Systematic Review. | Pain Manag Nurs
+- new | 2024 | 38868665 | Systematic Review | Systematic review of drug-drug interactions of delta-9-tetrahydrocannabinol, cannabidiol, and Cannabis. | Front Pharmacol
+- new | 2024 | 36971587 | Systematic Review/Research Support, Non-U.S. Gov't | Clinical Practice Guidelines for Cannabis and Cannabinoid-Based Medicines in the Management of Chronic Pain and Co-Occurring Conditions. | Cannabis Cannabinoid Res
+- new | 2024 | 37643301 | Systematic Review/Meta-Analysis/Research Support, N.I.H., Extramural | Pharmacokinetics of Cannabidiol: A Systematic Review and Meta-Regression Analysis. | Cannabis Cannabinoid Res
+- new | 2024 | 37966406 | Systematic Review | Adolescents' Cannabis Knowledge and Risk Perception: A Systematic Review. | J Adolesc Health
+- new | 2024 | 38931415 | Review | Evidence of Cannabidiol Effectiveness Associated or Not with Tetrahydrocannabinol in Topical Administration: A Scope Review. | Pharmaceuticals (Basel)
+- new | 2024 | 38759882 | Editorial | Editorial: Cannabis Legalization and Youth Cannabis Use: Findings From an Updated Systematic Review and Meta-Analysis. | J Am Acad Child Adolesc Psychiatry
+- new | 2024 | 39110350 | Review | The Role of Cannabinoids in Advancing Cancer Treatment: Insights from Evidence-Based Medicine. | Curr Oncol Rep
+- new | 2024 | 38987157 | Systematic Review | [Perception of cannabis use in the adolescent population: metasynthesis of qualitative studies]. | Gac Sanit [spa]
+- new | 2024 | 38650490 | Scoping Review | Effects of Recreational Cannabis Legalization on Mental Health: Scoping Review. | Psychiatr Serv
+- new | 2024 | 38876946 | Review | Assessing effects of Cannabis on various neuropathologies: A systematic review. | J Ayurveda Integr Med
+- new | 2024 | 38655747 | Systematic Review/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Effects of cannabidiol and Δ(9)-tetrahydrocannabinol on cytochrome P450 enzymes: a systematic review. | Drug Metab Rev
+- new | 2024 | 38593455 | Systematic Review | Anticaries and Antigingivitis Properties of Cannabinoid-Containing Oral Health Products: A Review. | Cannabis Cannabinoid Res
+- new | 2024 | 39283619 | Systematic Review/Meta-Analysis | Cannabinoids Used for Medical Purposes in Children and Adolescents: A Systematic Review and Meta-Analysis. | JAMA Pediatr
+- new | 2023 | 37371716 | Review | Cannabis for the Treatment of Fibromyalgia: A Systematic Review. | Biomedicines
+- new | 2023 | 36716312 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Cannabinoids versus placebo for pain: A systematic review with meta-analysis and Trial Sequential Analysis. | PLoS One
+- new | 2023 | 37543051 | Systematic Review/Research Support, Non-U.S. Gov't | A systematic review of cannabidiol trials in neurodevelopmental disorders. | Pharmacol Biochem Behav
+- new | 2023 | 36949852 | Scoping Review | Use of non-medical cannabis in epilepsy: A scoping review. | Front Neurol
+- new | 2023 | 37283484 | Systematic Review/Research Support, Non-U.S. Gov't | A systematic review of how cannabinoids affect motoneuron output. | J Neurophysiol
+- new | 2023 | 37427882 | Systematic Review | Suicidality risk after using cannabis and cannabinoids: An umbrella review. | Dialogues Clin Neurosci
+- new | 2023 | 35605018 | Systematic Review/Research Support, Non-U.S. Gov't | Systematic Review on Transdermal/Topical Cannabidiol Trials: A Reconsidered Way Forward. | Cannabis Cannabinoid Res
+- new | 2023 | 37262132 | Systematic Review/Research Support, Non-U.S. Gov't | Cannabinoids for Substance Use Disorder Treatment: What Does the Current Evidence Say? | Cannabis Cannabinoid Res
+- new | 2023 | 36778355 | Preprint | Pharmacokinetics of Cannabidiol: A systematic review and meta-regression analysis. | medRxiv
+- new | 2023 | 36731108 | Systematic Review/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Interventions Addressing Cannabis Use During Pregnancy: A Systematic Review. | J Addict Med
+- new | 2023 | 35702797 | Systematic Review | Cannabinoids and Brain Damage: A Systematic Review on a Frequently Overlooked Issue. | Curr Pharm Biotechnol
+- new | 2023 | 37508922 | Review | Toxicity of Synthetic Cannabinoids in K2/Spice: A Systematic Review. | Brain Sci
+- new | 2023 | 36609049 | Review | Medical Cannabis in Hand Surgery: A Review of the Current Evidence. | J Hand Surg Am
+- new | 2023 | 37519000 | Meta-Analysis/Systematic Review | Nabiximols is Efficient as Add-On Treatment for Patients with Multiple Sclerosis Spasticity Refractory to Standard Treatment: A Systematic Review and Meta-Analysis of Randomised Cl | Curr Neuropharmacol
+- new | 2023 | 37064483 | Review | Roadside screening tests for cannabis use: A systematic review. | Heliyon
+- new | 2022 | 35982439 | Meta-Analysis/Systematic Review/Research Support, Non-U.S. Gov't | Medical cannabinoids: a pharmacology-based systematic review and meta-analysis for all relevant medical indications. | BMC Med
+- new | 2022 | 36082517 | Systematic Review | Cannabinoid therapeutics in orofacial pain management: a systematic review. | Aust Dent J
+- new | 2022 | 36243454 | Editorial/Comment | What Can a Systematic Review of Cannabis Trials Tell Us? | J Pain Symptom Manage
+- new | 2022 | 36107800 | Systematic Review | Cannabis dosing and administration for sleep: a systematic review. | Sleep
+- new | 2022 | 35667063 | Editorial/Comment | Cannabinoids for Chronic Pain: Translating Systematic Review Findings Into Clinical Action. | Ann Intern Med
+- new | 2022 | 36251467 | Research Support, Non-U.S. Gov't/Scoping Review | Medical Cannabis in Canadian Schools: A Scoping Review of Existing Policies. | Cannabis Cannabinoid Res
+- new | 2022 | 35262598 | Scoping Review | Implications of Cannabis and Cannabinoid Use in COVID-19: Scoping Review. | Rev Bras Enferm [eng,por]
+- new | 2022 | 35576357 | Letter/Comment | Medical Cannabis for Gynecologic Pain Conditions: A Systematic Review. | Obstet Gynecol
+- new | 2022 | 34952255 | Research Support, N.I.H., Extramural/Scoping Review | A scoping review of the use of cannabidiol in psychiatric disorders. | Psychiatry Res
+- new | 2022 | 36192811 | Systematic Review/Research Support, Non-U.S. Gov't | The effect of medical cannabis on cognitive functions: a systematic review. | Syst Rev
+- new | 2022 | 36411116 | Systematic Review/Case Reports | A Systematic Review of Medical Cannabinoids Dosing in Human. | Clin Ther
+- new | 2022 | 35582858 | Systematic Review/Research Support, Non-U.S. Gov't | A systematic review of European regional and national guidelines: a focus on the recommended use of nabiximols in the management of spasticity in multiple sclerosis. | Expert Rev Neurother
+- new | 2022 | 36180814 | Systematic Review | Effects of Cannabidiol on Appetite and Body Weight: A Systematic Review. | Clin Drug Investig
+- new | 2021 | 33729211 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Cannabinoids, the endocannabinoid system, and pain: a review of preclinical studies. | Pain
+- new | 2021 | 34532852 | Meta-Analysis/Systematic Review | Cannabinoids for the treatment of dementia. | Cochrane Database Syst Rev
+- new | 2021 | 33539943 | Scoping Review | Medical cannabis education among healthcare trainees: A scoping review. | Complement Ther Med
+- new | 2021 | 33729209 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Systematic review and meta-analysis of cannabinoids, cannabis-based medicines, and endocannabinoid system modulators tested for antinociceptive effects in animal models of injury-r | Pain
+- new | 2021 | 34634690 | Systematic Review | Mechanisms of cannabis impairment: Implications for modeling driving performance. | Forensic Sci Int
+- new | 2021 | 34405898 | Systematic Review | A systematic review of quantitative analysis of cannabinoids in oral fluid. | J Forensic Sci
+- new | 2021 | 33446183 | Systematic Review | Cannabinoids and orthopedic surgery: a systematic review of therapeutic studies. | J Orthop Surg Res
+- new | 2021 | 34205880 | Systematic Review | Cannabinoid Activity-Is There a Causal Connection to Spasmolysis in Clinical Studies? | Biomolecules
+- new | 2021 | 33812759 | Systematic Review | Efficacy of cannabinoids against glioblastoma multiforme: A systematic review. | Phytomedicine
+- new | 2021 | 34183989 | Review | Cannabis in the management of PTSD: a systematic review. | AIMS Neurosci
+- new | 2020 | 31563981 | Meta-Analysis/Systematic Review | Cannabis use and psychosis: a review of reviews. | Eur Arch Psychiatry Clin Neurosci
+- new | 2020 | 32438946 | Biography/Historical Article | Cannabis Research. | Twin Res Hum Genet
+- new | 2020 | 31959586 | Meta-Analysis/Systematic Review | Cannabinoids for adult cancer-related pain: systematic review and meta-analysis. | BMJ Support Palliat Care
+- new | 2020 | 32452532 | Meta-Analysis/Systematic Review | Cannabidiol efficacy and clobazam status: A systematic review and meta-analysis. | Epilepsia
+- new | 2020 | 32872551 | Systematic Review | Cannabinoids and Prostate Cancer: A Systematic Review of Animal Studies. | Int J Mol Sci
+- new | 2020 | 32268347 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Adverse effects of cannabidiol: a systematic review and meta-analysis of randomized clinical trials. | Neuropsychopharmacology
+- new | 2020 | 32655732 | Review | The Impact of Cannabidiol on Psychiatric and Medical Conditions. | J Clin Med Res
+- new | 2019 | 31341892 | Meta-Analysis/Systematic Review | Medical Cannabinoids for Cancer Cachexia: A Systematic Review and Meta-Analysis. | Biomed Res Int
+- new | 2019 | 31222854 | Research Support, Non-U.S. Gov't/Systematic Review | A systematic review of cannabidiol dosing in clinical populations. | Br J Clin Pharmacol
+- new | 2018 | 29400010 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Systematic review and meta-analysis of cannabinoids in palliative medicine. | J Cachexia Sarcopenia Muscle
+- new | 2018 | 29513392 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Cannabis-based medicines for chronic neuropathic pain in adults. | Cochrane Database Syst Rev
+- new | 2018 | 29966400 | Review | Plant-Based Cannabinoids for the Treatment of Chronic Neuropathic Pain. | Medicines (Basel)
+- new | 2017 | 28000146 | Meta-Analysis/Systematic Review | Cannabinoid Hyperemesis Syndrome: Diagnosis, Pathophysiology, and Treatment-a Systematic Review. | J Med Toxicol
+- new | 2017 | 27816801 | Systematic Review | Medical cannabis and mental health: A guided systematic review. | Clin Psychol Rev
+- new | 2017 | 28327548 | Meta-Analysis/Systematic Review | Opioid-Sparing Effect of Cannabinoids: A Systematic Review and Meta-Analysis. | Neuropsychopharmacology
+- new | 2017 | 28537982 | Meta-Analysis/Systematic Review | Selective Cannabinoids for Chronic Neuropathic Pain: A Systematic Review and Meta-analysis. | Anesth Analg
+- new | 2016 | 27428009 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Cannabinoids for fibromyalgia. | Cochrane Database Syst Rev
+- new | 2015 | 26103030 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Cannabinoids for Medical Use: A Systematic Review and Meta-analysis. | JAMA
+- new | 2014 | 24595491 | Meta-Analysis/Systematic Review | Cannabinoids for epilepsy. | Cochrane Database Syst Rev
+- new | 2014 | 25500598 | Systematic Review | Prescribing smoked cannabis for chronic noncancer pain: preliminary recommendations. | Can Fam Physician
+- new | 2012 | 22696383 | Meta-Analysis/Systematic Review | Cannabinoids for epilepsy. | Cochrane Database Syst Rev
+- new | 2010 | 20186675 | Systematic Review | Cannabis-associated arteritis. | Vasa
+- new | 2010 | 20558502 | Meta-Analysis | Meta-analysis of the efficacy and safety of Sativex (nabiximols), on spasticity in people with multiple sclerosis. | Mult Scler
+
+### PubMed SAFE - 7714 hits, 145 not already listed above, 144 new
+- new | 2026 | 41381256 | Review | Medical cannabis and the hype cycle: Clinical evidence and future directions. | Eur J Intern Med
+- new | 2026 | 40657749 | Review | Cannabis and Cannabinoids for Treating Pain: What Are the Data? | J Addict Med
+- new | 2026 | 42269696 | Review | Therapeutic Drug Monitoring of Cannabinoids: Therapeutic Reference Ranges for Delta-9-tetrahydrocannabinol in Medical Cannabis, Nabiximols, Dronabinol and Nabilone. | Pharmacopsychiatry
+- new | 2026 | 41451876 | Research Support, N.I.H., Extramural | Genotype-Specific Safety and Pharmacokinetics of Cannabidiol in Healthy Volunteers. | Clin Transl Sci
+- new | 2026 | 42737454 | Review | Medical Cannabis and the Hallmarks of Cancer: A Critical Narrative Review. | Int J Mol Sci
+- new | 2026 | 42340025 | Review | Decoding the Toxicity of Synthetic Cannabinoids: From Receptor Activation to Multiorgan Dysfunction. | Med Res Rev
+- new | 2026 | 42456701 | Letter | Efficacy and safety of cannabinoids. | Lancet Psychiatry
+- new | 2026 | 42456703 | Letter | Efficacy and safety of cannabinoids. | Lancet Psychiatry
+- new | 2025 | 39299947 | Review | Cannabis, cannabinoids and health: a review of evidence on risks and medical benefits. | Eur Arch Psychiatry Clin Neurosci
+- new | 2025 | 40966737 | Consensus Statement | ACOG Clinical Consensus No. 10: Cannabis Use During Pregnancy and Lactation. | Obstet Gynecol
+- new | 2025 | 40755585 | Review | The Efficacy and Safety of Use of Cannabis and Cannabinoid Products for Pain Relief in Orthopaedic Conditions and Trauma. | Cureus
+- new | 2025 | 40757614 | Case Reports/Research Support, Non-U.S. Gov't | Medical Cannabis as the Source of Cryptococcus neoformans Infection. | Clin Infect Dis
+- new | 2025 | 39832793 |  | Investigation of Cannabidiol's Protective Effects on Cadmium-Induced Toxicity in Mice. | Basic Clin Pharmacol Toxicol
+- new | 2025 | 40976326 |  | Pheophytins as bioenhancers: Improving cannabidiol bioavailability and efficacy in cannabis extracts. | Int J Pharm
+- new | 2025 | 40005919 | Review | The Potential of Cannabidiol for Treating Canine Atopic Dermatitis. | Vet Sci
+- new | 2025 | 39562327 |  | NSC-ADID position statement on performance impairment in safety-sensitive positions related to cannabis and other cannabinoids. | J Anal Toxicol
+- new | 2025 | 40977992 |  | Medical Cannabis Utilization Across States With Varying Legal Status. | AJPM Focus
+- new | 2024 | 38294845 | Comparative Study | Comparison Between Smoked Tobacco and Medical Cannabis Cigarettes Concerning Particulate Matter. | Cannabis Cannabinoid Res
+- new | 2024 | 39600759 | Case Reports | Acute Toxicity With Lactic Acidosis Associated With Cannabinoid Gummies. | Cureus
+- new | 2024 | 38015317 | Review | Therapeutic use of medical Cannabis in neurological diseases: a clinical update. | J Neural Transm (Vienna)
+- new | 2024 | 38216984 | Review | The synthetic cannabinoids menace: a review of health risks and toxicity. | Eur J Med Res
+- new | 2024 | 39499191 | Review | Efficiency of cannabis and cannabidiol in managing chronic pain syndromes: A comprehensive narrative review. | Dent Med Probl
+- new | 2024 | 39689344 |  | UK medical cannabis registry: an updated analysis of clinical outcomes of cannabis-based medicinal products for inflammatory bowel disease. | Expert Rev Gastroenterol Hepatol
+- new | 2024 | 38399295 | Review | Unveiling the Potential of Cannabinoids in Multiple Sclerosis and the Dawn of Nano-Cannabinoid Medicine. | Pharmaceutics
+- new | 2024 | 36378267 | Research Support, N.I.H., Extramural/Observational Study | Cannabinoid Exposure and Subjective Effects of THC and CBD in Edible Cannabis Products. | Cannabis Cannabinoid Res
+- new | 2024 | 36413342 |  | Effects of Medical Cannabis Certification on Hospital Use by Individuals with Sickle Cell Disease. | Cannabis Cannabinoid Res
+- new | 2024 | 38192366 |  | Individuals' Values and Preferences Regarding Medical Cannabis for Chronic Pain: A Descriptive Qualitative Study. | J Pain Res
+- new | 2024 | 36720084 | Research Support, Non-U.S. Gov't | Changes in Medical Cannabis Use After Recreational Cannabis Legalization in Canada. | Cannabis Cannabinoid Res
+- new | 2024 | 39156386 | Case Reports | From Chronic Cannabis to Cyclic Chaos: A Glimpse Into Cannabinoid Hyperemesis Syndrome. | Cureus
+- new | 2024 | 39769305 |  | Protective Action of Cannabidiol on Tiamulin Toxicity in Humans-In Vitro Study. | Int J Mol Sci
+- new | 2024 | 39556185 |  | Analysis of cannabinoids in plasma from 38 cases of suspected cannabinoid intoxication in dogs. | J Vet Emerg Crit Care (San Antonio)
+- new | 2024 | 38904421 | Review | Metabolism and liver toxicity of cannabidiol. | J Environ Sci Health C Toxicol Carcinog
+- new | 2023 | 29489164 | Study Guide | Cannabinoid Toxicity. | 
+- new | 2023 | 34989307 | Review | Benefits, toxicity and current market of cannabidiol in edibles. | Crit Rev Food Sci Nutr
+- new | 2023 | 36575371 | Review | Cannabidiol and Δ8-Tetrahydrocannabinol: Cannabinoids of Rising Interest and Concern. | Forensic Sci Rev
+- new | 2023 | 37874128 | Review | Drug Interactions of Tetrahydrocannabinol and Cannabidiol in Cannabinoid Drugs. | Dtsch Arztebl Int
+- new | 2023 | 37782433 |  | Effect of Cannabidiol in LPS-Induced Toxicity in Astrocytes: Possible Role for Cannabinoid Type-1 Receptors. | Neurotox Res
+- new | 2023 | 37541924 | Review | Cannabidiol's impact on drug-metabolization. | Eur J Intern Med
+- new | 2023 | 37250194 |  | Multiple Sclerosis and Use of Medical Cannabis: A Retrospective Review of a Neurology Outpatient Population. | Int J MS Care
+- new | 2023 | 36907022 |  | LC-MS/MS quantitation of non-psychotropic cannabinoid cannabidiol in aqueous humor. | J Pharm Biomed Anal
+- new | 2023 | 36227025 | Research Support, N.I.H., Extramural | Medical Cannabis Use Patterns and Adverse Effects in Inflammatory Bowel Disease. | J Clin Gastroenterol
+- new | 2023 | 37211456 |  | Long-term safety of medical cannabis in Parkinson's disease: A retrospective case-control study. | Parkinsonism Relat Disord
+- new | 2023 | 37292156 |  | Understanding feeling "high" and its role in medical cannabis patient outcomes. | Front Pharmacol
+- new | 2023 | 37159196 | Research Support, Non-U.S. Gov't | Assessment of Medical Cannabis and Health-Related Quality of Life. | JAMA Netw Open
+- new | 2023 | 37105391 |  | Oral toxicity evaluation of cannabidiol. | Food Chem Toxicol
+- new | 2023 | 36985763 | Review | An Individuality of Response to Cannabinoids: Challenges in Safety and Efficacy of Cannabis Products. | Molecules
+- new | 2023 | 36579921 | Research Support, Non-U.S. Gov't | The Quebec Cannabis Registry: Investigating the Safety and Effectiveness of Medical Cannabis. | Cannabis Cannabinoid Res
+- new | 2023 | 37375550 |  | THC-Reduced Cannabis sativa L.-How Does the Solvent Determine the Bioavailability of Cannabinoids Given Orally? | Nutrients
+- new | 2023 | 36195631 |  | Cannabis use during lactation may alter the composition of human breast milk. | Pediatr Res
+- new | 2023 | 36056846 | Review | Current Cannabidiol Safety: A Review. | Curr Drug Saf
+- new | 2022 | 35514096 | Case Reports | Allergic contact dermatitis from Cannabis sativa (hemp) seed oil. | Contact Dermatitis
+- new | 2022 | 34460075 | Review | The effects of cannabis and cannabinoids on the endocrine system. | Rev Endocr Metab Disord
+- new | 2022 | 36291926 | Review | Use of Cannabis and Cannabinoids for Treatment of Cancer. | Cancers (Basel)
+- new | 2022 | 33970442 | Review/Research Support, Non-U.S. Gov't | Cannabis and Cannabinoids in Reproduction and Fertility: Where We Stand. | Reprod Sci
+- new | 2022 | 36383424 | Letter/Comment | Sex differences in medical cannabis-related adverse effects? Do not forget the context! | Pain
+- new | 2022 | 36501366 | Review | Cannabis sativa Cannabinoids as Functional Ingredients in Snack Foods-Historical and Developmental Aspects. | Plants (Basel)
+- new | 2022 | 33709984 | Research Support, Non-U.S. Gov't/Review | Antinociceptive effects of minor cannabinoids, terpenes and flavonoids in Cannabis. | Behav Pharmacol
+- new | 2022 | 36260396 | Scoping Review | Canadian Resources on Cannabis Use and Fertility, Pregnancy, and Lactation: Scoping Review. | JMIR Pediatr Parent
+- new | 2022 | 35620248 |  | Long-term effectiveness and safety of medical cannabis administered through the metered-dose Syqe Inhaler. | Pain Rep
+- new | 2022 | 35687745 | Systematic Review | Regulating for Safety: Cannabidiol Dose in Food: A Review. | J Food Prot
+- new | 2022 | 36172004 |  | Increasing Access to Safe Medical Cannabis: Establishment of a Medical Cannabis Program in a Safety-Net Academic Medical Center. | NEJM Catal Innov Care Deliv
+- new | 2022 | 36131299 |  | Medical cannabis authorization patterns, safety, and associated effects in older adults. | J Cannabis Res
+- new | 2022 | 36168342 |  | Medical Students' Attitudes, Knowledge, and Beliefs about Medical Cannabis: A Qualitative Descriptive Study. | Cureus
+- new | 2022 | 35711271 | Systematic Review | Medical Cannabis for the Treatment of Migraine in Adults: A Review of the Evidence. | Front Neurol
+- new | 2022 | 35850921 | Letter | Letter to the editor on "Geotemporospatial and causal inferential epidemiological overview and survey of USA cannabis, cannabidiol and cannabinoid genotoxicity expressed in cancer  | Arch Public Health
+- new | 2022 | 36187821 |  | Cannabinoid receptors in the inflammatory cells of canine atopic dermatitis. | Front Vet Sci
+- new | 2022 | 35012687 |  | Case report: Medical cannabis-warfarin drug-drug interaction. | J Cannabis Res
+- new | 2022 | 34432543 | Observational Study/Research Support, Non-U.S. Gov't | Safety and Efficacy of Medical Cannabis in Autism Spectrum Disorder Compared with Commonly Used Medications. | Cannabis Cannabinoid Res
+- new | 2022 | 35223923 |  | Adherence, Safety, and Effectiveness of Medical Cannabis and Epidemiological Characteristics of the Patient Population: A Prospective Study. | Front Med (Lausanne)
+- new | 2022 | 35796526 |  | Patient Experience and Perspective on Medical Cannabis as an Alternative for Musculoskeletal Pain Management. | J Am Acad Orthop Surg Glob Res Rev
+- new | 2022 | 35214123 | Review | "The Two Sides of the Same Coin"-Medical Cannabis, Cannabinoids and Immunity: Pros and Cons Explained. | Pharmaceutics
+- new | 2021 | 34840658 | Review | Safety and Sourcing of Topical Cannabinoids: Many Questions, Few Answers. | J Clin Aesthet Dermatol
+- new | 2021 | 33443326 |  | [Tobacco and cannabis consumption : toxicity and management of quitting]. | Rev Med Liege [fre]
+- new | 2021 | 34684842 | Review | Safety of Medical Cannabis in Neuropathic Chronic Pain Management. | Molecules
+- new | 2021 | 34850895 |  | The National Cancer Institute and Cannabis and Cannabinoids Research. | J Natl Cancer Inst Monogr
+- new | 2021 | 33613794 | Research Support, Non-U.S. Gov't/Systematic Review | Medical Cannabis for Chronic Noncancer Pain: A Systematic Review of Health Care Recommendations. | Pain Res Manag
+- new | 2021 | 33818989 | Letter/Observational Study | Assessing the effects of topical cannabidiol in patients with atopic dermatitis. | Dermatol Online J
+- new | 2021 | 33998902 | Observational Study/Research Support, Non-U.S. Gov't | Authorization Patterns, Safety, and Effectiveness of Medical Cannabis in Quebec. | Cannabis Cannabinoid Res
+- new | 2021 | 34147325 | Letter/Comment | The authors respond: "Cannabidiol-induced toxicity: Who is the culprit?". | Am J Emerg Med
+- new | 2021 | 33892826 | Review | Cannabidiol oxidation product HU-331 is a potential anticancer cannabinoid-quinone: a narrative review. | J Cannabis Res
+- new | 2021 | 33387864 | Observational Study | Safety and efficacy of low-dose medical cannabis oils in multiple sclerosis. | Mult Scler Relat Disord
+- new | 2021 | 33197667 |  | Preliminary assessment of medical cannabis consumption by cancer survivors. | Complement Ther Med
+- new | 2021 | 34301703 | Case Reports | Treating pain related to Ehlers-Danlos syndrome with medical cannabis. | BMJ Case Rep
+- new | 2020 | 32044684 | Review | Clinical uses of cannabis and cannabinoids in the United States. | J Neurol Sci
+- new | 2020 | 32300253 | Review | [Testing for cannabis and synthetic cannabinoids in human specimens]. | Bull Acad Natl Med [fre]
+- new | 2020 | 32017684 | Review | Cannabis and Cannabinoids in the Treatment of Rheumatic Diseases. | Rambam Maimonides Med J
+- new | 2020 | 32892960 | Review | Autism Spectrum Disorder and Medical Cannabis: Review and Clinical Experience. | Semin Pediatr Neurol
+- new | 2020 | 31992503 | Systematic Review | Cannabis Use During Lactation: Literature Review and Clinical Recommendations. | J Obstet Gynaecol Can
+- new | 2020 | 32125500 | Review | [The effects of cannabis and cannabinoids on anesthesia and analgesia during the perioperative period]. | Schmerz [ger]
+- new | 2020 | 32497977 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Interactions between opioids and cannabinoids: Economic demand for opioid/cannabinoid mixtures. | Drug Alcohol Depend
+- new | 2020 | 33205727 |  | Cannabis legalisation and testing for cannabis use in safety- and risk-sensitive environments. | S Afr Med J
+- new | 2020 | 32017686 | Review | Cannabis, One Health, and Veterinary Medicine: Cannabinoids' Role in Public Health, Food Safety, and Translational Medicine. | Rambam Maimonides Med J
+- new | 2020 | 32111375 | Case Reports/Research Support, N.I.H., Extramural | Medical Cannabis Reduced Agitation in Acquired Brain Injury: A Case Study. | Psychosomatics
+- new | 2020 | 32860199 | Review | Δ 9-Tetrahydrocannabinol Toxicity and Validation of Cannabidiol on Brain Dopamine Levels: An Assessment on Cannabis Duplicity. | Nat Prod Bioprospect
+- new | 2020 | 31984702 |  | Medical cannabis: Risks related to its indication prior to approval. | Arch Argent Pediatr [eng,spa]
+- new | 2020 | 33096940 |  | Safety and Molecular-Toxicological Implications of Cannabidiol-Rich Cannabis Extract and Methylsulfonylmethane Co-Administration. | Int J Mol Sci
+- new | 2020 | 31126197 | Case Reports/Letter | Commercial cannabidiol oil contaminated with the synthetic cannabinoid AB-FUBINACA given to a pediatric patient. | Clin Toxicol (Phila)
+- new | 2019 | 31161980 | Review | Cannabidiol Adverse Effects and Toxicity. | Curr Neuropharmacol
+- new | 2019 | 31512536 | Review | Medical cannabis and cannabinoids in rheumatology: where are we now? | Expert Rev Clin Immunol
+- new | 2019 | 30703255 | Review | Positive and Negative Effects of Cannabis and Cannabinoids on Health. | Clin Pharmacol Ther
+- new | 2019 | 31688799 | Review | Acute Cannabis Toxicity. | Pediatr Emerg Care
+- new | 2019 | 31770357 | Review | Cannabis and cannabinoids. | Med Lett Drugs Ther
+- new | 2019 | 31052254 |  | Hepatotoxicity of a Cannabidiol-Rich Cannabis Extract in the Mouse Model. | Molecules
+- new | 2019 | 31525011 | Review |  | 
+- new | 2019 | 30676820 | Observational Study | Acute cannabis toxicity. | Clin Toxicol (Phila)
+- new | 2019 | 31873991 | Review |  | 
+- new | 2019 | 31258311 |  | Beyond Medical Cannabis: Considerations for Updates to Hospital Policies and Procedures. | P T
+- new | 2019 | 31237222 |  | Cannabis and Cannabinoids on Treatment of Inflammation: A Patent Review. | Recent Pat Biotechnol
+- new | 2019 | 30694824 | Review | Cannabinoid toxicity in pediatrics. | Curr Opin Pediatr
+- new | 2019 | 30616501 | Comparative Study | Medical Cannabis Users' Comparisons between Medical Cannabis and Mainstream Medicine. | J Psychoactive Drugs
+- new | 2019 | 30896388 |  | [The Clinical Toxicology Perspective on the Therapeutic Use of Cannabis and Cannabinoids]. | Acta Med Port [por]
+- new | 2019 | 31837706 |  | Indications and administration practices amongst medical cannabis healthcare providers: a cross-sectional survey. | BMC Fam Pract
+- new | 2019 | 34676336 | Case Reports | Neurological Improvement with Medical Cannabis in a Progressive Supranuclear Palsy Patient: A Case Report. | Med Cannabis Cannabinoids
+- new | 2019 | 31501406 | Case Reports | Medical Cannabis in Treatment of Resistant Familial Mediterranean Fever. | Am J Case Rep
+- new | 2019 | 30188174 |  | Barriers to Achieving Optimal Success with Medical Cannabis: Opportunities for Quality Improvement. | J Altern Complement Med
+- new | 2019 | 30862203 | Letter | A curious case of cannabinoid toxicity. | Clin Toxicol (Phila)
+- new | 2019 | 31721548 | Review |  | 
+- new | 2018 | 30342565 | Review | Toxicology of Marijuana, Synthetic Cannabinoids, and Cannabidiol in Dogs and Cats. | Vet Clin North Am Small Anim Pract
+- new | 2018 | 29169951 | Review | Regulation of noradrenergic and serotonergic systems by cannabinoids: relevance to cannabinoid-induced effects. | Life Sci
+- new | 2018 | 29843260 | Review | Is Breast Best? Examining the effects of alcohol and cannabis use during lactation. | J Neonatal Perinatal Med
+- new | 2018 | 34676319 | Review | Medical Cannabis and Cannabinoids: An Option for the Treatment of Inflammatory Bowel Disease and Cancer of the Colon? | Med Cannabis Cannabinoids
+- new | 2018 | 30152161 | Review | Medicinal Properties of Cannabinoids, Terpenes, and Flavonoids in Cannabis, and Benefits in Migraine, Headache, and Pain: An Update on Current Evidence and Cannabis Science. | Headache
+- new | 2018 | 29495540 | Review | The Effects of Cannabinoids on Executive Functions: Evidence from Cannabis and Synthetic Cannabinoids-A Systematic Review. | Brain Sci
+- new | 2018 | 29682609 |  | Prolonged Cannabidiol Treatment Effects on Hippocampal Subfield Volumes in Current Cannabis Users. | Cannabis Cannabinoid Res
+- new | 2018 | 28845848 | Review | Preclinical Studies of Cannabinoid Reward, Treatments for Cannabis Use Disorder, and Addiction-Related Effects of Cannabinoid Exposure. | Neuropsychopharmacology
+- new | 2017 | 28827985 | Review | Endo-cannabinoids system and the toxicity of cannabinoids with a biotechnological approach. | EXCLI J
+- new | 2017 | 27804883 | Review | Pros and Cons of Medical Cannabis use by People with Chronic Brain Disorders. | Curr Neuropharmacol
+- new | 2017 | 27725252 | Case Reports/Letter | Medical Cannabis in the Palliation of Malignant Wounds-A Case Report. | J Pain Symptom Manage
+- new | 2016 | 27215115 |  | [MEDICAL CANNABIS]. | Harefuah [heb]
+- new | 2016 | 27587196 | Review | From Cannabis to Cannabidiol to Treat Epilepsy, Where Are We? | Curr Pharm Des
+- new | 2016 | 26474875 |  | Efficacy and safety of nabiximols (Sativex(®)) on multiple sclerosis spasticity in a real-life Italian monocentric study. | Neurol Sci
+- new | 2016 | 27956834 |  | An observational postmarketing safety registry of patients in the UK, Germany, and Switzerland who have been prescribed Sativex(®) (THC:CBD, nabiximols) oromucosal spray. | Ther Clin Risk Manag
+- new | 2016 | 27793174 |  | Medical cannabis use in Canada: vapourization and modes of delivery. | Harm Reduct J
+- new | 2016 | 28387093 | Case Reports/Review | [Diagnosis of cannabinoid hyperemesis : update on the cannabis-shower syndrome]. | Rev Med Liege [fre]
+- new | 2015 | 25788107 | Review | Metabolism of classical cannabinoids and the synthetic cannabinoid JWH-018. | Clin Pharmacol Ther
+- new | 2015 | 26788376 |  | The Wide and Unpredictable Scope of Synthetic Cannabinoids Toxicity. | Case Rep Crit Care
+- new | 2015 | 26269228 | Review | Safety and Toxicology of Cannabinoids. | Neurotherapeutics
+- new | 2014 | 24943098 | Multicenter Study/Observational Study/Research Support, Non-U.S. Gov't | Long-term effectiveness and safety of nabiximols (tetrahydrocannabinol/cannabidiol oromucosal spray) in clinical practice. | Eur Neurol
+- new | 2014 | 24495659 | Research Support, Non-U.S. Gov't | Cannabinoid receptor agonist disrupts behavioral and neuroendocrine responses during lactation. | Behav Brain Res
+- new | 2014 | 26427296 | Review | [Tetrahydrocannabinol pharmacokinetics; new synthetic cannabinoids; road safety and cannabis]. | Bull Acad Natl Med [fre]
+- HELD REF-2141 | 2011 | 22129319 | Research Support, Non-U.S. Gov't/Review | Safety and side effects of cannabidiol, a Cannabis sativa constituent. | Curr Drug Saf
+- new | 2011 | 21213357 | Research Support, Non-U.S. Gov't/Review | Cannabis sativa and the endogenous cannabinoid system: therapeutic potential for appetite regulation. | Phytother Res
+- new | 2005 | 16596792 | Review | Pharmacokinetics and metabolism of the plant cannabinoids, delta9-tetrahydrocannabinol, cannabidiol and cannabinol. | Handb Exp Pharmacol
+- new | 2005 | 16237480 | Research Support, Non-U.S. Gov't/Review | Safety issues concerning the medical use of cannabis and cannabinoids. | Pain Res Manag
+- new | 2001 | 11703238 | Review | Pharmacological actions and therapeutic uses of cannabis and cannabinoids. | Anaesthesia
+
+### PubMed OBS - 3838 hits, 36 not already listed above, 36 new
+- new | 2026 | 41429181 | Research Support, N.I.H., Extramural | Cannabis Use Among US Adolescents. | Pediatrics
+- new | 2025 | 41370076 | Research Support, Non-U.S. Gov't | Cannabis Retailer Advice on Blunt, Tobacco, and Cannabis Use During Pregnancy. | JAMA Netw Open
+- new | 2025 | 41096874 | Review | Cardiovascular Effects of Cannabidiol: From Molecular Mechanisms to Clinical Implementation. | Int J Mol Sci
+- new | 2025 | 40380798 | Research Support, N.I.H., Extramural | ADHD Symptoms and Medical Cannabis Use Among Adults With Chronic Pain. | J Atten Disord
+- new | 2025 | 39903464 | Research Support, Non-U.S. Gov't | Changes in Incident Schizophrenia Diagnoses Associated With Cannabis Use Disorder After Cannabis Legalization. | JAMA Netw Open
+- new | 2025 | 38775636 |  | Commercial Cannabidiol for Community-Based Young Adolescents: Predicting Medicinal Use. | Cannabis Cannabinoid Res
+- new | 2025 | 40643912 | Research Support, N.I.H., Extramural | Use of Tobacco and Cannabis Following State-Level Cannabis Legalization. | JAMA Netw Open
+- new | 2025 | 39615767 |  | Cannabis Policies, Cannabis, and Opioids in Suicide and Undetermined Intent Death. | Am J Prev Med
+- new | 2024 | 38410495 | Review | The effect of cannabinoids on wound healing: A review. | Health Sci Rep
+- new | 2024 | 38914126 | Review | Neurological Complications of Cannabinoids. | Semin Neurol
+- new | 2024 | 38767898 | Research Support, Non-U.S. Gov't | Edible Cannabis Legalization and Cannabis Poisonings in Older Adults. | JAMA Intern Med
+- new | 2024 | 38757607 |  | Awareness of medical cannabis regulations among UK police officers - a cross-sectional study. | Med Leg J
+- new | 2024 | 38155535 | Research Support, Non-U.S. Gov't | A cohort study comparing the effects of medical cannabis for anxiety patients with and without comorbid sleep disturbance. | Neuropsychopharmacol Rep
+- new | 2023 | 37831340 |  | The Place of Cannabinoids in the Treatment of Gynecological Pain. | Drugs
+- new | 2023 | 37485911 | Research Support, Non-U.S. Gov't | Association of cannabis, cannabidiol and synthetic cannabinoid use with mental health in UK adolescents. | Br J Psychiatry
+- new | 2023 | 37581889 |  | Vaping of Cannabis, Cannabidiol, and Synthetic Cannabis Among US Sexual Minority Youths. | JAMA Netw Open
+- new | 2023 | 37755827 | Observational Study/Research Support, Non-U.S. Gov't | Cannabis Use Frequency and Cannabis-Related Consequences in High-Risk Young Adults Across Cannabis Legalization. | JAMA Netw Open
+- new | 2023 | 36800328 | Research Support, Non-U.S. Gov't/Scoping Review | Impacts of medical and non-medical cannabis on the health of older adults: Findings from a scoping review of the literature. | PLoS One
+- new | 2023 | 38059193 |  | Attitudes of medical students regarding legalisation of cannabis and cannabis-education. | S Afr J Psychiatr
+- new | 2023 | 37500491 | Research Support, Non-U.S. Gov't | Standardised cannabis metrics: Opportunities for tracking how cannabis use affects neurodevelopmental trajectories in youth cohorts worldwide. | Addict Biol
+- new | 2022 | 35459406 | Review | The Effects of Cannabinoids on Sleep. | J Prim Care Community Health
+- new | 2022 | 34994796 | Research Support, Non-U.S. Gov't | Unintentional Pediatric Cannabis Exposures After Legalization of Recreational Cannabis in Canada. | JAMA Netw Open
+- new | 2022 | 33999649 | Observational Study/Research Support, Non-U.S. Gov't | Cannabinoid Profiles in Medical Cannabis Users: Effects of Age, Gender, Symptoms, and Duration of Use. | Cannabis Cannabinoid Res
+- new | 2022 | 36012687 | Review | Cannabinoids and Chronic Liver Diseases. | Int J Mol Sci
+- new | 2021 | 33332004 | Review | Cannabis and Depression. | Adv Exp Med Biol
+- new | 2021 | 32948510 | Research Support, Non-U.S. Gov't/Review | Cannabis, Cannabinoids, and Brain Morphology: A Review of the Evidence. | Biol Psychiatry Cogn Neurosci Neuroimagi
+- new | 2021 | 33541771 | Review | Interaction of cannabidiol with other antiseizure medications: A narrative review. | Seizure
+- new | 2021 | 33065768 | Research Support, Non-U.S. Gov't | Medical cannabis treatment for chronic pain: Outcomes and prediction of response. | Eur J Pain
+- new | 2020 | 31895184 | Review | Cannabis for Pediatric Epilepsy. | J Clin Neurophysiol
+- new | 2020 | 31959585 |  | Medical cannabis and insomnia in older adults with chronic pain: a cross-sectional study. | BMJ Support Palliat Care
+- new | 2020 | 31577377 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Systematic Review | Cannabis and Cannabinoids in Mood and Anxiety Disorders: Impact on Illness Onset and Course, and Assessment of Therapeutic Potential. | Am J Addict
+- new | 2020 | 32526965 |  | Migraine Frequency Decrease Following Prolonged Medical Cannabis Treatment: A Cross-Sectional Study. | Brain Sci
+- new | 2018 | 29847469 | Meta-Analysis/Systematic Review | Cannabis and cannabinoids for the treatment of people with chronic noncancer pain conditions: a systematic review and meta-analysis of controlled and observational studies. | Pain
+- new | 2017 | 28813324 | Review | Cannabinoids as therapeutic for PTSD. | Curr Opin Psychol
+- new | 2017 | 27004985 | Research Support, Non-U.S. Gov't | Cannabis policy and the uptake of treatment for cannabis-related problems. | Drug Alcohol Rev
+- new | 2009 | 19367509 | Review | Cannabinoids and psychosis. | Int Rev Psychiatry
+
+### PubMed REV - 5087 hits, 18 not already listed above, 17 new
+- new | 2024 | 39029990 | Review/Research Support, Non-U.S. Gov't | Cannabidiol and addiction. | Int Rev Neurobiol
+- new | 2024 | 39029988 | Review | Cannabidiol and pain. | Int Rev Neurobiol
+- new | 2024 | 39029983 | Review/Research Support, Non-U.S. Gov't | Cannabidiol and epilepsy. | Int Rev Neurobiol
+- new | 2023 | 36897501 | Review | Medical Cannabis for Chronic Nonmalignant Pain Management. | Curr Pain Headache Rep
+- HELD REF-0759 | 2023 | 37050032 | Review | The Polypharmacological Effects of Cannabidiol. | Molecules
+- new | 2022 | 35093949 | Review | Therapeutic Potential of Cannabis, Cannabidiol, and Cannabinoid-Based Pharmaceuticals. | Pharmacology
+- new | 2022 | 35991815 | Review | Medical cannabis and cannabidiol: A new harvest for Malawi. | Malawi Med J
+- new | 2021 | 34066753 | Review | Cannabinoids, Phenolics, Terpenes and Alkaloids of Cannabis. | Molecules
+- new | 2018 | 28534260 | Review | Pharmacogenetics of Cannabinoids. | Eur J Drug Metab Pharmacokinet
+- new | 2017 | 28349316 | Review | Cannabis, Cannabinoids, and Sleep: a Review of the Literature. | Curr Psychiatry Rep
+- new | 2017 | 28182367 | Review |  | 
+- new | 2015 | 26132518 | Review | Synthetic Cannabinoids. | Am J Med Sci
+- new | 2012 | 31644197 | Review | Cannabidiol. | 
+- new | 2006 | 30601607 | Review | Cannabidiol. | 
+- new | 2005 | 16266285 | Review | Cannabinoids. | Curr Drug Targets CNS Neurol Disord
+- new | 2005 | 15979498 | Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, P.H.S./Review | Self-administering cannabinoids. | Trends Neurosci
+- new | 1994 | 35952087 | Review | Marijuana (Cannabis). | 
+- new | 1994 | 35952088 | Review | Marihuana (Cannabis). | 
+
+### ClinicalTrials.gov - 378 registered studies
+- NCT00783185 | COMPLETED | results=False | PHASE1 | Dual Diagnosis (Psychosis and Cannabismisuse): Comparison of Specialized Treatment Versus Unspecified Treatment | conds: Psychotic Disorders, Marijuana Abuse, Intervention | intr: Cannabis-Consumption-Reduction-Training, Social competence Training
+- NCT07924852 | RECRUITING | results=False | NA | Neuromodulation of Motivation and Reward Oscillations | conds: Cannabis Use Disorder, Major Depression, Anhedonia, Transcranial Alternating Current Stimulation | intr: Transcranial Alternating Current Stimulation Sham, Transcranial Alternating Current Delta Stimulatio
+- NCT05743985 | COMPLETED | results=False | NA | Efficacy and Safety of Hemp-derived, Full Spectrum Cannabigerol (CBG) in Adults | conds: Health, Subjective, Inflammatory Response, Adverse Effect, Side Effect | intr: Cannabigerol
+- NCT06171399 | COMPLETED | results=True | NA | Cannabis Edibles Packaging Descriptors Experiment | conds: Cannabis Use | intr: "All Natural" descriptor, "Gluten-free" descriptor, "Vegan" descriptor, "100% Organic" descriptor | pubs: ['42176349:DERIVED (new)']
+- NCT06030674 | RECRUITING | results=False | NA | Measuring Environmental Tobacco and Cannabis: Pollutants and Exposures | conds: Healthy | intr: Secondhand cannabis emissions/smoke exposure
+- NCT06225232 | ACTIVE_NOT_RECRUITING | results=False | PHASE2 | Psilocybin in the Treatment of Cannabis Use Disorder: A-Proof-of-Concept Study | conds: Cannabis Use Disorder, Moderate, Cannabis Use Disorder, Severe | intr: Psilocybin combined with Psychotherapy
+- NCT06647524 | RECRUITING | results=False | PHASE2 | Pilot fMRI Studies of Aging-Related Effects of THC | conds: THC | intr: THC, Placebo
+- NCT01793961 | COMPLETED | results=False | NA | Effects of Chronic Intake of Cannabis on Contrast Sensitivity | conds: Cannabis Dependence | intr: electroretinogram, contrast sensitivity tests
+- NCT05023759 | COMPLETED | results=False |  | Anxiety Symptoms in Relation to Use of Hemp-derived, Full Spectrum Cannabidiol (CBD) | conds: Generalized Anxiety Disorder | intr: Formula30A Full Spectrum Hemp Cannabidiol 25mg Capsules
+- NCT05247411 | COMPLETED | results=False | NA | Nurse Educational Intervention to Improve Symptoms in Fibromyalgia Patients | conds: Fibromyalgia | intr: Educational intervention | pubs: ['20526405:RESULT (new)', '19664287:RESULT (new)', '19381860:RESULT (new)', '17872937:RESULT (new)', '41163201:DERIVED (new)']
+- NCT00936299 | COMPLETED | results=True | PHASE4 | Bupropion for ADHD in Adolescents With Substance Use Disorder | conds: Attention Deficit Hyperactivity Disorder, Nicotine Dependence, Cannabis Use Disorder | intr: Bupropion, Placebo
+- NCT01467999 | COMPLETED | results=True | PHASE1 | Open-Label Pilot Study of Guanfacine-Extended Release for the Treatment of Cannabis Dependence | conds: Cannabis Dependence | intr: Guanfacine
+- NCT06941298 | RECRUITING | results=False | NA | Neural and Psychiatric Consequences of Cannabis Use in Adolescents | conds: Cannabis Use, Depression | intr: Neuroimaging Investigation
+- NCT03069612 | TERMINATED | results=False | NA | rTMS Treatment for Cannabis Use Disorders in Psychosis | conds: Cannabis Use Disorder, Psychosis | intr: Repetitive Transcranial Magnetic Stimulation (rTMS)
+- NCT05979272 | COMPLETED | results=False | NA | TECH App Marijuana Use Intervention for Court-Involved Adolescents | conds: Cannabis Use, Adolescent | intr: Treatment as usual, Teen Empowerment through Computerized Health (TECH) app | pubs: ['40924271:RESULT (new)', '35275086:RESULT (new)']
+- NCT03104257 | COMPLETED | results=False |  | The Neural Correlates of Cannabis Use | conds: Cannabis Dependence, Healthy | intr: [11-C]OMAR
+- NCT04203498 | TERMINATED | results=True | PHASE3 | Safety and Effectiveness of Nabiximols Oromucosal Spray as Add-on Therapy in Participants With Spasticity Due to Multiple Sclerosis | conds: Multiple Sclerosis (MS) | intr: Nabiximols, Placebo
+- NCT06605430 | RECRUITING | results=False | PHASE2 | Medical Cannabis in Patients With Advanced Pancreatic and Colorectal Cancer | conds: Pancreatic Cancer Non-resectable, Pancreatic Cancer Metastatic, Colorectal Cancer Metastatic | intr: Medical Cannabis
+- NCT07417059 | RECRUITING | results=False | NA | Sex Hormones Impact on Cannabis Response | conds: Cannabis | intr: Cannabis, Knaster Hemp
+- NCT05520294 | UNKNOWN | results=False |  | Evaluating the Effects of Cannabis Use and Circulating Cannabinoids on Tumor Infiltrating Lymphocytes in Malignant Melanoma | conds: Melanoma | intr: High-performance liquid chromatography-tandem mass spectrometry assays
+- NCT04856566 | COMPLETED | results=False | EARLY_PHASE1 | Examine the Feasibility of a Standardized Field Test for Marijuana and Alcohol Impairment: Laboratory Evaluations | conds: Marijuana Impairment, Alcohol Impairment | intr: Low Marijuana, Hash, THC, or Grass, High Marijuana, Hash, THC, or Grass, Placebo, 0.05 BAC Alcohol
+- NCT01606176 | COMPLETED | results=True | PHASE3 | A Study to Evaluate the Effects of Cannabis Based Medicine in Patients With Pain of Neurological Origin | conds: Pain, Multiple Sclerosis | intr: GW-1000-02, Placebo
+- NCT06239701 | ACTIVE_NOT_RECRUITING | results=False | NA | Development of a Lifestyle Physical Activity Intervention to Reduce Risk for Perinatal Cannabis Use - RCT | conds: Pregnancy | intr: LPA+Fitbit Intervention, Fitbit Only
+- NCT06157112 | COMPLETED | results=False |  | Students' Lifestyle Behaviour and Later Health Care Utilization Due to Musculoskeletal Pain | conds: Musculoskeletal Pain | intr: Lifestyle behaviour (exposure in a observational study)
+- NCT03662737 | COMPLETED | results=False |  | VRT as a Biomarker of Cerebellar Dysfunction in Chronic Cannabis Use | conds: Cannabis Use, Alcohol Use Disorder, Healthy | intr: Visuomotor adaptation task
+- NCT06170437 | RECRUITING | results=False | NA | Smoke-free Home Study in Subsidized Housing | conds: Tobacco Dependence, Tobacco Smoking | intr: Smoke-free home resident intervention, Lay Health Worker coaching | pubs: ['40729126:DERIVED (new)']
+- NCT00542750 | COMPLETED | results=True | PHASE1,PHASE2 | An Open-Label Trial of N-Acetylcysteine in Cannabis Dependent Adolescents | conds: Cannabis Dependence | intr: N-Acetylcysteine
+- NCT05162651 | COMPLETED | results=False | NA | Effect of Extended Cannabis Abstinence on PTSD Symptoms | conds: PTSD, Cannabis Use, Cognitive Symptom, Comorbidities and Coexisting Conditions | intr: Contingency-management, Enhanced usual care | pubs: ['41734366:DERIVED (new)']
+- NCT07905846 | NOT_YET_RECRUITING | results=False | NA | A Hybrid Type 1 Randomized Controlled Trial of an Online and Text-Messaging Intervention to Prevent Alcohol and Cannabis Initiation, Escalat | conds: Alcohol, Cannabis | intr: Online and Text Message Intervention
+- NCT05639556 | ACTIVE_NOT_RECRUITING | results=False |  | Strength and Muscle Related Outcomes for Nutrition and Lung Function in CF | conds: Cystic Fibrosis | intr: BMI and lean mass index from DXA, Anthropometric Measurements, Hand-grip strength, Six-minute walk T
+- NCT03676166 | COMPLETED | results=False | PHASE1 | Pharmacokinetic and Pharmacodynamic Effects of Smoked and Vaporized Cannabis | conds: Cannabis | intr: Cannabis | pubs: ['30646391:DERIVED (new)']
+- NCT05244460 | UNKNOWN | results=False | PHASE3 | Droperidol on Prevention of Cannabis Hyperemesis Syndrome | conds: Cannabis Hyperemesis Syndrome | intr: Droperidol Injectable Product, Diphenhydramine
+- NCT06236815 | COMPLETED | results=False | EARLY_PHASE1 | High Confusion: Cannabis & Driving | conds: Impairment, Cognitive, Impairment of Attention, Impairment, Psychomotor | intr: Delta-9-THC, Delta-8-THC, Placebo
+- NCT06669585 | COMPLETED | results=False |  | Cannabis Observations on Brain Waves, Retrieval, and Attention: Experiment 3 | conds: Cannabis, Memory, Electroencephalography | intr: Cannabis (smoked flower)
+- NCT07398443 | RECRUITING | results=False | NA | Using Novel Behavioral Economic Measures to Characterize Dual Marijuana and Tobacco Use in Young Adults | conds: Behavioral Economics, Cannabis Smoking, Tobacco Smoking | intr: Cue Reactivity
+- NCT07434895 | RECRUITING | results=False | EARLY_PHASE1 | Repeated CBD Administration and Cannabis Outcomes | conds: Cannabis, Abuse Liability, Experimental Pain in Healthy Human Participants | intr: Cannabidiol, Medium Dose, Cannabidiol, Higher Dose, Active Inhaled Cannabis, Placebo Cannabidiol
+- NCT06395467 | RECRUITING | results=False | NA | Integrated Treatment for Enhancing Growth in Recovery During Adolescence | conds: Alcohol Use Disorder, Cannabis Use Disorder | intr: InTEGRA, MET/CBT
+- NCT03522467 | UNKNOWN | results=False | PHASE2 | Cannabis Oil for Pain Effectiveness | conds: Cancer, Chronic Pain | intr: MRCP001
+- NCT04841655 | UNKNOWN | results=False |  | Tobacco Cessation Among Smokers Under Alcohol and/or Cannabis Treatment | conds: Mental Health Disorder, Substance Abuse Drug, Alcohol Abuse, Cannabis Use | intr:  | pubs: ['39838401:DERIVED (new)', '36451226:DERIVED (new)']
+- NCT00534716 | COMPLETED | results=False |  | Cannabis Cigarettes Used for Doping: Delta-9-Tetrahydrocannabinol (THC) Urine Detection | conds: Healthy | intr: 
+- NCT03782402 | TERMINATED | results=True | PHASE2 | Cannabinoids for Taxane Induced Peripheral Neuropathy | conds: Chemotherapy-induced Peripheral Neuropathy | intr: Cannabinoids | pubs: ['40611810:DERIVED (new)']
+- NCT07309159 | NOT_YET_RECRUITING | results=False | PHASE1,PHASE2 | Impact of Cannabis Consumption on Psychotic Symptoms and Reality Monitoring in Patients With Schizophrenia: a Real-life Study | conds: Schizophrenia | intr: Ecological Momentary Assessment (EMA) and Reality Monitoring tasks | pubs: ['37731936:RESULT (new)', '17355521:RESULT (new)', '26011657:RESULT (new)']
+- NCT05944705 | UNKNOWN | results=False |  | Commercially Available Cannabis Products for Immune Support | conds: Influenza, COVID-19, Common Cold | intr: Immune Support Supplement
+- NCT03659942 | UNKNOWN | results=False |  | Study of the Cannabis Use of Minors Imprisoned in the PACA Region | conds: Cannabis Use | intr: CAST questionnaire
+- NCT00270803 | COMPLETED | results=False | NA | The Effects of Marijuana on Orientation and Motor Coordination and Brain Metabolism in Regular Smokers of Marijuana | conds: Marijuana Dependence | intr: Tetra Hydro Cannabinol (THC)
+- NCT03024827 | UNKNOWN | results=False | PHASE1 | Cannabidiol in Children With Refractory Epileptic Encephalopathy | conds: Epileptic Encephalopathy | intr: CanniMed® 1:20 | pubs: ['31333569:RESULT (new)']
+- NCT03172741 | WITHDRAWN | results=False | PHASE2,PHASE3 | The Effects of Different Medical Marijuana Strains on Motor and Cognitive Function in People With Multiple Sclerosis | conds: Multiple Sclerosis | intr: Medical Marijuana, Placebo
+- NCT04970342 | COMPLETED | results=True | PHASE1 | Validation of the Drug Impaired Driving Scenario (DIDS) on the CRCDS-miniSim | conds: Driving Behavior, Driving Under the Influence | intr: Placebo (Lactose) Capsule, 0.75 mg Alprazolam Capsule, Cannabis (6.18% THC / <0.025% CBD), Cannabis 
+- NCT03154580 | COMPLETED | results=False | PHASE1 | Marijuana Cue-Reactivity & Seeking Behavior in Regular Cannabis Users | conds: Marijuana Abuse | intr: N-acetyl cysteine
+- NCT04385082 | COMPLETED | results=False | PHASE1 | Cannabis Effects as a Function of Sex | conds: Pain, Abuse, Drug | intr: Active Cannabis, Placebo Cannabis
+- NCT07471347 | NOT_YET_RECRUITING | results=False | NA | Exploring The Effect Of Cannabidiol On Cannabis Tolerance Using A Novel Vaporiser Device In Heavy Users (Stage 1) | conds: Cannabis Intoxication | intr: delta-9-tetrahydrocannabinol (THC) and cannabidiol (CBD)
+- NCT06071949 | UNKNOWN | results=False | PHASE3 | Efficacy and Tolerability of AP707 in Patients With Chronic Pain Due to Central Neuropathy of Any Genesis | conds: Pain, Pain Syndrome, Pain, Chronic, Chronic Pain | intr: Adezunap, Placebo
+- NCT06435299 | NOT_YET_RECRUITING | results=False | PHASE2 | Efficacy and Tolerance of THC 25: CBD 25 in Patients With Severe Pruritus: a Multicenter, Double-blind, Randomized, Placebo-controlled Study | conds: Pruritus | intr: Cannabis oil, Placebo
+- NCT07091292 | RECRUITING | results=False | NA | Exercise Intervention as Treatment for People Using Cannabis (ExIT-C) | conds: Cannabis Abuse, Cannabis Dependence, Cannabis Use Disorder | intr: Indoor Cycling, Indoor Cycling
+- NCT03984604 | TERMINATED | results=False | PHASE2 | Investigation of the Efficacy and Safety of CHI-921 in Insomnia. | conds: Insomnia | intr: CHI-921, Placebo
+- NCT03334721 | COMPLETED | results=True | PHASE2 | Gabapentin for Bipolar & Cannabis Use Disorders | conds: Bipolar I Disorder, Bipolar II Disorder, Cannabis Use Disorder, Substance Use Disorders | intr: Gabapentin, Placebo Oral Capsule | pubs: ['34390300:DERIVED (new)']
+- NCT06575751 | RECRUITING | results=False | PHASE2 | Cannabidiol and Cannabis Concentrate Users | conds: Cannabis Use Disorder | intr: Broad Spectrum Cannabidiol (bsCBD) 400 mg, Broad Spectrum Cannabidiol (bsCBD) 200 mg, Placebo
+- NCT03825965 | COMPLETED | results=True | PHASE3 | Cannabinoids vs. Placebo on Persistent Post-surgical Pain Following TKA: A Pilot RCT | conds: Knee Osteoarthritis | intr: MPL-001 (CBD: THC 25:1), Placebo oil for oral use | pubs: ['42032682:RESULT (new)']
+- NCT04105231 | ACTIVE_NOT_RECRUITING | results=False | PHASE2 | Cannabidiol for Treatment of Non-affective Psychosis and Cannabis Use | conds: Dual Diagnosis | intr: Cannabidiol, Risperidone | pubs: ['34391393:DERIVED (new)']
+- NCT06542445 | UNKNOWN | results=False | PHASE2 | The Safety and Efficacy of Terpene-enriched Cannabidiol (CBD) Oil in ADHD | conds: Attention Deficit Hyperactivity Disorder (ADHD) | intr: Oral CBD oil enriched with terpenes, Oral Placebo
+- NCT03763851 | TERMINATED | results=False | PHASE2 | Cannabis Oil and Radiation Therapy for the Management of Pain | conds: Metastatic Prostate Cancer, Lung Cancer, Breast Cancer | intr: Active PPP005, Radiotherapy
+- NCT04461756 | COMPLETED | results=False | PHASE1 | Safety and Pharmacokinetics of Vaped Cannabis in Healthy Volunteers | conds: Healthy Volonteers | intr: PPP001
+- NCT00678795 | COMPLETED | results=True | PHASE3 | A Parallel Group Study to Compare Sativex® With Placebo in the Treatment of Detrusor Overactivity in Patients With Multiple Sclerosis | conds: Detrusor Overactivity, Multiple Sclerosis | intr: Sativex®, Placebo | pubs: ['20829244:RESULT (new)']
+- NCT06701500 | RECRUITING | results=False |  | Assessing Habitual, Goal-Directed, and Pavlovian Influences in Alcohol Use Disorder | conds: Alcohol Use Disorder (AUD), Alcoholism, Substance Use Disorders | intr: Pavlovian-to-instrumental transfer (PIT) paradigm, Action Sequence Task (AST), Basic psychological a
+- NCT04851392 | COMPLETED | results=False | NA | Do Adolescents and Adults Differ in Their Acute Response to Cannabis? | conds: Cannabis, Cannabis Intoxication, Cannabis Use, Cannabis Dependence | intr: Cannabis with delta-9-tetrahydrocannabinol (THC) and cannabidiol (CBD), Cannabis with THC without CB | pubs: ['38416223:DERIVED (new)', '36750134:DERIVED (new)', '36642667:DERIVED (new)', '35032682:DERIVED (new)']
+- NCT05679830 | COMPLETED | results=False | PHASE2 | The Effects of CBD Isolate on Menstrual-Related Symptoms | conds: Menstrual Discomfort | intr: Cannabidiol
+- NCT07942597 | NOT_YET_RECRUITING | results=False | NA | An AI-Powered Chatbot Targeting Nicotine and Cannabis Dual Vaping Cessation in Young Adults | conds: Nicotine E-Cigarette Use, Vaping, Vaping Cessation, Cessation, Smoking | intr: D-QUIT App, Questionnaires
+- NCT06290063 | RECRUITING | results=False | PHASE2 | Cannabidiol and Older Adult Cannabis Users | conds: Sleep, Anxiety, Depression, Pain | intr: fsCBD Cannabidiol, bsCBD Cannabidiol, Placebo
+- NCT04174963 | TERMINATED | results=False | NA | An Electronic Intervention to Reduce Cannabis Among Young Adults in Psychiatric Care | conds: Cannabis Use, Psychiatric Disorder | intr: eToke + TPsy
+- NCT02408640 | COMPLETED | results=False | NA | Internet-Based Treatment for Individuals With Regular Cannabis Use: A Randomized Controlled Trial | conds: Cannabis | intr: Cannabishjalpen.se | pubs: ['32070417:DERIVED (new)']
+- NCT04100759 | COMPLETED | results=False | PHASE1,PHASE2 | A Comparative Pharmacokinetic and Pharmacodynamic Study of Sildenafil in Adult Smokers and Non Smokers | conds: Erectile Dysfunction, Smoking, Pharmacokinetics, Pharmacodynamics | intr: Sildenafil 50 mg Oral Tablet
+- NCT01832766 | TERMINATED | results=True | PHASE1,PHASE2 | The Effects of Cannabis Use in People With Schizophrenia on Clinical, Neuropsychological and Physiological Phenotypes | conds: Schizophrenia | intr: Dronabinol, Placebo Comparator
+- NCT03699540 | COMPLETED | results=True | PHASE1 | Marijuana Effects on Simulated Driving Performance | conds: Cannabis, Cannabis Use, Marijuana, Marijuana Usage | intr: Marijuana, Alcohol, placebo alcohol, Inactive marijuana
+- NCT04930796 | COMPLETED | results=False | PHASE1 | Food Effect Study of VER-01 in Healthy Volunteers | conds: Healthy | intr: VER-01
+- NCT05116527 | UNKNOWN | results=False | PHASE1,PHASE2 | THC Memory & Reward Learning Pilot | conds: Marijuana, THC, Cannabis | intr: Marijuana, Hash, THC, or Grass, Placebo
+- NCT06395688 | WITHDRAWN | results=False | PHASE1 | Drug-Drug Interaction Between THC and AEF0117 | conds: Cannabis Abuse | intr: 3ß-(4-methoxybenzyloxy)pregn-5-en-20-one, Placebo
+- NCT03274440 | COMPLETED | results=True | PHASE1,PHASE2 | Effects of Marijuana on Symptoms of OCD | conds: Obsessive-Compulsive Disorder | intr: Cannabis, Placebo
+- NCT01511640 | COMPLETED | results=True | EARLY_PHASE1 | Behavioral Effects of Pregabalin and Cannabis | conds: Cannabis-use Disorders | intr: Pregabalin, Placebo
+- NCT06334016 | NOT_YET_RECRUITING | results=False | EARLY_PHASE1 | Evaluating the Delivery and Effects of THC Vaping Liquids in the Bloodstream | conds: Cannabis Dependence | intr: Biospecimen Collection, Cannabis sativa Extract, Nicotine, Placebo Administration
+- NCT04855526 | NOT_YET_RECRUITING | results=False | EARLY_PHASE1 | THC + CBD and Memory Study | conds: Marijuana Use, Cannabis Use, Cannabis Intoxication | intr: High THC/No CBD Marihuana, High THC/High CBD Marihuana, No THC/No CBD Marihuana
+- NCT03582137 | COMPLETED | results=True | PHASE2 | A Study of Tolerability and Efficacy of Cannabidiol on Motor Symptoms in Parkinson's Disease | conds: Parkinson Disease | intr: Cannabidiol, Placebo | pubs: ['38466972:DERIVED (new)']
+- NCT07668856 | RECRUITING | results=False | PHASE3 | Cannabidiol as add-on Therapy for Children With Refractory Epilepsy (CBD-uN1que), a High-quality Individualized Approach: a Series of N-of-1 | conds: Refractory Epilepsy in Children, Refractory Epilepsy, Epilepsy | intr: Cannabidiol (CBD) oral solution, Placebo
+- NCT06932432 | RECRUITING | results=False |  | Using Ecological Momentary Assessment to Develop an Adaptive Psychological Intervention for Young Adults With Chronic Pain | conds: Chronic Pain | intr: 
+- NCT01109563 | COMPLETED | results=False | PHASE3 | Teen Marijuana Check-Up | conds: Cannabis Use Disorder | intr: Marijuana Check-Ins
+- NCT03106363 | COMPLETED | results=True | NA | Combined Alcohol and Cannabis Effects on Skills of Young Drivers | conds: Psychomotor Impairment | intr: alcohol, placebo alcohol, delta 9 tetrahydrocannabinol, placebo delta 9 tetrahydrocannabinol | pubs: ['36730769:DERIVED (new)']
+- NCT05836857 | ACTIVE_NOT_RECRUITING | results=False |  | The Use of Cannabis (Marijuana) and Cannabidiol (CBD) Among Cancer Patients: A Pilot Study | conds: Cancer | intr: Cannabis (Marijuana), Cannabidiol (CBD)
+- NCT01604265 | COMPLETED | results=True | PHASE3 | A Study of Sativex in the Treatment of Central Neuropathic Pain Due to Multiple Sclerosis | conds: Multiple Sclerosis, Neuropathic Pain | intr: Placebo, Sativex | pubs: ['16186518:RESULT (new)']
+- NCT01204723 | COMPLETED | results=False | PHASE1 | Medications Development for the Treatment of Cannabis Related Disorders | conds: Nicotine Withdrawal, Marijuana Dependence, Cannabis Dependence, Nicotine Dependence | intr: Placebo Aprepitant, Active Aprepitant | pubs: ['24821356:DERIVED (new)']
+- NCT04592159 | WITHDRAWN | results=False | PHASE2,PHASE3 | Study of the Safety and Efficacy of Nabiximols Oromucosal Spray Versus Placebo in Patients With Post-traumatic Stress Disorder | conds: Post-Traumatic Stress Disorder | intr: Nabiximols, Placebo
+- NCT06217146 | TERMINATED | results=False | NA | A Medical Cannabis Oil for Treatment of Agitation and Disruptive Behaviors in Subjects With Dementia. | conds: Agitation,Psychomotor, Disruptive Behavior, Dementia, Alzheimer Disease | intr: Medical Cannabis, Placebo Oil
+- NCT05445180 | RECRUITING | results=False | NA | Investigating the Neural Correlates of Cognitive Function in Psychosis Patients and Non-Psychiatric Controls With Cannabis Use | conds: Psychotic Disorders, Cannabis Use Disorder, Cannabis Dependence, Cannabis Use | intr: Contingency management
+- NCT04451863 | ACTIVE_NOT_RECRUITING | results=False | PHASE1 | Analgesic and Subjective Effects of Terpenes | conds: Pain, Abuse, Drug | intr: Low THC, High THC, Low Myrcene, High Myrcene
+- NCT03431987 | UNKNOWN | results=False |  | Neuroscience of Alcohol and Marijuana Impaired Driving | conds: Marijuana Usage, Alcohol Drinking | intr: One day with a dose of placebo cannabis paired with alcohol, One day with a dose of active THC canna
+- NCT03617692 | COMPLETED | results=True |  | Cannabis Use in Cancer Patients | conds: Solid Tumor, Adult | intr: 
+- NCT04139668 | TERMINATED | results=True | PHASE2 | Vivitrol Treatment for Cannabis Use Disorder | conds: Cannabis Use Disorder | intr: Naltrexone 380 MG [Vivitrol], Motivational Enhancement Therapy and Cognitive Behavioral Therapy
+- NCT06526208 | RECRUITING | results=False | PHASE2 | Investigating a Marijuana-based Compound as a Treatment for Anxiety in Autistic Adults | conds: Autism Spectrum Disorder, Anxiety | intr: MB-IMP, Placebo
+- NCT03980561 | COMPLETED | results=True | PHASE2 | UH3 Varenicline for Cannabis Use Disorder | conds: Cannabis Use Disorder | intr: Varenicline, Placebo
+- NCT06320470 | COMPLETED | results=False | NA | MIVetsCan: Can-Coach Trial (Phase 1) | conds: Chronic Pain | intr: Educational Session | pubs: ['39856785:DERIVED (new)']
+- NCT05472818 | COMPLETED | results=False | EARLY_PHASE1 | SV2A Density Cannabis Use Disorder | conds: Cannabis Use Disorder, Healthy | intr: [11C]APP311
+- NCT02955329 | COMPLETED | results=True | PHASE3 | Vaping THC From Electronic Cigarettes | conds: Marijuana Dependence | intr: Nicotine, Cannabis, PAX Loose Leaf Vaporizer
+- NCT04764552 | COMPLETED | results=False | NA | Yeahhh Baby! Ointment on Hip and/or Knee Pain in Men and Women | conds: Joint Pain | intr: Yeahhh Baby Ointment, Coconut oil ointment
+- NCT03566706 | COMPLETED | results=False | NA | Parents' View About Discussing Health Behaviors | conds: Parents of Children Ages 10 to 17 Years Old | intr: Discussion Tool: Unhealthy Eating, Discussion Tool: Marijuana Use, Discussion Tool: Sedentary Behavi
+- NCT01179425 | COMPLETED | results=False | NA | Sex Differences in Attentional Bias in Marijuana-dependent Individuals | conds: Marijuana Dependence | intr: Cognitive stressor
+- NCT01538225 | COMPLETED | results=False | PHASE3 | Neurophysiological Study of Sativex in Multiple Sclerosis (MS) Spasticity | conds: Multiple Sclerosis | intr: Sativex®, Placebo
+- NCT03052738 | COMPLETED | results=False |  | Medical Marijuana in the Pediatric Central Nervous System Tumor Population | conds: Central Nervous System Tumor, Brain Tumor, Spinal Tumor | intr: 
+- NCT05469477 | COMPLETED | results=False | NA | Increasing Seat Belt Wearing and Decreasing Handheld Phone Use While Driving | conds: Distracted Driving, Impaired Driving, Driving Behaviors | intr: Persuasive education, WOOP (aka, mental contrasting with implementation intentions., Wish, Outcome,  | pubs: ['40080744:DERIVED (new)']
+- NCT01088542 | ACTIVE_NOT_RECRUITING | results=False | NA | The Community Youth Development Study: A Test of Communities That Care | conds: Substance Abuse, Juvenile Delinquency, Sexual Behavior, Criminal Behavior | intr: Communities That Care | pubs: ['26462492:RESULT (new)', '27397946:RESULT (new)', '25366931:RESULT (new)', '26951879:RESULT (new)', '26213527:RESULT (new)', '26017632:RESULT (new)', '25323784:RESULT (new)', '23828448:RESULT (new)', '24322060:RESULT (new)', '23412948:RESULT (new)', '23054169:RESULT (new)', '23111547:RESULT (new)', '22720764:RESULT (new)', '24319545:RESULT (new)', '24465089:RESULT (new)', '21809149:RESULT (new)', '22921136:RESULT (new)', '21969362:RESULT (new)', '22108900:RESULT (new)', '23606774:RESULT (new)', '21667142:RESULT (new)', '22199409:RESULT (new)', '20422289:RESULT (new)', '19509119:RESULT (new)', '22121303:RESULT (new)', '19736331:RESULT (new)', ':RESULT (-)', '18302016:RESULT (new)', '18565433:RESULT (new)', '18516681:RESULT (new)', ':RESULT (-)', '17602298:RESULT (new)', '24986217:RESULT (new)', '41085955:DERIVED (new)', '37022682:DERIVED (new)', '36151975:DERIVED (new)', '35461085:DERIVED (new)']
+- NCT00650585 | COMPLETED | results=True | NA | An Effectiveness Trial of Project ALERT | conds: Alcohol Drinking, Smoking, Marijuana Smoking | intr: Project ALERT | pubs: ['19581545:RESULT (new)']
+- NCT03107117 | COMPLETED | results=False | NA | Computer-Assisted Brief Intervention | conds: Substance Abuse | intr: Computer Counseling, Standard Care
+- NCT02898974 | COMPLETED | results=True |  | Medical Marijuana and Its Effects on Motor Function in People With Multiple Sclerosis | conds: Multiple Sclerosis | intr: Medical Marijuana
+- NCT00710554 | COMPLETED | results=True | PHASE3 | A Study of Sativex® for Pain Relief of Peripheral Neuropathic Pain, Associated With Allodynia | conds: Pain, Peripheral Neuropathy | intr: Sativex, Placebo | pubs: ['24420962:RESULT (new)']
+- NCT02293057 | COMPLETED | results=False | NA | Gender-Responsive Drug Use Treatment for Juvenile Justice Girls | conds: Drug Use | intr: VOICES Group, Girl Health Group | pubs: ['34505833:DERIVED (new)']
+- NCT00891631 | WITHDRAWN | results=False | PHASE1,PHASE2 | Primary Care iSBIRT to Reduce Serious Teen Health Risks | conds: Substance-related Disorders, Depression, High-risk Sex | intr: iSBIRT, iSBIRT/TE
+- NCT01322139 | COMPLETED | results=False | PHASE1 | Sativex Thorough QT/QTc Study | conds: Effects of Sativex on ECG | intr: Placebo spray and oral moxifloxacin placebo, Sativex spray and oral moxifloxacin placebo, Sativex sp | pubs: ['27121791:RESULT (new)']
+- NCT05933473 | UNKNOWN | results=False | NA | Clinical and Procedural Outcomes of Ostial Left Anterior Descending Artery Intervention With or Without Crossover to Left-main | conds: Coronary Artery Disease | intr: Percutaneous coronary intervention
+- NCT00943930 | COMPLETED | results=False |  | Marijuana Drug Discrimination and Self-Administration | conds: Marijuana Abuse | intr: THC (delta-9 tetrahydrocannabinol), d-amphetamine, oral THC
+- NCT02909686 | COMPLETED | results=True | NA | Effects of Botanical Microglia Modulators in Gulf War Illness | conds: Gulf War Illness | intr: Boswellia Serrata, Curcumin, Epimedium, Fisetin | pubs: ['33915962:DERIVED (new)', '33802381:DERIVED (new)', '33802272:DERIVED (new)']
+- NCT01323569 | COMPLETED | results=False | PHASE1 | Abuse Potential of Sativex | conds: Evaluation of Abuse Potential of Sativex | intr: Sativex, Sativex, Sativex, Placebo | pubs: ['21671456:RESULT (new)']
+- NCT01887301 | COMPLETED | results=False | PHASE1 | Assessment of the Single Dose Pharmacokinetics and Tolerability of Sativex in Patients With Impaired Hepatic Function and Healthy Patients | conds: Hepatic Impairment | intr: Sativex
+- NCT01323465 | COMPLETED | results=False | PHASE1 | Study to Evaluate the Effect of Rifampicin, Ketoconazole, and Omeprazole on the Pharmacokinetics of Sativex | conds: Evaluation of Pharmacokinetics of Sativex in the Absence and Presence of a Known Inducer of CYP3A4, Evaluation of Pharmacokinetics of Sativex in the Absence and Presence of a Potent Inhibitor of CYP3A4, Evaluation of Pharmacokinetics of Sativex in the Absence and Presence of a CYP2C19 Inhibitor | intr: Sativex and rifampicin, Sativex and rifampicin, Sativex and ketoconazole, Sativex and ketoconazole | pubs: ['23750331:RESULT (new)']
+- NCT03014687 | RECRUITING | results=False | PHASE4 | Prophylactic Oral Antibiotics on Sinonasal Outcomes Following Endoscopic Transsphenoidal Surgery for Pituitary Lesions | conds: Antibiotics, Pituitary Adenoma | intr: Placebo, Oral Antibiotics cefdinir or trimethoprim/sulfamethoxazole
+- NCT04390347 | COMPLETED | results=False | NA | The Effect of Probiotic Supplementation | conds: End Stage Renal Disease | intr: Yakult, Placebo
+- NCT05384470 | COMPLETED | results=False |  | Detecting Drugs of Abuse Via Exhaled Breath Samples Using Differential Mobility Spectrometry | conds: Opiate Abuse, Marijuana Abuse, Diagnostic | intr: Marihuana, BID2 Instrument - breathalyzer
+- NCT01252550 | COMPLETED | results=False | NA | Effects of Activia in IBS | conds: Irritable Bowel Syndrome | intr: Activia® (125g/pot), Acidified non-fermented dairy product | pubs: ['33771219:DERIVED (new)', '30946757:DERIVED (new)', '30838348:DERIVED (new)', '29702295:DERIVED (new)', '27725146:DERIVED (new)', '26492847:DERIVED (new)']
+- NCT01868048 | WITHDRAWN | results=False | PHASE3 | Phase 3, 28-week, Randomized, Double-blind, Placebo-controlled Safety and Efficacy Study of Nabiximols as an add-on Therapy in Subjects With | conds: Spasticity, Multiple Sclerosis | intr: Sativex, Placebo
+- NCT06111911 | COMPLETED | results=False | NA | Detection of High-Risk HPV in Urine and Cervical Swab Specimen Using HPV Diagnostic Kit (Bio Farma) | conds: Human Papilloma Virus Infection | intr: HPV Diagnostic Kit (Bio Farma)
+- NCT01686022 | COMPLETED | results=False |  | Grass Sensitisation and Allergic Rhinitis in Thai Patients | conds: Allergy to Grass Pollen, Allergic Rhinitis Due to Weed Pollens | intr: Immunoblot
+- NCT01424566 | COMPLETED | results=True | PHASE3 | A Two-Part Study of Sativex® Oromucosal Spray for Relieving Uncontrolled Persistent Pain in Patients With Advanced Cancer | conds: Pain, Advanced Cancer | intr: Nabiximols, Placebo (GA-0034)
+- NCT04587700 | COMPLETED | results=False |  | Analgesic Consumption in Chronic Marijuana Users Following Orthopedic Trauma Surgery | conds: Cannabis, Marijuana | intr: 
+- NCT02347345 | COMPLETED | results=True | PHASE4 | Immunologic Effects of HCV Therapy With HARVONI in HCV Genotype 1 Chronically Mono-infected Active and Former IDUs | conds: Hepatitis C | intr: Harvoni (Fixed dose combination ledipasvir/sofosbuvir) | pubs: ['24720702:RESULT (new)', '24209977:RESULT (new)', '24067879:RESULT (new)']
+- NCT02391220 | COMPLETED | results=False | NA | Assessment of the Symbiotic Fermented Milk in Patients With Irritable Bowel Syndrome | conds: Irritable Bowel Syndrome | intr: LCA symbiotic fermented milk, heat-treated fermented milk
+- NCT00249509 | COMPLETED | results=False | PHASE2 | Effectiveness of Nefazodone and Bupropion in Treating Marijuana Dependent Individuals | conds: Marijuana Abuse | intr: Nefazodone, Bupropion
+- NCT07445568 | COMPLETED | results=False | NA | Home-Based Quadriceps Isometric Exercise for Knee Osteoarthritis Pain | conds: Older Adults (60 - 85 Years Old), OA Knee | intr: Placebo Topical Gel, Cannabidiol (CBD) Topical Gel, Arnica montana Topical Gel, Home-based Quadricep
+- NCT04387617 | COMPLETED | results=True | PHASE2,PHASE3 | A Study to Assess the Effect of Cannabidiol Oil on Pain After Ureteroscopy for Kidney Stones | conds: Urinary Stone | intr: Cannabidiol, Placebo
+- NCT07148843 | RECRUITING | results=False | PHASE2,PHASE3 | Cannabidiol as an Adjunct Treatment for Alcohol Withdrawal and Craving | conds: Alcohol Use Disorder (AUD), Withdrawal From Addictive Substance; Detoxification, Craving | intr: Cannabidiol (CBD), Placebo
+- NCT04057456 | COMPLETED | results=False | PHASE3 | Cannabinoids and an Anti-inflammatory Diet for the Treatment of Neuropathic Pain After Spinal Cord Injury | conds: Spinal Cord Injuries, Neuropathic Pain | intr: Placebo diet, Anti-inflammatory diet, Nabilone Capsules, Placebo capsules
+- NCT04978428 | COMPLETED | results=True | PHASE2 | Epidiolex in Obsessive Compulsive Disorder and Related Disorders | conds: Obsessive-Compulsive Disorder, Trichotillomania (Hair-Pulling Disorder), Tourette Syndrome, Hoarding Disorder | intr: Cannabidiol
+- NCT03787628 | COMPLETED | results=True | PHASE2 | Cannabidiol Effects on Craving and Relapse Prevention in Opioid Use Disorder | conds: Opioid-use Disorder | intr: Cannabidiol (CBD) 600 mg, Placebo
+- NCT05906511 | COMPLETED | results=False | EARLY_PHASE1 | PK/PD of Oral and Vaporized Delta-9-Tetrahydrocannabinol (THC) in Older Adults | conds: Pain, Tolerance, Oral vs Vaporized THC, Abuse Liability | intr: Dronabinol 5 MG, Dronabinol 10 MG, 2mg Purified THC in an ethanolic solution, 4mg Purified THC in an
+- NCT04585230 | UNKNOWN | results=False | NA | A Study to Evaluate the Outcomes of Cannabinoid (CBD) Roll-on Topical Stick in Primary Total Knee Arthroplasty | conds: Pain, Joint, Pain, Postoperative, Total Knee Arthroplasty | intr: CBD, Mineral Oil, Placebo
+- NCT02318602 | COMPLETED | results=True | PHASE3 | Cannabidiol Oral Solution as an Adjunctive Treatment for Treatment-resistant Seizure Disorder | conds: Seizures | intr: Cannabidiol Oral Solution
+- NCT04726475 | UNKNOWN | results=False | PHASE1,PHASE2 | Impact of CBD-Rich Oil on Aversive Memory Reconsolidation | conds: Anxiety and Fear | intr: Interoceptive Aversive Memory Reactivation, Cannabidiol (CBD)-Rich Broad Spectrum Hemp Extract Oil,  | pubs: ['35811050:DERIVED (new)']
+- NCT06513507 | ACTIVE_NOT_RECRUITING | results=False | NA | A Clinical Study to Assess the Efficacy of Cannabigerol in Patients with Active Rheumatoid Arthritis. | conds: Rheumatoid Arthritis, Inflammatory Disease | intr: Cannabigerol (CBG)
+- NCT03941288 | COMPLETED | results=True | PHASE2 | Efficacy and Safety of Cannabidiol for Gastroparesis and Functional Dyspepsia | conds: Gastroparesis, Dyspepsia | intr: Cannabidiol, placebo | pubs: ['37482172:DERIVED (new)', '35537858:DERIVED (new)']
+- NCT05644054 | UNKNOWN | results=False | NA | The Impact of THC on Pain Modulation in Fibromyalgia | conds: Fibromyalgia, Primary | intr: THC, Placebo | pubs: ['41199355:DERIVED (new)']
+- NCT03904849 | WITHDRAWN | results=False | PHASE1,PHASE2 | Cannabidiol for Alcohol Use Disorder | conds: Alcohol Use Disorder | intr: Cannabidiol, Placebo
+- NCT05212402 | COMPLETED | results=False | NA | Assessing the Effects of a Cannabidiol Derived From Hemp Supplement in Healthy Adults | conds: Healthy, Safety Issues | intr: Cannabinol, Placebo
+- NCT06364254 | UNKNOWN | results=False | NA | Effects of CBD on 2 Mile Run Time Trial Performance | conds: Healthy | intr: Cannabidiol Capsules
+- NCT01217112 | COMPLETED | results=True | PHASE2 | GWMD1092 - GWP42003 : GWP42004 Together Plus Alone in Type II Diabetes | conds: Dyslipidemias, Diabetes Mellitus, Type 2 | intr: GWP42003, GWP42003, GWP42004, Placebo | pubs: ['27573936:DERIVED (new)']
+- NCT06159686 | COMPLETED | results=False | PHASE1,PHASE2 | The Efficacy of Hemp-containing Cream Versus Placebo in the Treatment of Uremic Pruritus | conds: Uremic Pruritus | intr: Hemp, Placebo | pubs: ['39328960:DERIVED (new)']
+- NCT00444769 | COMPLETED | results=False | PHASE2 | Dental Pain 3rd Molar Tooth Extraction GW842166 | conds: Pain | intr: GW842166
+- NCT03866941 | UNKNOWN | results=False |  | Acute and Chronic Toxicity of Some Synthetic Cannabinoids in Assiut Psychiatric Hospitals | conds: Epidemiologic Data of Some Synthetic Cannibinoids Toxicity in Patients Presenting at Assiut University Hospital, Psychiatric Hospital of Ministry of Health), Proportion of Acute and Chronic Abusers of Synthetic Cannibinoids Among Cases of Illicit Drugs Abuser in Studied Sites | intr: causes of abuse synthetic cannibinoids
+- NCT02902081 | COMPLETED | results=True | NA | Cannabidiol and Emotional Stimuli | conds: Drug Addiction | intr: Cannabidiol, Placebo
+- NCT04283019 | COMPLETED | results=False | PHASE1 | The Pharmacokinetic and Pharmacodynamic Effects of Oral Cannabidiol (CBD) Under Acute and Chronic Exposure Conditions | conds: Cannabis, Drug Effects | intr: CBD, THC
+- NCT04590495 | COMPLETED | results=True | PHASE2 | The Effects of Cannabidiol on the Driving Ability of Healthy Adults | conds: Driving Performance, Cognitive Impairment, Sedation Complication, Mood | intr: 300 mg Cannabidiol (CBD) oil, Placebo
+- NCT06834997 | WITHDRAWN | results=False | PHASE2 | Dronabinol As an Adjunct for Reducing Pain (DARP)-Texas Children's Hospital | conds: Endometriosis, Endometriosis Related Pain, Endometriosis, Pain | intr: Dronabinol Capsules, Placebo
+- NCT06772753 | RECRUITING | results=False | PHASE1 | Investigation of Psychedelic Effects in Psychoactive Substances | conds: Psychedelic Effects in Healthy Volunteers | intr: Placebo, Psilocybin, Ketamine, Dextromethorphan (DXM) | pubs: ['42649324:DERIVED (new)']
+- NCT03210766 | COMPLETED | results=False |  | Nabilone and THC/CBD for the Treatment of FBSS Refractory Pain | conds: FBSS | intr: Nabilone, THC/CBD
+- NCT04267679 | WITHDRAWN | results=False | PHASE2 | Cannabidiol for Anxiety | conds: Anxiety | intr: Cannabidiol
+- NCT05632627 | COMPLETED | results=False | PHASE2 | Cannabinoids and Traumatic Brain Injury: A Randomized, Placebo Controlled Trial | conds: Brain Injuries, Traumatic | intr: Cannabidiol, Placebo
+- NCT05803434 | ACTIVE_NOT_RECRUITING | results=False | PHASE2 | Cannabidiol in Children and Young Adults With Rare Disease-associated Severe Epilepsy | conds: Epilepsy, Rare Diseases | intr: Cannabidiol oral solution
+- NCT07564245 | NOT_YET_RECRUITING | results=False | PHASE2 | Efficacy of Cannabidiol in the Management of Self-injuries in Children and Adolescents With Severe Neurodevelopmental Disorders. | conds: Neurodevelopmental Disorders With Severe Self-injuries | intr: Cannabidiol
+- NCT04881539 | COMPLETED | results=False | NA | CBD, Immune Function, and Neural Health | conds: Healthy | intr: Cannabidiol (CBD)
+- NCT05934500 | WITHDRAWN | results=False | EARLY_PHASE1 | CBD Knee Scope Study | conds: Post-operative Pain | intr: Cannabidiol Oil
+- NCT05651607 | COMPLETED | results=False | PHASE2 | Evaluation of the Efficacy of CANNABIDIOL on the Pruritus in Children With Hereditary Epidermolysis Bullosa | conds: Hereditary Epidermolysis Bullosa | intr: Cannabidiol | pubs: ['41105816:RESULT (new)']
+- NCT03661892 | COMPLETED | results=False | EARLY_PHASE1 | Pilot, Syndros, Decreasing Use of Opioids in Breast Cancer Subjects With Bone Mets | conds: Bone Metastases, Breast Cancer, Pain | intr: Syndros | pubs: ['42050177:DERIVED (new)']
+- NCT03355300 | TERMINATED | results=True | PHASE2 | Long-Term Safety of Pharmaceutical Grade Synthetic Cannabidiol Oral Solution in Pediatric Participants With Treatment-Resistant Childhood Ab | conds: Childhood Absence Epilepsy | intr: Cannabidiol Oral Solution
+- NCT07886606 | RECRUITING | results=False | EARLY_PHASE1 | Cannabidiol in Opioid Use Disorder and Chronic Pain With Buprenorphine | conds: Chronic Pain, Opioid Use Disorder | intr: 400 mg Cannabidiol, 800 mg Cannabidiol, 1200 mg Cannabidiol, Beta carotene oral solution without CBD
+- NCT05840822 | ACTIVE_NOT_RECRUITING | results=False | PHASE3 | Evaluating Efficacy and Safety of CBD TPM Capsules for Use in Insomnia | conds: Insomnia | intr: Cannabidiol (CBD) Capsule 75mg, Placebo
+- NCT06831916 | COMPLETED | results=False | PHASE2 | Impact of Cannabinoids on Menopause Symptoms | conds: Perimenopause, Menopause | intr: Active Cannabinoid Product, Placebo
+- NCT07167446 | RECRUITING | results=False | EARLY_PHASE1 | Neuroprotective Potential of Cannabidiol (CBD) in Preventing Oxaliplatin (Ox)-Induced Neuropathy | conds: Oxaliplatin Induced Peripheral Neuropathy in Cancer Patients, Metastatic Colorectal Cancer (CRC), Peripheral Neuropathy Due to Chemotherapy | intr: Cannabidiol (CBD), oxaliplatin-based chemotherapy
+- NCT05485831 | ACTIVE_NOT_RECRUITING | results=False |  | Epidyolex® in Lennox Gastaut, Dravet Syndrome and Tuberous Sclerosis Complex: an Observational Study in ITALY | conds: Lennox Gastaut Syndrome, Dravet Syndrome, Tuberous Sclerosis Complex | intr: Epidiolex 100 mg/mL Oral Solution
+- NCT02318537 | WITHDRAWN | results=False | PHASE3 | Cannabidiol Oral Solution as an Adjunctive Therapy for Treatment of Participants With Inadequately Controlled Lennox-Gastaut Syndrome | conds: Lennox-Gastaut Syndrome | intr: Cannabidiol Oral Solution, Placebo Solution
+- NCT00153192 | COMPLETED | results=False | PHASE2,PHASE3 | Study to Evaluate the Efficacy of Dronabinol (Marinol) as Add-On Therapy for Patients on Opioids for Chronic Pain | conds: Chronic Pain | intr: Marinol (dronabinol)
+- NCT02700412 | COMPLETED | results=True | PHASE1 | University of Alabama at Birmingham (UAB) Adult CBD Program | conds: Epilepsy, Seizures | intr: Epidiolex | pubs: ['31048098:DERIVED (new)', '29063814:DERIVED (new)']
+- NCT02783092 | UNKNOWN | results=False | PHASE3 | A Double-Blind Trial to Evaluate Efficacy and Safety of Cannabidiol as an add-on Therapy for Treatment in Refractory Epilepsy | conds: Epilepsy | intr: Cannabidiol, Placebo
+- NCT03848832 | TERMINATED | results=True | PHASE3 | Efficacy and Safety of Cannabidiol Oral Solution (GWP42003-P, CBD-OS) in Patients With Rett Syndrome | conds: Rett Syndrome, RTT | intr: GWP42003-P, Placebo
+- NCT03564548 | UNKNOWN | results=False | PHASE2 | Inhaled Cannabinoids Versus Immediate-release Oral Opioids for the Management of Breakthrough Cancer Pain | conds: Cancer, Breakthrough Cancer Pain | intr: PPP001, Morphine sulfate or Hydromorphone or Oxycodone
+- NCT02224690 | COMPLETED | results=True | PHASE3 | A Study to Investigate the Efficacy and Safety of Cannabidiol (GWP42003-P; CBD) as Adjunctive Treatment for Seizures Associated With Lennox- | conds: Epilepsy, Lennox-Gastaut Syndrome | intr: GWP42003-P 20 mg/kg/day Dose, Placebo | pubs: ['40775196:DERIVED (new)', '37052803:DERIVED (new)', '33825230:DERIVED (new)', '33797076:DERIVED (new)']
+- NCT07638189 | NOT_YET_RECRUITING | results=False | PHASE2 | CBD Knee Osteoarthritis Study | conds: Osteoarthitis | intr: Cannabidiol (CBD), Castor Oil (Placebo)
+- NCT06930703 | RECRUITING | results=False | PHASE1,PHASE2 | Cannabidiol in Sickle Cell Disease | conds: Sickle Cell Disease | intr: Cannabidiol, Placebo
+- NCT07434973 | NOT_YET_RECRUITING | results=False | PHASE3 | Stratification and Treatment in Early Psychosis Study - PROMOTE | conds: Clinical High Risk for Psychosis (CHR), Clinical High Risk for Psychosis, Clinical High Risk for Developing Psychosis | intr: Cannabidiol (CBD), Placebo
+- NCT04992624 | RECRUITING | results=False | PHASE2 | Cannabinoid Interactions With Central and Peripheral Pain Mechanisms in Osteoarthritis of the Knee | conds: Osteoarthritis, Knee, Osteoarthritis of the Knee | intr: Placebo, Cannabidiol (CBD), Tetrahydrocannabinol (Marinol® or generic equivalent (e.g., dronabinol)
+- NCT05672342 | WITHDRAWN | results=False | EARLY_PHASE1 | Phytocannabinoids for the Treatment of Chronic Chemotherapy-Induced Peripheral Neuropathy in Breast and Colon Cancer Survivors | conds: Breast Carcinoma, Chemotherapy-Induced Peripheral Neuropathy, Colon Carcinoma | intr: Cannabidiol, Delta-8-Tetrahydrocannabinol, Placebo Administration, Questionnaire Administration
+- NCT02517190 | COMPLETED | results=False | NA | Effects of Repeated Short-term Microgravity During Parabolic Flight Conditions on Neuro-endocrine, Immune and Metabolic Changes | conds: Healthy | intr: Parabolic flight, neuro-endocrine measurements, immunological measurements, cellular energy metaboli
+- NCT00812851 | COMPLETED | results=False | NA | Randomized Placebo-Controlled Crossover Trial With THC (Delta 9-Tetrahydrocannabinol) for the Treatment of Cramps in Amyotrophic Lateral Scl | conds: Cramps, Amyotrophic Lateral Sclerosis | intr: Dronabinol
+- NCT02051387 | COMPLETED | results=False | PHASE1 | Cannabidiol as a Different Type of an Antipsychotic: Drug Delivery and Interaction Study | conds: Schizophrenia | intr: Cannabidiol CR, Cannabidiol, Amisulpride, Olanzapine
+- NCT01322464 | COMPLETED | results=False | PHASE1 | Study to Assess Food Effect on Sativex Bioavailability | conds: Food Effect | intr: Sativex, Sativex, Sativex, Sativex | pubs: ['23052407:RESULT (new)', '23179176:RESULT (new)']
+- NCT00965809 | UNKNOWN | results=False | PHASE4 | Add on Study on Δ9-THC Treatment for Posttraumatic Stress Disorders (PTSD) | conds: Posttraumatic Stress Disorders | intr: Tetrahydrocannabinol, Placebo
+- NCT05044819 | ACTIVE_NOT_RECRUITING | results=False | PHASE4 | Assessment of Potential for Chronic Liver Injury in Participants Treated With Epidiolex (Cannabidiol) Oral Solution | conds: Lennox Gastaut Syndrome, Dravet Syndrome, Tuberous Sclerosis Complex | intr: Cannabidiol
+- NCT05180240 | COMPLETED | results=True | PHASE2 | Impact of CardiolRx on Myocardial Recovery in Patients With Acute Myocarditis | conds: Acute Myocarditis | intr: CardiolRx
+- NCT04940962 | COMPLETED | results=False | NA | Translational Study Using Human Abdominal Adipose Tissue Biopsies to Investigate the Role of Cannabinoid Receptor 1 (CB1) in Controlling End | conds: Diabete Type 2, Abdominal Obesity | intr: Sampling of adipose tissue
+- NCT04155008 | TERMINATED | results=True | PHASE4 | Nutrition and Pharmacological Algorithm for Oncology Patients Study | conds: Oncologic Complications, Quality of Life, Nutrition Poor, Head and Neck Cancer | intr: Dexamethasone, Dronabinol, Mirtazapine, Nutrition Intervention
+- NCT03655717 | COMPLETED | results=True | NA | Using Imaging to Assess Effects of THC on Brain Activity | conds: Intoxication Alcohol, Intoxication THC, Intoxication Combined Alcohol THC | intr: Dronabinol, Ethanol, Placebo dronabinol, Placebo ethanol | pubs: ['41615687:DERIVED (new)', '38714786:DERIVED (new)', '34999737:DERIVED (new)']
+- NCT00588731 | COMPLETED | results=True | PHASE2 | Cannabidiol Treatment of Cognitive Dysfunction in Schizophrenia | conds: Schizophrenia, Schizoaffective Disorder | intr: Cannabidiol, Placebo | pubs: ['29619533:DERIVED (new)']
+- NCT06381791 | RECRUITING | results=False | PHASE1,PHASE2 | CBD for Pain Following Orthopedic Shoulder Surgery | conds: Shoulder Osteoarthritis, Rotator Cuff Injuries | intr: Epidiolex, Placebo oral solution
+- NCT06218550 | COMPLETED | results=False | PHASE1 | Delta-8-THC vs. Delta-9-THC on Simulated Driving Performance | conds: Cannabis | intr: Delta-9-THC, Delta-8-THC, Placebo
+- NCT04686539 | UNKNOWN | results=False | PHASE1 | Synthetic CBD as a Therapy for COVID-19 | conds: Covid19, CBD | intr: CBD, Placebo
+- NCT04349930 | WITHDRAWN | results=False | PHASE1 | The CBD-IC Randomized Controlled Trial: Evaluation of Hemp Cannabidiol SuppositoRies for Pain and Urinary SymptOms in INterstitial Cystitis  | conds: Interstitial Cystitis, Bladder Pain Syndrome | intr: Cannabidiol vaginal suppository, Placebo vaginal suppository
+- NCT05678881 | TERMINATED | results=False | PHASE1 | Safety, Tolerability, and Efficacy of RLS103 in a Clinical Model of Photosensitive Epilepsy | conds: Epilepsy | intr: High dose RLS103, placebo inhaled powder, Low dose RLS103
+- NCT07776405 | NOT_YET_RECRUITING | results=False | PHASE2 | A Double-Blinded Study on Rapid and Sustained Pain Relief Topical Cannabidiol for Plantar Fasciitis | conds: Plantar Fasciitis | intr: transdermal CBD cream (Tolcylen®, Marlinz Pharma), Matched Placebos
+- NCT04421456 | TERMINATED | results=True | PHASE2 | Trial to Investigate the Safety and Efficacy of GWP42003-P Versus Placebo as Adjunctive Therapy in Participants With Schizophrenia Experienc | conds: Schizophrenia | intr: GWP42003-P, Placebo
+- NCT05149898 | COMPLETED | results=True | PHASE2 | Open-Label Study of ZYN002 Administered as a Transdermal Gel to Children and Adolescents With 22q11.2 Deletion Syndrome (INSPIRE) | conds: 22Q11.2 Deletion Syndrome | intr: ZYN002 | pubs: ['41888667:DERIVED (new)']
+- NCT05860699 | RECRUITING | results=False | PHASE2 | Cannabidiol as an add-on Treatment During Inpatient Alcohol Cessation : CBD-OH | conds: Severe Alcohol Use Disorder (DSM 5) | intr: Placebo, Half dose CBD, Full dose CBD
+- NCT04679545 | UNKNOWN | results=False | PHASE2 | Using Cannabidiol to Treat Diabetic Peripheral Neuropathy of the Feet | conds: Diabetic Peripheral Neuropathic Pain | intr: CBD, Placebo
+- NCT04726579 | UNKNOWN | results=False |  | CBD Oil in Mechanical Back Pain | conds: Mechanical Low Back Pain | intr: 
+- NCT03824405 | COMPLETED | results=True | PHASE2 | Study of the Safety, Tolerability and Efficacy of BTX 1204 in Patients With Moderate Atopic Dermatitis | conds: Atopic Dermatitis | intr: BTX 1204, Vehicle
+- NCT05032807 | COMPLETED | results=True | PHASE1 | Pharmacokinetic Study of a Novel Lipid Formulation of Cannabidiol Compared to a Standard Formulation | conds: Absorption; Chemicals | intr: Standard formulation, Novel formulation | pubs: ['39771516:DERIVED (new)']
+- NCT04195269 | UNKNOWN | results=False | PHASE2 | Osteoarthritis of the Knee Pain Study Using a CBD and THC Sublingual Tablet | conds: Osteoarthritis, Knee, Pain | intr: Test Article
+- NCT07093138 | RECRUITING | results=False | PHASE4 | Evaluation of Efficacy and Safety of Topical Cannabidiol (Canvert-M Produced by Alasht Pharmed co. Iran) in the Treatment of Migraine Attack | conds: Migraine Disorders | intr: Canvert-M (Produced by Alasht Pharmed co. Iran)
+- NCT00702468 | COMPLETED | results=True | PHASE3 | Evaluate the Maintenance of Effect After Long-term Treatment With Sativex® in Subjects With Symptoms of Spasticity Due to Multiple Sclerosis | conds: Spasticity, Multiple Sclerosis | intr: Sativex, Placebo | pubs: ['21878454:RESULT (new)', '25475413:DERIVED (new)']
+- NCT06353828 | UNKNOWN | results=False | PHASE2 | Phase 2a Study to Evaluate IcBD-01 Enema in Active Ulcerative Colitis Patients | conds: Ulcerative Colitis | intr: CBD, synthetic form, Placebo
+- NCT04088929 | COMPLETED | results=False | PHASE2 | The Use of a Water Soluble Under the Tongue (Sublingual) CBD Tablet for Treating Pain Associated With Diabetic Peripheral Neuropathy | conds: Diabetic Neuropathies | intr: CBD
+- NCT06800066 | COMPLETED | results=True | NA | RCT-Consumer Perceptions of Cannabidiol (CBD) Health Claims | conds: Prevention | intr: Purchase Behavior - (Non-CBD ads), Purchase Behavior - (CBD ads)
+- NCT02224560 | COMPLETED | results=True | PHASE3 | Efficacy and Safety of GWP42003-P for Seizures Associated With Lennox-Gastaut Syndrome in Children and Adults | conds: Epilepsy, Lennox Gastaut Syndrome | intr: GWP42003-P, Placebo control | pubs: ['29768152:RESULT (new)', '40775196:DERIVED (new)', '37052803:DERIVED (new)', '33825230:DERIVED (new)', '33797076:DERIVED (new)', '30955420:DERIVED (new)']
+- NCT05212493 | COMPLETED | results=False | PHASE3 | The Effects of Medical Cannabis in Children With Autistic Spectrum Disorder | conds: Autism Spectrum Disorder | intr: Cannabis oil
+- NCT02249299 | COMPLETED | results=False | NA | Experimental Medicine in ADHD - Cannabinoids | conds: Attention Deficit Hyperactivity Disorder (ADHD) | intr: Sativex Oromucosal Spray, Placebo | pubs: ['28576350:RESULT (new)']
+- NCT02607891 | COMPLETED | results=False | PHASE2 | A Study of Possible Drug-drug Interactions Between Stiripentol or Valproate and Cannabidiol in Patients With Epilepsy | conds: Epilepsy | intr: GWP42003-P, Placebo | pubs: ['32350749:DERIVED (new)']
+- NCT06615284 | COMPLETED | results=False | PHASE1 | A Study of Atorvo+™ in Healthy Adult Participants | conds: Coronary Heart Disease, Dyslipidemias | intr: Atorvo+™ (Arm1), Atorvo+™ +CBD (Arm 2), Atorvo+™ +CBD (Arm 3)
+- NCT02844933 | TERMINATED | results=True | PHASE2 | Cannabidiol Oral Solution for the Treatment of Patients With Prader-Willi Syndrome | conds: Prader-Willi Syndrome | intr: Cannabidiol, Placebo
+- NCT04997954 | UNKNOWN | results=False | PHASE4 | EMERALD TRIAL Open Label Extension Study | conds: Amyotrophic Lateral Sclerosis, Cannabis, CBD, Motor Neuron Disease | intr: MediCabilis CBD oil
+- NCT05850754 | UNKNOWN | results=False | NA | 4 Week Veterans Cannabidiol Intervention | conds: Healthy | intr: Vantage Hemp CBD, Vantage Hemp Placebo Capsule
+- NCT06222268 | NOT_YET_RECRUITING | results=False | PHASE1,PHASE2 | Wayne State Warriors Marijuana Clinical Research Program: Cannabinoid Adjunct to Prolonged Exposure & Recovery | conds: PTSD, Post Traumatic Stress Disorder, Suicide, Cannabis Use | intr: Cannabidiol (CBD) only, Placebo only, Delta-9-tetrahydrocannabinol (THC) only, THC:CBD 1:1
+- NCT04777643 | COMPLETED | results=False | EARLY_PHASE1 | Sex Differences in Neural Response to Cannabidiol | conds: CBD, Neural Responses | intr: Cannabidiol, Placebo
+- NCT07027566 | NOT_YET_RECRUITING | results=False | PHASE1 | Effect of an Experimental Cannabidiol Gel on Tooth Sensitivity | conds: Dentin Sensitivity | intr: Potassium nitrate and sodium fluoride, Cannabidiol (CBD) Gel, Natrosol 4% Gel
+- NCT07162454 | COMPLETED | results=False | NA | Effectiveness of CBD for Neuropathic Pain in Diabetic Foot Neuropathy | conds: Xerosis Cutis, Neuropathic Pain Associated With Diabetic Peripheral Neuropathy | intr: Group 1. Complete formula, Group 2. Cannabidiol and Urea 10% formula., Group 3. Placebo formula.
+- NCT07001930 | RECRUITING | results=False | PHASE1 | Effects of Cannabidiol on Stress and Nicotine Withdrawal | conds: CBD, Stress, Nicotine Dependence, Tobacco Smoking | intr: Epidiolex
+- NCT04821856 | COMPLETED | results=False | PHASE2 | Evaluation of the Effectiveness of Cannabidiol in Treating Severe Behavioural Problems in Children and Adolescents With Intellectual Disabil | conds: Intellectual Disability, Child Behavior Problem | intr: Cannabidiol Oil, Placebo
+- NCT06266611 | RECRUITING | results=False | PHASE2 | Cannabis for Palliative Care in Cancer | conds: Sleep, Anxiety, Depression, Pain | intr: fsCBD Cannabidiol, Placebo, bsCBD Cannabidiol
+- NCT05020028 | RECRUITING | results=False | PHASE2,PHASE3 | Cannabidiol (CBD) in Pain Reduction for Knee Osteoarthritis | conds: Knee Arthritis | intr: Cannabidiol (CBD), Placebo
+- NCT01975688 | TERMINATED | results=False | PHASE1 | A Pharmacokinetic Study of Single Doses of Sativex in Treatment-induced Mucositis | conds: Head and Neck Squamous Cell Carcinoma | intr: Sativex
+- NCT05432284 | NOT_YET_RECRUITING | results=False | PHASE1 | Behavioral Pharmacology of THC and Beta-Myrcene | conds: Cannabis Use | intr: Placebo, THC, Beta-Myrcene
+- NCT03191084 | COMPLETED | results=False | EARLY_PHASE1 | Examine the Feasibility of a Standardized Field Test for Marijuana Impairment: Laboratory Evaluations | conds: Marijuana Impairment | intr: Low Dose THC Marijuana, High Dose THC Marijuana, Placebo Marijuana
+- NCT03491384 | COMPLETED | results=True |  | Anxiety, Inflammation, Stress, and Cannabinoids | conds: Anxiety, Anxiety Disorders, Anxiety Generalized, Anxiety Chronic | intr: Cannabis (smoked flower, ingested edible) | pubs: ['41864773:DERIVED (new)', '40916181:DERIVED (new)', '40522823:DERIVED (new)', '38252547:DERIVED (new)']
+- NCT00308555 | COMPLETED | results=True | PHASE1 | Opioid and Cannabinoid Pharmacokinetic Interactions | conds: Pain | intr: Cannabis
+- NCT05287256 | COMPLETED | results=False | PHASE1 | Comparative Pharmacokinetic and Pharmacodynamic Effects of Delta-8 and Delta-9 THC | conds: Behavioral Pharmacology of Cannabis | intr: Oral Delta-8-THC Cannabis, Oral Delta-9-THC Cannabis, Oral Placebo, Vaporized Delta-8-THC Cannabis
+- NCT01361607 | COMPLETED | results=True | PHASE3 | Sativex® for Relieving Persistent Pain in Patients With Advanced Cancer | conds: Pain, Advanced Cancer | intr: Nabiximols, Placebo (GA-0034)
+- NCT02817698 | COMPLETED | results=True | EARLY_PHASE1 | Imaging the Neurochemistry of Drug Addiction With PET | conds: Smoking, Cannabis | intr: cannabis | pubs: ['34399137:DERIVED (new)']
+- NCT01118364 | COMPLETED | results=False | NA | Effect of Cannabis on Simulated and Actual Driving in Healthy Subjects | conds: Healthy | intr: Cannabis, tobacco
+- NCT04360044 | COMPLETED | results=False | PHASE2 | Efficacy of Inhaled Cannabis for Acute Migraine Treatment | conds: Migraine, Cannabis, THC, CBD | intr: THC ~5%, CBD ~12%, THC ~5% and CBD ~12%, Sham Cannabis | pubs: ['41469488:DERIVED (new)']
+- NCT07679581 | RECRUITING | results=False |  | Cannabis Observations on Brain Waves, Retrieval, and Attention: Experiment 4 | conds: Cannabis, Memory, Electroencephalography | intr: Cannabis (smoked flower)
+- NCT01606189 | COMPLETED | results=True | PHASE3 | A Study to Compare Sublingual Cannabis Based Medicine Extracts With Placebo to Treat Brachial Plexus Injury Pain | conds: Pain | intr: GW-1000-02, GW-2000-02, Placebo | pubs: ['15561385:RESULT (new)']
+- NCT02073474 | COMPLETED | results=False |  | An Observational Post-Marketing Safety Registry of Sativex® | conds: Multiple Sclerosis, Diabetes, Cancer, Neuropathic Pain | intr: Sativex®
+- NCT03246113 | TERMINATED | results=False | PHASE1 | Tolerability of Cannabis in Patients Receiving Concurrent Chemoradiation for Glioblastoma | conds: Glioblastoma | intr: Cannabis, Temozolomide, Radiation Therapy
+- NCT01748799 | COMPLETED | results=True | NA | Fixed or Self-Titrated Dosages of Sativex on Cannabis Users | conds: Cannabis Dependence | intr: Sativex, Placebo
+- NCT04657666 | COMPLETED | results=True | PHASE3 | Trial to Evaluate the Effect of Nabiximols Oromucosal Spray on Clinical Measures of Spasticity in Participants With Multiple Sclerosis | conds: Spasticity in Participants With Multiple Sclerosis | intr: Nabiximols, Placebo | pubs: ['39106541:DERIVED (new)']
+- NCT01747850 | COMPLETED | results=True | PHASE2 | Sativex and Behavioral-relapse Prevention Strategy in Cannabis Dependence | conds: Cannabis Dependence | intr: Motivational Enhancement/Cognitive Behavioral Therapy, Sativex, Placebo spray | pubs: ['37692969:DERIVED (new)']
+- NCT04130633 | COMPLETED | results=True | PHASE1 | Behavioral Pharmacology of THC and Alpha-pinene | conds: THC, Alpha-pinene | intr: Placebo, THC, Alpha-Pinene
+- NCT01812603 | COMPLETED | results=False | PHASE1,PHASE2 | A Safety Study of Sativex in Combination With Dose-intense Temozolomide in Patients With Recurrent Glioblastoma | conds: Cancer | intr: Sativex | pubs: ['33623076:DERIVED (new)']
+- NCT03224468 | COMPLETED | results=True | NA | Effect of Medical Marijuana on Neurocognition and Escalation of Use | conds: Pain, Insomnia, Depression, Anxiety | intr: Medical Marijuana | pubs: ['38746368:DERIVED (new)', '37625034:DERIVED (new)', '37289502:DERIVED (new)', '37068366:DERIVED (new)', '36638745:DERIVED (new)', '35302633:DERIVED (new)']
+- NCT03122691 | COMPLETED | results=True | PHASE1 | Differences in Cannabis Impairment and Its Measurement Due to Route of Administration | conds: Behavioral Pharmacology of Cannabis | intr: cannabis
+- NCT03328676 | COMPLETED | results=False | PHASE2 | The Effect of Cannabis on Dementia Related Agitation and Aggression | conds: Agitation Related to Dementia | intr: Cannabis, Placebo oil | pubs: ['36148467:DERIVED (new)', '34532852:DERIVED (new)', '33660625:DERIVED (new)']
+- NCT06523725 | WITHDRAWN | results=False | PHASE2 | Trial Investigating the Safety and Efficacy of BRC-003 in Refractory Post-Traumatic Epilepsy | conds: Post-traumatic Epilepsy | intr: PO BRC-003 (High Cannabidiol Cannabis Extract), Placebo
+- NCT00675948 | COMPLETED | results=True | PHASE3 | Study to Compare the Safety and Tolerability of Sativex® in Patients With Cancer Related Pain | conds: Pain, Cancer | intr: Sativex, GW-2000-02 | pubs: ['23141881:RESULT (new)']
+- NCT02961309 | COMPLETED | results=False | PHASE1 | A Laboratory Model of Increasing Delta-9-tetrahydrocannabinol (THC) Potency on Cigarette Smoking | conds: Tobacco Use | intr: THC
+- NCT02460692 | COMPLETED | results=True | PHASE2 | Trial of Dronabinol and Vaporized Cannabis in Chronic Low Back Pain | conds: Cannabis, Low Back Pain, Neuropathic Pain | intr: Placebos, dronabinol, Vaporized Cannabis 3.7% THC/5.6% CBD
+- NCT03546790 | COMPLETED | results=False | PHASE1 | Laboratory Smoking of Marijuana "Blunts" | conds: Cannabis | intr: Marijuana
+- NCT05407285 | COMPLETED | results=False | PHASE1,PHASE2 | A Study of Ingested Cannabidiol in Healthy Occasional Cannabis Users | conds: Cannabis | intr: cannabis 0 mg, placebo, Cannabis 20 mg,, Cannabis 50 mg, Cannabis 100 mg | pubs: ['42454450:DERIVED (new)', '41514385:DERIVED (new)']
+- NCT01771731 | COMPLETED | results=True | PHASE1,PHASE2 | Vaporized Cannabis for Chronic Pain Associated With Sickle Cell Disease | conds: Sickle Cell Disease | intr: Cannabis | pubs: ['32678452:RESULT (new)', '32977351:DERIVED (new)']
+- NCT04847388 | COMPLETED | results=False |  | Prevalence of Substance Abuse Among Anti-retroviral Treatment Naive Patients Positive for HIV Antibodies | conds: HIV Infections | intr: Substance like alcohol, marijuana, etc.
+- NCT05320367 | NOT_YET_RECRUITING | results=False | PHASE1,PHASE2 | A Study of Inhaled Cannabidiol in Healthy Occasional Cannabis Users | conds: Cannabis | intr: Cannabis, placebo
+- NCT01610713 | COMPLETED | results=True | PHASE3 | An Study to Investigate the Efficacy of Delta-9-tetrahydrocannabinol (THC) and Cannabidiol (CBD) in Multiple Sclerosis | conds: Multiple Sclerosis | intr: GW-1000-02 | pubs: ['15327042:RESULT (new)', '25475413:DERIVED (new)']
+- NCT03099005 | COMPLETED | results=True | PHASE2 | Effect of Cannabis and Endocannabinoids on HIV Neuropathic Pain | conds: Cannabis, HIV Neuropathy, Pain Syndrome | intr: Cannabis
+- NCT00710424 | COMPLETED | results=True | PHASE3 | A Study of Sativex® for Pain Relief Due to Diabetic Neuropathy | conds: Pain, Diabetic Neuropathy | intr: Sativex, Placebo
+- NCT07216690 | RECRUITING | results=False | PHASE2 | Pregnenolone as a Treatment for Cannabis Intoxication | conds: Cannabis Intoxication | intr: Cannabis, Pregnenolone 250 mg, Pregnenolone 500 mg, Placebo
+- NCT00946348 | COMPLETED | results=True | PHASE1 | Cannabis and Schizophrenia: Self-Medication and Agonist Treatment | conds: Schizophrenia, Dual Diagnosis, Schizoaffective Disorder, Psychotic Disorder | intr: Dronabinol, Cannabis
+- NCT01969474 | WITHDRAWN | results=False | PHASE1 | Effectiveness of Cannabis in the Treatment of Tinnitus Patients | conds: Tinnitus | intr: Cannabis, Placebo
+- NCT00241592 | COMPLETED | results=False | PHASE1 | Vaporization as a Smokeless Cannabis Delivery System | conds: Healthy Volunteers | intr: Cannabis | pubs: ['17429350:RESULT (new)']
+- NCT05999383 | RECRUITING | results=False | PHASE2 | Understanding the Clinical Pharmacology of Marijuana-Tobacco Co-administration | conds: THC, Cannabis, Cannabis Use, Cannabis Smoking | intr: Cannabis, Nicotine, Pax Loose Leaf Vaporizer, Placebo Marijuana
+- NCT02560545 | UNKNOWN | results=False | NA | Cannabinoids Effects on the Pain Modulation System | conds: Neuropathic Pain | intr: Cannabis oil | pubs: ['38597988:DERIVED (new)']
+- NCT01592409 | COMPLETED | results=True | NA | Cannabis Effects on Driving-related Skills of Young Drivers | conds: Psychomotor Impairment | intr: delta-9-tetrahydrocannabinol, Placebo
+- NCT01610687 | COMPLETED | results=True | PHASE3 | A Long-term Safety Extension Study of Delta-9-tetrahydrocannabinol (THC) and Cannabidiol (CBD) in Multiple Sclerosis | conds: Multiple Sclerosis, Spasticity | intr: GW-1000-02 | pubs: ['17086911:RESULT (new)']
+- NCT05322213 | RECRUITING | results=False | PHASE1 | THC Effects on Glucose in Type 2 Diabetes | conds: Type 2 Diabetes | intr: THC, Placebo
+- NCT00681538 | COMPLETED | results=True | PHASE3 | A Study of the Safety and Effectiveness of Sativex®, for the Relief of Symptoms of Spasticity in Subjects, From Phase B, With Multiple Scler | conds: Spasticity, Multiple Sclerosis | intr: Sativex®, Placebo | pubs: ['21362108:RESULT (new)']
+- NCT06863740 | RECRUITING | results=False | NA | Using Cannabis to Treat Restless Legs Syndrome | conds: Restless Leg Syndrome (RLS) | intr: Cannabis oil, Cannabis placebo
+- NCT01964547 | COMPLETED | results=True | PHASE4 | A Randomized Study of Sativex on Cognitive Function and Mood: Multiple Sclerosis Patients | conds: Multiple Sclerosis, Spasticity | intr: Sativex, Placebo | pubs: ['24151639:RESULT (new)', '34532852:DERIVED (new)']
+- NCT06588972 | COMPLETED | results=False | PHASE2 | Analgesic Effects of a Treatment With Cannabis Sativa Extract in Patients With Knee Osteoarthritis - CANOA (Cannabis for Osteoarthritis) | conds: OSTEOARTHRITIS OF THE KNEE | intr: Medium Chain Triglyceride solution, Cannabis Sativa | pubs: ['41487518:DERIVED (new)']
+- NCT03251326 | TERMINATED | results=True | PHASE1,PHASE2 | Nabilone in Cannabis Users With PTSD | conds: Cannabis, Post Traumatic Stress Disorder | intr: Nabilone, Cannabis, Propranolol, Placebo
+- NCT03656029 | COMPLETED | results=False | PHASE2 | Dose-response of Cannabis and Driving | conds: Driving Impaired, Cognitive Impairment, Abuse Cannabis | intr: Cannabis, Placebo | pubs: ['41807521:DERIVED (new)']
+- NCT04931095 | COMPLETED | results=True | PHASE1 | The Impact of Oral Cannabis Administration and Co-Administration of Alcohol on Impairment | conds: Cannabis Intoxication, Alcohol Intoxication | intr: Cannabis, Alcohol | pubs: ['42065887:DERIVED (new)']
+- NCT02892591 | COMPLETED | results=False | PHASE3 | Cannabis Versus Oxycodone for Pain Relief | conds: Back Pain, Neck Pain | intr: Cannabis, Oxycodone, Placebo for Cannabis, Placebo for Oxycodone
+- NCT04406948 | WITHDRAWN | results=False | PHASE2 | Study of Safety and Efficacy of MGCND00EP1 as an Add on Treatment in Children and Adolescents With Resistant Epilepsies | conds: Resistant Epilepsy, Drug, Adolescent Epilepsy, Children Epilepsy, Children and Adolescents With Resistant Epilepsies | intr: MGCND00EP1, Placebo, ECG, EEG
+- NCT07214155 | RECRUITING | results=False | PHASE1 | Effects of Various Cannabis Strains on Perceptual, Subjective and Objective Use Outcomes | conds: Cannabis Intoxication | intr: Cannabis, 0 mg THC (placebo)
+- NCT04325958 | RECRUITING | results=False | NA | Age Differences in the Effects of Cannabis on Simulated Driving | conds: Cannabis | intr: Cannabis, Placebos
+- NCT03186664 | COMPLETED | results=False | NA | The Role of SAtivex® in Robotic-Rehabilitation | conds: Rehabilitation | intr: Lokomat training, Sativex
+- NCT06190470 | UNKNOWN | results=False | PHASE1 | Effects of Marijuana on Neuropathic Pain and Spasticity in Spinal Cord Injury Patients | conds: Spinal Cord Injury | intr: Cannabis, Placebo
+- NCT00254761 | COMPLETED | results=False | PHASE1,PHASE2 | Effects of Smoked Marijuana on Neuropathic Pain | conds: Neuropathic Pain | intr: Cannabis
+- NCT06159387 | UNKNOWN | results=False | PHASE4 | Randomized, Double-blind, Placebo-controlled Cannabis Extract x Placebo for Cocaine Addicts | conds: Cocaine Dependence | intr: Cannabis Extract Oil SR Capsule
+- NCT05432206 | COMPLETED | results=False | PHASE2,PHASE3 | MEDical CANnabis for Improving Symptoms During Severe DEMentia Disorders in Long-term Care Facility in Geneva | conds: Dementia with Behavioral Disturbance | intr: Cannabis Sativa Oil, Placebo | pubs: ['37293434:DERIVED (new)']
+- NCT05974293 | WITHDRAWN | results=False | PHASE2 | A Phase IIb Study of Nabiximols for Spasticity Due to Neuromyelitis Optica Spectrum Disorders | conds: NMO Spectrum Disorder, Spasticity, Muscle | intr: Nabiximols, Placebo
+- NCT01302340 | COMPLETED | results=False | PHASE2 | Delta-THC in Behavioral Disturbances in Dementia | conds: Dementia | intr: Delta-THC, placebo, Delta-THC | pubs: ['34532852:DERIVED (new)']
+- NCT02757313 | COMPLETED | results=False | PHASE1 | Neuroscience of Marijuana Impaired Driving | conds: Marijuana Impairment | intr: Low dose THC marijuana, High dose THC marijuana, Placebo marijuana
+- NCT06629389 | RECRUITING | results=False | PHASE2 | Clinical Trial with Cannabidiol (Kanbis®) for Parkinson Disease Symptoms | conds: Parkinson Disease | intr: Cannabidiol 100 mg/ml, cannabidiol 300 mg/ml, Cannabidiol 400 mg/ml, Placebo
+- NCT05629702 | ACTIVE_NOT_RECRUITING | results=False | PHASE2 | ARISTOCRAT: Blinded Trial of Temozolomide +/- Cannabinoids | conds: Glioblastoma, Brain Tumor, Cannabis, Brain Tumor, Recurrent | intr: Nabiximols, Temozolomide, Nabiximols-matched placebo
+- NCT03268551 | COMPLETED | results=False |  | MEMO-Medical Marijuana and Opioids Study | conds: Opioid Use, Marijuana, Chronic Pain, HIV/AIDS | intr:  | pubs: ['36961410:DERIVED (new)', '33376181:DERIVED (new)']
+- NCT01730781 | RECRUITING | results=False |  | Imaging Cannabinoid Receptors Using Positron Emission Tomography (PET) Scanning | conds: Schizophrenia, Cannabis Dependence, Prodromal for Psychotic Illness, Family History of Alcoholism | intr: [11-C]OMAR | pubs: ['26432420:DERIVED (new)']
+- NCT07257978 | NOT_YET_RECRUITING | results=False | PHASE2,PHASE3 | Efficacy and Safety of NTI164 in Children and Young Adults With Rett Syndrome | conds: RETT Syndrome With Proven MECP2 Mutation, Rett Syndrome | intr: NTI164, Placebo
+- NCT06432400 | WITHDRAWN | results=False | NA | Identification of Post-Traumatic Stress Disorder in Adult Patients With Substance Use Disorders | conds: Trauma | intr: Patient questionnaires
+- NCT01536899 | COMPLETED | results=False |  | Medical Marijuana Use in HIV+ Patients Prospective Cohort Study | conds: HIV Positive, Marijuana Smoking | intr:  | pubs: ['42067947:DERIVED (new)', '37736522:DERIVED (new)']
+- NCT02229032 | COMPLETED | results=False |  | Genetic Analysis Between Charlotte's Web Responders Versus Non- Responders in a Dravet Population | conds: Dravet Syndrome | intr: 
+- NCT06206252 | COMPLETED | results=False |  | Can Medical Cannabis Affect Opioid Use? | conds: Chronic Pain, Pain | intr: Medical Cannabis
+- NCT06490445 | COMPLETED | results=False | PHASE2 | A Study of Medical Cannabis Aerosol Via the Fixed-dose Syqe Inhaler as an Add-on Treatment of Diabetic Peripheral Neuropathic Pain (DPNP) | conds: Diabetic Peripheral Neuropathic Pain | intr: Medical Cannabis, Placebo
+- NCT04261166 | COMPLETED | results=False | PHASE1 | A Phase I Open Label Study to Assess PK and Safety of Plant Cannabis Extract | conds: Healthy | intr: A1, A2, A3, A4
+- NCT07217730 | ENROLLING_BY_INVITATION | results=False |  | Healthcare Integrity & Anti-Fraud Enforcement | conds: Healthcare Fraud Schemes, Kickback Networks, Supply Chain Vulnerabilities, Governance Failures | intr: Validator-Governed Reform & Regulatory Escalation Protocol, Coalition-Grade Validator Dashboard Modu
+- NCT07194928 | COMPLETED | results=True |  | Medical Cannabis as an Opiate Alternative | conds: Chronic Pain, Opioid Use | intr: We will monitor patient's response to medical marijuana as alternative to opioid for chronic pain.
+- NCT06518434 | RECRUITING | results=False | PHASE2 | A Pilot Study on the Effect of Cannabis Oil in Untreatable Liver Cancer Patients | conds: Hepatocellular Carcinoma, Cannabis | intr: Medical Cannabis
+- NCT05344170 | COMPLETED | results=False | PHASE1,PHASE2 | Cannabinol Use in Patients With Insomnia Disorder | conds: Insomnia Disorder | intr: 30 mg Cannabinol (CBN), 300 mg Cannabinol (CBN), Placebo | pubs: ['41698831:DERIVED (new)', '37612115:DERIVED (new)']
+- NCT06098573 | COMPLETED | results=False | NA | Development and Evaluation of HighAlert | conds: Cannabis, Youth Drinking | intr: High Alert, Information condition, No contact
+- NCT07374939 | NOT_YET_RECRUITING | results=False |  | Medical Cannabis Observational Study for Antiemetic Intervention in Chemotherapy | conds: Nausea and Vomiting Chemotherapy-Induced | intr: Medical Cannabis
+- NCT05184478 | COMPLETED | results=False | PHASE1,PHASE2 | Is Medicinal Cannabis an Effective Treatment for Tourette Syndrome in Adolescents? a Pilot Study | conds: Tourette Syndrome in Adolescence | intr: Medicinal cannabis (MC): THC 10mg/mL : CBD 15mg/mL, manufactured by Cann Group Ltd., Placebo | pubs: ['40082070:DERIVED (new)']
+- NCT05180149 | WITHDRAWN | results=False |  | Personality and Drug Use (PDU) | conds: Personality | intr: 
+- NCT06903624 | COMPLETED | results=False |  | Cannabis in Postoperative Pain Management | conds: Postoperative Pain | intr: 
+- NCT04031313 | UNKNOWN | results=False |  | Effectiveness and Safety of Oil Extracts Medical Cannabis Treatment for Patients With Chronic Pain | conds: Chronic Pain | intr: 
+- NCT06417827 | UNKNOWN | results=False | NA | Artificial Intelligence for Mental Health Diagnoses and Treatment Plans: A Protocol for Actors and Patients | conds: Mental Health Diagnosis | intr: SP patients-actors, Patients, Control group- patients
+- NCT03337503 | TERMINATED | results=False | PHASE2 | Safety and Efficacy of Medical Cannabis Oil in the Treatment of Patients with Chronic Pain | conds: Chronic Pain | intr: THC and CDB in a 1 to 1 ratio, Experimental: THC and CBD in a 1 to 2 ratio, High CBD with trace THC 
+- NCT05092191 | RECRUITING | results=False | PHASE2 | Cannabis as a Complementary Treatment in Multiple Sclerosis | conds: Multiple Sclerosis | intr: Cannabis oil vs placebo | pubs: ['39114536:DERIVED (new)']
+- NCT02976779 | COMPLETED | results=False | PHASE1 | A Phase I, Double Blind, Randomized, Placebo Controlled, Maximal Dose Study to Determine the Safety, Tolerability of Topical Cream Containin | conds: Safety Study for Future Treatment of Psoriasis | intr: OWC MGC cream, OWC Control Cream
+- NCT07594496 | ENROLLING_BY_INVITATION | results=False |  | Prevalence and Clinical Manifestations of Cannabis Withdrawal in Hospitalized Patients With Hematological Malignancies Undergoing Bone Marro | conds: Hematopoietic and Lymphatic System Neoplasm, Malignant Solid Neoplasm | intr: Non-Interventional Study
+- NCT06713447 | COMPLETED | results=False | PHASE1 | NTI164 Human PK Study | conds: Healthy, Healthy Volunteer | intr: NTI164
+- NCT05106504 | UNKNOWN | results=False |  | Effect of Medical Cannabis for Non-motor Symptoms of Parkinson's Disease | conds: Bladder, Overactive, Parkinson Disease | intr: Medical Cannabis
+- NCT03944447 | UNKNOWN | results=False | PHASE2 | Outcomes Mandate National Integration With Cannabis as Medicine | conds: Chronic Pain, Chronic Pain Syndrome, Chronic Pain Due to Injury, Chronic Pain Due to Trauma | intr: Cannabis, Medical, RYAH-Medtech Inhaler
+- NCT04308148 | COMPLETED | results=False |  | Does Medical Cannabis Reduce Opioid Use in Adults With Pain | conds: Opioid Use, Marijuana, Chronic Pain | intr: 
+- NCT05115318 | COMPLETED | results=False |  | The Effect of Medical Cannabis on Tics, Premonitory Urge and Psychiatric Comorbidity in Adults With Tourette Syndrome | conds: Tourette Syndrome, Cannabis | intr: Medical Cannabis
+- NCT04376437 | UNKNOWN | results=False | NA | The Kinetics of Endocannabinoids in Patients With Chemotherapy Induced Peripheral Neuropathy by Using Medical Cannabis. | conds: Chemotherapy-induced Peripheral Neuropathy | intr: medical cannabis | pubs: ['25119581:RESULT (new)', '12098632:RESULT (new)', '16945171:RESULT (new)', '18428211:RESULT (new)', '17296917:RESULT (new)', '18688212:RESULT (new)', '20805210:RESULT (new)', '26362106:RESULT (new)', '25635955:RESULT (new)', '21426373:RESULT (new)', '16213089:RESULT (new)', '17572696:RESULT (new)', '12648025:RESULT (new)', '25118789:RESULT (new)', '8402303:RESULT (new)', '17974490:RESULT (new)', '26067584:RESULT (new)', '17952647:RESULT (new)', '30250104:RESULT (new)', '31196236:RESULT (new)']
+- NCT07362407 | ENROLLING_BY_INVITATION | results=False |  | Analysis of the Therapeutic and Clinical Profile of Cannabinoid Treatments: A Real-World Study | conds: Chronic Pain, Depression Disorders, Anxiety Disorders, Quality of Life | intr: Participants are followed while using cannabis-based products (such as CBD or THC oils, extracts, or
+- NCT06597097 | ENROLLING_BY_INVITATION | results=False |  | Evaluation of Interprofessional Relations Between Primary Care and Hospital Centers in the Experimentation of Medical Cannabis in France Car | conds: Medical Cannabis | intr: 
+- NCT06878417 | RECRUITING | results=False | NA | Cannabinoids for Osteoarthritis Pain Effectiveness Trial | conds: Osteoarthritis of Knee, Osteoarthritis Hip | intr: CBD, THC, Placebo
+- NCT05626959 | COMPLETED | results=False | PHASE2,PHASE3 | Evaluating the Efficacy of NTI164 in Young People With Autism Spectrum Disorder | conds: Autism Spectrum Disorder | intr: NTI164
+- NCT03859089 | UNKNOWN | results=False |  | Cannabis for Opioid Substitution Trial | conds: Pain Syndrome, Opioid Use, Cannabis Use | intr: Medical Cannabis
+- NCT03699527 | COMPLETED | results=False |  | Medical Cannabis Registry and Pharmacology | conds: Autism, ASD | intr: Multiple questionnaires administered
+- NCT00107588 | COMPLETED | results=False | NA | Marijuana Treatment Project - 3 | conds: Marijuana Dependence | intr: Reinforcement for homework completion, Reinforcement for Abstinence, Case Management
+- NCT07183254 | NOT_YET_RECRUITING | results=False | NA | Resting-state Imaging and Chronic Consumption of Non-Nutritive SweetenerS | conds: Healthy Volunteers - Male and Female | intr: administration of questionnaires, carrying out a MRI scan, Can distribution visit for subjects in th
+- NCT04971629 | UNKNOWN | results=False |  | The Relationship Between Cannabis Use, Biomarkers, Tissue Cannabinoid Levels and Clinical Outcomes in Patients With OA | conds: Osteo Arthritis Knee | intr: 
+- NCT05863910 | RECRUITING | results=False |  | Real World Evidence on the Use of Medical Cannabis in Pediatrics | conds: Cancer, Epilepsy, Neurodevelopmental Disorders | intr: Medical Cannabis
+- NCT04526093 | RECRUITING | results=False |  | Real-World Evidence in Patient-Reported Outcomes for Medical Cannabis (MC-RWE) | conds: Pain, Sleep, Anxiety, Depression | intr: Medical Cannabis
+- NCT06213064 | UNKNOWN | results=False |  | A Direct-to-Consumer Study Investigating the Effect of Specific Cannabinoid Products on Motivation, Energy Level, Focus, and Appetite in Hea | conds: Motivation | intr: Study Product, THC Product, Placebo
+- NCT03675971 | UNKNOWN | results=False | PHASE2,PHASE3 | COPE: Cannabinoids to Obviate Pain Experiment After Knee Replacement | conds: Arthroplasty, Replacement, Knee | intr: Cannabinol, Placebo oral capsule
+- NCT04976738 | COMPLETED | results=False | PHASE1,PHASE2 | A Study of Cybis™ 10:25 THC:CBD Oil in Adults With Chronic Back/Neck Pain | conds: Chronic Pain, Neck Pain, Back Pain, Pain | intr: Cybis™ 10:25 THC:CBD oil
+- NCT06418204 | RECRUITING | results=False |  | Assessing Benefits and Harms of Cannabis/Cannabinoid Use Among Cancer Patients Treated in Community Oncology Clinics | conds: Breast Carcinoma, Colorectal Carcinoma, Lung Non-Small Cell Carcinoma, Melanoma | intr: Non-interventional Study
+- NCT03886753 | TERMINATED | results=False |  | Pharmacokinetic (PK) and Pharmacodynamics (PD) Study of Ilera Specific Products | conds: ALS, Autism Spectrum Disorder, Cancer, Spasticity, Muscle | intr: Registry, PK microsampling of blood
+- NCT05939466 | COMPLETED | results=False | PHASE4 | Medical Cannabis for Treating Pain Related to Fibromyalgia | conds: Fibromyalgia | intr: Bedrocan®-type cannabis (22% THC, <1% CBD)
+- NCT04860089 | WITHDRAWN | results=False |  | Pain, Inflammation, and Cannabis in HIV | conds: HIV Infections, Neuropathic Pain, Cannabis | intr: 
+- NCT02324777 | UNKNOWN | results=False | PHASE2 | Cannabinoid Profile Investigation of Vapourized Cannabis in Patients With Osteoarthritis of the Knee | conds: Osteoarthritis, Knee | intr: Cannabis, Volcano® Medic Vapourizer
+- NCT02523183 | UNKNOWN | results=False |  | The Use of Medicinal Cannabinoids as Adjunctive Treatment for Medically Refractory Epilepsy | conds: Epilepsy, Unspecified, Refractory (Medically) | intr: Medical Cannabis
+- NCT03483220 | COMPLETED | results=False |  | Emotional Regulation, Impulsivity in Cannabis Its Relation to MRI Brain Structure | conds: Addiction | intr: MRI brain
+- NCT03808935 | TERMINATED | results=False | PHASE3 | Cannabis Extract in Refractory Epilepsy Study | conds: Drug Resistant Epilepsy | intr: Medical Cannabis, Placebo
+- NCT04226690 | COMPLETED | results=False | PHASE1 | Safety and Effects on Responses to Stress and Pain of Natural Medical Marijuana Products | conds: Pain | intr: Active CBD/THC Dose 1, Active CBD/THC Dose 2, matched placebo comparator
+- NCT05731687 | RECRUITING | results=False | NA | Bifurcation PCI With a Hybrid Strategy With Drug Eluting Balloons Versus a Stepwise Provisional Two-stent Strategy | conds: Coronary Artery Disease, Coronary Bifurcation Lesion | intr: Hybrid DEB approach with drug-eluting balloon, Two-stent strategy | pubs: ['37806333:DERIVED (new)']
+- NCT03948074 | COMPLETED | results=False | PHASE2 | Cannabis For Cancer-Related Symptoms | conds: Pain, Nausea, Anxiety, Sleep Disturbance | intr: Cannabis
+- NCT04923230 | COMPLETED | results=False | NA | Pilot Test of Parent-Focused Cannabis-Related Actions and Practices Intervention for Adolescent Marijuana Abuse | conds: Cannabis Use Disorder, Mild, Cannabis Use Disorder, Moderate | intr: Cannabis Actions and Practices Resource for Parents
+- NCT04629716 | COMPLETED | results=True |  | Reactions of Older Adults Driving After Cannabis Exposure | conds: Chronic Pain | intr: Medical Cannabis | pubs: ['42102282:DERIVED (new)']
+- NCT03581058 | UNKNOWN | results=False | PHASE1 | Neural Correlates of Driving and Cannabis | conds: Cannabis Use, Driving Impaired | intr: Cannabis
+- NCT06808048 | RECRUITING | results=False | NA | Medical Cannabis and Behavior | conds: Chronic Pain Patients, Medical Cannabis Users | intr: Cognitive testing, Task-based fMRI measure of face-name and verbal learning
+- NCT05554146 | COMPLETED | results=True | NA | Pain Inflammation and Cannabis in HIV | conds: HIV Infections, Neuropathic Pain, Cannabis | intr: Receipt of Coupon for Placebo Soft-Gel Capsule, Receipt of Coupon for High THC Soft-Gel Capsule, Rec
+- NCT04945031 | COMPLETED | results=False |  | The Study of Pharmacological Treatment Pattern for Cannabis-induced Psychosis | conds: Cannabis | intr: cannabis | pubs: ['39334053:DERIVED (new)']
+- NCT07168707 | COMPLETED | results=False | NA | Culturally Adapted EAET-H for Chronic Pain Patients Using Medical Cannabis in Israel - A Pilot Study | conds: Chronic Musculoskeletal Pain, Cannabis Use | intr: Group-based Emotional Awareness & Expression Therapy - Hebrew
+- NCT02325024 | WITHDRAWN | results=False | PHASE1 | A Study to Evaluate the Pharmacokinetics Of Sativex® in Subjects With Severe Renal Impairment or End Stage Renal Disease, Compared to Matche | conds: Renal Insufficiency, Kidney Disease | intr: Sativex
+- NCT03964974 | COMPLETED | results=True | NA | Reducing Cannabis Use for Sleep Among Adults Using Medical Cannabis | conds: Insomnia Chronic, Cannabis Use | intr: Cognitive Behavioral Therapy for Insomnia in Cannabis Users (CBTi-CB), Sleep Hygiene Education (SHE)
+- NCT06358144 | COMPLETED | results=True | NA | Cannabis Edibles Packaging Imagery Experiment | conds: Cannabis Use | intr: Packaging imagery, No Imagery (Control) | pubs: ['42176349:DERIVED (new)']
+- NCT05132842 | COMPLETED | results=False |  | Cannabis Use Patterns Among Cancer Patients | conds: Hematopoietic and Lymphoid Cell Neoplasm, Malignant Solid Neoplasm | intr: Survey Administration
+- NCT07257939 | RECRUITING | results=False | PHASE3 | NTI164 in Autism Spectrum Disorder | conds: Autism, Autism Spectrum Disorder, Autism Disorder | intr: NTI164, Placebo
+- NCT04316598 | TERMINATED | results=False | PHASE1 | Cannabis Effects on Electroencephalography | conds: Healthy Volunteers | intr: Cannabis Sativa, Cannabis placebo
+- NCT06640712 | COMPLETED | results=False | NA | Oral and Dental Health in Substance Dependent Individuals | conds: Substance Use Disorder (SUD), Decayed Teeth, Teeth Loss, Teeth Missing | intr: Dental caries was assessed using the DMFT index (Decayed, Missing, and Filled Teeth) according to th | pubs: ['39958156:DERIVED (new)']
+- NCT03984565 | ACTIVE_NOT_RECRUITING | results=False | PHASE2 | PAIN: A Project Assessing the Impact of a Novel Cannabinoid Product | conds: Chronic Pain | intr: Cannabidiol, Placebo
+- NCT03360799 | COMPLETED | results=False |  | Questionnaires in Assessing Attitudes About Legalization of Marijuana Use in Participants With Cancer | conds: Malignant Neoplasm | intr: Questionnaire Administration
+- NCT04083261 | COMPLETED | results=False |  | Pharmacogenetic Variation: Factors That May Affect the Efficacy and Safety of Medical Marijuana | conds: New York Medical Marijuana Program Qualifying Conditions | intr: DNA Genotek Oragene 600
+- NCT06995937 | RECRUITING | results=False |  | Medical Marijuana and Open Road Driving Task | conds: Medical Cannabis | intr:  | pubs: ['41313623:DERIVED (new)']
+- NCT04402554 | COMPLETED | results=False |  | Survey of Cannabis Use in Patients With Chronic Inflammatory Arthritis | conds: Rheumatoid Arthritis, Ankylosing Spondylitis, Psoriatic Arthritis | intr: Cannabis questionnaire
+- NCT00248378 | COMPLETED | results=False | PHASE1,PHASE2 | Short-Term Effects of Medicinal Cannabis Therapy on Spasticity in Multiple Sclerosis | conds: Multiple Sclerosis | intr: Smoked Cannabis
+- NCT05219370 | TERMINATED | results=False | PHASE2 | Treatment With Cannabis Oil Containing CBD, THC, CBDV or CBG vs. Placebo of Persons With ADHD | conds: ADHD, Hyperactivity, Attention Deficit | intr: Cannabis oil | pubs: ['25733754:RESULT (new)', '28576350:RESULT (new)']
+- NCT04989205 | COMPLETED | results=False |  | Community Based Cannabis Cessation Program | conds: Cannabis Use | intr: Cannabis cessation Program | pubs: ['35709178:DERIVED (new)']
+- NCT03886532 | WITHDRAWN | results=False |  | GI Medical Cannabis Study on IBD | conds: Inflammatory Bowel Diseases, Neuropathic Pain | intr: Medical Marijuana
+- NCT05235503 | UNKNOWN | results=False | PHASE4 | Influence of Δ9-tetrahydrocannabinol (THC) on Oxycodone Induced Ventilatory Depression in Healthy Volunteers | conds: Respiratory Depression, Cannabis Use, Opioid Use | intr: Medicinal cannabis in combination with oxycodon, Medicinal cannabis in combination with placebo oxyc
+- NCT00907309 | COMPLETED | results=False | PHASE1,PHASE2 | Dental and Medical Office iMET to Reduce Teen Tobacco, Alcohol, and Drug Use | conds: Use; Tobacco, Harmful, Alcohol Abuse, Drug Abuse | intr: iMET, iMET/TE | pubs: ['33605440:DERIVED (new)']
+- NCT04997395 | COMPLETED | results=False | PHASE2 | Feasibility of Cannabidiol for the Treatment of Long COVID | conds: Long COVID | intr: MediCabilis Cannabis sativa 50
+- NCT04841993 | COMPLETED | results=False | PHASE1 | Pharmacokinetics and Pharmacological Effects of a Standardized Cannabis Preparation | conds: Cannabis Use, Healthy Subjects | intr: Cannabis decoction, Cannabis oil, Vaporized cannabis | pubs: ['33451073:RESULT (new)', '33322849:RESULT (new)', '33298281:RESULT (new)', '33155722:RESULT (new)']
+- NCT05337033 | RECRUITING | results=False | PHASE2 | Cannabis for Chronic Headaches in Adolescents: the CAN-CHA Trial | conds: Chronic Migraine | intr: MPL-001 | pubs: ['39302982:DERIVED (new)']
+- NCT07107607 | ACTIVE_NOT_RECRUITING | results=False |  | Assessing Claims of Cannabis as an Anti-cancer Agent (CATA) | conds: Cancer, Cancer (With or Without Metastasis) | intr: 
+
+### OpenAlex no-PMID trial-worded - 7336 hits, 17 without PMID, 17 new
+- new | 2026 | https://openalex.org/W7167778007 | article | CBG and Attention: A Double-Blind, Randomized, Placebo-Controlled Trial Examining the Effects of Cannabigerol on Indicators of Attention-Deficit/Hyperactivity Disorder | Journal of the Arkansas Academy of Scien
+- new | 2025 | https://openalex.org/W7110473374 | article | An Empirical Assessment of Cannabidiol, Stress, Anxiety, and Sex Differences: A Randomized, Placebo-Controlled Trial | Journal of the Arkansas Academy of Scien
+- new | 2025 | 10.1007/s43450-025-00680-6 | review | Systematic Review and Meta-analysis to Investigate the Effects of Cannabidiol on Blood Pressure: Examination of Randomized Triple- and Double-Blind Placebo Trials | Revista Brasileira de Farmacognosia
+- new | 2025 | https://openalex.org/W7120576246 | dissertation | Evaluation of the efficacy and safety of Full Spectrum Cannabis extract in pain control in patients with muscular temporomandibular disfunction: randomized, double-blind, placebo-c | LA Referencia (Red Federada de Repositor
+- new | 2025 | 10.1017/inp.2025.13 | article | Emergence and persistence of volunteer hemp in southern Florida | Invasive Plant Science and Management
+- new | 2024 | 10.31925/farmacia.2024.6.20 | article | EFFECTS OF CANNABIS SATIVA L. SEED OIL ON PRO-INFLAMMATORY CYTOKINES AND LIVER AND KIDNEY FUNCTIONS IN OBESE FEMALE WISTAR RATS: A RANDOMIZED CONTROLLED TRIAL | FARMACIA
+- new | 2024 | 10.58731/2965-0771.2024.49 | article | Eficácia dos fitocanabinoides no manejo da dor oncológica: uma revisão integrativa de ensaios clínicos randomizados | Revista Brasileira de Cannabis
+- new | 2021 | https://openalex.org/W3201429594 | dissertation | Effects of cannabidiol as an adjunctive therapy in patients with a first episode of psychosis: a prospective randomized controlled clinical trial | RECERCAT (Consorci de Serveis Universita
+- new | 2019 | https://openalex.org/W3217316432 | article | Industrial Hemp Fertility Trial | ScholarWorks -A service of University of
+- new | 2012 | 10.1186/isrctn42223114 | study-registration | MUltiple Sclerosis and Extract of Cannabis (MUSEC): a randomised, double-blind, placebo-controlled phase III trial to determine the efficacy and safety of a standardised oral extra | 
+- new | 2007 | 10.1016/j.jaci.2006.12.134 | article | Sensitization to Cannabis sativa in Tomato Sensitized Patients | Journal of Allergy and Clinical Immunolo
+- new | 2006 | 10.1300/j237v11n01_03 | article | Hemp (Cannabis sativa L.) Trials in Southern Sweden 1999-2001 | Journal of Industrial Hemp
+- new | 2001 | 10.2135/cropsci2001.1682 | article | Comparison of Hemp Varieties Using Random Amplified Polymorphic DNA Markers | Crop Science
+- new | 2001 | 10.1300/j175v01n01_03 | article | Effects of Smoked Cannabis and Oral δ9-Tetrahydrocannabinol on Nausea and Emesis After Cancer Chemotherapy: A Review of State Clinical Trials | Journal of Cannabis Therapeutics
+- new | 1999 | 10.1023/a:1008696018533 | article | Preliminary results of a German field trial with different hemp (Cannabis sativa L.) accessions | Genetic Resources and Crop Evolution
+- new | 1998 | https://openalex.org/W262753706 | article | Random Amplified Polymorphic DNA and Restriction Fragment Length Polymorphism analyses of Cannabis sativa | Journal of Natural Medicines
+- new | 1982 | 10.1007/978-3-642-68690-0_39 | book-chapter | EEG Analysis and the Clinical Effects of Levonantradol in Human Volunteers | Springer eBooks
+
+## capsella-bursa-pastoris (Capsella bursa-pastoris) - name clause: "Capsella bursa-pastoris"[tiab] OR "shepherd's purse"[tiab] OR "shepherds purse"[tiab]
+
+### PubMed HT - 4 hits, 4 not already listed above, 2 new
+- new | 2021 | 35095508 | Review | Safety Evaluation of Natural Drugs in Chronic Skeletal Disorders: A Literature Review of Clinical Trials in the Past 20 years. | Front Pharmacol
+- new | 2021 | 33269580 | Randomized Controlled Trial | Efficacy and safety of three plant extracts based formulations of vagitories in the treatment of vaginitis: a randomized controlled trial. | Med Glas (Zenica)
+- HELD REF-0608 | 2018 | 29641247 | Randomized Controlled Trial | Effect of Hydroalcoholic Extracts of Capsella Bursa-Pastoris on Heavy Menstrual Bleeding: A Randomized Clinical Trial. | J Altern Complement Med
+- SEEN | 2017 | 28590768 | Randomized Controlled Trial | Effect of Hydroalcoholic Extract of Capsella bursa pastoris on Early Postpartum Hemorrhage: A Clinical Trial Study. | J Altern Complement Med
+
+### PubMed SR - 1 hits, 1 not already listed above, 1 new
+- new | 2018 | 29643859 |  | Major Co-localized QTL for Plant Height, Branch Initiation Height, Stem Diameter, and Flowering Time in an Alien Introgression Derived Brassica napus DH Population. | Front Plant Sci
+
+### PubMed SAFE - 17 hits, 15 not already listed above, 14 new
+- new | 2025 | 41203772 |  | Eco-friendly remediation of Triflumuron-induced stress with Capsella bursa-pastoris extract. | Sci Rep
+- new | 2025 | 40135522 |  | Tribenuron-methyl resistance in Capsella bursa-pastoris: the co-existence of ALS target enzyme mutation (Pro-197-Ser) and overexpression of GSTF12 and ADP/ATP carrier protein. | Pest Manag Sci
+- new | 2025 | 41289667 | Research Support, Non-U.S. Gov't | Polystyrene-nickel interactions in soil: Implications for metal mobility, plant uptake, and human health. | J Hazard Mater
+- SEEN | 2022 | 35605329 |  | Gurgem-7 toxicity assessment: Regulation of cell survival or death by traditional Mongolian prescription. | Ecotoxicol Environ Saf
+- new | 2021 | 33189481 |  | Water extract of shepherd's purse prevents high-fructose induced-liver injury by regulating glucolipid metabolism and gut microbiota. | Food Chem
+- new | 2021 | 33728912 |  | Investigating the Mechanism of Metabolic Resistance to Tribenuron-Methyl in Capsella bursa-pastoris (L.) Medik. by Full-Length Transcriptome Assembly Combined with RNA-Seq. | J Agric Food Chem
+- new | 2020 | 33780200 | Case Reports | Spinal and cerebral hematoma in systemic lupus erythematosus and antiphospholipid syndrome: is drug interaction the culprit? | Drug Metab Pers Ther
+- new | 2018 | 29479407 |  | The role of ecotypic variation in driving worldwide colonization by a cosmopolitan plant. | AoB Plants
+- new | 2018 | 30038768 |  | Antibiotic-induced effects on scaling relationships and on plant element contents in herbs and grasses. | Ecol Evol
+- new | 2017 | 28439396 |  | Antibiotics impact plant traits, even at small concentrations. | AoB Plants
+- new | 2009 | 19178473 | Case Reports/Review | Sulfur-associated polioencephalomalacia in cattle grazing plants in the Family Brassicaceae. | Aust Vet J
+- new | 2006 | 16644244 | Research Support, Non-U.S. Gov't | Genetic diversity within the Albugo candida complex (Peronosporales, Oomycota) inferred from phylogenetic analysis of ITS rDNA and COX2 mtDNA sequences. | Mol Phylogenet Evol
+- new | 2001 | 11811708 | Case Reports | Suspected nitrite poisoning in pigs caused by Capsella bursa-pastoris (L.) Medik. ('herderstassie', shepherd's purse). | J S Afr Vet Assoc
+- new | 2000 | 11006330 |  | Overexpression of a gene encoding a cytochrome P450, CYP78A9, induces large and seedless fruit in arabidopsis. | Plant Cell
+- new | 1981 | 7327376 |  | Antitumor and anti-intoxication activities of fumaric acid in cultured cells. | Gan
+
+### PubMed OBS - 1 hits, 1 not already listed above, 1 new
+- new | 2017 | 28482898 |  | Ethnopharmacological survey of medicinal plants practiced by traditional healers and herbalists for treatment of some urological diseases in the West Bank/Palestine. | BMC Complement Altern Med
+
+### PubMed REV - 11 hits, 9 not already listed above, 8 new
+- new | 2024 | 38547616 | Review | A promising therapy for fatty liver disease: PCSK9 inhibitors. | Phytomedicine
+- HELD REF-1971 | 2024 | 39771011 | Review | Traditional Uses, Bioactive Compounds, and New Findings on Pharmacological, Nutritional, Cosmetic and Biotechnology Utility of Capsella bursa-pastoris. | Nutrients
+- new | 2023 | 36282331 | Review/Research Support, Non-U.S. Gov't | Ancestral self-compatibility facilitates the establishment of allopolyploids in Brassicaceae. | Plant Reprod
+- new | 2023 | 37954999 | Review | Utilization of crop wild relatives for biotic and abiotic stress management in Indian mustard [Brassica juncea (L.) Czern. & Coss.]. | Front Plant Sci
+- new | 2018 | 29275166 | Research Support, U.S. Gov't, Non-P.H.S./Review | Functional Divergence between Subgenomes and Gene Pairs after Whole Genome Duplications. | Mol Plant
+- new | 2017 | 28855910 | Review | Perspective Research Progress in Cold Responses of Capsella bursa-pastoris. | Front Plant Sci
+- new | 2016 | 27852126 | Review | Traditional Chinese Medicine, Food Therapy, and Hypertension Control: A Narrative Review of Chinese Literature. | Am J Chin Med
+- new | 2015 | 25680842 | Review | Review on ethnomedicinal, phytochemical and pharmacological evidence of Himalayan anticancer plants. | J Ethnopharmacol
+- new | 2006 | 17018770 | Research Support, Non-U.S. Gov't/Review | Catching a 'hopeful monster': shepherd's purse (Capsella bursa-pastoris) as a model system to study the evolution of flower development. | J Exp Bot
+
+### ClinicalTrials.gov - 1 registered studies
+- NCT04558697 | COMPLETED | results=False | PHASE4 | Use of Vagitories Based on St. John's Wort, Tea Tree Oil and Shepherd's Purse in the Treatment of Vaginal Inflammation | conds: Non Specific Vaginitis | intr: Shepherd's Purse extractum oleosum vagitories, Tea tree oil vagitories, Hyperici extractum oleosum v
+
+### OpenAlex no-PMID trial-worded - ? hits, 0 without PMID, 0 new
+
+## capsicum-annuum (Capsicum annuum) - name clause: "Capsicum annuum"[tiab] OR "capsaicin"[ti] OR "chili"[ti] OR "chilli"[ti] OR "cayenne"[ti] OR "red pepper"[ti] OR "capsinoids"[ti] OR "capsicum"[ti]
+
+### PubMed HT - 971 hits, 200 not already listed above, 199 new
+- new | 2026 | 41662756 | Observational Study | Patients from Remote Health Centers Referred to Cayenne Emergency Department: A One-Year Observational Study. | Am J Trop Med Hyg
+- new | 2026 | 41856833 | Systematic Review/Meta-Analysis | The effect of red pepper/capsaicin on cardiovascular risk factors: a systematic review, meta-analysis, and GRADE assessment. | Nutr Metab Cardiovasc Dis
+- new | 2026 | 42749978 |  | Evaluation of open-pollinated chilli lines for heterosis and combining ability under diverse Himalayan environments. | J Appl Genet
+- new | 2026 | 42131620 |  | Histological prevalence of Helicobacter pylori in patients undergoing upper gastrointestinal endoscopy at Cayenne Hospital and follow-up outcomes. | Front Med (Lausanne)
+- new | 2026 | 41788700 | Case Reports | Chili pepper aspiration in elderly patients: a case series highlighting diagnostic challenges and the role of cryoextraction. | Front Med (Lausanne)
+- new | 2026 | 42824358 |  | Physiological and Biochemical Screening of Chilli (Capsicum annuum L.) Genotypes to Short-Term Waterlogging Stress at the Seedling Stage. | Scientifica (Cairo)
+- new | 2026 | 43060902 |  | Curated morphoagronomic data and descriptor metadata for 17 Capsicum genotypes. | Data Brief
+- new | 2026 | 41932827 | Clinical Trial, Phase III/Multicenter Study/Randomized Controlled Trial | Effect of Capsaicin (8%) Topical System on Sensory Function in Patients With Diabetic Peripheral Neuropathy: Analysis of the PACE Study. | Muscle Nerve
+- new | 2025 | 40939866 | Systematic Review/Meta-Analysis | The effect of capsaicin, capsinoids, and pepper-based interventions on lipid profiles in overweight or obese individuals: a systematic review and meta-analysis of randomized contro | Diabetes Res Clin Pract
+- new | 2025 | 41348254 | Review | Capsaicin in the Management of Peripheral Neuropathy: A Review. | Curr Pain Headache Rep
+- new | 2025 | 41147275 |  | A Randomized Clinical Trial on the Effect of a Two-Week Treatment with Capsaicin on Older Patients with Oropharyngeal Dysphagia. | Curr Neuropharmacol
+- new | 2025 | 39910447 |  | Optimized framework for evaluating F3 transgressive segregants in cayenne pepper. | BMC Plant Biol
+- new | 2025 | 40050054 | Clinical Trial Protocol | CADOR (Capsaicin in neuropathic-like pain in digital osteoarthritis) study protocol: a multicentre randomised parallel-group trial. | BMJ Open
+- new | 2025 | 41059836 |  | Physiological and colorimetric phenotyping in obtaining genetic gains by indirect selection in Capsicum. | Braz J Biol
+- new | 2025 | 40754557 |  | Function of (18)F-FDG PET/CT radiomics in the detection of checkpoint inhibitor-induced liver injury (CHILI). | EJNMMI Rep
+- new | 2025 | 40077683 | Randomized Controlled Trial | Capsaicin's Role in Mitigating Muscle Soreness and Enhancing Futsal Players' Recovery After Exercise-Induced Muscle Damage. | Nutrients
+- new | 2025 | 41162860 |  | In vitro antifungal activity of plant extracts against fungal pathogens of onion (Allium cepa L.) and red pepper (Capsicum annum L.) in selected districts of Western Hararghe, Ethi | BMC Plant Biol
+- new | 2025 | 40590207 |  | Urinary excretion kinetics of (poly)phenolic metabolites derived from the consumption of microwaved Piquillo pepper (Capsicum annuum cv. Piquillo). | Food Funct
+- new | 2024 | 39250705 | Review | Is there a role for capsaicin in cancer pain management? | Curr Opin Support Palliat Care
+- new | 2024 | 38456262 | Randomized Controlled Trial/Letter | Capsaicin for Cerebral Perfusion Augmentation: A Randomized Open-Label Trial. | Stroke
+- new | 2024 | 38726197 | Retracted Publication | Impact of different decontamination methods on the reduction of spiromesifen residue in chilli fruits. | Heliyon
+- new | 2024 | 39655550 | Randomized Controlled Trial | [Christmas article: Can chili improve the performance of Santa Claus and goblins? A randomized study]. | Ugeskr Laeger [dan]
+- new | 2024 | 42548348 |  | Oral Capsaicin as Treatment for Unexplained Chronic Cough and Airway Symptoms. | CHEST Pulm
+- new | 2024 | 38503869 |  | Optimizing chili production in drought stress: combining Zn-quantum dot biochar and proline for improved growth and yield. | Sci Rep
+- new | 2024 | 39234948 | Randomized Controlled Trial/Comparative Study | Controlled comparison evaluation of the soothing effect of 3 cosmetic products on skin discomfort induced by an irritant chemical agent (capsaicin). | J Cosmet Dermatol
+- new | 2024 | 38242885 |  | Unravelling the dynamics of genotype and environment interactions on chilli (Capsicum annuum L.) yield-related attributes in soilless planting systems. | Sci Rep
+- new | 2024 | 38519997 | Evaluation Study | The role of strigolactone in alleviating salinity stress in chili pepper. | BMC Plant Biol
+- new | 2024 | 39741339 |  | Chili pepper consumption and duration of fissure symptoms onset are associated with perianal fistula development among patients with anal fissure: a case-control study. | BMC Nutr
+- new | 2024 | 39385495 | Research Support, Non-U.S. Gov't | Effects of capsaicin on esophageal peristalsis in humans using high resolution manometry. | Neurogastroenterol Motil
+- new | 2024 | 38135109 | Randomized Controlled Trial/Research Support, U.S. Gov't, Non-P.H.S./Research Support, N.I.H., Intramural | Inducible desensitization to capsaicin with repeated low-dose exposure in human volunteers. | Physiol Behav
+- new | 2024 | 39006019 | Research Support, Non-U.S. Gov't | Estimation of environment stability for fruit yield and capsaicin content by using two models in Capsicum chinense Jacq. (Ghost Pepper) with multi-year evaluation. | PeerJ
+- new | 2023 | 33789250 | Review | Effects of Red Pepper, Ginger, and Turmeric on Energy Metabolism: Review of Current Knowledge. | Altern Ther Health Med
+- new | 2023 | 37631192 |  | Effect of Hydrogen Peroxide Application on Salt Stress Mitigation in Bell Pepper (Capsicum annuum L.). | Plants (Basel)
+- new | 2023 | 37774909 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Disrupted Cortical Homeostatic Plasticity Due to Prolonged Capsaicin-induced Pain. | Neuroscience
+- new | 2023 | 37744508 |  | What's childhood asthma in French Guiana? A cohort study based on children referred for allergology consultations at the Cayenne hospital center. | Front Public Health
+- new | 2023 | 37783858 |  | 3D-Printed Capsaicin-Loaded Injectable Implants for Targeted Delivery in Obese Patients. | AAPS PharmSciTech
+- new | 2023 | 37406633 |  | The effect of different decontamination processes on the residues of fipronil and its metabolites in chili fruits (Capsicum annuum L.). | Biomed Chromatogr
+- new | 2023 | 37992118 | Randomized Controlled Trial | Influence of deficit irrigation levels on agronomic performance of pepper (Capsicum annuum L.) under drip at alage, central rift valley of Ethiopia. | PLoS One
+- new | 2023 | 37414405 | Systematic Review | A Little Pepper-Upper? Systematic Review of Randomized Controlled Studies on Capsaicinoids, Capsinoids, and Exercise Performance. | Int J Sport Nutr Exerc Metab
+- new | 2023 | 36736541 | Research Support, Non-U.S. Gov't | Novel capsaicin cough endpoints effectively discriminate between healthy controls and patients with refractory chronic cough. | Respir Med
+- new | 2023 | 36716393 | Randomized Controlled Trial | Effect of Capsaicin Atomization on Cough and Swallowing Function in Patients With Hemorrhagic Stroke: A Randomized Controlled Trial. | J Speech Lang Hear Res
+- new | 2023 | 37464957 |  | Rosacea and seborrheic dermatitis differentially respond to lactic acid sting and capsaicin tests in Chinese women. | J Cosmet Dermatol
+- new | 2023 | 37067628 |  | Relationship between pepper (Capsicum annuum L.) root morphology, inter-root soil bacterial community structure and diversity under water-air intercropping conditions. | Planta
+- new | 2023 | 36647396 |  | Growth, Physiological, and Biochemical Responses of Ethiopian Red Pepper (Capsicum annum L.) Cultivars to Drought Stress. | ScientificWorldJournal
+- new | 2023 | 36816260 |  | Effect of different levels of nitrogen and charcoal on growth and yield traits of chili (Capsicum annuum L.). | Heliyon
+- new | 2023 | 38131689 |  | Inducing Cough Reflex by Capsaicin Spray Stimulation in Patients with Acquired Brain Injury: A Preliminary Test and Proof of Concept. | Clin Pract
+- new | 2022 | 36076554 | Review | Capsaicin, its clinical significance in patients with painful diabetic neuropathy. | Biomed Pharmacother
+- new | 2022 | 35057413 | Randomized Controlled Trial | Capsaicin and Its Effect on Exercise Performance, Fatigue and Inflammation after Exercise. | Nutrients
+- new | 2022 | 36006086 |  | Acute Supplementation with Capsaicin Enhances Upper-Limb Performance in Male Jiu-Jitsu Athletes. | Sports (Basel)
+- new | 2022 | 35471125 | Review | The Efficacy of Capsaicin on Sleep Quality and Fatigue in Fibromyalgia. | J Pain Palliat Care Pharmacother
+- new | 2022 | 36364793 | Systematic Review/Meta-Analysis | Effects of Capsaicin and Capsiate on Endurance Performance: A Meta-Analysis. | Nutrients
+- new | 2022 | 35499773 |  | Sensory testing and topical capsaicin can characterize patients with rheumatoid arthritis. | Clin Rheumatol
+- new | 2022 | 36051054 |  | Targeting TRPV1 activity via high-dose capsaicin in patients with sickle cell disease. | EJHaem
+- new | 2022 | 36430985 |  | Minimal Influence of Cayenne Pepper on the Human Gastrointestinal Microbiota and Intestinal Inflammation in Healthy Adult Humans-A Pilot Study. | Life (Basel)
+- new | 2022 | 35503446 | Randomized Controlled Trial | Capsaicin May Improve Swallowing Impairment in Patients with Amyotrophic Lateral Sclerosis: A Randomized Controlled Trial. | Acta Med Okayama
+- new | 2022 | 35501207 | Letter/Comment | Comment on: The effects of capsinoids and fermented red pepper paste supplementation on blood pressure: A systematic review and meta-analysis of randomized controlled trials. | Clin Nutr
+- new | 2022 | 36068389 |  | Detection of indigenous gut bacteria related to red chilli pepper (Capsicum annuum) in murine caecum and human faecal cultures. | Mol Biol Rep
+- new | 2022 | 36558841 |  | Cross-Over Pathogenic Bacteria Detected in Infected Tomatoes (Solanum lycopersicum L.) and Peppers (Capsicum annuum L.) in Bulgaria. | Pathogens
+- new | 2022 | 36278231 |  | Capsaicin suppresses ciliary function, while inducing permeability in bronchial epithelial cell cultures of COPD patients. | Front Pharmacol
+- new | 2022 | 36098201 |  | Effects of Chitosan and Silica Nanoparticles Against the Development and Growth of Red Chilli Anthracnose Disease Colletotrichum sp. | Pak J Biol Sci
+- new | 2022 | 36381475 |  | The Effects of Capsinoids and Fermented Red Pepper Paste Supplementation on Lipid Profile: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Clin Nutr Res
+- new | 2022 | 33998315 |  | Use of Capsaicin Cream in Cannabinoid Hyperemesis Syndrome in Patients Presenting to the Emergency Department. | Ann Pharmacother
+- new | 2022 | 34383610 |  | Capsaicin and Its Effects on Body Weight. | J Am Nutr Assoc
+- new | 2021 | 33383571 | Systematic Review | Capsaicinoid and Capsinoids as an Ergogenic Aid: A Systematic Review and the Potential Mechanisms Involved. | Int J Sports Physiol Perform
+- new | 2021 | 34295428 |  | Is there clinical value in performing capsaicin cough challenges in patients with severe asthma? | Breathe (Sheff)
+- new | 2021 | 33045140 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Double-blinded randomized prospective trial of intranasal capsaicin treatment for nonallergic rhinitis. | Int Forum Allergy Rhinol
+- new | 2021 | 34012530 |  | Skin reaction to capsaicin in patients with systemic lupus erythematosus compared to healthy controls. | Caspian J Intern Med
+- new | 2021 | 33063385 | Meta-Analysis/Systematic Review | The effect of Capsaicinoids or Capsinoids in red pepper on thermogenesis in healthy adults: A systematic review and meta-analysis. | Phytother Res
+- new | 2021 | 33129596 | Meta-Analysis/Systematic Review | The effects of capsinoids and fermented red pepper paste supplementation on blood pressure: A systematic review and meta-analysis of randomized controlled trials. | Clin Nutr
+- new | 2021 | 33423091 |  | Skin sensitivity to capsaicin, perceived stress and burn out among patients with building-related symptoms. | Int Arch Occup Environ Health
+- new | 2021 | 34487384 | Meta-Analysis/Systematic Review | The effects of capsinoids and fermented red pepper paste supplementation on Glycaemic Control: A systematic review and meta-analysis of randomised controlled trials. | Int J Clin Pract
+- new | 2021 | 33076710 | Research Support, Non-U.S. Gov't | Impact of capsaicin concentration evoking coughs on clinical variables in patients with asthma. | Exp Lung Res
+- new | 2021 | 32838710 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of Capsinoids Supplementation on Fat Oxidation and Muscle Glycogen Restoration During Post-exercise Recovery in Humans. | Curr Pharm Des
+- new | 2021 | 33966493 |  | Dose Escalation and Safety of Capsaicin for Cerebral Perfusion Augmentation: A Pilot Study. | Stroke
+- new | 2021 | 34329455 | Randomized Controlled Trial | Effect of Pregabalin on the Median Effective Plasma Concentration of Intravenous Alfentanil in Capsaicin-Induced Pain. | Pain Med
+- new | 2021 | 33524549 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of Topical Analgesia on Desensitization Following 8% Topical Capsaicin Application. | J Pain
+- new | 2021 | 32578488 | Randomized Controlled Trial | Influence of a Novel Food-Grade Formulation of Red Chili Extract (Capsicum annum) on Overweight Subjects: Randomized, Double-Blinded, Placebo-Controlled Study. | J Diet Suppl
+- new | 2020 | 32693427 | Randomized Controlled Trial | Capsaicin Supplementation during High-intensity Continuous Exercise: A Double-blind Study. | Int J Sports Med
+- new | 2020 | 31280931 |  | Aural stimulation with capsaicin prevented pneumonia in dementia patients. | Auris Nasus Larynx
+- new | 2020 | 32801493 |  | Ameliorative effects of ascorbic acid on tolerance to drought stress on pepper (Capsicum annuum L) plants. | Physiol Mol Biol Plants
+- new | 2020 | 32293119 | Letter/Comment | Trans-capsaicin for Pain Reduction and Improvement in Function in Patients With Knee Osteoarthritis: Comment on the Article by Stevens et al. | Arthritis Rheumatol
+- new | 2020 | 33291700 | Randomized Controlled Trial | Acute Effects of Red Chili, a Natural Capsaicin Receptor Agonist, on Gastric Accommodation and Upper Gastrointestinal Symptoms in Healthy Volunteers and Gastroesophageal Reflux Dis | Nutrients
+- new | 2020 | 32569429 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A Pilot Trial of Topical Capsaicin Cream for Treatment of Cannabinoid Hyperemesis Syndrome. | Acad Emerg Med
+- new | 2020 | 32221866 |  | Efficacy and Safety of Diclofenac + Capsaicin Gel in Patients with Acute Back/Neck Pain: A Multicenter Randomized Controlled Study. | Pain Ther
+- new | 2020 | 32022628 |  | Daily auricular stimulation with capsaicin ointment improved cough reflex sensitivity in elderly patients with dysphagia: a pilot study. | Acta Otolaryngol
+- new | 2020 | 32757479 | Randomized Controlled Trial | Capsaicin combined with ice stimulation improves swallowing function in patients with dysphagia after stroke: A randomised controlled trial. | J Oral Rehabil
+- new | 2020 | 31990201 | Comparative Study/Research Support, Non-U.S. Gov't | Increased Capsaicin Sensitivity in Patients with Severe Asthma Is Associated with Worse Clinical Outcome. | Am J Respir Crit Care Med
+- new | 2019 | 31199524 | Comparative Study | Comparison of pruritus and sensory qualities induced by capsaicin, histamine and cowhage. | J Eur Acad Dermatol Venereol
+- new | 2019 | 31519301 | Randomized Controlled Trial | [Capsaicin topical cream (8%) for the treatment of myofascial pain syndrome]. | Braz J Anesthesiol [por]
+- new | 2019 | 30956054 | Randomized Controlled Trial | Effects of capsaicin on swallowing function in stroke patients with dysphagia: A randomized controlled trial. | J Stroke Cerebrovasc Dis
+- new | 2019 | 30788278 |  | Skin inflammatory reactions to capsaicin in rheumatoid arthritis patients compared to healthy controls. | Avicenna J Phytomed
+- new | 2019 | 31904325 |  | Treatment of Notalgia Paresthetica with Bee Venom and Capsaicin: A Pilot Study with 20 Patients. | Skinmed
+- new | 2019 | 31552721 |  | Age and Sex Distribution of Chinese Chronic Cough Patients and Their Relationship With Capsaicin Cough Sensitivity. | Allergy Asthma Immunol Res
+- new | 2019 | 30978271 |  | Region-Specific Effects of Trigeminal Capsaicin Stimulation. | J Oral Facial Pain Headache
+- new | 2019 | 30660644 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Allergen challenge increases capsaicin-evoked cough responses in patients with allergic asthma. | J Allergy Clin Immunol
+- new | 2019 | 30736083 | Clinical Trial, Phase II/Randomized Controlled Trial | Efficacy of a Homeopathic Medicine of Capsicum frutescens L. (Solanaceae) in the Treatment of Hot Flashes in Menopausal Women: A Phase-2 Randomized Controlled Trial. | Homeopathy
+- new | 2018 | 27575891 | Review | Topical capsaicin for pain in osteoarthritis: A literature review. | Reumatol Clin (Engl Ed) [eng,spa]
+- new | 2018 | 28682933 | Randomized Controlled Trial | Acute Capsaicin Supplementation Improves Resistance Training Performance in Trained Men. | J Strength Cond Res
+- new | 2018 | 29915934 |  | Novel capsaicin-induced parameters of microcirculation in migraine patients revealed by imaging photoplethysmography. | J Headache Pain
+- new | 2018 | 28712109 |  | Therapeutic effect of capsaicin nasal treatment in patients with mixed rhinitis unresponsive to intranasal steroids. | Allergy
+- new | 2018 | 29314034 | Comparative Study | Effect of drying methods (microwave vacuum, freeze, hot air and sun drying) on physical, chemical and nutritional attributes of five pepper (Capsicum annuum var. annuum) cultivars. | J Sci Food Agric
+- new | 2018 | 29408386 |  | Tiotropium Attenuates Refractory Cough and Capsaicin Cough Reflex Sensitivity in Patients with Asthma. | J Allergy Clin Immunol Pract
+- new | 2018 | 32734059 |  | Performance and blood biochemistry profile of broiler chickens fed dietary turmeric (Curcuma longa) powder and cayenne pepper (Capsicum frutescens) powders as antioxidants. | Vet Anim Sci
+- new | 2017 | 29198921 | Review | Research progress of capsaicin responses to various pharmacological challenges. | Biomed Pharmacother
+- new | 2017 | 28436279 | Multicenter Study | Treatment of painful radiculopathies with capsaicin 8% cutaneous patch. | Curr Med Res Opin
+- new | 2017 | 28319947 | Comparative Study/Randomized Controlled Trial | Effects of Capsaicin on Older Patients with Oropharyngeal Dysphagia: A Double-Blind, Placebo-Controlled, Crossover Study. | Digestion
+- new | 2017 | 28437553 |  | Genotype x environment interaction on experimental hybrids of chili pepper. | Genet Mol Res
+- new | 2017 | 28392320 | Randomized Controlled Trial | Contrasting effects of ATP and adenosine on capsaicin challenge in asthmatic patients. | Pulm Pharmacol Ther
+- new | 2017 | 28007005 | Randomized Controlled Trial | Analgesic effect of topical oral capsaicin gel in burning mouth syndrome. | Acta Odontol Scand
+- new | 2017 | 28547912 | Clinical Trial | Clinical characteristics of functional dyspepsia depending on chemosensitivity to capsaicin. | Neurogastroenterol Motil
+- new | 2017 | 27444176 |  | Capsaicin-evoked cough responses in asthmatic patients: Evidence for airway neuronal dysfunction. | J Allergy Clin Immunol
+- new | 2017 | 28389389 | Randomized Controlled Trial | Enhanced chemosensory sensitivity in patients with idiopathic rhinitis and its reversal by nasal capsaicin treatment. | J Allergy Clin Immunol
+- new | 2017 | 28917374 | Randomized Controlled Trial | Short-term effect of add on bell pepper (Capsicum annuum var. grossum) juice with integrated approach of yoga therapy on blood glucose levels and cardiovascular functions in patien | Complement Ther Med
+- new | 2017 | 29180855 | Comparative Study/Randomized Controlled Trial | Aural stimulation with capsaicin ointment improved swallowing function in elderly patients with dysphagia: a randomized, placebo-controlled, double-blind, comparative study. | Clin Interv Aging
+- new | 2017 | 27830370 |  | Perceptual distortion of the tongue by lingual nerve block and topical application of capsaicin in healthy women. | Clin Oral Investig
+- new | 2017 | 26360825 | Randomized Controlled Trial | The metabolic effects of a commercially available chicken peri-peri (African bird's eye chilli) meal in overweight individuals. | Br J Nutr
+- new | 2017 | 28684276 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Role of capsaicin- and heat-sensitive afferents in stimulation of acupoint-induced pain and analgesia in humans. | Neuroscience
+- new | 2016 | 26666418 | Review | Capsaicin 8 % Patch: A Review in Peripheral Neuropathic Pain. | Drugs
+- new | 2016 | 26822606 |  | Incidence and predictive factors of transaminase elevation in patients consulting for dengue fever in Cayenne Hospital, French Guiana. | Trans R Soc Trop Med Hyg
+- new | 2016 | 27131333 |  | Sleep disturbance and enhanced esophageal capsaicin sensitivity in patients with gastroesophageal reflux disease. | J Gastroenterol Hepatol
+- new | 2016 | 27306849 | Clinical Trial, Phase I | Topical Analgesic Nanolipid Vesicles Formulation of Capsaicinoids Extract of Bhut Jolokia (Capsicum chinense Jacq): Pharmacodynamic Evaluation in Rat Models and Acceptability studi | Curr Drug Deliv
+- new | 2016 | 27676396 | Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Healthy Subjects Differentially Respond to Dietary Capsaicin Correlating with Specific Gut Enterotypes. | J Clin Endocrinol Metab
+- new | 2016 | 27066073 |  | Tolerability of Capsaicinoids from Capsicum Extract in a Beadlet Form: A Pilot Study. | J Toxicol
+- new | 2016 | 28018112 | Randomized Controlled Trial | Influence of capsaicin infusion on secondary peristalsis in patients with gastroesophageal reflux disease. | World J Gastroenterol
+- new | 2016 | 27676676 | Clinical Trial | Effectiveness and Impact of Capsaicin 8% Patch on Quality of Life in Patients with Lumbosacral Pain: An Open-label Study. | Pain Physician
+- new | 2016 | 28938048 | Research Support, Non-U.S. Gov't | A predictive score for hypotension in patients with confirmed dengue fever in Cayenne Hospital, French Guiana. | Trans R Soc Trop Med Hyg
+- new | 2016 | 26981859 | Research Support, Non-U.S. Gov't | Incidence and Predictive Factors of Central Nervous System Dysfunction in Patients Consulting for Dengue Fever in Cayenne Hospital, French Guiana. | PLoS One
+- new | 2015 | 26171907 | Research Support, Non-U.S. Gov't/Systematic Review | Capsaicin for non-allergic rhinitis. | Cochrane Database Syst Rev
+- new | 2015 | 25521547 | Letter | Topical capsaicin response as a phenotypic measure in patients with pain. | Pain Med
+- new | 2015 | 25807130 | Randomized Controlled Trial | Liposomal topical capsaicin in post-herpetic neuralgia: a safety pilot study. | Arq Neuropsiquiatr
+- new | 2015 | 25468411 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Cough reduction using capsaicin. | Respir Med
+- new | 2015 | 26244434 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Spatial and Temporal Effects of Capsaicin and Menthol on Intraoral Somatosensory Sensitivity. | J Oral Facial Pain Headache
+- new | 2015 | 24819823 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Gender differences in itch and pain-related sensations provoked by histamine, cowhage and capsaicin. | Acta Derm Venereol
+- new | 2015 | 25387448 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Cerebral Networks Linked to Itch-related Sensations Induced by Histamine and Capsaicin. | Acta Derm Venereol
+- new | 2014 | 23909699 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Inhibition of capsaicin-driven nasal hyper-reactivity by SB-705498, a TRPV1 antagonist. | Br J Clin Pharmacol
+- new | 2014 | 24941673 | Review | Capsaicin for osteoarthritis pain. | Prog Drug Res
+- new | 2014 | 23765045 | Meta-Analysis/Research Support, Non-U.S. Gov't | Qutenza (capsaicin) 8% patch onset and duration of response and effects of multiple treatments in neuropathic pain patients. | Clin J Pain
+- new | 2014 | 25060156 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of orally administered potentized capsaicin and dihydrocapsaicin in humans: a homeopathic pathogenetic trial. | Forsch Komplementmed
+- new | 2013 | 23331421 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | Somatosensory profiling of intra-oral capsaicin and menthol in healthy subjects. | Eur J Oral Sci
+- new | 2013 | 23448366 |  | Capsaicin sensitivity in patients with chronic cough- results from a cross-sectional study. | Cough
+- HELD REF-3487 | 2012 | 22972149 | Research Support, Non-U.S. Gov't/Systematic Review | Topical capsaicin (low concentration) for chronic neuropathic pain in adults. | Cochrane Database Syst Rev
+- new | 2012 | 23037991 | Research Support, Non-U.S. Gov't/Review | Capsaicin for neuropathic pain: linking traditional medicine and molecular biology. | Eur Neurol
+- new | 2012 | 21743415 | Randomized Controlled Trial | Application of a capsaicin rinse in the treatment of burning mouth syndrome. | Med Oral Patol Oral Cir Bucal
+- new | 2011 | 21034170 |  | Cough reflex induced by capsaicin inhalation in patients with dysphagia. | Acta Otolaryngol
+- new | 2011 | 21883698 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A placebo-controlled trial of an oral capsaicin load in patients with functional dyspepsia. | Neurogastroenterol Motil
+- new | 2011 | 21573941 | Randomized Controlled Trial | Effect of red pepper on symptoms of irritable bowel syndrome: preliminary study. | Dig Dis Sci
+- new | 2010 | 21128913 | Research Support, Non-U.S. Gov't/Systematic Review | Systematic review of topical capsaicin in the treatment of pruritus. | Int J Dermatol
+- new | 2010 | 20082485 | Research Support, Non-U.S. Gov't | Genetic variants involved in gallstone formation and capsaicin metabolism, and the risk of gallbladder cancer in Chilean women. | World J Gastroenterol
+- new | 2010 | 20506713 | Research Support, Non-U.S. Gov't | Some physiological measurements on growth, pod yields and polyamines in leaves of chili plants (Capsicum annuum cv. Hua Reua) in relation to applied organic manures and chemical fe | Pak J Biol Sci
+- new | 2010 | 20618832 | Research Support, Non-U.S. Gov't | Effects of capsaicin-containing red pepper sauce suspension on esophageal secondary peristalsis in humans. | Neurogastroenterol Motil
+- new | 2009 | 19260251 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Pharmacokinetic and the effect of capsaicin in Capsicum frutescens on decreasing plasma glucose level. | J Med Assoc Thai
+- new | 2009 | 19692100 |  | Parallel evolutions of the growth rate of newly diagnosed HIV cases and the proportion of potentially infective patients in Cayenne French Guiana: should HAART be used to curb the  | Public Health
+- new | 2008 | 18379191 | Comment/Letter | Re: Red hot chilli consumption is harmful in patients operated for anal fissure - a randomized, double-blind, controlled study. | Dig Surg
+- new | 2008 | 19068977 |  | [Experience of a pharmacist/activist in Cayenne in 2007: fighting HIV/AIDS through prevention and care. A look at women]. | Med Trop (Mars) [fre]
+- new | 2008 | 19149363 | Randomized Controlled Trial | Consumption of red-hot chili pepper increases symptoms in patients with acute anal fissures. | Ann Ital Chir
+- new | 2008 | 18162423 | Comparative Study/Randomized Controlled Trial/Research Support, N.I.H., Extramural | Interactions between glutamate and capsaicin in inducing muscle pain and sensitization in humans. | Eur J Pain
+- new | 2007 | 17207073 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Influence of topical capsaicin on facial sensitivity in response to experimental pain. | J Oral Rehabil
+- new | 2006 | 16612838 | Clinical Trial/Comparative Study/Research Support, Non-U.S. Gov't | Capsaicin and glucose absorption and utilization in healthy human subjects. | Eur J Pharmacol
+- new | 2006 | 16931685 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The analgesic effects of capsicum plaster at the Zusanli point after abdominal hysterectomy. | Anesth Analg
+- new | 2006 | 16625604 | Systematic Review | Capsaicin for allergic rhinitis in adults. | Cochrane Database Syst Rev
+- new | 2006 | 17072066 | Evaluation Study/Research Support, Non-U.S. Gov't | Reliability of the capsaicin cough reflex sensitivity test in healthy children. | J Physiol Pharmacol
+- new | 2006 | 16699276 | Randomized Controlled Trial | Gastroesophageal reflux in healthy subjects induced by two different species of chilli (Capsicum annum). | Dig Dis
+- new | 2005 | 16002935 | Review | Safety of capsaicin cough challenge testing. | Chest
+- new | 2005 | 15795352 | Comment/Letter | Capsaicin cream unpopular with patients. | Arch Intern Med
+- new | 2004 | 15033881 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Systematic review of topical capsaicin for the treatment of chronic pain. | BMJ
+- new | 2003 | 12809862 | Clinical Trial/Comparative Study/Letter/Randomized Controlled Trial | Chili pepper and rectal hyperalgesia in irritable bowel syndrome. | Am J Gastroenterol
+- new | 2003 | 14649970 | Research Support, Non-U.S. Gov't | Effect of chili pepper (Capsicum frutescens) ingestion on plasma glucose response and metabolic rate in Thai women. | J Med Assoc Thai
+- new | 2001 | 11765591 | Clinical Trial/Randomized Controlled Trial | Capsicum pain plaster in chronic non-specific low back pain. | Arzneimittelforschung
+- new | 2001 | 11676017 |  | CH-19 sweet, a non-pungent cultivar of red pepper, increased body temperature and oxygen consumption in humans. | Biosci Biotechnol Biochem
+- new | 2000 | 10666547 | Comparative Study/Research Support, Non-U.S. Gov't | Intramuscular and intradermal injection of capsaicin: a comparison of local and referred pain. | Pain
+- new | 2000 | 11097593 | Clinical Trial/Randomized Controlled Trial | Clinical effects of oleoresin capsicum (pepper spray) on the human cornea and conjunctiva. | Ophthalmology
+- new | 2000 | 11064608 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Peripheral lidocaine but not ketamine inhibits capsaicin-induced hyperalgesia in humans. | Br J Anaesth
+- new | 2000 | 11203735 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Topical application of capsaicin for the treatment of localized pain in the temporomandibular joint area. | J Orofac Pain
+- new | 2000 | 10858984 | Clinical Trial/Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Quality of life and capsaicin sensitivity in patients with sensory airway hyperreactivity. | Allergy
+- new | 1999 | 10473984 | Meta-Analysis/Research Support, Non-U.S. Gov't | Intravesical instillation of capsaicin in urology: A review of the literature. | Eur Urol
+- new | 1999 | 10743483 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of red pepper on appetite and energy intake. | Br J Nutr
+- new | 1999 | 10360450 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Intravesical capsaicin in patients with detrusor hyper-reflexia--a placebo-controlled cross-over study. | Scand J Urol Nephrol
+- new | 1998 | 9471038 | Clinical Trial/Research Support, Non-U.S. Gov't | Treating the human bladder with capsaicin: is it safe? | Eur Urol
+- new | 1998 | 9795827 | Research Support, Non-U.S. Gov't/Review | Desensitization of bladder sensory fibers by intravesical capsaicin or capsaicin analogs. A new strategy for treatment of urge incontinence in patients with spinal detrusor hyperre | Int Urogynecol J Pelvic Floor Dysfunct
+- new | 1996 | 8843511 | Clinical Trial/Comparative Study/Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Cough threshold for capsaicin increases by azelastine in patients with cough-variant asthma. | Pulm Pharmacol
+- new | 1995 | 7829721 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Successful treatment of notalgia paresthetica with topical capsaicin: vehicle-controlled, double-blind, crossover study. | J Am Acad Dermatol
+- new | 1995 | 7596627 | Research Support, Non-U.S. Gov't | Noradrenaline increases hyperalgesia to heat in skin sensitized by capsaicin. | Pain
+- new | 1995 | 7563356 | Clinical Trial/Research Support, Non-U.S. Gov't | Clinical and urodynamic effects of intravesical capsaicin treatment in patients with chronic traumatic spinal detrusor hyperreflexia. | J Urol
+- new | 1995 | 10150323 | Clinical Trial/Comparative Study/Multicenter Study/Randomized Controlled Trial | A double-blind comparison of topical capsaicin and oral amitriptyline in painful diabetic neuropathy. | Adv Ther
+- new | 1995 | 7895549 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Chili protects against aspirin-induced gastroduodenal mucosal injury in humans. | Dig Dis Sci
+- new | 1995 | 8577495 | Research Support, Non-U.S. Gov't | Capsaicin-induced flare and vasodilatation in patients with post-herpetic neuralgia. | Pain
+- new | 1994 | 7824425 | Case Reports/Clinical Trial/Controlled Clinical Trial | The use of capsaicin cream in a case of erythromelalgia. | Postgrad Med J
+- new | 1994 | 7708405 | Clinical Trial/Randomized Controlled Trial | Preventative effect of repeated nasal applications of capsaicin in cluster headache. | Pain
+- new | 1993 | 8094188 | Clinical Trial/Letter/Randomized Controlled Trial | Capsaicin and swallowing reflex. | Lancet
+- new | 1993 | 7688774 | Clinical Trial/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A double-blind evaluation of topical capsaicin in pruritic psoriasis. | J Am Acad Dermatol
+- new | 1993 | 8495452 | Clinical Trial/Randomized Controlled Trial | A double-blind placebo-controlled trial of intranasal capsaicin for cluster headache. | Cephalalgia
+- new | 1993 | 8364943 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | A randomized vehicle-controlled trial of topical capsaicin in the treatment of postherpetic neuralgia. | Clin Ther
+- new | 1992 | 1491864 | Clinical Trial/Randomized Controlled Trial | The postmastectomy pain syndrome and topical capsaicin: a randomized trial. | Pain
+- new | 1992 | 1538174 | Clinical Trial/Letter | Adverse effects of topical capsaicin in refractory cervicobrachial pain. | J Pain Symptom Manage
+- new | 1992 | 1737537 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Topical capsaicin in painful diabetic neuropathy. Effect on sensory function. | Diabetes Care
+- new | 1992 | 1375648 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of topical capsaicin in the therapy of painful osteoarthritis of the hands. | J Rheumatol
+- new | 1991 | 1953227 | Clinical Trial/Comparative Study/Multicenter Study/Randomized Controlled Trial | Treatment of painful diabetic neuropathy with topical capsaicin. A multicenter, double-blind, vehicle-controlled study. The Capsaicin Study Group. | Arch Intern Med
+- new | 1991 | 1954640 | Clinical Trial/Comparative Study/Multicenter Study/Randomized Controlled Trial | Treatment of arthritis with topical capsaicin: a double-blind trial. | Clin Ther
+- new | 1990 | 2221851 | Case Reports/Clinical Trial/Letter/Randomized Controlled Trial | Capsaicin for the treatment of pain in Guillain-Barré syndrome. | Ann Neurol
+- new | 1984 | 6423016 | Clinical Trial/Randomized Controlled Trial | Capsaicin inhalation in man and the effects of sodium cromoglycate. | Br J Pharmacol
+
+### PubMed SR - 90 hits, 73 not already listed above, 67 new
+- new | 2026 | 42237588 | Systematic Review/Meta-Analysis | 8% capsaicin patches for HIV-induced polyneuropathy: a systematic review and meta-analysis. | Pain Manag
+- new | 2026 | 42653103 | Systematic Review/Meta-Analysis | Capsaicin for Orofacial Pain Management: Systematic Review and Meta-Analysis. | Int J Mol Sci
+- new | 2026 | 42816054 | Meta-Analysis | Effects of acute Capsaicin analogue intake on athletic performance: a three-level meta-analysis. | J Int Soc Sports Nutr
+- new | 2026 | 41505853 | Systematic Review/Meta-Analysis | Potential ergogenic aid of capsaicinoid or capsinoids in healthy adults: a systematic review with meta-analysis. | Nutr Res
+- new | 2026 | 41183689 | Systematic Review/Research Support, Non-U.S. Gov't | Refining capsaicin-induced pain models: A comprehensive analysis of preclinical practices and their translational potential. | Neurosci Biobehav Rev
+- new | 2026 | 42003158 | Systematic Review | Systematic Review of Topical Capsaicin 0.075% for the Treatment of Neuropathic Pain: Efficacy, Safety, and Tolerability. | J Assoc Physicians India
+- new | 2026 | 41281261 |  | High-concentration (8%) capsaicin patch for chronic postoperative neuropathic pain: A systematic review of randomised controlled trials. | Br J Pain
+- new | 2026 | 43032958 | Systematic Review/Review | Aflatoxin Risks in Ethiopia's Food Supply Chain: A Systematic Review of Evidence From Maize, Groundnut, Red Pepper, and Milk. | ScientificWorldJournal
+- new | 2026 | 42499217 | Systematic Review | Is Capsaicin Effective in Relieving the Symptoms of Burning Mouth Syndrome? A Systematic Review. | J Oral Rehabil
+- new | 2026 | 41607647 | Review | Is the Quantity of Capsaicin in Food Related to Its Organoleptic and Sensory Effects? A Systematic Review. | Food Sci Nutr
+- new | 2026 | 42791455 | Systematic Review | Potentially toxic element contamination in Ghana's vegetable value chain: a systematic review of mining-related soil-to-food transfer and human health risk. | Environ Monit Assess
+- new | 2026 | 42186269 | Review/Meta-Analysis | Attenuation of Adaptive Thermogenesis by a Culinary Dose of Red Pepper During 24-Hour Negative Energy Balance. | Nutr Rev
+- new | 2025 | 40509497 | Review | A Comprehensive Review on Characterization of Pepper Seeds: Unveiling Potential Value and Sustainable Agrifood Applications. | Foods
+- new | 2025 | 39898296 | Review | Narrative review of the efficacy and safety of the high-concentration (179mg) capsaicin patch in peripheral neuropathic pain with recommendations for clinical practice and future r | Pain Rep
+- new | 2024 | 38810602 | Systematic Review/Research Support, Non-U.S. Gov't | Genetic Influence on Capsaicin Tolerance: Precision Nutrition Implications for Obesity Handling. | Lifestyle Genom
+- new | 2024 | 39422806 | Systematic Review/Meta-Analysis | Efficacy of Capsaicin for Non-allergic Rhinitis: An Updated Systematic Review and Meta-analysis. | Clin Rev Allergy Immunol
+- HELD REF-3488 | 2024 | 38761115 | Meta-Analysis/Systematic Review | Efficacy and safety of topical capsaicin in the treatment of osteoarthritis pain: A systematic review and meta-analysis. | Phytother Res
+- new | 2024 | 39307549 | Meta-Analysis | Lactational performance and hematological effects of capsaicin supplementation in dairy cows: A meta-analysis. | J Dairy Sci
+- new | 2024 | 39160046 | Meta-Analysis/Research Support, Non-U.S. Gov't | Global analysis of spatio-temporal variation in mineral nutritional quality of pepper (Capsicum spp.) fruit and its regulatory variables: A meta-analysis. | Food Res Int
+- new | 2024 | 39576289 | Meta-Analysis/Systematic Review | Randomized controlled trials of the effects of capsaicin or menthol on irritable bowel syndrome: a systematic review and meta-analysis. | Food Funct
+- new | 2024 | 37391387 | Systematic Review/Research Support, Non-U.S. Gov't | SAEM GRACE: Dopamine antagonists and topical capsaicin for cannabis hyperemesis syndrome in the emergency department: A systematic review of direct evidence. | Acad Emerg Med
+- new | 2024 | 39589498 | Systematic Review | The efficacy of topical 8% capsaicin patches for the treatment of postsurgical neuropathic pain: a systematic review. | Pain Manag
+- new | 2024 | 38612314 |  | Capsaicin as a Dietary Additive for Dairy Cows: A Meta-Analysis on Performance, Milk Composition, Digestibility, Rumen Fermentation, and Serum Metabolites. | Animals (Basel)
+- new | 2023 | 37373321 | Systematic Review | A Systematic Review of the Effects of Capsaicin on Alzheimer's Disease. | Int J Mol Sci
+- new | 2023 | 37435696 | Systematic Review | Topical capsaicin for the management of painful diabetic neuropathy: a narrative systematic review. | Pain Manag
+- new | 2023 | 36938807 | Meta-Analysis/Systematic Review/Research Support, Non-U.S. Gov't | The effects of capsaicin intake on weight loss among overweight and obese subjects: a systematic review and meta-analysis of randomised controlled trials. | Br J Nutr
+- new | 2023 | 35038885 | Meta-Analysis/Review | Chili pepper intake and all-cause and disease-specific mortality. | Int J Vitam Nutr Res
+- HELD REF-3491 | 2023 | 37344950 | Meta-Analysis/Systematic Review | The effects of Capsicum annuum supplementation on lipid profiles in adults with metabolic syndrome and related disorders: A systematic review and meta-analysis of randomized contro | Phytother Res
+- new | 2022 | 36111960 | Research Support, Non-U.S. Gov't/Systematic Review | Spicy Food and Chili Peppers and Multiple Health Outcomes: Umbrella Review. | Mol Nutr Food Res
+- new | 2022 | 36407551 | Systematic Review | Association between chili pepper consumption and risk of gastrointestinal-tract cancers: A meta-analysis. | Front Nutr
+- new | 2022 | 36425319 | Systematic Review | The therapeutic effect of capsaicin on oropharyngeal dysphagia: A systematic review and meta-analysis. | Front Aging Neurosci
+- new | 2022 | 35912207 | Systematic Review | Capsaicin: A Two-Decade Systematic Review of Global Research Output and Recent Advances Against Human Cancer. | Front Oncol
+- new | 2022 | 35299764 | Systematic Review | Lipid-Lowering Efficacy of the Capsaicin in Patients With Metabolic Syndrome: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Front Nutr
+- new | 2022 | 35221149 | Scoping Review | Therapeutic applications of capsaicin in humans to target conditions of the respiratory system: A scoping review. | Respir Med
+- new | 2022 | 36513480 | Systematic Review/Meta-Analysis | The effects of capsinoids supplementation on body composition and anthropometric measures: A systematic review and dose-response meta-analysis of randomized controlled trials. | Clin Nutr ESPEN
+- new | 2022 | 34028311 |  | Flavor components, precursors, formation mechanisms, production and characterization methods: garlic, onion, and chili pepper flavors. | Crit Rev Food Sci Nutr
+- new | 2021 | 32241189 | Meta-Analysis/Research Support, Non-U.S. Gov't | Chili Consumption and Risk of Gastric Cancer: A Meta-Analysis. | Nutr Cancer
+- new | 2021 | 34171094 | Research Support, Non-U.S. Gov't/Scoping Review | Signaling Targets Related to Antiobesity Effects of Capsaicin: A Scoping Review. | Adv Nutr
+- new | 2021 | 33787049 | Meta-Analysis | The correlation between chili pepper consumption and gastric cancer risk: A meta-analysis. | Asia Pac J Clin Nutr
+- new | 2021 | 33493995 | Meta-Analysis/Systematic Review | Topical capsaicin for the treatment of cannabinoid hyperemesis syndrome, a systematic review and meta-analysis. | Am J Emerg Med
+- new | 2021 | 34603712 | Review | Meta-analysis evaluating the impact of chili-pepper intake on all-cause and cardiovascular mortality: A systematic review. | Ann Med Surg (Lond)
+- new | 2021 | 34676607 | Meta-Analysis/Systematic Review | The effect of red pepper/capsaicin on blood pressure and heart rate: A systematic review and meta-analysis of clinical trials. | Phytother Res
+- new | 2021 | 33609025 | Systematic Review | Capsaicin intake and oral carcinogenesis: A systematic review. | Med Oral Patol Oral Cir Bucal
+- new | 2021 | 34734503 | Review | Utility of Cough Provocation Tests in Chronic Cough and Respiratory Diseases: A Comprehensive Review and Introduction of New Reference Ranges for the Capsaicin Test. | Allergy Asthma Immunol Res
+- new | 2021 | 33657876 | Meta-Analysis/Systematic Review | Association of Spicy Chilli Food Consumption With Cardiovascular and All-Cause Mortality: A Meta-Analysis of Prospective Cohort Studies. | Angiology
+- new | 2021 | 34461799 | Research Support, Non-U.S. Gov't/Scoping Review | Capsaicin 179-mg cutaneous patch in the treatment of post-surgical neuropathic pain: a scoping review of current evidence and place in therapy. | Expert Rev Neurother
+- new | 2021 | 33998636 | Meta-Analysis/Systematic Review | Short- and long-term effects of capsaicin supplementation on glycemic control: a systematic review and meta-analysis of controlled trials. | Food Funct
+- new | 2021 | 33198614 | Systematic Review | Topical Capsaicin for the Treatment of Neuropathic Pain. | Curr Drug Metab
+- new | 2021 | 34451751 |  | Possible Overestimation of Seed Transmission in the Spread of Pospiviroids in Commercial Pepper and Tomato Crops Based on Large-Scale Grow-Out Trials and Systematic Literature Revi | Plants (Basel)
+- HELD REF-3490 | 2020 | 33262398 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Effects of Capsicum annuum supplementation on the components of metabolic syndrome: a systematic review and meta-analysis. | Sci Rep
+- new | 2020 | 32659321 | Systematic Review | High-Dose 8% Capsaicin Patch in Treatment of Chemotherapy-Induced Peripheral Neuropathy. A Systematic Review. | J Pain Symptom Manage
+- new | 2020 | 32537152 |  | The use of high dose topical capsaicin in the management of peripheral neuropathy: narrative review and local experience. | Br J Pain
+- new | 2020 | 32534009 | Systematic Review | Red-hot chili receptors: A systematic review of TRPV1 antagonism in animal models of psychiatric disorders and addiction. | Behav Brain Res
+- new | 2019 | 30624591 | Research Support, Non-U.S. Gov't/Systematic Review | Activation of Human Brown Adipose Tissue by Capsinoids, Catechins, Ephedrine, and Other Dietary Components: A Systematic Review. | Adv Nutr
+- new | 2019 | 31533291 | Systematic Review | Appetite-Suppressing and Satiety-Increasing Bioactive Phytochemicals: A Systematic Review. | Nutrients
+- new | 2019 | 31104487 | Systematic Review | Efficacy of Capsaicin for the Treatment of Cannabinoid Hyperemesis Syndrome: A Systematic Review. | Ann Pharmacother
+- new | 2018 | 30172837 | Comparative Study/Research Support, Non-U.S. Gov't/Review/Network Meta-Analysis | The relative efficacy of topical non-steroidal anti-inflammatory drugs and capsaicin in osteoarthritis: a network meta-analysis of randomised controlled trials. | Osteoarthritis Cartilage
+- new | 2018 | 28001433 | Meta-Analysis/Review | Capsaicin and capsiate could be appropriate agents for treatment of obesity: A meta-analysis of human studies. | Crit Rev Food Sci Nutr
+- new | 2017 | 28365034 | Systematic Review/Network Meta-Analysis | Capsaicin 8% Patch Versus Oral Neuropathic Pain Medications for the Treatment of Painful Diabetic Peripheral Neuropathy: A Systematic Literature Review and Network Meta-analysis. | Clin Ther
+- HELD REF-0057 | 2017 | 28085183 | Research Support, Non-U.S. Gov't/Systematic Review | Topical capsaicin (high concentration) for chronic neuropathic pain in adults. | Cochrane Database Syst Rev
+- new | 2016 | 28119613 | Review | The Effectiveness and Safety of Topical Capsaicin in Postherpetic Neuralgia: A Systematic Review and Meta-analysis. | Front Pharmacol
+- new | 2016 | 27686859 |  | Relative efficacy of topical non-steroidal anti-inflammatory drugs and topical capsaicin in osteoarthritis: protocol for an individual patient data meta-analysis. | Syst Rev
+- new | 2015 | 25503598 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Predictors of Response in Patients With Postherpetic Neuralgia and HIV-Associated Neuropathy Treated With the 8% Capsaicin Patch (Qutenza). | Clin J Pain
+- new | 2014 | 24756832 | Meta-Analysis/Research Support, Non-U.S. Gov't | The impact of capsaicin intake on risk of developing gastric cancers: a meta-analysis. | J Gastrointest Cancer
+- HELD REF-0057 | 2013 | 23450576 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Topical capsaicin (high concentration) for chronic neuropathic pain in adults. | Cochrane Database Syst Rev
+- new | 2013 | 23707278 | Meta-Analysis/Research Support, Non-U.S. Gov't | Efficacy of Qutenza® (capsaicin) 8% patch for neuropathic pain: a meta-analysis of the Qutenza Clinical Trials Database. | Pain
+- new | 2012 | 22634197 | Systematic Review | Capsaicinoids and capsinoids. A potential role for weight management? A systematic review of the evidence. | Appetite
+- new | 2012 | 22038945 | Meta-Analysis/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Systematic Review | The effects of capsaicin and capsiate on energy balance: critical review and meta-analyses of studies in humans. | Chem Senses
+- new | 2012 | 21753727 | Meta-Analysis/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | NGX-4010, a capsaicin 8% dermal patch, administered alone or in combination with systemic neuropathic pain medications, reduces pain in patients with postherpetic neuralgia. | Clin J Pain
+- HELD REF-0010 | 2011 | 21852280 | Review | Topical capsaicin for pain management: therapeutic potential and mechanisms of action of the new high-concentration capsaicin 8% patch. | Br J Anaesth
+- new | 2009 | 19821411 | Meta-Analysis/Systematic Review | Topical capsaicin for chronic neuropathic pain in adults. | Cochrane Database Syst Rev
+- new | 2007 | 17284861 | Randomized Controlled Trial | Enhanced energy expenditure and fat oxidation in humans with high BMI scores by the ingestion of novel and non-pungent capsaicin analogues (capsinoids). | Biosci Biotechnol Biochem
+- new | 1994 | 7995318 | Meta-Analysis | The effectiveness of topically applied capsaicin. A meta-analysis. | Eur J Clin Pharmacol
+
+### PubMed SAFE - 1017 hits, 172 not already listed above, 170 new
+- new | 2026 | 41558189 | Case Reports | "Cayenne pepper" rash - A case of Schamberg disease. | Semergen
+- new | 2026 | 41679993 | Published Erratum | Corrigendum to "Mitigating salt toxicity and overcoming phosphate deficiency alone and in combination in pepper (Capsicum annuum L.) plants through supplementation of hydrogen sulf | J Environ Manage
+- new | 2026 | 42747144 | Review | Population-Level Burden of Dermatitis and the Effects of Moxibustion and Capsaicin on Pruritus and JAK/STAT Signaling in Atopic Dermatitis: A Multilevel Study. | Mediators Inflamm
+- new | 2026 | 41598717 |  | Topical and Mucoadhesive Administration of Capsaicin in the Burning Mouth Syndrome Treatment. | J Clin Med
+- new | 2026 | 42733175 |  | A Study on the Analysis of Microbial Community Characteristics and the Regulation of Safety and Flavor Composition in Homemade Fermented Chili Peppers via Ultrasound-Assisted Ferme | J Food Sci
+- new | 2025 | 40702302 |  | Mechanism of capsaicin entry into buried vanilloid sites in TRPV1. | Nat Chem Biol
+- new | 2025 | 40291151 |  | Efficacy and safety of capsaicin 8% patches: The experience of a rheumatology department. | SAGE Open Med
+- new | 2025 | 40658633 |  | Capsaicin Inhibits Ferroptosis through Facilitating SYVN1-Mediated Ubiquitination and Degradation of ACSL4. | J Agric Food Chem
+- new | 2025 | 40559396 | Review | Capsaicin as a Microbiome Modulator: Metabolic Interactions and Implications for Host Health. | Metabolites
+- new | 2025 | 41066883 |  | Challenges in quality and safety analysis of fresh chili and powder thereof. | J Chromatogr A
+- new | 2025 | 40283094 | Case Reports | "Chili Burn"-A Case Report of Contact Dermatitis Caused by Capsicum Peppers. | Life (Basel)
+- new | 2025 | 40290026 |  | Moderate Chili Consumption During Pregnancy Is Associated with a Low Risk of Gestational Diabetes (GDM). | Nutrients
+- new | 2025 | 41157180 |  | Non-Inferiority Study of Two Capsaicin Formulations for Painful Diabetic Neuropathy. | Life (Basel)
+- new | 2025 | 41264181 |  | Capsaicin, a Vanilloid Derivative, Modulates Arginine Kinase mRNA Expression in Trypanosoma evansi. | Acta Parasitol
+- new | 2025 | 40903781 |  | Separable cryo-microneedle patches delivery with capsaicin integrated mesoporous dopamine for obesity treatment. | J Nanobiotechnology
+- new | 2025 | 41248266 |  | Mild Photothermal Therapy Combined with Capsaicin for Tumor Immunotherapy and Analgesia by Inhibiting TRPV1 Channels. | ACS Appl Mater Interfaces
+- new | 2025 | 40090597 |  | Sulfonation of Capsaicin by sulfotransferases produces an anti-inflammatory metabolite with NF-κB pathway modulatory activity. | Fitoterapia
+- new | 2025 | 39876646 |  | Eco-Friendly Synthesis of Selenium Nanoparticles via Sternbergia candida: Enhancing Antioxidant Defense and Mitigating Salt Stress in Pepper (Capsicum annuum L.) Plants. | ChemistryOpen
+- new | 2025 | 40436091 |  | Integrated physiological, transcriptomics, and metabolite analysis reveal photosynthetic toxicity related to the bisphenol A stress response mechanism in pepper (Capsicum annuum L. | Environ Pollut
+- new | 2025 | 40212532 |  | Safety and efficacy of a feed additive consisting of capsaicin for all animal species (XP Chemistries AB). | EFSA J
+- new | 2024 | 39247424 | Review | Unlocking the potential of capsaicin in oral health (Review). | Biomed Rep
+- new | 2024 | 39226353 | Case Reports/Research Support, N.I.H., Extramural | TRPV1 corneal neuralgia mutation: Enhanced pH response, bradykinin sensitization, and capsaicin desensitization. | Proc Natl Acad Sci U S A
+- new | 2024 | 38744692 | Comparative Study | Genetic tapestry of Capsicum fruit colors: a comparative analysis of four cultivated species. | Theor Appl Genet
+- new | 2024 | 38461717 |  | Screening method for the analysis of Rhodamine B in chili powder. | Food Chem
+- new | 2024 | 39582958 | Case Reports | Cardioneuroablation for the Treatment of Vasovagal Syncope Induced by Chili Pepper Stimulation: A Case Report. | Int Med Case Rep J
+- new | 2024 | 39522253 |  | Metabolic pathways, pharmacokinetic, and brain neurochemicals effects of capsaicin: Comprehensively insights from in vivo studies. | Phytomedicine
+- new | 2024 | 38091729 |  | Mitigating salt toxicity and overcoming phosphate deficiency alone and in combination in pepper (Capsicum annuum L.) plants through supplementation of hydrogen sulfide. | J Environ Manage
+- new | 2024 | 38327014 |  | Relationship Between Pesticide Exposure Factors and Health Symptoms Among Chili Farmers in Northeast Thailand. | J Prev Med Public Health
+- new | 2024 | 37709037 | Randomized Controlled Trial, Veterinary | Effect of a blend of cinnamaldehyde, eugenol, and Capsicum oleoresin on methane emission and lactation performance of Holstein-Friesian dairy cows. | J Dairy Sci
+- new | 2024 | 39614474 | Research Support, Non-U.S. Gov't | Unraveling the impact of disinfection treatment on the microbial community successions and quality attributes of green peppers (Capsicum annuum L.) during storage. | Food Res Int
+- new | 2024 | 38611445 |  | Potential of Chitosan for the Control of Powdery Mildew (Leveillula taurica (Lév.) Arnaud) in a Jalapeño Pepper (Capsicum annuum L.) Cultivar. | Plants (Basel)
+- new | 2024 | 39351296 |  | Chitosan mitigated the adverse effect of Cd by regulating antioxidant activities, hormones, and organic acids contents in pepper (Capsicum annum L.). | Heliyon
+- new | 2024 | 38532109 |  | Exogenous strigolactone enhanced the drought tolerance of pepper (Capsicum chinense) by mitigating oxidative damage and altering the antioxidant mechanism. | Plant Cell Rep
+- new | 2024 | 38792822 |  | Assessment of the Safety and Probiotic Properties of Enterococcus faecium B13 Isolated from Fermented Chili. | Microorganisms
+- new | 2024 | 39058160 | Review | Monitoring of Pesticide Residues in Chili Peppers Using International Pesticide Monitoring Data for Safety Management. | Toxics
+- new | 2024 | 38495092 |  | Evaluation of binding mechanism of dietary phytochemical, capsaicin, with human transferrin: targeting neurodegenerative diseases therapeutics. | Front Pharmacol
+- new | 2024 | 39215939 |  | Essential oils and capsaicin in the diet of Jersey cows at early lactation and their positive impact on anti-inflammatory, antioxidant and immunological responses. | Trop Anim Health Prod
+- new | 2024 | 39085336 |  | Pollution of four heavy metal elements in dried chili peppers in Guizhou Province and its health risk assessment. | Sci Rep
+- new | 2024 | 39194685 | Review | Capsaicin: Emerging Pharmacological and Therapeutic Insights. | Curr Issues Mol Biol
+- new | 2024 | 38278273 |  | Dosage and exposure time effects of two micro(nono)plastics on arbuscular mycorrhizal fungal diversity in two farmland soils planted with pepper (Capsicum annuum L.). | Sci Total Environ
+- new | 2024 | 39505074 |  | Biochar and nanoscale silicon synergistically alleviate arsenic toxicity and enhance productivity in chili peppers (Capsicum annuum L.). | Chemosphere
+- new | 2023 | 37995005 |  | The Capsicum terpenoid biosynthetic module is affected by spider-mite herbivory. | Plant Mol Biol
+- new | 2023 | 36832982 | Review | Capsicum Waste as a Sustainable Source of Capsaicinoids for Metabolic Diseases. | Foods
+- new | 2023 | 36334234 |  | Dietary Capsaicin Reduces Chemically Induced Rat Urinary Bladder Carcinogenesis. | Plant Foods Hum Nutr
+- new | 2023 | 36538971 | Research Support, Non-U.S. Gov't | Anaphylaxis to pickled chili pepper (Capsicum frutescens): Role of pickling processing in the allergic reactivity. | Ann Allergy Asthma Immunol
+- new | 2023 | 37120706 |  | Capsaicin Reduces Cancer Stemness and Inhibits Metastasis by Downregulating SOX2 and EZH2 in Osteosarcoma. | Am J Chin Med
+- new | 2023 | 37000154 | Review/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Anticancer Activity of Region B Capsaicin Analogs. | J Med Chem
+- new | 2023 | 36938442 |  | Capsaicin protects against septic acute liver injury by attenuation of apoptosis and mitochondrial dysfunction. | Heliyon
+- new | 2023 | 38022749 | Case Reports | Identifying Chili as a Risk Factor for the Geographic Tongue: A Case Report. | J Asthma Allergy
+- new | 2023 | 36843730 | Case Reports | Complex Regional Pain Syndrome: Is There a Role for Capsaicin? | Cureus
+- new | 2023 | 36804492 |  | Capsaicin toxicity to the yeast Saccharomyces cerevisiae is not due to oxidative stress but to disruption of membrane structure. | Chem Biol Interact
+- new | 2023 | 37923193 |  | Evaluating aflatoxins and Sudan dyes contamination in red chili and turmeric and its health impacts on consumer safety of Lahore, Pakistan. | Food Chem Toxicol
+- new | 2023 | 36255130 |  | In-silico comparison of cytochrome P450 inhibitory and dopaminergic activity of Piperine, Curcumin and Capsaicin. | Nat Prod Res
+- new | 2023 | 37579800 |  | Physiological and molecular mechanisms of boron in alleviating cadmium toxicity in Capsicum annuum. | Sci Total Environ
+- new | 2023 | 36801528 |  | Toxicity of emerging contaminant antibiotics in soil to Capsicum annuum L. growth and their effects on it accumulating copper. | Plant Physiol Biochem
+- new | 2023 | 36853440 |  | Cave Soil Streptomyces sp. strain YC69 Antagonistic to Chilli Fungal Pathogens Exhibits In Vitro Anticancer Activity Against Human Cervical Cancer Cells. | Appl Biochem Biotechnol
+- new | 2023 | 36724709 |  | Persistent toxicity and dissipation dynamics of afidopyropen against the green peach aphid Myzus persicae (Sulzer) in cabbage and chili. | Ecotoxicol Environ Saf
+- new | 2023 | 37875021 | Research Support, Non-U.S. Gov't | Synergistic mitigation of nickel toxicity in pepper (Capsicum annuum) by nitric oxide and thiourea via regulation of nitrogen metabolism and subcellular nickel distribution. | Funct Plant Biol
+- new | 2023 | 37326735 |  | Methyl jasmonate and selenium synergistically mitigative cadmium toxicity in hot pepper (Capsicum annuum L.) plants by improving antioxidase activities and reducing Cd accumulation | Environ Sci Pollut Res Int
+- new | 2022 | 34917929 |  | Characterization of Capsicum oleoresin microparticles and in vivo evaluation of short-term capsaicin intake. | Food Chem X
+- new | 2022 | 34756408 | Case Reports | Cannabis hyperemesis syndrome: Incidence and treatment with topical capsaicin. | Med Clin (Barc) [eng,spa]
+- new | 2022 | 35164163 | Review | Antioxidant, Anti-Obesity, Nutritional and Other Beneficial Effects of Different Chili Pepper: A Review. | Molecules
+- new | 2022 | 35923881 |  | Physiological and Biochemical Responses of Pepper (Capsicum annuum L.) Seedlings to Nickel Toxicity. | Front Plant Sci
+- new | 2022 | 36172720 |  | Capsaicin regulates dyslipidemia by altering the composition of bile acids in germ-free mice. | Food Funct
+- new | 2022 | 35284242 |  | Ninety-day repeated oral toxicity study of saponified Capsicum annum fruit extract with 50% capsanthin in Sprague-Dawley Rats with a 28-day recovery period. | Toxicol Rep
+- new | 2022 | 36293402 |  | Transcriptome and Metabolome Analysis of Color Changes during Fruit Development of Pepper (Capsicum baccatum). | Int J Mol Sci
+- new | 2022 | 35327194 |  | Effects of Capsicum Oleoresin Supplementation on Lactation Performance, Plasma Metabolites, and Nutrient Digestibility of Heat Stressed Dairy Cow. | Animals (Basel)
+- new | 2022 | 35246732 |  | Temporal expression of defence and susceptibility genes and tospovirus accumulation in capsicum chlorosis virus-infected capsicum. | Arch Virol
+- new | 2022 | 35280588 |  | Salicylic acid mitigates salt induced toxicity through the modifications of biochemical attributes and some key antioxidants in capsicum annuum. | Saudi J Biol Sci
+- new | 2022 | 34233550 |  | Therapeutic effects of thymoquinone or capsaicin on acrylamide-induced reproductive toxicity in rats mediated by their effect on oxidative stress, inflammation, and tight junction  | Drug Chem Toxicol
+- new | 2022 | 35441017 | Case Reports | Intimate partner violence with vaginal insertion of a partial chili pod (Capsicum annuum): A case report. | Clin Case Rep
+- new | 2022 | 36561456 |  | Phylogenomic analysis of cytochrome P450 multigene family and its differential expression analysis in pepper (Capsicum annuum L.). | Front Plant Sci
+- new | 2021 | 33181192 | Research Support, N.I.H., Extramural/Review | Fight fire with fire: Neurobiology of capsaicin-induced analgesia for chronic pain. | Pharmacol Ther
+- new | 2021 | 34993384 |  | Topical Capsaicin for the Treatment of Sensory Neuropathic Cough. | OTO Open
+- new | 2021 | 33998455 | Case Reports | [Problematic use of capsaicin patches as pain relief during labour]. | Ugeskr Laeger [dan]
+- new | 2021 | 33656282 |  | Hydroxylation, Epoxidation, and Dehydrogenation of Capsaicin by a Microbial Promiscuous Cytochrome P450 105D7. | Chem Biodivers
+- new | 2021 | 34287807 | Comparative Study | Bioavailability of a Capsaicin Lipid Multi-particulate Formulation in Rats. | Eur J Drug Metab Pharmacokinet
+- new | 2021 | 33793384 | Case Reports/Letter | Post Laparoscopy Neuropathic Pain Treated by Capsaicin 8% Dermal Patch. | J Pain Palliat Care Pharmacother
+- new | 2021 | 34200967 |  | Biocontrol Potential of Bacillus amyloliquefaciens against Botrytis pelargonii and Alternaria alternata on Capsicum annuum. | J Fungi (Basel)
+- new | 2021 | 34550203 |  | Cytogenotoxicity and protective effect of piperine and capsaicin on meristematic cells of Allium cepa L. | An Acad Bras Cienc
+- new | 2021 | 34714660 |  | Cross-Reactivity of Chili Peppers (Capsicum sp.) with the xMAP Food Allergen Detection Assay. | J Agric Food Chem
+- new | 2021 | 33776616 |  | Prevalence and risk factors for micronutrient deficiencies during pregnancy in Cayenne, French Guiana. | Food Nutr Res
+- new | 2021 | 34325271 | Case Reports | Reversible Cerebral Vasoconstriction Syndrome Following Exposure to Oleoresin Capsicum "Pepper Spray". | J Stroke Cerebrovasc Dis
+- new | 2021 | 33800110 |  | In Vitro Cytotoxic Protective Effect of Alginate-Encapsulated Capsaicin Might Improve Skin Side Effects Associated with the Topical Application of Capsaicin. | Molecules
+- new | 2021 | 34738077 |  | Effect of supplementing lactation and nursery pig diets with capsaicin on growth performance and gene expression of nursery pigs. | Transl Anim Sci
+- new | 2020 | 32511032 | Review | Capsaicin 8% dermal patch in clinical practice: an expert opinion. | Expert Opin Pharmacother
+- new | 2020 | 32707790 | Review | Biological Properties, Bioactive Constituents, and Pharmacokinetics of Some Capsicum spp. and Capsaicinoids. | Int J Mol Sci
+- new | 2020 | 32655645 | Case Reports | Case Report of Presumed (In)voluntary Capsaicin Intoxication Mimicking an Acute Abdomen. | Case Rep Med
+- new | 2020 | 33284564 | Review |  | 
+- new | 2020 | 33391007 | Review | The Mysteries of Capsaicin-Sensitive Afferents. | Front Physiol
+- new | 2020 | 33192502 |  | Regulation of Pain Genes-Capsaicin vs Resiniferatoxin: Reassessment of Transcriptomic Data. | Front Pharmacol
+- new | 2020 | 32067516 | Letter/Comment | Authors' response to "Efficacy and safety of topical capsaicin for cannabinoid hyperemesis syndrome in the emergency department". | Clin Toxicol (Phila)
+- new | 2020 | 31545523 | Review | Application of capsaicin as a potential new therapeutic drug in human cancers. | J Clin Pharm Ther
+- new | 2020 | 32985330 | Research Support, Non-U.S. Gov't | Resilience to capsaicin-induced mitochondrial damage in trigeminal ganglion neurons. | Mol Pain
+- new | 2020 | 32206503 | Case Reports | Identification of Chilli leaf curl virus and associated betasatellite infecting Osteospermum fruticosum in Rajasthan, India. | 3 Biotech
+- new | 2020 | 31732572 | Research Support, Non-U.S. Gov't | Fungal Seed Pathogens of Wild Chili Peppers Possess Multiple Mechanisms To Tolerate Capsaicinoids. | Appl Environ Microbiol
+- new | 2020 | 33363553 |  | Promoted ABA Hydroxylation by Capsicum annuum CYP707As Overexpression Suppresses Pollen Maturation in Nicotiana tabacum. | Front Plant Sci
+- new | 2020 | 33088976 |  | Fast, easy, cheap, robust and safe method of analysis of Sudan dyes in chilli pepper powder. | Heliyon
+- new | 2019 | 31799069 |  | Comparative proteomic analysis of pepper (Capsicum annuum L.) seedlings under selenium stress. | PeerJ
+- new | 2019 | 30632627 |  | Pharmacokinetic effects of capsaicin on vinblastine in rats mediated by CYP3A and Mrp2. | Fundam Clin Pharmacol
+- new | 2019 | 31487955 |  | Sweet Pepper (Capsicum annuum L.) Fruits Contain an Atypical Peroxisomal Catalase That is Modulated by Reactive Oxygen and Nitrogen Species. | Antioxidants (Basel)
+- new | 2019 | 30912218 | Letter/Observational Study/Research Support, Non-U.S. Gov't | Investigating the safety of capsaicin cough challenge in severe asthma. | Clin Exp Allergy
+- new | 2019 | 31027574 |  | Capsaicin is efficiently transformed by multiple cytochrome P450s from Capsicum fruit-feeding Helicoverpa armigera. | Pestic Biochem Physiol
+- new | 2019 | 30422745 |  | Phylogeography and Molecular Species Delimitation of Pratylenchus capsici n. sp., a New Root-Lesion Nematode in Israel on Pepper (Capsicum annuum). | Phytopathology
+- new | 2019 | 31253260 |  | Reduction of the polycyclic aromatic hydrocarbon levels in dried red peppers (Capsicum annuum L.) using heat pump-assisted drying. | Food Chem
+- new | 2019 | 31340396 |  | Capsaicin and Piperine as Functional Excipients for Improved Drug Delivery across Nasal Epithelial Models. | Planta Med
+- new | 2019 | 31197191 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Assessment of Pharmacology, Safety, and Metabolic activity of Capsaicin Feeding in Mice. | Sci Rep
+- new | 2019 | 31671779 |  | The Molecular Effects of Sulforaphane and Capsaicin on Metabolism upon Androgen and Tip60 Activation of Androgen Receptor. | Int J Mol Sci
+- new | 2019 | 30243147 |  | Characterization of Aspergilli from dried red chilies (Capsicum spp.): Insights into the etiology of aflatoxin contamination. | Int J Food Microbiol
+- new | 2018 | 30251173 | Review | Capsaicin 8% Dermal Patch: A Review in Peripheral Neuropathic Pain. | Drugs
+- new | 2018 | 29131139 |  | Capsaicin Used on Skin Influences Ion Transport Pathways: An in vitro Study. | Skin Pharmacol Physiol
+- new | 2018 | 29625099 |  | Sinergism between alkaloids piperine and capsaicin with meglumine antimoniate against Leishmania infantum. | Exp Parasitol
+- new | 2018 | 29682461 | Case Reports | Capsaicin patch for persistent postoperative pain after thoracoscopic surgery, report of two cases. | J Vis Surg
+- new | 2018 | 27061228 | Case Reports | Red hot chilli pepper! Intralingual dermoid cyst: a rare cause of neck swelling. | ANZ J Surg
+- new | 2018 | 29379817 | Case Reports | Successful Treatment of Cannabinoid Hyperemesis Syndrome with Topical Capsaicin. | ACG Case Rep J
+- HELD REF-2146 | 2018 | 29922422 | Review | A review of the effects of Capsicum annuum L. and its constituent, capsaicin, in metabolic syndrome. | Iran J Basic Med Sci
+- new | 2018 | 29509988 | Research Support, Non-U.S. Gov't | Capsaicin induces atopic dermatitis-like manifestations through dysregulation of proteolytic system and alteration of filaggrin processing in rats. | Exp Dermatol
+- new | 2017 | 29258175 | Review | Capsaicin: Friend or Foe in Skin Cancer and Other Related Malignancies? | Nutrients
+- new | 2017 | 30263503 | Review | An updated review on molecular mechanisms underlying the anticancer effects of capsaicin. | Food Sci Biotechnol
+- new | 2017 | 28994767 | Video-Audio Media | Effects of Exposure of Formaldehyde to a Rat Model of Atopic Dermatitis Induced by Neonatal Capsaicin Treatment. | J Vis Exp
+- new | 2017 | 28110699 |  | High-concentration topical capsaicin may abolish the clinical manifestations of allergic contact dermatitis by effects on induction and elicitation. | Med Hypotheses
+- new | 2016 | 26968979 | Case Reports | Fatal chilli bite. | Med Leg J
+- new | 2016 | 27751515 | Case Reports/Letter | [Topical capsaicin cream in the treatment for cannabinoid hyperemesis syndrome]. | Med Clin (Barc) [spa]
+- new | 2016 | 27703336 | Review | Profile of the capsaicin 8% patch for the management of neuropathic pain associated with postherpetic neuralgia: safety, efficacy, and patient acceptability. | Patient Prefer Adherence
+- new | 2016 | 25904403 | Case Reports/Letter | Successful treatment of lichen amyloidosis using capsaicin 8% patch. | J Eur Acad Dermatol Venereol
+- HELD REF-2151 | 2016 | 27372805 |  | Hypolipidemic and Antioxidant Properties of Hot Pepper Flower (Capsicum annuum L.). | Plant Foods Hum Nutr
+- new | 2016 | 26857302 | Case Reports | [Effective pain relief of post-herpetic neuralgia with capsaicin patch]. | Ugeskr Laeger [dan]
+- new | 2016 | 27348971 | Research Support, Non-U.S. Gov't | Capsaicin induces metabolism of simvasatin in rat: involvement of upregulating expression of Ugt1a1. | Pharmazie
+- new | 2016 | 27582627 | Review | Mycotic and aflatoxin contamination in Myristica fragrans seeds (nutmeg) and Capsicum annum (chilli), packaged in Italy and commercialized worldwide. | J Prev Med Hyg
+- new | 2015 | 26120484 |  | The Anticancer Role of Capsaicin in Experimentallyinduced Lung Carcinogenesis. | J Pharmacopuncture
+- new | 2015 | 25188441 | Research Support, Non-U.S. Gov't | Effects of capsaicin on pharmacokinetics of pitavastatin in rats. | Xenobiotica
+- new | 2015 | 26472201 | Letter/Research Support, Non-U.S. Gov't | Inhibitory effects of Ganoderma lucidum pharmacopuncture on atopic dermatitis induced by capsaicin in rats. | J Dermatol Sci
+- new | 2015 | 25755097 | Research Support, Non-U.S. Gov't | Inhibitory effect of dietary capsaicin on liver fibrosis in mice. | Mol Nutr Food Res
+- new | 2014 | 24941666 | Review | Topical capsaicin formulations in the management of neuropathic pain. | Prog Drug Res
+- new | 2014 | 24675661 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Nicotinic acid activates the capsaicin receptor TRPV1: Potential mechanism for cutaneous flushing. | Arterioscler Thromb Vasc Biol
+- new | 2014 | 24075930 | Research Support, Non-U.S. Gov't | Capsaicin induces cytotoxicity in pancreatic neuroendocrine tumor cells via mitochondrial action. | Cell Signal
+- new | 2014 | 24418195 |  | Effects of electroacupuncture on capsaicin-induced model of atopic dermatitis in rats. | J Dermatol Sci
+- new | 2014 | 24941674 | Review | The role of capsaicin in dermatology. | Prog Drug Res
+- new | 2014 | 24648159 |  | The effect of cisplatin toxicity and capsaicin on electron transport chain in liver and kidney of sprague dawley rats. | Cell Biochem Biophys
+- new | 2014 | 24935229 | Research Support, Non-U.S. Gov't | Heterologous expression and functional characterization of the NADPH-cytochrome P450 reductase from Capsicum annuum. | Plant Physiol Biochem
+- new | 2014 | 24661126 | Research Support, Non-U.S. Gov't | A nanovesicle topical formulation of Bhut Jolokia (hottest capsicum): a potential anti-arthritic medicine. | Expert Opin Drug Deliv
+- new | 2012 | 22668071 |  | Food-drug interactions: effect of capsaicin on the pharmacokinetics of galantamine in rats. | Xenobiotica
+- new | 2012 | 22527825 | Case Reports | A case of acute myocardial infarction due to the use of cayenne pepper pills. | Wien Klin Wochenschr
+- new | 2012 | 22416981 |  | Influence of capsaicin on fluctuation of digoxin pharmacokinetics in lipopolysaccharide-treated rats. | Xenobiotica
+- new | 2011 | 21158551 | Review | Qutenza®: a capsaicin 8% patch for the management of postherpetic neuralgia. | Expert Rev Neurother
+- new | 2011 | 21487045 | Research Support, N.I.H., Extramural/Review | The two faces of capsaicin. | Cancer Res
+- new | 2011 | 22247621 |  | Tolerability of NGX-4010, a capsaicin 8% patch for peripheral neuropathic pain. | J Pain Res
+- new | 2010 | 21104944 | Multicenter Study/Randomized Controlled Trial | Effectiveness and safety of topical capsaicin cream in the treatment of chronic soft tissue pain. | Phytother Res
+- new | 2010 | 20388819 | Research Support, Non-U.S. Gov't | Studies of the toxicological potential of capsinoids, XI: pharmacokinetic and tissue distribution study of 14C-dihydrocapsiate and metabolites in rats. | Int J Toxicol
+- new | 2010 | 20388821 | Research Support, Non-U.S. Gov't | Studies of the toxicological potential of capsinoids, XIII: inhibitory effects of capsaicin and capsinoids on cytochrome P450 3A4 in human liver microsomes. | Int J Toxicol
+- new | 2008 | 18209521 | Review | Capsaicin (TRPV1 Agonist) therapy for pain relief: farewell or revival? | Clin J Pain
+- new | 2008 | 19037800 |  | Studies of the toxicological potential of capsinoids: VI. Single-dose toxicity study and micronucleus test of commercial-grade dihydrocapsiate. | Int J Toxicol
+- new | 2008 | 19037799 |  | Studies of the toxicological potential of capsinoids: V. Genotoxicity studies of dihydrocapsiate. | Int J Toxicol
+- new | 2007 | 17365137 | Review | Final report on the safety assessment of capsicum annuum extract, capsicum annuum fruit extract, capsicum annuum resin, capsicum annuum fruit powder, capsicum frutescens fruit, cap | Int J Toxicol
+- new | 2007 | 17477261 | Research Support, Non-U.S. Gov't | Prevalence and genetic diversity of Bacillus cereus in dried red pepper in Korea. | J Food Prot
+- new | 2006 | 34554668 | Review | Capsaicin. | 
+- new | 2002 | 12034307 | Research Support, Non-U.S. Gov't | Micronuclei and sister chromatid exchanges induced by capsaicin in human lymphocytes. | Mutat Res
+- new | 2002 | 12208187 | Comparative Study | Capsaicin pepper, cancer and ethnicity. | Med Hypotheses
+- new | 2000 | 10735579 | Review | Intravesical neuromodulatory drugs: capsaicin and resiniferatoxin to treat the overactive bladder. | J Endourol
+- new | 1999 | 10555213 | Comparative Study/Research Support, Non-U.S. Gov't/Review | [Intravesical instillations of capsaicin in urology: from pharmacological principles to therapeutic applications]. | Prog Urol [fre]
+- new | 1999 | 12541373 |  | [Clinical study of capsaicin in the treatment of allergic rhinitis]. | Lin Chuang Er Bi Yan Hou Ke Za Zhi [chi]
+- new | 1998 | 9675305 | Research Support, Non-U.S. Gov't/Review | Chemoprotective properties of some pungent ingredients present in red pepper and ginger. | Mutat Res
+- new | 1997 | 9255486 | Case Reports | Sensitization to pepper (Capsicum annuum) in a latex-allergic patient. | Contact Dermatitis
+- new | 1996 | 8621114 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S./Review | Capsaicin in hot chili pepper: carcinogen, co-carcinogen or anticarcinogen? | Food Chem Toxicol
+- new | 1996 | 8995873 | Case Reports/Letter | Red pepper effect. | Br J Gen Pract
+- new | 1995 | 7746093 | Research Support, Non-U.S. Gov't/Review | Capsaicin, a double-edged sword: toxicity, metabolism, and chemopreventive potential. | Life Sci
+- new | 1994 | 8116601 | Research Support, U.S. Gov't, P.H.S. | Chili pepper consumption and gastric cancer in Mexico: a case-control study. | Am J Epidemiol
+- new | 1993 | 8105056 |  | Effects of capsaicin on the pharmacokinetics of antipyrine, theophylline and quinine in rats. | J Pharm Pharmacol
+- new | 1989 | 2743805 |  | Capsicum pepper dermatitis. | Cutis
+- new | 1988 | 3385032 | Case Reports/Letter | Topical capsaicin for treatment of neuralgia associated with herpes zoster infection. | J Am Acad Dermatol
+- new | 1988 | 3240714 |  | Effects of capsicum fruit on theophylline absorption and bioavailability in rabbits. | Drug Nutr Interact
+- new | 1987 | 3328791 | Case Reports/Review | Capsicum and capsaicin--a review: case report of the use of hot peppers in child abuse. | J Toxicol Clin Toxicol
+
+### PubMed OBS - 102 hits, 47 not already listed above, 47 new
+- new | 2026 | 41819938 |  | Long-term capsaicin intake and gut inflammation: microbial alterations, metabolic mechanisms, and intervention effects. | Food Res Int
+- new | 2026 | 41663515 |  | Integrated modeling and observational analysis of light-saturated electron transport rates in four C(3) species. | Sci Rep
+- new | 2026 | 42151030 | Multicenter Study | Explainable machine learning incorporating CHI3L1 enhances liver fibrosis staging in chronic hepatitis B: The CHILI multicenter study. | Dig Liver Dis
+- new | 2025 | 40316316 | Editorial | Editorial for CASPAR: a retrospective cohort study of the high-concentration capsaicin topical system in patients with painful diabetic peripheral neuropathy of the feet. | BMJ Open Diabetes Res Care
+- new | 2025 | 40316314 |  | CASPAR: a retrospective cohort study of the high-concentration capsaicin topical system in patients with painful diabetic peripheral neuropathy of the feet. | BMJ Open Diabetes Res Care
+- new | 2025 | 39532578 | Randomized Controlled Trial/Multicenter Study/Research Support, Non-U.S. Gov't | Effect of Cooling Capsaicin Application Site on Reducing Burning Sensation in Neuropathic Pain Patients: A Randomized Controlled Trial. | Pain Manag Nurs
+- new | 2025 | 40499399 |  | Progressive improvements in patient-reported outcomes with the high-concentration capsaicin patch: A retrospective cohort study in patients with painful diabetic peripheral neuropa | J Diabetes Complications
+- new | 2025 | 41426310 |  | Real-world 12-month outcomes of repeated high-concentration capsaicin patch in chemotherapy-induced peripheral neuropathy: results from the CASPAR study. | Front Oncol
+- new | 2025 | 40517340 |  | Progressive Response of Repeated Treatment with High-Concentration (179 mg) Capsaicin Patch in Peripheral Neuropathic Pain After Surgical or Traumatic Nerve Injury: Findings from t | Pain Ther
+- new | 2025 | 41503645 |  | Association Between Chili Intake and Cognitive Function in the Elderly Population and the Modifying Effect of Body Mass Index. | Zhongguo Yi Xue Ke Xue Yuan Xue Bao
+- new | 2024 | 39065693 | Review | Does Topical Capsaicin Affect the Central Nervous System in Neuropathic Pain? A Narrative Review. | Pharmaceuticals (Basel)
+- new | 2024 | 38497128 |  | Stimulatory effect of methylglyoxal on capsaicin-sensitive lung vagal afferents in rats: role of TRPA1. | Am J Physiol Regul Integr Comp Physiol
+- new | 2024 | 38887506 |  | Does chili pepper consumption affect BMI and obesity risk? A cross-sectional analysis. | Front Nutr
+- new | 2024 | 38343122 | Observational Study | Profile of cough triggers and their relationship with capsaicin cough sensitivity in chronic cough. | Ther Adv Respir Dis
+- new | 2024 | 39609584 |  | Staphylococcus aureus enterotoxin sensitization is associated with declined capsaicin cough sensitivity in chronic obstructive pulmonary disease. | Sci Rep
+- new | 2023 | 36510373 |  | The effect of dairy proteins on the oral burn of capsaicin. | J Food Sci
+- new | 2023 | 37487805 | Observational Study | Prospective observational study of stroke in Cayenne, Tours and Besançon: The BECATOUR study. | Rev Neurol (Paris)
+- new | 2023 | 37998493 |  | Dietary Intake of Capsaicin and Its Association with Markers of Body Adiposity and Fatty Liver in a Mexican Adult Population of Tijuana. | Healthcare (Basel)
+- new | 2023 | 36672298 |  | Evaluation of 8% Capsaicin Patches in Chemotherapy-Induced Peripheral Neuropathy: A Retrospective Study in a Comprehensive Cancer Center. | Cancers (Basel)
+- new | 2022 | 35135709 | Observational Study/Research Support, Non-U.S. Gov't | Capsaicin 8% Dermal Patch for Neuropathic Pain in a Pain Unit. | Pain Manag Nurs
+- new | 2022 | 33983564 | Observational Study | A preliminary prospective observational study of the effectiveness of high-concentration capsaicin cutaneous patch in the management of chronic post-surgical neuropathic pain. | Ir J Med Sci
+- new | 2022 | 35367666 |  | Prevalence of Chagas disease and strongyloidiasis among HIV-infected Latin American immigrants in Italy - The CHILI study. | Travel Med Infect Dis
+- new | 2022 | 35793188 |  | Capsaicin 8% for Peripheral Neuropathic Pain Treatment: A Retrospective Cohort Study. | Pain Physician
+- new | 2022 | 35842943 |  | Chili pepper extends lifespan in a concentration-dependent manner and confers cold resistance on Drosophila melanogaster cohorts by influencing specific metabolic pathways. | Food Funct
+- new | 2022 | 35136354 |  | Peripheral Neuropathic Pain Following Breast Cancer: Effectiveness and Tolerability of High-Concentration Capsaicin Patch. | J Pain Res
+- new | 2021 | 32776178 |  | The impact of pharmaceutical care on the efficacy and safety of transdermal glucosamine sulfate and capsaicin for joint pain. | Int J Clin Pharm
+- new | 2021 | 34874658 | Observational Study | [Real-world clinical efficacy assessment of Kapsikam a combined topical medication based on nonivamide synthetic capsaicin analog in patients with acute nonspecific musculoskeletal | Zh Nevrol Psikhiatr Im S S Korsakova [rus]
+- new | 2021 | 33561623 | Observational Study | Efficacy of topical capsaicin for the treatment of cannabinoid hyperemesis syndrome: A retrospective cohort study. | Am J Emerg Med
+- new | 2020 | 32967405 | Observational Study | 8% Capsaicin Patch in Treatment of Peripheral Neuropathic Pain. | Pain Physician
+- new | 2020 | 32712260 |  | Capsaicin-induced pain sensitivity in short tear break-up time dry eye. | Ocul Surf
+- new | 2019 | 31779278 | Comment | Comments on the Editor Re: Shi, Zumin, et al. "High Chili Intake and Cognitive Function among 4582 Adults: An Open Cohort Study over 15 Years." Nutrients 2019, 11(5), 1183. | Nutrients
+- new | 2019 | 31464713 | Observational Study | Transcutaneous carbon dioxide measurements in fruits, vegetables and humans: A prospective observational study. | Eur J Anaesthesiol
+- new | 2019 | 30995922 |  | The consumption of chili peppers and the risk of colorectal cancer: a matched case-control study. | World J Surg Oncol
+- new | 2019 | 31137805 |  | High Chili Intake and Cognitive Function among 4582 Adults: An Open Cohort Study over 15 Years. | Nutrients
+- new | 2019 | 31779279 | Comment | Reply to "Comments on the Editor Re: Shi, Zumin, et al. High Chili Intake and Cognitive Function among 4582 Adults: An Open Cohort Study over 15 Years. Nutrients 11.5 (2019): 1183. | Nutrients
+- new | 2018 | 29406281 |  | Q fever epidemic in Cayenne, French Guiana, epidemiologically linked to three-toed sloth. | Comp Immunol Microbiol Infect Dis
+- new | 2018 | 29460816 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Chilli intake is inversely associated with hypertension among adults. | Clin Nutr ESPEN
+- new | 2018 | 29533398 | Research Support, Non-U.S. Gov't | Identification of Individuals with Functional Dyspepsia With a Simple, Minimally Invasive Test: A Single Center Cohort Study of the Oral Capsaicin Test. | Am J Gastroenterol
+- new | 2018 | 30122479 |  | Could reflex cough induced through nebulized capsaicin achieve airway clearance in patients with acute retention of lung secretions? | Med Hypotheses
+- new | 2017 | 28068423 |  | The Association of Hot Red Chili Pepper Consumption and Mortality: A Large Population-Based Cohort Study. | PLoS One
+- new | 2016 | 26822003 | Research Support, Non-U.S. Gov't | Prevalence and predictive factors for renouncing medical care in poor populations of Cayenne, French Guiana. | BMC Health Serv Res
+- new | 2015 | 25899819 | Observational Study | [Capsaicin Cutaneous Patch: a Cost-consequences Study in a French University Hospital]. | Therapie [fre]
+- new | 2012 | 22998952 |  | The predictive value of a maculopapular rash in children hospitalized for dengue fever in Cayenne, French Guiana. | Trans R Soc Trop Med Hyg
+- new | 2012 | 23244129 | Research Support, Non-U.S. Gov't | Aflatoxin contamination of red chili pepper from Bolivia and Peru, countries with high gallbladder cancer incidence rates. | Asian Pac J Cancer Prev
+- new | 2009 | 19333172 |  | Increased capsaicin receptor TRPV1 in the peritoneum of women with chronic pelvic pain. | Clin J Pain
+- new | 2006 | 16524439 | Controlled Clinical Trial/Research Support, Non-U.S. Gov't | The capsaicin cough reflex in eczema patients with respiratory symptoms elicited by perfume. | Contact Dermatitis
+- new | 1995 | 7605568 |  | [Treatment of nonspecific hyper-reflectory rhinopathy (vasomotor rhinitis) with capsaicin]. | Laryngorhinootologie [ger]
+
+### PubMed REV - 464 hits, 19 not already listed above, 16 new
+- new | 2026 | 42728449 | Review | Molecular mechanisms and agronomic strategies for thermotolerance in chili pepper (Capsicum annuum L.). | Plant Cell Rep
+- new | 2026 | 42029760 | Review | Challenges and solutions in hand pollination for hybrid pepper (Capsicum annuum L.) seed production: a review. | Planta
+- new | 2025 | 40513491 | Review | Exploring the nutritional values, volatile compounds, health benefits, and potential food products of chilli (Capsicum annuum): A comprehensive review. | Food Chem
+- new | 2025 | 40510497 | Review | Capsaicin: beyond TRPV1. | Front Nutr
+- new | 2024 | 39296013 | Review | Cooking effect on bioactive compounds and antioxidant capacity of red pepper (Capsicum annuum L.). | Heliyon
+- new | 2023 | 37493882 | Review | Capsaicin, The Vanilloid Receptor TRPV1 Agonist in Neuroprotection: Mechanisms Involved and Significance. | Neurochem Res
+- new | 2023 | 36828413 | Review/Research Support, Non-U.S. Gov't | Emerging Issues on Tropane Alkaloid Contamination of Food in Europe. | Toxins (Basel)
+- new | 2023 | 36852548 | Review | Capsaicin: A Novel Approach to the Treatment of Functional Dyspepsia. | Mol Nutr Food Res
+- new | 2022 | 36551210 | Review | Dietary Capsaicin: A Spicy Way to Improve Cardio-Metabolic Health? | Biomolecules
+- HELD REF-2145 | 2020 | 33337034 | Research Support, Non-U.S. Gov't/Review | Capsicum annuum (hot pepper): An ancient Latin-American crop with outstanding bioactive compounds and nutraceutical potential. A review. | Compr Rev Food Sci Food Saf
+- new | 2018 | 30510724 | Review | The suitability of chili pepper (Capsicum annuum L.) for alleviating human micronutrient dietary deficiencies: A review. | Food Sci Nutr
+- new | 2017 | 28044278 | Review/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Understand spiciness: mechanism of TRPV1 channel activation by capsaicin. | Protein Cell
+- HELD REF-2150 | 2016 | 26756096 | Review | Phytochemistry and gastrointestinal benefits of the medicinal spice, Capsicum annuum L. (Chilli): a review. | J Complement Integr Med
+- HELD REF-2144 | 2016 | 25675368 | Review | Biological Activities of Red Pepper (Capsicum annuum) and Its Pungent Principle Capsaicin: A Review. | Crit Rev Food Sci Nutr
+- new | 2016 | 26619864 | Research Support, Non-U.S. Gov't/Review | Androgenesis in Solanaceae. | Methods Mol Biol
+- new | 2016 | 27485456 | Review | Capsaicin for Rhinitis. | Curr Allergy Asthma Rep
+- new | 2006 | 30000884 | Review | Capsicum. | 
+- new | 1999 | 10445778 | Review | Capsaicin. | Reg Anesth Pain Med
+- new | 1994 | 35951880 | Review | Capsaicin. | 
+
+### ClinicalTrials.gov - 196 registered studies
+- NCT05002907 | COMPLETED | results=False |  | Epidemiology of Hepatitis B, C and D and HIV Along the Maroni River Bordering French Guiana and Suriname (MaHeVi) | conds: Hepatitis B, Hepatitis C, Hepatitis D, HIV Infections | intr: Questionnaire, Biocollection, Delivery of results, Results and advices on transmission prevention me
+- NCT06363669 | COMPLETED | results=False | NA | Effects of Caffeine-based Supplement on Physical Performance | conds: Muscle Power | intr: multi-ingredient pre-workout dietary supplement (caffeine-based) | pubs: ['38853269:DERIVED (new)']
+- NCT02037464 | UNKNOWN | results=False | PHASE2 | CAPSAICIN Trial: Assessing Capsaicin as a Chemopreventive Agent for Prostate Cancer | conds: Prostate Cancer | intr: Capsaicin Supplement (Cayenne by Nature's Way)
+- NCT06023082 | COMPLETED | results=True | NA | A Single-Group Study to Examine the Efficacy of a Gut Health Supplement to Increase Metabolism, Improve Gut Health, and Support Weight Manag | conds: Gut Health, Metabolism, Weight Loss, Energy | intr: Colon Broom Premium supplement
+- NCT04147767 | UNKNOWN | results=False | NA | Plant Sterol INtervention for Cancer Prevention (PINC) | conds: Hypercholesterolemia, Breast Cancer, Obesity | intr: Cholesterol Reducing Strawberry Yogurt Drink (Tesco Ltd), Low Fat Strawberry Yogurt Drinks (Morrison
+- NCT03359707 | COMPLETED | results=False |  | Access to Healthcare and the Right to Health of People Living in Disadvantaged Neighborhoods Around Cayenne in French Guiana | conds: Health Care Acceptability | intr: survey
+- NCT05989100 | UNKNOWN | results=False | NA | Taste Stimulation for Post-stroke Dysphagia | conds: Stroke, Dysphagia | intr: Favourate taste stimulation, Sour taste stimulation, Thermal stimulation group
+- NCT03440125 | COMPLETED | results=False | PHASE1,PHASE2 | Cayenne Pepper Cataplasm - Safety Study | conds: Low Back Pain | intr: Cayenne Pepper topical, Electrical stimulation, Massage
+- NCT05022979 | COMPLETED | results=False |  | Prevalence and Risk Factors for Micronutrient Deficiencies During Pregnancy in Cayenne, French Guiana | conds: Deficiency; Diet, Pregnancy | intr: Observational only
+- NCT06092840 | COMPLETED | results=False | NA | Effect of Transform Burn on Weight Loss | conds: Weight Loss | intr: Transform Burn
+- NCT07341997 | RECRUITING | results=False | NA | Environmental Factors Associated With Peripheral Neuropathies in French Guiana | conds: Peripheral Neuropathies, Environmental Risk Factor, Lead Neuropathy, Mercury Neuropathy | intr: Case Group
+- NCT06065553 | UNKNOWN | results=False |  | Prevalence of Psychiatric and Substance Abuse Disorders Among People in Precarious Situations in Cayenne | conds: Psychiatric Disorder, Substance Use Disorders | intr: 
+- NCT04962997 | COMPLETED | results=False |  | Health Status of Transgender Women in French Guiana and Paris (TransGuyane) | conds: Sexual Health, Mental Health | intr: Data collection
+- NCT07539922 | RECRUITING | results=False | NA | Double Compression Screw Fixation for Symptomatic Non-union of Lateral Malleolar Ankle Fractures | conds: Lateral Malleolus Fractures | intr: Double Compression Screw Fixation for Symptomatic Non-union of Lateral Malleolar Ankle Fractures
+- NCT02345447 | COMPLETED | results=False | PHASE3 | Herbal-Based Medication vs. Placebo in Preventing Acute Otitis Media in Children at High Risk of Recurrence | conds: Acute Otitis Media | intr: Herbal-based medication, Placebo
+- NCT06692985 | COMPLETED | results=False |  | Epidemiology of Cutaneous Leishmaniasis in Niger, Mali, Togo : Mapping of Clinical Cases, Species, Reservoirs and Vectors of the Disease | conds: Cutaneous Leishmaniasis | intr: Clinical and epidemiological data, Parasitological samples, Assessment of clinical course and respon
+- NCT04925869 | COMPLETED | results=False |  | Prospective Study of Cerebrovascular Accidents (CVA) in 3 French Cities (Besançon, Cayenne and Tours) | conds: Cerebrovascular Accident, Thrombolysis | intr: Observational study
+- NCT01532375 | COMPLETED | results=False | PHASE2 | Kochujang, a Fermented Soybean-based Red Pepper Paste, Decreases Visceral Fat and Improves Blood Lipid Profiles in Overweight Adults | conds: Overweight | intr: Kochujang, placebo | pubs: ['23442518:DERIVED (new)']
+- NCT03859583 | UNKNOWN | results=False | NA | Capsaicin Energy Expenditure and Glucose Metabolism | conds: Obesity, Insulin Resistance | intr: Capsaicin, Control
+- NCT03064958 | COMPLETED | results=False | NA | The Acute Effect of Spices on Vascular Health | conds: Oxidative Stress | intr: Herbs and spices, High fat meal | pubs: ['32211803:DERIVED (new)']
+- NCT05024461 | UNKNOWN | results=False | NA | Comparison of Detection of SARS-CoV2 (COVID-19) Between Nasopharyngeal Swab Specimens and Those Obtained by Salivary Sputum | conds: Covid19 | intr: Salivary test for COVID19
+- NCT06060834 | COMPLETED | results=False | NA | Impact of a Topical Cosmetic Product on Women's Hair | conds: Hair Thinning, Hair Loss | intr: Topical Botanical Agent
+- NCT03676803 | COMPLETED | results=True | NA | Effect of Spice Consumption on the Microbiome | conds: Microbiota | intr: mixed spices, placebo capsule containing 5 g of maltodextrin
+- NCT06630637 | COMPLETED | results=False | NA | Monitoring Intermittent Fasting for Human Optimization Using Wearable Technology: An N-of-1 Study | conds: Intermittent Fasting, Healthy, Digital Health | intr: Glucose-Ketone Index (GKI) monitoring, Continuous Glucose Monitoring (CGM), Digital dynamometer, Wea
+- NCT00064844 | COMPLETED | results=True | PHASE4 | Combination Nicotine Replacement for Alcoholic Smokers | conds: Smoking, Alcoholism | intr: Cognitive Behavior Therapy for alcohol and smoking cessation, Nicoderm CQ nicotine patch, Placebo gu
+- NCT04874701 | COMPLETED | results=False | PHASE4 | Effects of Capsimax on Appetite, Energy Intake and Blood Pressure | conds: Obesity, Body Weight, Weight Loss, Overweight | intr: Capsimax, Energy restriction
+- NCT06610812 | COMPLETED | results=False | NA | "KETOGENIC MEDITERRANEAN VERSUS HYPOCALORIC BALANCED DIET ON POLYCYSTIC OVARIAN ADOLESCENTS" | conds: Polycystic Ovary Disease | intr: KETOGENIC MEDITERRANEAN diet, hypo-caloric diet:, moderate aerobic exercises
+- NCT02705209 | COMPLETED | results=False | NA | Cayenne Pepper Cataplasm - Effect Study | conds: Back Pain, Low Back Pain | intr: Cayenne Pepper Cataplasm, Placebo Cataplasm
+- NCT05814068 | UNKNOWN | results=False | NA | Active Screening of Arterial Hypertension by Community Outreach Workers in the Cayenne Metropolitan Area to Reduce the Incidence of Cardiova | conds: High Blood Pressure | intr: antihypertensive drug treatment | pubs: ['42659643:DERIVED (new)']
+- NCT07559617 | COMPLETED | results=False | NA | Ozonated Oil Emulsion for Seborrhea in Women | conds: Cosmetic Management of Oily Scalp | intr: Ozonated oil-based cosmetic emulsion, Matched vehicle control
+- NCT04295668 | UNKNOWN | results=False |  | PAPRIKA - Patients Empowerment for Major Surgery Preparation @Home | conds: Cancer, Surgical Procedure, Unspecified | intr: Usual care, Prehabilitation
+- NCT00671138 | COMPLETED | results=False | PHASE2 | Inoculating Celiac Disease Patients With the Human Hookworm Necator Americanus: Evaluating Immunity and Gluten-sensitivity | conds: Celiac Disease | intr: Necator americanus, Sham inoculation | pubs: ['24795483:DERIVED (new)', '21408161:DERIVED (new)']
+- NCT03678116 | COMPLETED | results=False | NA | Effects of a Thermogenic Dietary Supplement on Metabolic, Hemodynamic, and Mood Responses | conds: Energy Metabolism, Heart Rate, Blood Pressure, Mood | intr: Sugar Pill (placebo), Caffeine (plus Teacrine and Cayenne), Caffeine (plus Teacrine)
+- NCT05031091 | UNKNOWN | results=False |  | Epidemiology of Leprosy in French Guiana | conds: Hansen's Disease | intr: standardised exposure questionnaire
+- NCT04190719 | UNKNOWN | results=False | NA | Patient Empowerment for Major Surgery Preparation @ Home | conds: Urologic Diseases, Cardiovascular Diseases, Thoracic Diseases, Orthopedic Disorder | intr: multimodal prehabilitation | pubs: ['28489682:RESULT (new)', '31248644:RESULT (new)']
+- NCT05174234 | COMPLETED | results=False |  | Precariousness and Sexual Vulnerability of People From Haiti Living With or Without HIV in French Guiana | conds: HIV Seropositivity | intr:  | pubs: ['40505127:DERIVED (new)']
+- NCT04886102 | UNKNOWN | results=False |  | Molecular Epidemiology of Hepatitis B in Cayenne General Hospital, French Guiana | conds: Hepatitis B, Chronic, Adults | intr: An additional 5 mL venous blood tube taken from patients during their routine medical check-up at th
+- NCT03016221 | COMPLETED | results=True | NA | Local Changes of Skin Characteristics After an Application of a Topical Product With a Warming or Cooling Effect | conds: Healthy | intr: Axanova hot gel, Axanova activ gel, Perskindol Dolo Gel, Perskindol Classic Gel | pubs: ['38706945:RESULT (new)']
+- NCT05788731 | COMPLETED | results=False |  | Become of Patients From the Permanent Access to Care (PASS) in Cayenne, French Guyana, Suffering From a Chronic Disease (High Blood Pressure | conds: Access to Health Services, Health Disparity, Minority and Vulnerable Populations, Chronic Disease, Social Security | intr: 
+- NCT02599272 | COMPLETED | results=False | NA | Effects of Mixed Spices on Cardiometabolic Function - the PolySPice (PSP) Study | conds: Cardiometabolic Risk | intr: Rice with tomatoes and peeled aubergine (no spice), Rice with vegetables and low spice, Rice with ve | pubs: ['30687117:DERIVED (new)']
+- NCT02392273 | TERMINATED | results=False |  | A Prospective Observational Registry of Primary Headache Patients Treated With Ausanil | conds: Primary Headache Disorders | intr: Ausanil
+- NCT00954902 | COMPLETED | results=False | NA | Effects of Antioxidants on Cardiovascular Risk Measures (Spice Study) | conds: Cardiovascular, Psychological Stress | intr: High Antioxidant Spice Blend, Trier Psychological Stressor, Placebo antioxidant concentrate | pubs: ['25592751:DERIVED (new)']
+- NCT07808775 | NOT_YET_RECRUITING | results=False |  | Assessment of the Risk of Zoonotic Infections in Prisons in French Guiana | conds: Q Fever, Leptospirosis, Chagas Disease, Histoplasmosis | intr:  | pubs: ['30039781:RESULT (new)', '35584144:RESULT (new)', '35703611:RESULT (new)', '22441648:RESULT (new)', '22260085:RESULT (new)', '32448209:RESULT (new)', '30630398:RESULT (new)']
+- NCT07921641 | NOT_YET_RECRUITING | results=False |  | Characterization of Adaptive Immune Responses to Oropouche Virus (OROV) Infection | conds: Oropouche Infection | intr: 20 ml blood sample
+- NCT03063320 | COMPLETED | results=False | NA | The Effect of Spice Consumption on Postprandial Vascular Function | conds: Cardiovascular Risk Factor | intr: Spice blend | pubs: ['42602914:DERIVED (new)']
+- NCT03862872 | WITHDRAWN | results=False | NA | Effects of Bend Beauty's Anti-Aging Formula on Inflammatory Markers | conds: Inflammation, Skin Abnormalities, Skin Pigment, Inflammatory Response | intr: Anti-Aging Formula, Control Fish Oil, Inert Placebo
+- NCT01956500 | COMPLETED | results=False | NA | Instaflex and Joint Pain in Community Adults | conds: Joint Pain, Stiffness, Function | intr: Instaflex, Placebo | pubs: ['24274358:DERIVED (new)']
+- NCT07317752 | NOT_YET_RECRUITING | results=False |  | Incidence of Dysgeusia in Breast Cancer Patients Undergoing Chemotherapy | conds: Taste Disorders, Breast Cancer, Quality of Life, Taste Perception | intr: Taste Assessment / Nutritional Assessment / Quality of Life Assessment
+- NCT02203162 | COMPLETED | results=True | PHASE4 | Effect of Electronic Cigarette Use on Cough Reflex Sensitivity | conds: Cough | intr: electronic cigarette exposure | pubs: ['26291648:RESULT (new)']
+- NCT06363305 | UNKNOWN | results=False | NA | Impact of Sex in the Effect of Dietary Capsaicin on Cardiovascular Health | conds: Pre Hypertension, Hypertension | intr: Dietary capsules
+- NCT02171182 | COMPLETED | results=False |  | A Study of Efficacy and Safety of Qutenza in Patients With Post-operative Peripheral Neuropathic Pain | conds: Post-operative Peripheral Neuropathic Pain | intr: Qutenza
+- NCT01981395 | COMPLETED | results=False | PHASE1 | Fenobam on Heat/Capsaicin Induced Hyperalgesia in Healthy Volunteers | conds: Hyperalgesia, Allodynia | intr: Fenobam, Placebo
+- NCT00132392 | COMPLETED | results=False | PHASE2 | ALGRX 4975 After Total Knee Replacement | conds: Arthroplasty, Replacement, Knee, Knee Injuries | intr: ALGRX 4975
+- NCT03363698 | COMPLETED | results=False |  | MCT and Capsaicin Provocation Challenge in Diagnosis of Chronic Cough | conds: Cough, Cough Variant Asthma, Upper-Airway Cough Syndrome, GERD | intr: Cough variant asthma treatment
+- NCT00916942 | COMPLETED | results=False | PHASE2 | Study of NGX-4010 With the Use of Open Label Lidocaine (2.5%)/Prilocaine (2.5%) Cream for the Treatment of Postherpetic Neuralgia (PHN) | conds: Postherpetic Neuralgia | intr: capsaicin 8%, Lidocaine (2.5%)/Prilocaine (2.5%) Cream | pubs: ['22182397:DERIVED (new)']
+- NCT03794388 | COMPLETED | results=True | PHASE3 | Evaluation in the Treatment of Neuropathic Pain Post Breast Surgery | conds: Breast Cancer Patient | intr: Capsaicin, Pregabalin
+- NCT01748435 | UNKNOWN | results=False |  | Pre-emptive Analgesia With Qutenza in Lower Limb Amputation | conds: Neuropathic Pain, Lower Limb Amputation | intr: Qutenza
+- NCT02228928 | COMPLETED | results=False | PHASE1,PHASE2 | Study of Capsaicin Patch for the Management of Peripheral Neuropathic Pain | conds: Peripheral Nerve Injury, Postherpetic Neuralgia | intr: CAPNP, 50 ug/cm2 capsaicin patch, CAPNP, 100 ug/cm2 capsaicin patch, 0.075% capsaicin cream, Placebo | pubs: ['28158151:DERIVED (new)']
+- NCT05768477 | RECRUITING | results=False |  | Different Treatments in Chronic Pain Patients. | conds: Chronic Pain, Nociplastic Pain | intr: Consultation, Interventions, Baxter therapy, Interdisciplinary therapy
+- NCT04918069 | COMPLETED | results=False | PHASE2 | Capsaicin to Prevent Delayed Chemotherapy Induced Nausea and Vomiting (CapCIN) | conds: Chemotherapy-induced Nausea and Vomiting | intr: Capsaicin, Placebo | pubs: ['38905580:DERIVED (new)']
+- NCT02869867 | COMPLETED | results=True | NA | Does the Application of Cold Decreases the Pain Associated in the Pose of a Patch of Capsaicine at High Concentration on the Carrier Patient | conds: Localized Neuropathic Pain | intr: refrigerated cushion | pubs: ['39532578:RESULT (new)']
+- NCT02533076 | COMPLETED | results=False | EARLY_PHASE1 | The Functional Consequences of the CTNS-deletion for the TRPV1-receptor in Cystinosis Patients | conds: Cystinosis | intr: Challenge agent: capsaicin, Challenge agent: placebo, Mechanical stimulation with Von Frey filaments | pubs: ['27734949:DERIVED (new)']
+- NCT04048031 | COMPLETED | results=False | NA | Efficacy and Safety of a Nutraceutical Supplement With Standardized Botanicals in Peri-menopausal and Menopausal Women With Thinning Hair | conds: Hair Thinning | intr: Nutrafol Supplement Capsules, Placebo Capsules | pubs: ['35816069:DERIVED (new)', '33400421:DERIVED (new)']
+- NCT00699556 | COMPLETED | results=True | PHASE2 | Do Treatments for Smoking Cessation Affect Alcohol Drinking? Study 1: Nicotine Replacement Therapy | conds: Alcohol Drinking | intr: 21mg transdermal nicotine patch (Nicoderm CQ), 1mg nicotine nasal spray, placebo nasal spray
+- NCT00008476 | COMPLETED | results=False | PHASE2 | Capsaicin to Control Pain Following Third Molar Extraction | conds: Facial Pain | intr: Capsaicin
+- NCT06612658 | UNKNOWN | results=False | NA | Acute Effect of Capsimax on Resistance Exercise Performance, Muscle Oxygenation, Nitric Oxide Release, Resting Energy Expenditure and Reacti | conds: None Volunteer | intr: A novel, proprietary encapsulated form of Capsicum extract in beadlet form standardized to 2% capsai
+- NCT05093478 | COMPLETED | results=True | PHASE3 | The Prevalence of Local Immunoglobulin E (IgE) Elevation and Its Effect on Intranasal Capsaicin Therapy in the Non-allergic Rhinitis Populat | conds: Non-allergic Rhinitis | intr: Intranasal capsaicin, topical lidocaine
+- NCT05720871 | UNKNOWN | results=False | NA | Treatment of Chronic Post-stroke Oropharyngeal Dysphagia With Paired Stimulation | conds: Oropharyngeal Dysphagia, Stroke, Stroke, Complication, Swallowing Disorder | intr: rTMS + capsaicin 150μM (natural TRPV1 agonist), tDCS + capsaicin 150μM (natural TRPV1 agonist) | pubs: ['27398981:RESULT (new)', '32449296:RESULT (new)', '30941716:RESULT (new)', '28872738:RESULT (new)', '33799960:RESULT (new)', '30956054:RESULT (new)', '36142680:RESULT (new)', '31068978:RESULT (new)', '9291902:RESULT (new)', '21441148:RESULT (new)', '23279198:RESULT (new)', '12849236:RESULT (new)']
+- NCT02183519 | COMPLETED | results=True | PHASE1,PHASE2 | Respiratory Kinematics of Cough in Healthy Older Adults and Parkinson's Disease | conds: Cough, Parkinson's Disease | intr: Capsaicin, Voluntary cough test
+- NCT06197529 | COMPLETED | results=False | NA | Is Nociceptive Processing Evoked by Heat Homeostatically Regulated: A Contact-heat Evoked Potentials Study | conds: Healthy | intr: Homeostatic Plasticity, Topical alone (Capsaicin 8% Patch), Placebo Patch, Homeostatic Plasticity (S
+- NCT04704453 | COMPLETED | results=False | PHASE2 | Study to Evaluate the Interest of Qutenza in Patients With Head and Neck Cancer in Remission and With Sequelae Neuropathic Pain. | conds: Head and Neck Cancer | intr: Capsaïcin patch (Qutenza®), Amitriptyline (Laroxyl®)
+- NCT05649228 | COMPLETED | results=False | EARLY_PHASE1 | Thermosensitivity of a Topical Palmitated Formulation of Capsaicin | conds: Pain Management | intr: Capsaicin 0.1% Cream, Capsaicin Palmitate 0.25% Cream, Placebo Cream
+- NCT00146198 | COMPLETED | results=False | PHASE2 | Efficacy and Safety of ALGRX 4975 in Treatment of Postoperative Pain After Hernia Repair | conds: Postoperative Pain | intr: ALGRX 4975
+- NCT06390358 | UNKNOWN | results=False | NA | Effects of Remote Cardiac Ischemic Preconditioning | conds: Cardiac Function and Preconditioning | intr: Tefillin
+- NCT00912262 | COMPLETED | results=False | PHASE1 | A Study to Investigate the Tolerability and Effects on Epidermal Nerve Fiber Density of Multiple Low-Concentrations of NGX-1998 in Healthy V | conds: Pain | intr: Capsaicin Topical Liquid
+- NCT00034710 | COMPLETED | results=False | PHASE2 | Pilot Study of High-Dose Capsaicin Patches to Treat Postherpetic Neuralgia Pain | conds: Neuralgia, Pain, Peripheral Nervous System Diseases, Herpes Zoster | intr: Capsaicin Patch
+- NCT01699854 | TERMINATED | results=False | PHASE3 | Capsaicin Patch 8 % for the Treatment of Persistent Pain After Inguinal Herniotomy | conds: Persistent Pain After Inguinal Herniotomy | intr: capsaicin patch (qutenza), Placebo | pubs: ['25290151:DERIVED (new)']
+- NCT03281941 | UNKNOWN | results=False | NA | ToAST:Investigating the Effect of Bronchial Thermoplasty on Cough in Patients With Severe Asthma | conds: Asthma Chronic, Cough | intr: Inhaled capsaicin cough challenge
+- NCT06444919 | RECRUITING | results=False | PHASE4 | Capsaicin in Digital Osteoarthritis Versus Control | conds: Osteoarthritis Hand, Neuropathic Pain | intr: Capsaicin 179 Mg Cutaneous Patch, Capsaicine low dose 0.04 % | pubs: ['40050054:DERIVED (new)']
+- NCT03122145 | COMPLETED | results=True | PHASE1,PHASE2 | Normal Breathing and Swallowing in Healthy Volunteers | conds: Healthy | intr: Capsaicin, Videofluoroscopic swallow study
+- NCT02695745 | COMPLETED | results=False | PHASE1 | Experimental Biomarker Study for Pain Thresholds | conds: Pain | intr: V116517 aqueous suspension, Celecoxib capsules, Placebo, Capsaicin
+- NCT07443553 | NOT_YET_RECRUITING | results=False | NA | Alcohol Neurolysis and Capsaicin for Postamputation Pain (PAP) | conds: Postamputation Pain | intr: Injection of alcohol near neuroma, Lidocaine 2% injection, Injection of capsaicin 150 mcg per mL if 
+- NCT07719868 | NOT_YET_RECRUITING | results=False | NA | TaVNS for Capsaicin-Induced Pain | conds: Pain Management, Capsaicin-Induced Pain, Transcranial Magnetic Stimulation Repetitive, Electroencephalography | intr: Transcutaneous Auricular Vagus Nerve Stimulation, Transcutaneous Auricular Vagus Nerve Stimulation
+- NCT02854670 | TERMINATED | results=False | PHASE2,PHASE3 | A Study of the Effects of Topical Capsaicin in the Treatment of Provoked Vestibulodynia | conds: Vestibulodynia | intr: Capsaicin patch
+- NCT03511846 | ENROLLING_BY_INVITATION | results=False | PHASE1 | Pain Biomarker Study | conds: Migraine, Cluster Headache, Trigeminal Autonomic Cephalgia, Hemicrania Continua | intr: Oral capsaicin, Topical capsaicin, Intranasal capsaicin, Cold Water Irrigation
+- NCT00233155 | COMPLETED | results=False | PHASE2 | Study of NGX-4010 for the Treatment of Painful HIV-Associated Neuropathy (HIV-AN) or Postherpetic Neuralgia (PHN) | conds: Herpes Zoster, Neuralgia, Pain, HIV Infections | intr: Capsaicin Dermal Patch | pubs: ['20538187:DERIVED (new)']
+- NCT07251387 | RECRUITING | results=False | NA | Muscle Synergies in Pain and Pain Anticipation | conds: Pain, Nocebo Effect, Pain Anticipation | intr: Pain expectation conditioning, Gait assesment
+- NCT03321019 | COMPLETED | results=True |  | Airway Protective Mechanisms in PD (R01) | conds: Parkinson Disease | intr: Capsaicin, Resistive respiratory loads, Event-related evoked potential using electroencephalography 
+- NCT00089557 | TERMINATED | results=False | PHASE2 | An Open-Label Extension Study of NGX-4010 for the Treatment of Neuropathic Pain | conds: Herpes Zoster, Neuralgia, Pain, HIV Infections | intr: Capsaicin Dermal Patch
+- NCT02823912 | UNKNOWN | results=False | PHASE2,PHASE3 | Capsaicin Effect on Cytokines Profile in Dyslipidemia | conds: Dyslipidemia, Overweight or Obesity | intr: Capsaicin, Magnesia calcinada
+- NCT05298202 | COMPLETED | results=True | PHASE4 | The Influence of Capsaicin Gel During Exercise Within the Heat | conds: Acute Exercise, Heat Exposure | intr: Capsaicin, Control Gel, Exercise, Hot environment
+- NCT03330639 | WITHDRAWN | results=False | NA | Capsaicin in Treatment of Rhinogenic Headache | conds: Headache Disorders | intr: Capsaicin, Placebo
+- NCT02138630 | WITHDRAWN | results=False | NA | Capsaicinoid Ingestion, Human Metabolism and Exercise (Phase 2) | conds: Metabolism, Exercise | intr: Capsaicin, Placebo
+- NCT03206567 | COMPLETED | results=False | NA | Efficacy and Safety of a Nutraceutical Supplement With Standardized Botanicals in Women With Thinning Hair | conds: Hair Thinning | intr: Nutrafol Supplement capsules, Placebo capsules | pubs: ['29742189:DERIVED (new)']
+- NCT02522611 | NOT_YET_RECRUITING | results=False | PHASE1,PHASE2 | Periganglionic Resiniferatoxin for the Treatment of Intractable Pain Due to Cancer-induced Bone Pain | conds: Intractable Pain, Palliative Care | intr: Resiniferatoxin
+- NCT02962050 | COMPLETED | results=False |  | Delineating Swallowing Impairment and Decline in ALS | conds: Amyotrophic Lateral Sclerosis | intr: Videofluoroscopic Swallowing Study (VFSS), Voluntary Peak Cough Flow Testing, Iowa Oral Performance 
+- NCT00468390 | COMPLETED | results=False |  | Capsaicin-Evoked Pain in Patients With CRPS | conds: CRPS (Complex Regional Pain Syndromes) | intr: 
+- NCT01540877 | COMPLETED | results=False | NA | A Human Experimental Model for Neuropathic Pain Using Combined Application of Capsaicin and Local Anesthetics | conds: Ipsi- and Contralateral Hypoesthesia | intr: Application of capsaicin 0.6%, Application of local anesthetics (EMLA plaster), Application of 1 cap | pubs: ['28335745:DERIVED (new)']
+- NCT07640438 | RECRUITING | results=False | PHASE1 | Healthy Participants Randomized, Double-blind, Placebo-controlled, Phase Ⅰ | conds: Healthy Participants Study | intr: BY002, Placebo
+- NCT01777672 | COMPLETED | results=False | PHASE2 | Effect of Afferent Oropharyngeal Pharmacological and Electrical Stimulation on Swallow Response and on Activation of Human Cortex in Stroke  | conds: Dysphagia, Aspiration, Stroke | intr: Dietary and oral hygiene recommendations, oral TRPV1 agonist, pharyngeal electrical stimulation, tra
+- NCT05813223 | UNKNOWN | results=False | EARLY_PHASE1 | Effect of Gefapixant on Cough-related Brain Activity in Patients With Chronic Cough | conds: Chronic Cough | intr: Gefapixant
+- NCT02710162 | COMPLETED | results=False | EARLY_PHASE1 | Accurate Screening Tools for Dysphagia in Amyotrophic Lateral Sclerosis (ALS) | conds: Amyotrophic Lateral Sclerosis | intr: Micro Mouth Pressure Meter, Iowa Oral Performance Instrument, Electrical Impedance Myography, Capsai
+- NCT01393795 | COMPLETED | results=False | PHASE2 | Qutenza®-Remodulin® in Pulmonary Arterial Hypertension Patients | conds: Pulmonary Hypertension, Pain | intr: Qutenza, Tegaderm | pubs: ['24062200:DERIVED (new)']
+- NCT07060976 | COMPLETED | results=False | NA | To Check Dermatological Safety of Test Products by 24 Hours Patch Testing | conds: Healthy Participants | intr: 18 Transdermal patches along with positive and negative controls 1)Capsaicin0.025% Topical Patch, 2)
+- NCT00302276 | COMPLETED | results=False | PHASE2,PHASE3 | Weight Loss Maintenance of a New Bioactive Compound (Metobes-Long) | conds: Obesity | intr: Metobes-compound
+- NCT01125215 | UNKNOWN | results=False | PHASE2,PHASE3 | Capsaicin Nanoparticle in Patient With Painful Diabetic Neuropathy | conds: Painful Diabetic Neuropathy | intr: 0.75% capsaicin nanoparticle cream, Placebo
+- NCT00088686 | COMPLETED | results=False | PHASE2 | Capsaicin to Control Pain Following Third Molar Extraction | conds: Healthy, Tooth Extraction | intr: Capsaicin (Intramucosal Injection)
+- NCT00870896 | COMPLETED | results=True | EARLY_PHASE1 | The Effects of Tiotropium on the Cough Reflex in Patients With Chronic Obstructive Pulmonary Disease (COPD) | conds: Chronic Obstructive Pulmonary Disease, Chronic Bronchitis | intr: Tiotropium
+- NCT06971250 | COMPLETED | results=False | EARLY_PHASE1 | Peripheral KV7 Activation for Pain Relief | conds: Pain | intr: Capsaicin only (7.6 ng), Capsaicin + Flupirtine 0.5 µg, Capsaicin + Flupirtine 1.2 µg, Capsaicin + F
+- NCT02441660 | COMPLETED | results=True | NA | Capsaicin 8% Patch for Spinal Cord Injury Neuropathic Pain | conds: Spinal Cord Injuries, Neuropathic Pain | intr: Capsaicin 8% Patch, Low Dose Capsaicin 0.025% Well Patch
+- NCT05625776 | COMPLETED | results=False | NA | Effects of Acute Pain on Cognitive Performance in Young Adults | conds: Pain, Acute, Cognition | intr: pain delivery with capsaicin and heat, distractor delivery with sensory TENS
+- NCT01575106 | COMPLETED | results=True | NA | The Neurobiology of Expectancy and Pain Perception | conds: Pain | intr: Heat pain applied using TSA or CHEPS
+- NCT00471055 | COMPLETED | results=False | PHASE3 | Efficacy Study on Symptomatic Control of Patient With Knee Osteoarthritis Between 0.0125% of Capsaicin to Placebo | conds: Osteoarthritis, Knee Joint, Capsicum | intr: 0.0125% Capsaicin gel "CAPSIKA gel", Placebo
+- NCT00693407 | COMPLETED | results=False | NA | Study of Endogenous Inhibitory Modulation During Gastric and Somatic Stimulation | conds: Functional Dyspepsia | intr: gastric capsaicin with heterotopic stimulation/ distraction
+- NCT02822625 | COMPLETED | results=False | PHASE3 | Efficacity of a Standardized Hypnotic Message During the Application of a Qutenza (Capsaicin) 8% Patch | conds: Pain | intr: QUTENZA®, hypnotic message, music therapy | pubs: ['34044838:RESULT (new)']
+- NCT00133133 | COMPLETED | results=False | PHASE2 | Efficacy and Safety of ALGRX 4975 in the Treatment of Postoperative Pain After Gall Bladder Removal | conds: Postoperative Pain | intr: ALGRX 4975
+- NCT05332743 | COMPLETED | results=False | NA | Nutraceutical Supplement With Vegan Botanicals in Females With Self-Perceived Thinning Hair | conds: Hair Thinning | intr: Nutrafol Vegan Women's Hair Supplement | pubs: ['39093662:DERIVED (new)']
+- NCT01439308 | COMPLETED | results=False | PHASE2 | Intranasal SB-705498 in Non-allergic Rhinitis Patients | conds: Rhinitis | intr: Placebo, SB-705498
+- NCT07947511 | NOT_YET_RECRUITING | results=False | NA | Oral-Challenge Study: Steady-State High-ORP Water/Gel Relieves AITC- and Capsaicin-Induced Oral Pain in Healthy Volunteers | conds: Oral Mucosal Pain, Oral Mucosal Irritation, TRPA1-Mediated Pain, TRPV1-Mediated Pain | intr: Stabilized 780±21 mV High-Oxidation-Potential Water
+- NCT00692601 | COMPLETED | results=False | PHASE1 | The Acute Effects of Capsiate During Exercise | conds: Healthy | intr: Acute consumption of Capsiate Natura, Acute consumption of Capsiate Natura, Acute ingestion of ident
+- NCT00683267 | TERMINATED | results=False | PHASE2 | Efficacy and Safety Study of 4975 in Patients Undergoing Total Hip Replacement | conds: Arthroplasty | intr: 4975, highly purified capsaicin, Placebo
+- NCT05339958 | COMPLETED | results=False | NA | Nutraceutical Supplement With Standardized Botanicals in Males With Thinning Hair | conds: Hair Thinning | intr: Nutrafol® Men Hair Growth Nutraceutical, Placebo Supplement
+- NCT02766517 | COMPLETED | results=True | EARLY_PHASE1 | Biomarker Study in Participants With Migraine | conds: Migraine Disorders | intr: Capsaicin
+- NCT00130949 | COMPLETED | results=False | PHASE2 | ALGRX 4975 in the Treatment of Tennis Elbow | conds: Tennis Elbow | intr: ALGRX 4975
+- NCT05106400 | COMPLETED | results=False | PHASE1 | Clinical Adhesion Study Between ZTlido 1.8% and Three Over-the-counter External Analgesic Lidocaine-containing Patches | conds: Healthy | intr: ZTlido (Lidocaine Topical System) 1.8%, Salonpas (Lidocaine Patch 4%), Aspercreme (Lidocaine Patch 4
+- NCT02493257 | COMPLETED | results=True | PHASE2 | Intranasal Capsaicin Treatment for Non-Allergic Irritant Rhinitis | conds: Nonallergic Irritant Rhinitis | intr: Capsaicin, Placebo
+- NCT04399148 | COMPLETED | results=False | NA | Influence of Antipruritics on the Dermal Blood Flow Response to Histamine, Cinnamaldehyde and Capsaicin. | conds: Pruritus | intr: Desloratadine 5 mg, Aprepitant 125 mg, Ketotifen 1 MG
+- NCT00697034 | TERMINATED | results=False | PHASE4 | Effects of Capsaicin on the Structure, Distribution, and Function of Cutaneous Small Nerve Fibers in Psoriatic Skin | conds: Psoriasis | intr: Capsaicin
+- NCT01907321 | COMPLETED | results=True | PHASE1,PHASE2 | Cough and Swallow Rehab Following Stroke | conds: Ischemic Stroke | intr: Expiratory muscle strength training, Placebo expiratory training, Measures performed on all subjects | pubs: ['27130637:DERIVED (new)']
+- NCT04361149 | COMPLETED | results=False | PHASE4 | Motor Unit Abnormalities After Experimentally Induced Sensitization | conds: Central Sensitisation, Motor Disorders | intr: Capsaicin Topical Cream (0.075%), Delsys Trigno Galileo System, Excaliber, Natus Medical, Placebo Cr | pubs: ['34215800:DERIVED (new)']
+- NCT01037816 | COMPLETED | results=True | PHASE4 | FS-67 in the Treatment of Pediatric Patients With Ankle Sprain | conds: Ankle Sprain | intr: FS-67 Patch, Placebo Patch
+- NCT03952845 | NOT_YET_RECRUITING | results=False | NA | Intranasal Capsaicinoid Spray | conds: Tolerance, Capsaicin, Rhinitis | intr: Capsaicinoid
+- NCT03883880 | TERMINATED | results=False | NA | Salivary Interactions With Chemosensations | conds: Diet, Food Choice, Taste | intr: Epigallocatechin gallate, Epigallocatechin gallate control, Linoleic acid, Linoleic acid control | pubs: ['34655570:DERIVED (new)']
+- NCT02139852 | WITHDRAWN | results=False |  | Capsaicinoid Ingestion, Human Metabolism and Exercise | conds: Metabolism | intr: Capsaicin
+- NCT01566968 | COMPLETED | results=False |  | Novel Endpoints in Cough Challenge Testing | conds: Chronic Obstructive Pulmonary Disease, Asthma, Healthy, Chronic Cough | intr: Cough challenge test, 24 hour ambulatory cough recording, Cough quality of life questionnaire
+- NCT01854268 | COMPLETED | results=True | PHASE1,PHASE2 | Respiratory Kinematics During Voluntary and Reflex Cough in Healthy Adults | conds: Cough | intr: Healthy adults who receive capsaicin
+- NCT03944889 | COMPLETED | results=False | EARLY_PHASE1 | Quantitative Ultrasound Response of Capsaicin | conds: Central Sensitisation | intr: Capsaicin, Delsys Trigno Galileo System, Cadwell Sierra Wave, Sonosite Ultrasound Machine | pubs: ['33308274:DERIVED (new)']
+- NCT06614608 | UNKNOWN | results=False | PHASE1 | The Safety and Pharmacokinetics of ASKC200 in Osteoarthritic Knee Pain | conds: Osteoarthritis, Knee, Pain | intr: 5% ASKC200, 1% ASKC200
+- NCT02390089 | COMPLETED | results=False | PHASE1 | Cough According to Stimulus Type in PD | conds: Parkinson's Disease | intr: Capsaicin vapor, fog, Videofluoroscopic swallow evaluation, Nebulizer
+- NCT01704339 | UNKNOWN | results=False | PHASE4 | Qutenza for Critical Ischaemia in End Stage Renal Failure | conds: End Stage Renal Failure, Neuropathic Pain | intr: QUTENZA
+- NCT06809569 | COMPLETED | results=False | PHASE1 | A Study to Evaluate Laser Speckle Contrast Imaging to Assess Changes in Chemical Agent-Induced Skin Blood Flow in Healthy Participants (MK-0 | conds: Healthy | intr: Allyl Isothiocyanate (AITC), Capsaicin, Vehicle for AITC, Vehicle for Capsaicin
+- NCT02550756 | COMPLETED | results=False | PHASE1 | Study to Evaluate the Safety and Tolerability of CNTX-4975 in Subjects With Painful Intermetatarsal Neuroma (Morton's Neuroma) | conds: Morton's Neuroma | intr: CTNX-4975
+- NCT00321672 | COMPLETED | results=True | PHASE3 | Study of NGX-4010 for the Treatment of Painful HIV-Associated Neuropathy | conds: Pain, HIV Infections, Peripheral Nervous System Diseases | intr: NGX-4010, 8% capsaicin patch, 0.04% capsaicin patch, NGX-4010, 8% capsaicin patch, 0.04% capsaicin p | pubs: ['23351618:DERIVED (new)', '22067661:DERIVED (new)']
+- NCT03899246 | COMPLETED | results=False | PHASE1 | Sickle Cell Pain: Intervention With Capsaicin Exposure | conds: Neuropathic Pain, Sickle Cell Disease | intr: Eight Percent Topical Capsaicin
+- NCT05265871 | COMPLETED | results=True |  | ATP Level and Cough Sensitivity to ATP in Subjects With Refractory/Unexplained Chronic Cough | conds: Refractory/Unexplained Chronic Cough | intr: 
+- NCT03306927 | ACTIVE_NOT_RECRUITING | results=False | NA | Effect of Peas in Chili on Blood Glucose and Appetite Control | conds: Post-prandial Glycaemic Response, Satiety | intr: Whole yellow pea chili, Split yellow pea chili, Rice chili
+- NCT03128684 | COMPLETED | results=False | NA | The Effects of Lentil-containing Food Products on Satiety and Food Intake | conds: Appetite, Satiety, Food Intake | intr: Small Green Lentil Muffin, Split Red Lentil Muffin, Wheat Muffin, Small Green Lentil Chili | pubs: ['31152672:DERIVED (new)']
+- NCT04436445 | UNKNOWN | results=False | NA | Effect of Neurogenic Acupoint CUPPING ON WOMEN WITH CHRONIC PELVIC PAIN | conds: Chronic Pelvic Pain | intr: dry cupping, Life style modification
+- NCT01773356 | COMPLETED | results=False | NA | Effect of Dihydrocapsiate on Energy Expenditure in Women | conds: Obesity | intr: Dihydrocapsiate
+- NCT01142687 | COMPLETED | results=False | NA | Effects of Dihydrocapsiate on Adaptive and Diet-Induced Thermogenesis With a High Protein Very Low Calorie Diet | conds: Healthy | intr: dihydrocapsiate capsule | pubs: ['20925950:RESULT (new)']
+- NCT04004715 | COMPLETED | results=False | NA | Effects of Protein Quality on Post-exercise Skeletal Muscle and Whole-body Protein Kinetics During Energy Deficit | conds: Whole-body Protein Balance, Muscle Protein Synthesis | intr: Essential Amino Acid Enriched Whey Protein, Whey Protein, Military Ration Entree | pubs: ['33413462:DERIVED (new)']
+- NCT06472011 | COMPLETED | results=False | NA | Effects of Common Meals on Appetite and Satiety | conds: Healthy | intr: lean steak and potatoes, lentil and sweet potato chili, macaroni and cheese, fish tacos
+- NCT00999297 | COMPLETED | results=False | NA | Effect of 4-week Dihydrocapsiate Ingestion on Resting Metabolic Rate | conds: Obesity, Weight | intr: Dihydrocapsiate, Dihydrocapsiate, Dihydrocapsiate | pubs: ['19671203:RESULT (new)', '20826626:DERIVED (new)']
+- NCT00825838 | COMPLETED | results=False | PHASE2 | Effect of Chili Pepper Extract on Weight and Fat Loss and Metabolism Increase | conds: Overweight, Obesity | intr: Chronic consumption of chili pepper extract, Chronic consumption of matching placebo
+- NCT02594553 | COMPLETED | results=False | NA | Optimizing Management and Medication of Febrile Children in Out-of-hours Primary Care: CHILI Cluster RCT | conds: Antibiotic Prescriptions, Infection | intr: GP-parent information-exchange tool | pubs: ['29987079:DERIVED (new)', '27855719:DERIVED (new)']
+- NCT02050165 | COMPLETED | results=False | NA | Snacking, Satiety &Weight: A Randomized, Controlled Trial | conds: Obesity | intr: KIND Bars, Typical American Snack
+- NCT04256733 | COMPLETED | results=True | EARLY_PHASE1 | Cough Desensitization Therapy for Cough Hypersensitivity Syndrome | conds: Cough | intr: Supra-threshold and progressive doses of diluted capsaicin via a Koko Digidoser nebulizer, Sub-thres | pubs: ['35091204:DERIVED (new)']
+- NCT07602361 | ACTIVE_NOT_RECRUITING | results=False | NA | Genetic Markers Associated With Capsaicinoid Supplementation Effects in Overweight and Obesity | conds: Overweight and Obesity | intr: Capsipro supplementation, Corn starch placebo
+- NCT06470997 | RECRUITING | results=False |  | Specific Biomarkers of Immune-mediated Hepatitis Secondary to Immune Checkpoint Inhibitors | conds: Immune-mediated Hepatitis | intr: Blood sample collection, Liver biopsy
+- NCT05226299 | COMPLETED | results=False | PHASE1 | Cough Desensitization Therapy: Pilot 2 | conds: Cough | intr: Supra-threshold and progressive doses of diluted capsaicin via a dosimeter-controlled nebulizer, Sal | pubs: ['37118696:DERIVED (new)']
+- NCT04337255 | ACTIVE_NOT_RECRUITING | results=False | NA | Mediterranean-DASH Intervention for Neurodegenerative Delay (MIND) Diet in Stroke Patients Patients | conds: Cognitive Decline, Dementia, Vascular, Alzheimer Disease, Dementia | intr: Behavioral Dietary intervention ( MIND Diet), Behavioral Usual Care Diet Intervention | pubs: ['41052713:RESULT (new)', '31686099:RESULT (new)']
+- NCT02923089 | COMPLETED | results=False | NA | Postprandial Blood Glucose and Insulin Levels Following Consumption of Lentil-containing Food Products | conds: Postprandial Glycemia in Healthy Adults | intr: Muffin: 25g available carbohydrate from small green lentil, Muffin: 25g available carbohydrate from 
+- NCT02193438 | COMPLETED | results=False | NA | Physiologic Effect of Spices Ingestion | conds: Healthy | intr: Spices intake, Placebo | pubs: ['32064725:DERIVED (new)', '26883089:DERIVED (new)']
+- NCT06376890 | UNKNOWN | results=False | NA | Effects of Chili Pepper on Inflammation and Glycemic Control in Southern New Mexico | conds: Prediabetes | intr: Red chili peppers, Green Chili Pepper, Placebo
+- NCT04125563 | COMPLETED | results=False | PHASE2 | Influence on Cough and Airway Symptoms by Oral Capsaicin | conds: Cough | intr: Capsicum Oleoresin, Placebos | pubs: ['42548348:DERIVED (new)']
+- NCT04476563 | RECRUITING | results=False |  | Checkpoint Inhibitor-induced Liver Injury | conds: Immune-Mediated Hepatitis | intr: Obtaining biological samples | pubs: ['40317333:DERIVED (new)']
+- NCT06748313 | COMPLETED | results=False | NA | Fermented Food - Achars (fermented Pickles) in Pakistan | conds: Maternal Health, Gut Health | intr: Mango Pickle (Water-Based), Mango Pickle (Oil Based), Carrot Pickle (Water-Based), Radish Pickle (Wa
+- NCT05059418 | UNKNOWN | results=False | NA | Burning Mouth Syndrome - New Diagnostic Criteria and Treatment | conds: Burning Mouth Syndrome | intr: Clonazepam 0.5 MG, Capsaicin Topical, Placebo
+- NCT07927101 | NOT_YET_RECRUITING | results=False | NA | Effects of a Preoperative Capsaicin-Containing Diet on Postoperative Liver Injury Repair | conds: Postoperative Liver Injury | intr: Capsaicin-Containing Jelly, Placebo Jelly
+- NCT04257825 | COMPLETED | results=False | NA | Use of Temperature Controlling Mattress Pad for Sleep Improvement | conds: Sleep | intr: Chili Sleep System
+- NCT07016074 | RECRUITING | results=False | PHASE2 | Inorganic Nitrate (NaNO3) Prevention of Contrast-Associated Acute Kidney Injury | conds: Kidney Injury, Acute | intr: Sodium Nitrate, Placebo
+- NCT00816192 | TERMINATED | results=False | NA | Comparison of Externally Versus Internally Cooled Tip Catheter Ablation in Paroxysmal Atrial Fibrillation | conds: Atrial Fibrillation | intr: Long-term electrical isolation of pulmonary veins
+- NCT02006771 | COMPLETED | results=False | NA | Cultural Meal and Postprandial Oxidative Stress | conds: Oxidative Stress | intr: Southern Chinese meal, Northern Chinese meal, American meal, South Indian meal
+- NCT01628198 | TERMINATED | results=True | NA | Impact of Renal SympAthetic DenerVation on Chronic HypErtension | conds: Uncontrolled Hypertension | intr: Celcius Thermacool Catheter or Chilli II Cooled Ablation Catheter
+- NCT00911508 | COMPLETED | results=True | NA | Catheter Ablation vs Anti-arrhythmic Drug Therapy for Atrial Fibrillation Trial | conds: Atrial Fibrillation, Arrhythmia | intr: Left atrial ablation, Rate or Rhythm Control Therapy | pubs: ['41526927:DERIVED (new)', '41314687:DERIVED (new)', '41213867:DERIVED (new)', '40839264:DERIVED (new)', '40645418:DERIVED (new)', '40243977:DERIVED (new)', '38629286:DERIVED (new)', '38307365:DERIVED (new)', '36688367:DERIVED (new)', '35640922:DERIVED (new)', '34933570:DERIVED (new)', '34238436:DERIVED (new)', '33848199:DERIVED (new)', '33554614:DERIVED (new)', '33499668:DERIVED (new)', '32586583:DERIVED (new)', '30874766:DERIVED (new)', '30874716:DERIVED (new)', '29754661:DERIVED (new)']
+- NCT00773539 | UNKNOWN | results=False | PHASE4 | A Prospective Randomized Study Comparing Radiofrequency Energy With Cryoenergy | conds: Atrial Fibrillation Ablation | intr: PVI using an open irrigated tip catheter, PVI using a closed irrigated tip catheter, PVI using a cry | pubs: ['24172190:DERIVED (new)', '21920484:DERIVED (new)']
+- NCT05395234 | COMPLETED | results=False | NA | Cook Like A Boss Online: A Virtual One-week 'Camp-style' Cooking Intervention | conds: Perceptions, Self | intr: Cook Like A Boss Online - virtual week long cooking camp | pubs: ['36494840:DERIVED (new)']
+- NCT00578617 | COMPLETED | results=True | NA | Ablation vs Drug Therapy for Atrial Fibrillation - Pilot Trial | conds: Atrial Fibrillation, Arrhythmia | intr: Rate Control, Ablation Therapy, Rate Control, Rate control
+- NCT07657936 | COMPLETED | results=False | NA | Eye Care Benefits of Anti-Aging Compound Capsules in Healthy Adults | conds: Eye Fatigue | intr: Anti-Aging Compound Capsules
+- NCT02710110 | COMPLETED | results=False | EARLY_PHASE1 | Respiratory Strength Training in Persons With Amyotrophic Lateral Sclerosis (ALS) | conds: Amyotrophic Lateral Sclerosis | intr: PowerLung trainer, Micro Mouth Pressure Meter, Pulmonary Function Testing, Videofluoroscopic swallow
+- NCT06021639 | COMPLETED | results=False | NA | Comparison of Bowel Cleansing Regimens for Colonoscopy | conds: Colonoscopy Preparation | intr: The last 24 hours will consume low fiber food.
+- NCT03110809 | COMPLETED | results=False | NA | The Effects of Capsinoids on Brown Adipose Tissue Activation in Obesity | conds: Weight Loss | intr: Capsinoid, Placebo
+- NCT02916615 | COMPLETED | results=False | NA | Effects of Nitrate in Vegetables on Blood Pressure in Subjects With Prehypertension | conds: Hypertension, Cardiovascular Disease | intr: High nitrate vegetables, Low nitrate vegetables + nitrate, Low nitrate vegetables | pubs: ['41724486:DERIVED (new)', '32091599:DERIVED (new)']
+- NCT07477938 | NOT_YET_RECRUITING | results=False | NA | A Single-Arm Interventional Trial of Pepper- Robot Delivered Cancer Education for Adults With Intellectual Disability | conds: Cancer Awareness and Prevention Education, Breast Cancer Awareness, Intellectual Disabilities (F70-F79) | intr: Robot delivered Education
+- NCT05277155 | UNKNOWN | results=False | PHASE2,PHASE3 | Trial to Study the Efficacy and Safety of BEJO Red Ginger in COVID-19 Patients With Mild Symptoms | conds: COVID-19 | intr: BEJO Red Ginger Extract, Placebo
+- NCT06682390 | RECRUITING | results=False | NA | Role of Race in Nutritional Approach in Men on ADT | conds: Prostate Cancer Metastatic Disease | intr: Hypocaloric anti-inflammatory diet
+- NCT01454674 | COMPLETED | results=False | NA | The Vegetable Dose Response Study: Effects of Consumption on Inflammation and Oxidative Stress | conds: Chronic Disease | intr: 2, 5 & 10 Vegetable doses
+- NCT03514199 | UNKNOWN | results=False | NA | Mediterranean-type Diet for Older Adults With Obstructive Sleep Apnea | conds: Sleep Apnea | intr: Mediterranean-type diet, Low fat diet
+- NCT03410342 | COMPLETED | results=False | NA | The Effects of Types of Fruits and Vegetables on Vascular Function | conds: Blood Pressure, Vascular Stiffness, Cardiovascular Risk Factor | intr: LFV, HFV, CC
+- NCT05500976 | UNKNOWN | results=False | NA | Metabolomics Initiative: Mediterranean-amplified vs Habitual Western Diet on Food Signatures, Health, and Microbiome | conds: Dietary Habits | intr: Semi-controlled dietary intervention - Western, Semi-controlled dietary intervention - MiniMed | pubs: ['38302990:DERIVED (new)', '37918675:DERIVED (new)']
+- NCT02964442 | COMPLETED | results=False | NA | Brown Adipose Tissue Activation and Energy Expenditure by Capsinoids Stimulation With Trimodality Imaging Using 18-FDG-PET, Fat Fraction MRI | conds: Brown Adipose Tissue | intr: Capsinoids, Cold Stimulus | pubs: ['31912874:DERIVED (new)', '31301122:DERIVED (new)', '29381803:DERIVED (new)']
+- NCT01961674 | COMPLETED | results=False | NA | Studying the Effect of Capsinoids on Brown Fat Using Infrared Thermal Imaging. | conds: Obesity, Diabetes, Impaired Glucose Tolerance | intr: Capsinoid/placebo and rice
+- NCT05156697 | COMPLETED | results=False | NA | ACTivating Fat OXidation Through Capsinoids | conds: Overweight and Obesity | intr: Capsinoids + Exercise, Placebo + Exercise | pubs: ['35875695:DERIVED (new)']
+- NCT06520735 | COMPLETED | results=False | NA | Effect of Transcutaneous Electrical Nerve Stimulation Versus Capsicum Plaster on Emesis Gravidarum | conds: Emesis Pregnancy | intr: Transcutaneous electrical nerve stimulation, Capsicum plaster
+- NCT01315041 | COMPLETED | results=False | PHASE1,PHASE2 | "Pi" and Hot Flushes | conds: Menopausal Symptom Relief | intr: Capsicum frutescens fruits, homeopathic medicine, Inert alcoholic solution
+- NCT00875537 | COMPLETED | results=False | NA | Neurogenic Mechanisms in Burning Mouth Syndrome | conds: Burning Mouth Syndrome | intr: Capsaicin oral gel 0.025%, Capsaicin oral gel 0.01%
+
+### OpenAlex no-PMID trial-worded - 12086 hits, 72 without PMID, 72 new
+- new | 2026 | 10.67286/mhmc.v10.i2.000004 | article | Efficacy of Biochemic Preparation of Kalium phosphoricum 6X Versus Conventional Method in the Growth and Yield of Capsicum annuum (Bell Pepper): A Randomized Controlled Trial | Materia Novum The Journal of Homoeopathy
+- new | 2026 | 10.5016/s1980-6574e10251984 | article | Dose-response of capsiate on autonomic response in obese and normal weight young adult men: a randomized, crossover, double-blind placebo-controlled study | Motriz Revista de Educação Física
+- new | 2026 | 10.47836/pjtas.49.5.23 | article | Classification and Prediction of Chilli Powder (Capsicum Annuum L.) Colour Based on Near-Infrared Spectra and Random Forest | Pertanika journal of tropical agricultur
+- new | 2026 | 10.1111/jocd.71327 | article | Efficacy and Short‐Term Tolerability of an Ozonated Oil–Biotin Emulsion for Excessive Scalp Sebum in Adult Women: A Randomized, Double‐Blind, Placebo‐Controlled Trial | Journal of Cosmetic Dermatology
+- new | 2026 | 10.12719/ksia.2026.38.2.125 | article | Evaluation of Regional Adaptability of Chili Pepper (Capsicum annuum L.) Accessions from the World Vegetable Center: Results from 2024-2025 Field Trials | Journal of the Korean Society of Interna
+- new | 2026 | 10.17632/sn8g7f3mv6 | dataset | Nonlinear mixed models for estimating plot size in multiple-harvest sweet pepper trials: a simulation-based evaluation | Mendeley Data
+- new | 2025 | 10.31989/ffhd.v15i6.1657 | article | Effects of dihydrocapsiate on salivary secretion in healthy subjects: A randomized, double-blind, placebo-controlled, crossover study | Functional Foods in Health and Disease
+- new | 2024 | 10.1007/s11104-024-07122-7 | article | Two ecological rules behind randomness in microbiome associated with pepper (Capsicum annuum) root | Plant and Soil
+- new | 2024 | 10.1016/j.jafr.2024.101060 | article | Effects of biofertilizer on the production of bell pepper (Capsicum annuum L.) in greenhouse | Journal of Agriculture and Food Research
+- new | 2023 | 10.1016/j.cdnut.2023.100864 | article | Effect of Capsicum annuum L. cv. Dangjo on the Postprandial Hyperglycemia of Healthy Subjects: A Randomized, Double-Blind, Placebo-Controlled, Parallel Clinical Trial | Current Developments in Nutrition
+- new | 2023 | 10.15586/ijfs.v35i3.2381 | article | Anti-dyslipidemic and anti-hypercholesteremic effects of concoction juice: A randomized, double-blind, placebo controlled trial | Italian Journal of Food Science
+- new | 2023 | 10.11648/j.plant.20231102.11 | article | Trichoderma Bio-inoculant Promotes the Growth and Yield of Pepper (Capsicum annuum L): An Open Field Trial | Plant
+- new | 2023 | 10.1016/j.agsy.2023.103688 | article | Modelling growth of chili pepper (Capsicum annuum L.) with the WOFOST model | Agricultural Systems
+- new | 2021 | 10.21273/horttech04799-21 | article | The Vegetable Variety Navigator Decision-support Tool: An Interactive Visualization of Variety Trial Meta-analysis Results | HortTechnology
+- new | 2021 | 10.1016/j.jff.2021.104445 | article | Effect of a carotenoid-producing Bacillus strain on intestinal barrier integrity and systemic delivery of carotenoids: A randomised trial in animals and humans | Journal of Functional Foods
+- new | 2020 | https://openalex.org/W3082470997 | article | Assessment the efficacy of plant growth regulators on growth and yield of Chilli (Capsicum annuum L.) in Koshi region of Bihar-an on farm Trial | Journal of Pharmacognosy and Phytochemis
+- new | 2020 | 10.21203/rs.3.rs-45649/v1 | preprint | Capsaicin Analog Supplementation is not Effective to Improve 10-km Running Time-Trial Performance in Amateur Athletes: A Randomized, Crossover, Double-Blind and Placebo-Controlled  | Research Square
+- new | 2020 | 10.5753/ercemapi.2020.11464 | conference-paper | Sistema de Classificação do Capsicum Annuum Acometido Pela Doença Fúngica Antracnose Através do Random Forest | Escola Regional de Computação Ceará, Mar
+- new | 2020 | 10.21203/rs.3.rs-45649/v2 | preprint | Capsaicin analog supplementation is not effective to improve 10-km running time-trial performance in amateur athletes: a randomized, crossover, double-blind and placebo-controlled  | Research Square
+- new | 2019 | https://openalex.org/W3043472846 | article | 2018 Mole Pepper Variety Trial | Purdue e-Pubs (Purdue University System)
+- new | 2019 | 10.3390/agronomy9110683 | article | Appropriate Ammonium-Nitrate Ratio Improves Nutrient Accumulation and Fruit Quality in Pepper (Capsicum annuum L.) | Agronomy
+- new | 2018 | https://openalex.org/W3106755389 | dissertation | Analisis Keragaman Genetik Sepuluh Aksesi Cabat Merah(Capsicum annuum L.)Indonesia Menggunakan Marka Random Amplified Polymorphic DNA | 
+- new | 2018 | 10.5114/bta.2017.70795 | article | Estimation of genetic divergence within androgenic regenerants of Capsicum annuum L. ATZ1 × C. frutescens L. F1 plants using random amplified polymorphic DNA markers | Biotechnologia
+- new | 2017 | 10.5539/jas.v9n11p58 | article | Variability and Experimental Desing for Trials with Cucurbita pepo and Capsicum annuum | Journal of Agricultural Science
+- new | 2017 | 10.1016/j.compag.2017.12.001 | article | Data synthesis methods for semantic segmentation in agriculture: A Capsicum annuum dataset | Computers and Electronics in Agriculture
+- new | 2017 | 10.1007/s13165-016-0174-2 | article | A long-term trial to determine variations in the yield and quality of a processing type pepper (Capsicum annuum L. cv. Yalova yağlık-28) in organic and conventional farming systems | Organic Agriculture
+- new | 2017 | 10.1080/01904167.2016.1269342 | article | Physiological responses of pepper plant (Capsicum annuum L.) to drought stress | Journal of Plant Nutrition
+- new | 2017 | https://openalex.org/W2763223289 | article | Effect of zinc oxide nanoparticles on seed germination and seed vigour in chilli (Capsicum annuum L.) | Journal of Pharmacognosy and Phytochemis
+- new | 2017 | 10.1007/978-3-319-54528-8_47-1 | book-chapter | Capsicum annuum Bioactive Compounds: Health Promotion Perspectives | Reference series in phytochemistry
+- new | 2017 | 10.13005/bbra/2434 | article | Effects of Different Organic Fertilizers on Growth, Yield and Quality of Capsicum Annuum L. Var. Kulai (Red Chilli Kulai) | Biosciences Biotechnology Research Asia
+- new | 2017 | https://openalex.org/W7217444548 | article | COMPARATIVE TRIALS ON KAPIJA TYPE PEPPER CULTIVARS | Journal of Agricultural Food and Environ
+- new | 2016 | 10.1007/s13762-016-1088-y | article | Environmental application and phytotoxicity of anaerobic digestate from pig farming by in vitro and in vivo trials | International Journal of Environmental S
+- new | 2016 | 10.5424/sjar/2016142-8175 | article | Relations between zero-inflated variables in trials with horticultural crops | Spanish Journal of Agricultural Research
+- new | 2016 | 10.17362/dbhad.2016618361 | article | DETERMINE THE RELATIONSHIP BETWEEN "ISOT" CONSUMPTION (CAPSICUM ANNUUM L.) AND LIPID LEVEL OF THE PATIENTS ADMITTED TO THE CARDIOLOGY CLINIC. | Uluslararası hakemli beslenme araştırmal
+- new | 2016 | 10.21786/bbrc/9.1/12 | article | Genetic variability, heritability and genetic advances in chilli, Capsicum annuum | Bioscience Biotechnology Research Commun
+- new | 2016 | 10.1590/18069657rbcs20150220 | article | Soil Water Potentials and Capsicum annuum L. under Salinity | Revista Brasileira de Ciência do Solo
+- new | 2015 | 10.1590/1678-457x.6740 | article | Genetic variability for synthesis of bioactive compounds in peppers (Capsicum annuum) from Brazil | Food Science and Technology
+- new | 2015 | https://openalex.org/W2390697616 | article | Appraisal Comparison and Screening Trial of New Pepper Varieties | Heilongjiang nongye kexue
+- new | 2013 | 10.5897/ajb2012.3017 | article | DNA profiling of commercial chilli pepper (Capsicum annuum L.) varieties using random amplified polymorphic DNA (RAPD) markers | AFRICAN JOURNAL OF BIOTECHNOLOGY
+- new | 2013 | 10.1007/s13562-013-0247-1 | article | QTL mapping for important horticultural traits in pepper (Capsicum annuum L.) | Journal of Plant Biochemistry and Biotec
+- new | 2013 | 10.4141/cjps2013-048 | article | Response of greenhouse-grown bell pepper (Capsicum annuum L.) to variable irrigation | Canadian Journal of Plant Science
+- new | 2013 | 10.1016/j.aoas.2013.07.011 | article | Productivity of pepper crop (Capsicum annuum L.) as affected by organic fertilizer, soil solarization, and endomycorrhizae | Annals of Agricultural Science Cairo
+- new | 2013 | 10.4067/s0718-95162013005000006 | article | Arbuscular mycorrhizal inoculation and super phosphate application influence plant growth and yield of Capsicum annuum | Journal of soil science and plant nutrit
+- new | 2012 | 10.1080/01448765.2012.693362 | article | Utilization of inoculum of AM fungi produced on-farm for the production ofCapsicum annuum: A summary of seven years of field trials on a conventional vegetable farm | Biological Agriculture & Horticulture
+- new | 2012 | 10.1007/s10681-012-0761-6 | article | Prediction of sweet pepper (Capsicum annuum) flavor over different harvests | Euphytica
+- new | 2012 | 10.17660/actahortic.2012.961.53 | conference-paper | INHERITANCE FOR EARLINESS IN ORNAMENTAL PEPPERS (CAPSICUM ANNUUM) | Acta Horticulturae
+- new | 2012 | https://openalex.org/W2381133806 | article | Comparative Trial of New Aerospace Pepper Cultivars | Journal of Changjiang Vegetables
+- new | 2011 | 10.5513/jcea01/12.2.917 | article | EFFECT OF SPACING ON THE GROWTH AND YIELD OF SWEET PEPPER (Capsicum annuum L.) | Journal of Central European Agriculture
+- new | 2011 | 10.17660/actahortic.2011.914.84 | conference-paper | BACTERIAL SPOT RACE T4 RESISTANCE AND YIELD ENHANCEMENT IN TOMATOES CONFERRED BY THE PEPPER BS2 GENE IN FLORIDA FIELD TRIALS | Acta Horticulturae
+- new | 2009 | https://openalex.org/W1624377028 | article | Varietal Identification of Chilli (Capsicum annuum L.) using Randomly Amplified Polymorphic DNA Markers | Indian Journal of Agricultural Biochemis
+- new | 2008 | https://openalex.org/W1947557113 | article | Random amplified polymorphic DNA technique for detection of plant based adul- terants in chilli powder (Capsicum annuum). | Journal of Spices and Aromatic Crops
+- new | 2008 | https://openalex.org/W2365019815 | article | Comparative Trial of Eight Pepper Cultivars | Journal of Changjiang Vegetables
+- new | 2008 | https://openalex.org/W2347989136 | article | Comparative Trial of Four Hot Pepper Cultivars | Journal of Changjiang Vegetables
+- new | 2006 | 10.5897/ajb2006.000-5017 | article | Genetic diversity of Capsicum using Random Amplified Polymorphic DNAs | TSpace (University of Toronto)
+- new | 2006 | 10.31274/farmprogressreports-180814-2167 | report | Bell Pepper Cultivar Trial | Iowa State University Digital Repository
+- new | 2006 | 10.3923/ijpbg.2007.29.33 | article | Drought Tolerance Indices in Sweet Pepper (Capsicum annuum L.) | International Journal of Plant Breeding 
+- new | 2005 | 10.1016/j.jfoodeng.2005.05.019 | article | Application of aqueous ozone for treating pre-cut green peppers (Capsicum annuum L.) | Journal of Food Engineering
+- new | 2005 | 10.1007/s10531-004-1669-9 | article | Genetic Variability in Pepper (Capsicum annuum L.) Estimated by Morphological Data and Amplified Fragment Length Polymorphism Markers | Biodiversity and Conservation
+- new | 2004 | 10.1017/s002185960400440x | article | Hybrid performance for yield and other characteristics in peppers (Capsicum annuum L.) | The Journal of Agricultural Science
+- new | 2003 | 10.21273/hortsci.38.7.1394 | article | Response of Bell Pepper Cultivars Near-isogenic for the N Gene to Meloidogyne incognita in Field Trials | HortScience
+- new | 2003 | 10.1016/s0304-4238(02)00158-9 | article | RAPD markers assisted varietal identification and genetic purity test in pepper, Capsicum annuum | Scientia Horticulturae
+- new | 2003 | 10.1023/a:1022856725794 | article | Somaclonal variation of regenerated plants in chili pepper (Capsicum annuum L.) | Euphytica
+- new | 2002 | 10.21273/jashs.127.3.318 | article | Genetic Diversity of a Capsicum Germplasm Collection from Nepal as Determined by Randomly Amplified Polymorphic DNA Markers | Journal of the American Society for Hort
+- new | 2001 | 10.1071/ea00077 | article | Alternatives to polyethylene mulch film — a field assessment of transported materials in capsicum (Capsicum annuum L.) | Australian Journal of Experimental Agric
+- new | 1998 | https://openalex.org/W3211146037 | article | Classification of Capsicum annuum Germplasm Using Random Amplified Polymorphic DNA | Horticultural Science and Technology
+- new | 1997 | 10.21273/hortsci.32.3.435a | article | Nematicide Trials on Paprika Pepper | HortScience
+- new | 1994 | https://openalex.org/W586245781 | article | Chile Pepper Variety Trial in Graham County, 1993 | UA Campus Repository (The University of 
+- new | 1988 | 10.1002/j.1537-2197.1988.tb13506.x | article | LEAF REMOVAL AND THE APPARENT EFFECTS OF ARCHITECTURAL CONSTRAINTS ON DEVELOPMENT IN CAPSICUM ANNUUM | American Journal of Botany
+- new | 1986 | 10.1111/j.1365-3059.1986.tb02042.x | article | Factors affecting expression of resistance in pepper (Capsicum annuum) to blight caused by Phytophthora capsici in screening trials | Plant Pathology
+- new | 1985 | https://openalex.org/W2904655453 | article | [A trial on organic and non-organic fertiliser for chilli [Capsicum annuum] on Bris soil [in Peninsular Malaysia]] | 
+- new | 1965 | https://openalex.org/W778675454 | article | Chili Pepper Variety Trials | UA Campus Repository (The University of 
+- new | 1960 | https://openalex.org/W563716417 | article | Spacing trials with irrigated red pepper. | 
+
+## carum-carvi (Carum carvi) - name clause: "Carum carvi"[tiab] OR "caraway"[tiab]
+
+### PubMed HT - 59 hits, 59 not already listed above, 58 new
+- new | 2026 | 42535192 | Review | Functional dyspepsia redefined: evidence supporting inflammatory dyspepsia - a systematic review. | Gastroenterol Hepatol Bed Bench
+- new | 2026 | 42339389 |  | A nanotechnology-based approach to enhance caraway (Carum carvi L.) productivity, chemical, biochemical and essential oil under salinity stress. | Front Plant Sci
+- new | 2026 | 41936486 | Review | Dietary and nutraceutical interventions for functional dyspepsia: A narrative review. | Dig Liver Dis
+- new | 2026 | 41405807 | Clinical Trial, Phase IV | Treatment of disorders of gut-brain interaction with peppermint oil and caraway oil combination Menthacarin : A phase IV clinical trial. | Wien Med Wochenschr
+- new | 2025 | 40421412 |  | Comparative Study on the Prokinetic Effects of Ginger, Caraway, and Peppermint in Relieving Gastrointestinal Disturbances in Pulmonary TB Patients: A Clinical Trial. | Food Sci Nutr
+- new | 2025 | 40718314 |  | Beneficial Effects of Caraway Oil in Aluminium Chloride-Induced Neurotoxicity. | Cureus
+- new | 2025 | 39978315 | Review | STW 5-II for Treatment of Functional Gastrointestinal Disorders: Mechanism and Clinical Efficacy. | Dig Dis
+- new | 2025 | 39951927 | Randomized Controlled Trial | Efficacy of an Iranian herbal medicine formula for postoperative constipation in trauma patients with hip and lower limb fractures: A triple-blind, placebo-controlled randomized cl | Int J Orthop Trauma Nurs
+- new | 2025 | 40371337 |  | Menthacarin, a proprietary combination of peppermint and caraway oil, alters cultured human fecal microbiota composition, resulting in increased SCFA production. | Front Pharmacol
+- new | 2025 | 39812003 | Practice Guideline/Research Support, Non-U.S. Gov't | Updated document on the management of functional dyspepsia by the Asociación Española de Neurogastroenterologia y Motilidad (ASENEM) and Sociedad Española de Medicina Familiar y Co | Rev Esp Enferm Dig
+- new | 2024 | 39056471 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The combination of L-menthol and caraway oil does not affect gastric function but increases hunger in healthy subjects. | Neurogastroenterol Motil
+- new | 2023 | 36815641 |  | Effects of Active Compounds of Nigella sativa in COVID-19: A Narrative Review. | Recent Adv Antiinfect Drug Discov
+- new | 2023 | 36645572 | Review | Synergistic Effects of Nigella sativa and Exercise on Diabetic Profiles: A Systematic Review. | Diabetes Ther
+- new | 2023 | 36502789 | Meta-Analysis/Systematic Review | Menthacarin, a Proprietary Peppermint Oil and Caraway Oil Combination, Improves Multiple Complaints in Patients with Functional Gastrointestinal Disorders: A Systematic Review and  | Dig Dis
+- new | 2023 | 38116546 |  | Effects of Komouni Formulation (Herbal Product of Persian Medicine) With a Low-Calorie Diet on Cardiometabolic Risk Factors in Overweight and Obese Women: A Triple-Blinded Randomiz | Iran J Pharm Res
+- new | 2023 | 35870011 | Observational Study | Phytotherapy known and applied by head-neck cancer patients and medical students to treat oral discomfort in Germany: an observational study. | J Cancer Res Clin Oncol
+- new | 2023 | 37323050 | Systematic Review/Research Support, Non-U.S. Gov't | Non-Chinese herbal medicines for functional dyspepsia. | Cochrane Database Syst Rev
+- new | 2022 | 36107498 |  | Complementary and alternative medicine for functional dyspepsia: An Asian perspective. | Medicine (Baltimore)
+- new | 2022 | 35255832 | Randomized Controlled Trial | A novel duodenal-release formulation of caraway oil and L-menthol is a safe, effective and well tolerated therapy for functional dyspepsia. | BMC Gastroenterol
+- new | 2020 | 32863846 |  | Metabolic and clinical responses to Bunium Persicum (black caraway) supplementation in overweight and obese patients with type 2 diabetes: a double-blind, randomized placebo-contro | Nutr Metab (Lond)
+- new | 2020 | 32410532 | Clinical Trial | Computational Intelligence Techniques for Assessing Anthropometric Indices Changes in Female Athletes. | Curr Med Imaging
+- new | 2020 | 32523878 |  | Therapeutic effects of HESA-A (a herbal-marine compound) in acute organophosphorus pesticide poisoning. | Avicenna J Phytomed
+- new | 2020 | 32454800 | Meta-Analysis | Effect of Nigella sativa Supplementation on Oxidative Stress and Antioxidant Parameters: A Meta-Analysis of Randomized Controlled Trials. | ScientificWorldJournal
+- new | 2019 | 31850096 |  | The Effects of Carum Carvi (Bunium Persicum Boiss) on Early Return of Bowel Motility After Caesarean Section: Double-Blind, Randomized, Placebo-Controlled Trial. | J Family Reprod Health
+- new | 2019 | 29728848 | Systematic Review | Effectiveness of Menthacarin on symptoms of irritable bowel syndrome. | Wien Med Wochenschr
+- new | 2019 | 31827561 | Review | A Combination of Peppermint Oil and Caraway Oil for the Treatment of Functional Dyspepsia: A Systematic Review and Meta-Analysis. | Evid Based Complement Alternat Med
+- new | 2019 | 30982867 | Research Support, U.S. Gov't, Non-P.H.S./Systematic Review | Influence of maternal diet on flavor transfer to amniotic fluid and breast milk and children's responses: a systematic review. | Am J Clin Nutr
+- new | 2019 | 30939487 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A Novel, Duodenal-Release Formulation of a Combination of Caraway Oil and L-Menthol for the Treatment of Functional Dyspepsia: A Randomized Controlled Trial. | Clin Transl Gastroenterol
+- new | 2017 | 28695660 | Randomized Controlled Trial | A randomized placebo-controlled trial on the effects of Menthacarin, a proprietary peppermint- and caraway-oil-preparation, on symptoms and quality of life in patients with functio | Neurogastroenterol Motil
+- new | 2017 | 28112423 | Comparative Study | Comparison of Salivary Cortisol and α-amylase Levels and Psychological Profiles in Patients with Burning Mouth Syndrome. | Spec Care Dentist
+- new | 2016 | 26988309 |  | Slimming and Appetite-Suppressing Effects of Caraway Aqueous Extract as a Natural Therapy in Physically Active Women. | Phytother Res
+- HELD REF-3492 | 2015 | 26044145 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy of Caraway Oil Poultices in Treating Irritable Bowel Syndrome--A Randomized Controlled Cross-Over Trial. | Digestion
+- new | 2015 | 25453384 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Appraisal of adaptive neuro-fuzzy computing technique for estimating anti-obesity properties of a medicinal plant. | Comput Methods Programs Biomed
+- new | 2014 | 24638976 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Preliminary safety evaluation and biochemical efficacy of a Carum carvi extract: results from a randomized, triple-blind, and placebo-controlled clinical trial. | Phytother Res
+- new | 2014 | 24741485 |  | Effect of Carum carvi, a herbal bioenhancer on pharmacokinetics of antitubercular drugs: A study in healthy human volunteers. | Perspect Clin Res
+- new | 2013 | 24319489 |  | Antiobesity effect of caraway extract on overweight and obese women: a randomized, triple-blind, placebo-controlled clinical trial. | Evid Based Complement Alternat Med
+- new | 2010 | 19962799 | Research Support, Non-U.S. Gov't | Breastfeeding facilitates acceptance of a novel dietary flavour compound. | Clin Nutr
+- new | 2006 | 30000936 | Review | Black Seed. | 
+- new | 2004 | 14755152 | Clinical Trial/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Treatment of functional dyspepsia with a herbal preparation. A double-blind, randomized, placebo-controlled, multicenter trial. | Digestion
+- new | 2003 | 12807344 | Review | Effects of a fixed combination of peppermint oil and caraway oil on symptoms and quality of life in patients suffering from functional dyspepsia. | Phytomedicine
+- new | 2003 | 12562459 | Clinical Trial/Randomized Controlled Trial | Effect of peppermint oil and caraway oil on gastrointestinal motility in healthy volunteers: a pharmacodynamic study using simultaneous determination of gastric and gall-bladder em | Aliment Pharmacol Ther
+- new | 2003 | 15277119 |  | The effect of a herbal water-extract on histamine release from mast cells and on allergic asthma. | J Herb Pharmacother
+- new | 2003 | 12601675 | Clinical Trial/Randomized Controlled Trial | Effects of intraduodenal application of peppermint oil (WS(R) 1340) and caraway oil (WS(R) 1520) on gastroduodenal motility in healthy volunteers. | Phytother Res
+- new | 2002 | 12027075 | Case Reports | Occupational rhinoconjunctivitis and food allergy because of aniseed sensitization. | Ann Allergy Asthma Immunol
+- new | 2002 | 12269960 | Research Support, Non-U.S. Gov't/Systematic Review | Systematic review: herbal medicinal products for non-ulcer dyspepsia. | Aliment Pharmacol Ther
+- new | 2002 | 12244893 | Clinical Trial/Comparative Study/Randomized Controlled Trial | [Pharmacokinetics of carvone and menthol after administration of peppermint oil and caraway oil containing enteric formulation]. | Wien Med Wochenschr [ger]
+- new | 2001 | 11694755 | Review | [Dyspeptic pain and phytotherapy--a review of traditional and modern herbal drugs]. | Forsch Komplementarmed Klass Naturheilkd [ger]
+- new | 2001 | 11455677 | Clinical Trial/Randomized Controlled Trial | Pharmacokinetics of menthol and carvone after administration of an enteric coated formulation containing peppermint oil and caraway oil. | Arzneimittelforschung
+- new | 2001 | 11505331 | Clinical Trial/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | [A plant extract and its modified preparation in functional dyspepsia. Results of a double-blind placebo controlled comparative study]. | Z Gastroenterol [ger]
+- new | 2000 | 10641042 | Clinical Trial/Controlled Clinical Trial | Effects of peppermint oil and caraway oil on gastroduodenal motility. | Phytother Res
+- new | 2000 | 11121917 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy and tolerability of a fixed combination of peppermint oil and caraway oil in patients suffering from functional dyspepsia. | Aliment Pharmacol Ther
+- new | 1999 | 10192108 | Clinical Trial/Comparative Study/Multicenter Study/Randomized Controlled Trial | [Peppermint oil-caraway oil fixed combination in non-ulcer dyspepsia--comparison of the effects of enteric preparations]. | Pharmazie [ger]
+- new | 1999 | 10604046 | Clinical Trial/Comparative Study/Multicenter Study/Randomized Controlled Trial | Treatment of functional dyspepsia with a fixed peppermint oil and caraway oil combination preparation as compared to cisapride. A multicenter, reference-controlled double-blind equ | Arzneimittelforschung
+- new | 1996 | 9006790 | Clinical Trial/Randomized Controlled Trial | Efficacy of a fixed peppermint oil/caraway oil combination in non-ulcer dyspepsia. | Arzneimittelforschung
+- new | 1996 | 23194763 |  | Phytotherapy in functional upper abdominal complaints Results of a clinical study with a preparation of several plants. | Phytomedicine
+- new | 1988 | 3227864 | Research Support, Non-U.S. Gov't | Aluminium, calcium and magnesium content of Hungarian foods and dietary intakes by children aged 3.9 and 14 years. | Acta Physiol Hung
+- new | 1984 | 6610541 | Comparative Study | Serum lipase response to cerulein secretin stimulation test in patients with pancreas-associated diseases as measured by sensitive colorimetric assay (a BALB-DTNB method). | Dig Dis Sci
+- new | 1981 | 7336705 |  | [Use of an herbal combination with laxative action on duodenal peptic ulcer and gastroduodenitis patients with a concomitant obstipation syndrome]. | Vutr Boles [bul]
+- new | 1970 | 5444718 |  | Serum amylase values by the Caraway method in hospitalized patients and normal controls. | Am J Clin Pathol
+
+### PubMed SR - 19 hits, 7 not already listed above, 7 new
+- new | 2026 | 41761211 | Review | Herbal compounds in the treatment of polycystic ovary syndrome: an updated systematic review. | J Ovarian Res
+- new | 2025 | 41458132 | Review | Reducing acrylamide in bread with plant additives: a systematic review. | Food Chem X
+- new | 2024 | 38604221 | Systematic Review | [Phytotherapeutic recommendations in medical guidelines for the treatment of gastroenterological diseases - a systematic review]. | Z Gastroenterol [ger]
+- new | 2024 | 39306065 | Systematic Review | Heavy metals in spices and herbs from worldwide markets: A systematic review and health risk assessment. | Environ Pollut
+- new | 2022 | 36432799 | Review | Exploring Contact Toxicity of Essential Oils against Sitophilus zeamais through a Meta-Analysis Approach. | Plants (Basel)
+- new | 2021 | 32525777 | Systematic Review | Persian Herbal Medicine in Functional Dyspepsia: A Systematic Review. | Curr Drug Discov Technol
+- new | 2019 | 31143299 | Review | Herbs and Spices- Biomarkers of Intake Based on Human Intervention Studies - A Systematic Review. | Genes Nutr
+
+### PubMed SAFE - 101 hits, 74 not already listed above, 71 new
+- new | 2027 | 42901455 |  | Carum carvi L. alleviates skin depigmentation by suppressing STAT1-mediated inflammatory responses. | J Ethnopharmacol
+- new | 2026 | 42015445 |  | Significance of Herbs in the Dental World. | J Coll Physicians Surg Pak
+- new | 2026 | 42451572 |  | Sensory Perception of Six Essential Oils in Humans and Tenebrio molitor: Relationship with Volatile Compound Physicochemical Properties. | Molecules
+- new | 2026 | 42838162 |  | Targeted anti-inflammatory effects of folic acid-conjugated chitosan-ZnO NPs: Modulation of inflammatory cytokines and oxidative stress. | Int J Biol Macromol
+- new | 2026 | 42773704 |  | Exploring the Multitarget Pharmacological Potential of Halogeton sativus Secondary Metabolites: An Integrated Experimental and Computational Approach. | Chem Biodivers
+- new | 2026 | 42982407 |  | RIFM Natural Complex Substance (NCS) fragrance ingredient safety assessment, caraway seed oil, CAS Registry Number 8000-42-8, RIFM ID 326-H2.12. | Food Chem Toxicol
+- new | 2025 | 39936409 |  | Potential Alteration of Rifampicin's Bioavailability by Phyllanthus niruri Supplementation in Tuberculosis Therapy. | Curr Drug Metab
+- new | 2025 | 39536958 |  | Single essential oils and their binary mixtures protect against ethanol-induced defects in a zebrafish fetal alcohol spectrum disorder model at the same level as folic acid. | Alcohol
+- new | 2025 | 41814709 |  | [Pharmacokinetics of three pairs isomers of Caraway in Beagle dogs based on UPLC-MS/MS]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2025 | 41373965 | Review | Medicinal Plants in Food Supplements for Gastrointestinal Disorders: Critical Assessment of Health Claims on Gastric Acid Regulation. | Nutrients
+- new | 2024 | 39381230 | Review | Safety of tartrazine in the food industry and potential protective factors. | Heliyon
+- new | 2024 | 38672692 | Review | An Overview of the Spices Used for the Prevention and Potential Treatment of Gastric Cancer. | Cancers (Basel)
+- new | 2024 | 39339360 |  | S-(+)-Carvone, a Monoterpene with Potential Anti-Neurodegenerative Activity-In Vitro, In Vivo and Ex Vivo Studies. | Molecules
+- new | 2024 | 39124890 |  | Detailed Phytochemical Composition, Cyto-/Hepatotoxicity, and Antioxidant/Anti-Inflammatory Profile of Moroccan Spices: A Study on Coriander, Caraway, and Mystical Cumin. | Molecules
+- new | 2024 | 39397190 |  | High-risk pregnancy and risk of breastfeeding failure. | J Egypt Public Health Assoc
+- new | 2024 | 39086459 |  | Safety and efficacy of a feed additive consisting of an essential oil obtained from the fruit of Carum carvi L. (caraway oil) for all animal species (FEFANA asbl). | EFSA J
+- new | 2023 | 36791939 |  | Synthesis, characterization, and assessment of chitosan-nanomatrix enriched with antifungal formulation against biodeterioration of active ingredients of selected herbal raw materi | Int J Biol Macromol
+- HELD REF-0765 | 2022 | 35448799 |  | GC-MS Profiling, Vibriocidal, Antioxidant, Antibiofilm, and Anti-Quorum Sensing Properties of Carum carvi L. Essential Oil: In Vitro and In Silico Approaches. | Plants (Basel)
+- new | 2022 | 35277031 | Review | Effectiveness of Nutritional Ingredients on Upper Gastrointestinal Conditions and Symptoms: A Narrative Review. | Nutrients
+- new | 2022 | 36612355 | Research Support, Non-U.S. Gov't | Higher Risk for Sensitization to Commonly Consumed Herbs among Adults and Youngsters Suffering from Birch, Mugwort or Grass Pollinosis. | Int J Environ Res Public Health
+- new | 2021 | 33959187 |  | Effects of a Traditional Caraway Formulation on Experimental Models of Vitiligo and Mechanisms of Melanogenesis. | Evid Based Complement Alternat Med
+- new | 2021 | 34799324 |  | Assessment of acute, sub-acute, chronic and genotoxicity of polyherbal formulation DCD-684 in mice. | Pak J Pharm Sci
+- new | 2021 | 34834740 |  | Apiaceae Essential Oils: Boosters of Terbinafine Activity against Dermatophytes and Potent Anti-Inflammatory Effectors. | Plants (Basel)
+- HELD REF-1987 | 2021 | 34199316 |  | Antimicrobial, Antioxidant, Anti-Acetylcholinesterase, Antidiabetic, and Pharmacokinetic Properties of Carum carvi L. and Coriandrum sativum L. Essential Oils Alone and in Combinat | Molecules
+- new | 2020 | 33437175 |  | New allergens from spices in the Apiaceae family: anise Pimpinella anisum L. and caraway Carum carvi L. | Cent Eur J Immunol
+- new | 2019 | 31560648 |  | Acute and 28-day repeated dose oral toxicity study of caraway oil in rats. | Drug Metab Pers Ther
+- new | 2019 | 31326154 |  | Synergy quantifications to identify individual contributions of combination partners to the overall activity - The example of STW 5. | Phytomedicine
+- new | 2019 | 32626295 |  | Safety and efficacy of Biomin(®)DC-C as a zootechnical feed additive for weaned piglets. | EFSA J
+- new | 2019 | 31497509 |  | Evaluation of the acute and sub-acute toxicity of the black caraway seed essential oil in Wistar rats. | Toxicol Rep
+- new | 2019 | 31368576 |  | Synthesis of Carum Carvi essential oil nanoemulsion, the cytotoxic effect, and expression of caspase 3 gene. | J Food Biochem
+- new | 2018 | 29124622 | Review | Medicinal plants with antithrombotic property in Persian medicine: a mechanistic review. | J Thromb Thrombolysis
+- new | 2018 | 29916095 |  | Cross-reactivity by botanicals used in dietary supplements and spices using the multiplex xMAP food allergen detection assay (xMAP FADA). | Anal Bioanal Chem
+- new | 2018 | 29191726 |  | Essential oils of culinary herbs and spices display agonist and antagonist activities at human aryl hydrocarbon receptor AhR. | Food Chem Toxicol
+- new | 2018 | 30410550 | Case Reports | Anaphylactic reaction in patient allergic to mango. | Allergy Asthma Clin Immunol
+- new | 2017 | 29268967 |  | Rescue effects of aqueous seed extracts of Foeniculum vulgare and Carum carvi against cadmium-induced hepatic, renal and gonadal damage in female albino rats. | Asian Pac J Trop Med
+- new | 2017 | 28212313 |  | Chemoprevention of Rat Mammary Carcinogenesis by Apiaceae Spices. | Int J Mol Sci
+- new | 2016 | 27326993 | Case Reports | Anaphylactic Shock Caused by a Hidden Allergen in Blood Sausage. | J Investig Allergol Clin Immunol
+- new | 2016 | 27023323 |  | Determination of methanol in Iranian herbal distillates. | J Complement Integr Med
+- new | 2016 | 28195061 |  | Overview of the preclinical pharmacological properties of Nigella sativa (black seeds): a complementary drug with historical and clinical significance. | J Physiol Pharmacol
+- new | 2015 | 26381237 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Potent Chemopreventive/Antioxidant Activity Detected in Common Spices of the Apiaceae Family. | Nutr Cancer
+- new | 2015 | 25616491 | Case Reports | Carum induced hypothyroidism: an interesting observation and an experiment. | Daru
+- new | 2015 | 25243884 | Research Support, Non-U.S. Gov't | Nutraceutical properties of dietary plants extracts: prevention of diabetic nephropathy through inhibition of glycation and toxicity to erythrocytes and HEK293 cells. | Pharm Biol
+- new | 2014 | 24579801 | Research Support, Non-U.S. Gov't | Thymoquinone, a bioactive component of black caraway seeds, causes G1 phase cell cycle arrest and apoptosis in triple-negative breast cancer cells with mutant p53. | Nutr Cancer
+- new | 2013 | 22418855 |  | Effect of dietary caraway essential oils on expression of β-catenin during 1,2-dimethylhydrazine-induced colonic carcinogenesis. | J Nat Med
+- new | 2012 | 22928313 | Comparative Study/Evaluation Study/Research Support, Non-U.S. Gov't | Fumigant toxicity of plant essential oils against Camptomyia corticalis (Diptera: Cecidomyiidae). | J Econ Entomol
+- new | 2011 | 22117784 | Review | Herbs in dentistry. | Int Dent J
+- new | 2011 | 42078750 |  | Scientific Opinion on the safety and efficacy of FRESTA® F for weaned piglets. | EFSA J
+- new | 2011 | 21108126 |  | Inhibitory effects of dietary caraway essential oils on 1,2-dimethylhydrazine-induced colon carcinogenesis is mediated by liver xenobiotic metabolizing enzymes. | Nutr Cancer
+- new | 2010 | 21462837 | Research Support, Non-U.S. Gov't | Antimicrobial activity of plant essential oils against bacterial and fungal species involved in food poisoning and/or food decay. | Roum Arch Microbiol Immunol
+- new | 2010 | 20857739 | Research Support, Non-U.S. Gov't | Toxicity of plant essential oils to acaricide-susceptible and -resistant Tetranychus urticae (Acari: Tetranychidae) and Neoseiulus californicus (Acari: Phytoseiidae). | J Econ Entomol
+- new | 2010 | 20234067 |  | Hydrophilic and lipophilic antioxidant capacities of Georgian spices for meat and their possible health implications. | Georgian Med News
+- new | 2010 | 19939687 |  | Hepatoprotective effects of gamma-irradiated caraway essential oils in experimental sepsis. | Appl Radiat Isot
+- new | 2009 | 19734267 | Research Support, Non-U.S. Gov't | Pharmacokinetic interaction of some antitubercular drugs with caraway: implications in the enhancement of drug bioavailability. | Hum Exp Toxicol
+- new | 2009 | 19264408 | Research Support, Non-U.S. Gov't | Repellence of plant essential oils to Dermanyssus gallinae and toxicity to the non-target invertebrate Tenebrio molitor. | Vet Parasitol
+- new | 2008 | 18330128 |  | Toxicity of plant essential oils and their components against Lycoriella ingenua (Diptera: Sciaridae). | J Econ Entomol
+- new | 2008 | 18565672 | Research Support, Non-U.S. Gov't | The influence of 'time since last blood meal' on the toxicity of essential oils to the poultry red mite (Dermanyssus gallinae). | Vet Parasitol
+- new | 2007 | 17427617 | Review | Peppermint oil. | Am Fam Physician
+- new | 2007 | 17113735 | Comparative Study | Diuretic activity of the aqueous extracts of Carum carvi and Tanacetum vulgare in normal rats. | J Ethnopharmacol
+- new | 2006 | 30000850 | Review | Caraway. | 
+- HELD REF-1983 | 2006 | 16872560 |  | Dose-response efficacy of caraway (Carum carvi L.) on tissue lipid peroxidation and antioxidant profile in rat colon carcinogenesis. | J Pharm Pharmacol
+- new | 2006 | 16598436 |  | Dose dependent inhibitory effect of dietary caraway on 1,2-dimethylhydrazine induced colonic aberrant crypt foci and bacterial enzyme activity in rats. | Invest New Drugs
+- new | 2006 | 16483625 |  | Effect of dietary caraway (Carum carvi L.) on aberrant crypt foci development, fecal steroids, and intestinal alkaline phosphatase activities in 1,2-dimethylhydrazine-induced colon | Toxicol Appl Pharmacol
+- new | 2005 | 15713544 |  | Suppressive effects of caraway (Carum carvi) extracts on 2, 3, 7, 8-tetrachloro-dibenzo-p-dioxin-dependent gene expression of cytochrome P450 1A1 in the rat H4IIE cells. | Toxicol In Vitro
+- new | 2004 | 15154481 | Research Support, Non-U.S. Gov't | Toxicity of plant essential oils to Tetranychus urticae (Acari: Tetranychidae) and Phytoseiulus persimilis (Acari: Phytoseiidae). | J Econ Entomol
+- new | 2003 | 14650521 | Research Support, Non-U.S. Gov't | Toxicity of plant essential oils to Trialeurodes vaporariorum (Homoptera: Aleyrodidae). | J Econ Entomol
+- new | 2002 | 12078423 | Case Reports/Review | Food allergy and IgE sensitization caused by spices: CICBAA data (based on 589 cases of food allergy). | Allerg Immunol (Paris)
+- new | 1993 | 7694130 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Mutagenicity and antimutagenicity of extracts of three spices and a medicinal plant in Thailand. | Mutat Res
+- new | 1990 | 2236085 | Review | Inhibition of carcinogenesis by minor anutrient constituents of the diet. | Proc Nutr Soc
+- new | 1990 | 12692655 |  | NTP Toxicology and Carcinogenesis Studies of d-Carvone (CAS No. 2244-16-8) in B6C3F1 Mice (Gavage Studies). | Natl Toxicol Program Tech Rep Ser
+- new | 1990 | 2183767 | Review | Inhibition of carcinogenesis by naturally-occurring and synthetic compounds. | Basic Life Sci
+- new | 1989 | 2719178 | Research Support, Non-U.S. Gov't | Spice allergy: results of skin prick tests and RAST with spice extracts. | Allergy
+- new | 1985 | 3983587 |  | [The celery-carrot-mugwort-condiment syndrome: skin test and RAST results]. | Schweiz Med Wochenschr [ger]
+- new | 1984 | 6734454 |  | [Food allergy: the celery-mugwort-spice syndrome. Association with mango allergy?]. | Dtsch Med Wochenschr [ger]
+- new | 1951 | 14888359 |  | [Investigations on the effect of Foeniculum vulgare, Carum carvi, Anisum vulgare, Crataegus oxyacanthus, and Galga officinalis on lactation]. | Izv Meditsinskite Inst Bulg Akad Naukite [und]
+
+### PubMed OBS - 9 hits, 4 not already listed above, 4 new
+- new | 2026 | 41775830 |  | The association between medicinal herbs consumption and body weight and composition: a hospital based cross-sectional study. | Sci Rep
+- new | 2022 | 36066026 |  | Association of food habit with the COVID-19 severity and hospitalization: A cross-sectional study among the recovered individuals in Bangladesh. | Nutr Health
+- new | 2015 | 25628849 |  | The role of diet in the management of non-ulcer dyspepsia. | Middle East J Dig Dis
+- new | 1990 | 2394508 | Research Support, Non-U.S. Gov't | Diet, living conditions and nasopharyngeal carcinoma in Tunisia--a case-control study. | Int J Cancer
+
+### PubMed REV - 52 hits, 12 not already listed above, 12 new
+- new | 2024 | 40035301 | Review | Comprehensive therapy of upper functional dyspepsia: the potential of herbal medicines. | Ceska Slov Farm
+- new | 2024 | 38790578 | Review | Well-Established and Traditional Use of Vegetal Extracts as an Approach to the "Deep Roots" of Cough. | Children (Basel)
+- new | 2022 | 36326108 | Review/Research Support, Non-U.S. Gov't | Biobased polymer resources and essential oils: a green combination for antibacterial applications. | J Mater Chem B
+- new | 2019 | 30374904 | Review | Caraway as Important Medicinal Plants in Management of Diseases. | Nat Prod Bioprospect
+- new | 2019 | 30848570 | Review | The Stimulatory Effects of Medicinal Plants on β2-adrenoceptors of Tracheal Smooth Muscle. | Iran J Allergy Asthma Immunol
+- new | 2019 | 31527294 | Review | A review on the management of asthma in the Avicenna's Canon of Medicine. | J Complement Integr Med
+- new | 2019 | 32368551 | Review | Efficacy of Extractions of Iranian Native Plants against Main Malaria Vector, Anopheles stephensi in Iran for Making Appropriate Formulation for Disease Control. | J Arthropod Borne Dis
+- new | 2017 | 29134293 | Review | Medicinal Foods for Functional GI Disorders. | Curr Gastroenterol Rep
+- new | 2017 | 29358959 | Review | A Review on the Cosmeceutical and External Applications of Nigella sativa. | J Trop Med
+- new | 2012 | 22030309 | Review | Food components with anticaries activity. | Curr Opin Biotechnol
+- new | 2012 | 23034115 | Review | Antioxidant activity and protecting health effects of common medicinal plants. | Adv Food Nutr Res
+- new | 2006 | 16857355 | Review | Pharmaceutical prerequisites for a multi-target therapy. | Phytomedicine
+
+### ClinicalTrials.gov - 5 registered studies
+- NCT06157034 | COMPLETED | results=False | NA | Prokinetic Effect of Selected Nutraceuticals | conds: Pulmonary Tuberculosis, Gastro-Intestinal Disorder | intr: Placebo, Zingier officinale powder, Carum carvi, L powder, Mentha spicata oil
+- NCT01332747 | COMPLETED | results=False | PHASE2 | Clinical Study to Evaluate Antihyperlipidemic Effect of a Classical Unani Antiobesity Formulation | conds: Hyperlipidemia | intr: safoof e muhazzil, compressed tablet of safoof e muhazzil, Atorvastatin
+- NCT01471288 | UNKNOWN | results=False | PHASE1,PHASE2 | Effect of Carum Carvi on Thyroid Hormones and TSH Level | conds: Thyroid Cancer Patients | intr: Carum Cravi, Placebo
+- NCT01418053 | COMPLETED | results=False | NA | The Effect of Hot Cataplasm With Caraway Oil in the Treatment of Irritable Bowel Syndrome | conds: Irritable Bowel Syndrome | intr: caraway oil, Olive oil | pubs: ['26044145:RESULT (HELD REF-3492)']
+- NCT03611283 | COMPLETED | results=False | NA | Topical Management of Xerostomia With Dry Mouth Products | conds: Xerostomia, Sjogren's Syndrome | intr: Mouthwash treatment, Toothpaste treatment, Mouthwash placebo, Toothpaste placebo
+
+### OpenAlex no-PMID trial-worded - 838 hits, 57 without PMID, 57 new
+- new | 2026 | 10.14719/pst.13099 | article | Seed germination dynamics of Carum carvi L. under different temperature regimes and growth regulators | Plant Science Today
+- new | 2026 | 10.21760/jaims.11.7.4 | article | A Randomised Clinical Trial to Compare the Efficacy of Dhanyaka Hima and Brisk walking in Subclinical Hypothyroidism on Serum TSH | Journal of Ayurveda and Integrated Medic
+- new | 2026 | 10.15421/0226114 | article | Effects of Carum carvi fruit supplementation in a high-fat diet on metabolic parameters and gut microbiota in rats | Regulatory Mechanisms in Biosystems
+- new | 2026 | 10.17221/16/2026-cjgpb | article | Molecular markers and genomic resources in caraway (Carum carvi L.): Current status, research gaps, and strategic directions for breeding | Czech Journal of Genetics and Plant Bree
+- new | 2026 | 10.1201/9781042001767-106 | book-chapter | Phyto-Compound (Carum Carvi) and Masticatory Stimulation (Bubble Gum Chewing): Low-Cost Innovations for Accelerating Post-Cesarean Recovery | CRC Press eBooks
+- new | 2026 | 10.1016/j.jarmap.2026.100728 | article | The potential of winter annual cultivation of caraway (Carum carvi L.) under changing climate conditions: Exploring genetic resources and evaluating cultivation system and sowing d | Journal of Applied Research on Medicinal
+- new | 2026 | 10.47552/ijam.v17i3.6861 | article | Comparative Evaluation of the Efficacy of Varun Twak Lepaguti versus Krushnatiladi Lepaguti in Vyanga (Melasma): A Double-Blind Randomised Controlled Trial | International Journal of Ayurvedic Medic
+- new | 2026 | 10.7860/jcdr/2026/79340.23327 | article | Comparative Efficacy of Gorakhmundi Vati versus Hingwadi Vati with Adjuvant Marma Chikitsa in the Management of Vishaada (Mild Depression): A Randomised Controlled Trial Protocol | JOURNAL OF CLINICAL AND DIAGNOSTIC RESEA
+- new | 2025 | 10.3390/cosmetics12060285 | article | Photoprotective Effects of Oral Coriander (Coriandrum sativum L.) Seed Oil Supplementation Against UV-Induced Skin Damage: Evidence from Two Randomized, Double-Blind, Placebo-Contr | Cosmetics
+- new | 2025 | 10.21608/mjard.2025.457951 | article | Effect of Chicken Manure, Tryptophan, Seaweed Extract and Vitamin B1 on Volatile Oils and Some Chemicals Constitute of Carum carvi Plants | Minia Journal of Agricultural Research a
+- new | 2024 | 10.25130/tjas.24.3.11 | article | Response of caraway (Carum carvi L.) to salicylic acid and planting spaces | Tikrit Journal for Agricultural Sciences
+- new | 2023 | https://openalex.org/W7112537962 | article | Role of carum carvi in reducing depression and improving memory loss in temporal lobe epilepsy with hippocampal sclerosi. | eCommons - AKU (Aga Khan University)
+- new | 2023 | 10.12911/22998993/159506 | article | Effect of Seeding Rate and the Spraying with Licorice Extract in Oil Percentage and Active Ingredients of Caraway (Carum Carvi L.) | Journal of Ecological Engineering
+- new | 2022 | 10.21608/svuijas.2022.186085.1263 | article | Growth and yield of caraway plants (Carum carvi l.) As influenced by organic fertilizer and moringa leaves extract under newly reclaimed soils. | SVU-International Journal of Agricultura
+- new | 2022 | 10.1201/9781003189749-15 | book-chapter | Herbal Treatment for Irritable Bowel Syndrome | Apple Academic Press eBooks
+- new | 2021 | 10.1039/9781839164446-00077 | book-chapter | CHAPTER 6. Caraway (Carum carvi) | Royal Society of Chemistry eBooks
+- new | 2021 | 10.1007/s10681-021-02893-x | article | On heterosis, inbreeding depression and general combining ability in annual caraway (Carum carvi) | Euphytica
+- new | 2021 | 10.51699/cajmns.v2i2.77 | article | Evaluation of therapeutic effect of phytopreparations in treatment and metaphylaxis of patients with nephrolithiasis | CENTRAL ASIAN JOURNAL OF MEDICAL AND NAT
+- new | 2020 | 10.46624/ajphr.2020.v8.i9.005 | article | Management of Obesity through Luk Maghsul,Ajwain Desi and Zeera Siyah: A Randomized Trial | American Journal Of Pharmacy And Health 
+- new | 2020 | 10.1007/978-3-030-16807-0_56 | book-chapter | Carum carvi L. (Apiaceae/Umbelliferae) | Springer eBooks
+- new | 2020 | 10.21608/ajas.2020.116362 | article | Effect of Humic Acid Foliar Application on Quantitative and Qualitative Yield of Caraway (Carum carvi L.) Plant | Assiut Journal of Agricultural Sciences/
+- new | 2020 | 10.29252/jrums.19.1.39 | article | The Effect of 6 Weeks Aerobic Training and Aqueous Extract of Caraway Seed (Carum Carvi) on the Expression of CTRP12 Gene, Body Weight Changes and Subcutaneous Adipose Tissue in Ob | مجله علمی دانشگاه علوم پزشکی رفسنجان
+- new | 2019 | 10.23751/pn.v21i1-s.6248 | article | The “Mohazell” herbal formula in combination with a calorie-restricted diet can improve systemic inﬂammation in obesity: a randomized double-blind, clinical trial | Progress in nutrition
+- new | 2019 | https://openalex.org/W3082364920 | article | Phytopharmacology of unani drug Zeerah Siyah (Carum Carvi Linn)-A review | Journal of Pharmacognosy and Phytochemis
+- new | 2019 | 10.21608/ejnf.2019.79428 | article | EFFECT OF CARAWAY SEEDS SIEVING (Carum carvi L.) IN FEED REX RABBITS ON: 2. PRODUCTIVE AND CARCASS CHARACTERISTICS | Egyptian Journal of Nutrition and Feeds
+- new | 2019 | 10.15244/pjoes/102365 | article | How Soil-Applied Maltodextrin with Caraway (Carum carvi L.) Oil Affects Weed and Soil Microbiological Activity in Maize (Zea mays L.) Stands | Polish Journal of Environmental Studies
+- new | 2019 | 10.21608/ejnf.2019.75846 | article | EFFECT OF CARAWAY SEEDS SIEVING (CARUM CARVI L.) AS FEED ADDITIVES FOR REX RABBITS ON: 1. GROWTH PERFORMANCE, FEED DIGESTIBILITY, BLOOD PARAMETERS AND CAECUM ACTIVITY | Egyptian Journal of Nutrition and Feeds
+- new | 2019 | 10.1016/j.smallrumres.2019.106040 | article | Effects of mixed crushed caraway (Carum carvi) with chromium-methionine or zinc-methionine supplementations on serum components and physiological responses of lambs subjected to tr | Small Ruminant Research
+- new | 2018 | 10.1016/j.indcrop.2018.08.040 | article | Geographical variation in breaking the seed dormancy of Persian cumin (Carum carvi L.) ecotypes and their physiological responses to salinity and drought stresses | Industrial Crops and Products
+- new | 2018 | https://openalex.org/W2899857938 | article | The Use of Crushed Caraway (Carum carvi) and Black Seed (Nigella sativa) Additives on Growth Performance, Antioxidant Status, Serum Components and Physiological Responses of Sanjab | Iranian journal of applied animal scienc
+- new | 2018 | 10.23751/pn.v20i2-s.6208 | article | Effect of cumin and cinnamon on lipid profile in middle-aged women with dyslipidemia: a double blind, randomized controlled clinical trial | Progress in nutrition
+- new | 2017 | 10.1007/s10658-016-1139-8 | article | Genetic variability within Septoria carvi Syd.- a pathogen of caraway Carum carvi L | European Journal of Plant Pathology
+- new | 2017 | 10.21608/jpp.2017.41056 | article | Effect of Bio, Organic and Chemical Fertilization on Growth, Productivity and Oil Consituents of Caraway (Carum carvi, L.). | Journal of Plant Production
+- new | 2017 | https://openalex.org/W2752242943 | article | The effect of high intensity interval training along with consumption of caraway seeds (Carum carvi L.) on liver enzymes, lipid profile, and blood glucose in obese and overweight w | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2016 | 10.1055/s-0036-1587195 | article | Effects of Menthacarin on symptoms and quality of life in patients with functional dyspepsia: Result of a 8-week optional placebo controlled follow-up | Zeitschrift für Gastroenterologie
+- new | 2016 | https://openalex.org/W2584279153 | article | Effect of herbal supplements of caraway (Carum carvi) and fenugreek (Trigonella foenum graecum) on antibacterial activity and soluble protein of mucus in Cyprinus carpio fingerling | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2015 | 10.1055/s-0035-1559279 | article | Menthacarin for the Treatment of Epigastric Pain Syndrome (EPS) and Postprandial Distress Syndrome (PDS): Data of a placebo-controlled trial revisited | Zeitschrift für Gastroenterologie
+- new | 2015 | 10.1016/b978-0-12-800874-4.00016-7 | book-chapter | Clinical Effects of Caraway, a Traditional Medicine for Weight Loss | Elsevier eBooks
+- new | 2014 | https://openalex.org/W2729794706 | article | Effectiveness of carum carvi on early return of bowel motility after caesarean section | European Journal of Experimental Biology
+- new | 2014 | https://openalex.org/W2552212713 | dissertation | The effect of Carum Carvi water extract intake as an alternative therapy for weight loss in overweight and obese women / Mahnaz Kazemipoor | University of Malaya Students Repository
+- new | 2013 | 10.1111/gfs.12104 | article | Herbage dry‐matter production and forage quality of three legumes and four non‐leguminous forbs grown in single‐species stands | Grass and Forage Science
+- new | 2012 | https://openalex.org/W2566066982 | article | Potential pathogens of common caraway (Carum carvi L.) seeds and search for measures suppressing their spread. | Zemdirbyste-Agriculture
+- new | 2011 | 10.5053/ejobios.2011.5.0.5 | article | RAPD-based assessment of genetic diversity among annual caraway (Carum carvi) populations | Eurasian Journal of Biosciences
+- new | 2010 | 10.1007/s11240-010-9821-6 | article | Field evaluation of doubled haploid plants in the Apiaceae: dill (Anethum graveolens L.), caraway (Carum carvi L.), and fennel (Foeniculum vulgare Mill.) | Plant Cell Tissue and Organ Culture (PCT
+- new | 2009 | 10.1002/ejlt.200800178 | article | Triacylglycerols of Apiaceae seed oils: Composition and regiodistribution of fatty acids | European Journal of Lipid Science and Te
+- new | 2008 | 10.3923/jpt.2008.141.146 | article | Alloxan-Induced Diabetes in Rats and the Effects of Black Caraway (Carum carvi L.) Oil on Their Body Weights | Journal of Pharmacology and Toxicology
+- new | 2006 | 10.3923/jms.2006.701.703 | article | Effect of Different Doses of Black Caraway (Carum carvi L.) Oil on the Levels of Serum Creatinine in Alloxan Induced Diabetic Rats | Journal of Medical Sciences(Faisalabad)
+- new | 2005 | https://openalex.org/W3096681453 | article | A PROSPECTIVE OPEN LABEL RANDOMIZED CLINICAL STUDY OF LUK MUGHSUL (TACHARDIA LACCCA), AJWAIN DESI (TRACHYSPERMUM AMMI) & ZEERA SIYAH (CARUM CARVI) IN THE CASES OF SAMANE MUFRIT (OB | World Journal of Advance Healthcare Rese
+- new | 2005 | 10.1007/s11738-005-0078-3 | article | An overview of preliminary studies on the development of doubled haploid protocols for nutraceutical species | Acta Physiologiae Plantarum
+- new | 2003 | 10.21608/jpp.2003.252723 | article | RESPONSE OF Carum carvi L. FRUIT AND ESSENTIAL OIL YIELD TO SOWING METHOD , PLANTING DISTANCES AND SOME MICRONUTRIENT APPLICATION METHODS | Journal of Plant Production
+- new | 2003 | 10.1300/j044v10n02_12 | article | Seed Germination of Some Medicinal and Aromatic Plants in Heavy Metal Environment | Journal of Herbs Spices & Medicinal Plan
+- new | 2001 | 10.1055/s-2001-16142 | article | Ein Phytotherapeutikum und seine modifizierte Rezeptur bei funktioneller Dyspepsie - Ergebnisse einer doppelblinden plazebokontrollierten Vergleichsstudie - | Zeitschrift für Gastroenterologie
+- new | 1999 | https://openalex.org/W2268209228 | article | Varieties, fertilization, seed rate and sowing time of Caraway (Carum carvi L.). Results from trials and research in Norway 1993-1998 | 
+- new | 1998 | 10.18174/210272 | dissertation | On ecology and control of Mycocentrospora acerina in caraway (Carum carvi) | 
+- new | 1998 | 10.1300/j044v06n01_02 | article | Seed Yields and Essential Oils of Annual and Biennial Caraway (Carum carviL.) Grown in Western Canada | Journal of Herbs Spices & Medicinal Plan
+- new | 1983 | 10.17660/actahortic.1983.132.16 | conference-paper | EFFICIENCY OF MOTHER PLANT SELECTION FOR ESSENTIAL OIL YIELD COMPONENTS IN CARAWAY (CARUM CARVI,L) | Acta Horticulturae
+- new | 1977 | 10.4141/cjps77-078 | article | ESSENTIAL OILS FROM SPICES GROWN IN ALBERTA. CARAWAY OIL (CARUM CARVI) | Canadian Journal of Plant Science
+
+## centaurium-erythraea (Centaurium erythraea) - name clause: "Centaurium erythraea"[tiab] OR "Centaurium umbellatum"[tiab] OR "Erythraea centaurium"[tiab] OR "common centaury"[tiab] OR "centaury"[tiab]
+
+### PubMed HT - 5 hits, 5 not already listed above, 5 new
+- new | 2025 | 40377579 | Randomized Controlled Trial/Multicenter Study | [Results of treatment of acute uncomplicated cystitis in 440 women of working age in a large industrial city]. | Urologiia [rus]
+- new | 2022 | 37023241 | Review |  | 
+- new | 2021 | 33990887 |  | Complementary, Traditional and Spiritual Practices Used by Cancer Patients in Turkey When Coping with Pain: An Exploratory Case Study. | J Relig Health
+- new | 2018 | 30519569 | Observational Study | Should We Always Use Antibiotics after Urodynamic Studies in High-Risk Patients? | Biomed Res Int
+- new | 2014 | 24738695 | Clinical Trial, Phase IV/Comparative Study/Randomized Controlled Trial | Effect of the herbal combination Canephron N on diabetic nephropathy in patients with diabetes mellitus: results of a comparative cohort study. | J Altern Complement Med
+
+### PubMed SR - 2 hits, 1 not already listed above, 1 new
+- new | 2019 | 30959140 | Systematic Review | A review of Algerian medicinal plants used in the treatment of diabetes. | J Ethnopharmacol
+
+### PubMed SAFE - 13 hits, 10 not already listed above, 9 new
+- new | 2025 | 41304926 |  | In Vitro and in Vivo Efficacy of Different Ointment Formulations Containing Centaurium erythraea Rafn. Aerial Extract. | Pharmaceuticals (Basel)
+- new | 2024 | 39735399 | Case Reports | Acute Kidney Injury Following the Ingestion of a Medicinal Plants' Mixture: A Case Report. | Case Rep Nephrol
+- HELD REF-0619 | 2021 | 33940085 | Review | Phytochemical properties, biological activities and medicinal use of Centaurium erythraea Rafn. | J Ethnopharmacol
+- new | 2015 | 26580586 | Research Support, Non-U.S. Gov't | Nonprenylated Xanthones from Gentiana lutea, Frasera caroliniensis, and Centaurium erythraea as Novel Inhibitors of Vascular Smooth Muscle Cell Proliferation. | Molecules
+- new | 2013 | 24400233 |  | Efficacy and safety of the phytotherapeutic drug Canephron® N in prevention and treatment of urogenital and gestational disease: review of clinical experience in Eastern Europe and | Res Rep Urol
+- new | 2010 | 20800671 |  | Acute and sub-chronic toxicity of a lyophilised aqueous extract of Centaurium erythraea in rodents. | J Ethnopharmacol
+- new | 2009 | 19470102 | Research Support, Non-U.S. Gov't | Purification, cDNA cloning and functional expression of NADPH-cytochrome P450 reductase from Centaurium erythraea cell cultures. | Plant Biol (Stuttg)
+- new | 2004 | 15174008 |  | Hepatoprotective activity of Centaurium erythraea on acetaminophen-induced hepatotoxicity in rats. | Phytother Res
+- new | 2000 | 10731018 | Research Support, Non-U.S. Gov't | Xanthone 6-hydroxylase from cell cultures of Centaurium erythraea RAFN and Hypericum androsaemium L. | Phytochemistry
+- new | 1997 | 9459298 | Research Support, Non-U.S. Gov't | Alternative pathways of xanthone biosynthesis in cell cultures of Hypericum androsaemum L. | FEBS Lett
+
+### PubMed OBS - 3 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 8 hits, 6 not already listed above, 6 new
+- new | 2022 | 35463410 | Review | Xanthone Biosynthetic Pathway in Plants: A Review. | Front Plant Sci
+- new | 2020 | 33396285 | Review | Somatic Embryogenesis in Centaurium erythraea Rafn-Current Status and Perspectives: A Review. | Plants (Basel)
+- new | 2019 | 31244878 | Review | Somatic Embryogenesis in the Family Gentianaceae and Its Biotechnological Application. | Front Plant Sci
+- new | 2017 | 27297624 | Review | News from Tartary: an ethnopharmacological approach to drug and therapeutic discovery. | Br J Clin Pharmacol
+- new | 2006 | 16440396 | Historical Article/Research Support, Non-U.S. Gov't/Review | The Alpher, Bethe, Gamow of isoelectric focusing, the alpha-Centaury of electrokinetic methodologies. Part I. | Electrophoresis
+- new | 2004 | 15599019 | Research Support, Non-U.S. Gov't/Review | Ethylene signal transduction in Arabidopsis. | Zhi Wu Sheng Li Yu Fen Zi Sheng Wu Xue X
+
+### ClinicalTrials.gov - 0 registered studies
+
+### OpenAlex no-PMID trial-worded - 148 hits, 59 without PMID, 59 new
+- new | 2026 | 10.1098/rsnr.2024.0051 | article | Gideon Harvey’s 1683 proposal for a cluster-controlled trial of medical treatments | Notes and Records the Royal Society Jour
+- new | 2026 | 10.33988/auvfd.1677537 | article | Wound healing activities of eucalyptol on full thickness excisional skin wound model in rats | Ankara Üniversitesi Veteriner Fakültesi 
+- new | 2025 | 10.21518/ms2025-368 | article | Efficacy and safety of herbal medicine in complex therapy of acute pyelonephritis in young children | Meditsinskiy sovet = Medical Council
+- new | 2025 | 10.20884/1.bioe.2025.7.3.13449 | article |  | BioEksakta Jurnal Ilmiah Biologi Unsoed
+- new | 2025 | 10.48393/imist.prsm/jases-v6i4.62493 | article | Bendazac Molecular: Origine, History, Uses, Interactions, and Theoretical Modelisation Study | Journal of Applied Science and Environme
+- new | 2024 | 10.29188/2222-8543-2024-17-2-122-130 | article | Review of the efficacy and safety of Canephron® N in the treatment and prevention of urinary tract infections in different groups of patients. | Experimental and Сlinical Urology
+- new | 2024 | 10.32859/era.28.34.1-26 | article | Ethnobotanical appraisal of indigenous medicinal plants used in the Taounate region (Northern Morocco): Qualitative and quantitative approaches | Ethnobotany Research and Applications
+- new | 2024 | 10.1515/opag-2022-0346 | article | Assessment enhancing drought tolerance in henna (Lawsonia inermis L.) ecotypes through sodium nitroprusside foliar application | Open Agriculture
+- new | 2024 | https://openalex.org/W7238672537 | dissertation | Ege Bölgesi-Bozdağlar Yöresi'nde bitki tür çeşitliliğinin günümüz ve iklim değişimi altında potansiyel dağılım modellemesi ve haritalaması | Isparta University of Applied Sciences -
+- new | 2023 | 10.1055/s-0043-1774166 | article | Mode of action of an herbal mixture preparation for improving gastric accommodation in functional dyspepsia patients | Planta Medica
+- new | 2023 | 10.30841/2786-7323.3.2023.290623 | article | Phytotherapy (BNO 1045) of Acute Lower Uncomplicated Urinary Tract Infection in Women Normalizes Local Host Responses | Health of Man
+- new | 2023 | 10.5281/zenodo.7980644 | article | THE EFFECTIVENESS OF THE PHYTOTHERAPEUTIC DRUGKANEFRON® H (TRINEPHRON) IN THE TREATMENT OF GLOMERULONEPHRITIS REVIEW OF CLINICAL EXPERIENCE (literature review) | Zenodo (CERN European Organization for N
+- new | 2023 | 10.4038/jnsfsr.v51i1.10817 | article | Quantification of metabolite cinnamic acid of cinnamon (Cinnamomum zeylanicum) in human plasma | Journal of the National Science Foundati
+- new | 2023 | 10.5281/zenodo.8017136 | article | PREVENTION OF UROLITHIASIS. (literature review) | Zenodo (CERN European Organization for N
+- new | 2023 | 10.37360/blacpma.23.22.1.1 | article | Screening for acetylcholinesterase inhibition, lipid peroxidation inhibition and antioxidant activity of medicinal plants from Morocco | Boletin Latinoamericano y del Caribe de 
+- new | 2023 | 10.1002/2688-8319.12224 | article | Upland prairie adaptive management staged‐scale restoration practices for native plant and endangered butterfly reintroduction | Ecological Solutions and Evidence
+- new | 2022 | 10.1055/s-0042-1759298 | article | Target identification of a multi-component herbal preparation in gastrointestinal dysmotility disorders | Planta Medica
+- new | 2022 | 10.1055/s-0042-1759299 | article | Mechanisms of action of a multi-component herbal preparation in inflammatory bowel disease: anti-inflammatory activity | Planta Medica
+- new | 2022 | 10.1590/1807-1929/agriambi.v26n8p571-578 | article | Hydrogen peroxide as attenuator of salt stress effects on the physiology and biomass of yellow passion fruit | Revista Brasileira de Engenharia Agrícol
+- new | 2022 | 10.1007/s11258-022-01225-w | article | Reintroduction of large herbivores restored plant species richness in abandoned dry temperate grassland | Plant Ecology
+- new | 2022 | 10.62313/ijpbp.2022.25 | article | Traditional medicinal plants used in the treatment of diabetes: Ethnobotanical and ethnopharmacological studies and mechanisms of action | International Journal of Plant Based Pha
+- new | 2021 | 10.3390/horticulturae7020015 | article | Chemical Composition, Antioxidant, and α-Glucosidase-Inhibiting Activity of Aqueous and Hydroethanolic Extracts of Traditional Antidiabetics from Croatian Ethnomedicine | Horticulturae
+- new | 2021 | 10.29296/25877313-2021-04-02 | article | Assessment of bile activity of multicomponent plant extract «PENTAFIT» | Problems of Biological Medical and Pharm
+- new | 2021 | 10.3390/separations8040041 | article | Easy Computation of the Various Topologies and Modes of Liquid–Liquid Partition Chromatography by the Theory of Random Walks | Separations
+- new | 2021 | 10.1186/s40816-021-00247-7 | article | Efficacy of an herbal preparation based on lovage, rosemary, and centaury on patients after extracorporal shockwave lithotripsy | Clinical Phytoscience
+- new | 2021 | 10.30841/2307-5090.1.2021.232510 | article | Efficacy of an Herbal Preparation Based on Lovage, Rosemary, and Centaury on Patients After Extracorporal Shockwave Lithotripsy | Health of Man
+- new | 2021 | 10.1007/s10457-020-00572-9 | article | Allelopathic effects of leachates of Juglans regia L., Populus tremula L. and juglone on germination of temperate zone cultivated medicinal and aromatic plants | Agroforestry Systems
+- new | 2020 | 10.32859/era.19.12.1-28 | article | Ethnobotanical survey about the management of diabetes with medicinal plants used by diabetic patients in Region of Fez-Meknes, Morocco | Ethnobotany Research and Applications
+- new | 2019 | 10.30841/2307-5090.1.2019.172494 | article | Non-Antibiotic Herbal Therapy (BNO 1045) versus Antibiotic Therapy (Fosfomycin Trometamol) for the Treatment of Acute Lower Uncomplicated Urinary Tract Infections in Women: A Doubl | Health of Man
+- new | 2019 | 10.30841/2307-5090.2.2019.179984 | article | Comparative Assessment of Canephron® N and Ciprofloxacin as Monotherapy of Acute Uncomplicated Cystitis in Women | Health of Man
+- new | 2019 | 10.34044/j.anres.2019.53.4.05 | article | Effect of 1-naphthalene acetic acid and 6-benzyladenine on micropropagation of strawberry cultivar ‘Praratchatan No.80’ | Agriculture and Natural Resources
+- new | 2019 | 10.22159/ajpcr.2019.v12i3.30419 | article | HEPATOPROTECTIVE AND NEPHROPROTECTIVE EFFECTS OF THE AQUEOUS EXTRACT OF TURMERIC (CURCUMA LONGA) IN RIFAMPICIN AND ISONIAZID-INDUCED HEPATOTOXICITY AND NEPHROTOXICITY IN RATS | Asian Journal of Pharmaceutical and Clin
+- new | 2018 | 10.31688/abmu.2018.53.4.06 | article | Development of optimal technology of alcohol extract centaurium erythraea rafn. herb | Archives of the Balkan Medical Union
+- new | 2018 | https://openalex.org/W3028763488 | article | Protective effect of Centaurium erythraea methanol extract against oxidative challenge in red blood cells of diabetic rats | Digital Repository of Archived Publicati
+- new | 2018 | 10.2298/gensr1802687b | article | Pursuit for est microsatellites in a tetraploid model from de novo transcriptome sequencing | Genetika
+- new | 2018 | 10.21303/2504-5679.2018.00747 | article | EFFICACY EVALUATION OF THE PHYTOTHERAPEUTIC DRUG CANEPHRON N IN THE COMPLEX TREATMENT OF PATIENTS WITH UROLITHIASIS USING EXTRACORPOREAL SHOCK WAVE LITHOTRIPSY | EUREKA Health Sciences
+- new | 2018 | 10.30841/2307-5090.4.2018.171222 | article | Evaluation of the Efficacy of Canephron® N Herbal Medicine in the Complex Treatment of Urolithiasis Patients Using Remote Shock-wave Lithotripsy | Health of Man
+- new | 2018 | 10.1186/s40816-018-0092-9 | article | A non-interventional, prospective, multicenter study for evaluation of the use of the herbal medicinal product Canephron® N in the pediatric outpatient population in Russia | Clinical Phytoscience
+- new | 2018 | 10.5281/zenodo.19018576 | article | Influence of Rhizophagus irregularis Inoculation on Salt Tolerance in Cucurbita maxima Duch. | 
+- new | 2018 | https://openalex.org/W2985488079 | conference-paper | Understanding the bioactivity of pomegranate ellagitannins in humans: results of a literature review | Archivio istituzionale della ricerca (Al
+- new | 2018 | 10.31390/gradschool_dissertations.4802 | dissertation | Effects of Red Raspberry Polyphenols and Metabolites on Biomarkers of Inflammation and Insulin Resistance in Prediabetes and Type 2 Diabetes | Louisiana State University
+- new | 2017 | 10.21448/ijsm.365065 | article | The Effects of Medicinal Plants on Cancer Cell Lines and Efficacy of Experimental Animal Model | International Journal of Secondary Metab
+- new | 2017 | 10.11648/j.ijcda.20170304.11 | article | Gingko biloba Extract Ameliorates Cadmium-Induced Hepatotoxicity in Experimental Animals | International Journal of Clinical and De
+- new | 2016 | 10.1055/s-0036-1596197 | article | NMR and LC-MS -based metabolic profiling approaches for the exploration of qualitative or quantitative variation of secondary metabolite expression in three Centaurium species and  | Planta Medica
+- new | 2016 | 10.11603/ijmmr.2413-6077.2015.2.6371 | article | EFFECTIVENESS OF CANEPHRON® N IN THE COMPLEX MANAGEMENT OF SUBCLINICAL GOUTY NEPHROPATHY | International Journal of Medicine and Me
+- new | 2016 | 10.22037/mhj.v8i27.13184 | article | Effective materia medica in the treatment of epilepsy in traditional Iranian medicine | Tārīkh-i pizishkī i.e., Medical History
+- new | 2016 | 10.1590/0100-67622016000300003 | article | HEIGHT STRUCTURE AND SPATIAL PATTERN OF FIVE TROPICAL TREE SPECIES IN TWO SEASONAL SEMIDECIDUOUS FOREST FRAGMENTS WITH DIFFERENT CONSERVATION HISTORIES | Revista Árvore
+- new | 2016 | 10.5812/thritaj.35306 | article | Hepatoprotective Effect of Ethanolic Extract of Lavandula officinalis L. in Alloxan-Induced Diabetic Rats | Thrita
+- new | 2015 | 10.1186/s40816-015-0008-x | article | An open label, non-controlled, multicentre, interventional trial to investigate the safety and efficacy of Canephron® N in the management of uncomplicated urinary tract infections  | Clinical Phytoscience
+- new | 2014 | 10.13080/z-a.2014.101.040 | article | Possible insect vectors of ‘Candidatus Phytoplasma asteris’ and ‘Ca. Phytoplasma pruni’-related strains in Lithuania | Zemdirbyste-Agriculture
+- new | 2013 | 10.2478/s11756-013-0164-8 | article | The importance of disturbance for the conservation of a low-competitive herb in mesotrophic grasslands | Biologia
+- new | 2012 | 10.2298/bg20120605siler | dissertation | Phytochemical and molecular characterization of centaury (Centaurium erythraea Rafn) populations from the Balkan Peninsula | 
+- new | 2012 | 10.1007/s11105-012-0474-y | article | Reverse Transcription of 18S rRNA with Poly(dT)18 and Other Homopolymers | Plant Molecular Biology Reporter
+- new | 2012 | 10.2298/abs1201191s | article | The reproducibility of RAPD profiles: Effects of PCR components on RAPD analysis of four centaurium species | Archives of Biological Sciences
+- new | 2012 | 10.33133/riu-1-2012-68 | article | Evaluation of antioxidant activity of oily extracts of coral tree (erythrina edulis) over two food matrices | Revista de Investigaciones de Uniagraria
+- new | 2011 | https://openalex.org/W7132617214 | article | A BIOCHEMICAL STUDY ON THE PROTECTIVE POTENTIAL OF Centaurium erythraea L. IN RATS AT ACUTE ASPIRIN EXPOSURE | Van Yüzüncü Yıl University Academic Data
+- new | 2011 | 10.3955/046.085.0217 | article | Comparison of Burning and Mowing Treatments in a Remnant Willamette Valley Wet Prairie, Oregon, 2001–2007 | Northwest Science
+- new | 2006 | 10.1007/s11258-006-9119-2 | article | Spatial patterns in seed bank and vegetation of semi-natural mountain meadows | Plant Ecology
+- new | 2003 | https://openalex.org/W2290865758 | article | Herbal teas: Addition to therapy of diabetes | Arhiv za farmaciju

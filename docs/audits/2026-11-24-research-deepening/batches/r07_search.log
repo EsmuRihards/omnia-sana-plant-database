@@ -1,0 +1,42 @@
+   cannabis-sativa HT 4605
+   cannabis-sativa SR 1505
+   cannabis-sativa SAFE 7714
+   cannabis-sativa OBS 3838
+   cannabis-sativa REV 5087
+cannabis-sativa done
+   capsella-bursa-pastoris HT 4
+   capsella-bursa-pastoris SR 1
+   capsella-bursa-pastoris SAFE 17
+   capsella-bursa-pastoris OBS 1
+   capsella-bursa-pastoris REV 11
+  !! request failed: https://api.openalex.org/works?search=%22Capsella+bursa-pastoris%22&per-page=100&filter=title_and_abstract.search%3Arand <urlopen error [Errno 11001] getaddrinfo failed>
+capsella-bursa-pastoris done
+   capsicum-annuum HT 971
+   capsicum-annuum SR 90
+   capsicum-annuum SAFE 1017
+   capsicum-annuum OBS 102
+   capsicum-annuum REV 464
+capsicum-annuum done
+   carum-carvi HT 59
+   carum-carvi SR 19
+   carum-carvi SAFE 101
+   carum-carvi OBS 9
+   carum-carvi REV 52
+carum-carvi done
+   centaurium-erythraea HT 5
+   centaurium-erythraea SR 2
+   centaurium-erythraea SAFE 13
+   centaurium-erythraea OBS 3
+   centaurium-erythraea REV 8
+centaurium-erythraea done
+
+PUBMED-DONE
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22Cannabis+sativa%22%29+AND+%28randomized+ HTTP Error 503: Service Temporarily Unavailable
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Cannabis+sativa%22+AND+%28TITLE%3Apatients+OR+TITLE%3Av HTTP Error 500: Internal Server Error
+cannabis-sativa done
+capsella-bursa-pastoris done
+capsicum-annuum done
+carum-carvi done
+centaurium-erythraea done
+# Research-deepening batch 7 - Europe PMC
+SEARCH-DONE

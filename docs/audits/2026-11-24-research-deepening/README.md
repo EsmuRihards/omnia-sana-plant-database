@@ -48,3 +48,4 @@ rebased onto `osdb/main` before each push, because another session edits the mai
 | 4 | lesser burdock, bearberry, arnica, wormwood, mugwort (+ andrographis follow-up) | REF-5169..5186 (18) | 1,417 -> 1,420 | `batches/r04_report.md` |
 | 5 | pleurisy root, astragalus, bacopa, birch, bistort | REF-5187..5204 (18) | 1,420 -> 1,422 | `batches/r05_report.md` |
 | 6 | borage, boswellia, calendula, tea, peach-leaved bellflower | REF-5205..5230 (26) | 1,422 -> 1,428 | `batches/r06_report.md` |
+| 7 | hemp, shepherd's purse, chili pepper, caraway, centaury | REF-5231..5249 (19) | 1,428 -> 1,434 | `batches/r07_report.md` |

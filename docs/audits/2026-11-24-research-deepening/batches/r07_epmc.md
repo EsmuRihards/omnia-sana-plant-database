@@ -1,0 +1,651 @@
+# Research-deepening batch 7 - Europe PMC
+
+## cannabis-sativa (Cannabis sativa)
+
+### non-MEDLINE, human-study wording - 44 hits
+- new | 2026 | PPR1276646 | PPR | Phytochemical Characterization, Biological Activities, and Preliminary Clinical and Mechanistic Evaluation of Traditional Thai Herbal Cream Containing <em>Cannabis sativa |  | doi 10.20944/preprints202607.0480.v1
+- new | 2026 | PPR1158726 | PPR | Characterization and Anticonvulsant Effects of a Colombian Cannabis sativa Extract: A Preclinical Study in Murine Models of Epilepsy |  | doi 10.21203/rs.3.rs-8935396/v1
+- new | 2026 | IND609461266 | AGR | Growth and biomass response of industrial hemp (Cannabis sativa L.) cultivars to nitrogen rates for fiber production | Crop Sci
+- new | 2026 | IND609538489 | AGR | Eco‐Friendly Management of Viral Diseases in Cucumber (Cucumis sativus L.) Using Botanical Extracts and Milk Treatments | Journal of phytopathology.
+- new | 2025 | PPR1058136 | PPR | Randomized and Blind Evaluation of the Efficacy of a Full-Spectrum Oral Cannabis sativa Oil Extract, Standardized Based on CBD-A, CBD and THC-A, THC in Canines with Chron |  | doi 10.20944/preprints202507.2432.v1
+- new | 2025 | IND609415153 | AGR | Comprehensive analysis of hemp growth, physiological responses, and secondary metabolite production under zinc sulfate and melatonin treatments | Industrial crops and products.
+- new | 2025 | IND609288194 | AGR | Pairing energy crops and root biostimulants for phytomanaging a former landfill | Industrial Crops & Products
+- new | 2025 | PPR1135038 | PPR | Cannabidiol-Induced Recovery of Social Behaviour in Mouse Models of Syndromic Autism |  | doi 10.21203/rs.3.rs-6683632/v2
+- new | 2024 | PMC11400080 | PMC | PSII-5 Effect of short-term feeding of hemp (Cannabis sativa) on stress biomarkers in weaned beef calves | J Anim Sci | PMC11400080
+- new | 2024 | PMC11400094 | PMC | 260 Industrial hemp (Cannabis sativa) supplementation improved plasma antioxidant enzymes and stress hormones in beef cattle | J Anim Sci | PMC11400094
+- new | 2024 | PPR849166 | PPR | The use of cannabidiol as a treatment for quantitative seizures reduction in pharmacoresistant epilepsy, a systematic review and meta-analysis. |  | doi 10.21203/rs.3.rs-4366244/v1
+- new | 2024 | PPR880176 | PPR | Priming lymphocyte responsiveness and differential T cell signaling in pediatric IBD patients with  <i>Cannabis</i>  use |  | doi 10.1101/2024.07.08.602495
+- new | 2024 | IND608244110 | AGR | Nitrogen application and cultivar effects on industrial hemp yield dynamics | Agron J | doi 10.1002/agj2.21537
+- new | 2023 | PPR627891 | PPR | Efficacy and Safety of Cannabis Transdermal Patch for Alleviating Psoriasis Symptoms: Protocol for a Randomized Controlled Trial (CanPatch) |  | doi 10.1101/2023.03.08.23286926
+- new | 2023 | PPR780484 | PPR | Chemical Quantification of CBD and THC and Bacteriological Analysis of Artisan Cannabis Sativa Extracts: TheImportance of Regulation |  | doi 10.21203/rs.3.rs-3759988/v1
+- new | 2023 | IND608019661 | AGR | Microbial consortium inoculant and rock mineral fertiliser differentially improved yield and nutrient uptake of industrial hemp (Cannabis sativa L.) varieties | Industrial crops and products.
+- new | 2023 | PPR691166 | PPR | Cannabis-fruit/vegetable syndrome: an unusual case without pollen co-sensitization |  | doi 10.21203/rs.3.rs-3113311/v1
+- new | 2023 | IND608029340 | AGR | 136 The effects of cannabidiol on libido and heart rate in stallions | J Equine Vet Sci
+- new | 2023 | IND608031203 | AGR | Hemp seed: An allergen source with potential cross-reactivity to hazelnut | Food Res Int
+- new | 2022 | PPR551816 | PPR | An insight into the acute effects of cannabidiol on human brain function and their relationship with the brain expression of its molecular targets: a neuroimaging meta-re |  | doi 10.21203/rs.3.rs-1990777/v1
+- new | 2022 | IND607826354 | AGR | Soil organic carbon dynamics in multipurpose cropping systems | Industrial crops and products. | doi 10.1016/j.indcrop.2022.115315
+- new | 2022 | PPR479211 | PPR | Cannabinoids Alleviate the LPS-Induced Cytokine Storm via Attenuating NLRP3 Inflammasome Signalling and TYK2-Mediated STAT3 Signalling Pathways <em>In Vitro</em> |  | doi 10.20944/preprints202204.0077.v1
+- new | 2021 | IND607139759 | AGR | Hemp (Cannabis sativa L.) for high-value textile applications: The effective long fiber yield and quality of different hemp varieties, processed using industrial flax equ | Industrial crops and products.
+- new | 2021 | PMC8506442 | PMC | PSXIV-12 Sources of variation in the nutritive value of hemp seed meal | J Anim Sci | PMC8506442
+- new | 2021 | PPR382314 | PPR | The Use of Medical Cannabis in Pediatric Palliative Care: A Case Series |  | doi 10.21203/rs.3.rs-779325/v1
+- new | 2020 | PPR152713 | PPR | In Search of Preventative Strategies: Novel Anti-Inflammatory High-CBD <em>Cannabis Sativa</em> Extracts Modulate ACE2 Expression in COVID-19 Gateway Tissues |  | doi 10.20944/preprints202004.0315.v1
+- new | 2020 | PPR188822 | PPR | Cannabinoids for People with ASD: A Systematic Review of Published and Ongoing Studies |  | doi 10.20944/preprints202007.0373.v1
+- new | 2020 | IND606785517 | AGR | Cannabinoids CB2 Receptors, One New Promising Drug Target for Chronic and Degenerative Pain Conditions in Equine Veterinary Patients | J Equine Vet Sci
+- new | 2020 | PPR223394 | PPR | Cannabis compounds have anti-inflammatory activity in lung epithelial cells but pro-inflammatory activity in macrophages while increasing phagocytosis in vitro |  | doi 10.21203/rs.3.rs-89166/v1
+- new | 2020 | PPR166290 | PPR | Fighting the storm: novel anti- TNFα and anti-IL-6 C. sativa lines to tame cytokine storm in COVID-19 |  | doi 10.21203/rs.3.rs-30927/v1
+- new | 2019 | PPR103116 | PPR | Cannabis Sativa Revisited - Crosstalk between microRNAs Expression, Inflammation, Oxidative Stress and Endocannabinoid Response System in Critically Ill Patients with Sep |  | doi 10.20944/preprints201911.0260.v1
+- new | 2019 | IND606229624 | AGR | Interplay between chemistry and morphology in medical cannabis (Cannabis sativa L.) | Industrial crops and products. | doi 10.1016/j.indcrop.2018.11.039
+- new | 2018 | IND606363897 | AGR | Plant growth-promoting rhizobacteria (PGPR) in Cannabis sativa ‘Finola’ cultivation: An alternative fertilization strategy to improve plant growth and quality characteris | Industrial crops and products. | doi 10.1016/j.indcrop.2018.06.033
+- new | 2018 | PPR10972 | PPR | Genetic tools weed out misconceptions of strain reliability in  <i>Cannabis sativa</i>  : Implications for a budding industry |  | doi 10.1101/332320
+- new | 2018 | IND606140112 | AGR | First Report of Charcoal Rot Caused by Macrophomina phaseolina on Hemp (Cannabis sativa) Varieties Cultivated in Southern Spain | Plant Dis | doi 10.1094/pdis-02-18-0208-pdn
+- new | 2018 | PMC5887392 | PMC | 13.2 CANNABIDIOL AS AN ANTIPSYCHOTIC DRUG | Schizophr Bull | PMC5887392
+- new | 2017 | 728517 | ETH | Intestinal lymphatic transport of cannabinoids : implications for people with autoimmune diseases and immunocompromised individuals | 
+- new | 2017 | PMC5475533 | PMC | 57. Neurodevelopmental Effects of Cannabis and Its Epigenetic Regulation | Schizophr Bull | PMC5475533
+- new | 2015 | PPR35173 | PPR | Single molecule sequencing of THCA synthase reveals copy number variation in modern drug-type Cannabis sativa L. |  | doi 10.1101/028654
+- new | 2014 | PMC4072142 | PMC | A recombinant lipid transfer protein from Cannabis sativa: IgE-binding properties in patients with symptoms to Cannabis | Clin Transl Allergy | doi 10.1186/2045-7022-4-s2-p57 | PMC4072142
+- new | 2008 | GB2449691 | PAT | A reference plant lacking medicinal active compound expression | 
+- new | 1999 | IND22010439 | AGR | The nutritive value of hemp meal for ruminants. | Canadian journal of animal science. | doi 10.4141/a98-031
+- new | 1969 | PMC2255022 | PMC | Cannabis Sativa—Indian Hemp Marihuana—Ganja or Bhang ‘Pot’ | J R Coll Gen Pract | PMC2255022
+- new |  | PMC10629910 | PMC | Cannabis sativa L.: A comprehensive review on legislation, decriminalization, phytochemistry, antimicrobial activity, and safety | J Food Drug Anal | PMC10629910
+
+### non-MEDLINE, review / safety wording - 106 hits
+- new | 2026 | PMC13691442 | PMC | Gap‐Free Cannabis sativa Assemblies Reveal Post‐Polyploid Genome Remodelling and Refine the Evolution of Cannabinoid Synthase Genes | Plant Biotechnol J | PMC13691442
+- new | 2026 | PPR1357886 | PPR | Effect of Hemp Variety (<em>Cannabis sativa</em> L.) and Addition Timing on Beer Aroma and Bitterness |  | doi 10.20944/preprints202611.0281.v1
+- new | 2026 | PPR1361533 | PPR | The Third Allele: The Utility of Multi-Allelic SNP Markers in Population Genetics, Agricultural Breeding, Wildlife Forensics, and Biomedical Research |  | doi 10.20944/preprints202611.0722.v1
+- new | 2026 | PPR1151744 | PPR | Botrytis cinerea infection modulates trichome development and secondary metabolite biosynthesis in Cannabis sativa |  | doi 10.21203/rs.3.rs-8682864/v1
+- new | 2026 | PPR1239441 | PPR | Quinazoline-2,4(1H,3H)-dione derivatives as new class of CB1 Agonists: A pharmacophore-based virtual screening workflow and drug discovery |  | doi 10.12688/f1000research.171433.3
+- new | 2026 | PPR1224309 | PPR | Mitigating CYP450-Mediated Insecticide Resistance in Malaria Vectors with Cannabis-Derived Synergists: The Potential of Cannabidiol |  | doi 10.64898/2026.02.10.705034
+- new | 2026 | IND609461266 | AGR | Growth and biomass response of industrial hemp (Cannabis sativa L.) cultivars to nitrogen rates for fiber production | Crop Sci
+- new | 2026 | PPR1237985 | PPR | Bimetallic nanoparticles loaded carbon nanotubes for supercapacitor applications |  | doi 10.21203/rs.3.rs-9672726/v1
+- new | 2026 | PPR1178221 | PPR | Hybrid genome assembly of the cannabis powdery mildew agentGolovinomyces ambrosiae uncovers important resources for deciphering virulence factors |  | doi 10.21203/rs.3.rs-9162455/v1
+- new | 2026 | IND609464893 | AGR | Managing Brown Rot Disease of Citrus Fruit Using Plant Extracts | Journal of phytopathology.
+- new | 2026 | PPR1355080 | PPR | A Universal, Accession-Maximized SNP Panel for <em>Cannabis sativa</em>: Meta-Analysis of Twenty-Two Published Marker Sets, a Universal SNP Panel and the Case for Multi-A |  | doi 10.20944/preprints202610.3146.v1
+- new | 2026 | PPR1216096 | PPR | Synergistic induction of a lethal Autosis-to-Apoptosis switch by Phytocannabinoids and beta-Caryophyllene in Triple-Negative Breast Cancer Cells |  | doi 10.64898/2026.04.05.716056
+- new | 2025 | PPR1046772 | PPR | An ancient X chromosomal region harbours three genes potentially controlling sex determination in  <i>Cannabis sativa</i> |  | doi 10.1101/2025.07.03.663031
+- new | 2025 | IND609299078 | AGR | Exploring the phytochemical and toxicological profile of Moroccan Cannabis sativa L. leaves extract: Behavioral, histological, and oxidative stress assessments | Journal of Ethnopharmacology
+- new | 2025 | PPR1136408 | PPR | Cannabidiol in Neurology: Current Insights and Translational Perspectives |  | doi 10.20944/preprints202512.1733.v1
+- new | 2025 | PPR1081036 | PPR | Insilico Investigation of Terpenoid efficacy on Cannabinoid Receptors using QSAR models and fragment-based Pharmacophore modelling |  | doi 10.1101/2025.09.04.674146
+- new | 2025 | PPR1058136 | PPR | Randomized and Blind Evaluation of the Efficacy of a Full-Spectrum Oral Cannabis sativa Oil Extract, Standardized Based on CBD-A, CBD and THC-A, THC in Canines with Chron |  | doi 10.20944/preprints202507.2432.v1
+- new | 2025 | PPR1126771 | PPR | Quinazoline-2,4(1H,3H)-dione derivatives as new class of CB1 Agonists: A pharmacophore-based virtual screening workflow and Lead discovery |  | doi 10.12688/f1000research.171433.1
+- new | 2025 | PPR1087839 | PPR | Soil microbiome dynamics of Cannabis sativa L. under biotic stress induced by Tetranychus urticae |  | doi 10.21203/rs.3.rs-7545648/v1
+- new | 2025 | PPR994793 | PPR | Water Stress Effects on Biomass Allocation and Secondary Metabolism in CBD-Dominant <i>Cannabis sativa</i> L. |  | doi 10.20944/preprints202503.1736.v1
+- new | 2025 | IND609013593 | AGR | Optimization of micropropagation protocols and assessment of epigenetic changes in tissue cultures of diverse medical cannabis (Cannabis sativa L.) genotypes | Industrial crops and products.
+- new | 2025 | PPR1135428 | PPR | The Interaction of Stomach Acid, Blood pH, and Liver Metabolism with Acidic Cannabinoids: Partial Decarboxylation, Metabolic Transformation, and Physiological Implication |  | doi 10.20944/preprints202512.1465.v1
+- new | 2025 | IND609361540 | AGR | LED spectra and defoliation independently shape canopy architecture and cannabinoid yield in indoor Cannabis cultivation | Industrial crops and products.
+- new | 2025 | PPR1203912 | PPR | A Constitutional Right to  Cannabis ? Grassroots Litigation and Dagga Policy Reform in South Africa |  | doi 10.22541/au.173862410.09452161/v2
+- new | 2025 | PPR1042177 | PPR | Phytochemical Modulators of Nociception: A Review of Cannabis Terpenes in Chronic Pain Syndromes |  | doi 10.20944/preprints202506.1861.v1
+- new | 2025 | PPR1047005 | PPR | Preclinical Study of Cannflavins A and B Action Against Glioblastoma Cells |  | doi 10.1101/2025.07.02.662823
+- new | 2025 | IND608796602 | AGR | Changes in morpho-physiological traits and phytochemical composition of Cannabis sativa L. treated with microbial biostimulants across different substrates | Industrial crops and products.
+- new | 2025 | PPR975162 | PPR | Molecular Docking Studies for the Evaluation of Cannabinoids as Multi-Target Inhibitors of Type 2 Diabetes |  | doi 10.21203/rs.3.rs-5921911/v1
+- new | 2024 | PMC11712700 | PMC | Effects of combination mixture of Cannabis sativa with psychoactive drugs on adenosine deaminase, ectonucleosides enzymes, redox status, cognition and hemodynamic functio | Alzheimers Dement | PMC11712700
+- new | 2024 | IND608581358 | AGR | A systematic review of Cannabis sativa L. cultivation techniques: A comprehensive overview of tissue culture innovations and growth optimization | Industrial crops and products.
+- new | 2024 | PMC11400080 | PMC | PSII-5 Effect of short-term feeding of hemp (Cannabis sativa) on stress biomarkers in weaned beef calves | J Anim Sci | PMC11400080
+- new | 2024 | PMC11400094 | PMC | 260 Industrial hemp (Cannabis sativa) supplementation improved plasma antioxidant enzymes and stress hormones in beef cattle | J Anim Sci | PMC11400094
+- new | 2024 | PPR849166 | PPR | The use of cannabidiol as a treatment for quantitative seizures reduction in pharmacoresistant epilepsy, a systematic review and meta-analysis. |  | doi 10.21203/rs.3.rs-4366244/v1
+- new | 2024 | PMC10908466 | PMC | 156 In-situ degradability of hemp (Cannabis sativa L.) plant components in cattle | J Anim Sci | PMC10908466
+- new | 2024 | PPR812994 | PPR | Exploring Cannabis sativa L for Anti-Alzheimer Potential: An extensive Computational Study including Molecular Docking, Molecular Dynamics, and ADMET Assessments |  | doi 10.21203/rs.3.rs-3986384/v1
+- new | 2024 | PPR790356 | PPR | Trigeminal Neuralgia and Cannabidiol Approach |  | doi 10.21467/preprints.516
+- new | 2024 | PPR825476 | PPR | Cannabidiol Modulation of Nicotine-Induced Toxicity: Assessing Effects on Behavior, Brain-Derived Neurotrophic Factor, and Oxidative Stress in C57BL/6 Mice |  | doi 10.32388/ciczwh.2
+- new | 2024 | PPR850301 | PPR | Larvicidal Activity of Hemp Extracts and Cannabidiol against the Yellow Fever Mosquito Aedes aegypti |  | doi 10.20944/preprints202405.0447.v1
+- new | 2024 | IND608551969 | AGR | Biodegradable composite hydromulches for sustainable organic horticulture | Industrial crops and products.
+- new | 2024 | IND608694971 | AGR | Determination of insecticidal potential of selected plant extracts against fall armyworm (Spodoptera frugiperda) larvae | Heliyon
+- new | 2024 | IND608503269 | AGR | To flush or not to flush: Does flushing the growing media affect cannabinoid and terpenoid production in cannabis? | Industrial crops and products.
+- new | 2024 | PPR855751 | PPR | A Comprehensive Exploration of the Multifaceted Neuroprotective Role of Cannabinoids in Alzheimer's Disease Across a Decade of Research |  | doi 10.20944/preprints202405.1367.v1
+- new | 2024 | PPR856084 | PPR | Structural basis of Δ9-THC analog activity at the Cannabinoid 1 receptor |  | doi 10.21203/rs.3.rs-4277209/v1
+- new | 2024 | IND608542176 | AGR | Identification, characterization, and molecular docking of immunomodulatory oligopeptides from bioavailable hempseed protein hydrolysates | Food Research International.
+- new | 2024 | IND608309293 | AGR | The potential to produce safe textiles in a phytoattenuation strategy: the fate of Cd and Pb during industrial treatments on contaminated hemp fibers | Industrial crops and products.
+- new | 2024 | PPR808411 | PPR | Chemistry and Pharmacology of Delta-8-Tetrahydrocannabinol |  | doi 10.20944/preprints202402.0964.v1
+- new | 2024 | IND608683307 | AGR | Plant extract-mediated biosynthesis of sulphur nanoparticles and their antibacterial and plant growth-promoting activity | Heliyon
+- new | 2024 | IND608244110 | AGR | Nitrogen application and cultivar effects on industrial hemp yield dynamics | Agron J | doi 10.1002/agj2.21537
+- new | 2023 | PMC10633505 | PMC | PSIII-19 Effect of Hemp (Cannabis sativa) Supplementation on Vital and Behavioral Responses of Weaned Beef Cattle | J Anim Sci | PMC10633505
+- new | 2023 | IND608696640 | AGR | Genome-wide identification and expression profiling of WRKY family suggest their potential role in cannabinoid regulation in Cannabis sativa L | Industrial crops and products.
+- new | 2023 | PMC10671062 | PMC | Terpenes in Cannabis sativa Inhibit Capsaicin Responses in Rat DRG Neurons via Na+/K+ ATPase Activation | Int J Mol Sci | PMC10671062
+- new | 2023 | IND608077388 | AGR | Hemp (Cannabis sativa cv. Kompolti) essential oil and its nanoemulsion: Prospects for insecticide development and impact on non-target microcrustaceans | Industrial crops and products.
+- new | 2023 | IND608267823 | AGR | Expression analysis of transcription factor (CBF/DREB) gene and biochemical response of Cannabis sativa to cadmium toxicity and foliar application of molybdenum | S Afr J Bot
+- new | 2023 | IND608569834 | AGR | Hydrolysates of hemp (Cannabis sativa L.) seed meal: Characterization and their inhibitory effect on α-glucosidase activity and glucose transport in Caco-2 cells | Industrial crops and products.
+- new | 2023 | PPR760217 | PPR | Exploring the Therapeutic Potential of Cannabis Constituents in Parkinson’s Disease: Insights from Molecular Docking Studies |  | doi 10.1101/2023.11.11.566677
+- new | 2023 | PPR662204 | PPR | Synthetic Pathways to Not Psychotropic Phytocannabinoids as Promising Molecules to Develop Novel Antibiotics: A Systematic Review |  | doi 10.20944/preprints202305.1078.v1
+- new | 2023 | PPR742815 | PPR | A literature review on the therapeutic applicability of cannabidiol in epilepsy, multiple sclerosis and Parkinson's disease |  | doi 10.22541/au.169747457.78026237/v1
+- new | 2023 | PPR610649 | PPR | Effect of Cannabidiol in LPS-induced toxicity in astrocytes: Possible role for cannabinoid type-1 receptors |  | doi 10.21203/rs.3.rs-2514838/v1
+- new | 2023 | IND607993455 | AGR | Enrichment of camel yogurt using hemp seeds as a rich source of omega 3 and physicochemical evaluation | International journal of food science an
+- new | 2023 | IND608203756 | AGR | Toxicological safety assessment of HempChoice® hemp oil extract; a proprietary extract consisting of a high concentration of cannabidiol (CBD) in addition to other phytoc | Heliyon
+- new | 2023 | IND607965863 | AGR | Phenolic profiles of non‐industrial hemp (Cannabis sativa L.) seed varieties collected from four different Moroccan regions | International journal of food science an
+- new | 2023 | PPR627891 | PPR | Efficacy and Safety of Cannabis Transdermal Patch for Alleviating Psoriasis Symptoms: Protocol for a Randomized Controlled Trial (CanPatch) |  | doi 10.1101/2023.03.08.23286926
+- new | 2023 | IND607993550 | AGR | Cultivar and management effects on industrial hemp yields in Wisconsin | Agron J | doi 10.1002/agj2.21297
+- new | 2022 | IND607965696 | AGR | Potential applications of hemp (Cannabis sativa L.) extracts and their phytochemicals as functional ingredients in food and medicinal supplements: a narrative review | International journal of food science an
+- new | 2022 | PPR574089 | PPR | Evaluation of In-Vitro Cytotoxicity, Genotoxicity and Cardiac Safety of Hydrogenated Cannabidiol on Cells Using Metabolic Assay, AMES and hERG Test |  | doi 10.21203/rs.3.rs-2256889/v1
+- new | 2022 | PPR479830 | PPR | Silicon Reduces Zinc Absorption and Trigger Oxidative Tolerance Processes Without Impacting Growth in Young Plants of Hemp (Cannabis Sativa L.) |  | doi 10.21203/rs.3.rs-1347314/v1
+- new | 2022 | PPR525955 | PPR | <i>Cannabis sativa</i>  oxylipin biosynthesis: Genome-wide characterization of lipoxygenase, allene oxide synthase, allene oxide cyclase, hydroperoxide lyase, and 12-oxo- |  | doi 10.1101/2022.07.30.502131
+- new | 2022 | PPR545011 | PPR | <em>Cannabis sativa</em> CBD Extract Exhibits Synergy with Broad-Spectrum Antibiotics against <em>Salmonella typhimurium</em> |  | doi 10.20944/preprints202209.0143.v1
+- new | 2022 | PPR576271 | PPR | Analysis of hormonal regulation of promoter activities of  <i>Cannabis sativa</i>  prenyltransferase 1 and 4 and salicylic acid mediated regulation of cannabinoid biosynt |  | doi 10.1101/2022.11.25.517997
+- new | 2022 | PPR568902 | PPR | Endocannabinoid System: Chemical Characteristics and Biological Activity |  | doi 10.20944/preprints202211.0122.v1
+- new | 2022 | PPR551816 | PPR | An insight into the acute effects of cannabidiol on human brain function and their relationship with the brain expression of its molecular targets: a neuroimaging meta-re |  | doi 10.21203/rs.3.rs-1990777/v1
+- new | 2022 | PPR559436 | PPR | Polyacrylamide Hydrogels With Amber for Plants Micropropagation |  | doi 10.21203/rs.3.rs-2085035/v1
+- new | 2022 | IND607761360 | AGR | Glandular trichomes affect mobility and predatory behavior of two aphid predators on medicinal cannabis | Biol Control | doi 10.1016/j.biocontrol.2022.104932
+- new | 2022 | PPR526976 | PPR | Transcriptome Response of Cannabis (  <i>Cannabis sativa</i>  L.) to the Pathogenic fungus  <i>Golovinomyces ambrosiae</i> |  | doi 10.1101/2022.08.01.501243
+- new | 2022 | PPR450972 | PPR | Interference of Neuronal TrkB Signaling by the Cannabis-Derived Flavonoids Cannflavins A and B |  | doi 10.1101/2022.02.03.478734
+- new | 2022 | PPR500590 | PPR | Time-lapse Imaging of Microglial Activity and Astrocytic Calcium Signaling Reveals a Neuroprotective Effect of Cannabidiol in the Subacute Phase of Stroke |  | doi 10.1101/2022.05.31.494189
+- new | 2022 | IND607509387 | AGR | Lignin, sugar, and furan production of industrial hemp biomass via an integrated process | Industrial crops and products.
+- new | 2021 | IND607554933 | AGR | Seed composition of non‐industrial hemp (Cannabis sativa L.) varieties from four regions in northern Morocco | International journal of food science an
+- new | 2021 | IND607056173 | AGR | Impact of four hemp (Cannabis sativa L.) varieties and stage of plant growth on yield and composition of essential oils | Industrial crops and products.
+- new | 2021 | PPR351425 | PPR | Global Impact of Non-essential Heavy Metal Contaminants in Industrial Cannabis Bioeconomy |  | doi 10.21203/rs.3.rs-575683/v1
+- new | 2021 | PPR382314 | PPR | The Use of Medical Cannabis in Pediatric Palliative Care: A Case Series |  | doi 10.21203/rs.3.rs-779325/v1
+- new | 2021 | IND607349196 | AGR | Nitrogen supply affects cannabinoid and terpenoid profile in medical cannabis (Cannabis sativa L.) | Industrial crops and products. | doi 10.1016/j.indcrop.2021.113516
+- new | 2020 | PPR188822 | PPR | Cannabinoids for People with ASD: A Systematic Review of Published and Ongoing Studies |  | doi 10.20944/preprints202007.0373.v1
+- new | 2020 | PPR152713 | PPR | In Search of Preventative Strategies: Novel Anti-Inflammatory High-CBD <em>Cannabis Sativa</em> Extracts Modulate ACE2 Expression in COVID-19 Gateway Tissues |  | doi 10.20944/preprints202004.0315.v1
+- new | 2020 | PPR259231 | PPR | Variation in mtDNA haplotypes suggests a complex history of reproductive strategy in  <i>Cannabis sativa</i> |  | doi 10.1101/2020.12.28.424591
+- new | 2020 | IND606844709 | AGR | Acaricidal properties of hemp (Cannabis sativa L.) essential oil against Dermanyssus gallinae and Hyalomma dromedarii | Industrial crops and products.
+- new | 2020 | PMC7258262 | PMC | Cannabidiol: From Drug Interaction Potential to Modulation of the Gut Microbiome | Curr Dev Nutr | PMC7258262
+- new | 2020 | PPR179190 | PPR | BEHAVIOURAL AND MOLECULAR EFFECTS OF CANNABIDIOLIC ACID IN MICE |  | doi 10.1101/2020.06.22.165076
+- new | 2020 | PPR166290 | PPR | Fighting the storm: novel anti- TNFα and anti-IL-6 C. sativa lines to tame cytokine storm in COVID-19 |  | doi 10.21203/rs.3.rs-30927/v1
+- new | 2019 | IND606510448 | AGR | Valorisation of hemp inflorescence after seed harvest: Cultivation site and harvest time influence agronomic characteristics and essential oil yield and composition | Industrial crops and products. | doi 10.1016/j.indcrop.2019.111541
+- new | 2019 | PPR77487 | PPR | Tetrahydrocannabinolic Acid a (THCA-A) Reduces Adiposity and Prevents Metabolic Disease Caused by Diet-Induced Obesity |  | doi 10.1101/622035
+- new | 2018 | PMC8675952 | PMC | Biogenic synthesis of Au, Ag and Au–Ag alloy nanoparticles using Cannabis sativa leaf extract | IET Nanobiotechnol | PMC8675952
+- new | 2018 | IND606037819 | AGR | The essential oil from industrial hemp (Cannabis sativa L.) by-products as an effective tool for insect pest management in organic crops | Industrial crops and products. | doi 10.1016/j.indcrop.2018.05.032
+- new | 2018 | IND605914037 | AGR | Scanner based image analysis to characterise the influence of agronomic factors on hemp (Cannabis sativa L.) fibre width | Industrial crops and products. | doi 10.1016/j.indcrop.2017.12.059
+- new | 2016 | IND605250031 | AGR | Development and quality evaluation of lacto-fermented product based on hulled and not hulled hempseed (Cannabis sativa L.) | Lebensm Wiss Technol | doi 10.1016/j.lwt.2016.05.027
+- new | 2016 | IND605265243 | AGR | Cannabis sativa and Humulus lupulus essential oils as novel control tools against the invasive mosquito Aedes albopictus and fresh water snail Physella acuta | Industrial crops and products. | doi 10.1016/j.indcrop.2016.03.008
+- new | 2014 | IND500727134 | AGR | Sex chromosomes and quantitative sex expression in monoecious hemp (Cannabis sativa L.) | Euphytica | doi 10.1007/s10681-013-1023-y
+- new | 2014 | IND605428532 | AGR | Comparative phytotoxicity of 25 essential oils on pre- and post-emergence development of Solanum lycopersicum L.: A multivariate approach | Industrial crops and products. | doi 10.1016/j.indcrop.2014.06.021
+- new |  | PMC13786357 | PMC | Valorization of Cannabis sativa Residual Biomass from Industrial CBD Extraction as a Renewable Support for Candida antarctica Lipase B Immobilization and Fatty Acid Ester | ACS Omega | PMC13786357
+- new |  | PMC10629910 | PMC | Cannabis sativa L.: A comprehensive review on legislation, decriminalization, phytochemistry, antimicrobial activity, and safety | J Food Drug Anal | PMC10629910
+
+### full text, trial in title - 178 hits
+- new | 2026 | 41756111 | MED | Integrative therapies for chronic insomnia: A randomized controlled trial of a traditional Thai herbal remedy and &lt;i&gt;Cannabis sativa&lt;/i&gt; oil. | Sleep Med X | doi 10.1016/j.sleepx.2026.100180 | PMC12933466
+- new | 2026 | 42563548 | MED | Cannabis-Based Oil for Pain and Other Non-Motor Symptoms in Parkinson's Disease: A Randomized Controlled Trial. | Mov Disord | doi 10.1002/mds.70449
+- new | 2026 | 41623556 | MED | Integrative therapies for chronic insomnia: A randomized controlled trial of a traditional Thai Herbal Remedy and &lt;i&gt;Cannabis sativa&lt;/i&gt; oil. | Sleep Med X | doi 10.1016/j.sleepx.2026.100173 | PMC12856596
+- new | 2026 | 41698831 | MED | Cannabinol for Acute Treatment of Insomnia Disorder in a Randomized Placebo-Controlled Crossover Trial. | J Sleep Res | doi 10.1111/jsr.70284 | PMC13357646
+- new | 2026 | 41897881 | MED | Randomized and Blind Evaluation of the Efficacy of a Full-Spectrum Oral &lt;i&gt;Cannabis sativa&lt;/i&gt; Oil Extract, Standardized Based on CBD-A, CBD and THC-A, THC in | Animals (Basel) | doi 10.3390/ani16060900 | PMC13023326
+- new | 2026 | 42000963 | MED | Cannabidiol at the crossroads: panacea, placebo, or problem? | Neuropsychopharmacology | doi 10.1038/s41386-026-02415-0 | PMC13291339
+- new | 2026 | 41918004 | MED | Efficacy and safety of cannabidiol (CBD) on reducing pain and functional impairment associated with exercise-induced muscle injury: a randomized placebo-controlled feasib | J Cannabis Res | doi 10.1186/s42238-026-00431-x | PMC13159225
+- new | 2026 | 42613673 | MED | A randomised, double-blind, placebo-controlled crossover trial on cannabinoid-based medication for behavioural disorders in old patients with severe dementia: the study r | Age Ageing | doi 10.1093/ageing/afag239 | PMC13483985
+- new | 2026 | 41574318 | MED | Effect of Cannabigerol on Sleep and Quality of Life in Veterans: A Decentralized, Randomized, Placebo-Controlled Trial. | Med Cannabis Cannabinoids | doi 10.1159/000549902 | PMC12823110
+- new | 2026 | 42321899 | MED | The effects of oral cannabidiol supplementation on blood pressure in adults: a systematic review of randomised controlled trials. | J Cannabis Res | doi 10.1186/s42238-026-00463-3 | PMC13531894
+- new | 2026 | 42561512 | MED | NTI164, a novel medicinal cannabis extract, improves core symptoms of autism spectrum disorder: Results from a double-blind, randomised, controlled trial (The Harmony stu | Neurotherapeutics | doi 10.1016/j.neurot.2026.e01033 | PMC13474237
+- new | 2026 | 42514343 | MED | Effects of Sativex&lt;sup&gt;®&lt;/sup&gt; Versus Placebo on Glucagon-like Peptide-1, Total Ghrelin, and Subjective Appetite in Older Adults with Poor Appetite: A Protoco | Nutrients | doi 10.3390/nu18142274 | PMC13414925
+- new | 2026 | 41736083 | MED | Phase II randomized controlled trial comparing traditional Thai cannabis-based medicine with lorazepam for insomnia treatment. | J Cannabis Res | doi 10.1186/s42238-026-00415-x | PMC13040682
+- new | 2026 | 41537103 | MED | A Phase 1B Trial of Cannabidiol for Symptom Management in Kidney Failure. | Kidney Int Rep | doi 10.1016/j.ekir.2025.11.022 | PMC12796568
+- new | 2026 | 42142029 | MED | Feasibility, Safety and Preliminary Efficacy of 1:1 THC:CBD Cannabis Oil for Fibromyalgia Symptoms: Results From a Randomised, Double-Blind, Placebo-Controlled Pilot Tria | Pain Res Manag | doi 10.1155/prm/7311235 | PMC13179683
+- new | 2026 | 42256679 | MED | High-dose cannabidiol for chronic neuropathic pain associated with spinal cord injury: a randomised clinical trial. | EClinicalMedicine | doi 10.1016/j.eclinm.2026.103986 | PMC13233594
+- new | 2026 | 40410546 | MED | Cannabidiol (CBD) Treatment for Severe Problem Behaviors in Autistic Boys: A Randomized Clinical Trial. | J Autism Dev Disord | doi 10.1007/s10803-025-06884-y | PMC12885472
+- new | 2026 | 42157574 | MED | Evaluation of Sustained Disease Control With Nipocalimab Versus Placebo in the Phase 3 Vivacity-MG3 Study. | Eur J Neurol | doi 10.1111/ene.70599 | PMC13580774
+- new | 2026 | 42793382 | MED | Investigating Neuropharmacological Features of the Cortical Activity of Cannabidiol GWP42003 P-A Phase 1 Clinical Trial. | Brain Sci | doi 10.3390/brainsci16090957 | PMC13604680
+- new | 2026 | 41133912 | MED | Bexicaserin for the treatment of seizures in developmental and epileptic encephalopathies: A phase 1b/2a trial (PACIFIC). | Epilepsia | doi 10.1111/epi.18689 | PMC12927688
+- new | 2026 | 42179430 | MED | Adjunctive Cannabidiol for Drug-Resistant Epilepsy: A Systematic Review and Meta-Analysis of Randomized Trials Across Syndromes, Formulations, and Dose Ranges. | Ther Clin Risk Manag | doi 10.2147/tcrm.s601774 | PMC13196805
+- new | 2026 | 41888667 | MED | Phase 2, open-label INSPIRE trial to assess the tolerability and effectiveness of transdermal cannabidiol gel in children and adolescents with 22q11.2 deletion syndrome ( | J Neurodev Disord | doi 10.1186/s11689-026-09687-z | PMC13141530
+- new | 2025 | 41487518 | MED | Effects and safety of a CBD-rich &lt;i&gt;Cannabis sativa&lt;/i&gt; oil in knee osteoarthritis: a double-blind, randomized, placebo-controlled trial - CANOA - cannabis fo | Front Pharmacol | doi 10.3389/fphar.2025.1657065 | PMC12757406
+- new | 2025 | PPR1058136 | PPR | Randomized and Blind Evaluation of the Efficacy of a Full-Spectrum Oral Cannabis sativa Oil Extract, Standardized Based on CBD-A, CBD and THC-A, THC in Canines with Chron |  | doi 10.20944/preprints202507.2432.v1
+- HELD REF-3485 | 2025 | 41023483 | MED | Full-spectrum extract from Cannabis sativa DKJ127 for chronic low back pain: a phase 3 randomized placebo-controlled trial. | Nat Med | doi 10.1038/s41591-025-03977-0 | PMC12705446
+- new | 2025 | 41635790 | MED | Efficacy, pharmacokinetics and safety of liposomal synthetic cannabidiol injected subcutaneously in dogs: a randomized, blinded, placebo-controlled, crossover clinical tr | Front Vet Sci | doi 10.3389/fvets.2025.1746266 | PMC12862949
+- new | 2025 | 41137182 | MED | Efficacy of cannabis oil on appetite and quality of life in systemic sclerosis patients: a randomized placebo-controlled trial. | J Cannabis Res | doi 10.1186/s42238-025-00342-3 | PMC12553150
+- new | 2025 | 41028525 | MED | VER-01 Shows Enhanced Gastrointestinal Tolerability, Superior Pain Relief, and Improved Sleep Quality Compared to Opioids in Treating Chronic Low Back Pain: A Randomized  | Pain Ther | doi 10.1007/s40122-025-00773-z | PMC12634985
+- HELD REF-3486 | 2025 | 39256070 | MED | Effect of Topical Hemp (Cannabis sativa L.) Seed Oil on Knee Osteoarthritis: A Randomized Double-Blind Controlled Trial. | Pain Manag Nurs | doi 10.1016/j.pmn.2024.08.001
+- new | 2025 | 41226928 | MED | Acute Effects of Cannabis and THC Oils on Cardiovascular Hemodynamics and Muscle Electrical Activity in Healthy Individuals: A Controlled Clinical Crossover Trial Protoco | J Clin Med | doi 10.3390/jcm14217531 | PMC12608809
+- new | 2025 | 40500407 | MED | The neural and psychophysiological effects of cannabidiol in youth with alcohol use disorder: A randomized controlled clinical trial. | Neuropsychopharmacology | doi 10.1038/s41386-025-02141-z | PMC12339998
+- new | 2025 | 40991871 | MED | Efficacy and Safety of Runzaozhiyang Lotion for Chronic Hand Eczema: Protocol for a Randomized Controlled Trial. | JMIR Res Protoc | doi 10.2196/76555 | PMC12459855
+- new | 2025 | 40839290 | MED | The Acute Effects of Cannabidiol on Physiological and Subjective Responses to Endurance Exercise: A Dose-Ranging Randomised Controlled Crossover Trial. | Sports Med Open | doi 10.1186/s40798-025-00895-w | PMC12370602
+- new | 2025 | 41471281 | MED | Oral Cannabidiol for Acute Post-Extraction Pain: A Randomized Pilot Study. | Pharmaceuticals (Basel) | doi 10.3390/ph18121792 | PMC12735417
+- new | 2025 | 41625337 | MED | Traditional herbal medicine for opioid-induced constipation in patients with cancer: a systematic review and meta-analysis of randomized controlled trials. | Front Pharmacol | doi 10.3389/fphar.2025.1716974 | PMC12855494
+- new | 2025 | 40486016 | MED | Effect of Herbal Bioactive Compounds on the Angiogenic Factors and Modulation of Inflammatory Mediators in the Patients with the Deep Second-Degree Burn: A Single-Blinded | Med J Islam Repub Iran | doi 10.47176/mjiri.39.16 | PMC12138664
+- new | 2025 | 40430155 | MED | Efficacy of Cannabis Oil in Improving Subjective Sleep Quality in Systemic Sclerosis: A Prospective Placebo-Controlled Study. | Life (Basel) | doi 10.3390/life15050727 | PMC12113143
+- new | 2025 | 40670615 | MED | Machine-learning of medical cannabis chemical profiles reveals analgesia beyond placebo expectations. | Commun Med (Lond) | doi 10.1038/s43856-025-00996-3 | PMC12267634
+- new | 2025 | 40095592 | MED | Evaluation of the Effectiveness of a Mouthwash Containing Spilanthol and Cannabidiol on Improving Oral Health in Patients with Gingivitis-Clinical Trial. | J Clin Med | doi 10.3390/jcm14051641 | PMC11899771
+- new | 2025 | 39601108 | MED | A Phase I Trial of the Pharmacokinetic Interaction Between Cannabidiol and Tacrolimus. | Clin Pharmacol Ther | doi 10.1002/cpt.3504 | PMC11835423
+- new | 2024 | 39488240 | MED | Impact of combined plant extracts on long COVID: An exploratory randomized controlled trial. | Complement Ther Med | doi 10.1016/j.ctim.2024.103107
+- new | 2024 | 39016024 | MED | Topical Cannabidiol for Established Chemotherapy-Induced Neuropathy: A Pilot Randomized Placebo-Controlled Trial. | Cannabis Cannabinoid Res | doi 10.1089/can.2023.0253 | PMC11685298
+- new | 2024 | 39328960 | MED | Cannabis-Containing Cream for CKD-Associated Pruritus: A Double-Blind, Placebo Controlled Trial. | Kidney Med | doi 10.1016/j.xkme.2024.100894 | PMC11424939
+- new | 2024 | 39348366 | MED | LOTUS: Protocol for a double-blind placebo controlled randomized trial of hemp-derived cannabidiol for the treatment of cannabis use disorder. | PLoS One | doi 10.1371/journal.pone.0308262 | PMC11441658
+- new | 2024 | IND608309455 | AGR | Ethephon’s effects on sexual expression and cannabinoid production in monoecious and dioecious varieties of hemp (Cannabis sativa L.): A field trial | Industrial crops and products.
+- new | 2024 | 38085421 | MED | Effects of eight-week regular high-intensity interval training and hemp (Cannabis sativa L.) seed on total testosterone level among sedentary young males: double-blind, r | Endocrine | doi 10.1007/s12020-023-03629-8
+- new | 2024 | 39015605 | MED | Efficacy and Safety of Cannabis Transdermal Patch for Alleviating Psoriasis Symptoms: Protocol for a Randomized Controlled Trial (CanPatch). | Med Cannabis Cannabinoids | doi 10.1159/000539492 | PMC11249749
+- new | 2024 | 38054364 | MED | Pharmacokinetics and pharmacodynamics of cannabis-based medicine in a patient population included in a randomized, placebo-controlled, clinical trial. | Clin Transl Sci | doi 10.1111/cts.13685 | PMC10772478
+- new | 2024 | 39680411 | MED | Cannabidiol for Scan-Related Anxiety in Women With Advanced Breast Cancer: A Randomized Clinical Trial. | JAMA Netw Open | doi 10.1001/jamanetworkopen.2024.50391 | PMC11650394
+- new | 2024 | 38904150 | MED | The effects of a brand-specific, hemp-derived cannabidiol product on physiological, biochemical, and psychometric outcomes in healthy adults: a double-blind, randomized c | J Int Soc Sports Nutr | doi 10.1080/15502783.2024.2370430 | PMC11195455
+- new | 2024 | 35617670 | MED | Evaluation of the efficacy and safety of cannabidiol-rich cannabis extract in children with autism spectrum disorder: randomized, double-blind, and placebo-controlled cli | Trends Psychiatry Psychother | doi 10.47626/2237-6089-2021-0396 | PMC11332686
+- new | 2024 | 38433233 | MED | A phase III multisite randomised controlled trial to compare the efficacy of cannabidiol to placebo in the treatment of cannabis use disorder: the CBD-CUD study protocol. | BMC Psychiatry | doi 10.1186/s12888-024-05616-3 | PMC10910760
+- new | 2024 | 38322981 | MED | Cannabidiol for Postoperative Pain Control After Arthroscopic Rotator Cuff Repair Demonstrates No Deficits in Patient-Reported Outcomes Versus Placebo: 1-Year Follow-up o | Orthop J Sports Med | doi 10.1177/23259671231222265 | PMC10846110
+- new | 2024 | 38521934 | MED | Efficacy and mechanisms of cannabis oil for alleviating side effects of breast cancer chemotherapy (CBC2): protocol for randomized controlled trial. | BMC Complement Med Ther | doi 10.1186/s12906-024-04426-0 | PMC10960413
+- new | 2024 | 38531572 | MED | Effects of cannabidiol on psychosocial stress, situational anxiety and nausea in a virtual reality environment: a protocol for a single-centre randomised clinical trial. | BMJ Open | doi 10.1136/bmjopen-2023-082927 | PMC10966725
+- new | 2024 | 39151115 | MED | Oral Cannabis Extract for Secondary Prevention of Chemotherapy-Induced Nausea and Vomiting: Final Results of a Randomized, Placebo-Controlled, Phase II/III Trial. | J Clin Oncol | doi 10.1200/jco.23.01836 | PMC11608591
+- new | 2024 | 39296339 | MED | Limited Impact of Cannabidiol on Health-related Quality of Life of People With Long-term Controlled HIV: A Double-blind, Randomized, Controlled Trial. | Open Forum Infect Dis | doi 10.1093/ofid/ofae492 | PMC11409882
+- new | 2024 | 38782848 | MED | The Effect of Cannabidiol on Subjective Responses to Endurance Exercise: A Randomised Controlled Trial. | Sports Med Open | doi 10.1186/s40798-024-00727-3 | PMC11116295
+- new | 2024 | 39598172 | MED | The Impact of Cannabidiol Treatment on Anxiety Disorders: A Systematic Review of Randomized Controlled Clinical Trials. | Life (Basel) | doi 10.3390/life14111373 | PMC11595441
+- new | 2024 | 39400103 | MED | The impact of cannabidiol placebo on amygdala-based neural responses to an acute stressor. | J Psychopharmacol | doi 10.1177/02698811241287557 | PMC11528970
+- new | 2024 | 41775827 | MED | Insomnia and its treatments-trend analysis and publication profile of randomized clinical trials. | NPJ Biol Timing Sleep | doi 10.1038/s44323-024-00014-0 | PMC12912383
+- new | 2024 | 38177999 | MED | Cannabidiol (Epidyolex®) for severe behavioral manifestations in patients with tuberous sclerosis complex, mucopolysaccharidosis type III and fragile X syndrome: protocol | BMC Psychiatry | doi 10.1186/s12888-023-05422-3 | PMC10768432
+- new | 2023 | 36067506 | MED | Long-term effects of a diet supplement containing <i>Cannabis sativa</i> oil and <i>Boswellia serrata</i> in dogs with osteoarthritis following physiotherapy treatments:  | Nat Prod Res | doi 10.1080/14786419.2022.2119967
+- new | 2023 | PPR627891 | PPR | Efficacy and Safety of Cannabis Transdermal Patch for Alleviating Psoriasis Symptoms: Protocol for a Randomized Controlled Trial (CanPatch) |  | doi 10.1101/2023.03.08.23286926
+- new | 2023 | 37293434 | MED | Medical cannabinoids for painful symptoms in patients with severe dementia: a randomized, double-blind cross-over placebo-controlled trial protocol. | Front Pain Res (Lausanne) | doi 10.3389/fpain.2023.1108832 | PMC10244760
+- new | 2023 | 38037108 | MED | Cannabidiol versus placebo as adjunctive treatment in early psychosis: study protocol for randomized controlled trial. | Trials | doi 10.1186/s13063-023-07789-w | PMC10691114
+- new | 2023 | 36040362 | MED | Cannabidiol as a Treatment for Neurobiological, Behavioral, and Psychological Symptoms in Early-Stage Dementia: A Double-Blind, Placebo-Controlled Clinical Trial Protocol | Cannabis Cannabinoid Res | doi 10.1089/can.2021.0209
+- new | 2023 | 37612115 | MED | Cannabinol (CBN; 30 and 300 mg) effects on sleep and next-day function in insomnia disorder ('CUPID' study): protocol for a randomised, double-blind, placebo-controlled,  | BMJ Open | doi 10.1136/bmjopen-2022-071148 | PMC10450062
+- new | 2023 | 36803360 | MED | Efficacy and safety of topical 0.1% cannabidiol for managing recurrent aphthous ulcers: a randomized controlled trial. | BMC Complement Med Ther | doi 10.1186/s12906-023-03886-0 | PMC9940329
+- new | 2023 | 37608911 | MED | Oral Tetrahydrocannabinol (THC):Cannabinoid (CBD) Cannabis Extract Adjuvant for Reducing Chemotherapy-Induced Nausea and Vomiting (CINV): A Randomized, Double-Blinded, Pl | Int J Womens Health | doi 10.2147/ijwh.s401938 | PMC10440684
+- new | 2023 | 35749710 | MED | The Effect of Cannabidiol for Restless Legs Syndrome/Willis-Ekbom Disease in Parkinson's Disease Patients with REM Sleep Behavior Disorder: A <i>Post Hoc</i> Exploratory  | Cannabis Cannabinoid Res | doi 10.1089/can.2021.0158
+- new | 2023 | 37626214 | MED | Effect of vaporizing cannabis rich in cannabidiol on cannabinoid levels in blood and on driving ability - a randomized clinical trial. | Int J Legal Med | doi 10.1007/s00414-023-03076-0 | PMC10567805
+- new | 2023 | 37476317 | MED | A Phase Ib, Double Blind, Randomized Study of Cannabis Oil for Pain in Parkinson's Disease. | Mov Disord Clin Pract | doi 10.1002/mdc3.13754 | PMC10354611
+- new | 2023 | 37147642 | MED | Treating nightmares in posttraumatic stress disorder with dronabinol: study protocol of a multicenter randomized controlled study (THC PTSD-trial). | BMC Psychiatry | doi 10.1186/s12888-023-04818-5 | PMC10161665
+- new | 2023 | 36925641 | MED | Efficacy of herbal medicine treatment based on syndrome differentiation for Parkinson's disease: A systematic review and meta-analysis of randomized placebo-controlled cl | Front Pharmacol | doi 10.3389/fphar.2023.1108407 | PMC10012343
+- new | 2023 | 36716312 | MED | Cannabinoids versus placebo for pain: A systematic review with meta-analysis and Trial Sequential Analysis. | PLoS One | doi 10.1371/journal.pone.0267420 | PMC9886264
+- new | 2023 | 37375567 | MED | Effects of Oral Cannabidiol on Health and Fitness in Healthy Adults: An 8-Week Randomized Trial. | Nutrients | doi 10.3390/nu15122664 | PMC10301202
+- new | 2023 | 37242428 | MED | Trial of a Novel Oral Cannabinoid Formulation in Patients with Hypertension: A Double-Blind, Placebo-Controlled Pharmacogenetic Study. | Pharmaceuticals (Basel) | doi 10.3390/ph16050645 | PMC10223705
+- new | 2023 | 36625844 | MED | The effects of cannabidiol on subjective states, cognition, and psychomotor function in healthy adults: A randomized clinical trial. | Fundam Clin Pharmacol | doi 10.1111/fcp.12868 | PMC10175152
+- new | 2022 | 35811050 | MED | Impact of cannabidiol-rich hemp extract oil on reconsolidation disruption of naturalistic interoceptive aversive memory in humans: Protocol for a randomized clinical tria | Contemp Clin Trials | doi 10.1016/j.cct.2022.106847
+- new | 2022 | 34190422 | MED | Cannabidiol for at risk for psychosis youth: A randomized controlled trial. | Early Interv Psychiatry | doi 10.1111/eip.13182
+- new | 2022 | 35921510 | MED | Cannabidiol for Treatment-Resistant Anxiety Disorders in Young People: An Open-Label Trial. | J Clin Psychiatry | doi 10.4088/jcp.21m14130
+- new | 2022 | 35637624 | MED | Effects of cannabidiol on simulated driving and cognitive performance: A dose-ranging randomised controlled trial. | J Psychopharmacol | doi 10.1177/02698811221095356 | PMC9716488
+- new | 2022 | 35571093 | MED | Cannabinoid Use for Pain Reduction in Spinal Cord Injuries: A Meta-Analysis of Randomized Controlled Trials. | Front Pharmacol | doi 10.3389/fphar.2022.866235 | PMC9096558
+- new | 2022 | 36123113 | MED | Study protocol for a phase II, double-blind, randomised controlled trial of cannabidiol (CBD) compared with placebo for reduction of brain neuroinflammation in adults wit | BMJ Open | doi 10.1136/bmjopen-2022-063613 | PMC9486315
+- new | 2022 | 35224436 | MED | A Phase I Trial to Determine the Pharmacokinetics, Psychotropic Effects, and Safety Profile of a Novel Nanoparticle-Based Cannabinoid Spray for Oromucosal Delivery. | Med Cannabis Cannabinoids | doi 10.1159/000521352 | PMC8832248
+- new | 2022 | 35802375 | MED | Adjunctive Transdermal Cannabidiol for Adults With Focal Epilepsy: A Randomized Clinical Trial. | JAMA Netw Open | doi 10.1001/jamanetworkopen.2022.20189 | PMC9270696
+- new | 2022 | 36271316 | MED | The Effectiveness and Safety of Cannabidiol in Non-seizure-related Indications: A Systematic Review of Published Randomized Clinical Trials. | Pharmaceut Med | doi 10.1007/s40290-022-00446-8 | PMC9708636
+- new | 2021 | 34759989 | MED | <i>Malus domestica</i> reduces chemotherapy-induced nausea and vomiting: A randomized double-blind placebo-controlled clinical trial. | J Res Med Sci | doi 10.4103/jrms.jrms_833_20 | PMC8548888
+- new | 2021 | 33938874 | MED | A Randomized, Double-Blind, and Placebo-Controlled Trial of Chinese Herbal Medicine in the Treatment of Childhood Constipation. | Clin Transl Gastroenterol | doi 10.14309/ctg.0000000000000345 | PMC8096462
+- new | 2021 | 34704984 | MED | Effect of antibiotic prophylaxis for preventing infectious complications following impacted mandibular third molar surgery. A randomized controlled trial. | Med Oral Patol Oral Cir Bucal | doi 10.4317/medoral.24274 | PMC8601648
+- new | 2021 | 34391393 | MED | Cannabidiol versus risperidone for treatment of recent-onset psychosis with comorbid cannabis use: study protocol for a randomized controlled clinical trial. | BMC Psychiatry | doi 10.1186/s12888-021-03395-9 | PMC8364057
+- new | 2021 | 33075170 | MED | A phase I trial of the safety, tolerability and pharmacokinetics of cannabidiol administered as single-dose oil solution and single and multiple doses of a sublingual waf | Br J Clin Pharmacol | doi 10.1111/bcp.14617
+- new | 2021 | 33095968 | MED | A validated method for the simultaneous quantification of cannabidiol, Δ<sup>9</sup> -tetrahydrocannabinol, and their metabolites in human plasma and application to plasm | Drug Test Anal | doi 10.1002/dta.2947
+- new | 2021 | 33571293 | MED | Cannabis is associated with clinical but not endoscopic remission in ulcerative colitis: A randomized controlled trial. | PLoS One | doi 10.1371/journal.pone.0246871 | PMC7877751
+- new | 2021 | 34573231 | MED | The Effect of Cannabis-Based Medicine on Neuropathic Pain and Spasticity in Patients with Multiple Sclerosis and Spinal Cord Injury: Study Protocol of a National Multicen | Brain Sci | doi 10.3390/brainsci11091212 | PMC8465969
+- new | 2021 | 33346789 | MED | Add-on Cannabidiol Treatment for Drug-Resistant Seizures in Tuberous Sclerosis Complex: A Placebo-Controlled Randomized Clinical Trial. | JAMA Neurol | doi 10.1001/jamaneurol.2020.4607 | PMC7754080
+- new | 2020 | 33324255 | MED | The CANNA-TICS Study Protocol: A Randomized Multi-Center Double-Blind Placebo Controlled Trial to Demonstrate the Efficacy and Safety of Nabiximols in the Treatment of Ad | Front Psychiatry | doi 10.3389/fpsyt.2020.575826 | PMC7725747
+- new | 2020 | 32430450 | MED | Cannabidiol (CBD) and Δ<sup>9</sup>-tetrahydrocannabinol (THC) for chronic insomnia disorder ('CANSLEEP' trial): protocol for a randomised, placebo-controlled, double-bli | BMJ Open | doi 10.1136/bmjopen-2019-034421 | PMC7239553
+- new | 2019 | 31698733 | MED | Myorelaxant Effect of Transdermal Cannabidiol Application in Patients with TMD: A Randomized, Double-Blind Trial. | J Clin Med | doi 10.3390/jcm8111886 | PMC6912397
+
+### full text, patients/volunteers in title - 256 hits
+- new | 2026 | 41213439 | MED | Therapeutic potential of cannabidiol-rich Cannabis sativa to mitigate the severity of inflammation and pain: A pre-clinical study. | J Ethnopharmacol | doi 10.1016/j.jep.2025.120856
+- new | 2026 | 41622700 | MED | Clinical Study to Evaluate Drug Interactions of Cannabidiol with Citalopram and Morphine in Healthy Adults. | Clin Pharmacol Ther | doi 10.1002/cpt.70219 | PMC12997498
+- new | 2026 | 41451876 | MED | Genotype-Specific Safety and Pharmacokinetics of Cannabidiol in Healthy Volunteers. | Clin Transl Sci | doi 10.1111/cts.70455 | PMC12741916
+- new | 2026 | 42757353 | MED | Efficacy of Cannabinoids in Improving Nutritional Outcomes in Chemotherapy Patients: A Scoping Review. | Cureus | doi 10.7759/cureus.114757 | PMC13585438
+- new | 2026 | 41624807 | MED | Influence of cannabis use on length of stay in patients admitted to the epilepsy monitoring unit. | Epilepsy Behav Rep | doi 10.1016/j.ebr.2025.100846 | PMC12856463
+- new | 2026 | 41683649 | MED | The Role of Nut Sensitization in Pru p 3-Sensitized Patients: A XGBoost and Generalized Linear Model Application. | Int J Mol Sci | doi 10.3390/ijms27031223 | PMC12897624
+- new | 2026 | 42558508 | MED | Real-world quality of life and sleep outcomes in patients treated with THC- and CBD-rich &lt;i&gt;Cannabis&lt;/i&gt; oil: a cross-sectional study. | Front Pharmacol | doi 10.3389/fphar.2026.1862725 | PMC13437618
+- new | 2026 | 42613673 | MED | A randomised, double-blind, placebo-controlled crossover trial on cannabinoid-based medication for behavioural disorders in old patients with severe dementia: the study r | Age Ageing | doi 10.1093/ageing/afag239 | PMC13483985
+- new | 2026 | 41935281 | MED | Genetic predictors of lithium response in an ethiopian cohort of patients with bipolar disorder. | Ann Gen Psychiatry | doi 10.1186/s12991-026-00651-8 | PMC13067636
+- new | 2025 | 39880884 | MED | A high-fat meal significantly impacts the bioavailability and biphasic absorption of cannabidiol (CBD) from a CBD-rich extract in men and women. | Sci Rep | doi 10.1038/s41598-025-87621-4 | PMC11779803
+- new | 2025 | PMC13544378 | PMC | Use of cannabis in psychological symptom management among patients with cancer: A narrative review | J Am Pharm Assoc (2003) | PMC13544378
+- new | 2025 | 40978479 | MED | Practical approach to the safe use of cannabidiol in patients with refractory epilepsy: a mini review. | Front Pharmacol | doi 10.3389/fphar.2025.1681815 | PMC12443548
+- new | 2025 | 40124934 | MED | Evaluation of Biophysical Parameters of the Skin of Patients With Atopic Dermatitis After Application of an Ointment Containing 30% Cannabidiol and 5% Cannabigerol. | Clin Cosmet Investig Dermatol | doi 10.2147/ccid.s472746 | PMC11930258
+- new | 2025 | 41625337 | MED | Traditional herbal medicine for opioid-induced constipation in patients with cancer: a systematic review and meta-analysis of randomized controlled trials. | Front Pharmacol | doi 10.3389/fphar.2025.1716974 | PMC12855494
+- new | 2025 | 39279696 | MED | Disease-Modifying Symptomatic Treatment (DMST) Potential of Cannabinoids in Patients with Multiple Sclerosis. | Curr Neuropharmacol | doi 10.2174/011570159x329058240820070701 | PMC12163502
+- new | 2025 | 40529781 | MED | Clinical significance of mirtazapine for anorexia in patients with non-small cell lung cancer. | J Thorac Dis | doi 10.21037/jtd-2024-2225 | PMC12170241
+- new | 2025 | 40675390 | MED | Cannabis Use is Associated With Lower Urinary Tract Symptoms in Pediatric Patients-A Large Claims Database Study. | Urology | doi 10.1016/j.urology.2025.07.014 | PMC12316470
+- new | 2025 | 40186795 | MED | Pharmacokinetic/Pharmacodynamic Modeling of the Acute Heart Rate Effects of Delta-9 Tetrahydrocannabinol and Its Major Metabolites After Intravenous Injection in Healthy  | Eur J Drug Metab Pharmacokinet | doi 10.1007/s13318-025-00941-8 | PMC12081532
+- new | 2025 | 41425480 | MED | Mitigating Risk of Premature Ovarian Insufficiency Using Adjunct Chinese Herbal Medicines: A Nested Patient-Control Study in Female Cancer Patients with Chemotherapy. | Int J Womens Health | doi 10.2147/ijwh.s541702 | PMC12717818
+- new | 2025 | 40687272 | MED | Inflammatory bowel disease patients believe cannabis and cannabidiol oil relieve symptoms. | Acad Med (San Franc) | doi 10.20935/acadmed7773 | PMC12276967
+- new | 2025 | 40732351 | MED | Expanding the Therapeutic Profile of Topical Cannabidiol in Temporomandibular Disorders: Effects on Sleep Quality and Migraine Disability in Patients with Bruxism-Associa | Pharmaceuticals (Basel) | doi 10.3390/ph18071064 | PMC12300357
+- new | 2025 | 41141315 | MED | Management of pregnant patients with substance use disorder. | BJA Educ | doi 10.1016/j.bjae.2025.07.006 | PMC12544119
+- new | 2025 | 40142928 | MED | Evaluating Vaporized Cannabinoid Therapy in Multiple Sclerosis: Findings from a Prospective Single-Center Clinical Study. | J Clin Med | doi 10.3390/jcm14062121 | PMC11943353
+- new | 2025 | 40700263 | MED | Polysubstance Use and Social Sequelae in Women of Reproductive Age with Recent Marijuana Use. | Pharmacy (Basel) | doi 10.3390/pharmacy13040092 | PMC12286012
+- new | 2025 | 40723205 | MED | New Approach for Enhancing Survival in Glioblastoma Patients: A Longitudinal Pilot Study on Integrative Oncology. | Cancers (Basel) | doi 10.3390/cancers17142321 | PMC12293909
+- new | 2025 | 41137182 | MED | Efficacy of cannabis oil on appetite and quality of life in systemic sclerosis patients: a randomized placebo-controlled trial. | J Cannabis Res | doi 10.1186/s42238-025-00342-3 | PMC12553150
+- new | 2025 | 40008106 | MED | Psychiatric Manifestations of Delta-8-Tetrahydrocannabinol (Δ8-THC) Use Among Patients With Preexisting Psychiatric Disorders: A Case Series. | Cureus | doi 10.7759/cureus.79621 | PMC11853416
+- new | 2025 | 40549965 | MED | Lifetime Smoking History and Marijuana Co-use in Patients With Alcohol-related Acute Pancreatitis. | Pancreas | doi 10.1097/mpa.0000000000002523 | PMC12537027
+- new | 2025 | 41181607 | MED | Systematic review and network meta-analysis of the effects of bioactive compounds on pain intensity and quality of life in neuropathic pain patients. | Front Pharmacol | doi 10.3389/fphar.2025.1656400 | PMC12576042
+- new | 2025 | 40095592 | MED | Evaluation of the Effectiveness of a Mouthwash Containing Spilanthol and Cannabidiol on Improving Oral Health in Patients with Gingivitis-Clinical Trial. | J Clin Med | doi 10.3390/jcm14051641 | PMC11899771
+- new | 2025 | 41514586 | MED | Nutritional Impact on Breast Cancer in Menopausal and Post-Menopausal Patients Treated with Aromatase Inhibitors. | Cancers (Basel) | doi 10.3390/cancers18010073 | PMC12785006
+- new | 2025 | 40486016 | MED | Effect of Herbal Bioactive Compounds on the Angiogenic Factors and Modulation of Inflammatory Mediators in the Patients with the Deep Second-Degree Burn: A Single-Blinded | Med J Islam Repub Iran | doi 10.47176/mjiri.39.16 | PMC12138664
+- new | 2025 | 40770387 | MED | Randomized single-dose crossover comparative bioavailability study of two novel oral cannabidiol (CBD) formulations in healthy volunteers under fed conditions, compared t | J Cannabis Res | doi 10.1186/s42238-025-00312-9 | PMC12330118
+- new | 2025 | 39882324 | MED | The use of cannabidiol as adjunctive therapy in adult patients with drug-resistant epilepsy: a systematic review and meta-analysis. | Ther Adv Neurol Disord | doi 10.1177/17562864251313914 | PMC11775975
+- new | 2024 | 38689986 | MED | Patients' knowledge about the uses, risks, and beliefs surrounding the regulation and safety of <i>Cannabis sativa L.</i> in Peru. | Heliyon | doi 10.1016/j.heliyon.2024.e27068 | PMC11059411
+- new | 2024 | PPR880176 | PPR | Priming lymphocyte responsiveness and differential T cell signaling in pediatric IBD patients with  <i>Cannabis</i>  use |  | doi 10.1101/2024.07.08.602495
+- new | 2024 | 39503571 | MED | Chemical analysis and concentrations of cannabidiol substances used for refractory epilepsy in Chilean patients. An underestimated worldwide risk. | Epilepsia Open | doi 10.1002/epi4.13081 | PMC11633677
+- new | 2024 | 39182921 | MED | Dose-dependent effects of oral cannabidiol and delta-9-tetrahydrocannabinol on serum anandamide and related N-acylethanolamines in healthy volunteers. | BMJ Ment Health | doi 10.1136/bmjment-2024-301027 | PMC11409355
+- new | 2024 | 39082368 | MED | Evaluation of Cannabis-Related Product Use Among Patients With Hidradenitis Suppurativa: A Narrative Review. | J Cutan Med Surg | doi 10.1177/12034754241266125 | PMC11528859
+- new | 2024 | 39680411 | MED | Cannabidiol for Scan-Related Anxiety in Women With Advanced Breast Cancer: A Randomized Clinical Trial. | JAMA Netw Open | doi 10.1001/jamanetworkopen.2024.50391 | PMC11650394
+- new | 2024 | 38310543 | MED | Effects of Dronabinol on Dyspnea and Quality of Life in Patients With COPD. | Chronic Obstr Pulm Dis | doi 10.15326/jcopdf.2023.0401 | PMC11075348
+- new | 2024 | 39315343 | MED | Cannabis Use, Perspectives, and Experiences Among Patients Receiving Hemodialysis: A Descriptive Patient Survey. | Can J Kidney Health Dis | doi 10.1177/20543581241274002 | PMC11418350
+- new | 2024 | 38800569 | MED | Cannabis Use in Patients With Inflammatory Bowel Disease Following Legalization of Cannabis in Canada. | Crohns Colitis 360 | doi 10.1093/crocol/otae031 | PMC11120235
+- new | 2024 | 39502271 | MED | Cannabinoids for spasticity in patients with multiple sclerosis: A systematic review and meta-analysis. | Mult Scler J Exp Transl Clin | doi 10.1177/20552173241282379 | PMC11536376
+- new | 2024 | 38612615 | MED | Possible Role of Cannabis in the Management of Neuroinflammation in Patients with Post-COVID Condition. | Int J Mol Sci | doi 10.3390/ijms25073805 | PMC11012123
+- new | 2024 | 39063943 | MED | Trajectory of Change in the Severity of Symptoms in Patients with Fibromyalgia over 24 Months: Exploratory Analyses of a Combination Pharmacological Intervention. | J Pers Med | doi 10.3390/jpm14070689 | PMC11278305
+- new | 2024 | 38389452 | MED | Endocannabinoid levels in plasma and neurotransmitters in the brain: a preliminary report on patients with a psychotic disorder and healthy individuals. | Psychol Med | doi 10.1017/s0033291724000291 | PMC11413354
+- new | 2024 | 39039480 | MED | Medicinal plants used in multiple sclerosis patients, prevalence and associated factors: a descriptive cross-sectional study. | BMC Complement Med Ther | doi 10.1186/s12906-024-04587-y | PMC11265095
+- new | 2024 | 38539306 | MED | Epidemiology and Clinical Characteristics of Acute Plant Exposure in Patients Aged between 0 and 18 Years-A Six-Year Retrospective Study. | Children (Basel) | doi 10.3390/children11030271 | PMC10969538
+- new | 2024 | 38726319 | MED | Trends in prescription and cost of Sativex, a cannabinoid-based medicine, in treating patients with multiple sclerosis in England. | J Pharm Policy Pract | doi 10.1080/20523211.2024.2342318 | PMC11080669
+- new | 2024 | 38371501 | MED | Advancing breastfeeding promotion: leveraging integrative natural galactagogues and unveiling their potential roles-Insights from a 19-year Taiwan nationwide registry to  | Front Nutr | doi 10.3389/fnut.2024.1293735 | PMC10869601
+- new | 2024 | 38937900 | MED | Impact of cannabidiol on myocardial recovery in patients with acute myocarditis: Rationale &amp; design of the ARCHER trial. | ESC Heart Fail | doi 10.1002/ehf2.14889 | PMC11424368
+- new | 2024 | 39062050 | MED | Endometriosis: A Comprehensive Analysis of the Pathophysiology, Treatment, and Nutritional Aspects, and Its Repercussions on the Quality of Life of Patients. | Biomedicines | doi 10.3390/biomedicines12071476 | PMC11274817
+- new | 2023 | 37601299 | MED | Cannabis Improves Clinical Outcomes and Quality of Life in Patients With Chronic Pouchitis. | ACG Case Rep J | doi 10.14309/crj.0000000000001131 | PMC10435015
+- new | 2023 | 37526235 | MED | Could cannabinoids provide a new hope for ovarian cancer patients? | Pharmacol Res Perspect | doi 10.1002/prp2.1122 | PMC10391716
+- new | 2023 | 35749710 | MED | The Effect of Cannabidiol for Restless Legs Syndrome/Willis-Ekbom Disease in Parkinson's Disease Patients with REM Sleep Behavior Disorder: A <i>Post Hoc</i> Exploratory  | Cannabis Cannabinoid Res | doi 10.1089/can.2021.0158
+- new | 2023 | 37680386 | MED | Therapeutic efficacy and pharmacokinetics of liposomal-cannabidiol injection: a pilot clinical study in dogs with naturally-occurring osteoarthritis. | Front Vet Sci | doi 10.3389/fvets.2023.1224452 | PMC10481162
+- new | 2023 | 36757578 | MED | Delta-8-Tetrahydrocannabinol Exposure and Confirmation in Four Pediatric Patients. | J Med Toxicol | doi 10.1007/s13181-022-00927-x | PMC10050257
+- new | 2023 | 37293434 | MED | Medical cannabinoids for painful symptoms in patients with severe dementia: a randomized, double-blind cross-over placebo-controlled trial protocol. | Front Pain Res (Lausanne) | doi 10.3389/fpain.2023.1108832 | PMC10244760
+- new | 2023 | 37173971 | MED | A Phase I Dose Escalation and Expansion Study of Epidiolex (Cannabidiol) in Patients with Biochemically Recurrent Prostate Cancer. | Cancers (Basel) | doi 10.3390/cancers15092505 | PMC10177512
+- new | 2023 | 37426698 | MED | A primer on common supplements and dietary measures used by patients with inflammatory bowel disease. | Ther Adv Chronic Dis | doi 10.1177/20406223231182367 | PMC10328183
+- new | 2023 | 36537770 | MED | Topical Cannabidiol in the Treatment of Digital Ulcers in Patients with Scleroderma: Comparative Analysis and Literature Review. | Adv Skin Wound Care | doi 10.1097/01.asw.0000891856.08360.61 | PMC9788924
+- new | 2023 | 36982049 | MED | A Survey of Cannabis Use among Patients with Inflammatory Bowel Disease (IBD). | Int J Environ Res Public Health | doi 10.3390/ijerph20065129 | PMC10049263
+- new | 2023 | 37503496 | MED | Evaluation of Efficacy of Cannabis Use in Patients With Attention Deficit Hyperactivity Disorder: A Systematic Review. | Cureus | doi 10.7759/cureus.40969 | PMC10370827
+- new | 2023 | 37957621 | MED | "What will the doctor give me, the same painkiller?": a qualitative study exploring health-care seeking and symptoms self-management among patients for the treatment of l | BMC Health Serv Res | doi 10.1186/s12913-023-10254-8 | PMC10641972
+- new | 2023 | 37538850 | MED | Medical Cannabis Received by Patients According to Qualifying Condition in a US State Cannabis Program: Product Choice, Dosing, and Age-Related Trends. | Curr Ther Res Clin Exp | doi 10.1016/j.curtheres.2023.100709 | PMC10393751
+- new | 2022 | 36615107 | MED | Clinical Research Evidence Supporting Administration and Dosing Recommendations of Medicinal Cannabis as Analgesic in Cancer Patients. | J Clin Med | doi 10.3390/jcm12010307 | PMC9821014
+- new | 2022 | 35682101 | MED | Influence of E-Cigarette and Cannabis Vaping on Orthodontically Induced Tooth Movement and Periodontal Health in Patients Undergoing Orthodontic Therapy. | Int J Environ Res Public Health | doi 10.3390/ijerph19116518 | PMC9180231
+- new | 2022 | 34076067 | MED | Effect of two oral formulations of cannabidiol on responses to emotional stimuli in healthy human volunteers: pharmaceutical vehicle matters. | Braz J Psychiatry | doi 10.1590/1516-4446-2020-1684 | PMC8827362
+- new | 2022 | 34987023 | MED | Cannabinoids for Symptom Management in Patients with Kidney Failure: A Narrative Review. | Clin J Am Soc Nephrol | doi 10.2215/cjn.11560821 | PMC9269669
+- new | 2022 | 36386386 | MED | Nabiximols effect on blood pressure and heart rate in post-stroke patients of a randomized controlled study. | Front Cardiovasc Med | doi 10.3389/fcvm.2022.990188 | PMC9650544
+- new | 2022 | 35400139 | MED | Prevalence of Cannabinoid (CBD) Use in Orthopaedic Sports Medicine Patients. | Orthop J Sports Med | doi 10.1177/23259671221087629 | PMC8988677
+- new | 2022 | 35335888 | MED | <i>Cannabis</i>-Based Oral Emulsion for Medical Purposes to Meet the Needs of Patients: Formulation, Quality and Stability. | Pharmaceutics | doi 10.3390/pharmaceutics14030513 | PMC8954602
+- new | 2022 | 35293520 | MED | The anxiolytic effect of cannabidiol depends on the nature of the trauma when patients with post-traumatic stress disorder recall their trigger event. | Braz J Psychiatry | doi 10.1590/1516-4446-2021-2317 | PMC9169481
+- new | 2021 | 33075170 | MED | A phase I trial of the safety, tolerability and pharmacokinetics of cannabidiol administered as single-dose oil solution and single and multiple doses of a sublingual waf | Br J Clin Pharmacol | doi 10.1111/bcp.14617
+- new | 2021 | 33123730 | MED | Evaluating the Suitability and Potential Efficiency of Cannabis sativa Oil for Patients with Primary Burning Mouth Syndrome: A Prospective, Open-Label, Single-Arm Pilot S | Pain Med | doi 10.1093/pm/pnaa318
+- new | 2021 | 34729274 | MED | Medical Cannabis as Adjunctive Therapy for Head and Neck Cancer Patients. | Cureus | doi 10.7759/cureus.18396 | PMC8555939
+- new | 2021 | 33464779 | MED | The antipsychotic potential of cannabidiol: clinical implications for patients with psychosis and comorbid cannabis use disorder. | J Psychiatry Neurosci | doi 10.1503/jpn.200114 | PMC7955839
+- new | 2021 | 33655502 | MED | The diagnosis and management of allergic reactions in patients sensitized to non-specific lipid transfer proteins. | Allergy | doi 10.1111/all.14797
+- new | 2021 | 34531823 | MED | Endocannabinoid Levels in Ulcerative Colitis Patients Correlate With Clinical Parameters and Are Affected by Cannabis Consumption. | Front Endocrinol (Lausanne) | doi 10.3389/fendo.2021.685289 | PMC8438407
+- new | 2021 | 34285125 | MED | Prevalence of Cannabidiol Use in Patients With Spine Complaints: Results of an Anonymous Survey. | Int J Spine Surg | doi 10.14444/8087 | PMC8375682
+- new | 2021 | 33986220 | MED | Prevalence of Cannabinoid Use in Patients With Hip and Knee Osteoarthritis. | J Am Acad Orthop Surg Glob Res Rev | doi 10.5435/jaaosglobal-d-20-00172 | PMC7861619
+- new | 2021 | 33460744 | MED | Mixed methods study of the potential therapeutic benefits from medical cannabis for patients in Florida. | Complement Ther Med | doi 10.1016/j.ctim.2021.102669 | PMC8053674
+- new | 2020 | 31952645 | MED | Cannabinoids CB2 Receptors, One New Promising Drug Target for Chronic and Degenerative Pain Conditions in Equine Veterinary Patients. | J Equine Vet Sci | doi 10.1016/j.jevs.2019.102880
+- new | 2020 | 31895185 | MED | The Use of Cannabis as a Treatment for Epilepsy in Adult Patients: Are Side Effects a Limitation of Use? | J Clin Neurophysiol | doi 10.1097/wnp.0000000000000637
+- new | 2020 | IND606785517 | AGR | Cannabinoids CB2 Receptors, One New Promising Drug Target for Chronic and Degenerative Pain Conditions in Equine Veterinary Patients | J Equine Vet Sci
+- new | 2020 | 31909680 | MED | Effects of acute cannabidiol administration on anxiety and tremors induced by a Simulated Public Speaking Test in patients with Parkinson's disease. | J Psychopharmacol | doi 10.1177/0269881119895536
+- new | 2020 | 32499866 | MED | Accidental Acute Cannabis Intoxication Presenting as Seizure in Pediatrics Patients. | Kans J Med | doi 10.17161/kjm.v13i1.13729 | PMC7266508
+- new | 2020 | 32012914 | MED | <i>Cannabis Sativa</i> Revisited-Crosstalk between microRNA Expression, Inflammation, Oxidative Stress, and Endocannabinoid Response System in Critically Ill Patients wit | Cells | doi 10.3390/cells9020307 | PMC7072707
+- new | 2020 | 33302608 | MED | Cannabinoids in Glaucoma Patients: The Never-Ending Story. | J Clin Med | doi 10.3390/jcm9123978 | PMC7763320
+- new | 2020 | 32104589 | MED | Changing the Tone of Clinical Study Design in the Cannabis Industry. | Transl Neurosci | doi 10.1515/tnsci-2020-0002 | PMC7029654
+- new | 2019 | PPR103116 | PPR | Cannabis Sativa Revisited - Crosstalk between microRNAs Expression, Inflammation, Oxidative Stress and Endocannabinoid Response System in Critically Ill Patients with Sep |  | doi 10.20944/preprints201911.0260.v1
+- new | 2019 | 31526024 | MED | How High Can Patients Get on CBD? | Epilepsy Curr | doi 10.1177/1535759719874408 | PMC6891188
+- new | 2019 | 31831967 | MED | Management of chronic pain with <i>Jalaprakshalana</i> (water-wash) <i>Shodhita</i> (processed) <i>Bhanga</i> (<i>Cannabis sativa</i> L.) in cancer patients with deprived | Ayu | doi 10.4103/ayu.ayu_43_19 | PMC6891996
+- new | 2018 | 30266121 | MED | Skin Prick Test Reactivity to Common Aeroallergens among Allergic Rhinitis Patients. | J Coll Physicians Surg Pak | doi 3018
+- new | 2018 | 29887287 | MED | Probing the endocannabinoid system in healthy volunteers: Cannabidiol alters fronto-striatal resting-state connectivity. | Eur Neuropsychopharmacol | doi 10.1016/j.euroneuro.2018.04.004
+- new | 2018 | 30078875 | MED | Common Allergens Prevalent in and Around Ambala, Haryana: An Intradermal Study among Patients with Asthma and Allergic Rhinitis and Atopic Dermatitis. | Indian J Dermatol | doi 10.4103/ijd.ijd_438_17 | PMC6052743
+- new | 2017 | 28603110 | MED | Identification of IgE- binding pollen protein from Cannabis sativa in pollen-hypersensitive patients from north Pakistan. | Pak J Pharm Sci
+- new | 2017 | 29059132 | MED | Medical Cannabis in Parkinson Disease: Real-Life Patients' Experience. | Clin Neuropharmacol | doi 10.1097/wnf.0000000000000246
+- new | 2017 | 28948486 | MED | Efficacy and Tolerability of Phytomedicines in Multiple Sclerosis Patients: A Review. | CNS Drugs | doi 10.1007/s40263-017-0466-4
+
+## capsella-bursa-pastoris (Capsella bursa-pastoris)
+
+### non-MEDLINE, human-study wording - 1 hits
+- new | 2008 | KR100837140B | PAT | METHOD FOR PREPARATION OF HEALTH DRINK AND ITS HEALTH DRINK | 
+
+### non-MEDLINE, review / safety wording - 7 hits
+- new | 2011 | IND44510905 | AGR | Plant‐mediated effects of soil invertebrates and summer drought on above‐ground multitrophic interactions | J Ecol | doi 10.1111/j.1365-2745.2010.01748.x
+- new | 2009 | CN101366787 | PAT | Medicine for treating hemorrhoids | 
+- new | 2009 | CN101342295 | PAT | Traditional Chinese medicine ointment for treating arthrosis and preparation method | 
+- new | 2003 | IND43625489 | AGR | Ultrastructural characterisation of interactions between Arabidopsis thaliana and Albugo candida | Physiol Mol Plant Pathol | doi 10.1016/j.pmpp.2003.12.002
+- new | 2002 | IND601309243 | AGR | Crop rotation and tillage system effects on weed seedbanks | Weed Sci
+- new | 1997 | IND20624045 | AGR | The Pieris napi/bryoniae hybrid zone at Pont de Nant, Switzerland: broad overlap in the range of suitable host plants | Ecol Entomol | doi 10.1046/j.1365-2311.1997.00054.x
+- new | 1980 | 346213 | ETH | Studies on plant-animal interactions : terrestrial molluscs and their food plants | 
+
+### full text, trial in title - 3 hits
+- new | 2023 | 37612639 | MED | The effect of date fruit consumption on early postpartum hemorrhage: a randomized clinical trial. | BMC Womens Health | doi 10.1186/s12905-023-02604-9 | PMC10463832
+- HELD REF-0608 | 2018 | 29641247 | MED | Effect of Hydroalcoholic Extracts of Capsella Bursa-Pastoris on Heavy Menstrual Bleeding: A Randomized Clinical Trial. | J Altern Complement Med | doi 10.1089/acm.2017.0267
+- SEEN | 2017 | 28590768 | MED | Effect of Hydroalcoholic Extract of Capsella bursa pastoris on Early Postpartum Hemorrhage: A Clinical Trial Study. | J Altern Complement Med | doi 10.1089/acm.2017.0095
+
+### full text, patients/volunteers in title - 2 hits
+- new | 2025 | 40221958 | MED | Medicinal plants and their derivatives for skin and hair: a Mediterranean perspective of women care. | Arch Dermatol Res | doi 10.1007/s00403-025-04202-1 | PMC11994543
+- new | 2012 | 21988365 | MED | Anything to declare? Possible risks for patients' health resulting from undeclared plants in herbal supplements. | Br J Clin Pharmacol | doi 10.1111/j.1365-2125.2011.04115.x | PMC3370354
+
+## capsicum-annuum (Capsicum annuum)
+
+### non-MEDLINE, human-study wording - 33 hits
+- new | 2026 | PPR1362509 | PPR | Growth, yield, and quality of hot pepper (  <i>Capsicum annuum</i>  L.) as affected by the combined application of liquid bio-slurry and NPS fertilizer rates in Kucha, Ga |  | doi 10.64898/2026.11.04.764160
+- new | 2026 | PPR1367088 | PPR | Agronomic Performance, Environment-Specific Yield Adaptation, and Economic Risk Assessment of Hybrid Hot Pepper (Capsicum annuum L.) Genotypes Across Contrasting Agro-Eco |  | doi 10.21203/rs.3.rs-11499559/v1
+- new | 2026 | PPR1161827 | PPR | Role of biodegradable substrates in improving productivity and quality of Sweet Pepper (Capsicum annuum L.) |  | doi 10.21203/rs.3.rs-8827011/v1
+- new | 2026 | PPR1365075 | PPR | Silicon Dioxide Nanofertilizers Improve Physiological Performance and Yield of Three Pepper Hybrids (<em>Capsicum annuum</em> L.) Under Field Conditions |  | doi 10.20944/preprints202611.1187.v1
+- new | 2026 | PPR1365616 | PPR | Growth and Yield of Hot Pepper (Capsicum Annuum L.) Varieties in Response to the Integrated Application of Npsb Fertilizer and Municipal-waste Compost at Arba Minch, Sout |  | doi 10.21203/rs.3.rs-11305613/v1
+- new | 2026 | PPR1310419 | PPR | Evaluation of the yield and quality stability of chilli genotypes by employing AMMI, GGE and MTSI techniques |  | doi 10.21203/rs.3.rs-10673837/v1
+- new | 2026 | PPR1173590 | PPR | Optimizing nitrogen fertilizer rates for selected hot pepper varieties (Capsicum annuum L.) under dryland conditions in Asaita, Afar Region, Ethiopia |  | doi 10.21203/rs.3.rs-9185279/v1
+- new | 2026 | PPR1139682 | PPR | Evaluation and Selection of Ornamental Pepper Elite Lines (<em>Capsicum annuum</em> L.) for Ethylene- Insensitivity |  | doi 10.20944/preprints202601.0074.v1
+- new | 2026 | PPR1143972 | PPR | Fruit Yield and Oleoresin Content of Pepper (Capsicum annuum L.) Varieties as Influenced by Seedling Ages in Humbo District, South Ethiopia |  | doi 10.21203/rs.3.rs-8591252/v1
+- new | 2026 | PMC13788916 | PMC | Effects of microencapsulated hot chili pepper supplementation on productive performance and physiological parameters of pasture-based dairy cows during the transition per | Arch Anim Breed | PMC13788916
+- new | 2025 | PPR1053474 | PPR | Study on the Effect of Fecal Sludge and Sewage Sludge Application on the Growth and Production of Capsicum |  | doi 10.21203/rs.3.rs-6783138/v1
+- new | 2025 | PPR964667 | PPR | Stability models regulate the adaptation of male sterility-based chilli hybrids for agro-ecologically diverse regions |  | doi 10.21203/rs.3.rs-5781022/v1
+- new | 2024 | PPR889180 | PPR | Pollination Efficiency of Apis mellifera and Hypotrigona gribodoi on Capsicum annuum Fruit Set and Yield. |  | doi 10.21203/rs.3.rs-4823434/v1
+- new | 2024 | PPR912044 | PPR | Microclimates growing and watering volumes influences the physiological traits of Chili Pepper cultivars in combating abiotic stress |  | doi 10.21203/rs.3.rs-4916999/v1
+- new | 2024 | IND608638417 | AGR | Effects of dietary supplementation with a blend of functional oils to fecal microbiota, and inflammatory and oxidative responses, of dogs submitted to a periodontal surgi | Anim Feed Sci Technol
+- new | 2024 | PPR934375 | PPR | Genetic Diversity Analysis for Heat Stress Tolerance in Chili (  <i>Capsicum annum</i>  L.) |  | doi 10.1101/2024.10.30.621147
+- new | 2023 | PPR774591 | PPR | The Effects of Melatonin and Sodium Nitroprusside on Characteristics of Chlorophyll Fluorescence, Leaf Gas Exchange, Physicochemical Characteristics and Mineral Elements  |  | doi 10.20944/preprints202312.0861.v1
+- new | 2023 | PPR778902 | PPR | Melatonin and Sodium Nitroprusside Impact on Vegetative Growth, Physiological, Biochemical Traits and Mineral Elements Contents of California Wonder Green Bell Pepper (<e |  | doi 10.20944/preprints202312.1849.v1
+- new | 2023 | IND608039818 | AGR | Effect of different levels of nitrogen and charcoal on growth and yield traits of chili (Capsicum annuum L.) | Heliyon
+- new | 2022 | IND607700700 | AGR | The effect of adjusting fruit loading by pruning on the yield and quality of sweet pepper in low light conditions | S Afr J Bot
+- new | 2022 | PPR453071 | PPR | Effect on the Yield of Ginger As Intercropping With Different Crops. |  | doi 10.21203/rs.3.rs-1343672/v1
+- new | 2021 | PMC8181922 | PMC | Capsimax Increases Resting Energy Expenditure in Males Under Fasting State: A Randomized, Double-Blind, Placebo Controlled, Cross-Over Study | Curr Dev Nutr | PMC8181922
+- new | 2021 | IND607548674 | AGR | First Report of Crown and Root Rot Caused by Pythium aphanidermatum on Tomato in Italy | Plant Dis | doi 10.1094/pdis-10-20-2246-pdn
+- new | 2020 | PPR246699 | PPR | Impact of Exogenous Applications of Salicylic Acid on the Tolerance to Drought Stress in Pepper (Capsicum Annuum L.) Plants |  | doi 10.21203/rs.3.rs-116192/v1
+- new | 2019 | IND606265079 | AGR | Fumigants alone or in combination with herbicide for weed management in bell pepper (Capsicum annuum) | Crop Prot | doi 10.1016/j.cropro.2018.12.010
+- new | 2019 | PPR67851 | PPR | A High-Throughput Physiological Functional Phenotyping System for Time- and Cost-Effective Screening of Potential Biostimulants |  | doi 10.1101/525592
+- new | 2018 | IND605907680 | AGR | Data synthesis methods for semantic segmentation in agriculture: A Capsicum annuum dataset | Computers and electronics in agriculture | doi 10.1016/j.compag.2017.12.001
+- new | 2018 | IND606112598 | AGR | Species composition of native arbuscular mycorrhizal fungal consortia influences growth and nutrition of poblano pepper plants (Capsicum annuum L.) | Appl Soil Ecol | doi 10.1016/j.apsoil.2018.05.022
+- new | 2018 | IND605959158 | AGR | Effect of drying methods (microwave vacuum, freeze, hot air and sun drying) on physical, chemical and nutritional attributes of five pepper (Capsicum annuum var. annuum)  | Journal of the science of food and agric
+- new | 2017 | IND605713938 | AGR | Genotypic character relationship and phenotypic path coefficient analysis in chili pepper genotypes grown under tropical condition | Journal of the science of food and agric
+- new | 2004 | IND43677177 | AGR | Hybrid performance for yield and other characteristics in peppers (Capsicum annuum L.) | Journal of agricultural science. | doi 10.1017/s002185960400440x
+- new | 1994 | IND20455036 | AGR | Petiole sap nitrate is better than total nitrogen in dried leaf for indicating nitrogen status and yield responsiveness of capsicum in subtropical Australia. | Australian journal of experimental agric | doi 10.1071/ea9940835
+- new | 1979 | IND606634567 | AGR | Fertilizer Management with Drip Irrigation in an Oxisol | Agron J
+
+### non-MEDLINE, review / safety wording - 97 hits
+- new | 2026 | IND609463119 | AGR | Zinc Sulfate‐Mediated Modulation of Growth, Physiology, Yield, and Metabolome in Capsicum annuum L. Under Salinity Stress | Physiologia plantarum.
+- new | 2026 | PPR1362509 | PPR | Growth, yield, and quality of hot pepper (  <i>Capsicum annuum</i>  L.) as affected by the combined application of liquid bio-slurry and NPS fertilizer rates in Kucha, Ga |  | doi 10.64898/2026.11.04.764160
+- new | 2026 | PPR1305302 | PPR | Chili Pepper and Synthetic Capsaicinoid Flavourants in “Heat” and “Unflavoured” Oral Nicotine Pouches Marketed in the United States |  | doi 10.64898/2026.08.19.745863
+- new | 2026 | IND609453659 | AGR | Uptake Characteristics and Phytohormone Metabolic Disruption of Bisphenol A in Pepper (Capsicum annuum L.) Roots Under Soil Exposure | Physiologia plantarum.
+- new | 2026 | PPR1160494 | PPR | <em>Capsicum annuum</em> L.: Phenological and Productive Characterization of Genotypes in Different Production Systems |  | doi 10.20944/preprints202602.1483.v1
+- new | 2026 | IND609490024 | AGR | Swine Manure‐Derived Black Soldier Fly (Hermetia illucens L.) Frass Enhances Chilli (Capsicum annuum L.) Vegetative Growth and Soil Epigeic Macro‐Arthropod Abundance | J Appl Entomol
+- new | 2026 | PPR1186644 | PPR | <em>Capsicum annuum</em> L.: Phenological and Yield Performance of Native and Commercial Genotypes Under Open-Field and Low-Technology Greenhouse Hydroponic Systems |  | doi 10.20944/preprints202605.0308.v1
+- new | 2026 | PPR1262205 | PPR | Development of Starch–Alginate–PVA Hydrogel Beads for Encapsulation and Sustained Delivery of Trichoderma longibrachiatum in Capsicum annuum |  | doi 10.21203/rs.3.rs-9858130/v1
+- new | 2026 | PMC13788916 | PMC | Effects of microencapsulated hot chili pepper supplementation on productive performance and physiological parameters of pasture-based dairy cows during the transition per | Arch Anim Breed | PMC13788916
+- new | 2026 | PPR1365616 | PPR | Growth and Yield of Hot Pepper (Capsicum Annuum L.) Varieties in Response to the Integrated Application of Npsb Fertilizer and Municipal-waste Compost at Arba Minch, Sout |  | doi 10.21203/rs.3.rs-11305613/v1
+- new | 2026 | PPR1173590 | PPR | Optimizing nitrogen fertilizer rates for selected hot pepper varieties (Capsicum annuum L.) under dryland conditions in Asaita, Afar Region, Ethiopia |  | doi 10.21203/rs.3.rs-9185279/v1
+- new | 2026 | PPR1181169 | PPR | CaHT1 Regulates Pepper Immune Response to Ralstonia solanacearum and Interacts with CaPYR1 |  | doi 10.21203/rs.3.rs-9298395/v1
+- new | 2026 | IND609361795 | AGR | Synergistic interaction between arbuscular mycorrhizal fungi and Falciphora oryzae enhances rhizosphere microbiota, plant growth, and nitrogen uptake in pepper | Appl Soil Ecol
+- new | 2026 | IND609463160 | AGR | Biological, Cytopathological and Molecular Characterisation of Pepper Ringspot Virus From Solanum violifolium in Brazil | Plant Pathol
+- new | 2025 | IND609246797 | AGR | Integrated physiological, transcriptomics, and metabolite analysis reveal photosynthetic toxicity related to the bisphenol A stress response mechanism in pepper (Capsicum | Environmental Pollution
+- new | 2025 | PPR1229524 | PPR | Green nanoparticles of Ag, SiO  <sub>2</sub>  , and CeO  <sub>2</sub>  : strategy for controlling the PVY–ToBRFV coinfection in bell pepper |  | doi 10.64898/2025.12.30.696975
+- new | 2025 | IND608997554 | AGR | Biocontrol Effect Induced by Streptomyces anulatus ZAM4‐4 on Phytophthora capsici Causing Pepper Blight in Capsicum annuum | Plant Pathol
+- new | 2025 | IND609303264 | AGR | A simple and efficient transient expression system for protoplasts in Capsicum annuum and Nicotiana benthamiana | Horticultural Plant Journal
+- new | 2025 | IND609047358 | AGR | Molecular profiling of PLATZ gene family in pepper (Capsicum annuum L.) and overexpression of CaPLATZ6 confers enhanced resistance to anthracnose pathogen, Colletotrichum | Physiol Mol Plant Pathol
+- new | 2025 | IND609288453 | AGR | Putative SET domain-containing proteins play significant roles in regulating sporulation and pathogenicity in Phytophthora capsici | Microbiological research
+- new | 2025 | IND609237176 | AGR | The role of nanosilica in antioxidant production, nutrition and photochemical efficiency to mitigate sulfur deficiency in Capsicum annuum L | Plant Science.
+- new | 2025 | PPR1038174 | PPR | Enhancing jalapeño pepper seedling quality for transplantation and potential stress tolerance through seed nanopriming |  | doi 10.21203/rs.3.rs-6814253/v1
+- new | 2025 | PPR964667 | PPR | Stability models regulate the adaptation of male sterility-based chilli hybrids for agro-ecologically diverse regions |  | doi 10.21203/rs.3.rs-5781022/v1
+- new | 2024 | IND608383725 | AGR | Zinc priming enhances Capsicum annuum immunity against infection by Botrytis cinerea– From the whole plant to the molecular level | Plant Science.
+- new | 2024 | PPR832925 | PPR | Extracts from Capsicum annuum as Natural sensitizer in Dye Sensitized Solar Cell : Theoretical analysis using DFT and TD-DFT |  | doi 10.21203/rs.3.rs-4183991/v1
+- new | 2024 | IND608581374 | AGR | Manure-derived black soldier fly frass enhanced the growth of chilli plants (Capsicum annuum L.) and altered rhizosphere bacterial community | Appl Soil Ecol
+- new | 2024 | PPR783396 | PPR | “  <i>Ca</i>  . Nitrosocosmicus” members are the dominant archaea associated with pepper (  <i>Capsicum annuum</i>  L.) and ginseng (  <i>Panax ginseng</i>  C.A. Mey.) pl |  | doi 10.1101/2024.01.08.574571
+- new | 2024 | IND608185744 | AGR | Adaption of tobacco rattle virus to its solanaceous hosts is related to the codon usage bias of the hosts and that of the viral 16 K gene | Eur J Plant Pathol | doi 10.1007/s10658-023-02641-y
+- new | 2024 | IND608365941 | AGR | Histological alterations in chilli pepper (Capsicum annuum L.) roots associated with sudden wilt syndrome | Journal of phytopathology.
+- new | 2024 | PPR798235 | PPR | In situ sampling revealed that 2,4 DTBP contributes to continuous cropping obstacles in pepper |  | doi 10.22541/au.170668782.27487959/v1
+- new | 2023 | IND608106136 | AGR | Salicylic acid alleviates salt-induced phytotoxicity by modulating physiochemical attributes and upregulating the AsA-GSH cycle and glyoxalase system in Capsicum annuum L | S Afr J Bot
+- new | 2023 | IND608525756 | AGR | A systematic review on fermented chili pepper products: Sensorial quality, health benefits, fermentation microbiomes, and metabolic pathways | Trends in food science & technology.
+- new | 2023 | IND608008582 | AGR | Novel microRNAs associated with the immune response to cucumber mosaic virus in hot pepper (Capsicum annuum L.) | Physiol Mol Plant Pathol
+- new | 2023 | PPR609155 | PPR | Carotenoid retention during post-harvest storage of  <i>Capsicum annuum</i>  : the role of the fruit surface structure |  | doi 10.1101/2023.01.27.525890
+- new | 2023 | PPR771142 | PPR | Validation of Aeroponic Cultivation of Jalapeño Pepper (Capsicum annuum L.) through Thermal and Morphometric Characterization of Roots and Leaves |  | doi 10.20944/preprints202312.0309.v1
+- new | 2023 | IND608106099 | AGR | Effective citric acid and EDTA treatments in cadmium stress tolerance in pepper (Capsicum annuum L.) seedlings by regulating specific gene expression | S Afr J Bot
+- new | 2023 | IND608564023 | AGR | Enhancing the nutritional value of sweet bell pepper through moderate NaCl salinity | Heliyon
+- new | 2023 | IND608338111 | AGR | Effects of endogenous capsaicin stress and fermentation time on the microbial succession and flavor compounds of chili paste (a Chinese fermented chili pepper) | Food Research International.
+- new | 2023 | PPR629286 | PPR | Whitefly effector G4 interacts with tomato proteins of which MIPDB141 affects whitefly performance |  | doi 10.1101/2023.03.11.532171
+- new | 2023 | IND607707104 | AGR | Supplementing aquaponics with black soldier fly (Hermetia illucens) larvae frass tea: Effects on the production and composition of sweetpotato slips and sweet banana pepp | Aquaculture
+- new | 2022 | PPR501459 | PPR | Melatonin alleviates cadmium phytotoxicity through regulation of growth, photosynthesis and antioxidant potential in two pepper genotypes |  | doi 10.21203/rs.3.rs-1651489/v1
+- new | 2022 | PPR544103 | PPR | Metabolomic analysis on the mechanism of nanoselenium alleviating cadmium stress and improving the chili pepper nutritional value |  | doi 10.21203/rs.3.rs-2040502/v1
+- new | 2022 | PPR570389 | PPR | Identification of novel SNPs in Pun1 locus for pungency in Capsicum species |  | doi 10.21203/rs.3.rs-2253725/v1
+- new | 2022 | PPR564759 | PPR | An energy-saving glasshouse film reduces seasonal, and cultivar dependent Capsicum yield due to light limited photosynthesis |  | doi 10.1101/2022.10.29.513818
+- new | 2021 | IND607045484 | AGR | Modeling Salmonella enterica fate in fresh-cut pepper (Capsicum annuum L.) during storage as a function of temperature and relative humidity | Lebensm Wiss Technol | doi 10.1016/j.lwt.2020.109849
+- new | 2021 | IND607519953 | AGR | Antioxidant and nitrite-scavenging activities of Zanthoxylum bungeanum maxim. and Capsicum annuum L.: a synergistic, additive or antagonistic effect of the extracts? | Eur Food Res Technol | doi 10.1007/s00217-021-03845-4
+- new | 2021 | PPR311764 | PPR | Genome-wide comprehensive analysis of miRNAs and their target genes expressed in resistant and susceptible  <i>Capsicum annuum</i>  landrace during  <i>Phytophthora capsi |  | doi 10.1101/2021.04.13.439754
+- new | 2021 | IND607305211 | AGR | A comparative overview on chili pepper (capsicum genus) and sichuan pepper (zanthoxylum genus): From pungent spices to pharma-foods | Trends in food science & technology.
+- new | 2021 | PPR289800 | PPR | Altered Capsaicin Levels in Domesticated Chili Pepper Varieties Affect the Interaction Between a Generalist Herbivore and Its Ectoparasitoid |  | doi 10.21203/rs.3.rs-268361/v1
+- new | 2021 | IND607478240 | AGR | Salicylic acid‐induced hydrogen sulphide improves lead stress tolerance in pepper plants by upraising the ascorbate‐glutathione cycle | Physiologia Plantarum.
+- new | 2021 | PPR275058 | PPR | Leaf-to-whole plant spread bioassay for pepper and  <i>Ralstonia solanacearum</i>  interaction determines inheritance of resistance to bacterial wilt for further breeding |  | doi 10.1101/2021.01.27.428365
+- new | 2021 | IND607867432 | AGR | An analysis of simulated yield data for pepper shows how genotype × environment interaction in yield can be understood in terms of yield components and their QTLs | Crop Sci | doi 10.1002/csc2.20476
+- new | 2021 | PMC8181922 | PMC | Capsimax Increases Resting Energy Expenditure in Males Under Fasting State: A Randomized, Double-Blind, Placebo Controlled, Cross-Over Study | Curr Dev Nutr | PMC8181922
+- new | 2020 | PPR255079 | PPR | Analysis of the Defence Responses to Tomato Spotted Wilt Orthotospovirus (TSWV) and Hippeastrum Chlorotic Ringspot Orthotospovirus (HCRV) Infection in Capsicum Annuum Bas |  | doi 10.21203/rs.3.rs-129901/v1
+- new | 2020 | IND606767328 | AGR | Induction of apoplast phenolics in pepper (Capsicum annuum) leaves in response to pathogenic bacteria | Physiol Mol Plant Pathol | doi 10.1016/j.pmpp.2019.101453
+- new | 2020 | IND606973111 | AGR | Could Alternaria solani IA300 be a plant growth-promoting fungus? | Eur J Plant Pathol | doi 10.1007/s10658-020-01984-0
+- new | 2020 | IND607008022 | AGR | Biological control of Phytophthora blight and growth promotion in sweet pepper by Bacillus species | Biol Control | doi 10.1016/j.biocontrol.2020.104373
+- new | 2020 | IND606985489 | AGR | Regulation of nitric oxide to Capsicum under lower light intensities | S Afr J Bot
+- new | 2020 | PPR195485 | PPR | Antioxidant Profile of Pepper (<em>Capsicum annuum</em> L.) Fruits Containing Diverse Levels of Capsaicinoids |  | doi 10.20944/preprints202008.0010.v1
+- new | 2019 | PPR105970 | PPR | Genome-wide functional analysis of hot pepper immune receptors reveals an autonomous NLR cluster in seed plants |  | doi 10.1101/2019.12.16.878959
+- new | 2018 | IND606161760 | AGR | Study of biochemical and histopathological changes induced in the sweet pepper (Capsicum annuum L.) in response to Chilli leaf curl virus infection | Physiol Mol Plant Pathol | doi 10.1016/j.pmpp.2018.10.001
+- new | 2018 | IND606082145 | AGR | Genetic and environmental factors underlying variation in yield performance and bioactive compound content of hot pepper varieties (Capsicum annuum) cultivated in two con | Eur Food Res Technol | doi 10.1007/s00217-018-3069-5
+- new | 2017 | IND605868001 | AGR | Innovative liquid formulation of digestates for producing a biofertilizer based on Bacillus siamensis: Field testing on sweet pepper | Journal of plant nutrition and soil scie
+- new | 2017 | 728436 | ETH | Ozone fumigation effects on bacterial and anthracnose development on bell pepper (Capsicum annuum L.) and its effect on fruit quality | 
+- new | 2017 | IND605977389 | AGR | Toxic, Repellent, and Deterrent Effects of Citronella Essential Oil on Bemisia tabaci (Hemiptera: Aleyrodidae) on Chili Plants | Journal of Entomological Science.
+- new | 2017 | IND605947257 | AGR | Plant Oils to Control Sitophilus zeamais Motschulsky1 | Southwest Entomol
+- new | 2017 | IND605947201 | AGR | Aptitud Biológica de Tamarixia triozae Mediada por la Planta Hospedera | Southwest Entomol
+- new | 2015 | IND601199940 | AGR | Capsaicinoids, flavonoids, tocopherols, antioxidant capacity and color attributes in 23 native Peruvian chili peppers (Capsicum spp.) grown in three different locations | Eur Food Res Technol | doi 10.1007/s00217-014-2325-6
+- new | 2013 | IND500695286 | AGR | Integrated management of Phytophthora capsici on bell pepper by combining grafting and compost treatment | Crop Prot | doi 10.1016/j.cropro.2013.06.008
+- new | 2012 | IND44690051 | AGR | Cytochrome P450 inhibitory potential of selected Indian spices — possible food drug interaction | Food Res Int | doi 10.1016/j.foodres.2011.08.021
+- new | 2011 | IND44600773 | AGR | Leaf domatia reduce intraguild predation among predatory mites | Ecol Entomol | doi 10.1111/j.1365-2311.2011.01286.x
+- new | 2009 | CN101531826 | PAT | Method for extracting capsicum red pigment | 
+- new | 2009 | IND44187314 | AGR | Host range and phytotoxicity of Stemphylium solani, causing leaf blight of garlic (Allium sativum) in China | Eur J Plant Pathol | doi 10.1007/s10658-008-9387-x
+- new | 2009 | IND44291578 | AGR | Detection, Distribution, and Genetic Variability of ‘Candidatus Liberibacter’ Species Associated with Zebra Complex Disease of Potato in North America | Plant Dis
+- new | 2008 | KR100853939B | PAT | COMPOSITION FOR HANGOVER CONTAINING LEAF OF CAPSICUM ANNUUM | 
+- new | 2007 | CN101015538 | PAT | Medicinal composition of total capsicine compounds and beta-cyclodextrin or derivative of beta-cyclodextrin | 
+- new | 2007 | 652668 | ETH | Membrane interactions of human annexin A1 and plant annexins | 
+- new | 2007 | IND604381627 | AGR | Internal quality and antioxidants content of cold-stored red sweet peppers as affected by polyethylene bag packaging and hot water treatment | Eur Food Res Technol | doi 10.1007/s00217-006-0430-x
+- new | 2007 | IND43928904 | AGR | Internal quality and antioxidants content of cold-stored red sweet peppers as affected by polyethylene bag packaging and hot water treatment | Eur Food Res Technol | doi 10.1007/s00217-006-0430-x
+- new | 2004 | IND43635634 | AGR | Evaluation of the effect of different insecticides on the survival and capacity of Eretmocerus mundus Mercet to control Bemisia tabaci (Gennadius) populations | Crop Prot | doi 10.1016/j.cropro.2003.11.011
+- new | 2004 | IND43633721 | AGR | Differential expression and in situ localization of a pepper defensin (CADEF1) gene in response to pathogen infection, abiotic elicitors and environmental stresses in Cap | Plant Sci | doi 10.1016/j.plantsci.2004.01.008
+- new | 2004 | IND43667014 | AGR | Yield potential and soil quality under alternative crop production practices for fresh market pepper | Renewable agriculture and food systems
+- new | 2002 | IND23344827 | AGR | Response surface modeling for the inactivation of Escherichia coli O157:H7 on green peppers (Capsicum annuum) by ozone gas treatment | J Food Sci | doi 10.1111/j.1365-2621.2002.tb09475.x
+- new | 2002 | IND44754354 | AGR | Osmotic Dehydration Behavior of Red Paprika (Capsicum Annuum L.) | J Food Sci | doi 10.1111/j.1365-2621.2002.tb08724.x
+- new | 2001 | US6252049 | PAT | Incompatible plant and pathogen interaction related gene | 
+- new | 2001 | IND23210631 | AGR | Alternatives to polyethylene mulch film--a field assessment of transported materials in capsicum (Capsicum annuum L.). | Australian journal of experimental agric | doi 10.1071/ea00077
+- new | 2000 | IND22049366 | AGR | Evaluation of genotype, environment, and genotype-by-environment interaction for capsaicinoids in Capsicum annuum L. | Euphytica | doi 10.1023/a:1003837314929
+- new | 2000 | EP1018554 | PAT | Gene related to an incompatible plant-pathogen interaction | 
+- new | 1999 | IND22018650 | AGR | Involvement of lipoxygenase, lipoxygenase pathway volatiles, and lipid peroxidation during the hypersensitive reaction of pepper leaves to Xanthomonas campestris pv. vesi | Physiol Mol Plant Pathol | doi 10.1006/pmpp.1998.0196
+- new | 1997 | 308352 | CBA | Physiological effects of PCPA or NAA on sweet pepper in preventing flower falling | Yournal of Shenyang Agricultural Univers
+- new | 1996 | IND20538266 | AGR | Critical ethylene exposure for Capsicum annuum 'Janne' is dependent on an interaction between concentration, duration and developmental stage. | J Hortic Sci | doi 10.1080/14620316.1996.11515442
+- new | 1994 | 274489 | CBA | Studies on the breeding and inheritance of male sterile lines of pepper (Capsicum annuum L.) | Acta Agriculturae Universitatis Pekinens
+- new | 1991 | IND91046500 | AGR | Interaction among mycorrhizae, soil solarization, metalaxyl, and plants in the field. | Plant Dis
+- new | 1989 | IND90006247 | AGR | The gene-for-gene relationship between Capsicum annuum L. and tobacco mosaic virus: effects on virus multiplication, ethylene synthesis and accumulation of pathogenesis-r | Physiol Mol Plant Pathol | doi 10.1016/0885-5765(89)90056-8
+- new | 1988 | ADL88027586 | AGR | Reactions of Bahamian hot chile to single and double infections with tobacco mosaic virus and potato virus Y. | Plant Dis | doi 10.1094/pd-72-0014
+- new | 1981 | IND81052600 | AGR | Interaction of two potyviruses and Meloidogyne incognita in chili pepper. | Phytopathology | doi 10.1094/phyto-71-404
+- new | 1979 | IND606634567 | AGR | Fertilizer Management with Drip Irrigation in an Oxisol | Agron J
+
+### full text, trial in title - 23 hits
+- new | 2025 | 41257744 | MED | Efficacy and safety of Chinese herbal medicine granules plus chemotherapy in patients with EGFR-mutated advanced lung adenocarcinoma post-progression on first-line EGFR-T | BMC Complement Med Ther | doi 10.1186/s12906-025-05037-z | PMC12628614
+- new | 2025 | 41228404 | MED | Comparative Bioavailability of Vitamin C After Short-Term Consumption of Raw Fruits and Vegetables and Their Juices: A Randomized Crossover Study. | Nutrients | doi 10.3390/nu17213331 | PMC12608462
+- new | 2024 | 38141553 | MED | Ten weeks of Capsicum annuum L. extract supplementation did not change adipose tissue-derived hormones, appetite, body composition, and muscle strength when combined with | Nutr Res | doi 10.1016/j.nutres.2023.11.010
+- new | 2024 | 38853269 | MED | Acute effects of multi-ingredient pre-workout dietary supplement on anaerobic performance in untrained men: a randomized, crossover, single blind study. | BMC Sports Sci Med Rehabil | doi 10.1186/s13102-024-00918-1 | PMC11163698
+- new | 2024 | 38674046 | MED | Promising Approaches in Plant-Based Therapies for Thyroid Cancer: An Overview of In Vitro, In Vivo, and Clinical Trial Studies. | Int J Mol Sci | doi 10.3390/ijms25084463 | PMC11050626
+- new | 2024 | 39550474 | MED | Innovative multi-trial breeding and genotype screening in triticale (x Triticosecale Wittmack) for enhanced stability under drought stress. | Sci Rep | doi 10.1038/s41598-024-79615-5 | PMC11569190
+- HELD REF-3491 | 2023 | 37344950 | MED | The effects of Capsicum annuum supplementation on lipid profiles in adults with metabolic syndrome and related disorders: A systematic review and meta-analysis of randomi | Phytother Res | doi 10.1002/ptr.7922
+- new | 2022 | 36159159 | MED | Acute Low-Dose Capsiate Supplementation Improves Upper Body Resistance Exercise Performance in Trained Men: A Randomized, Crossover and Double-Blind Study. | Int J Exerc Sci | doi 10.70252/ynem9216 | PMC9458288
+- new | 2021 | PMC8181922 | PMC | Capsimax Increases Resting Energy Expenditure in Males Under Fasting State: A Randomized, Double-Blind, Placebo Controlled, Cross-Over Study | Curr Dev Nutr | PMC8181922
+- new | 2021 | 34154603 | MED | Chronic capsiate supplementation increases fat-free mass and upper body strength but not the inflammatory response to resistance exercise in young untrained men: a random | J Int Soc Sports Nutr | doi 10.1186/s12970-021-00446-0 | PMC8218493
+- new | 2020 | 33240029 | MED | Effects of paprika carotenoid supplementation on bone turnover in postmenopausal women: a randomized, double-blind, placebo-controlled, parallel-group comparison study. | Food Nutr Res | doi 10.29219/fnr.v64.4565 | PMC7672447
+- new | 2020 | 33374147 | MED | Capsaicin Analogue Supplementation Does Not Improve 10 km Running Time-Trial Performance in Male Amateur Athletes: A Randomized, Crossover, Double-Blind and Placebo-Contr | Nutrients | doi 10.3390/nu13010034 | PMC7823530
+- new | 2020 | 32509117 | MED | Acute Capsaicin Analog Supplementation Improves 400 M and 3000 M Running Time-Trial Performance. | Int J Exerc Sci | doi 10.70252/fqfa1206 | PMC7241615
+- new | 2020 | 32887379 | MED | Effects of Capsinoid Intake on Brown Adipose Tissue Vascular Density and Resting Energy Expenditure in Healthy, Middle-Aged Adults: A Randomized, Double-Blind, Placebo-Co | Nutrients | doi 10.3390/nu12092676 | PMC7551765
+- new | 2020 | 33182295 | MED | Effects of Pre-Workout Multi-Ingredient Supplement on Anaerobic Performance: Randomized Double-Blind Crossover Study. | Int J Environ Res Public Health | doi 10.3390/ijerph17218262 | PMC7664913
+- new | 2020 | 31947529 | MED | Effects of Capsinoids on Daily Physical Activity, Body Composition and Cold Hypersensitivity in Middle-Aged and Older Adults: A Randomized Study. | Nutrients | doi 10.3390/nu12010212 | PMC7019503
+- new | 2018 | 29609932 | MED | Corrigendum to "Short-term effect of add on bell pepper (Capsicum annuum var. grossum) juice with integrated approach of yoga therapy on blood glucose levels and cardiova | Complement Ther Med | doi 10.1016/j.ctim.2017.11.010
+- new | 2018 | 30201043 | MED | Herbal medicine foot bath for the treatment of diabetic peripheral neuropathy: protocol for a randomized, double-blind and controlled trial. | Trials | doi 10.1186/s13063-018-2856-4 | PMC6131772
+- new | 2017 | 28917374 | MED | Short-term effect of add on bell pepper (Capsicum annuum var. grossum) juice with integrated approach of yoga therapy on blood glucose levels and cardiovascular functions | Complement Ther Med | doi 10.1016/j.ctim.2017.07.011
+- new | 2017 | 28323822 | MED | Effectiveness and safety of traditional Chinese medical bath therapy combined with ultraviolet irradiation in the treatment of psoriasis: A systematic review and meta-ana | PLoS One | doi 10.1371/journal.pone.0173276 | PMC5360218
+- new | 2015 | 25633206 | MED | Quality of reporting of randomised controlled trials of herbal interventions in ASEAN Plus Six Countries: a systematic review. | PLoS One | doi 10.1371/journal.pone.0108681 | PMC4310614
+- new | 2004 | 15553107 | MED | Analgesic effects of low-dose intravenous orphenadrine in the state of capsaicin hyperalgesia. A randomised, placebo-controlled, double-blind cross-over study using laser | Arzneimittelforschung | doi 10.1055/s-0031-1297020
+- new | 2004 | 15112866 | MED | Effect of the new H1-antagonist ReN1869 on capsaicin-induced hyperalgesia in human skin/Human phase-I trial using somatosensory evoked potentials induced by a CO2 laser. | Arzneimittelforschung | doi 10.1055/s-0031-1296957
+
+### full text, patients/volunteers in title - 24 hits
+- new | 2026 | 41424259 | MED | Art v 1 and Amb a 4 Co-Sensitization Identifies Italian Patients at Risk for Mugwort-Celery-Spice Syndrome. | Allergy | doi 10.1111/all.70195 | PMC13753706
+- new | 2025 | 41257744 | MED | Efficacy and safety of Chinese herbal medicine granules plus chemotherapy in patients with EGFR-mutated advanced lung adenocarcinoma post-progression on first-line EGFR-T | BMC Complement Med Ther | doi 10.1186/s12906-025-05037-z | PMC12628614
+- new | 2025 | 41181607 | MED | Systematic review and network meta-analysis of the effects of bioactive compounds on pain intensity and quality of life in neuropathic pain patients. | Front Pharmacol | doi 10.3389/fphar.2025.1656400 | PMC12576042
+- new | 2024 | 39640837 | MED | The effectiveness of homeopathy in relieving symptoms and reducing antibiotic use in patients with otitis media: A systematic review and meta-analysis. | Heliyon | doi 10.1016/j.heliyon.2024.e39174 | PMC11620159
+- new | 2024 | 38881876 | MED | Safety classification of herbal medicine use among hypertensive patients: a systematic review and meta-analysis. | Front Pharmacol | doi 10.3389/fphar.2024.1321523 | PMC11176523
+- new | 2023 | 36183700 | MED | Searching for the Genus Epidemicus in Chinese Patients: Findings from the Clificol COVID-19 Clinical Case Registry. | Homeopathy | doi 10.1055/s-0042-1750380 | PMC9868965
+- new | 2023 | 37173737 | MED | Female naturalists and the patterns of suppression of women scientists in history: the example of Maria Sibylla Merian and her contributions about useful plants. | J Ethnobiol Ethnomed | doi 10.1186/s13002-023-00589-1 | PMC10182609
+- new | 2022 | 36437829 | MED | Prevalence, Perception and Predictors of Concomitant Herbal Medicine Use among HIV/AIDS and Tuberculosis Patients in Metekel Zone, Northwest Ethiopia: A Cross-Sectional S | Evid Based Complement Alternat Med | doi 10.1155/2022/8235229 | PMC9691294
+- new | 2021 | 34572432 | MED | Oral Capsaicinoid Administration Alters the Plasma Endocannabinoidome and Fecal Microbiota of Reproductive-Aged Women Living with Overweight and Obesity. | Biomedicines | doi 10.3390/biomedicines9091246 | PMC8471891
+- new | 2021 | 34305428 | MED | Previously published ethno-pharmacological reports reveal the potentiality of plants and plant-derived products used as traditional home remedies by Bangladeshi COVID-19  | Saudi J Biol Sci | doi 10.1016/j.sjbs.2021.07.036 | PMC8285211
+- new | 2021 | 34360658 | MED | The Role of Supplementation with Natural Compounds in Post-Stroke Patients. | Int J Mol Sci | doi 10.3390/ijms22157893 | PMC8348438
+- new | 2020 | 32670409 | MED | Cardiovascular Protection of Nephropathic Male Patients by Oral Food Supplements. | Cardiovasc Ther | doi 10.1155/2020/1807941 | PMC7334761
+- new | 2020 | 33240029 | MED | Effects of paprika carotenoid supplementation on bone turnover in postmenopausal women: a randomized, double-blind, placebo-controlled, parallel-group comparison study. | Food Nutr Res | doi 10.29219/fnr.v64.4565 | PMC7672447
+- new | 2020 | 32365614 | MED | Emerging Allergens in Goji Berry Superfruit: The Identification of New IgE Binding Proteins towards Allergic Patients' Sera. | Biomolecules | doi 10.3390/biom10050689 | PMC7277879
+- new | 2020 | 33217935 | MED | The Potential Role of Nutraceuticals as an Adjuvant in Breast Cancer Patients to Prevent Hair Loss Induced by Endocrine Therapy. | Nutrients | doi 10.3390/nu12113537 | PMC7698784
+- new | 2020 | 33069215 | MED | Factors associated with the use of complementary and alternative therapies among patients with hypertension and type 2 diabetes mellitus in Western Jamaica: a cross-secti | BMC Complement Med Ther | doi 10.1186/s12906-020-03109-w | PMC7568371
+- new | 2018 | 29609932 | MED | Corrigendum to "Short-term effect of add on bell pepper (Capsicum annuum var. grossum) juice with integrated approach of yoga therapy on blood glucose levels and cardiova | Complement Ther Med | doi 10.1016/j.ctim.2017.11.010
+- new | 2017 | 28917374 | MED | Short-term effect of add on bell pepper (Capsicum annuum var. grossum) juice with integrated approach of yoga therapy on blood glucose levels and cardiovascular functions | Complement Ther Med | doi 10.1016/j.ctim.2017.07.011
+- new | 2017 | 28049474 | MED | Ethnopharmacological survey of medicinal plants used by patients with psoriasis in the West Bank of Palestine. | BMC Complement Altern Med | doi 10.1186/s12906-016-1503-4 | PMC5209870
+- new | 2014 | 24886061 | MED | Food, home and health: the meanings of food amongst Bengali Women in London. | J Ethnobiol Ethnomed | doi 10.1186/1746-4269-10-44 | PMC4035805
+- new | 2014 | 24527047 | MED | The effect of complementary and alternative medicine on subfertile women with in vitro fertilization. | Evid Based Complement Alternat Med | doi 10.1155/2014/419425 | PMC3914344
+- new | 2013 | 24188563 | MED | Medicinal plants used by women from Agnalazaha littoral forest (Southeastern Madagascar). | J Ethnobiol Ethnomed | doi 10.1186/1746-4269-9-73 | PMC3827988
+- new | 2013 | 23452057 | MED | Characterization of different courses of atopic dermatitis in adolescent and adult patients. | Allergy | doi 10.1111/all.12112 | PMC7159470
+- new | 2004 | 15553107 | MED | Analgesic effects of low-dose intravenous orphenadrine in the state of capsaicin hyperalgesia. A randomised, placebo-controlled, double-blind cross-over study using laser | Arzneimittelforschung | doi 10.1055/s-0031-1297020
+
+## carum-carvi (Carum carvi)
+
+### non-MEDLINE, human-study wording - 3 hits
+- new | 2022 | IND607449727 | AGR | On heterosis, inbreeding depression and general combining ability in annual caraway (Carum carvi) | Euphytica | doi 10.1007/s10681-021-02893-x
+- new | 2020 | PPR175111 | PPR | Metabolic and Clinical responses to Bunium Persicum (Black Caraway) supplementation in overweight and obese patients with type 2 diabetes: a double-blind randomized place |  | doi 10.21203/rs.2.21917/v3
+- new | 2018 | IND606120233 | AGR | Geographical variation in breaking the seed dormancy of Persian cumin (Carum carvi L.) ecotypes and their physiological responses to salinity and drought stresses | Industrial crops and products. | doi 10.1016/j.indcrop.2018.08.040
+
+### non-MEDLINE, review / safety wording - 7 hits
+- new | 2026 | PPR1185034 | PPR | Antioxidant essential oil–based nanoemulsions associated with levothyroxine: Physicochemical characterization and toxicity assessment in zebrafish |  | doi 10.21203/rs.3.rs-9568099/v1
+- new | 2024 | IND608316988 | AGR | Antifungal activity, synergistic effect and mode of action of Caraway (Carum carvi L.) essential oil and carvone against Aspergillus fumigatus | S Afr J Bot
+- new | 2024 | IND608545943 | AGR | Characterization of zein nanofiber mats encapsulated with Foeniculum vulgare and Carum carvi essential oils as active packaging materials | Lebensm Wiss Technol
+- new | 2016 | IND604881754 | AGR | Antifungal, Antiaflatoxin and Antioxidant Activity of Plant Essential Oils and Their In Vivo Efficacy in Protection of Chickpea Seeds | J Food Qual
+- new | 2012 | PMC3506285 | PMC | Herb-drug interactions: the influence of essential oil of caraway (Carum carvi L.) on the pharmacokinetics of paracetamol | BMC Pharmacol Toxicol | doi 10.1186/2050-6511-13-s1-a27 | PMC3506285
+- new | 2010 | IND44354422 | AGR | Essential oils as control agents of postharvest alternaria and Penicillium rots on tomato fruits | Journal of food safety. | doi 10.1111/j.1745-4565.2009.00211.x
+- new | 2004 | KR20040070903 | PAT | MOSQUITO LARVICIDE COMPOSITION CONTAINING HERBAL EXTRACT OF PIMENTA RECEMOSA, CITRUS BERGAMIA, CARUM CARVI OR LIKE | 
+
+### full text, trial in title - 22 hits
+- new | 2026 | 41405807 | MED | Treatment of disorders of gut-brain interaction with peppermint oil and caraway oil combination Menthacarin : A phase IV clinical trial. | Wien Med Wochenschr | doi 10.1007/s10354-025-01119-2 | PMC13013221
+- new | 2025 | 39951927 | MED | Efficacy of an Iranian herbal medicine formula for postoperative constipation in trauma patients with hip and lower limb fractures: A triple-blind, placebo-controlled ran | Int J Orthop Trauma Nurs | doi 10.1016/j.ijotn.2025.101163
+- new | 2025 | 40421412 | MED | Comparative Study on the Prokinetic Effects of Ginger, Caraway, and Peppermint in Relieving Gastrointestinal Disturbances in Pulmonary TB Patients: A Clinical Trial. | Food Sci Nutr | doi 10.1002/fsn3.70338 | PMC12104075
+- new | 2025 | 40083990 | MED | A randomized multi-arm open labelled comparative clinical trial report of Pankajakasthuri DiabetEaze powder, a novel polyherbal formulation on the nutritional management  | Heliyon | doi 10.1016/j.heliyon.2025.e42631 | PMC11903805
+- new | 2025 | 39917276 | MED | Methodological insights into intervention and outcomes in randomised controlled trials of herbal medicine for obesity: a scoping review. | Ther Adv Chronic Dis | doi 10.1177/20406223241310206 | PMC11795625
+- new | 2024 | 39610502 | MED | Effectiveness of acupuncture and a cumin-based herbal formula on anthropometric indices of overweight patients: a randomized double-blind placebo-controlled clinical tria | J Diabetes Metab Disord | doi 10.1007/s40200-024-01499-z | PMC11599549
+- new | 2024 | 39309989 | MED | A comparative study of fennel and dimethicone capsule effects on flatulence rate after cesarean section: A double-blind randomized controlled trial. | J Educ Health Promot | doi 10.4103/jehp.jehp_389_23 | PMC11414845
+- HELD REF-0656 | 2024 | 38965524 | MED | The effect of Cuminum cyminum on the return of bowel motility after abdominal surgery: a triple-blind randomized clinical trial. | BMC Complement Med Ther | doi 10.1186/s12906-024-04530-1 | PMC11229490
+- new | 2024 | 38699471 | MED | Double-blind, randomized, 8-week multicenter study of the efficacy and safety of STW 5-II<i>versus</i> placebo in functional dyspepsia. | JGH Open | doi 10.1002/jgh3.13054 | PMC11064020
+- new | 2024 | 38997723 | MED | The possible short-term of Nigella sativa - L in the management of adolescent polycystic ovarian syndrome: results of a randomized controlled trial. | J Ovarian Res | doi 10.1186/s13048-024-01460-x | PMC11242022
+- new | 2023 | 38116546 | MED | Effects of Komouni Formulation (Herbal Product of Persian Medicine) With a Low-Calorie Diet on Cardiometabolic Risk Factors in Overweight and Obese Women: A Triple-Blinde | Iran J Pharm Res | doi 10.5812/ijpr-136114 | PMC10728844
+- new | 2023 | 35697065 | MED | Menthacarin for long-term treatment of functional dyspepsia - Results from a clinical trial follow-up. | Z Gastroenterol | doi 10.1055/a-1823-1333 | PMC9998233
+- new | 2022 | 35685605 | MED | A Comparative Study on Alvogyl and a Mixture of Black Seed Oil and Powder for Alveolar Osteitis: A Randomized Double-Blind Controlled Clinical Trial. | Int J Clin Pract | doi 10.1155/2022/7756226 | PMC9159183
+- new | 2020 | 32863846 | MED | Metabolic and clinical responses to Bunium Persicum (black caraway) supplementation in overweight and obese patients with type 2 diabetes: a double-blind, randomized plac | Nutr Metab (Lond) | doi 10.1186/s12986-020-00494-4 | PMC7449003
+- new | 2019 | 31850096 | MED | The Effects of Carum Carvi (Bunium Persicum Boiss) on Early Return of Bowel Motility After Caesarean Section: Double-Blind, Randomized, Placebo-Controlled Trial. | J Family Reprod Health | doi 10.18502/jfrh.v13i1.1611 | PMC6911146
+- new | 2019 | 31598505 | MED | Investigating the Effect of Melissa Officinalis on After-Pains: A Randomized Single-Blind Clinical Trial. | J Caring Sci | doi 10.15171/jcs.2019.019 | PMC6778308
+- new | 2017 | 28508427 | MED | Evaluation of Benefit and Tolerability of IQP-CL-101 (Xanthofen) in the Symptomatic Improvement of Irritable Bowel Syndrome: A Double-Blinded, Randomised, Placebo-Control | Phytother Res | doi 10.1002/ptr.5826 | PMC5518189
+- HELD REF-1979 | 2016 | 26407909 | MED | Hydroalcoholic extract of Carum carvi L. in oral mucositis: a clinical trial in male golden hamsters. | Oral Dis | doi 10.1111/odi.12375
+- new | 2014 | 24638976 | MED | Preliminary safety evaluation and biochemical efficacy of a Carum carvi extract: results from a randomized, triple-blind, and placebo-controlled clinical trial. | Phytother Res | doi 10.1002/ptr.5147
+- new | 2014 | 25035636 | MED | Evaluation of a classical unani pharmacopeial formulation safoof-e-muhazzil in hyperlipidemia: A randomized, standard controlled clinical study. | J Pharm Bioallied Sci | doi 10.4103/0975-7406.130975 | PMC4097930
+- new | 2013 | 24319489 | MED | Antiobesity effect of caraway extract on overweight and obese women: a randomized, triple-blind, placebo-controlled clinical trial. | Evid Based Complement Alternat Med | doi 10.1155/2013/928582 | PMC3844184
+- new | 2013 | 24350049 | MED | Efficacy of a classical antiobesity Unani pharmacopial formulation (Safoof-e-Muhazzil) in systolic and diastolic blood pressure: A randomized, open-labeled, controlled cl | J Adv Pharm Technol Res | doi 10.4103/2231-4040.121413 | PMC3853695
+
+### full text, patients/volunteers in title - 28 hits
+- new | 2026 | 42807253 | MED | Efficacy and Safety of She Care Juice, an Ayurvedic Polyherbal Oral Formulation, in Women With Polycystic Ovary Syndrome: A Prospective, Open-Label, Single-Arm Study. | Cureus | doi 10.7759/cureus.115387 | PMC13617469
+- new | 2026 | 41424259 | MED | Art v 1 and Amb a 4 Co-Sensitization Identifies Italian Patients at Risk for Mugwort-Celery-Spice Syndrome. | Allergy | doi 10.1111/all.70195 | PMC13753706
+- new | 2025 | 39951927 | MED | Efficacy of an Iranian herbal medicine formula for postoperative constipation in trauma patients with hip and lower limb fractures: A triple-blind, placebo-controlled ran | Int J Orthop Trauma Nurs | doi 10.1016/j.ijotn.2025.101163
+- new | 2025 | 40421412 | MED | Comparative Study on the Prokinetic Effects of Ginger, Caraway, and Peppermint in Relieving Gastrointestinal Disturbances in Pulmonary TB Patients: A Clinical Trial. | Food Sci Nutr | doi 10.1002/fsn3.70338 | PMC12104075
+- new | 2025 | 40083990 | MED | A randomized multi-arm open labelled comparative clinical trial report of Pankajakasthuri DiabetEaze powder, a novel polyherbal formulation on the nutritional management  | Heliyon | doi 10.1016/j.heliyon.2025.e42631 | PMC11903805
+- new | 2025 | 40417217 | MED | An ethnopharmacological survey of herbal medicines use among pregnant and postpartum women in Souss Massa (Morocco). | Front Pharmacol | doi 10.3389/fphar.2025.1567930 | PMC12099448
+- new | 2024 | 39610502 | MED | Effectiveness of acupuncture and a cumin-based herbal formula on anthropometric indices of overweight patients: a randomized double-blind placebo-controlled clinical tria | J Diabetes Metab Disord | doi 10.1007/s40200-024-01499-z | PMC11599549
+- new | 2024 | 38130903 | MED | Ethnomedicinal evaluation of medicinal plants used for therapies by men and women in rural and urban communities in Makkah district. | Saudi Pharm J | doi 10.1016/j.jsps.2023.101881 | PMC10733703
+- new | 2023 | 35870011 | MED | Phytotherapy known and applied by head-neck cancer patients and medical students to treat oral discomfort in Germany: an observational study. | J Cancer Res Clin Oncol | doi 10.1007/s00432-022-04200-0 | PMC10097744
+- new | 2023 | 37830722 | MED | Highlighting the Use of the Hepatoprotective Nutritional Supplements among Patients with Chronic Diseases. | Healthcare (Basel) | doi 10.3390/healthcare11192685 | PMC10572698
+- new | 2023 | 38116546 | MED | Effects of Komouni Formulation (Herbal Product of Persian Medicine) With a Low-Calorie Diet on Cardiometabolic Risk Factors in Overweight and Obese Women: A Triple-Blinde | Iran J Pharm Res | doi 10.5812/ijpr-136114 | PMC10728844
+- new | 2023 | 37452524 | MED | Prevalence, motivation, and associated factors of medicinal herbs consumption in pregnant women from Eastern Mediterranean Regional Office: a systematic review. | Pharm Biol | doi 10.1080/13880209.2023.2229388 | PMC10351469
+- new | 2022 | 36099144 | MED | Medicinal Plants Used for Abdominal Discomfort - Information from Cancer Patients and Medical Students. | In Vivo | doi 10.21873/invivo.12976 | PMC9463914
+- new | 2021 | 34168382 | MED | Patterns and Trends of Herbal Medicine Use among Patients with Gynecologic Cancer. | Geburtshilfe Frauenheilkd | doi 10.1055/a-1487-6284 | PMC8216777
+- new | 2020 | 32863846 | MED | Metabolic and clinical responses to Bunium Persicum (black caraway) supplementation in overweight and obese patients with type 2 diabetes: a double-blind, randomized plac | Nutr Metab (Lond) | doi 10.1186/s12986-020-00494-4 | PMC7449003
+- new | 2020 | 31770769 | MED | Use of Evidence-Based Herbal Medicines for Patients with Functional Gastrointestinal Disorders: A Conceptional Framework for Risk-Benefit Assessment and Regulatory Approa | Dig Dis | doi 10.1159/000504570 | PMC7384339
+- new | 2019 | 31998122 | MED | Use of Herbal Medicine by Pregnant Women: What Physicians Need to Know. | Front Pharmacol | doi 10.3389/fphar.2019.01483 | PMC6962104
+- new | 2017 | 29149859 | MED | Medicinal plants used by women in Mecca: urban, Muslim and gendered knowledge. | J Ethnobiol Ethnomed | doi 10.1186/s13002-017-0193-4 | PMC5693532
+- new | 2016 | 26988309 | MED | Slimming and Appetite-Suppressing Effects of Caraway Aqueous Extract as a Natural Therapy in Physically Active Women. | Phytother Res | doi 10.1002/ptr.5603
+- new | 2016 | 27400742 | MED | Use of complementary and alternative medicines in haemodialysis patients: a cross-sectional study from Palestine. | BMC Complement Altern Med | doi 10.1186/s12906-016-1196-8 | PMC4940841
+- new | 2014 | 24741485 | MED | Effect of Carum carvi, a herbal bioenhancer on pharmacokinetics of antitubercular drugs: A study in healthy human volunteers. | Perspect Clin Res | doi 10.4103/2229-3485.128027 | PMC3980549
+- new | 2014 | 25035636 | MED | Evaluation of a classical unani pharmacopeial formulation safoof-e-muhazzil in hyperlipidemia: A randomized, standard controlled clinical study. | J Pharm Bioallied Sci | doi 10.4103/0975-7406.130975 | PMC4097930
+- new | 2013 | 24319489 | MED | Antiobesity effect of caraway extract on overweight and obese women: a randomized, triple-blind, placebo-controlled clinical trial. | Evid Based Complement Alternat Med | doi 10.1155/2013/928582 | PMC3844184
+- new | 2013 | 24350049 | MED | Efficacy of a classical antiobesity Unani pharmacopial formulation (Safoof-e-Muhazzil) in systolic and diastolic blood pressure: A randomized, open-labeled, controlled cl | J Adv Pharm Technol Res | doi 10.4103/2231-4040.121413 | PMC3853695
+- new | 2011 | WO2011012568 | PAT | NUTRITIONAL COMPOSITION FOR LACTATING WOMEN | 
+- new | 2010 | 22131714 | MED | A clinical study on Krimidanta with reference to dental caries and its management with Jatipatradi Gutika and Yavanadi Churna. | Ayu | doi 10.4103/0974-8520.72404 | PMC3215368
+- new | 1996 | 23194763 | MED | Phytotherapy in functional upper abdominal complaints Results of a clinical study with a preparation of several plants. | Phytomedicine | doi 10.1016/s0944-7113(96)80070-5
+- new | 1981 | 7336705 | MED | [Use of an herbal combination with laxative action on duodenal peptic ulcer and gastroduodenitis patients with a concomitant obstipation syndrome]. | Vutr Boles
+
+## centaurium-erythraea (Centaurium erythraea)
+
+### non-MEDLINE, human-study wording - 0 hits
+
+### non-MEDLINE, review / safety wording - 0 hits
+
+### full text, trial in title - 1 hits
+- new | 2019 | 31330767 | MED | Antihypertensive Indigenous Lebanese Plants: Ethnopharmacology and a Clinical Trial. | Biomolecules | doi 10.3390/biom9070292 | PMC6681041
+
+### full text, patients/volunteers in title - 5 hits
+- new | 2023 | 37544300 | MED | Phytotherapy (BNO 1045) of Acute Lower Uncomplicated Urinary Tract Infection in Women Normalizes Local Host Responses. | Urol Int | doi 10.1159/000531206 | PMC10614491
+- new | 2022 | 35571128 | MED | Examination of Complementary Medicine for Treating Urinary Tract Infections Among Pregnant Women and Children. | Front Pharmacol | doi 10.3389/fphar.2022.883216 | PMC9094615
+- new | 2019 | 31998122 | MED | Use of Herbal Medicine by Pregnant Women: What Physicians Need to Know. | Front Pharmacol | doi 10.3389/fphar.2019.01483 | PMC6962104
+- new | 2015 | 26257404 | MED | Local and Systemic Therapies for Breast Cancer Patients: Reducing Short-term Symptoms with the Methods of Integrative Medicine. | Geburtshilfe Frauenheilkd | doi 10.1055/s-0035-1557748 | PMC4520960
+- new | 2009 | 19920896 | MED | Changes in CD4+ T-cells and HIV RNA resulting from combination of anti-TB therapy with Dzherelo in TB/HIV dually infected patients. | Drug Des Devel Ther | PMC2761183

@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 4005,
+ "count": 4024,
  "citations": [
   {
    "ref_id": "REF-5100",
@@ -31,6 +31,40 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-5246",
+   "key": "goodwin2026capsaicinpatchhiv",
+   "type": "article",
+   "title": "8% capsaicin patches for HIV-induced polyneuropathy: a systematic review and meta-analysis",
+   "authors": "Goodwin, B.J., Jain, A., Mitchell, J., Khokhar, D., Fagbemigun, R., Brancaccio, H., Sadik, E., Khawer, A. and Chhatre, A.",
+   "journal": "Pain Management",
+   "year": "2026",
+   "doi": "10.1080/17581869.2026.2681558",
+   "url": "",
+   "link": "https://doi.org/10.1080/17581869.2026.2681558",
+   "link_type": "doi",
+   "citation": "Goodwin, B.J., Jain, A., Mitchell, J., Khokhar, D., Fagbemigun, R., Brancaccio, H., Sadik, E., Khawer, A. and Chhatre, A (2026) '8% capsaicin patches for HIV-induced polyneuropathy: a systematic review and meta-analysis', Pain Management, 16(9), pp. 1019--1026. doi:10.1080/17581869.2026.2681558",
+   "abstract": "BACKGROUND: Human immunodeficiency virus is a harrowing illness that causes significant sequelae besides immune suppression. One of the long-term effects of both virus and antiviral medication is distal sensory polyneuropathy. Treating this HIV-induced neuropathy is a difficult challenge for clinicians, with standard of care medications having significant side effects. Recently, 8% topical capsaicin patches have been shown to help with various other forms of neuropathy, but no systematic review has investigated the potential benefit of HIV-induced neuropathy. METHODS: A thorough systematic review of five databases (PubMed, Embase, Scopus, Web of Science, Cochrane) was conducted in October 2025. Retrieved articles were screened for the primary outcome of pain scores both before and after application of the topical capsaicin patch. Statistical analysis was stepwise, with an initial heterogeneity test (Higgins I2), followed by a random-effects meta-analytics based on the moderately high degree of heterogeneity. RESULTS: Our investigation found a total of seven articles that fit our inclusion and exclusion criteria. The overall effect size for the most common patch-application duration was d = 0.991 (95%CI: 0.619-1.36) for improvement in pain score. To control for our high heterogeneity, a leave-out analysis was conducted on the studies with highest risk of bias, with repeat meta-analytics denoting a d = 0.96. CONCLUSION: Our systematic review and meta-analysis notes that topical 8% capsaicin patches are effective in reducing neuropathic pain in patients with HIV-neuropathy. Future larger studies should be conducted to investigate the place of 8% capsaicin patches in the treatment algorithm for HIV-neuropathy. PROTOCOL REGISTRATION: www.crd.york.ac.uk/prospero identifier CRD420251114796.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "8% capsaicin patches for HIV-induced polyneuropathy: a systematic review and meta-analysis",
+   "plants": [
+    "Chili Pepper",
+    "cayenne pepper",
+    "hot pepper",
+    "jalapeño",
+    "red pepper"
+   ],
+   "scientific": [
+    "Capsicum annuum"
+   ],
+   "actions": [],
+   "conditions": [
+    "Pain (general)"
+   ]
   },
   {
    "ref_id": "REF-3688",
@@ -3441,6 +3475,36 @@
    ]
   },
   {
+   "ref_id": "REF-5238",
+   "key": "storck2025cannabiscardiovascular",
+   "type": "article",
+   "title": "Cardiovascular risk associated with the use of cannabis and cannabinoids: a systematic review and meta-analysis",
+   "authors": "Storck, W., Elbaz, M., Vindis, C., Déguilhem, A., Lapeyre-Mestre, M. and Jouanjus, E.",
+   "journal": "Heart",
+   "year": "2025",
+   "doi": "10.1136/heartjnl-2024-325429",
+   "url": "",
+   "link": "https://doi.org/10.1136/heartjnl-2024-325429",
+   "link_type": "doi",
+   "citation": "Storck, W., Elbaz, M., Vindis, C., Déguilhem, A., Lapeyre-Mestre, M. and Jouanjus, E (2025) 'Cardiovascular risk associated with the use of cannabis and cannabinoids: a systematic review and meta-analysis', Heart, 111(22), pp. 1047--1056. doi:10.1136/heartjnl-2024-325429",
+   "abstract": "BACKGROUND: Awareness has recently risen about the potential associated risks to the cardiovascular health of cannabis users. The objective was to evaluate the possible association between major adverse cardiovascular events (MACE) and the use of cannabis or cannabinoids. METHODS: Original pharmacoepidemiological studies providing risk estimates on cannabis-related MACE (ie, cardiovascular death, non-fatal acute coronary syndrome (ACS) including myocardial infarction (MI) or non-fatal stroke) published from 1 January 2016 to 31 January 2023 were included in the systematic review exploring PubMed, Web of Science and Scopus (last search: 20 September 2023). Design, duration, baseline characteristics, exposure, inclusion criteria, sample size, effect size and confusing factors, including exposure to psychoactive substances, were extracted. Study quality was assessed using the ROBINS-E (risk of bias in non-randomised studies-of exposures) tool. In the meta-analysis, adjusted effect estimates and their 95% CIs were pooled using a DerSimonian and Laird random effect model with inverse variance weighting based on the type of outcome (PROSPERO: CRD42023401401). RESULTS: Overall, 24 articles were included from 3012 initial records, including 17 cross-sectional studies, 6 cohort studies and 1 case-control study. Exposure corresponded to the use of cannabis in all studies, with one focused on medical cannabis. The estimated risk ratio (RR) was 1.29 (95% CI 1.05 to 1.59) for ACS, 1.20 (1.13 to 1.26) for stroke and 2.10 (1.29 to 3.42) for cardiovascular death. As measured in two studies, no statistically significant association was found for the composite outcome combining ACS and stroke. The focused analysis restricted to cohort studies yielded comparable results to the primary model (RR=1.32, 1.01 to 1.73). CONCLUSIONS: This systematic review and meta-analysis uses an original approach centred on real-world data. The findings reveal positive associations between cannabis use and MACE. These findings should encourage investigating cannabis use in all patients presenting with serious cardiovascular disorders. PROSPERO REGISTRATION NUMBER: CRD42023401401.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Cardiovascular risk associated with the use of cannabis and cannabinoids: a systematic review and meta-analysis",
+   "plants": [
+    "Hemp",
+    "cannabis",
+    "industrial hemp"
+   ],
+   "scientific": [
+    "Cannabis sativa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2560",
    "key": "baranauskiene2025goutweed",
    "type": "article",
@@ -6475,6 +6539,36 @@
    ],
    "scientific": [
     "Anethum graveolens"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5243",
+   "key": "reck2025cannabinoidbirthoutcomes",
+   "type": "article",
+   "title": "Risks of Cannabinoid Exposure on Birth Outcomes: A Systematic Review",
+   "authors": "Reck, A.M., Reilly, T., Vanegas, S.O., Shook, N.J., Kinsey, S.G. and Casavant, S.G.",
+   "journal": "Cannabis and Cannabinoid Research",
+   "year": "2025",
+   "doi": "10.1089/can.2025.0027",
+   "url": "",
+   "link": "https://doi.org/10.1089/can.2025.0027",
+   "link_type": "doi",
+   "citation": "Reck, A.M., Reilly, T., Vanegas, S.O., Shook, N.J., Kinsey, S.G. and Casavant, S.G (2025) 'Risks of Cannabinoid Exposure on Birth Outcomes: A Systematic Review', Cannabis and Cannabinoid Research, 10(5), pp. 575--592. doi:10.1089/can.2025.0027",
+   "abstract": "Introduction: With the changing legal landscape, the acceptance and availability of cannabis products have increased. Cannabis products are generally considered \"natural\" and relatively safe by consumers. However, growing empirical evidence from humans and other animals indicates that cannabis negatively affects human health. In contrast to the well-known teratogenic effects of alcohol and tobacco products, the safety of cannabis product use during pregnancy has not yet been established. The goal of this systematic review was to determine the patterns that exist in human and rodent literature on the effects of prenatal exposure to cannabis products and delta-9-tetrahydrocannabinol (THC) on birth outcomes. Methods: A systematic review of rodent and human studies was conducted using PRISMA guidelines. Rodent search strategy used PubMed and Scopus with terms \"prenatal OR perinatal OR in utero OR maternal exposure AND cannabis OR THC or cannabinoids AND exposure NOT review NOT Human.\" Human search strategy used PubMed, CINAHL, and Scopus with terms \"cannabinoids OR cannabis OR THC OR marijuana\" AND \"pregnancy OR pregnant OR prenatal AND \"infant outcome OR infant health.\" After deleting duplicates and studies that did not fit the inclusion criteria, 21 rodent and 36 human studies were selected for review. Rodent studies focused on birth weight, litter size, mortality, and gestation length. Human studies have focused on birth weight, gestational age, and infant health at delivery. Results: In both human and rodent studies, prenatal exposure to cannabis was significantly associated with lower birth weight; however, it was not significantly associated with gestational age in rodents or humans. In most rodent studies, prenatal exposure to cannabis did not affect mortality or litter size. In human studies, there was a tendency for infants exposed to cannabis during pregnancy to have worse health at delivery. Findings indicate that cannabis exposure in utero may be associated with worse birth outcomes; however, the results are mixed and vary by species and outcome. Discussion: Methodological differences and scant existing research may have contributed to this inconsistency. Given the legalization of cannabis product use for recreational and medicinal purposes is growing, additional research is necessary to determine its influence on fetal and infant health outcomes.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Risks of Cannabinoid Exposure on Birth Outcomes: A Systematic Review",
+   "plants": [
+    "Hemp",
+    "cannabis",
+    "industrial hemp"
+   ],
+   "scientific": [
+    "Cannabis sativa"
    ],
    "actions": [],
    "conditions": []
@@ -10688,6 +10782,36 @@
    ]
   },
   {
+   "ref_id": "REF-5242",
+   "key": "smith2024cbdthccyp450",
+   "type": "article",
+   "title": "Effects of cannabidiol and Δ9-tetrahydrocannabinol on cytochrome P450 enzymes: a systematic review",
+   "authors": "Smith, S.A., Le, G.H., Teopiz, K.M., Kwan, A.T.H., Rhee, T.G., Ho, R.C., Wu, J., Cao, B., Ceban, F. and McIntyre, R.S.",
+   "journal": "Drug Metabolism Reviews",
+   "year": "2024",
+   "doi": "10.1080/03602532.2024.2346767",
+   "url": "",
+   "link": "https://doi.org/10.1080/03602532.2024.2346767",
+   "link_type": "doi",
+   "citation": "Smith, S.A., Le, G.H., Teopiz, K.M., Kwan, A.T.H., Rhee, T.G., Ho, R.C., Wu, J., Cao, B., Ceban, F. and McIntyre, R.S (2024) 'Effects of cannabidiol and Δ9-tetrahydrocannabinol on cytochrome P450 enzymes: a systematic review', Drug Metabolism Reviews, 56(2), pp. 164--174. doi:10.1080/03602532.2024.2346767",
+   "abstract": "Due to legal, political, and cultural changes, the use of cannabis has rapidly increased in recent years. Research has demonstrated that the cannabinoids cannabidiol (CBD) and Δ9-tetrahydrocannabinol (THC) inhibit and induce cytochrome P450 (CYP450) enzymes. The objective of this review is to evaluate the effect of CBD and THC on the activity of CYP450 enzymes and the implications for drug-drug interactions (DDIs) with psychotropic agents that are CYP substrates. A systematic search was conducted using PubMed, Scopus, Scientific Electronic Library Online (SciELO) and PsychINFO. Search terms included 'cannabidiol', 'tetrahydrocannabinol', and 'cytochrome P450'. A total of seven studies evaluating the interaction of THC and CBD with CYP450 enzymes and psychotropic drugs were included. Both preclinical and clinical studies were included. Results from the included studies indicate that both CBD and THC inhibit several CYP450 enzymes including, but not limited to, CYP1A2, CYP3C19, and CYP2B6. While there are a few known CYP450 enzymes that are induced by THC and CBD, the induction of CYP450 enzymes is an understudied area of research and lacks clinical data. The inhibitory effects observed by CBD and THC on CYP450 enzymes vary in magnitude and may decrease the metabolism of psychotropic agents, cause changes in plasma levels of psychotropic medications, and increase adverse effects. Our findings clearly present interactions between THC and CBD and several CYP450 enzymes, providing clinicians evidence of a high risk of DDIs for patients who consume both cannabis and psychotropic medication. However, more clinical research is necessary before results are applied to clinical settings.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effects of cannabidiol and Δ9-tetrahydrocannabinol on cytochrome P450 enzymes: a systematic review",
+   "plants": [
+    "Hemp",
+    "cannabis",
+    "industrial hemp"
+   ],
+   "scientific": [
+    "Cannabis sativa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1154",
    "key": "kazemi2024chamomile",
    "type": "article",
@@ -14790,6 +14914,36 @@
    ]
   },
   {
+   "ref_id": "REF-5241",
+   "key": "nachnani2024cannabinoiddrugdrug",
+   "type": "article",
+   "title": "Systematic review of drug-drug interactions of delta-9-tetrahydrocannabinol, cannabidiol, and Cannabis",
+   "authors": "Nachnani, R., Knehans, A., Neighbors, J.D., Kocis, P.T., Lee, T., Tegeler, K., Trite, T., Raup-Konsavage, W.M. and Vrana, K.E.",
+   "journal": "Frontiers in Pharmacology",
+   "year": "2024",
+   "doi": "10.3389/fphar.2024.1282831",
+   "url": "",
+   "link": "https://doi.org/10.3389/fphar.2024.1282831",
+   "link_type": "doi",
+   "citation": "Nachnani, R., Knehans, A., Neighbors, J.D., Kocis, P.T., Lee, T., Tegeler, K., Trite, T., Raup-Konsavage, W.M. and Vrana, K.E (2024) 'Systematic review of drug-drug interactions of delta-9-tetrahydrocannabinol, cannabidiol, and Cannabis', Frontiers in Pharmacology, 15, pp. 1282831. doi:10.3389/fphar.2024.1282831",
+   "abstract": "BACKGROUND: The recent exponential increase in legalized medical and recreational cannabis, development of medical cannabis programs, and production of unregulated over-the-counter products (e.g., cannabidiol (CBD) oil, and delta-8-tetrahydrocannabinol (delta-8-THC)), has the potential to create unintended health consequences. The major cannabinoids (delta-9-tetrahydrocannabinol and cannabidiol) are metabolized by the same cytochrome P450 (CYP) enzymes that metabolize most prescription medications and xenobiotics (CYP3A4, CYP2C9, CYP2C19). As a result, we predict that there will be instances of drug-drug interactions and the potential for adverse outcomes, especially for prescription medications with a narrow therapeutic index. METHODS: We conducted a systematic review of all years to 2023 to identify real world reports of documented cannabinoid interactions with prescription medications. We limited our search to a set list of medications with predicted narrow therapeutic indices that may produce unintended adverse drug reactions (ADRs). Our team screened 4,600 reports and selected 151 full-text articles to assess for inclusion and exclusion criteria. RESULTS: Our investigation revealed 31 reports for which cannabinoids altered pharmacokinetics and/or produced adverse events. These reports involved 16 different Narrow Therapeutic Index (NTI) medications, under six drug classes, 889 individual subjects and 603 cannabis/cannabinoid users. Interactions between cannabis/cannabinoids and warfarin, valproate, tacrolimus, and sirolimus were the most widely reported and may pose the greatest risk to patients. Common ADRs included bleeding risk, altered mental status, difficulty inducing anesthesia, and gastrointestinal distress. Additionally, we identified 18 instances (58%) in which clinicians uncovered an unexpected serum level of the prescribed drug. The quality of pharmacokinetic evidence for each report was assessed using an internally developed ten-point scale. CONCLUSION: Drug-drug interactions with cannabinoids are likely amongst prescription medications that use common CYP450 systems. Our findings highlight the need for healthcare providers and patients/care-givers to openly communicate about cannabis/cannabinoid use to prevent unintended adverse events. To that end, we have developed a free online tool (www.CANN-DIR.psu.edu) to help identify potential cannabinoid drug-drug interactions with prescription medications.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Systematic review of drug-drug interactions of delta-9-tetrahydrocannabinol, cannabidiol, and Cannabis",
+   "plants": [
+    "Hemp",
+    "cannabis",
+    "industrial hemp"
+   ],
+   "scientific": [
+    "Cannabis sativa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0326",
    "key": "hao2024taraxacum",
    "type": "article",
@@ -15549,6 +15703,38 @@
     "Antioxidant"
    ],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-5235",
+   "key": "han2024cbdanxietydisorders",
+   "type": "article",
+   "title": "Therapeutic potential of cannabidiol (CBD) in anxiety disorders: A systematic review and meta-analysis",
+   "authors": "Han, K., Wang, J.Y., Wang, P.Y. and Peng, Y.C.",
+   "journal": "Psychiatry Research",
+   "year": "2024",
+   "doi": "10.1016/j.psychres.2024.116049",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.psychres.2024.116049",
+   "link_type": "doi",
+   "citation": "Han, K., Wang, J.Y., Wang, P.Y. and Peng, Y.C (2024) 'Therapeutic potential of cannabidiol (CBD) in anxiety disorders: A systematic review and meta-analysis', Psychiatry Research, 339, pp. 116049. doi:10.1016/j.psychres.2024.116049",
+   "abstract": "Cannabidiol (CBD), as one of the phytocannabinoids, has a wide range of therapeutic properties for various neuropsychiatric disorders due to central nervous system effects. These therapeutic properties demonstrated by preclinical and clinical studies encompass more than just anticonvulsant, anti-arthritic, analgesic, anti-inflammatory, antioxidant, antitumor, antiemetic, antipsychotic and neuroprotective effects. It has been hypothesized that CBD holds potential in the treatment of various neuropsychiatric and anxiety disorders. Thus, PRISMA was used as a guide for our systematic review. Eight of the 1550 articles screened in June 2023 were eligible for meta-analysis. Based on the 316 participants included in these eight articles, this meta-analysis revealed a substantial significant impact of CBD on anxiety with a considerable effect size (Hedges' g = -0.92, 95% CI -1.80 to -0.04). In addition, this meta-analysis focuses on the efficacy of CBD in treating anxiety disorders such as generalized anxiety disorder (GAD), social anxiety disorder (SAD), and post-traumatic stress disorder (PTSD). However, caution should be exercised in interpreting our findings due to the limited size of the clinical sample, and additional trials ought to be carried out if deemed necessary.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Therapeutic potential of cannabidiol (CBD) in anxiety disorders: A systematic review and meta-analysis",
+   "plants": [
+    "Hemp",
+    "cannabis",
+    "industrial hemp"
+   ],
+   "scientific": [
+    "Cannabis sativa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Anxiety"
+   ]
   },
   {
    "ref_id": "REF-2452",
@@ -18028,6 +18214,39 @@
    "actions": [],
    "conditions": [
     "Cognitive function"
+   ]
+  },
+  {
+   "ref_id": "REF-5232",
+   "key": "barakji2023cannabinoidspaintsa",
+   "type": "article",
+   "title": "Cannabinoids versus placebo for pain: A systematic review with meta-analysis and Trial Sequential Analysis",
+   "authors": "Barakji, J., Korang, S.K., Feinberg, J., Maagaard, M., Mathiesen, O., Gluud, C. and Jakobsen, J.C.",
+   "journal": "PloS One",
+   "year": "2023",
+   "doi": "10.1371/journal.pone.0267420",
+   "url": "",
+   "link": "https://doi.org/10.1371/journal.pone.0267420",
+   "link_type": "doi",
+   "citation": "Barakji, J., Korang, S.K., Feinberg, J., Maagaard, M., Mathiesen, O., Gluud, C. and Jakobsen, J.C (2023) 'Cannabinoids versus placebo for pain: A systematic review with meta-analysis and Trial Sequential Analysis', PloS One, 18(1), pp. e0267420. doi:10.1371/journal.pone.0267420",
+   "abstract": "OBJECTIVES: To assess the benefits and harms of cannabinoids in participants with pain. DESIGN: Systematic review of randomised clinical trials with meta-analysis, Trial Sequential Analysis, and the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach. DATA SOURCES: The Cochrane Library, MEDLINE, Embase, Science Citation Index, and BIOSIS. ELIGIBILITY CRITERIA FOR SELECTING STUDIES: Published and unpublished randomised clinical trials comparing cannabinoids versus placebo in participants with any type of pain. MAIN OUTCOME MEASURES: All-cause mortality, pain, adverse events, quality of life, cannabinoid dependence, psychosis, and quality of sleep. RESULTS: We included 65 randomised placebo-controlled clinical trials enrolling 7017 participants. Fifty-nine of the trials and all outcome results were at high risk of bias. Meta-analysis and Trial Sequential Analysis showed no evidence of a difference between cannabinoids versus placebo on all-cause mortality (RR 1.20; 98% CI 0.85 to 1.67; P = 0.22). Meta-analyses and Trial Sequential Analysis showed that cannabinoids neither reduced acute pain (mean difference numerical rating scale (NRS) 0.52; 98% CI -0.40 to 1.43; P = 0.19) or cancer pain (mean difference NRS -0.13; 98% CI -0.33 to 0.06; P = 0.1) nor improved quality of life (mean difference -1.38; 98% CI -11.81 to 9.04; P = 0.33). Meta-analyses and Trial Sequential Analysis showed that cannabinoids reduced chronic pain (mean difference NRS -0.43; 98% CI -0.72 to -0.15; P = 0.0004) and improved quality of sleep (mean difference -0.42; 95% CI -0.65 to -0.20; P = 0.0003). However, both effect sizes were below our predefined minimal important differences. Meta-analysis and Trial Sequential Analysis indicated that cannabinoids increased the risk of non-serious adverse events (RR 1.20; 95% CI 1.15 to 1.25; P < 0.001) but not serious adverse events (RR 1.18; 98% CI 0.95 to 1.45; P = 0.07). None of the included trials reported on cannabinoid dependence or psychosis. CONCLUSIONS: Cannabinoids reduced chronic pain and improved quality of sleep, but the effect sizes are of questionable importance. Cannabinoids had no effects on acute pain or cancer pain and increased the risks of non-serious adverse events. The harmful effects of cannabinoids for pain seem to outweigh the potential benefits.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Cannabinoids versus placebo for pain: A systematic review with meta-analysis and Trial Sequential Analysis",
+   "plants": [
+    "Hemp",
+    "cannabis",
+    "industrial hemp"
+   ],
+   "scientific": [
+    "Cannabis sativa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Insomnia / sleeplessness",
+    "Pain (general)"
    ]
   },
   {
@@ -21749,6 +21968,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5234",
+   "key": "kleiner2023nabiximolsmsspasticity",
+   "type": "article",
+   "title": "Nabiximols is Efficient as Add-On Treatment for Patients with Multiple Sclerosis Spasticity Refractory to Standard Treatment: A Systematic Review and Meta-Analysis of Randomised Clinical Trials",
+   "authors": "Kleiner, D., Horváth, I.L., Bunduc, S., Gergő, D., Lugosi, K., Fehérvári, P., Hegyi, P. and Csupor, D.",
+   "journal": "Current Neuropharmacology",
+   "year": "2023",
+   "doi": "10.2174/1570159X21666230727094431",
+   "url": "",
+   "link": "https://doi.org/10.2174/1570159X21666230727094431",
+   "link_type": "doi",
+   "citation": "Kleiner, D., Horváth, I.L., Bunduc, S., Gergő, D., Lugosi, K., Fehérvári, P., Hegyi, P. and Csupor, D (2023) 'Nabiximols is Efficient as Add-On Treatment for Patients with Multiple Sclerosis Spasticity Refractory to Standard Treatment: A Systematic Review and Meta-Analysis of Randomised Clinical Trials', Current Neuropharmacology, 21(12), pp. 2505--2515. doi:10.2174/1570159X21666230727094431",
+   "abstract": "BACKGROUND: Spasticity affects 54% of multiple sclerosis (MS) patients at disease onset, but this rate gradually increases with disease progression. Spasticity does not fully respond to standard treatment in one-third of the patients. OBJECTIVE: Our systematic review and meta-analysis assessed whether add-on nabiximols, can improve MS-associated refractory spasticity. METHODS: The systematic literature search was performed in Web of Science, MEDLINE, Scopus, CENTRAL, and Embase, on 15/10/2021, without restrictions. We included in the review blinded, randomized, placebo-controlled trials evaluating the efficacy of nabiximols in adult MS patients with refractory spasticity, by comparison with placebo. The primary outcome was responder rate by spasticity numerical rating scale (NRS). Secondary outcomes were spasticity-related parameters. We used random effect models to calculate odds ratios (OR) or mean differences and the corresponding 95% CI. Bias-factors were assessed with Cochrane risk of bias tool (RoB2). (PROSPERO ID: CRD42021282177). RESULTS: We identified 9 eligible articles, of which 7 (1128 patients) were included in the meta-analysis. The spasticity numerical rating scale (NRS) was significantly higher in the nabiximols group than in the placebo group (OR 2.41 (95% CI 1.39; 4.18)). Secondary outcomes were in accordance with our primary results. At least some concerns were detected in the risk of bias analysis. CONCLUSION: Our results indicate that nabiximols is efficient in MS associated spasticity, refractory to standard treatment and it may be considered as add-on symptomatic therapy. Nevertheless, further studies are needed to establish the optimal treatment protocol - dose, duration, moment of initiation, disease type.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Nabiximols is Efficient as Add-On Treatment for Patients with Multiple Sclerosis Spasticity Refractory to Standard Treatment: A Systematic Review and Meta-Analysis of Randomised Clinical Trials",
+   "plants": [
+    "Hemp",
+    "cannabis",
+    "industrial hemp"
+   ],
+   "scientific": [
+    "Cannabis sativa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Muscle spasm"
+   ]
+  },
+  {
    "ref_id": "REF-2926",
    "key": "singh2023neuroprotective",
    "type": "article",
@@ -23753,6 +24004,40 @@
     "Anti-inflammatory"
    ],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-5244",
+   "key": "zhang2023capsaicinweightloss",
+   "type": "article",
+   "title": "The effects of capsaicin intake on weight loss among overweight and obese subjects: a systematic review and meta-analysis of randomised controlled trials",
+   "authors": "Zhang, W., Zhang, Q., Wang, L., Zhou, Q., Wang, P., Qing, Y. and Sun, C.",
+   "journal": "The British Journal of Nutrition",
+   "year": "2023",
+   "doi": "10.1017/S0007114523000697",
+   "url": "",
+   "link": "https://doi.org/10.1017/S0007114523000697",
+   "link_type": "doi",
+   "citation": "Zhang, W., Zhang, Q., Wang, L., Zhou, Q., Wang, P., Qing, Y. and Sun, C (2023) 'The effects of capsaicin intake on weight loss among overweight and obese subjects: a systematic review and meta-analysis of randomised controlled trials', The British Journal of Nutrition, 130(9), pp. 1645--1656. doi:10.1017/S0007114523000697",
+   "abstract": "Animal studies have shown that capsaicin plays a positive role in weight management. However, the results in human research are controversial. Therefore, the present systematic review and meta-analysis aimed to evaluate the effect of capsaicin on weight loss in adults. We searched PubMed, Embase, China Biomedical Literature Database (CBM), Cochrane library and clinical registration centre, identifying all randomised controlled trials (RCT) published in English and Chinese to 3 May 2022. A random-effect model was used to calculate the weighted mean difference (WMD) and 95 % CI. Heterogeneity between studies was assessed by the Cochran Q statistic and I-squared tests (I 2 ). Statistical analyses were performed using STATA version 15.1. P-values < 0·05 were considered as statistically significant. From 2377 retrieved studies, fifteen studies were finally included in the meta-analyses. Fifteen RCT with 762 individuals were included in our meta-analysis. Compared with the control group, the supplementation of capsaicin resulted in significant reduction on BMI (WMD: -0·25 kg/m2, 95 % CI = -0·35, -0·15 kg/m2, P < 0·05), body weight (BW) (WMD: -0·51 kg, 95 % CI = -0·86, -0·15 kg, P < 0·05) and waist circumference (WC) (WMD: -1·12 cm, 95 % CI = -2·00, -0·24 cm, P < 0·05). We found no detrimental effect of capsaicin on waist-to-hip ratio (WMD: -0·05, 95 % CI = -0·17, 0·06, P > 0·05). The current meta-analysis suggests that capsaicin supplementation may have rather modest effects in reducing BMI, BW and WC for overweight or obese individuals.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The effects of capsaicin intake on weight loss among overweight and obese subjects: a systematic review and meta-analysis of randomised controlled trials",
+   "plants": [
+    "Chili Pepper",
+    "cayenne pepper",
+    "hot pepper",
+    "jalapeño",
+    "red pepper"
+   ],
+   "scientific": [
+    "Capsicum annuum"
+   ],
+   "actions": [],
+   "conditions": [
+    "Metabolic support"
+   ]
   },
   {
    "ref_id": "REF-3491",
@@ -32663,6 +32948,38 @@
     "High cholesterol",
     "Metabolic support"
    ]
+  },
+  {
+   "ref_id": "REF-5245",
+   "key": "sheikhhossein2022capsinoidsbodycomposition",
+   "type": "article",
+   "title": "The effects of capsinoids supplementation on body composition and anthropometric measures: A systematic review and dose-response meta-analysis of randomized controlled trials",
+   "authors": "Sheikhhossein, F., Amini, M.R., Askari, M., Pourreza, S., Hosseini, F., Clark, C.C.T., Djafarian, K., Ghanbari, M. and Shab-Bidar, S.",
+   "journal": "Clinical Nutrition ESPEN",
+   "year": "2022",
+   "doi": "10.1016/j.clnesp.2022.09.021",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.clnesp.2022.09.021",
+   "link_type": "doi",
+   "citation": "Sheikhhossein, F., Amini, M.R., Askari, M., Pourreza, S., Hosseini, F., Clark, C.C.T., Djafarian, K., Ghanbari, M. and Shab-Bidar, S (2022) 'The effects of capsinoids supplementation on body composition and anthropometric measures: A systematic review and dose-response meta-analysis of randomized controlled trials', Clinical Nutrition ESPEN, 52, pp. 381--394. doi:10.1016/j.clnesp.2022.09.021",
+   "abstract": "BACKGROUND & AIMS: The present systematic review and meta-analysis was conducted to investigate the effects of capsinoids on body mass index (BMI), body weight (BW), waist circumference (WC), waist-hip ratio (WHR), fat mass (FM), fat-free mass (FFM), visceral fat area (VFA), and percentage body fat (PBF). METHODS: Four databases were searched from inception to November 2020 using relevant keywords. All clinical trials investigating the effects of capsinoids supplementation on body composition and anthropometric measures were retained. RESULTS: Overall, 19 effect sizes and 13 trials with a total sample size of 838 participants were included. Capsinoids supplementation had no effect on BW (P = 0.230), BMI (P = 0.182), WC (P = 0.611), FM (P = 0.946), FFM (P = 0.917), WHR (P = 0.599), VFA (P = 0.836), and PBF (P = 0.973). Findings from subgroup analysis revealed a significant reduction in BW in trials conducted on overweight participants, and lasted ≥12 weeks, However, no significant non-linear associations were found between capsinoids supplementation dosage and study duration with both BW (For dosage: Pnon-linearity = 0.527, for duration: Pnon-linearity = 0.410) and BMI (For dosage: Pnon-linearity = 0.308, for duration: Pnon-linearity = 0.578). CONCLUSION: Capsinoids supplementation has no significant effect on obesity indicators. However, capsinoids in trials conducted on overweight participants, and lasted ≥12 weeks may have a significant and modest reduction in BW. Well-designed RCTs with larger sample size and longer duration are needed to confirm these results.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The effects of capsinoids supplementation on body composition and anthropometric measures: A systematic review and dose-response meta-analysis of randomized controlled trials",
+   "plants": [
+    "Chili Pepper",
+    "cayenne pepper",
+    "hot pepper",
+    "jalapeño",
+    "red pepper"
+   ],
+   "scientific": [
+    "Capsicum annuum"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-2541",
@@ -43835,6 +44152,36 @@
    ]
   },
   {
+   "ref_id": "REF-5240",
+   "key": "chesney2020cbdadverseeffects",
+   "type": "article",
+   "title": "Adverse effects of cannabidiol: a systematic review and meta-analysis of randomized clinical trials",
+   "authors": "Chesney, E., Oliver, D., Green, A., Sovi, S., Wilson, J., Englund, A., Freeman, T.P. and McGuire, P.",
+   "journal": "Neuropsychopharmacology",
+   "year": "2020",
+   "doi": "10.1038/s41386-020-0667-2",
+   "url": "",
+   "link": "https://doi.org/10.1038/s41386-020-0667-2",
+   "link_type": "doi",
+   "citation": "Chesney, E., Oliver, D., Green, A., Sovi, S., Wilson, J., Englund, A., Freeman, T.P. and McGuire, P (2020) 'Adverse effects of cannabidiol: a systematic review and meta-analysis of randomized clinical trials', Neuropsychopharmacology, 45(11), pp. 1799--1806. doi:10.1038/s41386-020-0667-2",
+   "abstract": "Cannabidiol (CBD) is being investigated as a treatment for several medical disorders but there is uncertainty about its safety. We conducted the first systematic review and meta-analysis of the adverse effects of CBD across all medical indications. Double-blind randomized placebo-controlled clinical trials lasting ≥7 days were included. Twelve trials contributed data from 803 participants to the meta-analysis. Compared with placebo, CBD was associated with an increased likelihood of withdrawal for any reason (OR 2.61, 95% CI: 1.38-4.96) or due to adverse events (OR 2.65, 95% CI: 1.04-6.80), any serious adverse event (OR 2.30, 95% CI: 1.18-4.48), serious adverse events related to abnormal liver function tests (OR 11.19, 95% CI: 2.09-60.02) or pneumonia (OR 5.37, 95% CI: 1.17-24.65), any adverse event (OR 1.55, 95% CI: 1.03-2.33), adverse events due to decreased appetite (OR 3.56, 95% CI: 1.94-6.53), diarrhoea (OR 2.61, 95% CI: 1.46-4.67), somnolence (OR 2.23, 95% CI: 1.07-4.64) and sedation (OR 4.21, 95% CI: 1.18-15.01). Associations with abnormal liver function tests, somnolence, sedation and pneumonia were limited to childhood epilepsy studies, where CBD may have interacted with other medications such as clobazam and/or sodium valproate. After excluding studies in childhood epilepsy, the only adverse outcome associated with CBD treatment was diarrhoea (OR 5.03, 95% CI: 1.44-17.61). In summary, the available data from clinical trials suggest that CBD is well tolerated and has relatively few serious adverse effects, however interactions with other medications should be monitored carefully. Additional safety data from clinical trials outside of childhood epilepsy syndromes and from studies of over-the-counter CBD products are needed to assess whether the conclusions drawn from clinical trials can be applied more broadly.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Adverse effects of cannabidiol: a systematic review and meta-analysis of randomized clinical trials",
+   "plants": [
+    "Hemp",
+    "cannabis",
+    "industrial hemp"
+   ],
+   "scientific": [
+    "Cannabis sativa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2238",
    "key": "liang2020aloe",
    "type": "article",
@@ -45034,6 +45381,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5233",
+   "key": "boland2020cannabinoidscancerpain",
+   "type": "article",
+   "title": "Cannabinoids for adult cancer-related pain: systematic review and meta-analysis",
+   "authors": "Boland, E.G., Bennett, M.I., Allgar, V. and Boland, J.W.",
+   "journal": "BMJ Supportive & Palliative Care",
+   "year": "2020",
+   "doi": "10.1136/bmjspcare-2019-002032",
+   "url": "",
+   "link": "https://doi.org/10.1136/bmjspcare-2019-002032",
+   "link_type": "doi",
+   "citation": "Boland, E.G., Bennett, M.I., Allgar, V. and Boland, J.W (2020) 'Cannabinoids for adult cancer-related pain: systematic review and meta-analysis', BMJ Supportive & Palliative Care, 10(1), pp. 14--24. doi:10.1136/bmjspcare-2019-002032",
+   "abstract": "OBJECTIVES: There is increased interest in cannabinoids for cancer pain management and legislative changes are in progress in many countries. This study aims to determine the beneficial and adverse effects of cannabis/cannabinoids compared with placebo/other active agents for the treatment of cancer-related pain in adults. METHODS: Systematic review and meta-analysis to identify randomised controlled trials of cannabinoids compared with placebo/other active agents for the treatment of cancer-related pain in adults to determine the effect on pain intensity (primary outcome) and adverse effects, including dropouts. Searches included Embase, MEDLINE, PsycINFO, Web of Science, ClinicalTrials.gov, Cochrane and grey literature. Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines were followed. RESULTS: We identified 2805 unique records, of which six randomised controlled trials were included in this systematic review (n=1460 participants). Five studies were included in the meta-analysis (1442 participants). All had a low risk of bias. There was no difference between cannabinoids and placebo for the difference in the change in average Numeric Rating Scale pain scores (mean difference -0.21 (-0.48 to 0.07, p=0.14)); this remained when only phase III studies were meta-analysed: mean difference -0.02 (-0.21 to 0.16, p=0.80). Cannabinoids had a higher risk of adverse events when compared with placebo, especially somnolence (OR 2.69 (1.54 to 4.71), p<0.001) and dizziness (OR 1.58 (0.99 to 2.51), p=0.05). No treatment-related deaths were reported. Dropouts and mortality rates were high. CONCLUSIONS: Studies with a low risk of bias showed that for adults with advanced cancer, the addition of cannabinoids to opioids did not reduce cancer pain. TRIAL REGISTRATION NUMBER: CRD42018107662.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Cannabinoids for adult cancer-related pain: systematic review and meta-analysis",
+   "plants": [
+    "Hemp",
+    "cannabis",
+    "industrial hemp"
+   ],
+   "scientific": [
+    "Cannabis sativa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2134",
    "key": "alves2020cannabis",
    "type": "article",
@@ -45063,6 +45440,36 @@
    "actions": [
     "Anti-inflammatory"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5239",
+   "key": "hasan2020cannabispsychosis",
+   "type": "article",
+   "title": "Cannabis use and psychosis: a review of reviews",
+   "authors": "Hasan, A., von Keller, R., Friemel, C.M., Hall, W., Schneider, M., Koethe, D., Leweke, F.M., Strube, W. and Hoch, E.",
+   "journal": "European Archives of Psychiatry and Clinical Neuroscience",
+   "year": "2020",
+   "doi": "10.1007/s00406-019-01068-z",
+   "url": "",
+   "link": "https://doi.org/10.1007/s00406-019-01068-z",
+   "link_type": "doi",
+   "citation": "Hasan, A., von Keller, R., Friemel, C.M., Hall, W., Schneider, M., Koethe, D., Leweke, F.M., Strube, W. and Hoch, E (2020) 'Cannabis use and psychosis: a review of reviews', European Archives of Psychiatry and Clinical Neuroscience, 270(4), pp. 403--412. doi:10.1007/s00406-019-01068-z",
+   "abstract": "We conducted a systematic review of meta-analyses and systematic reviews to evaluate the impact of cannabis use on the onset and course of psychoses. Following a systematic literature search of five data bases (2005-2016) and consecutive structured evaluation, we were able to include 26 systematic reviews and meta-analyses. The methodological quality of the included publications were in the range of high and poor. The scientific literature indicates that psychotic illness arises more frequently in cannabis users compared to non-users, cannabis use is associated with a dose-dependent risk of developing psychotic illness, and cannabis users have an earlier onset of psychotic illness compared to non-users. Cannabis use was also associated with increased relapse rates, more hospitalizations and pronounced positive symptoms in psychotic patients. We make recommendations about the type of research that is required to better characterize the relationship between cannabis use and the development and outcomes of psychosis.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Cannabis use and psychosis: a review of reviews",
+   "plants": [
+    "Hemp",
+    "cannabis",
+    "industrial hemp"
+   ],
+   "scientific": [
+    "Cannabis sativa"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -55837,6 +56244,38 @@
    ]
   },
   {
+   "ref_id": "REF-5236",
+   "key": "wang2019cannabinoidscachexia",
+   "type": "article",
+   "title": "Medical Cannabinoids for Cancer Cachexia: A Systematic Review and Meta-Analysis",
+   "authors": "Wang, J., Wang, Y., Tong, M., Pan, H. and Li, D.",
+   "journal": "BioMed Research International",
+   "year": "2019",
+   "doi": "10.1155/2019/2864384",
+   "url": "",
+   "link": "https://doi.org/10.1155/2019/2864384",
+   "link_type": "doi",
+   "citation": "Wang, J., Wang, Y., Tong, M., Pan, H. and Li, D (2019) 'Medical Cannabinoids for Cancer Cachexia: A Systematic Review and Meta-Analysis', BioMed Research International, 2019, pp. 2864384. doi:10.1155/2019/2864384",
+   "abstract": "OBJECTIVES: Cancer cachexia (CCA) is an intractable and ineffective metabolic syndrome that attacks 50-80% of cancer patients. It reduces patient's life quality, affects the efficacy of treatment, and then increases their mortality; however, there are no established therapeutic strategies for CCA in the world. In this study, we assess the positive and negative effects of cannabinoid in the treatment of CCA. METHODS: We searched the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, Web of Science, and PubMed up to December 2017. RESULTS: Of the 256 screened studies, three studies with a total of 592 participants were included. Compared with placebo, cannabinoid increased the appetite (MD 0.27, 95% CI -0.51 to 1.04; n= 3) but failed to improve the overall quality of life (QOL; MD -12.39, 95% CI [-24.21 to -0.57; n = 2), and a total of 441 patients had 607 adverse events (AEs; 496 in the cannabinoid group and 111 in the placebo group). CONCLUSIONS: Our analysis showed cannabinoid is effective in increasing appetite in cancer patients. However, it declines the quality of life, which may be due to the side effects of cannabinoid.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Medical Cannabinoids for Cancer Cachexia: A Systematic Review and Meta-Analysis",
+   "plants": [
+    "Hemp",
+    "cannabis",
+    "industrial hemp"
+   ],
+   "scientific": [
+    "Cannabis sativa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Loss of appetite"
+   ]
+  },
+  {
    "ref_id": "REF-2199",
    "key": "burmasova2019inonotus",
    "type": "article",
@@ -64976,6 +65415,36 @@
    ],
    "scientific": [
     "Zingiber officinale"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5237",
+   "key": "sorensen2017cannabinoidhyperemesis",
+   "type": "article",
+   "title": "Cannabinoid Hyperemesis Syndrome: Diagnosis, Pathophysiology, and Treatment-a Systematic Review",
+   "authors": "Sorensen, C.J., DeSanto, K., Borgelt, L., Phillips, K.T. and Monte, A.A.",
+   "journal": "Journal of Medical Toxicology",
+   "year": "2017",
+   "doi": "10.1007/s13181-016-0595-z",
+   "url": "",
+   "link": "https://doi.org/10.1007/s13181-016-0595-z",
+   "link_type": "doi",
+   "citation": "Sorensen, C.J., DeSanto, K., Borgelt, L., Phillips, K.T. and Monte, A.A (2017) 'Cannabinoid Hyperemesis Syndrome: Diagnosis, Pathophysiology, and Treatment-a Systematic Review', Journal of Medical Toxicology, 13(1), pp. 71--87. doi:10.1007/s13181-016-0595-z",
+   "abstract": "Cannabinoid hyperemesis syndrome (CHS) is a syndrome of cyclic vomiting associated with cannabis use. Our objective is to summarize the available evidence on CHS diagnosis, pathophysiology, and treatment. We performed a systematic review using MEDLINE, Ovid MEDLINE, Embase, Web of Science, and the Cochrane Library from January 2000 through September 24, 2015. Articles eligible for inclusion were evaluated using the Grading and Recommendations Assessment, Development, and Evaluation (GRADE) criteria. Data were abstracted from the articles and case reports and were combined in a cumulative synthesis. The frequency of identified diagnostic characteristics was calculated from the cumulative synthesis and evidence for pathophysiologic hypothesis as well as treatment options were evaluated using the GRADE criteria. The systematic search returned 2178 articles. After duplicates were removed, 1253 abstracts were reviewed and 183 were included. Fourteen diagnostic characteristics were identified, and the frequency of major characteristics was as follows: history of regular cannabis for any duration of time (100%), cyclic nausea and vomiting (100%), resolution of symptoms after stopping cannabis (96.8%), compulsive hot baths with symptom relief (92.3%), male predominance (72.9%), abdominal pain (85.1%), and at least weekly cannabis use (97.4%). The pathophysiology of CHS remains unclear with a dearth of research dedicated to investigating its underlying mechanism. Supportive care with intravenous fluids, dopamine antagonists, topical capsaicin cream, and avoidance of narcotic medications has shown some benefit in the acute setting. Cannabis cessation appears to be the best treatment. CHS is a cyclic vomiting syndrome, preceded by daily to weekly cannabis use, usually accompanied by symptom improvement with hot bathing, and resolution with cessation of cannabis. The pathophysiology underlying CHS is unclear. Cannabis cessation appears to be the best treatment.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Cannabinoid Hyperemesis Syndrome: Diagnosis, Pathophysiology, and Treatment-a Systematic Review",
+   "plants": [
+    "Hemp",
+    "cannabis",
+    "industrial hemp"
+   ],
+   "scientific": [
+    "Cannabis sativa"
    ],
    "actions": [],
    "conditions": []
@@ -74676,6 +75145,41 @@
    ]
   },
   {
+   "ref_id": "REF-5231",
+   "key": "whiting2015cannabinoidsmedicaluse",
+   "type": "article",
+   "title": "Cannabinoids for Medical Use: A Systematic Review and Meta-analysis",
+   "authors": "Whiting, P.F., Wolff, R.F., Deshpande, S., Di Nisio, M., Duffy, S., Hernandez, A.V., Keurentjes, J.C., Lang, S., Misso, K., Ryder, S., Schmidlkofer, S., Westwood, M. and Kleijnen, J.",
+   "journal": "JAMA",
+   "year": "2015",
+   "doi": "10.1001/jama.2015.6358",
+   "url": "",
+   "link": "https://doi.org/10.1001/jama.2015.6358",
+   "link_type": "doi",
+   "citation": "Whiting, P.F., Wolff, R.F., Deshpande, S., Di Nisio, M., Duffy, S., Hernandez, A.V., Keurentjes, J.C., Lang, S., Misso, K., Ryder, S., Schmidlkofer, S., Westwood, M. and Kleijnen, J (2015) 'Cannabinoids for Medical Use: A Systematic Review and Meta-analysis', JAMA, 313(24), pp. 2456--73. doi:10.1001/jama.2015.6358",
+   "abstract": "IMPORTANCE: Cannabis and cannabinoid drugs are widely used to treat disease or alleviate symptoms, but their efficacy for specific indications is not clear. OBJECTIVE: To conduct a systematic review of the benefits and adverse events (AEs) of cannabinoids. DATA SOURCES: Twenty-eight databases from inception to April 2015. STUDY SELECTION: Randomized clinical trials of cannabinoids for the following indications: nausea and vomiting due to chemotherapy, appetite stimulation in HIV/AIDS, chronic pain, spasticity due to multiple sclerosis or paraplegia, depression, anxiety disorder, sleep disorder, psychosis, glaucoma, or Tourette syndrome. DATA EXTRACTION AND SYNTHESIS: Study quality was assessed using the Cochrane risk of bias tool. All review stages were conducted independently by 2 reviewers. Where possible, data were pooled using random-effects meta-analysis. MAIN OUTCOMES AND MEASURES: Patient-relevant/disease-specific outcomes, activities of daily living, quality of life, global impression of change, and AEs. RESULTS: A total of 79 trials (6462 participants) were included; 4 were judged at low risk of bias. Most trials showed improvement in symptoms associated with cannabinoids but these associations did not reach statistical significance in all trials. Compared with placebo, cannabinoids were associated with a greater average number of patients showing a complete nausea and vomiting response (47% vs 20%; odds ratio [OR], 3.82 [95% CI, 1.55-9.42]; 3 trials), reduction in pain (37% vs 31%; OR, 1.41 [95% CI, 0.99-2.00]; 8 trials), a greater average reduction in numerical rating scale pain assessment (on a 0-10-point scale; weighted mean difference [WMD], -0.46 [95% CI, -0.80 to -0.11]; 6 trials), and average reduction in the Ashworth spasticity scale (WMD, -0.36 [95% CI, -0.69 to -0.05]; 7 trials). There was an increased risk of short-term AEs with cannabinoids, including serious AEs. Common AEs included dizziness, dry mouth, nausea, fatigue, somnolence, euphoria, vomiting, disorientation, drowsiness, confusion, loss of balance, and hallucination. CONCLUSIONS AND RELEVANCE: There was moderate-quality evidence to support the use of cannabinoids for the treatment of chronic pain and spasticity. There was low-quality evidence suggesting that cannabinoids were associated with improvements in nausea and vomiting due to chemotherapy, weight gain in HIV infection, sleep disorders, and Tourette syndrome. Cannabinoids were associated with an increased risk of short-term AEs.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Cannabinoids for Medical Use: A Systematic Review and Meta-analysis",
+   "plants": [
+    "Hemp",
+    "cannabis",
+    "industrial hemp"
+   ],
+   "scientific": [
+    "Cannabis sativa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Insomnia / sleeplessness",
+    "Loss of appetite",
+    "Muscle spasm",
+    "Pain (general)"
+   ]
+  },
+  {
    "ref_id": "REF-3114",
    "key": "grajzer2015rosehip",
    "type": "article",
@@ -79931,6 +80435,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5249",
+   "key": "choudhary2014carawayantitubercular",
+   "type": "article",
+   "title": "Effect of Carum carvi, a herbal bioenhancer on pharmacokinetics of antitubercular drugs: A study in healthy human volunteers",
+   "authors": "Choudhary, N., Khajuria, V., Gillani, Z.H., Tandon, V.R. and Arora, E.",
+   "journal": "Perspectives in Clinical Research",
+   "year": "2014",
+   "doi": "10.4103/2229-3485.128027",
+   "url": "",
+   "link": "https://doi.org/10.4103/2229-3485.128027",
+   "link_type": "doi",
+   "citation": "Choudhary, N., Khajuria, V., Gillani, Z.H., Tandon, V.R. and Arora, E (2014) 'Effect of Carum carvi, a herbal bioenhancer on pharmacokinetics of antitubercular drugs: A study in healthy human volunteers', Perspectives in Clinical Research, 5(2), pp. 80--4. doi:10.4103/2229-3485.128027",
+   "abstract": "AIM AND OBJECTIVES: The present study was undertaken in 20 healthy human volunteers to evaluate the effect of a herbal bioenhancer, Carum carvi on pharmacokinetics of rifampicin, isoniazid, and pyrazinamide in fixed dose combination (FDC). MATERIALS AND METHODS: It was a prospective, two-period, open-label, cross-over experiment on 20 healthy human male volunteers. The volunteers were administered a single dose of FDC containing rifampicin (450 mg), isoniazid (300 mg), and pyrazinamide (1000 mg) and after 10 days washout period the same FDC along with C. carvi extract (100 mg) was administered. Blood samples were collected at different time-points and analyzed by high-performance liquid chromatography (HPLC). Detailed pharmacokinetic parameters were calculated, which included C max, area under curve (AUC), time to reach maximum plasma concentration (T max), clearance (Cl), volume of distribution (V d), and half-life (t ½). RESULTS: Additions of C. carvi extract lead to increase in plasma levels of rifampicin, isoniazid, and pyrazinamide. The bioavailability indices C max of rifampicin increased from 4.57 ± 0.19 to 5.95 ± 0.19 (P = 0.000) and AUC increased from 40.11 ± 1.69 to 53.01 ± 1.88 (P = 0.000). Similarly, C max of isoniazid increased from 2.66 ± 0.16 to 3.62 ± 0.16 (P = 0.000) and AUC from 17.72 ± 0.78 to 22.87 ± 0.94 (P = 0.000). The bioavailability indices of pyrazinamide also revealed an increase in C max from 18.81 ± 0.79 to 25.06 ± 1.14 (P = 0.000) and AUC from 107.65 ± 4.42 to 137.71 ± 5.92 (P = 0.000), respectively. CONCLUSION: C. carvi acts as a bioenhancer and modifies the kinetics of antitubercular treatment (ATT) favorably.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effect of Carum carvi, a herbal bioenhancer on pharmacokinetics of antitubercular drugs: A study in healthy human volunteers",
+   "plants": [
+    "Caraway",
+    "meridian fennel",
+    "wild caraway"
+   ],
+   "scientific": [
+    "Carum carvi"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2449",
    "key": "neelakantan2014fenugreek",
    "type": "article",
@@ -81228,6 +81762,36 @@
    "actions": [
     "Anticancer (preclinical)"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5248",
+   "key": "kazemipoor2014carawaysafetyrct",
+   "type": "article",
+   "title": "Preliminary safety evaluation and biochemical efficacy of a Carum carvi extract: results from a randomized, triple-blind, and placebo-controlled clinical trial",
+   "authors": "Kazemipoor, M., Radzi, C.W., Hajifaraji, M. and Cordell, G.A.",
+   "journal": "Phytotherapy Research",
+   "year": "2014",
+   "doi": "10.1002/ptr.5147",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.5147",
+   "link_type": "doi",
+   "citation": "Kazemipoor, M., Radzi, C.W., Hajifaraji, M. and Cordell, G.A (2014) 'Preliminary safety evaluation and biochemical efficacy of a Carum carvi extract: results from a randomized, triple-blind, and placebo-controlled clinical trial', Phytotherapy Research, 28(10), pp. 1456--60. doi:10.1002/ptr.5147",
+   "abstract": "Carum carvi L. (Apiaceae) is known as caraway, and its derivatives find wide medicinal use for health purposes, including for gastrointestinal problems and obesity. Since there is inconsistency among the reports on the safety of this plant in humans, this research was aimed at assessing the safety of a characterized caraway aqueous extract (CAE) in a randomized, triple-blind, placebo-controlled study. Seventy, overweight and obese, healthy women were randomly assigned into placebo (n = 35) and plant extract (n = 35) groups. Participants received either 30 ml/day of CAE or placebo. Subjects were examined at baseline and after 12 weeks for changes in heart rate, blood pressure, urine test, 25-item blood chemistries, and general health status. No significant changes of blood pressure, heart rate, urine specific gravity, and serum blood tests were observed between the two groups before and after treatment. However, in the complete blood count test, red blood cell levels were significantly (p < 0.01) increased, and platelet distribution width was significantly decreased after the dietary CAE treatment, as compared with placebo. No negative changes were observed in the general health status of the two groups. This preliminary study suggests that the oral intake of CAE appears to be without any adverse effects at a dosage of 30 ml daily for a period of 12 weeks.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Preliminary safety evaluation and biochemical efficacy of a Carum carvi extract: results from a randomized, triple-blind, and placebo-controlled clinical trial",
+   "plants": [
+    "Caraway",
+    "meridian fennel",
+    "wild caraway"
+   ],
+   "scientific": [
+    "Carum carvi"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -82658,6 +83222,38 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-5247",
+   "key": "kazemipoor2013carawayobesitywomen",
+   "type": "article",
+   "title": "Antiobesity effect of caraway extract on overweight and obese women: a randomized, triple-blind, placebo-controlled clinical trial",
+   "authors": "Kazemipoor, M., Radzi, C.W., Hajifaraji, M., Haerian, B.S., Mosaddegh, M.H. and Cordell, G.A.",
+   "journal": "Evidence-based Complementary and Alternative Medicine",
+   "year": "2013",
+   "doi": "10.1155/2013/928582",
+   "url": "",
+   "link": "https://doi.org/10.1155/2013/928582",
+   "link_type": "doi",
+   "citation": "Kazemipoor, M., Radzi, C.W., Hajifaraji, M., Haerian, B.S., Mosaddegh, M.H. and Cordell, G.A (2013) 'Antiobesity effect of caraway extract on overweight and obese women: a randomized, triple-blind, placebo-controlled clinical trial', Evidence-based Complementary and Alternative Medicine, 2013, pp. 928582. doi:10.1155/2013/928582",
+   "abstract": "Caraway (Carum carvi L.), a potent medicinal plant, is traditionally used for treating obesity. This study investigates the weight-lowering effects of caraway extract (CE) on physically active, overweight and obese women through a randomized, triple-blind, placebo-controlled clinical trial. Seventy overweight and obese, healthy, aerobic-trained, adult females were randomly assigned to two groups (n = 35 per group). Participants received either 30 mL/day of CE or placebo without changing their diet or physical activity. Subjects were examined at baseline and after 90 days for changes in body composition, anthropometric indices, and clinical and paraclinical variables. The treatment group, compared with placebo, showed a significant reduction of weight, body mass index, body fat percentage, and waist-to-hip ratio. No changes were observed in lipid profile, urine-specific gravity, and blood pressure of subjects. The results suggest that a dietary CE with no restriction in food intake, when combined with exercise, is of value in the management of obesity in women wishing to lower their weight, BMI, body fat percentage, and body size, with no clinical side effects. In conclusion, results of this study suggest a possible phytotherapeutic approach for caraway extract in the management of obesity. This trial is registered with NCT01833377.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Antiobesity effect of caraway extract on overweight and obese women: a randomized, triple-blind, placebo-controlled clinical trial",
+   "plants": [
+    "Caraway",
+    "meridian fennel",
+    "wild caraway"
+   ],
+   "scientific": [
+    "Carum carvi"
+   ],
+   "actions": [],
+   "conditions": [
+    "Metabolic support"
+   ]
   },
   {
    "ref_id": "REF-5215",

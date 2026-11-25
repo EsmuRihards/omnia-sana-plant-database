@@ -189,6 +189,12 @@ indications:
   reference_ids:
   - REF-3492
   status: verified
+- condition: metabolic-support
+  note: A caraway extract reduced weight, BMI, body fat and waist-to-hip ratio more than placebo over
+    90 days in a triple-blind randomized trial in overweight and obese women who exercised
+  reference_ids:
+  - REF-5247
+  status: verified
 contraindications:
 - note: 'Generally very safe as a food spice (normal culinary amounts).Tea (traditional use): The EU herbal
     monograph describes caraway fruit tea for bloating/flatulence and gives a typical adult infusion dose
@@ -206,6 +212,7 @@ contraindications:
   - REF-0078
   - REF-0126
   - REF-0215
+  - REF-5248
   status: verified
 - note: 'Duke (2002) provides clinical evidence (score 2) for caraway as an appetite stimulant, cough
     suppressant, cholagogue, and bronchitis remedy, consistent with Commission E approvals. It demonstrates
@@ -301,4 +308,23 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   caraway-oil poultice RCT REF-3492 (owner rule; authors note heat may contribute). EU monograph
   REF-0078 removed from the antimicrobial and appetite-stimulant actions (it covers
   bloating/flatulence only). Menthacarin (peppermint + caraway) trials not used (combination).
-  | 2026-11-19 (monograph-source audit): botanical_description and traditional_uses cited only REF-1977 (rat colitis study). RE-SOURCED: Grieve Caraway (REF-4013, new), Useful Temperate Plants REF-3225, EU herbal monograph REF-0078 (indication read from the EMA PDF 2026-11-19). Dropped as unsupported: occasionally annual, carrot-like leaves, pinkish flowers, hollow unspotted stem, June-July of the second year, poor appetite, rye-bread spice.'
+  | 2026-11-19 (monograph-source audit): botanical_description and traditional_uses cited only REF-1977 (rat colitis study). RE-SOURCED: Grieve Caraway (REF-4013, new), Useful Temperate Plants REF-3225, EU herbal monograph REF-0078 (indication read from the EMA PDF 2026-11-19). Dropped as unsupported: occasionally annual, carrot-like leaves, pinkish flowers, hollow unspotted stem, June-July of the second year, poor appetite, rye-bread spice.
+  | 2026-11-25: symptom-source audit research-deepening batch 7 - Searched PubMed (Carum carvi /
+  caraway tiab), Europe PMC, ClinicalTrials.gov (5) and OpenAlex. Most caraway trials test
+  Menthacarin or caraway oil + L-menthol combinations (functional dyspepsia, IBS) and are not used
+  (combinations). Added: NEW metabolic-support pair (Kazemipoor 2013 triple-blind placebo RCT,
+  NCT01833377); its companion safety report (same 70 women, no adverse changes over 12 weeks) to
+  the caution; healthy-volunteer PK study (caraway extract raised rifampicin, isoniazid and
+  pyrazinamide levels) as a DRAFT antibiotics interaction, needs owner sign-off. Not added: Bunium
+  persicum ("black caraway") trials (a different species), Komouni and other Persian formulas,
+  ginger/caraway/peppermint TB trial (caraway arm not reported as effective), computational
+  re-analyses of the obesity trial.'
+drug_class_interactions:
+- drug_class: antibiotics
+  severity: caution
+  mechanism: In 20 healthy volunteers, 100 mg of caraway extract raised blood levels of the tuberculosis
+    antibiotics rifampicin, isoniazid and pyrazinamide by roughly a quarter to a third; anyone on tuberculosis
+    treatment should not add caraway extracts without medical advice.
+  reference_ids:
+  - REF-5249
+  status: draft

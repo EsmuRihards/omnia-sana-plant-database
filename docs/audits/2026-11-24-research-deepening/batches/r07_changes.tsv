@@ -1,0 +1,24 @@
+plant	condition	ref	op
+cannabis_sativa	pain	REF-5231	add
+cannabis_sativa	pain	REF-5232	add
+cannabis_sativa	pain	REF-5233	nulladd
+cannabis_sativa	pain	-	note
+cannabis_sativa	muscle-spasm	REF-5234,REF-5231	newpair
+cannabis_sativa	insomnia	REF-5231,REF-5232	newpair
+cannabis_sativa	anxiety	REF-5235	newpair
+cannabis_sativa	appetite-loss	REF-5236,REF-5231	newpair
+capsicum_annuum	pain	REF-5246	add
+capsicum_annuum	pain	-	note
+capsicum_annuum	metabolic-support	REF-5244	newpair
+capsicum_annuum	metabolic-support	REF-5245	nulladd
+carum_carvi	metabolic-support	REF-5247	newpair
+cannabis_sativa	ciadd	Industrial hemp (low-THC cannabis)	REF-5241,REF-5242,REF-5243
+cannabis_sativa	cinew	Heart and blood vessels: cannabis use wa	REF-5238
+cannabis_sativa	cinew	Mental health: psychotic illness is more	REF-5239
+cannabis_sativa	cinew	Regular (daily to weekly) cannabis use c	REF-5237
+cannabis_sativa	cinew	CBD side effects: in placebo-controlled 	REF-5240
+cannabis_sativa	dcinew	anticoagulants-antiplatelets	REF-5241
+cannabis_sativa	dcinew	immunosuppressants	REF-5241
+cannabis_sativa	dcinew	cyp3a4-substrates	REF-5242,REF-5241
+carum_carvi	ciadd	Generally very safe as a food spice	REF-5248
+carum_carvi	dcinew	antibiotics	REF-5249

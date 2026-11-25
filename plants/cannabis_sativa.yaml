@@ -187,17 +187,51 @@ indications:
   reference_ids:
   - REF-3485
   - REF-3486
+  - REF-5231
+  - REF-5232
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0044
   note: A full-spectrum cannabis extract reduced chronic low back pain in a phase 3 trial, and topical
-    hemp seed oil reduced knee osteoarthritis pain (randomized trials)
+    hemp seed oil reduced knee osteoarthritis pain (randomized trials); meta-analyses found cannabinoid
+    medicines reduce chronic pain modestly, with more side effects, and adding them to opioids did not
+    ease cancer pain
+  null_result_ids:
+  - REF-5233
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0044
+- condition: muscle-spasm
+  note: Nabiximols, a cannabis extract mouth spray containing THC and CBD, reduced multiple sclerosis
+    spasticity resistant to standard treatment in a meta-analysis, and a broader meta-analysis found moderate-quality
+    evidence for cannabinoids in spasticity
+  reference_ids:
+  - REF-5234
+  - REF-5231
+  status: verified
+- condition: insomnia
+  note: Cannabinoid medicines improved sleep in meta-analyses of randomized trials (low-quality evidence;
+    mostly in people with chronic pain)
+  reference_ids:
+  - REF-5231
+  - REF-5232
+  status: verified
+- condition: anxiety
+  note: Cannabidiol (CBD), the non-intoxicating cannabis compound, reduced anxiety in a meta-analysis
+    of small trials in anxiety disorders (compound evidence)
+  reference_ids:
+  - REF-5235
+  status: verified
+- condition: appetite-loss
+  note: Cannabinoids increased appetite in people with cancer in a meta-analysis, though quality of life
+    fell, and were linked to weight gain in HIV infection (low-quality evidence)
+  reference_ids:
+  - REF-5236
+  - REF-5231
+  status: verified
 contraindications:
 - note: Industrial hemp (low-THC cannabis) seed oil and seeds are generally safe as food. CBD products
     derived from hemp may interact with medications metabolised by cytochrome P450 liver enzymes, including
@@ -209,6 +243,9 @@ contraindications:
   - REF-0044
   - REF-0058
   - REF-0213
+  - REF-5241
+  - REF-5242
+  - REF-5243
   status: verified
 - note: Duke (2002) rates cannabis as ++ and notes clinical evidence (score 2) for its antiemetic activity,
     especially relevant for chemotherapy-induced nausea. Score 1 activities include analgesic, anticonvulsant,
@@ -223,6 +260,31 @@ contraindications:
   - REF-0058
   - REF-0213
   - REF-0063
+  status: verified
+- note: 'Heart and blood vessels: cannabis use was linked to a higher risk of major cardiovascular events
+    such as heart attack and stroke in a 2025 meta-analysis of real-world data.'
+  severity: warning
+  reference_ids:
+  - REF-5238
+  status: verified
+- note: 'Mental health: psychotic illness is more common in cannabis users, the risk rises with dose,
+    onset comes earlier, and people with psychosis who use cannabis relapse more often (review of reviews).'
+  severity: warning
+  reference_ids:
+  - REF-5239
+  status: verified
+- note: 'Regular (daily to weekly) cannabis use can cause cannabinoid hyperemesis syndrome: repeated bouts
+    of severe nausea and vomiting that settle when cannabis is stopped (systematic review).'
+  severity: caution
+  reference_ids:
+  - REF-5237
+  status: verified
+- note: 'CBD side effects: in placebo-controlled trials, CBD caused more diarrhoea; in childhood epilepsy
+    trials, where it was often taken with clobazam or valproate, it also raised liver enzymes and caused
+    sleepiness and sedation (meta-analysis).'
+  severity: caution
+  reference_ids:
+  - REF-5240
   status: verified
 references:
 - REF-0758
@@ -261,6 +323,28 @@ drug_class_interactions:
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
+- drug_class: anticoagulants-antiplatelets
+  severity: caution
+  mechanism: Interactions between cannabis or cannabinoids and warfarin are among the most often reported,
+    with bleeding risk among the effects (2024 systematic review of case reports and studies).
+  reference_ids:
+  - REF-5241
+  status: draft
+- drug_class: immunosuppressants
+  severity: caution
+  mechanism: Cannabis and cannabinoids have been reported to change blood levels of the transplant drugs
+    tacrolimus and sirolimus, which have a narrow safe range (2024 systematic review).
+  reference_ids:
+  - REF-5241
+  status: draft
+- drug_class: cyp3a4-substrates
+  severity: caution
+  mechanism: CBD and THC inhibit several drug-metabolising CYP450 enzymes, which can raise levels of medicines
+    cleared by them and increase side effects; clinical data are still limited (2024 systematic reviews).
+  reference_ids:
+  - REF-5242
+  - REF-5241
+  status: draft
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -312,4 +396,23 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   3 RCT REF-3485 (full-spectrum C. sativa extract; chronic low back pain, primary endpoint met) to
   back-pain and pain, and topical hemp-seed-oil knee-OA RCT REF-3486 to arthritis and pain. Not
   used: cannabinoid reviews pooling synthetic THC analogues (compound/drug, not the plant).
-  | 2026-11-19 (monograph-source audit): preparations[1] (''extract standardised to cannabinoid content, used in regulated products; regulatory status varies'') cited only REF-0058 (Dravet CBD RCT), which says nothing about standardisation or regulation. Rewritten to what the trial reports (CBD oral solution 20 mg/kg/day, seizure frequency).'
+  | 2026-11-19 (monograph-source audit): preparations[1] (''extract standardised to cannabinoid content, used in regulated products; regulatory status varies'') cited only REF-0058 (Dravet CBD RCT), which says nothing about standardisation or regulation. Rewritten to what the trial reports (CBD oral solution 20 mg/kg/day, seizure frequency).
+  | 2026-11-25: symptom-source audit research-deepening batch 7 - Searched PubMed (Cannabis sativa
+  / hemp seed / hempseed / hemp oil / hemp extract tiab; cannabis, cannabinoid(s), cannabidiol,
+  nabiximols, medical cannabis ti: 4,605 HT, 1,505 SR, 7,714 SAFE hits; only SR/MA and safety
+  reviews were read in depth), Europe PMC, ClinicalTrials.gov (378) and OpenAlex. Cannabinoid
+  reviews pool plant extracts, nabiximols and THC/CBD medicines; labelled as cannabinoid
+  (signature-compound) evidence. Added: Whiting 2015 JAMA (moderate-quality evidence for chronic
+  pain and spasticity; low-quality for nausea, HIV weight gain, sleep) and the 2023 TSA MA
+  (chronic pain reduced but of questionable importance, harms outweigh benefits; sleep improved)
+  to pain; cancer-pain MA 2020 recorded as no-effect. NEW pairs: muscle-spasm (nabiximols MS
+  spasticity MA 2023), insomnia, anxiety (CBD MA 2024, compound evidence), appetite-loss (cancer
+  cachexia MA 2019). Safety: cardiovascular-risk MA 2025 and psychosis review of reviews (new
+  warnings), cannabinoid hyperemesis SR (new caution), CBD adverse-effects MA (new caution),
+  drug-drug interaction and CYP450 SRs plus birth-outcome SR added to the existing hemp caution;
+  three DRAFT interactions (warfarin, tacrolimus/sirolimus, CYP450), need owner sign-off. NOT
+  ADDED: nausea pair (low-quality evidence for chemo nausea, but regular use itself causes cyclic
+  vomiting - flagged for owner, same rule as tea and insomnia); Cochrane 2018 neuropathic pain
+  (benefit may be outweighed by harms; not a null), nabilone fibromyalgia Cochrane (synthetic
+  analogue), dementia Cochrane, epilepsy MAs (no vocab condition; CBD-clobazam is already in the
+  approved anticonvulsant interaction), cannabis-use-disorder, driving and adolescent literature.'

@@ -204,10 +204,11 @@ indications:
   reference_ids:
   - REF-0010
   - REF-0057
+  - REF-5246
   status: verified
   note: High-concentration capsaicin patches (capsaicin is chili's signature compound) relieved chronic
-    neuropathic pain in some patients; low-concentration capsaicin creams showed no meaningful effect
-    (Cochrane reviews; compound evidence)
+    neuropathic pain in some patients, including HIV-related nerve pain in a 2026 meta-analysis; low-concentration
+    capsaicin creams showed no meaningful effect (Cochrane reviews; compound evidence)
   null_result_ids:
   - REF-3487
 - condition: high-cholesterol
@@ -217,6 +218,15 @@ indications:
   - REF-3490
   - REF-3491
   status: verified
+- condition: metabolic-support
+  note: Capsaicin supplements modestly reduced body weight, BMI and waist size in overweight and obese
+    people in a meta-analysis of trials (compound evidence); a meta-analysis of capsinoids found no overall
+    effect
+  reference_ids:
+  - REF-5244
+  status: verified
+  null_result_ids:
+  - REF-5245
 contraindications:
 - note: Capsaicin causes intense burning sensation; avoid contact with eyes and mucous membranes. High
     oral doses can cause gastrointestinal irritation, nausea, and diarrhoea. Topical preparations may
@@ -320,4 +330,16 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   own note (topical preparations may cause skin irritation; inv. 11). DOIs fixed: REF-0057
   (malformed), REF-0169 (dead; now PMID 10363839). Not used: Cochrane herbal low-back-pain
   plasters (Capsicum frutescens, other species).
-  | 2026-11-19 (monograph-source audit): botanical_description, habitat and traditional_uses cited only REF-2142 (lab study). RE-SOURCED: Wikipedia Capsicum annuum (REF-4021, new) + EU herbal monograph REF-3090 (C. annuum var. minimum; indication read from the PDF 2026-11-19). Grieve''s Capsicum page was NOT used: it describes C. minimum / C. fastigiatum. Dropped as unsupported: glossy oval leaves, 0.5-1.5 m, fibrous roots, semi-woody stem, flowering until frost, central America, full sun and well-drained soil, warming digestive stimulant, capsaicin desensitising pain fibres.'
+  | 2026-11-19 (monograph-source audit): botanical_description, habitat and traditional_uses cited only REF-2142 (lab study). RE-SOURCED: Wikipedia Capsicum annuum (REF-4021, new) + EU herbal monograph REF-3090 (C. annuum var. minimum; indication read from the PDF 2026-11-19). Grieve''s Capsicum page was NOT used: it describes C. minimum / C. fastigiatum. Dropped as unsupported: glossy oval leaves, 0.5-1.5 m, fibrous roots, semi-woody stem, flowering until frost, central America, full sun and well-drained soil, warming digestive stimulant, capsaicin desensitising pain fibres.
+  | 2026-11-25: symptom-source audit research-deepening batch 7 - Searched PubMed (Capsicum annuum
+  tiab; capsaicin, chili, chilli, cayenne, red pepper, capsinoids, capsicum ti: 971 HT, 90 SR,
+  1,017 SAFE hits; SR/MA read in depth), Europe PMC, ClinicalTrials.gov (196) and OpenAlex. Added:
+  2026 MA of 8% capsaicin patches for HIV neuropathy to pain; NEW metabolic-support pair (2023
+  capsaicin weight-loss MA, modest effect) with the 2022 capsinoid MA (no overall effect) recorded
+  as no-effect. Recorded as dead ends (no pair exists; all null): capsaicin glycaemic-control MA
+  2021, red pepper / capsaicin blood-pressure MA 2021, capsaicin vs menthol IBS MA 2024 (capsaicin
+  not significant). NOT ADDED because the record''s own caution says to avoid mucous membranes
+  (inv. 12d): capsaicin for burning mouth syndrome and orofacial pain (2026 SR and MA), intranasal
+  capsaicin for non-allergic rhinitis (also a near-miss for allergy). Also not added: topical
+  capsaicin for cannabinoid hyperemesis (single-arm and retrospective data), oropharyngeal
+  dysphagia (no vocab condition), observational mortality and cancer-risk MAs.'

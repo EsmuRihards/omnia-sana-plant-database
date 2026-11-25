@@ -12389,14 +12389,19 @@
      "condition": "pain",
      "reference_ids": [
       "REF-3485",
-      "REF-3486"
+      "REF-3486",
+      "REF-5231",
+      "REF-5232"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0044"
      ],
-     "note": "A full-spectrum cannabis extract reduced chronic low back pain in a phase 3 trial, and topical hemp seed oil reduced knee osteoarthritis pain (randomized trials)",
-     "evidence": 6,
+     "note": "A full-spectrum cannabis extract reduced chronic low back pain in a phase 3 trial, and topical hemp seed oil reduced knee osteoarthritis pain (randomized trials); meta-analyses found cannabinoid medicines reduce chronic pain modestly, with more side effects, and adding them to opioids did not ease cancer pain",
+     "null_result_ids": [
+      "REF-5233"
+     ],
+     "evidence": 9,
      "label": "Pain (general)"
     },
     {
@@ -12409,6 +12414,49 @@
      ],
      "evidence": 1,
      "label": "Skin irritation"
+    },
+    {
+     "condition": "muscle-spasm",
+     "note": "Nabiximols, a cannabis extract mouth spray containing THC and CBD, reduced multiple sclerosis spasticity resistant to standard treatment in a meta-analysis, and a broader meta-analysis found moderate-quality evidence for cannabinoids in spasticity",
+     "reference_ids": [
+      "REF-5234",
+      "REF-5231"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "Muscle spasm"
+    },
+    {
+     "condition": "insomnia",
+     "note": "Cannabinoid medicines improved sleep in meta-analyses of randomized trials (low-quality evidence; mostly in people with chronic pain)",
+     "reference_ids": [
+      "REF-5231",
+      "REF-5232"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "Insomnia / sleeplessness"
+    },
+    {
+     "condition": "anxiety",
+     "note": "Cannabidiol (CBD), the non-intoxicating cannabis compound, reduced anxiety in a meta-analysis of small trials in anxiety disorders (compound evidence)",
+     "reference_ids": [
+      "REF-5235"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Anxiety"
+    },
+    {
+     "condition": "appetite-loss",
+     "note": "Cannabinoids increased appetite in people with cancer in a meta-analysis, though quality of life fell, and were linked to weight gain in HIV infection (low-quality evidence)",
+     "reference_ids": [
+      "REF-5236",
+      "REF-5231"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "Loss of appetite"
     }
    ],
    "contraindications": [
@@ -12418,7 +12466,10 @@
      "reference_ids": [
       "REF-0044",
       "REF-0058",
-      "REF-0213"
+      "REF-0213",
+      "REF-5241",
+      "REF-5242",
+      "REF-5243"
      ],
      "status": "verified"
     },
@@ -12430,6 +12481,38 @@
       "REF-0058",
       "REF-0213",
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Heart and blood vessels: cannabis use was linked to a higher risk of major cardiovascular events such as heart attack and stroke in a 2025 meta-analysis of real-world data.",
+     "severity": "warning",
+     "reference_ids": [
+      "REF-5238"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Mental health: psychotic illness is more common in cannabis users, the risk rises with dose, onset comes earlier, and people with psychosis who use cannabis relapse more often (review of reviews).",
+     "severity": "warning",
+     "reference_ids": [
+      "REF-5239"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Regular (daily to weekly) cannabis use can cause cannabinoid hyperemesis syndrome: repeated bouts of severe nausea and vomiting that settle when cannabis is stopped (systematic review).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5237"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "CBD side effects: in placebo-controlled trials, CBD caused more diarrhoea; in childhood epilepsy trials, where it was often taken with clobazam or valproate, it also raised liver enzymes and caused sleepiness and sedation (meta-analysis).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5240"
      ],
      "status": "verified"
     }
@@ -13015,14 +13098,15 @@
      "condition": "pain",
      "reference_ids": [
       "REF-0010",
-      "REF-0057"
+      "REF-0057",
+      "REF-5246"
      ],
      "status": "verified",
-     "note": "High-concentration capsaicin patches (capsaicin is chili's signature compound) relieved chronic neuropathic pain in some patients; low-concentration capsaicin creams showed no meaningful effect (Cochrane reviews; compound evidence)",
+     "note": "High-concentration capsaicin patches (capsaicin is chili's signature compound) relieved chronic neuropathic pain in some patients, including HIV-related nerve pain in a 2026 meta-analysis; low-concentration capsaicin creams showed no meaningful effect (Cochrane reviews; compound evidence)",
      "null_result_ids": [
       "REF-3487"
      ],
-     "evidence": 7,
+     "evidence": 8,
      "label": "Pain (general)"
     },
     {
@@ -13035,6 +13119,19 @@
      "status": "verified",
      "evidence": 8,
      "label": "High cholesterol"
+    },
+    {
+     "condition": "metabolic-support",
+     "note": "Capsaicin supplements modestly reduced body weight, BMI and waist size in overweight and obese people in a meta-analysis of trials (compound evidence); a meta-analysis of capsinoids found no overall effect",
+     "reference_ids": [
+      "REF-5244"
+     ],
+     "status": "verified",
+     "null_result_ids": [
+      "REF-5245"
+     ],
+     "evidence": 7,
+     "label": "Metabolic support"
     }
    ],
    "contraindications": [
@@ -13331,6 +13428,16 @@
      "status": "verified",
      "evidence": 5,
      "label": "Irritable bowel syndrome (IBS)"
+    },
+    {
+     "condition": "metabolic-support",
+     "note": "A caraway extract reduced weight, BMI, body fat and waist-to-hip ratio more than placebo over 90 days in a triple-blind randomized trial in overweight and obese women who exercised",
+     "reference_ids": [
+      "REF-5247"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Metabolic support"
     }
    ],
    "contraindications": [
@@ -13340,7 +13447,8 @@
      "reference_ids": [
       "REF-0078",
       "REF-0126",
-      "REF-0215"
+      "REF-0215",
+      "REF-5248"
      ],
      "status": "verified"
     },
@@ -13403,6 +13511,7 @@
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-08-15",
+   "drug_class_interactions": [],
    "common_slug": "caraway"
   },
   {

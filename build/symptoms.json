@@ -3809,6 +3809,16 @@
      ]
     },
     {
+     "condition": "metabolic-support",
+     "label": "Metabolic support",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5247"
+     ]
+    },
+    {
      "condition": "cancer",
      "label": "Cancer (anticancer research)",
      "evidence": 2,
@@ -4714,6 +4724,18 @@
      ]
     },
     {
+     "condition": "pain",
+     "label": "Pain (general)",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0010",
+      "REF-0057",
+      "REF-5246"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 7,
@@ -4724,14 +4746,13 @@
      ]
     },
     {
-     "condition": "pain",
-     "label": "Pain (general)",
+     "condition": "metabolic-support",
+     "label": "Metabolic support",
      "evidence": 7,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0010",
-      "REF-0057"
+      "REF-5244"
      ]
     },
     {
@@ -8967,12 +8988,57 @@
     {
      "condition": "pain",
      "label": "Pain (general)",
-     "evidence": 6,
+     "evidence": 9,
      "status": "needs-review",
      "inferred": true,
      "references": [
       "REF-3485",
-      "REF-3486"
+      "REF-3486",
+      "REF-5231",
+      "REF-5232"
+     ]
+    },
+    {
+     "condition": "insomnia",
+     "label": "Insomnia / sleeplessness",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5231",
+      "REF-5232"
+     ]
+    },
+    {
+     "condition": "appetite-loss",
+     "label": "Loss of appetite",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5236",
+      "REF-5231"
+     ]
+    },
+    {
+     "condition": "muscle-spasm",
+     "label": "Muscle spasm",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5234",
+      "REF-5231"
+     ]
+    },
+    {
+     "condition": "anxiety",
+     "label": "Anxiety",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5235"
      ]
     },
     {

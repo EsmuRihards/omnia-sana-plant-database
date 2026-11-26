@@ -8164,6 +8164,39 @@
      ]
     },
     {
+     "condition": "blood-sugar",
+     "label": "Blood sugar / diabetes support",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5379",
+      "REF-5380"
+     ]
+    },
+    {
+     "condition": "low-libido",
+     "label": "Low libido",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5375",
+      "REF-5376"
+     ]
+    },
+    {
+     "condition": "cardiovascular-support",
+     "label": "Cardiovascular / heart health",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3989",
+      "REF-5382"
+     ]
+    },
+    {
      "condition": "inflammation",
      "label": "Inflammation (general)",
      "evidence": 7,
@@ -8184,13 +8217,13 @@
      ]
     },
     {
-     "condition": "cardiovascular-support",
-     "label": "Cardiovascular / heart health",
-     "evidence": 1,
+     "condition": "pms",
+     "label": "PMS / premenstrual syndrome",
+     "evidence": 5,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-3989"
+      "REF-5374"
      ]
     }
    ]
@@ -10571,6 +10604,17 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "oral-health",
+     "label": "Oral & throat health",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3571",
+      "REF-5383"
+     ]
+    },
+    {
      "condition": "sore-throat",
      "label": "Sore throat",
      "evidence": 8,
@@ -10580,16 +10624,6 @@
       "REF-3569",
       "REF-3570",
       "REF-0308"
-     ]
-    },
-    {
-     "condition": "oral-health",
-     "label": "Oral & throat health",
-     "evidence": 7,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-3571"
      ]
     },
     {
@@ -10613,6 +10647,27 @@
       "REF-0308",
       "REF-3081",
       "REF-3573"
+     ]
+    },
+    {
+     "condition": "infection",
+     "label": "Infection (general)",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-4305",
+      "REF-5385"
+     ]
+    },
+    {
+     "condition": "depression",
+     "label": "Low mood / depression",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5384"
      ]
     },
     {
@@ -10664,16 +10719,6 @@
      "references": [
       "REF-0308",
       "REF-3081"
-     ]
-    },
-    {
-     "condition": "infection",
-     "label": "Infection (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-4305"
      ]
     },
     {

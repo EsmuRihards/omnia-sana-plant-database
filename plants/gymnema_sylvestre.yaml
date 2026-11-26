@@ -167,6 +167,13 @@ contraindications:
   - REF-2465
   - REF-2466
   - REF-2468
+  - REF-5390
+  status: verified
+- note: 'Liver: a patient taking gymnema for type 2 diabetes developed drug-induced (toxic) hepatitis
+    (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5389
   status: verified
 drug_class_interactions:
 - drug_class: antidiabetics
@@ -242,4 +249,13 @@ internal_notes: '2026-07-03: new record created for the safety-data campaign (gy
   | 2026-11-12: symptom-source audit deep re-sweep batch 8 - Deep re-sweep. Notes rewritten to the
   held MAs (REF-2540, REF-2541); REF-2541 wired to metabolic-support and REF-2540 to
   high-cholesterol. REF-3060 (Leach 2007 SR) abstract states no conclusion - kept as is.
-  | 2026-11-19 (monograph-source audit): preparations[0] and dosage[0] checked against REF-2465 (GS4 400 mg/day for 18-20 months, 22 patients). Dropped as unsupported: standardised to gymnemic acid, capsules, the form used in most studies, 400-800 mg in divided doses.'
+  | 2026-11-19 (monograph-source audit): preparations[0] and dosage[0] checked against REF-2465 (GS4 400 mg/day for 18-20 months, 22 patients). Dropped as unsupported: standardised to gymnemic acid, capsules, the form used in most studies, 400-800 mg in divided doses.
+  | 2026-11-26: symptom-source audit research-deepening batch 15 - Searched PubMed (Gymnema
+  sylvestre / gymnema / gurmar tiab, gymnemic acid ti: 40 HT, 13 SR, 75 SAFE hits), Europe PMC,
+  ClinicalTrials.gov (18) and OpenAlex. Blood sugar (10), metabolic support and cholesterol (9)
+  were not padded (2017 and 2021 RCTs in metabolic syndrome and T2DM logged here). Added: 2010
+  toxic hepatitis case as a liver caution; the 2018 EFSA/EU-FORA risk assessment (limited evidence
+  of adverse effects; may enhance antidiabetic drugs) to the hypoglycaemia caution. Not added:
+  sweet-taste and sugar-craving trials (no vocab condition), combinations (myo-inositol, Zea mays,
+  Hyponidd and other Ayurvedic mixtures, including an interstitial nephritis case), homeopathic
+  add-on trial, a 2026 hypersensitivity case (no abstract), other Gymnema species.'

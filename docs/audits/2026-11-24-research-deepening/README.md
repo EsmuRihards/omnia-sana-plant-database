@@ -56,3 +56,4 @@ rebased onto `osdb/main` before each push, because another session edits the mai
 | 12 | couch grass, small-flowered willowherb, field, shady and wood horsetail | REF-5342..5345 (4) | 1,455 -> 1,455 | `batches/r12_report.md` |
 | 13 | California poppy, eucalyptus, eyebright, meadowsweet, dropwort | REF-5346..5355 (10) | 1,455 -> 1,459 | `batches/r13_report.md` |
 | 14 | fennel, birch polypore, white bedstraw, cleavers, lingzhi | REF-5356..5373 (18) | 1,459 -> 1,463 | `batches/r14_report.md` |
+| 15 | gentian, water avens, ginkgo, licorice, gymnema | REF-5374..5390 (17) | 1,463 -> 1,467 | `batches/r15_report.md` |

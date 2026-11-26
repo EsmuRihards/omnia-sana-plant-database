@@ -1,0 +1,44 @@
+   gentiana-lutea HT 10
+   gentiana-lutea SR 1
+   gentiana-lutea SAFE 25
+   gentiana-lutea OBS 0
+   gentiana-lutea REV 7
+gentiana-lutea done
+   geum-rivale HT 0
+   geum-rivale SR 0
+   geum-rivale SAFE 0
+   geum-rivale OBS 0
+   geum-rivale REV 0
+geum-rivale done
+   ginkgo-biloba HT 872
+   ginkgo-biloba SR 284
+   ginkgo-biloba SAFE 1094
+   ginkgo-biloba OBS 113
+   ginkgo-biloba REV 694
+ginkgo-biloba done
+   glycyrrhiza-glabra HT 470
+   glycyrrhiza-glabra SR 98
+   glycyrrhiza-glabra SAFE 1720
+   glycyrrhiza-glabra OBS 44
+   glycyrrhiza-glabra REV 564
+glycyrrhiza-glabra done
+   gymnema-sylvestre HT 40
+   gymnema-sylvestre SR 13
+   gymnema-sylvestre SAFE 75
+   gymnema-sylvestre OBS 3
+   gymnema-sylvestre REV 52
+gymnema-sylvestre done
+
+PUBMED-DONE
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Gentiana+lutea%22+AND+%28TITLE%3Arandomized+OR+TITLE%3A <urlopen error [Errno 11004] getaddrinfo failed>
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Gentiana+lutea%22+AND+%28TITLE%3Arandomized+OR+TITLE%3A <urlopen error [Errno 11001] getaddrinfo failed>
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Gentiana+lutea%22+AND+%28TITLE%3Arandomized+OR+TITLE%3A <urlopen error [Errno 11001] getaddrinfo failed>
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Gentiana+lutea%22+AND+%28TITLE%3Arandomized+OR+TITLE%3A <urlopen error [Errno 11001] getaddrinfo failed>
+gentiana-lutea done
+geum-rivale done
+ginkgo-biloba done
+glycyrrhiza-glabra done
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Gymnema+sylvestre%22+AND+%28TITLE%3Arandomized+OR+TITLE The read operation timed out
+gymnema-sylvestre done
+# Research-deepening batch 15 - Europe PMC
+SEARCH-DONE

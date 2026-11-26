@@ -27318,14 +27318,15 @@
     {
      "condition": "cardiovascular-support",
      "reference_ids": [
-      "REF-3989"
+      "REF-3989",
+      "REF-5382"
      ],
      "status": "verified",
      "null_result_ids": [
       "REF-3564"
      ],
-     "note": "Used for peripheral arterial disease (intermittent claudication) (WHO monograph); a Cochrane review found no clinically significant benefit",
-     "evidence": 1,
+     "note": "A 2026 meta-analysis of 14 placebo-controlled trials found a modest improvement in walking distance in peripheral arterial disease (intermittent claudication), clearer after 24 weeks, though an earlier Cochrane review found no clinically significant benefit; used for intermittent claudication (WHO monograph)",
+     "evidence": 7,
      "label": "Cardiovascular / heart health"
     },
     {
@@ -27397,6 +27398,42 @@
      "status": "verified",
      "evidence": 7,
      "label": "Low mood / depression"
+    },
+    {
+     "condition": "pms",
+     "note": "Ginkgo extract reduced the overall severity of premenstrual syndrome symptoms more than placebo in a randomized trial",
+     "reference_ids": [
+      "REF-5374"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "PMS / premenstrual syndrome"
+    },
+    {
+     "condition": "low-libido",
+     "note": "Ginkgo extract improved sexual desire more than placebo in postmenopausal women in a triple-blind randomized trial, and a 2021 systematic review found benefit in postmenopausal women but not for sexual problems caused by antidepressants, where placebo-controlled trials found no difference",
+     "reference_ids": [
+      "REF-5375",
+      "REF-5376"
+     ],
+     "status": "verified",
+     "null_result_ids": [
+      "REF-5377",
+      "REF-5378"
+     ],
+     "evidence": 8,
+     "label": "Low libido"
+    },
+    {
+     "condition": "blood-sugar",
+     "note": "Ginkgo extract lowered HbA1c in a 2020 meta-analysis of trials in type 2 diabetes, though the authors judged the evidence too limited to be sure, and added to metformin it lowered HbA1c and fasting glucose in a placebo-controlled randomized trial",
+     "reference_ids": [
+      "REF-5379",
+      "REF-5380"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "Blood sugar / diabetes support"
     }
    ],
    "contraindications": [
@@ -27418,6 +27455,14 @@
       "REF-0128",
       "REF-0308",
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Bleeding: a 2011 meta-analysis of placebo-controlled trials found that standardized ginkgo extract did not change blood-clotting measures in a way that would raise bleeding risk, although case reports link ginkgo to bleeding, so the blood-thinner interaction still applies.",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5381"
      ],
      "status": "verified"
     }
@@ -27821,16 +27866,17 @@
     },
     {
      "condition": "infection",
-     "note": "Traditional antiviral use, and pharmacopoeias list it for tuberculosis (WHO monograph)",
+     "note": "Adding licorice to standard antibiotic treatment raised Helicobacter pylori eradication (83% vs 63%) in a randomized trial; traditional antiviral use, and pharmacopoeias list it for tuberculosis (WHO monograph)",
      "reference_ids": [
-      "REF-4305"
+      "REF-4305",
+      "REF-5385"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0012",
       "REF-0089"
      ],
-     "evidence": 1,
+     "evidence": 5,
      "label": "Infection (general)"
     },
     {
@@ -27889,12 +27935,13 @@
     },
     {
      "condition": "oral-health",
-     "note": "Topical licorice (paste, patch or mouthwash) helped recurrent mouth ulcers heal in clinical trials (systematic review)",
+     "note": "Topical licorice (paste, patch or mouthwash) helped recurrent mouth ulcers heal in clinical trials (systematic review), and a licorice gargle relieved mouth-ulcer pain more than placebo within a day in a randomized double-blind trial",
      "reference_ids": [
-      "REF-3571"
+      "REF-3571",
+      "REF-5383"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 8,
      "label": "Oral & throat health"
     },
     {
@@ -27906,6 +27953,16 @@
      "status": "verified",
      "evidence": 5,
      "label": "Wounds"
+    },
+    {
+     "condition": "depression",
+     "note": "Glycyrrhizic acid, licorice's signature compound, added to SSRI antidepressants relieved depression more than placebo, with higher response and remission rates, in a randomized trial (compound evidence)",
+     "reference_ids": [
+      "REF-5384"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Low mood / depression"
     }
    ],
    "contraindications": [
@@ -27917,7 +27974,10 @@
       "REF-3649",
       "REF-3650",
       "REF-0308",
-      "REF-0012"
+      "REF-0012",
+      "REF-5386",
+      "REF-5387",
+      "REF-5388"
      ],
      "status": "verified"
     },
@@ -28225,7 +28285,16 @@
      "reference_ids": [
       "REF-2465",
       "REF-2466",
-      "REF-2468"
+      "REF-2468",
+      "REF-5390"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Liver: a patient taking gymnema for type 2 diabetes developed drug-induced (toxic) hepatitis (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5389"
      ],
      "status": "verified"
     }

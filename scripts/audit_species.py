@@ -60,6 +60,7 @@ STOP_EPITHETS = {
     "related", "emodin", "aloin",  # compounds that begin with a genus-like token
     "group", "groups",  # trial prose: "Echinacea groups compared with any control"
     "than", "aromatherapy",  # "lower in the group inhaling eucalyptus than ...", "Eucalyptus aromatherapy"
+    "exposure",  # "high Glycyrrhiza exposure (>= 500 mg/week)"
 }
 
 

@@ -1,0 +1,1630 @@
+# Research-deepening batch 15 - search
+
+## gentiana-lutea (Gentiana lutea) - name clause: "Gentiana lutea"[tiab] OR "yellow gentian"[tiab] OR "gentian root"[tiab]
+
+### PubMed HT - 10 hits, 10 not already listed above, 9 new
+- new | 2023 | 37365865 |  | In vitro, ex vivo and clinical approaches to evaluate the potential effect of Gentiana lutea extract on skin. | Int J Cosmet Sci
+- new | 2019 | 30690691 | Randomized Controlled Trial | Anti-Inflammatory Effect of a Novel Topical Herbal Composition (VEL-091604) Consisting of Gentian Root, Licorice Root and Willow Bark Extract. | Planta Med
+- new | 2017 | 28829355 |  | The Herbal Bitter Drug Gentiana lutea Modulates Lipid Synthesis in Human Keratinocytes In Vitro and In Vivo. | Int J Mol Sci
+- new | 2016 | 27829482 |  | Microencapsulated bitter compounds (from Gentiana lutea) reduce daily energy intakes in humans. | Br J Nutr
+- new | 2015 | 25324460 |  | Tolerability of the combination of ginger (Zingiber officinalis), gentian (Gentiana lutea) and turmeric (Curcuma longa) in patients with cancer-associated anorexia. | J Complement Integr Med
+- new | 2014 | 24802704 |  | Bitter tastants alter gastric-phase postprandial haemodynamics. | J Ethnopharmacol
+- new | 2011 | 21858267 | Research Support, Non-U.S. Gov't | The effect of a herbal combination of primrose, gentian root, vervain, elder flowers, and sorrel on olfactory function in patients with a sinonasal olfactory dysfunction. | Rhinology
+- HELD REF-2602 | 2010 | 20170391 |  | Low-dose exposure to Veratrum album in children causes mild effects--a case series. | Clin Toxicol (Phila)
+- new | 2010 | 21031630 | Research Support, Non-U.S. Gov't | Radioprotective activity of Gentiana lutea extract and mangiferin. | Phytother Res
+- new | 1994 | 23195935 |  | Placebo-controlled, randomized double-blind clinical trial with Sinupret® sugar coated tablets on the basis of a therapy with antibiotics and decongestant nasal drops in acute sinu | Phytomedicine
+
+### PubMed SR - 1 hits, 1 not already listed above, 0 new
+- HELD REF-1647 | 2023 | 36423749 | Systematic Review | The healing bitterness of Gentiana lutea L., phytochemistry and biological activities: A systematic review. | Phytochemistry
+
+### PubMed SAFE - 25 hits, 22 not already listed above, 18 new
+- new | 2026 | 41580168 |  | Safety and anti-inflammatory activity of Gentiana lutea L. in human bronchial epithelial cell cultures. | J Ethnopharmacol
+- new | 2026 | 40900241 | Case Reports | Gentian root bitters for the rapid suppression of post-propofol singultus: a case report. | Wien Klin Wochenschr
+- new | 2026 | 41825728 |  | Anti-inflammatory and pain-relieving effects of Gentiana lutea leaf and Gentianella crispata aerial part extracts in adjuvant-induced arthritis in rats. | J Ethnopharmacol
+- new | 2025 | 41278285 |  | Expert-guided approaches to complementary interventions for common side effects of cancer therapies: a practice-based perspective from integrative oncology centers in Baden-Württem | Front Oncol
+- new | 2025 | 40873451 |  | The protective effect of Gentiana lutea flower against mycotoxin toxicity in a gastrointestinal barrier in vitro model. | Front Nutr
+- new | 2025 | 41491976 |  | Gentiana lutea root aqueous extract mitigates hydroxyurea-induced genotoxicity through antioxidative action and DNA repair: an in vitro study in healthy human peripheral blood mono | Arh Hig Rada Toksikol
+- new | 2024 | 37632552 | Research Support, Non-U.S. Gov't/Review | Regulatory mechanisms of Gentiopicroside on human diseases: a brief review. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2023 | 36846385 |  | Safety of a feed additive consisting of a tincture derived from the roots of Gentiana lutea L. (gentian tincture) for all animal species (FEFANA asbl). | EFSA J
+- new | 2023 | 35253882 | Research Support, Non-U.S. Gov't | The role of Gentiana lutea extracts in reducing UV-induced DNA damage. | Mutagenesis
+- SEEN | 2022 | 35605329 |  | Gurgem-7 toxicity assessment: Regulation of cell survival or death by traditional Mongolian prescription. | Ecotoxicol Environ Saf
+- new | 2021 | 33897869 |  | Safety and efficacy of a feed additive consisting of a tincture derived from roots of Gentiana lutea L. (gentian tincture) for use in all animal species (FEFANA asbl). | EFSA J
+- new | 2020 | 33410776 |  | Yellow gentian root extract provokes concentration- and time-dependent response in peripheral blood mononuclear cells. | Arh Hig Rada Toksikol
+- new | 2017 | 28960556 |  | Incidence of Pyrrolizidine Alkaloids in Herbal Medicines from German Retail Markets: Risk Assessments and Implications to Consumers. | Phytother Res
+- new | 2015 | 26520376 | Research Support, Non-U.S. Gov't | The micronucleus assay in mammalian cells in vitro to assess health benefits of various phytochemicals. | Mutat Res Genet Toxicol Environ Mutagen
+- new | 2015 | 26580586 | Research Support, Non-U.S. Gov't | Nonprenylated Xanthones from Gentiana lutea, Frasera caroliniensis, and Centaurium erythraea as Novel Inhibitors of Vascular Smooth Muscle Cell Proliferation. | Molecules
+- new | 2015 | 25454388 | Research Support, Non-U.S. Gov't | Influence of soil composition on the major, minor and trace metal content of Velebit biomedical plants. | J Pharm Biomed Anal
+- new | 2013 | 23384783 | Research Support, Non-U.S. Gov't | Synergistic effect of Gentiana lutea L. on methyl methanesulfonate genotoxicity in the Drosophila wing spot test. | J Ethnopharmacol
+- HELD REF-4201 | 2010 | 21171854 | Case Reports | Accidental poisoning with Veratrum album mistaken for wild garlic (Allium ursinum). | Clin Toxicol (Phila)
+- HELD REF-2601 | 2008 | 19021933 | Case Reports | Accidental intoxication with Veratrum album. | J Anal Toxicol
+- new | 2005 | 15773425 | Case Reports | Dietary poisoning with Veratrum album--a report of two cases. | Wien Klin Wochenschr
+- new | 1996 | 9045097 | Case Reports | [A case of Veratrum poisoning]. | Minerva Anestesiol [ita]
+- HELD REF-2599 | 1985 | 4073696 | Case Reports | [Acute dietary poisoning by white hellebore (Veratrum album L.). Clinical and analytical data. A propos of 5 cases]. | Ann Med Interne (Paris) [fre]
+
+### PubMed OBS - 0 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 7 hits, 6 not already listed above, 4 new
+- HELD REF-1650 | 2021 | 32469702 | Research Support, Non-U.S. Gov't/Review | Effects of Gentiana lutea Root on Vascular Diseases. | Curr Vasc Pharmacol
+- new | 2020 | 32064656 | Review | Progress and prospects in the management of bacterial infections and developments in Phytotherapeutic modalities. | Clin Exp Pharmacol Physiol
+- HELD REF-1649 | 2019 | 31538881 | Research Support, Non-U.S. Gov't/Review | Potential of Gentiana lutea for the Treatment of Obesity-associated Diseases. | Curr Pharm Des
+- new | 2018 | 29674964 | Review | Botanical Provenance of Traditional Medicines From Carpathian Mountains at the Ukrainian-Polish Border. | Front Pharmacol
+- new | 2017 | 27342232 | Review | Research Progress of Natural Product Gentiopicroside - a Secoiridoid Compound. | Mini Rev Med Chem
+- new | 2015 | 26074998 | Review | Bitters: Time for a New Paradigm. | Evid Based Complement Alternat Med
+
+### ClinicalTrials.gov - 2 registered studies
+- NCT04054284 | COMPLETED | results=False | NA | Safety and Efficacy of Herbal Tea in Type 2 Diabetics | conds: Type 2 Diabetes, Herbal Medicine Adverse Reaction | intr: Antidiabetic Herbal Tea, Herbal Tea
+- NCT01851304 | COMPLETED | results=False | NA | Metabolic Effect of New Foods Through Gut-brain Axis | conds: Obesity, Overweight | intr: Satiety of breads, Satiety of puddings
+
+### OpenAlex no-PMID trial-worded - 237 hits, 48 without PMID, 48 new
+- new | 2026 | https://openalex.org/W7225445364 | dissertation | Les médecines intégratives à l’officine comme soins de support chez les patients atteints de cancer du sein | HAL
+- new | 2026 | 10.5281/zenodo.20443453 | article | Phyto-Therapeutic Strategies in The Management of Anorexia: An Evidence-Based Review | Zenodo (CERN European Organization for N
+- new | 2026 | 10.1016/j.prmcm.2026.100846 | article | From Qi to synapse: A systems-based review of Traditional Chinese Medicine in the treatment of major depressive disorder | Pharmacological Research - Modern Chines
+- new | 2025 | 10.63673/sjs.1811015 | article | Enhancing Knowledge of Local Medicinal Flora as a Tool for Promoting Human Health | Selcuk Journal of Science
+- new | 2025 | https://openalex.org/W7111846735 | dissertation | Regulering van GDF15-expressie en het lot van stamcellen door bittere verbindingen in menselijke darm-epitheelcellen | Lirias
+- new | 2025 | 10.48048/tis.2025.9114 | article | Standardisation of Vitexin and Isovitexin in Ficus deltoidea var. Kunstleri (FDK) Extract and Anti-Hyperlipidaemic Properties of FDK Hydrogel in High Cholesterol Diet-Induced Early | Trends in Sciences
+- new | 2024 | 10.1016/j.hermed.2024.100946 | article | Double-Blind, Randomised, Placebo-Controlled Study Evaluating the Efficacy of an Early Treatment Using Herbal Supplement in the Prevention of Post-traumatic Stress Disorder in the  | Journal of Herbal Medicine
+- new | 2024 | 10.3390/cosmetics11040132 | article | Holobiont Rebalancing by a Natural Gentian Extract on a Skin Dehydration Model | Cosmetics
+- new | 2023 | 10.1055/s-0043-1774166 | article | Mode of action of an herbal mixture preparation for improving gastric accommodation in functional dyspepsia patients | Planta Medica
+- new | 2023 | 10.37219/2528-8253-2023-3-48 | article | APPLICATION OF SINUVIT IN THE COMPLEX TREATMENT OF PATIENTS WITH ACUTE RHINOSINUSITIS | OTORHINOLARYNGOLOGY
+- new | 2023 | 10.51699/cajmns.v4i4.1676 | article | Clinical and Diagnostic Significance of Signs of Systemic Inflammatory Response Syndrome and Cytokine Levels in Patients with Purulent Rhinosinusitis | CENTRAL ASIAN JOURNAL OF MEDICAL AND NAT
+- new | 2023 | 10.21802/artm.2023.2.26.51 | article | THE INFLUENCE OF MEDICINAL AND AROMATIC PLANTS EXTRACTS ON THE ANTIFUNGAL EFFECT OF FLUCONAZOLE REGARDING C. ALBICANS AND C. TROPICALIS ISOLATED FROM PATIENTS WITH DENTURE STOMATIT | Art of Medicine
+- new | 2022 | 10.1101/2022.01.12.22268879 | preprint | Double-blind, Randomized, Placebo-Controlled study to evaluate the Efficacy of an early treatment with Herbal Supplement based in the Prevention of Post-Traumatic Stress Disorder i | medRxiv
+- new | 2022 | 10.1055/s-0042-1759299 | article | Mechanisms of action of a multi-component herbal preparation in inflammatory bowel disease: anti-inflammatory activity | Planta Medica
+- new | 2022 | 10.1055/s-0042-1759298 | article | Target identification of a multi-component herbal preparation in gastrointestinal dysmotility disorders | Planta Medica
+- new | 2022 | 10.56025/ijaresm.2022.1011221009 | article | A Systemic Review on Homoeopathic Management of Acute Infective Diarrhea | International Journal of All Research Ed
+- new | 2022 | 10.18063/ghl.v4i1.280 | article | Liver Diseases and Adverse Reactions Induced by Medicinal Herbs and Herb-Drug Interactions | Gastroenterology & Hepatology Letters
+- new | 2022 | 10.1071/bt21146 | article | How important is fire-induced disturbance in the maintenance of a threatened perennial forb, Solanum papaverifolium? | Australian Journal of Botany
+- new | 2021 | 10.7324/japs.2021.110703 | review | A systematic review of randomized controlled trials assessing phytochemicals and natural ingredients for skin and hair care | Journal of Applied Pharmaceutical Scienc
+- new | 2021 | 10.1055/s-0041-1736828 | conference-paper | A multicomponent herbal extract to treat subclinical ketosis of dairy cows | Planta Medica
+- new | 2021 | 10.1055/s-0041-1736920 | conference-paper | Carmelite spirit for the treatment of stress-related gastrointestinal symptoms | Planta Medica
+- new | 2021 | 10.21518/2079-701x-2021-6-12-19 | article | Rhinitis, rhinosinusutus and phytotherapy | Meditsinskiy sovet = Medical Council
+- new | 2020 | 10.1007/978-3-030-16807-0_102 | book-chapter | Gentiana lutea L. (Gentianaceae) | Springer eBooks
+- new | 2020 | 10.46624/ajphr.2020.v8.i9.005 | article | Management of Obesity through Luk Maghsul,Ajwain Desi and Zeera Siyah: A Randomized Trial | American Journal Of Pharmacy And Health 
+- new | 2020 | 10.1016/j.jff.2020.104063 | article | Melanoidins from coffee and bread differently influence energy intake: A randomized controlled trial of food intake and gut-brain axis response | Journal of Functional Foods
+- new | 2020 | 10.21518/2079-701x-2020-6-7-13 | article | Rational approach to the treatment of acute rhinosinusitis in comorbides with dysosmia | Meditsinskiy sovet = Medical Council
+- new | 2020 | 10.24959/cphj.20.1526 | article | Phytoneering medicines in the treatment of acute rhinosinusitis: an emphasis on effectiveness and safety of application | Clinical pharmacy
+- new | 2019 | 10.1016/j.indcrop.2019.02.027 | article | Yield, quality and safety of yellow gentian roots produced under dry-farming conditions in various single basal fertilization and planting density models | Industrial Crops and Products
+- new | 2019 | 10.1055/s-0039-3400405 | conference-paper | New advances for an improved content of Sweroside and Swertiamarin in cultivated Gentiana lutea L. var. aurantiaca roots | Planta Medica
+- new | 2017 | 10.17707/agricultforest.63.1.19 | article | MORPHO - PHYSIOLOGICAL CHARACTERISTICS OF GENTIAN (Gentiana lutea L.) GENOTYPE SEEDLINGS FROM NATURAL POPULATIONS IN MONTENEGRO | The Journal Agriculture and Forestry
+- new | 2017 | https://openalex.org/W2910088132 | dissertation | Soins de support en phytothérapie et en micro nutrition utilisés pour pallier aux effets secondaires de l’hormonothérapie suite à un cancer du sein hormono-dépendant : synthèse des | HAL
+- new | 2017 | 10.1186/s12906-017-1783-3 | article | World Congress Integrative Medicine & Health 2017: part two | BMC Complementary and Alternative Medici
+- new | 2016 | 10.5937/ratpov53-9589 | article | The efficiency of using different mulch films in the cultivation of yellow gentian (Gentiana lutea L.) in Serbia | Ratarstvo i povrtarstvo
+- new | 2016 | 10.15296/ijwhr.2017.55 | article | Comparison of the Complications of Platinum-Based Adjuvant Chemotherapy With and Without Ginger in a Pilot Study on Ovarian Cancer Patients | International Journal of Women s Health 
+- new | 2015 | https://openalex.org/W2389769993 | article | Cloning and expression analysis of isopentenyl pyrophosphate isomerase gene in Gentiana rigescens | Guangdong nongye kexue
+- new | 2014 | 10.1016/j.jarmap.2014.10.004 | article | Cultivation trials on Gentiana lutea L. in Southern and South-eastern Europe | Journal of Applied Research on Medicinal
+- new | 2014 | 10.5091/plecevo.2014.962 | article | Pedo-climatic and land use preferences of Gentiana lutea subsp. lutea in central Italy | Plant Ecology and Evolution
+- new | 2014 | 10.1017/s147926211400104x | article | Molecular markers to assess genetic diversity of Gentiana lutea L. from the Ukrainian Carpathians | Plant Genetic Resources
+- new | 2014 | https://openalex.org/W610197180 | conference-paper | The role of nectar aminoacidic composition in pollinator preference | Archivio istituzionale della ricerca (Al
+- new | 2014 | https://openalex.org/W114794385 | article | Biodiversidad y comportamiento agronómico en León de "Gentiana lutea" L. var. "aurantiaca" | 
+- new | 2013 | 10.2147/btat.s44217 | article | Phytothermotherapy in osteoarthritis: new evidence for an old therapy | Botanics Targets and Therapy
+- new | 2012 | https://openalex.org/W3019037641 | dissertation | Mal des transports et vertiges : prise en charge du patient à l'officine | HAL
+- new | 2009 | 10.1055/s-2009-1216398 | article | Known Natural Products with Unknown Bioactivity | Planta Medica
+- new | 2009 | https://openalex.org/W1565923296 | article | MODELS OF SUSTAINABLE USE OF WILD MEDICAL PLANTS IN W. BALKAN (SE EUROPE) | African Journal of Traditional Complemen
+- new | 2009 | 10.1055/s-2009-1216394 | article | Trials and Tribulations of Planning and Conducting a Phase 2 Clinical Trial with Black Cohosh and Red Clover | Planta Medica
+- new | 2008 | 10.15835/buasvmcn-agr:730 | article | DETERMINATION OF GENETIC VARIABILITY AND POLYMORPHISM FOR SOME FAMILIES TO GENTIANA LUTEA L. SPECIES BY RAPD | Bulletin of the University of Agricultur
+- new | 2008 | https://openalex.org/W2187529244 | article | A toxic self-made beverage: Analytics of alkaloids from Veratrum album by LC-MS/MS | 
+- new | 1993 | 10.17660/actahortic.1993.331.0 | conference-paper | PREFACE | Acta Horticulturae
+
+## geum-rivale (Geum rivale) - name clause: "Geum rivale"[tiab] OR "water avens"[tiab]
+
+### PubMed HT - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SR - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SAFE - 0 hits, 0 not already listed above, 0 new
+
+### PubMed OBS - 0 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 0 hits, 0 not already listed above, 0 new
+
+### ClinicalTrials.gov - 0 registered studies
+
+### OpenAlex no-PMID trial-worded - 35 hits, 29 without PMID, 29 new
+- new | 2026 | 10.48336/636 | dissertation | Exploring phylogenetic community assembly and genetic diversity in boreal plant ecosystems | Memorial University Research Repository 
+- new | 2025 | https://openalex.org/W7165832580 | other | Understanding the effects of multiple disturbances on understorey plant communities in the boreal forest / Comprendre les effets des perturbations multiples sur les communautés vég | Depositum (Université du Québec en Abiti
+- new | 2024 | https://openalex.org/W7111525034 | dissertation | Häckvicker – Odla eller ogräs? : upptäcka en inhemsk baljväxt för svenska vallar | Epsilon Archive for Student Projects (Sw
+- new | 2023 | 10.2298/botserb2301145i | article | The alpine scrubs and dwarf heaths of the Balkan Peninsula - an exceptional center of floristic richness and endemism | Botanica Serbica
+- new | 2023 | 10.3390/rs15010276 | article | Environmental Performance of Regional Protected Area Network: Typological Diversity and Fragmentation of Forests | Remote Sensing
+- new | 2022 | 10.1111/1365-2664.14166 | article | National‐scale predictions of plant assemblages via community distribution models: Leveraging published data to guide future surveys | Journal of Applied Ecology
+- new | 2022 | 10.3390/f13101585 | article | Mid-Rotation Impacts of Stand Tending with Glyphosate on Plant Diversity in the Boreal Forest of West-Central Alberta | Forests
+- new | 2022 | 10.2436/rld.i77.2022.3819 | article | Crònica legislativa del País Basc. Segon semestre de 2021. “La qüestió d’inconstitucionalitat contra la Llei d’institucions locals d’Euskadi” | Revista Catalana de Dret Públic
+- new | 2021 | 10.21685/2500-0578-2021-3-1 | article | MAPPING AND SPATIAL DISTRIBUTION ANALYSIS OF HERBACEOUS VEGETATION IN THE TRANSITION AREA OF POLISTOVSKY RESERVE | Russian Journal of Ecosystem Ecology
+- new | 2019 | 10.3264/fg.2019.1022 | article | The DNA weights per nucleus (genome size) of more than 2350 species of the Flora of The Netherlands, of which 1370 are new to science, including the pattern of their DNA peaks | Online Publication Service of Würzburg U
+- new | 2018 | https://openalex.org/W2941983302 | dissertation | Changes after 25 years of abandonment in semi-natural hay meadows in Svartdal, SE Norway - A re-analysis | NORA - Norwegian Open Research Archives
+- new | 2016 | 10.1007/s11829-016-9431-2 | article | What if we lose a hub? Experimental testing of pollination network resilience to removal of keystone floral resources | Arthropod-Plant Interactions
+- new | 2016 | 10.1111/rec.12403 | article | Evaluation of topsoil inversion in U.K. habitat creation and restoration schemes | Restoration Ecology
+- new | 2016 | https://openalex.org/W2594131243 | dissertation | Effect of continuity, area, connectivity and surrounding landscape on forest specialist plant species in deciduous forest | DiVA (Stockholm University)
+- new | 2013 | 10.22579/20112629.36 | article | Eficiencia fotoquímica del fotosistema II en plantas de brócoli (Brassica oleracea var Italica) afectadas por exceso de hierro | Orinoquia
+- new | 2013 | 10.2478/abcsb-2013-00015 | article | Natural Hybrid Zone of Aconitum Species in the Western Carpathians: Linnaean Taxonomy and ISSR Fingerprinting | Acta Biologica Cracoviensia s Botanica
+- new | 2013 | https://openalex.org/W595795232 | dissertation | Management of semi-natural grassland vegetation : long-term effects of grazing, mowing and different mowing techniques | DiVA (Linkoping University)
+- new | 2013 | https://openalex.org/W1972743280 | article | The impact of disturbance gradient on recruitment of clonal plant species in Molinietum caeruleae meadows | Jagiellonian University Repository (Jagi
+- new | 2013 | https://openalex.org/W2298277020 | dissertation | The importance of snow for mountain vegetation in the Hardangervidda area (Southern Norway): plant distribution, plant phenology, plant diversity, and effects of global climate cha | NVA (Nasjonalt vitenarkiv)
+- new | 2012 | https://openalex.org/W2497479515 | dissertation | Living on the Edge the value of field edges as resource patches for solitary bees (Hymenoptera: Apiformes) | NVA (Nasjonalt vitenarkiv)
+- new | 2008 | 10.5338/kjea.2008.27.2.178 | article | Effect of Long Term Waterlogging on the Growth and Nutrient Contents of 'Campbell Early' and 'Kyoho' Grapevine Cultivars | Korean Journal of Environmental Agricult
+- new | 2005 | https://openalex.org/W2473130363 | dissertation | Relationships between landscape factors and vegetation site types: case study from Saare County, Estonia | DSpace repository (University of Tartu)
+- new | 2004 | 10.5962/bhl.title.114109 | book | Vegetation inventory and rare plant survey of Devonshire Beach-Lesser Slave Lake Provincial Park / | The Company eBooks
+- new | 2001 | 10.2478/som-2001-0001 | article | Vegetation-environment relationships of boreal spruce swamp forests in Østmarka Nature Reserve, SE Norway | Sommerfeltia
+- new | 2000 | 10.1046/j.1365-2664.2000.00566.x | article | The interactive effects of management on the productivity and plant community structure of an upland meadow: an 8‐year field trial | Journal of Applied Ecology
+- new | 1996 | 10.2478/som-1996-0001 | article | Vegetation-environment relationships of boreal spruce forests in ten monitoring reference areas in Norway | Sommerfeltia
+- new | 1995 | https://openalex.org/W936505870 | dissertation | The biogeography of the magnesian limestone grassland flora of east Durham and Tyne & Wear | Durham e-Theses (Durham University)
+- new | 1991 | https://openalex.org/W2576022003 | dissertation | Iron toxicity to wetland plants | White Rose eTheses Online (University of
+- new | 1946 | 10.1111/j.1469-8137.1946.tb05044.x | article | THE ECOTYPE CONCEPT: A CONSIDERATION WITH APPRECIATION AND CRITICISM, ESPECIALLY OE RECENT TRENDS | New Phytologist
+
+## ginkgo-biloba (Ginkgo biloba) - name clause: "Ginkgo biloba"[tiab] OR "ginkgo"[ti] OR "EGb 761"[ti] OR "EGb761"[ti]
+
+### PubMed HT - 872 hits, 200 not already listed above, 190 new
+- HELD REF-3563 | 2026 | 41641880 | Systematic Review/Meta-Analysis | Ginkgo biloba for cognitive impairment and dementia. | Cochrane Database Syst Rev
+- new | 2026 | 42376237 |  | A randomised, placebo-controlled, triple-blind clinical trial to investigate the efficacy of Ginkgo biloba extract EGb 761(®) in cognitive impairment associated with post COVID-19  | Front Hum Neurosci
+- new | 2026 | 42207745 | Review | Neuroprotective Effects of Ginkgo biloba Extract in Neurological Disorders: Integrating Anti-Inflammatory and Antioxidant Mechanisms. | Complement Med Res
+- new | 2026 | 42081645 | Systematic Review | Ginkgo biloba as a Promising Candidate for Traumatic Brain Injury: Insights From Preclinical and Clinical Studies. | Chem Biodivers
+- new | 2026 | 41574926 | Review | Improvement of age-related neurocognitive disorders by Ginkgo biloba extract: neuroprotection in focus. | Int J Psychiatry Clin Pract
+- new | 2026 | 42377658 | Systematic Review | Ginkgo biloba extract as a retinal protective agent: a systematic review of preclinical experiments. | Mol Biol Rep
+- new | 2026 | 42321081 | Randomized Controlled Trial/Comparative Study | Ginkgo biloba versus desmopressin in treatment of children with monosymptomatic nocturnal enuresis: A randomized controlled trial. | J Pediatr Urol
+- new | 2026 | 42539673 |  | Adjunctive EGb 761 treatment in patients with Parkinson's disease: a case series. | Front Aging Neurosci
+- new | 2026 | 40803668 | Randomized Controlled Trial/Comparative Study | Comparison of Efficacy and Safety of Cilostazol/Extract of Ginkgo biloba vs. Aspirin in Carotid Atherosclerosis in Patients with Diabetes Mellitus. | Diabetes Metab J
+- new | 2026 | 42739461 | Review | Neuroprotective and Neuromodulatory Potential of Valeriana officinalis, Passiflora incarnata, and Ginkgo biloba: Efficacy, Safety, and Regulatory Aspects. | Plants (Basel)
+- new | 2026 | 42601239 | Letter | Letter to the Editor re: "Ginkgo biloba versus desmopressin in treatment of children with monosymptomatic nocturnal enuresis: A randomized controlled trial". | J Pediatr Urol
+- SEEN | 2026 | 42102021 | Meta-Analysis | Effects and Safety of Ginkgo biloba Extract on Hyperlipidemia: A Meta-Analysis of Randomized Controlled Trial. | Pharmacology
+- new | 2026 | 41847135 | Clinical Trial | Cistanche tubulosa-Ginkgo biloba combination enhances memory via cortico-cerebellar reorganization: a randomized controlled trial. | Front Pharmacol
+- new | 2026 | 42568872 | Clinical Trial | Pragmatic open-label clinical trial investigating the treatment effects of Ginkgo biloba extract EGb 761 on patients with vertigo and dizziness of various aetiologies. | Front Pharmacol
+- new | 2026 | 42001293 |  | Effect of a combination of Ginkgo biloba leaf extract and triangle health management in patients with ischemic vertigo- An exploratory investigation. | Pak J Pharm Sci
+- new | 2026 | 41930007 | Letter | Comment on of "Effect of ginkgo biloba extracts in the prevention of posterior capsule opacification after cataract surgery: A randomized clinical trial". | Oman J Ophthalmol
+- new | 2025 | 41425500 | Review | Standardized Ginkgo Biloba Extract (EGb 761) for Knee Osteoarthritis: A Narrative Review. | Drug Des Devel Ther
+- new | 2025 | 41517337 |  | Ginkgo biloba Extract EGb 761(®) in Patients with Chronic Tinnitus: Treatment Effects and Effect Modifiers. | J Clin Med
+- new | 2025 | 40121884 | Review | Ginkgo biloba leaf extract EGb 761® for the treatment of various diseases: Overview of systematic reviews. | Phytomedicine
+- new | 2025 | 40895100 |  | Efficacy of Ginkgo biloba extract in amyloid PET-positive patients with mild cognitive impairment. | Front Neurol
+- HELD REF-3565 | 2025 | 39895346 | Meta-Analysis/Research Support, Non-U.S. Gov't | Ginkgo biloba extract EGb 761 is safe and effective in the treatment of mild dementia - a meta-analysis of patient subgroups in randomised controlled trials. | World J Biol Psychiatry
+- new | 2025 | 41908799 | Systematic Review | Ginkgo biloba extract EGb 761 in patients with dementia and a history of cerebral infarction-meta-analysis of pooled data from randomised clinical trials. | Front Neurol
+- new | 2025 | 39951447 | Systematic Review | Efficacy of Ginkgo biloba on parameters in glaucoma: A systematic review. | PLoS One
+- new | 2025 | 39961352 | Clinical Trial | Effect of ginkgo biloba extract on macula and peripapillary perfusion examined using optical coherence tomography angiography. | Can J Ophthalmol
+- new | 2025 | 40134691 |  | Efficacy of Ginkgo biloba as an adjunct to donepezil in amyloid PET-positive Alzheimer's patients. | Front Neurol
+- new | 2025 | 39894554 | Randomized Controlled Trial | A Randomized Controlled Study on the Clinical Efficacy of Ginkgo Biloba Combined with Nicorandil in Patients with HFmrEF. | Int Heart J
+- new | 2025 | 40944073 |  | Does the Patient's Sex Have an Impact on Beneficial Effects of Ginkgo biloba Extract EGb 761(®) in Dementia Patients with Tinnitus? Results of a Conditional Process Analysis. | J Clin Med
+- new | 2025 | 40996182 | Randomized Controlled Trial | To assess the Ginkgo biloba extracts and vestibular rehabilitation training for improving prognosis in vestibular neuritis. | Pak J Pharm Sci
+- new | 2024 | 39422946 | Review/Research Support, Non-U.S. Gov't | Pharmacodynamic and Clinical Effects of Ginkgo Biloba Extract EGb 761 and Its Phytochemical Components in Alzheimer's Disease. | J Alzheimers Dis
+- new | 2024 | 39792490 | Review | EGb761 Trials for Mild-to-Moderate Dementia-What Have We Learned in the Past 18 years? | Am J Ther
+- new | 2024 | 38929090 | Review | Ginkgo biloba: A Leaf of Hope in the Fight against Alzheimer's Dementia: Clinical Trial Systematic Review. | Antioxidants (Basel)
+- new | 2024 | 38584838 |  | Effectiveness of ginkgo diterpene lactone meglumine on cognitive function in patients with acute ischemic stroke. | Open Med (Wars)
+- new | 2024 | 39021830 | Systematic Review | Efficacy and safety of ginkgo biloba extract combined with donepezil hydrochloride in the treatment of Chinese patients with vascular dementia: A systematic review meta-analysis. | Front Pharmacol
+- new | 2024 | 38471343 |  | LC-MS based untargeted metabolomics studies of the metabolic response of Ginkgo biloba extract on arsenism patients. | Ecotoxicol Environ Saf
+- new | 2024 | 39029001 | Observational Study | The impact of nimodipine combined with Ginkgo biloba extract on cognitive function and ADL scores in patients with Parkinson's disease: A retrospective study. | Medicine (Baltimore)
+- new | 2024 | 38356833 |  | Effects of flunarizine combined with ginkgo leaf extract and dipyridamole injection on hemorheology in elderly patients with vertigo. | Pak J Med Sci
+- new | 2023 | 37578791 | Randomized Controlled Trial/Multicenter Study | Efficacy and Safety of Ginkgo Diterpene Lactone Meglumine in Acute Ischemic Stroke: A Randomized Clinical Trial. | JAMA Netw Open
+- new | 2023 | 36994422 | Review | Ginkgo biloba Extract EGb 761 in the Treatment of Patients with Mild Neurocognitive Impairment: A Systematic Review. | Neuropsychiatr Dis Treat
+- new | 2023 | 36710418 |  | Ginkgo biloba Administered Singly and Combined With Antioxidants in Tinnitus Patients. | J Audiol Otol
+- new | 2023 | 38116567 |  | Ginkgo biloba Efficacy in the Treatment of Drug-Induced Parkinsonism: A Randomized Clinical Trial. | Iran J Pharm Res
+- new | 2023 | 36999358 | Meta-Analysis | Efficacy and safety of Ginkgo biloba extract as an adjuvant in the treatment of Chinese patients with sudden hearing loss: a meta-analysis. | Pharm Biol
+- new | 2023 | 37063270 |  | Ginkgo biloba extract EGb 761(®) improves cognition and overall condition after ischemic stroke: Results from a pilot randomized trial. | Front Pharmacol
+- new | 2023 | 37964856 | Review | A bibliometric and thematic analysis of the trends in the research on ginkgo biloba extract from 1985 to 2022. | Heliyon
+- new | 2023 | 37854041 |  | Sodium Metabisulfite-Induced Hematotoxicity, Oxidative Stress, and Organ Damage Ameliorated by Standardized Ginkgo biloba in Mice. | J Toxicol
+- new | 2023 | 37012306 | Randomized Controlled Trial/Clinical Trial, Phase IV/Research Support, Non-U.S. Gov't | A randomized, open-label clinical trial in mild cognitive impairment with EGb 761 examining blood markers of inflammation and oxidative stress. | Sci Rep
+- new | 2022 | 36671707 | Review | Cardiovascular Activity of Ginkgo biloba-An Insight from Healthy Subjects. | Biology (Basel)
+- new | 2022 | 35929002 |  | Combined treatment with Ginkgo biloba extract EGb 761 plus acetylcholinesterase inhibitors improved cognitive function and neuropsychiatric symptoms in patients with mild cognitive | Alzheimers Dement (N Y)
+- HELD REF-2183 | 2022 | 36383762 | Research Support, Non-U.S. Gov't/Systematic Review | Ginkgo biloba for tinnitus. | Cochrane Database Syst Rev
+- new | 2022 | 35517810 |  | Single and Repeated Doses of EGb 761(®) do not Affect Pharmacokinetics or Pharmacodynamics of Rivaroxaban in Healthy Subjects. | Front Pharmacol
+- new | 2022 | 35922794 | Randomized Controlled Trial | A double-blind, randomised cross-over study to evaluate the absorption of a commercially available Ginkgo biloba extract compared to the liposomal extract Ginkgosome. | BMC Complement Med Ther
+- new | 2022 | 35064870 | Randomized Controlled Trial | Ginkgo biloba Extract Attenuates the Disruption of Pro- and Anti-inflammatory Balance of Peripheral Blood in Arsenism Patients by Decreasing Hypermethylation of the Foxp3 Promoter  | Biol Trace Elem Res
+- new | 2022 | 35631163 |  | Ginkgo Biloba Leaf Extract Improves an Innate Immune Response of Peripheral Blood Leukocytes of Alzheimer's Disease Patients. | Nutrients
+- new | 2022 | 36762332 | Randomized Controlled Trial | Investigating the efficacy of Ginkgo biloba on the cognitive function of patients undergoing treatment with electric shock: a double-blind clinical trial. | J Med Life
+- new | 2022 | 35442771 | Randomized Controlled Trial | Clinical Efficacy of an Eyedrop Containing Hyaluronic Acid and Ginkgo Biloba in the Management of Dry Eye Disease Induced by Cataract Surgery. | J Ocul Pharmacol Ther
+- new | 2022 | 36168693 | Multicenter Study/Randomized Controlled Trial | [Treatment of patients with chronic cerebral ischemia: experience of using the combined neuroprotective drug Picamilon Ginkgo]. | Zh Nevrol Psikhiatr Im S S Korsakova [rus]
+- new | 2021 | 33915701 | Review | Mild Cognitive Impairment and Mild Dementia: The Role of Ginkgo biloba (EGb 761(®)). | Pharmaceuticals (Basel)
+- new | 2021 | 34951189 | Meta-Analysis/Systematic Review | [Systematic review of efficacy and safety of Ginkgo biloba extract 50 in treatment of ischemic stroke]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2021 | 33392942 |  | Ginkgo Biloba affects microvascular morphology: a prospective optical coherence tomography angiography pilot study. | Int Ophthalmol
+- new | 2021 | 33352000 | Consensus Statement/Research Support, Non-U.S. Gov't | Strategies for the use of Ginkgo biloba extract, EGb 761(®) , in the treatment and management of mild cognitive impairment in Asia: Expert consensus. | CNS Neurosci Ther
+- new | 2021 | 34290964 | Review | A systematic review of clinical trials on Ginkgo (Ginkgo biloba) effectiveness on sexual function and its safety. | Avicenna J Phytomed
+- new | 2021 | 34917009 |  | Balance Training With Vibrotactile Neurofeedback and Ginkgo Biloba Extract in Age-Related Vertigo. | Front Neurol
+- new | 2021 | 34300317 |  | The Influence of Depression, Anxiety and Cognition on the Treatment Effects of Ginkgo biloba Extract EGb 761(®) in Patients with Tinnitus and Dementia: A Mediation Analysis. | J Clin Med
+- new | 2021 | 33557741 | Clinical Trial/Multicenter Study/Research Support, Non-U.S. Gov't | Effectiveness and Safety Profile of Ginkgo biloba Standardized Extract (EGb761®) in Patients with Amnestic Mild Cognitive Impairment. | CNS Neurol Disord Drug Targets
+- new | 2021 | 34946404 |  | EGb 761(®) Does Not Affect Blood Coagulation and Bleeding Time in Patients with Probable Alzheimer's Dementia-Secondary Analysis of a Randomized, Double-Blind Placebo-Controlled Tr | Healthcare (Basel)
+- new | 2021 | 34017508 |  | Ginkgo biloba Damo injection combined with troxerutin regulates the TLR4/NF-κB pathway and promotes the recovery of patients with acute cerebral infarction. | Am J Transl Res
+- new | 2020 | 32349519 | Meta-Analysis/Systematic Review | Efficacy and Safety of Ginkgo biloba in Patients with Acute Ischemic Stroke: A Systematic Review and Meta-Analysis. | Am J Chin Med
+- new | 2020 | 31300303 | Randomized Controlled Trial | Clinical randomized trial study of hearing aids effectiveness in association with Ginkgo biloba extract (EGb 761) on tinnitus improvement. | Braz J Otorhinolaryngol
+- new | 2020 | 32952588 |  | Safety and Efficacy of Ginkgo-Damole and Nitroglycerin or Sodium Nitroprusside on Hypertensive Cerebropathies: A Meta-Analysis. | Evid Based Complement Alternat Med
+- new | 2020 | 31915883 | Clinical Trial Protocol | [Study protocol of the monocentric prospective randomized placebo-controlled double-blind phase II study to explore the protective effects of the ginkgo biloba extract EGb 761® fro | HNO [ger]
+- new | 2020 | 32925798 |  | Efficacy and safety of ginkgo preparation in patients with vascular dementia: A protocol for systematic review and meta-analysis. | Medicine (Baltimore)
+- new | 2020 | 32871945 |  | Efficacy and safety of Ginkgo biloba for patients with early diabetic nephropathy: A protocol for systematic review and meta-analysis. | Medicine (Baltimore)
+- new | 2019 | 31750210 |  | Randomised Controlled Clinical Study of Injection Caroverine and Ginkgo Biloba Extract in Cochlear Synaptic Tinnitus. | Indian J Otolaryngol Head Neck Surg
+- new | 2019 | 30648358 | Practice Guideline/Research Support, Non-U.S. Gov't/Review/Consensus Statement | Treatment of dementia and mild cognitive impairment with or without cerebrovascular disease: Expert consensus on the use of Ginkgo biloba extract, EGb 761(®). | CNS Neurosci Ther
+- new | 2019 | 32153388 | Review | An Updated Review of Randomized Clinical Trials Testing the Improvement of Cognitive Function of Ginkgo biloba Extract in Healthy People and Alzheimer's Patients. | Front Pharmacol
+- new | 2019 | 31133986 |  | Potential Anti-obesogenic Effects of Ginkgo biloba Observed in Epididymal White Adipose Tissue of Obese Rats. | Front Endocrinol (Lausanne)
+- new | 2019 | 30761076 | Case Reports | Comparison of Clopidogrel and Ticlopidine/Ginkgo Biloba in Patients With Clopidogrel Resistance and Carotid Stenting. | Front Neurol
+- new | 2019 | 31255494 | Multicenter Study/Randomized Controlled Trial/Research Support, N.I.H., Extramural | Blood amyloid levels and risk of dementia in the Ginkgo Evaluation of Memory Study (GEMS): A longitudinal analysis. | Alzheimers Dement
+- new | 2018 | 29942120 | Meta-Analysis/Review | Ginkgo biloba extract EGb 761(®) alleviates neurosensory symptoms in patients with dementia: a meta-analysis of treatment effects on tinnitus and dizziness in randomized, placebo-c | Clin Interv Aging
+- new | 2018 | 28931444 | Meta-Analysis/Review | Treatment effects of Ginkgo biloba extract EGb 761® on the spectrum of behavioral and psychological symptoms of dementia: meta-analysis of randomized controlled trials. | Int Psychogeriatr
+- new | 2018 | 29988404 | Review | Does Adjuvant Treatment With Ginkgo Biloba to Statins Have Additional Benefits in Patients With Dyslipidemia? | Front Pharmacol
+- new | 2018 | 30546253 |  | Ginkgo biloba extract EGb 761(®) in the symptomatic treatment of mild-to-moderate dementia: a profile of its use. | Drugs Ther Perspect
+- new | 2018 | 29855986 | Comparative Study/Randomized Controlled Trial | Ginkgo biloba extract EGb 761(®) versus pentoxifylline in chronic tinnitus: a randomized, double-blind clinical trial. | Int J Clin Pharm
+- new | 2018 | 30294476 | Published Erratum | Correction: Ginkgo biloba extract improved cognitive and neurological functions of acute ischaemic stroke: a randomised controlled trial. | Stroke Vasc Neurol
+- new | 2018 | 29804407 | Randomized Controlled Trial | [Therapeutic effect of ginkgo biloba extract on postoperative delirium in aged patients]. | Zhonghua Yi Xue Za Zhi [chi]
+- new | 2018 | 32185946 | Systematic Review | Injections of ginkgo in the treatment of cerebral infarction: a systematic review and network Meta-analysis. | J Tradit Chin Med
+- new | 2018 | 30034238 |  | Efficacy and safety of Ginkgo biloba extract as an "add-on" treatment to metformin for patients with metabolic syndrome: a pilot clinical study. | Ther Clin Risk Manag
+- new | 2018 | 29670330 | Multicenter Study/Randomized Controlled Trial | The efficacy and safety of Ginkgo biloba extract as an adjuvant in type 2 diabetes mellitus patients ineffectively managed with metformin: a double-blind, randomized, placebo-contr | Drug Des Devel Ther
+- new | 2018 | 30278520 | Clinical Trial/Comparative Study | Role of Ginkgo biloba extract as an adjunctive treatment of elderly patients with depression and on the expression of serum S100B. | Medicine (Baltimore)
+- new | 2018 | 30339143 | Review | Ginkgo biloba for the treatment of tinnitus. | Medwave [eng,spa]
+- new | 2018 | 30155772 | Published Erratum | Correction to: Ginkgo biloba extract EGb 761(®) versus pentoxifylline in chronic tinnitus: a randomized, double-blind clinical trial. | Int J Clin Pharm
+- new | 2017 | 27940086 | Systematic Review | Effects of Ginkgo biloba on dementia: An overview of systematic reviews. | J Ethnopharmacol
+- new | 2017 | 28642670 |  | Ginkgo Biloba improves bone formation during fracture healing: an experimental study in rats. | Acta Ortop Bras
+- new | 2017 | 28181206 | Randomized Controlled Trial | Ginkgo biloba special extract LI 1370 improves dual-task walking in patients with MCI: a randomised, double-blind, placebo-controlled exploratory study. | Aging Clin Exp Res
+- new | 2017 | 28510619 | Multicenter Study/Randomized Controlled Trial | Diabetes and Cognitive Decline in Older Adults: The Ginkgo Evaluation of Memory Study. | J Gerontol A Biol Sci Med Sci
+- new | 2017 | 29797955 | Clinical Trial | [Clinical treatment effect of glucocorticoids and extract of ginkgo biloba on post-viral olfactory dysfunction]. | Lin Chuang Er Bi Yan Hou Tou Jing Wai Ke [chi]
+- HELD REF-2186 | 2016 | 26223956 | Meta-Analysis/Systematic Review | Efficacy of Ginkgo biloba extract EGb 761(®) in dementia with behavioural and psychological symptoms: A systematic review. | World J Biol Psychiatry
+- new | 2016 | 26979525 | Meta-Analysis/Review | Extract of Ginkgo biloba for Tardive Dyskinesia: Meta-analysis of Randomized Controlled Trials. | Pharmacopsychiatry
+- new | 2016 | 27321596 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Research Support, N.I.H., Extramural | Inflammatory Biomarkers and Cognitive Decline: The Ginkgo Evaluation of Memory Study. | J Am Geriatr Soc
+- new | 2016 | 26267422 |  | A retrospective classification of diagnoses in terms of DSM-5 for patients included in randomized controlled trials of Ginkgo biloba extract EGb 761(®). | Eur Arch Psychiatry Clin Neurosci
+- new | 2016 | 27765348 |  | Ginkgo biloba extract in combination with sorafenib is clinically safe and tolerable in advanced hepatocellular carcinoma patients. | Phytomedicine
+- new | 2016 | 27069717 |  | Central additive effect of Ginkgo biloba and Rhodiola rosea on psychomotor vigilance task and short-term working memory accuracy. | J Intercult Ethnopharmacol
+- new | 2016 | 26938637 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Ginseng and Ginkgo Biloba Effects on Cognition as Modulated by Cardiovascular Reactivity: A Randomised Trial. | PLoS One
+- new | 2016 | 28077949 |  | The Role of Liuwei Dihuang Pills and Ginkgo Leaf Tablets in Treating Diabetic Complications. | Evid Based Complement Alternat Med
+- new | 2015 | 26058281 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Ginkgo biloba for prevention of dementia: a systematic review and meta-analysis. | J Med Assoc Thai
+- new | 2015 | 26541843 | Meta-Analysis | [System evaluation on Ginkgo Biloba extract in the treatment of acute cerebral infarction]. | Zhong Nan Da Xue Xue Bao Yi Xue Ban [chi]
+- new | 2015 | 25749902 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Ginkgo Biloba extract for angina pectoris: a systematic review. | Chin J Integr Med
+- new | 2015 | 27186927 |  | The chemopreventive effect of Ginkgo biloba extract 761 against cisplatin ototoxicity: a pilot study. | Int Tinnitus J
+- new | 2015 | 25597699 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of single-dose Ginkgo biloba and Panax ginseng on driving performance. | Clin Toxicol (Phila)
+- new | 2015 | 25914553 |  | A dermocosmetic containing bakuchiol, Ginkgo biloba extract and mannitol improves the efficacy of adapalene in patients with acne vulgaris: result from a controlled randomized tria | Clin Cosmet Investig Dermatol
+- new | 2015 | 25925875 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Ginkgo biloba in the treatment of attention-deficit/hyperactivity disorder in children and adolescents. A randomized, placebo-controlled, trial. | Complement Ther Clin Pract
+- new | 2014 | 25506211 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Efficacy and tolerability of Ginkgo biloba extract EGb 761® in dementia: a systematic review and meta-analysis of randomized placebo-controlled trials. | Clin Interv Aging
+- new | 2014 | 25163996 | Clinical Trial/Research Support, Non-U.S. Gov't | Ginkgo biloba extract EGb 761® in children with ADHD. | Z Kinder Jugendpsychiatr Psychother
+- new | 2014 | 24877716 | Systematic Review | Ginkgo biloba extract for essential hypertension: a systemic review. | Phytomedicine
+- new | 2014 | 24736415 | Letter/Comment | Ginkgo biloba extract improves visual field damage in some patients affected by normal-tension glaucoma. | Invest Ophthalmol Vis Sci
+- new | 2014 | 24949064 |  | Triple-blind, placebo-controlled trial of Ginkgo biloba extract on sexual desire in postmenopausal women in Tehran. | Iran J Nurs Midwifery Res
+- new | 2014 | 24736416 | Letter/Comment | Author response: Ginkgo biloba extract improves visual field damage in some patients affected by normal-tension glaucoma. | Invest Ophthalmol Vis Sci
+- new | 2014 | 25463092 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Combined lowering of low grade systemic inflammation and insulin resistance in metabolic syndrome patients treated with Ginkgo biloba. | Atherosclerosis
+- HELD REF-0825 | 2013 | 23538078 | Review | Ginkgo biloba: indications, mechanisms, and safety. | Psychiatr Clin North Am
+- new | 2013 | 23292640 | Meta-Analysis | Ginkgo biloba extract EGb 761 in the treatment of dementia: a pharmacoeconomic analysis of the Austrian setting. | Wien Klin Wochenschr
+- new | 2013 | 23808613 | Review | Effects of Ginkgo biloba extract EGb 761 ® in dementia with neuropsychiatric features: review of recently completed randomised, controlled trials. | Int J Psychiatry Clin Pract
+- new | 2013 | 23543524 | Meta-Analysis/Systematic Review | Ginkgo biloba for tinnitus. | Cochrane Database Syst Rev
+- new | 2013 | 23533513 |  | Ginkgo biloba Extract for Patients with Early Diabetic Nephropathy: A Systematic Review. | Evid Based Complement Alternat Med
+- new | 2013 | 23452713 | Letter/Randomized Controlled Trial | A randomized controlled pilot trial: the effects of EGb 761 on information processing and executive function in multiple sclerosis. | Explore (NY)
+- new | 2013 | 23477707 | Randomized Controlled Trial | Ticlopidine with Ginkgo Biloba extract: a feasible combination for patients with acute cerebral ischemia. | Thromb Res
+- HELD REF-3564 | 2013 | 23744597 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Ginkgo biloba for intermittent claudication. | Cochrane Database Syst Rev
+- new | 2013 | 23318341 | Comment | ACP Journal Club. Ginkgo biloba extract did not reduce risk for Alzheimer disease in elderly patients with memory complaints. | Ann Intern Med
+- new | 2012 | 22784427 | Review | Gingko biloba extract EGb 761®: clinical data in dementia. | Int Psychogeriatr
+- new | 2012 | 23001963 | Meta-Analysis/Review | Is Ginkgo biloba a cognitive enhancer in healthy individuals? A meta-analysis. | Hum Psychopharmacol
+- new | 2012 | 22959217 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Review | Long-term use of standardised Ginkgo biloba extract for the prevention of Alzheimer's disease (GuidAge): a randomised placebo-controlled trial. | Lancet Neurol
+- new | 2012 | 22381135 | Clinical Trial/Research Support, Non-U.S. Gov't | Effects of Ginkgo biloba extracts on pharmacokinetics and efficacy of atorvastatin based on plasma indices. | Xenobiotica
+- new | 2012 | 22626945 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Clonazepam quiets tinnitus: a randomised crossover study with Ginkgo biloba. | J Neurol Neurosurg Psychiatry
+- new | 2012 | 22955125 | Randomized Controlled Trial/Research Support, U.S. Gov't, Non-P.H.S. | Ginkgo biloba does not improve cognitive function in MS: a randomized placebo-controlled trial. | Neurology
+- new | 2012 | 22802250 | Clinical Trial, Phase I/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of ginkgo biloba on the pharmacokinetics of raltegravir in healthy volunteers. | Antimicrob Agents Chemother
+- new | 2011 | 21802920 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Specific memory effects of Ginkgo biloba extract EGb 761 in middle-aged healthy volunteers. | Phytomedicine
+- new | 2011 | 21647656 | Randomized Controlled Trial | Acute effects of Ginkgo biloba extract on vascular function and blood pressure. | Plant Foods Hum Nutr
+- new | 2011 | 21406109 | Clinical Trial/Research Support, Non-U.S. Gov't | Ginkgo biloba for the treatment of vitilgo vulgaris: an open label pilot clinical trial. | BMC Complement Altern Med
+- new | 2010 | 20236541 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Effects of Ginkgo biloba in dementia: systematic review and meta-analysis. | BMC Geriatr
+- new | 2010 | 20464671 | Meta-Analysis | From the Cochrane library: Ginkgo biloba for intermittent claudication. | Vasa
+- new | 2010 | 19775502 | Meta-Analysis/Research Support, Non-U.S. Gov't/Review | Review and meta-analysis of usage of ginkgo as an adjunct therapy in chronic schizophrenia. | Int J Neuropsychopharmacol
+- new | 2009 | 19621278 | Meta-Analysis/Review | [Ginkgo biloba extract EGb 761 in the treatment of dementia: evidence of efficacy and tolerability]. | Fortschr Neurol Psychiatr [ger]
+- new | 2009 | 19678774 | Randomized Controlled Trial | A randomized, placebo-controlled trial of Ginkgo biloba L. in treatment of premenstrual syndrome. | J Altern Complement Med
+- new | 2009 | 19551805 | Review | Ginkgo biloba: specificity of neuropsychological improvement--a selective review in search of differential effects. | Hum Psychopharmacol
+- HELD REF-3564 | 2009 | 19370657 | Meta-Analysis/Systematic Review | Ginkgo biloba for intermittent claudication. | Cochrane Database Syst Rev
+- new | 2009 | 19274699 | Clinical Trial/Letter | First preliminary results of an observation of Ginkgo Biloba treating patients with autistic disorder. | Phytother Res
+- new | 2009 | 20040554 | Multicenter Study/Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Ginkgo biloba for preventing cognitive decline in older adults: a randomized trial. | JAMA
+- HELD REF-0056 | 2008 | 19017911 | Multicenter Study/Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Ginkgo biloba for prevention of dementia: a randomized controlled trial. | JAMA
+- new | 2008 | 18305231 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | A randomized placebo-controlled trial of Ginkgo biloba for the prevention of cognitive decline. | Neurology
+- new | 2008 | 18327688 | Meta-Analysis/Systematic Review | [External validity of clinical trials for treatment of dementia with ginkgo biloba extracts]. | Z Gerontol Geriatr [ger]
+- new | 2008 | 27994702 |  | Ginkgo Biloba Extract EGb 761 Alleviates Hepatic Fibrosis and Sinusoidal Microcirculation Disturbance in Patients with Chronic Hepatitis B. | Gastroenterology Res
+- new | 2008 | 18418975 | Randomized Controlled Trial | [Effect of extract of Ginkgo biloba on doxorubicin-associated cardiotoxicity in patients with breast cancer]. | Zhongguo Zhong Xi Yi Jie He Za Zhi [chi]
+- new | 2007 | 17055121 | Letter/Comment | The effect of the ingestion of Ginkgo biloba extract (EGb 761) on the pharmacokinetics of metformin in non-diabetic and type 2 diabetic subjects--a double blind placebo-controlled, | Clin Nutr
+- new | 2007 | 17926840 | Comparative Study | Ginkgo and Alzheimer's disease: little or no different from placebo. | Prescrire Int
+- HELD REF-3563 | 2007 | 17443523 | Meta-Analysis/Systematic Review | Ginkgo biloba for cognitive impairment and dementia. | Cochrane Database Syst Rev
+- new | 2006 | 30000868 | Review | Ginkgo. | 
+- new | 2006 | 17101932 | Research Support, Non-U.S. Gov't/Review | The GuidAge study: methodological issues. A 5-year double-blind randomized trial of the efficacy of EGb 761 for prevention of Alzheimer disease in patients over 70 with a memory co | Neurology
+- new | 2006 | 17050793 | Clinical Trial | Effects of Ginkgo biloba extract on pharmacokinetics and pharmacodynamics of tolbutamide and midazolam in healthy volunteers. | J Clin Pharmacol
+- new | 2005 | 23101066 | Review | Ginkgo in Alzheimer’s disease: Executive summary of final report A05-19B, Version 1.0. | 
+- new | 2005 | 15998570 | Research Support, Non-U.S. Gov't/Review | Ginkgo biloba extracts for tinnitus: More hype than hope? | J Ethnopharmacol
+- new | 2005 | 16121520 | Review | Treatment effects of EGb 761 and cholinesterase inhibitors--why available studies do not demonstrate superiority of the latter. | Phytomedicine
+- new | 2005 | 15842142 | Clinical Trial/Randomized Controlled Trial | [Clinical study on treatment of pulmonary interstitial fibrosis with ginkgo extract]. | Zhongguo Zhong Xi Yi Jie He Za Zhi [chi]
+- new | 2005 | 15710792 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Ginkgo biloba and acetazolamide prophylaxis for acute mountain sickness: a randomized, placebo-controlled trial. | Arch Intern Med
+- new | 2005 | 16114087 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of Ginkgo biloba on haemostatic factors and inflammation in chronic peritoneal dialysis patients. | Phytother Res
+- new | 2005 | 16185177 | Research Support, N.I.H., Extramural | Effect of Ginkgo biloba extract on plasma steroid concentrations in healthy volunteers: a pilot study. | Pharmacotherapy
+- new | 2004 | 15180165 | Review | Ginkgo biloba special extract EGb 761 in the treatment of peripheral arterial occlusive disease (PAOD)--a review based on randomized, controlled studies. | Int J Clin Pharmacol Ther
+- new | 2004 | 15026263 | Comparative Study/Research Support, Non-U.S. Gov't/Review | Electropharmacological actions of Ginkgo biloba extract on vascular smooth and heart muscles. | Clin Chim Acta
+- new | 2004 | 15142066 | Clinical Trial/Meta-Analysis/Randomized Controlled Trial | Ginkgo biloba does not benefit patients with tinnitus: a randomized placebo-controlled double-blind trial and meta-analysis of randomized trials. | Clin Otolaryngol Allied Sci
+- new | 2004 | 15378664 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Triple-blind, placebo-controlled trial of Ginkgo biloba in sexual dysfunction due to antidepressant drugs. | Hum Psychopharmacol
+- new | 2004 | 14994317 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Effects of Ginkgo biloba on alertness and chemosensory function in healthy adults. | Hum Psychopharmacol
+- new | 2003 | 13130388 | Historical Article/Review | Magnitude of effect and special approach to Ginkgo biloba extract EGb 761 in cognitive disorders. | Pharmacopsychiatry
+- new | 2003 | 12807348 | Review | Ginkgo extract or cholinesterase inhibitors in patients with dementia: what clinical trials and guidelines fail to consider. | Phytomedicine
+- new | 2003 | 14602503 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of Ginkgo biloba on mental functioning in healthy volunteers. | Arch Med Res
+- new | 2003 | 15117063 | Clinical Trial/Randomized Controlled Trial | [The effect of ginkgo biloba on healthy elderly subjects]. | Fortschr Med Orig [ger]
+- new | 2003 | 12628617 | Clinical Trial/Randomized Controlled Trial/Research Support, U.S. Gov't, P.H.S. | A pilot trial of piracetam and ginkgo biloba for the treatment of cocaine dependence. | Addict Behav
+- new | 2002 | 12404672 | Clinical Trial/Randomized Controlled Trial | A placebo-controlled, double-blind trial of Ginkgo biloba for antidepressant-induced sexual dysfunction. | Hum Psychopharmacol
+- new | 2002 | 12473969 | Systematic Review | Ginkgo biloba: a smart drug? A systematic review of controlled trials of the cognitive effects of ginkgo biloba extracts in healthy people. | Psychopharmacol Bull
+- new | 2002 | 12404671 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A double-blind, placebo-controlled, randomized trial of Ginkgo biloba extract EGb 761 in a sample of cognitively intact older adults: neuropsychological findings. | Hum Psychopharmacol
+- new | 2002 | 12051570 | Clinical Trial/Randomized Controlled Trial | The efficacy of Ginkgo special extract EGb 761 in patients with tinnitus. | Int J Clin Pharmacol Ther
+- new | 2001 | 11518478 | Clinical Trial/Randomized Controlled Trial | The effect of Li 1370, extract of Ginkgo biloba, on REM sleep in humans. | Pharmacopsychiatry
+- new | 2001 | 11154618 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effectiveness of Ginkgo biloba in treating tinnitus: double blind, placebo controlled trial. | BMJ
+- new | 2001 | 11217680 | Review | [Ginkgo special extract EGb 761 in tinnitus therapy. An overview of results of completed clinical trials]. | Fortschr Med Orig [ger]
+- new | 2000 | 11014719 | Meta-Analysis | Ginkgo biloba extract for the treatment of intermittent claudication: a meta-analysis of randomized trials. | Am J Med
+- new | 2000 | 11276297 | Review | Efficacy and safety of a Ginkgo biloba extract. | Public Health Nutr
+- new | 1999 | 11233145 | Review | Ginkgo biloba leaf extract: review of biological actions and clinical applications. | Antioxid Redox Signal
+- new | 1998 | 10345150 | Clinical Trial/Comparative Study/Controlled Clinical Trial | Ginkgo biloba (EGb 761) in the treatment of equilibrium disorders. | Adv Ther
+- new | 1998 | 10178638 | Review | Clinical improvement of memory and other cognitive functions by Ginkgo biloba: review of relevant literature. | Adv Ther
+- new | 1998 | 9823823 | Research Support, U.S. Gov't, P.H.S./Review | The efficacy of Ginkgo biloba on cognitive function in Alzheimer disease. | Arch Neurol
+- new | 1998 | 10023188 | Clinical Trial/Randomized Controlled Trial | [Ginkgo-special-extract EGb 761 in peripheral arterial occlusive diseases stage IIb according to Fontaine]. | Fortschr Med [ger]
+- new | 1998 | 23196024 |  | Clinical efficacy of Ginkgo biloba special extract EGb 761 in dementia of the Alzheimer type. | Phytomedicine
+- new | 1997 | 9447569 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Clinical efficacy of Ginkgo biloba special extract EGb 761 in dementia of the Alzheimer type. | J Psychiatr Res
+- new | 1997 | 9140689 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Ginkgo biloba extract (EGb 761) pretreatment limits free radical-induced oxidative stress in patients undergoing coronary bypass surgery. | Cardiovasc Drugs Ther
+- new | 1995 | 8773035 | Clinical Trial/Comparative Study/Randomized Controlled Trial | A double blind placebo controlled trial of ginkgo biloba extract in acute cerebral ischaemia. | J Assoc Physicians India
+- new | 1994 | 23195810 |  | Efficacy of Ginkgo biloba in 90 outpatients with cerebral insufficiency caused by old age Results of a placebo-controlled double-blind trial. | Phytomedicine
+- new | 1992 | 1485476 | Comparative Study/Review | [Gingko biloba extract EGb 761 and pentoxifylline in intermittent claudication. Secondary analysis of the clinical effectiveness]. | Vasa [ger]
+- new | 1992 | 1386514 | Meta-Analysis | [Ginkgo biloba extract in peripheral arterial diseases. Meta-analysis of controlled clinical studies]. | Arzneimittelforschung [ger]
+- new | 1991 | 2020921 | Clinical Trial/Controlled Clinical Trial/Review | [Comparative effects of ginkgo biloba extracts on psychomotor performances and memory in healthy subjects]. | Therapie [fre]
+- new | 1991 | 2044394 | Clinical Trial/Randomized Controlled Trial | A double-blind, placebo controlled study of Ginkgo biloba extract ('tanakan') in elderly outpatients with mild to moderate memory impairment. | Curr Med Res Opin
+- new | 1986 | 2947100 | Clinical Trial/Comparative Study/Randomized Controlled Trial | [Multicenter randomized double-blind drug vs. placebo study of the treatment of tinnitus with Ginkgo biloba extract]. | Presse Med [fre]
+- new | 1986 | 2947106 | Clinical Trial/Comparative Study/Controlled Clinical Trial/Randomized Controlled Trial | [Treatment of cerebral aging disorders with Ginkgo biloba extract. A longitudinal multicenter double-blind drug vs. placebo study]. | Presse Med [fre]
+- new | 1986 | 3516818 | Clinical Trial/Comparative Study/Controlled Clinical Trial/Randomized Controlled Trial | [Primary degenerative dementia: therapy with Ginkgo biloba extract. Placebo-controlled double-blind and comparative study]. | Fortschr Med [ger]
+- new | 1984 | 6386008 | Clinical Trial/Randomized Controlled Trial | 6-Month double-blind randomised clinical trial of Ginkgo biloba extract versus placebo in two parallel groups in patients suffering from peripheral arterial insufficiency. | Arzneimittelforschung
+
+### PubMed SR - 284 hits, 74 not already listed above, 66 new
+- new | 2026 | 42394931 | Systematic Review | Ginkgo biloba extract for dizziness-related symptoms in central neurological disorders: a systematic review and meta-analysis. | Front Neurol
+- new | 2026 | 42051256 | Systematic Review | Efficacy and safety of Ginkgo biloba leaf extract injection for vascular cognitive impairment: a systematic review and meta-analysis. | Front Pharmacol
+- new | 2025 | 40362791 | Systematic Review | Efficiency of Different Supplements in Alleviating Symptoms of ADHD with or Without the Use of Stimulants: A Systematic Review. | Nutrients
+- new | 2025 | 41198594 | Systematic Review/Meta-Analysis | Therapeutic strategies in vascular cognitive impairment: A systematic review and meta-analysis. | Alzheimers Dement
+- new | 2025 | 41601988 | Systematic Review | Preclinical evidence of ginkgo biloba extract on diabetic nephropathy: a systematic review and meta-analysis. | Front Pharmacol
+- new | 2025 | 40019748 | Systematic Review/Meta-Analysis | Neuroprotective effect and possible mechanisms of the extract of ginkgo biloba for spinal cord injury in experimental animal: a meta-analysis and systematic review. | Nutr Neurosci
+- new | 2025 | 39880062 | Systematic Review/Meta-Analysis | Ginkgo diterpene lactone meglumine for functional recovery in patients with acute ischemic stroke: A systematic review and meta-analysis. | J Ethnopharmacol
+- new | 2025 | 40332573 | Systematic Review | Pentoxifylline uses in inner ear diseases. | Eur J Clin Pharmacol
+- new | 2025 | 40868260 | Review | An Overview of the Role of Medicinal Plants in Parkinson's Disease: A Semi-Systematic Review. | Biomedicines
+- new | 2024 | 38928095 | Review | Cardiovascular Effects of Herbal Products and Their Interaction with Antihypertensive Drugs-Comprehensive Review. | Int J Mol Sci
+- new | 2024 | 38718890 | Systematic Review/Network Meta-Analysis | Efficacy and safety of Ginkgo biloba extract in the treatment of unstable angina pectoris: A systematic review and network meta-analysis. | J Ethnopharmacol
+- HELD REF-3567 | 2024 | 38562465 | Systematic Review | Effects and safety of Ginkgo biloba on depression: a systematic review and meta-analysis. | Front Pharmacol
+- new | 2024 | 39830333 | Systematic Review | The efficacy and safety of Ginkgo biloba L. leaves extract combined with ACEI/ARB on diabetic kidney disease: a systematic review and meta-analysis of 41 randomized controlled tria | Front Pharmacol
+- new | 2024 | 38439880 |  | Efficacy and safety of standardized Ginkgo biloba extract as adjuvant therapy for intracerebral hemorrhage in China: A systematic review and meta-analysis. | Heliyon
+- new | 2024 | 38519277 | Review/Research Support, Non-U.S. Gov't | Chinese herbal medicine Ginkgo biloba L. preparations for ischemic stroke: An overview of systematic reviews and meta-analyses. | J Integr Med
+- new | 2024 | 38706368 | Systematic Review | A Systematic Review of Herbal Interventions for the Management of Cardiovascular Diseases. | Curr Cardiol Rev
+- new | 2024 | 39312316 | Systematic Review/Network Meta-Analysis | Effect of long-term pharmacological treatments on Alzheimer disease: A systematic review and network meta-analysis. | Medicine (Baltimore)
+- HELD REF-0741 | 2023 | 34978226 | Systematic Review | Plant-derived nootropics and human cognition: A systematic review. | Crit Rev Food Sci Nutr
+- new | 2023 | 38136202 | Scoping Review | The Impact of Antioxidants on Vitiligo and Melasma: A Scoping Review and Meta-Analysis. | Antioxidants (Basel)
+- new | 2023 | 37663386 | Review | Herbal medicines in the treatment of children and adolescents with attention-deficit/hyperactivity disorder (ADHD): An updated systematic review of clinical trials. | Avicenna J Phytomed
+- new | 2023 | 36987052 | Review | Nootropic Herbs, Shrubs, and Trees as Potential Cognitive Enhancers. | Plants (Basel)
+- new | 2023 | 37573807 | Systematic Review | Neurovascular glial unit: A target of phytotherapy for cognitive impairments. | Phytomedicine
+- new | 2023 | 36880363 | Systematic Review/Research Support, Non-U.S. Gov't | A systematic review of cognitive interventions for adult patients with brain tumours. | Cancer Med
+- SEEN | 2023 | 38264278 | Meta-Analysis/Systematic Review | Effects and safety of Ginkgo biloba on blood metabolism in type 2 diabetes mellitus: a systematic review and meta-analysis. | Front Endocrinol (Lausanne)
+- new | 2023 | 36960422 | Systematic Review | Effectiveness and safety of ginkgo biloba preparations in the treatment of Alzheimer's disease: A systematic review and meta-analysis. | Front Aging Neurosci
+- new | 2023 | 36829437 | Review | Nutraceuticals as Supportive Therapeutic Agents in Diabetes and Pancreatic Ductal Adenocarcinoma: A Systematic Review. | Biology (Basel)
+- new | 2023 | 37834050 | Review | Overview and Recent Progress on the Biosynthesis and Regulation of Flavonoids in Ginkgo biloba L. | Int J Mol Sci
+- new | 2023 | 36728740 | Systematic Review | Efficacy and safety of herbal medicine on dementia and cognitive function: An umbrella review of systematic reviews and meta-analysis. | Phytother Res
+- HELD REF-2546 | 2022 | 35378276 | Systematic Review/Research Support, Non-U.S. Gov't/Network Meta-Analysis | Medicinal herbs for the treatment of anxiety: A systematic review and network meta-analysis. | Pharmacol Res
+- new | 2022 | 35881170 | Review | Pharmacotherapy of Alzheimer's disease: an overview of systematic reviews. | Eur J Clin Pharmacol
+- HELD REF-3568 | 2022 | 35781715 | Meta-Analysis/Systematic Review | Beneficial effects of Ginkgo biloba leaf extract on inflammatory markers: A systematic review and meta-analysis of the clinical trials. | Phytother Res
+- new | 2022 | 34474140 | Meta-Analysis/Systematic Review | Efficacy and safety of standardized Ginkgo biloba L. leaves extract as an adjuvant therapy for sudden sensorineural hearing loss: A systematic review and meta-analysis. | J Ethnopharmacol
+- new | 2022 | 35592415 | Systematic Review | Phytotherapy for Attention Deficit Hyperactivity Disorder (ADHD): A Systematic Review and Meta-analysis. | Front Pharmacol
+- new | 2022 | 35692129 | Review | Ameliorative Effects of Phytomedicines on Alzheimer's Patients. | Curr Alzheimer Res
+- new | 2022 | 35935837 | Systematic Review | The Efficacy and Safety of Ischemic Stroke Therapies: An Umbrella Review. | Front Pharmacol
+- new | 2022 | 34924395 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | The Efficacy and Safety of Alzheimer's Disease Therapies: An Updated Umbrella Review. | J Alzheimers Dis
+- new | 2021 | 32478963 | Research Support, Non-U.S. Gov't/Systematic Review | Warfarin and food, herbal or dietary supplement interactions: A systematic review. | Br J Clin Pharmacol
+- new | 2021 | 34611615 |  | Efficacy of pharmacologic treatment in tinnitus patients without specific or treatable origin: A network meta-analysis of randomised controlled trials. | EClinicalMedicine
+- new | 2021 | 34504643 | Meta-Analysis/Systematic Review | EGb in the Treatment for Patients with VCI: A Systematic Review and Meta-Analysis. | Oxid Med Cell Longev
+- new | 2021 | 34925528 | Review | The Clinical Efficacy of Ginkgo biloba Leaf Preparation on Ischemic Stroke: A Systematic Review and Meta-Analysis. | Evid Based Complement Alternat Med
+- new | 2021 | 33787152 | Meta-Analysis/Systematic Review | [Systematic review and Meta-analysis of clinical efficacy and safety of Ginkgo Leaf Tablets in treatment of acute cerebral infarction]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2020 | 32658034 | Meta-Analysis/Systematic Review | Meta-analysis of Ginkgo biloba Preparation for the Treatment of Alzheimer's Disease. | Clin Neuropharmacol
+- new | 2020 | 33090588 | Review | Effects of Ginkgo biloba intake on cardiometabolic parameters in patients with type 2 diabetes mellitus: A systematic review and meta-analysis of clinical trials. | Phytother Res
+- new | 2019 | 30341543 | Systematic Review | [Antipsychotic-induced motor symptoms in schizophrenic psychoses-Part 3 : Tardive dyskinesia]. | Nervenarzt [ger]
+- new | 2019 | 30296451 | Research Support, Non-U.S. Gov't/Systematic Review | Nutritional supplementation in the treatment of glaucoma: A systematic review. | Surv Ophthalmol
+- new | 2019 | 30699444 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Systematic Review and Meta-Analysis of Randomised, Other-than-Placebo Controlled, Trials of Non-Individualised Homeopathic Treatment. | Homeopathy
+- new | 2019 | 31012483 | Research Support, Non-U.S. Gov't/Systematic Review | Interventions for preventing high altitude illness: Part 3. Miscellaneous and non-pharmacological interventions. | Cochrane Database Syst Rev
+- new | 2019 | 31681006 | Systematic Review | Ginkgolide B for Myocardial Ischemia/Reperfusion Injury: A Preclinical Systematic Review and Meta-Analysis. | Front Physiol
+- HELD REF-2547 | 2018 | 29575228 | Systematic Review | Herbal medicines in the treatment of psychiatric disorders: 10-year updated review. | Phytother Res
+- new | 2018 | 29454493 | Research Support, Non-U.S. Gov't/Systematic Review | Updating the recommendations for treatment of tardive syndromes: A systematic review of new evidence and practical treatment algorithm. | J Neurol Sci
+- new | 2018 | 29289576 | Systematic Review | Botanicals and phytochemicals active on cognitive decline: The clinical evidence. | Pharmacol Res
+- new | 2018 | 30201879 | Review | Potential Therapeutic Benefits of Herbs and Supplements in Patients with NAFLD. | Diseases
+- new | 2018 | 30121603 | Meta-Analysis/Systematic Review | Ginkgo biloba extract for prevention of acute mountain sickness: a systematic review and meta-analysis of randomised controlled trials. | BMJ Open
+- new | 2018 | 29732913 | Meta-Analysis/Systematic Review | Augmentation strategies for clozapine refractory schizophrenia: A systematic review and meta-analysis. | Aust N Z J Psychiatry
+- new | 2018 | 29168225 | Systematic Review | GABA-modulating phytomedicines for anxiety: A systematic review of preclinical and clinical evidence. | Phytother Res
+- new | 2017 | 27914909 | Review | Benefits, pitfalls and risks of phytotherapy in clinical practice in otorhinolaryngology. | Eur Ann Otorhinolaryngol Head Neck Dis
+- new | 2016 | 26268332 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Ginkgo Biloba for Mild Cognitive Impairment and Alzheimer's Disease: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Curr Top Med Chem
+- new | 2016 | 26848926 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Antioxidant treatments for schizophrenia. | Cochrane Database Syst Rev
+- HELD REF-0829 | 2015 | 25114079 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Efficacy and adverse effects of ginkgo biloba for cognitive impairment and dementia: a systematic review and meta-analysis. | J Alzheimers Dis
+- new | 2015 | 25710794 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Interventions for vitiligo. | Cochrane Database Syst Rev
+- new | 2015 | 25980333 | Meta-Analysis/Systematic Review | Efficacy and safety of extract of Ginkgo biloba as an adjunct therapy in chronic schizophrenia: A systematic review of randomized, double-blind, placebo-controlled studies with met | Psychiatry Res
+- new | 2015 | 26263293 | Meta-Analysis | Ginkgo biloba (EGb 761): A Proprietary Leaf Extract of Ginkgo biloba Is Found to be Safe and Effective for Treating Dementia. | Holist Nurs Pract
+- new | 2014 | 25328113 | Systematic Review | Tinnitus. | BMJ Clin Evid
+- new | 2014 | 25004874 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Ginkgo biloba on focal cerebral ischemia: a systematic review and meta-analysis. | Am J Chin Med
+- new | 2013 | 23781271 |  | A Systematic Review and Meta-Analysis of Ginkgo biloba in Neuropsychiatric Disorders: From Ancient Tradition to Modern-Day Medicine. | Evid Based Complement Alternat Med
+- new | 2012 | 23870856 | Systematic Review | Dementia. | BMJ Clin Evid
+- new | 2012 | 22331367 | Systematic Review | Tinnitus. | BMJ Clin Evid
+- new | 2012 | 22275325 | Systematic Review | Do dietary supplements have beneficial health effects in industrialized nations: what is the evidence? | JPEN J Parenter Enteral Nutr
+- new | 2011 | 21923430 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Is there a risk of bleeding associated with standardized Ginkgo biloba extract therapy? A systematic review and meta-analysis. | Pharmacotherapy
+- new | 2010 | 21726471 | Systematic Review | Dementia. | BMJ Clin Evid
+- HELD REF-2436 | 2009 | 19719333 | Systematic Review | Interactions between herbal medicines and prescribed drugs: an updated systematic review. | Drugs
+- new | 2009 | 21726476 | Systematic Review | Tinnitus. | BMJ Clin Evid
+- new | 2007 | 19454115 | Systematic Review | Tinnitus. | BMJ Clin Evid
+- new | 2004 | 15228642 | Research Support, Non-U.S. Gov't/Systematic Review | Evidence-based pharmacotherapy of Alzheimer's disease. | Int J Neuropsychopharmacol
+
+### PubMed SAFE - 1094 hits, 143 not already listed above, 142 new
+- new | 2026 | 40248928 | Review | Unveiling the Pharmacological Effects of Ginkgo biloba: Clinical Relevance and Applications. | Cent Nerv Syst Agents Med Chem
+- new | 2026 | 42480625 | Review | Reinventing Ginkgo biloba therapeutics through nanoparticles: Mechanisms, applications, and translational perspectives. | Fitoterapia
+- new | 2026 | 42552469 | Review | Ginkgo biloba L. in preventing cardiovascular disease: pharmacological effects, mechanism of action, and therapeutic potential. | Acta Pharmacol Sin
+- new | 2026 | 42705070 |  | Ultrasonic-combined pH-shifting enhances functional properties and reduces allergenicity of ginkgo seed glycoprotein. | Food Chem
+- new | 2025 | 40198642 | Observational Study | Impact of Ginkgo biloba drug interactions on bleeding risk and coagulation profiles: A comprehensive analysis. | PLoS One
+- new | 2025 | 40098412 | Letter | Adverse Reactions to Ginkgo biloba Medicinal Products Released in European Countries. | Phytother Res
+- new | 2025 | 39476880 |  | Ginkgo biloba extract safety: Insights from a real-world pharmacovigilance study of FDA adverse event reporting system (FAERS) events. | J Ethnopharmacol
+- new | 2025 | 40762894 | Review | Ginkgetin from Ginkgo biloba: mechanistic insights into anticancer efficacy. | Nat Prod Bioprospect
+- new | 2025 | 39880663 | Review | The Pharmacology and Toxicology of Ginkgolic Acids: Secondary Metabolites from Ginkgo biloba. | Am J Chin Med
+- new | 2025 | 39920681 |  | The mechanisms of efficacy and safety of Ginkgo biloba extract in acute ischemic stroke: a real-world study. | Thromb J
+- new | 2025 | 40933618 | Research Support, Non-U.S. Gov't | Optimized Ginkgo biloba extract EGb 761(®): boosted therapeutic benefits with minimized CYP enzyme interference. | J Pharm Pharm Sci
+- new | 2025 | 41241542 | Research Support, Non-U.S. Gov't | Mechanistic insights into Ginkgo-nerolidol compound preparation against the bloom-forming dinoflagellate Prorocentrum donghaiense. | Harmful Algae
+- new | 2025 | 40100376 |  | Ginkgo biloba L. leaf extract (EGb 761) alleviates reserpine-induced depression-like symptoms in aged rats by enhancing serotonin/norepinephrine levels and reducing oxidative/nitro | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2025 | 39903108 |  | Identification of a central regulator of ginkgolide biosynthesis in Ginkgo biloba that integrates jasmonate and light signaling. | Proc Natl Acad Sci U S A
+- new | 2024 | 37930133 | Research Support, Non-U.S. Gov't | Safety Assessment of Ginkgo biloba-Derived Ingredients as Used in Cosmetics. | Int J Toxicol
+- new | 2024 | 39068924 | Multicenter Study/Clinical Trial, Phase IV/Research Support, Non-U.S. Gov't | Multicenter, Open-Label, Prospective Study Shows Safety and Therapeutic Benefits of a Defined Ginkgo Biloba Extract for Adults with Major Neurocognitive Disorder. | Dement Geriatr Cogn Disord
+- new | 2024 | 38654507 | Review | Ginkgo biloba and Its Chemical Components in the Management of Alzheimer's Disease. | Am J Chin Med
+- new | 2024 | 39701685 |  | [Pharmacokinetic differences and related mechanisms of ginkgo flavone aglycone in normal and atherosclerotic rats in vivo]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2024 | 39345081 |  | Efficacy and Hemorheology of Ginkgo biloba Extract (EGb 761) in the Treatment of Sudden Sensorineural Hearing Loss: A Retrospective Study. | Noise Health
+- new | 2024 | 38286926 |  | Ginkgo biloba extract protects against tartrazine-induced testicular toxicity in rats: involvement of antioxidant, anti-inflammatory, and anti-apoptotic mechanisms. | Environ Sci Pollut Res Int
+- new | 2024 | 38701296 | Comparative Study/Systematic Review/Network Meta-Analysis | Comparative efficacy and safety of ginkgo-based Chinese patent medicines in patients with hypertension: A systematic review and network meta-analysis of randomized clinical trials. | Medicine (Baltimore)
+- new | 2024 | 39496028 | Systematic Review/Meta-Analysis | Efficacy and safety of edaravone combined with Ginkgo Leaf Extract and Dipyridamole in the treatment of acute cerebral infarction: A systematic review and meta-analysis. | Medicine (Baltimore)
+- new | 2024 | 38601873 |  | Safety and efficacy of a feed additive consisting of a dry extract obtained from the leaves of Ginkgo biloba L. (ginkgo extract) for horses, dogs, cats, rabbits and guinea pigs (FE | EFSA J
+- new | 2024 | 38430820 | Randomized Controlled Trial/Multicenter Study | Efficacy and safety evaluation of Ginkgo biloba dropping pill (GBDP) on stable angina pectoris complicated with depression: A placebo-controlled, randomized, double-blind, multicen | Phytomedicine
+- new | 2024 | 39149101 | Review | From traditional medicine to nanomedicine: potential of Ginkgo biloba extracts in treating inflammatory skin diseases. | RSC Med Chem
+- new | 2024 | 38764478 |  | Safety and efficacy of feed additives consisting of ginkgo tinctures obtained from the leaves of Ginkgo biloba L. for use in all animal species (FEFANA asbl). | EFSA J
+- new | 2024 | 38110608 |  | Ginkgo Biloba Extract Can Antagonize Subchronic Arsenite Exposure-Induced Hepatocyte Senescence by Inhibiting Oxidative Damage and Inflammation in Rats. | Biol Trace Elem Res
+- new | 2023 | 31082068 | Study Guide | Ginkgo Biloba. | 
+- new | 2023 | 36840704 |  | Metabolic interaction between biflavonoids in Ginkgo biloba leaves and tacrolimus. | Biopharm Drug Dispos
+- new | 2023 | 36916480 |  | Effect of Ginkgo biloba extract on pharmacology and pharmacokinetics of atorvastatin in rats with hyperlipidaemia. | Food Funct
+- new | 2023 | 35978237 |  | Comparative study between effects of ginkgo biloba extract and extract loaded on gold nanoparticles on hepatotoxicity induced by potassium bromate. | Environ Sci Pollut Res Int
+- new | 2023 | 36996648 | Review | Polyprenols in Ginkgo biloba; a review of their chemistry (synthesis of polyprenols and their derivatives), extraction, purification, and bioactivities. | Food Chem
+- new | 2023 | 37241734 | Review | The Potential of Ginkgo biloba as a Source of Biologically Active Compounds-A Review of the Recent Literature and Patents. | Molecules
+- new | 2023 | 36773449 |  | Ginkgo, fennel, and flaxseed can affect hormone release by porcine ovarian cells and modulate the effect of toluene. | Reprod Biol
+- new | 2023 | 36167113 | Research Support, Non-U.S. Gov't | Effect of Ginkgo biloba leaves on the removal efficiency of Cr(VI) in soil and its underlying mechanism. | Environ Res
+- new | 2022 | 36304165 | Review | Ginkgo biloba leaf extract EGb 761(®) as a paragon of the product by process concept. | Front Pharmacol
+- new | 2022 | 35265150 | Review | Ginkgo biloba: A Treasure of Functional Phytochemicals with Multimedicinal Applications. | Evid Based Complement Alternat Med
+- new | 2022 | 35975782 |  | Effects of aged garlic and ginkgo biloba extracts on the pharmacokinetics of sofosbuvir in rats. | Biopharm Drug Dispos
+- new | 2022 | 36065842 | Review | A critical review of ginkgolic acids in Ginkgo biloba leaf extract (EGb): toxicity and technologies to remove ginkgolic acids and their promising bioactivities. | Food Funct
+- new | 2022 | 36050299 | Research Support, Non-U.S. Gov't | A gene cluster in Ginkgo biloba encodes unique multifunctional cytochrome P450s that initiate ginkgolide biosynthesis. | Nat Commun
+- new | 2022 | 36249800 |  | Uncovering the pharmacology of Ginkgo biloba folium in the cell-type-specific targets of Parkinson's disease. | Front Pharmacol
+- new | 2022 | 35988840 | Review | Leaves, seeds and exocarp of Ginkgo biloba L. (Ginkgoaceae): A Comprehensive Review of Traditional Uses, phytochemistry, pharmacology, resource utilization and toxicity. | J Ethnopharmacol
+- new | 2022 | 33349067 |  | Hepatoprotective effect of Ginkgo biloba extract against methotrexate-induced hepatotoxicity via targeting STAT3/miRNA-21 axis. | Drug Chem Toxicol
+- new | 2022 | 35392576 | Systematic Review | The Efficacy and Safety of Ginkgo Terpene Lactone Preparations in the Treatment of Ischemic Stroke: A Systematic Review and Meta-Analysis of Randomized Clinical Trials. | Front Pharmacol
+- new | 2022 | 35758248 |  | Effects of ginkgo leaf tablet on the pharmacokinetics of rosiglitazone in rats and its potential mechanism. | Pharm Biol
+- new | 2022 | 36156538 | Case Reports | Alleviation of Post-COVID-19 Cognitive Deficits by Treatment with EGb 761®: A Case Series. | Am J Case Rep
+- new | 2022 | 35294126 | Multicenter Study/Randomized Controlled Trial | Effectiveness and safety of Ginkgo biloba extract (GBE50) in the treatment of dizziness caused by cerebral arteriosclerosis: a multi-center, double-blind, randomized controlled tri | J Tradit Chin Med
+- new | 2022 | 35295338 |  | Potent Inhibition of Human Cytochrome P450 3A4 by Biflavone Components from Ginkgo Biloba and Selaginella Tamariscina. | Front Pharmacol
+- new | 2021 | 34342079 | Review | Bilobalide: A review of its pharmacology, pharmacokinetics, toxicity, and safety. | Phytother Res
+- new | 2021 | 33850548 |  | Ginkgo biloba delays light-induced photoreceptor degeneration through antioxidant and antiapoptotic properties. | Exp Ther Med
+- new | 2021 | 32329705 | Research Support, Non-U.S. Gov't/Review | Protective Potential of Ginkgo biloba Against an ADHD-like Condition. | Curr Mol Pharmacol
+- new | 2021 | 34560547 |  | Ginkgo biloba extract (EGb 761) mitigates methotrexate-induced testicular insult in rats: Targeting oxidative stress, energy deficit and spermatogenesis. | Biomed Pharmacother
+- new | 2021 | 33352242 |  | Enhanced anti-amnestic effect of donepezil by Ginkgo biloba extract (EGb 761) via further improvement in pro-cholinergic and antioxidative activities. | J Ethnopharmacol
+- new | 2021 | 33530619 | Research Support, Non-U.S. Gov't | 4'-O-methylpyridoxine: Preparation from Ginkgo biloba Seeds and Cytotoxicity in GES-1 Cells. | Toxins (Basel)
+- new | 2021 | 33897864 |  | Safety and efficacy of a feed additive consisting of a dried extract from the leaves of Ginkgo biloba L. (G. biloba dry extract) for use in cats and dogs (C.I.A.M.). | EFSA J
+- new | 2021 | 34425140 |  | In vivo toxicity assessment of 4'-O-methylpyridoxine from Ginkgo biloba seeds: Growth, hematology, metabolism, and oxidative parameters. | Toxicon
+- new | 2021 | 34335893 |  | Ginkgo biloba extract protects human neuroblastoma SH-SY5Y cells against oxidative glutamate toxicity by activating redoxosome-p66Shc. | Exp Ther Med
+- new | 2021 | 34010745 |  | Ginkgo biloba leaf extract suppresses intestinal human breast cancer resistance protein expression in mice: Correlation with gut microbiota. | Biomed Pharmacother
+- new | 2020 | 32144952 | Comparative Study | Glucuronidation and its effect on the bioactivity of amentoflavone, a biflavonoid from Ginkgo biloba leaves. | J Pharm Pharmacol
+- new | 2020 | 32047675 | Case Reports | Epileptic Seizure from Ginkgo Nut Intoxication in an Adult. | Case Rep Emerg Med
+- new | 2020 | 32486047 |  | Ginkgo biloba Extract Protects against Methotrexate-Induced Hepatotoxicity: A Computational and Pharmacological Approach. | Molecules
+- new | 2020 | 32132337 | Case Reports | An Adult Case of Generalized Convulsions Caused by the Ingestion of Ginkgo biloba Seeds with Alcohol. | Intern Med
+- new | 2019 | 30606915 | Review | [Food Poisoning by Ginkgo Seeds through Vitamin B(6) Depletion]. | Yakugaku Zasshi [jpn]
+- new | 2019 | 31379955 | Review | The Effect of Ginkgo Biloba Dropping Pills on Hemorheology and Blood Lipid: A Systematic Review of Randomized Trials. | Evid Based Complement Alternat Med
+- new | 2019 | 31866861 | Systematic Review | Efficacy and Safety of Ginkgo Leaf Extract and Dipyridamole Injection for Ischemic Stroke: A Systematic Review and Meta Analysis. | Front Pharmacol
+- new | 2019 | 31526502 |  | Potential hepatic and renal toxicity induced by the biflavonoids from Ginkgo biloba. | Chin J Nat Med
+- new | 2019 | 31713332 | Case Reports/Letter | Ginkgo biloba-related hyponatraemia: a reminder that herbal supplements are not benign. | Intern Med J
+- new | 2019 | 32186000 | Research Support, Non-U.S. Gov't/Systematic Review/Network Meta-Analysis | Efficacy and safety of ginkgo injections in the treatment of angina pectoris caused by coronary heart disease in China: a network Meta-analysis and systematic review. | J Tradit Chin Med
+- new | 2019 | 30366747 | Case Reports | Concentrations of various forms of vitamin B(6) in ginkgo seed poisoning. | Brain Dev
+- new | 2019 | 31281140 |  | First record of Ginkgo-toothed beaked whale (Mesoplodon ginkgodens) stranded in Korea. | J Vet Med Sci
+- new | 2019 | 31188698 |  | Effects of Ginkgo leaf tablets on the pharmacokinetics of atovastatin in rats. | Pharm Biol
+- new | 2019 | 31202939 |  | Systemic exposure to Ginkgo biloba extract in male F344/NCrl rats: Relevance to humans. | Food Chem Toxicol
+- new | 2019 | 31103779 |  | Immobilized α-amylase magnetic beads for ligand fishing: Proof of concept and identification of α-amylase inhibitors in Ginkgo biloba. | Phytochemistry
+- new | 2019 | 30712205 |  | Immunostimulating effects of Ginkgo biloba extract against toxicity induced by organophosphate pesticide, diazinon in rainbow trout, Oncorhynchus mykiss: innate immunity components | Environ Sci Pollut Res Int
+- new | 2019 | 31113761 |  | Analysis of spontaneous adverse drug reactions to echinacea, valerian, black cohosh and ginkgo in Australia from 2000 to 2015. | J Integr Med
+- new | 2019 | 31564880 |  | Efficacy of ginkgo biloba extract as augmentation of venlafaxine in treating post-stroke depression. | Neuropsychiatr Dis Treat
+- new | 2018 | 29757557 |  | [Effects of ginkgo biloba extract combined with glucocorticoid on olfactory function and inflammatory cytokines in mice with allergic rhinitis]. | Lin Chuang Er Bi Yan Hou Tou Jing Wai Ke [chi]
+- new | 2018 | 29953302 |  | Effects of Ginkgo leaf tablets on the pharmacokinetics of losartan and its metabolite EXP3174 in rats and its mechanism. | Pharm Biol
+- new | 2018 | 29319499 | Comparative Study/Observational Study | Similar treatment outcomes with Ginkgo biloba extract EGb 761 and donepezil in Alzheimer's dementia in very old age: A retrospective observational study. | Int J Clin Pharmacol Ther
+- new | 2018 | 29357859 | Randomized Controlled Trial | Clinical and genomic safety of treatment with Ginkgo biloba L. leaf extract (IDN 5933/Ginkgoselect®Plus) in elderly: a randomised placebo-controlled clinical trial [GiBiEx]. | BMC Complement Altern Med
+- new | 2017 | 28055331 | Review | Review of Ginkgo biloba-induced toxicity, from experimental studies to human case reports. | J Environ Sci Health C Environ Carcinog 
+- new | 2017 | 28723603 | Review | Ginkgo biloba in the treatment of tinnitus: An updated literature review. | Int Tinnitus J
+- new | 2017 | 28174634 | Case Reports | Acquired hemophilia A in a patient treated by Ginkgo-dipyridamolum. | Clin Case Rep
+- new | 2017 | 27908257 | Review | Ginkgo biloba as an Alternative Medicine in the Treatment of Anxiety in Dementia and other Psychiatric Disorders. | Curr Drug Metab
+- new | 2017 | 28928661 |  | Ginkgo biloba Extract (GbE) Stimulates the Hypothalamic Serotonergic System and Attenuates Obesity in Ovariectomized Rats. | Front Pharmacol
+- new | 2017 | 28809433 | Validation Study | Pharmacokinetic and ocular microdialysis study of oral ginkgo biloba extract in rabbits by UPLC-MS/MS determination. | J Pharm Pharmacol
+- new | 2017 | 28243101 |  | Efficacy and safety of Ginkgo biloba standardized extract in the treatment of vascular cognitive impairment: a randomized, double-blind, placebo-controlled clinical trial. | Neuropsychiatr Dis Treat
+- new | 2017 | 28144968 | Case Reports | Adverse event due to a likely interaction between sodium aescinate and ginkgo biloba extract: a case report. | J Clin Pharm Ther
+- new | 2017 | 28123157 |  | Olive and ginkgo extracts as potential cataract therapy with differential inhibitory activity on aldose reductase. | Drug Discov Ther
+- new | 2016 | 27487816 |  | Effect of Ginkgo Biloba Extract on the Pharmacokinetics and Metabolism of Clopidogrel in Rats. | Phytother Res
+- new | 2016 | 27870101 |  | Airborne contact dermatitis caused by the sarcotesta of Ginkgo biloba. | Contact Dermatitis
+- new | 2016 | 26852855 | Research Support, Non-U.S. Gov't | Preparation and Physicochemical and Pharmacokinetic Characterization of Ginkgo Lactone Nanosuspensions for Antiplatelet Aggregation. | J Pharm Sci
+- new | 2016 | 30263354 |  | Allergic identification for ginkgo kernel protein in guinea pigs. | Food Sci Biotechnol
+- new | 2016 | 27042354 |  | The Ginkgo biloba Extract Reverses the Renal Effects of Titanium Dioxide Nanoparticles in Adult Male Rats. | Biochem Res Int
+- new | 2016 | 26706698 | Research Support, Non-U.S. Gov't | Ginkgo biloba extract EGb 761-mediated inhibition of aromatase for the treatment of hormone-dependent breast cancer. | Food Chem Toxicol
+- new | 2016 | 27917801 |  | Effects of Ginkgo biloba extract on brain oxidative condition after cisplatin exposure. | Clin Invest Med
+- new | 2016 | 26650374 | Validation Study | Effect of Ginkgo Leaf Tablets on the Pharmacokinetics of Amlodipine in Rats. | Eur J Drug Metab Pharmacokinet
+- new | 2015 | 26958257 |  | Ginkgo and Warfarin Interaction in a Large Veterans Administration Population. | AMIA Annu Symp Proc
+- new | 2015 | 26819725 |  | Meta-analysis of the efficacy and safety of Ginkgo biloba extract for the treatment of dementia. | J Pharm Health Care Sci
+- new | 2015 | 25642989 | Research Support, Non-U.S. Gov't/Review | Ginkgo biloba Extract 761: A Review of Basic Studies and Potential Clinical Use in Psychiatric Disorders. | CNS Neurol Disord Drug Targets
+- new | 2015 | 26690406 |  | In Vivo and In Vitro Toxicity Evaluation of Polyprenols Extracted from Ginkgo biloba L. Leaves. | Molecules
+- new | 2015 | 26434836 | Research Support, Non-U.S. Gov't | Inhibitory Aromatase Effects of Flavonoids from Ginkgo Biloba Extracts on Estrogen Biosynthesis. | Asian Pac J Cancer Prev
+- new | 2015 | 25887018 | Case Reports | Unexplained alveolar hemorrhage associated with Ginkgo and ginseng use. | J Bronchology Interv Pulmonol
+- new | 2015 | 25473797 |  | Effects of compound Ginkgo biloba on intestinal permeability in rats with alcohol-induced liver injury. | Food Funct
+- new | 2014 | 24953034 | Research Support, Non-U.S. Gov't/Validation Study | Interactions of pharmacokinetic profile of different parts from Ginkgo biloba extract in rats. | J Ethnopharmacol
+- new | 2013 | 23865865 | Research Support, Non-U.S. Gov't/Review | Pharmacokinetic drug interactions involving Ginkgo biloba. | Drug Metab Rev
+- new | 2013 | 23703577 | Review | Ginkgo biloba extracts: a review of the pharmacokinetics of the active ingredients. | Clin Pharmacokinet
+- new | 2013 | 23451885 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Assessment of a pharmacokinetic and pharmacodynamic interaction between simvastatin and Ginkgo biloba extracts in healthy subjects. | Xenobiotica
+- new | 2013 | 23965545 | Case Reports/Letter | Allergic contact dermatitis due to ginkgo tree fruit and leaf. | Eur J Dermatol
+- new | 2012 | 31644154 | Review | Ginkgo. | 
+- new | 2012 | 22211952 |  | The protective effects of Ginkgo biloba extract (EGb-761) on radiation-induced dermatitis: an experimental study. | Clin Exp Dermatol
+- new | 2012 | 22253475 | Research Support, Non-U.S. Gov't | A single amino acid determines the toxicity of Ginkgo biloba extracts. | FASEB J
+- new | 2012 | 22323244 | Case Reports | A potential drug-herbal interaction between Ginkgo biloba and efavirenz. | J Int Assoc Physicians AIDS Care (Chic)
+- new | 2011 | 21364361 | Case Reports | Ginkgo biloba and cerebral bleeding: a case report and critical review. | Neurologist
+- new | 2011 | 21941062 | Case Reports | Ginkgo biloba: an ancient tree with new arrhythmic side effects. | J Postgrad Med
+- new | 2010 | 20359286 | Systematic Review | An update on drug interactions with the herbal medicine Ginkgo biloba. | Curr Drug Metab
+- new | 2009 | 19195661 | Review | Chemical analysis and quality control of Ginkgo biloba leaves, extracts, and phytopharmaceuticals. | J Chromatogr A
+- new | 2008 | 18211362 | Research Support, Non-U.S. Gov't/Review | Multifaceted therapeutic benefits of Ginkgo biloba L.: chemistry, efficacy, safety, and uses. | J Food Sci
+- new | 2007 | 17763047 | Review | Ginkgo biloba leave extract: biological, medicinal, and toxicological effects. | J Environ Sci Health C Environ Carcinog 
+- new | 2007 | 17450108 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Ginkgo biloba extract (EGb 761) protects against cisplatin-induced ototoxicity in rats. | Otol Neurotol
+- new | 2007 | 17982321 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | Effect of Ginkgo biloba (EGb 761) and aspirin on platelet aggregation and platelet function analysis among older adults at risk of cardiovascular disease: a randomized clinical tri | Blood Coagul Fibrinolysis
+- new | 2006 | 17085776 | Review | Safety and efficacy of ginkgo (Ginkgo biloba) during pregnancy and lactation. | Can J Clin Pharmacol
+- new | 2006 | 16428919 | Clinical Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Ginkgo biloba: evaluation of CYP2C9 drug interactions in vitro and in vivo. | Am J Ther
+- new | 2006 | 16432273 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | Ginkgo biloba does not alter clearance of flurbiprofen, a cytochrome P450-2C9 substrate. | J Clin Pharmacol
+- new | 2006 | 16444584 |  | Protective effects of ginkgo biloba against acetaminophen-induced toxicity in mice. | Mol Cell Biochem
+- new | 2005 | 15823059 | Review | Herb-drug interactions: interactions between Ginkgo biloba and prescription medications. | Geriatrics
+- new | 2005 | 15844362 | Editorial/Review | [Ginkgo seed food poisoning]. | Chudoku Kenkyu [jpn]
+- new | 2004 | 16400219 | Review | Ginkgo biloba--an appraisal. | Kathmandu Univ Med J (KUMJ)
+- new | 2004 | 15608563 | Comparative Study/Research Support, Non-U.S. Gov't | Pharmacogenetics and herb-drug interactions: experience with Ginkgo biloba and omeprazole. | Pharmacogenetics
+- new | 2004 | 15719673 | Research Support, Non-U.S. Gov't/Review | [Progress in research on constituents and pharmacological activities of sarcotestas of Ginkgo biloba]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2003 | 13130384 | Review | Effects of EGb 761 Ginkgo biloba extract on mitochondrial function and oxidative stress. | Pharmacopsychiatry
+- new | 2003 | 12914542 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S./Review | Ginkgo biloba extracts and cancer: a research area in its infancy. | Fundam Clin Pharmacol
+- new | 2003 | 13130396 | Comparative Study | Effect of Ginkgo biloba (EGb 761) on differential gene expression. | Pharmacopsychiatry
+- new | 2002 | 11826216 | Case Reports | Ginkgo seed poisoning. | Pediatrics
+- new | 2002 | 12396081 | Research Support, Non-U.S. Gov't | EGb 761 is a neuroprotective agent against beta-amyloid toxicity. | Cell Mol Biol (Noisy-le-grand)
+- new | 2001 | 11565403 | Review | Efficacy, safety, and use of ginkgo biloba in clinical and preclinical applications. | Altern Ther Health Med
+- new | 2001 | 11161079 | Case Reports | A case of cerebral haemorrhage-can Ginkgo biloba be implicated? | Postgrad Med J
+- new | 2001 | 11495672 | Clinical Trial/Randomized Controlled Trial | The effect of Ginkgo biloba on memory in healthy male volunteers. | Physiol Behav
+- HELD REF-2184 | 2000 | 11475535 | Review | Ginkgo biloba extract (EGb 761) and CNS functions: basic studies and clinical applications. | Curr Drug Targets
+- new | 1997 | 9109922 | Case Reports/Letter/Comment | Ginkgo biloba. | Neurology
+- new | 1997 | 9065574 | Case Reports/Comment/Letter | Ginkgo biloba. | Neurology
+- new | 1989 | 2774654 | Research Support, Non-U.S. Gov't | Allergic contact dermatitis to Ginkgo biloba L.: relationship with urushiol. | Arch Dermatol Res
+- new | 1965 | 14275883 |  | GINKGO-TREE DERMATITIS. | Arch Dermatol
+
+### PubMed OBS - 113 hits, 43 not already listed above, 43 new
+- new | 2026 | 40747816 | Randomized Controlled Trial/Comparative Study/Research Support, Non-U.S. Gov't | Comparative Analysis of Therapeutic Methods for Sudden Sensorineural Hearing Loss. | Clin Pharmacol Drug Dev
+- new | 2026 | 42477703 |  | Associations of Ginkgo biloba extract exposure with 12-month cognitive trajectories in amyloid PET-positive mild cognitive impairment and Alzheimer's disease: a pooled retrospectiv | BMC Complement Med Ther
+- new | 2026 | 42986498 | Systematic Review/Meta-Analysis | The impact of nutrition on glaucoma progression: evidence from systematic literature review and meta-analysis. | Int Ophthalmol
+- new | 2026 | 42438634 | Review | Primary Vascular Dysregulation in Normal-Tension Glaucoma: Pathophysiology and Management. | Cureus
+- new | 2026 | 41984497 | Research Support, Non-U.S. Gov't | Ginkgo biloba and longitudinal changes in amyloid PET and plasma amyloid-β oligomerization in amyloid-positive mild cognitive impairment: A retrospective analysis. | J Alzheimers Dis
+- new | 2025 | 41429540 |  | [Retrospective analysis of 55 cases of spring thunderstorm asthma in Chongqing City]. | Zhonghua Yu Fang Yi Xue Za Zhi [chi]
+- new | 2025 | 40435579 |  | Protective effects of Ginkgo biloba supplementation on clinical outcomes in metabolic dysfunction-associated steatotic liver disease. | Phytomedicine
+- new | 2025 | 39906494 |  | The sensitivity of reconstructed carbon dioxide concentrations to stomatal preparation methods using a leaf gas exchange model. | Appl Plant Sci
+- new | 2025 | 41067150 |  | UV-B promotes flavonoid biosynthesis by regulating the LncNAT3-GbMYB6 module in Ginkgo biloba. | Plant Physiol Biochem
+- new | 2025 | 40613611 |  | Exploration of Drugs Associated With the Development of Bullous Pemphigoid: A Nationwide Study. | J Dermatol
+- new | 2024 | 39851380 |  | Ginkgo biloba Extract Prescriptions Are Associated with Slower Progression of Dementia Severity-Analysis of Longitudinal Real-World Data. | Brain Sci
+- new | 2024 | 39144706 |  | Ginkgo biloba extract prescriptions are associated with less frequent repeat visits to ENT doctors due to tinnitus: a retrospective cohort study. | Front Neurol
+- new | 2024 | 39973826 | Comparative Study/Observational Study | Comparative analysis of efficacy, safety, and cost-effectiveness of betahistine alone, caroverine alone, and caroverine plus ginkgo biloba in moderate tinnitus. | Indian J Pharmacol
+- new | 2024 | 38894516 |  | Assessment of Undergraduate Nursing Students' Understanding of Herbal Medicines and Herb-Drug Interactions in Riyadh, Saudi Arabia. | Med Sci Monit
+- new | 2023 | 35436383 | Research Support, N.I.H., Extramural | Air pollution and dementia in older adults in the Ginkgo Evaluation of Memory Study. | Alzheimers Dement
+- new | 2023 | 36839160 |  | Parkinson Symptom Severity and Use of Nutraceuticals. | Nutrients
+- new | 2023 | 36773564 | Research Support, Non-U.S. Gov't/Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S. | Air pollution and plasma amyloid beta in a cohort of older adults: Evidence from the Ginkgo Evaluation of Memory study. | Environ Int
+- new | 2022 | 35994847 | Randomized Controlled Trial | Efficacy of Diterpene Ginkgolides Meglumine injection in elderly patients with ischemic stroke: A post hoc analysis of a randomized controlled trial. | Phytomedicine
+- new | 2022 | 33048645 | Observational Study | Assessment of pharmacy students' knowledge, attitude, and practice toward herbal dietary supplements. | J Am Coll Health
+- new | 2022 | 35124648 | Research Support, Non-U.S. Gov't | Association Between Ginkgo Biloba Extract Prescriptions and Dementia Incidence in Outpatients with Mild Cognitive Impairment in Germany: A Retrospective Cohort Study. | J Alzheimers Dis
+- new | 2022 | 34983603 |  | Clinical and economic analysis of Gastrodin injection for dizziness or vertigo: a retrospective cohort study based on electronic health records in China. | Chin Med
+- new | 2022 | 36501109 | Randomized Controlled Trial | Investigating the Effects of a Multinutrient Supplement on Cognition, Mood and Biochemical Markers in Middle-Aged Adults with 'Optimal' and 'Sub-Optimal' Diets: A Randomized Double | Nutrients
+- new | 2021 | 33594843 | Review | Evidence that Ginkgo Biloba could use in the influenza and coronavirus COVID-19 infections. | J Basic Clin Physiol Pharmacol
+- new | 2021 | 33568102 | Research Support, Non-U.S. Gov't | Utilization of potentially inappropriate medication and risk of adverse drug events among older adults with chronic renal insufficiency: a population-wide cohort study. | BMC Geriatr
+- new | 2021 | 33880495 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Case-cohort study of plasma phospholipid fatty acid profiles, cognitive function, and risk of dementia: a secondary analysis in the Ginkgo Evaluation of Memory Study. | Am J Clin Nutr
+- new | 2020 | 32681411 | Review | Dietary Interventions to Prevent or Delay Alzheimer's Disease: What the Evidence Shows. | Curr Nutr Rep
+- new | 2019 | 31673442 | Review | Effective Medicinal Plants in the Treatment of the Cyclic Mastalgia (Breast Pain): A Review. | J Pharmacopuncture
+- new | 2019 | 31039769 | Observational Study | Effect of a multi-ingredient based food supplement on sexual function in women with low sexual desire. | BMC Womens Health
+- new | 2017 | 28177134 | Systematic Review | The influence of combination use of CYP450 inducers on the pharmacokinetics of voriconazole: a systematic review. | J Clin Pharm Ther
+- new | 2017 | 29188855 |  | Ginkgo Biloba Extract Consumption and Long-Term Occurrence of Death and Dementia. | J Prev Alzheimers Dis
+- new | 2017 | 28025058 |  | Moderate doses of commercial preparations of Ginkgo biloba do not alter markers of liver function but moderate alcohol intake does: A new approach to identify and quantify biomarke | Regul Toxicol Pharmacol
+- new | 2015 | 26189203 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Cognitive Impairment and Community Integration Outcomes in Individuals Living With Multiple Sclerosis. | Arch Phys Med Rehabil
+- new | 2014 | 24642692 | Research Support, Non-U.S. Gov't | Usage of plant food supplements across six European countries: findings from the PlantLIBRA consumer survey. | PLoS One
+- new | 2013 | 23675366 |  | Clinical and Demographic Features of Vertigo: Findings from the REVERT Registry. | Front Neurol
+- new | 2012 | 22784428 | Research Support, Non-U.S. Gov't/Review | Clinical data in early intervention. | Int Psychogeriatr
+- new | 2011 | 21226789 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Personality and medication non-adherence among older adults enrolled in a six-year trial. | Br J Health Psychol
+- new | 2011 | 21598177 | Research Support, N.I.H., Extramural | Specialty supplements and prostate cancer risk in the VITamins and Lifestyle (VITAL) cohort. | Nutr Cancer
+- new | 2010 | 20308777 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Review | Promoting successful cognitive aging: a comprehensive review. | J Alzheimers Dis
+- new | 2009 | 19745669 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | The association between self-reported glaucoma and ginkgo biloba use. | J Glaucoma
+- new | 2008 | 18667008 | Review | Phytochemicals and age-related eye diseases. | Nutr Rev
+- new | 2008 | 18779228 | Research Support, Non-U.S. Gov't/Review | Dementia prevention: methodological explanations for inconsistent results. | Epidemiol Rev
+- new | 2006 | 17576449 |  | Natural health products that inhibit angiogenesis: a potential source for investigational new agents to treat cancer-Part 2. | Curr Oncol
+- new | 2005 | 15727161 | Comparative Study/Meta-Analysis/Research Support, Non-U.S. Gov't | Treatment of vertigo with a homeopathic complex remedy compared with usual treatments: a meta-analysis of clinical trials. | Arzneimittelforschung
+
+### PubMed REV - 694 hits, 18 not already listed above, 16 new
+- new | 2023 | 36650621 | Review | Herb-Drug Interactions and Their Impact on Pharmacokinetics: An Update. | Curr Drug Metab
+- new | 2022 | 36304597 | Review | Dietary supplements and bleeding. | Proc (Bayl Univ Med Cent)
+- new | 2021 | 34182907 | Review | A Review on Pharmacokinetic and Pharmacodynamic Drug Interactions of Adrenergic β-blockers with Clinically Relevant Drugs-An Overview. | Curr Drug Metab
+- new | 2021 | 34245409 | Review | Neuroregulatory role of ginkgolides. | Mol Biol Rep
+- new | 2020 | 32607093 | Review | Herbal Medicines in Glaucoma Treatment. | Yale J Biol Med
+- new | 2020 | 33400462 | Review | Natural Products for Neurocognitive Disorders. | 
+- new | 2020 | 32012936 | Review | The Use of Antioxidants in the Treatment of Migraine. | Antioxidants (Basel)
+- HELD REF-0824 | 2019 | 31376068 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Review | Neuroprotective and Antioxidant Effect of Ginkgo biloba Extract Against AD and Other Neurological Disorders. | Neurotherapeutics
+- new | 2017 | 29218933 | Review | [Research progress of Bixie]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2016 | 27413504 | Review | Neuroprotection in Glaucoma. | J Ophthalmic Vis Res
+- new | 2014 | 24867850 | Review | Herbal therapy in migraine. | Neurol Sci
+- new | 2008 | 19029875 | Review | Herbal drug treatment. | Neuro Endocrinol Lett
+- new | 2005 | 15953828 | Research Support, Non-U.S. Gov't/Review | Natural antioxidants for neurodegenerative diseases. | Mol Neurobiol
+- new | 2003 | 13678141 | Research Support, U.S. Gov't, P.H.S./Review | Ginkgo biloba. | Am Fam Physician
+- new | 2002 | 12457632 | Review | Bilobalide and neuroprotection. | Pharmacol Res
+- HELD REF-0844 | 2000 | 10675182 | Review | Herb-drug interactions. | Lancet
+- new | 1999 | 10531760 | Case Reports/Review | Dietary supplement-drug interactions. | J Am Med Womens Assoc (1972)
+- new | 1989 | 2698952 | Review | [Flavonoids as medicines]. | J Pharm Belg [fre]
+
+### ClinicalTrials.gov - 101 registered studies
+- NCT03004508 | UNKNOWN | results=False | PHASE2 | Safety of Ginkgo Biloba Leaf Extract | conds: Healthy | intr: Gingko Biloba Extract, Placebo | pubs: ['23652021:RESULT (new)', '23410167:RESULT (new)', '25446328:RESULT (new)', '12213959:RESULT (new)', '16973674:RESULT (new)', '24184488:RESULT (new)', '29357859:DERIVED (new)']
+- NCT05906199 | COMPLETED | results=False | PHASE4 | A Study to Compare the Effects of Improving the Carotid Artery Intima Media Thickness and Changing Lipid Levels by Cilostazol/Ginkgo Leaf Ex | conds: Diabetic Peripheral Angiopathy | intr: Renexin CR 200/160mg, Aspirin 100mg | pubs: ['40803668:DERIVED (new)']
+- NCT02098330 | COMPLETED | results=False | PHASE3 | The Efficacy of Steroid Therapy in Vestibular Neuritis | conds: Vestibular Neuritis | intr: Ginkgo biloba & Methylprednisolone, Ginkgo biloba | pubs: ['28391531:DERIVED (new)']
+- NCT07166835 | NOT_YET_RECRUITING | results=False | NA | Exploring the Cognitive Benefits of a Blackcurrant-Based Supplement in Normobaric Hypoxia | conds: Cognitive Performance, Executive Function (Cognition), Working Memory, Hypoxia Induced Cognitive Impairment | intr: Nootropics (ginkgo biloba, nicergoline, piracetam, or others), Placebo
+- NCT06124703 | UNKNOWN | results=False | NA | Different Dosing Regimens of STOP-AST | conds: Hearing Loss, Tinnitus, Sensorineural Hearing Loss | intr: Prednisone tablet, Ginkgo Biloba Extract
+- NCT01515839 | COMPLETED | results=False | NA | Single Photon Emission Computed Tomography (SPECT) Imaging Study of Professional American Football Players | conds: Traumatic Brain Injury | intr: Multivitamin Supplement intervention | pubs: ['21304145:RESULT (new)', '21615001:RESULT (new)']
+- NCT01160692 | COMPLETED | results=False | PHASE3 | A Study to Evaluate The Effects Of a Multivitamin/Mineral With Ginko In Subjects With Age Associated Memory Impairment | conds: Age-Related Memory Disorders | intr: Multivitamin/Multimineral/Ginkgo (BAY 81-2775), Placebo
+- NCT05531942 | UNKNOWN | results=False | PHASE2,PHASE3 | Antiplatelet Effect of Ginkgo Diterpene Lactone Meglumine Injection in Acute Ischemic Stroke | conds: Ischemic Stroke | intr: Ginkgo Diterpene Lactone Meglumine Injection, Acetylsalicylic acid
+- NCT05663307 | UNKNOWN | results=False | PHASE2,PHASE3 | The Effect of Ginkgolide on Clinical Improvement of Patients With Acute Ischemic Stroke | conds: Ischemic Stroke, Acute | intr: Ginkgo diterpene lactone meglumine injection, Ginkgo diterpene lactone meglumine injection simulatio
+- NCT04846179 | COMPLETED | results=False | PHASE4 | To Evaluate the Effect of Ginkgo Biloba Extract on Optic Nerve Head Perfusion Examined Using OCTA | conds: Glaucoma | intr: Ginkgo biloba extract
+- NCT04192656 | RECRUITING | results=False | PHASE4 | The Effect of PAP on ISSHL Comorbided With OSA | conds: Sudden Hearing Loss, Obstructive Sleep Apnea | intr: non-invasive positive airway pressure, Methylprednisolone Hemisuccinate, Ginaton
+- NCT03090516 | UNKNOWN | results=False | PHASE2,PHASE3 | Clinical Efficacy of Ginkgo Biloba Extract in the Treatment of Alzheimer's Disease | conds: Alzheimer's | intr: Ginkgo biloba dispersible tablets, Donepezil, Ginkgo biloba dispersible tablets and Donepezil
+- NCT00814346 | COMPLETED | results=True | PHASE2 | Effect of EGb761® on Brain Glucose Metabolism in Three Groups of Elderly Defined by Cognitive Functions | conds: Alzheimer's Disease, Cognitive Impairment | intr: EGb761®, Placebo
+- NCT00103012 | COMPLETED | results=True | PHASE4 | Drug Interactions of Echinacea, Ginseng, and Ginkgo Biloba Taken With Lopinavir/Ritonavir in Healthy Volunteers | conds: Healthy | intr: Gingko Biloba, Echinacea purpurea, Panax ginseng
+- NCT01672359 | COMPLETED | results=False | NA | Evaluating Whole Foods Supplementation on Cognition | conds: Sub-optimal Cognitive Function, Sub-optimal Immune Function | intr: Ginkgo Synergy® and Choline, OPC Synergy® and Catalyn, Placebo | pubs: ['24495355:DERIVED (new)']
+- NCT03125551 | WITHDRAWN | results=False | NA | ROTEM and Dietary Supplements | conds: Dietary Supplements, Bleeding Tendency; Due to Coagulation Defect | intr: Ginger, Garlic, Ginkgo Biloba, Ginseng
+- NCT02321475 | COMPLETED | results=False |  | EGb 761® (Tanakan®) Effectiveness in the Treatment of Patients of Middle Age and Younger With Psycho-emotional Symptoms, Added to Cognitive  | conds: Cognitive Disorders | intr: EGb761®
+- NCT03475823 | COMPLETED | results=False | NA | Cognitive and Blood Flow Effects of Mountain Tea | conds: Cognitive Change, Affect, Blood Pressure, Neuroimaging | intr: Sideritis Scardica, Ginkgo biloba, Placebo control
+- NCT01139281 | COMPLETED | results=False | PHASE2 | The Protective Effect of Ginkgo Biloba Extract on Cisplatin-induced Ototoxicity in Humans | conds: Ototoxicity, Hearing Loss | intr: Ginkgo Biloba Extract (GBE761), Placebo | pubs: ['10459293:RESULT (new)', '17450108:RESULT (new)']
+- NCT00010842 | COMPLETED | results=False | PHASE1,PHASE2 | Natural Antioxidants in the Treatment of Multiple Sclerosis | conds: Multiple Sclerosis | intr: Ginkgo biloba, Alpha-lipoic acid, Vitamin E/Selenium, Essential fatty acids
+- NCT01556854 | UNKNOWN | results=False |  | Comparative Effectiveness of Neuroprotectants on Acute Ischemic Stroke | conds: Acute Ischemic Stroke | intr: 
+- NCT03842514 | COMPLETED | results=False | NA | Food Additives - Do Processed Diets Impact on Gut and Metabolic Health | conds: Gut Health, Metabolic Health | intr: Soya lecithin
+- NCT01038050 | UNKNOWN | results=False | PHASE4 | Study Effects of Ginkgo Biloba Extract on Endothelial Cell Function and Genetic Effects on the Response to Ginkgo Biloba Extract in Diabetic | conds: Type 2 Diabetes Mellitus, Coronary Artery Disease | intr: Ginkgo Biloba Extract (GBE)
+- NCT03761992 | UNKNOWN | results=False | NA | Measurement of the Effect of Gingko Biloba Extract on Ocular and Nailfold Blood-flow in NTG | conds: Normal Tension Glaucoma | intr: Gingko Baloba, Placebo
+- NCT00500500 | TERMINATED | results=False | PHASE2 | Effect of EGb 761® on Patients With Mild to Moderate Alzheimer's Disease | conds: Alzheimer Disease | intr: EGb 761® (Tanakan®)
+- NCT00276341 | COMPLETED | results=False | PHASE3 | Study on the Effectiveness of EGb 761® vs Placebo Used for Cognitive Impairment in Patients With Multiple Sclerosis | conds: Multiple Sclerosis, Relapsing-Remitting | intr: EGb 761® (Tanakan®)
+- NCT05855863 | UNKNOWN | results=False | PHASE4 | Clinical Study of GKT in Diabetes Related Dementia | conds: Dementia | intr: Ginkgo Ketone Ester Tablets, placebo | pubs: ['23594859:RESULT (new)', '26289708:RESULT (new)', '25926349:RESULT (new)', '24405824:RESULT (new)', '26531676:RESULT (new)', '27109174:RESULT (new)']
+- NCT02984813 | TERMINATED | results=False | PHASE1 | Safety and Efficacy of Anti-Oxidants and Anti-inflammatory Agents in Glaucoma and Diabetic Retinopathy | conds: Open-angle Glaucoma, Diabetic Retinopathy | intr: GlaucoHealth, GlaucoSelect, Placebo
+- NCT07283562 | COMPLETED | results=False | NA | Gastrodin Acupoint Injection for Sensorineural Hearing Loss With Vertigo | conds: Sensorineural Hearing Loss, Vertigo | intr: Gastrodin Injection, Conventional Therapy
+- NCT06813274 | NOT_YET_RECRUITING | results=False | PHASE2 | Multicenter RCT of Eye-Brain Imaging in Diabetes Neurovascular Coupling | conds: Diabetes Mellitus, Diabetic Retinopathy, Cognitive Impairment, Neurovascular Coupling | intr: hypoglycemic treatment, Tangshen'an Granules, Ginkgo Leaf Tablets, Mecobalamin Tablets
+- NCT02526225 | COMPLETED | results=False | PHASE2 | A Safety and Effective Study of Ginkgolides Diterpene Lactone Meglumine Injection in the Treatment of Ischemic Stroke. | conds: Ischemic Stroke | intr: Ginkgo diterpene lactone meglumine injection, Ginkgo diterpene lactone meglumine injection simulatio | pubs: ['39548582:DERIVED (new)', '37578791:DERIVED (new)']
+- NCT03483779 | UNKNOWN | results=False | PHASE4 | Comparing Ginkgo Biloba Pills and Placebo in the Treatment of Coronary Heart Disease With Impaired Glucose Regulation | conds: Randomized Controlled Trial, Ginkgo Biloba Extract | intr: Ginkgo biloba pills, placebo pills | pubs: ['30405743:DERIVED (new)']
+- NCT05300594 | COMPLETED | results=False | NA | Effect of Audistim® Day/Night on Hearing Comfort and Patient Quality of Life of Patients With Chronic Tinnitus. | conds: Tinnitus | intr: Plant extracts, vitamins and mineral, Placebo
+- NCT02350595 | COMPLETED | results=False | NA | A Study on the Possible Health Effects of Lean Fish and Fatty Fish Intake in Overweight or Obese Adults | conds: Overweight, Obesity | intr: Lean fish, Fatty fish | pubs: ['28606215:RESULT (new)', '33576844:RESULT (new)', '33108521:RESULT (new)', '31760958:RESULT (new)', '31401679:RESULT (new)', '36631895:DERIVED (new)']
+- NCT00907062 | COMPLETED | results=False | PHASE1 | Ginkgo Biloba for the Treatment of Vitiligo Vulgaris in Adolescents | conds: Vitiligo Vulgaris | intr: Ginkgo biloba | pubs: ['21406109:DERIVED (new)']
+- NCT06140888 | NOT_YET_RECRUITING | results=False | NA | Effect of Ginkgo Biloba Extract on Cognitive Function in Acute Ischemic Stroke | conds: Acute Ischemic Stroke | intr: Ginkgo Biloba Extract
+- NCT01536210 | COMPLETED | results=False | PHASE3 | Efficacy and Safety Study of Combination of Ginkgo Extract and Ginseng Extract in Children With ADHD(Attention Deficit Hyperactivity Disorde | conds: Mental Disorders | intr: YY-162, Placebo | pubs: ['11394191:RESULT (new)']
+- NCT06309914 | COMPLETED | results=False | NA | The Effects of Mirtoselect®, Virtiva®, and Enovita® on Cognitive Performance and Mood States | conds: Mental Processes, Cognitive Change, Mood Change | intr: Placebo, Enovita Grape Seed Extract, Mirtoselect Bilberry Extract, Virtiva Plus Ginko Biloba Extract
+- NCT03482063 | COMPLETED | results=False | PHASE2 | The Effects of 12 Weeks Supplementation With a B-vitamin and Herbal Supplement on Neurocognitive Function and Mood | conds: Neurocognitive Function, Mood | intr: Swisse Ultiboost Memory + Focus, Placebo
+- NCT06403787 | COMPLETED | results=False | PHASE2,PHASE3 | Effect of Aerobic Training and Ginkgo Biloba on Lipids Levels in HIV-positive Patients Undergoing Antiretroviral Treatment | conds: Human Immunodeficiency Virus | intr: Aerobic exercise + Ginkgo Biloba Extract, Aerobic exercise + Calcined magnesia (placebo), Aerobic ex
+- NCT00841321 | COMPLETED | results=True | PHASE2 | Trial of Ginkgo as a Treatment for Cognitive Problems in Multiple Sclerosis | conds: Multiple Sclerosis, Cognitive Ability, General | intr: Ginkgo biloba, Placebo | pubs: ['22955125:RESULT (new)', '28093823:DERIVED (new)']
+- NCT02133989 | UNKNOWN | results=False | PHASE3 | Clopidogrel Resistance and Embolism in Carotid Artery Stenting | conds: Carotid Stenosis | intr: Ticlopidine + Ginko biloba, Clopidogrel | pubs: ['30761076:DERIVED (new)']
+- NCT03219645 | UNKNOWN | results=False | PHASE2,PHASE3 | Ginkgo Diterpene Lactone Meglumine Injection on Platelet Reactivity in Acute Ischemic Stroke | conds: Ischemic Stroke | intr: Ginkgo Diterpene Lactone Meglumine Injection, Acetylsalicylic acid
+- NCT02376114 | COMPLETED | results=False | PHASE2 | Ginkgo Biloba and Ocular Blood Flow in Primary Open-angle Glaucoma | conds: Glaucoma, Open-Angle | intr: Ginkgo biloba, Placebo to Ginkgo biloba
+- NCT07220538 | ACTIVE_NOT_RECRUITING | results=False | PHASE4 | A Study Testing How Well the Drug Extract of Ginkgo Biloba Leaves Tablets Works for People With Memory or Thinking Problems After a Stroke W | conds: Ischemic Stroke Hospitalized, Impairment, Cognitive | intr: Extract of Ginkgo Biloba Leaves Tablets 240 mg (2 x 40 mg, t.i.d.), Standard of care (SoC) Group
+- NCT00032474 | COMPLETED | results=False | PHASE1,PHASE2 | Ginkgo Biloba Extract and the Insulin Resistance Syndrome | conds: Type 2 Diabetes Mellitus | intr: Ginkgo biloba extract
+- NCT00689858 | COMPLETED | results=False | PHASE1 | Study to Assess the Effect of Pharmacokinetics/Pharmacodynamics (PK/PD) Interaction After co-Administration of Cilostazol With Ginkgo Biloba | conds: Healthy | intr: Cilostazol, Ginkgo biloba and placebo
+- NCT02386852 | COMPLETED | results=False | EARLY_PHASE1 | Ginseng and Ginkgo Biloba Effects on Cognition as Modulated by Cardiovascular Reactivity | conds: Blood Pressure, Cognition | intr: Placebo, Ginseng, Ginkgo Biloba | pubs: ['26938637:DERIVED (new)']
+- NCT01524380 | COMPLETED | results=False | NA | Ginkgo Biloba Extract for Schizophrenia | conds: Schizophrenia | intr: Ginkgo biloba extract, Placebo | pubs: ['11199954:RESULT (new)']
+- NCT03228550 | COMPLETED | results=False | PHASE2 | Omega-3 Fatty Acids and Exercise on Mobility and Cognition in Older Women | conds: Aging, Cognitive Decline | intr: Efamol Active 50+, Aerobic exercise, Placebo multinutrient | pubs: ['30975379:DERIVED (new)']
+- NCT05258123 | COMPLETED | results=False | NA | Ginkgo Biloba Extract in the Treatment of Schizophrenia | conds: Schizophrenia | intr: Ginkgo Biloba Extract, Placebo oral tablet
+- NCT06274242 | COMPLETED | results=False | NA | Mixed Natural Prebiotic-Fibers Impact on Stool Frequency and Fecal Microbiota in Constipated Thai Adults | conds: Constipation | intr: Haruna, Placebo Powder
+- NCT00276380 | COMPLETED | results=True | PHASE3 | A Study on the Use of Tanakan® for Recovery of Neurological Impairment Following Ischaemic Stroke | conds: Stroke, Acute, Neurological Impairment | intr: EGb761, Placebo, Acetylsalicylic acid
+- NCT00010803 | COMPLETED | results=True | PHASE3 | Ginkgo Biloba Prevention Trial in Older Individuals | conds: Dementia, Alzheimer's Disease | intr: Ginkgo biloba, Placebo | pubs: ['19017911:RESULT (new)', '20123670:RESULT (new)', ':RESULT (-)', '20040554:DERIVED (new)']
+- NCT00824512 | COMPLETED | results=True | PHASE2 | Efficacy of EGb761 in Patients Suffering From Friedreich Ataxia | conds: Friedreich Ataxia | intr: EGb 761 120 mg, Placebo
+- NCT01416818 | UNKNOWN | results=False | PHASE2 | Treatment of Depression in Parkinson's Disease | conds: Depression in Parkinson's Disease | intr: Xiaoyao Pill, Bupleurum+Ginkgo, placebo
+- NCT01201187 | COMPLETED | results=False | PHASE3 | Efficacy and Safety Study of Combination of Ginkgo Extract and Ginseng Extract(YY-162)in Children With ADHD | conds: Mental Disorders | intr: YY-162, Placebo | pubs: ['11394191:RESULT (new)']
+- NCT02882438 | UNKNOWN | results=False | PHASE1 | Glucosamine Sulphate and Ginkgo Biloba as Antifungal Activity for Treating Tinea Pedis | conds: Foot Infection Tinea Pedis | intr: infected group, control group | pubs: ['26276254:RESULT (new)']
+- NCT01006421 | UNKNOWN | results=False |  | Oral Ginkgo Biloba and Narrow Band UVB in the Treatment of Vitiligo | conds: Vitiligo | intr: GINGKO BILOBA
+- NCT00164749 | COMPLETED | results=False | PHASE1,PHASE2 | A Pilot Study of Curcumin and Ginkgo for Treating Alzheimer's Disease | conds: Alzheimer's Disease | intr: Placebo and ginkgo extract, Curcumin and ginkgo extract, Curcumin and ginkgo extract | pubs: ['18204357:RESULT (new)', '17951067:RESULT (new)']
+- NCT01046292 | COMPLETED | results=False | PHASE4 | Effect of Ginkgo Biloba Special Extract LI 1370 on Dual-tasking in Patients With MCI | conds: Mild Cognitive Impairment | intr: Ginkgo biloba
+- NCT06771128 | COMPLETED | results=False | NA | Ginkgo Biloba vs Desmopressin in Treatment of Children With Monosymptomatic Nocturnal Enuresis | conds: Nocturnal Enuresis in Children, Desmopressin, Monosymptomatic Nocturnal Enuresis | intr: Ginkgo Biloba oral tablet, Desmopressin Acetate 0.2 mg Tablets, Ginkgo Biloba like Placebo, Desmopre
+- NCT01768429 | COMPLETED | results=False | NA | The Effect of n-3 Fatty Acids and Fish on Glucose and Lipid Metabolism in Subjects With Impaired Glucose Metabolism | conds: Hyperglycemia | intr: Fatty fish, Lean Fish, Alpha-linolenic acid, Control | pubs: ['32512364:DERIVED (new)', '30658192:DERIVED (new)', '30454883:DERIVED (new)', '29645359:DERIVED (new)']
+- NCT06861426 | NOT_YET_RECRUITING | results=False |  | Effectiveness of Ginkgo Diterpene Lactone Meglumine in Acute Ischemic Stroke | conds: Acute Ischemic Stroke | intr: Ginkgo Diterpene Lactone Meglumine
+- NCT04529148 | COMPLETED | results=False | PHASE4 | The Efficacy and Safety of Ginkgo Biloba Dropping Pills in the Treatment of Coronary Heart Disease With Stable Angina Pectoris and Depressio | conds: Stable Angina Pectoris Associated With Depression | intr: Ginkgo biloba dropping pills，best western medicine treatment, Mimetic drug of ginkgo biloba dropping | pubs: ['37164472:DERIVED (new)', '34910821:DERIVED (new)']
+- NCT05002036 | COMPLETED | results=False | PHASE4 | Management of Dry Eye Disease After Cataract Surgery With Topical Hyaluronic Acid and Gingko Biloba | conds: Dry Eye Syndromes | intr: Trium eyedrops | pubs: ['35442771:DERIVED (new)']
+- NCT02425436 | COMPLETED | results=False | PHASE2 | Role of Ginkgo Biloba Extract in IUGR | conds: Intrauterine Growth Restriction (IUGR) | intr: Ginkgo Biloba Extract, Placebo
+- NCT07709312 | NOT_YET_RECRUITING | results=False | PHASE2,PHASE3 | the Effect of Ginkgo Biloba on Rheumatoid Arthritis Patients | conds: Rheumatoid Arthritis (RA), Manegmentof Rheumatoid Arthritis | intr: Ginkgo Biloba Extract (120 mg ) manufuctured by EMA PHARM
+- NCT00029692 | COMPLETED | results=False | PHASE2 | Effects of Ginseng and Ginkgo on Drug Disposition in Man | conds: Healthy | intr: Ginseng, Ginkgo
+- NCT00672373 | COMPLETED | results=False | PHASE3 | Extract of Ginkgo Biloba and Tardive Dyskinesia | conds: Tardive Dyskinesia, Schizophrenia | intr: Extract of Ginkgo Biloba (EGb-761 capsules), Placebo | pubs: ['20868638:DERIVED (new)']
+- NCT01544192 | COMPLETED | results=False | PHASE3 | Impact of Oral Versatile Antioxidants on Glaucoma Progression | conds: Glaucoma | intr: Gingko Biloba, α-tocopherol, Placebo, Antioxidant formula
+- NCT06224582 | COMPLETED | results=False | NA | Yinxingmihuan Oral Solution in Treatment of Chest Pain After PCI | conds: Chronic Stable Angina | intr: Yinxingmihuan oral solution, Placebo
+- NCT06759753 | RECRUITING | results=False | PHASE2 | Aleeto in Acute ISchemic Stroke：A RandomISed Controlled Clinical Trial | conds: Acute Ischemic Stroke | intr: Aleeto, Placebo
+- NCT01637168 | WITHDRAWN | results=False | PHASE3 | Comparison of the Panax Ginseng + Associations to Ginkgo Biloba in the Treatment of Cognitive Function Disorders | conds: Memory Deficit | intr: Panax Ginseng + Ginkgo Biloba + Polyminerals + Multivitamin, Ginkgo Biloba (Tebonin®)
+- NCT06496087 | COMPLETED | results=False | NA | Evaluation of DEPREXIL in Patients With Clinical Depression Through Psychological and Neuroendocrine Assessment | conds: Depression, Post-COVID-19 Syndrome, Depression Mild, Depression Moderate | intr: DEPREXIL
+- NCT01246804 | COMPLETED | results=False | PHASE1 | The Influence of GINkGo Biloba on the Pharmacokinetics of the UGT Substrate raltEgraviR (GINGER) | conds: HIV Infections, Depression, Mild Cognitive Impairment | intr: raltegravir single dose, ginkgo biloba multiple dose
+- NCT04334564 | UNKNOWN | results=False | NA | Effect of Ginkgo Biloba Capsule on Visual Function of Primary Open-angle Glaucoma With Blood Stasis Syndrome | conds: Primary Open Angle Glaucoma, Drug Effect | intr: Ginkgo biloba capsule, Placebos
+- NCT02604381 | COMPLETED | results=False | PHASE2 | A Study on the Efficacy of Glucosamine Sulfate Potassium Chloride/Standardized Ginkgo Biloba Leaf Extract in Adults With Osteoarthritis of t | conds: Osteoarthritis of the Knee | intr: Glucosamine Sulfate Potassium Chloride/Standardized Ginkgo Biloba Extract, Placebo
+- NCT02465749 | UNKNOWN | results=False | EARLY_PHASE1 | Clinical Trials of Continuous Oxygen Therapy Combined With Blue Light Deprivation in the Treatment of Retinitis Pigmentosa | conds: Retinitis Pigmentosa | intr: Continuous oxygen, blue light-absorbing sunglasses, Compound thrombosis capsule sig: 1.5g/tid, Ginkg
+- NCT04448535 | COMPLETED | results=False | NA | Effects of Ginkgo (Gingko Biloba) on Retinal and Choroidal Ocular Tissue | conds: Healthy | intr: Gingko Biloba
+- NCT03318276 | COMPLETED | results=False | PHASE3 | Clinical Trial to Evaluate Efficacy and Safety of SID142 in Patients With Chronic Artery Occlusive Disease | conds: Peripheral Arterial Disease | intr: SID142, Rinexin® Tab | pubs: ['35410753:DERIVED (new)']
+- NCT05591885 | UNKNOWN | results=False | NA | Nutrilite Memory Builder on the Improvement of Cognitive Function | conds: Cognitive Function | intr: Study product group (Nutrilite Memory Builder), Placebo group
+- NCT03772418 | UNKNOWN | results=False | PHASE1 | Topical Preparation of Pomegranate and Ginkgo Biloba for Anti-aging Activities | conds: Skin and Subcutaneous Tissue Disorders | intr: Cream Base, Pomegrante and Ginkgo biloba group | pubs: ['22615680:RESULT (new)']
+- NCT00251238 | COMPLETED | results=True | PHASE2 | Efficacy and Tolerability of Ginkgo Biloba Extract in Patients With Raynaud´s Phenomenon | conds: Raynaud Disease | intr: Ginkgo biloba extract EGb 761
+- NCT06989697 | RECRUITING | results=False | PHASE3 | Cilostazol-Ginkgo for Cognitive Function in Elderly Diabetes | conds: Type 2 Diabets Mellitus, Cognitive Ability, General | intr: Cilostazol / Ginko Leaf Dried Ext., Placebo
+- NCT01454726 | COMPLETED | results=True | PHASE3 | Clinical Trial of Traditional Chinese Diaoshi Jifa Therapy of Meniere's Disease | conds: Meniere's Disease | intr: Diaoshi Jifa therapy plus the Western medical treatment., drug
+- NCT02982603 | COMPLETED | results=False | PHASE4 | Efficacy and Safety of Qinggongshoutao Bolus in aMnestic Mild Cognitive Impairment | conds: Mild Cognitive Impairment, Herbal Medicine Allergy | intr: Qinggongshoutao Bolus, Ginkgo Biloba Extract 761, Placebos
+- NCT04121728 | UNKNOWN | results=False | NA | Modulation of Attention in Event Related Potential (ERPs) as a Marker of Early Cognitive Decline by Ginkgo Biloba | conds: Subjective Cognitive Decline, Cognitive Performance, Functional Capacity, Age-related Cognitive Decline | intr: Ginkgo biloba extract, Placebo
+- NCT07722000 | COMPLETED | results=False | NA | Different Treatment Options Used for Post Covid-19 Syndrome | conds: COVID-19, Post COVID-19 Syndrome, Ginkgo Biloba, Piracetam | intr: Ginkgo biloba, Piracetam, Ginkgo biloba and Piracetam
+- NCT00070954 | TERMINATED | results=False | PHASE1,PHASE2 | Ginkgo Biloba to Improve Short-Term Memory Losses Associated With Electroconvulsive Therapy (ECT) | conds: Memory, Short-Term | intr: ginkgo biloba, matched placebo
+- NCT04685005 | COMPLETED | results=False | NA | "WakeUp" for Vigilance Following Lunch | conds: Fatigue | intr: "Wake Up", Caffeine
+- NCT00276510 | COMPLETED | results=False | PHASE4 | A Study of EGb 761® (Tanakan®) in Dementia of Alzheimer Type Onset in Patients Suffering From Memory Complaints | conds: Memory Disorders, Age-Related, Retention Disorders, Cognitive | intr: EGb 761® (Tanakan®), Placebo | pubs: ['22959217:DERIVED (new)']
+- NCT00029991 | COMPLETED | results=False | PHASE1,PHASE2 | Extract of Ginkgo Biloba (EGB 761) and Vascular Function | conds: Intermittent Claudication, Peripheral Vascular Disease | intr: Gingko Biloba (Herb) | pubs: ['18628657:DERIVED (new)']
+- NCT01364311 | WITHDRAWN | results=False | NA | Treatment of Dry Eye With Supplements | conds: Dry Eye Syndromes | intr: Vitamac® Tag and Nacht capsules
+- NCT04525144 | RECRUITING | results=False | PHASE2 | EGb 761 in the Syndrome of MCI With Concomitant CVD | conds: Mild Cognitive Impairment, Cerebrovascular Disease | intr: Tebonin Forte
+- NCT07287852 | ENROLLING_BY_INVITATION | results=False | PHASE2 | A Pilot Study to Examine the Effect of Egb761 on Plasma Biomarker Levels and on Cognitive Function in Patients With MCI | conds: Alzheimer Disease (AD), Mild Cognitive Impairment (MCI) | intr: Ginkgo Biloba Extract 761
+- NCT01009476 | COMPLETED | results=False |  | Long-term Use of Galantamine Versus Nootropics (Memory Enhancing Drugs) in Patients With Alzheimer's Dementia Under Conditions of Daily Rout | conds: Dementia, Alzheimer Disease, Dementia, Vascular | intr: Galantamine, Nootropics (ginkgo biloba, nicergoline, piracetam, or others)
+- NCT00034021 | COMPLETED | results=False | PHASE2 | Ginkgo Biloba: Antidepressant-Induced Sexual Dysfunction | conds: Hypoactive Sexual Desire Disorder, Sexual Dysfunctions, Psychological | intr: Ginkgo Biloba, Sex Therapy (genital focus)
+- NCT07579689 | NOT_YET_RECRUITING | results=False | PHASE4 | Effects of Ginkgo Biloba on Blood Biomarkers in Mild Cognitive Impairment | conds: Mild Cognitive Impairment, Alzheimer's Disease | intr: Ginkgo Biloba Extract 240 mg, Placebo
+- NCT02181972 | COMPLETED | results=False | PHASE3 | Efficacy and Safety of Ginkgo Biloba in Middle-aged Cognitively Intact Adults | conds: Healthy | intr: Gingko biloba, Placebo
+- NCT05594355 | UNKNOWN | results=False | PHASE4 | Effect of Treatment With EGb 761(r) on Blood Markers of Inflammation and Oxidative Stress in Patients With MCI | conds: Mild Cognitive Impairment (MCI) | intr: TEBOFORTAN | pubs: ['42810842:DERIVED (new)', '37012306:DERIVED (new)']
+
+### OpenAlex no-PMID trial-worded - 11908 hits, 19 without PMID, 19 new
+- new | 2026 | 10.1055/s-0046-1827242 | article | Homoeopathic Pathogenetic Trial of Ginkgo biloba: A Multicentric, Double-Blind, Randomized, Placebo-Controlled Trial | Homœopathic Links
+- new | 2022 | 10.4236/nm.2022.133008 | article | Ginkgo biloba Extract EGb 761® Improves Central Vestibular Vertigo in Patients Undergoing Vestibular Exercises: A Randomised Placebo-Controlled Trial | Neuroscience &amp Medicine
+- new | 2020 | https://openalex.org/W3105503240 | dissertation | THE REPORTING QUALITY OF ABSTRACTS OF RANDOMIZED CONTROLLED TRIALS ON GINKGO BILOBA | 
+- new | 2017 | 10.5281/zenodo.262972 | article | A Randomized Controlled Trial Of Ginkgo Biloba For Prevention Of Vascular Dementia | Zenodo (CERN European Organization for N
+- new | 2017 | 10.1002/14651858.cd012524 | article | Ginkgo biloba versus placebo for schizophrenia | Cochrane Database of Systematic Reviews
+- new | 2014 | 10.4236/jcdsa.2014.42014 | article | A Double-Blind, Placebo Controlled Clinical Trial Evaluating the Efficacy and Safety of a New Skin Whitening Combination in Patients with Chloasma | Journal of Cosmetics Dermatological Scie
+- new | 2014 | 10.1016/s0924-9338(14)77617-5 | conference-abstract | Menopausal women's sexual function and use of ginkgo biloba: a randomized placebo controlled trial | European Psychiatry
+- new | 2012 | 10.1186/isrctn45577048 | study-registration | Randomised double-blind placebo controlled trial of effect of Ginkgo biloba on cognitive function in mild-moderate dementia | 
+- new | 2012 | 10.1016/s0378-5122(12)70271-2 | article | EFFECT OF GINKGO BILOBA ON MENOPAUSAL WOMEN'S SEXUAL FUNCTION: A RANDOMIZED PLACEBO CONTROLLED TRIAL, TEHRAN, 2011 | Maturitas
+- new | 2012 | 10.3410/f.717958275.793464549 | peer-review | Faculty Opinions recommendation of Ginkgo biloba does not improve cognitive function in MS: a randomized placebo-controlled trial. | Faculty Opinions – Post-Publication Peer
+- new | 2010 | 10.1016/s1090-798x(10)79304-8 | article | Ginkgo biloba for Preventing Cognitive Decline in Older Adults: A Randomized Trial | Yearbook of Obstetrics Gynecology and Wo
+- new | 2008 | 10.1001/jama.300.23.2730 | article | Incorrect Statement in: Ginkgo biloba for Prevention of Dementia: A Randomized Controlled Trial | JAMA
+- new | 2007 | 10.5580/288b | article | Ginkgo special extract EGb 761® in vertigo: A systematic review of randomised, double-blind, placebo-controlled clinical trials | The Internet Journal of Otorhinolaryngol
+- new | 2007 | 10.5580/639 | article | Ginkgo special extract EGb 761® in vertigo: A systematic review of randomised, double-blind, placebo-controlled clinical trials | The Internet Journal of Otorhinolaryngol
+- new | 2005 | 10.2165/01197065-200502030-00007 | article | Effects of Ginkgo biloba on Blood Coagulation Parameters: A Systematic Review of Randomised Clinical Trials | Evidence-Based Integrative Medicine
+- new | 2002 | 10.1016/s0924-977x(02)80137-7 | article | A placebo-controlled, double-blind trial of ginkgo biloba for antidepressant-induced sexual dysfunction | European Neuropsychopharmacology
+- new | 1999 | 10.2165/00044011-199917040-00006 | article | Ginkgo biloba for Dementia: A Systematic Review of Double-Blind, Placebo-Controlled Trials | Clinical Drug Investigation
+- new | 1999 | 10.1211/fact.1999.00043 | article | Superiority of Ginkgo biloba over placebo for patients with Alzheimer's disease | Focus on Alternative and Complementary T
+- new | 1999 | https://openalex.org/W7168443668 | dissertation | The effects of subchronic dosage of ginkgo biloba on short term memory in a double-blind, placebo controlled study on healthy volunteers | UND Scholarly Commons (University of Nor
+
+## glycyrrhiza-glabra (Glycyrrhiza glabra) - name clause: "Glycyrrhiza glabra"[tiab] OR "licorice"[tiab] OR "liquorice"[tiab] OR "glycyrrhizin"[ti] OR "glycyrrhizic acid"[ti] OR "glycyrrhetinic acid"[ti]
+
+### PubMed HT - 470 hits, 200 not already listed above, 191 new
+- new | 2026 | 41879551 |  | Therapeutic potential of Glycyrrhiza glabra (licorice) in modulating metabolic and inflammatory parameters in women with PCOS. | Folia Med (Plovdiv)
+- new | 2026 | 41616684 | Randomized Controlled Trial/Comparative Study | Efficacy and immunomodulatory effects of licorice nasal spray in allergic rhinitis: A clinical study comparing with conventional steroid treatment. | Explore (NY)
+- new | 2026 | 41627541 | Randomized Controlled Trial | Randomized Double-blind Placebo-controlled study to evaluate the efficacy of fermented deglycyrrhizinated licorice for treatment of diabetic polyneuropathy. | Endocrine
+- new | 2026 | 42941174 |  | Colon-Specific Gut Microbiome Remodelling Is Associated with Host Metabolism in Paracetamol-Induced Liver Injury in Rats. | Metabolites
+- new | 2026 | 42304906 |  | A Randomized Clinical Trial Evaluating Antimicrobial Effectiveness of a New Licorice Oral Gel against Salivary Streptococcus mutans. | Infect Disord Drug Targets
+- new | 2026 | 42101096 |  | Fibrous/Sheet Nanostructures of Spin-Crossover Complexes With Glycyrrhetinic Acid Glycosides in Polar Solvents: Supramolecular Control of Mixed HS/LS State. | Chemistry
+- new | 2025 | 38963342 | Systematic Review/Meta-Analysis | Herbal Medicine in Children and Adults With Atopic Dermatitis: A Systematic Review and Meta-Analysis. | Dermatitis
+- HELD REF-3572 | 2025 | 39929150 | Randomized Controlled Trial/Clinical Trial, Phase III | Efficacy and Safety of GutGard® in Managing Gastroesophageal Reflux-Related Symptoms: A Phase III, Single-Centre, Double-Blind, Randomized Placebo-Controlled Trial. | Complement Med Res
+- new | 2025 | 41514586 | Review | Nutritional Impact on Breast Cancer in Menopausal and Post-Menopausal Patients Treated with Aromatase Inhibitors. | Cancers (Basel)
+- new | 2025 | 41234347 | Review | The efficacy of herbal medicine in the management of oral stomatitis in head and neck cancer patients undergoing radiotherapy: A systematic review. | J Adv Pharm Technol Res
+- new | 2025 | 39978315 | Review | STW 5-II for Treatment of Functional Gastrointestinal Disorders: Mechanism and Clinical Efficacy. | Dig Dis
+- new | 2025 | 40735556 |  | Investigating the efficacy of dipotassium glycyrrhizin emollients in adult atopic dermatitis: A focused randomized parallel-controlled clinical study. | Pak J Med Sci
+- new | 2025 | 40665717 | Randomized Controlled Trial/Comparative Study | A Comparative evaluation of locally delivered licorice gel and tetracycline gel as an adjunct to non-surgical therapy in the treatment of controlled type -2 diabetic patients with  | J Complement Integr Med
+- new | 2025 | 39960158 | Randomized Controlled Trial | Effectiveness and Safety of Oral Compound Glycyrrhizin Followed by Phototherapy for the Treatment of Progressive Vitiligo in Children. | Pigment Cell Melanoma Res
+- new | 2025 | 41298727 |  | Response of licorice to different sources of nitrogen in soil and soilless culture systems. | Sci Rep
+- new | 2025 | 38798220 |  | Prescription Data Mining and Network Pharmacology Study of 1152 Patients with Rectal Prolapse using Traditional Chinese Medicine. | Curr Comput Aided Drug Des
+- new | 2025 | 40859214 | Randomized Controlled Trial | β-glycyrrhetinic acid-containing dentifrice alleviates dental plaque accumulation and gingival inflammation: a randomized, cross-over, placebo-controlled study. | BMC Oral Health
+- new | 2025 | 39897257 |  | Assessment of the Efficacy of Subgingivally Delivered Liquorice Gel on Clinical Parameters and Prostaglandin E2 Levels in Chronic Periodontitis: A Clinico-Biochemical Study. | Cureus
+- new | 2024 | 39104271 |  | [Adaptation for use In Russia of the extended odor identification Sniffin' Sticks test]. | Vestn Otorinolaringol [rus]
+- HELD REF-2507 | 2024 | 39519602 | Systematic Review/Meta-Analysis | Effects of Licorice Functional Components Intakes on Blood Pressure: A Systematic Review with Meta-Analysis and NETWORK Toxicology. | Nutrients
+- new | 2024 | 40013272 |  | Efficacy of niclosamide and ivermectin suspension preparations in sheep parasitoses. | J Adv Vet Anim Res
+- new | 2024 | 39080737 | Randomized Controlled Trial | Effects of licorice extract in combination with a low-calorie diet on obesity indices, glycemic indices, and lipid profiles in overweight/obese women with polycystic ovary syndrome | J Ovarian Res
+- HELD REF-3649 | 2024 | 39079711 | Meta-Analysis/Systematic Review | Licorice and liver function in patients with primary liver disease: A systematic review and meta-analysis of RCTs. | Phytother Res
+- new | 2024 | 39550918 | Randomized Controlled Trial/Equivalence Trial | Glycyrrhizin alleviates the toxicity of hydroxychloroquine in treating oral lichen planus by occupying heat shock protein 90 alpha. | Phytomedicine
+- new | 2024 | 39609444 | Systematic Review/Meta-Analysis | Herbal extracts in orofacial pain: a systematic review and direct and indirect meta-analysis. | Sci Rep
+- new | 2024 | 39119615 |  | Commercial Chinese polyherbal preparation: current status and future perspectives. | Front Pharmacol
+- new | 2024 | 38622995 | Randomized Controlled Trial | The efficacy of enoxolone in reducing erythema and pain after laser treatment: A randomized split-face pilot study. | J Cosmet Dermatol
+- new | 2024 | 38039600 | Systematic Review | Dietary flavonoids may have a protective and therapeutic effect in Parkinson disease: A systematic review. | Nutr Res
+- new | 2024 | 39039480 |  | Medicinal plants used in multiple sclerosis patients, prevalence and associated factors: a descriptive cross-sectional study. | BMC Complement Med Ther
+- new | 2024 | 39664992 | Review | Comparative efficacy of non-pharmacological interventions on xerostomia and salivary flow rate among haemodialysis patients: A systematic review and network meta-analysis. | Clin Kidney J
+- new | 2024 | 39452563 |  | Pain after Licorice or Sugar-Water Gargling in Patients Recovering from Oropharyngeal Surgery-A Randomized, Double-Blind Trial. | J Pers Med
+- new | 2024 | 39230160 | Systematic Review/Meta-Analysis | Efficacy and safety of compound glycyrrhizin combined with topical minoxidil for alopecia areata: a systematic review and meta-analysis of randomized controlled trials. | J Dermatolog Treat
+- new | 2024 | 39002341 |  | Pharmacy students' process of learning of real patients in a simple first-person perspective patient simulation exercise - A qualitative analysis. | Curr Pharm Teach Learn
+- new | 2024 | 39364820 | Randomized Controlled Trial | Efficacy of Glycyrrhizin as an Intracanal Medicament on Bacterial Load Reduction in Primary Infected Root Canals: A Randomized Clinical Trial. | J Contemp Dent Pract
+- new | 2024 | 38867216 | Randomized Controlled Trial/Comparative Study/Research Support, Non-U.S. Gov't | Comparison of the effect of licorice and chlorhexidine mouthwash on the oral health of intubated patients in the intensive care unit. | BMC Oral Health
+- new | 2024 | 39435025 |  | The interaction effect of water deficit stress and seaweed extract on phytochemical characteristics and antioxidant activity of licorice (Glycyrrhiza glabra L.). | Front Plant Sci
+- new | 2023 | 36604137 | Meta-Analysis/Systematic Review | Effect of polyphenol compounds on Helicobacter pylori eradication: a systematic review with meta-analysis. | BMJ Open
+- HELD REF-3571 | 2023 | 37786470 | Systematic Review | Topical Licorice for Aphthous: A Systematic Review of Clinical Trials. | Iran J Med Sci
+- new | 2023 | 38222784 | Editorial | Potential therapeutic targets for the prevention of diabetic nephropathy: Glycyrrhetinic acid. | World J Diabetes
+- HELD REF-3574 | 2023 | 36870516 | Randomized Controlled Trial | Impact of licorice root on the burn healing process: A double-blinded randomized controlled clinical trial. | Complement Ther Med
+- new | 2023 | 36383173 |  | Confounding effects of liquorice, hydrocortisone, and blood contamination on salivary cortisol but not cortisone. | Endocr Connect
+- new | 2023 | 36873992 |  | Evaluation of noscapine-licorice combination effects on cough relieving in COVID-19 outpatients: A randomized controlled trial. | Front Pharmacol
+- new | 2023 | 37958031 | Review | The Power of Licorice (Radix glycyrrhizae) to Improve Oral Health: A Comprehensive Review of Its Pharmacological Properties and Clinical Implications. | Healthcare (Basel)
+- new | 2023 | 37904437 | Meta-Analysis/Systematic Review | Efficacy and safety of compound glycyrrhizin in combination with conventional therapy in treatment of vitiligo: A systematic review and meta-analysis of randomized controlled trial | Medicine (Baltimore)
+- new | 2023 | 36961137 | Review | Exploring the molecular mechanism of Ling-Gui-Zhu-Gan decoction for the treatment of type 2 diabetes mellitus based on network pharmacology and molecular docking: A review. | Medicine (Baltimore)
+- new | 2023 | 37253812 |  | Breast cancer prevention with liquiritigenin from licorice through the inhibition of aromatase and protein biosynthesis in high-risk women's breast tissue. | Sci Rep
+- new | 2023 | 39262414 |  | Efficacy of Licorice as Adjunctive Therapy in Critically Ill Patients with COVID-19: A Randomized, Placebo-Controlled, Double-Blind Clinical Trial. | J Res Pharm Pract
+- new | 2023 | 37847472 | Randomized Controlled Trial | Efficacy and safety of licorice (Glycyrrhiza glabra) in moderately ill patients with COVID-19: a randomized controlled trial. | Inflammopharmacology
+- new | 2023 | 37218470 | Meta-Analysis/Systematic Review | Efficacy and safety of compound glycyrrhizin in the patients with vitiligo: a systematic review and meta-analysis. | Expert Rev Clin Pharmacol
+- new | 2023 | 37897968 |  | Efficacy of a herbal mouthwash for management of periodontitis and radiation-induced mucositis - A consolidated report of two randomized controlled clinical trials. | J Ayurveda Integr Med
+- new | 2023 | 38283346 | Randomized Controlled Trial | Nebulized glycyrrhizin/enoxolone drug modulates IL-17A in COVID-19 patients: a randomized clinical trial. | Front Immunol
+- new | 2023 | 38035895 | Systematic Review/Network Meta-Analysis | COMPARATIVE EFFICACY OF THERAPEUTIC INTERVENTIONS FOR THE MANAGEMENT OF RECURRENT APHTHOUS ULCERS: A SYSTEMATIC REVIEW AND NETWORK META-ANALYSIS. | J Evid Based Dent Pract
+- new | 2023 | 37224775 | Network Meta-Analysis | Comparative effectiveness of glycyrrhizic acid preparations aimed at improving liver function of patients with chronic hepatitis B: A network meta-analysis of 53 randomized control | Phytomedicine
+- new | 2022 | 35736467 | Review | Recent Advances in Glycyrrhiza glabra (Licorice)-Containing Herbs Alleviating Radiotherapy- and Chemotherapy-Induced Adverse Reactions in Cancer Treatment. | Metabolites
+- new | 2022 | 36200523 | Randomized Controlled Trial | Efficacy of diammonium glycyrrhizinate in the treatment of rosacea with papules and pustules: A randomized, double-blind, placebo-controlled study. | Dermatol Ther
+- new | 2022 | 36481632 | Controlled Clinical Trial | Chinese medicine Yangmo decoction ameliorates intrauterine adhesion prognosis following hysteroscopic adhesiolysis. | Zhong Nan Da Xue Xue Bao Yi Xue Ban [eng,chi]
+- new | 2022 | 36451559 | Randomized Controlled Trial | Effective licorice gargle juice for aphthous ulcer pain relief: A randomized double-blind placebo-controlled trial. | Pak J Pharm Sci
+- new | 2022 | 36136251 | Review | Glycyrrhizin and boswellic acids, the golden nutraceuticals: multitargeting for treatment of mild-moderate COVID-19 and prevention of post-COVID cognitive impairment. | Inflammopharmacology
+- new | 2022 | 36120351 | Systematic Review | Herbal medicine for amyotrophic lateral sclerosis: A systematic review and meta-analysis. | Front Pharmacol
+- new | 2022 | 35693255 | Retracted Publication | Effect of Traditional Chinese Medicine on Allergic Rhinitis in Children under Data Mining. | Comput Math Methods Med
+- new | 2022 | 37304220 |  | The Efficacy of an Oral Formulation of Glycyrrhiza glabra, Viola odorata, and Operculina turpethum as an Add-on Therapy for Mild-to-moderate Childhood Asthma: A Randomized Placebo- | J Res Pharm Pract
+- new | 2022 | 35136317 |  | Effect of liquorice (root extract) mouth rinse on dental plaque and gingivitis - A randomized controlled clinical trial. | J Indian Soc Periodontol
+- new | 2022 | 36320214 |  | Efficacy of a standardized herbal formulation from Glycyrrhiza glabra L. as an adjuvant treatment in hospitalized patients with COVID-19: A Randomized Controlled trial. | J Ayurveda Integr Med
+- new | 2022 | 35648044 | Multicenter Study/Randomized Controlled Trial | Kikyo-to for Acute Upper Respiratory Tract Infection-Associated Sore Throat Pain: A Multicenter Randomized Controlled Trial. | J Integr Complement Med
+- SEEN | 2022 | 35785498 | Randomized Controlled Trial | Effects of licorice root supplementation on liver enzymes, hepatic steatosis, metabolic and oxidative stress parameters in women with nonalcoholic fatty liver disease: A randomized | Phytother Res
+- new | 2022 | 34792270 |  | Evaluation of a new-formula shampoo containing 6% glycyrrhetinic acid complex for scalp seborrheic dermatitis: A pilot study. | J Cosmet Dermatol
+- new | 2022 | 35514746 | Case Reports | Combined Nasal, Oropharyngeal Povidone Iodine Plus Glycyrrhizic Acid Sprays, Accelerate Clinical and Laboratory Recovery and Reduces Household Transmission of SARS-CoV-2: A Randomi | Front Med (Lausanne)
+- new | 2022 | 36251689 | Research Support, Non-U.S. Gov't | Glycyrrhizin through liquorice intake modulates ACE2 and HMGB1 levels-A pilot study in healthy individuals with implications for COVID-19 and ARDS. | PLoS One
+- new | 2022 | 35783542 |  | Efficacy of a Persian herbal medicine compound on coronavirus disease 2019 (COVID-19): A randomized clinical trial. | Integr Med Res
+- new | 2022 | 35093672 |  | Comparative effectiveness of glycyrrhizic acid preparations aimed at preventing and treating anti-tuberculosis drug-induced liver injury: A network meta-analysis of 97 randomized c | Phytomedicine
+- new | 2022 | 36618834 |  | Comparison of the effect of licorice vaginal cream and estrogen vaginal cream on sexual function of postmenopausal women: An RCT. | Int J Reprod Biomed
+- new | 2022 | 35362188 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Corticosteroid plus glycyrrhizin therapy for chronic drug- or herb-induced liver injury achieves biochemical and histological improvements: a randomised open-label trial. | Aliment Pharmacol Ther
+- new | 2022 | 36501005 |  | Role of Aromatic Herbs and Spices in Salty Perception of Patients with Hyposmia. | Nutrients
+- new | 2022 | 35035438 |  | Clinical application of compound Glycyrrhizin tablets in the treatment of patients with Simplex Henoch-Schonlein Purpura and its effect on immune function. | Pak J Med Sci
+- new | 2022 | 32829446 |  | Data Mining Study on Prescription Patterns of Different Dosage Forms of Chinese Herbal Medicines for Treating and Improving Immune-Inflammatory Indices in Patients with Rheumatoid  | Chin J Integr Med
+- new | 2022 | 35791588 | Randomized Controlled Trial | Desloratadine citrate combined with compound glycyrrhizin in the treatment of subacute eczema: A randomized trial. | Pak J Pharm Sci
+- new | 2022 | 34522606 | Review | Compound glycyrrhizin injection for improving liver function in children with acute icteric hepatitis: A systematic review and meta-analysis. | Integr Med Res
+- new | 2022 | 36159062 |  | Effect of nystatin and licorice on yeasts isolated from the oral lesions of patients with cancer under chemotherapy (in vitro study). | Dent Res J (Isfahan)
+- new | 2022 | 35645115 | Meta-Analysis | Meta-analysis of the efficacy of glycyrrhizin for postoperative liver preservation in patients with liver cancer. | J Cancer Res Ther
+- new | 2022 | 35233748 | Randomized Controlled Trial | Advancing combination treatment with glycyrrhizin and boswellic acids for hospitalized patients with moderate COVID-19 infection: a randomized clinical trial. | Inflammopharmacology
+- new | 2022 | 35147056 |  | The effect of micronutrient supplementation on serum anti-Mullerian hormone levels: a retrospective pilot study. | Gynecol Endocrinol
+- new | 2021 | 34693047 |  | Glavonoid, a possible supplement for prevention of ATTR amyloidosis. | Heliyon
+- new | 2021 | 34237667 | Systematic Review | Licorice (Glycyrrhiza spp.) and jujube (Ziziphus jujuba Mill.) formula for menopausal symptoms: Classical records, clinical evidence and experimental data. | Complement Ther Clin Pract
+- new | 2021 | 35399823 | Review | The potential of glycyrrhizin and licorice extract in combating COVID-19 and associated conditions. | Phytomed Plus
+- new | 2021 | 32800398 |  | Effect of licorice on patients with HSD11B1 gene polymorphisms- a pilot study. | J Ayurveda Integr Med
+- new | 2021 | 34628389 | Clinical Trial | [NATURAL THERAPEUTIC FACTORS IN MEDICAL REHABILITATION OF PATIENTS WITH POST-COVID-19 AT OUTPATIENT TREATMENT STAGE]. | Georgian Med News [rus]
+- new | 2021 | 33886521 | Comparative Study/Systematic Review/Network Meta-Analysis | Comparative Efficacy of 6 Topical Pharmacological Agents for Preventive Interventions of Postoperative Sore Throat After Tracheal Intubation: A Systematic Review and Network Meta-a | Anesth Analg
+- new | 2021 | 33645037 | Meta-Analysis/Systematic Review | [Systematic review and Meta-analysis of efficacy and safety of Compound Glycyrrhizin Injection in improving chronic hepatitis B liver damage]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2021 | 34840659 | Review | Natural Cosmeceutical Ingredients for the Management of Hyperpigmentation in Hispanic and Latino Women. | J Clin Aesthet Dermatol
+- new | 2021 | 34517748 | Meta-Analysis/Systematic Review | Efficiency and safety of desloratadine in combination with compound glycyrrhizin in the treatment of chronic urticaria: a meta-analysis and systematic review of randomised controll | Pharm Biol
+- new | 2021 | 33309328 | Case Reports/Letter/Research Support, Non-U.S. Gov't | Tobacco, cannabis, and liquorice: Hidden players altering albendazole metabolism in patients with hepatic alveolar echinococcosis. | J Hepatol
+- new | 2021 | 34602412 | Randomized Controlled Trial | Analysis of Unani coded formulation on the hormonal parameters of patients with polycystic ovarian syndrome. | Pak J Pharm Sci
+- new | 2021 | 35152194 | Randomized Controlled Trial | Comparative Study of the Effect of Licorice Muco-adhesive Film on Radiotherapy Induced Oral Mucositis, A Randomized Controlled Clinical Trial. | Gulf J Oncolog
+- new | 2021 | 32162239 | Randomized Controlled Trial | The effects of dietary licorice flavonoid oil supplementation on body balance control in healthy middle-aged and older Japanese women undergoing a physical exercise intervention: a | Aging Clin Exp Res
+- new | 2021 | 33857594 | Clinical Trial | Nasal irrigation with Glycyrrhiza glabra extract for treatment of allergic rhinitis - A study of in vitro, in vivo and clinical trial. | J Ethnopharmacol
+- new | 2020 | 31915940 | Review | Food Products That May Cause an Increase in Blood Pressure. | Curr Hypertens Rep
+- new | 2020 | 32238980 | Systematic Review | Efficacy of Licorice Lollipops in Reducing Dental Caries in a Paediatric Population: A Systematic Review. | Oral Health Prev Dent
+- new | 2020 | 33324206 | Review | An Evaluation of Traditional Persian Medicine for the Management of SARS-CoV-2. | Front Pharmacol
+- new | 2020 | 33402612 | Systematic Review | Effectiveness of licorice in preventing dental caries in children: A systematic review. | J Indian Soc Pedod Prev Dent
+- new | 2020 | 33202150 | Systematic Review | The Potential of Glycyrrhizinate in the Management of COVID-19: A Systematic Review of the Efficacy and Safety of Glycyrrhizin Preparations in the Treatment of SARS and MERS. | Am J Chin Med
+- new | 2020 | 32893511 | Review | A Review of Pharmacological Treatments for Vaginal Atrophy in Postmenopausal Women in Iran. | J Menopausal Med
+- new | 2020 | 32535351 |  | Ammonium glycyrrhizate skin delivery from ultradeformable liposomes: A novel use as an anti-inflammatory agent in topical drug delivery. | Colloids Surf B Biointerfaces
+- new | 2020 | 32308712 |  | A Multicenter, Randomized, Double-Blind, Placebo-Controlled Study of Compound Glycyrrhizin Capsules Combined with a Topical Corticosteroid in Adults with Chronic Eczema. | Evid Based Complement Alternat Med
+- new | 2020 | 32229652 | Review | The Role of medicinal herbs in treatment of insulin resistance in patients with Polycystic Ovary Syndrome: A literature review. | Biomol Concepts
+- new | 2020 | 32820466 | Review/Network Meta-Analysis | Efficacy of topical agents for prevention of postoperative sore throat after single lumen tracheal intubation: a Bayesian network meta-analysis. | Can J Anaesth
+- new | 2020 | 32444056 | Comparative Study/Randomized Controlled Trial | The effects of licorice containing diphenhydramine solution on recurrent aphthous stomatitis: A double-blind, randomized clinical trial. | Complement Ther Med
+- new | 2020 | 31574343 | Randomized Controlled Trial | Efficacy of oral administration of licorice as an adjunct therapy on improving the symptoms of patients with Parkinson's disease, A randomized double blinded clinical trial. | J Ethnopharmacol
+- new | 2020 | 33327326 | Clinical Trial Protocol | Peony and licorice decoction fumigation treatment for strephenopodia after stroke: Study protocol for a randomized controlled pilot trial. | Medicine (Baltimore)
+- new | 2020 | 32147070 | Randomized Controlled Trial | The effectiveness of a traditional Persian medicine preparation in the treatment of chronic cough: A randomized, double-blinded, placebo-controlled clinical trial. | Complement Ther Med
+- new | 2020 | 32719251 |  | The efficacy of an ayurvedic preparation of yashtimadhu (Glycyrrhiza glabra) on radiation-induced mucositis in head-and-neck cancer patients: A pilot study. | J Cancer Res Ther
+- new | 2020 | 33225970 | Letter/Clinical Trial Protocol | Safety and efficacy of herbal extracts to restore respiratory health and improve innate immunity in COVID-19 positive patients with mild to moderate severity: A structured summary  | Trials
+- new | 2020 | 32933552 | Clinical Trial Protocol/Letter | Effects of Licorice on clinical symptoms and laboratory signs in moderately ill patients with pneumonia from COVID-19: A structured summary of a study protocol for a randomized con | Trials
+- new | 2020 | 32872021 |  | Compound glycyrrhizin combined with antihistamines for chronic urticaria: A protocol for systematic review and meta analysis. | Medicine (Baltimore)
+- new | 2020 | 32085792 | Clinical Trial Protocol | Jakyakgamcho-tang in the relief of delayed-onset muscle soreness in healthy adults: study protocol for a randomized, double-blind, placebo-controlled, crossover design clinical tri | Trials
+- new | 2020 | 32257873 |  | Impact of Glycyrrhiza glabra (licorice) vaginal cream on vaginal signs and symptoms of vaginal atrophy in postmenopausal women: A randomized double blind controlled trial. | J Tradit Complement Med
+- new | 2020 | 32090748 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Glycyrrhizic acid as an adjunctive treatment for depression through anti-inflammation: A randomized placebo-controlled clinical trial. | J Affect Disord
+- new | 2020 | 33893252 | Randomized Controlled Trial | Caries Preventive and Antibacterial Effects of Two Natural Mouthwashes vs Chlorhexidine in High Caries-risk Patients: A Randomized Clinical Trial. | J Contemp Dent Pract
+- new | 2019 | 30203548 |  | Glycyrrhizin inactivates toll-like receptor (TLR) signaling pathway to reduce lipopolysaccharide-induced acute lung injury by inhibiting TLR2. | J Cell Physiol
+- new | 2019 | 30969204 | Systematic Review | Herbal Medicinal Product Use During Pregnancy and the Postnatal Period: A Systematic Review. | Obstet Gynecol
+- new | 2019 | 30341831 |  | A pilot study of oral tranexamic acid and Glycyrrhizin compound in the treatment of recalcitrant Riehl's melanosis. | J Cosmet Dermatol
+- new | 2019 | 32802108 |  | The effect of Glycyrrhiza glabra L. on Primary Dysmenorrhea compared with Ibuprofen: A Randomized, Triple-Blind Controlled Trial. | Iran J Pharm Res
+- new | 2019 | 31464895 | Multicenter Study/Randomized Controlled Trial | Fermented milk containing Lactobacillus paracasei and Glycyrrhiza glabra has a beneficial effect in patients with Helicobacter pylori infection: A randomized, double-blind, placebo | Medicine (Baltimore)
+- new | 2019 | 31287184 | Randomized Controlled Trial | Impact of educational (sign language/video modeling) and therapeutic (Glycyrrhiza glabra--liquorice mouth wash) interventions on oral health pertaining to children with hearing imp | Spec Care Dentist
+- HELD REF-3569 | 2019 | 30391446 | Meta-Analysis/Systematic Review | Topical application of licorice for prevention of postoperative sore throat in adults: A systematic review and meta-analysis. | J Clin Anesth
+- new | 2019 | 30611269 |  | Use of alternative medicine, ginger and licorice among Danish pregnant women - a prospective cohort study. | BMC Complement Altern Med
+- new | 2019 | 30984577 |  | Short-course administration of a traditional herbal mixture ameliorates asthma symptoms of the common cold in children. | Avicenna J Phytomed
+- new | 2019 | 31442287 | Clinical Trial/Research Support, N.I.H., Extramural | Lollipop containing Glycyrrhiza uralensis extract reduces Streptococcus mutans colonization and maintains oral microbial diversity in Chinese preschool children. | PLoS One
+- new | 2018 | 29321989 |  | Antidepressant-like effects of Gan-Mai-Dazao-Tang via monoamine regulatory pathways on forced swimming test in rats. | J Tradit Complement Med
+- new | 2018 | 29670847 |  | Changes of Insulin Resistance and Adipokines Following Supplementation with Glycyrrhiza Glabra L. Extract in Combination with a Low-Calorie Diet in Overweight and Obese Subjects: a | Adv Pharm Bull
+- new | 2018 | 30587909 |  | Efficacy and safety of glycyrrhizin 2.5% eye drops in the treatment of moderate dry eye disease: results from a prospective, open-label pilot study. | Clin Ophthalmol
+- new | 2018 | 27435290 | Clinical Trial | Changes of QT Dispersion in Hemodialysis Patients after Administrating Zhigancao Decoction (). | Chin J Integr Med
+- new | 2018 | 30128092 |  | Comparison of the therapeutic effect of the Persian Medicine Protocol with the common treatment of chronic rhinosinusitis: a randomized clinical trial. | Electron Physician
+- new | 2018 | 29609113 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Prevention of alcohol-induced DNA damage by a proprietary glycyrrhizin/D-mannitol product: A randomized, placebo-controlled, cross-over human study. | Alcohol
+- new | 2017 | 28685911 | Pragmatic Clinical Trial/Randomized Controlled Trial | Combined Lifestyle and Herbal Medicine in Overweight Women with Polycystic Ovary Syndrome (PCOS): A Randomized Controlled Trial. | Phytother Res
+- new | 2017 | 28839937 | Review | Proteomic and transcriptomic analyses to explain the pleiotropic effects of Ankaferd blood stopper. | SAGE Open Med
+- new | 2017 | 28274529 | Meta-Analysis | Japanese herbal medicine-induced pneumonitis: A review of 73 patients. | Respir Investig
+- new | 2017 | 27786567 | Meta-Analysis/Systematic Review | Compound glycyrrhizin plus conventional therapy for psoriasis vulgaris: a systematic review and meta-analysis of randomized controlled trials. | Curr Med Res Opin
+- new | 2017 | 29284971 |  | Assessment of Total Antioxidant Capacity and Antimicrobial Activity of Glycyrrhiza glabra in Saliva of HIV-Infected Patients. | J Pharm Bioallied Sci
+- new | 2017 | 27373699 | Systematic Review | Topical herbal medicines for atopic eczema: a systematic review of randomized controlled trials. | Br J Dermatol
+- new | 2017 | 29082701 |  | [Effect of miRNA from Glycyrrhiza uralensis decoction on gene expression of human immune cells]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2017 | 28158597 |  | Maternal Licorice Consumption During Pregnancy and Pubertal, Cognitive, and Psychiatric Outcomes in Children. | Am J Epidemiol
+- new | 2017 | 28662023 |  | A Randomized Controlled Trial of Glycyrrhizin Plus Tenofovir vs. Tenofovir in Chronic Hepatitis B with Severe Acute Exacerbation. | Clin Transl Gastroenterol
+- new | 2017 | 27693954 |  | Study the influence of licorice and pomegranate drinks on nicotine metabolism in human urine by LC-orbitrap MS. | J Pharm Biomed Anal
+- new | 2017 | 28736376 |  | [Protective effects of glycyrrhizic acid against lupus nephritis in MRL/lpr mice]. | Nan Fang Yi Ke Da Xue Xue Bao [chi]
+- new | 2017 | 29296112 |  | Preventive Effect of Glycyrrhiza Glabra Extract on Oral Mucositis in Patients Under Head and Neck Radiotherapy: A Randomized Clinical Trial. | J Dent (Tehran)
+- new | 2017 | 29209499 |  | Nasal Muco-ciliary transport time alteration: efficacy of 18 B Glycyrrhetinic acid. | Multidiscip Respir Med
+- new | 2017 | 28761824 |  | The Effect of Dried Glycyrrhiza Glabra L. Extract on Obesity Management with Regard to PPAR-γ2 (Pro12Ala) Gene Polymorphism in Obese Subjects Following an Energy Restricted Diet. | Adv Pharm Bull
+- new | 2017 | 27643690 | Randomized Controlled Trial | The effects of licorice flavonoid oil with respect to increasing muscle mass: a randomized, double-blind, placebo-controlled trial. | J Sci Food Agric
+- new | 2017 | 25347930 | Randomized Controlled Trial | Comparison of triamcinolone acetonide mucoadhesive film with licorice mucoadhesive film on radiotherapy-induced oral mucositis: A randomized double-blinded clinical trial. | Asia Pac J Clin Oncol
+- new | 2017 | 27129589 | Randomized Controlled Trial | Efficacy of a sugar-free herbal lollipop for reducing salivary Streptococcus mutans levels: a randomized controlled trial. | Clin Oral Investig
+- HELD REF-0841 | 2016 | 27677719 | Review | Botanicals and Their Bioactive Phytochemicals for Women's Health. | Pharmacol Rev
+- new | 2016 | 27172294 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Herbal medicine for adults with asthma: A systematic review. | J Asthma
+- new | 2016 | 26669465 | Research Support, Non-U.S. Gov't/Systematic Review | To quit or not: Vulnerability of women to smoking tobacco. | J Environ Sci Health C Environ Carcinog 
+- new | 2016 | 28391664 | Randomized Controlled Trial | Effect of Green Tea-Added Tablets on Volatile Sulfur-Containing Compounds in the Oral Cavity. | J Clin Dent
+- new | 2016 | 27957263 |  | Different modalities for treatment of recurrent aphthous stomatitis. A Randomized clinical trial. | J Clin Exp Dent
+- new | 2016 | 26805417 | Randomized Controlled Trial | Effective treatment for sensitive skin: 4-t-butylcyclohexanol and licochalcone A. | J Eur Acad Dermatol Venereol
+- new | 2016 | 26512070 | Comparative Study | Comparison of Olfactory Identification Patterns among Parkinson's Disease Patients from Different Countries. | Chem Senses
+- new | 2016 | 26716864 | Randomized Controlled Trial | The efficacy of different doses of liquorice gargling for attenuating postoperative sore throat and cough after tracheal intubation. | Eur J Anaesthesiol
+- new | 2016 | 27325103 | Comparative Study/Randomized Controlled Trial | Effects of topical application of B-Resorcinol and Glycyrrhetinic acid monotherapy and in combination with fractional CO(2) laser treatment for benign hand hyperpigmentation treatm | J Cosmet Dermatol
+- new | 2016 | 27614124 | Comparative Study/Randomized Controlled Trial | To evaluate of the effect of adding licorice to the standard treatment regimen of Helicobacter pylori. | Braz J Infect Dis
+- new | 2016 | 27565424 | Multicenter Study/Randomized Controlled Trial | Effects of mouthwash interventions on xerostomia and unstimulated whole saliva flow rate among hemodialysis patients: A randomized controlled study. | Int J Nurs Stud
+- new | 2016 | 26902403 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Bone health nutraceuticals alter microarray mRNA gene expression: A randomized, parallel, open-label clinical study. | Phytomedicine
+- new | 2015 | 26639849 | Randomized Controlled Trial | Enhancement of Fat Oxidation by Licorice Flavonoid Oil in Healthy Humans during Light Exercise. | J Nutr Sci Vitaminol (Tokyo)
+- new | 2015 | 26730140 |  | Randomized placebo-controlled clinical study on enhancement of Medha (intelligence quotient) in school going children with Yahstimadhu granules. | Ayu
+- new | 2015 | 25144853 | Randomized Controlled Trial | Effect of GutsyGum(tm), A Novel Gum, on Subjective Ratings of Gastro Esophageal Reflux Following A Refluxogenic Meal. | J Diet Suppl
+- new | 2015 | 32313446 |  | Can Glycyrrhiza glabra L. reduce both upper gastrointestinal tract bleeding and ventilator-associated pneumonia in intensive-care unit patients? | Focus Altern Complement Ther
+- new | 2015 | 26093884 |  | Complementary and Alternative Medicine Use Among Patients With Chronic Kidney Disease and Kidney Transplant Recipients. | J Ren Nutr
+- new | 2015 | 26151027 |  | Efficacy of an Iranian herbal preparation (Lax-Asab) in treating functional constipation: A randomized, placebo-controlled clinical trial. | J Tradit Complement Med
+- new | 2014 | 25514914 | Research Support, Non-U.S. Gov't/Review | Phytotherapy and NAFLD--from goals and challenges to clinical practice. | Rev Recent Clin Trials
+- new | 2013 | 24201019 | Research Support, Non-U.S. Gov't/Review | Liquorice, a unique "guide drug" of traditional Chinese medicine: a review of its role in drug interactions. | J Ethnopharmacol
+- new | 2013 | 24021323 | Randomized Controlled Trial | Liquorice root extracts as potent cariostatic agents in pediatric practice. | J Indian Soc Pedod Prev Dent
+- new | 2013 | 23769562 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy of glycyrrhizin combined with cyclosporine in the treatment of non-severe aplastic anemia. | Chin Med J (Engl)
+- new | 2012 | 22998662 |  | Can a licorice lollipop decrease cariogenic bacteria in nursing home residents? | Res Gerontol Nurs
+- new | 2010 | 19909806 | Review | The role of 11β-hydroxysteroid dehydrogenase type 2 in human hypertension. | Biochim Biophys Acta
+- new | 2010 | 20430018 |  | Natural anti-inflammatory products and leukotriene inhibitors as complementary therapy for bronchial asthma. | Clin Biochem
+- new | 2010 | 20510523 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Maternal prenatal licorice consumption alters hypothalamic-pituitary-adrenocortical axis function in children. | Psychoneuroendocrinology
+- new | 2009 | 19808634 | Research Support, Non-U.S. Gov't | Maternal licorice consumption and detrimental cognitive and psychiatric outcomes in children. | Am J Epidemiol
+- new | 2009 | 19789539 | Comment | Licorice: a sweet alternative to prevent hyperkalemia in dialysis patients? | Kidney Int
+- new | 2008 | 19145999 | Comparative Study | Cultural adaptation of an olfactory identification test: the Greek version of Sniffin' Sticks. | Rhinology
+- new | 2008 | 17886224 | Review | Antiviral effects of Glycyrrhiza species. | Phytother Res
+- new | 2008 | 19024795 | Randomized Controlled Trial | The effect of an endogenous antioxidant glabridin on oxidized LDL. | J Basic Clin Physiol Pharmacol
+- new | 2008 | 18348383 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | A controlled trial of a dissolving oral patch concerning glycyrrhiza (licorice) herbal extract for the treatment of aphthous ulcers. | Gen Dent
+- new | 2008 | 18335124 | Review | Review of over-the-counter treatments for aphthous ulceration and results from use of a dissolving oral patch containing glycyrrhiza complex herbal extract. | J Contemp Dent Pract
+- new | 2008 | 19317172 | Randomized Controlled Trial | [Clinical observation on auxiliary treatment of hormone dependence dermatitis by shufeng liangxue decoction]. | Zhongguo Zhong Xi Yi Jie He Za Zhi [chi]
+- new | 2006 | 16864159 | Research Support, Non-U.S. Gov't | The liquorice effect on the RAAS differs between the genders. | Blood Press
+- new | 2005 | 16187178 | Review | Herbal medicines for liver diseases. | Dig Dis Sci
+- HELD REF-0089 | 2005 | 15978760 | Historical Article/Review | A history of the therapeutic use of liquorice in Europe. | J Ethnopharmacol
+- new | 2004 | 15123365 | Systematic Review | Complementary and alternative therapies in the treatment of chronic hepatitis C: a systematic review. | J Hepatol
+- new | 2001 | 11552894 | Research Support, Non-U.S. Gov't/Review | Review article: herbal treatment in gastrointestinal and liver disease--benefits and dangers. | Aliment Pharmacol Ther
+- new | 1998 | 9570253 | Review | Review article: glycyrrhizin as a potential treatment for chronic hepatitis C. | Aliment Pharmacol Ther
+- new | 1997 | 9192103 | Clinical Trial/Comparative Study/Research Support, Non-U.S. Gov't | Systematic analysis of post-administrative saiboku-to urine by liquid chromatography to determine pharmacokinetics of traditional Chinese medicine. | Biomed Chromatogr
+- new | 1997 | 9293306 | Clinical Trial | A non-isotopic method for estimating 11 beta hydroxysteroid dehydrogenase activity in vivo. | Ann Clin Biochem
+- new | 1992 | 1327632 | Case Reports/Clinical Trial/Comparative Study/Controlled Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Glucocorticoids and blood pressure: a role for the cortisol/cortisone shuttle in the control of vascular tone in man. | Clin Sci (Lond)
+- new | 1989 | 2522135 | Research Support, Non-U.S. Gov't | Effects of licorice on plasma atrial natriuretic peptide in healthy volunteers. | J Intern Med
+- new | 1986 | 3519921 | Research Support, Non-U.S. Gov't | Disposition of glycyrrhetic acid and its glycosides in healthy subjects and patients with pseudoaldosteronism. | J Pharmacobiodyn
+- new | 1978 | 373361 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Double-blind trial in duodenal and gastric ulcers. Cimetidine and deglycyrrhizinized liquorice. | Acta Gastroenterol Belg
+- new | 1977 | 322273 | Clinical Trial/Controlled Clinical Trial | [Postoperative stress hemorrhage: ineffective prevention with pepsin inhibitor and deglycyrrhizinized licorice extract. Prospective study]. | Schweiz Med Wochenschr [ger]
+- new | 1976 | 776752 | Clinical Trial/Controlled Clinical Trial | Proceedings: Deglycyrrhizinated liquorice in gastric ulcer: a double blind controlled study. | Gut
+- new | 1975 | 1094349 | Clinical Trial | Gastric ulcer controlled trial using a licorice derivative rucedal. | N Z Med J
+- new | 1971 | 4935627 | Clinical Trial/Randomized Controlled Trial | Treatment of duodenal ulcer with glycyrrhizinic-acid-reduced liquorice. A multicentre trial. | Br Med J
+
+### PubMed SR - 98 hits, 61 not already listed above, 59 new
+- new | 2027 | 42480877 | Systematic Review | Herb-drug interactions with clinical impact: A systematic review of global clinical evidence on medicinal plants widely used in Ecuador. | J Ethnopharmacol
+- new | 2026 | 41863469 | Systematic Review | From Mechanism to Therapy: Isoliquiritigenin as a Novel Anti-Inflammatory Agent for Inflammatory Disease Management. | Endocr Metab Immune Disord Drug Targets
+- new | 2026 | 41567072 | Review | Comparison of Extraction of Phytochemicals and Bioactive Compounds from Licorice (Glycyrrhiza glabra L.) by Conventional and Green Techniques: A Systematic Review. | Crit Rev Anal Chem
+- new | 2026 | 42371378 | Review | Bioactive compounds of Glycyrrhiza glabra and their functional role in modulating gut inflammation and intestinal homeostasis. | Inflammopharmacology
+- new | 2026 | 41764614 | Review | Herbal Medicines and Drugs Interactions: Cytochrome P450 Responsibility. | Curr Med Chem
+- new | 2026 | 42216861 | Review | Traditional Respiratory Remedies From Anatolia: Ethnobotanical Insights and Bioactive Properties. | Chem Biodivers
+- new | 2026 | 42533534 | Review | Coatings on Absorbable Meshes Used for Hernia Repair: A Scoping Review. | Surg Innov
+- new | 2026 | 42729180 |  | Effects of drought stress on growth, physiology and bioactive compound accumulation in licorice (Glycyrrhiza spp.): a meta-analysis-based integrated evaluation. | Front Plant Sci
+- new | 2026 | 42898128 |  | Dietary licorice improves carcass yield, hepatocellular protection, gut health, oxidative status, and cecal bacterial balance in broiler chickens. | Vet Anim Sci
+- new | 2026 | 42061564 | Systematic Review | Multi-target mechanisms of Chinese herbal medicine in the treatment of allergic rhinitis. | J Ethnopharmacol
+- new | 2026 | 41177239 | Systematic Review | A comprehensive review of Glycyrrhiza glabra in the management of rheumatoid arthritis: ethnopharmacology, pharmacological mechanisms and synergistic therapeutic strategies. | J Ethnopharmacol
+- new | 2026 | 42883811 | Review | Next-Generation Adaptogens: Molecular Mechanisms, Bioactive Compounds and Human Health Relevance of Selected Botanicals and Fungi. | Int J Mol Sci
+- new | 2025 | 40149916 | Review | Interplay Between Traditional and Scientific Knowledge: Phytoconstituents and Their Roles in Lung and Colorectal Cancer Signaling Pathways. | Biomolecules
+- new | 2025 | 40771488 | Review | Medicinal Plants for Chemotherapy-Induced Nausea and Vomiting: A Systematic Review of Antiemetic, Chemosensitizing, and Immunomodulatory Mechanisms. | Ther Clin Risk Manag
+- new | 2025 | 40265259 | Systematic Review/Meta-Analysis/Research Support, Non-U.S. Gov't | Efficacy and safety of compound glycyrrhizin in patients with alopecia areata: a systematic review and meta-analysis. | Ann Med
+- new | 2025 | 40527813 | Systematic Review/Meta-Analysis | Treatment of chronic urticaria with traditional Chinese medicine: A systematic review, meta-analysis, and medication regularity. | Medicine (Baltimore)
+- new | 2025 | 40727271 | Systematic Review | Multi-omics insights into Chinese herbal medicine additives for mutton flavor enhancement: epigenetic and microbial mechanisms. | Front Vet Sci
+- new | 2025 | 41640660 | Review | A Systematic Review of the Effect of Licorice on Head and Neck Chemotherapy- and Radiotherapy-Induced Mucositis. | Adv Biomed Res
+- new | 2025 | 39710951 | Scoping Review | Clinical Trials Conducted on Herbal Remedies for the Treatment of Melasma: A Scoping Review. | J Cosmet Dermatol
+- new | 2025 | 41475897 | Scoping Review/Research Support, N.I.H., Extramural | Identifying immunostimulatory herbal supplements that may flare autoimmune skin diseases: a systematic scoping review. | Lupus Sci Med
+- new | 2024 | 39233460 | Systematic Review | Cosmeceuticals in photoaging: A review. | Skin Res Technol
+- new | 2024 | 38301299 | Scoping Review | A scoping review of Ayurvedic rasayana adaptogens in oncology. | J Ayurveda Integr Med
+- new | 2024 | 38166511 | Meta-Analysis/Systematic Review | A systematic review and meta-analysis of efficacy and safety of compound glycyrrhizin combined with second-generation non-sedated antihistamine for the treatment of chronic urticar | J Dermatolog Treat
+- new | 2024 | 38861781 | Systematic Review/Meta-Analysis | Effect of peri-intubation non-pharmacological interventions on postoperative laryngeal symptoms: A systematic review with meta-analysis and meta-regression. | Intensive Crit Care Nurs
+- new | 2024 | 38258770 | Systematic Review | Systematic Review on Herbal Preparations for Controlling Visceral Hypersensitivity in Functional Gastrointestinal Disorders. | Curr Pharm Biotechnol
+- new | 2024 | 39110055 | Systematic Review | Medicinal Plants Cultivated in Egypt with Antiviral Potential: A Systematic Review. | Altern Ther Health Med
+- new | 2024 | 38464716 | Systematic Review | The additive effect of herbal medicines on lifestyle modification in the treatment of non-alcoholic fatty liver disease: a systematic review and meta-analysis. | Front Pharmacol
+- new | 2023 | 35916457 | Systematic Review | Polycystic ovaries and herbal remedies: A systematic review. | JBRA Assist Reprod
+- new | 2023 | 36755942 | Systematic Review | Anticancer effects of licochalcones: A review of the mechanisms. | Front Pharmacol
+- new | 2023 | 37153928 | Review | Role of Medicinal Herbs in Periodontal Therapy: A Systematic Review. | J Int Soc Prev Community Dent
+- new | 2023 | 36467615 | Review | Glycyrrhizin as a promising kryptonite against SARS-CoV-2: Clinical, experimental, and theoretical evidences. | J Mol Struct
+- new | 2023 | 37466127 | Meta-Analysis/Systematic Review | Compound glycyrrhizin tablets combined with the 308 nm excimer laser in the treatment of vitiligo: A systematic review and meta-analysis. | J Cosmet Dermatol
+- new | 2022 | 35671864 | Meta-Analysis/Systematic Review | Preclinical studies of licorice in ulcerative colitis: A systematic review with meta-analysis and network pharmacology. | J Ethnopharmacol
+- new | 2022 | 35490427 | Systematic Review | Native Iranian Medicinal Plants with Anti-Vaginal Infection Properties: A Systematic Review. | Infect Disord Drug Targets
+- new | 2022 | 36408213 | Systematic Review | Efficacy and safety of glycyrrhizic acid preparation treating comorbid liver injury in COVID-19: A systematic review. | Front Pharmacol
+- new | 2022 | 35711572 |  | Eating for 2: A Systematic Review of Dutch App Stores for Apps Promoting a Healthy Diet during Pregnancy. | Curr Dev Nutr
+- new | 2022 | 36091754 | Systematic Review | Chinese herbal medicine combined with oxaliplatin-based chemotherapy for advanced gastric cancer: A systematic review and meta-analysis of contributions of specific medicinal mater | Front Pharmacol
+- new | 2022 | 35444784 | Systematic Review/Retracted Publication | Recent Progress in Traditional Chinese Medicines and Their Mechanism in the Treatment of Allergic Rhinitis. | J Healthc Eng
+- new | 2022 | 35220130 |  | Recent advances in glycyrrhizin metabolism, health benefits, clinical effects and drug delivery systems for efficacy improvement; a comprehensive review. | Phytomedicine
+- new | 2021 | 32525777 | Systematic Review | Persian Herbal Medicine in Functional Dyspepsia: A Systematic Review. | Curr Drug Discov Technol
+- new | 2021 | 33634160 | Systematic Review | Plant-Derived Food Grade Substances (PDFGS) Active Against Respiratory Viruses: A Systematic Review of Non-clinical Studies. | Front Nutr
+- new | 2021 | 34244286 | Research Support, Non-U.S. Gov't | Clinical efficacy and security of glycyrrhizic acid preparation in the treatment of anti-SARS-CoV-2 drug-induced liver injury: a protocol of systematic review and meta-analysis. | BMJ Open
+- new | 2021 | 33725903 |  | To assess the effective and safety of compound glutamine entersoluble capsules in irritable bowel syndrome: A protocol for systematic review and meta-analysis. | Medicine (Baltimore)
+- new | 2020 | 32503160 | Systematic Review | Bioactive Compounds and Their Effect on Blood Pressure-A Review. | Nutrients
+- new | 2020 | 33312222 | Review | Meta-Analysis Based on Clinical RCTs: The Effect of Molecular Epimerism on the Safety of Glycyrrhizic Acid. | Evid Based Complement Alternat Med
+- new | 2020 | 32984100 | Review | Investigation of the role of herbal medicine, acupressure, and acupuncture in the menopausal symptoms: An evidence-based systematic review study. | J Family Med Prim Care
+- new | 2019 | 31615045 | Review | Bioactive Candy: Effects of Licorice on the Cardiovascular System. | Foods
+- new | 2019 | 31602916 | Systematic Review | [Toxicity-reducing effect of compatibility of Tripterygium and licorice in animals: systematic review]. | Zhongguo Zhong Yao Za Zhi [chi]
+- HELD REF-2439 | 2019 | 31605160 | Meta-Analysis | Identification of glycyrrhizin metabolites in humans and of a potential biomarker of liquorice-induced pseudoaldosteronism: a multi-centre cross-sectional study. | Arch Toxicol
+- new | 2018 | 30065791 | Review | Biomarkers of food intake for cocoa and liquorice (products): a systematic review. | Genes Nutr
+- new | 2018 | 29433679 | Meta-Analysis/Systematic Review | Metabolic changes after licorice consumption: A systematic review with meta-analysis and trial sequential analysis of clinical trials. | Phytomedicine
+- new | 2018 | 29552273 | Review | Are Natural Ingredients Effective in the Management of Hyperpigmentation? A Systematic Review. | J Clin Aesthet Dermatol
+- HELD REF-2508 | 2017 | 28660884 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | The association between consistent licorice ingestion, hypertension and hypokalaemia: a systematic review and meta-analysis. | J Hum Hypertens
+- new | 2016 | 27268043 | Research Support, Non-U.S. Gov't/Systematic Review | Medicinal plants--prophylactic and therapeutic options for gastrointestinal and respiratory diseases in calves and piglets? A systematic review. | BMC Vet Res
+- new | 2016 | 27294213 | Review | The efficacy of Iranian herbal medicines in alleviating hot flashes: A systematic review. | Int J Reprod Biomed
+- new | 2016 | 27564395 | Systematic Review | The efficacy of herbal medicines against Toxoplasma gondii during the last 3 decades: a systematic review. | Can J Physiol Pharmacol
+- new | 2015 | 26695708 | Research Support, Non-U.S. Gov't/Systematic Review | A Systematic Review of the Anticancer Properties of Compounds Isolated from Licorice (Gancao). | Planta Med
+- new | 2015 | 25251944 | Research Support, Non-U.S. Gov't/Systematic Review | Adverse effects of plant food supplements and botanical preparations: a systematic review with critical evaluation of causality. | Br J Clin Pharmacol
+- new | 2010 | 20858178 | Systematic Review | The efficacy and safety of herbal medicines used in the treatment of hyperlipidemia; a systematic review. | Curr Pharm Des
+- new | 2003 | 12813616 | Systematic Review | Cardiovascular adverse effects of herbal medicines: a systematic review of the recent literature. | Can J Cardiol
+- new | 1999 | 10030529 | Meta-Analysis | Unsafe and potentially safe herbal therapies. | Am J Health Syst Pharm
+
+### PubMed SAFE - 1720 hits, 184 not already listed above, 184 new
+- new | 2026 | 41920265 |  | Glycyrrhizic Acid Alleviates Osimertinib-Induced Cutaneous Toxicity by Inhibiting Keratinocyte Apoptosis and Inflammation. | Phytother Res
+- new | 2026 | 41789596 | Review | Mechanisms and therapeutic potential of glycyrrhizic acid: Insights into key signaling pathways and disease modulation (Review). | Mol Med Rep
+- new | 2026 | 42543293 | Review | [Research progress on anti-tumor pharmacological activities and mechanisms of glycyrrhizic acid]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2026 | 42147312 | Review | Glycyrrhizin preparations in liver diseases: a narrative review of mechanisms and therapeutic potential. | Front Pharmacol
+- new | 2026 | 42639177 | Review | Precision treatment and frontier advances of glycyrrhizin preparations in drug-induced liver injury (DILI). | Front Pharmacol
+- new | 2026 | 42440570 | Review | Glycyrrhizin (GLY) and glycyrrhetinic acid (GA) as potential multi-target antimicrobials: mechanisms, biofilm disruption, and synergy against drug-resistant pathogens. | Front Microbiol
+- new | 2026 | 42005971 |  | Safety and Feasibility of Compound Glycyrrhizin-Based Combination Therapy for Coexisting Facial Vitiligo and Melasma: A Real-World Retrospective Study. | Clin Cosmet Investig Dermatol
+- new | 2026 | 41940429 |  | Glycyrrhetinic Acid in Cancer Therapy: Mechanistic Insights, Therapeutic Potential, and Future Directions. | Anticancer Agents Med Chem
+- new | 2026 | 41581720 |  | Glycyrrhetinic acid ameliorates cholestatic liver injury by inhibiting acHMGB1/TLR2-mediated crosstalk between hepatocytes and macrophages. | Eur J Pharmacol
+- new | 2026 | 41557209 |  | Glycyrrhizin upregulates PTEN and suppresses oncogenic signaling in breast cancer. | Med Oncol
+- new | 2025 | 40306499 |  | Glycyrrhizic acid promotes liver regeneration through activating β-catenin in acetaminophen-induced liver injury. | J Ethnopharmacol
+- new | 2025 | 41158944 |  | Alleviation effect of glycyrrhetinic acid on zearalenone-induced reproductive toxicity in replacement gilts. | Front Vet Sci
+- new | 2025 | 41403929 |  | Anti-gallbladder cancer activities and toxicity studies of glycyrrhetinic acid derivative as a novel PPARγ agonist. | Front Immunol
+- new | 2025 | 40922184 |  | Bioconversion of glycyrrhizin in a natural intensive sweetener by immobilized β-glucuronidase. | Food Res Int
+- new | 2025 | 40660035 | Review | The antitumor mechanism of glycyrrhetinic acid and its applications in cancer treatment. | Med Oncol
+- new | 2025 | 39829229 |  | Ameliorative Effect of Glycyrrhizic Acid on Diosbulbin B-Induced Liver Injury and Its Mechanism. | Am J Chin Med
+- new | 2025 | 40284452 |  | The Effect of Gut Microbiome Perturbation on the Bioavailability of Glycyrrhizic Acid in Rats. | Pharmaceutics
+- new | 2025 | 40736665 |  | Anti-allergic actions and pharmacokinetics of orally administered 18α-glycyrrhetinic acid and 18β-glycyrrhetinic acid in mice. | J Nat Med
+- new | 2025 | 39520769 |  | Glycyrrhizin alleviated cisplatin-induced testicular injury by inhibiting the oxidative, apoptotic, hormonal, and histological alterations. | Am J Vet Res
+- new | 2025 | 40279160 |  | Quercetin nanocrystals stabilized by glycyrrhizic acid for liver targeted drug delivery: impact of glycyrrhizic acid concentrations. | Pharm Dev Technol
+- new | 2025 | 40456423 |  | Glycyrrhetinic acid and RGD dual-targeted liposomes for combined chemotherapy and phototherapy in liver cancer. | Int J Pharm
+- new | 2025 | 39935270 |  | Formulation and optimization of glycyrrhetinic acid-modified pH-sensitive curcumin liposomes for anti-hepatocellular carcinoma. | Pharm Dev Technol
+- new | 2025 | 39621243 |  | Design and synthesis of glycyrrhetinic acid glycosides against acute lung injury and pulmonary fibrosis. | Mol Divers
+- new | 2025 | 40617304 |  | The protective mechanisms of glycyrrhizic acid for deoxynivalenol-induced toxicity in rabbit corneal stroma. | Toxicol In Vitro
+- new | 2025 | 41415701 |  | Preparation of 18β-Glycyrrhetinic Acid Liposome and Its Therapeutic Effect on Pulmonary Arterial Hypertension. | Drug Des Devel Ther
+- new | 2025 | 40391762 | Research Support, Non-U.S. Gov't | Co-Assembled Cryptotanshinone Derivative and Glycyrrhizic Acid Carrier-Free Hydrogel: A Synergistic Approach to Acne Treatment. | Nano Lett
+- new | 2025 | 40046366 | Case Reports | Oral Cornstarch and Glycyrrhizin Improve Severe Liver Injury Caused by Glycogen Storage Disease Type IXa. | Cureus
+- new | 2025 | 40463872 |  | Engineered celastrol liposomes with glycyrrhizic acid augment synergistic antitumor efficacy in breast cancer. | Front Oncol
+- new | 2024 | 39121535 |  | Glycyrrhizic acid ameliorates hepatic fibrosis by inhibiting oxidative stress via AKR7A2. | Phytomedicine
+- new | 2024 | 38657511 | Research Support, Non-U.S. Gov't | 18β-Glycyrrhetinic acid protects against deoxynivalenol-induced liver injury via modulating ferritinophagy and mitochondrial quality control. | J Hazard Mater
+- new | 2024 | 37794747 |  | Glycyrrhizin protects against diosbulbin B-induced hepatotoxicity by inhibiting the metabolic activation of diosbulbin B. | J Biochem Mol Toxicol
+- new | 2024 | 39264272 | Research Support, Non-U.S. Gov't | Enhancing Cardioprotection Through Neutrophil-Mediated Delivery of 18β-Glycyrrhetinic Acid in Myocardial Ischemia/Reperfusion Injury. | Adv Sci (Weinh)
+- new | 2024 | 38553799 | Review | Glycyrrhizin and the Related Preparations: An Inspiring Resource for the Treatment of Liver Diseases. | Am J Chin Med
+- new | 2024 | 39159503 |  | Glycyrrhizic acid alleviates concanavalin A-induced acute liver injury by regulating monocyte-derived macrophages. | Phytomedicine
+- new | 2024 | 38848942 |  | Natural sweetener glycyrrhizin protects against precocious puberty by modulating the gut microbiome. | Life Sci
+- new | 2024 | 37132106 |  | Formulation, Preparation, and Evaluation of Bifunctional Micelle with Glycyrrhizic Acid Containing Emodin for Toxicity Attenuation Application. | Curr Drug Deliv
+- new | 2024 | 39510337 | Review | The therapeutic potential of glycyrrhizic acid and its metabolites in neurodegenerative diseases: Evidence from animal models. | Eur J Pharmacol
+- new | 2024 | 38348715 |  | 18β-Glycyrrhetinic acid exerts cardioprotective effects against BPA-induced cardiotoxicity through antiapoptotic and antioxidant mechanisms. | J Biochem Mol Toxicol
+- new | 2024 | 38704496 | Research Support, Non-U.S. Gov't | Glycyrrhizin functionalized CuS Nanoprobes for NIR Light-based therapeutic mitigation of acne vulgaris. | Drug Deliv Transl Res
+- new | 2024 | 39397991 |  | Glycyrrhetinic acid reduces lung inflammation caused by pneumococcal infection by reducing the toxicity of pneumolysin. | Heliyon
+- new | 2024 | 38346790 |  | Natural Sweetener Glycyrrhetinic Acid Monoglucuronide Improves Glucose Homeostasis in Healthy Mice. | J Agric Food Chem
+- new | 2024 | 38376879 |  | Paeoniflorin loaded liposomes modified with glycyrrhetinic acid for liver-targeting: preparation, characterization, and pharmacokinetic study. | Pharm Dev Technol
+- new | 2024 | 38283822 |  | Glycyrrhizin alleviates radiation-induced lung injury by regulating the NLRP3 inflammasome through endoplasmic reticulum stress. | Toxicol Res (Camb)
+- new | 2024 | 38143068 |  | Fabrication of resveratrol-loaded soy protein isolate-glycyrrhizin nanocomplex for improving bioavailability via pH-responsive hydrogel properties. | Int J Biol Macromol
+- new | 2024 | 38794159 |  | Glycyrrhizic Acid Nanoparticles Subside the Activity of Methicillin-Resistant Staphylococcus aureus by Suppressing PBP2a. | Pharmaceuticals (Basel)
+- new | 2024 | 38598859 | Research Support, Non-U.S. Gov't | 18β-glycyrrhetinic acid alleviates radiation-induced skin injury by activating the Nrf2/HO-1 signaling pathway. | Biol Chem
+- new | 2024 | 39107810 | Case Reports | Glycyrrhizic acid induced acquired apparent mineralocorticoid excess syndrome with a hyperadrenergic state: a case report. | J Med Case Rep
+- new | 2024 | 39642037 |  | Formulation and evaluation of ibrutinib-loaded glycyrrhizic acid conjugated ovalbumin nanoparticles and ibrutinib-glycyrrhizic acid complex for improved oral bioavailability. | Pharm Dev Technol
+- new | 2024 | 39317695 |  | One-Step Organic Synthesis of 18β-Glycyrrhetinic Acid-Anthraquinone Ester Products: Exploration of Antibacterial Activity and Structure-Activity Relationship, Toxicity Evaluation i | Chem Biol Drug Des
+- new | 2024 | 38848798 |  | Local delivery of methotrexate/glycyrrhizin-loaded hyaluronic acid nanofiber for the management of oral cancer. | Int J Pharm
+- new | 2023 | 38155900 | Published Erratum | Corrigendum: Advances in the roles of glycyrrhizic acid in cancer therapy. | Front Pharmacol
+- new | 2023 | 36923358 |  | Glycyrrhizin for treatment of CRS caused by CAR T-cell therapy: A pharmacological perspective. | Front Pharmacol
+- new | 2023 | 36655685 |  | Efficacy and Safety of Glycyrrhizic Acid in Treatment of Autoimmune Hepatitis. | Am J Chin Med
+- new | 2023 | 36573308 | Case Reports | Allergic contact dermatitis from glycyrrhetinic acid contained in a cream for palpebral eczema. | Contact Dermatitis
+- new | 2023 | 37329555 |  | Glycyrrhizic acid delivery system Chitosan-coated liposome as an adhesive anti-inflammation. | Cell Mol Biol (Noisy-le-grand)
+- new | 2023 | 37649893 | Review | Advances in the roles of glycyrrhizic acid in cancer therapy. | Front Pharmacol
+- new | 2023 | 37483744 |  | Glycyrrhizic acid glycosides reduces extensive tripterygium glycosides-induced lipid deposition in hepatocytes. | Heliyon
+- new | 2023 | 36789721 |  | Glycyrrhizic Acid-Based Carbonized Dots Boost Antiviral Activity against Influenza A Virus via Multisite Inhibition Mechanisms. | ACS Appl Mater Interfaces
+- new | 2023 | 37174648 |  | Glycyrrhizic Acid Prevents Paclitaxel-Induced Neuropathy via Inhibition of OATP-Mediated Neuronal Uptake. | Cells
+- new | 2023 | 36874748 | Case Reports | A Licorice-Flavored Edema: A Case Report of Glycyrrhizic Acid Toxicity From Chronic Licorice Root Consumption. | Cureus
+- new | 2023 | 36974794 |  | Optimal Administration of Glycyrrhizin Avoids Pharmacokinetic Interactions With High-dose Methotrexate and Exerts a Hepatoprotective Effect. | Anticancer Res
+- new | 2023 | 36584740 | Research Support, Non-U.S. Gov't | Incorporation of glycyrrhizic acid and polyene phosphatidylcholine in lipid nanoparticles ameliorates acute liver injury via delivering p65 siRNA. | Nanomedicine
+- new | 2023 | 37745084 |  | Glycyrrhizin arginine salt protects against cisplation-induced acute liver injury by repressing BECN1-mediated ferroptosis. | Front Pharmacol
+- new | 2023 | 38322013 | Research Support, Non-U.S. Gov't | Amelioration effect of 18β-Glycyrrhetinic acid on methylation inhibitors in hepatocarcinogenesis -induced by diethylnitrosamine. | Front Immunol
+- new | 2023 | 38075389 |  | Exploring the Effect of Compound Glycyrrhizin and Silybinin on the Metabolism of Pexidartinib in Rats Based on CYP3A4 and CYP2C9. | Adv Pharmacol Pharm Sci
+- new | 2023 | 38037139 |  | Extensive preclinical evaluation of combined mangiferin and glycyrrhizic acid for restricting synovial neovascularization in rheumatoid arthritis. | Chin Med
+- new | 2023 | 37210579 |  | Inhibition of DAMP actions in the tumoral microenvironment using lactoferrin-glycyrrhizin conjugate for glioblastoma therapy. | Biomater Res
+- new | 2023 | 38114109 |  | [Liver targeting of compound liposomes mediated by glycyrrhetinic acid derivative receptor and its effect on hepatic stellate cells]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2023 | 37542990 |  | Synthesis of glycyrrhizin analogues as HMGB1 inhibitors and their activity against sepsis in acute kidney injury. | Eur J Med Chem
+- new | 2023 | 37288078 |  | Glycyrrhizic acid modified Poria cocos polyscaccharide carbon dots dissolving microneedles for methotrexate delivery to treat rheumatoid arthritis. | Front Chem
+- new | 2023 | 36952242 | Research Support, Non-U.S. Gov't | Dual-Ligand-Functionalized Liposomes Based on Glycyrrhetinic Acid and cRGD for Hepatocellular Carcinoma Targeting and Therapy. | Mol Pharm
+- new | 2022 | 36099014 |  | Glycyrrhizic acid suppresses atopic dermatitis-like symptoms by regulating the immune balance. | J Cosmet Dermatol
+- new | 2022 | 36640063 |  | Comment on "Effect of Loaded Glycyrrhizic Acid on PLGA Nano-particle on Treatment of Allergic Asthma". | Iran J Allergy Asthma Immunol
+- new | 2022 | 35625131 |  | Evaluation of Glycyrrhizic Acid Therapeutic Effect and Safety in Mycoplasma gallisepticum (HS Strain)-Infected Arbor Acres Broilers. | Animals (Basel)
+- new | 2022 | 35973589 |  | Glycyrrhizin micellar nanocarriers for topical delivery of baicalin to the hair follicles: A targeted approach tailored for alopecia treatment. | Int J Pharm
+- new | 2022 | 35624826 |  | 18β-Glycyrrhetinic Acid Protects against Cholestatic Liver Injury in Bile Duct-Ligated Rats. | Antioxidants (Basel)
+- new | 2022 | 36506582 | Published Erratum | Corrigendum: Identification of an alternative glycyrrhizin metabolite causing liquorice-induced pseudohyperaldosteronism and the development of ELISA system to detect the predictiv | Front Pharmacol
+- new | 2022 | 35524379 |  | Effect of Loaded Glycyrrhizic Acid on PLGA Nano-particle on Treatment of Allergic Asthma. | Iran J Allergy Asthma Immunol
+- new | 2022 | 35598524 |  | Nrf2-mediated liver protection by 18β-glycyrrhetinic acid against pyrrolizidine alkaloid-induced toxicity through PI3K/Akt/GSK3β pathway. | Phytomedicine
+- new | 2022 | 36422270 |  | Glycyrrhizic Acid Mitigates Tripterygium-Glycoside-Tablet-Induced Acute Liver Injury via PKM2 Regulated Oxidative Stress. | Metabolites
+- new | 2022 | 34980772 |  | Impact of Gut Microbiota on the Pharmacokinetics of Glycyrrhizic Acid in Yokukansan, a Kampo Medicine. | Biol Pharm Bull
+- new | 2022 | 36232291 | Review | Glycyrrhizic Acid and Its Derivatives: Promising Candidates for the Management of Type 2 Diabetes Mellitus and Its Complications. | Int J Mol Sci
+- new | 2022 | 36272286 |  | Glycyrrhetinic acid modified chlorambucil prodrug for hepatocellular carcinoma treatment based on DNA replication and tumor microenvironment. | Colloids Surf B Biointerfaces
+- new | 2022 | 35015223 | Case Reports | Glycyrrhizin-Induced Pseudohyperaldosteronism: A Case Report. | Chin J Integr Med
+- new | 2022 | 35531692 |  | [Preparation of tanshinone Ⅱ_A-glycyrrhetinic acid solid lipid nanoparticles and its inhibitory effect on acne]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2022 | 36168910 |  | Combating hematopoietic and hepatocellular abnormalities resulting from administration of cisplatin: role of liver targeted glycyrrhetinic acid nanoliposomes loaded with amino acid | Pharm Dev Technol
+- new | 2022 | 35438473 |  | An analysis of the efficacy and safety of compound glycyrrhizin injections in the treatment of drug-induced liver injury using a nationwide database. | Int J Clin Pharm
+- new | 2022 | 35370657 |  | Liquorice Extract and 18β-Glycyrrhetinic Acid Protect Against Experimental Pyrrolizidine Alkaloid-Induced Hepatotoxicity in Rats Through Inhibiting Cytochrome P450-Mediated Metabol | Front Pharmacol
+- new | 2022 | 36296377 |  | Development of Glycyrrhetinic Acid and Folate Modified Cantharidin Loaded Solid Lipid Nanoparticles for Targeting Hepatocellular Carcinoma. | Molecules
+- new | 2022 | 35483618 | Case Reports | Excipient-free nanodispersions dominated by amphiphilic glycosides for bioavailability enhancement of hydrophobic aglycones, a case of glycyrrhetinic acid with diammonium glycyrrhi | Int J Pharm
+- new | 2021 | 32144337 | Review | Research progress on the protective effects of licorice-derived 18β-glycyrrhetinic acid against liver injury. | Acta Pharmacol Sin
+- new | 2021 | 34834206 | Review | Glycyrrhizic Acid and Its Hydrolyzed Metabolite 18β-Glycyrrhetinic Acid as Specific Ligands for Targeting Nanosystems in the Treatment of Liver Cancer. | Pharmaceutics
+- new | 2021 | 35010098 |  | Preparation and Characterization of a Glycyrrhizic Acid-Based Drug Delivery System for Allergen-Specific Immunotherapy. | Nanomaterials (Basel)
+- new | 2021 | 33807620 |  | Glycyrrhizin Attenuates Carcinogenesis by Inhibiting the Inflammatory Response in a Murine Model of Colorectal Cancer. | Int J Mol Sci
+- new | 2021 | 34604277 | Review | Clinical Risk Factors of Licorice-Induced Pseudoaldosteronism Based on Glycyrrhizin-Metabolite Concentrations: A Narrative Review. | Front Nutr
+- new | 2021 | 33982533 | Review | Glycyrrhizin for topical use and prophylaxis of COVID-19: an interesting pharmacological perspective. | J Biol Regul Homeost Agents
+- new | 2021 | 33278444 |  | Glycyrrhizin mediated liver-targeted alginate nanogels delivers quercetin to relieve acute liver failure. | Int J Biol Macromol
+- new | 2021 | 34630081 |  | Glycyrrhetinic Acid Protects α-Naphthylisothiocyanate- Induced Cholestasis Through Regulating Transporters, Inflammation and Apoptosis. | Front Pharmacol
+- new | 2021 | 35579672 |  | Topical delivery of pluronic F127/TPGS mixed micelles-based hydrogel loaded with glycyrrhizic acid for atopic dermatitis treatment. | Drug Dev Ind Pharm
+- new | 2021 | 33342284 | Research Support, Non-U.S. Gov't | Post-treatment with glycyrrhizin can attenuate hepatic mitochondrial damage induced by acetaminophen in mice. | Exp Biol Med (Maywood)
+- new | 2021 | 33305640 |  | Glycyrrhizic acid-based self-assembled micelles for improving oral bioavailability of paeoniflorin. | Drug Dev Ind Pharm
+- new | 2021 | 35188016 |  | Development of herpetrione nanosuspensions stabilized by glycyrrhizin for enhancing bioavailability and synergistic hepatoprotective effect. | Drug Dev Ind Pharm
+- new | 2021 | 34620053 |  | Hepatocellular Carcinoma Targeting and Pharmacodynamics of Paclitaxel Nanoliposomes Modified by Glycyrrhetinic Acid and Ferric Tetroxide. | Curr Top Med Chem
+- new | 2021 | 33030083 |  | Glycyrrhizic acid ameliorates sodium nitrite-induced lung and salivary gland toxicity: Impact on oxidative stress, inflammation and fibrosis. | Hum Exp Toxicol
+- new | 2020 | 31612817 | Review | Advances in Pharmacological Activities and Mechanisms of Glycyrrhizic Acid. | Curr Med Chem
+- new | 2020 | 32595744 |  | Glycyrrhizin Ameliorates Radiation Enteritis in Mice Accompanied by the Regulation of the HMGB1/TLR4 Pathway. | Evid Based Complement Alternat Med
+- new | 2020 | 32562521 | Review | Preclinical Evidence for the Pharmacological Actions of Glycyrrhizic Acid: A Comprehensive Review. | Curr Drug Metab
+- new | 2020 | 32298152 |  | Effects of glycyrrhizin on the pharmacokinetics of nobiletin in rats and its potential mechanism. | Pharm Biol
+- new | 2020 | 32390962 |  | Lactobacillus murinus Improved the Bioavailability of Orally Administered Glycyrrhizic Acid in Rats. | Front Microbiol
+- new | 2020 | 31542982 |  | Influence of glycyrrhetinic acid on the pharmacokinetics of warfarin in rats. | Xenobiotica
+- new | 2020 | 32172949 |  | Liver metabonomics study on the protective effect of glycyrrhetinic acid against realgar-induced liver injury. | Chin J Nat Med
+- new | 2020 | 30794076 |  | Glycyrrhizic acid renders robust neuroprotection in rodent model of vascular dementia by controlling oxidative stress and curtailing cytochrome-c release. | Nutr Neurosci
+- new | 2020 | 32390188 | Case Reports/Letter | A case of infantile bullous pemphigoid successfully treated with compound glycyrrhizin tablets. | Dermatol Ther
+- new | 2020 | 32952642 |  | Composite ammonium glycyrrhizin has hepatoprotective effects in chicken hepatocytes with lipopolysaccharide/enrofloxacin-induced injury. | Exp Ther Med
+- new | 2020 | 33033567 |  | N-acetylcysteine and glycyrrhizin combination: Benefit outcome in a murine model of acetaminophen-induced liver failure. | World J Hepatol
+- new | 2019 | 31673307 |  | Synthesis and antitumor activity of fluorouracil - oleanolic acid/ursolic acid/glycyrrhetinic acid conjugates. | Medchemcomm
+- new | 2019 | 31659708 |  | Glycyrrhizic acid modulates the atrazine-induced apoptosis in rabbit spleen. | Environ Sci Pollut Res Int
+- new | 2019 | 31429612 |  | Effects of glycyrrhizin on the pharmacokinetics of paeoniflorin in rats and its potential mechanism. | Pharm Biol
+- new | 2019 | 30317430 |  | Glycyrrhizic Acid Ameliorates Mitochondrial Function and Biogenesis Against Aluminum Toxicity in PC12 Cells. | Neurotox Res
+- new | 2019 | 30848569 | Review | The Review of in Vitro and in Vivo Studies over the Glycyrrhizic Acid as Natural Remedy Option for Treatment of Allergic Asthma. | Iran J Allergy Asthma Immunol
+- new | 2019 | 31165408 |  | Effect of Schisandrae Fructus on glycyrrhizin content in Kampo extracts containing Glycyrrhizae Radix used clinically in Japan. | J Nat Med
+- new | 2019 | 31258651 |  | Optimal ratio of 18α- and 18β-glycyrrhizic acid for preventing alcoholic hepatitis in rats. | Exp Ther Med
+- new | 2019 | 30739499 | Retracted Publication | Brain-targeted glycyrrhizic-acid-loaded surface decorated nanoparticles for treatment of cerebral ischaemia and its toxicity assessment. | Artif Cells Nanomed Biotechnol
+- new | 2019 | 31028662 |  | Evaluation of the safety and efficacy of Glycyrrhiza uralensis root extracts produced using artificial hydroponic-field hybrid cultivation systems II: comparison of serum concentra | J Nat Med
+- new | 2019 | 30813699 |  | [Effects of 18β-sodium glycyrrhetinic acid on TNF-α expression in rats with allergic rhinitis]. | Lin Chuang Er Bi Yan Hou Tou Jing Wai Ke [chi]
+- new | 2019 | 31383927 | Research Support, Non-U.S. Gov't | A simple method for evaluation pharmacokinetics of glycyrrhetinic acid and potential drug-drug interaction between herbal ingredients. | Sci Rep
+- new | 2019 | 31138208 |  | Efficient production of glycyrrhetinic acid in metabolically engineered Saccharomyces cerevisiae via an integrated strategy. | Microb Cell Fact
+- new | 2019 | 31125383 | Research Support, N.I.H., Extramural | Using glycyrrhizic acid to target sumoylation processes during Epstein-Barr virus latency. | PLoS One
+- new | 2019 | 30553196 |  | Glycyrrhizin alleviates Con A-induced hepatitis by differentially regulating the production of IL-17 and IL-25. | Biomed Pharmacother
+- new | 2018 | 30165922 | Review | Glycyrrhetinic Acid Functionalized Nanoparticles for Drug Delivery to Liver Cancer. | J Biomed Nanotechnol
+- new | 2018 | 29702284 |  | Glycyrrhizin ameliorates atopic dermatitis-like symptoms through inhibition of HMGB1. | Int Immunopharmacol
+- new | 2018 | 29099639 |  | Effects of glycyrrhizin on the pharmacokinetics of puerarin in rats. | Xenobiotica
+- new | 2018 | 28631076 |  | Effects of Glycyrrhizic Acid on the Pharmacokinetics of Pristimerin in Rats and its Potential Mechanism. | Eur J Drug Metab Pharmacokinet
+- new | 2018 | 30168067 |  | Physicochemical Properties and Anti-Opisthorchosis Effect of Mechanochemically Synthesized Solid Compositions of Praziquantel with Glycyrrhizic Acid Disodium Salt. | Dokl Biochem Biophys
+- new | 2018 | 29445787 |  | Nanoparticles based on glycyrrhetinic acid modified porphyrin for photodynamic therapy of cancer. | Org Biomol Chem
+- new | 2018 | 29973492 | Retracted Publication | Protective Effect of Glycyrrhizic Acid on Alcoholic Liver Injury in Rats by Modulating Lipid Metabolism. | Molecules
+- new | 2018 | 29357733 |  | Effects of glycyrrhizin on the pharmacokinetics of asiatic acid in rats and its potential mechanism. | Pharm Biol
+- new | 2018 | 30348944 | Research Support, Non-U.S. Gov't | Isolation of a novel glycyrrhizin metabolite as a causal candidate compound for pseudoaldosteronism. | Sci Rep
+- new | 2018 | 29844720 |  | Evaluation of the hepatoprotective effect of combination between hinokiflavone and Glycyrrhizin against CCl(4) induced toxicity in rats. | Saudi Pharm J
+- new | 2018 | 30227687 |  | Compound Ammonium Glycyrrhizin Protects Hepatocytes from Injury Induced by Lipopolysaccharide/Florfenicol through a Mitochondrial Pathway. | Molecules
+- new | 2017 | 28509400 |  | Glycyrrhetinic Acid Accelerates the Clearance of Triptolide through P-gp In Vitro. | Phytother Res
+- new | 2017 | 27514823 |  | Pharmacokinetic Effects of Cinnamic Acid, Amygdalin, Glycyrrhizic Acid and Liquiritin on Ephedra Alkaloids in Rats. | Eur J Drug Metab Pharmacokinet
+- new | 2017 | 29228575 |  | Ammonium glycyrrhizin counteracts liver injury caused by lipopolysaccharide/amoxicillin-clavulanate potassium. | Oncotarget
+- new | 2017 | 28608269 |  | Comparison of glycyrrhizin content in 25 major kinds of Kampo extracts containing Glycyrrhizae Radix used clinically in Japan. | J Nat Med
+- new | 2017 | 28335563 |  | The Effects of Sweet Foods on the Pharmacokinetics of Glycyrrhizic Acid by icELISA. | Molecules
+- new | 2017 | 28572827 |  | Protective Effect of 18β-Glycyrrhetinic Acid against Triptolide-Induced Hepatotoxicity in Rats. | Evid Based Complement Alternat Med
+- new | 2017 | 28754329 |  | Inhibition of UDP-glucuronosyltransferase (UGT)-mediated glycyrrhetinic acid 3-O-glucuronidation by polyphenols and triterpenoids. | Drug Metab Pharmacokinet
+- new | 2017 | 28623864 |  | A highly sensitive LC-MS/MS method for simultaneous determination of glycyrrhizin and its active metabolite glycyrrhetinic acid: Application to a human pharmacokinetic study after  | Biomed Chromatogr
+- new | 2017 | 28549656 | Research Support, N.I.H., Intramural/Research Support, Non-U.S. Gov't | Glycyrrhizin and glycyrrhetinic acid inhibits alpha-naphthyl isothiocyanate-induced liver injury and bile acid cycle disruption. | Toxicology
+- new | 2017 | 27747446 |  | The effects of 18β-glycyrrhetinic acid and glycyrrhizin on intestinal absorption of paeoniflorin using the everted rat gut sac model. | J Nat Med
+- new | 2017 | 28638869 |  | REDUCING TOXICITY AND INCREASING EFFICIENCY: ACONITINE WITH LIQUIRITIN AND GLYCYRRHETINIC ACID REGULATE CALCIUM REGULATORY PROTEINS IN RAT MYOCARDIAL CELL. | Afr J Tradit Complement Altern Med
+- new | 2016 | 26498361 | Research Support, Non-U.S. Gov't/Review | Can active components of licorice, glycyrrhizin and glycyrrhetinic acid, lick rheumatoid arthritis? | Oncotarget
+- new | 2016 | 26808002 | Research Support, Non-U.S. Gov't/Review | Glycyrrhetinic Acid Mediated Drug Delivery Carriers for Hepatocellular Carcinoma Therapy. | Mol Pharm
+- new | 2016 | 27904813 |  | Glycyrrhetinic acid might increase the nephrotoxicity of bakuchiol by inhibiting cytochrome P450 isoenzymes. | PeerJ
+- new | 2016 | 26955884 |  | Glycyrrhizic acid prevents enteritis through reduction of NF‑κB p65 and p38MAPK expression in rat. | Mol Med Rep
+- new | 2016 | 27288922 |  | Pharmacokinetics and pharmacodynamics of glycyrrhetinic acid with Paeoniflorin after transdermal administration in dysmenorrhea model mice. | Phytomedicine
+- new | 2016 | 25379806 |  | Development, optimization and characterization of glycyrrhetinic acid-chitosan nanoparticles of atorvastatin for liver targeting. | Drug Deliv
+- new | 2016 | 27206446 | Research Support, Non-U.S. Gov't | Enhanced oral bioavailability of glycyrrhetinic acid via nanocrystal formulation. | Drug Deliv Transl Res
+- new | 2015 | 25825801 | Research Support, Non-U.S. Gov't/Review | Potential drug interactions associated with glycyrrhizin and glycyrrhetinic acid. | Drug Metab Rev
+- new | 2015 | 25588318 |  | Protective Effects of Glycyrrhizic Acid and 18β-Glycyrrhetinic Acid against Cisplatin-Induced Nephrotoxicity in BALB/c Mice. | J Agric Food Chem
+- new | 2015 | 26042455 | Research Support, Non-U.S. Gov't | Effect of glycyrrhizic acid on rhein renal penetration: a microdialysis study in rats. | Xenobiotica
+- new | 2015 | 25678183 | Case Reports | Intravenous glycyrrhizin improved serum transaminases rapidly in a chronic hepatitis B patient with acute exacerbation. | J Formos Med Assoc
+- new | 2015 | 25945038 | Research Support, Non-U.S. Gov't/Retracted Publication | A novel glycyrrhetinic acid-modified oxaliplatin liposome for liver-targeting and in vitro/vivo evaluation. | Drug Des Devel Ther
+- new | 2015 | 26319324 | Research Support, Non-U.S. Gov't | The role of glycyrrhetinic acid modification on preparation and evaluation of quercetin-loaded chitosan-based self-aggregates. | J Colloid Interface Sci
+- new | 2014 | 24849382 | Research Support, Non-U.S. Gov't | Biliary excretion of glycyrrhetinic acid: glucuronide-conjugate determination following a pharmacokinetic study of rat bile. | Phytother Res
+- new | 2014 | 24846827 | Research Support, Non-U.S. Gov't | Metabonomics study of the effects of pretreatment with glycyrrhetinic acid on mesaconitine-induced toxicity in rats. | J Ethnopharmacol
+- new | 2013 | 23148031 | Research Support, Non-U.S. Gov't | Glycyrrhetinic acid exhibits strong inhibitory effects towards UDP-glucuronosyltransferase (UGT) 1A3 and 2B7. | Phytother Res
+- new | 2012 | 22363140 | Research Support, Non-U.S. Gov't | Glycyrrhizin attenuates HMGB1-induced hepatocyte apoptosis by inhibiting the p38-dependent mitochondrial pathway. | World J Gastroenterol
+- new | 2011 | 21272025 | Case Reports | Allergic contact dermatitis caused by glycyrrhetinic acid and castor oil. | Contact Dermatitis
+- new | 2009 | 19166646 | Case Reports | Glycyrrhizic acid toxicity caused by consumption of licorice candy cigars. | CJEM
+- new | 2009 | 19084568 |  | Glycyrrhizic acid modulates t-BHP induced apoptosis in primary rat hepatocytes. | Food Chem Toxicol
+- new | 2008 | 18058991 | Comparative Study/Research Support, Non-U.S. Gov't | Effects of glycyrrhizic acid on cocklebur-induced hepatotoxicity in rat and human hepatocytes. | Phytother Res
+- new | 2006 | 16718735 | Comparative Study | Azathioprine hepatotoxicity and the protective effect of liquorice and glycyrrhizic acid. | Phytother Res
+- new | 2006 | 16884839 | Research Support, Non-U.S. Gov't/Review | Risk and safety assessment on the consumption of Licorice root (Glycyrrhiza sp.), its extract and powder as a food ingredient, with emphasis on the pharmacology and toxicology of g | Regul Toxicol Pharmacol
+- new | 2004 | 15700746 | Comparative Study | Diet and Japanese herbal medicine for recalcitrant atopic dermatitis: efficacy and safety. | Drugs Exp Clin Res
+- new | 2001 | 11495500 | Review | The pharmacokinetics of glycyrrhizic acid evaluated by physiologically based pharmacokinetic modeling. | Drug Metab Rev
+- new | 1999 | 10530767 | Research Support, Non-U.S. Gov't | Effect of liquorice and glycyrrhizin on rat liver carcinogen metabolizing enzymes. | Cancer Lett
+- new | 1998 | 9464470 |  | Effect of licorice and glycyrrhizin on murine liver CYP-dependent monooxygenases. | Life Sci
+- new | 1994 | 8191540 | Research Support, Non-U.S. Gov't/Review | Analysis and pharmacokinetics of glycyrrhizic acid and glycyrrhetinic acid in humans and experimental animals. | Steroids
+- new | 1994 | 8073426 | Case Reports | Effect of glycyrrhizin in children with liver dysfunction associated with cytomegalovirus infection. | Tohoku J Exp Med
+- new | 1994 | 8197226 |  | Bioavailability of glycyrrhizin and licorice extract in rat and human plasma as detected by a HPLC method. | Pharmazie
+- new | 1993 | 8386690 | Research Support, Non-U.S. Gov't/Review | Glycyrrhizic acid in liquorice--evaluation of health hazard. | Food Chem Toxicol
+- new | 1991 | 1650169 |  | The protective effect of glycyrrhizin against injury of the liver caused by ischemia-reperfusion. | Arch Environ Contam Toxicol
+- new | 1986 | 2946161 |  | [Anti-allergic action of glycyrrhizin]. | Zhongguo Yao Li Xue Bao [chi]
+
+### PubMed OBS - 44 hits, 30 not already listed above, 30 new
+- new | 2026 | 42286047 | Research Support, Non-U.S. Gov't | Real-world and computational identification of herbal candidates associated with adverse event patterns in glucagon-like peptide-1 therapy for obesity. | Sci Rep
+- new | 2026 | 43028232 | Review | Glycyrrhizic Acid Class Compounds in Immune Checkpoint Inhibitor Therapy: Stereochemistry, Mechanistic Hypotheses, and Protection Against Immune-Related Organ Injury. | Int J Mol Sci
+- new | 2026 | 42592004 |  | Biochemical outcomes and safety profiles of compound glycyrrhizin versus magnesium isoglycyrrhizinate in Kawasaki disease: a retrospective propensity score‑matched cohort study. | Transl Pediatr
+- new | 2026 | 42382061 |  | Gan-Mai-Da-Zao-Tang attenuates age-induced skeletal muscle wasting and improves mitochondrial function in mice. | J Tradit Complement Med
+- new | 2025 | 41180492 | Observational Study/Research Support, Non-U.S. Gov't | Sniffin' sticks smell identification test: exploring measurement properties in an adult Brazilian healthcare professionals sample. | PeerJ
+- new | 2025 | 40519656 |  | Investigating the Role and Underlying Mechanisms of 18β-Glycyrrhetinic Acid in the Therapy of Ulcerative Colitis Through Modulation of the PPAR-γ/NF-κB Signaling Pathway. | J Inflamm Res
+- new | 2025 | 40467035 | Research Support, Non-U.S. Gov't | High Plasma 18β-Glycyrrhetinic Acid Levels Are Associated With More Intensive Antihypertensive Treatment, Resistant Hypertension and Apparent Mineralocorticoid Excess in Patients W | J Nutr
+- new | 2024 | 39282130 |  | The relationship between phytoestrogen-rich supplements and breast cancer: A multicenter case-control study in Saudi Arabia. | Int J Health Sci (Qassim)
+- new | 2024 | 38235801 | Comparative Study | Disparities in Olfactory Dysfunction in African Americans. | Ann Otol Rhinol Laryngol
+- new | 2023 | 37269175 | Observational Study | Prevention of cleft lip and/or palate in A/J mice by licorice solution. | Congenit Anom (Kyoto)
+- new | 2023 | 36856276 |  | Efficacy of a new nutraceutical formulation: L-tryptophan, probiotics, charcoal, chamomile, mint, and licorice (COLONIR®) in the improvement of gastrointestinal symptoms in subject | Minerva Gastroenterol (Torino)
+- new | 2022 | 36471939 |  | [Preventive and therapeutic effect of bioactive component of licorice on antidepressant-induced liver injury]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2022 | 36341261 |  | Application of Jiawei Maxing Shigan Tang in the treatment of COVID-19: An observational study. | Front Med (Lausanne)
+- new | 2022 | 35565169 |  | Long-Lasting Olfactory Dysfunction in Hospital Workers Due to COVID-19: Prevalence, Clinical Characteristics, and Most Affected Odorants. | Int J Environ Res Public Health
+- new | 2021 | 33977010 |  | The use of Kampo medications that may cause heart failure in hospitalized acute heart failure patients in a Japanese hospital. | J Gen Fam Med
+- new | 2021 | 33627500 | Research Support, Non-U.S. Gov't | Olfactory Testing in Parkinson Disease and REM Behavior Disorder: A Machine Learning Approach. | Neurology
+- new | 2021 | 33596449 | Research Support, Non-U.S. Gov't | Experimental study on microstructure and mechanical properties of stalk for Glycyrrhiza Glabra. | J Biomech
+- new | 2019 | 31908258 | Observational Study | [Christmas article: Consumption of chocolate vs candy in a Danish emergency department]. | Ugeskr Laeger [dan]
+- new | 2019 | 31175928 |  | Utilization trends in traditional Chinese medicine for acute myocardial infarction. | J Ethnopharmacol
+- new | 2019 | 30515967 | Comparative Study/Research Support, Non-U.S. Gov't | Direct assessment of adherence and drug interactions in patients with hypertensive crisis-A cross-sectional study in the Emergency Department. | J Clin Hypertens (Greenwich)
+- new | 2017 | 28055288 | Research Support, Non-U.S. Gov't | Eveningness as a risk for behavioral problems in late adolescence. | Chronobiol Int
+- new | 2017 | 28619768 |  | Liquorice-induced hypokalaemia in patients treated with Yokukansan preparations: identification of the risk factors in a retrospective cohort study. | BMJ Open
+- new | 2016 | 27467181 | Research Support, Non-U.S. Gov't | The prevalences of and association between nonmedical prescription opioid use and poor sleep among Chinese high school students. | Sci Rep
+- new | 2014 | 24656660 | Research Support, Non-U.S. Gov't | Prescription pattern of Chinese herbal products for adult-onset asthma in Taiwan: a population-based study. | Ann Allergy Asthma Immunol
+- new | 2006 | 16614974 | Comparative Study | A long-term glycyrrhizin injection therapy reduces hepatocellular carcinogenesis rate in patients with interferon-resistant active chronic hepatitis C: a cohort study of 1249 patie | Dig Dis Sci
+- new | 2004 | 15488795 | Research Support, Non-U.S. Gov't | Ocular side effects from herbal medicines and nutritional supplements. | Am J Ophthalmol
+- new | 2000 | 11090733 |  | Herbal medicines: current trends in anesthesiology practice--a hospital survey. | J Clin Anesth
+- new | 1995 | 7597474 | Review | Does smokeless tobacco cause hypertension? | South Med J
+- new | 1993 | 8445017 |  | Evidence of thyroid volume increase in normal subjects receiving excess iodide. | J Clin Endocrinol Metab
+- new | 1991 | 1915107 |  | Renin-dependency of glycyrrhizin-induced pseudoaldosteronism. | Endocrinol Jpn
+
+### PubMed REV - 564 hits, 23 not already listed above, 18 new
+- new | 2026 | 41638800 | Review | Low-renin hypertension. | Vitam Horm
+- new | 2025 | 39551128 | Review/Research Support, Non-U.S. Gov't | Glycyrrhiza, a commonly used medicinal herb: Review of species classification, pharmacology, active ingredient biosynthesis, and synthetic biology. | J Adv Res
+- new | 2024 | 38477208 | Review | The Potential of Natural Products in the Management of Cardiovascular Disease. | Curr Pharm Des
+- new | 2023 | 36650621 | Review | Herb-Drug Interactions and Their Impact on Pharmacokinetics: An Update. | Curr Drug Metab
+- new | 2023 | 37005098 | Review | [Adverse effects of licorice consumed as food: An update]. | Rev Med Interne [fre]
+- new | 2022 | 35525634 | Review/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Metabolic Alkalosis Pathogenesis, Diagnosis, and Treatment: Core Curriculum 2022. | Am J Kidney Dis
+- new | 2022 | 33551404 | Review | Adverse Effects of Kampo Medicines. | Intern Med
+- new | 2022 | 36142045 | Review/Research Support, Non-U.S. Gov't | Perspectives of Licorice Production in Harsh Environments of the Aral Sea Regions. | Int J Environ Res Public Health
+- HELD REF-2187 | 2021 | 34961221 | Review | Glycyrrhiza glabra (Licorice): A Comprehensive Review on Its Phytochemistry, Biological Activities, Clinical Evidence and Toxicology. | Plants (Basel)
+- new | 2021 | 34349979 | Review | Liquorice for pain? | Ther Adv Psychopharmacol
+- new | 2021 | 33916013 | Review | Recent Development of Active Ingredients in Mouthwashes and Toothpastes for Periodontal Diseases. | Molecules
+- new | 2021 | 34201172 | Research Support, Non-U.S. Gov't/Review | Can Antiviral Activity of Licorice Help Fight COVID-19 Infection? | Biomolecules
+- new | 2021 | 33684460 | Review | Natural pentacyclic triterpenoid acids potentially useful as biocompatible nanocarriers. | Fitoterapia
+- new | 2019 | 30980598 | Review | An overview of herbal alternatives in androgenetic alopecia. | J Cosmet Dermatol
+- new | 2019 | 30049263 | Review | Biological Effects of Licochalcones. | Mini Rev Med Chem
+- HELD REF-0826 | 2018 | 30117204 | Review | Liquorice (Glycyrrhiza glabra): A phytochemical and pharmacological review. | Phytother Res
+- new | 2018 | 30022799 | Review | Controlling resistant hypertension. | Stroke Vasc Neurol
+- HELD REF-0827 | 2017 | 28833680 | Review | Toxicological Effects of Glycyrrhiza glabra (Licorice): A Review. | Phytother Res
+- new | 2017 | 29403626 | Review | A review of effective herbal medicines in controlling menopausal symptoms. | Electron Physician
+- new | 2012 | 37043593 | Review | Licorice. | 
+- HELD REF-0012 | 2008 | 18446848 | Review | Review of pharmacological effects of Glycyrrhiza sp. and its bioactive compounds. | Phytother Res
+- new | 2006 | 30000900 | Review | Licorice. | 
+- HELD REF-0844 | 2000 | 10675182 | Review | Herb-drug interactions. | Lancet
+
+### ClinicalTrials.gov - 96 registered studies
+- NCT03586700 | UNKNOWN | results=False | PHASE2 | Based on the Ultrasound Evaluating the Effect of Xiaozhong Fang Particles for Knee Osteoarthritic With Synovial Fluid | conds: Knee Osteoarthritis | intr: Xiao zhong fang granules, Short wave infrared radiation, Placebo Xiao zhong fang granules
+- NCT03027375 | UNKNOWN | results=False | PHASE2 | Evaluating the Safety and Efficacy of Qishen Granules Among Patients With Chronic Heart Failure | conds: Heart Failure, Cardiovascular Diseases | intr: Qishen Granules, Placebo | pubs: ['26727047:RESULT (new)', '36618925:DERIVED (new)', '29017565:DERIVED (new)']
+- NCT05661721 | COMPLETED | results=False | NA | Licorice and Home Blood Pressure | conds: Hypertension,Essential | intr: Sweet licorice, Salty licorice | pubs: ['38246526:DERIVED (SEEN)']
+- NCT00676975 | COMPLETED | results=False | PHASE2 | The Efficacy of Tradition Chinese Medicine in Patients With Irritable Bowel Syndrome | conds: Irritable Bowel Syndrome | intr: Traditional Chinese Medicine, Traditional Chinese Medicine Placebo
+- NCT06482671 | RECRUITING | results=False | PHASE3 | Primary Care dySpEpsia rikkuNshiTo | conds: Dyspepsia and Other Specified Disorders of Function of Stomach, Postprandial Distress Syndrome | intr: Rikkunshi-to, Placebo
+- NCT03948243 | COMPLETED | results=False | PHASE1 | Licorice Botanical Dietary Supplements - Metabolism and Safety in Women | conds: Food-drug Interaction | intr: Licorice, Alprazolam 2 MG, Caffeine 100 MG, Tolbutamide 250 mg
+- NCT01271296 | COMPLETED | results=False | NA | Effects and Interactions of Liquorice and Grapefruit on Glucocorticoid Replacement Therapy in Addison's Disease | conds: Addison Disease | intr: Liquorice, Grapefruit Juice
+- NCT07477275 | COMPLETED | results=False | NA | Combination of Oral and Topical Whitening Agents for Reducing Skin Pigmentation | conds: Dark Spots | intr: oral supplement, Retinol serum
+- NCT05788705 | COMPLETED | results=False | NA | Efficacy of JAK STAT Pathways Inhibitors in Treatment of Patients With Rheumatoid Arthritis | conds: Rheumatoid Arthritis | intr: Green Tea Polyphenolics (EGCG), Chamomile (Matricaria recutita), Licorice, Placebo
+- NCT01742702 | UNKNOWN | results=False |  | HaemoDYNAMICs in Primary and Secondary Hypertension | conds: Primary Hypertension, Secondary Hypertension, Aortic Stenosis, Renal Insufficiency | intr: Nitroglycerin 0.25 mg (single dose, no longer given since January 2017), Salbutamol 400 µg (single d | pubs: ['36973671:DERIVED (new)', '35652524:DERIVED (new)', '34039285:DERIVED (new)', '33188272:DERIVED (new)', '31626649:DERIVED (new)', '27329447:DERIVED (new)', '27266507:DERIVED (new)', '27216309:DERIVED (new)', '25153328:DERIVED (new)', '24237764:DERIVED (new)']
+- NCT03009136 | UNKNOWN | results=False | PHASE3 | Efficacy and Safety of So-Cheong-Ryong-Tang on Perennial Allergic Rhinitis | conds: Perennial Allergic Rhinitis | intr: SCRT, Placebos | pubs: ['28963290:DERIVED (new)']
+- NCT03684993 | COMPLETED | results=False | PHASE2,PHASE3 | Caries Prevention and Side Effects of Gum Arabic and Licorice Extracts Versus Chlorhexidine in High Caries Risk Patients | conds: High Caries Risk Patients, Caries, Antimicrobial Effect, Side Effect | intr: Arabic, Gum, Licorice Root, Chlorhexidine
+- NCT06403306 | COMPLETED | results=False | NA | Evaluation of Pulpotomy Success of Different Methods | conds: Pulpal Bleeding; Staining, Primary Teeth, Pulpotomy | intr: Ferric Sulfate (Viskostat; Ultradent, Utah, USA), Ankaferd Blood Stopper (Ankaferd Blood Stopper, An
+- NCT00411762 | COMPLETED | results=True | PHASE1,PHASE2 | A Phase I/II, Multi-Center, Open-Label, Dose-Escalation, Safety and Efficacy Study of PHY906 Plus Capecitabine in Patients With Advanced Pan | conds: Pancreatic Cancer | intr: Capecitabine, PHY906
+- NCT02968823 | COMPLETED | results=False | NA | Licorice Versus Sugar-water Gargling for Pain in Patients Recovering From Ear-Nose-Throat and Maxilla-Facial Surgery | conds: Pain, Postoperative, Surgery, Oral | intr: Licorice, Sugar water
+- NCT03292822 | COMPLETED | results=False | PHASE1 | Effects of (Licochalcone A) and Paclitaxel on Human Oral Squamous Cell Carcinoma Cell Line | conds: Squamous Cell Carcinoma | intr: Licochalcone A, Paclitaxel
+- NCT03550651 | COMPLETED | results=False | NA | Evaluation of Antiplaque Efficacy of Licorice Extract Mouthrinse & HSS and Their Comparison With EO & CHX Mouthrinse | conds: Mild Gingivitis, Periodontal Diseases, Plaque | intr: Licorice, Hypertonic salt solution, Essential oil, Chlorhexidine Gluconate
+- NCT06798948 | RECRUITING | results=False | PHASE2 | Effect of the Combined Application of Cynara Scolymus, Silybum Marianum, Curcuma Longa, and Glycyrrhiza Glabra in Improving Metabolic Associ | conds: Metabolic-associated Fatty Liver Disease (MAFLD) | intr: Combination of cynara scolymus, silybum marianum, curcuma longa, and glycyrrhiza glabra, Placebo mal | pubs: ['38879879:RESULT (new)', '38674860:RESULT (new)', '36508737:RESULT (new)', '36082508:RESULT (new)']
+- NCT01147835 | TERMINATED | results=False | NA | Herbal Lollipops on Oral Bacterial Levels and DMFT/Dmft Scores of Children With Asthma Using Inhalers | conds: Asthma, Dental Caries | intr: Chinese Licorice Root
+- NCT05159271 | COMPLETED | results=False | NA | Efficacy and Safety of Azeol Nasal Spray Versus Placebo in the Treatment of Early Symptoms of Common Cold in Adults | conds: Nasal Congestion | intr: Azeol spray nasal, Placebo nasal spray
+- NCT00927017 | TERMINATED | results=False | NA | The Effect of Liquorice on Plasma Potassium | conds: Healthy | intr: Liquorice 66 g/day, Liquorice 102 g/day
+- NCT06019598 | COMPLETED | results=False | NA | Licorice and Home Blood Pressure, Additional Study | conds: Hypertension,Essential | intr: Licorice
+- NCT04487964 | COMPLETED | results=False | NA | Complementary Intervention for COVID-19 | conds: COVID-19 | intr: Licorice extract | pubs: ['35233748:DERIVED (new)', '33192504:DERIVED (new)']
+- NCT00605202 | COMPLETED | results=True | PHASE4 | Effect of Licorice and Hydrochlorothiazide on Plasma Potassium | conds: Hypokalemia | intr: Hydrochlorothiazide, Licorice | pubs: ['19562574:RESULT (new)']
+- NCT03177889 | UNKNOWN | results=False | NA | Lung Dispersing, Turbid Descending and Gut Clearing Decoction for Bronchiectasis | conds: Bronchiectasis Adult, Traditional Chinese Medicine, Quality of Life, Exacerbation | intr: Traditional Chinese Medicine (TCM) | pubs: ['23825784:RESULT (new)', '25654540:RESULT (new)']
+- NCT04368663 | RECRUITING | results=False | NA | The Beneficial Effect of TJ-134 for Patients With Symptomatic Pneumatosis Cystoides Intestinalis | conds: Pneumatosis Cystoides Intestinalis | intr: Japanese traditional medicine group
+- NCT01852331 | COMPLETED | results=False | PHASE2 | Peony-Glycyrrhiza Decoction (PGD) for Antipsychotic-induced Hyperprolactinemia in Patients With Schizophrenia | conds: Schizophrenia, Schizophrenic Disorder, Hyperprolactinemia, Hyperprolactinaemia | intr: PGD granules, Placebo | pubs: ['27755159:DERIVED (new)']
+- NCT03540186 | UNKNOWN | results=False | NA | Epigenorm Antivir Combined With Acupuncture for the Treatment of Osteoarthritis Patients Who Are Overweight or Obese | conds: Osteoarthritis, Overweight and Obesity | intr: Epigenorm Antivir, Acupuncture
+- NCT00428532 | UNKNOWN | results=False | NA | The Effect of Licorice Root Extract and Pomegranate Juice on Atherosclerotic Parameters in Diabetic Patients | conds: Diabetes Mellitus, Atherosclerosis | intr: Licorice root extract or Pomegranate juice
+- NCT02453503 | COMPLETED | results=False | PHASE2 | Comparison of Triamcinolone Acetonide Mucoadhesive Film and Licorice Mucoadhesive Film Effect on Lichen Planus | conds: Oral Lichen Planus | intr: Licorice, Triamcinolone Acetonide
+- NCT07048158 | RECRUITING | results=False | NA | "Perfect Heartio" Drink and Cardiovascular Health | conds: Cardiovascular Diseases, Lipid Metabolism Disorders | intr: Perfect Heartio Drink
+- NCT06636760 | COMPLETED | results=False | NA | Efficacy and Immunomodulator Impact of Herbal Combination on COVID-19 Patients Recovery | conds: COVID 19 | intr: Placebo, herbal compound
+- NCT02653937 | COMPLETED | results=False | NA | The Effect of Shigyakusan Used for IBS and MUPS Diagnosed by Abdominal N Line Tenderness | conds: Irritable Bowel Syndrome | intr: Tsumura's shigyakusan | pubs: ['24876725:RESULT (new)', '18501257:RESULT (new)']
+- NCT03763578 | COMPLETED | results=False | NA | Dental Caries Prevention by a Natural Product | conds: Dental Caries | intr: Licorice
+- NCT00987805 | COMPLETED | results=False | PHASE4 | Efficacy of Banhasasim-tang on Functional Dyspepsia | conds: Functional Dyspepsia | intr: Banhasasim-tang, Corn-starch granules | pubs: ['20670451:DERIVED (new)']
+- NCT04623164 | COMPLETED | results=False | PHASE4 | Complex Phytoadaptogenes in Chronic Periodontitis Treatment. | conds: Chronic Periodontitis | intr: Cocktail from complex phytoadaptogens (CFA), Standard non-surgical periodontal treatment (NSPT)
+- NCT04120597 | COMPLETED | results=False | PHASE1,PHASE2 | Clinical and Basic Research on the Treatment of Polycystic Ovary Syndrome | conds: Polycystic Ovary Syndrome | intr: Zishen Qingre Lishi Huayu Granules, Placebo
+- NCT07417371 | COMPLETED | results=False | NA | Study on the Mechanism of Pei Tu Ning Feng Tang in Alleviating Tourette Syndrome Via Functional Near-Infrared Spectroscopy (fNIRS) and the D | conds: Tourette Syndrome in Children | intr: Tourette Syndrome (TS) children were administered Pei Tu Ning Feng Tang treatment.
+- NCT02939144 | COMPLETED | results=False | NA | An Investigation Into the Effect of Liquorice Ingestion on the Salivary Cortisol to Cortisone Molar Ratio | conds: Apparent Mineralocorticoid Excess | intr: Liquorice
+- NCT01174511 | UNKNOWN | results=False | PHASE1,PHASE2 | Evaluation of A-1 Cool Cream Efficacy for Treatment Atopic Dermatitis | conds: ATOPIC DERMATITIS | intr: A -1 Cool Cream,Vaselin ointment
+- NCT02488252 | UNKNOWN | results=False | PHASE2,PHASE3 | Semi-individualised Chinese Medicine Treatment as an Adjuvant Management for Diabetic Nephropathy | conds: Diabetic Nephropathies | intr: Semi-individualised Chinese Medicine treatment, Routine medical care (active comparator) | pubs: ['37307005:DERIVED (new)', '27496229:DERIVED (new)']
+- NCT00176631 | TERMINATED | results=True | PHASE2 | Licorice Root Extract and Docetaxel in Treating Patients With Metastatic Prostate Cancer That Did Not Respond to Hormone Therapy | conds: Prostate Cancer | intr: licorice root extract, docetaxel
+- NCT07301515 | COMPLETED | results=False | NA | Randomised Controlled Trial of an Antioxidant and Sunscreen Combination Cream for Reducing DNA Damage in Human Skin | conds: Photoaging, Photodamage, Mitochondrial Damage, Sunscreen | intr: Antioxidant + Sunscreen Cream, Placebo cream
+- NCT06565117 | COMPLETED | results=False | NA | Efficacy of Dipotassium Glycyrrhizinate Emollients in the Maintenance Treatment of Adult Atopic Dermatitis | conds: Adult Atopic Dermatitis | intr: White yu green skin lotion
+- NCT03278444 | UNKNOWN | results=False | PHASE3 | Treatment of Advanced Hepatocellular Carcinoma | conds: HCC | intr: Basic drugs therapy of HCC, Arginine hydrochloride, Trimetazidine hydrochloride
+- NCT05925309 | RECRUITING | results=False | NA | Preventive Effect of Prophylactic Oral Antibiotics Against Cholangitis After Kasai Portoenterostomy | conds: Biliary Atresia, Cholangitis, Anti-Bacterial Agents | intr: Basic treatment: sulperazone + ursodeoxycholic acid + compound glycyrrhizin + methylprednisolone + v
+- NCT04045015 | UNKNOWN | results=False | NA | Liquorice and Salivary Cortisol | conds: Cushing Syndrome, Hypercortisolism | intr: Liqourice | pubs: ['26156970:RESULT (new)', '22890008:RESULT (new)', '8504732:RESULT (new)', '19783236:RESULT (new)']
+- NCT03813914 | COMPLETED | results=False | NA | A New Supplement for the "Metabolic Syndrome" | conds: Metabolic Syndrome | intr: Sineos
+- NCT00686881 | TERMINATED | results=True | PHASE3 | Efficacy of Peginterferon Alfa-2b (SCH 054031) vs Glycyrrhizin in Interferon (IFN)-Treated Patients With Chronic Hepatitis C and F2/F3 Liver | conds: Hepatitis C, Chronic | intr: Peginterferon alfa-2b (PegIFN-2b), Comparator: Stronger neo minophagen C (SNMC)
+- NCT00945568 | COMPLETED | results=False | NA | Preoperative Oral Supplementation With Branched-Chain Amino Acids (BCAA) Improves Postoperative Quality of Life | conds: Hepatocellular Carcinoma, Chronic Liver Disease | intr: Aminoleban EN | pubs: ['20852905:DERIVED (new)']
+- NCT02449122 | COMPLETED | results=False | PHASE1,PHASE2 | Nano Drug Interventional Therapy Using Digital Subtraction Angiography（DSA） for Lung Carcinoma | conds: Lung Cancer | intr: interventional therapy
+- NCT06291623 | COMPLETED | results=False | PHASE1 | Molecular Analysis of Intracanal Microbes After Chemomechanical Procedure and Root Canal Medication: A Randomized Controlled Trial | conds: Bacterial Viability of Necrotic Pulp With Asymptomatic Apical Periodontitis | intr: Glycyrrhizin | pubs: ['41814304:DERIVED (new)']
+- NCT02812121 | UNKNOWN | results=False | PHASE2 | UC-MSC Infusion for HBV-Related Acute-on-Chronic Liver Failure | conds: Liver Failure | intr: umbilical cord blood mesenchymal stem cells
+- NCT05895773 | COMPLETED | results=False | PHASE2,PHASE3 | Oro-nasal Decontamination to Prevent Ventilator-associated Pneumonia | conds: Ventilator Associated Pneumonia | intr: Povidone-Iodine, Saline spray
+- NCT04742660 | COMPLETED | results=False | NA | The Effect of Glycyrrhizin on the Occurrence of Postoperative Nausea and Vomiting | conds: Postoperative Nausea | intr: Ammonium Glycyrrhizinate
+- NCT07117942 | COMPLETED | results=False | PHASE2 | FDGL Dose-Finding Study for Diabetic Neuropathy | conds: Diabetic Neuropathy | intr: Fermented Deglycyrrhizinated Licorice (FDGL)
+- NCT06378346 | RECRUITING | results=False | PHASE2 | GU-01: Glycyrrhizin in Prostate Cancer | conds: Prostate Cancer | intr: Observation, Glycyrrhizin - 75 mg, Glycyrrhizin - 150 mg
+- NCT05023915 | ACTIVE_NOT_RECRUITING | results=False | PHASE2 | A Multicenter Randomized Open-label Study of Diammonium Glycyrrhizinate Enteric-coated Capsule Plus DXM Versus DXM in Treatment of ITP | conds: Immune Thrombocytopenia | intr: dexamethasone, diammonium glycyrrhizinate enteric-coated capsule | pubs: ['42178778:DERIVED (new)']
+- NCT02449109 | COMPLETED | results=False | PHASE1,PHASE2 | Nano Drug Interventional Therapy Using Digital Subtraction Angiography（DSA） for Liver Carcinoma | conds: Liver Cancer | intr: interventional therapy
+- NCT02473458 | COMPLETED | results=False | PHASE1,PHASE2 | Efficacy of Whole Extract of Licorice in Neurological Improvement of Patients After Acute Ischemic Stroke | conds: Acute Stroke | intr: Licorice whole extract, Placebo
+- NCT03274427 | UNKNOWN | results=False | PHASE3 | Treatment of Intermediate-stage Hepatocellular Carcinoma | conds: HCC | intr: Basic drugs therapy of HCC by TACE, Arginine hydrochloride, Trimetazidine hydrochloride
+- NCT03266146 | COMPLETED | results=False | PHASE1,PHASE2 | 36 Weeks Short-Term Optimization Treatment of Glucocorticosteroid in the Patients With Chronic Recurrent DILI | conds: Drug-induced Liver Injury,Chronic | intr: 36 Weeks Methylprednisolone, 48 weeks Methylprednisolone | pubs: ['38483145:DERIVED (new)']
+- NCT05276895 | SUSPENDED | results=False | NA | Effect of Natural Senolytic Agents & NLRP3 Inhibitors on Osteoarthritis | conds: Osteoarthritis | intr: Quercetin and Fisetin tab., Quercetin Cap/Tab,Fisetin Cap/tab and Glycyrrhizin capsules, Placebo
+- NCT06453304 | UNKNOWN | results=False | PHASE2,PHASE3 | Effectiveness of Glycyrrhizin as Intracanal Medication in Root Canal Disinfection and Inflammatory Cytokines | conds: Intracanal Medication | intr: Calcium Hydroxide, Leddermix, Glycirrhizin | pubs: ['21496656:RESULT (new)']
+- NCT05689645 | RECRUITING | results=False | PHASE2 | F573 for Injection for the Treatment of Liver Injury/Failure | conds: Acute Liver Failure, Acute-On-Chronic Liver Failure | intr: F573 for injection, Sterilizing water for injection
+- NCT02651350 | COMPLETED | results=False | PHASE1,PHASE2 | Efficacy and Safety of Glucocorticosteroid Treatment in the Patients With Chronic Recurrent DILI | conds: Drug-induced Liver Injury,Chronic | intr: Methylprednisolone, Standard Treatment | pubs: ['35362188:DERIVED (new)']
+- NCT07236567 | NOT_YET_RECRUITING | results=False | NA | Revascularization of Young Immature Permenant Teeth Using Different Types of Intra Canal Medication | conds: Traumatic Teeth, Necrotic Teeth | intr: Grape Seed Extract, Glycyrrhizin, Triple Antibiotic Paste
+- NCT03306745 | COMPLETED | results=False | NA | Micronutrient Supplementation in PCO-syndrome | conds: Polycystic Ovary Syndrome, Infertility, Female, Micronutrient Deficiency | intr: Profertil female, Folic acid 400 mg | pubs: ['31101977:DERIVED (new)']
+- NCT01342185 | UNKNOWN | results=False | PHASE3 | Efficacy of Medical Ozone Therapy in Patients With Chronic Hepatitis B | conds: Chronic Hepatitis B | intr: medical ozone therapy with tianyi, medical ozone therapy with humares, Diammonium glycyrrhizinate Ca
+- NCT02961413 | RECRUITING | results=False |  | A Prospective Cohort Study on Drug-induced Liver Injury in China（DILI-P） | conds: Drug-induced Liver Injury | intr: 
+- NCT03998982 | UNKNOWN | results=False | PHASE4 | Glycyrrhetinic Acid Combined With Dexamethasone in Management of Newly Diagnosed ITP | conds: Immune Thrombocytopenia | intr: Glycyrrhetinic Acid, Dexamethasone
+- NCT03117153 | COMPLETED | results=False | NA | Effect of a Liquid Toothpaste on Periodontal Disease | conds: Periodontitis, Gingivitis | intr: DA-5502 liquid toothpaste, placebo
+- NCT02331745 | UNKNOWN | results=False | PHASE4 | RCT Study on Granulocyte Colony-stimulating Factor(G-CSF) Treatment of Hepatic Failure | conds: Liver Failure, Hepatitis B, Alcoholic Liver Disease | intr: Granulocyte colony-stimulating factor, standard treatment | pubs: ['35651610:DERIVED (new)']
+- NCT07616271 | NOT_YET_RECRUITING | results=False | PHASE2,PHASE3 | Study on the Effect of Oral Diammonium Glycyrrhizinate in Attenuating Toxicity and Enhancing Efficacy of CAR-T Cell Therapy | conds: Patients With Large B-cell Lymphoma Receiving CAR-T Cell Therapy | intr: Diammonium glycyrrhizinate Capsules
+- NCT00956891 | COMPLETED | results=False |  | Therapeutic Effects of Liver Failure Patients Caused by Chronic Hepatitis B After Autologous MSCs Transplantation | conds: Liver Failure, Mesenchymal Stem Cells | intr: 
+- NCT01643447 | COMPLETED | results=False | NA | Ulinastatin Preventing Postoperative Hepatic Failure in Hepatocellular Carcinoma (HCC) | conds: Hepatocellular Carcinoma | intr: Ulinastatin, Diammonium glycyrrhizinate
+- NCT03349008 | UNKNOWN | results=False | PHASE4 | Magnesium Isoglycyrrhizinate Followed by Diammonium Glycyrrhizinate and Combined With Entecavir in Chronic Hepatitis B | conds: Chronic Hepatitis b, Liver Inflammation | intr: Entecavir, Magnesium Isoglycyrrhizinate, Diammonium Glycyrrhizinate, Magnesium Isoglycyrrhizinate Pl
+- NCT04028869 | COMPLETED | results=False |  | Clinical Observation of Long-term Efficacy and Safety of Glycyrrhizic Acid Preparation in the Therapy of Autoimmune Liver Disease | conds: Autoimmune Liver Disease | intr: Glycyrrhizic acid preparation
+- NCT05916911 | UNKNOWN | results=False | PHASE4 | Evaluation Of The Efficacy Of The Combination Of GLIZIGEN® Oral Solution 1/Day And Vaginal Gel 1/Night For 2 Months In Patients With Cervica | conds: Papilloma Viral Infection, CIN1, LSIL, Low Grade Squamous Intraepithelial Lesion | intr: Glizigen, Placebo
+- NCT01971606 | COMPLETED | results=False | PHASE4 | Impact of High-dose Pretreatment of Rosuvastatin in Patients With Acute Coronary Syndrome Following Off-pump Coronary Artery Bypass: Results | conds: A Total of 234 Patients With Acute Coronary Syndrome Who Will Undergo OPCAB. | intr: Rosuvastatin
+- NCT02387710 | COMPLETED | results=True | PHASE2 | Tiagabine to Enhance Slow Wave Sleep in Patients With Sleep Apnea | conds: Sleep Apnea, Obstructive | intr: Tiagabine, Placebo | pubs: ['28364504:DERIVED (new)']
+- NCT05987722 | COMPLETED | results=False | NA | Effectiveness of Enoxolone on Oral Conditions of Patients With Periodontal Surgery | conds: Periodontal Surgery | intr: Enoxolone, Sensodyne
+- NCT00540436 | COMPLETED | results=True | PHASE2 | Evaluate the Efficacy, Safety and Pharmacokinetics of GSK1325760A in the Treatment of Pulmonary Arterial Hypertension | conds: Hypertension, Pulmonary | intr: GSK1325760A
+- NCT04217148 | COMPLETED | results=False | PHASE2 | The Combination of ATRA and High-dose Dexamethasone as First-line Treatment in Adult Immune Thrombocytopenia | conds: Immune Thrombocytopenia | intr: Dexamethasone, ATRA | pubs: ['34560012:DERIVED (new)']
+- NCT04593758 | COMPLETED | results=False | PHASE1,PHASE2 | To Evaluate Maximally Tolerated Dose (MTD), Safety and Efficacy of CPI-613® (Devimistat) Plus Hydroxychloroquine in Patients With Relapsed o | conds: Sarcoma, Clear Cell | intr: CPI-613 + Hydroxychloroquine
+- NCT01209507 | COMPLETED | results=False |  | Prevalence Study of Adrenal Suppression After Corticosteroids During Chemotherapy | conds: Adrenal Suppression | intr: Chemotherapy
+- NCT00759525 | COMPLETED | results=True | PHASE2,PHASE3 | The Role of Mineralocorticoid Receptors in Vascular Function | conds: Apparent Mineralocorticoid Excess (AME) | intr: Glycyrrhetic Acid, Placebo | pubs: ['20515440:RESULT (new)']
+- NCT01649947 | COMPLETED | results=True | PHASE2 | Modulation of Autophagy in Patients With Advanced/Recurrent Non-small Cell Lung Cancer - Phase II | conds: Non-small Cell Lung Cancer, Advanced Non-small Cell Lung Cancer, Recurrent Non-small Cell Lung Cancer | intr: Paclitaxel, Carboplatin, Hydroxychloroquine, Bevacizumab
+- NCT02750917 | COMPLETED | results=False | PHASE3 | Lornoxicam Versus Etoricoxib in Postoperative Pain After Total Knee Arthroplasty | conds: Postoperative Pain | intr: Lornoxicam, Etoricoxib | pubs: ['24481580:RESULT (new)', '8951927:RESULT (new)', '19606021:RESULT (new)']
+- NCT00672373 | COMPLETED | results=False | PHASE3 | Extract of Ginkgo Biloba and Tardive Dyskinesia | conds: Tardive Dyskinesia, Schizophrenia | intr: Extract of Ginkgo Biloba (EGb-761 capsules), Placebo | pubs: ['20868638:DERIVED (new)']
+- NCT05570110 | RECRUITING | results=False | PHASE1,PHASE2 | Enoxolone in Major Depression - Biomarker-outcome Relationship | conds: Unipolar Depression | intr: Enoxolone
+- NCT07286487 | COMPLETED | results=False | NA | Glycyrrhetinic Acid and Acute Irritant Dermatitis | conds: Irritant Contact Dermatitis | intr: SLS induced irritation, No Treatment, Placebo, Low Dose Glycyrrhetinic Acid Formulation
+- NCT00454298 | COMPLETED | results=False | PHASE1 | Study Evaluating AGG-523 in Subjects With Severe Osteoarthritis Requiring Total Knee Replacement | conds: Osteoarthritis | intr: AGG-523 (Aggrecanase Inhibitor)
+- NCT07064889 | NOT_YET_RECRUITING | results=False | PHASE2 | The Combination of Upadacitinib and High-dose Dexamethasone as First-line Treatment in Adult Immune Thrombocytopenia | conds: Immune Thrombocytopenia | intr: Dexamethasone, Upadacitinib
+- NCT00384384 | COMPLETED | results=False | PHASE2 | Glycyrrhetinic Acid-Effect on Serum Potassium and Insulin Resistance in Dialysis Patients | conds: End Stage Renal Disease | intr: oral 18B Glycyrrhetinic acid versus placebo | pubs: ['19641483:DERIVED (new)']
+- NCT03874949 | COMPLETED | results=False | NA | Pain After Root Canal Obturation With Sealer Containing or Not 1% Enoxolone | conds: Root Canal Obturation | intr: SEALITE Regular, SEALITE Ultra
+
+### OpenAlex no-PMID trial-worded - 5623 hits, 34 without PMID, 32 new
+- new | 2026 | 10.46889/jdhor.2026.7236 | article | Modulation of Superoxide Dismutase 2 Antioxidant Gene Expression by Adjunctive Liquorice Therapy in Periodontitis: A Pilot Randomized Controlled Trial | Journal of Dental Health and Oral Resear
+- new | 2026 | 10.1038/s41598-026-63522-y | article | Effectiveness of liquorice gel as an adjunct to non-surgical periodontal therapy in chronic periodontitis: a randomized controlled, clinical and microbiological trial | Scientific Reports
+- new | 2025 | 10.3390/joma2010008 | review | Efficacy of Glycyrrhiza glabra in the Treatment of Recurrent Aphthous Stomatitis: A Systematic Review of Randomized Controlled Trials | Journal of the Oman Medical Association
+- new | 2025 | 10.5812/jjnpp-162591 | article | Investigating the Hypnotic Effect of Lactuca sativa L. Seed in Patients with Insomnia: A Double-Blind, Randomized, Placebo-controlled Trial | Jundishapur Journal of Natural Pharmaceu
+- new | 2025 | 10.1016/j.phyplu.2025.100900 | article | Topical Glycyrrhiza Glabra gel/guar gum mixture accelerates healing and scar reduction in second-degree burns: A randomized triple-blind controlled trial | Phytomedicine Plus
+- new | 2024 | https://openalex.org/W7218072851 | article | Clinical Efficacy of Mulethi (Glycyrrhiza glabra) Gel in the Management of Localized Aggressive Periodontitis: A Randomized Controlled Trial | Library Progress (International)
+- new | 2024 | 10.18502/jpc.v11i3.15996 | article | Oral Hydroalcoholic Extract of Licorice for Management of Mild to Moderate Coronavirus Disease-19 Patients: A Double-Blind Randomized Clinical Trial | Journal of Pharmaceutical Care
+- new | 2024 | 10.4103/jras.jras_146_23 | article | Efficacy of Kushmanda Benincasa hispida (thunb.) Cogn. and Yastimadhu (Glycyrrhiza glabra Linn.) on Medha (intellectual capacity) in Malnourished School-Going Children: A Study Pro | Journal of Research in Ayurvedic Science
+- new | 2024 | 10.5455/aam.153596 | article | A randomised controlled study to evaluate the comparative efficacy of Ashwagandha (Withania somnifera) and Madhuyashti (Glycyrrhiza glabra) in the management of Ksheena shukra (Oli | Annals of Ayurvedic Medicine
+- new | 2023 | 10.1186/s43088-023-00420-6 | article | Efficacy of polyherbal formulation along with standard care of treatment in early recovery of COVID-19 patients: a randomized placebo-controlled trial | Beni-Suef University Journal of Basic an
+- new | 2023 | 10.5281/zenodo.8428586 | article | Evaluation of Comparative efficacy of Medicated oil enema versus Eye gladdening with Glycyrrhiza glabra ghee in the Management of Shushkakshipaka (~Computer Vision Syndrome): A ran | Zenodo (CERN European Organization for N
+- new | 2023 | 10.31083/j.ceog5005107 | article | Effect of Traditional Chinese Formula Dingkun Pill on Primary Dysmenorrhea: A Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial | Clinical and Experimental Obstetrics & G
+- new | 2022 | 10.56042/ijtk.v21i2.53424 | article | HYSSOP and POLIUM could help to prevent COVID-19 in high-risk population: The results of a parallel randomized placebo-controlled field trial | Indian Journal of Traditional Knowledge
+- new | 2022 | 10.22127/rjp.2021.291844.1720 | article | Efficacy of a Topical Herbal Cream Containing Frankincense Oil, Pumpkin Oil and Licorice Aqueous Extract in Patients with Mild-to-Moderate Plaque Psoriasis: a Randomized Clinical T | Research journal of pharmacognosy
+- new | 2022 | 10.52768/2766-7820/1940 | article | A clinical trial on preventive effects of licorice on propranolol-related dizziness, a side-effect in patients with migraine headache | Journal of Clinical Images and Medical C
+- new | 2021 | 10.21203/rs.3.rs-1318760/v1 | preprint | Efficacy and Safety of A Novel Antiviral Preparation in ICU-Admitted Patients with COVID-19: A Phase III Randomized Controlled Trial | Research Square
+- new | 2021 | 10.53730/ijhs.v5ns2.13890 | article | Comparison of the effect of acetaminophen and licorice-based traditional medicine on reducing pain of patients undergoing denotonsillectomy, a pilot randomized clinical trial study | International Journal of Health Sciences
+- new | 2021 | 10.9734/jpri/2021/v33i53b33690 | article | Effect of Ayurvedic Interventions on Toxemia of Pregnancy (Preeclampsia) & Fetal Outcome- A Randomized Placebo-Controlled Trial | Journal of Pharmaceutical Research Inter
+- new | 2021 | 10.5812/jjnpp.117677 | article | Efficacy and Safety of Novel Herbal Tablets in COVID-19 Patients in Hospital Stay Days, ICU Admission and Mortality Rate Thereof: An Ppen-Label, Single-Blind Randomized Clinical Tr | Jundishapur Journal of Natural Pharmaceu
+- new | 2021 | 10.5812/hepatmon.110488 | article | Evaluating the Efficacy of Carum Copticum Seeds on the Treatment of Patients with Nonalcoholic Fatty Liver Disease: A Multi-Center, Randomized, Triple–Blind, Placebo-Controlled Cli | Hepatitis Monthly
+- new | 2021 | 10.9734/jpri/2021/v33i52b33622 | article | Evaluation of Comparative Efficacy of Jyotishmati (Celastrus paniculatus Wild) and Yastimadhu (Glycyrrhiza glabra Linn) in Enhancing IQ and Memory of Different Prakriti School Goin | Journal of Pharmaceutical Research Inter
+- new | 2020 | 10.1002/aoc.5498 | article | Introducing a novel chemotherapeutic drug formulated by iron nanoparticles for the clinical trial studies | Applied Organometallic Chemistry
+- new | 2019 | 10.4103/jicdro.jicdro_7_19 | article | Glycyrrhiza glabra: An efficient medicinal plant for control of periodontitis – A randomized clinical trial | Journal of the International Clinical De
+- new | 2019 | 10.1080/23311932.2019.1665943 | article | Metabolic effects of glabridin in healthy volunteers and patients with type 2 diabetes: A pilot study | Cogent Food & Agriculture
+- HELD REF-5037 | 2017 | 10.31557/apjcc.2016.1.1.9 | article | The Efficacy of Licorice Root (Glycyrrhiza glabra) and Yarrow (Achillea millefolium) in Preventing Radiation Dermatitis in Patients with Breast Cancer: A Randomized, Double-Blinded | Asian Pacific Journal of Cancer Care
+- new | 2017 | 10.24947/baojn/3/2/00132 | article | Effects of Cymbopogon Flexuosus, Alpinia Galanga, and Glycyrrhiza Glabra on Attention: A Randomized Double-Blind, Placebo-Controlled Pilot Study | 
+- new | 2017 | 10.31989/ffhd.v7i3.327 | article | Efficacy of a novel herbal composition licorice flavonoid oil in subject with metabolic syndrome: a randomized double-blind placebo-controlled clinical study | Functional Foods in Health and Disease
+- new | 2017 | 10.12691/jfnr-5-5-8 | article | The Beneficial Effects of an Oriental Herbal Complex Supplement on Women’s Hair and Scalp Conditions: A 24-week, Randomized, Double-blind, Placebo-controlled Study | Journal of Food and Nutrition Research
+- new | 2015 | https://openalex.org/W3102594098 | article | Chemical control of volunteer licorice (Glycyrrhiza glabra L.) in rainfed wheat in Iran. | Biological Forum
+- new | 2013 | 10.14309/00000434-201310001-00124 | article | Quadruple and Phytomedicine-based Therapies in Helicobacter pylori Infection: A Randomized Comparative Trial | The American Journal of Gastroenterology
+- new | 2012 | 10.4999/uhod.10124 | article | A Placebo-Controlled, Randomized, Double-Blinded, Cross-Over Phase-I Clinical Study Indicating the Safety of Topical Ankaferd Hemostat in Healthy Volunteers | International Journal of Hematology and 
+- new | 2010 | https://openalex.org/W2261659988 | article | Effect of Glycyrrhiza glabra (D-reglis tablet) on pain and defecation of patients with irritable bowel syndrome | مجله علمی دانشگاه علوم پزشکی بیرجند
+- new | 2008 | 10.1055/s-0028-1084213 | article | A randomized double-blind placebo controlled clinical trial of topical herbal drug against recurrent Herpes Simplex | Planta Medica
+- HELD REF-3405 | 2007 | 10.1097/01.ogx.0000259156.08271.b4 | article | Treatment of Vasomotor Symptoms of Menopause With Black Cohosh, Multibotanicals, Soy, Hormone Therapy, or Placebo: A Randomized Trial | Obstetrical & Gynecological Survey
+
+## gymnema-sylvestre (Gymnema sylvestre) - name clause: "Gymnema sylvestre"[tiab] OR "gymnema"[tiab] OR "gurmar"[tiab] OR "gymnemic acid"[ti]
+
+### PubMed HT - 40 hits, 40 not already listed above, 34 new
+- new | 2026 | 42689272 |  | Vitamin K1 in indigenous vegetables from upper northern Thailand: High-performance liquid chromatography measurement and scenario-based intake assessment relevant to warfarin dieta | J Adv Pharm Technol Res
+- new | 2025 | 40944109 | Randomized Controlled Trial | The Effect of Gymnema Sylvestre on Motivation to Consume Sweet Foods-A Qualitative Investigation. | Nutrients
+- new | 2025 | 39855349 | Randomized Controlled Trial | The effect of a 14-day Gymnema sylvestre intervention to reduce sugar intake in people self-identifying with a sweet tooth. | Appetite
+- HELD REF-2542 | 2024 | 39064727 | Randomized Controlled Trial/Comparative Study | Comparative Effects of Gymnema sylvestre and Berberine on Adipokines, Body Composition, and Metabolic Parameters in Obese Patients: A Randomized Study. | Nutrients
+- new | 2024 | 39125340 | Randomized Controlled Trial | Efficacy and Tolerability of a Food Supplement Based on Zea mays L., Gymnema sylvestre (Retz.) R.br.ex Sm, Zinc and Chromium for the Maintenance of Normal Carbohydrate Metabolism:  | Nutrients
+- HELD REF-2541 | 2023 | 36580574 | Meta-Analysis/Systematic Review | The effects of Gymnema Sylvestre supplementation on lipid profile, glycemic control, blood pressure, and anthropometric indices in adults: A systematic review and meta-analysis. | Phytother Res
+- new | 2023 | 38137721 |  | Combined Inositols, α-Lactalbumin, Gymnema Sylvestre and Zinc Improve the Lipid Metabolic Profile of Patients with Type 2 Diabetes Mellitus: A Randomized Clinical Trial. | J Clin Med
+- new | 2023 | 37513560 |  | Diet Plus Inositols, α-Lactalbumin and Gymnema sylvestre: The Successful Combo to Restore Body Weight and Metabolic Profile in Obese and Dysmetabolic Patients. | Nutrients
+- new | 2023 | 37255810 |  | Validation of standardized polyherbal formulation in the management of type 2 diabetes mellitus: A randomized, double-blind, placebo-controlled trial. | J Diabetes Metab Disord
+- HELD REF-2543 | 2022 | 36558446 | Randomized Controlled Trial | The Effect of a 14-Day gymnema sylvestre Intervention to Reduce Sugar Cravings in Adults. | Nutrients
+- new | 2022 | 35647942 | Randomized Controlled Trial/Pragmatic Clinical Trial | Plant Extracts as Add-On Therapeutics in Homeopathy: An Open-Label, Randomized Trial Using Mother Tinctures in Prediabetes. | J Integr Complement Med
+- HELD REF-2540 | 2021 | 34467577 | Meta-Analysis/Systematic Review | The effect of Gymnema sylvestre supplementation on glycemic control in type 2 diabetes patients: A systematic review and meta-analysis. | Phytother Res
+- new | 2021 | 32460589 | Randomized Controlled Trial | Effect of Gymnema sylvestre Administration on Glycemic Control, Insulin Secretion, and Insulin Sensitivity in Patients with Impaired Glucose Tolerance. | J Med Food
+- new | 2021 | 34789340 |  | A randomized, double-blind clinical trial of a herbal formulation (GlycaCare-II) for the management of type 2 diabetes in comparison with metformin. | Diabetol Metab Syndr
+- new | 2020 | 32290122 |  | Consuming Gymnema sylvestre Reduces the Desire for High-Sugar Sweet Foods. | Nutrients
+- new | 2020 | 32353974 | Randomized Controlled Trial | Suppression of Oral Sweet Sensations during Consumption of Sweet Food in Humans: Effects on Gastric Emptying Rate, Glycemic Response, Appetite, Food Satisfaction and Desire for Bas | Nutrients
+- new | 2019 | 30661947 |  | Ayurvedic polyherbal combination (PDBT) for prediabetes: A randomized double blind placebo controlled study. | J Ayurveda Integr Med
+- new | 2019 | 30616613 | Clinical Trial Protocol | Polyherbal dietary supplementation for prediabetic adults: study protocol for a randomized controlled trial. | Trials
+- new | 2019 | 31421394 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Suppression of sweet sensing with glucose, but not aspartame, delays gastric emptying and glycemic response. | Nutr Res
+- new | 2018 | 29265900 |  | Effects of myo-inositol, gymnemic acid, and L-methylfolate in polycystic ovary syndrome patients. | Gynecol Endocrinol
+- new | 2017 | 28459647 | Randomized Controlled Trial | Effect of Gymnema sylvestre Administration on Metabolic Syndrome, Insulin Sensitivity, and Insulin Secretion. | J Med Food
+- new | 2017 | 28606563 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Participants with pharmacologically impaired taste function seek out more intense, higher calorie stimuli. | Appetite
+- new | 2016 | 26916641 | Research Support, Non-U.S. Gov't | In Vitro Metabolic Stability and Permeability of Gymnemagenin and Its In Vivo Pharmacokinetic Correlation in Rats - A Pilot Study. | Planta Med
+- new | 2015 | 25984419 | Case Reports | Improved clinical outcomes of patients with type 2 diabetes mellitus utilizing integrative medicine: a case report. | Glob Adv Health Med
+- new | 2014 | 24976431 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Short-term effect of G-400, polyherbal formulation in the management of hyperglycemia and hyperlipidemia conditions in patients with type 2 diabetes mellitus. | Nutrition
+- new | 2013 | 23876572 | Systematic Review | Plant extracts with appetite suppressing properties for body weight control: a systematic review of double blind randomized controlled clinical trials. | Complement Ther Med
+- new | 2010 | 20812281 | Clinical Trial/Research Support, Non-U.S. Gov't | A novel Gymnema sylvestre extract stimulates insulin secretion from human islets in vivo and in vitro. | Phytother Res
+- HELD REF-2466 | 2010 | 22432517 | Controlled Clinical Trial/Research Support, Non-U.S. Gov't | An open label study on the supplementation of Gymnema sylvestre in type 2 diabetics. | J Diet Suppl
+- new | 2009 | 19509199 | Review | Complementary and alternative medicine for the treatment of type 2 diabetes. | Can Fam Physician
+- new | 2008 | 18537692 | Research Support, N.I.H., Extramural/Review | Efficacy of dietary supplementation with botanicals on carbohydrate metabolism in humans. | Endocr Metab Immune Disord Drug Targets
+- new | 2005 | 16366421 | Randomized Controlled Trial | Efficacy of a novel calcium/potassium salt of (-)-hydroxycitric acid in weight control. | Int J Clin Pharmacol Res
+- new | 2005 | 16296404 |  | Antioxidant activity of various teas against free radicals and LDL oxidation. | Lipids
+- new | 2004 | 15666575 | Review | What do herbalists suggest to diabetic patients in order to improve glycemic control? Evaluation of scientific evidence and potential risks. | Acta Diabetol
+- new | 2004 | 15056124 | Clinical Trial/Randomized Controlled Trial | Effects of a natural extract of (-)-hydroxycitric acid (HCA-SX) and a combination of HCA-SX plus niacin-bound chromium and Gymnema sylvestre extract on weight loss. | Diabetes Obes Metab
+- new | 2003 | 12663610 | Systematic Review | Systematic review of herbs and dietary supplements for glycemic control in diabetes. | Diabetes Care
+- new | 2003 | 24944372 |  | Effects of a stimulant-free dietary supplement on body weight and fat loss in obese adults: a six-week exploratory study. | Curr Ther Res Clin Exp
+- new | 2002 | 12006375 | Clinical Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Taste suppression following lingual capsaicin pre-treatment in humans. | Chem Senses
+- HELD REF-2465 | 1990 | 2259217 | Clinical Trial/Research Support, Non-U.S. Gov't | Antidiabetic effect of a leaf extract from Gymnema sylvestre in non-insulin-dependent diabetes mellitus patients. | J Ethnopharmacol
+- new | 1990 | 2259216 | Clinical Trial/Research Support, Non-U.S. Gov't | Use of Gymnema sylvestre leaf extract in the control of blood glucose in insulin-dependent diabetes mellitus. | J Ethnopharmacol
+- new | 1969 | 5792442 | Clinical Trial/Controlled Clinical Trial | Inhibition of the sweet taste by Gymnema sylvestre. | Nature
+
+### PubMed SR - 13 hits, 8 not already listed above, 7 new
+- new | 2026 | 43067361 |  | Appetite regulating and metabolic effects of bitter melon (Momordica charantia), gurmar (Gymnema sylvestre), hops (Humulus lupulus) and Caralluma (Caralluma fimbriata): A systemati | Appetite
+- new | 2023 | 37860570 |  | Suppression of sweet taste-related responses by plant-derived bioactive compounds and eating. Part II: A systematic review in animals. | Heliyon
+- new | 2023 | 37817998 |  | Suppression of sweet taste-related responses by plant-derived bioactive compounds and eating. Part I: A systematic review in humans. | Heliyon
+- new | 2022 | 35723334 | Review | Evidence from a Systematic Review and Meta-Analysis Pointing to the Antidiabetic Effect of Polyphenol-Rich Plant Extracts from Gymnema montanum, Momordica charantia and Moringa ole | Curr Issues Mol Biol
+- new | 2021 | 33475054 | Systematic Review | Ethnomedicinal Plants for the Management of Diabetes Worldwide: A Systematic Review. | Curr Med Chem
+- new | 2014 | 24166097 | Comparative Study/Systematic Review | A systematic review of Gymnema sylvestre in obesity and diabetes management. | J Sci Food Agric
+- new | 2011 | 22432729 | Systematic Review | An evidence-based systematic review of gymnema (Gymnema sylvestre R. Br.) by the Natural Standard Research Collaboration. | J Diet Suppl
+- HELD REF-3060 | 2007 | 18047444 | Systematic Review | Gymnema sylvestre for diabetes mellitus: a systematic review. | J Altern Complement Med
+
+### PubMed SAFE - 75 hits, 64 not already listed above, 62 new
+- new | 2026 | 41923419 |  | Large-Scale Evaluation of Traditional Chinese Medicines Reveals Potential PPARγ Modulators for Type 2 Diabetes Management. | J Clin Lab Anal
+- new | 2026 | 42353323 | Review | Gymnema sylvestre as a Multi-Target Antidiabetic Agent: Mechanistic Insights and Metabolic Regulation. | Int J Mol Sci
+- new | 2026 | 40383985 |  | Evaluation and screening of polyherbal formulation for diabetes management: toxicity assessment on Albino Wistar rats. | Nat Prod Res
+- new | 2026 | 42027855 | Case Reports | Not all 'natural' is safe: A naturally occurring glucagon-like peptide-1 mimetic associated with drug-induced hypersensitivity syndrome. | JAAD Case Rep
+- new | 2026 | 40417756 | Review | Management of Steroid-Induced Diabetes: A Review of Herbal Medications and Their Role in Modulating Insulin Signaling Pathways. | Endocr Metab Immune Disord Drug Targets
+- new | 2026 | 41858338 | Review | Deciphering diabetes-related genetic markers using in silico methods: insights into Gymnema sylvestre's therapeutic role for diabetes mellitus. | In Silico Pharmacol
+- new | 2026 | 41767849 |  | Exploration and validation of anti-diabetic potential of terpenoid phytocompounds from Indian traditional medicinal plant Gymnema sylvestre. | In Silico Pharmacol
+- new | 2025 | 40268175 |  | Nine undescribed pregnane glycosides from Gymnema sylvestre and their glucose uptake and GLUT4 translocation activities. | Phytochemistry
+- new | 2025 | 40006756 |  | Gymnema sylvestre as a Potential Anti-Inflammatory and Anti-Biofilm Agent Against Anaerobic Infections: An In Vitro Study. | Plants (Basel)
+- new | 2025 | 40857785 |  | Computation drug design for ACE inhibitor for high blood pressure management and assessment of pharmacokinetics and toxicity of promising compounds isolated from Gymnema sylvestre. | Bioorg Chem
+- new | 2025 | 38500279 | Review | Herbal Nanoformulations for Diabetes: Mechanisms, Formulations, and Clinical Impact. | Curr Diabetes Rev
+- new | 2024 | 38803590 |  | Exploring Acute Liver Damage: Slimming Health Foods and CYP3A4 Induction. | Yonago Acta Med
+- new | 2024 | 38734323 |  | Exploring non-cytotoxic, antioxidant, and anti-inflammatory properties of selenium nanoparticles synthesized from Gymnema sylvestre and Cinnamon cassia extracts for herbal nanomedi | Microb Pathog
+- new | 2024 | 39719988 |  | Exploring the therapeutic potential of triterpenoid saponins from Gymnema sylvestre: Mechanistic insights into hepatoprotection, immunomodulation, anticancer activities, molecular  | Heliyon
+- new | 2024 | 39173063 | Research Support, Non-U.S. Gov't | Cross-relationship between COVID-19 infection and anti-obesity products efficacy and incidence of side effects: A cross-sectional study. | PLoS One
+- new | 2023 | 38094882 |  | Computer-aided identification of Mycobacterium tuberculosis resuscitation-promoting factor B (RpfB) inhibitors from Gymnema sylvestre natural products. | Front Pharmacol
+- new | 2023 | 37266583 | Review | Biotechnological approaches for the production of gymnemic acid from Gymnema sylvestre R. Br. | Appl Microbiol Biotechnol
+- new | 2023 | 37060982 |  | Greater efficiency of polyherbal drug encapsulated biosynthesized chitosan nano-biopolymer on diabetes and its complications. | Int J Biol Macromol
+- new | 2022 | 35212849 | Review | Natural compounds as safe therapeutic options for ulcerative colitis. | Inflammopharmacology
+- new | 2022 | 35318201 | Case Reports | Toxic hepatitis-associated aplastic anaemia after dual homeopathic remedies and Gymnema sylvestre use. | BMJ Case Rep
+- new | 2022 | 35343011 |  | Gymnemic acid protects murine pancreatic β-cells by moderating hyperglycemic stress-induced inflammation and apoptosis in type 1 diabetic rats. | J Biochem Mol Toxicol
+- new | 2022 | 35282781 |  | Optimisation and evaluation of Gymnema sylvestre extract loaded polymeric nanoparticles for enhancement of in vivo efficacy and reduction of toxicity. | J Microencapsul
+- new | 2021 | 32081022 |  | Four new pregnane glycosides from Gymnema latifolium and their α-glucosidase and α-amylase inhibitory activities. | Nat Prod Res
+- new | 2021 | 34917786 |  | In silico evaluation of naturally isolated triterpene glycosides (TG) from Gymnema sylvestre towards diabetic treatment. | Heliyon
+- new | 2021 | 36605715 |  | Molecular docking and prediction of ADME/drug-likeness properties of potentially active antidiabetic compounds isolated from aqueous-methanol extracts of Gymnema sylvestre and Comb | BioTechnologia (Pozn)
+- new | 2021 | 31507227 |  | Pregnane glycosides from Gymnema inodorum and their α-glucosidase inhibitory activity. | Nat Prod Res
+- new | 2021 | 34275855 |  | Hepatoprotective and hypolipidemic activities of Caesalpinia bonduc seed kernels and Gymnema sylvestre leaves extracts in alloxan-induced diabetic rats. | Pak J Pharm Sci
+- new | 2021 | 34827690 | Review | Advanced Bioinformatics Tools in the Pharmacokinetic Profiles of Natural and Synthetic Compounds with Anti-Diabetic Activity. | Biomolecules
+- new | 2020 | 32481737 |  | Five New Pregnane Glycosides from Gymnema sylvestre and Their α-Glucosidase and α-Amylase Inhibitory Activities. | Molecules
+- new | 2018 | 30165340 |  | Radio-protective dosimetry of Pangasius sutchi as a biomarker, against gamma radiation dosages perceived by genotoxic assays. | Ecotoxicol Environ Saf
+- new | 2018 | 32626054 |  | Risk assessment of substances used in food supplements: the example of the botanical Gymnema sylvestre. | EFSA J
+- new | 2018 | 29019074 |  | In vitro Inhibitory Effect of Gymnema sylvestre Extracts and Total Gymnemic Acids Fraction on Select Cytochrome P450 Activities in Rat Liver Microsomes. | Eur J Drug Metab Pharmacokinet
+- new | 2017 | 27834124 | Review | Gymnema sylvestre for Diabetes: From Traditional Herb to Future's Therapeutic. | Curr Pharm Des
+- new | 2017 | 29042257 |  | In vivo pharmacokinetic interaction by ethanolic extract of Gymnema sylvestre with CYP2C9 (Tolbutamide), CYP3A4 (Amlodipine) and CYP1A2 (Phenacetin) in rats. | Chem Biol Interact
+- new | 2017 | 29217884 | Case Reports | How Harmful Can Herbal Remedies Be? A Case of Severe Acute Tubulointerstitial Nephritis. | Indian J Nephrol
+- new | 2017 | 28826695 | Review | Natural Health Products and Diabetes: A Practical Review. | Can J Diabetes
+- new | 2016 | 26721197 |  | Effects of Gymnema sylvestre extract on the pharmacokinetics and pharmacodynamics of glimepiride in streptozotocin induced diabetic rats. | Chem Biol Interact
+- new | 2016 | 27761064 |  | Human Cytochrome P450 Enzyme Modulation by Gymnema sylvestre: A Predictive Safety Evaluation by LC-MS/MS. | Pharmacogn Mag
+- new | 2016 | 27261851 |  | Effects of feeding a diet containing Gymnema sylvestre extract: Attenuating progression of obesity in C57BL/6J mice. | Asian Pac J Trop Med
+- new | 2016 | 27034931 |  | Treating Diabetes Mellitus: Pharmacophore Based Designing of Potential Drugs from Gymnema sylvestre against Insulin Receptor Protein. | Biomed Res Int
+- new | 2016 | 26711684 | Research Support, Non-U.S. Gov't | In-silico analysis of gymnemagenin from Gymnema sylvestre (Retz.) R.Br. with targets related to diabetes. | J Theor Biol
+- new | 2015 | 25860062 | Research Support, Non-U.S. Gov't/Review | Gymnema sylvestre R. Br., an Indian medicinal herb: traditional uses, chemical composition, and biological activity. | Curr Pharm Biotechnol
+- new | 2015 | 26006029 |  | Effects of Ayurvedic Rasayana botanicals on CYP3A4 isoenzyme system. | J Integr Med
+- new | 2015 | 25685911 | Research Support, Non-U.S. Gov't | New pregnane glycosides from Gymnema sylvestre. | Molecules
+- new | 2014 | 24734106 |  | Inhibitory Effects of Gymnema (Gymnema sylvestre) Leaves on Tumour Promotion in Two-Stage Mouse Skin Carcinogenesis. | Evid Based Complement Alternat Med
+- new | 2014 | 26045373 |  | Toxicity studies on herbal formulation used in diabetes mellitus. | Pak J Pharm Sci
+- new | 2014 | 24559073 |  | In vivo anti-ulcer, anti-stress, anti-allergic, and functional properties of gymnemic acid isolated from Gymnema sylvestre R Br. | BMC Complement Altern Med
+- new | 2014 | 25107389 | Review | Natural products for the management of type 2 diabetes mellitus and comorbid conditions. | J Am Pharm Assoc (2003)
+- new | 2014 | 25053002 | Research Support, Non-U.S. Gov't | Pregnane-type steroidal glycosides from Gymnema griffithii Craib. | Phytochemistry
+- new | 2013 | 23472485 | Research Support, Non-U.S. Gov't/Review | Adverse effects of herbal medicines: an overview of systematic reviews. | Clin Med (Lond)
+- new | 2013 | 23615751 | Research Support, Non-U.S. Gov't | Antihyperglycemic drug Gymnema sylvestre also shows anticancer potentials in human melanoma A375 cells via reactive oxygen species generation and mitochondria-dependent caspase pat | Integr Cancer Ther
+- new | 2013 | 23225496 | Research Support, Non-U.S. Gov't | Determination of gymnemagenin in rat plasma using high-performance liquid chromatography-tandem mass spectrometry: application to pharmacokinetics after oral administration of Gymn | Biomed Chromatogr
+- new | 2012 | 39666848 | Review | Gymnema. | 
+- HELD REF-2469 | 2012 | 22368396 |  | A pharmacological appraisal of medicinal plants with antidiabetic potential. | J Pharm Bioallied Sci
+- new | 2012 | 23152320 |  | Toxicity of saponin isolated from Gymnema sylvestre R. Br. (Asclepiadaceae) against Culex tritaeniorhynchus Giles (Diptera: Culicidae) Japanese encephalitis vector mosquito in Indi | Rev Inst Med Trop Sao Paulo
+- HELD REF-2468 | 2010 | 20856101 | Case Reports | Toxic hepatitis induced by Gymnema sylvestre, a natural remedy for type 2 diabetes mellitus. | Am J Med Sci
+- new | 2009 | 19122289 | Research Support, Non-U.S. Gov't | Inhibitory effects of herbal extracts on the activity of human sulfotransferase isoform sulfotransferase 1A3 (SULT1A3). | Biol Pharm Bull
+- new | 2009 | 19910683 | Research Support, Non-U.S. Gov't | Gymnema montanum H. protects against alloxan-induced oxidative stress and apoptosis in pancreatic beta-cells. | Cell Physiol Biochem
+- new | 2006 | 16902808 |  | Pre-exposure to a novel nutritional mixture containing a series of phytochemicals prevents acetaminophen-induced programmed and unprogrammed cell deaths by enhancing BCL-XL express | Mol Cell Biochem
+- new | 2005 | 16187484 |  | Modulation of impaired cholinesterase activity in experimental diabetes: effect of Gymnema montanum leaf extract. | J Basic Clin Physiol Pharmacol
+- new | 2004 | 15168555 | Research Support, Non-U.S. Gov't | [Gymnema sylvestre leaf extract: a 52-week dietary toxicity study in Wistar rats]. | Shokuhin Eiseigaku Zasshi [jpn]
+- new | 2000 | 23105280 |  | Medicinal plants for treatment of diabetes mellitus. | Indian J Clin Biochem
+- new | 1999 | 10399837 |  | Pregnane glycosides, gymnepregosides G-Q from the roots of Gymnema alternifolium. | Chem Pharm Bull (Tokyo)
+- new | 1998 | 9734311 |  | Pregnane glycosides, gymnepregosides A-F from the roots of Gymnema alternifolium. | Chem Pharm Bull (Tokyo)
+
+### PubMed OBS - 3 hits, 1 not already listed above, 1 new
+- new | 2023 | 38202777 | Review | Identification of Potential Plant-Derived Pancreatic Beta-Cell-Directed Agents Using New Custom-Designed Screening Method: Gymnema sylvestre as an Example. | Molecules
+
+### PubMed REV - 52 hits, 16 not already listed above, 15 new
+- new | 2024 | 39619998 | Review | Gymnema lactiferum: A Review of Its Traditional Applications, Phytochemical Constituents, and Biological Properties. | Food Sci Nutr
+- new | 2021 | 34926691 | Review | Antiviral Potential of Selected Medicinal Herbs and Their Isolated Natural Products. | Biomed Res Int
+- new | 2020 | 32365383 | Review | Exploring the Potential of Traditional Herbs in the Management of Diabetic Retinopathy: An Overview. | Drug Res (Stuttg)
+- new | 2019 | 31736747 | Review | Comprehensive Review on Phytochemicals, Pharmacological and Clinical Potentials of Gymnema sylvestre. | Front Pharmacol
+- new | 2017 | 28729836 | Review | An Overview of Herbal Products and Secondary Metabolites Used for Management of Type Two Diabetes. | Front Pharmacol
+- new | 2016 | 27076875 | Review | Novel nutraceutic therapies for the treatment of metabolic syndrome. | World J Diabetes
+- new | 2015 | 26132858 | Review | Natural Products for the Treatment of Type 2 Diabetes Mellitus. | Planta Med
+- HELD REF-3059 | 2014 | 24511547 | Research Support, Non-U.S. Gov't/Review | Phytochemical and pharmacological properties of Gymnema sylvestre: an important medicinal plant. | Biomed Res Int
+- new | 2014 | 25072200 | Research Support, Non-U.S. Gov't/Review | Triterpenoids from Gymnema sylvestre and their pharmacological activities. | Molecules
+- new | 2013 | 24304585 | Research Support, Non-U.S. Gov't/Review | C-4 gem-dimethylated oleanes of Gymnema sylvestre and their pharmacological activities. | Molecules
+- new | 2012 | 23569923 | Research Support, Non-U.S. Gov't/Review | An overview on antidiabetic medicinal plants having insulin mimetic property. | Asian Pac J Trop Biomed
+- new | 2011 | 21826590 | Review | Mechanism of action of natural products used in the treatment of diabetes mellitus. | Chin J Integr Med
+- new | 2007 | 17484443 | Review | [Unconventional antidiabetic agents]. | Med Monatsschr Pharm [ger]
+- new | 2002 | 11926665 | Review | Natural products used for diabetes. | J Am Pharm Assoc (Wash)
+- new | 2002 | 12020931 | Review | Medicinal plants of India with anti-diabetic potential. | J Ethnopharmacol
+- new | 1995 | 7564423 | Review | Plant-derived triterpenoid sweetness inhibitors. | J Ethnopharmacol
+
+### ClinicalTrials.gov - 18 registered studies
+- NCT05348304 | COMPLETED | results=False | NA | Hypoglycemic Effects of a Dietary Supplement With Inositols, Gymnema Silvestre, Alpha-lactalbumin and Zinc. | conds: Metabolism Disorder | intr: EUDIAMET
+- NCT05267925 | TERMINATED | results=False | NA | CuraLin Herbal Supplement for Type 2 Diabetes | conds: Type 2 Diabetes | intr: CuraLin
+- NCT02708966 | COMPLETED | results=True | PHASE2 | Effect of Gymnema Sylvestre on Patients With Impaired Glucose Tolerance. | conds: Impaired Glucose Tolerance | intr: Gymnema Sylvestre, Placebo
+- NCT07279909 | ACTIVE_NOT_RECRUITING | results=False | PHASE3 | Phase-III Clinical Studies on Poly Herbal Anti-Diabetic Formulation | conds: Diabetes Type 2, Diabetes Mellitus, Experimental, HbA1c, Urinary Glucose | intr: DIAB-PHC1, Metformin
+- NCT00396851 | UNKNOWN | results=False | NA | Double Blind Randomized Trial to Compare Gurmar (Gymnema Sylvestre) With Metformin in Type 2 Diabetes | conds: Type 2 Diabetes Mellitus | intr: Gurmar, Metformin | pubs: ['32501595:DERIVED (new)']
+- NCT07263802 | NOT_YET_RECRUITING | results=False | NA | Effect of a Food Supplement on Glycemic Parameters in Patients With Impaired Glucose Metabolism | conds: Impaired Fasting Glucose (IFG), Impaired Glucose Tolerance (Prediabetes) | intr: GlycoDual, Placebo
+- NCT06426966 | COMPLETED | results=False | NA | Gymnema Sylvestre vs Berberine in Obesity Gene Expression of Adipokines | conds: Diabetes Mellitus, Obesity | intr: Berberine, Gymnema sylvestre
+- NCT05631431 | TERMINATED | results=False | PHASE2 | Evaluation of Efficacy and Safety of Curalin As Add-On Therapy in Adults With Type 2 Diabetes Mellitus | conds: Type2 Diabetes | intr: Curalin
+- NCT05177263 | COMPLETED | results=False | NA | Effects of the Different Concentrations of Oral Dextrose Solution Applying With Supportive Positions on Pain During Heel-Stick Sampling in P | conds: Pain | intr: Placebo, 10% Oral Dextrose Solution, 20% Oral Dextrose Solution, 30% Oral Dextrose Solution | pubs: ['38570229:RESULT (new)']
+- NCT06496893 | COMPLETED | results=False | NA | A Study to Assess Effect of Glucocil® on Metabolic Health in Individuals With Prediabetes and Type 2 Diabetes Mellitus. | conds: Pre Diabetes, Type2 Diabetes Mellitus | intr: IP 1200 mg per soft gel capsule, Placebo Comparator: Placebo 1200 mg per soft gel capsule
+- NCT04745780 | COMPLETED | results=False | NA | Evaluation of Efficacy and Safety of a Combination Containing Myo-inositol, D-chiro-inositol, Alpha-lactalbumin, Zinc and Extract of Gymnema | conds: Type 2 Diabetes | intr: Myo-inositol, D-chiro-inositol, Gymnema sylvestre, Zinc and Alpha-lactalbumin, Placebo
+- NCT03388762 | COMPLETED | results=False | NA | RCT of a Polyherbal Dietary Supplement for Prediabetes | conds: Prediabetic State | intr: GlucoSupreme™ Herbal, Placebo | pubs: ['30616613:DERIVED (new)']
+- NCT04967118 | UNKNOWN | results=False | NA | Neonatal Pain Management and Pain Monitoring Using New Methods | conds: Pain, Acute, Procedural Pain, Infant | intr: Skin-to-skin contact, Mother's heartbeats as sound and vibration, 30% oral glucose | pubs: ['42054232:DERIVED (new)']
+- NCT03745963 | UNKNOWN | results=False | PHASE3 | The Influence of Skin-to-skin Contact on Cortical Activity During Painful Procedures on Preterm Infants in the NICU | conds: Pain, Acute, Infant, Newborn, Electroencephalography | intr: Skin-to-skin contact, 24% oral sucrose | pubs: ['35725632:DERIVED (new)']
+- NCT07549373 | RECRUITING | results=False | NA | Effect of Diode Laser, Gudmar and Vinegar in Diabetic Patients During Root Canal Treatment | conds: Diabete Type 2 | intr: 940 nm diode laser, apple cider vinegar, Gymnema Sylvestre, Saline (NaCl)
+- NCT05439473 | COMPLETED | results=False | PHASE2 | Evaluation of the Efficacy and Safety of Curalin as Add-On Therapy in Adults With Type 2 Diabetes Mellitus | conds: Type2 Diabetes | intr: Curalin
+- NCT02370121 | COMPLETED | results=True | PHASE2 | Effect of Gymnema Sylvestre on Metabolic Syndrome and Insulin | conds: Metabolic Syndrome | intr: Placebo, Gymnema Sylvestre | pubs: ['20812281:RESULT (new)', '11411567:RESULT (new)', '2259217:RESULT (new)', '12622244:RESULT (new)', '2451154:RESULT (new)', '23852298:RESULT (new)', '24511547:RESULT (new)', '25284929:RESULT (new)', '23876572:RESULT (new)', '22911568:RESULT (new)', '15168555:RESULT (new)', '1695875:RESULT (new)', '10480510:RESULT (new)', '8137688:RESULT (new)', '25668616:RESULT (new)', '10868854:RESULT (new)', '16054141:RESULT (new)', '24856809:RESULT (new)']
+- NCT02949102 | COMPLETED | results=False | NA | Crave Crush Neuroimaging Study | conds: Obesity | intr: Crave Crush, Placebo
+
+### OpenAlex no-PMID trial-worded - 1190 hits, 58 without PMID, 58 new
+- new | 2026 | 10.1016/j.deman.2026.100308 | article | Gymnema sylvestre-supplemented chewing gum and sweet food consumption in type 1 diabetes: a randomized, double-blind pilot trial (the sweet victory trial) | Diabetes Epidemiology and Management
+- new | 2026 | 10.59720/25-210 | article | The role of Gymnema sylvestre tea in modulating the perception of sweetness | Journal of Emerging Investigators
+- new | 2026 | 10.5281/zenodo.19834099 | preprint | Gymnema sylvestre Extract for Alternative Glucose Metabolism Pathway Activation | Zenodo (CERN European Organization for N
+- new | 2026 | 10.5281/zenodo.18481083 | article | ANTIDIABETIC PROPERTIES OF GYMNEMA SYLVESTRE: AN INTEGRATIVE EVALUATION OF PHARMACOLOGICAL ACTIONS | World Journal of Pharmaceutical Research
+- new | 2026 | 10.5281/zenodo.21882381 | article | A Comprehensive Review Pharmaco toxicological Evaluation of a Polyherbal Formulation for the Wound Healing of Diabetic Patients | Zenodo (CERN European Organization for N
+- new | 2026 | 10.53365/nrfhh.1823 | article | Diet, Lifestyle Behaviours and Bioactive Nutraceuticals in Glycemic Control Among Indian Type 2 Diabetes Patients | Natural Resources for Human Health
+- new | 2026 | 10.5281/zenodo.21917766 | article | ROLE OF AN AYURVEDIC FORMULATION IN GLYCEMIC CONTROL AMONG TYPE 2 DIABETES PATIENTS: A CASE SERIES | World Journal of Pharmaceutical Research
+- new | 2025 | 10.5281/zenodo.17998208 | article | CLINICO COMPARATIVE EVALUATION OF SRAMSANA PROPERTY OF MESHASHRUNGI PHALA (GYMNEMA SYLVESTRE R.BR.)- A RANDOMISED STUDY | World Journal of Pharmaceutical Research
+- new | 2025 | 10.5530/pj.2024.16s.234 | article | Evaluating the Efficacy of Cresvin beta on Type 2 Diabetes Mellitus Management: A Randomized Comparative Clinical Trial | Pharmacognosy Journal
+- new | 2025 | 10.5530/pj.2024.16.209 | article | Potential Molecular level Impact of Cresvin beta on Type 2 Diabetes Mellitus: A Randomized Controlled Clinical Trial | Pharmacognosy Journal
+- new | 2025 | https://openalex.org/W7217474308 | article | A Randomized, Double Blind, Placebo Controlled, Single Centric, 2 Arm Clinical Trial to Assess the Efficacy and Safety of Amrith Noni D Plus in Patients with Type II Diabetes Melli | Journal of chemical health risks
+- new | 2025 | 10.1201/9781003616368-43 | book-chapter | A Review of the Therapeutic Potential of Gymnema Sylvestre in Diabetes Management | CRC Press eBooks
+- new | 2025 | 10.3923/ajbs.2025.602.614 | article | Amelioration of Paclitaxel Induced Neuropathy by Gymnema sylvestre in Wistar Rats | Asian Journal of Biological Sciences
+- new | 2025 | 10.9734/ijpss/2025/v37i85640 | article | Assessment of Seed Physiological Parameters in Gymnema sylvestre R.Br. for Optimizing Propagation and Storage Strategies | International Journal of Plant & Soil Sc
+- new | 2025 | 10.54085/ap.2025.14.2.40 | article | In vitro and clinical investigation of the antidiabetic properties of Gymnema sylvestre R. Br. leaf extract | Annals of Phytomedicine An International
+- new | 2024 | 10.47552/ijam.v15i2.5014 | article | Effect of Meshashrungi Patra vati and Ajashrungi Patra vati in management of Type 2 Diabetes mellitus-A Randomised, Single blind, Clinical Study | International Journal of Ayurvedic Medic
+- new | 2024 | 10.13048/jkm.24059 | article | Double-blind Randomized placebo-controlled Trials on controlling blood glucose level using the extract from Opuntia ficus-indica var. saboten | 대한한의학회지
+- new | 2024 | 10.1017/s0029665124000958 | article | The effect of Gymnema sylvestre on motivations to consume sweet foods – a qualitative investigation | Proceedings of The Nutrition Society
+- new | 2024 | 10.31032/ijbpas/2024/13.10.8356 | article | PHARMACEUTICAL COMPOSITION FOR MANAGING DIABETES WITH BERBERINE AND GYMNEMA SYLVESTRE EXTRACTS | International Journal of Biology Pharmac
+- new | 2024 | 10.18782/2582-2845.9052 | article | Effect of Integrated Nutrient Management on Growth and Yield of Gymnema sylvestre (R.Br.), in Jharkhand (India) | Indian Journal of Pure & Applied Bioscie
+- new | 2024 | 10.4038/cjs.v53i4.8238 | article | An ethnobotanical survey of medicinal plants used by diabetes patients attending the Teaching Hospital, Jaffna, Sri Lanka | Ceylon Journal of Science
+- new | 2023 | 10.1007/978-3-031-44914-7_8 | book-chapter | Gymnema sylvestre R. Br.: Phytochemicals and Medicinal Properties | Medicinal and aromatic plants of the wor
+- new | 2023 | 10.51847/ig4vvuiizr | article | Effect of Herbal Anticoagulant on ctDNA Yield in Blood from Oral Squamous Cell Carcinoma Patients | Clinical Cancer Investigation Journal
+- new | 2023 | 10.53555/jrtdd.v6i7s.3211 | article | A Study To Evaluate Efficacy Of Homoeopathic Remedy Gymnema Sylvestre In 6th Centesimal Potency In The Patients Suffering From Type 2 Diabetis Melitus - A Prospective Observational | Journal for ReAttach Therapy and Develop
+- new | 2023 | 10.1201/b23347-10 | book-chapter | Phytochemical Constituents, Antidiabetic and Other Activities of Gurmar (Gymnema sylvestre R. Br.) | CRC Press eBooks
+- new | 2022 | 10.5281/zenodo.19625233 | article | Randomized Clinical Trial of Ayurvedic Interventions in Diabetes | Zenodo (CERN European Organization for N
+- new | 2022 | 10.14309/01.ajg.0000868580.43093.0b | conference-abstract | Drug-Induced Autoimmune-Like Hepatitis Secondary to Gymnema Sylvestre | The American Journal of Gastroenterology
+- new | 2021 | 10.56042/ijtk.v20i1.30755 | article | Evaluation of efficacy and safety of a polyherbal Unani formulation in diabetes mellitus type 2 (Zayābīṭus Sukkari Qism Sāni) - a randomised controlled clinical study | Indian Journal of Traditional Knowledge
+- new | 2021 | 10.1186/s40816-021-00290-4 | article | Acute and sub-acute toxicity profile of crude extract and fractions of Gymnema sylvestre | Clinical Phytoscience
+- new | 2021 | https://openalex.org/W3182424857 | article | Efficacy of Gymnema Sylvestre as a Potent Antioxidant: An In Vitro Study | Annals of Medical and Health Sciences Re
+- new | 2021 | https://openalex.org/W3176559857 | article | Development and validation of EST-SSR markers in Gymnema sylvestre R.Br. | Journal of Plant Physiology & Pathology
+- new | 2021 | 10.4103/2305-0500.311610 | article | Combined effects of Gymnema sylvestre and Pergularia daemia on letrozole-induced polycystic ovarian syndrome in rats | Asian Pacific Journal of Reproduction
+- new | 2020 | 10.37506/ijphrd.v11i7.10096 | article | Hypoglycaemic Effect of Alcoholic Extracts of the Leaves of Abroma Augusta & Gymnema Sylvestre Plants in Type II Diabetes Mellitus Patients | Indian Journal of Public Health Research
+- new | 2020 | 10.61841/w9h02e12 | article | Effect of Alcoholic Extracts of Abroma Augusta & Gymnema Sylvestre Leaves in the Modulation of Serum Total Cholesterol Levels of Type 2 Diabetes Mellitus Patients | International Journal of Psychosocial Re
+- new | 2020 | 10.1007/978-3-030-16807-0_104 | book-chapter | Gymnema sylvestre R. Br. (Apocynaceae) | Springer eBooks
+- new | 2019 | 10.37506/v10/i12/2019/ijphrd/192341 | article | Phytochemicalanalysis of the Ethanolic Extract of the Leaves of Gymnema Sylvestre | Indian Journal of Public Health Research
+- new | 2019 | 10.26226/morressier.5d9b6232ea541d6ca8494081 | other | Effect of Gymnema sylvestre on glycemic control, insulin secretion and insulin sensitivity in impaired glucose tolerance | 
+- new | 2019 | 10.13005/bpj/1635 | article | Amelioration of Cyclophosphamide Induced Immunosupression by the Hydro-Alcoholic Extract of Gymnema Sylvestre Leaves in Albino Rats | Biomedical & Pharmacology Journal
+- new | 2018 | https://openalex.org/W2791537038 | article | Antidiabetic and antihyperlipidemic effects of Artemisia absinthium L., Citrullus colocynthis (L.) Schrad. and Gymnema sylvestre (Retz.) R.Br. ex Sm. on type II diabetes hyperlipid | Indian Journal of Traditional Knowledge
+- new | 2018 | 10.5281/zenodo.1317544 | article | Formulation And Evaluation Of Elixir Of Gymnema Sylvestre By Using Leaf Extract | Zenodo (CERN European Organization for N
+- new | 2018 | https://openalex.org/W2795621926 | article | Effect of plant growth regulators on sprouting and rooting of Gymnema sylvestre cuttings | Journal of Pharmacognosy and Phytochemis
+- new | 2017 | 10.18782/2320-7051.5620 | article | Evaluation of Genetic Diversity Studies in Gymnema sylvestre Assessed through RAPD Markers | International Journal of Pure & Applied 
+- new | 2016 | 10.4103/2045-080x.183027 | article | Safety and efficacy of herbal tea for patients with diabetes mellitus | Archives of Pharmacy Practice
+- new | 2016 | 10.21474/ijar01/440 | article | ANTIOXIDATIVE EFFECT OF PUNICA GRANATUM (POMEGRANATE) ON BIOCHEMICAL PARAMETERS IN PATIENTS WITH DIABETES MELLITUS (TYPE 2) AND MYOCARDIAL INFARCTION: A DOUBLE BLIND PLACEBO CONTRO | International Journal of Advanced Resear
+- new | 2015 | https://openalex.org/W3022037014 | article | Rimedi fitoterapici per la sindrome dell’ovaio policistico. Review di clinical trials | CINECA IRIS Institutial research informa
+- new | 2015 | 10.1016/j.hermed.2015.09.005 | article | Clinical evaluation of the anti-sweet effects of Gymnema sylvestre extract developed into a dispersable oral tablet | Journal of Herbal Medicine
+- new | 2015 | 10.1016/j.eujim.2015.01.003 | article | Evaluation of “GSPF kwath”: A Gymnema sylvestre-containing polyherbal formulation for the treatment of human type 2 diabetes mellitus | European Journal of Integrative Medicine
+- new | 2013 | 10.4103/0974-7168.114270 | article | A multi-centric double-blind randomized homoeopathic pathogenetic trial of Gymnema sylvestre | Indian Journal of Research in Homoeopath
+- new | 2013 | 10.1590/s1984-82502013000300003 | article | Best herbs for managing diabetes: a review of clinical studies | Brazilian Journal of Pharmaceutical Scie
+- new | 2013 | 10.2337/diaspect.26.4.259 | article | Dietary Supplements for Diabetes Are Decidedly Popular: Help Your Patients Decide | Diabetes Spectrum
+- new | 2013 | 10.31357/fesympo.v0i0.1733 | conference-paper | Effect of physiological status on rooting of Masbedda (Gymnema sylvestre) cuttings | Proceedings of International Forestry an
+- new | 2013 | https://openalex.org/W2187128912 | article | Comparison of Sweet taste Suppression by Callus with different Leaf Explants of Gymnema sylvestre | 
+- new | 2012 | https://openalex.org/W2498427224 | article | Molecular Characterization Of 17 Accessions Of Gymnema Sylvestre R. Br. Using Rapd Markers | International Journal of Pharma and Bio 
+- new | 2011 | https://openalex.org/W7220310624 | article | Gymnema Sylvestre for Anti-Diabetic Therapy: A Systematic Review of its Efficacy and Mechanisms | The American Journal of Natural Medicine
+- new | 2010 | https://openalex.org/W2223155269 | dissertation | Studies on the impact of nutrition health promotion program in an industrial set up dear study and supplementation of gymnema sylvestre in type 2 diabetic patients | Shodhganga
+- new | 2008 | 10.5649/jjphcs.34.112 | article | Questionnaire Survey on Use of Health Foods among Hospital Outpatients with Diabetes Mellitus (Part 1): Patients' Awareness Regarding Health Foods | Iryo Yakugaku (Japanese Journal of Pharm
+- new | 2006 | https://openalex.org/W409687597 | article | Molecular diversity in chakkarakolli ( Gymnema sylvestre R. Br.) assessed through isozyme and RAPD analysis | Journal of Tropical Agriculture
+- new | 2004 | 10.1590/s1516-89132004000400007 | article | Absence of antidiabetic and hypolipidemic effect of Gymnema sylvestre in non-diabetic and alloxan-diabetic rats | Brazilian Archives of Biology and Techno

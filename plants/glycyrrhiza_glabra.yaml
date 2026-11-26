@@ -197,9 +197,12 @@ indications:
   - REF-0012
   - REF-0089
 - condition: infection
-  note: Traditional antiviral use, and pharmacopoeias list it for tuberculosis (WHO monograph)
+  note: Adding licorice to standard antibiotic treatment raised Helicobacter pylori eradication (83% vs
+    63%) in a randomized trial; traditional antiviral use, and pharmacopoeias list it for tuberculosis
+    (WHO monograph)
   reference_ids:
   - REF-4305
+  - REF-5385
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0012
@@ -239,14 +242,22 @@ indications:
   status: verified
 - condition: oral-health
   note: Topical licorice (paste, patch or mouthwash) helped recurrent mouth ulcers heal in clinical trials
-    (systematic review)
+    (systematic review), and a licorice gargle relieved mouth-ulcer pain more than placebo within a day
+    in a randomized double-blind trial
   reference_ids:
   - REF-3571
+  - REF-5383
   status: verified
 - condition: wounds
   note: A licorice root extract sped healing of second-degree burns in a randomized trial
   reference_ids:
   - REF-3574
+  status: verified
+- condition: depression
+  note: Glycyrrhizic acid, licorice's signature compound, added to SSRI antidepressants relieved depression
+    more than placebo, with higher response and remission rates, in a randomized trial (compound evidence)
+  reference_ids:
+  - REF-5384
   status: verified
 contraindications:
 - note: 'Glycyrrhizin in whole licorice root makes the body retain salt and water and lose potassium (pseudoaldosteronism),
@@ -264,6 +275,9 @@ contraindications:
   - REF-3650
   - REF-0308
   - REF-0012
+  - REF-5386
+  - REF-5387
+  - REF-5388
   status: verified
 - note: 'Duke (2002) rates licorice as ++ and documents extensive activities. Glycyrrhizin (the key compound)
     has anti-inflammatory, antiulcer, antiviral, and adrenal-stimulant properties. Duke highlights an
@@ -397,7 +411,23 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (history paper) dropped from it.
   | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): generic WHO vol. 1 citation
   REF-0308 replaced by a new Radix Glycyrrhizae entry REF-4305 on arthritis, bronchitis, infection and
-  inflammation; the infection and inflammation notes no longer claim lab results they never cited.'
+  inflammation; the infection and inflammation notes no longer claim lab results they never cited.
+  | 2026-11-26: symptom-source audit research-deepening batch 15 - Searched PubMed (Glycyrrhiza
+  glabra / licorice / liquorice tiab; glycyrrhizin, glycyrrhizic and glycyrrhetinic acid ti: 470
+  HT, 98 SR, 1,720 SAFE hits; SR/MA, safety and gap conditions read in depth), Europe PMC,
+  ClinicalTrials.gov and OpenAlex. Added: 2022 placebo RCT of licorice gargle for mouth-ulcer pain
+  to oral-health; NEW depression pair (glycyrrhizic acid + SSRI vs placebo RCT 2020, compound
+  evidence); 2016 H. pylori add-on RCT to infection; to the glycyrrhizin warning, the 2018
+  metabolic MA (diastolic BP +1.7 mmHg) and the Finnish maternal-licorice cohorts (2009, 2017:
+  high glycyrrhizin intake in pregnancy linked to lower IQ, poorer memory, more ADHD problems and
+  earlier puberty in the children). Not added: caries SRs (Streptococcus mutans counts, a
+  surrogate), periodontitis gels vs tetracycline, dysmenorrhoea vs ibuprofen, licorice vs
+  oestrogen vaginal cream (active comparators), weight (2018 MA -0.4 kg; conflicts with the BP
+  warning, inv. 12d) and the 2017 obesity RCT (no difference), atopic dermatitis (2017 SR:
+  insufficient evidence; dipotassium glycyrrhizinate emollient and compound glycyrrhizin
+  products), hot flushes (2016 SR lists licorice generically), PCOS and vaginal atrophy (no vocab
+  condition), DGL peptic-ulcer trials of the 1970s, glycyrrhizin injections, compound
+  glycyrrhizin, Kampo and Chinese formulas.'
 constituents:
 - name: Triterpenoid saponins (glycyrrhizin/glycyrrhizic acid)
   compounds:

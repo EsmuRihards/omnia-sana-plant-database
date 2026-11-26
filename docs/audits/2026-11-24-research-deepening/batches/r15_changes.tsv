@@ -1,0 +1,17 @@
+plant	condition	ref	op
+ginkgo_biloba	pms	REF-5374	newpair
+ginkgo_biloba	low-libido	REF-5375,REF-5376	newpair
+ginkgo_biloba	low-libido	REF-5377	nulladd
+ginkgo_biloba	low-libido	REF-5378	nulladd
+ginkgo_biloba	blood-sugar	REF-5379,REF-5380	newpair
+ginkgo_biloba	cardiovascular-support	REF-5382	add
+ginkgo_biloba	cardiovascular-support	-	note
+glycyrrhiza_glabra	oral-health	REF-5383	add
+glycyrrhiza_glabra	oral-health	-	note
+glycyrrhiza_glabra	depression	REF-5384	newpair
+glycyrrhiza_glabra	infection	REF-5385	add
+glycyrrhiza_glabra	infection	-	note
+ginkgo_biloba	cinew	Bleeding: a 2011 meta-analysis of placeb	REF-5381
+glycyrrhiza_glabra	ciadd	Glycyrrhizin in whole licorice root	REF-5386,REF-5387,REF-5388
+gymnema_sylvestre	ciadd	Gymnema lowers blood sugar and can add	REF-5390
+gymnema_sylvestre	cinew	Liver: a patient taking gymnema for type	REF-5389

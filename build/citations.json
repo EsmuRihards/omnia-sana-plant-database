@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 4148,
+ "count": 4165,
  "citations": [
   {
    "ref_id": "REF-5100",
@@ -1665,6 +1665,38 @@
    "conditions": [
     "Cardiovascular / heart health",
     "High blood pressure"
+   ]
+  },
+  {
+   "ref_id": "REF-5382",
+   "key": "ohe2026ginkgoclaudication",
+   "type": "article",
+   "title": "Ginkgo biloba Extract for Intermittent Claudication in Patients with Peripheral Arterial Disease: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+   "authors": "Ohe, H., Hwang, J., Kim, S.R., Kim, S. and Park, S.C.",
+   "journal": "Journal of Clinical Medicine",
+   "year": "2026",
+   "doi": "10.3390/jcm15218606",
+   "url": "",
+   "link": "https://doi.org/10.3390/jcm15218606",
+   "link_type": "doi",
+   "citation": "Ohe, H., Hwang, J., Kim, S.R., Kim, S. and Park, S.C (2026) 'Ginkgo biloba Extract for Intermittent Claudication in Patients with Peripheral Arterial Disease: A Systematic Review and Meta-Analysis of Randomized Controlled Trials', Journal of Clinical Medicine, 15(21). doi:10.3390/jcm15218606",
+   "abstract": "Background/Objectives: Intermittent claudication (IC) secondary to peripheral artery disease (PAD) causes exertional leg pain and discomfort, which limits functional walking capacity. The clinical efficacy of Ginkgo biloba extract (GBE) as a therapeutic agent for IC is debatable. This systematic review and meta-analysis evaluated the efficacy and safety of GBE compared with a placebo in patients with IC due to PAD. Methods: Databases including PubMed, Embase, the Cochrane Library, and CINAHL were searched until 24 April 2026. Eligible studies included randomized, double-blind, controlled trials (RCTs) comparing placebo. Primary outcome was absolute claudication distance (ACD) at the end of the study. Secondary outcomes were initial claudication distance (ICD), ankle-brachial index (ABI), ankle pressure, and adverse events. Walking outcomes across various treadmill protocols were standardized to estimate caloric expenditure (kcal). A random-effects model was used to pool the effect estimates across trials. Risk of bias was assessed using the Cochrane risk-of-bias tool (RoB 2). Results: A total of 14 RCTs comprising 893 participants represent the total number randomized were included. GBE was associated with a statistically significant but modest improvement in ACD compared with placebo (mean difference [MD], 3.50 kcal; 95% CI, 0.02 to 6.98; p = 0.049). This benefit was significant in trials with a 24-week duration (MD, 4.67 kcal; 95% CI, 2.26 to 7.08; p < 0.001) but not in 12-16 weeks trials (MD, 1.35 kcal; 95% CI, -2.39 to 5.09; p = 0.48). No significant changes were observed for ICD or resting ABI/ankle pressure. GBE was well tolerated, with an overall adverse event incidence comparable to placebo. Conclusions: In patients with IC due to PAD, GBE therapy improves absolute walking performance, with a significant effect observed in trials evaluating 24 weeks of treatment. Given its favorable safety and tolerability profile, GBE can represent a clinically relevant and well-tolerated therapeutic option to support functional walking capacity, particularly for patients unable to tolerate or use conventional pharmacological agents.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Ginkgo biloba Extract for Intermittent Claudication in Patients with Peripheral Arterial Disease: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+   "plants": [
+    "Ginkgo",
+    "ginkgo biloba",
+    "maidenhair tree"
+   ],
+   "scientific": [
+    "Ginkgo biloba"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cardiovascular / heart health"
    ]
   },
   {
@@ -29153,6 +29185,38 @@
    ]
   },
   {
+   "ref_id": "REF-5383",
+   "key": "liu2022licoricegargleaphthous",
+   "type": "article",
+   "title": "Effective licorice gargle juice for aphthous ulcer pain relief: A randomized double-blind placebo-controlled trial",
+   "authors": "Liu, H.L., Hsu, P.Y., Chung, Y.C., Lin, C.H. and Lin, K.Y.",
+   "journal": "Pakistan Journal of Pharmaceutical Sciences",
+   "year": "2022",
+   "doi": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36451559/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/36451559/",
+   "link_type": "url",
+   "citation": "Liu, H.L., Hsu, P.Y., Chung, Y.C., Lin, C.H. and Lin, K.Y (2022) 'Effective licorice gargle juice for aphthous ulcer pain relief: A randomized double-blind placebo-controlled trial', Pakistan Journal of Pharmaceutical Sciences, 35(5), pp. 1321--1326. Available at: https://pubmed.ncbi.nlm.nih.gov/36451559/",
+   "abstract": "The aim of this study was to determine the effects of licorice gargle juice on aphthous ulcers, which is a common and painful disease that causes loss of normal mucous tissues and results in inflammatory ulcers in the oral mucosa. A randomized double-blind placebo-controlled trial involving primary care patients suffering from aphthous ulcer was performed. The intervention group received licorice gargle juice for 1 and 2 days. Of the 54 patients that participated in the study, 30 were included in the intervention group and 24 in the placebo group. A 10-point visual analog scale (VAS) was used to assess the patients' self-assessed pain levels before and after treatment. Statistical analyses were performed by using the nonparametric Mann-Whitney test. The licorice gargle juice group had a significantly reduced pain level rate compared with the placebo group at day 1 (mean VAS, 2.47 [95% CI, 1.95-2.98] vs. 4.75 [3.96-5.54]; P<0.001) and day 2 (mean VAS, 1.07 [95% CI, 0.81-1.32] vs. 4.08 [3.23-4.94]; P<0.001).The current study indicates that licorice gargle juice rapidly reduce pain and healing time and thus can improve the quality of life of a patient with aphthous ulcer.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effective licorice gargle juice for aphthous ulcer pain relief: A randomized double-blind placebo-controlled trial",
+   "plants": [
+    "Licorice root",
+    "liquorice",
+    "sweet root"
+   ],
+   "scientific": [
+    "Glycyrrhiza glabra"
+   ],
+   "actions": [],
+   "conditions": [
+    "Oral & throat health"
+   ]
+  },
+  {
    "ref_id": "REF-1510",
    "key": "cambronero2022pygeum",
    "type": "article",
@@ -35951,6 +36015,38 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-5376",
+   "key": "niazimashhadi2021ginkgosexualfunctionsr",
+   "type": "article",
+   "title": "A systematic review of clinical trials on Ginkgo (Ginkgo biloba) effectiveness on sexual function and its safety",
+   "authors": "Niazi Mashhadi, Z., Irani, M., Kiyani Mask, M. and Methie, C.",
+   "journal": "Avicenna Journal of Phytomedicine",
+   "year": "2021",
+   "doi": "10.22038/AJP.2021.17813",
+   "url": "",
+   "link": "https://doi.org/10.22038/AJP.2021.17813",
+   "link_type": "doi",
+   "citation": "Niazi Mashhadi, Z., Irani, M., Kiyani Mask, M. and Methie, C (2021) 'A systematic review of clinical trials on Ginkgo (Ginkgo biloba) effectiveness on sexual function and its safety', Avicenna Journal of Phytomedicine, 11(4), pp. 324--331. doi:10.22038/AJP.2021.17813",
+   "abstract": "OBJECTIVE: During recent years, evidence-based practice as a way to support higher standards of care was emphasized by health care policymakers. Sexual dysfunction (SD) is a common problem that affects the quality of life in individuals. Today, the use of Ginkgo biloba extract (GBE) for treating SD has been considered, so this study was performed to evaluate the current evidence for the efficacy and safety of ginkgo in treating SD. MATERIALS AND METHODS: In this review study, electronic databases of PubMed, Scopus, Cochrane, Google Scholar, Web of science and Persian databases such as SID and Magiran were searched up to March 2020, to identify all the studies reporting the effect of GBE for effectiveness on sexual function and its safety. The search was performed using the keywords of Ginkgo, Ginkgo biloba, Complementary and alternative medicine, women sexual dysfunction, and male sexual dysfunction. The quality of included studies was assessed using the Oxford Center for Evidence Based Medicine checklist. RESULTS: Among 156 articles found in the initial search, 5 randomized controlled trials (475 participants) were selected for this study. After a meticulous review, we found that G. biloba can have positive effects on the sexual function of postmenopausal women, while evidence shows that it has no effect on the sexual function of antidepressants users. Headaches and gastrointestinal disturbance were among the adverse events mentioned in several trials. CONCLUSION: We concluded that G. biloba has limited positive effects on sexual function and more studies are needed to confirm these findings.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "A systematic review of clinical trials on Ginkgo (Ginkgo biloba) effectiveness on sexual function and its safety",
+   "plants": [
+    "Ginkgo",
+    "ginkgo biloba",
+    "maidenhair tree"
+   ],
+   "scientific": [
+    "Ginkgo biloba"
+   ],
+   "actions": [],
+   "conditions": [
+    "Low libido"
+   ]
   },
   {
    "ref_id": "REF-3651",
@@ -48865,6 +48961,38 @@
    ]
   },
   {
+   "ref_id": "REF-5379",
+   "key": "tabrizi2020ginkgot2dmcardiometabolic",
+   "type": "article",
+   "title": "Effects of Ginkgo biloba intake on cardiometabolic parameters in patients with type 2 diabetes mellitus: A systematic review and meta-analysis of clinical trials",
+   "authors": "Tabrizi, R., Nowrouzi-Sohrabi, P., Hessami, K., Rezaei, S., Jalali, M., Savardashtaki, A., Shahabi, S., Kolahi, A.A., Sahebkar, A. and Safiri, S.",
+   "journal": "Phytotherapy Research",
+   "year": "2020",
+   "doi": "10.1002/ptr.6822",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.6822",
+   "link_type": "doi",
+   "citation": "Tabrizi, R., Nowrouzi-Sohrabi, P., Hessami, K., Rezaei, S., Jalali, M., Savardashtaki, A., Shahabi, S., Kolahi, A.A., Sahebkar, A. and Safiri, S (2020) 'Effects of Ginkgo biloba intake on cardiometabolic parameters in patients with type 2 diabetes mellitus: A systematic review and meta-analysis of clinical trials', Phytotherapy Research. doi:10.1002/ptr.6822",
+   "abstract": "Ginkgo biloba (GKB) may have a beneficial effect on cardiometabolic parameters in type 2 diabetes mellitus (T2DM), but the data is inconsistent. Therefore, the current systematic review and meta-analysis of clinical trials was conducted to assess the influence of GKB on cardiometabolic parameters in T2DM. Several online databases such as PubMed, Embase, Scopus, Web of Sciences, Google Scholar and Cochrane Library were systematically searched from inception up to September 2, 2019. Heterogeneity across included studies was assessed using the Cochran's Q statistic and I2 index. To pool weighted mean differences (WMDs) and the corresponding 95% confidence intervals (CIs) as summary effect size, we selected fixed or random-effects model according to the result of heterogeneity. Seven studies comprising 768 subjects were included in the present meta-analysis which resulted in a significant effect of GKB on hemoglobin A1c (HbA1c) (WMD = 0.26, 95% CI = [0.02, 0.50], p = .034) and serum HDL-cholesterol levels (WMD = 1.99, 95% CI = [0.19, 3.79], p = .030) with no significant publication bias. GKB can significantly modulate HbA1c and HDL-cholesterol levels. However, due to uncertainties related to the limited number of studies, it is too early to conclude whether GKB has any potential effects on the cardiometabolic factors in patients with T2DM or not.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effects of Ginkgo biloba intake on cardiometabolic parameters in patients with type 2 diabetes mellitus: A systematic review and meta-analysis of clinical trials",
+   "plants": [
+    "Ginkgo",
+    "ginkgo biloba",
+    "maidenhair tree"
+   ],
+   "scientific": [
+    "Ginkgo biloba"
+   ],
+   "actions": [],
+   "conditions": [
+    "Blood sugar / diabetes support"
+   ]
+  },
+  {
    "ref_id": "REF-5225",
    "key": "xu2020greenteaglycaemic",
    "type": "article",
@@ -49762,6 +49890,38 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-5384",
+   "key": "cao2020glycyrrhizicaciddepression",
+   "type": "article",
+   "title": "Glycyrrhizic acid as an adjunctive treatment for depression through anti-inflammation: A randomized placebo-controlled clinical trial",
+   "authors": "Cao, Z.Y., Liu, Y.Z., Li, J.M., Ruan, Y.M., Yan, W.J., Zhong, S.Y., Zhang, T., Liu, L.L., Wu, R., Wang, B., Wang, W., Bi, X.Y., Wang, Y.X., Su, W.J. and Jiang, C.L.",
+   "journal": "Journal of Affective Disorders",
+   "year": "2020",
+   "doi": "10.1016/j.jad.2020.01.048",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jad.2020.01.048",
+   "link_type": "doi",
+   "citation": "Cao, Z.Y., Liu, Y.Z., Li, J.M., Ruan, Y.M., Yan, W.J., Zhong, S.Y., Zhang, T., Liu, L.L., Wu, R., Wang, B., Wang, W., Bi, X.Y., Wang, Y.X., Su, W.J. and Jiang, C.L (2020) 'Glycyrrhizic acid as an adjunctive treatment for depression through anti-inflammation: A randomized placebo-controlled clinical trial', Journal of Affective Disorders, 265, pp. 247--254. doi:10.1016/j.jad.2020.01.048",
+   "abstract": "BACKGROUND: Recently, abundant evidence indicated proinflammatory cytokines might play a crucial role in pathophysiology and treatment of depression. According to our preclinical research, we propose glycyrrhizic acid (GZA) for an adjunctive treatment owing to its safety, economical and anti-inflammatory profile. METHODS: Eligible participants were recruited and randomly allocated into independent treatment groups of SSRI+GZA (n = 30) and SSRI+PBO (placebo, n = 26). Depressive symptoms and specific serum biomarkers were detected during the 4-week treatment course. Afterward, the relationships between biomarkers and clinical effects were explored. RESULTS: Depressive symptoms relieved more in SSRI+GZA than SSRI+PBO, both at week 2 (P = 0.003) and week 4 (P = 0.016). Meanwhile, at week 4, both response rate (P = 0.035) and remission rate (P = 0.031) acutely became higher in SSRI+GZA compared with SSRI+PBO. Mediation analysis further demonstrated that TNF-α reduction mediated the association between GZA treatment and clinical improvement, the indirect effect lay between 0.124 and 3.514 (95% CI). The exploratory analysis also suggested that the symptomatic improvement existed in patients with high-inflammation (baseline CRP > 3 mg/L) rather than those with low-inflammation (baseline CRP ≤ 3 mg/L). LIMITATIONS: The sample size in this study was not large enough and the follow-up duration was relatively short. CONCLUSIONS: This study offers a novel strategy for the diagnosis, categorization, individualization and prognosis regarding upgrading traditional antidepressant therapy, which is from biomarkers to diagnostic indicator and therapeutic target. Patients are necessary to be classified according to the inflammatory state, those with high levels of baseline inflammation should receive combined treatment with anti-inflammatory agents like GZA.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Glycyrrhizic acid as an adjunctive treatment for depression through anti-inflammation: A randomized placebo-controlled clinical trial",
+   "plants": [
+    "Licorice root",
+    "liquorice",
+    "sweet root"
+   ],
+   "scientific": [
+    "Glycyrrhiza glabra"
+   ],
+   "actions": [],
+   "conditions": [
+    "Low mood / depression"
+   ]
   },
   {
    "ref_id": "REF-0455",
@@ -64301,6 +64461,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5386",
+   "key": "luis2018licoricemetabolicchanges",
+   "type": "article",
+   "title": "Metabolic changes after licorice consumption: A systematic review with meta-analysis and trial sequential analysis of clinical trials",
+   "authors": "Luís, Â., Domingues, F. and Pereira, L.",
+   "journal": "Phytomedicine",
+   "year": "2018",
+   "doi": "10.1016/j.phymed.2017.12.010",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phymed.2017.12.010",
+   "link_type": "doi",
+   "citation": "Luís, Â., Domingues, F. and Pereira, L (2018) 'Metabolic changes after licorice consumption: A systematic review with meta-analysis and trial sequential analysis of clinical trials', Phytomedicine, 39, pp. 17--24. doi:10.1016/j.phymed.2017.12.010",
+   "abstract": "BACKGROUND: Licorice, also known as liquorice, refers to the root of Glycyrrhiza glabra L., a product widely available in the market in the form of licorice flavonoid oil (LFO), which is a concentrate of licorice flavonoids, being a dietary ingredient for functional foods with potential benefits for overweight subjects. PURPOSE: To summarize the results of the numerous clinical trials, and to clarify the metabolic changes after licorice consumption, through a systematic review with meta-analysis and Trial Sequential Analysis (TSA) of clinical trials. METHODS: This review was designed according to the PRISMA (Preferred Reported Items for Systematic Reviews and Meta-Analysis) recommendations. Several electronic databases were searched to identify the clinical trials. A meta-analysis approach was then developed to statistically analyze the results, followed by TSA and meta-regression analyses. RESULTS: A total 26 clinical trials were considered for the quantitative synthesis of the data, totalizing 985 patients enrolled. Overall, it was possible to verify that the licorice consumption significantly reduces the body weight (WMD: -0.433 kg; 95% CI: -0.683 to -0.183; p-value = 0.001) and consequently the body mass index (BMI) of patients (WMD: -0.150 kg/m2; 95% CI: -0.241 to -0.058; p-value = 0.001). Another result with statistical significance was the increase in the diastolic blood pressure (DBP) (1.737 mmHg; 95% CI: 0.835 to 2.621; p-value < 0.0001) observed for the group subjected to licorice consumption, which is related to the hypernatremia also caused by licorice. CONCLUSION: The present meta-analysis demonstrated the positive effects of licorice consumption on the reduction of body weight and BMI of patients. However, the results also show the increase in blood pressure of patients associated with the hypernatremia caused by licorice. Consequently, licorice consumption should be avoided by hypertensive patients.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Metabolic changes after licorice consumption: A systematic review with meta-analysis and trial sequential analysis of clinical trials",
+   "plants": [
+    "Licorice root",
+    "liquorice",
+    "sweet root"
+   ],
+   "scientific": [
+    "Glycyrrhiza glabra"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1896",
    "key": "abenavoli2018silybum",
    "type": "article",
@@ -65047,6 +65237,38 @@
    ]
   },
   {
+   "ref_id": "REF-5390",
+   "key": "germanfederalinstituteforriskassessmentbfr2018gymnemariskassessment",
+   "type": "article",
+   "title": "Risk assessment of substances used in food supplements: the example of the botanical Gymnema sylvestre",
+   "authors": "German Federal Institute for Risk Assessment (BfR), Germany, Marakis, G., Ziegenhagen, R., Lampen, A. and Hirsch-Ernst, K.I.",
+   "journal": "EFSA Journal. European Food Safety Authority",
+   "year": "2018",
+   "doi": "10.2903/j.efsa.2018.e16083",
+   "url": "",
+   "link": "https://doi.org/10.2903/j.efsa.2018.e16083",
+   "link_type": "doi",
+   "citation": "German Federal Institute for Risk Assessment (BfR), Germany, Marakis, G., Ziegenhagen, R., Lampen, A. and Hirsch-Ernst, K.I (2018) 'Risk assessment of substances used in food supplements: the example of the botanical Gymnema sylvestre', EFSA Journal. European Food Safety Authority, 16(Suppl 1), pp. e16083. doi:10.2903/j.efsa.2018.e16083",
+   "abstract": "Botanicals and preparations derived from these are among the substances frequently added to foods and food supplements, yet the safety of many botanicals has not been systematically assessed. In the context of the EU-FORA fellowship programme, the fellow performed an assessment on the safety of the botanical Gymnema sylvestre, in accordance with EFSA's guidance on the assessment of safety of botanicals. Although preparations of G. sylvestre are marketed as food supplements, they may appeal to people who are suffering from metabolic syndrome and/or diabetes mellitus. A scientific literature search was carried out using PubMed/MEDLINE and EMBASE electronic databases. Experience was gained by the fellow in systematic data extraction from scientific publications, structuring of the data and evaluating toxicological key parameters, outcomes of clinical significance, pharmacokinetic and pharmacodynamic interactions, uncertainties and methodological shortcomings of studies. Limited evidence from toxicological in vivo studies and human clinical studies suggested lack of relevant adverse effects of this botanical. However, human studies provided some indications that certain Gymnema extracts may enhance the glucose-lowering effects of certain antidiabetic drugs. Considering the uncertainties for the composition of different Gymnema preparations, potential herb-drug interactions and the indications of glucose lowering or hypoglycaemic effects, the use of Gymnema-based food supplements in combination with authorised antidiabetic drugs may be associated with risks. The procedures learned for the safety evaluation of Gymnema may be similarly applied by the fellow for the risk assessment of other substances with nutritional or physiological effect added to foods and food supplements. Furthermore, apart from learning by conducting exercises in risk assessment, the fellow was able to develop other skills (e.g. communication skills), diversify his competencies and expand his network of scientific connections for future collaborations in the field of nutritional risk assessment.",
+   "tier": "narrative",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Risk assessment of substances used in food supplements: the example of the botanical Gymnema sylvestre",
+   "plants": [
+    "Australian Cowplant",
+    "Gurmar",
+    "Gymnema",
+    "Meshasringi",
+    "Periploca of the Woods"
+   ],
+   "scientific": [
+    "Gymnema sylvestre"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1255",
    "key": "efsa2018salix",
    "type": "article",
@@ -65732,6 +65954,38 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-5380",
+   "key": "aziz2018ginkgometformint2dm",
+   "type": "article",
+   "title": "The efficacy and safety of Ginkgo biloba extract as an adjuvant in type 2 diabetes mellitus patients ineffectively managed with metformin: a double-blind, randomized, placebo-controlled trial",
+   "authors": "Aziz, T.A., Hussain, S.A., Mahwi, T.O., Ahmed, Z.A., Rahman, H.S. and Rasedee, A.",
+   "journal": "Drug Design, Development and Therapy",
+   "year": "2018",
+   "doi": "10.2147/DDDT.S157113",
+   "url": "",
+   "link": "https://doi.org/10.2147/DDDT.S157113",
+   "link_type": "doi",
+   "citation": "Aziz, T.A., Hussain, S.A., Mahwi, T.O., Ahmed, Z.A., Rahman, H.S. and Rasedee, A (2018) 'The efficacy and safety of Ginkgo biloba extract as an adjuvant in type 2 diabetes mellitus patients ineffectively managed with metformin: a double-blind, randomized, placebo-controlled trial', Drug Design, Development and Therapy, 12, pp. 735--742. doi:10.2147/DDDT.S157113",
+   "abstract": "BACKGROUND AND AIM: Type 2 diabetes mellitus (T2DM) is one of the major diseases confronting the health care systems. In diabetes mellitus (DM), combined use of oral hypoglycemic medications has been shown to be more effective than metformin (Met) alone in glycemic control. This study determined the effects of Ginkgo biloba (GKB) extract as an adjuvant to Met in patients with uncontrolled T2DM. SUBJECTS AND METHODS: Sixty T2DM patients were recruited in a randomized, placebo-controlled, double-blinded, and multicenter trial. The patients, currently using Met, were randomly grouped into those treated with either GKB extract (120 mg/day) or placebo (starch, 120 mg/day) for 90 days. Blood glycated hemoglobin (HbA1c), fasting serum glucose, serum insulin, body mass index (BMI), waist circumference (WC), insulin resistance, and visceral adiposity index (VAI) were determined before (baseline) and after 90 days of GKB extract treatment. RESULTS: GKB extract significantly decreased blood HbA1c (7.7%±1.2% vs baseline 8.6%±1.6%, P<0.001), fasting serum glucose (154.7±36.1 mg/dL vs baseline 194.4±66.1 mg/dL, P<0.001) and insulin (13.4±7.8 μU/mL vs baseline 18.5±8.9 μU/mL, P=0.006) levels, BMI (31.6±5.1 kg/m2 vs baseline 34.0±6.0 kg/m2, P<0.001), waist WC (102.6±10.5 cm vs baseline 106.0±10.9 cm, P<0.001), and VAI (158.9±67.2 vs baseline 192.0±86.2, P=0.007). GKB extract did not negatively impact the liver, kidney, or hematopoietic functions. CONCLUSION: GKB extract as an adjuvant was effective in improving Met treatment outcomes in T2DM patients. Thus, it is suggested that GKB extract is an effective dietary supplement for the control of DM in humans.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The efficacy and safety of Ginkgo biloba extract as an adjuvant in type 2 diabetes mellitus patients ineffectively managed with metformin: a double-blind, randomized, placebo-controlled trial",
+   "plants": [
+    "Ginkgo",
+    "ginkgo biloba",
+    "maidenhair tree"
+   ],
+   "scientific": [
+    "Ginkgo biloba"
+   ],
+   "actions": [],
+   "conditions": [
+    "Blood sugar / diabetes support"
+   ]
   },
   {
    "ref_id": "REF-5218",
@@ -69439,6 +69693,36 @@
    ],
    "scientific": [
     "Marrubium vulgare"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5388",
+   "key": "raikkonen2017maternallicoricepuberty",
+   "type": "article",
+   "title": "Maternal Licorice Consumption During Pregnancy and Pubertal, Cognitive, and Psychiatric Outcomes in Children",
+   "authors": "Räikkönen, K., Martikainen, S., Pesonen, A.K., Lahti, J., Heinonen, K., Pyhälä, R., Lahti, M., Tuovinen, S., Wehkalampi, K., Sammallahti, S., Kuula, L., Andersson, S., Eriksson, J.G., Ortega-Alonso, A., Reynolds, R.M., Strandberg, T.E., Seckl, J.R. and Kajantie, E.",
+   "journal": "American Journal of Epidemiology",
+   "year": "2017",
+   "doi": "10.1093/aje/kww172",
+   "url": "",
+   "link": "https://doi.org/10.1093/aje/kww172",
+   "link_type": "doi",
+   "citation": "Räikkönen, K., Martikainen, S., Pesonen, A.K., Lahti, J., Heinonen, K., Pyhälä, R., Lahti, M., Tuovinen, S., Wehkalampi, K., Sammallahti, S., Kuula, L., Andersson, S., Eriksson, J.G., Ortega-Alonso, A., Reynolds, R.M., Strandberg, T.E., Seckl, J.R. and Kajantie, E (2017) 'Maternal Licorice Consumption During Pregnancy and Pubertal, Cognitive, and Psychiatric Outcomes in Children', American Journal of Epidemiology, 185(5), pp. 317--328. doi:10.1093/aje/kww172",
+   "abstract": "Earlier puberty, especially in girls, is associated with physical and mental disorders. Prenatal glucocorticoid exposure influences the timing of puberty in animal models, but the human relevance of those findings is unknown. We studied whether voluntary consumption of licorice, which contains glycyrrhizin (a potent inhibitor of placental 11β-hydroxysteroid dehydrogenase type 2, the \"barrier\" to maternal glucocorticoids), by pregnant women was associated with pubertal maturation (height, weight, body mass index for age, difference between current and expected adult height, Tanner staging, score on the Pubertal Development Scale), neuroendocrine function (diurnal salivary cortisol, dexamethasone suppression), cognition (neuropsychological tests), and psychiatric problems (as measured by the Child Behavior Checklist) in their offspring. The children were born in 1998 in Helsinki, Finland, and examined during 2009-2011 (mean age = 12.5 (standard deviation (SD), 0.4) years; n = 378). Girls exposed to high maternal glycyrrhizin consumption (≥500 mg/week) were taller (mean difference (MD) = 0.4 SD, 95% confidence interval (CI): 0.1, 0.8), were heavier (MD = 0.6 SD, 95% CI: 0.2, 1.9), and had higher body mass index for age (MD = 0.6 SD, 95% CI: 0.2, 0.9). They were also 0.5 standard deviations (95% CI: 0.2, 0.8) closer to adult height and reported more advanced pubertal development (P < 0.04). Girls and boys exposed to high maternal glycyrrhizin consumption scored 7 (95% CI: 3.1, 11.2) points lower on tests of intelligence quotient, had poorer memory (P < 0.04), and had 3.3-fold (95% CI: 1.4, 7.7) higher odds of attention deficit/hyperactivity disorder problems compared with children whose mothers consumed little to no glycyrrhizin (≤249 mg/week). No differences in cortisol levels were found. Licorice consumption during pregnancy may be associated with harm for the developing offspring.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Maternal Licorice Consumption During Pregnancy and Pubertal, Cognitive, and Psychiatric Outcomes in Children",
+   "plants": [
+    "Licorice root",
+    "liquorice",
+    "sweet root"
+   ],
+   "scientific": [
+    "Glycyrrhiza glabra"
    ],
    "actions": [],
    "conditions": []
@@ -76434,6 +76718,38 @@
     "Antioxidant"
    ],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-5385",
+   "key": "hajiaghamohammadi2016licoricehpylori",
+   "type": "article",
+   "title": "To evaluate of the effect of adding licorice to the standard treatment regimen of Helicobacter pylori",
+   "authors": "Hajiaghamohammadi, A.A., Zargar, A., Oveisi, S., Samimi, R. and Reisian, S.",
+   "journal": "The Brazilian Journal of Infectious Diseases",
+   "year": "2016",
+   "doi": "10.1016/j.bjid.2016.07.015",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.bjid.2016.07.015",
+   "link_type": "doi",
+   "citation": "Hajiaghamohammadi, A.A., Zargar, A., Oveisi, S., Samimi, R. and Reisian, S (2016) 'To evaluate of the effect of adding licorice to the standard treatment regimen of Helicobacter pylori', The Brazilian Journal of Infectious Diseases, 20(6), pp. 534--538. doi:10.1016/j.bjid.2016.07.015",
+   "abstract": "OBJECTIVE: The aim of this study was to evaluate the effect of licorice in H. pylori eradication in patients suffering from dyspepsia either with peptic ulcer disease (PUD) or non-ulcer dyspepsia (NUD) in comparison to the clarithromycin-based standard triple regimen. METHODS: In this randomized controlled clinical trial, 120 patients who had positive rapid urease test were included and assigned to two treatment groups: control group that received a clarithromycin-based triple regimen, and study group that received licorice in addition to the clarithromycin-based regimen for two weeks. H. pylori eradication was assessed six weeks after therapy. Data was analyzed by chi-square and t-test with SPSS 16 software. RESULTS: Mean ages and SD were 38.8±10.9 and 40.1±10.4 for the study and control groups, respectively, statistically similar. Peptic ulcer was found in 30% of both groups. Response to treatment was 83.3% and 62.5% in the study and control groups, respectively. This difference was statistically significant. CONCLUSION: Addition of licorice to the triple clarithromycin-based regimen increases H. pylori eradication, especially in the presence of peptic ulcer disease.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "To evaluate of the effect of adding licorice to the standard treatment regimen of Helicobacter pylori",
+   "plants": [
+    "Licorice root",
+    "liquorice",
+    "sweet root"
+   ],
+   "scientific": [
+    "Glycyrrhiza glabra"
+   ],
+   "actions": [],
+   "conditions": [
+    "Infection (general)"
+   ]
   },
   {
    "ref_id": "REF-5173",
@@ -85147,6 +85463,38 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-5375",
+   "key": "pebdani2014ginkgosexualdesire",
+   "type": "article",
+   "title": "Triple-blind, placebo-controlled trial of Ginkgo biloba extract on sexual desire in postmenopausal women in Tehran",
+   "authors": "Pebdani, M.A., Taavoni, S., Seyedfatemi, N. and Haghani, H.",
+   "journal": "Iranian Journal of Nursing and Midwifery Research",
+   "year": "2014",
+   "doi": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24949064/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/24949064/",
+   "link_type": "url",
+   "citation": "Pebdani, M.A., Taavoni, S., Seyedfatemi, N. and Haghani, H (2014) 'Triple-blind, placebo-controlled trial of Ginkgo biloba extract on sexual desire in postmenopausal women in Tehran', Iranian Journal of Nursing and Midwifery Research, 19(3), pp. 262--5. Available at: https://pubmed.ncbi.nlm.nih.gov/24949064/",
+   "abstract": "BACKGROUND: During the menopausal period, sexual desire may decrease. Therefore, restoring the sexual desire may help to improve sexual functioning in this group of women. The aim of this study was to examine the effect of Ginkgo biloba extract (GBE) on sexual desire in postmenopausal women. MATERIALS AND METHODS: In this triple-blind, randomized, placebo-controlled trial, 80 healthy female volunteers attending three healthcare centers of Tehran University of Medical Sciences (TUMS) were enrolled. The instrument of this study had two main parts. The first part covered the personal characteristics of the volunteers and the second part used the Sabbatsberg Sexual Rating Scale (SSRS) to subjectively evaluate sexual desire before and after intervention. The participants received GBE at a dose of 120-240 mg (n = 40) or received placebo (n = 40) daily for 30 days. The results were analyzed using Mann-Whitney test. All analyses were performed using SPSS software. RESULTS: The sexual desire was significantly improved in the GBE group compared to the placebo group (P = 0.02). CONCLUSIONS: In this study, we found that GBE had a positive effect on sexual desire of menopausal women; thus, these findings support the positive effect of GBE on the sexual function of menopausal women.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Triple-blind, placebo-controlled trial of Ginkgo biloba extract on sexual desire in postmenopausal women in Tehran",
+   "plants": [
+    "Ginkgo",
+    "ginkgo biloba",
+    "maidenhair tree"
+   ],
+   "scientific": [
+    "Ginkgo biloba"
+   ],
+   "actions": [],
+   "conditions": [
+    "Low libido"
+   ]
   },
   {
    "ref_id": "REF-1429",
@@ -94574,6 +94922,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5381",
+   "key": "kellermann2011ginkgobleedingrisk",
+   "type": "article",
+   "title": "Is there a risk of bleeding associated with standardized Ginkgo biloba extract therapy? A systematic review and meta-analysis",
+   "authors": "Kellermann, A.J. and Kloft, C.",
+   "journal": "Pharmacotherapy",
+   "year": "2011",
+   "doi": "10.1592/phco.31.5.490",
+   "url": "",
+   "link": "https://doi.org/10.1592/phco.31.5.490",
+   "link_type": "doi",
+   "citation": "Kellermann, A.J. and Kloft, C (2011) 'Is there a risk of bleeding associated with standardized Ginkgo biloba extract therapy? A systematic review and meta-analysis', Pharmacotherapy, 31(5), pp. 490--502. doi:10.1592/phco.31.5.490",
+   "abstract": "STUDY OBJECTIVE: To determine the effect of standardized Ginkgo biloba leaf extracts (GBE) on outcome parameters of hemostasis associated with risk of bleeding. DESIGN: Meta-analysis of 18 randomized controlled trials. SUBJECTS: A total of 1985 adults were enrolled to receive either GBE or placebo; 87% were patients with dementia, peripheral artery disease, or diabetes mellitus; 13% were healthy volunteers. MEASUREMENTS AND MAIN RESULTS: The MEDLINE, EMBASE, Cochrane Library, and SciSearch databases were searched from inception through 2009. The following outcome parameters of hemostasis were assessed: blood flow, blood viscosity, adenosine 5'-diphosphate (ADP)-induced platelet aggregation, fibrinogen concentration, activated partial thromboplastin time (aPTT), and prothrombin time (PT). Reference parameter values were taken into account when assessing clinical relevance of statistically significant treatment effects. The quality and risk of bias of each study were evaluated by using the Jadad score and Cochrane Collaboration tool, respectively. According to the continuous data, the following statistical methods were used: weighted mean difference (WMD), standardized mean difference (SMD), and generic inverse variance (GIV), with 95% confidence intervals (CIs). Random-effects models of effects on baseline change or mean difference showed a positive effect of GBE on blood perfusion, as shown by a significant reduction in blood viscosity (WMD -1.03 mPa•sec, 95% CI -1.29 to -0.78 mPa•sec), but no evidence of any significant effect on ADP-induced platelet aggregation (WMD -0.35%, 95% CI -15.16-14.46%), fibrinogen concentration (GIV -2.45 mg/dl, 95% CI -11.59-6.70 mg/dl), aPTT (GIV -0.42 sec, 95% CI -0.97-0.12 sec), and PT (SMD 0.00, 95% CI -0.09-0.09). Subgroup analyses revealed a statistically significant reduction in aPTT for subgroups receiving high-dose GBE of 240 mg/day or more (GIV -0.47 sec, 95% CI -0.88 to -0.05 sec) and for studies including only patients, not healthy volunteers (GIV -0.61 sec, 95% CI -0.95 to -0.27 sec); however, both findings were not clinically relevant. CONCLUSION: Based on meta-analysis of hemostasis outcomes, comparison of mean difference or baseline change between treatment and placebo groups did not indicate a higher bleeding risk associated with standardized GBE. This finding ultimately contributes to an informed evaluation of GBE use, including patient self-medication.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Is there a risk of bleeding associated with standardized Ginkgo biloba extract therapy? A systematic review and meta-analysis",
+   "plants": [
+    "Ginkgo",
+    "ginkgo biloba",
+    "maidenhair tree"
+   ],
+   "scientific": [
+    "Ginkgo biloba"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2464",
    "key": "teschke2011kava",
    "type": "article",
@@ -97731,6 +98109,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5389",
+   "key": "shiyovich2010gymnemahepatitis",
+   "type": "article",
+   "title": "Toxic hepatitis induced by Gymnema sylvestre, a natural remedy for type 2 diabetes mellitus",
+   "authors": "Shiyovich, A., Sztarkier, I. and Nesher, L.",
+   "journal": "The American Journal of the Medical Sciences",
+   "year": "2010",
+   "doi": "10.1097/MAJ.0b013e3181f41168",
+   "url": "",
+   "link": "https://doi.org/10.1097/MAJ.0b013e3181f41168",
+   "link_type": "doi",
+   "citation": "Shiyovich, A., Sztarkier, I. and Nesher, L (2010) 'Toxic hepatitis induced by Gymnema sylvestre, a natural remedy for type 2 diabetes mellitus', The American Journal of the Medical Sciences, 340(6), pp. 514--7. doi:10.1097/MAJ.0b013e3181f41168",
+   "abstract": "Toxic hepatitis or drug-induced liver injury (DILI) encompasses a spectrum of conditions ranging from mild biochemical abnormalities to acute liver failure. Recent studies report that 35% to 48% of patients with diabetes use some form of complementary and alternative medical therapy. Moreover, >800 plants have been traditionally used for the treatment of diabetes. Despite this widespread use, only few were supported by rigorous clinical evidence. Gymnema sylvestre, also known as gurmar (sugar destroyer in Hindi), is a plant considered to be with potent antidiabetic effects and, hence, widely used in folk, ayurvedic and homeopathic systems in medicine. The authors were unable to find previous reports associating G sylvestre to liver injury. Herein, the authors report a case of DILI in a patient who was treated with G sylvestre for diabetes mellitus and review the literature to suggest possible mechanisms that led to this acute condition.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Toxic hepatitis induced by Gymnema sylvestre, a natural remedy for type 2 diabetes mellitus",
+   "plants": [
+    "Australian Cowplant",
+    "Gurmar",
+    "Gymnema",
+    "Meshasringi",
+    "Periploca of the Woods"
+   ],
+   "scientific": [
+    "Gymnema sylvestre"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-4025",
    "key": "abraham2010coumarin",
    "type": "article",
@@ -97987,6 +98397,38 @@
    ],
    "conditions": [
     "Anxiety"
+   ]
+  },
+  {
+   "ref_id": "REF-5374",
+   "key": "ozgoli2009ginkgopms",
+   "type": "article",
+   "title": "A randomized, placebo-controlled trial of Ginkgo biloba L. in treatment of premenstrual syndrome",
+   "authors": "Ozgoli, G., Selselei, E.A., Mojab, F. and Majd, H.A.",
+   "journal": "Journal of Alternative and Complementary Medicine",
+   "year": "2009",
+   "doi": "10.1089/acm.2008.0493",
+   "url": "",
+   "link": "https://doi.org/10.1089/acm.2008.0493",
+   "link_type": "doi",
+   "citation": "Ozgoli, G., Selselei, E.A., Mojab, F. and Majd, H.A (2009) 'A randomized, placebo-controlled trial of Ginkgo biloba L. in treatment of premenstrual syndrome', Journal of Alternative and Complementary Medicine, 15(8), pp. 845--51. doi:10.1089/acm.2008.0493",
+   "abstract": "BACKGROUND AND OBJECTIVES: During the reproductive years, most of menstruating women experience symptoms of premenstrual syndrome (PMS), which is incapacitating in up to 10% of cases. According to complicated etiology, various therapeutic approaches have been proposed. Because PMS is a chronic situation, special attention should be paid to the side-effects of pharmacological interventions. Herbal medicine is a recent favorable therapeutic approach owing to fewer side-effects. We aimed to determine the effect of Ginkgo biloba L. on the symptoms of PMS. METHODS: This was a single-blind, randomized, placebo-controlled trial conducted from November 2007 to April 2008. The students with PMS, living in dormitories of a medical university (Tehran), who met the inclusion criteria entered the study. The students filled out the daily symptom rating forms in two consecutive menstrual cycles. After we verified the PMS diagnosis in 90 students, the participants were randomly assigned to experiment and placebo groups and took G. biloba L. tablets (containing 40 mg leaf extracts) or placebo three times a day from the 16th day of the menstrual cycle to the 5th day of the next cycle. Data were collected using daily symptom rating forms. RESULTS: Eighty-five (85, 94.4%) participants completed the study. The two groups were similar in terms of demographic characteristics and baseline overall severity of symptoms. After the intervention, there was a significant decrease in the overall severity of symptoms and physical and psychologic symptoms in both Ginkgo (23.68%) and placebo (8.74%) groups (p < 0.001). However, the mean decrease in the severity of symptoms was significantly more in the Ginkgo group compared to the placebo group (p < 0.001). CONCLUSIONS: G. biloba L. can reduce the severity of PMS symptoms. Further research on active ingredients and also the efficacy and safety of various doses and treatment durations of Ginkgo are required.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "A randomized, placebo-controlled trial of Ginkgo biloba L. in treatment of premenstrual syndrome",
+   "plants": [
+    "Ginkgo",
+    "ginkgo biloba",
+    "maidenhair tree"
+   ],
+   "scientific": [
+    "Ginkgo biloba"
+   ],
+   "actions": [],
+   "conditions": [
+    "PMS / premenstrual syndrome"
    ]
   },
   {
@@ -99548,6 +99990,36 @@
    "actions": [
     "Anti-inflammatory"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5387",
+   "key": "raikkonen2009maternallicoricechildren",
+   "type": "article",
+   "title": "Maternal licorice consumption and detrimental cognitive and psychiatric outcomes in children",
+   "authors": "Räikkönen, K., Pesonen, A.K., Heinonen, K., Lahti, J., Komsi, N., Eriksson, J.G., Seckl, J.R., Järvenpää, A.L. and Strandberg, T.E.",
+   "journal": "American Journal of Epidemiology",
+   "year": "2009",
+   "doi": "10.1093/aje/kwp272",
+   "url": "",
+   "link": "https://doi.org/10.1093/aje/kwp272",
+   "link_type": "doi",
+   "citation": "Räikkönen, K., Pesonen, A.K., Heinonen, K., Lahti, J., Komsi, N., Eriksson, J.G., Seckl, J.R., Järvenpää, A.L. and Strandberg, T.E (2009) 'Maternal licorice consumption and detrimental cognitive and psychiatric outcomes in children', American Journal of Epidemiology, 170(9), pp. 1137--46. doi:10.1093/aje/kwp272",
+   "abstract": "Overexposure to glucocorticoids may link prenatal adversity with detrimental outcomes in later life. Glycyrrhiza, a natural constituent of licorice, inhibits placental 11-beta-hydroxysteroid dehydrogenase type 2, the feto-placental \"barrier\" to higher maternal levels of cortisol. The authors studied whether prenatal exposure to glycyrrhiza in licorice exerts detrimental effects on cognitive performance (subtests of the Wechsler Intelligence Scale for Children III as well as the Children's Developmental Neuropsychological Assessment and the Beery Developmental Test of Visual-Motor Integration) and psychiatric symptoms (Child Behavior Checklist) in 321 Finnish children 8.1 years of age born in 1998 as healthy singletons at 35-42 weeks of gestation. In comparison to the group with zero-low glycyrrhiza exposure (0-249 mg/week), those with high exposure (>or=500 mg/week) had significant decrements in verbal and visuospatial abilities and in narrative memory (range of mean differences in standard deviation units, -0.31 to -0.41; P < 0.05) and significant increases in externalizing symptoms and in attention, rule-breaking, and aggression problems (range of odds ratios, 2.15 to 3.43; P < 0.05). The effects on cognitive performance appeared dose related. Data are compatible with adverse fetal \"programming\" by overexposure to glucocorticoids and caution against excessive intake of licorice-containing foodstuffs during pregnancy.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Maternal licorice consumption and detrimental cognitive and psychiatric outcomes in children",
+   "plants": [
+    "Licorice root",
+    "liquorice",
+    "sweet root"
+   ],
+   "scientific": [
+    "Glycyrrhiza glabra"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -110472,6 +110944,36 @@
    ]
   },
   {
+   "ref_id": "REF-5378",
+   "key": "wheatley2004ginkgoantidepressantsexual2004",
+   "type": "article",
+   "title": "Triple-blind, placebo-controlled trial of Ginkgo biloba in sexual dysfunction due to antidepressant drugs",
+   "authors": "Wheatley, D.",
+   "journal": "Human Psychopharmacology",
+   "year": "2004",
+   "doi": "10.1002/hup.627",
+   "url": "",
+   "link": "https://doi.org/10.1002/hup.627",
+   "link_type": "doi",
+   "citation": "Wheatley, D (2004) 'Triple-blind, placebo-controlled trial of Ginkgo biloba in sexual dysfunction due to antidepressant drugs', Human Psychopharmacology, 19(8), pp. 545--8. doi:10.1002/hup.627",
+   "abstract": "A triple-blind (investigator, patient, statistician), randomized, placebo-controlled, trial of Ginkgo biloba 240 mg daily was carried out. Following a 1-week control, it was given to 24 patients with sexual impairment due to antidepressant drugs. Efficacy analysis was carried out on eight males and five females on placebo and six males and five females on Ginkgo, completing the full 12 weeks of treatment. Not included were three subjects who dropped out after 6 weeks. A validated, sex (gender)-orientated questionnaire was recorded at - 1, 0, 1, 3, 6, 9 and 12 weeks, and a non-blind follow-up for a further 6-weeks on Ginkgo. Hamilton anxiety and depression ratings were made at 0, 6 and 12 weeks and simple global assessments of alertness and memory. There were some spectacular individual responses in both groups, but no statistically significant differences, and no differences in side-effects.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Triple-blind, placebo-controlled trial of Ginkgo biloba in sexual dysfunction due to antidepressant drugs",
+   "plants": [
+    "Ginkgo",
+    "ginkgo biloba",
+    "maidenhair tree"
+   ],
+   "scientific": [
+    "Ginkgo biloba"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1894",
    "key": "boyle2004serenoa",
    "type": "article",
@@ -112585,6 +113087,36 @@
    ],
    "scientific": [
     "Geum rivale"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5377",
+   "key": "kang2002ginkgoantidepressantsexual",
+   "type": "article",
+   "title": "A placebo-controlled, double-blind trial of Ginkgo biloba for antidepressant-induced sexual dysfunction",
+   "authors": "Kang, B.J., Lee, S.J., Kim, M.D. and Cho, M.J.",
+   "journal": "Human Psychopharmacology",
+   "year": "2002",
+   "doi": "10.1002/hup.409",
+   "url": "",
+   "link": "https://doi.org/10.1002/hup.409",
+   "link_type": "doi",
+   "citation": "Kang, B.J., Lee, S.J., Kim, M.D. and Cho, M.J (2002) 'A placebo-controlled, double-blind trial of Ginkgo biloba for antidepressant-induced sexual dysfunction', Human Psychopharmacology, 17(6), pp. 279--84. doi:10.1002/hup.409",
+   "abstract": "The aim of this study was to examine the effect of Ginkgo biloba on antidepressant-induced sexual dysfunction. The Ginkgo biloba (n=19) and the placebo groups (n=18) were divided; each to be administered with Ginkgo biloba and placebo respectively for 2 months by means of a randomized placebo-controlled, double-blind study. The results of this 2 month trial were: (1) there was no statistical significant difference from the placebo at weeks 2, 4 and 8 after medication; (2) in comparison with baseline, both the Ginkgo biloba group and the placebo group showed improvement in some part of the sexual function, which is suggestive of the importance of the placebo effect in assessing sexual function. This study did not replicate a prior positive finding supporting the use of Ginkgo biloba for antidepressant, especially SSRI, induced sexual dysfunction.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "A placebo-controlled, double-blind trial of Ginkgo biloba for antidepressant-induced sexual dysfunction",
+   "plants": [
+    "Ginkgo",
+    "ginkgo biloba",
+    "maidenhair tree"
+   ],
+   "scientific": [
+    "Ginkgo biloba"
    ],
    "actions": [],
    "conditions": []

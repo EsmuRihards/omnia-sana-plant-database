@@ -148,11 +148,13 @@ indications:
 - condition: cardiovascular-support
   reference_ids:
   - REF-3989
+  - REF-5382
   status: verified
   null_result_ids:
   - REF-3564
-  note: Used for peripheral arterial disease (intermittent claudication) (WHO monograph); a Cochrane review
-    found no clinically significant benefit
+  note: A 2026 meta-analysis of 14 placebo-controlled trials found a modest improvement in walking distance
+    in peripheral arterial disease (intermittent claudication), clearer after 24 weeks, though an earlier
+    Cochrane review found no clinically significant benefit; used for intermittent claudication (WHO monograph)
 - condition: cognitive-function
   note: Ginkgo extract EGb 761 improved cognition in people with dementia in trials and meta-analyses;
     a 2026 Cochrane review found small to moderate benefits in dementia but probably little or no effect
@@ -201,6 +203,31 @@ indications:
   reference_ids:
   - REF-3567
   status: verified
+- condition: pms
+  note: Ginkgo extract reduced the overall severity of premenstrual syndrome symptoms more than placebo
+    in a randomized trial
+  reference_ids:
+  - REF-5374
+  status: verified
+- condition: low-libido
+  note: Ginkgo extract improved sexual desire more than placebo in postmenopausal women in a triple-blind
+    randomized trial, and a 2021 systematic review found benefit in postmenopausal women but not for sexual
+    problems caused by antidepressants, where placebo-controlled trials found no difference
+  reference_ids:
+  - REF-5375
+  - REF-5376
+  status: verified
+  null_result_ids:
+  - REF-5377
+  - REF-5378
+- condition: blood-sugar
+  note: Ginkgo extract lowered HbA1c in a 2020 meta-analysis of trials in type 2 diabetes, though the
+    authors judged the evidence too limited to be sure, and added to metformin it lowered HbA1c and fasting
+    glucose in a placebo-controlled randomized trial
+  reference_ids:
+  - REF-5379
+  - REF-5380
+  status: verified
 contraindications:
 - note: Generally well tolerated at standard doses but notable interactions exist. Ginkgo has antiplatelet
     and anticoagulant effects and should not be combined with warfarin, aspirin, or other blood-thinning
@@ -226,6 +253,13 @@ contraindications:
   - REF-0128
   - REF-0308
   - REF-0063
+  status: verified
+- note: 'Bleeding: a 2011 meta-analysis of placebo-controlled trials found that standardized ginkgo extract
+    did not change blood-clotting measures in a way that would raise bleeding risk, although case reports
+    link ginkgo to bleeding, so the blood-thinner interaction still applies.'
+  severity: info
+  reference_ids:
+  - REF-5381
   status: verified
 references:
 - REF-0829
@@ -378,4 +412,17 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-19 (monograph-source audit): dosage[0] cited only REF-0056 (GEM dementia-prevention RCT, a NULL result at 120 mg twice daily) for ''trials for cognitive and circulatory support commonly use 120-240 mg''. RE-SOURCED: WHO Folium Ginkgo vol. 1 (REF-3989, new; 120-240 mg/day of the standardised extract); REF-0056 kept for its null finding.
   | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): generic WHO vol. 1 citation
   REF-0308 replaced by the Folium Ginkgo entry REF-3989 (pain-free walking distance in peripheral
-  arterial occlusive disease such as intermittent claudication).'
+  arterial occlusive disease such as intermittent claudication).
+  | 2026-11-26: symptom-source audit research-deepening batch 15 - Searched PubMed (Ginkgo biloba
+  tiab; ginkgo, EGb 761 ti: 872 HT, 284 SR, 1,094 SAFE hits; SR/MA and gap conditions read in
+  depth, cognition not padded at 10), Europe PMC, ClinicalTrials.gov and OpenAlex. Added: NEW pms
+  pair (2009 placebo RCT, Ozgoli); NEW low-libido pair (2014 triple-blind RCT in postmenopausal
+  women; 2021 sexual-function SR) with two antidepressant-induced sexual dysfunction placebo
+  trials (2002, 2004) as no-effect; NEW blood-sugar pair (2020 cardiometabolic MA in T2DM, HbA1c;
+  2018 metformin add-on placebo RCT); 2026 claudication MA (14 RCTs, modest benefit) to
+  cardiovascular-support beside the null Cochrane review; 2011 bleeding-risk MA as an info note.
+  Not added: 2014 essential-hypertension SR (no confirmative conclusion; trials vs
+  antihypertensives), Pittler 2000 claudication MA (superseded), dizziness, tinnitus, sudden
+  hearing loss, mountain sickness, ADHD, schizophrenia, tardive dyskinesia, glaucoma and vitiligo
+  reviews (no vocab condition), Chinese ginkgo injections and patent medicines, combinations,
+  preprints.'

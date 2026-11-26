@@ -1,0 +1,2149 @@
+# Research-deepening batch 22 - search
+
+## nepeta-cataria (Nepeta cataria) - name clause: "Nepeta cataria"[tiab] OR "catnip"[tiab] OR "catmint"[tiab]
+
+### PubMed HT - 3 hits, 3 not already listed above, 3 new
+- new | 2023 | 37141519 |  | [Impact of essential oil vapors inhalation on blood pressure in patients with hypertension]. | Vopr Kurortol Fizioter Lech Fiz Kult [rus]
+- new | 2004 | 17047728 |  | The Effect of Natural Mulches on Crop Performance, Weed Suppression and Biochemical Constituents of Catnip and St. John's Wort. | Crop Sci
+- new | 1999 | 10711131 | Review | Dietary supplements used in the treatment of depression, anxiety, and sleep disorders. | Lippincotts Prim Care Pract
+
+### PubMed SR - 3 hits, 3 not already listed above, 3 new
+- new | 2025 | 39921369 | Scoping Review | Treatments of psychosomatic symptoms in Alzheimer's disease: a scoping review of the potential therapeutic effects of essential oils. | Psychogeriatrics
+- new | 2019 | 31864359 | Systematic Review | Effectiveness of plant-based repellents against different Anopheles species: a systematic review. | Malar J
+- new | 2016 | 27779781 | Systematic Review | EPA-Registered Repellents for Mosquitoes Transmitting Emerging Viral Disease. | Pharmacotherapy
+
+### PubMed SAFE - 22 hits, 21 not already listed above, 19 new
+- new | 2026 | 42344334 |  | Field evaluation of Nepeta cataria-based biopreparation delivered via an automated spraying system for sustainable control of cattle ectoparasites under pasture conditions. | Vet World
+- new | 2024 | 38489316 | Research Support, Non-U.S. Gov't | The genomic and enzymatic basis for iridoid biosynthesis in cat thyme (Teucrium marum). | Plant J
+- HELD REF-2903 | 2024 | 39192720 |  | Bioactive potential of Mentha arvensis L. essential oil. | J Environ Sci Health B
+- new | 2023 | 37810229 |  | Assessing the safety and suitability of using silver vine as an olfactory enrichment for cats. | iScience
+- new | 2023 | 30395919 | Review | Insect repellents: An updated review for the clinician. | J Am Acad Dermatol
+- new | 2022 | 34895548 | Comparative Study | Selectivity of enzymes involved in the formation of opposite enantiomeric series of p-menthane monoterpenoids in peppermint and Japanese catnip. | Plant Sci
+- new | 2022 | 36015417 |  | Chemical Composition of Various Nepeta cataria Plant Organs' Methanol Extracts Associated with In Vivo Hepatoprotective and Antigenotoxic Features as well as Molecular Modeling Inv | Plants (Basel)
+- new | 2021 | 34748704 | Research Support, Non-U.S. Gov't | Engineering Yeast for De Novo Synthesis of the Insect Repellent Nepetalactone. | ACS Synth Biol
+- HELD REF-0933 | 2019 | 31337687 | Research Support, Non-U.S. Gov't | Hepatoprotective effect of essential oils of Nepeta cataria L. on acetaminophen-induced liver dysfunction. | Biosci Rep
+- new | 2019 | 31029727 |  | Essential oil composition of five Nepeta species cultivated in Lithuania and evaluation of their bioactivities, toxicity and antioxidant potential of hydrodistillation residues. | Food Chem Toxicol
+- new | 2017 | 28404902 |  | Mechanism of modulation through PI3K-AKT pathway about Nepeta cataria L.'s extract in non-small cell lung cancer. | Oncotarget
+- new | 2016 | 27313645 |  | Effect of Catnip Charcoal on the In Vivo Pharmacokinetics of the Main Alkaloids of Rhizoma Coptidis. | Evid Based Complement Alternat Med
+- new | 2015 | 26061992 | Review | Natural Products Useful in Respiratory Disorders: Focus on Side-Effect Neutralizing Combinations. | Phytother Res
+- new | 2013 | 22434692 | Research Support, Non-U.S. Gov't | Genotoxic effects of catmint (Nepeta meyeri Benth.) essential oils on some weed and crop plants. | Toxicol Ind Health
+- new | 2011 | 21480461 | Evaluation Study/Research Support, Non-U.S. Gov't | Contact and fumigant toxicity of plant essential oils and efficacy of spray formulations containing the oils against B- and Q-biotypes of Bemisia tabaci. | Pest Manag Sci
+- new | 2011 | 21848320 | Research Support, U.S. Gov't, Non-P.H.S. | Contact and fumigant toxicity of a botanical-based feeding deterrent of the stable fly, Stomoxys calcitrans (Diptera: Muscidae). | J Agric Food Chem
+- new | 2009 | 19712151 | Research Support, Non-U.S. Gov't | Efficacy and safety of catnip (Nepeta cataria) as a novel filth fly repellent. | Med Vet Entomol
+- new | 1997 | 9397511 | Case Reports | Catnip and the alteration of human consciousness. | Vet Hum Toxicol
+- new | 1997 | 9106511 | Comparative Study/Research Support, Non-U.S. Gov't | Spatially distinct expression of two new cytochrome P450s in leaves of Nepeta racemosa: identification of a trichome-specific isoform. | Plant Mol Biol
+- new | 1994 | 7918588 | Comparative Study | Cytochrome P-450-catalysed monoterpenoid oxidation in catmint (Nepeta racemosa) and avocado (Persea americana); evidence for related enzymes with different activities. | Biochim Biophys Acta
+- new | 1990 | 24264909 |  | A generalist herbivore in a specialist mode Metabolic, sequestrative, and defensive consequences. | J Chem Ecol
+
+### PubMed OBS - 3 hits, 3 not already listed above, 3 new
+- new | 2026 | 43029015 |  | Chemical Profiles of Serbian Nepeta cataria Essential Oils, Structural Characterization of trans-cis-Nepetalactone, and Preliminary In Vitro Bioactivity. | Plants (Basel)
+- new | 2023 | 36780318 | Research Support, N.I.H., Extramural | Rate Modulation Abilities in Acquired Motor Speech Disorders. | J Speech Lang Hear Res
+- new | 2021 | 33476188 | Research Support, N.I.H., Extramural | A Longitudinal Evaluation of Speech Rate in Primary Progressive Apraxia of Speech. | J Speech Lang Hear Res
+
+### PubMed REV - 7 hits, 3 not already listed above, 3 new
+- new | 2021 | 34318549 | Research Support, Non-U.S. Gov't/Review | Elusive partners: a review of the auxiliary proteins guiding metabolic flux in flavonoid biosynthesis. | Plant J
+- new | 2003 | 12620315 | Research Support, Non-U.S. Gov't/Review | Aphid sex pheromones: from discovery to commercial production. | Phytochemistry
+- new | 2003 | 12587868 | Research Support, Non-U.S. Gov't/Review | Manipulation of parasitoids for aphid pest management: progress and prospects. | Pest Manag Sci
+
+### ClinicalTrials.gov - 2 registered studies
+- NCT07603505 | COMPLETED | results=False | PHASE1 | Effect of NAE on Polycystic Ovarian Syndrome (PCOS) | conds: Polycystic Ovarian Syndrome (PCOS), Infertility, Metabolic Disorders | intr: Herbal Formulation, Metformin XR, Metformin 750 mg and herbal formulation 500 mg
+- NCT02565316 | COMPLETED | results=False | PHASE2,PHASE3 | Efficacy of Nepeta Menthoides Extract on Anxiety of Patients With Depression: a Double-blind Randomized Controlled Clinical Trial | conds: Depression, Anxiety | intr: Nepeta menthoides Boiss & Bohse freeze dried extract, Sertraline
+
+### OpenAlex no-PMID trial-worded - 230 hits, 62 without PMID, 62 new
+- new | 2026 | 10.5281/zenodo.21891154 | article | Development and Characterization of Proniosomal Formulation of Nepeta cataria L. Extract for Enhanced Antiallergic Activity | Zenodo (CERN European Organization for N
+- new | 2026 | 10.35410/ijaeb.2026.1029 | article | EVALUATION OF INSECTICIDAL POTENCY AND DOSE-RESPONSE RELATIONSHIP OF NEPETA CATARIA EXTRACT AGAINST ANOPHELES MOSQUITOES | International Journal of Agriculture Env
+- new | 2026 | 10.20535/ehs2710-3315.2026.363930 | article | Evaluating repellence properties of a catnip essential oil-based mosquito repellent: from laboratory studies to human field trials in eastern Uganda | Матеріали міжнародної науково-практичено
+- new | 2026 | 10.33745/ijzi.2026.v12i02.008 | article | Pharmacological Investigation of Polyherbal Emulgel for Wound Healing Activity: An In Vivo Study using Excision, Incision, and Burn Wound Models | International Journal of Zoological Inve
+- new | 2025 | 10.12982/nlsc.2026.020 | article | Repellent Efficacy of Catnip (Nepeta cataria) Essential Oil and Its Topical Formulations Against Aedes aegypti | Natural and Life Sciences Communications
+- new | 2025 | 10.70976/j.2096-0964.wjim-2025-0006 | article | A pilot randomized controlled trial of Kangmin Ⅰ decoction as a treatment for atopic eczema | World Journal of Integrated traditional 
+- new | 2025 | 10.32859/era.30.24.1-10 | article | Native plant and pollinator survey on an organic herb farm in Washington state | Ethnobotany Research and Applications
+- new | 2025 | 10.12775/jehs.2025.80.60626 | article | Phytotea “ATINE” enhances the immunomodulatory effect of adaptogenic factors of the Truskavets’ Spa in patients after radical treatment of oncological pathology | Journal of Education Health and Sport
+- new | 2025 | 10.21608/eajbsz.2025.464836 | article | Critical Appraisal of Indian Medicinal Plants as Anthelmintic Agents: Emphasis on In Vitro vs. In Vivo Models in Ruminant Helminthiasis | Egyptian Academic Journal of Biological 
+- new | 2024 | 10.7752/jpes.2024.04093 | article | Prevention of adverse effects of balneofactors at Truskavets' Spa on gastroenterologic patients through phytoadaptogens and therapeutic physical education: mechanisms of rehabilita | Journal of Physical Education and Sport
+- new | 2023 | 10.23977/medsc.2023.040609 | article | Study on Efficacy of Modified Headache Formula I on Patients with Migraine and Its Improvement on Free Radical Disorder | MEDS Clinical Medicine
+- new | 2022 | 10.14393/ufu.di.2022.72 | dissertation | Parâmetros clínicos de gatos domésticos (Felis catus) expostos à Catnip (Nepeta cataria), ao Feliway® (Feromônio Facial Felino) e às práticas cat friendly | 
+- new | 2022 | https://openalex.org/W7132223998 | conference-paper | Evaluation of Polyphenolic Profile and Antioxidant Potential of Selected Plants Growing wild in Lithuania | Lithuanian University of Health Sciences
+- new | 2022 | https://openalex.org/W7126937395 | dissertation | An Integrative Approach to Drug Development Using Machine Learning | eCommons (Cornell University)
+- new | 2022 | 10.1192/j.eurpsy.2022.1315 | conference-abstract | Unique combination of herbal ingredients for everyday distress in medical workers (short-term pilot study) | European Psychiatry
+- new | 2022 | https://openalex.org/W7132991068 | dissertation | Evaluación comparativa del efecto del uso de feromonas felinas sobre la reducción del estrés en los gatos (Felis catus silvestris), durante la consulta veterinaria de la Clínica Ve | Repositorio CES
+- new | 2022 | 10.52543/tjpp.17.2.3 | article | Interpreting Morphology and Yield Response of Okra (Abelmoschus esculentus) to Weed Variables Using Regression Analysis | Tunisian Journal of Plant Protection
+- new | 2022 | https://openalex.org/W7220604314 | article | Case Report: Treating Atopic Dermatitis with Si-Wu-Xiao-Feng Decoction in combination with Topical Huang Qin Cream | Journal of Health Science and Alternativ
+- new | 2022 | 10.29133/yyutbd.998772 | article | Essential Oil Chemical Composition of Lavender Varieties Cultivated in an Untraditional Agro-Ecological Region | Yüzüncü Yıl Üniversitesi Tarım Bilimleri
+- new | 2021 | 10.3390/agronomy11020263 | article | The Classification of Medicinal Plant Leaves Based on Multispectral and Texture Feature Using Machine Learning Approach | Agronomy
+- new | 2021 | 10.21498/2518-1017.17.2.2021.236523 | article | Effects of catnip (Nepeta cataria L.) and Mexican sunflower (Tithonia diversifolia L.) density on growth, yield, and proximate composition of jute mallow (Corchorus olitorius L.) | Plant varieties studying and protection
+- new | 2021 | 10.22067/jag.v13i1.79970 | article | The Effects of Biological, Chemical Fertilizers and Humic Acid on some Microbial Parameters, Elements and Oil Quantity and Quality of Catnip (Nepeta cataria L.) | Būm/shināsī-i kishāvarzī
+- new | 2021 | 10.4995/wrs.2021.14193 | article | Cardboard and rubber objects as means of environmental enrichment for rabbits | World Rabbit Science
+- new | 2021 | 10.13057/biodiv/d220753 | article | Effectiveness of essential oil from the Artemisia herba-alba aerial parts against multidrug-resistant bacteria isolated from food and hospitalized patients | Biodiversitas Journal of Biological Dive
+- new | 2020 | 10.1021/bk-2020-1361.ch010 | conference-paper | Ethnobotany, Chemistry, and Pharmacology of African Nepeta Species | ACS symposium series
+- new | 2020 | 10.1016/j.applanim.2020.104997 | article | Scratcher preferences of adult in-home cats and effects of olfactory supplements on cat scratching | Applied Animal Behaviour Science
+- new | 2020 | 10.5430/dcc.v7n1p19 | article | Effects of integrated traditional Chinese and western medicine on the vision recovery and serum trace elements of patients with herpes simplex keratitis | Discussion of Clinical Cases
+- new | 2019 | https://openalex.org/W3107479054 | dissertation | Enrichment strategies that modify cat behavioral pattern: Their applications in improving welfare | ThinkTech (Texas Tech University)
+- new | 2019 | 10.1590/0102-33062018abb0386 | article | Medicinal plants for the "nerves": a review of ethnobotanical studies carried out in South Brazil | Acta Botanica Brasilica
+- new | 2018 | 10.1021/bk-2018-1289.ch010 | conference-paper | Development and Evaluation of Push-Pull Control Strategies against Aedes aegypti (Diptera: Culicidae) | ACS symposium series
+- new | 2018 | 10.32352/0367-3057.1.17.11 | article | The investigation of the cranberry (Vaccinium oxycoccos L.) concentrated juice antimicrobial activity | Farmatsevtychnyi zhurnal
+- new | 2018 | 10.25135/rnp.36.17.10.061 | article | Chemical Composition and the Potential of Lavandula angustifolia L. Oil as a Skin Depigmentant | Records of Natural Products
+- new | 2017 | https://openalex.org/W2885716847 | article | Qualitative and Quantitative Evaluation of Essential Oil of Catnip (Nepeta cataria L.) Under Different Drying Conditions | Journal of Medicinal Plants
+- new | 2017 | https://openalex.org/W2778720527 | article | Changes in Nepetalactone Content and Biochemical traits of Catnip (Nepeta cataria L.) in Response to Induction of Biostimulants Compounds | Journal of Medicinal Plants
+- new | 2017 | https://openalex.org/W3125587697 | article | EFFECTS OF KINESIOTAPING IN REDUCING PAIN IN THE HEEL IN PATIENTS WITH PLANTAR FASCIITIS | Goce Delchev University Repository (Goce
+- new | 2016 | 10.22067/jhorts4.v30i3.32087 | article | The study on diurnal changes in leaf gas exchange of lemon balm, catnip, holy basil and sweet basil in Ahvaz. | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2016 | 10.5283/epub.34061 | dissertation | Development and Evaluation of Push-Pull Strategies in Mosquito Control | University of Regensburg Publication Ser
+- new | 2016 | 10.20546/ijcrbp.2016.306.011 | article | Scientific Evaluation of Traditionally Known Insulin Plant Costus Species for the Treatment of Diabetes in Human | International Journal of Current Researc
+- new | 2015 | https://openalex.org/W2610367790 | article | Response to Acute Stress in Domestic Cats Using Synthetic Analogues of Natural Appeasing Pheromones with Nepeta cataria Extract Rich in Nepetalactone: A Double-blinded, Randomized, | 
+- new | 2015 | https://openalex.org/W2200217493 | article | Investigation of Chilling Effects on Characteristics of Seed Germination, Vigor and Seedling Growth of Nepeta spp. Species | Journal of rangeland science.
+- new | 2015 | https://openalex.org/W3179785332 | article | Effect of dietary catmint (Nepata cataria) on the behaviour, feed preference and digestibility of nutrients in cats. | Hungarian Veterinary Archive
+- new | 2014 | https://openalex.org/W2575564988 | dissertation | The quality of citizen scientists’ bee observations: An evaluation of PollinatorWatch at Royal Botanical Gardens and the rare Charitable Research Reserve | UWSpace (University of Waterloo)
+- new | 2013 | https://openalex.org/W632749703 | dissertation | Brygder och besvärjelser : En arkeobotanisk studie av medicinalväxter och den medeltida staden Nya Lödöse | DiVA at Umeå University (Umeå University
+- new | 2013 | 10.1016/j.jssas.2013.08.005 | article | Repellent properties of Delonix elata (L.) Gamble (Family: Fabaceae) against malaria vector Anopheles stephensi (Liston) (Diptera: Culicidae) | Journal of the Saudi Society of Agricult
+- new | 2012 | 10.3760/cma.j.issn.1673-4246.2012.05.004 | article | Traditional Chinese medicine basic theory of Yin and Yang and experimental study on clinical quantization comparisonin of divergent and convergence medicine in treatingacute urtica | Traditional Chinese Medicine
+- new | 2011 | 10.2478/v10045-011-0064-2 | article | Biodiversity of Thrips Species (Thysanoptera) on Flowering Herbs in Cracow, Poland | Journal of Plant Protection Research
+- new | 2010 | 10.1016/j.applanim.2009.12.011 | article | The influence of olfactory stimulation on the behaviour of cats housed in a rescue shelter | Applied Animal Behaviour Science
+- new | 2008 | https://openalex.org/W2238000445 | report | Seasonal Events at Lost Mound | Illinois Digital Environment for Access 
+- new | 2006 | 10.1055/s-2006-949827 | article | Antibacterial activity of the essential oils of catnip (Nepeta cataria L.) and lemon balm (Melissa officinalis L.) against clinical isolates from the respiratory tract | Planta Medica
+- new | 2005 | https://openalex.org/W2461819419 | article | Recommendations for treated-area choice assays with termites (Isoptera) | Sociobiology
+- new | 2003 | https://openalex.org/W7210711907 | article | NEBLINE, November/December 2003 | Lincoln (University of Nebraska)
+- new | 2002 | 10.1145/512840.512843 | article | A case for context-aware TCP/IP | ACM SIGMETRICS Performance Evaluation Re
+- new | 2001 | 10.5962/bhl.title.51295 | book | Perennial medicinal herb trials, 1996-1999 / | Biodiversity Heritage Library (Smithsoni
+- new | 1999 | https://openalex.org/W2789668624 | dissertation | The use of semiochemicals to enhance the natural control of pests of arable crops by invertebrate predators | Edinburgh Research Archive (University o
+- new | 1997 | 10.5962/bhl.title.51083 | book | Medicinal herb trial 1996 / | Biodiversity Heritage Library (Smithsoni
+- new | 1994 | 10.1071/wr9940389 | article | Development and Testing of Attractants for Feral Cats, Felis Catus L. | Wildlife Research
+- new | 1992 | https://openalex.org/W268438933 | conference-paper | TOXIC BAIT AND BAITING STRATEGIES FOR FERAL CATS | Lincoln (University of Nebraska)
+- new | 1990 | https://openalex.org/W2585634020 | article | Vascular plants of the UWM Field Station area | UWM Digital Commons (University of Wisco
+- new | 1969 | 10.1001/jama.1969.03160020128022 | article | Of Cats, Catnip, and Cannabis | JAMA
+- new | 1968 | 10.1016/s0031-9422(00)86319-0 | article | The biosynthesis of methylcyclopentane monoterpenoids—II | Phytochemistry
+- new | 1966 | 10.4141/cjps66-110 | article | HOST RANGE AND SYMPTOMATOLOGY OF VERTICILLIUM DAHLIAE IN ECONOMIC, WEED, AND NATIVE PLANTS IN INTERIOR BRITISH COLUMBIA | Canadian Journal of Plant Science
+- new | 1892 | 10.5962/bhl.title.64121 | book | The flora of Montreal Island | Biodiversity Heritage Library (Smithsoni
+
+## nigella-sativa (Nigella sativa) - name clause: "Nigella sativa"[tiab] OR "black seed"[tiab] OR "black cumin"[tiab] OR "kalonji"[tiab] OR "thymoquinone"[ti]
+
+### PubMed HT - 344 hits, 200 not already listed above, 188 new
+- new | 2026 | 42744850 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A prospective randomized controlled pilot study of gut microbiome modulation by Nigella sativa seed oil and thymoquinone metabolism in healthy volunteers: implications for gastroin | Sci Rep
+- new | 2026 | 41472641 | Randomized Controlled Trial/Comparative Study | Comparative Efficacy of Nigella sativa and Chlorhexidine Mouthwashes in the Management of Gingivitis: A Randomized Controlled Trial. | J Integr Complement Med
+- new | 2026 | 42210833 |  | [Role of spices in the management of diabetes and gestational diabetes]. | Rev Med Suisse [fre]
+- HELD REF-3704 | 2026 | 41858302 | Systematic Review/Meta-Analysis | The Effect of Nigella sativa Supplementation on Cardiometabolic Health in Patients With Metabolic Diseases: A GRADE-Assessed Systematic Review and Meta-Analysis. | Endocrinol Diabetes Metab
+- new | 2025 | 40641727 | Review | Evidence-Based Human Clinical Trials on Antidiabetic Herbal Remedies Commonly Used in the Middle East. | Sultan Qaboos Univ Med J
+- new | 2025 | 38418667 | Review | Natural Products in the Clinical Management of Metabolic Syndrome. | Handb Exp Pharmacol
+- new | 2025 | 40210172 | Meta-Analysis/Systematic Review | Effects of black seed (Nigella sativa L.) on cardiometabolic indices in type 2 diabetic patients: A systematic review and meta-analysis of RCTs. | Complement Ther Med
+- new | 2025 | 39803215 |  | Nutritional enhancement in black seed (Nigella sativa L.) using bacteria-based biofertilizers. | Food Sci Nutr
+- new | 2025 | 40810872 | Letter/Comment | Comment on "Cardioprotective Effect of Nigella sativa in Pediatric Patients with Type 1 Diabetes Mellitus: A Randomized Controlled Study". | Paediatr Drugs
+- new | 2025 | 39980283 | Review | Clinical and In vitro Data Shed New Light on the Therapeutic Advantages of Black Seeds (Nigella sativa) for the Treatment of Hepatitis C and Hepatitis B Viral Infections. | Infect Disord Drug Targets
+- new | 2025 | 40905014 |  | Black Cumin Seed (Nigella sativa) Confers Anti-Adipogenic Effects in 3T3-L1 Cellular Model and Lipid-Lowering Properties in Human Subjects. | Food Sci Nutr
+- new | 2025 | 40810871 | Letter | Authors' Reply to Fatima Comment on "Cardioprotective Effect of Nigella sativa in Pediatric Patients with Type 1 Diabetes Mellitus: A Randomized Controlled Study". | Paediatr Drugs
+- new | 2025 | 39619751 | Review | Herbal remedies for hypothyroidism: A systematic review and meta-analysis. | Caspian J Intern Med
+- HELD REF-3698 | 2025 | 38265398 | Meta-Analysis/Systematic Review | Effect of Nigella sativa Consumption on Lipid Profile and Glycemic Index in Patients with Metabolic Syndrome: A Systematic Review and Meta-analysis of Randomized Controlled Trials. | Curr Med Chem
+- new | 2025 | 40048139 | Randomized Controlled Trial | Cardioprotective Effect of Nigella sativa in Pediatric Patients with Type 1 Diabetes Mellitus: A Randomized Controlled Study. | Paediatr Drugs
+- new | 2025 | 39313886 | Review | An Overview of Possible Beneficial Effects of Black Seeds (Nigella Sativa) on the Management of "Disease X". | Infect Disord Drug Targets
+- new | 2025 | 40055705 | Randomized Controlled Trial | Effect of Nigella sativa-L supplementation on glycemia in adolescent polycystic ovarian syndrome: secondary analysis of a randomized controlled trial study. | J Ovarian Res
+- new | 2025 | 41112345 |  | Clinical Uses of Nigella Sativa in Pediatrics: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | J Pediatr Pharmacol Ther
+- new | 2025 | 40338252 | Observational Study | Cardiometabolic Effects of Nigella sativa in Postmenopausal Women with Hypertension: A Prospective, Observational, Pilot Study. | Nutrients
+- new | 2024 | 39121267 | Randomized Controlled Trial | A randomized, double-blind, placebo-controlled study to evaluate the benefits of a standardized Nigella sativa oil containing 5% thymoquinone in reducing the symptoms of seasonal a | Medicine (Baltimore)
+- new | 2024 | 38892617 | Randomized Controlled Trial | The Effect of Therapeutic Doses of Culinary Spices in Metabolic Syndrome: A Randomized Controlled Trial. | Nutrients
+- new | 2024 | 38414487 | Published Erratum | Corrigendum: Exploring the short-term influence of a proprietary oil extract of black cumin (Nigella sativa) on non-restorative sleep: a randomized, double-blinded, placebo-control | Front Nutr
+- new | 2024 | 38379905 |  | Individual ingredients of NP-101 (Thymoquinone formula) inhibit SARS-CoV-2 pseudovirus infection. | Front Pharmacol
+- new | 2024 | 38235870 | Randomized Controlled Trial | Effects of thymoquinone in the lungs of rats against radiation-induced oxidative stress. | Eur Rev Med Pharmacol Sci
+- new | 2024 | 39116167 | Published Erratum | Correction: Randomized controlled trial of the effectiveness of olive and black seed oil combination on pain intensity and episiotomy wound healing in primiparous women: A study pr | PLoS One
+- new | 2024 | 40259958 |  | The adjuvant therapy of edible herbal product including colchicum bulb, olive leaf, black cumin seeds, lavender flower, and ginger rhizome on the outcome of patients with severe an | Avicenna J Phytomed
+- HELD REF-3701 | 2024 | 39372205 | Systematic Review | Meta-analysis of randomized controlled trials assessing the efficacy of nigella sativa supplementation for allergic rhinitis treatment. | Front Pharmacol
+- new | 2024 | 39002164 | Systematic Review | Systematic Review of Randomized Controlled Trials in Uses of Nigella Sativa (Black Seed) in Metabolic Syndrome. | West Afr J Med
+- new | 2024 | 37885111 | Review | An Overview of Conventional and Black Cumin Seeds (Nigella sativa) Therapy in the Management of Nipah Viral Infection. | Infect Disord Drug Targets
+- new | 2024 | 38650731 |  | The efficacy and safety of Nigella sativa in the management of osteoarthritis: A systematic review. | Health Sci Rep
+- new | 2024 | 37859312 | Systematic Review/Meta-Analysis | Effect of Nigella sativa Intake on Oxidative Stress and Inflammation in Patients with Metabolic Syndrome and Related Disorders: A Systematic Review and Meta-analysis of Randomized  | Curr Pharm Biotechnol
+- new | 2024 | 38915995 | Review | Endothelial Function Responses to Nigella sativa (Black Seed) Supplementation: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Cureus
+- HELD REF-3697 | 2024 | 38777430 | Systematic Review/Meta-Analysis | Effects of Nigella sativa supplementation on lipid profiles in adults: An updated systematic review and meta-analysis of randomized controlled trials. | Clin Nutr ESPEN
+- new | 2024 | 39061536 |  | Combined Effect of Nigella sativa and Kefir on the Live Performance and Health of Broiler Chickens Affected by Necrotic Enteritis. | Animals (Basel)
+- HELD REF-3696 | 2024 | 39181437 | Meta-Analysis/Systematic Review | The effect of Nigella sativa supplementation on glycemic status in adults: An updated systematic review and meta-analysis of randomized controlled trials. | Prostaglandins Other Lipid Mediat
+- new | 2024 | 39337239 |  | An Assessment of the Clinical Efficacy of a Topical Application of 5% Thymoquinone Gel for Plaque-Induced Gingivitis Patients: A Randomized Controlled Clinical Trial. | Healthcare (Basel)
+- new | 2024 | 39044986 |  | Manuka combinations with nigella sativa and hydroxyurea in treating iron overload of pediatric β-thalassemia major, randomized clinical trial. | Heliyon
+- new | 2024 | 36547822 | Randomized Controlled Trial | Comparative evaluation of the efficacy of Nigella sativa (75% v/v) cream and clobetasol propionate (0.05% w/w) gel in oral lichen planus-a double-blinded randomized control trial. | Oral Maxillofac Surg
+- new | 2024 | 38931426 |  | In Vitro and Randomized Controlled Clinical Study of Natural Constituents' Anti-HPV Potential for Treatment of Plantar Warts Supported with In Silico Studies and Network Analysis. | Pharmaceuticals (Basel)
+- new | 2024 | 36757063 | Meta-Analysis/Systematic Review/Letter | The effect of Nigella sativa on the risk of mortality in patients with COVID-19: A systematic review and meta-analysis of randomized trials. | Phytother Res
+- new | 2024 | 38633734 |  | Evaluation of the effect of Nigella sativa oil on the outcome of missed abortion in women: A randomized double-blind clinical trial. | Health Sci Rep
+- new | 2024 | 38455176 |  | Nigella sativa for the treatment of COVID-19 patients: A rapid systematic review and meta-analysis of randomized controlled trials. | Food Sci Nutr
+- new | 2024 | 37957516 | Randomized Controlled Trial | Topical Nigella sativa L. product: a new candidate for the management of diabetic peripheral neuropathy. | Inflammopharmacology
+- new | 2024 | 39507774 |  | Effects of dietary black cumin (Nigella sativa L.) meal on performance, blood metabolites, and digestibility in a rice straw-based diet of fattening Garut lambs. | Vet World
+- new | 2024 | 38178093 | Randomized Controlled Trial | A crossover randomized controlled trial examining the effects of black seed (Nigella sativa) supplementation on IL-1β, IL-6 and leptin, and insulin parameters in overweight and obe | BMC Complement Med Ther
+- new | 2024 | 39816053 | Randomized Controlled Trial | Effects of Nigella sativa on disease activity, T lymphocytes and inflammatory cytokine profiles in pediatric systemic lupus erythematosus: A randomized controlled trial. | Narra J
+- new | 2024 | 38748938 | Clinical Trial Protocol | Randomized controlled trial of the effectiveness of olive and black seed oil combination on pain intensity and episiotomy wound healing in primiparous women: A study protocol. | PLoS One
+- new | 2024 | 39086868 |  | Investigation the effect of a herbal composition based on blackseed on patients with primary hypothyroidism: A randomized controlled trial. | Avicenna J Phytomed
+- new | 2024 | 39099809 |  | Natural product-based treatment potential for type 2 diabetes mellitus and cardiovascular disease. | World J Diabetes
+- new | 2023 | 37778464 | Systematic Review/Network Meta-Analysis | Comparative effects of nutraceuticals on body weight in adults with overweight or obesity: A systematic review and network meta-analysis of 111 randomized clinical trials. | Pharmacol Res
+- new | 2023 | 37057067 | Systematic Review | Nigella sativa and health outcomes: An overview of systematic reviews and meta-analyses. | Front Nutr
+- new | 2023 | 37621284 |  | Nigella sativa oil mitigates xerostomia and preserves salivary function in radiotherapy-treated mice. | Laryngoscope Investig Otolaryngol
+- new | 2023 | 36698733 | Review | Nigella sativa supplementation and non-alcoholic fatty liver disease: A systematic review of clinical trials. | Avicenna J Phytomed
+- new | 2023 | 36645572 | Review | Synergistic Effects of Nigella sativa and Exercise on Diabetic Profiles: A Systematic Review. | Diabetes Ther
+- new | 2023 | 37069587 | Randomized Controlled Trial | Nigella sativa powder for helicobacter pylori infected patients: a randomized, double-blinded, placebo-controlled clinical trial. | BMC Complement Med Ther
+- HELD REF-3699 | 2023 | 37036558 | Meta-Analysis/Systematic Review | The effect of Nigella sativa (black seed) on biomarkers of inflammation and oxidative stress: an updated systematic review and meta-analysis of randomized controlled trials. | Inflammopharmacology
+- new | 2023 | 36420866 | Randomized Controlled Trial/Multicenter Study | Honey and Nigella sativa against COVID-19 in Pakistan (HNS-COVID-PK): A multicenter placebo-controlled randomized clinical trial. | Phytother Res
+- HELD REF-2513 | 2023 | 37341696 | Meta-Analysis/Systematic Review | Antihypertensive effects of Nigella sativa supplementation: An updated systematic review and meta-analysis of randomized controlled trials. | Phytother Res
+- new | 2023 | 36825730 | Review | Potential of Black Seeds (Nigella sativa) in the Management of Long COVID or Post-acute Sequelae of COVID-19 (PASC) and Persistent COVID-19 Symptoms - An Insight. | Infect Disord Drug Targets
+- new | 2023 | 36167322 | Systematic Review | Effect of Nigella Sativa in Improving Blood Glucose Level in T2DM: Systematic Literature Review of Randomized Control Trials. | Drug Res (Stuttg)
+- new | 2023 | 37975389 |  | The effect of Nigella sativa extracts against Porphyromonas gingivalis isolated from periodontitis patients. | Eur Rev Med Pharmacol Sci
+- new | 2023 | 37371976 |  | The Impact of Nigella sativa Essential Oil on T Cells in Women with Hashimoto's Thyroiditis. | Antioxidants (Basel)
+- new | 2023 | 37891878 | Review | Do Dietary Supplements Affect Inflammation, Oxidative Stress, and Antioxidant Status in Adults with Hypothyroidism or Hashimoto's Disease?-A Systematic Review of Controlled Trials. | Antioxidants (Basel)
+- new | 2023 | 38288065 |  | Exploring the short-term influence of a proprietary oil extract of black cumin (Nigella sativa) on non-restorative sleep: a randomized, double-blinded, placebo-controlled actigraph | Front Nutr
+- new | 2023 | 38107142 |  | The efficacy of Nigella sativa L. oil on serum biomarkers of inflammation and oxidative stress and quality of life in patients with knee osteoarthritis: A parallel triple-arm doubl | Food Sci Nutr
+- new | 2023 | 36640148 | Randomized Controlled Trial | Effect of Nigella sativa L. seed oil on urinary incontinence and quality of life in menopausal women: A triple-blind randomized controlled trial. | Phytother Res
+- new | 2023 | 36617207 | Clinical Trial | The Effect of Palm Pollen and Black Seed Pollen on Male Sex Hormones and Sperm Quality: A Single-Blind, Placebo-Controlled Clinical Trial Study. | Int J Fertil Steril
+- new | 2023 | 38020740 |  | The Efficacy of Nigella sativa L. and Curcumin Nanomicelle Alone or Together on Lipid Profile, Glycemic Control Indices, and Serum 17-Β Estradiol in Postmenopausal Women. | J Caring Sci
+- new | 2023 | 38078020 |  | Clinical and Radiographic Evaluation of Nigella sativa and Aloe vera as Pulpotomy Medicaments in Primary Teeth: A Randomized Controlled Trial. | Int J Clin Pediatr Dent
+- new | 2023 | 36994285 |  | Comparative Clinical Study of the Effect of Nigella Sativa Oil on Soft Tissue Healing and Inflammation Reduction Compared to Eugenol in the Context of Dry Socket. | Cureus
+- new | 2023 | 37153706 |  | A study of efficacy of Nigella sativa in treatment of Meniere's disease: A randomized, placebo controlled clinical trial. | J Otol
+- new | 2023 | 36302232 |  | Examination of Complementary and Supportive Practices and Self-efficacy Against Foot Ulcers in Diabetic Patients. | Altern Ther Health Med
+- new | 2023 | 37139438 |  | A proprietary black cumin oil extract (Nigella sativa) (BlaQmax(®)) modulates stress-sleep-immunity axis safely: Randomized double-blind placebo-controlled study. | Front Nutr
+- new | 2023 | 35538630 |  | Effects of Nigella sativa supplementation on blood concentration and mRNA expression of TNF-α, PPAR-γ and adiponectin, as major adipogenesis-related markers, in obese and overweigh | Br J Nutr
+- new | 2023 | 36874614 |  | Dietary Thymoquinone Alone or Combined with Swimming Exercise Protect against Microcystin-LR-Induced Oxidative Injury in Mice. | Evid Based Complement Alternat Med
+- new | 2023 | 37915654 |  | The prevalence and pattern of complementary and alternative medicine use among cancer patients in a tertiary oncology center: a cross-sectional study. | Ann Med Surg (Lond)
+- new | 2022 | 36558399 |  | Thymoquinone Effect on Monocyte-Derived Macrophages, Cell-Surface Molecule Expression, and Phagocytosis. | Nutrients
+- new | 2022 | 36292966 | Systematic Review | Nigella sativa L. and Its Active Compound Thymoquinone in the Clinical Management of Diabetes: A Systematic Review. | Int J Mol Sci
+- new | 2022 | 35871718 | Randomized Controlled Trial | Efficacy of nigella sativa oil on endothelial function and atherogenic indices in patients with coronary artery diseases: A randomized, double-blind, placebo-control clinical trial | Phytother Res
+- new | 2022 | 35548175 |  | Nigella sativa extract in the treatment of depression and serum Brain-Derived Neurotrophic Factor (BDNF) levels. | J Res Med Sci
+- HELD REF-2484 | 2022 | 36034891 | Review | Nigella sativa supplementation improves cardiometabolic indicators in population with prediabetes and type 2 diabetes mellitus: A systematic review and meta-analysis of randomized  | Front Nutr
+- new | 2022 | 35903765 | Review | The Effect of Selected Herbal Medicines on Bone Turnover Markers: A Systematic Review and Meta-Analysis. | J Family Reprod Health
+- new | 2022 | 35631072 |  | A Randomized, Double-Blind, Placebo-Controlled, Multicenter Study to Evaluate the Safety and Efficacy of ThymoQuinone Formula (TQF) for Treating Outpatient SARS-CoV-2. | Pathogens
+- new | 2022 | 36180868 |  | Prevalence and associated factors of complementary and integrative medicine use in patients afflicted with COVID-19. | BMC Complement Med Ther
+- new | 2022 | 36518481 |  | A phase I clinical trial to evaluate the safety of thymoquinone-rich black cumin oil (BlaQmax®) on healthy subjects: Randomized, double-blinded, placebo-controlled prospective stud | Toxicol Rep
+- new | 2022 | 35154688 |  | Efficacy of nanomicelle curcumin, Nigella sativa oil, and their combination on bone turnover markers and their safety in postmenopausal women with primary osteoporosis and osteopen | Food Sci Nutr
+- new | 2022 | 35463059 |  | Effect of Nigella Sativa Oil on Oxidative Stress, Inflammatory, and Glycemic Control Indices in Diabetic Hemodialysis Patients: A Randomized Double-Blind, Controlled Trial. | Evid Based Complement Alternat Med
+- new | 2022 | 36425571 |  | The effect of Ni gella sativa and vitamin D3 supplementation on the clinical outcome in COVID-19 patients: A randomized controlled clinical trial. | Front Pharmacol
+- new | 2022 | 36150238 | Randomized Controlled Trial | Efficacy and safety of oral Nigella sativa oil for symptomatic treatment of knee osteoarthritis: A double-blind, randomized, placebo-controlled clinical trial. | Complement Ther Clin Pract
+- new | 2022 | 35567872 | Randomized Controlled Trial | The effect of nigella sativa supplementation on cardiometabolic outcomes in patients with non-alcoholic fatty liver: A randomized double-blind, placebo-controlled trial. | Complement Ther Clin Pract
+- new | 2022 | 35450390 |  | Nigella sativa L. as immunomodulator and preventive effect on renal tissue damage of lupus mice induced by pristane. | Heliyon
+- new | 2022 | 36276860 |  | Comparison between the Efficacy of Nigella sativa-Honey and Clotrimazole on Vulvovaginal Candidiasis: A Randomized Clinical Trial. | Evid Based Complement Alternat Med
+- new | 2022 | 35120579 | Clinical Trial Protocol | Effect of Nigella sativa supplementation on kidney function, glycemic control, oxidative stress, inflammation, quality of life, and depression in diabetic hemodialysis patients: st | Trials
+- new | 2022 | 35685605 | Randomized Controlled Trial | A Comparative Study on Alvogyl and a Mixture of Black Seed Oil and Powder for Alveolar Osteitis: A Randomized Double-Blind Controlled Clinical Trial. | Int J Clin Pract
+- new | 2022 | 36204125 |  | A Phase II, Randomized, Double-Blind, Double-Dummy, Active-Controlled Clinical Trial to Investigate the Efficacy and Safety of NW Low-Glu® in Patients Newly Diagnosed with Type 2 D | Evid Based Complement Alternat Med
+- new | 2022 | 36694496 | Review | Role of Alternative Medical Systems in Adult Chronic Kidney Disease Patients: A Systematic Review of Literature. | Cureus
+- new | 2022 | 35986358 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A new nutraceutical (Livogen Plus®) improves liver steatosis in adults with non-alcoholic fatty liver disease. | J Transl Med
+- new | 2022 | 35791468 |  | Activity of plant essential oils against antibiotic resistant Enterococcus faecalis isolated from diarrheic children. | Pak J Pharm Sci
+- new | 2022 | 35412685 | Randomized Controlled Trial | The effect of Nigella sativa oil on vascular dysfunction assessed by flow-mediated dilation and vascular-related biomarkers in subject with cardiovascular disease risk factors: A r | Phytother Res
+- new | 2022 | 33660114 | Randomized Controlled Trial | The effect of black seed raisin on some cardiovascular risk factors, serum malondialdehyde, and total antioxidant capacity in hyperlipidemic patients: a randomized controlled trial | Ir J Med Sci
+- new | 2022 | 36518853 | Review | The Therapeutic Effects of Nigella sativa on Skin Disease: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Evid Based Complement Alternat Med
+- new | 2022 | 36431050 |  | Effects of Supplementing Quails' (Coturnix japonica) Diets with a Blend of Clove (Syzygium aromaticum) and Black Cumin (Nigella sativa) Oils on Growth Performance and Health Aspect | Life (Basel)
+- new | 2022 | 36457598 |  | The Prevalence and Pattern of Using Complementary and Alternative Medicine in Saudi Patients With Diabetes: A Cross-Sectional Study. | Cureus
+- new | 2022 | 36107498 |  | Complementary and alternative medicine for functional dyspepsia: An Asian perspective. | Medicine (Baltimore)
+- new | 2022 | 35128116 |  | Use of herbal medicines during pregnancy in a group of Bangladeshi women. | Heliyon
+- new | 2022 | 35673509 |  | The effect of Nigella sativa on TAC and MDA in obese and overweight women: secondary analysis of a crossover, double blind, randomized clinical trial. | J Diabetes Metab Disord
+- new | 2022 | 36186933 |  | Nigella sativa oil protects against cadmium-induced intestinal toxicity via promotion of anti-inflammatory mechanisms, mucin expression and microbiota integrity. | Avicenna J Phytomed
+- new | 2021 | 34071454 | Meta-Analysis/Systematic Review | A Systematic Review and Meta-Analysis of Ayurvedic Herbal Preparations for Hypercholesterolemia. | Medicina (Kaunas)
+- new | 2021 | 37901256 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of Nigella sativa on general health and immune system in young healthy volunteers; a randomized, placebo-controlled, double-blinded clinical trial. | F1000Res
+- new | 2021 | 33851461 | Randomized Controlled Trial | Effects of Nigella sativa oil supplementation on selected metabolic parameters and anthropometric indices in patients with coronary artery disease: A randomized, double-blind, plac | Phytother Res
+- new | 2021 | 34721595 | Review | A Systematic Review on Use of Medicinal Plants for Male Infertility Treatment. | J Family Reprod Health
+- new | 2021 | 34059724 |  | Combined bio-chemical fertilizers ameliorate agro-biochemical attributes of black cumin (Nigella sativa L.). | Sci Rep
+- new | 2021 | 34658694 | Review | The efficacy of Nigella sativa supplementation for asthma control: a meta-analysis of randomized controlled studies. | Postepy Dermatol Alergol
+- new | 2021 | 33337930 | Systematic Review | A Systematic Review of Nutrition, Supplement, and Herbal-Based Adjunctive Therapies for Vitiligo. | J Altern Complement Med
+- new | 2021 | 33172379 | Review | Nigella Sativa (Black Seeds), A Potential Herb for the Pharmacotherapeutic Management of Hypertension - A Review. | Curr Cardiol Rev
+- new | 2021 | 34187123 | Meta-Analysis/Systematic Review | The effect of Nigella sativa on oxidative stress and inflammatory biomarkers: a systematic review and meta-analysis. | J Complement Integr Med
+- new | 2021 | 34722227 |  | Effects of Nigella sativa Extract on Chronic Rhinosinusitis: A Randomized Double Blind Study. | Indian J Otolaryngol Head Neck Surg
+- new | 2021 | 34407441 | Randomized Controlled Trial | Nigella sativa for the treatment of COVID-19: An open-label randomized controlled clinical trial. | Complement Ther Med
+- new | 2021 | 34430497 |  | Clinical Efficacy of a Novel Lipid-based Thymoquinone Gel: A Two-arm, Single-blinded, and Randomized Study. | J Int Soc Prev Community Dent
+- HELD REF-2485 | 2021 | 34899340 | Review | Effectiveness of Medicinal Plants for Glycaemic Control in Type 2 Diabetes: An Overview of Meta-Analyses of Clinical Trials. | Front Pharmacol
+- HELD REF-3702 | 2021 | 33728708 | Meta-Analysis/Systematic Review | Effect of Nigella sativa in the treatment of nonalcoholic fatty liver disease: A systematic review and meta-analysis of randomized controlled trials. | Phytother Res
+- new | 2021 | 33559935 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | The effect of nigella sativa on biomarkers of inflammation and oxidative stress: A systematic review and meta-analysis of randomized controlled trials. | J Food Biochem
+- new | 2021 | 33370571 | Randomized Controlled Trial | The effect of Nigella sativa on appetite, anthropometric and body composition indices among overweight and obese women: A crossover, double-blind, placebo-controlled, randomized cl | Complement Ther Med
+- new | 2021 | 34142392 | Randomized Controlled Trial | Effect of Nigella sativa oil extract on cardiometabolic risk factors in type 2 diabetes: A randomized, double-blind, placebo-controlled clinical trial. | Phytother Res
+- new | 2021 | 34496087 | Randomized Controlled Trial | The effect of nanomicelle curcumin supplementation and Nigella sativa oil on the expression level of miRNA-21, miRNA-422a, and miRNA-503 gene in postmenopausal women with low bone  | Phytother Res
+- new | 2021 | 34006388 | Randomized Controlled Trial | Nigella sativa as a promising intervention for metabolic and inflammatory disorders in obese prediabetic subjects: A comparative study of Nigella sativa versus both lifestyle modif | J Diabetes Complications
+- new | 2021 | 34526081 | Clinical Trial Protocol/Letter | Prophylactic potential of honey and Nigella sativa L. against hospital and community-based SARS-CoV-2 spread: a structured summary of a study protocol for a randomised controlled t | Trials
+- new | 2021 | 34234833 |  | Effects of Nigella sativa on Performance, Blood Profiles, and Antibody Titer against Newcastle Disease in Broilers. | Evid Based Complement Alternat Med
+- new | 2021 | 33957004 | Randomized Controlled Trial | A randomized, double-blind, placebo-controlled, clinical trial to evaluate the benefits of Nigella sativa seeds oil in reducing cardiovascular risks in hypertensive patients. | Phytother Res
+- new | 2020 | 32685234 | Review | Prophetic Medicine-Nigella Sativa (Black cumin seeds) - Potential herb for COVID-19? | J Pharmacopuncture
+- HELD REF-3700 | 2020 | 31892440 | Meta-Analysis/Systematic Review | The influence of Nigella sativa for asthma control: A meta-analysis. | Am J Emerg Med
+- new | 2020 | 32728367 |  | Efficacy of thymoquinone in the treatment of experimental lipopolysaccharide-induced acute lung injury. | Kardiochir Torakochirurgia Pol
+- new | 2020 | 32444053 | Systematic Review | Therapeutic potentials of Nigella sativa preparations and its constituents in the management of diabetes and its complications in experimental animals and patients with diabetes me | Complement Ther Med
+- new | 2020 | 32454800 | Meta-Analysis | Effect of Nigella sativa Supplementation on Oxidative Stress and Antioxidant Parameters: A Meta-Analysis of Randomized Controlled Trials. | ScientificWorldJournal
+- new | 2020 | 33183658 | Meta-Analysis/Systematic Review | Effect of Nigella sativa L. supplementation on inflammatory and oxidative stress indicators: A systematic review and meta-analysis of controlled clinical trials. | Complement Ther Med
+- new | 2020 | 33062002 | Review | The Possible Therapeutic Effects of Some Medicinal Plants for Chronic Cough in Children. | Evid Based Complement Alternat Med
+- new | 2020 | 32394508 | Meta-Analysis/Systematic Review | Effects of Nigella sativa on glycemic control, lipid profiles, and biomarkers of inflammatory and oxidative stress: A systematic review and meta-analysis of randomized controlled c | Phytother Res
+- new | 2020 | 32422307 |  | Thymoquinone potentiates miR-16 and miR-375 expressions in hepatocellular carcinoma. | Life Sci
+- new | 2020 | 31793087 | Meta-Analysis/Systematic Review | Effect of the herbal medicines in obesity and metabolic syndrome: A systematic review and meta-analysis of clinical trials. | Phytother Res
+- new | 2020 | 32236818 | Randomized Controlled Trial | The effects of nigella sativa on anthropometric and biochemical indices in postmenopausal women with metabolic syndrome. | Endocrine
+- new | 2020 | 33348934 |  | Perceptions, knowledge, and attitudes toward complementary and alternative medicine among Saudi patients with vitiligo. | Acta Dermatovenerol Alp Pannonica Adriat
+- new | 2020 | 32201245 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | The effect of Nigella sativa on the measures of liver and kidney parameters: A systematic review and meta-analysis of randomized-controlled trials. | Pharmacol Res
+- new | 2020 | 32548864 | Randomized Controlled Trial | The effect of a hydrogel made by Nigella sativa L. on acne vulgaris: A randomized double-blind clinical trial. | Phytother Res
+- new | 2020 | 31916648 |  | The beneficial health effects of Nigella sativa on Helicobacter pylori eradication, dyspepsia symptoms, and quality of life in infected patients: A pilot study. | Phytother Res
+- new | 2020 | 32257890 |  | Effect of Nigella sativa oil extracts on inflammatory and oxidative stress markers in Behcet's disease: A randomized, double-blind, placebo-controlled clinical trial. | Avicenna J Phytomed
+- new | 2019 | 30873671 | Randomized Controlled Trial | Efficacy of black seed (Nigella sativa L.) on kidney stone dissolution: A randomized, double-blind, placebo-controlled, clinical trial. | Phytother Res
+- new | 2019 | 31126557 | Randomized Controlled Trial | Nigella sativa and inflammatory biomarkers in patients with non-alcoholic fatty liver disease: Results from a randomized, double-blind, placebo-controlled, clinical trial. | Complement Ther Med
+- new | 2019 | 30639231 | Randomized Controlled Trial | Standardized Nigella sativa seed oil ameliorates hepatic steatosis, aminotransferase and lipid levels in non-alcoholic fatty liver disease: A randomized, double-blind and placebo-c | J Ethnopharmacol
+- new | 2019 | 30873688 | Meta-Analysis/Systematic Review | Effect of Nigella sativa (black seed) supplementation on glycemic control: A systematic review and meta-analysis of clinical trials. | Phytother Res
+- new | 2019 | 31453801 | Letter | The effect of nigella sativa oil on the prevention of phlebitis induced by chemotherapy: a clinical trial. | Biomedicine (Taipei)
+- new | 2019 | 31331553 | Meta-Analysis/Systematic Review | The effect of Nigella sativa L. supplementation on serum C-reactive protein: A systematic review and meta-analysis of randomized controlled trials. | Complement Ther Med
+- new | 2019 | 31780017 | Randomized Controlled Trial | Nigella sativa L. for prevention of acute radiation dermatitis in breast cancer: A randomized, double-blind, placebo-controlled, clinical trial. | Complement Ther Med
+- new | 2019 | 30727929 | Randomized Controlled Trial | A Randomized Controlled Trial of a Herbal Compound for Improving Metabolic Parameters in Diabetic Patients with Uncontrolled Dyslipidemia. | Endocr Metab Immune Disord Drug Targets
+- new | 2019 | 31781612 |  | Nigella sativa Oil Mouth Rinse Improves Chemotherapy-Induced Oral Mucositis in Patients with Acute Myeloid Leukemia. | Biomed Res Int
+- new | 2019 | 31420057 | Clinical Trial Protocol | Effects of oral Nigella sativa oil on the expression levels and serum concentrations of adiponectin, PPAR-γ, and TNF-α in overweight and obese women: a study protocol for a crossov | Trials
+- new | 2019 | 31485198 | Clinical Trial | Development of Novel Topical Cosmeceutical Formulations from Nigella sativa L. with Antimicrobial Activity against Acne-Causing Microorganisms. | ScientificWorldJournal
+- new | 2019 | 31293021 | Randomized Controlled Trial | The effects of black seed supplementation on cardiovascular risk factors in patients with nonalcoholic fatty liver disease: A randomized, double-blind, placebo-controlled clinical  | Phytother Res
+- new | 2019 | 31890671 |  | The effect of Nigella sativa oil on serum levels of inflammatory markers, liver enzymes, lipid profile, insulin and fasting blood sugar in patients with non-alcoholic fatty liver. | J Diabetes Metab Disord
+- new | 2018 | 29559374 | Meta-Analysis/Systematic Review | The effects of Nigella sativa L. on obesity: A systematic review and meta-analysis. | J Ethnopharmacol
+- new | 2018 | 29857879 | Meta-Analysis/Systematic Review | Effect of Nigella sativa supplementation on obesity indices: A systematic review and meta-analysis of randomized controlled trials. | Complement Ther Med
+- new | 2018 | 29938856 |  | Activity of preparations from Spilanthes oleracea, propolis, Nigella sativa, and black garlic on different microorganisms involved in oral diseases and on total human salivary bact | Phytother Res
+- new | 2018 | 29705470 | Randomized Controlled Trial | Investigation of the effect of black cumin oil on pain in osteoarthritis geriatric individuals. | Complement Ther Clin Pract
+- new | 2018 | 30532447 |  | OSNC9: The Effectiveness of Nigella sativa in Elimination of Candida Albicans Denture Biofilms - A Pilot Study. | J Indian Prosthodont Soc
+- new | 2018 | 30545348 |  | Herbal medicine use by pregnant women in Bangladesh: a cross-sectional study. | BMC Complement Altern Med
+- new | 2018 | 30456197 |  | Efficacy of Nigella sativa seeds oil in patients with Behcet's disease: a double-blind randomized controlled trial. | Avicenna J Phytomed
+- new | 2018 | 29604618 |  | An open prospective pilot study of a herbal combination "Relief" as a supportive dietetic measure during alcohol withdrawal. | Neuro Endocrinol Lett
+- new | 2017 | 28960541 |  | Inhibitory Effect of Thymoquinone on Testosterone-Induced Benign Prostatic Hyperplasia in Wistar Rats. | Phytother Res
+- new | 2017 | 30166900 | Review | Medicinal benefits of Nigella sativa in bronchial asthma: A literature review. | Saudi Pharm J
+- new | 2017 | 30087792 | Review | Review on the Potential Therapeutic Roles of Nigella sativa in the Treatment of Patients with Cancer: Involvement of Apoptosis: - Black cumin and cancer. | J Pharmacopuncture
+- new | 2017 | 28349493 | Randomized Controlled Trial | Effect of Nigella sativa seed administration on prevention of febrile neutropenia during chemotherapy among children with brain tumors. | Childs Nerv Syst
+- new | 2017 | 28392231 | Letter/Comment | Response to "Commentary on 'Clinicobiochemical evaluation of turmeric with black pepper and nigella sativa in management of oral submucous fibrosis-a double-blind, randomized preli | Oral Surg Oral Med Oral Pathol Oral Radi
+- new | 2017 | 28098097 | Randomized Controlled Trial | Protective role of Nigella sativa in diabetic nephropathy: A randomized clinical trial. | Saudi J Kidney Dis Transpl
+- new | 2017 | 28093815 | Clinical Trial, Phase II/Multicenter Study/Randomized Controlled Trial | Nigella sativa Supplementation Improves Asthma Control and Biomarkers: A Randomized, Double-Blind, Placebo-Controlled Trial. | Phytother Res
+- new | 2017 | 29348380 | Multicenter Study/Randomized Controlled Trial | Effect of Nigella sativa Seed Extract for Hypertension in Elderly: a Double-blind, Randomized Controlled Trial. | Acta Med Indones
+- new | 2017 | 29076670 | Randomized Controlled Trial | Effects of nigella sativa on various parameters in Patients of non-alcoholic fatty liver disease. | J Ayub Med Coll Abbottabad
+- new | 2017 | 28478938 | Letter/Comment | "Clinicobiochemical evaluation of turmeric with black pepper and Nigella sativa in management of oral submucous fibrosis-a double-blind, randomized preliminary study"-a commentary. | Oral Surg Oral Med Oral Pathol Oral Radi
+- new | 2017 | 30087794 | Review | Review on Clinical Trials of Black Seed (Nigella sativa ) and Its Active Constituent, Thymoquinone. | J Pharmacopuncture
+- new | 2017 | 28378356 | Randomized Controlled Trial | Effect of an orally formulated processed black cumin, from Iranian traditional medicine pharmacopoeia, in relieving symptoms of knee osteoarthritis: A prospective, randomized, doub | Int J Rheum Dis
+- new | 2017 | 28151459 | Randomized Controlled Trial | Effect of Nigella sativa supplementation on lung function and inflammatory mediatorsin partly controlled asthma: a randomized controlled trial. | Ann Saudi Med
+- new | 2017 | 28151458 | Clinical Trial | Effect of Nigella sativa supplementation over a one-year period on lipid levels, blood pressure and heart rate in type-2 diabetic patients receiving oral hypoglycemic agents: nonra | Ann Saudi Med
+- new | 2016 | 27247920 |  | Effects of Nigella sativa oil extract on inflammatory cytokine response and oxidative stress status in patients with rheumatoid arthritis: a randomized, double-blind, placebo-contr | Avicenna J Phytomed
+- new | 2016 | 27852303 | Randomized Controlled Trial | The effects of Nigella sativa on thyroid function, serum Vascular Endothelial Growth Factor (VEGF) - 1, Nesfatin-1 and anthropometric features in patients with Hashimoto's thyroidi | BMC Complement Altern Med
+- new | 2016 | 26952957 | Review | Male infertility: lifestyle factors and holistic, complementary, and alternative therapies. | Asian J Androl
+- HELD REF-2512 | 2016 | 27512971 | Meta-Analysis/Systematic Review | A systematic review and meta-analysis of randomized controlled trials investigating the effects of supplementation with Nigella sativa (black seed) on blood pressure. | J Hypertens
+- new | 2016 | 26875640 | Meta-Analysis/Systematic Review | Nigella sativa (black seed) effects on plasma lipid concentrations in humans: A systematic review and meta-analysis of randomized placebo-controlled trials. | Pharmacol Res
+- new | 2016 | 27157956 |  | Complementary and alternative therapies and health literacy in cancer patients. | Complement Ther Clin Pract
+- new | 2016 | 27100726 |  | Immunomodulatory Effect of Nigella sativa Oil on T Lymphocytes in Patients with Rheumatoid Arthritis. | Immunol Invest
+- new | 2016 | 27400742 |  | Use of complementary and alternative medicines in haemodialysis patients: a cross-sectional study from Palestine. | BMC Complement Altern Med
+- new | 2016 | 27720650 | Randomized Controlled Trial | Clinicobiochemical evaluation of turmeric with black pepper and nigella sativa in management of oral submucous fibrosis-a double-blind, randomized preliminary study. | Oral Surg Oral Med Oral Pathol Oral Radi
+- new | 2016 | 26911517 | Review | The use of medicinal herbs in gynecological and pregnancy-related disorders by Jordanian women: a review of folkloric practice vs. evidence-based pharmacology. | Pharm Biol
+- new | 2015 | 25415370 | Clinical Trial | In vivo and ex vivo evaluation of cosmetic properties of seedcakes. | J Cosmet Laser Ther
+- new | 2015 | 26093884 |  | Complementary and Alternative Medicine Use Among Patients With Chronic Kidney Disease and Kidney Transplant Recipients. | J Ren Nutr
+- new | 2015 | 25847554 | Randomized Controlled Trial | Clinical efficacy of the co-administration of Turmeric and Black seeds (Kalongi) in metabolic syndrome - a double blind randomized controlled trial - TAK-MetS trial. | Complement Ther Med
+- new | 2015 | 26386381 | Randomized Controlled Trial | Efficacy and safety of honey based formulation of Nigella sativa seed oil in functional dyspepsia: A double blind randomized controlled clinical trial. | J Ethnopharmacol
+- new | 2014 | 24484208 | Review | Effect of dietary supplementation of black seed (N. Sativa L.) on lipid profile of patients suffering from diabetes. | Antiinflamm Antiallergy Agents Med Chem
+- new | 2014 | 24685020 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A randomised controlled trial on hypolipidemic effects of Nigella Sativa seeds powder in menopausal women. | J Transl Med
+- new | 2013 | 24383002 |  | Antihyperlipidemic effect of a polyherbal mixture in streptozotocin-induced diabetic rats. | J Lipids
+- new | 2010 | 22131686 |  | Efficacy of Sri Lankan Traditional Decoction of Katuwelbatu Deduru Katukadi in treatment of Kaphaja Shira Shula (Chronic Sinusitis). | Ayu
+- new | 2009 | 19275687 | Systematic Review | A systematic review of the potential herbal sources of future drugs effective in oxidant-related diseases. | Inflamm Allergy Drug Targets
+- new | 2006 | 30000936 | Review | Black Seed. | 
+
+### PubMed SR - 118 hits, 48 not already listed above, 45 new
+- new | 2026 | 42247419 | Systematic Review | Plant-based therapeutics for leishmaniasis: A systematic review emphasizing human studies and clinical trial evidence. | PLoS Negl Trop Dis
+- new | 2026 | 42597704 | Review | Comparative Efficacy of Herbal Products for Improving Liver Enzymes and Inflammation in Metabolic Dysfunction-Associated Steatotic Liver Disease: A Systematic Review and Network Me | Gastro Hep Adv
+- new | 2026 | 41761211 | Review | Herbal compounds in the treatment of polycystic ovary syndrome: an updated systematic review. | J Ovarian Res
+- new | 2025 | 41375733 | Review | Nigella Sativa and Thymoquinone for Prevention or Mitigation of Acquired Sensorineural Hearing Loss: A Systematic Review. | J Clin Med
+- new | 2025 | 41509113 | Review | Effects of Nigella sativa and its constituents on total white blood cells count and airway responsiveness value in ovalbumin-induced asthma models: A preclinical systematic review  | Avicenna J Phytomed
+- new | 2025 | 40936162 | Systematic Review/Research Support, Non-U.S. Gov't | Dietary interventions on nutritional management of population with urolithiasis: a systematic review of clinical evidence. | Nutr Res Rev
+- new | 2025 | 40490159 | Systematic Review/Research Support, Non-U.S. Gov't | Efficacy and safety of phytotherapy and anthroposophic medicine in bronchial asthma: A systematic review. | Respir Med
+- new | 2025 | 40365513 | Review | Effects of Nigella sativa on VCAM-1 and ICAM-1: A systematic review of preclinical and clinical studies. | J Cardiovasc Thorac Res
+- new | 2025 | 41268275 | Review | Potent and broad-spectrum efficacy of thymoquinone in preclinical multi-organ ischemia-reperfusion injury a systematic review. | Am J Transl Res
+- new | 2025 | 40529497 | Review | An artificial intelligence-aided scoping review of medicinal plant research in the Fertile Crescent. | Front Pharmacol
+- new | 2025 | 39803225 | Review | Comprehensive Sensory Evaluation in Low-Fat Emulsions: A Systematic Review of Diverse Food Applications. | Food Sci Nutr
+- new | 2025 | 39709091 | Meta-Analysis/Systematic Review | Alleviating effects of Nigella sativa supplements on biomarkers of inflammation and oxidative stress: Results from an umbrella meta-analysis. | Prostaglandins Other Lipid Mediat
+- new | 2024 | 38928095 | Review | Cardiovascular Effects of Herbal Products and Their Interaction with Antihypertensive Drugs-Comprehensive Review. | Int J Mol Sci
+- new | 2024 | 38542668 | Meta-Analysis/Systematic Review | Effect of Aromatic Herbs and Spices Present in the Mediterranean Diet on the Glycemic Profile in Type 2 Diabetes Subjects: A Systematic Review and Meta-Analysis. | Nutrients
+- new | 2024 | 41018933 | Review | Thymoquinone Targeting T Helper 2 Cytokines in Animal Models of Asthma: A Systematic Review. | Tanaffos
+- new | 2024 | 38371505 | Systematic Review | Natural products and dietary interventions on liver enzymes: an umbrella review and evidence map. | Front Nutr
+- new | 2024 | 39247111 | Review | Ameliorative Effects of Thymoquinone against Chemotherapy-Induced Testicular Damage in Experimental Animals: A Systematic Review. | Malays J Med Sci
+- new | 2024 | 38510007 |  | Immune stimulatory effect of Nigella sativa in healthy animal models: A systematic review and meta-analysis. | Heliyon
+- new | 2023 | 36839399 | Systematic Review | The Influence of Nutritional Intervention in the Treatment of Hashimoto's Thyroiditis-A Systematic Review. | Nutrients
+- new | 2023 | 37731860 | Scoping Review | Anticancer effects of thymoquinone in head and neck squamous cell carcinoma: A scoping review. | Laryngoscope Investig Otolaryngol
+- new | 2023 | 37323050 | Systematic Review/Research Support, Non-U.S. Gov't | Non-Chinese herbal medicines for functional dyspepsia. | Cochrane Database Syst Rev
+- new | 2023 | 36829437 | Review | Nutraceuticals as Supportive Therapeutic Agents in Diabetes and Pancreatic Ductal Adenocarcinoma: A Systematic Review. | Biology (Basel)
+- new | 2023 | 37484695 | Review | The Efficacy of Herbs as Complementary and Alternative Therapy in Recovery and Clinical Outcome Among People with COVID-19: A Systematic Review, Meta-Analysis, and Meta-Regression. | Ther Clin Risk Manag
+- new | 2023 | 37013429 | Systematic Review | Achievements in Hypothyroidism Treatment with Herbal Medicine: A Systematic Review of Randomized Controlled Trials. | Curr Drug Discov Technol
+- new | 2022 | 35993457 | Systematic Review/Research Support, Non-U.S. Gov't | Herbal Medicines for Idiopathic Male Infertility: A Systematic Review. | Curr Drug Discov Technol
+- new | 2022 | 35911428 | Review | Complementary and alternative medicine for glycemic control of diabetes mellitus: A systematic review. | J Public Health Res
+- new | 2022 | 36498999 | Systematic Review | Mitochondrial Dysfunction and Induction of Apoptosis in Hepatocellular Carcinoma and Cholangiocarcinoma Cell Lines by Thymoquinone. | Int J Mol Sci
+- SEEN | 2022 | 36446563 | Systematic Review/Meta-Analysis | The Effectiveness of Herbal Medicines on Cyclic Mastalgia: A Systematic Review on Meta-analysis. | Rev Bras Ginecol Obstet
+- new | 2022 | 35490427 | Systematic Review | Native Iranian Medicinal Plants with Anti-Vaginal Infection Properties: A Systematic Review. | Infect Disord Drug Targets
+- new | 2022 | 35754481 | Systematic Review | Effectiveness and Safety of Ayurvedic Medicines in Type 2 Diabetes Mellitus Management: A Systematic Review and Meta-Analysis. | Front Pharmacol
+- new | 2022 | 35629345 | Review | Herbal Medicines against Hydatid Disease: A Systematic Review (2000-2021). | Life (Basel)
+- new | 2021 | 32525777 | Systematic Review | Persian Herbal Medicine in Functional Dyspepsia: A Systematic Review. | Curr Drug Discov Technol
+- new | 2021 | 33724587 | Systematic Review | Phytonutrient supplements and metabolic biomarkers of cardiovascular disease: An umbrella review of meta-analyses of clinical trials. | Phytother Res
+- new | 2021 | 33919894 | Systematic Review | Vegetable Extracts and Nutrients Useful in the Recovery from Helicobacter pylori Infection: A Systematic Review on Clinical Trials. | Molecules
+- new | 2021 | 34819725 | Systematic Review | Effects of Nutritional Interventions in Individuals with Chronic Obstructive Lung Disease: A Systematic Review of Randomized Controlled Trials. | Int J Chron Obstruct Pulmon Dis
+- new | 2020 | 31882078 | Meta-Analysis/Systematic Review | The antidiabetic effect of thymoquinone: A systematic review and meta-analysis of animal studies. | Food Res Int
+- new | 2020 | 31972323 | Systematic Review | Effects of Nigella sativa on endothelial dysfunction in diabetes mellitus: A review. | J Ethnopharmacol
+- SEEN | 2020 | 32274788 | Systematic Review | A Systematic Review of the Potential Effects of Nigella sativa on Rheumatoid Arthritis. | Planta Med
+- new | 2020 | 32138340 | Comment | Comment on: Effects of Nigella Sativa on Type-2 Diabetes Mellitus: A Systematic Review. | Int J Environ Res Public Health
+- new | 2020 | 32365740 | Comment | Reply to "Comment on: Effects of Nigella Sativa on Type-2 Diabetes Mellitus: A Systematic Review". | Int J Environ Res Public Health
+- new | 2020 | 32063428 | Letter/Comment | Is Nigella sativa supplementation effective for asthma? | Am J Emerg Med
+- new | 2019 | 31817324 | Systematic Review | Effects of Nigella Sativa on Type-2 Diabetes Mellitus: A Systematic Review. | Int J Environ Res Public Health
+- new | 2019 | 31666058 | Systematic Review | Effect of Nigella sativa and its bioactive compound on type 2 epithelial to mesenchymal transition: a systematic review. | BMC Complement Altern Med
+- new | 2018 | 29621129 | Systematic Review | Plants and Surgery: The Protective Effects of Thymoquinone on Hepatic Injury-A Systematic Review of In Vivo Studies. | Int J Mol Sci
+- new | 2018 | 29479315 | Review | Dissecting the Potential Roles of Nigella sativa and Its Constituent Thymoquinone on the Prevention and on the Progression of Alzheimer's Disease. | Front Aging Neurosci
+- new | 2017 | 28629150 | Systematic Review | Role of Nigella sativa and Its Constituent Thymoquinone on Chemotherapy-Induced Nephrotoxicity: Evidences from Experimental Animal Studies. | Nutrients
+- HELD REF-2516 | 2017 | 29154069 | Meta-Analysis/Systematic Review | Nigella sativa improves glucose homeostasis and serum lipids in type 2 diabetes: A systematic review and meta-analysis. | Complement Ther Med
+- new | 2015 | 25847566 | Systematic Review | Effects of black seed (Nigella sativa) on metabolic parameters in diabetes mellitus: a systematic review. | Complement Ther Med
+
+### PubMed SAFE - 895 hits, 190 not already listed above, 188 new
+- new | 2026 | 42896557 | Case Reports | Acute Localized Exanthematous Pustulosis-Like Dermatitis Induced by Nigella sativa Seed Oil. | Contact Dermatitis
+- new | 2026 | 41135346 |  | Nigella sativa oil (NSO): A game-changing neurorestorative strategy in cisplatin neurocognitive toxicity. | Tissue Cell
+- new | 2026 | 42110603 |  | Effect of thymoquinone on cyclophosphamide-induced injury in the rat urinary bladder. | Arch Med Sci
+- new | 2026 | 42555833 |  | Investigation of Thymoquinone as an Inhibitor of CYP2C8/EET Axis. | Chembiochem
+- new | 2026 | 41536196 |  | Protective Effects of Zofenopril, Thymoquinone and Their Co-Administration Against Cyclophosphamide-Induced Ovarian Toxicity in Rats. | J Biochem Mol Toxicol
+- new | 2026 | 42813630 |  | Pharmacological Profile of Thymoquinone: From Cellular Pathways to Nutraceutical Potential. | Mini Rev Med Chem
+- new | 2026 | 41575220 | Review/Research Support, Non-U.S. Gov't | Nigella sativa and Its Bioactive Compound Thymoquinone in Burn Therapy: Mechanisms, Efficacy, and Safety. | J Burn Care Res
+- new | 2026 | 42156484 |  | Combining glycine with thymoquinone offers a promising strategy for diabetes treatment. | Sci Rep
+- new | 2025 | 41049424 |  | Drug Interaction of Dasatinib with Thymoquinone: A Pharmacokinetic Study in Rats. | Int J Med Sci
+- new | 2025 | 41303508 | Review | Targeting Cancer Through Thymoquinone: From Molecular Mechanisms to Clinical Prospects. | Int J Mol Sci
+- new | 2025 | 38742473 |  | Thymoquinone oxime synthesis and its effects on melanoma cells: cytotoxic, genotoxic, and apoptotic evaluation. | Nat Prod Res
+- new | 2025 | 41090173 |  | Thymoquinone chemically conjugated to doxorubicin: antitumor activity and subcellular localization. | RSC Adv
+- new | 2025 | 40340641 |  | Effect of thymoquinone on hippocampal spexin levels in cisplatin-induced rats. | Neurol Res
+- new | 2025 | 40016603 | Review | Deciphering the anticancer potential of thymoquinone: in-depth exploration of the potent flavonoid from Nigella sativa. | Mol Biol Rep
+- new | 2025 | 42226972 |  | Protective Effects of Nigella Sativa Against Acrylamide-induced Toxicity in Submandibular Salivary Glands of Albino Rats. | Arch Razi Inst
+- new | 2025 | 40703761 |  | Thymoquinone prevents valproic acid-induced hepatotoxicity via modulation of cytochrome P450, PPARs, and apoptotic pathways. | Iran J Basic Med Sci
+- new | 2025 | 40969411 |  | Thymoquinone alleviates the adverse effects of cyclophosphamide on oogenesis and in vitro fertilization (IVF) in NMRI mice. | Avicenna J Phytomed
+- new | 2025 | 39792168 | Comparative Study/Research Support, Non-U.S. Gov't | Comparative effects of dexpanthenol and thymoquinone on colistin-induced neurotoxicity in rats. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2025 | 40856634 |  | Evaluating the potential of travoprost-thymoquinone co-loaded liposomes: a glaucomatous rabbit model study. | Ther Deliv
+- new | 2025 | 41379258 |  | Association of thymoquinone-induced changes in PINK1, DRP1, TFEB, and cytochrome c expression with mitochondrial dynamics and apoptosis in HepG2 and HDF cells. | Med Oncol
+- new | 2025 | 40696235 | Retraction Notice | Retraction Note: Role of Oxidative Stress, MAPKinase and Apoptosis Pathways in the Protective Effects of Thymoquinone Against Acrylamide-Induced Central Nervous System Toxicity in  | Neurochem Res
+- new | 2024 | 38723387 |  | Whole-cell bioconversion for producing thymoquinone by engineered Saccharomyces cerevisiae. | Enzyme Microb Technol
+- new | 2024 | 40255943 |  | Effect of Nigella sativa on dexamethasone-induced testicular toxicity in mice. | Avicenna J Phytomed
+- new | 2024 | 38590120 |  | Self-micellizing solid dispersion of thymoquinone with enhanced biopharmaceutical and nephroprotective effects. | Drug Deliv
+- new | 2024 | 39229585 | Review | Thymoquinone: A comprehensive review of its potential role as a monotherapy for metabolic syndrome. | Iran J Basic Med Sci
+- new | 2024 | 39188726 | Review | Nano-based formulations of thymoquinone are new approaches for psoriasis treatment: a literature review. | Front Immunol
+- new | 2024 | 38257347 |  | In Vitro and In Vivo Preventive Effects of Thymoquinone against Breast Cancer: Role of DNMT1. | Molecules
+- new | 2024 | 39013998 |  | Thymoquinone' potent impairment of multidrug-resistant Staphylococcus aureus NorA efflux pump activity. | Sci Rep
+- new | 2024 | 38658488 |  | The Effect of Thymoquinone on the TNF-α/OTULIN/NF-κB Axis Against Cisplatin-İnduced Testicular Tissue Damage. | Reprod Sci
+- new | 2024 | 38459752 |  | Protective effect of thymoquinone nanoemulsion in reducing the cardiotoxic effect of 5-fluorouracil in rats. | Drug Dev Res
+- new | 2024 | 38504479 |  | Thymoquinone protects thioacetamide-induced chronic liver injury by inhibiting TGF-β1/Smad3 axis in rats. | J Biochem Mol Toxicol
+- new | 2024 | 38977085 |  | Protection against α-Amanitin-induced liver toxicity: Efficacy of pomegranate seed oil and black cumin oil. | Toxicon
+- new | 2024 | 38844000 | Case Reports | Rhabdomyolysis and acute kidney injury after consumption of black seed oil. | Toxicon
+- new | 2024 | 38797368 |  | A bioanalytical assay for estimation of thymoquinone in rats cerebrospinal fluid and brain tissues of nasally administrated thymoquinone loaded lipo-polymeric nanoshells and its ph | J Pharmacol Toxicol Methods
+- new | 2024 | 38308180 |  | A Study on Thymoquinone: Antioxidant Capacity and Anticancer Activities in LoVo Colorectal Cancer Cells. | Chem Biodivers
+- new | 2024 | 39355315 |  | Stereological and biochemical effects of thymoquinone on ovarian tissue toxicity induced by silver nanoparticles in NMRI mice: An experimental study. | Int J Reprod Biomed
+- new | 2024 | 38544644 |  | Use of Ozone Therapy and Thymoquinone in the Prevention of Formaldehyde Toxicity by Inhalation: An Experimental Study. | Cureus
+- new | 2024 | 39891468 |  | Simultaneous Application of Thymoquinone and Hydroxychloroquine Suppresses Autophagy and Disrupts the Autophagosomal Trench Engulfed Leishmania major. | Iran Biomed J
+- new | 2024 | 38306072 |  | HPLC method for the determination of thymoquinone in growth cell medium. | Technol Health Care
+- new | 2024 | 39206985 |  | The anti-neoplastic impact of thymoquinone from Nigella sativa on small cell lung cancer: In vitro and in vivo investigations. | J Cancer Res Ther
+- new | 2024 | 38253839 |  | Silicon and titanium nanoparticles modulated drought and chromium toxicity by adjusting physio-biochemical attributes and fatty acid profiles of black cumin (Nigella sativa L.). | Environ Sci Pollut Res Int
+- new | 2024 | 39741570 |  | Comparative Evaluation of the Preventive Effects of Citral, Silymarin, Thymoquinone, and Curcumin on 5-Fluorouracil-Induced Cardiac and Pulmonary Toxicity in Rats. | J Pharmacopuncture
+- new | 2024 | 37978932 |  | In vivo assessment of black seed oil single dose on prednisolone pharmacokinetics. | J Pharm Pharmacol
+- new | 2024 | 38445454 |  | Evaluating the Protective Effects of Thymoquinone on Methamphetamine-induced Toxicity in an In Vitro Model Based on Differentiated PC12 Cells. | Altern Lab Anim
+- new | 2023 | 37767034 |  | Thymoquinone-loaded lipid nanocapsules with promising anticancer activity for colorectal cancer. | Nanoscale Adv
+- new | 2023 | 37998744 | Review | How Thymoquinone from Nigella sativa Accelerates Wound Healing through Multiple Mechanisms and Targets. | Curr Issues Mol Biol
+- new | 2023 | 38087345 | Review | Potential anticancer properties and mechanisms of thymoquinone in colorectal cancer. | Cancer Cell Int
+- HELD REF-2069 | 2023 | 37818339 | Review | Mechanism of the antidiabetic action of Nigella sativa and Thymoquinone: a review. | Front Nutr
+- new | 2023 | 37219672 |  | Thymoquinone enhanced the antitumor activity of cisplatin in human bladder cancer 5637 cells in vitro. | Mol Biol Rep
+- new | 2023 | 37242757 |  | Antinociceptive Action of Thymoquinone-Loaded Liposomes in an In Vivo Model of Tendinopathy. | Pharmaceutics
+- new | 2023 | 37568105 |  | Protective role of thymoquinone in hyperlipidemia-induced liver injury in LDL-R(-/-)mice. | BMC Gastroenterol
+- new | 2023 | 36968470 | Published Erratum | Corrigendum: Effect of Allium sativum and Nigella sativa on alleviating aluminum toxicity state in the albino rats. | Front Vet Sci
+- new | 2023 | 37481931 | Review | Anticancer activity of thymoquinone against breast cancer cells: Mechanisms of action and delivery approaches. | Biomed Pharmacother
+- new | 2023 | 37813830 | Research Support, Non-U.S. Gov't | Thymoquinone Alleviates Paclitaxel-Induced Peripheral Neuropathy through Regulation of the TLR4-MyD88 Inflammatory Pathway. | ACS Chem Neurosci
+- new | 2023 | 38003621 |  | Gas Chromatography-Mass Spectrometry Detection of Thymoquinone in Oil and Serum for Clinical Pharmacokinetic Studies. | Int J Mol Sci
+- new | 2023 | 37446810 |  | Design, Synthesis, and Acute Toxicity Assays for Novel Thymoquinone Derivative TQFL12 in Mice and the Mechanism of Resistance to Toxicity. | Molecules
+- new | 2023 | 37067745 |  | Self-nanoemulsifying drug delivery system (SNEDDS) of docetaxel and carvacrol synergizes the anticancer activity and enables safer toxicity profile: optimization, and in-vitro, ex- | Drug Deliv Transl Res
+- new | 2023 | 35484332 |  | Hepatic Response to the Interaction Between Thymoquinone and Iron-Dextran: an In Vitro and In Vivo Study. | Biol Trace Elem Res
+- new | 2023 | 36494318 | Case Reports | Severe allergic contact connubial dermatitis to Nigella Sativa Seed Oil due to repeated contacts to beard cosmetics. | Contact Dermatitis
+- new | 2023 | 36875499 |  | Thymoquinone ameliorates acrylamide-induced reproductive toxicity in female rats: An experimental study. | Int J Reprod Biomed
+- new | 2023 | 37513307 | Review | Cellular, Molecular, Pharmacological, and Nano-Formulation Aspects of Thymoquinone-A Potent Natural Antiviral Agent. | Molecules
+- new | 2023 | 37766887 |  | Interleukin-35 and Thymoquinone nanoparticle-based intervention for liver protection against paracetamol-induced liver injury in rats. | Saudi J Biol Sci
+- new | 2023 | 36184707 |  | Thymoquinone counteracts oxidative and inflammatory machinery in carrageenan-induced murine paw edema model. | Environ Sci Pollut Res Int
+- new | 2023 | 37338137 |  | Thymoquinone protects against 5-Fluorouracil-induced mucositis by NF-κβ and HIF-1 mechanisms in mice. | J Biochem Mol Toxicol
+- new | 2023 | 36839901 |  | Evaluation of Conventional and Hyaluronic Acid-Coated Thymoquinone Liposomes in an In Vitro Model of Dry Eye. | Pharmaceutics
+- new | 2023 | 37567646 |  | Protective effect of quercetin and thymoquinone against genotoxicity and oxidative stress induced by ZnO nanoparticles in the Wistar rat model. | Mutat Res Genet Toxicol Environ Mutagen
+- new | 2023 | 38235049 |  | Silver Nanoparticles from Saudi and Syrian Black Cumin Seed Extracts: Green Synthesis, ADME, Toxicity, Comparative Research, and Biological Appraisal. | J Pharm Bioallied Sci
+- new | 2022 | 35455405 | Review | Thymoquinone: Review of Its Potential in the Treatment of Neurological Diseases. | Pharmaceuticals (Basel)
+- new | 2022 | 35236304 | Review | Potential anticancer properties and mechanisms of thymoquinone in osteosarcoma and bone metastasis. | Cell Mol Biol Lett
+- new | 2022 | 35055080 |  | Thymoquinone-Loaded Chitosan Nanoparticles as Natural Preservative Agent in Cosmetic Products. | Int J Mol Sci
+- new | 2022 | 35114449 | Review | Combinatorial effect of thymoquinone with chemo agents for tumor therapy. | Phytomedicine
+- new | 2022 | 35187760 |  | The effects of thymoquinone and quercetin on the toxicity of acrylamide in rat glioma cells. | J Biochem Mol Toxicol
+- new | 2022 | 36155422 |  | Thymoquinone supplementation mitigates arsenic-induced cytotoxic and genotoxic alterations in rat liver. | J Trace Elem Med Biol
+- new | 2022 | 35682990 | Review | Anticancer and Anti-Metastatic Role of Thymoquinone: Regulation of Oncogenic Signaling Cascades by Thymoquinone. | Int J Mol Sci
+- new | 2022 | 34997774 |  | Oral thymoquinone modulates cyclophosphamide-induced testicular toxicity in adolescent Wistar rats. | Andrologia
+- new | 2022 | 34233550 |  | Therapeutic effects of thymoquinone or capsaicin on acrylamide-induced reproductive toxicity in rats mediated by their effect on oxidative stress, inflammation, and tight junction  | Drug Chem Toxicol
+- new | 2022 | 35419842 | Case Reports | Drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome after topical use of Nigella sativa (black cumin) oil. | Contact Dermatitis
+- new | 2022 | 36219549 |  | Allergic Contact Dermatitis Induced by Prostaquinon. | J Investig Allergol Clin Immunol
+- new | 2022 | 36158887 |  | Chemopreventive Efficacy of Thymoquinone in Chemically Induced Urinary Bladder Carcinogenesis in Rat. | Biomed Res Int
+- new | 2022 | 35958317 |  | Berbamine and thymoquinone exert protective effects against immune-mediated liver injury via NF-κB dependent pathway. | Front Vet Sci
+- new | 2022 | 34963383 |  | Protective Effect of Nigella sativa and Onion Extract against 5-Fluorouracil-Induced Hepatic Toxicity. | Nutr Cancer
+- new | 2022 | 36464690 |  | The significance of thymoquinone administration on liver toxicity of diazinon and cholinesterase activity; a recommendation for prophylaxis among individuals at risk. | BMC Complement Med Ther
+- new | 2022 | 35989976 |  | Protective effects of caffeic acid phenethyl ester (CAPE) and thymoquinone against cigarette smoke in experimental bone fracture healing. | J Oral Biol Craniofac Res
+- new | 2022 | 35510229 |  | Defensive role of Nigella sativa against antituberculosis drugs induced renal toxicity. | Toxicol Res (Camb)
+- new | 2022 | 34767666 |  | Thymoquinone attenuates isoproterenol-induced myocardial infarction by inhibiting cytochrome C and matrix metalloproteinase-9 expression. | Clin Exp Pharmacol Physiol
+- new | 2022 | 35676849 | Review | An Overview of the Neuropharmacological Potential of Thymoquinone and its Targeted Delivery Prospects for CNS Disorder. | Curr Drug Metab
+- new | 2022 | 35437842 |  | Suppressive effects of thymoquinone on the initiation stage of diethylnitrosamine hepatocarcinogenesis in rats. | J Biochem Mol Toxicol
+- new | 2022 | 35496297 |  | Metformin and Thymoquinone Synergistically Inhibit Proliferation of Imatinib-Resistant Human Leukemic Cells. | Front Pharmacol
+- HELD REF-2065 | 2021 | 34073784 | Review | Black Cumin (Nigella sativa L.): A Comprehensive Review on Phytochemistry, Health Benefits, Molecular Pharmacology, and Safety. | Nutrients
+- new | 2021 | 34036860 |  | Thymoquinone-entrapped chitosan-modified nanoparticles: formulation optimization to preclinical bioavailability assessments. | Drug Deliv
+- new | 2021 | 33370631 | Review | Thymoquinone in autoimmune diseases: Therapeutic potential and molecular mechanisms. | Biomed Pharmacother
+- new | 2021 | 34975474 | Review | Anti-Inflammatory Effects of Thymoquinone in Atherosclerosis: A Mini Review. | Front Pharmacol
+- new | 2021 | 34173702 |  | Erk phosphorylation reduces the thymoquinone toxicity in human hepatocarcinoma. | Environ Toxicol
+- new | 2021 | 34219618 |  | Antioxidant thymoquinone and eugenol alleviate TiO(2) nanoparticle-induced toxicity in human blood cells in vitro. | Toxicol Mech Methods
+- new | 2021 | 33489775 |  | Investigation of cellular effects of thymoquinone on glioma cell. | Toxicol Rep
+- new | 2021 | 34066874 |  | Safety and Therapeutic Efficacy of Thymoquinone-Loaded Liposomes against Drug-Sensitive and Drug-Resistant Acinetobacter baumannii. | Pharmaceutics
+- new | 2021 | 33769068 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Enriched pharmacokinetic behavior and antitumor efficacy of thymoquinone by liposomal delivery. | Nanomedicine (Lond)
+- new | 2021 | 34621636 | Review | Antidiabetic Activity of Nigella Sativa (Black Seeds) and Its Active Constituent (Thymoquinone): A Review of Human and Experimental Animal Studies. | Chonnam Med J
+- new | 2021 | 34391767 | Review | Thymoquinone, a major constituent in Nigella sativa seeds, is a potential preventative and treatment option for atherosclerosis. | Eur J Pharmacol
+- new | 2021 | 33510276 |  | Protective effect of thymoquinone against lung intoxication induced by malathion inhalation. | Sci Rep
+- new | 2021 | 35011457 | Review | Insights into the Protective Effects of Thymoquinone against Toxicities Induced by Chemotherapeutic Agents. | Molecules
+- new | 2021 | 34367926 | Review | Therapeutic potential of thymoquinone in combination therapy against cancer and cancer stem cells. | World J Clin Oncol
+- new | 2021 | 34818114 |  | Thymoquinone ameliorates bleomycin-induced reproductive toxicity in male Balb/c mice. | Hum Exp Toxicol
+- new | 2021 | 34067322 | Review | Recent Findings on Thymoquinone and Its Applications as a Nanocarrier for the Treatment of Cancer and Rheumatoid Arthritis. | Pharmaceutics
+- new | 2021 | 35747868 |  | Thymoquinone Ameliorate Hepatorenal Toxicity Associated With Propylthiouracil-Induced Hypothyroidism in Juvenile Rats. | Acta Endocrinol (Buchar)
+- new | 2021 | 33937934 |  | Thymoquinone reduces mitochondrial damage and death of cardiomyocytes induced by clozapine. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2020 | 32297580 | Review | Thymoquinone, an Active Compound of Nigella sativa: Role in Prevention and Treatment of Cancer. | Curr Pharm Biotechnol
+- new | 2020 | 32232855 | Case Reports | Thymoquinone as a causative allergen in Nigella sativa oil contact dermatitis with cross-reactivity to tert-butylhydroquinone. | Contact Dermatitis
+- new | 2020 | 32721537 | Research Support, Non-U.S. Gov't/Review | Targeting kinases with thymoquinone: a molecular approach to cancer therapeutics. | Drug Discov Today
+- new | 2020 | 31933077 |  | Protective effects of thymoquinone and diallyl sulphide against malathion-induced toxicity in rats. | Environ Sci Pollut Res Int
+- new | 2020 | 32608003 |  | Protective effects of thymoquinone against acrylamide-induced liver, kidney and brain oxidative damage in rats. | Environ Sci Pollut Res Int
+- new | 2020 | 32774804 | Review | Thymoquinone: From Nigella sativa to a protective pharmacological compound in managing opioid dependence and amphetamine type stimulant issues. | Iran J Basic Med Sci
+- new | 2020 | 33116496 |  | Pharmacokinetics and Biodistribution of Thymoquinone-loaded Nanostructured Lipid Carrier After Oral and Intravenous Administration into Rats. | Int J Nanomedicine
+- new | 2020 | 32394736 |  | Thymoquinone is a protective agent that reduces the negative effects of doxorubicin in rat testis. | Hum Exp Toxicol
+- new | 2020 | 32083254 |  | A bioanalytical UHPLC based method used for the quantification of Thymoquinone-loaded-PLGA-nanoparticles in the treatment of epilepsy. | BMC Chem
+- new | 2020 | 32407268 |  | Effect of Nigella sativa and Fenugreek on the Pharmacokinetics and Pharmacodynamics of Amlodipine in Hypertensive Rats. | Curr Drug Metab
+- new | 2019 | 30902654 |  | Characterization of thymoquinone/hydroxypropyl-β-cyclodextrin inclusion complex: Application to anti-allergy properties. | Eur J Pharm Sci
+- new | 2019 | 31011555 | Review | Nigella sativaand its Derivatives as Food Toxicity Protectant Agents. | Adv Pharm Bull
+- new | 2019 | 31847893 | Research Support, Non-U.S. Gov't | Thymoquinone ameliorates Pachycondyla sennaarensis venom-induced acute toxic shock in male rats. | BMC Pharmacol Toxicol
+- new | 2019 | 31541714 | Research Support, Non-U.S. Gov't/Review | Epigenetic role of thymoquinone: impact on cellular mechanism and cancer therapeutics. | Drug Discov Today
+- new | 2019 | 31410159 |  | Protective role of thymoquinone in sepsis-induced liver injury in BALB/c mice. | Exp Ther Med
+- new | 2019 | 29648463 |  | Protective effect of thymoquinone, the main component of Nigella Sativa, against diazinon cardio-toxicity in rats. | Drug Chem Toxicol
+- new | 2019 | 30821514 |  | Protective effects of caffeic acid phenethyl ester and thymoquinone on toluene induced liver toxicity. | Biotech Histochem
+- new | 2019 | 30725239 |  | Neuroprotective Effects of Thymoquinone in Acrylamide-Induced Peripheral Nervous System Toxicity Through MAPKinase and Apoptosis Pathways in Rat. | Neurochem Res
+- new | 2019 | 31334120 |  | Ultrastructural Changes and Antitumor Effects of Doxorubicin/Thymoquinone-Loaded CaCO(3) Nanoparticles on Breast Cancer Cell Line. | Front Oncol
+- new | 2019 | 31065039 | Research Support, Non-U.S. Gov't/Retracted Publication | Thymoquinone therapy remediates elevated brain tissue inflammatory mediators induced by chronic administration of food preservatives. | Sci Rep
+- new | 2019 | 31490571 | Clinical Trial, Veterinary | Pharmacokinetics of thymoquinone in layer chickens following oral and intravenous administration. | J Vet Pharmacol Ther
+- new | 2018 | 30257423 | Review | Protective Roles of Thymoquinone Nanoformulations: Potential Nanonutraceuticals in Human Diseases. | Nutrients
+- new | 2018 | 29651429 | Review | Therapeutic Potential of Thymoquinone in Glioblastoma Treatment: Targeting Major Gliomagenesis Signaling Pathways. | Biomed Res Int
+- new | 2018 | 29891368 |  | Protective role of thymoquinone against paraquat-induced hepatotoxicity in mice. | Pestic Biochem Physiol
+- new | 2018 | 29710533 |  | Thymoquinone alleviates arsenic induced hippocampal toxicity and mitochondrial dysfunction by modulating mPTP in Wistar rats. | Biomed Pharmacother
+- new | 2018 | 29881705 |  | Thymoquinone recovers learning function in a rat model of Alzheimer's disease. | Avicenna J Phytomed
+- new | 2018 | 29989011 |  | Inhibition of cytochrome P450 enzymes by thymoquinone in human liver microsomes. | Saudi Pharm J
+- new | 2018 | 29854586 |  | Nigella sativa oil protects against tartrazine toxicity in male rats. | Toxicol Rep
+- new | 2018 | 30014468 |  | Impact of thymoquinone on cyclosporine A pharmacokinetics and toxicity in rodents. | J Pharm Pharmacol
+- new | 2018 | 29970684 |  | Synergistic effect of thymoquinone and melatonin against breast cancer implanted in mice. | J Cancer Res Ther
+- new | 2018 | 29491651 |  | Studying the Inhibitory Effect of Quercetin and Thymoquinone on Human Cytochrome P450 Enzyme Activities. | Pharmacogn Mag
+- new | 2018 | 29981725 |  | Thymoquinone induces apoptosis in bladder cancer cell via endoplasmic reticulum stress-dependent mitochondrial pathway. | Chem Biol Interact
+- new | 2018 | 29935248 |  | Diclofenac induced gastrointestinal and renal toxicity is alleviated by thymoquinone treatment. | Food Chem Toxicol
+- new | 2018 | 30119245 | Comparative Study | A comparison of the effects of thymoquinone, silymarin and N-acetylcysteine in an experimental hepatotoxicity. | Biomed Pharmacother
+- new | 2018 | 29743967 | Review | Neuropharmacological Potential and Delivery Prospects of Thymoquinone for Neurological Disorders. | Oxid Med Cell Longev
+- new | 2018 | 29456989 |  | Effect of Thymoquinone on Reproductive Parameter in Morphine-treated Male Mice. | Adv Biomed Res
+- new | 2018 | 28669218 |  | Protective effect of Nigella sativa oil against acetamiprid induced reproductive toxicity in male rats. | Drug Chem Toxicol
+- new | 2018 | 30255073 |  | Ameliorative effects of thymoquinone on titanium dioxide nanoparticles induced acute toxicity in rats. | Int J Vet Sci Med
+- new | 2018 | 29706929 |  | Neuromodulatory Effect of Thymoquinone in Attenuating Glutamate-Mediated Neurotoxicity Targeting the Amyloidogenic and Apoptotic Pathways. | Front Neurol
+- new | 2018 | 29510292 |  | Thymoquinone Induces Apoptosis in B16-F10 Melanoma Cell Through Inhibition of p-STAT3 and Inhibits Tumor Growth in a Murine Intracerebral Melanoma Model. | World Neurosurg
+- new | 2018 | 30073256 |  | Association Between Severe Acute Contact Dermatitis Due to Nigella sativa Oil and Epidermal Apoptosis. | JAMA Dermatol
+- new | 2018 | 29659036 |  | Therapeutic effect of thymoquinone against lead-induced testicular histological damage in male Wistar rats. | Andrologia
+- new | 2017 | 28881699 | Review | Thymoquinone, as an anticancer molecule: from basic research to clinical investigation. | Oncotarget
+- new | 2017 | 28795592 |  | Semi-synthetic thymoquinone analogs: new prototypes as potential antihyperlipidemics in irradiated rats. | Future Med Chem
+- new | 2017 | 29844772 | Review | Black Seed (Nigella Sativa) and its Constituent Thymoquinone as an Antidote or a Protective Agent Against Natural or Chemical Toxicities. | Iran J Pharm Res
+- new | 2017 | 28659794 | Review | Thymoquinone as a Potential Adjuvant Therapy for Cancer Treatment: Evidence from Preclinical Studies. | Front Pharmacol
+- new | 2017 | 28983249 | Review | Therapeutic Potential and Pharmaceutical Development of Thymoquinone: A Multitargeted Molecule of Natural Origin. | Front Pharmacol
+- new | 2017 | 28783890 |  | Reduction of side effects of hyperbaric oxygen therapy with thymoquinone treatment in rats. | Undersea Hyperb Med
+- new | 2017 | 28482534 |  | Oral bioavailability enhancement and hepatoprotective effects of thymoquinone by self-nanoemulsifying drug delivery system. | Mater Sci Eng C Mater Biol Appl
+- new | 2017 | 29198130 |  | The protective effect of thymoquinone over olanzapine-induced side effects in liver, and metabolic side effects. | Bratisl Lek Listy
+- new | 2017 | 27916297 |  | Protective effects of thymoquinone and avenanthramides on titanium dioxide nanoparticles induced toxicity in Sprague-Dawley rats. | Pathol Res Pract
+- new | 2017 | 28472683 |  | Thymoquinone binds and activates human salivary aldehyde dehydrogenase: Potential therapy for the mitigation of aldehyde toxicity and maintenance of oral health. | Int J Biol Macromol
+- new | 2017 | 28901799 |  | Protective effect of thymoquinone against lead-induced antioxidant defense system alteration in rat liver. | Acta Biol Hung
+- new | 2017 | 28471230 |  | Protective effect of thymoquinone against cyclophosphamide-induced genotoxic damage in human lymphocytes. | Bratisl Lek Listy
+- new | 2017 | 28938193 |  | Protective effect of thymoquinone against diazinon-induced hematotoxicity, genotoxicity and immunotoxicity in rats. | Environ Toxicol Pharmacol
+- new | 2017 | 29479371 |  | In Vivo Subacute Toxicity and Antidiabetic Effect of Aqueous Extract of Nigella sativa. | Evid Based Complement Alternat Med
+- new | 2017 | 29223554 |  | Oral administration of Nigella sativa oil and thymoquinone attenuates long term cisplatin treatment induced toxicity and oxidative damage in rat kidney. | Biomed Pharmacother
+- new | 2016 | 27247918 | Review | Gastrointestinal effects of Nigella sativa and its main constituent, thymoquinone: a review. | Avicenna J Phytomed
+- new | 2016 | 25216800 |  | Thymoquinone supplementation ameliorates lead-induced testis function impairment in adult rats. | Toxicol Ind Health
+- new | 2016 | 28349843 |  | Thymoquinone ameliorates lead-induced suppression of the antioxidant system in rat kidneys. | Libyan J Med
+- new | 2016 | 26976069 |  | Quantification and evaluation of thymoquinone loaded mucoadhesive nanoemulsion for treatment of cerebral ischemia. | Int J Biol Macromol
+- new | 2016 | 27877037 |  | Acute and subacute toxicity profiles of thymoquinone-loaded nanostructured lipid carrier in BALB/c mice. | Int J Nanomedicine
+- new | 2016 | 26971798 |  | Protective effect of thymoquinone against lead-induced hepatic toxicity in rats. | Environ Sci Pollut Res Int
+- new | 2016 | 26828813 | Comparative Study | Comparison of Histopathological Effects of Thymoquinone and Local Nasal Corticosteroids in Allergic Rhinitis in a Rabbit Model. | ORL J Otorhinolaryngol Relat Spec
+- new | 2016 | 27180446 |  | NEUROMODULATORY EFFECTS OF THYMOQUINONE IN EXTENUATING OXIDATIVE STRESS IN CHLORPROMAZINE TREATED RATS. | Acta Pol Pharm
+- new | 2016 | 25425536 |  | Protective role of Nigella sativa oil against reproductive toxicity, hormonal alterations, and oxidative damage induced by chlorpyrifos in male rats. | Toxicol Ind Health
+- new | 2016 | 27688165 |  | Upregulation of SIRT1-AMPK by thymoquinone in hepatic stellate cells ameliorates liver injury. | Toxicol Lett
+- new | 2016 | 27451272 |  | Development of a novel nanoparticle formulation of thymoquinone with a cold wet-milling system and its pharmacokinetic analysis. | Int J Pharm
+- new | 2016 | 27363643 |  | Gastroprotective effects of sulforaphane and thymoquinone against acetylsalicylic acid-induced gastric ulcer in rats. | J Surg Res
+- new | 2015 | 24924310 |  | Pharmacokinetic plasma behaviors of intravenous and oral bioavailability of thymoquinone in a rabbit model. | Eur J Drug Metab Pharmacokinet
+- new | 2015 | 26202209 | Research Support, Non-U.S. Gov't | Thymoquinone Ameliorates Acute Renal Failure in Gentamicin-Treated Adult Male Rats. | Pharmacology
+- new | 2015 | 26505373 |  | Protective effect of thymoquinone on cholestatic rats with liver injury. | Genet Mol Res
+- new | 2015 | 25367764 | Research Support, Non-U.S. Gov't | Thymoquinone supplementation reverses lead-induced oxidative stress in adult rat testes. | Gen Physiol Biophys
+- new | 2015 | 26434126 |  | Effects of Thymoquinone on the Pharmacokinetics and Pharmacodynamics of Glibenclamide in a Rat Model. | Nat Prod Commun
+- new | 2015 | 25829334 | Review | Thymoquinone and its therapeutic potentials. | Pharmacol Res
+- new | 2015 | 26012233 |  | Toxicity of some plant extracts against vector of lymphatic filariasis, Culex pipiens. | J Egypt Soc Parasitol
+- new | 2015 | 25945233 |  | Effects of Nigella sativa oil and ascorbic acid against oxytetracycline-induced hepato-renal toxicity in rabbits. | Iran J Basic Med Sci
+- new | 2014 | 24001594 | Review | Thymoquinone: fifty years of success in the battle against cancer models. | Drug Discov Today
+- new | 2013 | 23277025 | Comparative Study/Research Support, Non-U.S. Gov't | Thymoquinone induces apoptosis in malignant T-cells via generation of ROS. | Front Biosci (Elite Ed)
+- new | 2012 | 37184195 | Review | Black Cumin Seed. | 
+- new | 2010 | 20585163 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Delivery of phytochemical thymoquinone using molecular micelle modified poly(D, L lactide-co-glycolide) (PLGA) nanoparticles. | Nanotechnology
+- new | 2000 | 10883736 | Comparative Study | Protective effects of thymoquinone and desferrioxamine against hepatotoxicity of carbon tetrachloride in mice. | Life Sci
+- new | 1998 | 9700580 |  | Thymoquinone protects against doxorubicin-induced cardiotoxicity without compromising its antitumor activity. | J Exp Clin Cancer Res
+- new | 1991 | 2030595 | Research Support, Non-U.S. Gov't | Modulatory effects of Crocus sativus and Nigella sativa extracts on cisplatin-induced toxicity in mice. | J Ethnopharmacol
+
+### PubMed OBS - 54 hits, 38 not already listed above, 38 new
+- new | 2026 | 41697424 |  | Checkerboard and Isobologram Analysis of the Interaction between Black Cumin and Clove Essential Oils against Multidrug-Resistant Nosocomial Pathogens. | Curr Microbiol
+- new | 2026 | 42141473 |  | Survey to inform personalised prescribing in a British South Asian community: pharmacogenomics and traditional medicine use. | BMC Med
+- new | 2025 | 40229527 | Research Support, Non-U.S. Gov't | Use of herbal products by diabetic patients in coping with health problems: a cross-sectional study from Turkey. | Intern Emerg Med
+- new | 2025 | 40743826 | Randomized Controlled Trial | Therapeutic Potential of Thymoquinone in Conjunction with Mechanical Debridement for Peri-Implantitis: A Prospective Clinical Evaluation. | J Long Term Eff Med Implants
+- new | 2025 | 40998835 |  | The use of functional foods and its association to chronic and multimorbid conditions: a cross-sectional study among Bangladeshi people. | Sci Rep
+- new | 2025 | 40944842 | Randomized Controlled Trial | Evaluating the cytotoxicity and efficacy of nanoemulsion containing propolis plus Nigella sativa nanoparticles for pulpotomy of primary teeth: randomised split-mouth clinical trial | Eur Arch Paediatr Dent
+- new | 2025 | 41150595 |  | Thymoquinone Protective Effect Against Mercury-Induced Reproductive Derangement in Rats: In Vivo and In Silico Investigation. | Toxics
+- new | 2024 | 39539607 |  | Les traitements traditionnels et les compléments alimentaires chez le patient atteint de cancer: État des lieux en Tunisie. | Can J Hosp Pharm [fre]
+- new | 2024 | 38652183 |  | Use of complementary and alternative medicine in vitiligo: a cross-sectional survey. | Arch Dermatol Res
+- new | 2024 | 39588053 |  | Herbal Self-medication Practice for Coronavirus Disease 2019 in Sudan: A Public Survey, 2021. | Curr Ther Res Clin Exp
+- new | 2024 | 38233343 |  | Medicinal herbs consumption in relation to cardiometabolic indices and coronary artery stenosis in participants undergoing coronary angiography: A cross-sectional study. | Phytother Res
+- new | 2023 | 37872543 |  | Integrated traditional herbal medicine in the treatment of gastrointestinal disorder: the pattern of use and the knowledge of safety among the Eastern Region Saudi population. | BMC Complement Med Ther
+- new | 2023 | 37406886 |  | A mechanistic insight into the potential anti-cancerous property of Nigella sativa on breast cancer through micro-RNA regulation: An in vitro & in vivo study. | Fitoterapia
+- new | 2023 | 36860759 |  | Pharmacological intervention of biosynthesized Nigella sativa silver nanoparticles against hexavalent chromium induced toxicity in male albino mice. | Saudi J Biol Sci
+- new | 2022 | 36733518 |  | Assessment of commitment to healthy daily habits and diets, preventive measures, and beliefs about natural products utilization during COVID-19 pandemic in certain population in Eg | Pharm Pract (Granada)
+- new | 2021 | 34064950 | Research Support, Non-U.S. Gov't | Patients' Behavior Regarding Dietary or Herbal Supplements before and during COVID-19 in Saudi Arabia. | Int J Environ Res Public Health
+- new | 2021 | 33990887 |  | Complementary, Traditional and Spiritual Practices Used by Cancer Patients in Turkey When Coping with Pain: An Exploratory Case Study. | J Relig Health
+- new | 2021 | 33924884 | Research Support, Non-U.S. Gov't | The Commonly Utilized Natural Products during the COVID-19 Pandemic in Saudi Arabia: A Cross-Sectional Online Survey. | Int J Environ Res Public Health
+- new | 2020 | 32823812 | Review | Medicinal Herbs Used in Traditional Management of Breast Cancer: Mechanisms of Action. | Medicines (Basel)
+- new | 2020 | 32099440 |  | Complementary and Alternative Medicine Practice Among Saudi Patients with Chronic Kidney Disease: A Cross-Sectional Study. | Int J Nephrol Renovasc Dis
+- new | 2020 | 32617109 |  | Concomitant Use of Herbal and Conventional Medicines among Patients with Diabetes Mellitus in Public Hospitals of Addis Ababa, Ethiopia: A Cross-Sectional Study. | Evid Based Complement Alternat Med
+- new | 2020 | 32831558 |  | Complementary and alternative medicine practice and perceptions of attendees of primary care centers in Eastern Saudi Arabia. | J Family Community Med
+- new | 2019 | 31673442 | Review | Effective Medicinal Plants in the Treatment of the Cyclic Mastalgia (Breast Pain): A Review. | J Pharmacopuncture
+- new | 2019 | 30957134 |  | Prevalence of herbal medicines in patients with chronic allergic disorders in Western Saudi Arabia. | Saudi Med J
+- new | 2017 | 28421118 |  | Pattern of Traditional Medicine Utilization among HIV/AIDS Patients on Antiretroviral Therapy at a University Hospital in Northwestern Ethiopia: A Cross-Sectional Study. | Evid Based Complement Alternat Med
+- new | 2016 | 26771201 | Evaluation Study/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Enhanced Single Seed Trait Predictions in Soybean (Glycine max) and Robust Calibration Model Transfer with Near-Infrared Reflectance Spectroscopy. | J Agric Food Chem
+- new | 2015 | 26865747 |  | Efficacy of local application of an Unani formulation in acne vulgaris. | Anc Sci Life
+- new | 2015 | 26401411 |  | The subtle central effect of nutraceuticals: Is it placebo or nocebo? | J Intercult Ethnopharmacol
+- new | 2013 | 27493355 |  | Traditional and spiritual medicine among Sudanese children with epilepsy. | Sudan J Paediatr
+- new | 2013 | 23106949 |  | Dietary practices of Saudi women during puerperium. | J Obstet Gynaecol Res
+- new | 2013 | 23555990 |  | Phosphorylated IκBα predicts poor prognosis in activated B-cell lymphoma and its inhibition with thymoquinone induces apoptosis via ROS release. | PLoS One
+- new | 2012 | 22906212 |  | Use of complementary and alternative medicine by patients with cancer in Saudi Arabia. | J Altern Complement Med
+- new | 2011 | 21419021 | Comparative Study | Comparative gastroprotective effects of natural honey, Nigella sativa and cimetidine against acetylsalicylic acid induced gastric ulcer in albino rats. | J Coll Physicians Surg Pak
+- new | 2010 | 20925956 |  | Self-reported use of complementary and alternative medicine (CAM) products in topical treatment of diabetic foot disorders by diabetic patients in Jeddah, Western Saudi Arabia. | BMC Res Notes
+- new | 2008 | 18299652 | Comparative Study/Research Support, Non-U.S. Gov't | Prevalence and pattern of alternative medicine use: the results of a household survey. | Ann Saudi Med
+- new | 2008 | 19902033 |  | Effect of Nigella sativa oil on various clinical and biochemical parameters of insulin resistance syndrome. | Int J Diabetes Dev Ctries
+- new | 2006 | 17182483 |  | The use of medicinal herbs by diabetic Jordanian patients. | J Herb Pharmacother
+- new | 2002 | 12506289 |  | Herbal medicine in the treatment of diabetes mellitus. | Saudi Med J
+
+### PubMed REV - 393 hits, 21 not already listed above, 19 new
+- HELD REF-2067 | 2025 | 39807848 | Review | A Comprehensive Review of the Antioxidant, Antimicrobial, and Therapeutic Efficacies of Black Cumin (Nigella sativa L.) Seed Oil and Its Thymoquinone. | J Med Food
+- new | 2024 | 39769174 | Review | Nigella sativa: A Comprehensive Review of Its Therapeutic Potential, Pharmacological Properties, and Clinical Applications. | Int J Mol Sci
+- new | 2024 | 39452489 | Review | A Comprehensive Review of Moroccan Medicinal Plants for Diabetes Management. | Diseases
+- new | 2024 | 38409693 | Review | The Emergence of N. sativa L. as a Green Antifungal Agent. | Mini Rev Med Chem
+- new | 2023 | 38281734 | Review | The use of phytotherapy in the fight against parasitic diseases. | Ann Parasitol
+- new | 2023 | 37469646 | Review | Black Seeds (Nigella sativa) Medical Application and Pharmaceutical Perspectives. | J Pharm Bioallied Sci
+- new | 2023 | 36829993 | Review | Antioxidant Thymoquinone and Its Potential in the Treatment of Neurological Diseases. | Antioxidants (Basel)
+- new | 2022 | 36421257 | Review | Phytochemicals in the Prevention and Treatment of SARS-CoV-2-Clinical Evidence. | Antibiotics (Basel)
+- new | 2022 | 36142148 | Review | The Role of Thymoquinone in Inflammatory Response in Chronic Diseases. | Int J Mol Sci
+- new | 2021 | 33174095 | Review | Plants Used as Antihypertensive. | Nat Prod Bioprospect
+- new | 2021 | 34311073 | Research Support, Non-U.S. Gov't/Review | The potential role of thymoquinone in preventing the cardiovascular complications of COVID-19. | Vascul Pharmacol
+- new | 2021 | 35053168 | Research Support, Non-U.S. Gov't/Review | Nigella sativa L. Phytochemistry and Pharmacological Activities: A Review (2019-2021). | Biomolecules
+- new | 2021 | 34981485 | Review | Role of Herbal Medicines in the Management of Brain Injury. | Adv Exp Med Biol
+- new | 2021 | 33899217 | Review | A review of Nigella sativa plant-based therapy in dermatology. | Int J Dermatol
+- new | 2020 | 33322636 | Review | Nigella sativa and Thymoquinone: A Natural Blessing for Periodontal Therapy. | Antioxidants (Basel)
+- new | 2020 | 32318551 | Review | Nanoformulations of Herbal Extracts in Treatment of Neurodegenerative Disorders. | Front Bioeng Biotechnol
+- new | 2019 | 31206893 | Review | Medicinal plants in traumatic brain injury: Neuroprotective mechanisms revisited. | Biofactors
+- new | 2018 | 31143211 | Review | Protective Effects of Thymoquinon on Pulmonary Disorders in Experimental Studies. | Tanaffos
+- new | 2017 | 29403626 | Review | A review of effective herbal medicines in controlling menopausal symptoms. | Electron Physician
+- HELD REF-2066 | 2013 | 23646296 | Research Support, Non-U.S. Gov't/Review | A review on therapeutic potential of Nigella sativa: A miracle herb. | Asian Pac J Trop Biomed
+- new | 2013 | 24111621 | Research Support, Non-U.S. Gov't/Review | Antidiabetic oils. | Curr Diabetes Rev
+
+### ClinicalTrials.gov - 73 registered studies
+- NCT02407262 | COMPLETED | results=False | PHASE2 | Potential Benefits of Black Seed Oil Supplementation on Asthma Inflammation and Outcomes | conds: Asthma | intr: Black seed oil, Placebo | pubs: ['28093815:DERIVED (new)']
+- NCT05508529 | COMPLETED | results=False | NA | Natural Modulators of Immune Function and Mood | conds: Stress | intr: Chaga Mushroom, Algae Extract, Black Cumin Seed Oil, Black Cumin Seed Oil + Astaxanthin
+- NCT04767087 | UNKNOWN | results=False | PHASE2,PHASE3 | Honey and Nigella Sativa in COVID-19 Prophylaxis | conds: Covid19 | intr: Honey, Nigella sativa seed, Placebo | pubs: ['34526081:DERIVED (new)']
+- NCT04292314 | COMPLETED | results=False | PHASE2,PHASE3 | Hydroxy Urea, Omega 3, Nigella Sativa,Honey on Oxidative Stress and Iron Chelation in Pediatric Major Thalassemia | conds: Iron Overload, Oxidative Stress, Thalassemia Major | intr: Omega 3, Nigella Sativa Oil, Hydroxyurea, Honey
+- NCT05541185 | COMPLETED | results=False | NA | Effects of Nigella Sativa Oil on Pain Intensity and Physical Functions in Patients With Knee Osteoarthritis | conds: Knee Osteoarthritis | intr: Nigella sativa oil, Naproxen and lidocaine gel, Massage
+- NCT07398885 | COMPLETED | results=False | NA | Assessing the Impact of Herbal Supplement on Fatigue and Disease Activity in SLE: Results From an 8-Week Randomized Trial | conds: System; Lupus Erythematosus | intr: EVACUR, PLACEBO | pubs: ['34441861:RESULT (new)', '33214160:RESULT (new)']
+- NCT06890546 | COMPLETED | results=False | NA | Nigella Sativa Supplementation in Hyperlipidemia Treatment | conds: Hyperlipidaemia, Hyperlipidemia | intr: Nigella Sativa Oil capsule, Diet
+- NCT06013202 | UNKNOWN | results=False | NA | The Efficacy of Nigella Sativa Oil Mouth Rinse in the Management of Recurrent Minor Aphthous Ulcer | conds: Aphthous Ulcer | intr: Nigella Sativa Oil Mouth Rinse, isotonic (normal saline) with concentration 0.90% of sodium chloride
+- NCT07013058 | COMPLETED | results=False | NA | Evaluation of a Nigella Sativa Extract (10% Thymoquinone, Nisatol®) in Perimenopausal Women With Metabolic Syndrome | conds: Metabolic Syndrome, Elevated Blood Pressure | intr: Nigella sativa extract (Nisatol®), Mediterranean Diet
+- NCT07450807 | COMPLETED | results=False | NA | Prospective Randomized Controlled Pilot Study of Gut Microbiome Modulation by Nigella Sativa Seed Oil and Thymoquinone Metabolism in Healthy | conds: Changes in Human Gut Microbiome in Healthy Adults | intr: Intake of Thymoquinone (TQ) containing Nigella Sativa Seed Oil (NSSO) capsules | pubs: ['29621129:RESULT (new)', '38003621:RESULT (new)', '42744850:DERIVED (new)']
+- NCT07525505 | RECRUITING | results=False | NA | Nigella Sativa Oil for Eczematous Otitis Externa | conds: Eczema/Atopic Dermatitis, Otitis Externa | intr: Mometasone Furoate (MF), Nigella sativa oil
+- NCT00327054 | COMPLETED | results=False | PHASE1,PHASE2 | Effectiveness of Nigella Sativa (Kalonji) Seed in Dyslipidemia | conds: Hypercholesterolemia, Hypertension, Diabetes Mellitus, Metabolic Syndrome X | intr: Nigella sativa seed | pubs: ['19500003:DERIVED (new)']
+- NCT04914767 | COMPLETED | results=False | PHASE1 | Nigella 5 in the Treatment of SARS COV2 (COVID-19) | conds: SARS-CoV2 Infection | intr: Nigella, Placebo
+- NCT04686461 | UNKNOWN | results=False | NA | Effect of Thymoquinone Extracted From Nigella Sativa in the Treatment of Arsenical Keratosis | conds: Keratotic Nodular Size | intr: Nigella sativa seeds extract containing ointment intervention
+- NCT03959306 | UNKNOWN | results=False | PHASE2 | Efficacy of Black Seed Oil in Patients With Type 2 Diabetes Mellitus | conds: Diabetes Mellitus, Type 2 | intr: Black Seed Oil, Anti-Diabetics
+- NCT05262556 | COMPLETED | results=False | PHASE1 | NP-101 (TQ Formula) With Nivolumab and Ipilimumab in Advanced or Metastatic Extra-pulmonary Neuroendocrine Carcinomas | conds: Gastroenteropancreatic Neuroendocrine Tumor, Gastroenteropancreatic Neuroendocrine Neoplasm, Neuroendocrine Carcinoma, Mixed Neuroendocrine-Non Neuroendocrine Neoplasm | intr: NP-101 (TQ Formula), Nivolumab (3mg/kg), Ipilimumab (1mg/kg)
+- NCT05450289 | UNKNOWN | results=False | NA | The Efficacy of Nigella Sativa in Children With House Dust Mite-Induced Respiratory Allergy Receiving Immunotherapy | conds: House Dust Mite Allergy | intr: Nigella Sativa Oil, Allergen Specific Immunotherapy, Standard pharmacotherapy
+- NCT03208790 | COMPLETED | results=False | PHASE2 | Clinical and Immunohisochemical Evaluation of Chemopreventive Effect of Thymoquinone on Oral Potentially Malignant Lesions. | conds: Premalignant Lesion | intr: Nigella sativa buccal tablets 10mg, Nigella sativa buccal tablets 5mg, Placebo buccal tablets
+- NCT07571772 | COMPLETED | results=False | NA | The Effect of Hot Compress in Patients With Knee Osteoarthritis | conds: Osteoarthritis, Knee, Pain | intr: Hot Compress Application Group with Black Cumin Oil
+- NCT05952102 | UNKNOWN | results=False | NA | Nigella Sativa as an Adjuvant Therapy in the Treatment of Pediatric Pneumonia | conds: Nigella Sativa Oil as an Adjuvant Therapy in the Treatment of Pneumonia | intr: Nigella Sativa Oil capsule
+- NCT04719247 | COMPLETED | results=False | NA | Clinical and Radiographic Evaluation of Turmeric, Thymus Vulgaris, Nigella Sativa and Aloe Vera as Pulpotomy Medicaments in Primary Teeth | conds: Pulpitis - Irreversible | intr: Pulpotomy
+- NCT07921082 | NOT_YET_RECRUITING | results=False | PHASE2 | Effectiveness of Oxitard Gel Versus Physiotherapeutic and Pharmacological Interventions in Alleviating Oral Submucous Fibrosis: A Phase-II R | conds: Oral and Maxillofacial Conditions | intr: Herbal Formulation, Shekar's appliance, Multivitamin/Mineral supplements, Conventional oral physioth
+- NCT07888595 | ENROLLING_BY_INVITATION | results=False | EARLY_PHASE1 | Systemic and Topical Geroprotective Rejuvenation Assessed by START/REST Aging Clocks | conds: Aging | intr: Topical anti-aging peptide serum
+- NCT04476420 | COMPLETED | results=False | PHASE3 | Comparative Effect of Nigella Sativa and Conventional Management for OSMF | conds: Oral Submucous Fibrosis | intr: Nigella sativa oil, Betamethasone Valerate
+- NCT02587910 | UNKNOWN | results=False | PHASE2,PHASE3 | Melanole, a Dietary Supplement, for the Treatment of Gastroesophageal Reflux Disease | conds: GERD | intr: Melanole for GERD treatment, Placebo
+- NCT04981743 | UNKNOWN | results=False | NA | The Efficacy of Nigella Sativa Versus VitaminD3 as Supplement Therapy in Coronavirus Disease 2019 (COVID-19) | conds: Covid19 | intr: Nigella Sativa capsule twice daily | pubs: ['36425571:DERIVED (new)']
+- NCT06029868 | COMPLETED | results=False | NA | Black Seed Oil in Treatment of Osteoarthritis | conds: Osteo Arthritis Knee | intr: Black seed oil capsule, Placebo Black seed oil capsule
+- NCT07447349 | COMPLETED | results=False | NA | Effect of Nigella Sativa Toothpaste on Salivary Biomarkers in Patients With Gingivitis | conds: Gingivitis | intr: Nigella sativa toothpaste, Placebo toothpaste | pubs: ['38744331:RESULT (new)']
+- NCT05494164 | COMPLETED | results=False | NA | Nigella Sativa for Selected Outcomes in Chronic Rhinosinusitis | conds: Chronic Rhinosinusitis | intr: Nigella sativa nasal oil drops, standard treatment
+- NCT03270280 | UNKNOWN | results=False | PHASE2 | Comparison of Salivary Interleukin-1β and Matrix Metalloproteinase-8 Levels in Individuals With Chronic Periodontitis | conds: Chronic Periodontitis | intr: Nigella Sativa Oil, Normal saline
+- NCT05343767 | COMPLETED | results=False | NA | Investigate the Efficacy and Safety of Low-Glu in Patients Newly Diagnosed With Type II Diabetes Mellitus | conds: Type2 Diabetes Mellitus | intr: Natural Wellness Low-Glu low dose, Natural Wellness Low-Glu high dose, Metformin
+- NCT06423248 | COMPLETED | results=False | NA | Culinary Spices in Metabolic Syndrome. | conds: Metabolic Syndrome | intr: Ginger, black seed, cinnamon, Placebo
+- NCT06823544 | NOT_YET_RECRUITING | results=False | PHASE2 | A Comparative Single Blind Clinical Study on the Effect of Alvogyl, Eugenol, and Nigella Sativa (Black Seed Oil) for Alveolar Osteitis. | conds: Alveolar Osteitis | intr: Alvogyl, Eugenol, Nigella Sativa Oil
+- NCT04989101 | COMPLETED | results=False | NA | Nigelle 5 in Prevention of Influanza | conds: COVID-19 Acute Respiratory Distress Syndrome | intr: Nigella
+- NCT07315555 | NOT_YET_RECRUITING | results=False | NA | Efficacy of Oral Nigella Sativa as Adjuvant Therapy in Children With Moderate Persistent Asthma | conds: Community Acquired Pneumonia | intr: Nigella sativa Oil Capsules (100 mg/kg/day), Nigella sativa Oil Capsules (50 mg/kg/day), Fluticasone
+- NCT06140485 | UNKNOWN | results=False | PHASE3 | A Trial to Investigate the Efficacy and Safety of NW Low-Glu® in Patients With Type II Diabetes Mellitus | conds: Diabetes Mellitus, Type 2 | intr: NW Low-Glu®, Metformin
+- NCT03776448 | UNKNOWN | results=False | NA | The Effect of 2 Grams Daily Supplementation of Sativa Nigra Oil on Blood Glucose Levels of Adults. | conds: Diabetes Mellitus | intr: Sativa Nigra oil Softgels, Activated Charcoal Softgels
+- NCT02816957 | UNKNOWN | results=False | EARLY_PHASE1 | Benefits of Nigella Sativa in Children With Beta Thalassemia Major | conds: Nigella Sativa With Beta Thalassemia Major | intr: nigella sativ | pubs: ['41877935:DERIVED (new)']
+- NCT01531062 | COMPLETED | results=False | PHASE2 | Effect of Nigella Sativa on Lipid Profiles in Elderly | conds: Dyslipidemia | intr: Nigella sative, black sticky rice
+- NCT04764552 | COMPLETED | results=False | NA | Yeahhh Baby! Ointment on Hip and/or Knee Pain in Men and Women | conds: Joint Pain | intr: Yeahhh Baby Ointment, Coconut oil ointment
+- NCT06901076 | COMPLETED | results=False | NA | Effect of a Food Supplement Based on Nigella Sativa Seeds Oil and Vitamin E on Glyco-lipid Parameters in Dysglycemic and Dyslipidemic Perime | conds: Perimenopausal Disorder, Impaired Glucose Tolerance, Impaired Fasting Glycemia | intr: Nisatol, Placebo
+- NCT04347382 | COMPLETED | results=False | PHASE3 | Honey & Nigella Sativa Trial Against COVID-19 | conds: Coronavirus Infection, Sars-CoV2 | intr: Honey, Nigella Sativa / Black Cumin, Placebos | pubs: ['36420866:DERIVED (new)']
+- NCT05069246 | COMPLETED | results=False | PHASE2 | The Clinical Assessment of Nigella Sativa Oil vs Chlorohexidine as a Therapeutic Aid for Gingivitis, Effect on Gingival IL-6 and IL-18 and A | conds: Gingivitis | intr: Nigella Sativa oil, Chlorhexidine mouthwash
+- NCT06950424 | ACTIVE_NOT_RECRUITING | results=False | NA | Effect of Black Cumin Seed Oil Supplementation on Cortisol, Stress and Mood | conds: Stress, Mood | intr: black cumin seed oil
+- NCT07494279 | NOT_YET_RECRUITING | results=False | NA | Efficacy of Nigella Sativa (Nisatol®) in Women With Borderline Blood Pressure Values or a Non-Dipper Blood Pressure Phenotype | conds: Prehypertension, Hypertension | intr: Nigella sativa (Nisatol®), Placebo
+- NCT06030141 | COMPLETED | results=False | NA | Investigation of the Effect of Nigella Sativa Oil and Sesame Oil in Preventing Phlebitis | conds: Phlebitis, Peripheral Venous Catheterization | intr: sesame oil application, nigella sativa oil application | pubs: ['41880716:DERIVED (new)']
+- NCT04401202 | COMPLETED | results=True | PHASE2 | Nigella Sativa in COVID-19 | conds: COVID-19, SARS-CoV-2 | intr: Nigella sativa oil | pubs: ['34407441:DERIVED (new)', '32771034:DERIVED (new)']
+- NCT04914377 | COMPLETED | results=True | PHASE2 | To Evaluate the Safety and Efficacy of TQ Formula in Covid-19 Participants | conds: Covid19 | intr: TQ Formula/Tab
+- NCT03643094 | COMPLETED | results=False | NA | Golden Black Seed: Support of Metabolic Health and General Wellness. | conds: Hyperlipidemias, Hyperglycemia | intr: Golden Black Seed
+- NCT05770791 | UNKNOWN | results=False | PHASE1 | Comparative Effects of Using Black Seed and Cumin Seed on BCP of Obese Grade I | conds: Obese | intr: Black Seed ( Nigella Sativa), Cumin Seed (Cuminum Cyminum)
+- NCT05957432 | ACTIVE_NOT_RECRUITING | results=False | PHASE2 | Efficacy and Safety of Black Seed Oil With Vonoprazan Based Triple Therapy in Treatment of Helicobacter Pylori | conds: Helicobacter Pylori Infection | intr: Black Seed Oil Cap/Tab, Vonoprazan, Amoxicillin and Clarithromycin | pubs: ['30203587:RESULT (new)', '1771934:RESULT (new)', '17608775:RESULT (new)', '27185079:RESULT (new)', '28497487:RESULT (new)', '28191328:RESULT (new)', '20616418:RESULT (new)', '17466292:RESULT (new)', '31916648:RESULT (new)', '31111585:RESULT (new)', '32350723:RESULT (new)', '16437639:RESULT (new)']
+- NCT04553705 | COMPLETED | results=False | PHASE2,PHASE3 | Omega-3, Nigella Sativa, Indian Costus, Quinine, Anise Seed, Deglycyrrhizinated Licorice, Artemisinin, Febrifugine on Immunity of Patients W | conds: Covid19, Immunodeficiency | intr: Omega 3/Nigella Sativa Oil, Omega 3/Nigella Sativa Oil/Indian Costus, Omega 3/Nigella Sativa Oil/Qui
+- NCT06422650 | UNKNOWN | results=False | PHASE2 | Effect of Nigella Sativa in Atorvastatin Treated Hyperlipidaemia | conds: Hyperlipidemia | intr: Nigella Sativa capsule 500mg, Placebo
+- NCT05592041 | COMPLETED | results=False | EARLY_PHASE1 | Studying of Natural Constituents' Treatment of Plantar Warts | conds: Plantar Wart | intr: Banaba Leaf Extract
+- NCT06560775 | COMPLETED | results=False | NA | Effects of Nigella Sativa on T Cells and Cytokine Profile in Pediatric SLE Patients | conds: SLE (Systemic Lupus) | intr: Standard Treatment for SLE | pubs: ['37507880:RESULT (new)', '32993150:RESULT (new)', '31450670:RESULT (new)', '35450390:RESULT (new)', '27100726:RESULT (new)', '27247920:RESULT (new)']
+- NCT01360957 | WITHDRAWN | results=False | NA | Effect of Consumption of Black Cumin (Nigella Sativa L.) Water Extract on Weight Loss in Overweight Women | conds: Obesity | intr: Black cumin water extract as a traditional medicine
+- NCT05822661 | UNKNOWN | results=False | PHASE2 | Impact of Black Seed Oil on Hemodialysis Patients | conds: End Stage Renal Disease | intr: Black Seed Oil, Placebo
+- NCT07055763 | ACTIVE_NOT_RECRUITING | results=False | NA | Effect Of Nigella Sativa Oil for the Treatment of Hypertension | conds: Hypertension | intr: Nigella sativa (black seed)
+- NCT05693597 | COMPLETED | results=False | PHASE2 | Evaluation of the Effect of Nigella Sativa for the Prophylaxis to Radiation Induced Dermatitis in Breast Cancer Patients | conds: Radiation Dermatitis | intr: Imtenan Oil, Baraka Capsules
+- NCT04722380 | UNKNOWN | results=False | PHASE2 | Nigella Sativa Oil Extract and Xenograft Bone Graft in Treatment of Infra-bony Defects | conds: Localized Aggressive Periodontitis | intr: periodontal regenerative surgery
+- NCT03428568 | UNKNOWN | results=False | PHASE2 | Safety Trial of Herbal Melanin in Gastritis Patients | conds: Acid Dyspepsia, Gastritis | intr: Herbal Melanin, Nexium, Amoxil, Clarithromycin
+- NCT01735097 | COMPLETED | results=False | NA | Effect of Nigella Sativa in the Treatment of Palmer Arsenical Keratosis | conds: Arsenical Keratosis | intr: Vitamin E, Nigella sativa, Placebo
+- NCT01393054 | UNKNOWN | results=False | PHASE3 | Effect of Nigella Sativa Seed Extract on the Blood Pressure of Elderly With Hypertension | conds: Hypertension | intr: Nigella sativa
+- NCT02307344 | UNKNOWN | results=False | NA | Effect of Nigella Sativa on Nonalcoholic Steatohepatitis and Steatosis | conds: Nonalcoholic Steatohepatitis, Liver Steatosis | intr: Nigella Sativa, Placebo
+- NCT06542887 | UNKNOWN | results=False | PHASE2 | Black Seed Oil in ADHD | conds: ADHD | intr: Atomoxetine, Black Seed Oil Cap/Tab
+- NCT06298760 | COMPLETED | results=False | NA | The Effect of Reflexology and Knee Massage With Black Cumin Oil on Pain and Fatigue | conds: Knee Osteoarthritis | intr: Knee Massage With Black Cumin Oil Group:, Foot Reflexology Group With Black Cumin Oil, placebo group | pubs: ['29705470:RESULT (new)']
+- NCT06508372 | UNKNOWN | results=False | NA | Topical Thymoquinone in Psoriasis Vulgaris | conds: Psoriasis Vulgaris | intr: Topical thymoquinone Ointment, topical placebo ointment
+- NCT05497895 | UNKNOWN | results=False | EARLY_PHASE1 | The Assessment of Clinical Efficacy of Topical Application of 5% Thymoquinone Gel for Gingivitis Patients | conds: Gingivitis | intr: 5% thymoquinone (TQ) gel, SRP and placebo, Only SRP-one stage prophylaxis
+- NCT07313111 | COMPLETED | results=False | PHASE4 | Thymoquinone as an add-on Therapy for the Management of Patients With Diabetic Peripheral Neuropathy | conds: Diabetic Peripheral Neuropathy (DPN) | intr: stander treatment pregabalin, thymoquinone
+- NCT06070311 | UNKNOWN | results=False | NA | Wound Healing After Endoscopic Sinus Surgery | conds: Nasal Polyps, Chronic Sinusitis | intr: Thymoquinone (0.5%) and Olive oil ointment
+- NCT04852510 | COMPLETED | results=False | PHASE2,PHASE3 | Amelioration of Polycystic Ovary Syndrome Related Disorders by Supplementation of Thymoquinone and Metformin | conds: Polycystic Ovary Syndrome (PCOS) | intr: Metformin Versus a combination of Metformin and Thymoquinone (TQ)
+- NCT07765745 | RECRUITING | results=False | NA | Effect of Thymoquinone 0.2% Gel on Bone Density, Bone Width, and Socket Preservation After Tooth Extraction | conds: Radiographic Evaluation, Bone Density, Bone Width, Socket Preservation | intr: Gel foam, Thymoquinone gel + gel foam, Nano-formulated 0.2% thymoquinone gel + gel foam
+- NCT07391384 | NOT_YET_RECRUITING | results=False | NA | Thymoquinone Around Immediate Implant | conds: Immediate Dental Implant Placement, Jumping Gap, Primary Stability of the Implants | intr: group 1 xenograft hydrogel, immediat implant placement wit TQ and bone graft hydrogel placement arou
+
+### OpenAlex no-PMID trial-worded - 9183 hits, 32 without PMID, 32 new
+- new | 2026 | 10.1016/j.msard.2026.107648 | article | The Effect of Combination Nigella Sativa and Linum Usitatissimum on Level of Disability and Depressive Symptoms in Relapsing-Remitting Multiple Sclerosis; a Randomized Double-blind | Multiple Sclerosis and Related Disorders
+- new | 2026 | 10.17605/osf.io/7jeh8 | preprint | Effect of a Multi-Spice Herbal Tea on Glycaemic Variability and Immune Markers in Adults with Type 1 Diabetes Mellitus: A Randomized, Double-Blind, Placebo-Controlled Trial Protoco | 
+- new | 2026 | 10.21608/aps.2026.496001.1266 | article | The Potential Benefits of Nigella Sativa oil Supplement in Chronic Kidney Disease Patients on Hemodialysis: A Randomized Placebo-Controlled Trial | Archives of Pharmaceutical Sciences Ain 
+- new | 2025 | 10.54141/psbd.1652627 | article | Nigella Sativa Supplementation Modulates Exercise-Induced Oxidative Stress and Inflammation: A Randomized Controlled Trial | Pamukkale Journal of Sport Sciences
+- new | 2023 | 10.5256/f1000research.157503.r216595 | peer-review | Peer Review Report For: Effect of Nigella sativa on general health and immune system in young healthy volunteers; a randomized, placebo-controlled, double-blinded clinical trial [v | F1000Research
+- new | 2023 | 10.47750/pnr.2023.14.04.65 | article | The Assessment Of The Complementary Chemotherapeutic Potential Of Nigella Sativa In Patients With Colorectal Cancer: A Randomized Clinical Trial | Journal of Pharmaceutical Negative Resul
+- new | 2023 | 10.5256/f1000research.157503.r216596 | peer-review | Peer Review Report For: Effect of Nigella sativa on general health and immune system in young healthy volunteers; a randomized, placebo-controlled, double-blinded clinical trial [v | F1000Research
+- new | 2023 | 10.5256/f1000research.77179.r208614 | peer-review | Peer Review Report For: Effect of Nigella sativa on general health and immune system in young healthy volunteers; a randomized, placebo-controlled, double-blinded clinical trial [v | F1000Research
+- new | 2022 | 10.5256/f1000research.77179.r101149 | peer-review | Peer Review Report For: Effect of Nigella sativa on general health and immune system in young healthy volunteers; a randomized, placebo-controlled, double-blinded clinical trial [v | F1000Research
+- new | 2020 | 10.22127/rjp.2019.206178.1530 | article | Comparing the Effect of Nigella sativa oil Soft Gel and Placebo on Oligomenorrhea, Amenorrhea and Laboratory Characteristics in Patients with Polycystic Ovarian Syndrome, a Randomi | Research journal of pharmacognosy
+- new | 2020 | 10.29252/koomesh.22.1.33 | article | Effect of Nigella sativa seeds on the severity of symptoms of premenstrual syndrome: A randomized clinical trial | کومش
+- new | 2019 | 10.22317/jcms.v5i1.517 | article | Evaluation of Nigella Sativa and Honey Combination for Treatment of kidney Stone: a Randomized, Placebo Controlled Clinical Trial | Journal of Contemporary Medical Sciences
+- new | 2019 | 10.5812/ircmj.91024 | article | Effect of an Herbal Product on the Serum Level of Liver Enzymes in Patients with Non-Alcoholic Fatty Liver Disease: A Randomized, Double-Blinded, Placebo-Controlled Trial | Iranian Red Crescent Medical Journal
+- new | 2019 | https://openalex.org/W3210533265 | dissertation | Effectiveness and safety of gel 5% of Nigella sativa L. extract in prevention of radiodermatitis in breast cancer patients (A randomized, double blind, placebo-controlled clinical  | 
+- new | 2019 | https://openalex.org/W3121735120 | article | Effect of Nigella sativa on thyroid function in patients with hypothyroidism treated with levothyroxine: a triple-blind randomized controlled trial | Medical science
+- new | 2018 | 10.23751/pn.v20i1-s.6062 | article | Effect of Nigella sativa oil extract on inflammatory cytokine response and oxidative stress among people with type 2 diabetes mellitus: A randomized, double-blind, placebo controll | Progress in nutrition
+- new | 2018 | 10.1016/j.hermed.2018.10.007 | article | The effect of a mixture of Nigella sativa and Thymus vulgaris extracts in children with refractory epilepsies: A randomized trial | Journal of Herbal Medicine
+- new | 2017 | https://openalex.org/W2725845685 | article | The effect of Nigella Sativa syrup on the relief of cyclic mastalgia: A triple-blind randomized clinical trial | حیات
+- new | 2016 | 10.1055/s-0036-1596928 | article | Potential benefits of Nigella sativa oil supplementation on asthma inflammation: a randomised, double-blind, placebo-controlled, exploratory phase-II clinical trial | Planta Medica
+- new | 2016 | 10.1183/13993003.congress-2016.oa4830 | conference-abstract | LATE-BREAKING ABSTRACT: The benefits ofNigella sativaoil supplementation on asthma inflammation: A randomised, double-blind, placebo-controlled, phase II trial | European Respiratory Journal
+- new | 2015 | 10.1016/j.maturitas.2015.02.357 | article | Metabolic impact of Nigella sativa supplementation in postmenopausal women: a randomized, placebo-controlled trial | Maturitas
+- new | 2015 | 10.1016/j.foodres.2015.01.030 | article | Nigella sativa oil affects glucose metabolism and lipid concentrations in patients with type 2 diabetes: A randomized, double-blind, placebo-controlled trial | Food Research International
+- new | 2015 | 10.1016/j.maturitas.2015.02.188 | article | Efficacy and safety of Nigella sativa in the treatment of post-menopausal osteoporotic women: a randomized double-blind placebo-controlled trial | Maturitas
+- new | 2015 | 10.1016/j.maturitas.2015.02.145 | article | The effect of Black cumin on body composition: A double blind randomized placebo-controlled trial among Iranian postmenopausal women | Maturitas
+- new | 2014 | 10.3329/bjp.v9i1.17167 | article | A double-blind, randomize, placebo-control trial to evaluate the effect of Nigella sativa on palmer arsenical keratosis patients | Bangladesh Journal of Pharmacology
+- new | 2014 | 10.5799/ahinjs.01.2014.02.0387 | article | Evaluation of efficacy, safety and antioxidant effect of Nigella sativa in patients with psoriasis: A randomized clinical trial | Journal of Clinical and Experimental Inv
+- new | 2014 | 10.12816/0008181 | article | Therapeutic Evaluation of Kalonji ( Nigella Sativa ) in Dyslipidemia - a Randomized Control Trial | Medical Journal of Islamic World Academy
+- new | 2013 | https://openalex.org/W2151093449 | article | Effects of Nigella sativa L. Seed Oil in Type II Diabetic Patients: a Randomized, Double-Blind, Placebo - Controlled Clinical Trial | Journal of Medicinal Plants
+- new | 2011 | https://openalex.org/W2274814937 | article | Hypolipidemic Effects of Nigella sativa L. Seeds Oil in Healthy Volunteers: a Randomized, Double-Blind, Placebo-Controlled Clinical Trial | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2011 | https://openalex.org/W2884611768 | article | Blood Glucose Lowering Effects of Nigella Sativa L. Seeds Oil in Healthy Volunteers: a Randomized, Double-Blind, Placebo-Controlled Clinical Trial | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2011 | https://openalex.org/W2326827850 | article | The effect of Ginseng and Nigella sativa on the psychomotor performance: Randomized clinical trial | 
+- new | 2010 | https://openalex.org/W2170203929 | article | Clinical and Therapeutic Trials of Nigella Sativa | 
+
+## ocimum-tenuiflorum (Ocimum tenuiflorum) - name clause: "Ocimum tenuiflorum"[tiab] OR "Ocimum sanctum"[tiab] OR "holy basil"[tiab] OR "tulsi"[tiab]
+
+### PubMed HT - 61 hits, 61 not already listed above, 58 new
+- new | 2026 | 41575193 | Review | The efficacy of nutritional phytochemical compounds in improving cognition. | Int J Neuropsychopharmacol
+- new | 2026 | 42528748 |  | Efficacy of Shyama Tulsi (Ocimum Sanctum Linn) Extract Impregnated with Calcium Sulphate Hemihydrate as an Alternative to Systemic Antibiotics and Painkillers Post- Extraction: Ran | J Maxillofac Oral Surg
+- new | 2026 | 41901106 | Review | System-Level, Molecular and Cellular Mechanisms of Selected Plant Adaptogens-A Review. | Nutrients
+- new | 2026 | 42930516 | Systematic Review | Clinical Evidence of Orally Administered Herbal Preparations for Supportive Cancer Care: A PRISMA Systematic Review of Randomized Clinical Trials (1990-2026). | Med Sci (Basel)
+- new | 2026 | 43011454 |  | A Curcumin-Based Polyherbal Slow-Dissolving Buccal Lozenge (CBFP-ODS) and Changes in Gingival Inflammation, Plaque Accumulation, Bleeding on Probing and Oral Malodour: A 12-Week Pr | Int J Dent
+- new | 2026 | 41656269 | Randomized Controlled Trial | Effects of multi-herb and ashwagandha root formulas on stress modulation: a randomized, double-blind, placebo-controlled clinical study. | Trials
+- new | 2025 | 39838299 |  | Enhancing growth, yield, essential oil content, and composition of holy basil (Ocimum tenuiflorum L.) using red algae-based bio-stimulant under acidic conditions of the Western Him | BMC Plant Biol
+- new | 2025 | 39983110 | Clinical Trial Protocol | Evaluation of Comparative Efficacy of Polyherbal Steam Inhalation Versus Polyherbal Nasal Fumigation (Dhoopana) in Children With Rhinitis (Pratishyaya): Protocol for an Open-Label  | JMIR Res Protoc
+- new | 2024 | 38595380 |  | Efficacy of Topical Turmeric, Calendula officinalis, and Tulsi (Ayurvedic Gel) in the Management of Erosive Lichen Planus: A Placebo-Controlled Study. | J Pharm Bioallied Sci
+- new | 2024 | 39830533 | Review | Uncovering the Role of Indian Medicinal Botanicals in COVID-19 Prevention and Management: A Review. | Cureus
+- new | 2023 | 37694023 |  | Assessment of Aloe Vera and Tulsi's Effectiveness in Treating Oral Submucous Fibrosis. | J Pharm Bioallied Sci
+- new | 2023 | 37361940 | Review | Efficacy and Safety of Add-On Plant-Based Drugs for COVID-19 Patients: A Review of the Randomized Control Trials. | Infect Drug Resist
+- new | 2023 | 37937014 |  | A Novel Herbal Paste Formulation of Turmeric, Tulsi, and Honey for the Treatment of Oral Submucous Fibrosis. | Cureus
+- new | 2023 | 38004017 |  | Effect of Plant-Based Mouthwash (Morinda citrifolia and Ocimum sanctum) on TNF-α, IL-α, IL-β, IL-2, and IL-6 in Gingival Crevicular Fluid and Plaque Scores of Patients Undergoing F | Medicina (Kaunas)
+- new | 2023 | 37829808 |  | Benefits of basil tea for patients with differentiated thyroid cancer during radioiodine therapy: A randomized controlled trial. | Heliyon
+- new | 2023 | 37630520 |  | Phenotypic Analysis, Molecular Characterization, and Antibiogram of Caries-Causing Bacteria Isolated from Dental Patients. | Microorganisms
+- new | 2023 | 37885445 |  | Chronic supplementation of a multi-ingredient herbal supplement increases speed of cognitive task performance alongside changes in the urinary metabolism of dopamine and the gut mi | Front Nutr
+- HELD REF-1427 | 2022 | 36185698 | Case Reports | A randomized, double-blind, placebo-controlled trial investigating the effects of an Ocimum tenuiflorum (Holy Basil) extract (Holixer(TM)) on stress, mood, and sleep in adults expe | Front Nutr
+- new | 2022 | 36254954 | Randomized Controlled Trial | Antibacterial efficacy of manuka honey, ocimum sanctum, curcuma longa and 0.2% chlorhexidine mouthwash on the level of streptococcus mutans and lactobacillus acidophilus - A random | Indian J Dent Res
+- new | 2022 | 33650944 | Systematic Review | Modulation of the hypothalamic-pituitary-adrenal (HPA) axis by plants and phytonutrients: a systematic review of human trials. | Nutr Neurosci
+- new | 2022 | 36861556 | Randomized Controlled Trial | An in vivo comparative clinical and radiographic evaluation of a mixture of zinc oxide-Ocimum sanctum extract, zinc oxide-ozonated oil, and zinc oxide-eugenol as obturating materia | J Indian Soc Pedod Prev Dent
+- new | 2022 | 36325269 |  | Effect of Medically Supervised Prolonged Fasting Therapy on Vitamin D, B12, Body Weight, Body Mass Index, Vitality and Quality of Life: A Randomized Control Trial. | Nutr Metab Insights
+- new | 2022 | 36412405 |  | Survival pattern in cervical cancer patients in North West India: A tertiary care center study. | J Cancer Res Ther
+- new | 2021 | 34132429 | Systematic Review | Promising traditional Indian medicinal plants for the management of novel Coronavirus disease: A systematic review. | Phytother Res
+- new | 2021 | 33596494 | Randomized Controlled Trial | Randomized placebo-controlled pilot clinical trial on the efficacy of ayurvedic treatment regime on COVID-19 positive patients. | Phytomedicine
+- new | 2021 | 33064207 | Randomized Controlled Trial | The effects of a novel herbal toothpaste on salivary lactate dehydrogenase as a measure of cellular integrity. | Clin Oral Investig
+- new | 2021 | 34158685 |  | Determination of efficacy of curcumin and Tulsi extracts as local drugs in periodontal pocket reduction: A clinical and microbiological study. | J Indian Soc Periodontol
+- new | 2021 | 33866666 | Randomized Controlled Trial | A randomized clinical study to examine the oral hygiene efficacy of a novel herbal toothpaste with zinc over a 6-month period. | Int J Dent Hyg
+- new | 2021 | 34055580 |  | Comparative retrospective open-label study of ayurvedic medicines and their combination with allopathic drugs on asymptomatic and mildly-symptomatic COVID-19 patients. | J Herb Med
+- new | 2021 | 34349488 |  | Prospective, Randomized, Open-Label, Blinded End Point, Two-Arm, Comparative Clinical Study to Evaluate the Efficacy and Safety of a Fixed Ayurvedic Regimen (FAR) as Add-on to Conv | J Pharm Bioallied Sci
+- new | 2020 | 33110312 |  | Comparative Evaluation of Efficacy of 4% Tulsi Extract (Ocimum sanctum), Fluoridated and Placebo Dentifrices against Gingivitis and Plaque among 14-15 years School Children in Dava | Contemp Clin Dent
+- new | 2020 | 32350185 | Randomized Controlled Trial | Efficacy of Improvised Topical Zinc (1%) Ora-Base on Oral Mucositis during Cancer Chemo-Radiation-A Randomized Study. | J Nutr Sci Vitaminol (Tokyo)
+- new | 2019 | 31115832 |  | Medico-Religious Plants Employed in Mauritius: A Survey Among Hindu Priests. | J Relig Health
+- new | 2019 | 31275519 |  | Efficacy of chlorhexidine, hydrogen peroxide and tulsi extract mouthwash in reducing halitosis using spectrophotometric analysis: A randomized controlled trial. | J Clin Exp Dent
+- new | 2019 | 30679917 |  | Efficacy and safety of Syferol-IHP for the treatment of peptic ulcer disease: a pilot, double-blind randomized trial. | Clin Exp Gastroenterol
+- new | 2019 | 31831965 |  | Efficacy of Ocimum sanctum, Aloe vera and chlorhexidine mouthwash on gingivitis: A randomized controlled comparative clinical study. | Ayu
+- new | 2019 | 30804313 |  | Estimation of salivary pH and viability of Streptococcus mutans on chewing of Tulsi leaves in children. | J Indian Soc Pedod Prev Dent
+- new | 2019 | 32440066 |  | Effect of Herbal Water, Ozonated Water, Water, and Chlorhexidine Mouthrinses on Oral Health Status of Children: A Randomized Controlled Trial. | Int J Clin Pediatr Dent
+- new | 2018 | 30589005 | Comparative Study/Randomized Controlled Trial | A comparative evaluation of the anticaries efficacy of herbal extracts (Tulsi and Black myrobalans) and sodium fluoride as mouthrinses in children: A randomized controlled trial. | Indian J Dent Res
+- new | 2018 | 29970638 | Clinical Trial | A clinical trial comparing antimicrobial efficacy of "essential oil of Ocimum sanctum" with triple antibiotic paste as an intracanal medicament in primary molars. | J Indian Soc Pedod Prev Dent
+- new | 2017 | 28811698 |  | Effect of Tulsi (Ocimum sanctum Linn.) Supplementation on Metabolic Parameters and Liver Enzymes in Young Overweight and Obese Subjects. | Indian J Clin Biochem
+- new | 2016 | 27190943 |  | Effect of ACP-CPP Chewing Gum and Natural Chewable Products on Plaque pH, Calcium and Phosphate Concentration. | J Clin Diagn Res
+- new | 2015 | 26665978 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Potential of native Thai aromatic plant extracts in antiwrinkle body creams. | J Cosmet Sci
+- HELD REF-0596 | 2015 | 26571987 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Holy basil (Ocimum sanctum Linn.) leaf extract enhances specific cognitive parameters in healthy adult volunteers: A placebo controlled study. | Indian J Physiol Pharmacol
+- new | 2014 | 24948862 |  | A randomized controlled clinical trial of Ocimum sanctum and chlorhexidine mouthwash on dental plaque and gingival inflammation. | J Ayurveda Integr Med
+- new | 2014 | 25674314 |  | Evaluation of holy basil mouthwash as an adjunctive plaque control agent in a four day plaque regrowth model. | J Clin Exp Dent
+- new | 2013 | 23434608 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Ethnobotanical survey of malaria prophylactic remedies in Odisha, India. | J Ethnopharmacol
+- new | 2013 | 24479280 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Erosive potentials of brewed teas. | Am J Dent
+- new | 2012 | 21977056 |  | Efficacy of an Extract of Ocimum tenuiflorum (OciBest) in the Management of General Stress: A Double-Blind, Placebo-Controlled Study. | Evid Based Complement Alternat Med
+- new | 2012 | 24167330 |  | Estimation of salivary and tongue coating pH on chewing household herbal leaves: A randomized controlled trial. | Anc Sci Life
+- new | 2011 | 21763461 | Clinical Trial, Phase I/Comparative Study/Multicenter Study/Randomized Controlled Trial | Comparative evaluation of efficacy of 0.2% Chlorhexidine, Listerine and Tulsi extract mouth rinses on salivary Streptococcus mutans count of high school children--RCT. | Contemp Clin Trials
+- new | 2011 | 21619917 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Double-blinded randomized controlled trial for immunomodulatory effects of Tulsi (Ocimum sanctum Linn.) leaf extract on healthy volunteers. | J Ethnopharmacol
+- new | 2011 | 22368358 |  | Comparison of the effectiveness of a commercially available herbal mouthrinse with chlorhexidine gluconate at the clinical and patient level. | J Indian Soc Periodontol
+- new | 2010 | 20232616 | Review | Antioxidants and antiinflammatory dietary supplements for osteoarthritis and rheumatoid arthritis. | Altern Ther Health Med
+- new | 2010 | 19504465 | Randomized Controlled Trial | In vivo enhancement of natural killer cell activity through tea fortified with Ayurvedic herbs. | Phytother Res
+- new | 2008 | 19253862 | Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Controlled programmed trial of Ocimum sanctum leaf on generalized anxiety disorders. | Nepal Med Coll J
+- new | 2005 | 16202376 | Clinical Conference/Research Support, U.S. Gov't, P.H.S./Systematic Review | Are Ayurvedic herbs for diabetes effective? | J Fam Pract
+- new | 2005 | 23105516 |  | Effect of ocimum flavonoids as a radioprotector on the erythrocyte antioxidants in oral cancer. | Indian J Clin Biochem
+- new | 2004 | 15266492 | Meta-Analysis/Systematic Review | Chinese herbal medicines for type 2 diabetes mellitus. | Cochrane Database Syst Rev
+- new | 2001 | 11746845 | Clinical Trial/Multicenter Study | Evaluation of Ophthacare eye drops--a herbal formulation in the management of various ophthalmic disorders. | Phytother Res
+- HELD REF-2498 | 1996 | 8880292 | Clinical Trial/Randomized Controlled Trial | Randomized placebo-controlled, single blind trial of holy basil leaves in patients with noninsulin-dependent diabetes mellitus. | Int J Clin Pharmacol Ther
+
+### PubMed SR - 13 hits, 7 not already listed above, 6 new
+- new | 2026 | 42154395 | Review | Plant-derived neuroprotective compounds and nanoformulations targeting Parkinson's disease: a semi-systematic review of mechanisms and therapeutic potential. | Metab Brain Dis
+- new | 2026 | 43044392 | Review | Exploring the integration of Ayurveda in aquaculture: A scoping review. | J Ayurveda Integr Med
+- new | 2023 | 36797613 | Systematic Review | Herbal Therapeutics for Alzheimer's Disease: Ancient Indian Medicine System from the Modern Viewpoint. | Curr Neuropharmacol
+- new | 2023 | 37008142 | Review | Exploring the Chemistry of Ocimum Species under Specific Extractions and Chromatographic Methods: A Systematic Review. | ACS Omega
+- new | 2023 | 37608914 | Review | Potential of Indonesian Herbal as an Anti-Cancer Therapy: A Systemic Review of in vitro Studies. | Cancer Manag Res
+- new | 2022 | 35677004 | Review | Anti-candidal Effect of Ocimum sanctum: A Systematic Review on Microbial Studies. | Cureus
+- HELD REF-0466 | 2017 | 28400848 | Review | The Clinical Efficacy and Safety of Tulsi in Humans: A Systematic Review of the Literature. | Evid Based Complement Alternat Med
+
+### PubMed SAFE - 173 hits, 151 not already listed above, 146 new
+- new | 2026 | 42680287 |  | Lipid-lowering and hepatoprotective effects of Ocimum sanctum L. (Thai holy basil) flower against MASLD and liver inflammation in rats. | Food Res Int
+- new | 2026 | 41579599 |  | Phytogenic modulation of broiler physiology: Effects of tulsi, moringa, mint, and thankuni on growth, meat quality, blood chemistry, and gut microbiota. | Poult Sci
+- new | 2026 | 41725358 | Research Support, Non-U.S. Gov't | Antibacterial Activity of Estragole From Ocimum tenuiflorum, and Tagetes lucida and Synergistic Effect With Meropenem and Tobramycin Against Multidrug- and Extensively Drug-Resista | Microbiologyopen
+- new | 2026 | 42653832 |  | Protective Effects of the Ethanolic Leaf Extract of Ocimum sanctum L. on Collagen-Induced Human Platelet Aggregation and CCl(4)-Induced Hepatotoxicity in Rats: Molecular Docking An | Molecules
+- new | 2026 | 42492168 |  | Multitarget anticancer profiling of Withania somnifera - Dual herbal combination with P. emblica, B. monnieri, and O. basilicum through integrated In silico docking and In vitro Ju | J Ayurveda Integr Med
+- new | 2026 | 41941285 |  | Ferulic Acid- and Quercetin-based Extracts Enhanced Neuropharmacological Potential in Swiss Albino Mice: Molecular Dynamics Simulation,mMolecular Docking, ADMET, and Biological Inv | Cent Nerv Syst Agents Med Chem
+- new | 2026 | 41429362 |  | Binding investigation of non-toxic compounds from plant-based repellents targeting Aedes aegypti odorant-binding protein 1 using molecular dynamics simulations and density function | Microb Pathog
+- new | 2026 | 41688775 |  | Unveiling the therapeutic potential of Farnesol against Parkinson's disease: insights from molecular Docking and animal studies. | Daru
+- new | 2026 | 42376118 | Research Support, Non-U.S. Gov't | Integrative use of murine and zebrafish models for acute toxicity observation of ethanolic extract of Ocimum sanctum Linn. | Open Vet J
+- new | 2025 | 40353411 |  | Virtual Screening of Phytoconstituents in Indian Spices based on their Inhibitory Potential against SARS-CoV-2. | Protein Pept Lett
+- new | 2025 | 40974453 |  | Ameliorative effects of Ocimum sanctum in Oreochromis niloticus against waterborne sub-lethal cadmium toxicity. | Vet Res Commun
+- new | 2025 | 40873461 |  | Bioactive compounds from plant sources: profiling and anti-blight efficacy against phytopathogens. | 3 Biotech
+- new | 2025 | 40911582 | Research Support, Non-U.S. Gov't | Chemical characterization and antimicrobial activities of Citrus aurantifolia peel oils and Ocimum sanctum ethanolic extract. | PLoS One
+- new | 2025 | 41372343 |  | Essential oils enriched Dant-Kanti-Gandush (oil-pulling) inhibits inter-kingdom biofilm formation on orthodontic fixtures and ameliorates cariogenic virulence factors of oral patho | Sci Rep
+- new | 2025 | 40184012 |  | Exploring bioactive natural products for treating neurodegenerative diseases: a computational network medicine approach targeting the estrogen signaling pathway in amyotrophic late | Metab Brain Dis
+- new | 2025 | 41270521 |  | N-Carbobenzoxy-L-Phenylalanine disrupts ErbB2 homodimer formation, blocking autophosphorylation and downstream signaling in breast Cancer: A comprehensive computational approach. | Comput Biol Med
+- new | 2025 | 39259407 | Validation Study | Exploring Holy Basil's Bioactive Compounds for T2DM Treatment: Docking and Molecular Dynamics Simulations with Human Omentin-1. | Cell Biochem Biophys
+- new | 2025 | 40482063 | Review | The Novel Approaches to Extraction Techniques, Drug Delivery Technologies, Pharmacological Applications, Patents of the Potent Flavonoid 'Luteolin': An Appraisal. | Chem Biodivers
+- new | 2025 | 41552029 |  | Comparative In Vitro Evaluation of the Antimicrobial Efficacy of Tulsi, Triphala, and Aloe Vera against Streptococcus mutans Relative to Chlorhexidine. | Int J Clin Pediatr Dent
+- new | 2025 | 39757367 | Review | Orientin: a natural glycoside with versatile pharmacological activities. | Nat Prod Res
+- new | 2025 | 41140705 |  | Targeting norovirus RdRp: A computational study on the inhibitory potential of ursolic acid and apigenin-7-O-glucoside. | J Taibah Univ Med Sci
+- new | 2025 | 39610007 |  | Assessment of genotoxicity and acute oral toxicity of a standardized Ocimum tenuiflorum extract (Holixer(TM)). | Drug Chem Toxicol
+- new | 2025 | 40931312 |  | Green synthesis of silver nanoparticles using Ocimum sanctum for efficient Congo red dye removal: a response surface methodology approach. | Environ Monit Assess
+- new | 2025 | 40201854 | Review/Research Support, Non-U.S. Gov't | Lung cancer: Animal model of lung cancer, molecular carcinogenesis of lung cancer, and antitumor effect of Ocimum sanctum against lung cancer. | Open Vet J
+- new | 2025 | 41330996 | Research Support, Non-U.S. Gov't | In silico evaluation of Ocimum sanctum phytochemicals for diabetic foot ulcer therapy through docking, ADMET, DFT, and molecular dynamics. | Sci Rep
+- new | 2025 | 40577484 |  | Exploring the Molecular Mechanisms of Ocimum tenuiflorum Linn. Against Crohn's Disease: A Network Pharmacology and Molecular Modelling Approach. | Chem Biodivers
+- HELD REF-1435 | 2024 | 36515030 | Review | Ocimum sanctum [Tulsi] as a Potential Immunomodulator for the Treatment of Ischemic Injury in the Brain. | Curr Mol Med
+- new | 2024 | 39290920 |  | Antifungal Activity of Ocimum tenuiflorum and Ocimum gratissimum Herbal Formulation-Based Oral Rinse Against Candida albicans. | Cureus
+- new | 2024 | 39795274 |  | Holy Basil (Ocimum sanctum L.) Flower and Fenofibrate Improve Lipid Profiles in Rats with Metabolic Dysfunction Associated Steatotic Liver Disease (MASLD): The Role of Choline Meta | Plants (Basel)
+- new | 2024 | 39691076 |  | Metabolic-Engineering Approach to Enhance Vanillin and Phenolic Compounds in Ocimum Sanctum (CIM-Angana) via VpVAN Overexpression. | Physiol Plant
+- new | 2024 | 38657467 |  | Bioactive compounds from Ocimum tenuiflorum and Poria cocos: A novel natural Compound for insomnia treatment based on A computational approach. | Comput Biol Med
+- new | 2024 | 39583496 |  | Comparison of Antimicrobial Efficacy of Ocimum sanctum (Tulsi) Extract and Chlorhexidine Against Tannerella forsythia: An In Vitro Study. | Cureus
+- HELD REF-1430 | 2024 | 39771214 | Review | Harnessing the Antibacterial, Anti-Diabetic and Anti-Carcinogenic Properties of Ocimum sanctum Linn (Tulsi). | Plants (Basel)
+- new | 2024 | 39687955 |  | Raw Ocimum sanctum L. leaf extract modulates the pharmacokinetic of ceftriaxone and increases its bioavailability in staphylococcal mastitis. | Indian J Pharmacol
+- new | 2024 | 39357733 |  | Bioefficacy, chromatographic profiling and drug-likeness analysis of flavonoids and terpenoids as potential inhibitors of H1N1 influenza viral proteins. | Int J Biol Macromol
+- new | 2024 | 38047364 | Review | Iranian Traditional Medicine (ITM) and Natural Remedies for Treatment of the Common Cold and Flu. | Rev Recent Clin Trials
+- new | 2024 | 38627930 |  | In vitro antibacterial activity of antibiotics and plant essential oils against Escherichia coli MTCC443 supported through the molecular docking and pharmacokinetics study. | Biotechnol Appl Biochem
+- new | 2024 | 38520476 |  | Development of an allele-specific PCR (AS-PCR) method for identifying high-methyl eugenol-containing purple Tulsi (Ocimum tenuiflorum L.) in market samples. | Mol Biol Rep
+- new | 2024 | 39224640 |  | Amelioration of gold nanoparticles mediated through Ocimum oil extracts induces reactive oxygen species and mitochondrial instability against MCF-7 breast carcinoma. | RSC Adv
+- HELD REF-1434 | 2023 | 37860117 |  | Hepatoprotective effects of bioactive compounds from traditional herb Tulsi (Ocimum sanctum Linn) against galactosamine-induced hepatotoxicity in rats. | Front Pharmacol
+- new | 2023 | 37383339 | Review | Incredible Combination of Lifestyle Modification and Herbal Remedies for Polycystic Ovarian Syndrome Management. | Evid Based Complement Alternat Med
+- new | 2023 | 37469923 |  | Perspective Toward Complementary & Alternative Medicines in the Prevention of COVID-19 Infection. | Indian J Community Med
+- new | 2023 | 37062215 | Review/Retracted Publication | Rosmarinic acid and its derivatives: Current insights on anticancer potential and other biomedical applications. | Biomed Pharmacother
+- new | 2023 | 35157239 |  | In Silico Studies of Phytoconstituents from Piper longum and Ocimum sanctum as ACE2 and TMRSS2 Inhibitors: Strategies to Combat COVID-19. | Appl Biochem Biotechnol
+- new | 2023 | 35416606 |  | Assessment of the Oxidative Damage and Genotoxicity of Titanium Dioxide Nanoparticles and Exploring the Protective Role of Holy Basil Oil Nanoemulsions in Rats. | Biol Trace Elem Res
+- new | 2023 | 35139698 |  | 28-day repeated dose toxicological evaluation of Coronil in Sprague Dawley rats: Behavioral, hematological, biochemical and histopathological assessments under GLP compliance. | Drug Chem Toxicol
+- HELD REF-1436 | 2023 | 34331753 | Review | Ocimum Sanctum: An All-Round Treatment for Cancer? | Altern Ther Health Med
+- new | 2022 | 35935095 |  | Can plant-derived anti-HIV compounds be used in COVID-19 cases? | Med Hypotheses
+- new | 2022 | 35458596 |  | Defining the Role of Isoeugenol from Ocimum tenuiflorum against Diabetes Mellitus-Linked Alzheimer's Disease through Network Pharmacology and Computational Methods. | Molecules
+- new | 2022 | 35410623 |  | Natural Anti-inflammatory and Anti-allergy Agents: Herbs and Botanical Ingredients. | Antiinflamm Antiallergy Agents Med Chem
+- new | 2022 | 36234759 |  | Phyto-Computational Intervention of Diabetes Mellitus at Multiple Stages Using Isoeugenol from Ocimum tenuiflorum: A Combination of Pharmacokinetics and Molecular Modelling Approac | Molecules
+- new | 2022 | 35654349 | Review | An exhaustive comprehension of the role of herbal medicines in Pre- and Post-COVID manifestations. | J Ethnopharmacol
+- new | 2022 | 36014373 |  | Computer-Aided Screening of Phytoconstituents from Ocimum tenuiflorum against Diabetes Mellitus Targeting DPP4 Inhibition: A Combination of Molecular Docking, Molecular Dynamics, a | Molecules
+- new | 2022 | 33121420 | Review | Radioprotective Effects of Plants from the Lamiaceae Family. | Anticancer Agents Med Chem
+- new | 2022 | 35645522 |  | Evaluation of Antimicrobial Activity of Aqueous Extract of "Ocimum Sanctum-Queen of Herb" on Dental Caries Microorganisms: An In Vitro Study. | Int J Clin Pediatr Dent
+- new | 2021 | 34315377 | Review | The Safety and Efficacy of Botanicals with Nootropic Effects. | Curr Neuropharmacol
+- new | 2021 | 32568024 | Review | Miracles of Herbal Phytomedicines in Treatment of Skin Disorders: Natural Healthcare Perspective. | Infect Disord Drug Targets
+- new | 2021 | 33314472 |  | Anticancer activity of Vicenin-2 against 7,12 dimethylbenz[a]anthracene-induced buccal pouch carcinoma in hamsters. | J Biochem Mol Toxicol
+- new | 2021 | 34684956 |  | Biogenic Synthesis of Silver-Core Selenium-Shell Nanoparticles Using Ocimum tenuiflorum L.: Response Surface Methodology-Based Optimization and Biological Activity. | Nanomaterials (Basel)
+- new | 2021 | 34077580 |  | Antibiofilm and anti-quorum sensing activities of eugenol and linalool from Ocimum tenuiflorum against Pseudomonas aeruginosa biofilm. | J Appl Microbiol
+- new | 2021 | 34764740 |  | Antagonistic, Anti-oxidant, Anti-inflammatory and Anti-diabetic Probiotic Potential of Lactobacillus agilis Isolated From the Rhizosphere of the Medicinal Plants. | Saudi J Biol Sci
+- new | 2021 | 32890709 | Comparative Study | Pharmacological and pharmacokinetic effect of a polyherbal combination with Withania somnifera (L.) Dunal for the management of anxiety. | J Ethnopharmacol
+- new | 2021 | 33511704 |  | Spices and herbs: Potential antiviral preventives and immunity boosters during COVID-19. | Phytother Res
+- new | 2021 | 34228819 |  | Ocimum tenuiflorum mitigates iron-induced testicular toxicity via modulation of redox imbalance, cholinergic and purinergic dysfunctions, and glucose metabolizing enzymes activitie | Andrologia
+- new | 2021 | 33642811 |  | The protective effect of Ocimum sanctum leaf extract against lead acetate-induced nephrotoxicity and hepatotoxicity in mice (Mus musculus). | Vet World
+- new | 2021 | 34218781 | Review | Eugenol as a Potential Drug Candidate: A Review. | Curr Top Med Chem
+- new | 2021 | 34685990 |  | Antifungal and Insecticidal Potential of the Essential Oil from Ocimum sanctum L. against Dangerous Fungal and Insect Species and Its Safety for Non-Target Useful Soil Species Eise | Plants (Basel)
+- new | 2021 | 34799208 |  | Effects of two formulations containing Phyllanthus emblica and Tinospora cordifolia with and without Ocimum sanctum in immunocompromised mice. | J Ayurveda Integr Med
+- new | 2021 | 35355764 |  | Effects of Ocimum tenuiflorum on Induced Testicular Degeneration by Filgrastim in Wistar Rats. | Arch Razi Inst
+- new | 2020 | 31739106 |  | An interaction study of Ocimum sanctum L. and levetiracetam in pentylenetetrazole kindling model of epilepsy. | J Ethnopharmacol
+- new | 2020 | 33149409 |  | Comparison of Antimicrobial Efficacy of Four Different Plant Extracts against Cariogenic Bacteria: An In Vitro Study. | Int J Clin Pediatr Dent
+- new | 2020 | 34908798 |  | Pharmacodynamic interaction of Tinospora cordifolia Willd. With Ocimum sanctum Linn. in isoproterenol-induced cardiac toxicity. | Ayu
+- new | 2020 | 32158121 |  | Azadirachta indica and Ocimum sanctum leaf extracts alleviate arsenic toxicity by reducing arsenic uptake and improving antioxidant system in rice seedlings. | Physiol Mol Biol Plants
+- new | 2020 | 33250652 |  | Adjuvant role of Ocimum sanctum hydroalcoholic extract with carbamazepine and phenytoin in experimental model of acute seizures. | Saudi Pharm J
+- new | 2020 | 32768959 |  | Effect of Vicenin-2 on ovariectomy-induced osteoporosis in rats. | Biomed Pharmacother
+- new | 2020 | 32659522 |  | Assessing the antifungal and aflatoxin B(1) inhibitory efficacy of nanoencapsulated antifungal formulation based on combination of Ocimum spp. essential oils. | Int J Food Microbiol
+- new | 2020 | 32474536 | Research Support, Non-U.S. Gov't | Antimycobacterial screening of selected medicinal plants against Mycobacterium tuberculosis H(37)Rv using agar dilution method and the microplate resazurin assay. | Int J Mycobacteriol
+- new | 2019 | 30820081 |  | Qualitative and quantitative analysis of precipitate formation following interaction of chlorhexidine with sodium hypochlorite, neem, and tulsi. | J Conserv Dent
+- new | 2019 | 31942110 |  | Antifungal activity of solvent extracts of Piper betle and Ocimum sanctum Linn on Candida albicans: An in vitro comparative study. | J Oral Maxillofac Pathol
+- new | 2019 | 31802817 |  | Quantitative analysis for detection of toxic elements in various irrigants, their combination (precipitate), and para-chloroaniline: An inductively coupled plasma mass spectrometry | J Conserv Dent
+- new | 2018 | 30099686 |  | Vicenin-2: a potential radiosensitizer of non-small cell lung cancer cells. | Mol Biol Rep
+- new | 2018 | 29849451 |  | Vicenin-2 inhibits Wnt/β-catenin signaling and induces apoptosis in HT-29 human colon cancer cell line. | Drug Des Devel Ther
+- new | 2018 | 29567949 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Ocimum flavone Orientin as a countermeasure for thrombocytopenia. | Sci Rep
+- new | 2018 | 29568180 |  | Alleviation of Heat Stress by a Polyherbal Formulation, Phytocee™: Impact on Zootechnical Parameters, Cloacal Temperature, and Stress Markers. | Pharmacognosy Res
+- new | 2017 | 29123996 |  | Herbal combat against E. faecalis - An in vitro study. | J Oral Biol Craniofac Res
+- new | 2017 | 28867572 |  | Pharmacokinetic and pharmacodynamic interaction of hydroalcoholic extract of Ocimum sanctum with valproate. | Epilepsy Behav
+- new | 2017 | 28359741 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S./Review | Targeting the mercapturic acid pathway and vicenin-2 for prevention of prostate cancer. | Biochim Biophys Acta Rev Cancer
+- new | 2017 | 28163963 |  | Evaluation of the potential effect of Allium sativum, Momordica charantia, Eugenia jambolana, Ocimum sanctum, and Psidium guajava on intestinal p-glycoprotein in rats. | J Intercult Ethnopharmacol
+- new | 2017 | 28359233 |  | In Vivo Hypoglycemic Studies of Polyherbal Phytoceuticals, Their Pharmacokinetic Studies and Dose Extrapolation by Allometric Scaling. | Curr Drug Discov Technol
+- new | 2016 | 25944010 | Review | Antioxidants as a Potential Preventive and Therapeutic Strategy for Cadmium. | Curr Drug Targets
+- new | 2016 | 27533935 | Letter | Safety evaluation of a polyherbal formulation containing hydroalcoholic extracts of Hippophae salicifolia, Nyctanthes arbor-tristis, Ocimum tenuiflorum, and Reinwardtia indica in r | J Biomed Res
+- new | 2016 | 26792982 | Research Support, Non-U.S. Gov't | Isolation and evaluation of biological efficacy of quercetol in human hepatic carcinoma cells. | Drug Des Devel Ther
+- new | 2016 | 29953177 | Review | Herbal Induced Hepatoprotection and Hepatotoxicity: A Critical Review. | Indian J Physiol Pharmacol
+- new | 2016 | 27757267 |  | Evaluation of the synergistic effect of Allium sativum, Eugenia jambolana, Momordica charantia, Ocimum sanctum, and Psidium guajava on hepatic and intestinal drug metabolizing enzy | J Intercult Ethnopharmacol
+- new | 2016 | 27143825 |  | Antimicrobial efficacy of Tulsi leaf (Ocimum sanctum) extract on periodontal pathogens: An in vitro study. | J Indian Soc Periodontol
+- new | 2016 | 27396915 | Research Support, Non-U.S. Gov't | Structure-Activity Relationship Studies on Holy Basil (Ocimum sanctum L.) Based Flavonoid Orientin and its Analogue for Cytotoxic Activity in Liver Cancer Cell Line HepG2. | Comb Chem High Throughput Screen
+- new | 2015 | 27833366 |  | Therapeutic evaluation of "Ayush Tulsi Jiwan Plus" oil for chronic musculoskeletal pain relief. | Ayu
+- new | 2015 | 27013793 |  | In Silico Screening of Antibacterial Compounds from Herbal Sources Against Vibrio cholerae. | Pharmacogn Mag
+- new | 2015 | 26925464 |  | Antioxidant Activity of The Ancient Herb, Holy Basil in CCl(4)-Induced Liver Injury in Rats. | Ayurvedic
+- new | 2015 | 26109769 |  | Pharmacological and phytochemical evaluation of Ocimum sanctum root extracts for its antiinflammatory, analgesic and antipyretic activities. | Pharmacogn Mag
+- new | 2015 | 26522595 | Comparative Study | Effect of Ocimum sanctum on Oral Cancer Cell Line: An in vitro Study. | J Contemp Dent Pract
+- new | 2015 | 26456329 |  | Evaluation of subacute toxicity of methanolic/aqueous preparation of aerial parts of O. sanctum in Wistar rats: Clinical, haematological, biochemical and histopathological studies. | J Ethnopharmacol
+- new | 2015 | 26124571 |  | Effect of combined herbal feed additives on methane, total gas production and rumen fermentation. | Bioinformation
+- new | 2015 | 25308098 | Research Support, Non-U.S. Gov't | Production of anti-cancer triterpene (betulinic acid) from callus cultures of different Ocimum species and its elicitation. | Protoplasma
+- new | 2015 | 26124560 |  | Molecular docking of selected phytocompounds with H1N1 Proteins. | Bioinformation
+- new | 2014 | 23281713 | Research Support, Non-U.S. Gov't | Tulsi oil as a potential penetration enhancer for celecoxib transdermal gel formulations. | Pharm Dev Technol
+- new | 2014 | 24858938 | Research Support, Non-U.S. Gov't | Ocimum sanctum (L.) essential oil and its lead molecules induce apoptosis in Candida albicans. | Res Microbiol
+- new | 2014 | 25035537 |  | Posological Considerations of Ocimum sanctum (Tulasi) as per Ayurvedic Science and Pharmaceutical Sciences. | Indian J Pharm Sci
+- new | 2014 | 24616736 |  | Toxicological Study of Ocimum sanctum Linn Leaves: Hematological, Biochemical, and Histopathological Studies. | J Toxicol
+- new | 2013 | 24082577 |  | Antibacterial efficacy of Mangifera indica L. kernel and Ocimum sanctum L. leaves against Enterococcus faecalis dentinal biofilm. | J Conserv Dent
+- new | 2013 | 23380593 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Ocimum gratissimum retards breast cancer growth and progression and is a natural inhibitor of matrix metalloproteases. | Cancer Biol Ther
+- new | 2013 | 23424203 |  | Evaluation of the mutagenic potential and acute oral toxicity of standardized extract of Ocimum sanctum (OciBest™). | Hum Exp Toxicol
+- HELD REF-2469 | 2012 | 22368396 |  | A pharmacological appraisal of medicinal plants with antidiabetic potential. | J Pharm Bioallied Sci
+- new | 2012 | 23559803 |  | Pharmacognostical and analytical study of Tulsi-Amla-Yasti Ghrita. | Ayu
+- new | 2012 | 23061282 | Research Support, Non-U.S. Gov't | Protection against butyl p-hydroxybenzoic acid induced oxidative stress by Ocimum sanctum extract in mice liver. | Acta Pol Pharm
+- new | 2011 | 21976818 |  | Ameliorative effect of ocimum sanctum on meloxicam induced toxicity in wistar rats. | Toxicol Int
+- new | 2011 | 21177454 | Randomized Controlled Trial | Effects of flaxseed, sardines, pearl millet, and holy basil leaves on production traits of layers and fatty acid composition of egg yolks. | Poult Sci
+- new | 2011 | 22013247 |  | Ayurvedic medicine and anaesthesia. | Indian J Anaesth
+- new | 2011 | 21731390 |  | Hepatoprotective activity of Ocimum sanctum alcoholic leaf extract against paracetamol-induced liver damage in Albino rats. | Pharmacognosy Res
+- new | 2011 | 21430913 |  | Role of Ocimum sanctum as a Genoprotective Agent on Chlorpyrifos-Induced Genotoxicity. | Toxicol Int
+- new | 2010 | 20716823 |  | Evaluation of the anti-ulcer activity of NR-ANX-C (a polyherbal formulation) in aspirin & pyloric ligature induced gastric ulcers in albino rats. | Indian J Med Res
+- new | 2010 | 20159736 | Research Support, Non-U.S. Gov't | Phytotherapy of ulcerative dermatitis induced by Aeromonas hydrophila infection in goldfish ( Carassius auratus ). | Acta Vet Hung
+- new | 2010 | 21731203 |  | Antioxidant Activities of Hydroalcoholic Extract of Ocimum sanctum Against Cadmium Induced Toxicity in Rats. | Indian J Clin Biochem
+- new | 2010 | 21341542 | Research Support, Non-U.S. Gov't | Effect of maternal fluoride exposure on developing CNS of rats: protective role of Aloe vera, Curcuma longa and Ocimum sanctum. | Indian J Exp Biol
+- new | 2010 | 19909781 | Research Support, Non-U.S. Gov't | Chemical composition, antifungal and antiaflatoxigenic activities of Ocimum sanctum L. essential oil and its safety assessment as plant based antimicrobial. | Food Chem Toxicol
+- new | 2009 | 20509321 | Historical Article/Research Support, Non-U.S. Gov't/Review | The science behind sacredness of Tulsi (Ocimum sanctum Linn.). | Indian J Physiol Pharmacol
+- new | 2009 | 19277950 | Research Support, Non-U.S. Gov't | Ocimum sanctum induces apoptosis in A549 lung cancer cells and suppresses the in vivo growth of Lewis lung carcinoma cells. | Phytother Res
+- new | 2009 | 19111884 |  | Effects of leaves extract of Ocimum sanctum L. on arsenic-induced toxicity in Wistar albino rats. | Food Chem Toxicol
+- new | 2008 | 18946617 |  | Combinatorial chemopreventive effect of Azadirachta indica and Ocimum sanctum on oxidant-antioxidant status, cell proliferation, apoptosis and angiogenesis in a rat forestomach car | Singapore Med J
+- new | 2008 | 19297977 | Research Support, Non-U.S. Gov't | Possible modulating action of plant infusion of Ocimum sanctum L. on chromosomal aberrations and sister chromatid exchanges induced by chlormadinone acetate in human lymphocytes in | J Environ Biol
+- new | 2007 | 18398493 |  | Indian herbs and herbal drugs used for the treatment of diabetes. | J Clin Biochem Nutr
+- new | 2007 | 18160755 |  | Effect of NR-ANX-C (a polyherbal formulation) on haloperidol induced catalepsy in albino mice. | Indian J Med Res
+- new | 2007 | 17672214 | Research Support, Non-U.S. Gov't | Modulatory effect of distillate of Ocimum sanctum leaf extract (Tulsi) on human lymphocytes against genotoxicants. | Biomed Environ Sci
+- new | 2007 | 17609827 |  | Proliferation, angiogenesis and apoptosis-associated proteins are molecular targets for chemoprevention of MNNG-induced gastric carcinogenesis by ethanolic Ocimum sanctum leaf extr | Singapore Med J
+- new | 2007 | 17887944 |  | Ocimum sanctum Linn. (Holy Basil) ethanolic leaf extract protects against 7,12-dimethylbenz(a)anthracene-induced genotoxicity, oxidative stress, and imbalance in xenobiotic-metabol | J Med Food
+- new | 2007 | 18277466 | Research Support, Non-U.S. Gov't | Anti-genotoxic effect of Ocimum sanctum L. extract against cyproterone acetate induced genotoxic damage in cultured mammalian cells. | Acta Biol Hung
+- new | 2007 | 17669454 | Research Support, Non-U.S. Gov't | Protective effect of Ocimum sanctum on 3-methylcholanthrene, 7,12-dimethylbenz(a)anthracene and aflatoxin B1 induced skin tumorigenesis in mice. | Toxicol Appl Pharmacol
+- new | 2007 | 17589898 | Research Support, Non-U.S. Gov't | Effects of four Indian medicinal herbs on Isoniazid-, Rifampicin- and Pyrazinamide-induced hepatic injury and immunosuppression in guinea pigs. | World J Gastroenterol
+- new | 2007 | 17589913 | Letter | High incidence of inflammatory bowel disease with improved hygiene and failure to get human-like IBD in laboratory animals. | World J Gastroenterol
+- new | 2006 | 16850883 |  | In vivo studies on the effect of Ocimum sanctum L. leaf extract in modifying the genotoxicity induced by chromium and mercury in Allium root meristems. | J Environ Biol
+- new | 2006 | 17016661 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Chemopreventative strategies targeting the MGMT repair protein: augmented expression in human lymphocytes and tumor cells by ethanolic and aqueous extracts of several Indian medici | Int J Oncol
+- new | 2005 | 22557168 |  | Antiasthmatic Role of "Pentapala -04" a Herbal Formulation Against Ova Albumin and Aluminium HydroxideInduced LungDamage in Rats. | Anc Sci Life
+- new | 2003 | 12722129 | Research Support, Non-U.S. Gov't | Protective effect of a polyherbal formulation (Immu-21) against cyclophosphamide-induced mutagenicity in mice. | Phytother Res
+- new | 2003 | 15266961 | Comparative Study/Letter | Effect of Ocimum sanctum (OS) leaf extract on hepatotoxicity induced by antitubercular drugs in rats. | Indian J Physiol Pharmacol
+- new | 2002 | 12587743 | Research Support, Non-U.S. Gov't | Ocimum sanctum aqueous leaf extract provides protection against mercury induced toxicity in Swiss albino mice. | Indian J Exp Biol
+- new | 1999 | 10211319 | Research Support, Non-U.S. Gov't | Chemopreventive effect of Ocimum sanctum on DMBA-induced hamster buccal pouch carcinogenesis. | Oral Oncol
+- new | 1998 | 9541656 | Research Support, Non-U.S. Gov't | Enhancement of bone marrow radioprotection and reduction of WR-2721 toxicity by Ocimum sanctum. | Mutat Res
+- new | 1998 | 9683276 | Research Support, Non-U.S. Gov't | Inhibition by an extract of Ocimum sanctum of DNA-binding activity of 7,12-dimethylbenz[a]anthracene in rat hepatocytes in vitro. | Cancer Lett
+- new | 1997 | 9350426 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Evaluation of antioxidant effectiveness of a few herbal plants. | Free Radic Res
+- new | 1996 | 8710690 | Research Support, Non-U.S. Gov't | Modulatory influence of alcoholic extract of Ocimum leaves on carcinogen-metabolizing enzyme activities and reduced glutathione levels in mouse. | Nutr Cancer
+- new | 1969 | 5820437 |  | Antifertility screening of plants. 3. Effect of six indigenous plants on early pregnancy in albino rats. | Indian J Med Res
+
+### PubMed OBS - 5 hits, 4 not already listed above, 4 new
+- new | 2026 | 43029225 |  | Integrated Phytochemical, Antioxidant, and Chemometric Evaluation of Clinically Relevant Ocimum tenuiflorum Extracts from Diverse Geo-Climatic Regions. | Molecules
+- new | 2022 | 35281682 |  | Comparative Evaluation of Antimicrobial Efficacies of 0.2% Chlorhexidine and 4% Tulsi Extract in the Decontamination of Child Toothbrushes: An Observational Analytical Study. | J Int Soc Prev Community Dent
+- new | 2021 | 34703138 |  | A comparative assessment of pomegranate extract, sodium hypochlorite, chlorhexidine, Myrrh (Commiphora molmol), tulsi extract against Enterococcus faecalis, Fusobacterium nucleatum | J Oral Maxillofac Pathol
+- new | 2015 | 25878464 |  | Clinical evaluation of the role of tulsi and turmeric in the management of oral submucous fibrosis: A pilot, prospective observational study. | J Ayurveda Integr Med
+
+### PubMed REV - 82 hits, 14 not already listed above, 11 new
+- new | 2025 | 38275072 | Review | Medicinal Plants in the Treatment of Respiratory Diseases and their Future Aspects. | Recent Pat Biotechnol
+- new | 2025 | 41208239 | Review | Neuroprotective Potential of Ocimum sanctum Polyphenols: Mechanisms and Therapeutic Implications. | Iran Biomed J
+- new | 2024 | 38558676 | Review | Ayurvedic Herbal Medicines: A Literature Review of Their Applications in Female Reproductive Health. | Cureus
+- new | 2024 | 39473808 | Review | A Comprehensive Review of the Phytochemical Constituents and Bioactivities of Ocimum tenuiflorum. | ScientificWorldJournal
+- new | 2024 | 38351693 | Review/Historical Article | Ocimum sanctum: The Journey from Sacred Herb to Functional Food. | Recent Adv Food Nutr Agric
+- new | 2022 | 36139916 | Review | The Current State of Knowledge in Biological Properties of Cirsimaritin. | Antioxidants (Basel)
+- new | 2022 | 32837101 | Review | Immunity against COVID-19: Potential role of Ayush Kwath. | J Ayurveda Integr Med
+- new | 2021 | 35273578 | Review | Nano-Antibacterials Using Medicinal Plant Components: An Overview. | Front Microbiol
+- new | 2018 | 29908572 | Review | Medicinal plants with traditional use: Ethnobotany in the Indian subcontinent. | Clin Dermatol
+- new | 2017 | 29391697 | Review | Insights into bovine endometritis with special reference to phytotherapy. | Vet World
+- HELD REF-1429 | 2014 | 25624701 | Review | Tulsi - Ocimum sanctum: A herb for all reasons. | J Ayurveda Integr Med
+- HELD REF-1428 | 2013 | 23682780 | Review | Ocimum sanctum L (Holy Basil or Tulsi) and its phytochemicals in the prevention and treatment of cancer. | Nutr Cancer
+- HELD REF-0467 | 2013 | 23629478 | Review | Ocimum sanctum Linn. (Tulsi): an ethnomedicinal plant for the prevention and treatment of cancer. | Anticancer Drugs
+- new | 2002 | 12020931 | Review | Medicinal plants of India with anti-diabetic potential. | J Ethnopharmacol
+
+### ClinicalTrials.gov - 18 registered studies
+- NCT06675578 | NOT_YET_RECRUITING | results=False | PHASE2,PHASE3 | Treatment of Periodontitis by Tulsi Gel | conds: Advanced Periodontitis, Stage III Periodontitis, Stage IV Periodontitis | intr: Tulsi gel, Chlorhexidine gel
+- NCT02918487 | UNKNOWN | results=False | NA | Role of Herbs in the Management of Asthma | conds: Bronchial Asthma | intr: Polyherbal, Placebo
+- NCT03839719 | COMPLETED | results=False | NA | OSE as a Pre-procedural Mouth Rinse: A Clinical and Microbiological Study. | conds: Gingivitis, Periodontitis, Aerosol Disease, Gingival Disease | intr: Group PI, Group OC, Group CHX | pubs: ['23855840:RESULT (new)', '23055587:RESULT (new)']
+- NCT05323058 | UNKNOWN | results=False | PHASE2 | The Use of Tulsi Extract for The Management of Oral Mucositis in Head & Neck Cancer Patients Undergoing Radiotherapy | conds: Stomatitis | intr: tulsi extract, Benzydamine Hydrochloride
+- NCT07175272 | RECRUITING | results=False | PHASE2,PHASE3 | Holy Basil in The Treatment of Dyspepsia | conds: Dyspepsia and Other Specified Disorders of Function of Stomach | intr: Holy basil extract | pubs: ['28400848:RESULT (new)', '15234753:RESULT (new)', '22228948:RESULT (new)', '31784469:RESULT (new)', '32936964:RESULT (new)']
+- NCT03365310 | UNKNOWN | results=False | NA | Management of Frailty in Older Adults With Turmeric and Tulsi Supplements | conds: Frail Elderly Syndrome | intr: C. longa, curcuminoids , Z. officianale, O. sanctum along with 200 ml of Milk, Standard of Care
+- NCT07921082 | NOT_YET_RECRUITING | results=False | PHASE2 | Effectiveness of Oxitard Gel Versus Physiotherapeutic and Pharmacological Interventions in Alleviating Oral Submucous Fibrosis: A Phase-II R | conds: Oral and Maxillofacial Conditions | intr: Herbal Formulation, Shekar's appliance, Multivitamin/Mineral supplements, Conventional oral physioth
+- NCT05504668 | COMPLETED | results=False | NA | The Cognitive Effects of 'Brainwaves' Supplementation in Cognitively Intact Older Adults | conds: Cognitive Change, Mood Change, Microbial Colonization | intr: Turmeric Brainwave | pubs: ['37885445:DERIVED (new)']
+- NCT03474146 | COMPLETED | results=False | NA | Comparative Evaluation of Antiplaque and Antigingivitis Efficacy of Ocimum Sanctum (Tulsi) Extract | conds: Periodontal Diseases, Gingivitis, Periodontitis | intr: Ocimum sanctum, Chlorhexidine Gluconate, Propylene Glycol
+- NCT05523180 | COMPLETED | results=False | NA | A Study to Evaluate the Effect of Probiotic Supplement on Quality of Life | conds: Chronic Obstructive Pulmonary Disease, Non-cystic Fibrosis Bronchiectasis | intr: Probiotic, Placebo | pubs: ['41254308:DERIVED (new)']
+- NCT02681939 | COMPLETED | results=False | PHASE2 | Effect of Tulsi (Ocimum Sanctum) on Biochemical Parameters in Young Overweight and Obese Subjects | conds: Obesity | intr: Tulsi(Ocimum sanctum Linn.) capsules
+- NCT02146157 | COMPLETED | results=False | NA | Trial of an Herb and Mineral Combination Product on Fasting Glucose in Adults at Risk for Developing Diabetes | conds: Prediabetes | intr: herb and mineral combination product, Placebo
+- NCT03184909 | COMPLETED | results=False | NA | Tulsi Consumption and Its Effects on Cognition, Stress and Anxiety | conds: Cognitive Change | intr: Ocimum Sanctum, Placebo
+- NCT07811310 | RECRUITING | results=False | NA | Effect of Holy Basil on Subjects With Sensitive Skin | conds: Sensitive Skin Related to Stress | intr: Holy basil extract, Placebo
+- NCT03287011 | UNKNOWN | results=False | NA | Efficacy of a Plaque Disclosing Toothpaste on Home Oral Hygiene Procedures | conds: Chronic Gingivitis, Plaque Induced | intr: Shoplaq toothpaste, Colgate toothpaste
+- NCT06630637 | COMPLETED | results=False | NA | Monitoring Intermittent Fasting for Human Optimization Using Wearable Technology: An N-of-1 Study | conds: Intermittent Fasting, Healthy, Digital Health | intr: Glucose-Ketone Index (GKI) monitoring, Continuous Glucose Monitoring (CGM), Digital dynamometer, Wea
+- NCT02213523 | COMPLETED | results=False | NA | ABG Oxidative Stress Study Protocol-1 | conds: Healthy | intr: Plant concentrate A, Plant concentrate B, Plant concentrate C, Plant concentrate D
+- NCT06097871 | COMPLETED | results=False | NA | RCT of an Oral Acne Supplement for Adult Women | conds: Acne | intr: Skin Nutraceutical Supplement, Placebo pill | pubs: ['40321085:DERIVED (new)']
+
+### OpenAlex no-PMID trial-worded - 1507 hits, 61 without PMID, 61 new
+- new | 2026 | 10.1177/30497418261490685 | article | Antiplaque Effects of Three Mouthwashes Along with Placebo Among 20–25-year-old Subjects: A Randomized Double-blind Clinical Trial | Journal of Applied Dentistry and Oral Sc
+- new | 2026 | 10.29011/2575-8268.100249 | article | Efficacy of SPH-24, a Proprietary Blend of Pomegranate (Punica granatum) peel and Holy Basil (Ocimum sanctum) Extracts on Skin Aging Parameters in Healthy Women: A Randomized, Doub | Clinical & Experimental Dermatology and 
+- new | 2026 | 10.1016/j.hermed.2026.101094 | review | Efficacy of Ocimum tenuiflorum (syn. Ocimum sanctum) as an adjunct in the management of gingivitis and periodontitis: a systematic review | Journal of Herbal Medicine
+- new | 2026 | 10.33545/2618060x.2026.v9.i7a.5884 | article | Influence of organic manures and biofertilizers on growth of holy basil (Ocimum tenuiflorum L.) | International Journal of Research in Agr
+- new | 2026 | 10.55041/ijsmt.v2i4.302 | article | Biochemical and Physiological Effects of Volatile Organic Compounds Emitted by Ocimum Tenuiflorum on Human Stress Biomarker | International Journal of Science Strateg
+- new | 2026 | 10.9734/ajb2t/2026/v12i4334 | article | Effect of Different Levels of Tulsi (Ocimum tenuiflorum) Leaf Powder Supplementation on the Productive Performance of Broiler Breeder Hens | Asian Journal of Biotechnology and Biore
+- new | 2026 | 10.33545/26174693.2026.v10.i6st.8906 | article | Effect of organic manures and biofertilizers on herbage and essential oil yield of holy basil (Ocimum tenuiflorum L.) | International Journal of Advanced Bioche
+- new | 2026 | 10.36526/jipang.v8i1.7649 | article | PENGOLAHAN PENYEDAP RASA NON MSG DARI KANDANGU MBUKU (Ocimum tenuiflorum L.) DAN PENGARUHNYA TERHADAP ORGANOLEPTIK SERTA PROFIL PROKSIMAT PRODUK | JURNAL TEKNOLOGI PANGAN DAN ILMU PERTANI
+- new | 2025 | 10.12691/ajssm-13-1-3 | article | A Randomized, Placebo-controlled Trial to Screen the Protein Amplifying Effect of Proprietary Botanicals for Increasing Muscle Strength & Growth | American journal of sports science and m
+- new | 2025 | 10.36948/ijfmr.2025.v07i04.46887 | article | An Ayurvedic Formulation for Migraine Management: A Case Trial on a Herbal Combination by Dr. Arjit and Navreen | International Journal For Multidisciplin
+- new | 2025 | 10.33545/2618060x.2025.v8.i11b.4153 | article | Effect of seed pretreatments on growth of Ocimum tenuiflorum var. CIM Ayu | International Journal of Research in Agr
+- new | 2025 | 10.58240/1829006x-2025.21.4-144 | article | THERAPEUTIC POTENTIAL OF OCIMUM TENUIFLORUM PHYTOCHEMICALS IN ORAL CANCER- A COMPREHENSIVE REVIEW | BULLETIN OF STOMATOLOGY AND MAXILLOFACIA
+- new | 2025 | 10.33545/26174693.2025.v9.i10sz.6163 | article | Effect of seed pretreatments on germination of Ocimum tenuiflorum var. CIM Ayu. | International Journal of Advanced Bioche
+- new | 2025 | 10.59298/rijses/2025/511418 | article | Exploring Phytotherapy in the Management of Diarrhea among Diabetic Patients | Research Invention Journal of Scientific
+- new | 2025 | 10.26434/chemrxiv-2025-5l0v3 | preprint | Refining Nature's Defense: Production and Evaluation of Mosquito Repellents from Ocimum tenuiflorum L. (Krishna and Rama Subtypes) and Ocimum gratissimum L. Essential Oils | ChemRxiv
+- new | 2025 | 10.22270/jddt.v15i4.7092 | article | A Review of novel combination therapy for mouth ulcer therapy | Journal of Drug Delivery and Therapeutic
+- new | 2024 | https://openalex.org/W7217404881 | article | A Herbal Approach In Healing Of Oral Traumatic Ulcer – A Randomized Control Trial | Library Progress (International)
+- new | 2024 | 10.18203/2319-2003.ijbcp20241646 | article | A randomized, double-blind, parallel and placebo-controlled clinical study to evaluate the efficacy and safety of KaraCalm™: a dietary supplement to support sleep and manage stress | International Journal of Basic & Clinica
+- new | 2024 | 10.53555/rmk58p40 | article | NATURAL TRANQUALITY: MELISSA OFFICINALIS AND OCIMUM TENUIFLORUM FOR STRESS AND ANXIETY RELIEF. | Journal of Population Therapeutics and C
+- new | 2024 | 10.69613/qzt9ys64 | article | Formulation and Evaluation of Herbal Soap Containing Ocimum tenuiflorum (Tulsi) for Enhanced Skin Health | Journal of Pharma Insights and Research.
+- new | 2024 | 10.5604/01.3001.0054.6597 | article | Ocimum tenuiflorum L. (Holy Basil) in Modern Medicine: Broad-Spectrum Therapeutic Potential | Herba Polonica
+- new | 2024 | 10.1109/iccirt59484.2024.10921993 | conference-paper | Harnessing Machine Learning and Image Processing for Prompt Disease Detection in Ocimum tenuiflorum Cultivation | International Conference on Computing an
+- new | 2024 | 10.30574/wjbphs.2024.18.2.0304 | article | Study of constipation activity of Actinidia deliciosa, Ocimum tenuiflorum, Piper betle L., Adhatoda vasica | World Journal of Biology Pharmacy and He
+- new | 2023 | 10.47552/ijam.v14i2.2950 | article | Evaluation of efficacy of locally delivered Herbal extract in treatment of Chronic periodontitis –A Randomised controlled trial | International Journal of Ayurvedic Medic
+- new | 2023 | 10.53555/jrtdd.v6i7s.2711 | article | Study Of Medicinal Plant-Based Anti-Stress Herbal Tea On Prediabetic Women: Randomized Controlled Trial | Journal for ReAttach Therapy and Develop
+- new | 2023 | 10.52711/0974-360x.2023.00351 | article | Efficacy of Triphala, Ocimum sanctum and Chlorhexidine Mouth Wash on Gingivitis: A Randomized Controlled Clinical Trial | Research Journal of Pharmacy and Technol
+- new | 2023 | 10.55041/ijsrem25693 | article | An Indian Drug, Ocimum Sanctum - A Clinical Trial Study | INTERANTIONAL JOURNAL OF SCIENTIFIC RESE
+- new | 2023 | 10.1016/j.jksus.2023.103010 | article | Antidiabetic activity evaluation of polyherbal formulation in type 2 diabetes mellitus patients | Journal of King Saud University - Scienc
+- new | 2023 | 10.36948/ijfmr.2023.v05i06.10230 | article | A Short-term Comparative Evaluation of Efficacy of Hydroalcoholic Herbal Phytonutrient Mouthrinse as an Adjunct with Scaling & Root Planning in Old Age Home Inmates with Chronic Pe | International Journal For Multidisciplin
+- new | 2023 | 10.47223/irjay.2023.61206 | article | Efficacy and Safety of Tulsi Extract Mouthwash on Periodontal Health Status of Well-Controlled Type 2 Diabetes Mellitus Patients in India: A Concurrent Parallel Pilot Trial | International Research Journal of Ayurve
+- new | 2023 | 10.48047/ecb/2023.12.si10.00251 | article | MACHINE LEARNING CLASSIFICATION OF INFECTION IN OCIMUM TENUIFLORUM USING PREDICTIVE MODELLING | European Chemical Bulletin
+- new | 2023 | 10.1007/978-3-031-28780-0_64 | book-chapter | Plant-Derived Immunomodulators Targeting COVID-19 (SARS-CoV-2): Preclinical Evaluation and Clinical Trials | Springer eBooks
+- new | 2023 | 10.18579/jopcr/v22.2.ms230502 | article | Clinical Study and Assessment of Efficacy of Polyherbal Combination (KNDBHU) in COVID 19 Patients | Journal of Pharmaceutical Research
+- new | 2022 | 10.9734/jpri/2022/v34i18a35787 | article | Comparative Evaluation of Antimicrobial Effects of Herbal Extracts Incorporated in Dentifrices among Adults: An In-vitro Study and a Double Blinded Randomized Control Trial | Journal of Pharmaceutical Research Inter
+- new | 2022 | https://openalex.org/W7218239606 | article | Protective Effect of Ocimum Tenuiflorum Against Negative Effect Filgrastim on Sperm Parameters of Male Rats | Revista Electronica de Veterinaria
+- new | 2022 | 10.31830/2348-7542.2022.031 | article | Effects of accession and spacing on the essential oil yield and yield components of Holy basil (Ocimum tenuiflorum) | Research on Crops
+- new | 2022 | 10.1080/00405000.2022.2051272 | article | Endophytic Streptomyces isolated from Ocimum tenuiflorum and Catharanthus roseus and its efficacy test to develop antibacterial fabric for wound caring | Journal of the Textile Institute
+- new | 2022 | 10.52711/2231-5691.2022.00032 | article | A Study on Formulation and Evaluation of Herbal Hand Sanitizer and Herbal Handwash | Asian Journal of Pharmaceutical Research
+- new | 2022 | 10.20546/ijcmas.2022.1110.018 | article | Effect of Organic Manure on Plant Growth Attributes of Krishna Tulsi [Ocimum tenuiflorum (L.)] Under Eucalyptus (Eucalyptus tereticornis) Based Agroforestry System | International Journal of Current Microbi
+- new | 2021 | 10.1016/j.hermed.2021.100478 | article | Comparative evaluation of antimicrobial and anti-gingivitis effect of Ocimum tenuiflorum Linn. gel with 0.2% chlorhexidine gel – Randomized controlled clinical trial | Journal of Herbal Medicine
+- new | 2021 | 10.4103/jioh.jioh_245_20 | article | Effectiveness of electrospun Ocimum sanctum nanofibers as an adjunct to scaling and root planning in the management of chronic periodontitis: A randomized controlled clinical trial | Journal of international oral health
+- new | 2021 | https://openalex.org/W3136353285 | article | Effect of harvesting time and height of harvest on the performance of tulsi (Ocimum tenuiflorum L.) under shade and open condition | Journal of Medicinal Plants Studies
+- new | 2020 | 10.1007/978-3-030-16807-0_138 | book-chapter | Ocimum tenuiflorum L. (Lamiaceae) | Springer eBooks
+- new | 2020 | 10.1007/s42535-020-00124-7 | article | Shoot organogenesis and assessment of clonal fidelity of regenerated plants of Ocimum tenuiflorum L.: Queen of Herbs | Vegetos
+- new | 2019 | https://openalex.org/W3011792522 | dissertation | Evaluation of the Efficacy of 10% Tulsi Gel as Local Drug Delivery Agent Adjunct to Scaling and Root Planing in Chronic Periodontitis: A Randomized Controlled Clinical Trial | 
+- new | 2019 | 10.1159/000497694 | article | Antidiabetic and hypolipidaemic effects of few common plants extract in Type 2 diabetic patients at Bengal | International Journal of Diabetes and Me
+- new | 2019 | 10.17969/jimfp.v4i1.10355 | article | Studi Pembuatan Teh Celup Daun Ruku-Ruku (Ocimum tenuiflorum L.) dengan Penambahan Bubuk Jahe sebagai Minuman Penyegar | Jurnal Ilmiah Mahasiswa Pertanian
+- new | 2018 | 10.1016/j.jff.2018.03.030 | review | Holybasil (tulsi) lowers fasting glucose and improves lipid profile in adults with metabolic disease: A meta-analysis of randomized clinical trials | Journal of Functional Foods
+- new | 2018 | 10.22159/ajpcr.2018.v11i1.23008 | article | COMPUTATIONAL APPROACHES FOR THE PREDICTION OF ANTIMICROBIAL POTENTIAL PEPTIDES FROM OCIMUM TENUIFLORUM. | Asian Journal of Pharmaceutical and Clin
+- new | 2018 | https://openalex.org/W2980906467 | dissertation | EFEK ANTIHIPERTENSI EKSTRAK ETANOL DAUN KEMANGI (Ocimum tenuiflorum L.) PADA TIKUS HIPERTENSI YANG DIINDUKSI MONOSODIUM GLUTAMAT (MSG) | 
+- new | 2017 | 10.31142/ijtsrd2239 | article | Effect of Ocimum Sanctum Tulsi Powder on Hyperlipidemic and Hyperglycemic Male Patients | International Journal of Trend in Scient
+- new | 2017 | 10.18203/2319-2003.ijbcp20170543 | article | Bronchodilator activity of Ocimum sanctum Linn. (tulsi) in mild and moderate asthmatic patients in comparison with salbutamol: a single-blind cross-over study | International Journal of Basic & Clinica
+- new | 2016 | 10.1007/s12210-016-0538-2 | article | Effects of plant growth regulators on efficient plant regeneration efficiency and genetic stability analysis from two Ocimum tenuiflorum L. morphotypes | RENDICONTI LINCEI
+- new | 2015 | 10.5958/2393-9834.2015.00004.2 | article | Assessment of 4% ocimum sanctum and 0.2% chlorhexidine irrigation as an adjunct to scaling & root planing in management of chronic periodontitis-a randomized controlled trial | Journal of Dental Specialities
+- new | 2014 | 10.7275/r5p26w1x | article | Essential Oils in Holy Basil (Ocimum tenuiflorum L.) as Influenced by Planting Dates and Harvest Times in North Alabama | ScholarWorks@UMassAmherst (University of
+- new | 2013 | 10.4314/bcse.v27i3.16 | article | The effect of Ocimum sanctum and Ledum palustre on serum uric acid level in patients suffering from gouty arthritis and hyperuricaemia | Bulletin of the Chemical Society of Ethi
+- new | 2013 | 10.5897/jmpr12.429 | article | Use of random amplified polymorphic DNA (RAPD) for assessing genetic diversity of Ocimum sanctum (Krishna Tulsi) from different environments of Central India | Journal of Medicinal Plants Research
+- new | 2012 | https://openalex.org/W627075 | article | Effect of Ocimum tenuiflorum Leaf Extract against Infective Endocarditis | International Journal of Phytomedicine
+- new | 2012 | https://openalex.org/W7220501374 | article | EVALUATION OF THE ANTIDIABETIC EFFECT OF OCIMUM SANCTUM IN TYPE 2 DIABETIC PATIENTS: Pharmaceutical Science-Pharmacology | International Journal of Life Science an
+- new | 2010 | 10.53945/2320-7094.1758 | article | Ocimum sanctum- A multicentric double blind homoeopathic pathogenetic trial | Indian Journal of Research in Homoeopath
+- new | 1997 | 10.1080/13590849762709 | article | Effect of Ocimum sanctum Leaf Powder on Blood Lipoproteins, Glycated Proteins and Total Amino Acids in Patients with Non-insulin-dependent Diabetes Mellitus | Journal of Nutritional & Environmental M
+
+## oenothera-biennis (Oenothera biennis) - name clause: "Oenothera biennis"[tiab] OR "evening primrose"[tiab]
+
+### PubMed HT - 230 hits, 200 not already listed above, 181 new
+- new | 2026 | 42205316 |  | The effect of linoderm ointment, containing evening primrose oil, phonophoresis on symptoms of peripheral neuropathy in patients with type 2 diabetes. | J Diabetes Metab Disord
+- new | 2025 | 40418820 | Randomized Controlled Trial | Effects of evening primrose oil on treating painful diabetic neuropathy: a randomized, double-blind, clinical trial. | J Complement Integr Med
+- HELD REF-3679 | 2025 | 41883983 | Systematic Review | The Effect of Evening Primrose Oil on Menopausal Symptoms Management: A Systematic Review and Meta-Analysis. | J Caring Sci
+- new | 2025 | 38963342 | Systematic Review/Meta-Analysis | Herbal Medicine in Children and Adults With Atopic Dermatitis: A Systematic Review and Meta-Analysis. | Dermatitis
+- new | 2025 | 40762126 |  | Practical survey on the use of herbal medicine by patients with systemic sclerosis. | Vasc Dis (Paris)
+- new | 2025 | 40057740 |  | Holistic horizons: understanding the landscape of traditional and complementary medicines among menopausal women in Kuala Lumpur. | BMC Complement Med Ther
+- HELD REF-2587 | 2024 | 38783644 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | A systematic review and meta-analysis of nutritional and dietary interventions in randomized controlled trials for skin symptoms in children with atopic dermatitis and without food | Allergy
+- HELD REF-0446 | 2024 | 38360611 | Systematic Review | The effect of Oenothera biennis (Evening primrose) oil on inflammatory diseases: a systematic review of clinical trials. | BMC Complement Med Ther
+- new | 2024 | 39829189 | Review | Evening Primrose Oil for Menopause Hot Flashes: Systematic Review and Meta-Analysis. | J Menopausal Med
+- HELD REF-0600 | 2024 | 38752050 |  | Effectiveness of Evening Primrose and Vitamin E for Cyclical Mastalgia: A Prospective Study. | Cureus
+- new | 2024 | 38681262 | Review | Efficacy of Low-Dose Isotretinoin in the Treatment of Rosacea: A Systematic Review and Meta-Analysis. | Cureus
+- new | 2024 | 40255948 |  | The effect of evening primrose oil on adolescent girl patients with PCOS: A double-blind placebo-controlled randomized study. | Avicenna J Phytomed
+- new | 2024 | 38377980 | Randomized Controlled Trial | The Use of Evening Primrose Oil for Cervical Ripening in Low-Risk Women with Term Pregnancy: A Randomized Double-Blinded Controlled Trial. | Complement Med Res
+- new | 2023 | 36958415 | Systematic Review | Phytotherapy in paediatric skin disorders - A systematic literature review. | Complement Ther Med
+- new | 2023 | 38089421 |  | Effect of misoprostol with and without evening primrose (Oenothera biennis) on induction of missed abortion. | Avicenna J Phytomed
+- new | 2023 | 38021953 |  | Psychological Assessment and Treatment Effectiveness in Mastalgia: Developing a Treatment Algorithm. | Cureus
+- new | 2023 | 37468886 | Randomized Controlled Trial | Comparison of the effect of vaginal misoprostol and evening primrose oil capsule with misoprostol alone on the consequences of abortion in women with intrauterine fetal death: a ra | BMC Complement Med Ther
+- new | 2023 | 37694196 |  | Comparison of the Effect of Fennel and Evening Primrose Oil on Menopausal Problems and Hormonal Levels: A Randomized Controlled Trial. | Iran J Nurs Midwifery Res
+- new | 2023 | 37102338 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Comparison of Misoprostol and Evening Primrose Oil on Cervical Preparation Before Gynecological Surgery. | J Clin Pharmacol
+- new | 2023 | 37200751 |  | Comparative Study of the Effect of Vaginal use of Primrose Oil with Misoprostol on Cervical Preparation of Prim Gravid Women: A Double-blind Clinical Trial. | Adv Biomed Res
+- new | 2023 | 36846678 |  | The effect of evening primrose oil on cervical ripening and birth outcomes: A systematic review and meta-analysis. | Heliyon
+- new | 2023 | 37081029 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Anti-inflammatory effect of combining fish oil and evening primrose oil supplementation on breast cancer patients undergoing chemotherapy: a randomized placebo-controlled trial. | Sci Rep
+- new | 2022 | 36548328 | Review | Systematic Review of Evening Primrose (Oenothera biennis) Preparations for the Facilitation of Parturition. | Pharmacy (Basel)
+- SEEN | 2022 | 33331798 | Randomized Controlled Trial | Efficacy and Safety of Nutraceutical on Menopausal Symptoms in Post-Menopausal Women: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial. | J Diet Suppl
+- new | 2022 | 38011464 | Review | Diet and disease-related outcomes in multiple sclerosis: A systematic review of clinical trials. | Curr J Neurol
+- new | 2022 | 35405955 | Randomized Controlled Trial | Effect of Evening Primrose Oil Supplementation on Biochemical Parameters and Nutrition of Patients Treated with Isotretinoin for Acne Vulgaris: A Randomized Double-Blind Trial. | Nutrients
+- new | 2022 | 35889936 | Randomized Controlled Trial | Effect of Evening Primrose Oil Supplementation on Selected Parameters of Skin Condition in a Group of Patients Treated with Isotretinoin-A Randomized Double-Blind Trial. | Nutrients
+- new | 2022 | 36501137 |  | Dietary Supplement Intake and Fecundability in a Singapore Preconception Cohort Study. | Nutrients
+- new | 2022 | 34260808 | Randomized Controlled Trial | Effects of a combination of botanical actives on skin health and antioxidant status in post-menopausal women: A randomized, double-blind, placebo-controlled clinical trial. | J Cosmet Dermatol
+- new | 2022 | 36187740 |  | The effect of consuming evening primrose oil on cervical preparation before hysteroscopy: An RCT. | Int J Reprod Biomed
+- new | 2022 | 35440333 | Randomized Controlled Trial | Effect of Evening Primrose Vaginal Capsule on Cervix Preparation and Duration of First Stage of Labor in Nulliparous Women Referred to Fatemieh Hospital in Hamadan, Iran: A Single- | Curr Drug Res Rev
+- new | 2022 | 35791734 | Research Support, N.I.H., Extramural/Randomized Controlled Trial/Clinical Trial, Phase I | Supplementation with omega-3 or omega-6 fatty acids attenuates platelet reactivity in postmenopausal women. | Clin Transl Sci
+- new | 2021 | 34602874 |  | Ahiflower Oil-The Rising GLA Alternative to Evening Primrose for Women & Vegans. | Integr Med (Encinitas)
+- HELD REF-3680 | 2021 | 34200727 | Meta-Analysis/Systematic Review | A Systematic Review and Meta-Analysis of the Efficacy of Evening Primrose Oil for Mastalgia Treatment. | Int J Environ Res Public Health
+- new | 2021 | 34463069 |  | Effect of Evening Primrose Oil on Postmenopausal Psychological Symptoms: A Triple-Blind Randomized Clinical Trial. | J Menopausal Med
+- new | 2021 | 33197658 | Systematic Review | Complementary and alternative medicine therapies for uremic pruritus - A systematic review of randomized controlled trials. | Complement Ther Med
+- new | 2021 | 33143484 | Expression of Concern | Expression of Concern: The effects of vitamin D and evening primrose oil co-supplementation on lipid profiles and biomarkers of oxidative stress in vitamin D-deficient women with p | Endocr Res
+- new | 2021 | 33942584 |  | The Effect of Evening Primrose Oil Capsule on Hot Flashes and Night Sweats in Postmenopausal Women: A Single-Blind Randomized Controlled Trial. | J Menopausal Med
+- HELD REF-3461 | 2021 | 34606560 | Randomized Controlled Trial | Borage oil intake by overweight young adults: no effect on metabolic rate; beneficial effects on plasma triglyceride and HDL cholesterol readings. | Food Funct
+- new | 2021 | 33689238 | Clinical Trial Protocol/Research Support, Non-U.S. Gov't | Developing and validating the Caesarean risk assessment nomogram and comparing the effect of cervical ripening balloon, evening primrose oil and misoprostol on childbirth outcomes  | Nurs Open
+- HELD REF-3682 | 2020 | 32441049 | Meta-Analysis/Systematic Review | Effect of evening primrose oil supplementation on lipid profile: A systematic review and meta-analysis of randomized clinical trials. | Phytother Res
+- HELD REF-3685 | 2020 | 31738736 | Randomized Controlled Trial | Impact of evening primrose oil consumption on psychological symptoms of postmenopausal women: a randomized double-blinded placebo-controlled clinical trial. | Menopause
+- new | 2020 | 33854910 |  | Effect of evening primrose oil on postoperative pain after appendectomy: A double-blind, randomized, clinical trial. | Biomedicine (Taipei)
+- new | 2019 | 31666832 | Randomized Controlled Trial | An investigation into the effect of evening primrose in dilatation of cervix and pain during and after hysterosalpingography. | J Med Life
+- new | 2019 | 31076942 | Randomized Controlled Trial | Influence of different supplementation on platelet aggregation in patients with rheumatoid arthritis. | Clin Rheumatol
+- HELD REF-1464 | 2018 | 29426270 | Randomized Controlled Trial | Evening primrose oil and labour, is it effective? A randomised clinical trial. | J Obstet Gynaecol
+- new | 2018 | 30391814 |  | How to change the ratio of unsaturated (omega 3, 6, 7 and 9) to saturated fatty acids in Oenothera biennis L. oil under water deficit stress, fertilizers and geographical zones. | Plant Physiol Biochem
+- new | 2018 | 30255691 | Review | The Sources of Essential Fatty Acids for Allergic and Cancer Patients; a Connection with Insight into Mammalian Target of Rapamycin: A Narrative Review. | Asian Pac J Cancer Prev
+- new | 2018 | 29928122 |  | The effect of evening primrose oil on fatigue and quality of life in patients with multiple sclerosis. | Neuropsychiatr Dis Treat
+- new | 2018 | 28742409 | Randomized Controlled Trial/Retracted Publication | The effects of vitamin D and evening primrose oil co-supplementation on lipid profiles and biomarkers of oxidative stress in vitamin D-deficient women with polycystic ovary syndrom | Endocr Res
+- new | 2018 | 30065580 |  | Effect of Evening Primrose Oil on Korean Patients With Mild Atopic Dermatitis: A Randomized, Double-Blinded, Placebo-Controlled Clinical Study. | Ann Dermatol
+- new | 2018 | 29072514 | Randomized Controlled Trial | Effectiveness of Matricaria chamomilla (chamomile) extract on pain control of cyclic mastalgia: a double-blind randomised controlled trial. | J Obstet Gynaecol
+- new | 2017 | 28940438 | Clinical Trial/Letter | Topical evening primrose oil as a possible therapeutic alternative in children with molluscum contagiosum. | Clin Exp Dermatol
+- new | 2017 | 29154074 |  | Knowledge and characteristics of herbal supplement usage among community pharmacy customers in a Malaysian population. | Complement Ther Med
+- new | 2017 | 28948486 | Review | Efficacy and Tolerability of Phytomedicines in Multiple Sclerosis Patients: A Review. | CNS Drugs
+- new | 2017 | 29114553 |  | Compare the effect of flaxseed, evening primrose oil and Vitamin E on duration of periodic breast pain. | J Educ Health Promot
+- new | 2016 | 27388911 | Review | Complementary and Alternative Medicine for Atopic Dermatitis: An Evidence-Based Review. | Am J Clin Dermatol
+- new | 2016 | 27648380 | Review | Diet and eczema: a review of dietary supplements for the treatment of atopic dermatitis. | Dermatol Pract Concept
+- new | 2016 | 27294213 | Review | The efficacy of Iranian herbal medicines in alleviating hot flashes: A systematic review. | Int J Reprod Biomed
+- new | 2016 | 26939678 | Published Erratum | Erratum to: Vitamin D and Evening Primrose Oil Administration Improve Glycemia and Lipid Profiles in Women with Gestational Diabetes. | Lipids
+- new | 2016 | 26758438 |  | Evaluation of the effects of different supplementation on oxidative status in patients with rheumatoid arthritis. | Clin Rheumatol
+- new | 2016 | 26781763 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Vitamin D and Evening Primrose Oil Administration Improve Glycemia and Lipid Profiles in Women with Gestational Diabetes. | Lipids
+- new | 2016 | 27280278 | Review |  | 
+- new | 2015 | 25518050 | Research Support, Non-U.S. Gov't/Systematic Review | Systematic review of complementary and alternative medicine treatments in inflammatory bowel diseases. | J Crohns Colitis
+- new | 2015 | 25830661 | Review | Herbal and plant therapy in patients with inflammatory bowel disease. | Ann Gastroenterol
+- new | 2015 | 25415370 | Clinical Trial | In vivo and ex vivo evaluation of cosmetic properties of seedcakes. | J Cosmet Laser Ther
+- new | 2015 | 27679244 |  | Cervical Priming Prior to Operative Hysteroscopy: A Randomized Controlled Study Comparing the Efficacy of Laminaria Versus Evening Primrose Oil (EPO). | J Minim Invasive Gynecol
+- new | 2015 | 26365444 | Randomized Controlled Trial | Alteration of delta-6-desaturase (FADS2), secretory phospholipase-A2 (sPLA2) enzymes by Hot-nature diet with co-supplemented hemp seed, evening primrose oils intervention in multip | Complement Ther Med
+- new | 2015 | 25622761 | Research Support, Non-U.S. Gov't/Systematic Review | What's new in atopic eczema? An analysis of systematic reviews published in 2012 and 2013. Part 2. Treatment and prevention. | Clin Exp Dermatol
+- new | 2015 | 26224187 | Research Support, Non-U.S. Gov't | Use of complementary and alternative medicines for menopausal symptoms in Australian women aged 40-65 years. | Med J Aust
+- new | 2014 | 24535321 | Review | Herbal therapies in pregnancy: what works? | Curr Opin Obstet Gynecol
+- new | 2014 | 25177120 |  | A systematic review of current understanding and management of mastalgia. | Indian J Surg
+- new | 2014 | 25453518 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Activity of liver enzymes in multiple sclerosis patients with Hot-nature diet and co-supplemented hemp seed, evening primrose oils intervention. | Complement Ther Med
+- new | 2014 | 24435467 | Research Support, Non-U.S. Gov't | Gamma-linolenic acid levels correlate with clinical efficacy of evening primrose oil in patients with atopic dermatitis. | Adv Ther
+- new | 2014 | 24681616 | Research Support, Non-U.S. Gov't | Translocations of chromosome end-segments and facultative heterochromatin promote meiotic ring formation in evening primroses. | Plant Cell
+- new | 2013 | 23813259 | Review | Dietary supplement interactions with medications used commonly in dentistry. | J Am Dent Assoc
+- new | 2013 | 23981095 | Systematic Review | Systematic review: the efficacy of herbal therapy in inflammatory bowel disease. | Aliment Pharmacol Ther
+- HELD REF-0447 | 2013 | 23633319 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Oral evening primrose oil and borage oil for eczema. | Cochrane Database Syst Rev
+- new | 2013 | 24003269 |  | Dose-dependent effects of evening primrose oil in children and adolescents with atopic dermatitis. | Ann Dermatol
+- new | 2013 | 23497959 | Research Support, Non-U.S. Gov't/Systematic Review | Prevalence of complementary and alternative medicine (CAM) use by menopausal women: a systematic review of surveys. | Maturitas
+- HELD REF-3683 | 2013 | 23625331 | Randomized Controlled Trial | The effect of oral evening primrose oil on menopausal hot flashes: a randomized clinical trial. | Arch Gynecol Obstet
+- new | 2013 | 24050582 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Immunomodulatory and therapeutic effects of Hot-nature diet and co-supplemented hemp seed, evening primrose oils intervention in multiple sclerosis patients. | Complement Ther Med
+- new | 2013 | 24311880 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Erythrocyte membrane fatty acids in multiple sclerosis patients and hot-nature dietary intervention with co-supplemented hemp-seed and evening-primrose oils. | Afr J Tradit Complement Altern Med
+- new | 2013 | 23678469 |  | Association of Expanded Disability Status Scale and Cytokines after Intervention with Co-supplemented Hemp Seed, Evening Primrose Oils and Hot-natured Diet in Multiple Sclerosis Pa | Bioimpacts
+- new | 2012 | 22892074 | Letter/Randomized Controlled Trial | Mastalgia cured! Randomized trial comparing centchroman to evening primrose oil. | Breast J
+- new | 2012 | 22336810 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Dietary supplements for established atopic eczema. | Cochrane Database Syst Rev
+- new | 2012 | 21674629 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A randomized, double-blind, placebo-controlled trial to evaluate efficacy and tolerability of an optimized botanical combination in the management of patients with primary hypercho | Phytother Res
+- new | 2011 | 22139538 | Review | Complementary and alternative medicine in the treatment of menopausal symptoms. | Chin J Integr Med
+- new | 2011 | 21171936 | Systematic Review | Herbal treatments for alleviating premenstrual symptoms: a systematic review. | J Psychosom Obstet Gynaecol
+- HELD REF-5205 | 2011 | 21328257 | Meta-Analysis/Systematic Review | Herbal therapy for treating rheumatoid arthritis. | Cochrane Database Syst Rev
+- new | 2011 | 22105039 | Randomized Controlled Trial | Effectiveness of a herbal formula in women with menopausal syndrome. | Forsch Komplementmed
+- new | 2010 | 22432513 | Research Support, Non-U.S. Gov't | Herbal medicine: an overview of the literature from three decades. | J Diet Suppl
+- new | 2010 | 19714330 | Controlled Clinical Trial/Letter | Reduction of 5-azacitidine induced skin reactions in MDS patients with evening primrose oil. | Ann Hematol
+- new | 2010 | 22952490 |  | Femicomfort in the treatment of premenstrual syndromes: a double-blind, randomized and placebo controlled trial. | Iran J Psychiatry
+- HELD REF-3686 | 2010 | 20359269 | Randomized Controlled Trial | Vitamin E and evening primrose oil for management of cyclical mastalgia: a randomized pilot study. | Altern Med Rev
+- new | 2010 | 20579590 | Review | Borage oil in the treatment of atopic dermatitis. | Nutrition
+- new | 2010 | 20833608 | Review | Evaluating the evidence for over-the-counter alternatives for relief of hot flashes in menopausal women. | J Am Pharm Assoc (2003)
+- new | 2010 | 20883295 |  | Top 10 botanical ingredients in 2010 anti-aging creams. | J Cosmet Dermatol
+- new | 2009 | 19923637 | Research Support, Non-U.S. Gov't/Systematic Review | Herbs, vitamins and minerals in the treatment of premenstrual syndrome: a systematic review. | Can J Clin Pharmacol
+- new | 2009 | 19941324 | Meta-Analysis/Systematic Review | Evidence of effectiveness of herbal medicinal products in the treatment of arthritis. Part 2: Rheumatoid arthritis. | Phytother Res
+- new | 2009 | 19347706 | Review | Current alternative and complementary therapies used in menopause. | Gynecol Endocrinol
+- new | 2008 | 18313350 | Randomized Controlled Trial | Oral omega-6 essential fatty acid treatment in contact lens associated dry eye. | Cont Lens Anterior Eye
+- HELD REF-3684 | 2008 | 19052401 | Comparative Study/Randomized Controlled Trial | Evening primrose oil is effective in atopic dermatitis: a randomized placebo-controlled trial. | Indian J Dermatol Venereol Leprol
+- new | 2008 | 17678567 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Co-supplementation of healthy women with fish oil and evening primrose oil increases plasma docosahexaenoic acid, gamma-linolenic acid and dihomo-gamma-linolenic acid levels withou | Br J Nutr
+- new | 2007 | 17593379 | Review | Non-hormonal therapy of post-menopausal vasomotor symptoms: a structured evidence-based review. | Arch Gynecol Obstet
+- new | 2007 | 17210012 | Comparative Study/Research Support, Non-U.S. Gov't | Genotype-by-environment interactions leads to variable selection on life-history strategy in Common Evening Primrose (Oenothera biennis). | J Evol Biol
+- new | 2007 | 17509880 | Meta-Analysis | Evidence-based management of Mastalgia: a meta-analysis of randomised trials. | Breast
+- new | 2007 | 17202872 | Research Support, Non-U.S. Gov't | Women's health during mid-life survey: the use of complementary and alternative medicine by symptomatic women transitioning through menopause in Sydney. | Menopause
+- new | 2007 | 18087899 | Randomized Controlled Trial | Low intensity laser therapy is comparable to bromocriptine-evening primrose oil for the treatment of cyclical mastalgia in Egyptian females. | Tanzan Health Res Bull
+- new | 2007 | 17985680 | Research Support, Non-U.S. Gov't | The use of herbal and other non-vitamin, non-mineral supplements among pre- and post-menopausal women in Ontario. | Can J Public Health
+- new | 2006 | 16542050 | Review | A review of non-hormonal options for the relief of menopausal symptoms. | Treat Endocrinol
+- new | 2006 | 17168667 | Meta-Analysis/Review | A meta-analysis of randomized, placebo-controlled clinical trials of Efamol evening primrose oil in atopic eczema. Where do we go from here in light of more recent discoveries? | Curr Pharm Biotechnol
+- new | 2006 | 16670364 | Research Support, Non-U.S. Gov't/Systematic Review | Natural health products in the prevention and treatment of osteoporosis: systematic review of randomized controlled trials. | Ann Pharmacother
+- new | 2006 | 16477892 | Review | Nonhormonal therapies for hot flashes in menopause. | Am Fam Physician
+- new | 2005 | 16167914 | Review | Hot flashes revisited: pharmacological and herbal options for hot flashes management. What does the evidence tell us? | Acta Obstet Gynecol Scand
+- new | 2005 | 16414334 | Review | Menopause: a review of botanical dietary supplements. | Am J Med
+- new | 2005 | 18492193 |  | Systemic evening primrose oil improves the biophysical skin parameters of healthy adults. | Int J Cosmet Sci
+- new | 2004 | 15292498 | Systematic Review | Nonestrogen treatment modalities for vasomotor symptoms associated with menopause. | Ann Pharmacother
+- new | 2004 | 14735185 | Research Support, Non-U.S. Gov't | Potential health risks of complementary alternative medicines in cancer patients. | Br J Cancer
+- new | 2004 | 15214908 | Research Support, Non-U.S. Gov't | The use of dietary manipulation by parents of children with atopic dermatitis. | Br J Dermatol
+- new | 2003 | 14501609 | Research Support, Non-U.S. Gov't/Systematic Review | A systematic review of herbal medicinal products for the treatment of menopausal symptoms. | Menopause
+- new | 2003 | 12583650 | Review | Botanicals and dietary supplements in diabetic peripheral neuropathy. | J Am Board Fam Pract
+- new | 2003 | 12804311 | Research Support, Non-U.S. Gov't | The use of food supplements among women attending menopause clinics in the West Midlands. | J Br Menopause Soc
+- new | 2003 | 14553835 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effects of dietary fatty acid supplementation on endothelial function and vascular tone in healthy subjects. | Cardiovasc Res
+- new | 2002 | 12435217 | Research Support, U.S. Gov't, P.H.S./Review | Complementary and alternative medicine for menopausal symptoms: a review of randomized, controlled trials. | Ann Intern Med
+- new | 2002 | 12109650 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Gammalinolenic acid treatment of fatigue associated with primary Sjögren's syndrome. | Scand J Rheumatol
+- new | 2002 | 12017748 | Comparative Study/Review | [Pain management with herbal antirheumatic drugs]. | Wien Med Wochenschr [ger]
+- new | 2002 | 14965665 | Clinical Trial/Randomized Controlled Trial | A double-blind randomized controlled trial of isoflavones in the treatment of cyclical mastalgia. | Breast
+- new | 2002 | 12439536 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Evening primrose oil and fish oil for severe chronic mastalgia: a randomized, double-blind, controlled trial. | Am J Obstet Gynecol
+- new | 2002 | 11803254 |  | The therapeutic effect of evening primrose oil in atopic dermatitis patients with dry scaly skin lesions is associated with the normalization of serum gamma-interferon levels. | Skin Pharmacol Appl Skin Physiol
+- new | 2002 | 12353708 | Comparative Study | Effect of rice starch as a bath additive on the barrier function of healthy but SLS-damaged skin and skin of atopic patients. | Acta Derm Venereol
+- new | 2001 | 11237929 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Dietary supplementation with eicosapentaenoic acid, but not with other long-chain n-3 or n-6 polyunsaturated fatty acids, decreases natural killer cell activity in healthy subjects | Am J Clin Nutr
+- new | 2000 | 11103660 | Research Support, U.S. Gov't, P.H.S./Review | Potential mechanisms of diet therapy for fibrocystic breast conditions show inadequate evidence of effectiveness. | J Am Diet Assoc
+- new | 2000 | 10796622 | Systematic Review | Polyunsaturated fatty acid (fish or evening primrose oil) for schizophrenia. | Cochrane Database Syst Rev
+- HELD REF-1463 | 2000 | 10617996 | Research Support, Non-U.S. Gov't/Review | Evening primrose oil and borage oil in rheumatologic conditions. | Am J Clin Nutr
+- new | 2000 | 10682869 | Review | The potential for dietary supplements to reduce premenstrual syndrome (PMS) symptoms. | J Am Coll Nutr
+- new | 2000 | 11134919 | Systematic Review | Systematic review of treatments for atopic eczema. | Health Technol Assess
+- new | 2000 | 10730024 | Review | Herbs of special interest to women. | J Am Pharm Assoc (Wash)
+- new | 2000 | 10933121 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Does zinc moderate essential fatty acid and amphetamine treatment of attention-deficit/hyperactivity disorder? | J Child Adolesc Psychopharmacol
+- new | 2000 | 10911771 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Lack of effect of supplementation with essential fatty acids on bone mineral density in healthy pre- and postmenopausal women: two randomized controlled trials of Efacal v. calcium | Br J Nutr
+- HELD REF-5206 | 1999 | 10233322 | Clinical Trial/Multicenter Study/Randomized Controlled Trial | Double-blind, multicentre analysis of the efficacy of borage oil in patients with atopic eczema. | Br J Dermatol
+- new | 1999 | 10548762 | Clinical Trial/Controlled Clinical Trial | Parallel placebo-controlled clinical study of a mixture of herbs sold as a remedy for cellulite. | Phytother Res
+- new | 1999 | 10442214 | Clinical Trial/Randomized Controlled Trial | Effect of topically applied evening primrose oil on epidermal barrier function in atopic dermatitis as a function of vehicle. | Arzneimittelforschung
+- new | 1999 | 10442919 |  | Management of cyclical mastalgia in oriental women: pioneer experience of using gamolenic acid (Efamast) in Asia. | Aust N Z J Surg
+- new | 1999 | 15512224 | Clinical Trial/Randomized Controlled Trial | The effect of prostanoid precursors and inhibitors on platelet angiotensin II binding. | J Obstet Gynaecol
+- new | 1999 | 10380450 |  | Oral evening primrose oil: its effect on length of pregnancy and selected intrapartum outcomes in low-risk nulliparous women. | J Nurse Midwifery
+- new | 1999 | 9933750 | Clinical Trial/Randomized Controlled Trial | Effects of oral supplementation with evening primrose oil for six weeks on plasma essential fatty acids and uremic skin symptoms in hemodialysis patients. | Nephron
+- new | 1999 | 10359022 | Clinical Trial/Comparative Study/Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Does supplementation of formula with evening primrose and fish oils augment long chain polyunsaturated fatty acid status of low birthweight infants to that of breast-fed counterpar | Prostaglandins Leukot Essent Fatty Acids
+- new | 1998 | 9707349 | Clinical Trial/Controlled Clinical Trial | Pharmacokinetic data of gamma-linolenic acid in healthy volunteers after the administration of evening primrose oil (Epogam). | Int J Clin Pharmacol Ther
+- new | 1997 | 34644846 |  | A double-blind placebo-controlled trial of an evening primrose and fish oil combination vs. hydrogenated coconut oil in the management of recurrent seasonal pruritus in horses. | Vet Dermatol
+- new | 1997 | 9350019 |  | Premenstrual symptoms in general practice patients. Prevalence and treatment. | J Reprod Med
+- new | 1996 | 9014601 | Clinical Trial/Randomized Controlled Trial | Epogam evening primrose oil treatment in atopic dermatitis and asthma. | Arch Dis Child
+- new | 1996 | 8853774 | Clinical Trial/Comparative Study/Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Essential fatty acid supplementation in chronic hepatitis B. | Aliment Pharmacol Ther
+- HELD REF-3681 | 1996 | 8721802 | Meta-Analysis | Is evening primrose oil of value in the treatment of premenstrual syndrome? | Control Clin Trials
+- new | 1996 | 8884146 | Clinical Trial/Randomized Controlled Trial | Evening primrose oil (Epogam) in the treatment of chronic hand dermatitis: disappointing therapeutic results. | Dermatology
+- new | 1995 | 8822394 |  | (n-6)-Fatty acids in plasma lipids of children with atopic bronchial asthma. | Pediatr Allergy Immunol
+- new | 1995 | 7823743 | Clinical Trial/Controlled Clinical Trial/Letter | Evening primrose oil and atopic eczema. | Lancet
+- new | 1994 | 8050140 | Clinical Trial/Randomized Controlled Trial | Evening primrose oil and marine oil in the treatment of psoriasis. | Clin Exp Dermatol
+- new | 1994 | 7921757 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A double-blind placebo controlled trial of Efamol Marine on skin and joint symptoms of psoriatic arthritis. | Br J Rheumatol
+- new | 1994 | 8136666 | Clinical Trial/Randomized Controlled Trial | Effect of oral gamolenic acid from evening primrose oil on menopausal flushing. | BMJ
+- new | 1993 | 8403467 | Clinical Trial/Controlled Clinical Trial | The effect of essential fatty acids on epidermal atrophy due to topical steroids. | Clin Exp Dermatol
+- new | 1993 | 8485269 | Clinical Trial/Randomized Controlled Trial | A randomized controlled study of evening primrose oil and fish oil in ulcerative colitis. | Aliment Pharmacol Ther
+- new | 1993 | 8099640 | Clinical Trial/Randomized Controlled Trial | Placebo-controlled trial of essential fatty acid supplementation in atopic dermatitis. | Lancet
+- HELD REF-3462 | 1993 | 8214997 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Treatment of rheumatoid arthritis with gammalinolenic acid. | Ann Intern Med
+- new | 1992 | 1318129 | Comparative Study/Review | Treatment of atopic eczema with evening primrose oil: rationale and clinical results. | Clin Investig
+- new | 1992 | 1492408 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of a combination of evening primrose oil (gamma linolenic acid) and fish oil (eicosapentaenoic + docahexaenoic acid) versus magnesium, and versus placebo in preventing pre- | Women Health
+- new | 1992 | 1596720 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Plasma fatty acid profiles in benign breast disorders. | Br J Surg
+- new | 1991 | 1913008 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Evening primrose oil in patients with rheumatoid arthritis and side-effects of non-steroidal anti-inflammatory drugs. | Br J Rheumatol
+- new | 1991 | 1871175 | Clinical Trial/Comparative Study/Controlled Clinical Trial | The effects of evening primrose oil, safflower oil and paraffin on plasma fatty acid levels in humans: choice of an appropriate placebo for clinical studies on primrose oil. | Prostaglandins Leukot Essent Fatty Acids
+- new | 1991 | 1943500 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Supplementation with evening primrose oil in atopic dermatitis: effect on fatty acids in neutrophils and epidermis. | Lipids
+- new | 1991 | 2012942 | Review | Is diet important in rheumatoid arthritis? | Br J Rheumatol
+- new | 1991 | 1668100 | Clinical Trial/Controlled Clinical Trial | The effect of maternal supplementation with linoleic and gamma-linolenic acids on the fat composition and content of human milk: a placebo-controlled trial. | J Nutr Sci Vitaminol (Tokyo)
+- new | 1991 | 1871184 | Clinical Trial/Controlled Clinical Trial | Fatty acid and prostaglandin metabolism in children with diabetes mellitus. II. The effect of evening primrose oil supplementation on serum fatty acid and plasma prostaglandin leve | Prostaglandins Leukot Essent Fatty Acids
+- new | 1990 | 1971352 | Clinical Trial/Letter/Comment | Evening primrose oil and eczema. | Lancet
+- new | 1990 | 2192634 | Clinical Trial/Randomized Controlled Trial | A randomized trial of dietary intervention with essential fatty acids in patients with categorized cysts. | Ann N Y Acad Sci
+- new | 1990 | 2169638 | Clinical Trial/Controlled Clinical Trial/Randomized Controlled Trial | The effect of gamma-linolenic acid, an in vitro cytostatic substance contained in evening primrose oil, on primary liver cancer. A double-blind placebo controlled trial. | Prostaglandins Leukot Essent Fatty Acids
+- new | 1990 | 1969047 | Clinical Trial/Letter/Comment | Evening primrose oil and eczema. | Lancet
+- new | 1990 | 2185826 | Clinical Trial/Research Support, Non-U.S. Gov't | Paradoxical effects of essential fatty acid supplementation on lipid profiles and sweat electrolytes in cystic fibrosis. | Br J Nutr
+- new | 1989 | 2608693 | Clinical Trial/Randomized Controlled Trial | Attempts at dietary alteration of prostaglandin pathways in the management of pre-eclampsia. | Prostaglandins Leukot Essent Fatty Acids
+- new | 1989 | 2717651 | Clinical Trial/Controlled Clinical Trial/Randomized Controlled Trial | A study of evening primrose seed oil in atopic asthma. | Prostaglandins Leukot Essent Fatty Acids
+- new | 1989 | 2539203 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Gamma-linolenic acid for attention-deficit hyperactivity disorder: placebo-controlled comparison to D-amphetamine. | Biol Psychiatry
+- new | 1989 | 2696222 | Review | Management of breast pain and nodularity. | World J Surg
+- new | 1989 | 2540757 | Clinical Trial/Controlled Clinical Trial | Effects of gammalinolenic acid on plasma lipoproteins and apolipoproteins. | Atherosclerosis
+- new | 1989 | 2649022 | Clinical Trial/Controlled Clinical Trial | Evening primrose oil in rheumatoid arthritis: changes in serum lipids and fatty acids. | Ann Rheum Dis
+- new | 1988 | 3048952 | Clinical Trial | A long-term study on the use of evening primrose oil (Efamol) in atopic children. | Drugs Exp Clin Res
+- new | 1988 | 3048953 | Clinical Trial/Controlled Clinical Trial | Evening primrose oil (Efamol) in the treatment of children with atopic eczema. | Drugs Exp Clin Res
+- new | 1988 | 3052690 | Research Support, Non-U.S. Gov't/Review | Cyclical mastopathy: a critical review of therapy. | Br J Surg
+- new | 1988 | 2979244 | Clinical Trial/Randomized Controlled Trial | The effect of dietary fatty acids on the gastric production of prostaglandins and aspirin-induced injury. | Aliment Pharmacol Ther
+- new | 1988 | 2833184 | Clinical Trial/Research Support, Non-U.S. Gov't | Effects of altering dietary essential fatty acids on requirements for non-steroidal anti-inflammatory drugs in patients with rheumatoid arthritis: a double blind placebo controlled | Ann Rheum Dis
+- new | 1987 | 3307886 | Clinical Trial/Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Evening primrose oil in the treatment of atopic eczema: effect on clinical status, plasma phospholipid fatty acids and circulating blood prostaglandins. | Br J Dermatol
+- new | 1987 | 3553274 | Clinical Trial/Controlled Clinical Trial/Research Support, Non-U.S. Gov't | The effects of essential fatty acid supplementation by Efamol in hyperactive children. | J Abnorm Child Psychol
+- new | 1987 | 3608284 |  | Approach to the management of premenstrual syndrome. | Clin Obstet Gynecol
+- new | 1986 | 3535392 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of dietary supplementation with n-6 and n-3 long-chain polyunsaturated fatty acids on serum lipoproteins and platelet function in hypertriglyceridaemic patients. | Acta Med Scand
+- new | 1986 | 3529370 | Clinical Trial/Randomized Controlled Trial | Patients with primary Sjögren's syndrome treated for two months with evening primrose oil. | Scand J Rheumatol
+- new | 1985 | 4082084 | Clinical Trial/Controlled Clinical Trial | Evening primrose oil (Efamol) in the treatment of Raynaud's phenomenon: a double blind study. | Thromb Haemost
+- new | 1985 | 3890448 | Clinical Trial/Controlled Clinical Trial | Atopic dermatitis and essential fatty acids: a biochemical basis for atopy? | Acta Derm Venereol Suppl (Stockh)
+- new | 1985 | 3908514 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Atopic eczema unresponsive to evening primrose oil (linoleic and gamma-linolenic acids). | J Am Acad Dermatol
+- new | 1984 | 6329254 | Clinical Trial/Controlled Clinical Trial | Essential fatty acids in the plasma phospholipids of patients with atopic eczema. | Br J Dermatol
+- new | 1983 | 6360923 | Clinical Trial/Controlled Clinical Trial | A double-blind evaluation of evening primrose oil as an antiobesity agent. | Int J Obes
+- new | 1982 | 6128449 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Oral evening-primrose-seed oil improves atopic eczema. | Lancet
+
+### PubMed SR - 50 hits, 14 not already listed above, 12 new
+- new | 2023 | 34261202 | Review | Evening primrose oil for cervical ripening in term pregnancies: a systematic review and meta-analysis. | J Complement Integr Med
+- SEEN | 2022 | 36446563 | Systematic Review/Meta-Analysis | The Effectiveness of Herbal Medicines on Cyclic Mastalgia: A Systematic Review on Meta-analysis. | Rev Bras Ginecol Obstet
+- HELD REF-1462 | 2021 | 33913585 | Meta-Analysis/Systematic Review | The effect of evening primrose oil on labor induction and cervical ripening: A systematic review and meta-analysis. | Phytother Res
+- new | 2017 | 29196903 | Systematic Review | Concurrent Use of Prescription Drugs and Herbal Medicinal Products in Older Adults: A Systematic Review. | Drugs Aging
+- new | 2017 | 27655839 | Systematic Review | Dietary supplement interactions with antiretrovirals: a systematic review. | Int J STD AIDS
+- new | 2011 | 21477394 | Systematic Review | Breast pain. | BMJ Clin Evid
+- new | 2011 | 21615974 | Systematic Review | Chronic fatigue syndrome. | BMJ Clin Evid
+- new | 2011 | 21718554 | Systematic Review | Pre-eclampsia, eclampsia, and hypertension. | BMJ Clin Evid
+- new | 2008 | 19445810 | Systematic Review | Chronic fatigue syndrome. | BMJ Clin Evid
+- new | 2008 | 19445808 | Systematic Review | Pre-eclampsia, eclampsia, and hypertension. | BMJ Clin Evid
+- new | 2007 | 19454068 | Systematic Review | Breast pain. | BMJ Clin Evid
+- new | 2007 | 19454075 | Systematic Review | Premenstrual syndrome. | BMJ Clin Evid
+- new | 1990 | 1969596 | Letter/Meta-Analysis/Comment | Evening primrose oil in atopic eczema. | Lancet
+- new | 1989 | 2667620 | Clinical Trial | Meta-analysis of placebo-controlled studies of the efficacy of Epogam in the treatment of atopic eczema. Relationship between plasma essential fatty acid changes and clinical respo | Br J Dermatol
+
+### PubMed SAFE - 161 hits, 86 not already listed above, 83 new
+- new | 2026 | 40770474 | Review | Natural Oil and Polycystic Ovary Syndrome: A Comprehensive Review of Therapeutic Benefits. | Curr Top Med Chem
+- new | 2026 | 42783292 |  | Effect of Nanoemulsions of Chrysanthemum cinerariaefolium and Oenothera biennis Flowers Against the West Nile Virus Vector, Culex pipiens, with Phytochemical Profile. | Insects
+- new | 2026 | 42338003 |  | Evening Primrose Oil Attenuates Liver Injury Induced by Carbon Tetrachloride in Albino Rats Via Improvement of Oxidative Stress and TNF-α: Protective Study. | J Exp Zool A Ecol Integr Physiol
+- new | 2025 | 32965866 | Study Guide | Mastalgia. | 
+- new | 2025 | 40588483 | Published Erratum | Author Correction: Oenothera biennis improves pregnancy outcomes by suppressing inflammation and fibrosis in an intra-uterine adhesion rat model. | Sci Rep
+- new | 2025 | 41155267 |  | Radioprotective Potential of a Polyphenol-Rich Extract Blend: Preclinical Evaluation in Female Balb/c Mice Exposed to Ionizing Radiation. | Int J Mol Sci
+- new | 2024 | 39771213 | Review | Soothing the Itch: The Role of Medicinal Plants in Alleviating Pruritus in Palliative Care. | Plants (Basel)
+- new | 2024 | 39333188 |  | Oenothera biennis improves pregnancy outcomes by suppressing inflammation and fibrosis in an intra-uterine adhesion rat model. | Sci Rep
+- new | 2024 | 38266440 |  | Uncovering the colorectal cancer immunotherapeutic potential: Evening primrose (Oenothera biennis) root extract and its active compound oenothein B targeting the PD-1/PD-L1 blockad | Phytomedicine
+- new | 2024 | 38677067 |  | Oenothera biennis with strong copper toxicity resistance enriches trace copper in seeds under copper pollution soil. | Ecotoxicol Environ Saf
+- HELD REF-1461 | 2023 | 37614101 | Review | Evening primrose oil: a comprehensive review of its bioactives, extraction, analysis, oil quality, therapeutic merits, and safety. | Food Funct
+- new | 2022 | 35209016 |  | Novel Evidence-Based Combination of Plant Extracts with Multitarget Mechanisms of Action for the Elimination of Hot Flashes during Menopause. | Molecules
+- new | 2022 | 34690016 | Case Reports | Multiple oral mucoceles treated with evening primrose oil: a report of two cases. | Br J Oral Maxillofac Surg
+- new | 2022 | 35458590 |  | Evening Primrose Oil Enhances Tamoxifen's Anticancer Activity against Breast Cancer Cells by Inducing Apoptosis, Inhibiting Angiogenesis, and Arresting the Cell Cycle. | Molecules
+- HELD REF-0840 | 2021 | 34946512 | Review | Herbal Products Used in Menopause and for Gynecological Disorders. | Molecules
+- new | 2021 | 33421924 |  | Moisturizing effect of skin patches with hydrophobic and hydrophilic electrospun fibers for atopic dermatitis. | Colloids Surf B Biointerfaces
+- new | 2021 | 35011005 |  | Synergistic Effects of Korean Red Ginseng Extract and the Conventional Systemic Therapeutics of Atopic Dermatitis in a Murine Model. | Nutrients
+- new | 2021 | 33629429 | Letter/Research Support, Non-U.S. Gov't | Oral evening primrose oil as an adjuvant treatment option in chronic lichenoid dermatitis. | Dermatol Ther
+- new | 2021 | 34858001 |  | Consensus Update for Systemic Treatment of Atopic Dermatitis. | Ann Dermatol
+- new | 2020 | 32637272 | Case Reports | Severe Thrombocytopenia Associated With Black Seed Oil and Evening Primrose Oil. | Cureus
+- new | 2020 | 32033362 |  | Protective Effects of Evening Primrose Oil against Cyclophosphamide-Induced Biochemical, Histopathological, and Genotoxic Alterations in Mice. | Pathogens
+- new | 2020 | 32372631 | Comparative Study | The Effects of Evening Primrose/Hemp Seed Oil Compared to Rapamycin on the Gene Expression of Immunological Parameters in Experimental Autoimmune Encephalomyelitis Splenocytes. | Iran J Allergy Asthma Immunol
+- new | 2020 | 32748152 |  | Clinical Factors Affecting the Therapeutic Efficacy of Evening Primrose Oil on Mastalgia. | Ann Surg Oncol
+- new | 2020 | 32719085 |  | Application of Cryopreserved Human Intestinal Mucosa and Cryopreserved Human Enterocytes in the Evaluation of Herb-Drug Interactions: Evaluation of CYP3A Inhibitory Potential of Gr | Drug Metab Dispos
+- new | 2019 | 31886270 |  | Halotolerant Rhizobacterial Strains Mitigate the Adverse Effects of NaCl Stress in Soybean Seedlings. | Biomed Res Int
+- new | 2018 | 30249608 |  | Prevalence of drug-herb and drug-supplement interactions in older adults: a cross-sectional survey. | Br J Gen Pract
+- new | 2018 | 29476434 |  | Complementary medicines in pregnancy: recommendations and information sources of healthcare professionals in Australia. | Int J Clin Pharm
+- new | 2017 | 29403626 | Review | A review of effective herbal medicines in controlling menopausal symptoms. | Electron Physician
+- new | 2017 | 28918484 | Review | Drug-Herb Interactions in the Elderly Patient with IBD: a Growing Concern. | Curr Treat Options Gastroenterol
+- new | 2017 | 28681302 |  | Hydrocarbon degradation potential and plant growth-promoting activity of culturable endophytic bacteria of Lotus corniculatus and Oenothera biennis from a long-term polluted site. | Environ Sci Pollut Res Int
+- new | 2017 | 28124089 |  | Evening primrose oil or forskolin ameliorates celecoxib-enhanced upregulation of tissue factor expression in mice subjected to lipopolysaccharide-induced endotoxemia. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2017 | 28244297 |  | Therapeutic Effects of Korean Red Ginseng Extract in a Murine Model of Atopic Dermatitis: Anti-pruritic and Anti-inflammatory Mechanism. | J Korean Med Sci
+- new | 2016 | 26563681 | Review | Contact dermatitis as an adverse reaction to some topically used European herbal medicinal products - Part 3: Mentha × piperita - Solanum dulcamara. | Contact Dermatitis
+- new | 2015 | 25881578 | Review | Safety of Popular Herbal Supplements in Lactating Women. | J Hum Lact
+- new | 2014 | 25188523 | Review | Review of evidence for dietary influences on atopic dermatitis. | Skin Therapy Lett
+- new | 2014 | 25473222 |  | The effect of evening primrose oil for the prevention of xerotic cheilitis in acne patients being treated with isotretinoin: a pilot study. | Ann Dermatol
+- new | 2013 | 23448333 |  | Painful diabetic neuropathy management. | Int J Evid Based Healthc
+- new | 2011 | 21600263 |  | The effects of evening primrose oil on lipid peroxidation induced by subacute aflatoxin exposure in mice. | Food Chem Toxicol
+- new | 2010 | 21085832 | Case Reports | Lipoid pneumonia secondary to long-term use of evening primrose oil. | J Bras Pneumol [eng,por]
+- new | 2009 | 20000302 |  | Evening primrose oil. | Am Fam Physician
+- new | 2008 | 18631428 | Review | Examining the evidence: complementary adjunctive therapies for multiple sclerosis. | Neurol Res
+- new | 2007 | 16935966 | Review | Long-chain polyunsaturated fatty acids and the pathophysiology of myalgic encephalomyelitis (chronic fatigue syndrome). | J Clin Pathol
+- new | 2007 | 17764919 |  | The safety of evening primrose oil in epilepsy. | Prostaglandins Leukot Essent Fatty Acids
+- new | 2006 | 30000954 | Review | Evening Primrose. | 
+- new | 2005 | 15789786 | Clinical Trial/Comparative Study | Topical nonsteroidal anti-inflammatory drugs versus oil of evening primrose in the treatment of mastalgia. | Surgeon
+- new | 2004 | 15124319 | Review | Omega 3 oils and pregnancy. | Midwifery Today Int Midwife
+- new | 2004 | 14716179 | Guideline/Practice Guideline | Treatment of menopause-associated vasomotor symptoms: position statement of The North American Menopause Society. | Menopause
+- new | 2004 | 15571467 | Review | Botanical medicine and cancer: a review of the safety and efficacy. | Expert Opin Pharmacother
+- new | 2004 | 15050730 | Research Support, Non-U.S. Gov't | Reactive oxygen species-independent G1 arrest induced by evening primrose extract in Ehrlich ascites tumor cells. | Cancer Lett
+- new | 2003 | 12725453 | Review | Premenstrual syndrome. | Am Fam Physician
+- HELD REF-1458 | 2003 | 14670851 | Editorial/Comment | Evening primrose oil for atopic dermatitis. | BMJ
+- new | 2003 | 12946239 | Review | Hot flashes--a review of the literature on alternative and complementary treatment approaches. | Altern Med Rev
+- new | 2003 | 14580681 | Research Support, Non-U.S. Gov't | Caspase-independent apoptosis induced by evening primrose extract in Ehrlich ascites tumor cells. | Cancer Lett
+- new | 2003 | 12732460 | Research Support, Non-U.S. Gov't | Role of intracellular reactive oxygen species and mitochondrial dysfunction in evening primrose extract-induced apoptosis in Ehrlich ascites tumor cells. | Chem Biol Interact
+- new | 2003 | 12544679 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Botanical dietary supplement use in peri- and postmenopausal women. | Menopause
+- new | 2002 | 11874595 | Case Reports/Review | Herbs, menopause, and dialysis. | Semin Dial
+- new | 2002 | 12127912 | Research Support, U.S. Gov't, P.H.S. | Effects of herbal components on cDNA-expressed cytochrome P450 enzyme catalytic activity. | Life Sci
+- new | 2002 | 12530553 | Clinical Trial/Controlled Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of exercise on FA profiles in n-3 FA-supplemented and -nonsupplemented premenopausal women. | Lipids
+- new | 2001 | 12609386 |  | Herbal Medicines and Epilepsy: The Potential for Benefit and Adverse Effects. | Epilepsy Behav
+- new | 2000 | 12119629 | Review | Therapeutic use of selected herbs. | Holist Nurs Pract
+- new | 1998 | 9818800 | Review | Herbal medicinals: selected clinical considerations focusing on known or potential drug-herb interactions. | Arch Intern Med
+- new | 1998 | 9844986 | Research Support, Non-U.S. Gov't | Effect of evening primrose and fish oils on two stage skin carcinogenesis in mice. | Prostaglandins Leukot Essent Fatty Acids
+- new | 1997 | 9203989 | Comparative Study/Research Support, Non-U.S. Gov't | Dietary essential fatty acid supplementation, urinary calcium excretion and reproductive performance in the diabetic pregnant rat. | J Endocrinol
+- new | 1997 | 9108131 | Research Support, Non-U.S. Gov't | Expression of a borage desaturase cDNA containing an N-terminal cytochrome b5 domain results in the accumulation of high levels of delta6-desaturated fatty acids in transgenic toba | Proc Natl Acad Sci U S A
+- new | 1995 | 23196013 |  | Antiasthmatic effects of gamma linolenic acid -high dose Evening Primrose Oil and Borage Oil stimulate allergen tachyphylaxis of sensitized guinea pigs and prevent allergen sensiti | Phytomedicine
+- new | 1994 | 7819863 | Letter/Comment | Evening primrose oil. Does not show promise in atopic dermatitis. | BMJ
+- new | 1994 | 8179529 |  | Mastalgia: a 3 year Australian study. | Aust N Z J Surg
+- new | 1994 | 8001843 |  | [Influence of evening primrose oil on blood pressure and the pressor response to angiotensin II in pregnant and non-pregnant rabbits]. | Ginekol Pol [pol]
+- new | 1994 | 7924900 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effect of gamma-linolenic acid on clinical status, red cell fatty acid composition and membrane microviscosity in infants with atopic dermatitis. | Drugs Exp Clin Res
+- new | 1993 | 8303807 | Comparative Study | A comparison of evening primrose oil and sunflower oil for the management of papulocrustous dermatitis in cats. | Vet Rec
+- new | 1993 | 8280288 | Comparative Study | Effect of varying proportions of evening primrose oil and fish oil on cats with crusting dermatosis ('miliary dermatitis'). | Vet Rec
+- new | 1993 | 8514043 | Case Reports | Prolonged postpartum course of intrahepatic cholestasis of pregnancy. | Gastroenterology
+- new | 1992 | 1548647 |  | Drug treatments for mastalgia: 17 years experience in the Cardiff Mastalgia Clinic. | J R Soc Med
+- new | 1992 | 1643883 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Comparison of the clinical efficacy of two commercial fatty acid supplements (EfaVet and DVM Derm Caps), evening primrose oil, and cold water marine fish oil in the management of a | Cornell Vet
+- new | 1992 | 1445816 |  | Effects of repeated gestation and lactation on milk n-6 fatty acid composition in rats fed on a diet rich in 18:2n-6 or 18:3n-6. | Br J Nutr
+- new | 1992 | 1286012 |  | Cyclical breast pain--some observations and the difficulties in treatment. | Br J Clin Pract
+- new | 1992 | 1475904 | Case Reports/Letter | Evening primrose oil and epilepsy. | Vet Rec
+- new | 1991 | 2054886 |  | [Effect of jiang-zhi zhong-yao-pian on total cholesterol, triglyceride, TXB2, 6-keto-PGF1 alpha in hyperlipemic patients]. | Zhong Xi Yi Jie He Za Zhi [chi]
+- new | 1990 | 2282296 |  | Management of cyclical mastalgia. | Br J Clin Pract
+- new | 1989 | 2557113 |  | Lipids in breast carcinogenesis. | Br J Surg
+- new | 1988 | 3149238 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Effect of 7,12-dimethylbenz(a)anthracene administration on hepatic drug metabolizing enzymes in female rats fed corn, primrose, and menhaden oils. | Drug Nutr Interact
+- new | 1987 | 2821872 |  | Effects of gamma-linolenic acid supplementation on pregnant rats fed a zinc-deficient diet. | Ann Nutr Metab
+- new | 1983 | 6872286 | Research Support, Non-U.S. Gov't | The effect of essential fatty acid and specific vitamin supplements on vascular sensitivity in the mid-trimester of human pregnancy. | Clin Exp Hypertens B
+- new | 1982 | 6961468 | Clinical Trial/Controlled Clinical Trial | Reduced levels of prostaglandin precursors in the blood of atopic patients: defective delta-6-desaturase function as a biochemical basis for atopy. | Prostaglandins Leukot Med
+- new | 1982 | 6287501 | Research Support, Non-U.S. Gov't | Protection against ethanol-induced embryonic damage by administering gamma-linolenic and linoleic acids. | Prostaglandins Leukot Med
+- new | 1981 | 6269135 | Case Reports | The use of gamma-linolenic acid and linoleic acid to differentiate between temporal lobe epilepsy and schizophrenia. | Prostaglandins Med
+
+### PubMed OBS - 34 hits, 14 not already listed above, 14 new
+- new | 2025 | 40613011 |  | Variation in Management of CKD-Associated Pruritus: Results From a Multinational Survey of Kidney Units. | Kidney Med
+- new | 2024 | 38882830 |  | A Study Comparing Centchroman and Evening Primrose Oil in the Treatment of Benign Breast Disease. | J Pharm Bioallied Sci
+- new | 2023 | 37750646 | Multicenter Study | Improvement in menopausal symptoms with a nutritional product containing evening primrose oil, hop extract, saffron, tryptophan, vitamins B6, D3, K2, B12, and B9. | Eur Rev Med Pharmacol Sci
+- new | 2015 | 25972428 | Research Support, Non-U.S. Gov't | Use of Alternative Medications for Menopause-Related Symptoms in Three Major Ethnic Groups of Ipoh, Perak, Malaysia. | Asia Pac J Public Health
+- new | 2015 | 25290539 | Research Support, Non-U.S. Gov't | Use and perceived efficacy of complementary and alternative medicines after discontinuation of hormone therapy: a nested United Kingdom Collaborative Trial of Ovarian Cancer Screen | Menopause
+- new | 2014 | 24642692 | Research Support, Non-U.S. Gov't | Usage of plant food supplements across six European countries: findings from the PlantLIBRA consumer survey. | PLoS One
+- new | 2013 | 24283381 | Research Support, N.I.H., Extramural | The use of dietary supplements and their association with blood pressure in a large Midwestern cohort. | BMC Complement Altern Med
+- new | 2011 | 21614944 | Research Support, Non-U.S. Gov't | The use of complementary and alternative medicine among Malay breast cancer survivors. | Altern Ther Health Med
+- new | 2011 | 21221774 | Multicenter Study/Research Support, Non-U.S. Gov't | Significant changes in dietary intake and supplement use after breast cancer diagnosis in a UK multicentre study. | Breast Cancer Res Treat
+- new | 2009 | 19208048 |  | Complementary and alternative medicine use for vasomotor symptoms among women who have discontinued hormone therapy. | J Obstet Gynecol Neonatal Nurs
+- new | 2005 | 15635346 | Research Support, U.S. Gov't, P.H.S. | Increasing trends in elderly persons' use of nonvitamin, nonmineral dietary supplements and concurrent use of medications. | J Am Diet Assoc
+- new | 2001 | 11286597 | Research Support, Non-U.S. Gov't | What do people with MS want and expect from health-care services? | Health Expect
+- new | 1998 | 9508010 | Research Support, Non-U.S. Gov't | Dietary supplement use by women at risk for breast cancer recurrence. The Women's Healthy Eating and Living Study Group. | J Am Diet Assoc
+- new | 1994 | 7816407 | Review | Mastodynia. | Obstet Gynecol Clin North Am
+
+### PubMed REV - 107 hits, 11 not already listed above, 8 new
+- new | 2022 | 35548366 | Review | Vegetable Butters and Oils as Therapeutically and Cosmetically Active Ingredients for Dermal Use: A Review of Clinical Studies. | Front Pharmacol
+- new | 2022 | 34957578 | Review | An updated review on efficacy and benefits of sweet almond, evening primrose and jojoba oils in skin care applications. | Int J Cosmet Sci
+- new | 2021 | 32993311 | Review | [Menstrual disorders: what we know about dietary-nutritional therapy]. | Nutr Hosp [spa]
+- HELD REF-0975 | 2020 | 32046246 | Review | New Herbal Biomedicines for the Topical Treatment of Dermatological Disorders. | Biomedicines
+- new | 2019 | 31497576 | Review | Evening Primrose (Oenothera biennis) Oil in Management of Female Ailments. | J Menopausal Med
+- HELD REF-1457 | 2018 | 30110920 | Review | Evening Primrose (Oenothera biennis) Biological Activity Dependent on Chemical Composition. | Antioxidants (Basel)
+- new | 2018 | 30607330 | Review | A Review of Herbal Therapy in Multiple Sclerosis. | Adv Pharm Bull
+- HELD REF-0751 | 2016 | 27247570 | Review | Review of Anti-Inflammatory Herbal Medicines. | Adv Pharmacol Sci
+- new | 2012 | 22474979 | Review | Phytotherapy of alcoholism. | Nat Prod Commun
+- new | 2002 | 12391713 | Review | Gynecology: select topics. | Prim Care
+- new | 2002 | 12390044 | Review | Treatment of childhood eczema. | Paediatr Drugs
+
+### ClinicalTrials.gov - 15 registered studies
+- NCT03698734 | UNKNOWN | results=False | PHASE3 | Evening Primrose Oil Efficacy in Second Trimester Abortion | conds: Missed Abortion | intr: Evening primrose oil(EPO), Placebo - Cap
+- NCT02629497 | COMPLETED | results=False | EARLY_PHASE1 | Role of 12-lipoxygenase in Platelet Reactivity and Type 2 Diabetes Mellitus | conds: Thrombosis, Type 2 Diabetes Mellitus | intr: Primrose oil, Fish Oil | pubs: ['35791734:RESULT (new)']
+- NCT06214598 | RECRUITING | results=False | NA | Anti-Inflammatory Diet in BRC Patients on Aromatase Inhibitors | conds: Breast Cancer | intr: Supplement, AI diet, Placebo
+- NCT06539975 | UNKNOWN | results=False | EARLY_PHASE1 | Effectiveness of Evening Primrose Oil for Induction of Labor | conds: Induction of Labor | intr: Evening Primrose Oil 1000 MG | pubs: ['33913585:RESULT (new)']
+- NCT00878670 | COMPLETED | results=False | PHASE4 | Investigation of Efficacy and Safety of EPOGAM | conds: Atopic Dermatitis, Neurodermatitis | intr: EPOGAM 1000 | pubs: ['24435467:DERIVED (new)']
+- NCT03265327 | COMPLETED | results=False | NA | Effect of an Oral Supplement Containing Omega-3 and Omega-6 on Dry Eye Symptoms | conds: Dry Eye | intr: Oral supplement containing omega-3 and omega-6, Oral supplement containing coconut and olive oil | pubs: ['34882608:DERIVED (new)']
+- NCT02421653 | WITHDRAWN | results=False | NA | RCT of Iodine-containing MNPs vs Oral Iodized Oil to Prevent Iodine Deficiency in Weaning Infants | conds: Iodine Deficiency Disorders | intr: MNP90, MNP45, IODISED OIL, INERT OIL
+- NCT03584698 | COMPLETED | results=False | PHASE4 | Evening Primrose Oil to Misoprostol During Induction of Second-trimester Missed Miscarriage | conds: Missed Abortion | intr: Misoprostol 100Mcg Tab, Evening Primrose Oil 1000 MG
+- NCT03876899 | UNKNOWN | results=False | NA | RCT of Evening Primrose Oil for the Treatment of Breastfeeding Pain | conds: Breast Feeding | intr: Evening Primrose Oil, Placebo
+- NCT00999921 | COMPLETED | results=True | PHASE4 | Effects of Tamoxifen in Premenopausal Women With Benign Breast Disease Not at High-Risk of Developing Breast Cancer | conds: Benign Breast Disease, Fibrocystic Disease of Breast, Fibroadenoma, Mastalgia | intr: Tamoxifen, Evening Primrose Oil
+- NCT03516253 | UNKNOWN | results=False | NA | Fish Oil and EPO in Breast Cancer | conds: Breast Cancer | intr: Fish oil + EPO | pubs: ['37081029:DERIVED (new)']
+- NCT05988242 | COMPLETED | results=False | NA | Effect of Lavender Versus Primrose Oil on Menopause Symptom | conds: Menopause Syndrome | intr: Primrose oil, Lavender oil, placcebo | pubs: ['31960396:RESULT (new)', '27388435:RESULT (HELD REF-5439)']
+- NCT02654392 | UNKNOWN | results=False | NA | Effect of Plant Omega-3 and Omega-6 Fatty Acids on Exercise Performance | conds: Effect of Essential Fatty Acids on Exercise Performance | intr: corn syrup, Polyunsaturated fatty acid
+- NCT02617511 | COMPLETED | results=True | NA | Omega-3 Supplementation and Resistance Training | conds: Sarcopenia, Dynapenia, Inflammation | intr: Omega-3 Supplementation, Placebo
+- NCT01340690 | TERMINATED | results=False | PHASE3 | Efficacy Study of Polyunsaturated Fatty Acids in Children and Adolescents With Attention Deficit/ Hyperactivity Disorder | conds: ADHD | intr: ω-3 fatty acids suspension, placebo suspension
+
+### OpenAlex no-PMID trial-worded - 505 hits, 61 without PMID, 61 new
+- new | 2026 | 10.12775/qs.2026.51.68861 | review | Evening Primrose Oil (Oenothera biennis L.) in Women’s Health: A Narrative Review of Clinical Evidence | Quality in Sport
+- new | 2026 | 10.1038/s41598-026-71983-4 | article | Evening primrose (Oenothera biennis L.) plants under drought stress and jasmonic acid application | Scientific Reports
+- new | 2026 | 10.32417/1997-4868-2026-26-03-429-438 | article | Proposals for reclamation of technogenically disturbed habitats by grassing using flora species and succession patterns | Agrarian Bulletin of the
+- new | 2026 | 10.25258/ijcpr.18.2.306 | article | A Study of Efficacy of Ormeloxiffine and Evening Primrose Oil in Treatment of Mastalgia: A Randomised Control Study | International Journal of Current Pharmac
+- new | 2026 | 10.5897/jpp2026.0660 | article | Clinical observation of evening primrose oil use in dysfunctional menstrual cycle disorders among pubertal and adolescent girls: A retrospective observational study | Journal of Pharmacognosy and Phytotherap
+- new | 2025 | 10.37766/inplasy2025.3.0134 | study-registration | The safety of herbal medicine in pediatric randomized controlled trials | 
+- new | 2025 | 10.37766/inplasy2025.3.0130 | study-registration | Herbal Medicine in Pediatrics: A Systematic Review of Randomized Controlled Trials | 
+- new | 2025 | 10.59299/2537-0928.1445 | article | Cervical Ripening in Nulliparous, Healthy, Full-Term Pregnant Women: The Impact of Oral Evening Primrose | Journal of Medicine in Scientific Resear
+- new | 2025 | 10.54448/ijn25s314 | review | Major scientific evidence of the increase in women's quality of life with the use of phytoestrogens: a systematic review | International Journal of Nutrology
+- new | 2025 | 10.1111/rec.70002 | article | Volunteer plants obscure the benefits of seed mixes for wild pollinator communities | Restoration Ecology
+- new | 2024 | 10.2174/0122150838313003240821091757 | article | Effects of the Herbal Soft Gel Capsule Containing Pimpinella Anisum, Oenothera Biennis, and Salvia Sclarea Oils on Premenstrual Syndrome: A Triple-blinded Randomized Controlled Tri | Current Traditional Medicine
+- new | 2024 | 10.21608/sjfop.2024.390985 | article | RATIONALIZING THE USE OF CHEMICAL FERTILIZERS BY USING SOME MICRO-ORGANISMS AND THEIR IMPACT ON THE PRODUCTIVITY AND QUALITY OF OENOTHERA BIENNIS L. PLANT | Scientific Journal of Flowers and Orname
+- new | 2024 | 10.1016/j.agwat.2024.108947 | article | Interactive effects of mycorrhizal, Azospirillum and nitrogen+phosphorus with limited irrigation on yield and morpho-physiological traits of evening primrose (Oenothera biennis L.) | Agricultural Water Management
+- new | 2024 | 10.1007/978-3-031-43199-9_5 | book-chapter | Plants Used in the Management and Treatment of Female Reproductive Health Issues: Case Study from Southern Nigeria | Reference series in phytochemistry
+- new | 2024 | 10.32592/cmja.14.1.21 | article | Comparison of the effect viola odorata and evening primrose on the anxiety of menopausal women referring to health and treatment centers in Khomein city in 1402 | Complementary Medicine Journal
+- new | 2023 | 10.21608/ejhm.2023.293472 | article | Vitamin E versus Evening Primrose Oil versus Placebo for the Treatment of Cyclic Mastalgia: A Double-Blind Randomized Controlled Trial | The Egyptian Journal of Hospital Medicin
+- new | 2023 | 10.5812/jnms-140350 | article | Comparing the Effects of Oral and Vaginal Evening Primrose Capsules with Concurrent Labor Induction and Exclusive Labor Induction on Bishop Score and Some Labor Outcomes: A Triple- | Journal of Nursing and Midwifery Science
+- new | 2023 | 10.5812/mejrh-134330 | article | Effectiveness of High-intensity Laser Therapy for Pain and Function in Knee Osteoarthritis: A Randomized Controlled Trial | Middle East Journal of Rehabilitation an
+- new | 2023 | 10.12775/jehs.2023.34.01.007 | article | Supplementation of evening primrose oil (EPO) - benefits and limitations. Results of the latest studies | Journal of Education Health and Sport
+- new | 2023 | 10.1007/978-3-031-21973-3_5-1 | book-chapter | Plants Used in the Management and Treatment of Female Reproductive Health Issues: Case Study from Southern Nigeria | Reference series in phytochemistry
+- new | 2023 | 10.47275/2692-0948-147 | article | The Effect of Adding Vaginal Evening Primrose Oil to Misoprostol During induced abortion; A Randomized Controlled Trial | Journal of Women’s Health Care and Manag
+- new | 2023 | 10.54448/ijn23205 | review | Herbal medicine and climacteric: a systematic review of the main clinical outcomes | International Journal of Nutrology
+- new | 2023 | 10.26442/20795696.2023.2.202215 | article | Efficacy and safety of non-hormonal agents for vasomotor symptoms of menopause: A prospective, double-blind, placebo-controlled study | GYNECOLOGY
+- new | 2022 | 10.22038/jmrh.2022.63183.1812 | article | The Effect of Evening Primrose (Oenothera biennis) Oil Capsule on Postpartum Pain in Multiparous Women: A Triple-Blind Randomized Clinical Trial | Journal of midwifery and reproductive he
+- new | 2022 | 10.1016/j.hermed.2022.100556 | article | Therapeutic efficacy of Urtica dioica and evening primrose in patients with rheumatoid arthritis: A randomized double-blind, placebo-controlled clinical trial | Journal of Herbal Medicine
+- new | 2022 | 10.1016/j.anireprosci.2022.107126 | article | Influences of dietary supplementation with evening primrose oil (Oenothera biennis) as a source of omega-6, linoleic and gamma linolenic acid on the quality and function variables  | Animal Reproduction Science
+- new | 2022 | 10.30574/gscbps.2022.21.3.0485 | article | Trend of using herbal based preparations in pediatric skin inflammation disorders | GSC Biological and Pharmaceutical Scienc
+- new | 2021 | 10.24925/turjaf.v9i6.1008-1014.3938 | article | The Effect of Evening Primrose (Oenothera biennis) on the Some Biochemical Parameters in Rats with Gentamicin Induced Nephrotoxicity | Turkish Journal of Agriculture - Food Sc
+- new | 2019 | 10.22034/ijpp.2019.668859 | article | A Study on the effect of moist-chilling and GA3 application on evening primrose (Oenothera biennis L.) seed germination | 
+- new | 2019 | 10.21475/ajcs.19.13.05.p1491 | article | Effects of planting beds, nutrient treatment and drought stress on biochemical properties and vegetative traits of common evening primrose (Oenothera biennis L.) seeds | Australian Journal of Crop Science
+- new | 2019 | 10.32861//ajls.55 | paratext |  | Academic Journal of Life Sciences
+- new | 2018 | 10.1016/j.rhisph.2018.11.008 | article | Arbuscular mycorrhizae alleviate water deficit stress and improve antioxidant response, more than nitrogen fixing bacteria or chemical fertilizer in the evening primrose | Rhizosphere
+- new | 2018 | 10.12677/hjas.2018.86093 | article | Study on the Cultivation and Processing Technology of Evening Primrose in Karst Area | Hans Journal of Agricultural Sciences
+- new | 2017 | https://openalex.org/W2901067919 | article | Effects of some Ggronomic Techniques on Oil Yield and Composition of Oenothera biennis L. | Journal of Medicinal plants and By-produ
+- new | 2017 | 10.22067/jhorts4.v0i0.37779 | article | Evaluation of bio-phosphor and humic acid on growth parameters and oil content in evening primrose (Oenothera biennis L.). | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2017 | 10.1111/ecog.03347 | article | The influence of range‐wide plant genetic variation on soil invertebrate communities | Ecography
+- new | 2017 | 10.20510/ukjpb/5/i2/155963 | article | Study Effect of Evening Primrose Oil Supplement on Type 2 Diabetes Mellitus - Associated Metabolic Parameters | Pharmaceutical and Biosciences Journal
+- new | 2017 | 10.22038/ijogi.2017.10157 | article | The effect of Evening Primrose on hot flashes in menopausal women | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2016 | https://openalex.org/W2938798130 | article | Effect of oral evening primrose capsules on ripening of the cervix in nulliparous Iranian pregnant women (A randomized trial) | 
+- new | 2016 | https://openalex.org/W2896241191 | article | Pripravci ljekovitih biljaka u liječenju kožnih bolesti | Farmaceutski glasnik : glasilo Hrvatskog
+- new | 2015 | https://openalex.org/W3134150438 | dissertation | Formulation and quality evaluation of protective lipstick with Oenothera Biennis L. oil | Lithuanian University of Health Sciences
+- new | 2014 | https://openalex.org/W2553638439 | article | Effect of oral herbal oil supplement (Cannabis sativa L, Oenothera biennis L) and advised hotnature diet on clinical signs and symptoms and inflammatory factors in patients with mu | 
+- new | 2014 | https://openalex.org/W2598007698 | article | Effect of oral herbal oil supplement (Cannabis sativa L., Oenothera biennis L.) and advised diet with hot-natured on clinical signs and symptoms and inflammatory factors in multipl | Alternative & Integrative Medicine
+- new | 2014 | 10.1055/s-0034-1394658 | article | Gamma-Linolenic acid levels correlate with clinical efficacy of evening primrose oil in patients with atopic dermatitis | Planta Medica
+- new | 2012 | https://openalex.org/W2281224527 | dissertation | Oenothera elata: Economics and best management practices for commercial production | ThinkTech (Texas Tech University)
+- new | 2011 | https://openalex.org/W2119307295 | article | A STUDY ON EVENING-PRIMROSE (OENOTHERA BIENNIS L.) CALLUS REGENERATION AND SOMATIC EMBRYOGENESIS | Iranian Journal of Biotechnology
+- new | 2010 | https://openalex.org/W2388483617 | article | Improving effect of soft-capsule of compound oenothera biennis oil on skin moisture | Journal of Applied Preventive Medicine
+- new | 2009 | 10.1055/s-0029-1234786 | article | Researches regarding in vivo skin imagistic dermatologic evaluation of evening primrose oil (0enothera biennis L.) | Planta Medica
+- new | 2008 | 10.15835/hpm.v16i1-2.3051 | article | OENOTHERA –ORNAMENTAL CROP AND MEDICINAL PLANT | Hop and Medicinal Plants
+- new | 2007 | 10.1016/j.indcrop.2006.12.005 | article | Seed yield, oil content and fatty acid composition of Oenothera biennis L. affected by harvest date and harvest method | Industrial Crops and Products
+- new | 2006 | https://openalex.org/W1592738650 | article | Effects of Different Nitrogen Doses and Row Spacing Applications on Yield and Quality of Oenothera biennis L. Grown in Irrigated Lowland and Unirrigated Dryland Conditions | DergiPark
+- new | 2004 | https://openalex.org/W2601250702 | article | CHARACTERIZATION OF ROOT ENDOPHYTIC BACTERIA | OhioLink ETD Center (Ohio Library and In
+- new | 2004 | https://openalex.org/W943811331 | article | Biology of cutleaf eveningprimrose. | 
+- new | 2003 | https://openalex.org/W2374140944 | article | Pharmacological Action of Oenothera Biennis Seed Oil on Blood Lipids in Rats | Journal of Ningxia Medical University
+- new | 2003 | 10.3136/nskkk.50.451 | article | The Effects of an Extract of Seeds of Evening Primrose on Postprandial Hyperglycemia on Human Subjects | NIPPON SHOKUHIN KOGYO GAKKAISHI
+- new | 2003 | https://openalex.org/W2391824407 | article | Influence of Early Intervenention on Prevention and Curing Type - II Diabetes Mellitus and Cerebral Infarction | Journal of Heze Medical College
+- new | 1997 | https://openalex.org/W2359466950 | article | Effect of Oenothera biennis L. on duodenal ulcer | 
+- new | 1997 | 10.1139/b97-901 | article | Trade-offs between reproduction and growth influence time of reproduction in Oenothera biennis | Canadian Journal of Botany
+- new | 1997 | 10.1007/bf01282132 | article | Quantitative study of organelle nucleoids during the second pollen grain mitosis inOenothera biennis | PROTOPLASMA
+- new | 1993 | 10.4141/cjps93-138 | article | Heritability of seed yield, oil concentration and oil quality among wild biotypes of Ontario evening primrose | Canadian Journal of Plant Science
+- new | 1991 | https://openalex.org/W2763761522 | dissertation | Agronomic and physiological studies on the effect of RSWO411 on evening primrose | Spiral (Imperial College London)
+
+## olea-europaea (Olea europaea) - name clause: "Olea europaea"[tiab] OR "olive leaf"[tiab] OR "olive leaves"[tiab] OR "oleuropein"[tiab] OR "olive oil"[ti]
+
+### PubMed HT - 748 hits, 200 not already listed above, 198 new
+- new | 2026 | 42514151 |  | Effects of Olive Leaf Extract on Anxiety Symptoms and Metainflammation in Women with Excess Weight: A Randomized Double-Blind Placebo-Controlled Pilot Trial. | Life (Basel)
+- new | 2026 | 42608317 | Clinical Trial, Phase II/Randomized Controlled Trial | Oleanolic Acid-Enriched Olive Oil Attenuates Kidney Function Decline in Patients With Type 2 Diabetes: Results From the OLTRAD Randomised Controlled Trial. | Diabetes Obes Metab
+- new | 2026 | 40907633 | Randomized Controlled Trial/Multicenter Study | Extra-virgin olive oil and additional cardiovascular outcomes in the PREDIMED Trial: An outcome-wide perspective. | Am Heart J
+- new | 2026 | 41978170 | Randomized Controlled Trial/Multicenter Study | OLIDIAG Study: Extra Virgin Olive Oil Supplementation in the Diet of Women with Gestational Diabetes Mellitus-A Randomized Clinical Trial. | Nutrients
+- new | 2026 | 41949575 | Randomized Controlled Trial | Resting-state brain connectivity following extra virgin olive oil intake in healthy adults: a randomised crossover pilot neuroimaging substudy. | Food Funct
+- new | 2026 | 42355422 |  | Impact of a Mediterranean Diet Supplemented with Extra Virgin Olive Oil on Gut Microbiota in Fibromyalgia: A Randomized Controlled Trial. | Life (Basel)
+- new | 2026 | 42103831 |  | Polyphenol-rich extra-virgin olive oil influences bioenergetics and may modulate NLRP3 inflammasome in PBMCs from children and adolescents with obesity. | Sci Rep
+- new | 2026 | 42195994 | Review | Impact of Olive Oil Fatty Acids and Bioactive Compounds on Cognitive Function in Adults: A Systematic Review. | Foods
+- new | 2026 | 42080690 | Randomized Controlled Trial | Effect of ozonated olive oil on postoperative pain, hemostasis, healing following extraction of primary molar: An in vivo study. | J Indian Soc Pedod Prev Dent
+- new | 2026 | 42669445 | Randomized Controlled Trial/Multicenter Study | [Optimal measurement time for evaluating gallbladder contraction function by oral protein bar combined with olive oil: a prospective, multicenter, single-blind, crossover trial]. | Zhonghua Wai Ke Za Zhi [chi]
+- new | 2026 | 41835790 |  | An interventional pilot study protocol on the effect of extra virgin olive oil on women with preeclampsia risk. | Ann Transl Med
+- new | 2025 | 39001794 | Systematic Review | Olive Oil Consumption, Risk Factors, and Diseases: An Umbrella Review. | Nutr Rev
+- new | 2025 | 40990594 | Randomized Controlled Trial/Multicenter Study | Efficacy of olive leaf extracts in controlling blood pressure in hypertensive patients: a double-blind randomized clinical trial. | J Hypertens
+- new | 2025 | 40292522 | Randomized Controlled Trial | EFINUTRILES Study: Integrative Extra Virgin Olive Oil and Multimodal Lifestyle Interventions for Cardiovascular Health and SLE Management. | Nutrients
+- new | 2025 | 40806126 | Randomized Controlled Trial | Effects of High-Phenolic Extra Virgin Olive Oil (EVOO) on the Lipid Profile of Patients with Hyperlipidemia: A Randomized Clinical Trial. | Nutrients
+- new | 2025 | 40426728 |  | Ozonated Olive Oil Dressing for Pediatric Hypospadias Repair: A Prospective Randomized Clinical Trial. | Children (Basel)
+- new | 2025 | 40002358 |  | Extra Virgin Olive Oil Polyphenol-Enriched Extracts Exert Antioxidant and Anti-Inflammatory Effects on Peripheral Blood Mononuclear Cells from Rheumatoid Arthritis Patients. | Antioxidants (Basel)
+- new | 2025 | 41316229 | Published Erratum | Correction: An olive oil-derived NAE mixture (Olaliamid(®)) improves liver and cardiovascular health, and decreases meta-inflammation in naturally obese dogs: a double-blind, rando | BMC Vet Res
+- new | 2025 | 40415417 | Randomized Controlled Trial/Multicenter Study/Research Support, Non-U.S. Gov't | Essential fatty acid deficiency, olive oil-based intravenous lipid emulsion, and genetic polymorphisms: A pediatric randomized controlled trial. | J Pediatr Gastroenterol Nutr
+- new | 2025 | 40874389 | Randomized Controlled Trial | Efficacy of a Topical Lanolin-Beeswax-Olive Oil Blend (RepoGen Cream) in Preventing Nipple Fissures in Breastfeeding Women: A Randomized Controlled Trial. | J Cosmet Dermatol
+- new | 2025 | 40449295 | Systematic Review | Olive oil consumption and risk of breast cancer: Prospective results from the Moli-sani Study, and a systematic review of observational studies and randomized clinical trials. | Eur J Cancer
+- new | 2025 | 40649050 |  | Effects of Extra Virgin Olive Oil and Petrolatum on Skin Barrier Function and Microtopography. | J Clin Med
+- new | 2025 | 39532059 |  | A lutein and zeaxanthin enriched extra virgin olive oil as a potential nutraceutical agent: A pilot study. | Food Chem
+- new | 2025 | 40722971 |  | High-Tyrosol/Hydroxytyrosol Extra Virgin Olive Oil Enhances Antioxidant Activity in Elderly Post-Myocardial Infarction Patients. | Antioxidants (Basel)
+- HELD REF-3693 | 2025 | 41487705 | Systematic Review | Systematic review and meta-analysis on the effect of olive oil in the treatment of periodontal diseases. | Front Oral Health
+- new | 2025 | 40282738 |  | Increasing the Bioactive Compound Content of Olive Oil by Acidification of Olive Paste. | Foods
+- new | 2025 | 40678895 | Randomized Controlled Trial | Exploring Galician phenolic-rich olive oil as a glycemic control strategy: the OILDIABET randomized trial. | Food Funct
+- new | 2025 | 41267164 |  | Ozoile-Stable Ozonides, Derived From Organic Extravirgin Olive Oil, Enhance Wound Healing Process in Patients With Diabetic Chronic Ulcers. | Int Wound J
+- new | 2025 | 41383802 |  | Comparative efficacy of extra virgin olive oil versus refined olive oil in the treatment of individuals suffering from constipation: A double-blind randomized clinical trial study. | Caspian J Intern Med
+- new | 2025 | 40642904 | Randomized Controlled Trial | Impact of olive oil consumption on surgical outcomes in patients undergoing open heart surgery: a randomized clinical trial. | J Complement Integr Med
+- new | 2025 | 41040996 |  | Effect of Oil Pulling Using Extra Virgin Olive Oil on Plaque and Gingivitis Scores and Caries Activity Evaluated by Ora Test in Pediatric Dental Patients: An In Vivo Study. | Int J Clin Pediatr Dent
+- new | 2025 | 37461824 | Randomized Controlled Trial | The effects of extra virgin olive oil or butter on cardiovascular biomarkers in European and Chinese males in the UK: A pilot randomised crossover trial. | Nutr Health
+- new | 2025 | 39955806 | Randomized Controlled Trial | Impact of olive leaf extract on pain management and functional improvement in elderly patients with knee osteoarthritis: A randomized controlled trial. | Explore (NY)
+- new | 2025 | 40430061 | Randomized Controlled Trial | Rapid Reduction of Pro-Inflammatory Cytokines with an Oral Topical Composition Comprising Olive Oil, Trimethylglycine and Xylitol: A Randomized Double-Blind Controlled Trial. | Int J Mol Sci
+- new | 2025 | 40806807 |  | Clinical and Microbiological Study on Local Application of an Ozonated Olive Oil Gel in the Periodontal Pockets: A Randomized Double-Blind Trial. | J Clin Med
+- new | 2025 | 41002983 |  | Dietary Intervention with Cottonseed and Olive Oil Differentially Affect the Circulating Lipidome and Immunoregulatory Compounds-A Randomized Clinical Trial. | Metabolites
+- new | 2025 | 40586465 | Randomized Controlled Trial | Clinical and microbiological evaluation of dental plaque on topical application of olive oil, olive oil with 35% Curcuma zedoaria, and olive oil with 30% Azadirachta indica in hosp | J Indian Soc Pedod Prev Dent
+- new | 2025 | 41169773 |  | Evaluation of ozonoid olive oil as an indirect pulp capping agent in permanent molars: A randomized clinical trial. | J Conserv Dent Endod
+- new | 2025 | 40354753 |  | The triglyceride-glucose index, metabolic biomarkers, and olive oil in diabetic patients: Real-world evidence from a propensity-score matched study. | Clinics (Sao Paulo)
+- new | 2025 | 41413568 | Clinical Trial Protocol | A comparison of the clinical effectiveness of pretreatment olive oil administered as drops versus spray prior to earwax removal by microsuction in adults: a protocol for a cluster  | Trials
+- new | 2025 | 41614069 | Clinical Trial | Inhalation of phlai-containing essential oil enhances cognition: a comparison with olive oil in healthy adults. | Front Pharmacol
+- new | 2024 | 38305372 | Randomized Controlled Trial | Efficacy of Ozonated Olive Oil Gel in the Management of Peri-Implant Mucositis. | J Long Term Eff Med Implants
+- new | 2024 | 38638591 |  | Effect of docosahexaenoic acid and olive oil supplementation on pup weight in alcohol-exposed pregnant rats. | Front Pediatr
+- new | 2024 | 38784279 |  | The effect of extra virgin olive oil (EVOO) on fat mass and fat-free mass for breastfeeding mothers (0-24 months) in Makassar City, Indonesia. | J Educ Health Promot
+- new | 2024 | 38306883 | Randomized Controlled Trial | Daily olive oil intake is feasible to reduce trigeminal neuralgia facial pain: A pilot study. | Nutr Res
+- new | 2024 | 38826610 |  | Effectiveness of Microneedling Technique Using Olive Oil on the Severity of Gingival Inflammation and Plaque Accumulation: A Randomised Controlled Trial. | Cureus
+- new | 2024 | 39408309 | Randomized Controlled Trial | Age-Related Effects of Olive Oil Polyphenol Ingestion on Oxidation of Low-Density Lipoprotein in Healthy Japanese Men: A Randomized Controlled Double-Blind Crossover Trial. | Nutrients
+- HELD REF-1445 | 2024 | 39599665 | Randomized Controlled Trial | Olive Leaf Extract Supplementation Improves Postmenopausal Symptoms: A Randomized, Double-Blind, Placebo-Controlled Parallel Study on Postmenopausal Women. | Nutrients
+- new | 2024 | 39594500 |  | Mediterranean Diet and Olive Oil Redox Interactions on Lactate Dehydrogenase Mediated by Gut Oscillibacter in Patients with Long-COVID-19 Syndrome. | Antioxidants (Basel)
+- new | 2024 | 38295507 | Randomized Controlled Trial | Eight weeks of daily cottonseed oil intake attenuates postprandial angiopoietin-like proteins 3 and 4 responses compared to olive oil in adults with hypercholesterolemia: A seconda | Nutr Res
+- new | 2024 | 38372798 | Randomized Controlled Trial | Diverse impacts of red palm olein, extra virgin coconut oil and extra virgin olive oil on cardiometabolic risk markers in individuals with central obesity: a randomised trial. | Eur J Nutr
+- new | 2024 | 39691690 |  | Effect of oleocanthal-rich olive oil on postprandial oxidative stress markers of patients with type 2 diabetes mellitus. | Food Nutr Res
+- new | 2024 | 37977313 | Meta-Analysis/Systematic Review/Research Support, Non-U.S. Gov't | Effect of Extra Virgin Olive Oil on Anthropometric Indices, Inflammatory and Cardiometabolic Markers: a Systematic Review and Meta-Analysis of Randomized Clinical Trials. | J Nutr
+- new | 2024 | 39045758 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Recipe for Heart Health: A Randomized Crossover Trial on Cardiometabolic Effects of Extra Virgin Olive Oil Within a Whole-Food Plant-Based Vegan Diet. | J Am Heart Assoc
+- new | 2024 | 39228831 |  | Biochar derived from olive oil pomace mitigates salt stress on seedling growth of forage pea. | Front Plant Sci
+- new | 2024 | 39490924 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of coconut oil, olive oil, and butter on plasma fatty acids and metabolic risk factors: a randomized trial. | J Lipid Res
+- new | 2024 | 38682205 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Does Yogurt Enriched with Platelet-Activating Factor Inhibitors from Olive Oil By-Products Affect Gut Microbiota and Faecal Metabolites in Healthy Overweight Subjects? (A randomize | Front Biosci (Landmark Ed)
+- new | 2023 | 37278997 | Meta-Analysis/Systematic Review | Olive oil and body fat: a systematic review with meta-analysis. | Food Funct
+- new | 2023 | 36766057 |  | Olive Leaf Tea Impact on Postprandial Glycemia: A Randomized Cross-Over Trial. | Foods
+- new | 2023 | 37885446 | Systematic Review | The effects of olive oil consumption on cognitive performance: a systematic review. | Front Nutr
+- new | 2023 | 37904687 | Randomized Controlled Trial | Buccopharyngeal route administered high polyphenolic olive oil and COVID-19: A pilot clinical trial. | Immun Inflamm Dis
+- new | 2023 | 36427543 | Research Support, Non-U.S. Gov't | Hunger and satiety responses to diets enriched with cottonseed oil vs. olive oil. | Physiol Behav
+- new | 2023 | 37797219 | Randomized Controlled Trial | Comparative Effectiveness of Olive Oil and Breast Milk on Nipple Soreness in Breastfeeding Mothers. | Breastfeed Med
+- new | 2023 | 37409710 | Randomized Controlled Trial/Multicenter Study | [Organoleptic evaluation of a diabetes-specific oral nutritional supplement with extra virgin olive oil in patients at nutritional risk and type 2 diabetes mellitus: Double-blind,  | Nutr Hosp [spa]
+- new | 2023 | 37335239 | Randomized Controlled Trial | Effects of olive oil and flaxseed consumption in a healthy diet on endothelial function, plasma lipids and inflammatory factors of patients with coronary heart disease: a randomize | Coron Artery Dis
+- new | 2023 | 36874664 |  | Topical-Ozonized Olive Oil - A Boon for Post-Extraction Cases: A Randomized Controlled Trial. | Cureus
+- new | 2023 | 36792398 | Randomized Controlled Trial | The efficacy of honey or olive oil on the severity of oral mucositis and pain compared to placebo (standard care) in children with leukemia receiving intensive chemotherapy: A rand | J Pediatr Nurs
+- new | 2023 | 37886368 |  | Association between Butter, Margarine, and Olive Oil Intake and Asthma Symptoms among School Children: Result from a Large-Scale Cross-Sectional Study. | J Immunol Res
+- new | 2023 | 36801121 | Randomized Controlled Trial | Efficacy of gel containing organic extra virgin olive oil for peristomal skin hygiene: A pilot randomised controlled trial. | J Tissue Viability
+- new | 2023 | 37409714 | Randomized Controlled Trial/Multicenter Study | Glycaemic and insulinaemic impact of a diabetes-specific oral nutritional supplement with extra-virgin olive oil in patients with type 2 diabetes mellitus at nutritional risk: a ra | Nutr Hosp
+- new | 2023 | 36818058 |  | Effects of Flaxseed Oil and Olive Oil on Markers of Inflammation and Wound Healing in Burn Patients: A Randomized Clinical Trial. | Bull Emerg Trauma
+- new | 2023 | 37686851 |  | The Immunomodulatory Effects of a 6-Month Extra Virgin Olive Oil Intervention on Monocyte Cytokine Secretion and Plasma Cytokine Levels in Dyslipidemic and Post-Infarct Patients: A | Nutrients
+- new | 2023 | 37629298 |  | Oil Pulling and Polyphenols: Treatment of Gingivitis Patients with 'Itri Extra-Virgin Olive Oil'. | J Clin Med
+- new | 2023 | 37571288 |  | The Metabolic and Analytical Changes of Healthy Volunteers upon Intake of Portuguese Extra Virgin Olive Oil: A Comparison Study between Pre- and Post-Intervention. | Nutrients
+- new | 2023 | 37967452 | Randomized Controlled Trial | The Short-Term Effect of Olive Oil Extract Enriched with Hydroxytyrosol on Cardiovascular Function. | J Med Food
+- new | 2023 | 37812020 | Randomized Controlled Trial | Bioavailability and systemic transport of oleanolic acid in humans, formulated as a functional olive oil. | Food Funct
+- new | 2023 | 37072503 | Randomized Controlled Trial/Multicenter Study/Research Support, Non-U.S. Gov't | Randomized clinical trial on the clinical effects of a toothpaste containing extra virgin olive oil, xylitol, and betaine in gingivitis. | Sci Rep
+- new | 2023 | 37507996 |  | Beneficial Effects of Olive Oil Enriched with Lycopene on the Plasma Antioxidant and Anti-Inflammatory Profile of Hypercholesterolemic Patients. | Antioxidants (Basel)
+- new | 2023 | 36377535 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Extra virgin olive oil improves HDL lipid fraction but not HDL-mediated cholesterol efflux capacity: a double-blind, randomised, controlled, cross-over study (OLIVAUS). | Br J Nutr
+- new | 2023 | 37740318 | Randomized Controlled Trial | Bioactive compounds in pomace olive oil modulate the inflammatory response elicited by postprandial triglyceride-rich lipoproteins in BV-2 cells. | Food Funct
+- new | 2023 | 38213043 | Randomized Controlled Trial | Effect of Extra-Virgin Olive Oil on Hand Foot Syndrome and hs-CRP in Patients Receiving Capecitabine: A Randomized Trial. | Acta Med Indones
+- new | 2023 | 36912212 | Randomized Controlled Trial | Association of hydroxytyrosol enriched olive oil with vascular function in chronic coronary disease. | Eur J Clin Invest
+- new | 2022 | 35015763 | Meta-Analysis/Systematic Review | Olive oil intake and cancer risk: A systematic review and meta-analysis. | PLoS One
+- new | 2022 | 36343558 | Meta-Analysis/Systematic Review/Research Support, Non-U.S. Gov't | Effect of olive oil consumption on cardiovascular disease, cancer, type 2 diabetes, and all-cause mortality: A systematic review and meta-analysis. | Clin Nutr
+- new | 2022 | 35215407 | Review | Effects of Olive Oil and Its Components on Intestinal Inflammation and Inflammatory Bowel Disease. | Nutrients
+- new | 2022 | 36459908 | Randomized Controlled Trial | The effect of topical olive oil dressing on the healing of grade 1 and 2 diabetic foot ulcers: An assessor-blind randomized controlled trial in type 2 diabetes patients. | Diabetes Metab Syndr
+- new | 2022 | 35310529 |  | Olive polyphenols and bioavailable glutathione: Promising results in patients diagnosed with mild Alzheimer's disease. | Alzheimers Dement (N Y)
+- new | 2022 | 36559109 |  | In Vitro and In Vivo Characteristics of Olive Oil as Excipient for Topical Administration. | Pharmaceutics
+- new | 2022 | 34509281 | Letter/Comment | Response to "the usefulness of olive oil enema in children with severe chronic constipation". | J Pediatr Surg
+- new | 2022 | 35276417 | Letter/Comment | Letter to the Editor re: Extra-Virgin Olive Oil Improves Depression Symptoms Without Affecting Salivary Cortisol and Brain-Derived Neurotrophic Factor in Patients With Major Depres | J Acad Nutr Diet
+- new | 2022 | 34716791 | Randomized Controlled Trial | Extra virgin olive oil high in polyphenols improves antioxidant status in adults: a double-blind, randomized, controlled, cross-over study (OLIVAUS). | Eur J Nutr
+- new | 2022 | 35284353 |  | Comparative Evaluation of the Effect of Aloe Vera Gel, Olive Oil, and Compound Aloe Vera Gel-Olive Oil on Prevention of Pressure Ulcer: A Randomized Controlled Trial. | Adv Biomed Res
+- new | 2022 | 33421040 |  | Effects of Lycopene-enriched, Organic, Extra Virgin Olive Oil on Benign Prostatic Hyperplasia: A Pilot Study. | Altern Ther Health Med
+- new | 2022 | 35631294 |  | Extra Virgin Olive Oil Reduces Gut Permeability and Metabolic Endotoxemia in Diabetic Patients. | Nutrients
+- new | 2022 | 35389391 | Randomized Controlled Trial | Effects of n-6 PUFA-rich soybean oil, MUFA-rich olive oil and camellia seed oil on weight and cardiometabolic profiles among Chinese women: a 3-month double-blind randomized contro | Food Funct
+- new | 2022 | 36110593 |  | Comparison of Ozonated Olive Oil and Chlorhexidine Gel as an Adjunct to Nonsurgical Periodontal Therapy for the Treatment of Chronic Periodontitis: A Randomized Controlled Clinical | J Pharm Bioallied Sci
+- new | 2022 | 36501136 | Randomized Controlled Trial | Extra-Virgin Olive Oil Enhances the Blood-Brain Barrier Function in Mild Cognitive Impairment: A Randomized Controlled Trial. | Nutrients
+- new | 2022 | 34559686 | Randomized Controlled Trial | Effects of Olive Oil on Striae Gravidarum in Primiparous Women: A Randomized Controlled Clinical Study. | Altern Ther Health Med
+- new | 2022 | 36513447 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | High-fat low-carbohydrate enteral feeding enriched with olive oil and acute respiratory failure: A double-blind, randomized, controlled trial. | Clin Nutr ESPEN
+- new | 2022 | 36386923 |  | Extra virgin olive oil extract rich in secoiridoids induces an anti-inflammatory profile in peripheral blood mononuclear cells from obese children. | Front Nutr
+- new | 2022 | 34435429 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | An extra virgin olive oil-enriched chocolate spread positively modulates insulin-resistance markers compared with a palm oil-enriched one in healthy young adults: A double-blind, c | Diabetes Metab Res Rev
+- new | 2022 | 33971993 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of supplementing a healthy diet with pecan nuts or extra-virgin olive oil on inflammatory profile of patients with stable coronary artery disease: a randomised clinical tri | Br J Nutr
+- new | 2022 | 35691777 | Clinical Trial Protocol | A protocol for a randomized trial measuring flowmetry in risk areas for pressure ulcer: Hyperoxygenated fatty acids vs olive oil. | J Tissue Viability
+- new | 2022 | 34358723 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Extra-Virgin Olive Oil Improves Depression Symptoms Without Affecting Salivary Cortisol and Brain-Derived Neurotrophic Factor in Patients With Major Depression: A Double-Blind Rand | J Acad Nutr Diet
+- new | 2022 | 35932536 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Diets enriched with palm olein, cocoa butter, and extra virgin olive oil exhibited similar lipid response: a randomized controlled study in young healthy adults. | Nutr Res
+- new | 2022 | 34811509 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Pragmatic Clinical Trial | Effect of pecan nuts and extra-virgin olive oil on glycemic profile and nontraditional anthropometric indexes in patients with coronary artery disease: a randomized clinical trial. | Eur J Clin Nutr
+- new | 2021 | 34981493 | Randomized Controlled Trial | Evaluation of the Anti-constipation Effects of Abdominal Application of Olive Oil Ointment in Children 1-4 Years Old: A Pilot Placebo-Controlled, Double-Blind, Randomized Clinical  | Adv Exp Med Biol
+- new | 2021 | 33812657 | Review | The usefulness of olive oil enema in children with severe chronic constipation. | J Pediatr Surg
+- new | 2021 | 34959830 | Review | Protective Effects and Benefits of Olive Oil and Its Extracts on Women's Health. | Nutrients
+- new | 2021 | 35127522 |  | The Effect of Dietary Intervention With High-Oleocanthal and Oleacein Olive Oil in Patients With Early-Stage Chronic Lymphocytic Leukemia: A Pilot Randomized Trial. | Front Oncol
+- new | 2021 | 34371945 |  | Effect of Extra Virgin Olive Oil and Butter on Endothelial Function in Type 1 Diabetes. | Nutrients
+- new | 2021 | 34684407 | Randomized Controlled Trial | Effects of Delayed-Release Olive Oil and Hydrolyzed Pine Nut Oil on Glucose Tolerance, Incretin Secretion and Appetite in Humans. | Nutrients
+- new | 2021 | 34604396 |  | The Effect of Abdominal Massage with Extra-Virgin Olive Oil on Constipation among Elderly Individuals: A Randomized Controlled Clinical Trial. | Int J Community Based Nurs Midwifery
+- new | 2021 | 33884713 | Randomized Controlled Trial | The effect of extra virgin olive oil on anthropometric indices, lipid profile, and markers of oxidative stress and inflammation in patients with depression, a double-blind randomis | Int J Clin Pract
+- new | 2021 | 33290192 | Randomized Controlled Trial | Comparison of the effects of olive oil and breast milk on the prevention of nipple problems in primiparous breastfeeding women: a randomized controlled trial. | Health Care Women Int
+- new | 2021 | 33121297 | Randomized Controlled Trial | Effect of polyphenol-rich extra-virgin olive oil on lipid profile and inflammatory biomarkers in patients undergoing coronary angiography: a randomised, controlled, clinical trial. | Int J Food Sci Nutr
+- new | 2021 | 34425320 | Randomized Controlled Trial | Effects of extra virgin olive oil and pecans on plasma fatty acids in patients with stable coronary artery disease. | Nutrition
+- new | 2021 | 34667386 |  | Effects of ozonated olive oil and photobiomodulation using diode laser on gingival depigmented wound: A randomized clinical study. | J Indian Soc Periodontol
+- new | 2021 | 34209930 | Clinical Trial | Extra Virgin Olive Oil Prevents the Age-Related Shifts of the Distribution of HDL Subclasses and Improves Their Functionality. | Nutrients
+- new | 2020 | 32110861 | Review | Effects of Virgin Olive Oil and Phenol-Enriched Virgin Olive Oils on Lipoprotein Atherogenicity. | Nutrients
+- new | 2020 | 32454893 | Review | Is Extra Virgin Olive Oil an Ally for Women's and Men's Cardiovascular Health? | Cardiovasc Ther
+- new | 2020 | 32414066 |  | Benefits of Adhering to a Mediterranean Diet Supplemented with Extra Virgin Olive Oil and Pistachios in Pregnancy on the Health of Offspring at 2 Years of Age. Results of the San C | J Clin Med
+- new | 2020 | 32751219 | Randomized Controlled Trial | The Effect of High Polyphenol Extra Virgin Olive Oil on Blood Pressure and Arterial Stiffness in Healthy Australian Adults: A Randomized, Controlled, Cross-Over Study. | Nutrients
+- new | 2020 | 34187126 | Randomized Controlled Trial | The effects of an olive-oil massage on hemodialysis patients suffering from fatigue at a hemodialysis unit in southern India - a randomized controlled trial. | J Complement Integr Med
+- new | 2020 | 32724622 |  | Effects of a low-energy diet with and without oat bran and olive oil supplements on body mass index, blood pressure, and serum lipids in diabetic women: A randomized controlled tri | Food Sci Nutr
+- new | 2020 | 32455620 | Randomized Controlled Trial | Effects of Extra Virgin Olive Oil (EVOO) and the Traditional Brazilian Diet on Sarcopenia in Severe Obesity: A Randomized Clinical Trial. | Nutrients
+- new | 2020 | 32932898 | Randomized Controlled Trial | Evaluation of Salivary Matrix Metalloproteinase (MMP-8) in Periodontal Patients Undergoing Non-Surgical Periodontal Therapy and Mouthwash Based on Ozonated Olive Oil: A Randomized  | Int J Environ Res Public Health
+- new | 2020 | 33072415 |  | Comparing the Therapeutic Effects of Aloe vera and Olive Oil Combination Cream versus Topical Betamethasone for Atopic Dermatitis: A Randomized Double-blind Clinical Trial. | J Pharmacopuncture
+- new | 2020 | 32795310 | Randomized Controlled Trial | Effects of canola or olive oil on plasma lipids, lipoprotein-associated phospholipase A(2) and inflammatory cytokines in patients referred for coronary angiography. | Lipids Health Dis
+- new | 2020 | 32305871 | Randomized Controlled Trial | Pharmacokinetics of maslinic and oleanolic acids from olive oil - Effects on endothelial function in healthy adults. A randomized, controlled, dose-response study. | Food Chem
+- new | 2020 | 32230754 | Randomized Controlled Trial | Effects of Olive Oil Consumption on Cardiovascular Risk Factors in Patients with Fibromyalgia. | Nutrients
+- new | 2020 | 32422956 | Randomized Controlled Trial | Traditional Brazilian Diet and Olive Oil Reduce Cardiometabolic Risk Factors in Severely Obese Individuals: A Randomized Trial. | Nutrients
+- new | 2019 | 31190942 |  | Impact of olive oil and honey on healing of diabetic foot: a randomized controlled trial. | Clin Cosmet Investig Dermatol
+- new | 2019 | 31754302 | Review | Effect Of An Extra-Virgin Olive Oil Intake On The Delay Of Cognitive Decline: Role Of Secoiridoid Oleuropein? | Neuropsychiatr Dis Treat
+- new | 2019 | 30823922 | Randomized Controlled Trial | Physiological- and performance-related effects of acute olive oil supplementation at moderate exercise intensity. | J Int Soc Sports Nutr
+- new | 2019 | 31357534 | Comparative Study/Randomized Controlled Trial | A Functional Virgin Olive Oil Enriched with Olive Oil and Thyme Phenolic Compounds Improves the Expression of Cholesterol Efflux-Related Genes: A Randomized, Crossover, Controlled  | Nutrients
+- new | 2019 | 31126564 | Randomized Controlled Trial | Short-term effects of massage with olive oil on the severity of uremic restless legs syndrome: A double-blind placebo-controlled trial. | Complement Ther Med
+- new | 2019 | 30497921 | Clinical Trial | Efficacy and tolerability of olive oil-based ketogenic diet in children with drug-resistant epilepsy: A single center experience from Turkey. | Eur J Paediatr Neurol
+- new | 2019 | 31475465 | Multicenter Study/Randomized Controlled Trial/Equivalence Trial | Effectiveness and safety of olive oil preparation for topical use in pressure ulcer prevention: Multicentre, controlled, randomised, and double-blinded clinical trial. | Int Wound J
+- new | 2019 | 31378629 | Research Support, Non-U.S. Gov't/Systematic Review/Network Meta-Analysis | Impact of different types of olive oil on cardiovascular risk factors: A systematic review and network meta-analysis. | Nutr Metab Cardiovasc Dis
+- new | 2019 | 31897406 |  | Comparing the Effect of Henna Oil and Olive Oil on Pressure Ulcer Grade One in Intensive Care Units Patients. | Adv Biomed Res
+- new | 2019 | 30689281 | Clinical Trial/Multicenter Study/Research Support, Non-U.S. Gov't | Dietary fats, olive oil and respiratory diseases in Italian adults: A population-based study. | Clin Exp Allergy
+- new | 2019 | 31802059 |  | Administration of the extra virgin olive oil (EVOO) in mild cognitive impairment (MCI) patients as a therapy for preventing the progress to AD. | Hell J Nucl Med
+- new | 2019 | 29766292 | Randomized Controlled Trial | Gut-derived lipopolysaccharides increase post-prandial oxidative stress via Nox2 activation in patients with impaired fasting glucose tolerance: effect of extra-virgin olive oil. | Eur J Nutr
+- new | 2019 | 30987385 |  | Effects of Extra Virgin Olive Oil and Apples Enriched-Dark Chocolate on Endothelial Progenitor Cells in Patients with Cardiovascular Risk Factors: A Randomized Cross-Over Trial. | Antioxidants (Basel)
+- new | 2019 | 31237193 |  | Efficacy of a Ceratothoa oestroides Olive Oil Extract in Patients With Chronic Ulcers: A Pilot Study. | Int J Low Extrem Wounds
+- new | 2019 | 31609315 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Video-Audio Media/Equivalence Trial | A Clinical Trial Assessing the Safety, Efficacy, and Delivery of Olive-Oil-Based Three-Chamber Bags for Parenteral Nutrition. | J Vis Exp
+- new | 2019 | 31626113 | Clinical Trial | Effect of daily consumption of extra virgin olive oil on the lipid profile and microbiota of HIV-infected patients over 50 years of age. | Medicine (Baltimore)
+- new | 2018 | 29914122 | Review | Biological and Clinical Aspects of an Olive Oil-Based Lipid Emulsion-A Review. | Nutrients
+- new | 2018 | 29149823 | Review | Olive Oil-related Anti-inflammatory Effects on Atherosclerosis: Potential Clinical Implications. | Endocr Metab Immune Disord Drug Targets
+- new | 2018 | 29141571 | Review | Extra Virgin Olive Oil and Cardiovascular Diseases: Benefits for Human Health. | Endocr Metab Immune Disord Drug Targets
+- new | 2018 | 30461730 | Meta-Analysis/Systematic Review | [Olive Oil and Body Weight. Systematic Review and Meta-Analysis of Randomized Controlled Trials]. | Rev Esp Salud Publica [spa]
+- new | 2018 | 29789518 | Comparative Study/Multicenter Study/Observational Study | Olive Oil and Soybean Oil Based Intravenous Lipid Emulsions, Liver Biochemistry and Clinical Outcomes. | Nutrients
+- new | 2018 | 30049982 |  | Olive Oil Consumption and Bone Microarchitecture in Spanish Women. | Nutrients
+- new | 2018 | 30200425 |  | Wine and Olive Oil Phenolic Compounds Interaction in Humans. | Diseases
+- new | 2018 | 30598924 |  | The association between olive oil consumption and primary prevention of cardiovascular diseases. | J Family Med Prim Care
+- new | 2018 | 29511019 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Randomised trial of coconut oil, olive oil or butter on blood lipids and other cardiovascular risk factors in healthy men and women. | BMJ Open
+- new | 2018 | 28598234 |  | Design and evaluation of novel topical formulation with olive oil as natural functional active. | Pharm Dev Technol
+- new | 2018 | 29737804 | Randomized Controlled Trial | Effects of palm olein and olive oil on serum lipids in a Chinese population: a randomized, double-blind, cross-over trial. | Asia Pac J Clin Nutr
+- new | 2018 | 29565165 |  | Effect of fish and olive oil on mitochondrial ATPase activity and membrane fluidity in patients with relapsing-remitting multiple sclerosis treated with interferon beta 1-b. | Nutr Hosp
+- new | 2018 | 30026785 |  | PPARG2 Pro12Ala polymorphism influences body composition changes in severely obese patients consuming extra virgin olive oil: a randomized clinical trial. | Nutr Metab (Lond)
+- new | 2018 | 28808791 | Randomized Controlled Trial | Consumption of extra virgin olive oil improves body composition and blood pressure in women with excess body fat: a randomized, double-blinded, placebo-controlled clinical trial. | Eur J Nutr
+- new | 2018 | 29850450 | Randomized Controlled Trial | The Effects of Extra Virgin Olive Oil on Alanine Aminotransferase, Aspartate Aminotransferase, and Ultrasonographic Indices of Hepatic Steatosis in Nonalcoholic Fatty Liver Disease | Can J Gastroenterol Hepatol
+- new | 2018 | 28143667 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Extra virgin olive oil consumption reduces the risk of osteoporotic fractures in the PREDIMED trial. | Clin Nutr
+- new | 2017 | 29295516 | Comparative Study/Multicenter Study/Randomized Controlled Trial | Impact of Consuming Extra-Virgin Olive Oil or Nuts within a Mediterranean Diet on DNA Methylation in Peripheral White Blood Cells within the PREDIMED-Navarra Randomized Controlled  | Nutrients
+- new | 2017 | 29904393 |  | Oleocanthal-rich extra virgin olive oil demonstrates acute anti-platelet effects in healthy men in a randomized trial. | J Funct Foods
+- new | 2017 | 28167238 |  | Serum from postmenopausal women treated with a by-product of olive-oil extraction process stimulates osteoblastogenesis and inhibits adipogenesis in human mesenchymal stem-cells (M | Exp Gerontol
+- new | 2017 | 27255407 | Comparative Study/Randomized Controlled Trial | [Randomised clinical trial to evaluate the efficacy and safety of a new pediculicide made with saponified olive oil in the eradication of Pediculus humanus capitis]. | Semergen [spa]
+- new | 2017 | 26541328 | Randomized Controlled Trial | Effect of virgin olive oil and thyme phenolic compounds on blood lipid profile: implications of human gut microbiota. | Eur J Nutr
+- new | 2017 | 26658900 | Randomized Controlled Trial | Effect of olive oil phenolic compounds on the expression of blood pressure-related genes in healthy individuals. | Eur J Nutr
+- new | 2017 | 27443526 |  | Extra Virgin Olive Oil Improves Oxidative Stress, Functional Capacity, and Health-Related Psychological Status in Patients With Fibromyalgia: A Preliminary Study. | Biol Res Nurs
+- new | 2017 | 28917377 | Controlled Clinical Trial | The effect of a beeswax, olive oil and Alkanna tinctoria (L.) Tausch mixture on burn injuries: An experimental study with a control group. | Complement Ther Med
+- new | 2016 | 27552476 | Review/Research Support, Non-U.S. Gov't/Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S. | Mediterranean diet and life expectancy; beyond olive oil, fruits, and vegetables. | Curr Opin Clin Nutr Metab Care
+- new | 2016 | 27548492 | Randomized Controlled Trial | The Effects of Ozonated Olive Oil and Clotrimazole Cream for Treatment of Vulvovaginal Candidiasis. | Altern Ther Health Med
+- new | 2016 | 26744413 | Comment | Mediterranean diet supplemented with extra virgin olive oil reduces the incidence of invasive breast cancer in a randomised controlled trial. | Evid Based Med
+- new | 2016 | 27161276 | Comment | The beneficial effect of a Mediterranean diet supplemented with extra virgin olive oil in the primary prevention of breast cancer among women at high cardiovascular risk in the PRE | Evid Based Nurs
+- new | 2016 | 27397955 |  | Effect of olive oil massage on weight gain in preterm infants: A randomized controlled clinical trial. | Niger Med J
+- new | 2016 | 27761423 |  | Effect of virgin olive oil versus piroxicam phonophoresis on exercise-induced anterior knee pain. | Avicenna J Phytomed
+- new | 2016 | 26861923 | Randomized Controlled Trial | Extra-Virgin Olive Oil Reduces Glycemic Response to a High-Glycemic Index Meal in Patients With Type 1 Diabetes: A Randomized Controlled Trial. | Diabetes Care
+- new | 2016 | 26109373 | Observational Study | Exclusive olive oil consumption and 10-year (2004-2014) acute coronary syndrome incidence among cardiac patients: the GREECS observational study. | J Hum Nutr Diet
+- new | 2016 | 27344308 |  | Consumption of extra-virgin olive oil rich in phenolic compounds improves metabolic control in patients with type 2 diabetes mellitus: a possible involvement of reduced levels of c | J Endocrinol Invest
+- new | 2015 | 26378571 | Meta-Analysis/Systematic Review | Effects of Olive Oil on Markers of Inflammation and Endothelial Function-A Systematic Review and Meta-Analysis. | Nutrients
+- new | 2015 | 26148918 | Review | Virgin olive oil: a key food for cardiovascular risk protection. | Br J Nutr
+- new | 2015 | 25969821 |  | The effect of topical olive oil on the healing of foot ulcer in patients with type 2 diabetes: a double-blind randomized clinical trial study in Iran. | J Diabetes Metab Disord
+- new | 2015 | 25886152 | Multicenter Study/Randomized Controlled Trial | Topical olive oil is not inferior to hyperoxygenated fatty aids to prevent pressure ulcers in high-risk immobilised patients in home care. Results of a multicentre randomised tripl | PLoS One
+- new | 2015 | 25933490 | Randomized Controlled Trial | Effects of extra virgin olive oil and fish oil on lipid profile and oxidative stress in patients with metabolic syndrome. | Nutrition
+- new | 2015 | 26488737 | Comparative Study/Randomized Controlled Trial | Comparative trial of Aloe vera/olive oil combination cream versus phenytoin cream in the treatment of chronic wounds. | J Wound Care
+- new | 2015 | 26192450 |  | Extra virgin olive oil use is associated with improved post-prandial blood glucose and LDL cholesterol in healthy subjects. | Nutr Diabetes
+- new | 2014 | 24775425 | Comparative Study/Meta-Analysis/Research Support, Non-U.S. Gov't | Olive oil consumption and risk of CHD and/or stroke: a meta-analysis of case-control, cohort and intervention studies. | Br J Nutr
+- new | 2014 | 25060792 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Olive oil polyphenols enhance high-density lipoprotein function in humans: a randomized controlled trial. | Arterioscler Thromb Vasc Biol
+- new | 2014 | 24886626 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Olive oil intake and risk of cardiovascular disease and mortality in the PREDIMED Study. | BMC Med
+- new | 2013 | 23925351 | Multicenter Study/Randomized Controlled Trial | Effects of extra virgin olive oil phenolic compounds and the Mediterranean diet on cardiovascular health. | Holist Nurs Pract
+- new | 2012 | 22334264 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A pilot double-blinded, randomized, clinical trial of topical virgin olive oil versus piroxicam gel in osteoarthritis of the knee. | J Clin Rheumatol
+- new | 2011 | 21801436 | Meta-Analysis/Systematic Review | Olive oil intake is inversely related to cancer prevalence: a systematic review and a meta-analysis of 13,800 patients and 23,340 controls in 19 observational studies. | Lipids Health Dis
+- new | 2008 | 18619813 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Tolerability and safety of olive oil-based lipid emulsion in critically ill neonates: a blinded randomized trial. | Nutrition
+- new | 2007 | 18209271 | Review | Bioavailability and antioxidant effects of olive oil phenolic compounds in humans: a review. | Ann Ist Super Sanita
+- new | 2007 | 17879997 | Review | Olive oil and longevity. | Mol Nutr Food Res
+- new | 2006 | 17033448 | Clinical Trial/Letter | Olive oil for symptomatic relief of duodeno-gastro-oesophageal reflux after gastrectomy. | Eur J Gastroenterol Hepatol
+- new | 2005 | 16091765 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Rapeseed oil, olive oil, plant sterols, and cholesterol metabolism: an ileostomy study. | Eur J Clin Nutr
+- new | 2004 | 15736920 | Clinical Trial/Research Support, Non-U.S. Gov't | Olive oil consumption and reduced incidence of hypertension: the SUN study. | Lipids
+
+### PubMed SR - 108 hits, 85 not already listed above, 73 new
+- HELD REF-3689 | 2026 | 41848522 | Systematic Review/Meta-Analysis | Metabolic and inflammatory effects of oleuropein and olive leaf extract: a systematic review and meta-analysis. | Food Funct
+- new | 2026 | 42753329 | Review | Olive oil-based interventions for gingival inflammation and plaque control- A systematic review of clinical evidence. | J Ayurveda Integr Med
+- new | 2026 | 40971936 | Systematic Review/Meta-Analysis | The Effect of Different Types of Olive Oil on Glucose Control and Insulin Sensitivity: A GRADE-Assessed Systematic Review and Dose-Response Meta-Analysis of 51 Randomized Controlle | Nutr Rev
+- new | 2026 | 43030326 | Systematic Review/Review | Olive-Derived Nutritional Interventions in Exercise: Effects on Performance, Fatigue, Recovery, and Muscle Adaptation-A Systematic Review. | Nutrients
+- HELD REF-3688 | 2026 | 42303499 | Systematic Review/Meta-Analysis | A GRADE-assessed systematic review and meta-analysis of randomized controlled trials evaluating the effects of olive leaf or olive pomace supplementation on cardiometabolic and ant | Nutr Metab Cardiovasc Dis
+- new | 2026 | 42092516 | Letter | Comment on "effect of extra virgin olive oil on mild cognitive impairment and dementia in older adults: A systematic review and meta-analysis of clinical trials". | Clin Nutr ESPEN
+- HELD REF-3694 | 2026 | 41740793 | Systematic Review/Meta-Analysis | Effect of extra virgin olive oil on mild cognitive impairment and dementia in older adults: a systematic review and meta-analysis of clinical trials. | Clin Nutr ESPEN
+- new | 2026 | 42357530 | Systematic Review | Enzyme Inhibition by Bioactive Compounds from Olive (Olea europaea L.) and Pomegranate (Punica granatum L.): Systematic Review of In Vitro Studies. | Molecules
+- new | 2026 | 40749711 | Systematic Review/Meta-Analysis | Effects of daily extra virgin olive oil consumption on biomarkers of inflammation and oxidative stress: a systematic review and meta-analysis. | Crit Rev Food Sci Nutr
+- new | 2026 | 42072302 | Review | Olive Components (Biophenols or Polyphenols) in Neurodegenerative Disease Models and Clinical Studies: A Systematic Review of Evidence and Translational Barriers. | Biomedicines
+- new | 2026 | 40853126 | Systematic Review | Effectiveness of Olive Oil and Hyperoxygenated Fatty Acids for the Prevention of Pressure Injuries: A Systematic Review. | Adv Skin Wound Care
+- new | 2025 | 40507112 | Systematic Review | Exploring the Benefits of Extra Virgin Olive Oil on Cardiovascular Health Enhancement and Disease Prevention: A Systematic Review. | Nutrients
+- HELD REF-3655 | 2025 | 40526027 | Systematic Review | Herbal Medicine for Treating Herpes Labialis: A Systematic Review. | J Integr Complement Med
+- new | 2025 | 40275388 | Meta-Analysis | Effect of olive oil consumption on diabetes risk: a dose-response meta-analysis. | J Health Popul Nutr
+- new | 2025 | 41142012 | Review | Cardiovascular, Metabolic and Endocrine, Cancer, Mortality, Derma, and Other Outcomes of Olive Oil and Oleic Acid: An Umbrella Review. | Food Sci Nutr
+- new | 2025 | 39530776 | Systematic Review/Meta-Analysis | Effect of the Mediterranean Diet Supplemented With Olive Oil Versus the Low-Fat Diet on Serum Inflammatory and Endothelial Indexes Among Adults: A Systematic Review and Meta-analys | Nutr Rev
+- new | 2025 | 41090263 | Systematic Review | Revealing VNN1: An Emerging and Promising Target for Inflammation and Redox Balance. | Immun Inflamm Dis
+- new | 2025 | 40870678 | Review | The Role of Olive Oil Polyphenols in Osteosarcopenic Obesity-Related Biological Domains: A Systematic Review of Current Evidence. | Foods
+- new | 2025 | 39828996 | Meta-Analysis/Systematic Review | The impact of oleuropein, hydroxytyrosol, and tyrosol on cardiometabolic risk factors: a meta-analysis of randomized controlled trials. | Crit Rev Food Sci Nutr
+- new | 2025 | 40136590 | Review | High Polyphenol Extra Virgin Olive Oil and Metabolically Unhealthy Obesity: A Scoping Review of Preclinical Data and Clinical Trials. | Clin Pract
+- new | 2025 | 40063229 | Letter/Comment | Comment on: Mediterranean diet enriched with Olive oil shows no con-sistent benefits on cardiometabolic and anthropometric param-eters: a systematic review with meta-analysis of ra | Eur J Nutr
+- new | 2025 | 40063171 | Letter | Response to: comment on: Mediterranean diet enriched with Olive oil shows no con-sistent benefits on cardiometabolic and anthropometric param-eters: a systematic review with meta-a | Eur J Nutr
+- new | 2025 | 40325976 | Review | Efficacy of Olive Leaf Extract in Improving Blood Pressure in Pre-Hypertensive and Hypertensive Individuals: A Systematic Review and Meta-Analysis. | Phytother Res
+- new | 2025 | 40321163 |  | Olive oil polyphenols and the maintenance of normal HDL-cholesterol concentrations: Evaluation of a health claim pursuant to Article 13(5) of Regulation (EC) No 1924/2006. | EFSA J
+- new | 2025 | 39482909 | Systematic Review | Alzheimer's Disease May Benefit from Olive Oil Polyphenols: A Systematic Review on Preclinical Evidence Supporting the Effect of Oleocanthal on Amyloid-β Load. | Curr Neuropharmacol
+- new | 2024 | 39523824 | Systematic Review/Meta-Analysis | Association between olive oil consumption and all-cause, cardiovascular and cancer mortality in adult subjects: a systematic review and meta-analysis. | Food Funct
+- HELD REF-3687 | 2024 | 38287654 | Systematic Review/Meta-Analysis/Research Support, Non-U.S. Gov't | Olive leaf extract effect on cardiometabolic risk factors: a systematic review and meta-analysis of randomized clinical trials. | Nutr Rev
+- new | 2024 | 39696776 | Review | The role of olive oil and its constituents in mental health: a scoping review. | Br J Nutr
+- new | 2024 | 39200546 | Review | Health Outcomes Associated with Olive Oil Intake: An Umbrella Review of Meta-Analyses. | Foods
+- new | 2024 | 39334699 | Review | Systemic Health Effects of Oleuropein and Hydroxytyrosol Supplementation: A Systematic Review of Randomized Controlled Trials. | Antioxidants (Basel)
+- new | 2024 | 38881876 | Systematic Review | Safety classification of herbal medicine use among hypertensive patients: a systematic review and meta-analysis. | Front Pharmacol
+- new | 2024 | 39150532 |  | Comment on "Olive oil intake and cardiovascular disease, cancer, and all-cause mortality: a systematic review and dose-response meta-analysis of prospective cohort studies" by Y. K | Food Funct
+- new | 2024 | 38542768 | Meta-Analysis/Systematic Review | The Effects of Olive Oil Consumption on Biochemical Parameters and Body Mass Index of People with Nonalcoholic Fatty Liver Disease: A Systematic Review and Meta-Analysis of Randomi | Nutrients
+- new | 2024 | 39558500 | Systematic Review/Meta-Analysis | Supplementation of Olive Oil and Flaxseed Oil on Blood Pressure and Inflammation in Healthy and At-Risk Adults: A Systematic Literature Review and Meta-Analysis. | Curr Hypertens Rev
+- new | 2024 | 38568797 | Meta-Analysis/Systematic Review | Olive oil intake and cardiovascular disease, cancer, and all-cause mortality: a systematic review and dose-response meta-analysis of prospective cohort studies. | Food Funct
+- new | 2024 | 39153124 | Meta-Analysis/Systematic Review | Mediterranean diet enriched with olive oil shows no consistent benefits on cardiometabolic and anthropometric parameters: a systematic review with meta-analysis of randomized contr | Eur J Nutr
+- new | 2024 | 39203892 | Scoping Review | Anticancer Effects of Secoiridoids-A Scoping Review of the Molecular Mechanisms behind the Chemopreventive Effects of the Olive Tree Components Oleocanthal, Oleacein, and Oleuropei | Nutrients
+- new | 2024 | 38879018 | Systematic Review | Accounting for circular economy principles in Life Cycle Assessments of extra-virgin olive oil supply chains - Findings from a systematic literature review. | Sci Total Environ
+- new | 2023 | 35866510 | Meta-Analysis/Systematic Review | Comparison of canola oil and olive oil consumption on the serum lipid profile in adults: a systematic review and meta-analysis of randomized controlled trials. | Crit Rev Food Sci Nutr
+- new | 2023 | 36696715 | Systematic Review/Research Support, Non-U.S. Gov't | Olive oil consumption confers protective effects on maternal-fetal outcomes: A systematic review of the evidence. | Nutr Res
+- new | 2023 | 37630803 | Systematic Review | Potential of Fatty Acids in Treating Sarcopenia: A Systematic Review. | Nutrients
+- new | 2023 | 35034978 | Review | A global systematic review and meta-analysis on prevalence of the aflatoxin B(1) contamination in olive oil. | J Food Sci Technol
+- new | 2023 | 38132869 | Review | Olive Oil Polyphenols Improve HDL Cholesterol and Promote Maintenance of Lipid Metabolism: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Metabolites
+- new | 2023 | 37181304 | Review | Effect of olive oil phenols on oxidative stress biomarkers: A systematic review and dose-response meta-analysis of randomized clinical trials. | Food Sci Nutr
+- SEEN | 2023 | 36408701 | Systematic Review/Meta-Analysis | The effects of olive oil consumption on blood lipids: a systematic review and dose-response meta-analysis of randomised controlled trials. | Br J Nutr
+- new | 2023 | 37994758 | Scoping Review | The Role of Olive Tree Polyphenols In The Prevention of COVID-19: A Scoping Review Part 2. | Clin Ter
+- new | 2023 | 37788953 | Review | Reviewing the cardiovascular and other health effects of olive oil: Limitations and future directions of current supplement formulations. | Nutr Metab Cardiovasc Dis
+- new | 2023 | 38136231 | Review | Oleocanthal, an Antioxidant Phenolic Compound in Extra Virgin Olive Oil (EVOO): A Comprehensive Systematic Review of Its Potential in Inflammation and Cancer. | Antioxidants (Basel)
+- new | 2023 | 37994757 | Scoping Review | The Role of Olive Tree Polyphenols in the Prevention of COVID-19: A Scoping Review, part 1. | Clin Ter
+- new | 2022 | 36513474 | Systematic Review/Meta-Analysis | What is the efficacy of dietary, nutraceutical, and probiotic interventions for the management of gastroesophageal reflux disease symptoms? A systematic literature review and meta- | Clin Nutr ESPEN
+- new | 2022 | 36330142 | Systematic Review | Olive oil consumption and risk of cardiovascular disease and all-cause mortality: A meta-analysis of prospective cohort studies. | Front Nutr
+- new | 2022 | 35496299 | Systematic Review | Olive Leaves as a Potential Phytotherapy in the Treatment of COVID-19 Disease; A Mini-Review. | Front Pharmacol
+- new | 2022 | 36016807 |  | Gastrointestinal, metabolic, and nutritional disorders: A plant-based ethnoveterinary meta-analysis in the Catalan linguistic area. | Front Vet Sci
+- new | 2022 | 35679085 | Systematic Review/Research Support, Non-U.S. Gov't | Nutri-Epigenetic Effects of Phenolic Compounds from Extra Virgin Olive Oil: A Systematic Review. | Adv Nutr
+- new | 2022 | 36062705 | Review | Oral administration of oleuropein and olive leaf extract has cardioprotective effects in rodents: A systematic review. | Rev Port Cardiol [eng,por]
+- new | 2022 | 36271405 | Review | The effects of olive leaf extract on cardiovascular risk factors in the general adult population: a systematic review and meta-analysis of randomized controlled trials. | Diabetol Metab Syndr
+- new | 2022 | 36009236 | Review | Potential Molecular Targets of Oleanolic Acid in Insulin Resistance and Underlying Oxidative Stress: A Systematic Review. | Antioxidants (Basel)
+- HELD REF-3692 | 2022 | 36429639 | Meta-Analysis/Systematic Review | Efficacy and Safety of Topical Application of Olive Oil for Preventing Pressure Ulcers: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Int J Environ Res Public Health
+- HELD REF-1441 | 2021 | 33561976 | Systematic Review | Thyroid-Modulating Activities of Olive and Its Polyphenols: A Systematic Review. | Nutrients
+- new | 2021 | 34105778 | Research Support, Non-U.S. Gov't | Disentangling the role of oomycete soil pathogens as drivers of plant-soil feedbacks. | Ecology
+- new | 2021 | 34153478 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Beneficial effects of dietary supplementation with olive oil, oleic acid, or hydroxytyrosol in metabolic syndrome: Systematic review and meta-analysis. | Free Radic Biol Med
+- new | 2021 | 32883373 | Meta-Analysis/Systematic Review | Olive oil and risk of breast cancer: a systematic review and dose-response meta-analysis of observational studies. | Br J Nutr
+- HELD REF-3690 | 2021 | 33941427 | Meta-Analysis/Systematic Review | Effect of extra virgin olive oil consumption on glycemic control: A systematic review and meta-analysis. | Nutr Metab Cardiovasc Dis
+- new | 2021 | 33430487 | Systematic Review | Epigenetic Modifications Induced by Olive Oil and Its Phenolic Compounds: A Systematic Review. | Molecules
+- new | 2021 | 34443669 | Systematic Review | Olive Trees By-Products as Sources of Bioactive and Other Industrially Useful Compounds: A Systematic Review. | Molecules
+- new | 2021 | 33988743 | Systematic Review | Medicinal plants used for the treatment of mucositis induced by oncotherapy: a systematic review. | Support Care Cancer
+- new | 2021 | 33475054 | Systematic Review | Ethnomedicinal Plants for the Management of Diabetes Worldwide: A Systematic Review. | Curr Med Chem
+- new | 2021 | 33187773 | Research Support, Non-U.S. Gov't/Systematic Review | Exploring the effects of phenolic compounds to reduce intestinal damage and improve the intestinal barrier integrity: A systematic review of in vivo animal studies. | Clin Nutr
+- HELD REF-2537 | 2021 | 33868820 |  | Olive leaf extract effect on cardiometabolic profile among adults with prehypertension and hypertension: a systematic review and meta-analysis. | PeerJ
+- HELD REF-3691 | 2020 | 31539817 | Meta-Analysis/Systematic Review | Is olive oil good for you? A systematic review and meta-analysis on anti-inflammatory benefits from regular dietary intake. | Nutrition
+- new | 2019 | 30959140 | Systematic Review | A review of Algerian medicinal plants used in the treatment of diabetes. | J Ethnopharmacol
+- new | 2019 | 29420053 | Meta-Analysis/Systematic Review | Comparison of blood lipid-lowering effects of olive oil and other plant oils: A systematic review and meta-analysis of 27 randomized placebo-controlled clinical trials. | Crit Rev Food Sci Nutr
+- new | 2019 | 31521394 | Historical Article/Review | Extra-virgin olive oil for potential prevention of Alzheimer disease. | Rev Neurol (Paris)
+- HELD REF-3695 | 2019 | 29708409 | Meta-Analysis/Systematic Review | The effect of high-polyphenol extra virgin olive oil on cardiovascular risk factors: A systematic review and meta-analysis. | Crit Rev Food Sci Nutr
+- new | 2019 | 30809527 |  | Network Meta-Analysis of Metabolic Effects of Olive-Oil in Humans Shows the Importance of Olive Oil Consumption With Moderate Polyphenol Levels as Part of the Mediterranean Diet. | Front Nutr
+- new | 2018 | 30415757 | Review | Olive oil consumption and human health: A narrative review. | Maturitas
+- new | 2017 | 27859279 | Systematic Review | Environmental impacts in the life cycle of olive oil: a literature review. | J Sci Food Agric
+- new | 2017 | 27860303 | Meta-Analysis/Systematic Review | Effect of olive leaf extract on glucose levels in diabetes-induced rats: A systematic review and meta-analysis. | J Diabetes
+- new | 2017 | 28394365 | Meta-Analysis/Systematic Review | Olive oil in the prevention and management of type 2 diabetes mellitus: a systematic review and meta-analysis of cohort studies and intervention trials. | Nutr Diabetes
+- new | 2016 | 26980811 | Comparative Study/Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Comparison of Formulas Based on Lipid Emulsions of Olive Oil, Soybean Oil, or Several Oils for Parenteral Nutrition: A Systematic Review and Meta-Analysis. | Adv Nutr
+- new | 2016 | 27713961 | Systematic Review | Anti-cancer properties of olive oil secoiridoid phenols: a systematic review of in vivo studies. | Food Funct
+- new | 2015 | 26055128 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Effects of high phenolic olive oil on cardiovascular risk factors: A systematic review and meta-analysis. | Phytomedicine
+- new | 2014 | 25274026 | Meta-Analysis/Systematic Review | Monounsaturated fatty acids, olive oil and health status: a systematic review and meta-analysis of cohort studies. | Lipids Health Dis
+- new | 2011 | 21443483 | Meta-Analysis/Research Support, Non-U.S. Gov't/Review | Olive oil and cancer risk: an update of epidemiological findings through 2010. | Curr Pharm Des
+- new | 1997 | 9085386 | Meta-Analysis/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Olive oil and human cancer: an assessment of the evidence. | Prev Med
+
+### PubMed SAFE - 814 hits, 175 not already listed above, 174 new
+- new | 2027 | 42502842 |  | Systematic enzyme and cofactor engineering for efficient ursolic acid biosynthesis in Yarrowia lipolytica. | Synth Syst Biotechnol
+- new | 2026 | 42588039 | Review | Extra Virgin Olive Oil: Molecular Mechanisms, Bioavailability Challenges, and Therapeutic Perspectives. | Nutrients
+- new | 2026 | 42321053 | Case Reports | Olive Oil and the Impact of Gastrointestinal Adverse Events During Pirfenidone Treatment in Idiopathic Pulmonary Fibrosis: A Post-hoc Analysis of the MADIET Trial. | Arch Bronconeumol [eng,spa]
+- new | 2026 | 41401586 |  | Protective effects of oleuropein isolated from Olea europaea L. on renal ischemia/reperfusion injury in rats: Insights into antioxidant, and anti-apoptotic pathways. | Phytomedicine
+- new | 2026 | 42514216 |  | Preliminary In Silico Evaluation of Extra Virgin Olive Oil-Derived Bioactive Compounds as Multi-Target-Directed Ligands in Metabolic Dysfunction-Associated Steatotic Liver Disease. | Life (Basel)
+- new | 2026 | 39609224 |  | Maternal dietary olive oil protects diabetic rat offspring from impaired uterine decidualization. | Placenta
+- new | 2026 | 42840978 |  | Sustainable nanomedicine from olive leaf waste: biosynthesized ZnONPs with mechanistic validation against hepatocellular carcinoma. | RSC Adv
+- new | 2026 | 42550302 |  | Olive leaf extract attenuates acrylamide-induced reproductive toxicity through reduced oxidative DNA damage and apoptosis associated with 8-OHdG and Caspase-3 in rats. | J Mol Histol
+- new | 2026 | 41960163 |  | Moroccan virgin olive oil triterpenes: HPLC-DAD-ELSD profiling and computational investigation of anti-diabetic potential. | Bioimpacts
+- new | 2025 | 40025331 | Review | Olive oil wastewater: a comprehensive review on examination of toxicity, valorization strategies, composition, and modern management approaches. | Environ Sci Pollut Res Int
+- new | 2025 | 40633207 |  | Toxicity and therapeutic effects of aqueous extracts from reunionese medicinal plants: Insights from zebrafish models. | Biomed Pharmacother
+- new | 2025 | 41296430 |  | Prophylactic Olive Leaf Tea as a Nutraceutical Strategy: Tumor Suppression and Systemic Protection. | Curr Issues Mol Biol
+- new | 2025 | 41086186 | Comparative Study | Synergistic effects of sesame oil, extra virgin olive oil, psyllium extract, and dandelion extract on cholesterol gallstone dissolution: An in vitro comparative study against Rowac | PLoS One
+- new | 2025 | 38693720 |  | Hydroxytyrosol acetate from olive leaves (Olea Europaea L.) induces apoptosis via mitochondrial pathway in BEL7402 cell line. | Nat Prod Res
+- new | 2025 | 40601495 | Review | Ketogenic Diet for Epilepsy: The Olive Oil Effect to Optimization. A Narrative Review. | J Med Food
+- new | 2025 | 41197813 |  | Protective effects of oleuropein against monosodium glutamate-induced toxicity in aged rats. | Neurotoxicology
+- new | 2025 | 40842708 |  | The Effect of Oleuropein on the Treatment of Allergic Rhinitis. | Int Arch Otorhinolaryngol
+- new | 2025 | 35964244 |  | Oleuropein attenuates inflammation and regulates immune responses in a 2,4-dinitrochlorobenzene-induced atopic dermatitis mouse model. | Asian Pac J Allergy Immunol
+- new | 2025 | 41515132 |  | Olive Leaf Extract (OLE) Anti-Tumor Activities Against Hematologic Tumors: Potential Therapeutic Implications for Pediatric Patients with B-Acute Lymphoblastic Leukemia. | Nutrients
+- new | 2025 | 40002421 | Review | A Comprehensive Review of the Antitumor Activity of Olive Compounds: The Case of Olive Oil, Pomace, and Leaf Extracts, Phenolic Alcohols, Secoiridoids, and Triterpenes. | Antioxidants (Basel)
+- new | 2025 | 40497917 |  | A Regulatory-Compliant Genotoxicity Study of a Mixture of C60 and C70 Fullerenes Dissolved in Olive Oil Using the Mammalian Micronucleus Test. | Nanomaterials (Basel)
+- new | 2025 | 41438200 |  | Apoptosis, Cell Cycle and Differentiation Effects of Propolis Extracted in Olive Oil on HL-60 AML Cells: A Flow Cytometric Analysis. | Anal Cell Pathol (Amst)
+- new | 2025 | 40284008 | Review | From Olive Tree to Treatment: Nano-Delivery Systems for Enhancing Oleuropein's Health Benefits. | Pharmaceuticals (Basel)
+- new | 2025 | 39942041 |  | Analysis of Olive Oil Mill Wastewater from Conventionally Farmed Olives: Chemical and Microbiological Safety and Polyphenolic Profile for Possible Use in Food Product Functionaliza | Foods
+- new | 2025 | 39818111 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy and safety of olive leaf extract (Olea europaea L.) for glycaemic control in adults with type 2 diabetes mellitus (ESOLED): A pilot randomised controlled trial. | Complement Ther Clin Pract
+- new | 2025 | 40710675 |  | Development, Characterization, and Stability of Margarine Containing Oleogels Based on Olive Oil, Coconut Oil, Starch, and Beeswax. | Gels
+- new | 2025 | 39612845 |  | A study on the impact of industrial-scale refining on olive oil and olive pomace oil contamination with mineral oils. | Food Chem
+- new | 2025 | 40723564 |  | Modulation of Digestive Enzyme Activities and Intestinal γ-Proteobacteria in Gilthead Sea Bream Fed High-Fat Diets Supplemented with HIDROX(®) Olive Oil Extract. | Animals (Basel)
+- new | 2025 | 40431459 |  | A Greater Adherence to the Mediterranean Diet Supplemented with Extra Virgin Olive Oil and Nuts During Pregnancy Is Associated with Improved Offspring Health at Six Years of Age. | Nutrients
+- new | 2024 | 39620005 |  | Comparative effect of olive oil and flaxseed oil on drug induced hepatotoxicity in rats. | Food Sci Nutr
+- new | 2024 | 39339362 |  | Olea europaea L. Leaves as a Source of Anti-Glycation Compounds. | Molecules
+- new | 2024 | 39162269 | Review | Use of Olives-derived Phytochemicals for Prevention and Treatment of Atherosclerosis: An Update. | Curr Top Med Chem
+- new | 2024 | 38643306 |  | Interaction of olive oil-based propolis and caffeic acid phenethyl ester with methylprednisolone used in the treatment of human acute myeloid leukemia. | Mol Biol Rep
+- new | 2024 | 39065075 |  | Pomegranate Peel and Olive Leaf Extracts to Optimize the Preservation of Fresh Meat: Natural Food Additives to Extend Shelf-Life. | Microorganisms
+- new | 2024 | 38979597 |  | Systemic/Immune-Modulation of Olea europaea Leaf Extract in Fetuses of Alloxan-Induced T1 Diabetic Rats. | J Med Food
+- new | 2024 | 39673562 |  | Hepatoprotective effects of olive leaf extract against carbon tetrachloride-induced oxidative stress: in vivo and in-silico insights into the Nrf2-NFκB pathway. | J Mol Histol
+- new | 2024 | 39594563 |  | Ole-Oxy, a Semi-Synthetic Analog of Oleuropein, Ameliorates Acute Skin and Colon Inflammation in Mice. | Antioxidants (Basel)
+- new | 2024 | 39287875 | Review | Olive Oil's Attenuating Effects on Lipotoxicity. | Adv Exp Med Biol
+- new | 2024 | 39926739 |  | Efficacy of Olive Oil, Ozonated Olive Oil, and Chlorhexidine Gel as an Adjunct to Scaling and Root Planing in Chronic Periodontitis: A Clinical Study. | J Pharm Bioallied Sci
+- new | 2024 | 38344812 |  | Liposomal formulations of Oleae europaea L.: analyzing the antioxidant and antidiabetic activities along with toxicity profile in pancreatic beta TC6 cell line. | Int J Environ Health Res
+- new | 2024 | 38542729 | Review | Olive Oil Components as Novel Antioxidants in Neuroblastoma Treatment: Exploring the Therapeutic Potential of Oleuropein and Hydroxytyrosol. | Nutrients
+- new | 2024 | 38385474 |  | The hepatoprotective potentials of Olea europaea L. leaves against carbon tetrachloride-induced hepatic injury in rats. | J Pak Med Assoc
+- new | 2024 | 39247044 | Case Reports | The Efficacy of Ozonated Olive Oil in Crown Lengthening Procedures for Anterior Teeth: A Case Report. | Cureus
+- new | 2024 | 39519287 | Clinical Trial, Phase III/Comparative Study/Equivalence Trial/Randomized Controlled Trial | Comparison of n-3 PUFA-Enriched vs. Olive-Oil-Based Lipid Emulsion on Oxidative Stress and Inflammatory Response in Critically Ill Post-Surgery Adults: Secondary Analysis of a Rand | Int J Mol Sci
+- new | 2024 | 39442156 |  | Investigating the hepato-protective properties of chamomile oil and olive leaves extracts against ribociclib-induced hepatotoxicity. | Braz J Biol
+- HELD REF-1439 | 2024 | 39123180 |  | Evaluation of the antibacterial and antifungal properties of oleuropein, olea Europea leaf extract, and thymus vulgaris oil. | BMC Complement Med Ther
+- new | 2024 | 39557924 |  | A study on the effect of Hypericum perforatum L. extract on vanadium toxicity in Allium cepa L. | Sci Rep
+- new | 2024 | 39158163 |  | The Impact of Oleuropein on Cisplatin-Induced Toxicity in Cochlear Cells in Relation to the Expression of Deoxyribonucleic Acid Damage-Associated Genes. | J Int Adv Otol
+- new | 2024 | 38431007 |  | Oleuropein induces apoptosis in gastric cancer cell lines by regulating mir-34a, mir-21, and related genes: An experimental and bioinformatic study. | Int J Biol Macromol
+- new | 2024 | 38436159 |  | Oleuropein, a phenolic component of Olea europaea L. ameliorates CCl4-induced liver injury in rats through the regulation of oxidative stress and inflammation. | Eur Rev Med Pharmacol Sci
+- new | 2024 | 38927125 | Review | Comprehensive Review of Olea europaea: A Holistic Exploration into Its Botanical Marvels, Phytochemical Riches, Therapeutic Potentials, and Safety Profile. | Biomolecules
+- new | 2023 | 37276673 | Review | Oleocanthal - Characterization, production, safety, functionality and in vivo evidences. | Food Chem
+- new | 2023 | 37298860 |  | Rapid Detection of Benzo[a]pyrene in Extra Virgin Olive Oil Using Fluorescence Spectroscopy. | Molecules
+- new | 2023 | 37580869 |  | Preparation, characterization and wound-healing effect of PEGylated nanoliposomes loaded with oleuropein. | Biomed Chromatogr
+- new | 2023 | 37145047 | Case Reports | Report of a case mimicking the acute appendicitis; Small bowel perforation due to olive leaf. | Ulus Travma Acil Cerrahi Derg
+- new | 2023 | 36963367 |  | Glycolysis, a new mechanism of oleuropein against liver tumor. | Phytomedicine
+- new | 2023 | 37163731 |  | Evaluating the in-vivo effects of olive oil, soya bean oil, and vitamins against oxidized ghee toxicity. | Acta Biochim Pol
+- new | 2023 | 36181589 |  | Olive leaf (Olea europaea L. folium) extract influences liver microsomal detoxifying enzymes in rats orally exposed to 2-amino-l-methyI-6-phenyI-imidazo pyridine (PhIP). | Environ Sci Pollut Res Int
+- new | 2023 | 37673343 |  | The potential protectivity of honey and olive oil in methotrexate induced renal damage in rats. | Toxicon
+- new | 2023 | 35635681 |  | PAHs, PCBs and OCPs in olive oil during the fruit ripening period of olive fruits. | Environ Geochem Health
+- new | 2023 | 38152475 |  | Exploring the anthelmintic activity of Olea europaea L (Olive) leaves extract and oleuropein in mice naturally infected with Aspiculuris tetraptera. | Helminthologia
+- new | 2023 | 37562203 |  | Identification and characterization of long noncoding RNAs in two contrasting olive (Olea europaea L.) genotypes subjected to aluminum toxicity. | Plant Physiol Biochem
+- new | 2023 | 37027951 | Research Support, Non-U.S. Gov't | Synthesis, DFT study, theoretical and experimental spectroscopy of fatty amides based on extra-virgin olive oil and their antibacterial activity. | Bioorg Chem
+- new | 2023 | 36655918 |  | Monounsaturated fatty acid-enriched olive oil exacerbates chronic alcohol-induced hepatic steatosis and liver injury in C57BL/6J mice. | Food Funct
+- new | 2022 | 36145125 | Review | Correlation between Olive Oil Intake and Gut Microbiota in Colorectal Cancer Prevention. | Nutrients
+- new | 2022 | 35056792 | Review | Influence of Olive Oil and Its Components on Breast Cancer: Molecular Mechanisms. | Molecules
+- new | 2022 | 36294935 |  | Olive Leaf Extract Attenuates Chlorpyrifos-Induced Neuro- and Reproductive Toxicity in Male Albino Rats. | Life (Basel)
+- new | 2022 | 35628502 |  | Olive Oil Phenols Prevent Mercury-Induced Phosphatidylserine Exposure and Morphological Changes in Human Erythrocytes Regardless of Their Different Scavenging Activity. | Int J Mol Sci
+- new | 2022 | 35870332 | Randomized Controlled Trial/Equivalence Trial | Effects of light stroking massage with olive oil on acute pain severity and number of taken non-steroidal anti-inflammatory drugs among outpatients with extremities trauma: A doubl | Int J Orthop Trauma Nurs
+- new | 2022 | 35287895 |  | Surface, rheopexy, digestive stability and toxicity of olive oil emulsions stabilized by chitin nanocrystals for vitamin D3 delivery. | Carbohydr Polym
+- new | 2022 | 35287030 |  | Safety assessment of citrus and olive by-products using a sustainable methodology based on natural deep eutectic solvents. | J Chromatogr A
+- new | 2022 | 35215560 |  | Olive Oil Improves While Trans Fatty Acids Further Aggravate the Hypomethylation of LINE-1 Retrotransposon DNA in an Environmental Carcinogen Model. | Nutrients
+- new | 2022 | 34030611 |  | Olive oil-rich diet during pregnancy/lactation attenuated the early life stress effects on depressive-like behavior and altered energy metabolism in the dorsal hippocampus in a sex | Nutr Neurosci
+- new | 2022 | 35598388 |  | Nutrition during pregnancy and lactation: New evidence for the vertical transmission of extra virgin olive oil phenolic compounds in rats. | Food Chem
+- new | 2022 | 35399371 |  | The use of olive oil for skin health in a Saudi population: A cross-sectional study. | Dermatol Reports
+- new | 2022 | 35267334 |  | The Potential of Olive Leaf Extract as a Functional Ingredient in Yoghurt Production: The Effects on Fermentation, Rheology, Sensory, and Antioxidant Properties of Cow Milk Yoghurt | Foods
+- new | 2022 | 35410360 |  | Biological activities and phenolic compounds of olive oil mill wastewater from Abani, endemic Algerian variety. | Sci Rep
+- new | 2022 | 34864120 |  | Extra virgin olive oil-based phospholipid complex/self-microemulsion enhances oral absorption of salvianolic acid B through inhibition of catechol-O-methyltransferase-mediated meta | Int J Pharm
+- new | 2022 | 34748920 |  | Protective effects of extra virgin olive oil and exercise training on rat skeletal muscle against high-fat diet feeding. | J Nutr Biochem
+- new | 2022 | 35368142 | Review/Research Support, Non-U.S. Gov't | Extra virgin olive oil: A comprehensive review of efforts to ensure its authenticity, traceability, and safety. | Compr Rev Food Sci Food Saf
+- new | 2022 | 36009322 |  | Differential Radiomodulating Action of Olea europaea L. cv. Caiazzana Leaf Extract on Human Normal and Cancer Cells: A Joint Chemical and Radiobiological Approach. | Antioxidants (Basel)
+- new | 2022 | 34338174 | Review/Research Support, Non-U.S. Gov't | Potential of olive oil and its phenolic compounds as therapeutic intervention against colorectal cancer: a comprehensive review. | Br J Nutr
+- new | 2022 | 35588658 |  | Dietary olive oil intake aggravates psoriatic skin inflammation in mice via Nrf2 activation and polyunsaturated fatty acid imbalance. | Int Immunopharmacol
+- new | 2022 | 32525718 |  | Effectiveness and Tolerability of Natural Herbal Formulations in the Prevention of Radiation-Induced Skin Toxicity in Patients Undergoing Radiotherapy. | Int J Low Extrem Wounds
+- new | 2021 | 34063199 | Editorial | Extra Virgin Olive Oil (EVOO): Quality, Safety, Authenticity, and Adulteration. | Foods
+- new | 2021 | 34716610 | Review | Neuroprotective effects of oleuropein: Recent developments and contemporary research. | J Food Biochem
+- new | 2021 | 33598514 | Case Reports | Treatment of cutaneous sarcoidosis with tofacitinib 2% ointment and extra virgin olive oil. | JAAD Case Rep
+- new | 2021 | 33798547 |  | Oleuropin controls miR-194/XIST/PD-L1 loop in triple negative breast cancer: New role of nutri-epigenetics in immune-oncology. | Life Sci
+- new | 2021 | 34078816 |  | Naturally Oxidized Olive Oil Promotes Active Cutaneous Anaphylaxis and Th2 Cytokine Production. | Biol Pharm Bull
+- new | 2021 | 34216344 |  | Protective effects of olive leaf extract against reproductive toxicity of the lead acetate in rats. | Environ Sci Pollut Res Int
+- new | 2021 | 33503913 |  | Assessment of the Nutraceutical Effects of Oleuropein and the Cytotoxic Effects of Adriamycin, When Administered Alone and in Combination, in MG-63 Human Osteosarcoma Cells. | Nutrients
+- new | 2021 | 33938439 | Case Reports | Lichen Planus Pigmentosus Associated with Topical Olive Oil Application. | Skinmed
+- new | 2021 | 34641545 |  | Olive Pomace Phenolic Compounds Stability and Safety Evaluation: From Raw Material to Future Ophthalmic Applications. | Molecules
+- new | 2021 | 34681141 |  | Extra Virgin Olive Oil Protects the Testis and Blood from the Toxicity of Paracetamol (Overdose) in Adult Male Rats. | Biology (Basel)
+- new | 2021 | 33123847 | Research Support, Non-U.S. Gov't | C(60) in olive oil causes light-dependent toxicity and does not extend lifespan in mice. | Geroscience
+- new | 2021 | 33571899 |  | A combination of Olea europaea leaf extract and Spirodela polyrhiza extract alleviates atopic dermatitis by modulating immune balance and skin barrier function in a 1-chloro-2,4-di | Phytomedicine
+- new | 2021 | 33124697 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Two bi-functional cytochrome P450 CYP72 enzymes from olive (Olea europaea) catalyze the oxidative C-C bond cleavage in the biosynthesis of secoxy-iridoids - flavor and quality dete | New Phytol
+- new | 2020 | 32299100 | Research Support, Non-U.S. Gov't/Review | Olive oil consumption and its repercussions on lipid metabolism. | Nutr Rev
+- new | 2020 | 32291641 |  | Olive leaf extract modulates glycerol-induced kidney and liver damage in rats. | Environ Sci Pollut Res Int
+- new | 2020 | 32874227 |  | Safety and efficacy of a dried aqueous ethanol extract of leaves from Olea europaea L. when used as a sensory additive in feed for all animal species. | EFSA J
+- new | 2020 | 32021369 | Case Reports | The Effect of Using Olive Oil and Fish Oil Prophylactic Dressings on Heel Pressure Injury Development in Critically Ill Patients. | Clin Cosmet Investig Dermatol
+- new | 2020 | 32231891 |  | Cardioprotective Effect of Olive Oil Against Ischemia Reperfusion-induced Cardiac Arrhythmia in Isolated Diabetic Rat Heart. | Cureus
+- new | 2020 | 32991800 | Research Support, Non-U.S. Gov't | Olive Oil Lignan (+)-Acetoxypinoresinol Peripheral Motor and Neuronal Protection against the Tremorgenic Mycotoxin Penitrem A Toxicity via STAT1 Pathway. | ACS Chem Neurosci
+- new | 2020 | 32569693 |  | Inhibition of human islet amyloid polypeptide aggregation and cellular toxicity by oleuropein and derivatives from olive oil. | Int J Biol Macromol
+- new | 2020 | 31979182 |  | Phenolic Profile, Toxicity, Enzyme Inhibition, In Silico Studies, and Antioxidant Properties of Cakile maritima Scop. (Brassicaceae) from Southern Portugal. | Plants (Basel)
+- new | 2020 | 31783209 |  | Biodegradation of olive mill wastewater phenolic compounds in a thermophilic anaerobic upflow packed bed reactor and assessment of their toxicity in digester effluents. | J Environ Manage
+- new | 2020 | 32179382 |  | Extra virgin olive oil and flaxseed oil have no preventive effects on DSS-induced acute ulcerative colitis. | Nutrition
+- new | 2019 | 31639094 | Review | Anticancer effects of olive oil polyphenols and their combinations with anticancer drugs. | Acta Pharm
+- new | 2019 | 31500145 |  | Acute/Subacute and Sub-Chronic Oral Toxicity of a Hidroxytyrosol-Rich Virgin Olive Oil Extract. | Nutrients
+- new | 2019 | 31177312 | Review | Chemical, physical and biotechnological approaches to the production of the potent antioxidant hydroxytyrosol. | Appl Microbiol Biotechnol
+- new | 2019 | 31412527 |  | Toxicity evaluation of olive oil mill wastewater and its polar fraction using multiple whole-organism bioassays. | Sci Total Environ
+- new | 2019 | 30944704 |  | The therapeutic effect of ozonated olive oil plus glucantime on human cutaneous leishmaniasis. | Iran J Basic Med Sci
+- new | 2019 | 30661406 |  | An Olive Leaf Extract Rich in Polyphenols Promotes Apoptosis in Cervical Cancer Cells by Upregulating p21(Cip/WAF1) Gene Expression. | Nutr Cancer
+- new | 2019 | 31885478 |  | Effect of olive leaves extract on the antidiabetic effect of glyburide for possible herb-drug interaction. | Saudi Pharm J
+- new | 2019 | 31933586 |  | Emulsion of Olive Oil and Calcium Hydroxide for the Prevention of Radiation Dermatitis in Hypofractionation Post-Mastectomy Radiotherapy: A Randomized Controlled Trial. | Breast Care (Basel)
+- new | 2019 | 30581912 |  | Gene ontology analysis of transcriptome data from DMBA-induced mammary tumors of rats fed a high-corn oil and a high-extra virgin olive oil diet. | Data Brief
+- new | 2019 | 30259636 |  | The efficacy of oleuropein against non-steroidal anti-inflammatory drug induced toxicity in rat kidney. | Environ Toxicol
+- new | 2019 | 34466471 |  | Effects of Olive Leaf Extract on Prevention of Molecular, Histopathological, and Enzymatic Changes in Chicken Carbon Tetrachloride-Induced Liver Damage. | Galen Med J
+- new | 2019 | 30611992 |  | Olea europaea leaf extract up-regulates Nrf2/ARE/HO-1 signaling and attenuates cyclophosphamide-induced oxidative stress, inflammation and apoptosis in rat kidney. | Biomed Pharmacother
+- new | 2019 | 31193397 |  | In vitro and ex vivo scolicidal effects of Olea europaea L. to inactivate the protoscolecs during hydatid cyst surgery. | Ann Med Surg (Lond)
+- new | 2019 | 30655291 | Research Support, Non-U.S. Gov't | Oleuropein derivatives from olive fruit extracts reduce α-synuclein fibrillation and oligomer toxicity. | J Biol Chem
+- new | 2019 | 31070230 |  | The combined effect of honey and olive oil against methotrexate mediated hepatotoxicity in rats: A biochemical, histological and immunohistological study. | Histol Histopathol
+- new | 2019 | 30151672 |  | Olive Leaf Extracts Toxicity to the Migratory Locust, Locusta migratoria: Histopathological Effects on the Alimentary Canal and Acetylcholinesterase and Glutathione S-Transferases  | Neotrop Entomol
+- new | 2018 | 29495598 | Review | Potential Health Benefits of Olive Oil and Plant Polyphenols. | Int J Mol Sci
+- new | 2018 | 29554707 |  | Potential Herb-Drug Pharmacokinetic Interactions between African Wild Olive Leaf Extract and Selected Antihypertensive Drugs. | Planta Med
+- new | 2018 | 29800788 |  | The effect of natural antioxidants in cyclophosphamide-induced hepatotoxicity: Role of Nrf2/HO-1 pathway. | Int Immunopharmacol
+- new | 2018 | 30583613 | Review | Olive Oil Effects on Colorectal Cancer. | Nutrients
+- new | 2018 | 30587798 |  | Olive Leaves Extract from Algerian Oleaster (Olea europaea var. sylvestris) on Microbiological Safety and Shelf-life Stability of Raw Halal Minced Beef during Display. | Foods
+- new | 2018 | 30189597 |  | Effect of Adherence to a Mediterranean Diet and Olive Oil Intake during Pregnancy on Risk of Small for Gestational Age Infants. | Nutrients
+- new | 2018 | 29849921 |  | Comparative Analysis of the Effects of Olive Oil Hydroxytyrosol and Its 5-S-Lipoyl Conjugate in Protecting Human Erythrocytes from Mercury Toxicity. | Oxid Med Cell Longev
+- new | 2018 | 29278855 |  | Olive oil and leaf extract prevent fluoxetine-induced hepatotoxicity by attenuating oxidative stress, inflammation and apoptosis. | Biomed Pharmacother
+- new | 2018 | 30079156 |  | Effects of Olive Oil supplementation on Sodium Arsenate-induced Hepatotoxicity in Mice. | Int J Prev Med
+- new | 2018 | 29781491 |  | Oleuropein and hydroxytyrosol rich extracts from olive leaves attenuate liver injury and lipid metabolism disturbance in bisphenol A-treated rats. | Food Funct
+- new | 2018 | 29253525 | Research Support, Non-U.S. Gov't/Review | Crosstalk mechanisms in hepatoprotection: Thyroid hormone-docosahexaenoic acid (DHA) and DHA-extra virgin olive oil combined protocols. | Pharmacol Res
+- new | 2018 | 29976009 |  | Genotoxic effects of olive oil wastewater on sunflower. | Ecotoxicol Environ Saf
+- new | 2018 | 29499533 |  | Impacts of fullerene C(60) and virgin olive oil on cadmium-induced genotoxicity in rats. | Sci Total Environ
+- new | 2018 | 30687713 |  | Improvement of Serum Biochemical Parameters and Hematological Indices Through α-Tocopherol Administration in Dietary Oxidized Olive Oil Induced Toxicity in Rats. | Front Nutr
+- new | 2018 | 29047054 |  | Residual degradation and toxicity of insecticides against Bactrocera oleae. | Environ Sci Pollut Res Int
+- new | 2018 | 30116471 |  | Protective Effects of Fullerene C(60) Nanoparticles and Virgin Olive Oil against Genotoxicity Induced by Cyclophosphamide in Rats. | Oxid Med Cell Longev
+- new | 2018 | 30598025 |  | Olive Biophenols Reduces Alzheimer's Pathology in SH-SY5Y Cells and APPswe Mice. | Int J Mol Sci
+- new | 2017 | 29184267 |  | Deltamethrin-Induced Hepatotoxicity and Virgin Olive Oil Consumption: An Experimental Study. | Iran J Med Sci
+- new | 2017 | 28721993 |  | Honey and olive oil as bio-friendly substitutes for formalin and xylene in routine histopathology. | Indian J Dent Res
+- new | 2016 | 27385524 | Case Reports | Contact dermatitis caused by pharmaceutical ointments containing 'ozonated' olive oil. | Contact Dermatitis
+- new | 2016 | 27748855 |  | Extra-virgin olive oil phenols block cell cycle progression and modulate chemotherapeutic toxicity in bladder cancer cells. | Oncol Rep
+- new | 2016 | 27356258 | Case Reports/Letter | Possible toxicity of olive leaf extract in a dietary supplement. | N Z Med J
+- new | 2016 | 27326994 |  | Sensitization to Minor Allergens Has a Direct Influence on the Outcome of Subcutaneous Immunotherapy in Olive-Allergic Patients. | J Investig Allergol Clin Immunol
+- new | 2016 | 26658007 | Research Support, Non-U.S. Gov't | A Comprehensive Toxicological Safety Assessment of an Extract of Olea Europaea L. Leaves (Bonolive™). | Int J Toxicol
+- new | 2016 | 26931616 | Research Support, Non-U.S. Gov't | Plant Phenols as Antibiotic Boosters: In Vitro Interaction of Olive Leaf Phenols with Ampicillin. | Phytother Res
+- new | 2016 | 27818697 |  | Efficacy and Safety of a Natural Remedy for the Treatment of Gastroesophageal Reflux: A Double-Blinded Randomized-Controlled Study. | Evid Based Complement Alternat Med
+- new | 2016 | 27814700 |  | The hepatoprotective activity of olive oil and Nigella sativa oil against CCl(4) induced hepatotoxicity in male rats. | BMC Complement Altern Med
+- new | 2015 | 25293421 |  | Oleuropein aglycone protects against pyroglutamylated-3 amyloid-ß toxicity: biochemical, epigenetic and functional correlates. | Neurobiol Aging
+- new | 2015 | 25781069 | Research Support, Non-U.S. Gov't/Review | Potential role of olive oil phenolic compounds in the prevention of neurodegenerative diseases. | Molecules
+- new | 2015 | 25953414 |  | Anti-dermatophyte efficacy and environmental safety of some essential oils commercial and in vitro extracted pure and combined against four keratinophilic pathogenic fungi. | Environ Health Prev Med
+- new | 2015 | 25496362 | Research Support, Non-U.S. Gov't | Olive oil and its phenolic constituent tyrosol attenuates dioxin-induced toxicity in peripheral blood mononuclear cells via an antioxidant-dependent mechanism. | Nat Prod Res
+- new | 2015 | 26002558 |  | Effect of olive leaf extract treatment on doxorubicin-induced cardiac, hepatic and renal toxicity in rats. | Pathophysiology
+- new | 2015 | 26388519 |  | Ameliorating effect of olive oil on fertility of male rats fed on genetically modified soya bean. | Food Nutr Res
+- new | 2014 | 24114487 | Research Support, Non-U.S. Gov't/Review | Olive oil and other dietary lipids in breast cancer. | Cancer Treat Res
+- new | 2014 | 24048161 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Fish Oil (SMOFlipid) and olive oil lipid (Clinoleic) in very preterm neonates. | J Pediatr Gastroenterol Nutr
+- new | 2014 | 24211687 | Research Support, Non-U.S. Gov't | Oleuropein aglycone counteracts Aβ42 toxicity in the rat brain. | Neurosci Lett
+- new | 2013 | 23834184 | Research Support, Non-U.S. Gov't/Review | An up-date of olive oil phenols in inflammation and cancer: molecular mechanisms and clinical implications. | Curr Med Chem
+- new | 2013 | 24964455 | Case Reports | A case of small bowel obstruction due to phytobezoars. | J Surg Case Rep
+- new | 2012 | 22893193 | Letter | Use of olive oil for the treatment of seborrheic dermatitis in children. | Arch Pediatr Adolesc Med
+- new | 2011 | 22166191 | Research Support, Non-U.S. Gov't/Review | Olive oil, an essential component of the Mediterranean diet, and breast cancer. | Public Health Nutr
+- new | 2011 | 21443482 | Research Support, Non-U.S. Gov't/Review | Modulatory effects and molecular mechanisms of olive oil and other dietary lipids in breast cancer. | Curr Pharm Des
+- new | 2011 | 21216346 |  | Olive oil mill wastewater toxicity in the marine environment: alterations of stress indices in tissues of mussel Mytilus galloprovincialis. | Aquat Toxicol
+- new | 2011 | 21777647 | Research Support, Non-U.S. Gov't | Olive oil hydroxytyrosol reduces toxicity evoked by acrylamide in human Caco-2 cells by preventing oxidative stress. | Toxicology
+- new | 2007 | 17879998 | Research Support, Non-U.S. Gov't/Review | Molecular mechanisms of the effects of olive oil and other dietary lipids on cancer. | Mol Nutr Food Res
+- new | 2007 | 17691916 | Research Support, Non-U.S. Gov't/Review | Metabolic activation of herbal and dietary constituents and its clinical and toxicological implications: an update. | Curr Drug Metab
+- new | 2006 | 17169760 | Research Support, Non-U.S. Gov't/Review | Are the olive oil and other dietary lipids related to cancer? Experimental evidence. | Clin Transl Oncol
+- new | 2005 | 16370222 | Review | Components of olive oil and chemoprevention of colorectal cancer. | Nutr Rev
+- new | 2004 | 14672753 | Research Support, Non-U.S. Gov't/Review | Herbal bioactivation: the good, the bad and the ugly. | Life Sci
+- new | 2004 | 15128324 | Case Reports | Occupational allergic contact dermatitis from olive oil in pizza making. | Contact Dermatitis
+- new | 1999 | 20086716 |  | Supplements: modern miracles? | Phys Sportsmed
+- new | 1997 | 9034680 | Case Reports | Olive oil--contact sensitizer or irritant? | Contact Dermatitis
+- new | 1995 | 8525648 | Comparative Study | [Effect of olive oil and fish oil on parameters of lipids and antioxidants in hyperlipoproteinemia]. | Z Ernahrungswiss [ger]
+
+### PubMed OBS - 155 hits, 30 not already listed above, 30 new
+- new | 2026 | 43036224 | Multicenter Study | Effectiveness of a Nutritional Supplement With Anti-Inflammatory Compounds and Olive Oil in Malnourished Patients. | J Cachexia Sarcopenia Muscle
+- new | 2026 | 41631199 |  | Adherence to the Mediterranean diet, particularly olive oil intake, and metabolic health parameters are independently associated with SARS-CoV-2 vaccine-induced IgG responses. | Metabol Open
+- new | 2025 | 39978469 | Research Support, N.I.H., Extramural | Changes in olive oil consumption and long-term body weight changes in 3 United States prospective cohort studies. | Am J Clin Nutr
+- new | 2025 | 41019557 |  | Regular extra-virgin olive oil intake independently associates with lower abdominal obesity. | Front Nutr
+- new | 2024 | 38709531 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Consumption of Olive Oil and Diet Quality and Risk of Dementia-Related Death. | JAMA Netw Open
+- new | 2024 | 39408202 |  | Extra Virgin Olive Oil Reduces the Risk of Non-Alcoholic Fatty Liver Disease in Females but Not in Males: Results from the NUTRIHEP Cohort. | Nutrients
+- new | 2024 | 37549566 |  | Qualitative and quantitative determination of phenols and their metabolites in urine by in-syringe solid-phase extraction and LC-MS/MS analysis for evaluation of virgin olive oil m | Talanta
+- new | 2024 | 38309486 | Observational Study | Ifanosine: Olea europaea L. and Hyphaene thebaica L. combination, from traditional utilization to rational formulation: Preclinical and clinical efficacy on hypertensives patients. | J Ethnopharmacol
+- new | 2023 | 36839323 |  | Olive Oil and Nuts in Rheumatoid Arthritis Disease Activity. | Nutrients
+- new | 2023 | 38093289 | Research Support, Non-U.S. Gov't | Olive oil consumption, plasma metabolites, and risk of type 2 diabetes and cardiovascular disease. | Cardiovasc Diabetol
+- new | 2023 | 34895363 | Review | Olive oil and wine as source of multi-target agents in the prevention of Alzheimer disease. | Nutr Res Rev
+- new | 2023 | 37891921 | Review | Zebrafish Model Insights into Mediterranean Diet Liquids: Olive Oil and Wine. | Antioxidants (Basel)
+- new | 2023 | 37227418 |  | INMUNOCAT study: The impact of molecular diagnosis on immunotherapy prescription in pollen polysensitized patients from Catalonia. | Clin Transl Allergy
+- new | 2023 | 36424474 | Published Erratum | Correction: Only virgin type of olive oil consumption reduces the risk of mortality. Results from a Mediterranean population-based cohort. | Eur J Clin Nutr
+- new | 2023 | 36241725 | Research Support, Non-U.S. Gov't | Only virgin type of olive oil consumption reduces the risk of mortality. Results from a Mediterranean population-based cohort. | Eur J Clin Nutr
+- new | 2022 | 39076644 | Review | Olive Oil Phenolics and Platelets-From Molecular Mechanisms to Human Studies. | Rev Cardiovasc Med
+- new | 2022 | 35194197 | Research Support, Non-U.S. Gov't | Type does matter. Use VIRGIN olive oil as your preferred fat to reduce your risk of breast cancer: case-control EpiGEICAM study. | Eur J Clin Nutr
+- new | 2022 | 34793587 | Research Support, Non-U.S. Gov't | Olive oil consumption is associated with lower frailty risk: a prospective cohort study of community-dwelling older adults. | Age Ageing
+- new | 2021 | 33961163 | Review | Olive Oil Intake and Cardiovascular Disease Prevention: "Seek and You Shall Find". | Curr Cardiol Rep
+- new | 2020 | 32140426 |  | Olive oil with high polyphenolic content induces both beneficial and harmful alterations on rat redox status depending on the tissue. | Toxicol Rep
+- new | 2020 | 32007332 | Observational Study | Exclusive olive oil consumption was favorably associated with metabolic indices and lifestyle factors in schoolchildren. | Nutr Metab Cardiovasc Dis
+- new | 2019 | 30957134 |  | Prevalence of herbal medicines in patients with chronic allergic disorders in Western Saudi Arabia. | Saudi Med J
+- new | 2019 | 30948307 | Comparative Study/Research Support, Non-U.S. Gov't | Olive oil intake and risk of atrial fibrillation in the SUN cohort. | Nutr Metab Cardiovasc Dis
+- new | 2018 | 29897866 | Corrected and Republished Article | Primary Prevention of Cardiovascular Disease with a Mediterranean Diet Supplemented with Extra-Virgin Olive Oil or Nuts. | N Engl J Med
+- new | 2016 | 27197103 | Observational Study | [Treatment of interdigital foot Erythrasma with ozonated olive oil]. | Rev Med Inst Mex Seguro Soc [spa]
+- new | 2015 | 26148926 | Research Support, Non-U.S. Gov't/Review | The role of olive oil in disease prevention: a focus on the recent epidemiological evidence from cohort studies and dietary intervention trials. | Br J Nutr
+- new | 2014 | 25322908 | Comparative Study/Review | Can rapeseed oil replace olive oil as part of a Mediterranean-style diet? | Br J Nutr
+- new | 2011 | 21519740 |  | [Olive oil consumption and incidence of diabetes mellitus, in the Spanish sun cohort]. | Nutr Hosp [spa]
+- new | 2010 | 20303720 | Research Support, Non-U.S. Gov't/Consensus Statement | Olive oil and health: summary of the II international conference on olive oil and health consensus report, Jaén and Córdoba (Spain) 2008. | Nutr Metab Cardiovasc Dis
+- new | 2005 | 16008542 | Consensus Statement/Review | International conference on the healthy effect of virgin olive oil. | Eur J Clin Invest
+
+### PubMed REV - 634 hits, 21 not already listed above, 21 new
+- new | 2024 | 39524627 | Review | A Comprehensive Review of Plant-Based Cosmetic Oils (Virgin Coconut Oil, Olive Oil, Argan Oil, and Jojoba Oil): Chemical and Biological Properties and Their Cosmeceutical Applicati | ACS Omega
+- new | 2024 | 38817366 | Review | Oleuropein impact on colorectal cancer. | Future Sci OA
+- new | 2024 | 39590817 | Review | Anti-Diabetic Effects of Oleuropein. | Metabolites
+- new | 2024 | 39614480 | Review/Research Support, Non-U.S. Gov't | Turn to the wild: A comprehensive review on the chemical composition of wild olive oil. | Food Res Int
+- new | 2024 | 38301769 | Review/Research Support, Non-U.S. Gov't | Olea europaea L-derived secoiridoids: Beneficial health effects and potential therapeutic approaches. | Pharmacol Ther
+- new | 2023 | 37374069 | Review | Immunomodulatory Effects of Natural Feed Additives for Meat Chickens. | Life (Basel)
+- new | 2023 | 37630815 | Review | Is There More to Olive Oil than Healthy Lipids? | Nutrients
+- new | 2023 | 37543179 | Review/Research Support, Non-U.S. Gov't | Mediterranean diet and olive oil, microbiota, and obesity-related cancers. From mechanisms to prevention. | Semin Cancer Biol
+- new | 2022 | 36699830 | Review | Olive leaf spot caused by Venturia oleaginea: An updated review. | Front Plant Sci
+- new | 2022 | 36555859 | Review | Mitochondrial Aging and Senolytic Natural Products with Protective Potential. | Int J Mol Sci
+- new | 2022 | 35335378 | Review | Olive Oil Traceability Studies Using Inorganic and Isotopic Signatures: A Review. | Molecules
+- new | 2022 | 36503185 | Review | Xylella fastidiosa in Europe: From the Introduction to the Current Status. | Plant Pathol J
+- new | 2022 | 36496610 | Review | Consumer Acceptance and Preference for Olive Oil Attributes-A Review. | Foods
+- new | 2021 | 33576418 | Research Support, Non-U.S. Gov't/Review | Extra-virgin olive oil and the gut-brain axis: influence on gut microbiota, mucosal immunity, and cardiometabolic and cognitive health. | Nutr Rev
+- new | 2021 | 33684460 | Review | Natural pentacyclic triterpenoid acids potentially useful as biocompatible nanocarriers. | Fitoterapia
+- new | 2020 | 33003315 | Review | Dietary Mitophagy Enhancer: A Strategy for Healthy Brain Aging? | Antioxidants (Basel)
+- new | 2019 | 30897691 | Review | Olive Tree Biophenols in Inflammatory Bowel Disease: When Bitter is Better. | Int J Mol Sci
+- new | 2018 | 29675133 | Review | Benefit of Oleuropein Aglycone for Alzheimer's Disease by Promoting Autophagy. | Oxid Med Cell Longev
+- new | 2017 | 27762153 | Review/Research Support, Non-U.S. Gov't | Olive polyphenols: new promising agents to combat aging-associated neurodegeneration. | Expert Rev Neurother
+- new | 2017 | 28006752 | Review | Regulation of miRNAs by herbal medicine: An emerging field in cancer therapies. | Biomed Pharmacother
+- new | 2007 | 17167295 | Review | Olive oil. | World Rev Nutr Diet
+
+### ClinicalTrials.gov - 108 registered studies
+- NCT04440202 | COMPLETED | results=False | NA | Cardioprotective Properties of ELAIOTSIPOURA | conds: Cardiometabolic Health | intr: Conventional sea bream, Enriched sea bream
+- NCT06348537 | COMPLETED | results=False | NA | Effects of Olive Polyphenols in Fibromyalgia Patients | conds: Fibromyalgia | intr: Olive Polyphenols, Placebo | pubs: ['39337423:DERIVED (new)']
+- NCT05272228 | COMPLETED | results=False | NA | Comparative Single-dose Bioavailability Clinical Study of Different Coenzyme Q10 Products | conds: Coenzyme Q Deficiency | intr: Dietary supplement - standard product, Dietary supplement - Investigational product IP1, Dietary sup
+- NCT07173166 | RECRUITING | results=False | NA | Non-Pharmacological Interventions for Neurotoxicity in Hematologic Patients Receiving CAR-T Therapy | conds: Hematologic Cancer | intr: Physical activity, Physical activity and nutrition
+- NCT01739998 | COMPLETED | results=False | PHASE4 | Health Benefits of Functional Oil (Mega 3 Fatty Acids From Fish Oil) on Obese People | conds: Obesity | intr: functional oil, Placebo
+- NCT01624792 | COMPLETED | results=False | NA | Eicosapentaenoic Acid and Protein Modulation to Induce Anabolism in Chronic Obstructive Pulmonary Disease (COPD): Aim 2 | conds: Chronic Obstructive Pulmonary Disease, Muscle Wasting | intr: Olive oil, Fish oil, Fish oil and placebo | pubs: ['42149813:DERIVED (new)', '39423760:DERIVED (new)', '37542951:DERIVED (new)', '35849009:DERIVED (new)']
+- NCT01195155 | COMPLETED | results=False | NA | Transcriptomic Profile of Adipose Tissue Following n-3 Polyunsaturated Fatty Acid (PUFA) Supplementation | conds: Polycystic Ovary Syndrome | intr: LC n-3 PUFA (fish oil) Supplement
+- NCT06135831 | COMPLETED | results=False | NA | Effect of Consumption of Supplements and Enriched Olive Paste on Bone Metabolism Indices | conds: Osteopenia or Osteoporosis | intr: Functional olive paste, Calciovitmag (CDCaMg), Phosporovitmag (PDCaMg), Control
+- NCT02407262 | COMPLETED | results=False | PHASE2 | Potential Benefits of Black Seed Oil Supplementation on Asthma Inflammation and Outcomes | conds: Asthma | intr: Black seed oil, Placebo | pubs: ['28093815:DERIVED (new)']
+- NCT01442480 | COMPLETED | results=False | NA | Cardioprotective Effects of Omega-3 Fatty Acids Supplementation in Healthy Older Subjects Exposed to Air Pollution Particles | conds: Healthy | intr: Fish oil, Olive oil
+- NCT07308483 | NOT_YET_RECRUITING | results=False | NA | Ketogenic Approach to Restore Muscle in Older Patients With Community-Acquired Pneumonia - KARMA-P Trial | conds: Pneumonia | intr: Ketogenic feeding, Standard feeding
+- NCT01067898 | COMPLETED | results=False | PHASE4 | A Study on Oral Vitamin D Megadoses | conds: Hypovitaminosis D | intr: vitamin D3 (cholecalciferol), olive oil, calcium carbonate
+- NCT05465252 | RECRUITING | results=False | NA | Effect of Omega-3 Fatty Acid Supplementation on Dry-AMD Progression | conds: Age-Related Macular Degeneration | intr: Krill Oil, Olive Oil
+- NCT05815849 | COMPLETED | results=False | NA | Effect of Enteral Olive Oil Supplement On Weight Gain and Development of Some Complications in Preterm | conds: Olive Oil Adverse Reaction, Nursing Caries, Enteral and Supplement Feeds Adverse Reaction, Preterm | intr: Olive oil
+- NCT04987567 | COMPLETED | results=False | NA | Effect of Antioxidant Docosahexaenoic Acid (DHA) in Cystic Fibrosis Patients | conds: Cystic Fibrosis in Children | intr: ANTIOXIDANT DHA TRIGLYCERIDE (TRIDOCOSAHEXAENOINE-AOX®), PLACEBO (OLIVE OIL)
+- NCT01447693 | UNKNOWN | results=False | PHASE1,PHASE2 | Treatment of Uremic Pruritus by Olive-omega 3 Ointment | conds: Uremic Pruritus | intr: application of ointment (olive-omega 3 ointment)
+- NCT05306704 | COMPLETED | results=False | PHASE3 | High-Dose Vitamin D3 Supplementation in the Treatment of Human Immune Deficiency Virus Patients Trial | conds: HIV-1-infection, Hypovitaminosis D | intr: placebo Oil, 25-Hydroxyvitamin D
+- NCT04397055 | COMPLETED | results=False | NA | Oil Consumption and Cholesterol | conds: Hypercholesterolemia | intr: Cottonseed Oil, Olive Oil | pubs: ['38295507:DERIVED (new)', '36427543:DERIVED (new)', '36056703:DERIVED (new)', '35511204:DERIVED (new)']
+- NCT06794515 | NOT_YET_RECRUITING | results=False | NA | cGMP: Metabolism and Appetite Modulation | conds: Healthy | intr: cGMP-AAs alone (20 g of protein equivalent), cGMP-AAs (20 g of protein equivalent) + 50 g of low-pro
+- NCT06245616 | ACTIVE_NOT_RECRUITING | results=False | NA | Attenuation of Postprandial Inflammatory Processes in Alzheimer's Disease Patients by Consumption of Pomace Oil | conds: Alzheimer's Disease | intr: Consumption of olive pomace olive oil by alzheimer's patients, Consumption of high-oleic sunflower o
+- NCT00793364 | COMPLETED | results=False | PHASE4 | Effect of Plant Stanol Ester-Containing Spread on Estimated Cardiovascular Risk in Comparison to Mediterranean Diet | conds: Hypercholesterolemia | intr: Stanol ester spread, Placebo spread, Mediterranean Diet | pubs: ['10593347:RESULT (new)', '19939653:DERIVED (new)']
+- NCT01075932 | COMPLETED | results=False | NA | Effects of Docosahexaenoic Acid (DHA)-Rich Fish Oil on Cerebral Haemodynamics | conds: Cerebral Blood Flow, Cognitive Function | intr: DHA-rich fish oil, Placebo | pubs: ['22020134:DERIVED (new)']
+- NCT05469997 | COMPLETED | results=False | NA | Ketogenic Diet Interventions in Parkinson's Disease: Safeguarding the Gut Microbiome | conds: Parkinson Disease | intr: Mediterranean-Ketogenic Diet, Mediterranean diet supplemented with medium-chain triglyceride oil | pubs: ['41637153:DERIVED (new)', '41341605:DERIVED (new)']
+- NCT02394366 | COMPLETED | results=False | PHASE2 | Topical Salve for Skin Oxygenation and Blood Flow | conds: Skin Oxygenation, Peripheral Perfusion | intr: Original Healing Salve (OHS), OHS base only
+- NCT05144646 | UNKNOWN | results=False | NA | Peripheral Tissue Perfusion and Oxygenation in Areas at Risk of Press Ulcer (POTER-OIL) | conds: Pressure Ulcer | intr: MEPENTOL® AND FARMAOLIVA® IN HEALTHY WITH INTRASUBJECT CONTROL, MEPENTOL® AND FARMAOLIVA® IN PATIENT
+- NCT01173042 | COMPLETED | results=False | PHASE1 | Effects of Peanut Consumption on Postprandial Inflammation, Glucose and Triglycerides | conds: Cardiovascular Disease | intr: Peanuts, Glucose and whipping cream, Oil Blend
+- NCT07008586 | COMPLETED | results=False | NA | The Impact of OliPhenolia® Supplementation on Exercise Induced Inflammation and Functional Movement in Humans. | conds: Healthy | intr: OliPhenolia®, Taste and appearance matched placebo | pubs: ['36678293:RESULT (new)']
+- NCT05413954 | COMPLETED | results=False | NA | To Evaluate the Health Effect of Particular Fatty Acids Profiles From Eggs | conds: Abdominal Obesity | intr: Control, Test | pubs: ['42235640:DERIVED (new)']
+- NCT03081065 | UNKNOWN | results=False | NA | Mediterranean Diet and Recurrence of Depression | conds: Clinical Trial, Depression, Mediterranean, Diet | intr: Mediterranean Diet | pubs: ['36933773:DERIVED (new)', '35816397:DERIVED (new)', '30744589:DERIVED (new)']
+- NCT04262505 | COMPLETED | results=False | NA | A MEDiterranean Diet in Rheumatoid Arthritis | conds: Rheumatoid Arthritis | intr: Mediterranean Diet Group, Healthy Eating Group | pubs: ['39112976:DERIVED (new)', '35620325:DERIVED (new)']
+- NCT03541031 | UNKNOWN | results=False | NA | Micronutrients as Adjunctive Treatment for Bipolar Disorder | conds: Bipolar Disorder | intr: Micronutrient & Fish oil, Olive oil & Safflower oil
+- NCT03040856 | WITHDRAWN | results=False | NA | The Effect of Alpha Linolenic Acid (ALA) Supplementation During Pregnancy | conds: Omega 3 Supplements During Pregnancy | intr: Alpha Linolenic Acid, Omega 3 enriched diet ( DHA+EPA), Placebo | pubs: ['25882235:RESULT (new)', '24352849:RESULT (new)', '3657456:RESULT (new)', '18647425:RESULT (new)', '12768890:RESULT (new)', '17936958:RESULT (new)', '19244379:RESULT (new)', '15837071:RESULT (new)', '19359242:RESULT (new)', '27876342:RESULT (new)', '25889505:RESULT (new)', '25030769:RESULT (new)', '27023621:RESULT (new)', '26788914:RESULT (new)', '18989145:RESULT (new)']
+- NCT01630551 | WITHDRAWN | results=False | NA | Omega 3 Supplementation and Ocular Surface Disease in Glaucoma | conds: Ocular Surface Disease | intr: Fishoil supplement, Olive Oil
+- NCT03926351 | UNKNOWN | results=False | PHASE2 | High Dose Omega 3 in People at Risk for Dementia | conds: Dementia, Inflammation, Mild Cognitive Impairment, Cognitive Decline | intr: Omega-3 capsules, Olive oil
+- NCT01888211 | COMPLETED | results=False | NA | Effect of Omega 3 Fatty Acids on Vascular Function | conds: Previous Myocardial Infarction | intr: Omega 3 fatty acid supplementation, Olive Oil
+- NCT06759688 | COMPLETED | results=False |  | Role of Low Carbohydrate Nutrient in Healing of Infected Diabetic Foot | conds: Carbohydrate Ingestion | intr: Carbohydrates restriction
+- NCT05633849 | COMPLETED | results=False | NA | Evaluation of the Effect of Pro Resolve® Sports on Treatment of Patients With Symptomatic Knee Osteoarthritis | conds: Knee Osteoarthritis | intr: SMP group, Placebo group | pubs: ['42314382:DERIVED (new)', '37386594:DERIVED (new)']
+- NCT05322421 | COMPLETED | results=False | NA | Effectiveness of Topical Olive Oil in Prevention and Management of Radiation Induced Oral Mucositis | conds: Radiation Mucositis, Oral Mucositis (Ulcerative) Due to Radiation, Radiation-Induced Mucositis | intr: Topical Olive Oil, Sodium bicarbonate 5% solution
+- NCT00508248 | WITHDRAWN | results=False | NA | Omega 3 Fatty Acids and Atrial Fibrillation | conds: Atrial Fibrillation | intr: omega 3 fatty acids, placebo
+- NCT07035704 | NOT_YET_RECRUITING | results=False | NA | Prevent and Reverse Obesity in Children, Adolescents and Young Adults | conds: Overweight (BMI &gt; 25) | intr: MeD enriched with mushrooms, MeD enriched the Lebanese herbal mixture Za'atar, MeD Diet + semaglutin
+- NCT02391701 | COMPLETED | results=True | NA | Effect of an Atlantic Diet on Anthropometric Indices and Serum Lipid Profile | conds: Cardiovascular Disease, Adiposity, Hypercholesterolemia | intr: Diet | pubs: ['38324314:DERIVED (new)', '27539113:DERIVED (new)']
+- NCT03401281 | UNKNOWN | results=False | NA | Trial of Different Dietary Fat Sources on Blood Lipids and Other CVD Risk Factors | conds: Dietary Modification | intr: Coconut oil, Butter, Olive oil
+- NCT07218328 | NOT_YET_RECRUITING | results=False | NA | Food is Medicine in Survivorship: Examining the Feasibility and Impact of a Scalable Food Delivery and Culinary Medicine Program (FoodiiS) A | conds: Pediatric Cancer | intr: FoodiiS plus Culinary Essentials Food Delivery, Culinary Essentials Food Delivery Only, Waitlist con
+- NCT06880939 | NOT_YET_RECRUITING | results=False | NA | Antarctic Krill Oil Functional Food Mitigates Bladder Cancer Treatment Side Effects | conds: Urinary Bladder Neoplasms | intr: Krill Oil Functional Food, Olive Oil
+- NCT02853253 | WITHDRAWN | results=False | PHASE4 | Rate of Bronchopulmonary Dysplasia in Preterms Neonates: a Trial Comparing SMOFlipid and Medialipide | conds: Preterm Neonates | intr: SMOFlipid®, Medialipide®
+- NCT02177383 | COMPLETED | results=False | NA | Action of Essential Fatty Acids on the Expression of Antioxidant Genes and Athletic Performance | conds: Oxidative Stress, Exercise, Training Season, Antioxidant Capabilities | intr: Docosahexaenoic acid diet supplementation, Placebo supplementation | pubs: ['24643755:RESULT (new)', '24669986:RESULT (new)', '27051354:DERIVED (new)']
+- NCT00266305 | COMPLETED | results=False | NA | Fish Oil Supplementation in Lactation | conds: Development and Health | intr: Fish oil (Dry n-3, BASF) | pubs: ['15233397:RESULT (new)', '16006428:RESULT (new)', '15277169:RESULT (new)', '15159241:RESULT (new)', '16196417:RESULT (new)', '16188206:RESULT (new)', '16702318:RESULT (new)']
+- NCT03639064 | UNKNOWN | results=False | PHASE2 | Cannabis Oil for Pain in Parkinson's Disease | conds: Parkinson Disease | intr: Cannabis Oil | pubs: ['18546344:RESULT (new)', '21953990:RESULT (new)', '25888232:RESULT (new)', '12465055:RESULT (new)', '16214880:RESULT (new)', '25796592:RESULT (new)', '25649017:RESULT (new)', '24778283:RESULT (new)']
+- NCT07456332 | ENROLLING_BY_INVITATION | results=False | NA | Effect on Body Weight Reduction of a Behavioral Intervention on Lifestyle Using a Digital Nutritional Program in People Living With HIV and  | conds: Metabolic Dysfunction-Associated Steatotic Liver Disease, People Living With HIV, Life Style | intr: Digital nutritional program, Standard care dietary and exercice advice.
+- NCT03531216 | COMPLETED | results=False | NA | Topical Rosemary Oil Application in Systemic Sclerosis | conds: Systemic Sclerosis | intr: Rosemary essential oil, Placebo
+- NCT02245113 | COMPLETED | results=False | NA | Effects of High Oleic Palm Olein, Virgin Olive Oil and Coconut Oil Diets on Markers Selected in Malaysian | conds: Overweight | intr: diets
+- NCT06058559 | COMPLETED | results=False | NA | Effect of Sunflower Lecithin Supplementation on Meibomian Gland Function in Adults With Dry Eye Disease | conds: Dry Eye Disease, Meibomian Gland Dysfunction | intr: Sunflower lecithin, Olive oil
+- NCT07807696 | RECRUITING | results=False | NA | Olive Oil Before Lung Cancer Surgery to Prevent Chylothorax | conds: Lung Cancer, Chylothorax | intr: Extra-Virgin Olive Oil
+- NCT07021313 | ACTIVE_NOT_RECRUITING | results=False | NA | Deliver mOre aPplications for More Durable Pulmonary Vein IsOlation | conds: Atrial Fibrillation | intr: Pulmonary vein isolation by percutaneous endocardial catheter ablation using the FARAPULSE pulsed hi
+- NCT03481608 | COMPLETED | results=False | NA | The Effect of Dietary Lauric Acid on the Production of the LRH-1 Ligand, Dilauroylphosphatidylcholine | conds: Diet Modification | intr: Lauric acid (coconut oil), No Lauric acid (olive oil) | pubs: ['42863609:DERIVED (new)']
+- NCT06286813 | UNKNOWN | results=False | NA | The Effect of Almond and Extra Virgin Olive Oils on Maintaining Skin Integrity in Neonates | conds: Skin Care | intr: Plant (natural) oils | pubs: ['40184517:DERIVED (new)']
+- NCT02849210 | COMPLETED | results=False | PHASE1 | A Clinical Trial With Subcutaneous Immunotherapy in Depot Presentation in Patients With Rhinoconjuncitivis Sensitized to Olea Europaea | conds: Rhinoconjunctivitis | intr: Allergovac depot with Olea europaea pollen extract
+- NCT04786925 | COMPLETED | results=False | NA | Precision Nutrition Strategies for Improving the Quality of Life of Pre-senior and Senior Populations | conds: Overweight or Obesity | intr: Control diet, Nutriprecision diet | pubs: ['38865737:DERIVED (new)']
+- NCT07770490 | RECRUITING | results=False | NA | Pediatric Food is Medicine Study | conds: Food Insecurity, Fruit and Vegetable Consumption in Children, Produce Prescription Program Utilization | intr: Delivered Produce Prescription, Delivered Healthy Meal Kit, Standard of Care Mobile Market Voucher
+- NCT01478425 | COMPLETED | results=False | PHASE4 | Efficacy and Tolerability of a Topical Microemulsion in Patients With Allergic Rhinitis Due to Sensitization to Pollen | conds: Allergic Rhinitis | intr: Lipidic Microemulsion, Saline | pubs: ['23981504:DERIVED (new)']
+- NCT01936779 | COMPLETED | results=False | NA | Understanding the Role of Dietary Fatty Acids on Liver Fat Metabolism in Humans | conds: NAFLD | intr: Dietary supplement: fatty acid, Dietary supplement: fatty acid | pubs: ['32188593:DERIVED (new)']
+- NCT05929924 | COMPLETED | results=False | NA | Does EVOO Induce Gene and Metabolic Changes in Healthy Subjects | conds: Alzheimer Disease | intr: Extra virgin olive oil
+- NCT07599930 | RECRUITING | results=False | NA | Impact of a Novel Functional Snack on Perimenopausal Symptoms and Well-being | conds: Perimenopause, Perimenopause-Related Depression, Mood, Sleep | intr: Functional Snacks, Placebo Snacks
+- NCT00943865 | COMPLETED | results=False | NA | Three Lifestyle Interventions on Endothelial Function and Cardiometabolic Risk in Obese Patients With Metabolic Syndrome | conds: Metabolic Syndrome, Obesity | intr: hypocaloric diet, Exercise recommendations, Pragmatic diet, Pedometer-based fitness (10,000 steps)
+- NCT05872711 | UNKNOWN | results=False | NA | Low Carbohydrate Versus Mediterranean Diet in Adolescents With Type 1 Diabetes | conds: Type 1 Diabetes | intr: Low carbohydrate diet | pubs: ['29735574:RESULT (new)', '30924570:RESULT (new)']
+- NCT01684371 | COMPLETED | results=False |  | The Effects of Elmore Oil on Patients With Osteoarthritis | conds: Degenerative Arthritis, Inflammation | intr: Two oily solutions (Blue Dotted and Orange Dotted Elmore Oils)
+- NCT07834489 | RECRUITING | results=False | NA | Anti-Inflammatory Diet and Physical Activity for Reproductive Health in Adolescent Girls | conds: Reproductive Health | intr: Anti-Inflammatory Dietary Intervention, Physical Activity and Training Programme
+- NCT02421835 | COMPLETED | results=False | NA | Olive Leaf Extract as Part of a Healthy Lifestyle in the Reduction of Blood Pressure | conds: Pre Hypertension | intr: Olive leaf extract, Placebo
+- NCT04347902 | COMPLETED | results=False | PHASE4 | Lipid Emulsions and Liver Function - Results After 5 Years. | conds: Liver Failure, Parenteral Nutrition-Related Hepatitis | intr: Intravenous Lipid Emulsion | pubs: ['29960156:RESULT (new)']
+- NCT00670475 | COMPLETED | results=False | PHASE2 | Comparative Study of Olive Oil With Piroxicam Gel in Osteoarthritis of the Knee | conds: Osteoarthritis of the Knee | intr: Piroxicam, Olive Oil
+- NCT06567951 | UNKNOWN | results=False | NA | Extra Virgin Olive Oil Supplementation in Pregnancies With Increased Cholesterol Levels | conds: Pregnancy Related, Hypercholesterolemia | intr: Extra Virgin Olive Oil (EVOO) | pubs: ['42092827:DERIVED (new)']
+- NCT05379725 | TERMINATED | results=False | NA | Mediterranean vs. High-Fermented-Food Diet Adherence on Inflammation in Lupus | conds: Lupus Erythematosus, Systemic | intr: Mediterranean Dietary Pattern, High Fermented Food Dietary Pattern
+- NCT01786759 | UNKNOWN | results=False | PHASE4 | Hepatic Function and Bile Acid in Preterm Infants Receiving Parenteral Lipids Emulsion | conds: Preterm Infants | intr: ClinOleic, Intralipid
+- NCT02468713 | COMPLETED | results=False | PHASE4 | Effect on Blood Chemistry and Inflammatory Marker of Omega-3 Enriched Total Parenteral Nutrition | conds: Healthy | intr: Combiflex® lipid peri, Winuf® peri
+- NCT03490955 | COMPLETED | results=False | NA | Effects of Black Pepper on the Absorption of Nutrients in Vegetables | conds: Black Pepper, Absorption, Carotenoid | intr: salad dressing (canola oil) and black pepper, salad dressing (canola oil), black pepper, salad
+- NCT01479699 | COMPLETED | results=False | NA | Absorption and Metabolism of Olive Leaf Extract and Its Effect on Vascular Reactivity and Cytokine Concentrations | conds: Absorption and Metabolism, Effect on Vascular Function, Effect on Cytokine Concentrations | intr: Olive leaf extract capsules
+- NCT07030543 | COMPLETED | results=False | NA | Feasibility Of Individualized Dietary Plan (Idp) On Glycemic Control And Total Cholestrol In Diabetic Patients At Diabetes Hospital And Rese | conds: Type 2 Diabetes Mellitus | intr: Individualized Dietary Plan (IDP) for Type 2 Diabetes, Usual care
+- NCT04027088 | UNKNOWN | results=False | NA | Effect of Preoperative Immunonutrition in Upper Digestive Tract | conds: Immunonutrition, Gastric Cancer, Esophageal Cancer, Pancreas Cancer | intr: Immunonutrition, Standard | pubs: ['38863591:DERIVED (new)']
+- NCT00743301 | UNKNOWN | results=False | NA | The Effect of Palm Olein, Olive Oil and Lard and on Risk Markers of Cardiovascular Disease | conds: Cardiovascular Disease, Metabolic Syndrome | intr: Palm olein vs olive oil and lard | pubs: ['22071711:DERIVED (new)']
+- NCT03372109 | COMPLETED | results=False | NA | Evaluate the Effects of Repeated Periods of Modified Fasting to Support Healthy Natural Weight Management and Prevention of Weight Gain | conds: Body Weight Changes | intr: Meal replacement shake, Multivitamin and mineral capsules, Fish oil with sesame lignans and olive ex | pubs: ['23638291:RESULT (new)', '33512717:DERIVED (new)']
+- NCT02219399 | COMPLETED | results=False | NA | DHA Supplementation and Pregnancy Outcome | conds: Pregnancy | intr: 600 mg DHA, 300 mg DHA, Placebo
+- NCT03781557 | UNKNOWN | results=False | PHASE4 | Effects of Omega-3 Fatty Acids Supplement in Cognition of Young Healthy Adults and in Their Reaction Time of Computerized Test After 3 Month | conds: Cognition, Brain, Neuroscience | intr: Docosahexaenoic acid, Eicosapentaenoic acid, Olive oil
+- NCT05136066 | COMPLETED | results=False | NA | Effects of Massage With Peppermint Oil on Labor Pain | conds: Labor Pain | intr: massage with peppermint oil
+- NCT07581522 | COMPLETED | results=False | NA | Pharmacokinetics of Essential Oils in Different Capsules | conds: Healthy, Health, Subjective | intr: Frankinscense Essential Oil Capsule, Lemon Essential Oil Capsule, Wild Orange Essential Oil Capsule
+- NCT05962372 | RECRUITING | results=False | NA | Culturally Adapted Dietary Clinical Trial in PR | conds: Diabetes Mellitus, Type 2, Obesity, Hypertension, Dyslipidemias | intr: Culturally tailored food and diet advice, Standard healthy eating advice
+- NCT06250309 | RECRUITING | results=False | NA | Mediterranean Diet Versus Western Diet on Fatigue in Autoimmune Hepatitis Patients | conds: Autoimmune Hepatitis | intr: Dietary assignment | pubs: ['40368024:DERIVED (new)']
+- NCT06980675 | RECRUITING | results=False | NA | Ozonized Olive Oil in the Treatment of Periodontal Pockets | conds: Periodontal Pocket | intr: Activated Ozonized Olive Oil Gel, Placebo gel
+- NCT07949708 | NOT_YET_RECRUITING | results=False | NA | Extra Virgin Olive Oil Versus Olive Oil on Health Status | conds: Healthy Nutrition | intr: Extra virgin olive oil, Olive oil
+- NCT04323826 | COMPLETED | results=False | NA | Effect of the Type and Emulsification of Dietary Fat on the Carotenoids Absorption | conds: Carotenoids | intr: olive oil-water mixture, olive oil-water emulsion, coconut oil-water mixture, coconut oil-water emul | pubs: ['41117881:DERIVED (new)', '36921903:DERIVED (new)']
+- NCT03929835 | WITHDRAWN | results=False | PHASE2 | Study to Investigate the Efficacy and Safety of Cannabis Oil for the Treatment of Subjects With Hidradenitis Suppurativa | conds: Hidradenitis Suppurativa | intr: Cannabis oil, Placebo
+- NCT04439097 | UNKNOWN | results=False | NA | Effects of Multicomponent Physical Exercise Program and Mediterranean Diet in Alzheimer's Disease | conds: Alzheimer Disease, Physical Exercise, Bone Density, Fall | intr: Multicomponent physical exercise program associated with a Mediterranean diet, Usual care | pubs: ['32957420:DERIVED (new)']
+- NCT03774095 | UNKNOWN | results=False | NA | Effect of Dietary Oils as G-protein-coupled Receptor Agonists on Glucose Tolerance | conds: Type 2 Diabetes Mellitus, Obesity | intr: Hydrolyzed pine nut oil, Hydrolyzed pine nut oil and olive oil
+- NCT06210230 | COMPLETED | results=False | NA | Double-blind and Placebo-controlled Study on Intervention Effect of Medium and Long Chain Fatty Acid Triglyceride on Glycolipid Homeostasis  | conds: Metabolic Syndrome | intr: MLCT supplementation, Olive oil
+- NCT07761819 | NOT_YET_RECRUITING | results=False | NA | Effect of Extra Virgin Olive Oil Consumption on the Occurrence of Cardiovascular Events in Population Living With HIV | conds: HIV - Human Immunodeficiency Virus | intr: The patients must ingest 50 mL of extra virgin olive oil daily
+- NCT06043531 | COMPLETED | results=False | NA | Targeting Trimethylamine N-Oxide for Cardiovascular Health In Liver Transplant Recipients | conds: Liver Transplant | intr: Experimental: EVOO
+- NCT06933095 | RECRUITING | results=False | NA | Optimizing CNS DHA Delivery in Elderly Adults at Risk for Dementia | conds: Eldery People, Cognitive Decline, Memory Decline, DHA CNS Delivery | intr: LPC-EPA+DHA capsules containing omega-3 fatty acids EPA and DHA esterified to lysophosphatidylcholin
+- NCT02993380 | COMPLETED | results=False | NA | Effect of Olive Oil on Erythrocyte Membrane Fatty Acid Contents in Hemodialysis Patients | conds: Hemodialysis | intr: Stir-fried olive oil group, Natural olive oil group
+- NCT06682351 | NOT_YET_RECRUITING | results=False | PHASE4 | Heterogeneity of Diabetes: Integrated Muli-Omics to Identify Physiologic Subphenotypes and Evaluate Targeted Prevention | conds: Prediabetes / Type 2 Diabetes | intr: Metformin, GLP-1A, MED
+- NCT07356440 | ACTIVE_NOT_RECRUITING | results=False | NA | Effect of the Consumption of Cookies Enriched With Plant Proteins and of a Vitamin D Supplement on the Progression of Sarcopenia in the Elde | conds: Sarcopenia in Elderly, Sarcopenia, Nutritional Intervention, Microbiome Analysis | intr: Vitamin D3 supplement, Protein-enriched biscuits, Control biscuit, Placebo oil
+- NCT06961682 | NOT_YET_RECRUITING | results=False | NA | Effectiveness of MD on MetS Patients | conds: Obesity | intr: MD
+- NCT06798220 | COMPLETED | results=False | NA | Ultra-Processed Foods and Appetite Regulation: Acute Effects Across Body Mass Index Categories | conds: Healthy Adult Volunteers | intr: Traditional Breakfast, UPF Breakfast | pubs: ['41429977:DERIVED (new)']
+- NCT06691126 | COMPLETED | results=False | NA | Pharmacokinetic Study of Terpinolene in Healthy Subjects (PKT Study) | conds: Pharmacokinetics of Terpinolene | intr: Terpinolene in olive oil
+- NCT01376817 | UNKNOWN | results=False | PHASE4 | Comparative Study About the Impact of Two Oil Emulsions Administered Intravenously on Severe Acute Pancreatitis | conds: Severe Acute Pancreatitis | intr: Fat emulsion with MCT, LCT, olive oil and omega 3 fatty acids, Fat emulsion with MCT and LCT
+- NCT02092649 | COMPLETED | results=True | NA | Effects of 12 Weeks of Omega 3 Supplementation on Resting Metabolic Rate | conds: Whole Body Energy Metabolism | intr: Omega-3 Complete, Placebo Pill | pubs: ['28212390:DERIVED (new)']
+- NCT07876193 | COMPLETED | results=False | NA | Effects of Astaxanthin Supplementation on Metabolism, Cognition, and Physical Function in Older Adults | conds: Healthy Aging | intr: Astaxanthin Oral Capsule, Olive Oil Placebo
+- NCT06151548 | UNKNOWN | results=False | PHASE4 | Effect of Krill Oil Supplementation on Red Blood Cell Physiology Against Changes in Markers of Iron Metabolism. | conds: Red Blood Cell Disorder, Oxidative Stress, Iron Metabolism Disorders | intr: THYROX (Atlantic krill oil)., Placebo
+- NCT01813006 | COMPLETED | results=False | PHASE3 | Effect of Omega-3 Fatty Acid on Endothelial Function | conds: Familial Hypercholesterolemia | intr: Omega-3, placebo | pubs: ['36999528:DERIVED (new)']
+- NCT07644806 | RECRUITING | results=False | NA | Olive Oil Supplementation for Heart Failure With Reduced Ejection Fraction | conds: Heart Failure With Reduced Ejection Fraction (HFrEF) | intr: Extra-virgin olive oil
+
+### OpenAlex no-PMID trial-worded - 5195 hits, 33 without PMID, 33 new
+- new | 2026 | 10.3390/pr14203260 | article | Effects of Olea europaea Callus Culture Lysate with or Without a Polyphenolic Complex on Skin Elasticity and Fine Lines: A Randomized Double-Blind Placebo-Controlled Study | Processes
+- new | 2026 | 10.1111/jocd.71327 | article | Efficacy and Short‐Term Tolerability of an Ozonated Oil–Biotin Emulsion for Excessive Scalp Sebum in Adult Women: A Randomized, Double‐Blind, Placebo‐Controlled Trial | Journal of Cosmetic Dermatology
+- new | 2026 | 10.31989/ffs.v6i1.1882 | article | Methodology for testing the efficacy of functional botanical ingredients for support of stem cell surveillance and mitochondrial resilience. A preliminary randomized, double-blind, | Functional Food Science
+- new | 2026 | https://openalex.org/W7168073957 | dissertation | Detektion von immergrünen Laubbaumarten in Trentino-Südtirol: Vergleich direkter und hierarchischer Random Forest-Klassifikationsansätze mit Sentinel-2 und AlphaEarth Foundations-E | Digital Library of the University of Inn
+- new | 2026 | 10.1007/s00344-026-12155-6 | article | Somatic Embryogenesis from Radicles of Mature Zygotic Embryos in Olive (Olea europaea L.) cv. ‘Picual’: Effects of Culture Media, Temperature, and Polyamines Revealed by Random For | Journal of Plant Growth Regulation
+- new | 2025 | 10.3390/app15147857 | article | Acute Effects of Olive Leaf Tea and Olive Leaf Powder Biscuits on Postprandial Glycemia, Lipid Profile and Inflammatory Markers: A Randomized Controlled Crossover Trial in Healthy  | Applied Sciences
+- new | 2024 | 10.53346/wjapmr.2024.7.1.0040 | article | Antioxidant activities of an iridoid-rich beverage containing noni juice, cornelian cherries, and olive extract in vitro and in human volunteers | World Journal of Advanced Pharmaceutical
+- new | 2022 | 10.1007/978-3-031-07753-1_30 | book-chapter | Olea europaea L. | Springer eBooks
+- new | 2021 | 10.1182/blood-2021-149587 | conference-abstract | Effects of Oral Intake of Olive Leaf Extract on Hematological Parameters: A Double-Blinded, Randomized, Placebo-Controlled Trial in Progress | Blood
+- new | 2020 | 10.32859/era.19.12.1-28 | article | Ethnobotanical survey about the management of diabetes with medicinal plants used by diabetic patients in Region of Fez-Meknes, Morocco | Ethnobotany Research and Applications
+- new | 2019 | 10.9734/ejmp/2019/v28i130127 | article | A Randomized, Double-Blind, Placebo-Controlled Study of a Blend of Herbal Extracts Taken Once Per Day for Weight Loss in Healthy Volunteers | European Journal of Medicinal Plants
+- new | 2019 | 10.32598/jqums.23.5.372 | article | Determining Cardiometabolic and Antioxidant Effects of Olive Leaf Extract in Patients with Essential Hypertension | The Journal of Qazvin University of Medi
+- new | 2017 | 10.1200/jco.2017.35.15_suppl.10103 | conference-abstract | A double blind, randomised placebo controlled trial evaluating the effect of a pholyphenolic rich plant based nail bed balm on the severity of chemotherapy-induced onycholysis. | Journal of Clinical Oncology
+- new | 2015 | https://openalex.org/W7217527610 | article | Photoprotective and antioxidant effects of a standardised olive (Olea europaea) extract in healthy volunteers | Archivio Istituzionale della Ricerca - U
+- new | 2015 | 10.3390/rs70404213 | article | High-Resolution Airborne UAV Imagery to Assess Olive Tree Crown Parameters Using 3D Photo Reconstruction: Application in Breeding Trials | Remote Sensing
+- new | 2015 | 10.1016/j.scienta.2015.11.034 | article | Reviewing current knowledge on olive (Olea europaea L.) adventitious root formation | Scientia Horticulturae
+- new | 2014 | 10.22092/ijfpr.2014.5150 | article | APPLIED RESEARCH ON FOREST PLANTATION TRIAL OF OLEA EUROPAEA IN BUSHEHR PROVINCE | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2014 | https://openalex.org/W2189396856 | article | Random Amplified Polymorphic DNA (RAPD) Analysis of Olive (Olea europaea L.) cultivars grown in North west coast region of Egypt. | 
+- new | 2012 | 10.1016/j.agee.2012.10.006 | article | Effect of solid olive-mill waste amendment on soil fertility and olive (Olea europaea L.) tree activity | Agriculture Ecosystems & Environment
+- new | 2009 | 10.1016/j.scienta.2009.08.001 | article | Assessment of clonal genetic variability in Olea europaea L. ‘Cobrançosa’ by molecular markers | Scientia Horticulturae
+- new | 2007 | 10.1016/j.scienta.2007.01.011 | article | Coconut water and BAP successfully replaced zeatin in olive (Olea europaea L.) micropropagation | Scientia Horticulturae
+- new | 2006 | 10.1007/s10722-005-2640-7 | article | RAPD and ISSR molecular markers in Olea europaea L.: Genetic variability and molecular cultivar identification | Genetic Resources and Crop Evolution
+- new | 2004 | https://openalex.org/W2769609581 | article | Genetic analysis of olive genotypes (Olea europaea L.) using random amplified polymorphic DNA (RAPD) [Jordan] | Journal of genetics & breeding
+- new | 2004 | 10.1017/s0014479704002133 | supplementary-materials | SUPPLEMENTAL POLLINATION – INCREASING OLIVE (OLEA EUROPAEA) YIELDS IN HOT, ARID ENVIRONMENTS | Experimental Agriculture
+- new | 2003 | https://openalex.org/W47359817 | article | Varietal trial and comparison of introduced olive (Olea europaea L.). | 
+- new | 2001 | 10.21273/jashs.126.1.64 | article | Polymorphism and Discrimination Capacity of Randomly Amplified Polymorphic Markers in an Olive Germplasm Bank | Journal of the American Society for Hort
+- new | 2000 | https://openalex.org/W2779863285 | article | [Control trials against Palpita unionalis Hubner with biologic products [Olea europaea L. - Apulia]] | 
+- new | 1999 | 10.17660/actahortic.1999.474.15 | conference-paper | TRIALS TO INCREASE IN VITRO ROOTING OF OLEA EUROPAEA L. CUTTINGS | Acta Horticulturae
+- new | 1996 | 10.1080/01140671.1996.9513950 | article | Effect of irrigation on fruit quality of table olives (Olea europaea), cultivar ‘Ascolana tenera’ | New Zealand Journal of Crop and Horticul
+- new | 1995 | 10.21273/jashs.120.3.538 | article | Random Amplified Polymorphic DNA Analysis of Olive (Olea europaea L.) Cultivars | Journal of the American Society for Hort
+- new | 1994 | 10.17660/actahortic.1994.356.21 | conference-paper | IDENTIFICATION OF OLIVE TREE CULTIVARS BY USING RANDOM AMPLIFIED POLYMORPHIC DNA | Acta Horticulturae
+- new | 1993 | https://openalex.org/W3015400579 | article | Identification of olive tree cultivars by using random amplified polymorphic DNA. | Florence Research (University of Florenc
+- new | 1950 | https://openalex.org/W2550486128 | article | Olive propagation trials. | 

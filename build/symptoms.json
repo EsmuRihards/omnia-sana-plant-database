@@ -2569,6 +2569,17 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-5522",
+      "REF-5523"
+     ]
+    },
+    {
      "condition": "blood-sugar",
      "label": "Blood sugar / diabetes support",
      "evidence": 8,
@@ -2664,6 +2675,87 @@
      ]
     },
     {
+     "condition": "insomnia",
+     "label": "Insomnia / sleeplessness",
+     "evidence": 6,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5528",
+      "REF-5529"
+     ]
+    },
+    {
+     "condition": "acne",
+     "label": "Acne",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5525"
+     ]
+    },
+    {
+     "condition": "kidney-support",
+     "label": "Kidney support",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5527"
+     ]
+    },
+    {
+     "condition": "pain",
+     "label": "Pain (general)",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-5543"
+     ]
+    },
+    {
+     "condition": "pms",
+     "label": "PMS / premenstrual syndrome",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5542"
+     ]
+    },
+    {
+     "condition": "sinusitis",
+     "label": "Sinusitis",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5526"
+     ]
+    },
+    {
+     "condition": "stress",
+     "label": "Stress",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5529"
+     ]
+    },
+    {
+     "condition": "wounds",
+     "label": "Wounds",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-5543"
+     ]
+    },
+    {
      "condition": "cancer",
      "label": "Cancer (anticancer research)",
      "evidence": 2,
@@ -2672,14 +2764,6 @@
      "references": [
       "REF-2071"
      ]
-    },
-    {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
     },
     {
      "condition": "back-pain",
@@ -2722,24 +2806,8 @@
      "references": []
     },
     {
-     "condition": "pain",
-     "label": "Pain (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
      "condition": "skin-irritation",
      "label": "Skin irritation",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
-     "condition": "wounds",
-     "label": "Wounds",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -6928,6 +6996,16 @@
      ]
     },
     {
+     "condition": "fatigue",
+     "label": "Fatigue / low energy",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5536"
+     ]
+    },
+    {
      "condition": "pms",
      "label": "PMS / premenstrual syndrome",
      "evidence": 5,
@@ -9503,6 +9581,17 @@
      "inferred": false,
      "references": [
       "REF-0466"
+     ]
+    },
+    {
+     "condition": "oral-health",
+     "label": "Oral & throat health",
+     "evidence": 6,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5534",
+      "REF-5535"
      ]
     },
     {
@@ -12145,6 +12234,17 @@
       "REF-0301",
       "REF-3695",
       "REF-3688"
+     ]
+    },
+    {
+     "condition": "high-blood-pressure",
+     "label": "High blood pressure",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5539",
+      "REF-2537"
      ]
     },
     {

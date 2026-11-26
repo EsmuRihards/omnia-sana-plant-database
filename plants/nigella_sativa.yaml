@@ -171,11 +171,18 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids: []
+  note: Oral black seed oil reduced knee osteoarthritis pain, WOMAC scores and paracetamol use compared
+    with placebo (randomized double-blind trial); in a 2024 systematic review, topical oil beat placebo
+    for pain in three of four trials but oral forms were inconsistent, and a processed black seed formula
+    did not differ from placebo (randomized trial)
+  reference_ids:
+  - REF-5522
+  - REF-5523
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2072
+  null_result_ids:
+  - REF-5524
 - condition: back-pain
   note: inferred from analgesic action
   reference_ids: []
@@ -220,9 +227,11 @@ indications:
   - REF-3704
   status: needs-review
 - condition: pain
-  reference_ids: []
+  reference_ids:
+  - REF-5543
   status: needs-review
-  note: Pain-relieving effects reported in animal studies (review)
+  note: A black seed emulgel applied to episiotomy wounds lowered pain compared with placebo at 10 days
+    after birth (randomized triple-blind trial); pain-relieving effects reported in animal studies (review)
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
@@ -230,8 +239,10 @@ indications:
   mechanistic_exclude_ids:
   - REF-2072
 - condition: wounds
-  note: inferred from antimicrobial action
-  reference_ids: []
+  note: A black seed emulgel applied to episiotomy wounds improved healing (less redness, swelling and
+    bruising) compared with placebo at 10 days after birth (randomized triple-blind trial)
+  reference_ids:
+  - REF-5543
   status: needs-review
   mechanistic_exclude_ids:
   - REF-2075
@@ -272,6 +283,44 @@ indications:
   reference_ids:
   - REF-3702
   status: verified
+- condition: acne
+  note: A black seed hydrogel applied twice a day for 2 months reduced acne severity, comedones, papules
+    and pustules compared with a placebo gel (randomized double-blind trial)
+  reference_ids:
+  - REF-5525
+  status: verified
+- condition: sinusitis
+  note: Black seed extract nasal drops improved chronic rhinosinusitis symptoms (SNOT-22) more than sesame
+    oil placebo after 4 weeks (randomized double-blind trial)
+  reference_ids:
+  - REF-5526
+  status: verified
+- condition: kidney-support
+  note: Black seed capsules (500 mg twice a day for 10 weeks) led to more kidney stones being passed or
+    shrinking than placebo (randomized triple-blind trial)
+  reference_ids:
+  - REF-5527
+  status: verified
+- condition: insomnia
+  note: A proprietary black seed oil extract (BlaQmax) improved sleep efficiency, total sleep time and
+    time to fall asleep compared with placebo in people with unrefreshing sleep, and improved sleep scores
+    over 90 days (randomized double-blind trials of the same product)
+  reference_ids:
+  - REF-5528
+  - REF-5529
+  status: verified
+- condition: stress
+  note: A proprietary black seed oil extract (BlaQmax) lowered perceived stress scores compared with placebo
+    over 90 days (randomized double-blind trial)
+  reference_ids:
+  - REF-5529
+  status: verified
+- condition: pms
+  note: Black seed supplements for 2 months reduced overall premenstrual syndrome scores compared with
+    placebo (randomized double-blind trial)
+  reference_ids:
+  - REF-5542
+  status: verified
 contraindications:
 - note: Generally well-tolerated in clinical trials at doses up to 200 mg/day of oil for 90 days. Potential
     side effects may include mild gastrointestinal discomfort. Contraindicated during pregnancy due to
@@ -291,6 +340,34 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0063
+  status: verified
+- note: 'Skin: black seed oil applied to the skin has caused severe allergic contact dermatitis; three
+    women needed hospital care for blistering, target-like lesions spreading beyond where the oil was
+    applied, resembling Stevens-Johnson syndrome, with fever and over 15% of the skin detaching (case
+    series). Thymoquinone may be the main culprit.'
+  severity: warning
+  reference_ids:
+  - REF-5530
+  status: verified
+- note: 'Muscles, kidneys and liver: muscle breakdown (rhabdomyolysis), acute kidney injury and liver
+    injury followed drinking black seed oil (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5531
+  status: verified
+- note: 'Liver and kidney tests: in a meta-analysis of 19 randomized trials (1,295 people), black seed
+    lowered the liver enzyme ALP and blood urea; creatinine rose slightly in three adjusted trials, and
+    doses above 2,000 mg a day were reported to raise blood urea.'
+  severity: info
+  reference_ids:
+  - REF-5532
+  status: verified
+- note: 'Blood count: a woman who had taken black seed oil and evening primrose oil daily for about a
+    month developed a severe drop in platelets with blood clots after surgery; the authors thought the
+    supplements made it worse, but the cause is uncertain (case report).'
+  severity: info
+  reference_ids:
+  - REF-5533
   status: verified
 references:
 - REF-2065
@@ -354,4 +431,24 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   high-blood-pressure, high-cholesterol, cardiovascular-support (MA REF-3703), asthma (MA
   REF-3700), allergy (rhinitis MA REF-3701), liver-support (NAFLD MA REF-3702; no liver warning in
   the record). Not used: RA SR 32274788 (no change in inflammatory biomarkers); herbal mastalgia
-  MA 36446563 (not species-specific).'
+  MA 36446563 (not species-specific).
+  | 2026-11-26: symptom-source audit research-deepening batch 22 - Searched PubMed (Nigella sativa
+  / black seed / black cumin / kalonji tiab, thymoquinone ti: 344 HT, 118 SR, 895 SAFE hits),
+  Europe PMC, ClinicalTrials.gov (73) and OpenAlex. Huge plant: screened SRs, conditions without a
+  pair and safety; blood sugar, blood pressure, cholesterol, metabolic and cardiovascular pairs
+  (8) were not padded. INTEGRITY HOLD checked: no new reference is from the flagged group. Added:
+  2022 double-blind knee OA RCT + 2024 OA SR to arthritis (replacing the inferred note), 2017
+  processed-seed OA RCT as no effect; NEW acne (2020 hydrogel RCT), sinusitis (2021 nasal-drop
+  RCT), kidney-support (2019 triple-blind kidney-stone RCT), insomnia and stress (2023 BlaQmax
+  RCTs, same proprietary product) pairs; via Europe PMC: NEW pms pair (2025 double-blind placebo
+  RCT) and a 2025 triple-blind episiotomy emulgel RCT to wounds and pain (replacing the inferred
+  notes); severe topical-oil dermatitis WARNING (2018 JAMA Dermatology series), rhabdomyolysis/AKI
+  caution (2024 case), liver/kidney-marker MA and a thrombocytopenia case (with evening primrose
+  oil) as info notes. Not added: 2023 H. pylori RCT (appetite outcome only), 2015 honey-based
+  dyspepsia formula (combination), 2023 navel-oil urinary incontinence RCT (topical abdominal
+  route; stress incontinence unchanged), 2022 depression adjunct trial (randomisation not stated),
+  2019 mucositis rinse and 2026 gingivitis mouthwash (active comparators), thymoquinone gel
+  (compound), male infertility (multi-herb SR only; the RCT was not retrieved), olive + black seed
+  oil episiotomy trial (combination), rheumatoid arthritis biomarker trials (no clinical outcome),
+  contact-dermatitis letters with no abstract, thymoquinone CYP and cyclosporine studies (lab and
+  rodent).'

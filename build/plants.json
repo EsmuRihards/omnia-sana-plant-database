@@ -40541,6 +40541,14 @@
       "REF-0063"
      ],
      "status": "verified"
+    },
+    {
+     "note": "Children: a toddler who ate a large amount of catnip became drowsy and poorly responsive (central nervous system depression) with no other cause found (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5521"
+     ],
+     "status": "verified"
     }
    ],
    "references": [
@@ -40798,13 +40806,19 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
+     "note": "Oral black seed oil reduced knee osteoarthritis pain, WOMAC scores and paracetamol use compared with placebo (randomized double-blind trial); in a 2024 systematic review, topical oil beat placebo for pain in three of four trials but oral forms were inconsistent, and a processed black seed formula did not differ from placebo (randomized trial)",
+     "reference_ids": [
+      "REF-5522",
+      "REF-5523"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-2072"
      ],
-     "evidence": 1,
+     "null_result_ids": [
+      "REF-5524"
+     ],
+     "evidence": 8,
      "label": "Arthritis / joint pain"
     },
     {
@@ -40891,10 +40905,12 @@
     },
     {
      "condition": "pain",
-     "reference_ids": [],
+     "reference_ids": [
+      "REF-5543"
+     ],
      "status": "needs-review",
-     "note": "Pain-relieving effects reported in animal studies (review)",
-     "evidence": 1,
+     "note": "A black seed emulgel applied to episiotomy wounds lowered pain compared with placebo at 10 days after birth (randomized triple-blind trial); pain-relieving effects reported in animal studies (review)",
+     "evidence": 5,
      "label": "Pain (general)"
     },
     {
@@ -40910,13 +40926,15 @@
     },
     {
      "condition": "wounds",
-     "note": "inferred from antimicrobial action",
-     "reference_ids": [],
+     "note": "A black seed emulgel applied to episiotomy wounds improved healing (less redness, swelling and bruising) compared with placebo at 10 days after birth (randomized triple-blind trial)",
+     "reference_ids": [
+      "REF-5543"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-2075"
      ],
-     "evidence": 1,
+     "evidence": 5,
      "label": "Wounds"
     },
     {
@@ -40981,6 +40999,67 @@
      "status": "verified",
      "evidence": 7,
      "label": "Liver support"
+    },
+    {
+     "condition": "acne",
+     "note": "A black seed hydrogel applied twice a day for 2 months reduced acne severity, comedones, papules and pustules compared with a placebo gel (randomized double-blind trial)",
+     "reference_ids": [
+      "REF-5525"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Acne"
+    },
+    {
+     "condition": "sinusitis",
+     "note": "Black seed extract nasal drops improved chronic rhinosinusitis symptoms (SNOT-22) more than sesame oil placebo after 4 weeks (randomized double-blind trial)",
+     "reference_ids": [
+      "REF-5526"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Sinusitis"
+    },
+    {
+     "condition": "kidney-support",
+     "note": "Black seed capsules (500 mg twice a day for 10 weeks) led to more kidney stones being passed or shrinking than placebo (randomized triple-blind trial)",
+     "reference_ids": [
+      "REF-5527"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Kidney support"
+    },
+    {
+     "condition": "insomnia",
+     "note": "A proprietary black seed oil extract (BlaQmax) improved sleep efficiency, total sleep time and time to fall asleep compared with placebo in people with unrefreshing sleep, and improved sleep scores over 90 days (randomized double-blind trials of the same product)",
+     "reference_ids": [
+      "REF-5528",
+      "REF-5529"
+     ],
+     "status": "verified",
+     "evidence": 6,
+     "label": "Insomnia / sleeplessness"
+    },
+    {
+     "condition": "stress",
+     "note": "A proprietary black seed oil extract (BlaQmax) lowered perceived stress scores compared with placebo over 90 days (randomized double-blind trial)",
+     "reference_ids": [
+      "REF-5529"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Stress"
+    },
+    {
+     "condition": "pms",
+     "note": "Black seed supplements for 2 months reduced overall premenstrual syndrome scores compared with placebo (randomized double-blind trial)",
+     "reference_ids": [
+      "REF-5542"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "PMS / premenstrual syndrome"
     }
    ],
    "contraindications": [
@@ -40995,6 +41074,38 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Skin: black seed oil applied to the skin has caused severe allergic contact dermatitis; three women needed hospital care for blistering, target-like lesions spreading beyond where the oil was applied, resembling Stevens-Johnson syndrome, with fever and over 15% of the skin detaching (case series). Thymoquinone may be the main culprit.",
+     "severity": "warning",
+     "reference_ids": [
+      "REF-5530"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Muscles, kidneys and liver: muscle breakdown (rhabdomyolysis), acute kidney injury and liver injury followed drinking black seed oil (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5531"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Liver and kidney tests: in a meta-analysis of 19 randomized trials (1,295 people), black seed lowered the liver enzyme ALP and blood urea; creatinine rose slightly in three adjusted trials, and doses above 2,000 mg a day were reported to raise blood urea.",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5532"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Blood count: a woman who had taken black seed oil and evening primrose oil daily for about a month developed a severe drop in platelets with blood clots after surgery; the authors thought the supplements made it worse, but the cause is uncertain (case report).",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5533"
      ],
      "status": "verified"
     }
@@ -41063,6 +41174,9 @@
     "wikidata": "Q960124"
    },
    "wp_post_id": 154,
+   "synonyms": [
+    "Ocimum sanctum L."
+   ],
    "parts_used": [
     "Leaf"
    ],
@@ -41367,6 +41481,17 @@
      "status": "verified",
      "evidence": 8,
      "label": "Stress"
+    },
+    {
+     "condition": "oral-health",
+     "note": "A 4% tulsi toothpaste reduced gingivitis and plaque more than a placebo toothpaste in teenagers over 3 weeks (randomized triple-blind trial), and a tulsi mouthwash reduced gum bleeding and plaque compared with saline, about as well as chlorhexidine (randomized triple-blind trial)",
+     "reference_ids": [
+      "REF-5534",
+      "REF-5535"
+     ],
+     "status": "verified",
+     "evidence": 6,
+     "label": "Oral & throat health"
     }
    ],
    "contraindications": [
@@ -41644,6 +41769,16 @@
      "status": "verified",
      "evidence": 7,
      "label": "High cholesterol"
+    },
+    {
+     "condition": "fatigue",
+     "note": "Evening primrose oil reduced fatigue and pain and improved vitality and quality of life compared with placebo in people with multiple sclerosis over 3 months (randomized double-blind trial)",
+     "reference_ids": [
+      "REF-5536"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Fatigue / low energy"
     }
    ],
    "contraindications": [
@@ -41661,6 +41796,30 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0447"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Epilepsy: the old warning that evening primrose oil can trigger seizures traces back to two reports from the early 1980s; a 2007 review re-examined them, judged the link spurious, and recommended removing epilepsy as a contraindication (review).",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5537"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Lungs: a woman with acid reflux who had used evening primrose oil for a long time was diagnosed with lipoid pneumonia (oil droplets inhaled into the lungs); she improved after stopping it (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5538"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Blood count: a woman who had taken black seed oil and evening primrose oil daily for about a month developed a severe drop in platelets with blood clots after surgery; the authors thought the supplements made it worse, but the cause is uncertain (case report).",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5533"
      ],
      "status": "verified"
     }
@@ -41944,7 +42103,7 @@
     },
     {
      "condition": "blood-sugar",
-     "note": "Olive leaf extract lowered HbA1c in one randomized trial and improved insulin sensitivity in another; meta-analyses of olive leaf extract and of extra virgin olive oil found no significant effect on blood sugar",
+     "note": "Olive leaf extract lowered HbA1c in one randomized trial and improved insulin sensitivity in another; meta-analyses of olive leaf extract and of extra virgin olive oil found no significant effect on blood sugar, and a 2025 pilot randomized trial in type 2 diabetes found no HbA1c difference vs placebo",
      "reference_ids": [
       "REF-0299",
       "REF-1443"
@@ -41956,7 +42115,8 @@
      "null_result_ids": [
       "REF-3690",
       "REF-3689",
-      "REF-3687"
+      "REF-3687",
+      "REF-5540"
      ],
      "evidence": 6,
      "label": "Blood sugar / diabetes support"
@@ -42096,6 +42256,20 @@
      "status": "verified",
      "evidence": 7,
      "label": "Cognitive function"
+    },
+    {
+     "condition": "high-blood-pressure",
+     "note": "Olive leaf extract lowered systolic blood pressure compared with control in a 2022 meta-analysis of 12 randomized trials (by about 5 mmHg systolic and 2.5 mmHg diastolic in people with hypertension), and 500 mg a day lowered systolic pressure vs placebo or no treatment in a 2021 meta-analysis; in a 2026 double-blind randomized trial a standardised olive extract lowered systolic pressure by about 8 mmHg, but not significantly more than placebo",
+     "reference_ids": [
+      "REF-5539",
+      "REF-2537"
+     ],
+     "status": "verified",
+     "null_result_ids": [
+      "REF-5544"
+     ],
+     "evidence": 8,
+     "label": "High blood pressure"
     }
    ],
    "contraindications": [
@@ -42117,6 +42291,14 @@
       "REF-0299",
       "REF-0301",
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Skin: in patch tests in 100 people with eczema, olive oil was a weak skin irritant, more so under covering dressings, and only one reaction looked allergic; the authors judged it less suitable for eczema of the lower legs linked to poor circulation.",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5541"
      ],
      "status": "verified"
     }

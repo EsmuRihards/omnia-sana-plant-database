@@ -9,6 +9,8 @@ external_ids:
   gbif: 2927100
   wikidata: Q960124
 wp_post_id: 154
+synonyms:
+- Ocimum sanctum L.
 parts_used:
 - Leaf
 constituents:
@@ -237,6 +239,14 @@ indications:
   - REF-0466
   - REF-1427
   status: verified
+- condition: oral-health
+  note: A 4% tulsi toothpaste reduced gingivitis and plaque more than a placebo toothpaste in teenagers
+    over 3 weeks (randomized triple-blind trial), and a tulsi mouthwash reduced gum bleeding and plaque
+    compared with saline, about as well as chlorhexidine (randomized triple-blind trial)
+  reference_ids:
+  - REF-5534
+  - REF-5535
+  status: verified
 contraindications:
 - note: Generally well tolerated; mild nausea has been reported. Its blood-sugar-lowering effect means
     caution alongside antidiabetic medicines.
@@ -329,4 +339,13 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Evidence-Based 
   VERIFIED from the monograph text itself (archived PDF of WHO monographs Vol 2, web.archive.org snapshot
   2022-03-25 of iris 10665/42052, ''Folium Ocimi Sancti'', Posology: ''Daily dosage: 6-12 g crude drug as
   a decoction''), so the Infusion (tea) dosage entry no longer rests on a stored summary.
-  | 2026-11-19 (monograph-source audit): habitat cited only REF-0466 (clinical systematic review, which says only indigenous to the Indian continent); preparations[2] and dosage[0] cited REF-1427 + REF-0466 for claims they do not make (capsules, the form used in most trials, follow the manufacturer). habitat RE-SOURCED to WHO Folium Ocimi Sancti REF-3096 + PFAF REF-3300; prep/dosage rewritten to what the sources state (Holixer 125 mg twice daily for 8 weeks; the SR says dose and dose form are unclear). Dropped as unsupported: naturalised throughout the tropics worldwide, temple courtyards, capsules.'
+  | 2026-11-19 (monograph-source audit): habitat cited only REF-0466 (clinical systematic review, which says only indigenous to the Indian continent); preparations[2] and dosage[0] cited REF-1427 + REF-0466 for claims they do not make (capsules, the form used in most trials, follow the manufacturer). habitat RE-SOURCED to WHO Folium Ocimi Sancti REF-3096 + PFAF REF-3300; prep/dosage rewritten to what the sources state (Holixer 125 mg twice daily for 8 weeks; the SR says dose and dose form are unclear). Dropped as unsupported: naturalised throughout the tropics worldwide, temple courtyards, capsules.
+  | 2026-11-26: symptom-source audit research-deepening batch 22 - Searched PubMed (Ocimum
+  tenuiflorum / Ocimum sanctum / holy basil / tulsi tiab: 61 HT, 13 SR, 173 SAFE hits), Europe
+  PMC, ClinicalTrials.gov (18) and OpenAlex. Stress (8) and blood sugar (8) were not padded (2012
+  OciBest stress RCT not added). Added: NEW oral-health pair (2020 placebo-dentifrice and 2014
+  saline-controlled mouthwash triple-blind RCTs). Not added: 2017 overweight open-label trial
+  (within-group changes; only HDL differed), halitosis and other mouthwash trials vs chlorhexidine
+  only (active comparators), turmeric/aloe/calendula combinations, Ayurvedic multi-herb COVID
+  regimens, genotoxicity and toxicology studies of Holixer and OciBest (lab and animal; no concern
+  found), antiepileptic interaction studies (rodents).'

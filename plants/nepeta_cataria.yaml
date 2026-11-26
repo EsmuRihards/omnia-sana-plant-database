@@ -216,6 +216,12 @@ contraindications:
   - REF-0232
   - REF-0063
   status: verified
+- note: 'Children: a toddler who ate a large amount of catnip became drowsy and poorly responsive (central
+    nervous system depression) with no other cause found (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5521
+  status: verified
 references:
 - REF-0930
 - REF-0931
@@ -278,4 +284,11 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   removed from indigestion.
   | 2026-11-13: symptom-source audit deep re-sweep batch 11 - Deep re-sweep. REF-0095
   (spasmolytic/bronchodilator oil study) removed from anti-inflammatory, antimicrobial and
-  sedative actions (kept for digestive). Notes rewritten. No trials on PubMed.'
+  sedative actions (kept for digestive). Notes rewritten. No trials on PubMed.
+  | 2026-11-26: symptom-source audit research-deepening batch 22 - Searched PubMed (Nepeta cataria
+  / catnip / catmint tiab: 3 HT, 3 SR, 22 SAFE hits; mostly insect-repellent and cat studies),
+  Europe PMC, ClinicalTrials.gov (2: a multi-herb PCOS formula and Nepeta menthoides, another
+  species) and OpenAlex. No human trial of catnip. Added: 1997 toddler CNS-depression case as a
+  caution. Not added: 2023 essential-oil inhalation study in hypertensive women (24 oils,
+  randomisation not stated), mosquito-repellent reviews (no vocab condition), Nepeta menthoides /
+  meyeri / racemosa studies (other species). Settled.'

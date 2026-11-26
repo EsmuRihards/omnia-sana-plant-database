@@ -1,0 +1,30 @@
+plant	condition	ref	op
+nigella_sativa	arthritis	REF-5522	add
+nigella_sativa	arthritis	REF-5523	add
+nigella_sativa	arthritis	REF-5524	nulladd
+nigella_sativa	arthritis	-	note
+nigella_sativa	acne	REF-5525	newpair
+nigella_sativa	sinusitis	REF-5526	newpair
+nigella_sativa	kidney-support	REF-5527	newpair
+nigella_sativa	insomnia	REF-5528,REF-5529	newpair
+nigella_sativa	stress	REF-5529	newpair
+nigella_sativa	pms	REF-5542	newpair
+nigella_sativa	wounds	REF-5543	add
+nigella_sativa	wounds	-	note
+nigella_sativa	pain	REF-5543	add
+nigella_sativa	pain	-	note
+ocimum_tenuiflorum	oral-health	REF-5534,REF-5535	newpair
+oenothera_biennis	fatigue	REF-5536	newpair
+olea_europaea	high-blood-pressure	REF-5539,REF-2537	newpair
+olea_europaea	high-blood-pressure	REF-5544	nulladd
+olea_europaea	blood-sugar	REF-5540	nulladd
+olea_europaea	blood-sugar	-	note
+nepeta_cataria	cinew	Children: a toddler who ate a large amou	REF-5521
+nigella_sativa	cinew	Skin: black seed oil applied to the skin	REF-5530
+nigella_sativa	cinew	Muscles, kidneys and liver: muscle break	REF-5531
+nigella_sativa	cinew	Liver and kidney tests: in a meta-analys	REF-5532
+nigella_sativa	cinew	Blood count: a woman who had taken black	REF-5533
+oenothera_biennis	cinew	Epilepsy: the old warning that evening p	REF-5537
+oenothera_biennis	cinew	Lungs: a woman with acid reflux who had 	REF-5538
+oenothera_biennis	cinew	Blood count: a woman who had taken black	REF-5533
+olea_europaea	cinew	Skin: in patch tests in 100 people with 	REF-5541

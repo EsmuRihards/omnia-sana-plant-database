@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 4295,
+ "count": 4319,
  "citations": [
   {
    "ref_id": "REF-5100",
@@ -1554,6 +1554,36 @@
    "conditions": [
     "Cold & flu"
    ]
+  },
+  {
+   "ref_id": "REF-5544",
+   "key": "lauwers2026oliveextractbloodpressure",
+   "type": "article",
+   "title": "Evaluation of the effect of olive extracts on blood pressure and cardiovascular health markers in adults: Findings from a double-blind, placebo-controlled, randomised trial",
+   "authors": "Lauwers, S., Breynaert, A., Verlaet, A., Fransen, E., Bringmans, T., Roth, L., Tuenter, E., Bosmans, J. and Hermans, N.",
+   "journal": "PloS One",
+   "year": "2026",
+   "doi": "10.1371/journal.pone.0344278",
+   "url": "",
+   "link": "https://doi.org/10.1371/journal.pone.0344278",
+   "link_type": "doi",
+   "citation": "Lauwers, S., Breynaert, A., Verlaet, A., Fransen, E., Bringmans, T., Roth, L., Tuenter, E., Bosmans, J. and Hermans, N (2026) 'Evaluation of the effect of olive extracts on blood pressure and cardiovascular health markers in adults: Findings from a double-blind, placebo-controlled, randomised trial', PloS One, 21(3), pp. e0344278. doi:10.1371/journal.pone.0344278",
+   "abstract": "Despite advances in reducing cardiovascular disease (CVD) incidence, CVD mortality has increased, emphasising the need for new preventive strategies. Polyphenol-rich olive extracts have been proposed to lower blood pressure by reducing oxidative stress and enhancing nitric oxide production. This double-blind, placebo-controlled, randomised study aims to examine whether a standardised olive extract can lead to a reduction in blood pressure, lipid levels, and biological markers of oxidative stress after supplementation in the context of primary CVD prevention. In this trial, 56 participants with a systolic blood pressure ≥ 130 mmHg received capsules containing 440 mg olive dry extract (123.5 ± 9.4 mg oleuropein, 25.0 ± 3.8 mg hydroxytyrosol) or placebo on a daily basis over eight weeks. Both groups showed significant reductions in systolic blood pressure with a larger decrease in the intervention group as compared to the control group (intervention: -8.3 ± 2.2 mmHg, control: -7.3 ± 2.2 mmHg). However, this decrease was not found significantly different between the two groups. Moreover, total cholesterol, LDL, and apo B levels decreased in both groups, but with no significant difference between them. These results indicate that the olive extract was well-tolerated, although no significant hypotensive benefit was observed, with effects paralleling typical placebo responses in hypertension trials. Literature reports conflicting results on the hypotensive effect of olive polyphenols, indicating the need for further research with well-designed clinical trials. This trial was registered on Clinicaltrials.gov in April 2021, ID NCT04874961.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Evaluation of the effect of olive extracts on blood pressure and cardiovascular health markers in adults: Findings from a double-blind, placebo-controlled, randomised trial",
+   "plants": [
+    "European olive",
+    "Olive",
+    "common olive"
+   ],
+   "scientific": [
+    "Olea europaea"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-3675",
@@ -5465,6 +5495,36 @@
    ]
   },
   {
+   "ref_id": "REF-5540",
+   "key": "leach2025oliveleafdiabetespilot",
+   "type": "article",
+   "title": "Efficacy and safety of olive leaf extract (Olea europaea L.) for glycaemic control in adults with type 2 diabetes mellitus (ESOLED): A pilot randomised controlled trial",
+   "authors": "Leach, M.J. and Breakspear, I.",
+   "journal": "Complementary Therapies in Clinical Practice",
+   "year": "2025",
+   "doi": "10.1016/j.ctcp.2025.101949",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ctcp.2025.101949",
+   "link_type": "doi",
+   "citation": "Leach, M.J. and Breakspear, I (2025) 'Efficacy and safety of olive leaf extract (Olea europaea L.) for glycaemic control in adults with type 2 diabetes mellitus (ESOLED): A pilot randomised controlled trial', Complementary Therapies in Clinical Practice, 59, pp. 101949. doi:10.1016/j.ctcp.2025.101949",
+   "abstract": "BACKGROUND: Maintaining optimum glycaemic control is essential to reducing comorbidity and mortality in diabetes. However, research indicates that <50 % of patients achieve their target HbA1c ranges. Laboratory studies suggest that olive leaf extract (OLE) may improve glycaemic control, however clinical studies in persons with diabetes are lacking. METHODS: ESOLED is a pilot, randomised, placebo-controlled trial. Adults with a diagnosis of type 2 diabetes of ≥12 months duration, and not receiving insulin therapy, were eligible to participate. Participants were randomised to receive OLE or placebo capsules for 24 weeks. The primary outcome was change in HbA1c. Secondary outcomes included changes in the homeostasis model assessment of insulin resistance, diabetes-related stress, health-related quality of life, and safety. RESULTS: Thirty-one participants were randomly assigned to the OLE (n = 16) and placebo (n = 15) groups. Analyses found no statistically significant time-group interactions for HbA1c, diabetes-related distress or health-related quality of life. Although participants receiving OLE demonstrated greater improvements in insulin sensitivity than those on placebo, there was no significant difference between groups over time. OLE and placebo were found to be well-tolerated, with no severe or serious adverse events reported in either group. CONCLUSION: The ESOLED trial has provided preliminary evidence on the tolerability of OLE in adults with type 2 diabetes, but was inconclusive in determining whether OLE is effective at improving glycaemic control, insulin sensitivity, diabetes-related distress and quality of life. Larger trials and further exploration of the bioavailability of OLE are needed to fully assess the therapeutic potential of OLE in diabetes. TRIAL REGISTRATION: Australian New Zealand Clinical Trials Registry (ACTRN12622000616774).",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Efficacy and safety of olive leaf extract (Olea europaea L.) for glycaemic control in adults with type 2 diabetes mellitus (ESOLED): A pilot randomised controlled trial",
+   "plants": [
+    "European olive",
+    "Olive",
+    "common olive"
+   ],
+   "scientific": [
+    "Olea europaea"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-3606",
    "key": "albrecht2025rolecajuniper",
    "type": "article",
@@ -6999,6 +7059,41 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5542",
+   "key": "afrin2025blackseedpremenstrual",
+   "type": "article",
+   "title": "Nigella sativa Seeds Ease Severity of Premenstrual Syndrome in Women: A Randomized, Double-Blinded, Placebo-Controlled Study",
+   "authors": "Afrin, F., Neela, M.M., Islam, A., Islam, M.R. and Hossain, M.M.",
+   "journal": "BioMed Research International",
+   "year": "2025",
+   "doi": "10.1155/bmri/9811666",
+   "url": "",
+   "link": "https://doi.org/10.1155/bmri/9811666",
+   "link_type": "doi",
+   "citation": "Afrin, F., Neela, M.M., Islam, A., Islam, M.R. and Hossain, M.M (2025) 'Nigella sativa Seeds Ease Severity of Premenstrual Syndrome in Women: A Randomized, Double-Blinded, Placebo-Controlled Study', BioMed Research International, 2025, pp. 9811666. doi:10.1155/bmri/9811666",
+   "abstract": "BACKGROUND: Premenstrual syndrome (PMS) significantly affects women's quality of life, with fluctuations in estrogen levels implicated in symptom severity. Lower estrogen levels during the premenstrual phase may contribute to mood swings, anxiety, and fatigue. Nigella sativa (NS) has been examined as a potential alternative therapeutic approach for various diseases. Therefore, in the current experiment, we aimed to investigate the impact of NS on serum estradiol levels and the severity of PMS symptoms in women. METHODS: This was a randomized, double-blind, placebo-controlled clinical trial. Participants with moderate to severe PMS were identified using a Premenstrual Symptoms Screening Tool (PSST) questionnaire and randomly allocated to the placebo or treatment groups. Two capsules were consumed once a day for two menstrual cycles, and the severity of symptoms in the participants was monitored daily during the intervention, employing the daily record of severity of problems (DRSP). RESULTS: At baseline, there were no significant differences (p > 0.05) in serum estradiol levels and total average PMS scores between the two groups. In comparison, after 2 months of NS supplement, serum estradiol concentrations were significantly (p < 0.05) increased, and the total mean PMS scores were significantly reduced when compared with the placebo group. CONCLUSION: The outcomes of this study indicated the favorable effects of NS in reducing the severity of PMS. This could be achieved by increasing serum estradiol concentration in premenstrual women with PMS. Additionally, NS can provide anti-inflammatory and potential hormonal and antioxidant support, helping to reduce symptoms of PMS. Therefore, NS is an alternative or complementary method deserving further investigation based on scientific evidence to clarify its role in PMS treatment.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Nigella sativa Seeds Ease Severity of Premenstrual Syndrome in Women: A Randomized, Double-Blinded, Placebo-Controlled Study",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [],
+   "conditions": [
+    "PMS / premenstrual syndrome"
+   ]
+  },
+  {
    "ref_id": "REF-2654",
    "key": "wsu_yakima_hemlock",
    "type": "misc",
@@ -8127,6 +8222,42 @@
    "conditions": [
     "Oral & throat health",
     "Pain (general)"
+   ]
+  },
+  {
+   "ref_id": "REF-5543",
+   "key": "maghalian2025blackseedepisiotomyemulgel",
+   "type": "article",
+   "title": "The effect of Nigella Sativa emulgel on episiotomy wound healing and pain intensity in primiparous women: A triple-blind randomized controlled trial",
+   "authors": "Maghalian, M., Alizadeh, A., Raphi, F., Islambulchilar, Z., Khodaie, L., Nabighadim, M., Taghavi, S. and Mirghafourvand, M.",
+   "journal": "PloS One",
+   "year": "2025",
+   "doi": "10.1371/journal.pone.0325112",
+   "url": "",
+   "link": "https://doi.org/10.1371/journal.pone.0325112",
+   "link_type": "doi",
+   "citation": "Maghalian, M., Alizadeh, A., Raphi, F., Islambulchilar, Z., Khodaie, L., Nabighadim, M., Taghavi, S. and Mirghafourvand, M (2025) 'The effect of Nigella Sativa emulgel on episiotomy wound healing and pain intensity in primiparous women: A triple-blind randomized controlled trial', PloS One, 20(6), pp. e0325112. doi:10.1371/journal.pone.0325112",
+   "abstract": "BACKGROUND: Episiotomy, a common surgical procedure during childbirth, often leads to complications such as pain, infection, and delayed healing. Nigella sativa has demonstrated anti-inflammatory and wound-healing properties in prior studies and have received United States Food and Drug Administration (FDA) approval for food use, indicating their safety. This study aimed to evaluate the efficacy of Nigella sativa emulgel on episiotomy wound healing and pain intensity in primiparous women. METHODS: A triple-blind, randomized controlled trial was conducted at Taleghani Hospital, Tabriz, Iran (May 2023-April 2024). Seventy-four primiparous women with mediolateral episiotomy were randomized to receive either Nigella sativa emulgel or placebo, applied topically three times daily for 7 days post-discharge. Wound healing was assessed using the REEDA scale (Redness, Edema, Ecchymosis, Discharge, Approximation; primary outcome), and pain intensity was measured via visual analog scale (VAS; secondary outcome). Outcomes were evaluated at discharge (baseline) and 10 ± 1 days postpartum. Data were analyzed using independent t-tests, ANCOVA (adjusted for baseline scores), and Mann-Whitney U tests for non-normal distributions (SPSS v26). RESULTS: At 10 ± 1 days postpartum, the Nigella sativa group showed significantly better wound healing (REEDA score: MD -0.79, 95% CI -1.20 to -0.39; p = 0.001) and lower pain scores (VAS: MD -0.74, 95% CI -1.3 to -0.11; p = 0.021) compared to placebo. Subscale analysis revealed improvements in redness (p = 0.037), edema (p = 0.041), and ecchymosis (p = 0.043). No adverse effects were reported, and satisfaction was higher in the Nigella sativa group (86.5% vs. 56.7%; p = 0.046). CONCLUSIONS: Topical Nigella sativa emulgel significantly improved episiotomy wound healing and reduced pain intensity, with high patient satisfaction. These findings support its potential as a natural therapeutic option, though larger multi-center trials are needed for broader validation. TRIAL REGISTRATION: Iranian Registry of Clinical Trials IRCT20120718010324N68.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The effect of Nigella Sativa emulgel on episiotomy wound healing and pain intensity in primiparous women: A triple-blind randomized controlled trial",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Pain (general)",
+    "Wounds"
    ]
   },
   {
@@ -16236,6 +16367,39 @@
    ]
   },
   {
+   "ref_id": "REF-5531",
+   "key": "sener2024blackseedrhabdomyolysis",
+   "type": "article",
+   "title": "Rhabdomyolysis and acute kidney injury after consumption of black seed oil",
+   "authors": "Sener, K., Cakir, A., Yesiloglu, O., Altug, E., Guven, R. and Korkut, S.",
+   "journal": "Toxicon",
+   "year": "2024",
+   "doi": "10.1016/j.toxicon.2024.107787",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.toxicon.2024.107787",
+   "link_type": "doi",
+   "citation": "Sener, K., Cakir, A., Yesiloglu, O., Altug, E., Guven, R. and Korkut, S (2024) 'Rhabdomyolysis and acute kidney injury after consumption of black seed oil', Toxicon, 245, pp. 107787. doi:10.1016/j.toxicon.2024.107787",
+   "abstract": "PURPOSE: Medicines derived from natural sources have been used for thousands of years throughout the world. Because natural compounds are thought to have less toxic effects and fewer side effects, these products are becoming more popular by the day. CASE REPORT: In this case report, we presented a case of acute kidney injury, rhabdomyolysis, and hepatotoxicity after ingestion of black seed oil. Although black seed oil is widely used around the world, there is currently limited knowledge on its adverse effects. CONCLUSION: It is important to keep in mind that rhabdomyolysis, acute renal damage, and hepatotoxicity might occur following the use of black seed oil. Black seed oil ingestion should be considered when making a differential diagnosis for these conditions in patients suspected of taking herbal products.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Rhabdomyolysis and acute kidney injury after consumption of black seed oil",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2096",
    "key": "sharma2024centella",
    "type": "article",
@@ -17316,6 +17480,41 @@
    ]
   },
   {
+   "ref_id": "REF-5523",
+   "key": "mousavi2024blackseedosteoarthritis",
+   "type": "article",
+   "title": "The efficacy and safety of Nigella sativa in the management of osteoarthritis: A systematic review",
+   "authors": "Mousavi, S.E., Noori, M., Marandi, H., Fazlollahi, A., Nejadghaderi, S.A., Rahmani, S., Noordoost, M., Karamzad, N., Sullman, M.J.M., Kolahi, A.A. and Safiri, S.",
+   "journal": "Health Science Reports",
+   "year": "2024",
+   "doi": "10.1002/hsr2.1989",
+   "url": "",
+   "link": "https://doi.org/10.1002/hsr2.1989",
+   "link_type": "doi",
+   "citation": "Mousavi, S.E., Noori, M., Marandi, H., Fazlollahi, A., Nejadghaderi, S.A., Rahmani, S., Noordoost, M., Karamzad, N., Sullman, M.J.M., Kolahi, A.A. and Safiri, S (2024) 'The efficacy and safety of Nigella sativa in the management of osteoarthritis: A systematic review', Health Science Reports, 7(4), pp. e1989. doi:10.1002/hsr2.1989",
+   "abstract": "BACKGROUND AND AIMS: Osteoarthritis (OA) is one of the most common debilitating diseases among the aging population. Nigella sativa is one potential treatment for OA. Here, we sought to evaluate the efficacy and safety of Nigella sativa for treating patients with OA. METHODS: PubMed, Scopus, Embase, and Web of Science were searched up to October 20, 2022. The primary outcome was changes in the pain score after receiving Nigella sativa or control agents based on the results of randomized controlled trials (RCTs). The secondary outcome was set as the frequency of adverse events reported during the follow-up period. RESULTS: Six RCTs involving a total of 370 patients with knee OA were included in the present systematic review. Among the four screened studies, the topical administration of Nigella sativa oil was found to be more effective than the placebo in relieving pain in three trials. Additionally, the oral use of Nigella sativa oil was assessed in two trials, and an improvement in pain score relative to placebo was documented in only one of the studies. Also, the trial that evaluated the effectiveness of Nigella sativa oral capsules did not demonstrate any difference in pain reduction between the intervention and placebo groups. Overall, either topical or oral administration of Nigella sativa was well tolerated, and no serious adverse events were reported. CONCLUSION: Nigella sativa is generally safe, but conflicting findings from low-quality studies hinder the ability to make clinical recommendations for or against treating OA. Robust trials are needed for informed decisions.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The efficacy and safety of Nigella sativa in the management of osteoarthritis: A systematic review",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Arthritis / joint pain"
+   ]
+  },
+  {
    "ref_id": "REF-5011",
    "key": "sanmee2024aescinhemorrhoidbleeding",
    "type": "article",
@@ -18135,6 +18334,42 @@
    ],
    "conditions": [
     "Infection (general)"
+   ]
+  },
+  {
+   "ref_id": "REF-5529",
+   "key": "mohan2023blackcuminstresssleep",
+   "type": "article",
+   "title": "A proprietary black cumin oil extract (Nigella sativa) (BlaQmax®) modulates stress-sleep-immunity axis safely: Randomized double-blind placebo-controlled study",
+   "authors": "Mohan, M.E., Thomas, J.V., Mohan, M.C., Das S, S., Prabhakaran, P. and Pulikkaparambil Sasidharan, B.C.",
+   "journal": "Frontiers in Nutrition",
+   "year": "2023",
+   "doi": "10.3389/fnut.2023.1152680",
+   "url": "",
+   "link": "https://doi.org/10.3389/fnut.2023.1152680",
+   "link_type": "doi",
+   "citation": "Mohan, M.E., Thomas, J.V., Mohan, M.C., Das S, S., Prabhakaran, P. and Pulikkaparambil Sasidharan, B.C (2023) 'A proprietary black cumin oil extract (Nigella sativa) (BlaQmax®) modulates stress-sleep-immunity axis safely: Randomized double-blind placebo-controlled study', Frontiers in Nutrition, 10, pp. 1152680. doi:10.3389/fnut.2023.1152680",
+   "abstract": "OBJECTIVE: Stress, sleep, and immunity are important interdependent factors that play critical roles in the maintenance of health. It has been established that stress can affect sleep, and the quality and duration of sleep significantly impact immunity. However, single drugs capable of targeting these factors are limited because of their multi-targeting mechanisms. The present study investigated the influence of a proprietary thymoquinone-rich black cumin oil extract (BCO-5) in modulating stress, sleep, and immunity. METHODS: A randomized double-blinded placebo-controlled study was carried out on healthy volunteers with self-reported non-refreshing sleep issues (n = 72), followed by supplementation with BCO-5/placebo at 200 mg/day for 90 days. Validated questionnaires, PSQI and PSS, were employed for monitoring sleep and stress respectively, along with the measurement of cortisol and melatonin levels. Immunity markers were analyzed at the end of the study. RESULTS: In the BCO-5 group, 70% of the participants reported satisfaction with their sleep pattern on day 7 and 79% on day 14. Additionally, both inter- and intra- group analyses of the total PSQI scores and component scores (sleep latency, duration, efficiency, quality, and daytime dysfunction) on days 45 and 90 showed the effectiveness of BCO-5 in the improvement of sleep (p < 0.05). PSS-14 analysis revealed a significant reduction in stress, upon both intra (p < 0.001) and inter-group (p < 0.001) comparisons. The observed reduction in stress among the BCO-5 group, with respect to the placebo, was significant with an effect size of 1.19 by the end of the study (p < 0.001). A significant correlation was also observed between improved sleep and reduced stress as evident from PSQI and PSS. Furthermore, there was a significant modulation in melatonin, cortisol, and orexin levels. Hematological/immunological parameters further revealed the immunomodulatory effects of BCO-5. CONCLUSION: BCO-5 significantly modulated the stress-sleep-immunity axis with no side effects and restored restful sleep.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "A proprietary black cumin oil extract (Nigella sativa) (BlaQmax®) modulates stress-sleep-immunity axis safely: Randomized double-blind placebo-controlled study",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Insomnia / sleeplessness",
+    "Stress"
    ]
   },
   {
@@ -22578,6 +22813,41 @@
     "Immunomodulator / immune support"
    ],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-5528",
+   "key": "mohan2023blackcuminsleep",
+   "type": "article",
+   "title": "Exploring the short-term influence of a proprietary oil extract of black cumin (Nigella sativa) on non-restorative sleep: a randomized, double-blinded, placebo-controlled actigraphy study",
+   "authors": "Mohan, M.E., Mohan, M.C., Prabhakaran, P., Syam Das, S., Krishnakumar, I.M. and Baby Chakrapani, P.S.",
+   "journal": "Frontiers in Nutrition",
+   "year": "2023",
+   "doi": "10.3389/fnut.2023.1200118",
+   "url": "",
+   "link": "https://doi.org/10.3389/fnut.2023.1200118",
+   "link_type": "doi",
+   "citation": "Mohan, M.E., Mohan, M.C., Prabhakaran, P., Syam Das, S., Krishnakumar, I.M. and Baby Chakrapani, P.S (2023) 'Exploring the short-term influence of a proprietary oil extract of black cumin (Nigella sativa) on non-restorative sleep: a randomized, double-blinded, placebo-controlled actigraphy study', Frontiers in Nutrition, 10, pp. 1200118. doi:10.3389/fnut.2023.1200118",
+   "abstract": "BACKGROUND: Nigella sativa (black cumin, or black seed) is popularly known as the seed of blessings in the Arab system of medicine. Though not widely recommended for sleep, a unique proprietary black cumin extract (BlaQmax®/ThymoDream™; BCO-5) has been shown to be helpful in the management of stress and sleep issues. METHODS: This randomized, double-blind, placebo-controlled trial aimed to investigate the efficacy of BCO-5 on the sleep quality of volunteers characterized with a self-reported non-restorative sleep disorder. Healthy male and female participants (n = 70), aged 18-65 years (BMI 22-28 Kg/m2) were randomized to either placebo or BCO-5 (n = 35/group). Both interventions were supplemented at 200 mg/day for seven days. Actigraphy and a validated restorative sleep questionnaire (RSQ-W) were used to monitor the influence of BCO-5 on sleep. RESULTS: Compared to placebo, BCO-5 significantly improved sleep quality, as evidenced by both intra-group and inter-group analyses of the actigraphy data. The relative improvements observed were sleep efficiency (7.8%, p < 0.001), total sleep time (19.1%, p < 0.001), sleep onset latency (35.4%; p < 0.001), and wake-after-sleep-onset (22.5%; p < 0.001) compared with placebo. BCO-5 also improved sleep by 75.3% compared to baseline (p < 0.001) and by 68.9% compared to placebo (p < 0.001), when monitored by RSQ-W. BCO-5 was well-tolerated with no reports of side effects or toxicity. CONCLUSION: BCO-5 significantly improved non-restorative sleep in seven days, indicating its potential role as a natural sleep aid.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Exploring the short-term influence of a proprietary oil extract of black cumin (Nigella sativa) on non-restorative sleep: a randomized, double-blinded, placebo-controlled actigraphy study",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Insomnia / sleeplessness"
+   ]
   },
   {
    "ref_id": "REF-2322",
@@ -31041,6 +31311,41 @@
    ]
   },
   {
+   "ref_id": "REF-5522",
+   "key": "huseini2022blackseedkneeoa",
+   "type": "article",
+   "title": "Efficacy and safety of oral Nigella sativa oil for symptomatic treatment of knee osteoarthritis: A double-blind, randomized, placebo-controlled clinical trial",
+   "authors": "Huseini, H.F., Mohtashami, R., Sadeghzadeh, E., Shadmanfar, S., Hashem-Dabaghian, F. and Kianbakht, S.",
+   "journal": "Complementary Therapies in Clinical Practice",
+   "year": "2022",
+   "doi": "10.1016/j.ctcp.2022.101666",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ctcp.2022.101666",
+   "link_type": "doi",
+   "citation": "Huseini, H.F., Mohtashami, R., Sadeghzadeh, E., Shadmanfar, S., Hashem-Dabaghian, F. and Kianbakht, S (2022) 'Efficacy and safety of oral Nigella sativa oil for symptomatic treatment of knee osteoarthritis: A double-blind, randomized, placebo-controlled clinical trial', Complementary Therapies in Clinical Practice, 49, pp. 101666. doi:10.1016/j.ctcp.2022.101666",
+   "abstract": "BACKGROUND AND PURPOSE: The oil of Nigella sativa (NS) seeds has analgesic and anti-inflammatory effects. Therefore, the efficacy and safety of NS oil in the treatment of knee osteoarthritis were evaluated. MATERIALS AND METHODS: One hundred and sixteen patients aged 50-70 years were randomly assigned to take 2.5 mL NS oil (N = 58) or placebo (N = 58) orally every 8 h for 1 month. WOMAC (Western Ontario and McMaster Universities Osteoarthritis Index) was the primary outcome measure and Visual Analog Scale (VAS) for pain, number of 500 mg acetaminophen tablets taken per day during the trial, patients' satisfaction with the interventions, complete blood count and the blood levels of alanine aminotransferase, aspartate aminotransferase, alkaline phosphatase, creatinine and blood urea nitrogen were the secondary outcome measures. RESULTS: Fifty two and 54 patients respectively in the NS oil and placebo groups completed the study. The VAS scores were decreased by 33.96 ± 17.04% (NS oil group) and 9.21 ± 0.32% (placebo group) (p < 0.001), and WOMAC total scores were decreased by 27.72 ± 18.61% (NS oil group) and 1.34 ± 2.31% (placebo group) (p < 0.001) compared to baseline. The NS oil reduced the dose of acetaminophen significantly compared with the placebo (p = 0.001). The patients were significantly more satisfied with the NS oil than the placebo (p < 0.001). The NS oil had no significant effect on the other variables. There was no side effect. CONCLUSION: Oral NS oil safely reduces the osteoarthritis symptoms and analgesic dose in the knee osteoarthritis patients.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Efficacy and safety of oral Nigella sativa oil for symptomatic treatment of knee osteoarthritis: A double-blind, randomized, placebo-controlled clinical trial",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Arthritis / joint pain"
+   ]
+  },
+  {
    "ref_id": "REF-3692",
    "key": "hernandezvasquez2022oliveoilpressureulcer",
    "type": "article",
@@ -35881,6 +36186,38 @@
    ],
    "conditions": [
     "Cancer (anticancer research)"
+   ]
+  },
+  {
+   "ref_id": "REF-5539",
+   "key": "razmpoosh2022oliveleafcardiovascular",
+   "type": "article",
+   "title": "The effects of olive leaf extract on cardiovascular risk factors in the general adult population: a systematic review and meta-analysis of randomized controlled trials",
+   "authors": "Razmpoosh, E., Abdollahi, S., Mousavirad, M., Clark, C.C.T. and Soltani, S.",
+   "journal": "Diabetology & Metabolic Syndrome",
+   "year": "2022",
+   "doi": "10.1186/s13098-022-00920-y",
+   "url": "",
+   "link": "https://doi.org/10.1186/s13098-022-00920-y",
+   "link_type": "doi",
+   "citation": "Razmpoosh, E., Abdollahi, S., Mousavirad, M., Clark, C.C.T. and Soltani, S (2022) 'The effects of olive leaf extract on cardiovascular risk factors in the general adult population: a systematic review and meta-analysis of randomized controlled trials', Diabetology & Metabolic Syndrome, 14(1), pp. 151. doi:10.1186/s13098-022-00920-y",
+   "abstract": "BACKGROUND: The aim of this systematic review and meta-analysis was to determine the effect of olive leaf extract (OLE) supplementation on cardiovascular-related variables, including lipid, glycemic, inflammatory, liver and renal-related factors, as well as blood pressure. METHODS: PubMed, ISI Web of Science, Scopus, and Cochrane library were searched, up to October 2021, for relevant controlled trials. Mean differences and standard deviations were pooled for all outcomes, using a random-effects model. The methodological quality, as well as quality of evidence were assessed using standard tools. RESULTS: Twelve studies (n = 819 participants) were included in our analyses. Overall analyses showed that OLE supplementation significantly decreased triglyceride (TG) levels (WMD = - 9.51 mg/dl, 95% CI - 17.83, - 1.18; P = 0.025; I2 = 68.7%; P-heterogeneity = 0.004), and systolic blood pressure (SBP) (WMD = - 3.86 mmHg, 95% CI - 6.44, - 1.28 mmHg; P = 0.003; I2 = 19.9%; P-heterogeneity = 0.28). Subgroup analyses also revealed a significant improvement in SBP (- 4.81 mmHg) and diastolic blood pressure (- 2.45 mmHg), TG (- 14.42 mg/dl), total cholesterol (TC) (- 9.14 mg/dl), and low-density lipoprotein-C (LDL-C) (- 4.6 mg/dl) measurements, in patients with hypertension. Significant reductions were also observed in TC (- 6.69 mg/dl), TG (- 9.21 mg/dl), and SBP (- 7.05 mmHg) in normal-weight individuals. However, no meaningful changes were seen in glucose hemostasis, liver and kidney, or inflammatory markers. CONCLUSION: The present study revealed that supplementation with OLE yielded beneficial effects for blood pressure and lipid profile in adults, especially in patients with hypertension. As the quality of evidence for glucose hemostasis variables, liver, kidney, and inflammatory markers, were low-to-very low, higher quality RCTs may impact the overarching results. This study was registered at PROSPERO with the code CRD42022302395.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The effects of olive leaf extract on cardiovascular risk factors in the general adult population: a systematic review and meta-analysis of randomized controlled trials",
+   "plants": [
+    "European olive",
+    "Olive",
+    "common olive"
+   ],
+   "scientific": [
+    "Olea europaea"
+   ],
+   "actions": [],
+   "conditions": [
+    "High blood pressure"
    ]
   },
   {
@@ -40796,6 +41133,41 @@
    ]
   },
   {
+   "ref_id": "REF-5526",
+   "key": "nemati2021blackseedrhinosinusitis",
+   "type": "article",
+   "title": "Effects of Nigella sativa Extract on Chronic Rhinosinusitis: A Randomized Double Blind Study",
+   "authors": "Nemati, S., Masroorchehr, M., Elahi, H., Kamalinejad, M., Ebrahimi, S.M. and Akbari, M.",
+   "journal": "Indian Journal of Otolaryngology and Head and Neck Surgery",
+   "year": "2021",
+   "doi": "10.1007/s12070-020-02296-9",
+   "url": "",
+   "link": "https://doi.org/10.1007/s12070-020-02296-9",
+   "link_type": "doi",
+   "citation": "Nemati, S., Masroorchehr, M., Elahi, H., Kamalinejad, M., Ebrahimi, S.M. and Akbari, M (2021) 'Effects of Nigella sativa Extract on Chronic Rhinosinusitis: A Randomized Double Blind Study', Indian Journal of Otolaryngology and Head and Neck Surgery, 73(4), pp. 455--460. doi:10.1007/s12070-020-02296-9",
+   "abstract": "Chronic rhinosinusitis (CRS) causes long-term discomfort for patients, and due to the frequent relapses and dissatisfaction with current treatments, CRS patients pay more attention to herbal-traditional remedies nowadays. Nigella sativa seed has a special place in Traditional Persian medicine because of its therapeutic and clinical applications. Therefore, we decided to evaluate the effect of N. sativa seed extract on clinical symptoms of CRS patients. In a double-blind controlled clinical trial on CRS patients referred to otolaryngology clinics of Firoozgar and Amiralmomenin hospitals, all the patients used nasal drops of the N. sativa (drug) or sesame oil extract (placebo), and standard SNOT-22 questionnaire completed on days 0 and 28th of study. Data collected and statistical analysis performed by SPSS software. Level of significance was considered as P < 0.05. Out of 53 subjects (33 male and 20 female), 27 were assigned in the drug group and 26 in the placebo group. The mean SNOT-22 score on the 28th day was 19.08 ± 13.21 in the drug group, and in the placebo group, the mean was 37.15 ± 21.47 (P = 0.001). N. sativa extract was particularly effective in improving the feeling of pain, pressure or fullness, numbness and congestion in the nose, and reduction of bad breath. The results of our study indicated that the N. sativa seed nasal drop significantly improved the symptoms of CRS-especially, four major and one minor symptoms- and improved the quality of life of the patients.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effects of Nigella sativa Extract on Chronic Rhinosinusitis: A Randomized Double Blind Study",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Sinusitis"
+   ]
+  },
+  {
    "ref_id": "REF-1256",
    "key": "phillips2021salix",
    "type": "article",
@@ -43846,7 +44218,9 @@
     "Olea europaea"
    ],
    "actions": [],
-   "conditions": []
+   "conditions": [
+    "High blood pressure"
+   ]
   },
   {
    "ref_id": "REF-1297",
@@ -49134,6 +49508,38 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-5534",
+   "key": "nadar2020tulsidentifrice",
+   "type": "article",
+   "title": "Comparative Evaluation of Efficacy of 4% Tulsi Extract (Ocimum sanctum), Fluoridated and Placebo Dentifrices against Gingivitis and Plaque among 14-15 years School Children in Davangere City, India - A Triple Blinded Randomized Clinical Trial",
+   "authors": "Nadar, B.G., Usha, G.V. and Lakshminarayan, N.",
+   "journal": "Contemporary Clinical Dentistry",
+   "year": "2020",
+   "doi": "10.4103/ccd.ccd_109_19",
+   "url": "",
+   "link": "https://doi.org/10.4103/ccd.ccd_109_19",
+   "link_type": "doi",
+   "citation": "Nadar, B.G., Usha, G.V. and Lakshminarayan, N (2020) 'Comparative Evaluation of Efficacy of 4% Tulsi Extract (Ocimum sanctum), Fluoridated and Placebo Dentifrices against Gingivitis and Plaque among 14-15 years School Children in Davangere City, India - A Triple Blinded Randomized Clinical Trial', Contemporary Clinical Dentistry, 11(1), pp. 67--75. doi:10.4103/ccd.ccd_109_19",
+   "abstract": "CONTEXT: Gingivitis is the most prevalent periodontal disease among adolescents. The most important factor associated with gingivitis is plaque accumulation. Mechanical plaque control through tooth brushing and mouth rinsing are the most commonly used preventive methods. AIMS: This study aims to assess and compare the antiplaque and antigingivitis effect of 4% Tulsi leaf extract dentifrice, fluoridated and placebo dentifrice (PD) among 14-15-year-old school children in Davangere city. MATERIALS AND METHODS: A triple blinded concurrent parallel trial. A sample of 84 participants with a baseline mean gingival index score of at least 1.0 and mean plaque index score of at least 1.5 were randomly selected. Participants were divided into three groups by block randomization and concealed random allocation method was used to distribute dentifrices. Postassessment of plaque and gingivitis was done on the 21st day. STATISTICAL ANALYSIS USED: Wilcoxon signed rank test for within group comparison and Kruskal-Wallis ANOVA for intergroup comparison was used. RESULTS: Significant reduction in the plaque and gingival scores between the groups was observed on the 21st day (P = 0.001). Maximum reduction in gingivitis (P = 0.001) and dental plaque (P = 0.01) was seen in 4% tulsi dentifrice group compared to PD. CONCLUSION: Antiplaque and antigingivitis efficacy of 4% tulsi and commercially available fluoridated dentifrice remained the same after 21 days.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Comparative Evaluation of Efficacy of 4% Tulsi Extract (Ocimum sanctum), Fluoridated and Placebo Dentifrices against Gingivitis and Plaque among 14-15 years School Children in Davangere City, India - A Triple Blinded Randomized Clinical Trial",
+   "plants": [
+    "Holy Basil",
+    "Sacred basil",
+    "Tulsi"
+   ],
+   "scientific": [
+    "Ocimum tenuiflorum"
+   ],
+   "actions": [],
+   "conditions": [
+    "Oral & throat health"
+   ]
   },
   {
    "ref_id": "REF-0702",
@@ -54498,6 +54904,44 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5533",
+   "key": "wang2020blackseedprimrosethrombocytopenia",
+   "type": "article",
+   "title": "Severe Thrombocytopenia Associated With Black Seed Oil and Evening Primrose Oil",
+   "authors": "Wang, X., Jiang, A. and Batra, V.",
+   "journal": "Cureus",
+   "year": "2020",
+   "doi": "10.7759/cureus.8390",
+   "url": "",
+   "link": "https://doi.org/10.7759/cureus.8390",
+   "link_type": "doi",
+   "citation": "Wang, X., Jiang, A. and Batra, V (2020) 'Severe Thrombocytopenia Associated With Black Seed Oil and Evening Primrose Oil', Cureus, 12(6), pp. e8390. doi:10.7759/cureus.8390",
+   "abstract": "We report the case of a 69-year-old female with stage IIIB endometrial adenocarcinoma who developed an acute thrombocytopenia with greater than 90% decrease from her baseline value in platelets one day after a laparoscopic hysterectomy. Subsequently, the patient was found to have bilateral subsegmental pulmonary emboli and a right atrial thrombus. The thrombocytopenia reached a nadir of 31,000/mL3 from a baseline of 410,000/mL3 and resolved without intervention. Prior to the surgery, the patient was taking black seed oil, which is commonly used for its anti-carcinogenic effects, and evening primrose oil daily for approximately one month. A literature review revealed that black seed oil contains thymoquinone, which is a compound related to quinine. Evening primrose oil is also known to reduce platelet aggregation and has anti-thrombotic properties. We believe the patient's thrombocytopenia was caused by a consumptive coagulopathy due to the formation of multiple thrombi and exacerbated by the use of herbal supplements, namely black seed and evening primrose oil.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Severe Thrombocytopenia Associated With Black Seed Oil and Evening Primrose Oil",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Evening Primrose",
+    "Evening star",
+    "Fever plant",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander",
+    "Sundrop"
+   ],
+   "scientific": [
+    "Nigella sativa",
+    "Oenothera biennis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1935",
    "key": "ekiert2020mugwort",
    "type": "article",
@@ -55017,6 +55461,41 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5525",
+   "key": "soleymani2020blackseedacnegel",
+   "type": "article",
+   "title": "The effect of a hydrogel made by Nigella sativa L. on acne vulgaris: A randomized double-blind clinical trial",
+   "authors": "Soleymani, S., Zargaran, A., Farzaei, M.H., Iranpanah, A., Heydarpour, F., Najafi, F. and Rahimi, R.",
+   "journal": "Phytotherapy Research",
+   "year": "2020",
+   "doi": "10.1002/ptr.6739",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.6739",
+   "link_type": "doi",
+   "citation": "Soleymani, S., Zargaran, A., Farzaei, M.H., Iranpanah, A., Heydarpour, F., Najafi, F. and Rahimi, R (2020) 'The effect of a hydrogel made by Nigella sativa L. on acne vulgaris: A randomized double-blind clinical trial', Phytotherapy Research, 34(11), pp. 3052--3062. doi:10.1002/ptr.6739",
+   "abstract": "Nigella sativa L. (black seed) is one of the main medicinal plants frequently cited in traditional Persian medicine manuscripts for management of acne vulgaris. The present study was designed to investigate the efficacy of a topical preparation from N. sativa in acne vulgaris. In a randomized double-blind controlled clinical trial, 60 patients (30 patients in treatment and 30 in placebo group) were randomly received N. sativa hydrogel (standardized based on thymoquinone) or placebo hydrogel, twice daily for 60 days. The Investigator's Global Assessment (IGA) grading score was recorded for each patient. Moreover, acne disability index (ADI) was evaluated using a standard questionnaire filled out by the patients at the beginning and end of the study. A 78% mean reduction in the IGA score on the N. sativa-treated group was recorded compared with 3.3% on the vehicle-treated one. Significant reductions in the number of comedones, papules, and pustules were observed in the treatment group compared with placebo after 2 months. Also, ADI was decreased 63.49% in the treatment versus 4.5% in the placebo groups. No adverse event was recorded. N. sativa hydrogel had significant effects on improving the symptoms of acne vulgaris with acceptable tolerability.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The effect of a hydrogel made by Nigella sativa L. on acne vulgaris: A randomized double-blind clinical trial",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Acne"
+   ]
+  },
+  {
    "ref_id": "REF-5113",
    "key": "hoogenboom2020aloejuiceliver",
    "type": "article",
@@ -55276,6 +55755,39 @@
    "conditions": [
     "Blood sugar / diabetes support"
    ]
+  },
+  {
+   "ref_id": "REF-5532",
+   "key": "razmpoosh2020blackseedliverkidney",
+   "type": "article",
+   "title": "The effect of Nigella sativa on the measures of liver and kidney parameters: A systematic review and meta-analysis of randomized-controlled trials",
+   "authors": "Razmpoosh, E., Safi, S., Abdollahi, N., Nadjarzadeh, A., Nazari, M., Fallahzadeh, H., Mazaheri, M. and Salehi-Abargouei, A.",
+   "journal": "Pharmacological Research",
+   "year": "2020",
+   "doi": "10.1016/j.phrs.2020.104767",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phrs.2020.104767",
+   "link_type": "doi",
+   "citation": "Razmpoosh, E., Safi, S., Abdollahi, N., Nadjarzadeh, A., Nazari, M., Fallahzadeh, H., Mazaheri, M. and Salehi-Abargouei, A (2020) 'The effect of Nigella sativa on the measures of liver and kidney parameters: A systematic review and meta-analysis of randomized-controlled trials', Pharmacological Research, 156, pp. 104767. doi:10.1016/j.phrs.2020.104767",
+   "abstract": "The aim of this systematic review and dose-response meta-analysis was to determine the effect of Nigella sativa (N.S) supplementation on liver and kidney parameters. We searched PubMed, Scopus, ISI Web of Science, Cochrane central register for controlled trials and Google Scholar from database inception to April 2019 for relevant controlled trials. Mean differences and standard deviations for each outcome were pooled using a random-effects model and a dose-response analysis was performed using a fractional polynomial model. Quality of evidence was evaluated using Cochrane Collaboration Risk of Bias tool and the Grading of Recommendations Assessment, Development and Evaluation (GRADE) methodology. Nineteen trials (n = 1295 participants) were included in the meta-analysis. We observed that N.S supplements had significant reducing effects on alkaline-phosphatase (ALP) [9 trials, n = 710 participants, weighted mean difference (WMD)= -10.825; 95 %CI: -19.658, -1.992 U/L; P = 0.016; I2 = 75.7 %; P-heterogeneity = 0.000) and blood urea nitrogen (BUN) (12 trials, n = 821 participants, WMD= -1.016; 95 % CI: -1.760, -0.273 U/L; P = 0.007; I2 = 87.7 %; P-heterogeneity = 0.000) concentrations. Subgroup analysis showed that, an intervention of more than 12 weeks was found to have a reducing effect on aspartate- aminotransferase (AST) measures (2 trials, n = 201 participants, WMD= -11.317; 95 % CI: -15.007, -7.626; P = 0.000; I2 = 0.0 %; P-heterogeneity = 0.977). Creatinine levels increased significantly in studies that considered adjusted analysis based on covariates (3 trials, n = 152 participants, WMD = 0.070; 95 % CI: 0.027, 0.112 U/L; P = 0.001; I2 = 0.0 %; P-heterogeneity = 0.788). A daily dose of 1100-1500 mg of N.S supplements was observed to have a substantial reducing effect on ALP levels (5 trials, n = 340 participants, WMD= -11.323; 95 % CI: -21.418, -1.229 U/L; P = 0.028; I2 = 0.00 %; P-heterogeneity = 0.686), while a dosage of more than 2000 mg per day led to a significant increase in BUN concentrations (2 trials, n = 101 participants, WMD= -1.016; 95 % CI: -1.760, -0.273 U/L; P = 0.007; I2 = 87.7 %; P-heterogeneity = 0.000). Our data suggested that N.S supplementation had significant impacts on liver and kidney parameters leading to a decrease in ALP and BUN levels. Longer duration of intervention and normal daily dosages of N.S supplements led to significant reductions in ALP and AST concentrations, respectively, while higher daily dosages increased BUN levels. Hence, in spite of favorable impacts of N.S supplements on liver and kidney parameters, due to the herbal nature of N.S, more studies with high-quality, large-scale, long-term intervention and precise baseline characteristics are needed to assess the exact effective dose, duration and efficacy of N.S supplementation on kidney and liver parameters.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The effect of Nigella sativa on the measures of liver and kidney parameters: A systematic review and meta-analysis of randomized-controlled trials",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1295",
@@ -59077,6 +59589,41 @@
    "actions": [],
    "conditions": [
     "Oral & throat health"
+   ]
+  },
+  {
+   "ref_id": "REF-5527",
+   "key": "ardakanimovaghati2019blackseedkidneystones",
+   "type": "article",
+   "title": "Efficacy of black seed (Nigella sativa L.) on kidney stone dissolution: A randomized, double-blind, placebo-controlled, clinical trial",
+   "authors": "Ardakani Movaghati, M.R., Yousefi, M., Saghebi, S.A., Sadeghi Vazin, M., Iraji, A. and Mosavat, S.H.",
+   "journal": "Phytotherapy Research",
+   "year": "2019",
+   "doi": "10.1002/ptr.6331",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.6331",
+   "link_type": "doi",
+   "citation": "Ardakani Movaghati, M.R., Yousefi, M., Saghebi, S.A., Sadeghi Vazin, M., Iraji, A. and Mosavat, S.H (2019) 'Efficacy of black seed (Nigella sativa L.) on kidney stone dissolution: A randomized, double-blind, placebo-controlled, clinical trial', Phytotherapy Research, 33(5), pp. 1404--1412. doi:10.1002/ptr.6331",
+   "abstract": "Preclinical studies have shown beneficial effects of black seed (Nigella sativa L.) in the prevention and treatment of renal stones. Hence, we designed a study to evaluate the renal-stone-dissolving efficacy of black seed. Sixty patients with renal stones were randomly enrolled in two arms of a randomized, triple-blind, placebo-controlled, clinical trial. The patients were treated by black seed capsules (500 mg) or placebo two times per day for 10 weeks. Patients were assessed in terms of size of renal stones by using sonography before and after intervention. In the black seed group, 44.4% of patients excreted their stones completely, and the size of the stones remained unchanged and decreased in 3.7% and 51.8% of patients, respectively. In contrast, in the placebo group, 15.3% of the patients excreted their stones completely, 11.5% had reduction in stone size, 15.3% had increase in stone size, and 57.6% had no change in their stone size. The difference in the mean size of renal stones after the study was significant between the two groups (p < 0.05). N. sativa L., as compared with placebo, is demonstrated to have significant positive effects on disappearance or reduction of size of kidney stones.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Efficacy of black seed (Nigella sativa L.) on kidney stone dissolution: A randomized, double-blind, placebo-controlled, clinical trial",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Kidney support"
    ]
   },
   {
@@ -63695,6 +64242,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5530",
+   "key": "gaudin2018blackseedoilcontactdermatitis",
+   "type": "article",
+   "title": "Association Between Severe Acute Contact Dermatitis Due to Nigella sativa Oil and Epidermal Apoptosis",
+   "authors": "Gaudin, O., Toukal, F., Hua, C., Ortonne, N., Assier, H., Jannic, A., Giménez-Arnau, E., Wolkenstein, P., Chosidow, O. and Ingen-Housz-Oro, S.",
+   "journal": "JAMA Dermatology",
+   "year": "2018",
+   "doi": "10.1001/jamadermatol.2018.2120",
+   "url": "",
+   "link": "https://doi.org/10.1001/jamadermatol.2018.2120",
+   "link_type": "doi",
+   "citation": "Gaudin, O., Toukal, F., Hua, C., Ortonne, N., Assier, H., Jannic, A., Giménez-Arnau, E., Wolkenstein, P., Chosidow, O. and Ingen-Housz-Oro, S (2018) 'Association Between Severe Acute Contact Dermatitis Due to Nigella sativa Oil and Epidermal Apoptosis', JAMA Dermatology, 154(9), pp. 1062--1065. doi:10.1001/jamadermatol.2018.2120",
+   "abstract": "IMPORTANCE: Nigella sativa oil (NSO) is widely used for cosmetic and culinary purposes. Cases of severe acute contact dermatitis due to NSO are poorly described, with no histologic description. OBJECTIVES: To describe the clinical and histologic features of severe acute contact dermatitis due to NSO and investigate the components responsible for such eruptions. DESIGN, SETTING, AND PARTICIPANTS: A case series study of 3 patients with contact dermatitis admitted to the dermatology department between August 21, 2009, and February 19, 2017, was conducted. All patients had been referred to the dermatology department for acute contact dermatitis due to NSO and had patch tests performed. MAIN OUTCOMES AND MEASURES: Clinical and histologic features of the cutaneous eruptions, length of hospital stay, chemical analysis of NSO, and results of patch tests. RESULTS: Three patients (3 women; median age, 27 years [range, 20-47 years]) were included in the case series. All patients had polymorphic skin lesions spreading beyond the area of NSO application: typical and atypical targets, patches with central blisters, erythematous or purpuric plaques with a positive Nikolsky sign mimicking Stevens-Johnson syndrome, or toxic epidermal necrolysis. Two patients had pustules. They had severe impairment, with more than 15% skin detachment and fever. The results of skin biopsies showed epidermal apoptosis characterized by vacuolar alteration of the basal layer, keratinocyte apoptosis, and a moderate perivascular infiltrate of lymphocytes in the dermis. The results of patch tests using the patients' NSO were all positive. The results of gas chromatography combined with mass spectrometry performed on the NSO of 1 patient identified several constituent substances, mainly terpenes, thymoquinone, linoleic acid, and fatty acids. CONCLUSIONS AND RELEVANCE: These cases suggest that acute contact dermatitis due to NSO may induce topically triggered epidermal apoptosis, previously described as the concept of acute syndrome of apoptotic pan epidermolysis. Thymoquinone and p-cymene may be the main agents involved in the pathophysiologic characteristics of this acute contact dermatitis. Clinicians should be aware of such severe reactions to NSO and report these cases to pharmacovigilance authorities.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Association Between Severe Acute Contact Dermatitis Due to Nigella sativa Oil and Epidermal Apoptosis",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2868",
    "key": "xu2018astragaloside",
    "type": "article",
@@ -67987,6 +68567,39 @@
    ]
   },
   {
+   "ref_id": "REF-5536",
+   "key": "majdinasab2018primroseoilmsfatigue",
+   "type": "article",
+   "title": "The effect of evening primrose oil on fatigue and quality of life in patients with multiple sclerosis",
+   "authors": "Majdinasab, N., Namjoyan, F., Taghizadeh, M. and Saki, H.",
+   "journal": "Neuropsychiatric Disease and Treatment",
+   "year": "2018",
+   "doi": "10.2147/NDT.S149403",
+   "url": "",
+   "link": "https://doi.org/10.2147/NDT.S149403",
+   "link_type": "doi",
+   "citation": "Majdinasab, N., Namjoyan, F., Taghizadeh, M. and Saki, H (2018) 'The effect of evening primrose oil on fatigue and quality of life in patients with multiple sclerosis', Neuropsychiatric Disease and Treatment, 14, pp. 1505--1512. doi:10.2147/NDT.S149403",
+   "abstract": "BACKGROUND: Multiple sclerosis (MS) is a chronic progressive and inflammatory disease of the central nervous system that is characterized by demyelination in the central nervous system. In regard to the prevalence of diseases and enormous costs imposed on society and the health system, finding a way to stop the progression of the disease using drugs with fewer side effects seems a serious sanitation issue to the health of the international community. This study aimed to evaluate the effect of evening primrose oil (EPO) on fatigue and quality of life in patients with MS. MATERIALS AND METHODS: In this double-blind randomized clinical trial, 52 patients with MS were chosen and categorized into 2 groups which received 2 doses of EPO and placebo. In addition, the quality of life and fatigue scale in these patients were investigated before the treatment and again 3 months after therapy. The findings were then compared between the 2 groups. RESULT: EPO consumption significantly increased cognitive function, vitality, and overall life satisfaction and also reduced pain and fatigue compared to placebo (P<0.05). CONCLUSION: Our findings indicated that EPO consumption had no impact on the quality of life in general; however, it had a significant effect on several important aspects of life quality such as the increase of cognitive function, vitality, and overall life satisfaction. It also reduced the pain and fatigue in comparison to the placebo consumption. Herbal medicines are brittle and have fewer side effects than chemical drugs. With use of this plant, reduced fatigue and improved quality of life were observed in MS patients. But the drug did not prevent the progression of the disease.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The effect of evening primrose oil on fatigue and quality of life in patients with multiple sclerosis",
+   "plants": [
+    "Evening Primrose",
+    "Evening star",
+    "Fever plant",
+    "Sundrop"
+   ],
+   "scientific": [
+    "Oenothera biennis"
+   ],
+   "actions": [],
+   "conditions": [
+    "Fatigue / low energy"
+   ]
+  },
+  {
    "ref_id": "REF-5438",
    "key": "nikjou2018lavendermenopausesymptoms",
    "type": "article",
@@ -70873,6 +71486,39 @@
    "conditions": [
     "Eczema"
    ]
+  },
+  {
+   "ref_id": "REF-5524",
+   "key": "salimzadeh2017blackseedprocessedkneeoa",
+   "type": "article",
+   "title": "Effect of an orally formulated processed black cumin, from Iranian traditional medicine pharmacopoeia, in relieving symptoms of knee osteoarthritis: A prospective, randomized, double-blind and placebo-controlled clinical trial",
+   "authors": "Salimzadeh, A., Ghourchian, A., Choopani, R., Hajimehdipoor, H., Kamalinejad, M. and Abolhasani, M.",
+   "journal": "International Journal of Rheumatic Diseases",
+   "year": "2017",
+   "doi": "10.1111/1756-185X.13066",
+   "url": "",
+   "link": "https://doi.org/10.1111/1756-185X.13066",
+   "link_type": "doi",
+   "citation": "Salimzadeh, A., Ghourchian, A., Choopani, R., Hajimehdipoor, H., Kamalinejad, M. and Abolhasani, M (2017) 'Effect of an orally formulated processed black cumin, from Iranian traditional medicine pharmacopoeia, in relieving symptoms of knee osteoarthritis: A prospective, randomized, double-blind and placebo-controlled clinical trial', International Journal of Rheumatic Diseases, 20(6), pp. 691--701. doi:10.1111/1756-185X.13066",
+   "abstract": "AIM: Osteoarthritis is a global health problem, especially for the elderly. A good replacement for non-surgical treatments is the use of traditional medicines. We selected a revere plant (Nigella sativa L.), a widely utilized medicinal herb for the treatment of inflammatory conditions, from the Iranian traditional medicine (ITM) pharmacopoeia with proven anti-inflammatory and analgesic actions. METHODS: We performed a prospective, randomized, double-blind, and placebo-controlled clinical trial, in order to investigate whether the herb is useful in alleviating the symptoms of knee osteoarthritis. American College of Rheumatology clinical criteria were the basis of diagnosis, while the Knee injury and Osteoarthritis Outcome Score (KOOS) questionnaire was considered as the main outcome measure. One hundred and ten eligible patients were assigned to receive a placebo or an active intervention (2 g/day of processed N. sativa seed powder in divided doses). Acetaminophen tablets were the rescue medicine. Finally, 40 patients in the placebo group and 37 patients in the active group completed the trial and were included in the statistical analysis. RESULTS: Both cohorts demonstrated statistically significant within-group differences (P < 0.05) in some subscales that were more prominent in the active group without any considerable adverse effects. Nevertheless, KOOS score results and the mean number of acetaminophen tablets used by patients showed no statistically significant between-group differences. CONCLUSIONS: It can be concluded that future programmed studies with larger sample sizes, longer follow-up periods, and other forms of N. sativa seeds as an active intervention is necessary to evaluate its efficacy in relieving the symptoms of knee osteoarthritis.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effect of an orally formulated processed black cumin, from Iranian traditional medicine pharmacopoeia, in relieving symptoms of knee osteoarthritis: A prospective, randomized, double-blind and placebo-controlled clinical trial",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1828",
@@ -84587,6 +85233,38 @@
    "actions": [],
    "conditions": [
     "Pregnancy support"
+   ]
+  },
+  {
+   "ref_id": "REF-5535",
+   "key": "gupta2014tulsimouthwash",
+   "type": "article",
+   "title": "A randomized controlled clinical trial of Ocimum sanctum and chlorhexidine mouthwash on dental plaque and gingival inflammation",
+   "authors": "Gupta, D., Bhaskar, D.J., Gupta, R.K., Karim, B., Jain, A., Singh, R. and Karim, W.",
+   "journal": "Journal of Ayurveda and Integrative Medicine",
+   "year": "2014",
+   "doi": "10.4103/0975-9476.131727",
+   "url": "",
+   "link": "https://doi.org/10.4103/0975-9476.131727",
+   "link_type": "doi",
+   "citation": "Gupta, D., Bhaskar, D.J., Gupta, R.K., Karim, B., Jain, A., Singh, R. and Karim, W (2014) 'A randomized controlled clinical trial of Ocimum sanctum and chlorhexidine mouthwash on dental plaque and gingival inflammation', Journal of Ayurveda and Integrative Medicine, 5(2), pp. 109--16. doi:10.4103/0975-9476.131727",
+   "abstract": "BACKGROUND: Periodontal diseases are ubiquitous, affecting all dentate animals. Regular methods for controlling it have been found to be ineffective, which have paved the way for the use of herbal products as an adjunctive to mechanical therapy as they are free to untoward effects and hence can be used for a long period of time. Ocimum sanctum is a plant which has the greater medicinal value and enormous properties for curing and preventing disease. OBJECTIVE: In the present study we assessed the effectiveness of Ocimum sanctum on dental plaque, gingival inflammation and comparison with gold standard chlorhexidine and normal saline (placebo). MATERIALS AND METHODS: A triple blind randomized control trial was conducted among volunteered medical students. They were randomly allocated into three study groups: (1) Ocimum sanctum mouthwash (n = 36); (2) Chlorhexidine (active control) (n = 36); (3) normal saline (negative control) (n = 36). Assessment was carried out according to plaque score and gingival score. Statistical analysis was carried out later to compare the effect of both mouthwash. ANOVA (Analysis of variance) and post-hoc LSD tests were performed using software package used for statistical analysis (SPSS) version 17. P ≤0.05 was considered as statistically significant. RESULTS: Our result showed that Ocimum sanctum mouthrinse is equally effective in reducing plaque and gingivitis as Chlorhexidine. The results demonstrated a significant reduction in gingival bleeding and plaque indices in both groups over a period of 15 and 30 days as compared to control group. CONCLUSION: The results of the present study indicate that Ocimum sanctum mouthrinse may prove to be an effective mouthwash owing to its ability in decreasing periodontal indices by reducing plaque accumulation, gingival inflammation and bleeding. It has no side effect as compared to chlorhexidine.",
+   "tier": "rct",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "A randomized controlled clinical trial of Ocimum sanctum and chlorhexidine mouthwash on dental plaque and gingival inflammation",
+   "plants": [
+    "Holy Basil",
+    "Sacred basil",
+    "Tulsi"
+   ],
+   "scientific": [
+    "Ocimum tenuiflorum"
+   ],
+   "actions": [],
+   "conditions": [
+    "Oral & throat health"
    ]
   },
   {
@@ -100703,6 +101381,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5538",
+   "key": "rabahi2010primroseoillipoidpneumonia",
+   "type": "article",
+   "title": "Lipoid pneumonia secondary to long-term use of evening primrose oil",
+   "authors": "Rabahi, M.F., Ferreira, A.A., Madeira, J.G., Galvao, P.M. and Pinto, S.A.",
+   "journal": "Jornal Brasileiro de Pneumologia",
+   "year": "2010",
+   "doi": "10.1590/s1806-37132010000500018",
+   "url": "",
+   "link": "https://doi.org/10.1590/s1806-37132010000500018",
+   "link_type": "doi",
+   "citation": "Rabahi, M.F., Ferreira, A.A., Madeira, J.G., Galvao, P.M. and Pinto, S.A (2010) 'Lipoid pneumonia secondary to long-term use of evening primrose oil', Jornal Brasileiro de Pneumologia, 36(5), pp. 657--61. doi:10.1590/s1806-37132010000500018",
+   "abstract": "Lipoid pneumonia is an underdiagnosed disease that is caused by the aspiration of lipid particles into the lungs. Although most of the reported cases have been associated with the use of mineral oil as a laxative, other lipid substances can also cause the disease. We report the case of a 50-year-old female patient with a complaint of productive cough who was initially diagnosed with bronchial hyperresponsiveness and gastroesophageal reflux disease (GERD). The patient was treated for GERD. Because the productive cough persisted, the patient underwent chest CT, fiberoptic bronchoscopy, and open lung biopsy. She was diagnosed with lipoid pneumonia. The patient was questioned regarding the use of lipid substances, and she reported the chronic use of evening primrose oil. After the discontinuation of the substance and the maintenance of GERD treatment, her condition improved.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Lipoid pneumonia secondary to long-term use of evening primrose oil",
+   "plants": [
+    "Evening Primrose",
+    "Evening star",
+    "Fever plant",
+    "Sundrop"
+   ],
+   "scientific": [
+    "Oenothera biennis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2602",
    "key": "rauberluthy2010veratrum",
    "type": "article",
@@ -109113,6 +109822,37 @@
    "actions": [
     "Anti-inflammatory"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5537",
+   "key": "puri2007primroseoilepilepsy",
+   "type": "article",
+   "title": "The safety of evening primrose oil in epilepsy",
+   "authors": "Puri, B.K.",
+   "journal": "Prostaglandins, Leukotrienes, and Essential Fatty Acids",
+   "year": "2007",
+   "doi": "10.1016/j.plefa.2007.07.003",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.plefa.2007.07.003",
+   "link_type": "doi",
+   "citation": "Puri, B.K (2007) 'The safety of evening primrose oil in epilepsy', Prostaglandins, Leukotrienes, and Essential Fatty Acids, 77(2), pp. 101--3. doi:10.1016/j.plefa.2007.07.003",
+   "abstract": "The concern that evening primrose oil might cause epilepsy or seizures, or reduce the threshold for seizures, originated from two papers published in the early 1980s. These original reports are re-examined, and the association of evening primrose oil with seizures is shown to be spurious. Not only are linoleic acid and gamma-linolenic acid safe in epilepsy, with prolonged oral administration of linoleic acid and alpha-linolenic acid (in a 4:1 mixture) protecting rats from having seizures in four different epilepsy models, but the evening primrose oil-derived omega-6 fatty acid arachidonic acid inhibits sodium ion currents and synaptic transmission, while the evening primrose oil-derived eicosanoid prostaglandin E(1) appears to have anticonvulsant activity. In light of these findings, it is suggested that formularies should now remove seizures or epilepsy as a side-effect of evening primrose oil, and should remove a history of seizures or epilepsy as a contraindication to taking evening primrose oil.",
+   "tier": "narrative",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The safety of evening primrose oil in epilepsy",
+   "plants": [
+    "Evening Primrose",
+    "Evening star",
+    "Fever plant",
+    "Sundrop"
+   ],
+   "scientific": [
+    "Oenothera biennis"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -123051,6 +123791,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5521",
+   "key": "osterhoudt1997catniptoddler",
+   "type": "article",
+   "title": "Catnip and the alteration of human consciousness",
+   "authors": "Osterhoudt, K.C., Lee, S.K., Callahan, J.M. and Henretig, F.M.",
+   "journal": "Veterinary and Human Toxicology",
+   "year": "1997",
+   "doi": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9397511/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/9397511/",
+   "link_type": "url",
+   "citation": "Osterhoudt, K.C., Lee, S.K., Callahan, J.M. and Henretig, F.M (1997) 'Catnip and the alteration of human consciousness', Veterinary and Human Toxicology, 39(6), pp. 373--5. Available at: https://pubmed.ncbi.nlm.nih.gov/9397511/",
+   "abstract": "Uncertainty exists regarding the ability of catnip (Nepeta cataria) to affect human consciousness. We report a case of a toddler exhibiting central nervous system depression after consuming a large quantity of catnip. His obtundation was not attributable to another cause. We review the published literature describing the alleged psychoactive capabilities of catnip and present our case as further information for use in this ongoing controversy.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Catnip and the alteration of human consciousness",
+   "plants": [
+    "Catnip",
+    "catmint",
+    "catnep"
+   ],
+   "scientific": [
+    "Nepeta cataria"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2311",
    "key": "trute1997hedera",
    "type": "article",
@@ -123164,6 +123934,36 @@
    ],
    "scientific": [
     "Equisetum arvense"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5541",
+   "key": "kranke1997oliveoilpatchtest",
+   "type": "article",
+   "title": "Olive oil--contact sensitizer or irritant?",
+   "authors": "Kränke, B., Komericki, P. and Aberer, W.",
+   "journal": "Contact Dermatitis",
+   "year": "1997",
+   "doi": "10.1111/j.1600-0536.1997.tb00914.x",
+   "url": "",
+   "link": "https://doi.org/10.1111/j.1600-0536.1997.tb00914.x",
+   "link_type": "doi",
+   "citation": "Kränke, B., Komericki, P. and Aberer, W (1997) 'Olive oil--contact sensitizer or irritant?', Contact Dermatitis, 36(1), pp. 5--10. doi:10.1111/j.1600-0536.1997.tb00914.x",
+   "abstract": "Adverse cutaneous reactions to topically applied olive oil are seldom reported, and positive patch tests to it are mostly regarded as allergic. To evaluate such \"positive\" patch test reactions, 77 female (mean age: 44 years) and 23 male eczema patients (mean age: 46 years) were prospectively patch tested with freshly prepared olive oil. Tests were performed openly (including ROAT) as well as using Al-tests and Finn Chambers on Scanpor. 5 patients (2 male) showed \"positive\" test reactions (all patients at the Al-test site, 3 at the Finn Chamber site, 1 with ROAT). In only 1 patient could the reaction be classified as probably allergic, in contrast to previous reports. In conclusion, olive oil is very weakly irritant in general, but bears relevant irritant capacity when applied under occlusive conditions. Therefore, olive oil appears to be less than suitable for the topical therapy of patients with venous insufficiency and associated eczema of the lower extremities.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Olive oil--contact sensitizer or irritant?",
+   "plants": [
+    "European olive",
+    "Olive",
+    "common olive"
+   ],
+   "scientific": [
+    "Olea europaea"
    ],
    "actions": [],
    "conditions": []

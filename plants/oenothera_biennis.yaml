@@ -170,6 +170,12 @@ indications:
   reference_ids:
   - REF-3682
   status: verified
+- condition: fatigue
+  note: Evening primrose oil reduced fatigue and pain and improved vitality and quality of life compared
+    with placebo in people with multiple sclerosis over 3 months (randomized double-blind trial)
+  reference_ids:
+  - REF-5536
+  status: verified
 contraindications:
 - note: 'Evidence is weak and largely negative: a Cochrane review concluded that oral evening primrose
     oil is not an effective treatment for eczema, and the broader trial literature is heterogeneous. Adverse
@@ -184,6 +190,27 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0447
+  status: verified
+- note: 'Epilepsy: the old warning that evening primrose oil can trigger seizures traces back to two reports
+    from the early 1980s; a 2007 review re-examined them, judged the link spurious, and recommended removing
+    epilepsy as a contraindication (review).'
+  severity: info
+  reference_ids:
+  - REF-5537
+  status: verified
+- note: 'Lungs: a woman with acid reflux who had used evening primrose oil for a long time was diagnosed
+    with lipoid pneumonia (oil droplets inhaled into the lungs); she improved after stopping it (case
+    report).'
+  severity: caution
+  reference_ids:
+  - REF-5538
+  status: verified
+- note: 'Blood count: a woman who had taken black seed oil and evening primrose oil daily for about a
+    month developed a severe drop in platelets with blood clots after surgery; the authors thought the
+    supplements made it worse, but the cause is uncertain (case report).'
+  severity: info
+  reference_ids:
+  - REF-5533
   status: verified
 references:
 - REF-1457
@@ -265,4 +292,16 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementa
   REF-3683 added. Mastalgia MA REF-3680 (no better than placebo) no-effect for pain and pms; PMS
   review REF-3681 no-effect. Indian AD RCT REF-3684 added to eczema beside the Cochrane null. Not
   used: labour-induction/cervical-ripening trials (no matching condition; pregnancy use).
-  | 2026-11-19 (monograph-source audit): constituents[1] cited only REF-0446 (clinical systematic review). RE-SOURCED to WHO Oleum Oenotherae Biennis vol. 2 (REF-3993, new).'
+  | 2026-11-19 (monograph-source audit): constituents[1] cited only REF-0446 (clinical systematic review). RE-SOURCED to WHO Oleum Oenotherae Biennis vol. 2 (REF-3993, new).
+  | 2026-11-26: symptom-source audit research-deepening batch 22 - Searched PubMed (Oenothera
+  biennis / evening primrose tiab: 230 HT, 50 SR, 161 SAFE hits), Europe PMC, ClinicalTrials.gov
+  (15) and OpenAlex. Pain (9), hot flushes (9) and menopause (8) were not padded (2025 diabetic
+  neuropathy RCT and 2020 post-appendectomy pain RCT not added). Added: NEW fatigue pair (2018
+  double-blind placebo RCT in multiple sclerosis); 2007 epilepsy-safety review as an info note;
+  lipoid pneumonia case caution; thrombocytopenia case (with black seed oil) as an info note. NOT
+  PAIRED (inv. 12d): cervical ripening / labour induction (2023 MA, 2021 MA REF-1462 and RCTs)
+  conflicts with the record''s caution against medicinal use in pregnancy, so no pregnancy-support
+  pair was created. Not added: PCOS, isotretinoin side-effect and acne trials (no vocab condition
+  or surrogate skin measures), Hot-nature diet with hemp seed + EPO MS trials (combination), fish
+  oil + EPO combinations, misoprostol + EPO trials, 1993 cholestasis case (EPO used as a
+  treatment, not a cause), BMJ Clinical Evidence summaries (superseded).'

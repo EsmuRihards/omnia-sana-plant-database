@@ -193,7 +193,7 @@ indications:
 - condition: blood-sugar
   note: Olive leaf extract lowered HbA1c in one randomized trial and improved insulin sensitivity in another;
     meta-analyses of olive leaf extract and of extra virgin olive oil found no significant effect on blood
-    sugar
+    sugar, and a 2025 pilot randomized trial in type 2 diabetes found no HbA1c difference vs placebo
   reference_ids:
   - REF-0299
   - REF-1443
@@ -204,6 +204,7 @@ indications:
   - REF-3690
   - REF-3689
   - REF-3687
+  - REF-5540
 - condition: cancer
   note: Oleuropein from olive leaf slowed melanoma cells in the lab (preclinical)
   reference_ids:
@@ -288,6 +289,18 @@ indications:
   reference_ids:
   - REF-3694
   status: verified
+- condition: high-blood-pressure
+  note: Olive leaf extract lowered systolic blood pressure compared with control in a 2022 meta-analysis
+    of 12 randomized trials (by about 5 mmHg systolic and 2.5 mmHg diastolic in people with hypertension),
+    and 500 mg a day lowered systolic pressure vs placebo or no treatment in a 2021 meta-analysis; in
+    a 2026 double-blind randomized trial a standardised olive extract lowered systolic pressure by about
+    8 mmHg, but not significantly more than placebo
+  reference_ids:
+  - REF-5539
+  - REF-2537
+  status: verified
+  null_result_ids:
+  - REF-5544
 contraindications:
 - note: Olive leaf extract may lower blood pressure; use caution if already on antihypertensive medication.
     May have mild hypoglycaemic effects. Olive oil is safe for dietary use. Rare olive pollen allergy.
@@ -310,6 +323,13 @@ contraindications:
   - REF-0299
   - REF-0301
   - REF-0063
+  status: verified
+- note: 'Skin: in patch tests in 100 people with eczema, olive oil was a weak skin irritant, more so under
+    covering dressings, and only one reaction looked allergic; the authors judged it less suitable for
+    eczema of the lower legs linked to poor circulation.'
+  severity: info
+  reference_ids:
+  - REF-5541
   status: verified
 references:
 - REF-1437
@@ -391,4 +411,19 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   oral-health (periodontal MA REF-3693), cognitive-function (EVOO MA REF-3694). Not used:
   olive-oil lipid MA 36408701 (trivial effects) - no cholesterol pair.
   | 2026-11-19 (monograph-source audit): dosage[0] and preparations[1] checked against REF-2537/REF-1443/REF-1445 and rewritten to what they report. Dropped as unsupported: standardised for oleuropein, liquid extract, the form used in most trials, culinary oil and leaf tea food-safe.
-  | 2026-11-19 (monograph-source audit): botanical_description and habitat cited only REF-1437 and harvesting only REF-1446 (lab and absorption studies). RE-SOURCED: Grieve Olive (REF-4020, new) + PFAF REF-3299; REF-1446 kept only for its statement that the leaves are the richest source of olive phenolics. Dropped as unsupported: 3-15 m, centuries-old specimens, fragrant four-lobed flowers in axillary clusters, green to purple-black, extensive root system, Near East and parts of Africa wording, calcareous soils and drought, leaves harvested year-round with oleuropein highest in late autumn and winter, machine harvesting, green olives from early autumn.'
+  | 2026-11-19 (monograph-source audit): botanical_description and habitat cited only REF-1437 and harvesting only REF-1446 (lab and absorption studies). RE-SOURCED: Grieve Olive (REF-4020, new) + PFAF REF-3299; REF-1446 kept only for its statement that the leaves are the richest source of olive phenolics. Dropped as unsupported: 3-15 m, centuries-old specimens, fragrant four-lobed flowers in axillary clusters, green to purple-black, extensive root system, Near East and parts of Africa wording, calcareous soils and drought, leaves harvested year-round with oleuropein highest in late autumn and winter, machine harvesting, green olives from early autumn.
+  | 2026-11-26: symptom-source audit research-deepening batch 22 - Searched PubMed (Olea europaea
+  / olive leaf / olive leaves / oleuropein tiab, olive oil ti: 748 HT, 108 SR, 814 SAFE hits),
+  Europe PMC, ClinicalTrials.gov (108) and OpenAlex. Huge plant: screened SRs, conditions without
+  a pair and safety; olive oil trials mostly compare it with other fats (active comparators).
+  Added: NEW high-blood-pressure pair (2022 olive leaf MA of 12 RCTs + the 2021 MA REF-2537
+  already cited for the antihypertensive interaction); 2025 ESOLED pilot RCT as a no-effect study
+  on blood-sugar; 2026 double-blind olive extract RCT (systolic fell 8.3 vs 7.3 mmHg on placebo,
+  not significant; found via Europe PMC) as a no-effect study on high-blood-pressure; 1997
+  patch-test study as an info note. Not added: 2025 olive leaf BP MA 40325976 (pre-post analysis
+  only), olive oil lipid MAs and HDL-polyphenol MA (comparisons with other oils; high-cholesterol
+  left without a pair - the 2022 leaf MA lowered triglycerides overall but total and LDL
+  cholesterol only in subgroups), cohort mortality MAs (observational), 2023 swallowed dry-leaf
+  bowel perforation (accident), 2016 olive leaf toxicity letter and contact dermatitis letters (no
+  abstract), African wild olive (subspecies) PK study, olive pollen allergy (not related to use),
+  combination radiodermatitis creams.'

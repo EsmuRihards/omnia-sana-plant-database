@@ -43144,6 +43144,14 @@
       "REF-0063"
      ],
      "status": "verified"
+    },
+    {
+     "note": "Lab safety: a marjoram leaf extract caused dose-dependent DNA damage in cell tests at higher concentrations, although rats given a single dose up to 2,000 mg/kg showed no toxicity (lab and animal study).",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5547"
+     ],
+     "status": "verified"
     }
    ],
    "references": [
@@ -43462,6 +43470,16 @@
      ],
      "evidence": 5,
      "label": "Wounds"
+    },
+    {
+     "condition": "sinusitis",
+     "note": "In a 2023 network meta-analysis of 47 randomized trials of herbal medicines for rhinosinusitis, Origanum vulgare ranked most beneficial for symptoms and quality of life in chronic rhinosinusitis without nasal polyps (low-certainty evidence)",
+     "reference_ids": [
+      "REF-5545"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Sinusitis"
     }
    ],
    "contraindications": [
@@ -43480,6 +43498,14 @@
       "REF-0485"
      ],
      "status": "needs-review"
+    },
+    {
+     "note": "Allergy: eating oregano (and thyme) caused three systemic allergic reactions in one person, confirmed by skin and IgE tests; plants of the mint family (Lamiaceae) can cross-react (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5546"
+     ],
+     "status": "verified"
     }
    ],
    "references": [

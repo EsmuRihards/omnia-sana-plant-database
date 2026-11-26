@@ -64,3 +64,4 @@ rebased onto `osdb/main` before each push, because another session edits the mai
 | 20 | flaxseed, yellow loosestrife, Oregon grape, mallow, horehound | REF-5467..5482 (16) | 1,482 -> 1,484 | `batches/r20_report.md` |
 | 21 | chamomile, lemon balm, peppermint, bitter melon, noni | REF-5483..5520 (38) | 1,484 -> 1,489 | `batches/r21_report.md` |
 | 22 | catnip, black seed, holy basil, evening primrose, olive | REF-5521..5544 (24) | 1,489 -> 1,498 | `batches/r22_report.md` |
+| 23 | field restharrow, marjoram, oregano, yellow woodsorrel, European cranberry | REF-5545..5547 (3) | 1,498 -> 1,499 | `batches/r23_report.md` |

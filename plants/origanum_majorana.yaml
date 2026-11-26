@@ -250,6 +250,13 @@ contraindications:
   - REF-0112
   - REF-0063
   status: verified
+- note: 'Lab safety: a marjoram leaf extract caused dose-dependent DNA damage in cell tests at higher
+    concentrations, although rats given a single dose up to 2,000 mg/kg showed no toxicity (lab and animal
+    study).'
+  severity: info
+  reference_ids:
+  - REF-5547
+  status: verified
 references:
 - REF-1223
 - REF-1224
@@ -304,4 +311,15 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-19 (monograph-source audit): harvesting cited only REF-1231 (lab study). RE-SOURCED: PFAF REF-3304 + Grieve Sweet Marjoram (REF-4017, new). Dropped as unsupported: cut when essential-oil content is highest, dried quickly in a warm shaded well-ventilated place.
   | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0266
   ''Seidler-Lozykowska 2016, sweet marjoram essential oil in Poland'' is not in PubMed, Crossref or
-  OpenAlex as cited: removed from every entry (each kept another source) and deleted.'
+  OpenAlex as cited: removed from every entry (each kept another source) and deleted.
+  | 2026-11-26: symptom-source audit research-deepening batch 23 - Searched PubMed (Origanum
+  majorana / Majorana hortensis / sweet marjoram / marjoram tiab: 28 HT, 2 SR, 65 SAFE hits),
+  Europe PMC, ClinicalTrials.gov (8) and OpenAlex. Added: 2025 cyto/genotoxicity and acute
+  toxicity study as an info note. GAP: stress/anxiety - in a 2023 RCT of marjoram oil inhalation
+  in ICU nurses, stress and anxiety fell only within the marjoram group, with no difference from
+  the almond-oil control, so no pair. Not added: 2021 Parkinson''s tea RCT (motor score unchanged;
+  depression and non-motor gains reported within-group), 2025 Parkinson''s oxidative-stress
+  biomarkers, marjoram + cinnamon PCOS tea (combination; the earlier PCOS hormone RCT REF-1227 is
+  already held), aromatherapy blends with lavender, clary sage or neroli (dysmenorrhoea, neck
+  pain, blood pressure, arthritis), bruxism inhalation pilots (no vocab condition), heavy-metal
+  risk assessments of marjoram ointments.'

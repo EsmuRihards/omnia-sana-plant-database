@@ -214,6 +214,13 @@ indications:
   - REF-1452
   - REF-0486
   - REF-0485
+- condition: sinusitis
+  note: In a 2023 network meta-analysis of 47 randomized trials of herbal medicines for rhinosinusitis,
+    Origanum vulgare ranked most beneficial for symptoms and quality of life in chronic rhinosinusitis
+    without nasal polyps (low-certainty evidence)
+  reference_ids:
+  - REF-5545
+  status: verified
 contraindications:
 - note: Culinary amounts are safe. Concentrated oregano essential oil is a strong irritant - dilute well
     before any topical use and do not take undiluted oil internally.
@@ -228,6 +235,12 @@ contraindications:
   reference_ids:
   - REF-0485
   status: needs-review
+- note: 'Allergy: eating oregano (and thyme) caused three systemic allergic reactions in one person, confirmed
+    by skin and IgE tests; plants of the mint family (Lamiaceae) can cross-react (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5546
+  status: verified
 references:
 - REF-1447
 - REF-1448
@@ -269,4 +282,14 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Iranian Journal
   wound RCT REF-3718 added to wounds and infection. Notes rewritten (no "supports respiratory and
   gastrointestinal infections" claim without a source).
   | 2026-11-19 (monograph-source audit): preparations[2] checked against REF-0597: rewritten to its figures; ''oral use of concentrated oil should be supervised'' removed (not stated by the source).
-  | 2026-11-19 (monograph-source audit): harvesting cited only REF-1450/REF-1455 (chemotype lab studies). RE-SOURCED: Grieve Wild Marjoram (REF-4018, new) + PFAF REF-3301. Dropped as unsupported: when carvacrol/thymol content peaks, dried quickly in the shade.'
+  | 2026-11-19 (monograph-source audit): harvesting cited only REF-1450/REF-1455 (chemotype lab studies). RE-SOURCED: Grieve Wild Marjoram (REF-4018, new) + PFAF REF-3301. Dropped as unsupported: when carvacrol/thymol content peaks, dried quickly in the shade.
+  | 2026-11-26: symptom-source audit research-deepening batch 23 - Searched PubMed (Origanum
+  vulgare / oregano tiab: 53 HT, 20 SR, 235 SAFE hits; most were animal-feed and food-preservation
+  studies), Europe PMC, ClinicalTrials.gov (19) and OpenAlex. Added: NEW sinusitis pair (2023 NMA
+  of herbal medicines for rhinosinusitis, low certainty); 1996 systemic allergy case as a caution.
+  Not added: 2022 soldiers study (muscle-damage and oxidative-stress blood markers only), 2022
+  athletes essential-oil trial (O. vulgare subsp. hirtum raised HDL over 14 days; small, healthy
+  people, surrogate), spice-blend meal trials (combinations), oregano + lemon balm vaginal tablet
+  vs metronidazole (combination, active comparator), essential-oil cystitis real-world use
+  (blends), Origanum onites and O. dubium studies (other species), carvacrol-only studies,
+  irritant dermatitis letter with no abstract.'

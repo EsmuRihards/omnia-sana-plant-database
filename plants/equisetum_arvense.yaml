@@ -348,7 +348,10 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   and Tamm-Horsfall protein studies (no clinical outcome); Urox, Viviscal, CELcomplex, PEA +
   horsetail and other combinations; nail lacquer trials (horsetail one ingredient);
   perineal-trauma and PROM vaginal-cream RCTs (no vocab condition); E. bogotense, E. myriochaetum,
-  E. telmateia, E. hyemale (other species).'
+  E. telmateia, E. hyemale (other species).
+  | 2026-11-26: owner approved the batch-12 draft interaction antiretrovirals (two
+  virological-breakthrough cases with a horsetail-containing supplement, REF-5344) - status
+  approved.'
 drug_class_interactions:
 - drug_class: antiretrovirals
   severity: caution

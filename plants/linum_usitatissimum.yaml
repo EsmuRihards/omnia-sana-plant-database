@@ -167,8 +167,10 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids: []
+  note: A warm flaxseed poultice applied to the hands once a day for 7 days eased pain and improved hand
+    function in hand osteoarthritis more than a hot compress or no extra treatment (randomized trial)
+  reference_ids:
+  - REF-5469
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0001
@@ -268,6 +270,21 @@ indications:
   - REF-3627
   - REF-3628
   status: verified
+- condition: liver-support
+  note: Flaxseed lowered the liver enzyme ALT and blood triglycerides in people with non-alcoholic fatty
+    liver disease in a meta-analysis of randomized trials, and 30 g a day of ground flaxseed with lifestyle
+    advice reduced liver fibrosis and fat (steatosis) scores more than lifestyle advice alone (randomized
+    trial)
+  reference_ids:
+  - REF-5467
+  - REF-5468
+  status: verified
+- condition: menstrual-cramps
+  note: Flaxseed capsules (1 g three times a day for 8 weeks) reduced period pain, pelvic pain and pain
+    during sex compared with placebo in women with endometriosis (randomized trial)
+  reference_ids:
+  - REF-5470
+  status: verified
 contraindications:
 - note: Flaxseeds are safe for most people at recommended food amounts (1–2 tablespoons ground/day). They
     must be ground or milled to be bioavailable - whole seeds largely pass through the gut undigested.
@@ -325,6 +342,44 @@ contraindications:
   - REF-0230
   - REF-0063
   status: verified
+- note: 'Allergy: flaxseed can cause severe allergic reactions, including anaphylaxis; one woman reacted
+    to half a teaspoon of flaxseed flour (case report). Its seed storage proteins (2S albumin, Lin u 1,
+    and 11S globulin) were the allergens in five people with severe reactions, and Lin u 1 cross-reacted
+    with peanut and cashew proteins in lab tests (patient study).'
+  severity: caution
+  reference_ids:
+  - REF-5471
+  - REF-5472
+  status: verified
+- note: 'Hormones: a 70-year-old man developed breast enlargement (gynaecomastia) three months after starting
+    a daily tablespoon of flaxseed oil (case report); a meta-analysis of ten randomized trials found flaxseed
+    did not significantly change sex hormones such as FSH, SHBG or testosterone.'
+  severity: info
+  reference_ids:
+  - REF-5473
+  - REF-5474
+  status: verified
+- note: 'Cyanide: flaxseed contains cyanogenic glycosides. In a crossover study in 12 adults, a linseed
+    meal containing 6.8 mg of cyanide equivalents raised blood cyanide to a peak of about 5.7 micromolar,
+    roughly a third of the peak after cassava or bitter apricot kernels with the same amount, because
+    linseed releases its cyanide more slowly.'
+  severity: info
+  reference_ids:
+  - REF-5475
+  status: verified
+- note: 'Medicines: in a small randomized crossover study in healthy volunteers, 30 g of flaxseed taken
+    with the blood thinner dabigatran lowered dabigatran exposure (AUC) compared with placebo, although
+    the authors concluded flaxseed did not affect its pharmacokinetics overall.'
+  severity: info
+  reference_ids:
+  - REF-5476
+  status: verified
+- note: 'Blood sugar and blood pressure: in a 6-month randomized double-blind trial in adults aged 49-87,
+    a flax lignan supplement (543 mg a day) caused no episodes of low blood sugar or low blood pressure.'
+  severity: info
+  reference_ids:
+  - REF-5482
+  status: verified
 references:
 - REF-2216
 - REF-2217
@@ -372,4 +427,43 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-3620, REF-3621), blood-sugar (MAs REF-3622-REF-3624), constipation (RCTs REF-3627,
   REF-3628). Inflammation: 2024 MA REF-3625 support, 2016 CRP MA REF-3626 no-effect. Gap: hot
   flashes - flaxseed RCTs 21900849 and 20007337 were null and there is no hot-flash pair.
-  | 2026-11-19 (monograph-source audit): dosage[1] checked against REF-3104: trial dose correct; removed the unsourced comparison with ''1-2 tablespoons (10-15 ml) daily often cited for omega-3 intake'' and the aside about the EU monograph scope.'
+  | 2026-11-19 (monograph-source audit): dosage[1] checked against REF-3104: trial dose correct; removed the unsourced comparison with ''1-2 tablespoons (10-15 ml) daily often cited for omega-3 intake'' and the aside about the EU monograph scope.
+  | 2026-11-26: symptom-source audit research-deepening batch 20 - Searched PubMed (Linum
+  usitatissimum / flaxseed / flax seed / linseed tiab, flax and secoisolariciresinol ti: 606 HT,
+  110 SR, 543 SAFE hits), Europe PMC (flax queries timed out and were re-run), ClinicalTrials.gov
+  (109) and OpenAlex. Huge plant: screened the SR family, conditions without a pair and safety;
+  blood sugar (9), blood pressure (9), cholesterol (8), metabolic support (8), inflammation (7)
+  and constipation (6) were not padded, and ALA-only or mixed omega-3 studies were not counted as
+  flaxseed. Added: NEW liver-support pair (2024 NAFLD MA; 2016 randomized open-label trial,
+  between-group fibrosis and steatosis differences); hand-osteoarthritis poultice RCT to
+  arthritis; NEW menstrual-cramps pair (2024 block-randomized placebo RCT in endometriosis);
+  allergy caution (anaphylaxis case, storage-protein patient study); hormone info note
+  (gynaecomastia case with the null sex-hormone MA); cyanide info note (2016 human crossover
+  study); dabigatran info note; flax-lignan safety RCT (no hypoglycaemia or hypotension, found via
+  Europe PMC) as an info note; DRAFT anticoagulants-antiplatelets interaction (insufficient;
+  platelet SR + dabigatran study). Not added: menopause and hot flushes (2013 SR of controlled
+  flax trials found no difference from control and judged flax not indicated for vasomotor
+  symptoms; a 2016 MA found a non-significant benefit; a 2024 single-blind Cureus RCT reported
+  large benefits, so the evidence is conflicting and no pair was created); 2025 NAFLD RCT 39878023
+  (within-group changes only in the abstract); 2021 flaxseed + hesperidin NAFLD trial (factorial,
+  mostly vs baseline); 2018 topical flaxseed oil knee OA RCT 29705472 (no abstract); 2020
+  flaxseed-oil artificial tear (differs from its comparator by two ingredients, trehalose and
+  flaxseed oil, and the primary endpoint did not differ); 2025 flaxseed oil vs betamethasone in
+  psoriasis (active comparator); 2014 topical linseed oil RCT in carpal tunnel syndrome (better
+  symptom and function scores vs placebo; no vocab condition for nerve entrapment) and 2017
+  flaxseed-oil gel vs splint (active comparator); PCOS trials (no vocab condition; 29117618
+  carries a 2018 note of concern); IVF oocyte, mastalgia and lupus nephritis studies (no vocab
+  condition, single-arm, or not significant); 2021 OTC constipation SR (only a yogurt + prunes +
+  linseed oil combination); 2014 flax and breast cancer SR (re-reviews the trial already on the
+  cancer pair); 2018 raw-smoothie cyanide survey (journal of uncertain standing); anaphylaxis,
+  rhinoconjunctivitis and pseudolymphoma reports with no abstract.'
+drug_class_interactions:
+- drug_class: anticoagulants-antiplatelets
+  severity: insufficient
+  mechanism: Flaxseed reduced platelet aggregation in randomized trials in healthy people (systematic
+    review). In a small crossover study, 30 g of flaxseed lowered exposure to the anticoagulant dabigatran
+    in one comparison, though the authors concluded it did not meaningfully affect the drug.
+  reference_ids:
+  - REF-5477
+  - REF-5476
+  status: draft

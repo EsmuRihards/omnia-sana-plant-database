@@ -1,0 +1,42 @@
+   linum-usitatissimum HT 606
+   linum-usitatissimum SR 110
+   linum-usitatissimum SAFE 543
+   linum-usitatissimum OBS 68
+   linum-usitatissimum REV 365
+linum-usitatissimum done
+   lysimachia-vulgaris HT 0
+   lysimachia-vulgaris SR 0
+   lysimachia-vulgaris SAFE 1
+   lysimachia-vulgaris OBS 0
+   lysimachia-vulgaris REV 0
+lysimachia-vulgaris done
+   mahonia-aquifolium HT 15
+   mahonia-aquifolium SR 3
+   mahonia-aquifolium SAFE 19
+   mahonia-aquifolium OBS 1
+   mahonia-aquifolium REV 13
+mahonia-aquifolium done
+   malva-sylvestris HT 21
+   malva-sylvestris SR 3
+   malva-sylvestris SAFE 39
+   malva-sylvestris OBS 2
+   malva-sylvestris REV 14
+malva-sylvestris done
+   marrubium-vulgare HT 4
+   marrubium-vulgare SR 1
+   marrubium-vulgare SAFE 21
+   marrubium-vulgare OBS 1
+   marrubium-vulgare REV 7
+marrubium-vulgare done
+
+PUBMED-DONE
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22Linum+usitatissimum%22+OR+TITLE%3A%22Fla The read operation timed out
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22Linum+usitatissimum%22+OR+TITLE%3A%22Fla The read operation timed out
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Linum+usitatissimum%22+AND+%28TITLE%3Apatients+OR+TITLE The read operation timed out
+linum-usitatissimum done
+lysimachia-vulgaris done
+mahonia-aquifolium done
+malva-sylvestris done
+marrubium-vulgare done
+# Research-deepening batch 20 - Europe PMC
+SEARCH-DONE

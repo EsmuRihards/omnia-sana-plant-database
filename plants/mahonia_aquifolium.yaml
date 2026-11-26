@@ -195,6 +195,7 @@ contraindications:
   reference_ids:
   - REF-0487
   - REF-0488
+  - REF-5478
   status: verified
 references:
 - REF-1173
@@ -240,4 +241,14 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J C
   mouth and intestinal infections, infected wounds, psoriasis, eczema and digestive support; lists
   references. Topical psoriasis MA REF-3643 and open-label atopic dermatitis trial REF-3644 added.
   Notes rewritten. Gap: digestion (traditional only, no pair).
-  | 2026-11-19 (monograph-source audit): preparations[0] and dosage[0] checked against REF-0487/REF-0591/REF-1173: rewritten to what they state (10% cream, twice daily for 12 weeks, 5 of 7 psoriasis studies positive). Dropped as unsupported: bark extract, best-studied form, up to three times daily, eczema wording, internal use should be supervised.'
+  | 2026-11-19 (monograph-source audit): preparations[0] and dosage[0] checked against REF-0487/REF-0591/REF-1173: rewritten to what they state (10% cream, twice daily for 12 weeks, 5 of 7 psoriasis studies positive). Dropped as unsupported: bark extract, best-studied form, up to three times daily, eczema wording, internal use should be supervised.
+  | 2026-11-26: symptom-source audit research-deepening batch 20 - Searched PubMed (Mahonia
+  aquifolium / Berberis aquifolium / Oregon grape / Relieva tiab: 15 HT, 3 SR, 19 SAFE hits; many
+  "Relieva" hits were a sinus stent of the same name), Europe PMC, ClinicalTrials.gov (1, a
+  combination) and OpenAlex. Psoriasis (9) and eczema (8) were not padded. Added: a 2023 cell
+  study in which Oregon grape root extracts inhibited P-glycoprotein efflux of cyclosporine and
+  digoxin, to the medicines caution. Not added: 1996 intraindividual psoriasis study and 1999
+  ointment biomarker study (psoriasis already 9), 2007 vehicle-controlled ointment with Viola and
+  other herbs (combination), berberine-only reviews (shared with goldenseal, barberry and Coptis),
+  homeopathic preparations, a 2026 eye injury from the spiny leaves (physical injury, not use of
+  the herb).'

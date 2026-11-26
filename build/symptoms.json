@@ -7666,6 +7666,17 @@
      ]
     },
     {
+     "condition": "liver-support",
+     "label": "Liver support",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5467",
+      "REF-5468"
+     ]
+    },
+    {
      "condition": "metabolic-support",
      "label": "Metabolic support",
      "evidence": 8,
@@ -7700,6 +7711,16 @@
      ]
     },
     {
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-5469"
+     ]
+    },
+    {
      "condition": "cancer",
      "label": "Cancer (anticancer research)",
      "evidence": 5,
@@ -7723,12 +7744,14 @@
      ]
     },
     {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
+     "condition": "menstrual-cramps",
+     "label": "Menstrual cramps",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5470"
+     ]
     },
     {
      "condition": "bloating",
@@ -11242,6 +11265,19 @@
      ]
     },
     {
+     "condition": "pain",
+     "label": "Pain (general)",
+     "evidence": 6,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0541",
+      "REF-0542",
+      "REF-3646",
+      "REF-5480"
+     ]
+    },
+    {
      "condition": "eczema",
      "label": "Eczema",
      "evidence": 5,
@@ -11249,18 +11285,6 @@
      "inferred": false,
      "references": [
       "REF-3645"
-     ]
-    },
-    {
-     "condition": "pain",
-     "label": "Pain (general)",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0541",
-      "REF-0542",
-      "REF-3646"
      ]
     },
     {

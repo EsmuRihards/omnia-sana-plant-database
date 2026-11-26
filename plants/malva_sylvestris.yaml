@@ -232,12 +232,15 @@ indications:
   - REF-1192
   status: needs-review
 - condition: pain
-  note: A mallow mouthwash eased chemotherapy mouth-sore pain in a randomized trial, but a cream did not
-    ease episiotomy pain; analgesic effects reported in lab and animal studies (reviews)
+  note: 'A mallow mouthwash eased chemotherapy mouth-sore pain in a randomized trial. For episiotomy pain
+    the results are mixed: a mallow ointment reduced pain more than placebo on days 5 and 10 in one randomized
+    triple-blind trial, but a cream did not in another; analgesic effects reported in lab and animal studies
+    (reviews)'
   reference_ids:
   - REF-0541
   - REF-0542
   - REF-3646
+  - REF-5480
   status: needs-review
   null_result_ids:
   - REF-1190
@@ -294,6 +297,12 @@ contraindications:
   reference_ids:
   - REF-0480
   status: verified
+- note: 'Skin: mallow was among the plants that caused irritant contact dermatitis in a prospective study
+    of 34 patients with plant-related skin reactions in eastern Turkey.'
+  severity: info
+  reference_ids:
+  - REF-5479
+  status: verified
 references:
 - REF-1183
 - REF-1184
@@ -339,4 +348,19 @@ internal_notes: 'Enriched 2026-06-12 from regulatory literature (EMA HMPC monogr
   rule): eczema (paediatric RCT REF-3645), oral-health (stomatitis RCT REF-3646, mouthwash RCT
   REF-3647, EU monograph oral irritation). Stomatitis RCT also added to pain. Notes state the null
   episiotomy RCT REF-1190. Gap: constipation - placebo-controlled flower-extract trial 25801702
-  does not state randomisation.'
+  does not state randomisation.
+  | 2026-11-26: symptom-source audit research-deepening batch 20 - Searched PubMed (Malva
+  sylvestris / common, high or blue mallow tiab, mallow ti: 21 HT, 3 SR, 39 SAFE hits; "mallow"
+  also matched marsh mallow, Malva parviflora livestock poisoning and the Irish town of Mallow),
+  Europe PMC, ClinicalTrials.gov (5) and OpenAlex (56 no-PMID hits). Added: 2024 triple-blind
+  randomized placebo trial of mallow ointment for episiotomy pain (Iranian Journal of Obstetrics,
+  Gynecology and Infertility; DOI only, OpenAlex abstract) to pain beside the null cream trial;
+  irritant dermatitis from a 2019 prospective phytodermatitis study as an info note. GAP:
+  constipation - the 2015 placebo-controlled flower-extract trial still does not state
+  randomisation, and the 2024 food-supplement study is an uncontrolled consumer survey. Not added:
+  2026 J Herb Med episiotomy-healing report from the same group (no abstract); 2014 letter on
+  fulminant liver and kidney failure linked to Malva sylvestris (no abstract; worth re-checking if
+  the full text becomes available); 1948 report of mallow leaves confused with chamico (Datura)
+  (no abstract); KalobaTUSS and other cough syrups, Persian compound mouthwashes, saliva
+  substitutes, vaginal gels and eye drops with hyaluronic acid (combinations); Malva parviflora
+  animal poisonings (other species).'

@@ -1,0 +1,1104 @@
+# Research-deepening batch 20 - search
+
+## linum-usitatissimum (Linum usitatissimum) - name clause: "Linum usitatissimum"[tiab] OR "flaxseed"[tiab] OR "flax seed"[tiab] OR "linseed"[tiab] OR "flaxseeds"[tiab] OR "flax"[ti] OR "secoisolariciresinol"[ti]
+
+### PubMed HT - 606 hits, 200 not already listed above, 187 new
+- new | 2026 | 42100281 | Systematic Review | Efficacy and safety of dietary supplements for the treatment of ulcerative colitis, a network meta-analysis. | Front Med (Lausanne)
+- new | 2026 | 41745922 |  | Supplementation of Flaxseed Increases Omega-3 Fatty Acids Accumulation in the Meat of Beijing-You Chickens. | Vet Sci
+- new | 2026 | 41495414 | Randomized Controlled Trial | Effects of diacylglycerol-enriched alpha-linolenic acid oil on skin properties in mild skin discomfort: a randomized, double-blind, placebo-controlled study. | Sci Rep
+- new | 2026 | 42128091 | Randomized Controlled Trial | Effect of different sources of saturated and polyunsaturated fatty acids on postprandial inflammation: A double-blind randomized crossover trial. | Clin Nutr ESPEN
+- new | 2026 | 41756257 |  | The Injection of Lipids Into Yolk Sac has Been Shown to Alter the Lipid Metabolism of Adult Nile Tilapia (Oreochromis niloticus). | Aquac Nutr
+- new | 2025 | 39996006 | Systematic Review | Evaluating the effects of seed oils on lipid profile, inflammatory and oxidative markers, and glycemic control of diabetic and dyslipidemic patients: a systematic review of clinica | Front Nutr
+- new | 2025 | 41377590 | Review | Natural strategies to optimize estrogen levels in aging women: mini review. | Front Aging
+- new | 2025 | 39878023 | Randomized Controlled Trial | Flaxseed powder supplementation in non-alcoholic fatty liver disease: a randomized controlled clinical trial. | Food Funct
+- new | 2025 | 40260281 | Randomized Controlled Trial | Flaxseed intervention and reproductive endocrine profiles in patients with polycystic ovary syndrome: an open-labeled randomized controlled clinical trial. | Front Endocrinol (Lausanne)
+- new | 2025 | 41010543 | Systematic Review | Systematic Review of the Effects of Plant-Based Foods on Metabolic Outcomes in Adults with MASLD and Comorbidities Such as Obesity, Metabolic Syndrome, and Type 2 Diabetes. | Nutrients
+- new | 2025 | 40499336 | Systematic Review/Meta-Analysis | The effect of flaxseed supplementation on anthropometric indices, blood pressure, and lipid profile in diabetic patients: A GRADE-assessed systematic review and meta-analysis of ra | Diabetes Metab Syndr
+- new | 2025 | 40161181 |  | Dietary Status and the Effect of Flaxseed Supplementation on the Severity of Perimenopausal Symptoms. | Cureus
+- new | 2025 | 40421205 |  | Osmotic laxatives do not alter dabigatran plasma concentration in healthy volunteers - a randomized, controlled, cross-over trial. | Front Pharmacol
+- new | 2025 | 40584854 |  | Effect of foliar spray selenium on antioxidant defense system, yields, fatty acid composition, and mineral concentrations in flax (Linum usitatissimum L.). | Front Plant Sci
+- new | 2025 | 41669307 |  | Efficacy of Flaxseed Oil in Treating Mild to Moderate Psoriasis Vulgaris Compared with Topical Betamethasone: A Randomized, Double-Blind, Clinical Trial. | Adv Biomed Res
+- new | 2025 | 40520241 | Review | Can flaxseed supplementation alleviate blood pressure in patients with metabolic diseases? Evaluating the strength of evidence using a meta-analysis and GRADE approach. | J Diabetes Metab Disord
+- new | 2025 | 40005038 | Randomized Controlled Trial | Flaxseed Improves Glucose and Lipid Metabolism in Mexican Subjects with Type 2 Diabetes: A Parallel Randomized Clinical Trial. | Nutrients
+- new | 2025 | 40365516 | Review | Efficacy of flaxseed in reducing blood pressure among patients with cardiovascular risk factors: A systematic review and meta-analysis of parallel randomized controlled trials. | J Cardiovasc Thorac Res
+- new | 2024 | 39364521 |  | Effects of Flaxseed on Perimenopausal Symptoms: Findings From a Single-Blind, Randomized, Placebo-Controlled Study. | Cureus
+- HELD REF-2221 | 2024 | 38992480 | Systematic Review/Meta-Analysis | The effects of flaxseed (Linum usitatissimum) supplementation on anthropometric indices: An updated systematic review and meta-analysis of randomized clinical trials. | Complement Ther Med
+- new | 2024 | 38584649 | Systematic Review | Effect of Fish-Based Diet on Malnourished Children: A Systematic Review. | Iran J Med Sci
+- new | 2024 | 38269632 | Meta-Analysis/Systematic Review | Effects of flaxseed supplementation on weight loss, lipid profiles, glucose, and high-sensitivity C-reactive protein in patients with coronary artery disease: A systematic review a | Clin Cardiol
+- new | 2024 | 38799144 |  | Availability of dietary secoisolariciresinol diglucoside on borderline blood cholesterol level in men: a randomized, parallel, controlled, double-blinded clinical trial. | J Clin Biochem Nutr
+- new | 2024 | 38726572 | Systematic Review/Meta-Analysis | The impact of flaxseed oil on lipid profiles, weight loss, and inflammatory markers in hemodialysis patients: A systematic review and meta-analysis of randomized controlled trials. | Ther Apher Dial
+- new | 2024 | 38663513 | Systematic Review/Meta-Analysis | Impact of flaxseed supplementation on lipid profile and liver enzymes in patients with non-alcoholic fatty liver disease: Systematic review and meta-analysis of randomized controll | Prostaglandins Other Lipid Mediat
+- new | 2024 | 39063602 |  | Effect of Crushed Flaxseed Consumption on Cardiovascular Risk Indicators in Menopausal Women. | Life (Basel)
+- HELD REF-3625 | 2024 | 38971216 | Meta-Analysis/Systematic Review/Research Support, Non-U.S. Gov't | Effects of flaxseed supplementation on inflammatory biomarkers: A GRADE-assessed systematic review and meta-analysis of randomized controlled trials. | Prostaglandins Other Lipid Mediat
+- new | 2024 | 39628469 | Systematic Review | Effects of polyphenol-rich seed foods on lipid and inflammatory markers in patients with coronary heart disease: a systematic review. | Front Nutr
+- new | 2024 | 39328221 |  | Development of molecular markers based on real-time PCR to detect flax and sesame in commercial amaranth products. | Food Sci Biotechnol
+- new | 2024 | 39759908 |  | The Effects of Chamomile and Flaxseed on Pelvic Pain, Dyspareunia, and Dysmenorrhea in Endometriosis: A Controlled Randomized Clinical Trial. | Iran J Nurs Midwifery Res
+- new | 2024 | 38807721 |  | Flaxseed powder and magnesium hydroxide syrup on the intestinal function of patients with acute myocardial infarction in intensive care units. | Caspian J Intern Med
+- new | 2024 | 39026621 |  | Efficacy of Flaxseed Compared to ACE Inhibition in Treating Anthracycline- and Trastuzumab-Induced Cardiotoxicity. | CJC Open
+- new | 2024 | 38681370 |  | Impact of Flaxseed Oil Supplementation on Tobacco Dependence, Craving, and Haematological Parameters in Tobacco-Dependent Subjects. | Cureus
+- new | 2024 | 39380085 | Clinical Trial Protocol | Investigating the effects of co-supplementation with alpha-linolenic acid and L-carnitine on inflammatory status, oxidative stress, clinical symptoms, mental health and quality of  | Trials
+- new | 2024 | 38469148 | Randomized Controlled Trial | Effects of flaxseed oil supplementation on metaphase II oocyte rates in IVF cycles with decreased ovarian reserve: a randomized controlled trial. | Front Endocrinol (Lausanne)
+- new | 2024 | 38815204 | Randomized Controlled Trial | Clinical application of hempseed or flaxseed oil-based lyotropic liquid crystals: Evaluation of their impact on skin barrier function. | Acta Pharm
+- new | 2024 | 39057535 |  | The Effects of Flaxseed Consumption on Glycemic Control in Native American Postmenopausal Women with Hyperglycemia and Hyperlipidemia. | Healthcare (Basel)
+- new | 2024 | 39550356 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effectiveness of flaxseed consumption and fasting mimicking diet on anthropometric measures, biochemical parameters, and hepatic features in patients with Metabolic Dysfunction-Ass | Nutr Diabetes
+- new | 2024 | 38279665 |  | Changes in microRNAs expression of flax (Linum usitatissimum L.) planted in a cadmium-contaminated soil following the inoculation with root symbiotic fungi. | Int J Phytoremediation
+- new | 2024 | 39323326 |  | Effect of Flaxseed on Pain Relief and Quality of Life in Patients With Mastalgia: A Single Arm Interventional Study. | Eur J Breast Health
+- new | 2024 | 37936348 |  | Energy, protein and iron densities of dabi teff-field pea-based optimised novel complementary flour and its contribution to daily energy and nutrients demand by 6-23-month-old chil | Br J Nutr
+- new | 2023 | 37457161 |  | Cookies enriched with anethole and secoisolariciresinol diglucoside from flaxseed and fennel seeds improve hypercholesterolemia, lipid profile, and liver functions: A pilot study. | Food Sci Nutr
+- new | 2023 | 36904244 |  | Palatability and Acceptability of Flaxseed-Supplemented Foods in Children with Sickle Cell Disease. | Nutrients
+- new | 2023 | 37049632 | Randomized Controlled Trial | Effects on Serum Hormone Concentrations after a Dietary Phytoestrogen Intervention in Patients with Prostate Cancer: A Randomized Controlled Trial. | Nutrients
+- new | 2023 | 36435474 | Randomized Controlled Trial | Gummies candy enriched with Konjac glucomannan reduces hunger intensity and waist circumference of overweight individuals. | Int J Biol Macromol
+- new | 2023 | 37743909 | Systematic Review | Can flaxseed supplementation affect circulating adipokines in adults? An updated systematic review and meta-analysis of randomized controlled trials. | Front Nutr
+- new | 2023 | 36433633 | Systematic Review | The effects of flaxseed or its oil supplementations on polycystic ovary syndrome: A systematic review of clinical trials. | Phytother Res
+- new | 2023 | 37335239 | Randomized Controlled Trial | Effects of olive oil and flaxseed consumption in a healthy diet on endothelial function, plasma lipids and inflammatory factors of patients with coronary heart disease: a randomize | Coron Artery Dis
+- HELD REF-3618 | 2023 | 36622248 | Systematic Review/Meta-Analysis | Effect of flaxseed supplementation on blood pressure: a systematic review, and dose-response meta-analysis of randomized clinical trials. | Food Funct
+- new | 2023 | 36818058 |  | Effects of Flaxseed Oil and Olive Oil on Markers of Inflammation and Wound Healing in Burn Patients: A Randomized Clinical Trial. | Bull Emerg Trauma
+- new | 2023 | 36696509 | Randomized Controlled Trial | Bacteroides uniformis and its preferred substrate, α-cyclodextrin, enhance endurance exercise performance in mice and human males. | Sci Adv
+- new | 2023 | 37048415 |  | Composition, Organoleptic Characteristics, Fatty Acid Profile and Oxidative Status of Cow's Milk and White Cheese after Dietary Partial Replacement of Soybean Meal with Flaxseed an | Animals (Basel)
+- new | 2023 | 37719212 |  | Phosphorus and naphthalene acetic acid increased the seed yield by regulating carbon and nitrogen assimilation of flax. | Front Plant Sci
+- new | 2023 | 37070105 |  | The effects of flaxseed supplementation on concentration of circulating adipokines in patients with ulcerative colitis. | Gastroenterol Hepatol Bed Bench
+- new | 2023 | 36753666 | Randomized Controlled Trial | Fatty acid correlations with HOMA-IR and HOMA-% β are differentially dictated by their serum free and total pools and flaxseed oil supplementation. | Endocr Regul
+- new | 2023 | 36842754 | Research Support, Non-U.S. Gov't | Digestive and metabolic bioavailability in healthy humans of (15)N-labeled rapeseed and flaxseed protein incorporated in biscuits. | Am J Clin Nutr
+- new | 2023 | 36839965 |  | Therapeutic Efficacy of a Formulation Prepared with Linum usitatissimum L., Plantago ovata Forssk., and Honey on Uncomplicated Pelvic Inflammatory Disease Analyzed with Machine Lea | Pharmaceutics
+- HELD REF-3623 | 2023 | 36640581 | Meta-Analysis/Systematic Review/Research Support, Non-U.S. Gov't | Flaxseed supplementation significantly reduces hemoglobin A1c in patients with type 2 diabetes mellitus: A systematic review and meta-analysis. | Nutr Res
+- HELD REF-3622 | 2022 | 35843472 | Meta-Analysis/Systematic Review | Effect of flaxseed (Linum usitatissimum) supplementation on glycemic control and insulin resistance in prediabetes and type 2 diabetes: A systematic review and meta-analysis of ran | Complement Ther Med
+- new | 2022 | 30843767 | Randomized Controlled Trial | Flaxseed supplementation improves anthropometric measurements, metabolic, and inflammatory biomarkers in overweight and obese adults. | Int J Vitam Nutr Res
+- HELD REF-3621 | 2022 | 34384619 | Meta-Analysis/Systematic Review | Effects of Flaxseed on Blood Lipids in Healthy and Dyslipidemic Subjects: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Curr Probl Cardiol
+- new | 2022 | 35916016 | Systematic Review | The effect of flaxseed intake on appetite reduction: A systematic review of randomized clinical trials. | Phytother Res
+- new | 2022 | 34689847 | Expression of Concern | The effects of omega-3 fatty acids from flaxseed oil on genetic and metabolic profiles in patients with gestational diabetes mellitus: a randomized, double-blind, placebo-controlle | Br J Nutr
+- new | 2022 | 35859037 | Meta-Analysis/Systematic Review | The effect of flaxseed oil consumtion on blood pressure among patients with metabolic syndrome and related disorders: A systematic review and meta-analysis of randomized clinical t | Phytother Res
+- new | 2022 | 35745107 | Controlled Clinical Trial | Personalized Nutrition Using Microbial Metabolite Phenotype to Stratify Participants and Non-Invasive Host Exfoliomics Reveal the Effects of Flaxseed Lignan Supplementation in a Pl | Nutrients
+- new | 2022 | 35745197 | Meta-Analysis/Systematic Review | Role of Phytoestrogen-Rich Bioactive Substances (Linum usitatissimum L., Glycine max L., Trifolium pratense L.) in Cardiovascular Disease Prevention in Postmenopausal Women: A Syst | Nutrients
+- new | 2022 | 35261959 |  | Recruitment and Retention of Healthy, Postmenopausal Women of African and European Ancestry: Results from a Dietary Intervention with Repeated Biospecimen Collections. | Curr Dev Nutr
+- new | 2022 | 34837524 | Randomized Controlled Trial | The effect of flaxseed with or without anti-inflammatory diet in patients with rheumatoid arthritis, a randomized controlled trial. | Eur J Nutr
+- new | 2022 | 35720587 |  | Physiological, Biochemical, and Yield Responses of Linseed (Linum usitatissimum L.) in α-Tocopherol-Mediated Alleviation of Salinity Stress. | Front Plant Sci
+- new | 2022 | 34119421 | Randomized Controlled Trial | Effects of flaxseed on blood pressure, body mass index, and total cholesterol in hypertensive patients: A randomized clinical trial. | Explore (NY)
+- new | 2022 | 36145115 | Randomized Controlled Trial | Acute Flaxseed Intake Reduces Postprandial Glycemia in Subjects with Type 2 Diabetes: A Randomized Crossover Clinical Trial. | Nutrients
+- new | 2022 | 36015282 |  | Development of Phytocosmeceutical Microemulgel Containing Flaxseed Extract and Its In Vitro and In Vivo Characterization. | Pharmaceutics
+- new | 2022 | 36302588 | Research Support, Non-U.S. Gov't | Relationship of Circulating Vegetable Omega-3 to Prognosis in Patients With Heart Failure. | J Am Coll Cardiol
+- new | 2022 | 35681864 |  | Chitosan/Calcium-Alginate Encapsulated Flaxseed Oil on Dairy Cattle Diet: In Vitro Fermentation and Fatty Acid Biohydrogenation. | Animals (Basel)
+- new | 2022 | 35587317 |  | Inoculation with Azospirillum brasilense and/or Pseudomonas geniculata reinforces flax (Linum usitatissimum) growth by improving physiological activities under saline soil conditio | Bot Stud
+- new | 2022 | 36299564 | Case Reports/Clinical Trial | Influence of Flax Seeds on the Gut Microbiota of Elderly Patients with Constipation. | J Multidiscip Healthc
+- new | 2022 | 35889835 | Randomized Controlled Trial | Effect of Flaxseed (Linum usitatissimum L.) Supplementation on Vascular Endothelial Cell Morphology and Function in Patients with Dyslipidaemia-A Preliminary Observation. | Nutrients
+- new | 2022 | 36544211 | Clinical Trial Protocol | The effect of a phytoestrogen intervention and impact of genetic factors on tumor proliferation markers among Swedish patients with prostate cancer: study protocol for the randomiz | Trials
+- new | 2022 | 35485674 | Randomized Controlled Trial | Clinical Assessment of Efficacy of Omega 3 in Oral Submucous Fibrosis Patients - A Randomized Controlled Trial. | Asian Pac J Cancer Prev
+- new | 2022 | 35130547 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Flaxseed Mucilage (IQP-LU-104) Reduces Body Weight in Overweight and Moderately Obese Individuals in a 12-week, Three-Arm, Double-Blind, Randomized, and Placebo-Controlled Clinical | Obes Facts
+- new | 2022 | 36398219 |  | Effect of dietary flaxseed oil on the prognosis of acute anterior cruciate ligament rupture: a randomized placebo-controlled trial. | Am J Transl Res
+- new | 2021 | 32296931 | Randomized Controlled Trial | Flaxseed and/or hesperidin supplementation in metabolic syndrome: an open-labeled randomized controlled trial. | Eur J Nutr
+- new | 2021 | 34635132 | Review | Comparisons of the effects of different flaxseed products consumption on lipid profiles, inflammatory cytokines and anthropometric indices in patients with dyslipidemia related dis | Nutr Metab (Lond)
+- new | 2021 | 34579291 |  | Reintroducing Flax (Linum usitatissimum L.) to the Mediterranean Basin: The Importance of Nitrogen Fertilization. | Plants (Basel)
+- new | 2021 | 33861444 | Review | Medicinal Plants and Phytochemicals Regulating Insulin Resistance and Glucose Homeostasis in Type 2 Diabetic Patients: A Clinical Review. | Adv Exp Med Biol
+- new | 2021 | 31634874 | Meta-Analysis | Flaxseed Supplementation Reduces Plasma Lipoprotein(a) Levels: A Meta-Analysis. | Altern Ther Health Med
+- new | 2021 | 33407941 |  | The comparison of the effect of flaxseed oil and vitamin E on mastalgia and nodularity of breast fibrocystic: a randomized double-blind clinical trial. | J Pharm Health Care Sci
+- new | 2021 | 32647367 | Randomized Controlled Trial | The efficacy of flaxseed and hesperidin on non-alcoholic fatty liver disease: an open-labeled randomized controlled trial. | Eur J Clin Nutr
+- new | 2021 | 33482045 | Randomized Controlled Trial | The effects of flaxseed supplementation on gene expression and inflammation in ulcerative colitis patients: An open-labelled randomised controlled trial. | Int J Clin Pract
+- new | 2021 | 34161146 | Clinical Trial, Phase II/Randomized Controlled Trial | Phase II Trial of Flaxseed to Prevent Acute Complications After Chemoradiation for Lung Cancer. | J Altern Complement Med
+- new | 2021 | 33856729 | Randomized Controlled Trial | The effects of flaxseed supplementation on metabolic syndrome parameters, insulin resistance and inflammation in ulcerative colitis patients: An open-labeled randomized controlled  | Phytother Res
+- new | 2021 | 34429308 |  | Medicinal plants used among pregnant women in a tertiary teaching hospital in Jimma, Ethiopia: a cross-sectional study. | BMJ Open
+- new | 2020 | 32325781 |  | Flaxseed (Linum Usitatissimum L.) Supplementation in Patients Undergoing Lipoprotein Apheresis for Severe Hyperlipidemia-A Pilot Study. | Nutrients
+- new | 2020 | 33183549 | Meta-Analysis/Systematic Review | Effects of flaxseed oil supplementation on biomarkers of inflammation and oxidative stress in patients with metabolic syndrome and related disorders: A systematic review and meta-a | Clin Nutr ESPEN
+- new | 2020 | 32073724 | Meta-Analysis/Systematic Review | Impact of flaxseed supplementation on plasma lipoprotein(a) concentrations: A systematic review and meta-analysis of randomized controlled trials. | Phytother Res
+- new | 2020 | 32050052 | Meta-Analysis/Systematic Review | The effect of flaxseed supplementation on circulating adiponectin and leptin concentration in adults: A systematic review and meta-analysis of randomized controlled trials. | Phytother Res
+- HELD REF-3620 | 2020 | 31899314 | Meta-Analysis/Systematic Review | Effect of flaxseed supplementation on lipid profile: An updated systematic review and dose-response meta-analysis of sixty-two randomized controlled trials. | Pharmacol Res
+- new | 2020 | 32929447 | Comment | Comment on "Effects of Flaxseed Interventions on Circulating Inflammatory Biomarkers: A Systematic Review and Meta-Analysis of Randomized Controlled Trials". | Adv Nutr
+- new | 2020 | 32624612 |  | Nutrient selection and optimization to formulate a nutrient bar stable on storage and specific to women at risk of osteoporosis. | J Food Sci Technol
+- new | 2020 | 31734510 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | An artificial tear containing flaxseed oil for treating dry eye disease: A randomized controlled trial. | Ocul Surf
+- new | 2020 | 32575611 | Randomized Controlled Trial | Effect of a Flaxseed Lignan Intervention on Circulating Bile Acids in a Placebo-Controlled Randomized, Crossover Trial. | Nutrients
+- new | 2020 | 32245478 |  | Impact of lignans in oilseed mix on gut microbiome composition and enterolignan production in younger healthy and premenopausal women: an in vitro pilot study. | Microb Cell Fact
+- new | 2020 | 33282278 |  | Development and nutritional evaluation of local ingredients-based supplements to treat moderate acute malnutrition among children aged below five years: A descriptive study from ru | Food Sci Nutr
+- new | 2020 | 32370762 |  | Effect of flaxseed oil supplementation on the erythrocyte membrane fatty acid composition and endocannabinoid system modulation in patients with coronary artery disease: a double-b | Genes Nutr
+- new | 2020 | 32966475 | Randomized Controlled Trial | Defatted flaxseed flour improves weight loss and lipid profile in overweight and obese adults: a randomized controlled trial. | Food Funct
+- new | 2020 | 33257489 | Clinical Trial Protocol | Multicentre randomised phase II study of the perioperative administration of flurbiprofen axetil in patients with non-small cell lung cancer: study protocol of the FLAX Study. | BMJ Open
+- new | 2020 | 32095449 |  | A Comparative Study of the Effect of Flaxseed Oil and Sunflower Oil on the Coagulation Score, Selected Oxidative and Inflammatory Parameters in Metabolic Syndrome Patients. | Clin Nutr Res
+- new | 2019 | 31196252 | Systematic Review | Effects of nut and seed consumption on markers of glucose metabolism in adults with prediabetes: a systematic review of randomised controlled trials. | Br J Nutr
+- new | 2019 | 30511840 | Randomized Controlled Trial | Lowering Effects of n-3 Fatty Acid Supplements on Blood Pressure by Reducing Plasma Angiotensin II in Inner Mongolia Hypertensive Patients: A Double-Blind Randomized Controlled Tri | J Agric Food Chem
+- new | 2019 | 31115436 | Meta-Analysis/Systematic Review | Effects of Flaxseed Interventions on Circulating Inflammatory Biomarkers: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Adv Nutr
+- new | 2019 | 30786797 | Review | An overview of the phytoestrogen effect on vaginal health and dyspareunia in peri- and post-menopausal women. | Post Reprod Health
+- new | 2019 | 30697250 | Review | A systematic review and meta-analysis of clinical trials investigating the effects of flaxseed supplementation on plasma C-reactive protein concentrations. | Arch Med Sci
+- new | 2019 | 30963048 |  | Clinical study of effectiveness and safety of CELcomplex(®) containing Cucurbita Pepo Seed extract and Flax and Casuarina on stress urinary incontinence in women. | J Tradit Complement Med
+- new | 2019 | 31720254 |  | The Effect of Flaxseed Enriched Yogurt on the Glycemic Status and Cardiovascular Risk Factors in Patients with Type 2 Diabetes Mellitus: Randomized, Open-labeled, Controlled Study. | Clin Nutr Res
+- new | 2019 | 29999194 | Randomized Controlled Trial | Effect of milled flaxseed and storage conditions on sensory properties and selected bioactive compounds in banana and cinnamon muffins used in a clinical trial. | J Sci Food Agric
+- new | 2019 | 31190359 | Comparative Study/Randomized Controlled Trial | A comparison between the effects of flaxseed oil and fish oil supplementation on cardiovascular health in type 2 diabetic patients with coronary heart disease: A randomized, double | Phytother Res
+- new | 2019 | 30554092 | Randomized Controlled Trial | The effects of omega-3 fatty acids and vitamin E co-supplementation on gene expression related to inflammation, insulin and lipid in patients with Parkinson's disease: A randomized | Clin Neurol Neurosurg
+- new | 2019 | 31929865 |  | Effect of Flaxseed Powder on Cardiovascular Risk Factor in Dyslipidemic and Hypertensive Patients. | Int J Prev Med
+- new | 2019 | 31198496 |  | Effects of Flaxseed Oil Omega-3 Fatty Acids Supplementation on Regression and Metabolic Status in Endometrial Hyperplasia: A randomized, Double-Blind, Placebo-Controlled Trial. | Int J Prev Med
+- new | 2019 | 31384411 |  | Effect of flaxseed oil supplementation on anthropometric and metabolic indices in patients with coronary artery disease: A double-blinded randomized controlled trial. | J Cardiovasc Thorac Res
+- new | 2019 | 31519285 | Randomized Controlled Trial | Effects of flaxseed and flaxseed oil supplement on serum levels of inflammatory markers, metabolic parameters and severity of disease in patients with ulcerative colitis. | Complement Ther Med
+- new | 2019 | 30308127 | Randomized Controlled Trial | The effects of dietary flaxseed on cardiac arrhythmias and claudication in patients with peripheral arterial disease (1). | Can J Physiol Pharmacol
+- new | 2019 | 30806856 | Randomized Controlled Trial | Effect of flaxseed poultice compress application on pain and hand functions of patients with hand osteoarthritis. | Clin Rheumatol
+- new | 2019 | 30709839 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | Genetic Variation in Steroid and Xenobiotic Metabolizing Pathways and Enterolactone Excretion Before and After Flaxseed Intervention in African American and European American Women | Cancer Epidemiol Biomarkers Prev
+- new | 2018 | 30247957 | Review | Advising Women Undergoing Treatment for Breast Cancer: A Narrative Review. | J Altern Complement Med
+- HELD REF-3624 | 2018 | 29228348 | Meta-Analysis/Systematic Review | Flaxseed supplementation on glucose control and insulin sensitivity: a systematic review and meta-analysis of 25 randomized, placebo-controlled trials. | Nutr Rev
+- new | 2018 | 29705472 |  | Efficacy of topical Linum usitatissimum L. (flaxseed) oil in knee osteoarthritis: A double-blind, randomized, placebo-controlled clinical trial. | Complement Ther Clin Pract
+- new | 2018 | 40872976 | Expression of Concern | Note of Concern: The Effects of Flaxseed Oil Omega-3 Fatty Acids Supplementation on Metabolic Status of Patients with Polycystic Ovary Syndrome: A Randomized, Double-Blind, Placebo | Exp Clin Endocrinol Diabetes
+- new | 2018 | 30156931 | Meta-Analysis/Systematic Review | Effect of phytoestrogens on sexual function in menopausal women: a systematic review and meta-analysis. | Climacteric
+- new | 2018 | 29117618 | Randomized Controlled Trial | The Effects of Flaxseed Oil Omega-3 Fatty Acids Supplementation on Metabolic Status of Patients with Polycystic Ovary Syndrome: A Randomized, Double-Blind, Placebo-Controlled Trial | Exp Clin Endocrinol Diabetes
+- new | 2018 | 29703528 | Randomized Controlled Trial | Replication of a Gene-Diet Interaction at CD36, NOS3 and PPARG in Response to Omega-3 Fatty Acid Supplements on Blood Lipids: A Double-Blind Randomized Controlled Trial. | EBioMedicine
+- new | 2018 | 30102841 |  | Effect of 1- and 2-Month High-Dose Alpha-Linolenic Acid Treatment on (13) C-Labeled Alpha-Linolenic Acid Incorporation and Conversion in Healthy Subjects. | Mol Nutr Food Res
+- new | 2018 | 29866187 | Comparative Study/Randomized Controlled Trial | Comparing isolated soy protein with flaxseed oil vs isolated soy protein with corn oil and wheat flour with corn oil consumption on muscle catabolism, liver function, blood lipid,  | Trials
+- new | 2018 | 29760761 |  | A randomized trial of the effects of flaxseed to manage constipation, weight, glycemia, and lipids in constipated patients with type 2 diabetes. | Nutr Metab (Lond)
+- new | 2017 | 28635182 | Meta-Analysis/Systematic Review | The effect of flaxseed supplementation on body weight and body composition: a systematic review and meta-analysis of 45 randomized placebo-controlled trials. | Obes Rev
+- new | 2017 | 28000689 | Randomized Controlled Trial | Comparison of flax (Linum usitatissimum) and Salba-chia (Salvia hispanica L.) seeds on postprandial glycemia and satiety in healthy individuals: a randomized, controlled, crossover | Eur J Clin Nutr
+- new | 2017 | 28407657 | Comparative Study/Randomized Controlled Trial | The Effects of Omega-3 Fatty Acids and Vitamin E Co-Supplementation on Indices of Insulin Resistance and Hormonal Parameters in Patients with Polycystic Ovary Syndrome: A Randomize | Exp Clin Endocrinol Diabetes
+- new | 2017 | 27885786 | Randomized Controlled Trial | Effects of flaxseed oil on blood hepcidin and hematologic factors in hemodialysis patients. | Hemodial Int
+- new | 2017 | 27881297 | Randomized Controlled Trial | A Randomized Controlled Clinical Trial Investigating the Effects of Omega-3 Fatty Acids and Vitamin E Co-Supplementation on Biomarkers of Oxidative Stress, Inflammation and Pregnan | Can J Diabetes
+- new | 2017 | 28342967 | Randomized Controlled Trial | The effects of omega-3 fatty acids and vitamin E co-supplementation on clinical and metabolic status in patients with Parkinson's disease: A randomized, double-blind, placebo-contr | Neurochem Int
+- new | 2017 | 28716357 | Randomized Controlled Trial | Clinical and metabolic response to flaxseed oil omega-3 fatty acids supplementation in patients with diabetic foot ulcer: A randomized, double-blind, placebo-controlled trial. | J Diabetes Complications
+- new | 2017 | 29064409 | Randomized Controlled Trial | Effect of Altering Dietary n-6:n-3 Polyunsaturated Fatty Acid Ratio with Plant and Marine-Based Supplement on Biomarkers of Bone Turnover in Healthy Adults. | Nutrients
+- new | 2017 | 28159728 |  | Protocol for a 24-Week Randomized Controlled Study of Once-Daily Oral Dose of Flax Lignan to Healthy Older Adults. | JMIR Res Protoc
+- new | 2017 | 28488060 |  | Arbuscular mycorrhizal fungi and Pseudomonas in reduce drought stress damage in flax (Linum usitatissimum L.): a field study. | Mycorrhiza
+- new | 2017 | 26763612 | Randomized Controlled Trial | Evaluation of the effectiveness of a chamomile (Matricaria chamomilla) and linseed (Linum usitatissimum) saliva substitute in the relief of xerostomia in elders. | Gerodontology
+- HELD REF-0841 | 2016 | 27677719 | Review | Botanicals and Their Bioactive Phytochemicals for Women's Health. | Pharmacol Rev
+- new | 2016 | 27462550 | Review | Effects of flaxseed and Hypericum perforatum on hot flash, vaginal atrophy and estrogen-dependent cancers in menopausal women: a systematic review and meta-analysis. | Avicenna J Phytomed
+- new | 2016 | 26071633 | Comparative Study/Meta-Analysis/Systematic Review | Effects of flaxseed supplements on blood pressure: A systematic review and meta-analysis of controlled clinical trial. | Clin Nutr
+- new | 2016 | 27151322 | Randomized Controlled Trial | Flaxseed Supplementation in Metabolic Syndrome Management: A Pilot Randomized, Open-labeled, Controlled Study. | Phytother Res
+- new | 2016 | 26860808 | Randomized Controlled Trial | Effects of Vitex agnus and Flaxseed on cyclic mastalgia: A randomized controlled trial. | Complement Ther Med
+- new | 2016 | 26983396 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Flaxseed supplementation in non-alcoholic fatty liver disease: a pilot randomized, open labeled, controlled study. | Int J Food Sci Nutr
+- new | 2016 | 27528063 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Dietary Flaxseed Reduces Central Aortic Blood Pressure Without Cardiac Involvement but Through Changes in Plasma Oxylipins. | Hypertension
+- HELD REF-3626 | 2016 | 26959052 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Effect of Flaxseed Intervention on Inflammatory Marker C-Reactive Protein: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Nutrients
+- new | 2016 | 27115157 | Comparative Study/Randomized Controlled Trial | Effect of flaxseed oil on serum systemic and vascular inflammation markers and oxidative stress in hemodialysis patients: a randomized controlled trial. | Int Urol Nephrol
+- new | 2016 | 26793308 |  | Consumption of Buglossoides arvensis seed oil is safe and increases tissue long-chain n-3 fatty acid content more than flax seed oil - results of a phase I randomised clinical tria | J Nutr Sci
+- new | 2016 | 27904615 |  | The effect of flaxseed powder on insulin resistance indices and blood pressure in prediabetic individuals: A randomized controlled clinical trial. | J Res Med Sci
+- new | 2016 | 27279274 | Multicenter Study/Randomized Controlled Trial | Effects of n-3 fatty acid supplements on glycemic traits in Chinese type 2 diabetic patients: A double-blind randomized controlled trial. | Mol Nutr Food Res
+- new | 2016 | 26047766 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Omega-3 polyunsaturated fatty acids in treating non-alcoholic steatohepatitis: A randomized, double-blind, placebo-controlled trial. | Clin Nutr
+- new | 2016 | 27904000 | Randomized Controlled Trial | Effects of Flaxseed Oil on Serum Lipids and Lipoproteins in Hemodialysis Patients: a Randomized Controlled Trial. | Iran J Kidney Dis
+- new | 2016 | 27695785 | Controlled Clinical Trial | Dietary linseed oil with or without malate increases conjugated linoleic acid and oleic acid in milk fat and and gene expression in mammary gland and milk somatic cells of lactatin | J Anim Sci
+- new | 2016 | 27941179 | Randomized Controlled Trial | Flaxseed oil supplementation manipulates correlations between serum individual mol % free fatty acid levels and insulin resistance in type 2 diabetics. Insulin resistance and perce | Endocr Regul
+- new | 2016 | 25708890 | Research Support, Non-U.S. Gov't | Bioavailability of cyanide after consumption of a single meal of foods containing high levels of cyanogenic glycosides: a crossover study in humans. | Arch Toxicol
+- new | 2015 | 25955642 | Comparative Study/Randomized Controlled Trial | Comparison of Self-applied Heat Therapy for Meibomian Gland Dysfunction. | Optom Vis Sci
+- new | 2015 | 25882265 | Clinical Trial | The effects of flaxseed on menopausal symptoms and quality of life. | Holist Nurs Pract
+- new | 2015 | 26543357 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Additive effect of linseed oil supplementation on the lipid profiles of older adults. | Clin Interv Aging
+- new | 2015 | 25434394 | Randomized Controlled Trial | Disparate results between proliferation rates of surgically excised prostate tumors and an in vitro bioassay using sera from a positive randomized controlled trial. | Biotech Histochem
+- new | 2015 | 28531469 |  | A randomized trial of the effects of ezetimibe on the absorption of omega-3 fatty acids in cardiac disease patients: A pilot study. | Clin Nutr ESPEN
+- new | 2014 | 24625429 | Review | What should we tell prostate cancer patients about (secondary) prevention? | Curr Opin Urol
+- HELD REF-0039 | 2014 | 25342643 | Research Support, Non-U.S. Gov't/Review | Flaxseed for hypertension: implications for blood pressure regulation. | Curr Hypertens Rep
+- new | 2014 | 25163498 | Randomized Controlled Trial | Evaluation of flaxseed formulation as a potential therapeutic agent in mitigation of dyslipidemia. | Biomed J
+- new | 2013 | 23571524 | Research Support, Non-U.S. Gov't/Systematic Review | Controlled flax interventions for the improvement of menopausal symptoms and postmenopausal bone health: a systematic review. | Menopause
+- new | 2013 | 23401180 | Comparative Study/Controlled Clinical Trial | Influence of linseed variety on fatty acid profile in cow's milk. | J Sci Food Agric
+- new | 2013 | 23373826 |  | Dietary intake and major sources of plant lignans in Latvian men and women. | Int J Food Sci Nutr
+- new | 2013 | 23566060 | Clinical Trial, Phase II/Randomized Controlled Trial/Research Support, N.I.H., Extramural | Flaxseed-derived enterolactone is inversely associated with tumor cell proliferation in men with localized prostate cancer. | J Med Food
+- new | 2012 | 22515083 | Research Support, Non-U.S. Gov't | Safety and efficacy of antioxidants-loaded nanoparticles for an anti-aging application. | J Biomed Nanotechnol
+- new | 2012 | 21795022 | Comparative Study/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Dietary walnuts inhibit colorectal cancer growth in mice by suppressing angiogenesis. | Nutrition
+- new | 2012 | 24715829 | Review | Complementary and alternative therapies used by Turkish breast cancer patients undergoing chemotherapy. | Breast Care (Basel)
+- new | 2011 | 21900107 | Editorial/Comment | Flaxseed and breast cancer: what should we tell our patients? | J Clin Oncol
+- new | 2011 | 21045648 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Pilot, prospective, randomized, double-masked, placebo-controlled clinical trial of an omega-3 supplement for dry eye. | Cornea
+- new | 2011 | 21640360 | Comparative Study/Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Metabolic and endocrine effects of long-chain versus essential omega-3 polyunsaturated fatty acids in polycystic ovary syndrome. | Metabolism
+- new | 2010 | 20826632 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Lifestyle counseling and supplementation with flaxseed or walnuts influence the management of metabolic syndrome. | J Nutr
+- HELD REF-3104 | 2010 | 20402707 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Randomized, placebo-controlled trial of flax oil in pediatric bipolar disorder. | Bipolar Disord
+- new | 2010 | 20721350 |  | Flaxseed ingestion alters ratio of enterolactone enantiomers in human serum. | J Nutr Metab
+- new | 2009 | 19515737 | Meta-Analysis/Research Support, Non-U.S. Gov't | Meta-analysis of the effects of flaxseed interventions on blood lipids. | Am J Clin Nutr
+- new | 2008 | 19360230 | Systematic Review | [A systematic review of the effectiveness of alternative weight-loss products' ingredients]. | Rev Salud Publica (Bogota) [spa]
+- new | 2008 | 18358071 | Randomized Controlled Trial | Effects of dietary flaxseed lignan extract on symptoms of benign prostatic hyperplasia. | J Med Food
+- new | 2008 | 17981439 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Flaxseed on cardiovascular disease markers in healthy menopausal women: a randomized, double-blind, placebo-controlled trial. | Nutrition
+- new | 2007 | 17623225 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of flaxseed oil supplementation on plasma adiponectin levels in dyslipidemic men. | Eur J Nutr
+- new | 2007 | 17906762 | Randomized Controlled Trial | [Oral flaxseed oil (Linum usitatissimum) in the treatment for dry-eye Sjögren's syndrome patients]. | Arq Bras Oftalmol [por]
+- new | 2005 | 16010646 | Review | Use of alternative medicine by patients with stage 5 chronic kidney disease. | Adv Chronic Kidney Dis
+- HELD REF-0288 | 2005 | 15897583 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Dietary flaxseed alters tumor biological markers in postmenopausal breast cancer. | Clin Cancer Res
+- new | 2005 | 15795437 | Research Support, Non-U.S. Gov't | Pharmacokinetics of enterolignans in healthy men and women consuming a single dose of secoisolariciresinol diglucoside. | J Nutr
+- new | 2005 | 16379563 | Randomized Controlled Trial | Effects of flax fiber on laxation and glycemic response in healthy volunteers. | J Med Food
+- new | 2005 | 15867304 | Research Support, Non-U.S. Gov't | Intake of the plant lignans secoisolariciresinol, matairesinol, lariciresinol, and pinoresinol in Dutch men and women. | J Nutr
+- new | 2003 | 14656398 |  | The role of food supplements in the treatment of the infertile man. | Reprod Biomed Online
+- new | 2002 | 12378041 | Clinical Trial/Randomized Controlled Trial | Effects of introducing linseed in livestock diet on blood fatty acid composition of consumers of animal products. | Ann Nutr Metab
+- new | 2001 | 11349937 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Flaxseed in lupus nephritis: a two-year nonplacebo-controlled crossover study. | J Am Coll Nutr
+- new | 1994 | 7910999 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Dietary substitution with an alpha-linolenic acid-rich vegetable oil increases eicosapentaenoic acid concentrations in tissues. | Am J Clin Nutr
+- new | 1993 | 8098222 | Clinical Trial/Comparative Study/Controlled Clinical Trial/Research Support, Non-U.S. Gov't | High alpha-linolenic acid flaxseed (Linum usitatissimum): some nutritional properties in humans. | Br J Nutr
+- new | 1988 | 3421208 | Clinical Trial/Controlled Clinical Trial/Research Support, U.S. Gov't, P.H.S. | Absorption of triglyceride by human small intestine: dose-response relationships. | Am J Clin Nutr
+
+### PubMed SR - 110 hits, 60 not already listed above, 57 new
+- new | 2026 | 42171084 | Review | Nutrition and rehabilitation after anterior cruciate ligament reconstruction: A systematic review. | Knee Surg Sports Traumatol Arthrosc
+- new | 2026 | 42277453 | Systematic Review/Network Meta-Analysis/Comparative Study | Comparative Efficacy of Nutraceuticals on Endothelial Function: A Systematic Review and Network Meta-Analysis. | Curr Atheroscler Rep
+- new | 2026 | 42597704 | Review | Comparative Efficacy of Herbal Products for Improving Liver Enzymes and Inflammation in Metabolic Dysfunction-Associated Steatotic Liver Disease: A Systematic Review and Network Me | Gastro Hep Adv
+- new | 2026 | 42668494 | Review | Comparative Efficacy of Herbal Products on Metabolic Parameters in Metabolic-Dysfunction Associated Liver Disease: A Systematic Review and Network Meta-Analysis. | Gastro Hep Adv
+- new | 2026 | 41829054 | Review | Effect of Omega-3 Fatty Acid Supplementation on Broilers' Health and Meat Quality-Systematic Review. | Animals (Basel)
+- new | 2026 | 41788957 | Review | Impact of dietary fiber intake on insulin resistance in type 2 diabetes: A systematic review. | J Educ Health Promot
+- new | 2025 | 39736929 | Review | Effectiveness of different gums on modulating of glycemic indices in adults: a systematic review and meta-analysis. | J Diabetes Metab Disord
+- new | 2025 | 39803225 | Review | Comprehensive Sensory Evaluation in Low-Fat Emulsions: A Systematic Review of Diverse Food Applications. | Food Sci Nutr
+- new | 2024 | 39002708 | Meta-Analysis/Systematic Review | Does flaxseed supplementation affect apo-lipoproteins? A GRADE-assessed systematic review and meta-analysis. | Prostaglandins Other Lipid Mediat
+- new | 2024 | 39526211 | Review | Flaxseed Lowers Blood Pressure in Hypertensive Subjects: A Meta-Analysis of Randomized Controlled Trials. | Clin Nutr Res
+- new | 2024 | 37589276 | Systematic Review/Meta-Analysis | A systematic review and meta-analysis of the omega-3 fatty acids effects on brain-derived neurotrophic factor (BDNF). | Nutr Neurosci
+- new | 2024 | 39558500 | Systematic Review/Meta-Analysis | Supplementation of Olive Oil and Flaxseed Oil on Blood Pressure and Inflammation in Healthy and At-Risk Adults: A Systematic Literature Review and Meta-Analysis. | Curr Hypertens Rev
+- new | 2024 | 39051738 | Systematic Review | Energy Content, Moisture Content, and Energy Assimilation Efficiency by Birds and Mammals of Oil-Containing Seeds and Implications for Seed Treatment Risk Assessments for Birds and | Environ Toxicol Chem
+- new | 2024 | 36193986 | Systematic Review | Health benefits of flaxseed and its peptides (linusorbs). | Crit Rev Food Sci Nutr
+- new | 2023 | 37778442 | Meta-Analysis/Systematic Review/Research Support, Non-U.S. Gov't | Effect of Alpha-Linolenic Acid Supplementation on Cardiovascular Disease Risk Profile in Individuals with Obesity or Overweight: A Systematic Review and Meta-Analysis of Randomized | Adv Nutr
+- new | 2023 | 37927501 | Systematic Review | The effect of flaxseed supplementation on sex hormone profile in adults: a systematic review and meta-analysis. | Front Nutr
+- new | 2023 | 37388781 |  | Acknowledging the use of botanicals to treat diabetic foot ulcer during the 21(st) century: A systematic review. | World J Clin Cases
+- new | 2022 | 33506690 | Systematic Review | Functional foods modulating inflammation and metabolism in chronic diseases: a systematic review. | Crit Rev Food Sci Nutr
+- new | 2022 | 35170723 | Meta-Analysis/Research Support, Non-U.S. Gov't | Impact of α-Linolenic Acid, the Vegetable ω-3 Fatty Acid, on Cardiovascular Disease and Cognition. | Adv Nutr
+- new | 2022 | 33576691 | Scoping Review | Bioavailability and conversion of plant based sources of omega-3 fatty acids - a scoping review to update supplementation options for vegetarians and vegans. | Crit Rev Food Sci Nutr
+- new | 2022 | 35180821 | Systematic Review | Omega-3 supplementation in the treatment of polycystic ovary syndrome (PCOS) - a review of clinical trials and cohort. | Endocr Regul
+- SEEN | 2022 | 36446563 | Systematic Review/Meta-Analysis | The Effectiveness of Herbal Medicines on Cyclic Mastalgia: A Systematic Review on Meta-analysis. | Rev Bras Ginecol Obstet
+- new | 2022 | 35903765 | Review | The Effect of Selected Herbal Medicines on Bone Turnover Markers: A Systematic Review and Meta-Analysis. | J Family Reprod Health
+- new | 2022 | 35100618 | Letter/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Comment | Errors in Analyses and Undisclosed Methods Render Meta-Analysis Irreproducible: A Second Comment on "Effects of Flaxseed Interventions on Circulating Inflammatory Biomarkers: A Sys | Adv Nutr
+- new | 2022 | 35905655 | Systematic Review/Research Support, Non-U.S. Gov't | Consumption of oils and anthocyanins may positively modulate PPAR-γ expression in chronic noncommunicable diseases: A systematic review. | Nutr Res
+- new | 2022 | 35804541 | Review | Oilseed Supplementation Improves Milk Composition and Fatty Acid Profile of Cow Milk: A Meta-Analysis and Meta-Regression. | Animals (Basel)
+- new | 2022 | 36380973 | Systematic Review/Research Support, Non-U.S. Gov't | Platelet Aggregation Inhibition: An Evidence-Based Systematic Review on the Role of Herbs for Primary Prevention Based on Randomized Controlled Trials. | Iran J Med Sci
+- new | 2021 | 33762150 | Meta-Analysis/Systematic Review | The effects of foods on LDL cholesterol levels: A systematic review of the accumulated evidence from systematic reviews and meta-analyses of randomized controlled trials. | Nutr Metab Cardiovasc Dis
+- new | 2021 | 33767108 | Research Support, Non-U.S. Gov't/Systematic Review | Efficacy and Safety of Over-the-Counter Therapies for Chronic Constipation: An Updated Systematic Review. | Am J Gastroenterol
+- new | 2021 | 40477342 | Review | Biscuits: a systematic review and meta-analysis of improving the nutritional quality and health benefits. | Food Prod Process Nutr
+- new | 2021 | 34527059 | Review | Flaxseed Oil Supplementation Augments Antioxidant Capacity and Alleviates Oxidative Stress: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Evid Based Complement Alternat Med
+- new | 2021 | 34660668 | Systematic Review | Effects of Polyunsaturated Fatty Acids Supplementation on the Meat Quality of Pigs: A Meta-Analysis. | Front Nutr
+- new | 2021 | 33778040 | Systematic Review | Effect of Dietary Vegetable Sources Rich in Unsaturated Fatty Acids on Milk Production, Composition, and Cheese Fatty Acid Profile in Sheep: A Meta-Analysis. | Front Vet Sci
+- new | 2021 | 33467951 | Practice Guideline/Research Support, Non-U.S. Gov't | Nursing Procedures for the Prevention and Treatment of Mucositis Induced by Cancer Therapies: Clinical Practice Guideline Based on an Interdisciplinary Consensus Process and a Syst | Integr Cancer Ther
+- new | 2020 | 32677037 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Nutritional interventions for treating foot ulcers in people with diabetes. | Cochrane Database Syst Rev
+- new | 2020 | 31739218 | Meta-Analysis/Systematic Review | Effect of flaxseed supplementation on markers of inflammation and endothelial function: A systematic review and meta-analysis. | Cytokine
+- new | 2020 | 31793087 | Meta-Analysis/Systematic Review | Effect of the herbal medicines in obesity and metabolic syndrome: A systematic review and meta-analysis of clinical trials. | Phytother Res
+- HELD REF-0804 | 2019 | 31577095 | Review | Nutraceutical treatment and prevention of benign prostatic hyperplasia and prostate cancer. | Arch Ital Urol Androl
+- new | 2019 | 30637725 | Review | Dietary natural products as emerging lipoprotein(a)-lowering agents. | J Cell Physiol
+- new | 2019 | 30768427 | Systematic Review | Plant-derived medicines for neuropathies: a comprehensive review of clinical evidence. | Rev Neurosci
+- new | 2018 | 30006369 | Research Support, Non-U.S. Gov't/Systematic Review/Network Meta-Analysis | Effects of oils and solid fats on blood lipids: a systematic review and network meta-analysis. | J Lipid Res
+- new | 2018 | 29632841 | Review | The effectiveness and safety of Iranian herbal medicines for treatment of premenstrual syndrome: A systematic review. | Avicenna J Phytomed
+- new | 2018 | 29557436 | Systematic Review | Effects of superfoods on risk factors of metabolic syndrome: a systematic review of human intervention trials. | Food Funct
+- new | 2017 | 28888608 | Comparative Study/Meta-Analysis | Effect of dietary flax seed and oil on milk yield, gross composition, and fatty acid profile in dairy cows: A meta-analysis and meta-regression. | J Dairy Sci
+- new | 2017 | 28750220 | Systematic Review | Effects of medicinal food plants on impaired glucose tolerance: A systematic review of randomized controlled trials. | Diabetes Res Clin Pract
+- new | 2017 | 28390715 | Meta-Analysis | Effects of feeding extruded linseed on production performance and milk fatty acid profile in dairy cows: A meta-analysis. | J Dairy Sci
+- new | 2016 | 26887532 | Meta-Analysis/Systematic Review | A Critical Approach to Evaluating Clinical Efficacy, Adverse Events and Drug Interactions of Herbal Remedies. | Phytother Res
+- new | 2016 | 27294213 | Review | The efficacy of Iranian herbal medicines in alleviating hot flashes: A systematic review. | Int J Reprod Biomed
+- HELD REF-3619 | 2015 | 25740909 | Meta-Analysis/Systematic Review | Flaxseed consumption may reduce blood pressure: a systematic review and meta-analysis of controlled trials. | J Nutr
+- new | 2015 | 26525907 | Letter/Comment | Systematic Review and Meta-analysis of Flaxseed. | J Nutr
+- new | 2015 | 26354897 | Research Support, Non-U.S. Gov't/Systematic Review | A systematic review of dietary, nutritional, and physical activity interventions for the prevention of prostate cancer progression and mortality. | Cancer Causes Control
+- new | 2014 | 25089794 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Effect of dietary linseed on the nutritional value and quality of pork and pork products: systematic review and meta-analysis. | Meat Sci
+- new | 2014 | 24013641 | Research Support, Non-U.S. Gov't/Systematic Review | Flax and Breast Cancer: A Systematic Review. | Integr Cancer Ther
+- new | 2014 | 24261532 | Systematic Review | Bioavailability and potential uses of vegetarian sources of omega-3 fatty acids: a review of the literature. | Crit Rev Food Sci Nutr
+- new | 2012 | 23067030 | Research Support, Non-U.S. Gov't/Systematic Review | Evaluation of documented drug interactions and contraindications associated with herbs and dietary supplements: a systematic literature review. | Int J Clin Pract
+- new | 2012 | 22696350 | Meta-Analysis/Systematic Review | Omega 3 fatty acid for the prevention of cognitive decline and dementia. | Cochrane Database Syst Rev
+- new | 2010 | 20883417 | Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S./Review | Dietary lignans: physiology and potential for cardiovascular disease risk reduction. | Nutr Rev
+- new | 2010 | 20803173 |  | t10,c12-18:2-induced milk fat depression is less pronounced in cows fed high-concentrate diets. | Lipids
+- new | 2008 | 19038946 | Meta-Analysis | Oilseed lipid supplements and fatty acid composition of cow milk: a meta-analysis. | J Dairy Sci
+- new | 2006 | 17047144 | Review | Complementary and alternative therapies for the management of dyslipidemia. | Ann Pharmacother
+
+### PubMed SAFE - 543 hits, 178 not already listed above, 176 new
+- new | 2026 | 40770474 | Review | Natural Oil and Polycystic Ovary Syndrome: A Comprehensive Review of Therapeutic Benefits. | Curr Top Med Chem
+- new | 2026 | 41489921 |  | Flaxseed cyclolinopeptide-mediated regulation of α-linolenic acid metabolism alleviates high-fat diet-induced vascular inflammation. | Food Funct
+- new | 2026 | 42997505 |  | Identification, enzymatic removal, and safety assessment of cyclolinopeptide E, the key bitterant in flaxseed oil. | Food Chem X
+- new | 2026 | 42037275 |  | Protective effects of omega-3 supplements against ocular surface damage in circadian disruption rat model. | Biotech Histochem
+- new | 2025 | 40612872 | Review | Clinically proven natural products against breast cancer, with mechanistic insights. | Oncol Res
+- new | 2025 | 40470679 |  | Rare Cause of Anaphylaxis Flaxseed and Review of the Literature. | Clin Pediatr (Phila)
+- new | 2025 | 40332225 |  | Genome-Wide Identification and Transcriptome Analysis of P450 Superfamily Genes in Flax (Linum usitatissimum L.). | Int J Mol Sci
+- new | 2025 | 41187433 |  | pH-driven plant protein nanoparticles modulated by flaxseed gum oligosaccharides for apigenin delivery. | Food Chem
+- new | 2025 | 40610863 |  | Role of esculin antioxidant on remediation of lead toxicity on flax growth and yield components. | BMC Plant Biol
+- new | 2025 | 41310472 |  | Mitigating cobalt toxicity in linseed (Linum usitatissimum L.): the role of ascorbic acid in enhancing pigments formation, antioxidant defense and gene expression. | BMC Plant Biol
+- new | 2025 | 39919035 |  | Identification of Key Proteomic Markers for Enhanced Conjugated Linoleic Acid Biosynthesis in Lactating Goats via Linseed Oil Supplementation. | J Agric Food Chem
+- new | 2025 | 39846811 |  | Occupational Rhinoconjunctivitis Induced by Flaxseed: Identification of Novel Allergenic Proteins From Cupin, Chaperonin, and Enzyme Families. | J Investig Allergol Clin Immunol
+- new | 2024 | 39563466 | Comparative Study/Review | Efficacy, side effects, adherence, affordability, and procurement of dietary supplements for treating hypercholesterolemia: a narrative review. | J Health Popul Nutr
+- new | 2024 | 39464209 |  | Flaxseed anaphylaxis: an emerging allergen. | Porto Biomed J
+- new | 2024 | 37818588 | Review | Herbal Medicine- A Friend or a Foe of Cardiovascular Disease. | Cardiovasc Hematol Agents Med Chem
+- new | 2024 | 39282919 |  | Flaxseed oil attenuates PFOS-induced testicular damage by regulating RNA alternative splicing. | Food Funct
+- new | 2024 | 37712400 | Letter/Case Reports | IgE-mediated flaxseed allergy in non-atopic toddler polysensitized to tree nuts but tolerating other seeds. | Eur Ann Allergy Clin Immunol
+- new | 2024 | 39392608 |  | Flaxseed Oil Alleviates PFOS-Induced Liver Injury by Regulating Hepatic Cholesterol Metabolism. | J Agric Food Chem
+- new | 2024 | 38475345 |  | Techno-Environmental Evaluation of Alkaline Treatment in Flax Reinforced Thermoplastics. | Polymers (Basel)
+- new | 2024 | 39620005 |  | Comparative effect of olive oil and flaxseed oil on drug induced hepatotoxicity in rats. | Food Sci Nutr
+- new | 2024 | 39345289 |  | Dietary flaxseed oil suppresses hyperglycemia and hyperinsulinemia through increasing in α-linolenic acid content in the muscle. | J Clin Biochem Nutr
+- new | 2024 | 38449016 | Case Reports/Review | Oral immunotherapy with sunflower seed butter and a review of seed allergy. | Allergy Asthma Proc
+- new | 2024 | 37951423 |  | Synthesis of flaxseed gum/melanin-based scaffold: A novel approach for nano-encapsulation of doxorubicin with enhanced anticancer activity. | Int J Biol Macromol
+- new | 2024 | 38326686 |  | Effect of GA(3) and calcium on growth, biochemical, and fatty acid composition of linseed under chloride-dominated salinity. | Environ Sci Pollut Res Int
+- new | 2024 | 38504721 | Case Reports | Successful Outcome of a Patient with Concomitant Pancreatic and Renal Carcinoma Receiving Secoisolariciresinol Diglucoside Therapy Alone: A Case Report. | Int Med Case Rep J
+- new | 2024 | 40454362 |  | Protective Effect of Flaxseed Oil on Diazinon-Induced Cardiotoxicity in Rats in Sub-Chronic Exposure. | J Tehran Heart Cent
+- new | 2024 | 38268782 |  | Alleviation of carbendazim toxicity effect by Moringa oleifera oil and Linum usitatissimum L. oil on testes of male rats: Physiological, histological and in silico study. | Saudi J Biol Sci
+- new | 2024 | 38056808 |  | Evaluating the health impact of increased linseed consumption in the Danish population. | Food Chem Toxicol
+- new | 2024 | 38396507 | Review | Impact of Using Oilseed Industry Byproducts Rich in Linoleic and Alpha-Linolenic Acid in Ruminant Nutrition on Milk Production and Milk Fatty Acid Profile. | Animals (Basel)
+- new | 2024 | 39326712 |  | In vitro safety profile and phyto-ecotoxicity assessment of the eco-friendly calcium oxide nanoparticles. | Chemosphere
+- new | 2024 | 39723176 |  | Highly Biocompatible Lamellar Liquid Crystals Based on Hempseed or Flaxseed Oil with Incorporated Betamethasone Dipropionate: A Bioinspired Multi-Target Dermal Drug Delivery System | Int J Nanomedicine
+- new | 2023 | 36375731 | Research Support, Non-U.S. Gov't | Anti-allergic property of dietary phytoestrogen secoisolariciresinol diglucoside through microbial and β-glucuronidase-mediated metabolism. | J Nutr Biochem
+- new | 2023 | 35532015 | Review | Availability of bioactive flax lignan from foods and supplements. | Crit Rev Food Sci Nutr
+- new | 2023 | 38628881 | Review | Herbal Treatment of COPD and Asthma According to Persian Medicine: a Review of Current Evidence. | Tanaffos
+- HELD REF-2222 | 2023 | 35833457 | Review | A comprehensive review of flaxseed (Linum usitatissimum L.): health-affecting compounds, mechanism of toxicity, detoxification, anticancer and potential risk. | Crit Rev Food Sci Nutr
+- new | 2023 | 36903961 | Review | On the Path towards a "Greener" EU: A Mini Review on Flax (Linum usitatissimum L.) as a Case Study. | Plants (Basel)
+- new | 2023 | 37363378 |  | Advanced Oxidative Decontamination of Flax and Its Impacts on Storage. | Food Bioproc Tech
+- new | 2023 | 37964873 |  | From seeds to survival rates: investigating Linum usitatissimum's potential against ovarian cancer through network pharmacology. | Front Pharmacol
+- new | 2023 | 36358077 |  | Depletion of cyanogenic glycosides in whole flaxseed via Lactobacillaceae fermentation. | Food Chem
+- new | 2023 | 37855214 |  | Multi-attribute decision-making: Use of scoring methods to choose the best form of dietary fat supplement in pregnant Saanen goats. | Vet Med Sci
+- new | 2023 | 37703111 |  | Linseed oil attenuates fatty liver disease in mice fed a high-carbohydrate diet. | Braz J Med Biol Res
+- new | 2023 | 37069858 | Case Reports | Portal Vein Thrombosis Extending to the Superior Mesenteric and Splenic Veins Secondary to a Hypercoagulable State Due to Prior Abdominal Surgery, Hormonal Replacement Therapy, and | Cureus
+- new | 2023 | 36820797 | Review | Anticancer potential of flaxseed lignans, their metabolites and synthetic counterparts in relation with molecular targets: current challenges and future perspectives. | Food Funct
+- new | 2023 | 36766124 |  | Effect of Flaxseed Oil Cake Extract on the Microbial Quality, Texture and Shelf Life of Gluten-Free Bread. | Foods
+- new | 2023 | 36773449 |  | Ginkgo, fennel, and flaxseed can affect hormone release by porcine ovarian cells and modulate the effect of toluene. | Reprod Biol
+- new | 2023 | 37173257 |  | Abomasal infusion of essential fatty acids and conjugated linoleic acid during late pregnancy and early lactation affects immunohematological and oxidative stress markers in dairy  | J Dairy Sci
+- new | 2023 | 38283897 |  | Tracing the pathways and mechanisms involved in medicinal uses of flaxseed with computational methods and bioinformatics tools. | Front Chem
+- new | 2023 | 38047944 | Randomized Controlled Trial, Veterinary | The effect of increasing extruded linseed level on nutrient digestibility, growth, carcass characteristics, and non-carcass components of lambs from two genotypes. | Trop Anim Health Prod
+- new | 2023 | 37843352 |  | Alanda (Ephedra foeminea) nanoparticles as a modulator of genomic DNA degradation in mice: new inspiration for treating Ehrlich solid tumour-induced kidney and liver toxicity. | Eur Rev Med Pharmacol Sci
+- new | 2022 | 36676037 | Review | Applications of Molecular Markers for Developing Abiotic-Stress-Resilient Oilseed Crops. | Life (Basel)
+- new | 2022 | 35914449 |  | Secoisolariciresinol diglucoside-derived metabolite, enterolactone, attenuates atopic dermatitis by suppressing Th2 immune response. | Int Immunopharmacol
+- new | 2022 | 35956414 |  | Beneficial Effects of Flaxseed and/or Mulberry Extracts Supplementation in Ovariectomized Wistar Rats. | Nutrients
+- new | 2022 | 35537647 |  | Gut modulatory effects of flaxseed derived Maillard reaction products in Sprague-Dawley rats during sub-chronic toxicity. | Food Chem Toxicol
+- new | 2022 | 32744150 | Review | Beneficial and adverse effects of medicinal plants as feed supplements in poultry nutrition: a review. | Anim Biotechnol
+- new | 2022 | 37128384 |  | Clinical Data Repositories: Primary Sources of Drug-to-Drug Interaction Detection and Risk Assessment. | AMIA Annu Symp Proc
+- new | 2022 | 37780588 | Case Reports | A case report of flaxseed anaphylaxis in an infant: Lessons to be learned. | J Allergy Clin Immunol Glob
+- new | 2022 | 35167688 |  | Pre-Clinical Safety and Efficacy Evaluation of a Herbal Nanoemulsion-Based Formulation for Treating Inflammatory Bowel Disease. | J AOAC Int
+- new | 2022 | 35509487 | Review | An overview of benign prostatic hyperplasia and its appreciation in Greco-Arab (Unani) system of medicine. | Asian J Urol
+- new | 2022 | 36013331 |  | Dietary Supplementation of Flaxseed (Linum usitatissimum L.) Alters Ovarian Functions of Xylene-Exposed Mice. | Life (Basel)
+- new | 2022 | 35278998 |  | Flaxseed oil ameliorates mercuric chloride-induced liver damage in rats. | J Trace Elem Med Biol
+- new | 2022 | 34856318 |  | Secoisolariciresinol diglucoside mitigates benzo[a]pyrene-induced liver and kidney toxicity in mice via miR-101a/MKP-1-mediated p38 and ERK pathway. | Food Chem Toxicol
+- new | 2022 | 34473620 | Research Support, Non-U.S. Gov't | Anti-Diabetic Effects of Isolated Lipids from Natural Sources through Modulation of Angiogenesis. | Curr Mol Pharmacol
+- new | 2022 | 36077483 |  | Synthetic Secoisolariciresinol Diglucoside (LGM2605) Prevents Asbestos-Induced Inflammation and Genotoxic Cell Damage in Human Mesothelial Cells. | Int J Mol Sci
+- new | 2022 | 35990237 | Case Reports | Cutaneous pseudolymphomatous drug eruption secondary to supplemental flaxseed oil. | JAAD Case Rep
+- new | 2022 | 35453184 |  | Fabrication and Evaluation of W/O Emulsion Loaded with Linum usitatissimum Seeds Extract for Anti-Leishmaniasis Efficacy. | Antibiotics (Basel)
+- new | 2022 | 35780328 |  | Effect of chronic radiation on the flax (Linum usitatissimum L.) genome grown for six consecutive generations in the radioactive Chernobyl area. | Physiol Plant
+- new | 2022 | 36065422 | Review | Distribution, biosynthesis and therapeutic potential of lignans. | 3 Biotech
+- new | 2022 | 34085936 |  | Association Between the Seed Storage Proteins 2S Albumin and 11S Globulin and Severe Allergic Reaction After Flaxseed Intake. | J Investig Allergol Clin Immunol
+- new | 2022 | 35790862 |  | Cysteine mitigates the effect of NaCl salt toxicity in flax (Linum usitatissimum L) plants by modulating antioxidant systems. | Sci Rep
+- new | 2022 | 35260009 |  | Synergistic hepatoprotective effects of ω-3 and ω-6 fatty acids from Indian flax and sesame seed oils against CCl(4)-induced oxidative stress-mediated liver damage in rats. | Drug Chem Toxicol
+- new | 2022 | 36481350 |  | Assessment of flax and hemp fibres in terms of their impact on the growth performance and health status of weaned piglets. | Animal
+- new | 2022 | 36009731 |  | Maternal Supplementation with Polyphenols and Omega-3 Fatty Acids during Pregnancy: Prenatal Effects on Fetal Fatty Acid Composition in the Iberian Pig. | Animals (Basel)
+- new | 2022 | 35621631 | Research Support, Non-U.S. Gov't | Comparing Flaxseed and Perindopril in the Prevention of Doxorubicin and Trastuzumab-Induced Cardiotoxicity in C57Bl/6 Mice. | Curr Oncol
+- new | 2022 | 35982701 |  | Synergistic Effect of Zinc Oxide Nanoparticles and Moringa oleifera Leaf Extract Alleviates Cadmium Toxicity in Linum usitatissimum: Antioxidants and Physiochemical Studies. | Front Plant Sci
+- new | 2021 | 34573569 |  | Safety of Dietary Camelina Oil Supplementation in Healthy, Adult Dogs. | Animals (Basel)
+- new | 2021 | 33737146 | Review | Non-pharmacologic approach to pediatric constipation. | Complement Ther Med
+- new | 2021 | 33445566 |  | Fungicidal Efficacy of Drying Plant Oils in Green Beans against Bean Rust (Uromyces appendiculatus). | Plants (Basel)
+- new | 2021 | 34869964 | Review | Application of Different Vegetable Oils as Processing Aids in Industrial Rubber Composites: A Sustainable Approach. | ACS Omega
+- new | 2021 | 32178613 | Review | An Evidence-based Review of Medicinal Plants used in Traditional Persian Medicine for Treatment of Osteoarthritis. | Curr Drug Discov Technol
+- new | 2021 | 33882851 |  | Genome-wide identification and functional characterization of LEA genes during seed development process in linseed flax (Linum usitatissimum L.). | BMC Plant Biol
+- new | 2021 | 32942973 | Research Support, Non-U.S. Gov't/Review | Beneficiary and Adverse Effects of Phytoestrogens: A Potential Constituent of Plant-based Diet. | Curr Pharm Des
+- new | 2021 | 34371804 | Review | Do Bioactive Food Compound with Avena sativa L., Linum usitatissimum L. and Glycine max L. Supplementation with Moringa oleifera Lam. Have a Role against Nutritional Disorders? An  | Nutrients
+- new | 2021 | 33200388 |  | Health disorders and safety measures among workers in Tanta Flax and Oil Company, Egypt. | Environ Sci Pollut Res Int
+- new | 2021 | 34063383 |  | Oxidative Stability, Microbial Safety, and Sensory Properties of Flaxseed (Linum usitatissimum L.) Oil Infused with Spices and Herbs. | Antioxidants (Basel)
+- new | 2021 | 34502389 |  | Copper Oxide Nanoparticle-Induced Acute Inflammatory Response and Injury in Murine Lung Is Ameliorated by Synthetic Secoisolariciresinol Diglucoside (LGM2605). | Int J Mol Sci
+- new | 2021 | 34065623 |  | In Vitro and Clinical Safety Assessment of the Multiple W/O/W Emulsion Based on the Active Ingredients from Rosmarinus officinalis L., Avena sativa L. and Linum usitatissimum L. | Pharmaceutics
+- new | 2021 | 34852157 |  | In vitro study of antimicrobial activity of some plant seeds against bacterial strains causing food poisoning diseases. | Braz J Biol
+- new | 2021 | 34043363 | Research Support, Non-U.S. Gov't | Oral Pharmacokinetics of Enriched Secoisolariciresinol Diglucoside and Its Polymer in Rats. | J Nat Prod
+- new | 2020 | 33303502 | Case Reports | Flaxseed oil stimulates gynecomastia. | BMJ Case Rep
+- new | 2020 | 32281434 |  | Orbitides isolated from flaxseed induce apoptosis against SGC-7901 adenocarcinoma cells. | Int J Food Sci Nutr
+- new | 2020 | 32662916 |  | Haloxyfop determination by gas chromatography/tandem mass spectrometry in eggs. | Rapid Commun Mass Spectrom
+- new | 2020 | 31253055 |  | Flaxseed diet caused inflammation by altering the gut microbiota of Peking ducks. | Anim Biotechnol
+- new | 2020 | 32666750 |  | Protective Effect of Flax Seed on Brain Teratogenicity Induced by Lamotrigine in Rat Fetuses. | Folia Med (Plovdiv)
+- new | 2020 | 32446210 |  | Secoisolariciresinol diglucoside protects against cadmium-induced oxidative stress-mediated renal toxicity in rats. | J Trace Elem Med Biol
+- new | 2020 | 32408178 |  | Deciphering metal toxicity responses of flax (Linum usitatissimum L.) with exopolysaccharide and ACC-deaminase producing bacteria in industrially contaminated soils. | Plant Physiol Biochem
+- new | 2020 | 32050686 |  | Effect of Linseed (Linum usitatissimum) Groats-Based Mixed Feed Supplements on Diet Nutrient Digestibility and Blood Parameters of Horses. | Animals (Basel)
+- new | 2020 | 32150851 |  | Effects of Extruded Linseed and Soybean Dietary Supplementation on Lactation Performance, First-Service Conception Rate, and Mastitis Incidence in Holstein Dairy Cows. | Animals (Basel)
+- new | 2020 | 32357550 |  | Oxidized Perilla and Linseed Oils Induce Neuronal Apoptosis by Caspase-Dependent and -Independent Pathways. | Foods
+- new | 2020 | 32416833 |  | Effects of supplemental pine needles powder (Pinus brutia) on growth performance, breast meat composition, and antioxidant status in broilers fed linseed oil-based diets. | Poult Sci
+- new | 2019 | 30628451 |  | Transport, Bioavailability, Safety, and Calmodulin-Dependent-Phosphodiesterase-Inhibitory Properties of Flaxseed-Derived Bioactive Peptides. | J Agric Food Chem
+- new | 2019 | 31316223 | Case Reports | Anal Pain of an Unusual Cause: Role of Endoanal Ultrasound. | J Med Ultrasound
+- new | 2019 | 31060335 | Review | Flaxseed Lignans as Important Dietary Polyphenols for Cancer Prevention and Treatment: Chemistry, Pharmacokinetics, and Molecular Targets. | Pharmaceuticals (Basel)
+- new | 2019 | 30583352 |  | Impact of the addition of 4-vinyl-derivatives of ferulic and sinapic acids on retention of fatty acids and terpenoids in cold-pressed rapeseed and flaxseed oils during the inductio | Food Chem
+- new | 2019 | 31515823 | Research Support, Non-U.S. Gov't | Ameliorative effect of flaxseed (Linum usitatissimum) and its protein on ethanol-induced hepatotoxicity in Wistar rats. | J Food Biochem
+- new | 2019 | 31555031 |  | A Questionnaire-based Study for Weight Loss by Using Herbal Drugs in Dammam (Eastern Region), Kingdom of Saudi Arabia. | J Pharm Bioallied Sci
+- new | 2019 | 31240548 |  | Effects of feeding flaxseed on performance, carcass trait, and meat fatty acid composition of Guinea pigs (Cavia procellus) under northern Peruvian condition. | Trop Anim Health Prod
+- new | 2019 | 30899817 |  | A β-glucosidase-producing M-2 strain: Isolation from cow dung and fermentation parameter optimization for flaxseed cake. | Anim Nutr
+- new | 2018 | 29737167 |  | Novel Flaxseed Gum Nanocomposites Are Slow Release Iron Supplements. | J Agric Food Chem
+- new | 2018 | 29334949 |  | Flaxseed-enriched diets change milk concentration of the antimicrobial danofloxacin in sheep. | BMC Vet Res
+- new | 2018 | 30009862 |  | Effects of dietary alpha-linolenic acid-enriched diacylglycerol oil on embryo/fetal development in rats. | Regul Toxicol Pharmacol
+- new | 2018 | 29561026 |  | The protective effect of polyunsaturated fatty acid intake during pregnancy against embryotoxicity of sodium valproate in mice. | Food Funct
+- new | 2018 | 28689336 |  | V79 Fibroblasts Are Protected Against Reactive Oxygen Species by Flax Fabric. | Appl Biochem Biotechnol
+- new | 2018 | 29859764 |  | A 90-day repeated-dose toxicity study of dietary alpha linolenic acid-enriched diacylglycerol oil in rats. | Regul Toxicol Pharmacol
+- new | 2018 | 28940033 |  | In vitro effect of flaxseed oil and α-linolenic acid against the toxicity of lipopolysaccharide (LPS) to human umbilical vein endothelial cells. | Inflammopharmacology
+- new | 2018 | 33313363 |  | Cyanide Toxicity of Freshly Prepared Smoothies and Juices Frequently Consumed. | Eur J Nutr Food Saf
+- new | 2018 | 30591787 |  | The potential protective influence of flaxseed oil against renal toxicity induced by thioacetamide in rats. | Saudi J Biol Sci
+- new | 2018 | 30546895 |  | Beneficial effect of additional treatment with widely available anticancer agents in advanced small lung cell carcinoma: A case report. | Mol Clin Oncol
+- new | 2018 | 29461213 | Case Reports | Anaphylaxis Induced by Conlinin, a 2S Storage Protein in Flaxseed. | J Investig Allergol Clin Immunol
+- new | 2018 | 29421481 |  | The different effects of linseed and fish oil supplemented diets on insulin sensitivity of rabbit does during pregnancy. | Res Vet Sci
+- new | 2018 | 30583523 | Review | A Review of Lignan Metabolism, Milk Enterolactone Concentration, and Antioxidant Status of Dairy Cows Fed Flaxseed. | Molecules
+- new | 2017 | 29245212 | Case Reports | Case report: A first case of flaxseed-induced anaphylaxis in Korea. | Medicine (Baltimore)
+- new | 2017 | 28116598 |  | Enterolactone glucuronide and β-glucuronidase in antibody directed enzyme prodrug therapy for targeted prostate cancer cell treatment. | AAPS PharmSciTech
+- new | 2017 | 28197211 |  | Therapeutic Effects of Fermented Flax Seed Oil on NC/Nga Mice with Atopic Dermatitis-Like Skin Lesions. | Evid Based Complement Alternat Med
+- new | 2017 | 28209094 |  | Attenuation of arsenic trioxide induced cardiotoxicity through flaxseed oil in experimental rats. | Redox Rep
+- new | 2017 | 28228158 |  | Flaxseed oil ameliorates alcoholic liver disease via anti-inflammation and modulating gut microbiota in mice. | Lipids Health Dis
+- new | 2017 | 27238436 |  | Evaluation of blood pressure and aortic elasticity of offspring of diabetic Wistar rats who have consumed flaxseed oil during pregnancy and lactation. | J Matern Fetal Neonatal Med
+- new | 2017 | 28480439 |  | EVALUATION OF CRUDE FLAXSEED (Linum usitatissimum L) OIL IN BURN WOUND HEALING IN NEW ZEALAND RABBITS. | Afr J Tradit Complement Altern Med
+- new | 2017 | 27719898 |  | Crystallization and melting properties of mixtures of milk fat stearin and omega-3 rich oils. | Food Chem
+- new | 2017 | 28191026 |  | Supplementation with dairy calcium and/or flaxseed fibers in conjunction with orlistat augments fecal fat excretion without altering ratings of gastrointestinal comfort. | Nutr Metab (Lond)
+- new | 2017 | 28101573 |  | Combining doxorubicin with a phenolic extract from flaxseed oil: Evaluation of the effect on two breast cancer cell lines. | Int J Oncol
+- new | 2017 | 28918153 |  | Linseed oil and DGAT1 K232A polymorphism: Effects on methane emission, energy and nitrogen metabolism, lactation performance, ruminal fermentation, and rumen microbial composition  | J Dairy Sci
+- new | 2016 | 27427306 |  | Plant lignan secoisolariciresinol suppresses pericardial edema caused by dioxin-like compounds in developing zebrafish: Implications for suppression of morphological abnormalities. | Food Chem Toxicol
+- new | 2016 | 27996945 | Case Reports | Linseed Allergy Due to LTP: Another Food for LTP Syndrome. | J Investig Allergol Clin Immunol
+- new | 2016 | 26548572 |  | The chemopreventive activity of butyrate-containing structured lipids in experimental rat hepatocarcinogenesis. | Mol Nutr Food Res
+- new | 2016 | 26437861 | Research Support, Non-U.S. Gov't | Chemomodulatory Potential of Flaxseed Oil Against DMBA/Croton Oil-Induced Skin Carcinogenesis in Mice. | Integr Cancer Ther
+- new | 2016 | 25964379 | Research Support, Non-U.S. Gov't | Fish/flaxseed oil protect against nitric oxide-induced hepatotoxicity and cell death in the rat liver. | Hum Exp Toxicol
+- new | 2016 | 27174639 |  | Antioxidant power as biochemical endpoint in bread for screening and early managing quality and toxicant-related safety anomalies in food production. | Food Chem Toxicol
+- new | 2015 | 28962442 |  | Evaluating the cytotoxicity of flaxseed orbitides for potential cancer treatment. | Toxicol Rep
+- new | 2015 | 26123633 | Research Support, Non-U.S. Gov't | Natural phenolics greatly increase flax (Linum usitatissimum) oil stability. | BMC Biotechnol
+- new | 2015 | 26703545 |  | Fatty Acid Profile and Biological Activities of Linseed and Rapeseed Oils. | Molecules
+- new | 2015 | 26817105 |  | [EXPERIMENTAL FOUNDATION FOR LINSEED AND WALNUT OILS APPLICATION IN GASTROENTEROLOGY]. | Eksp Klin Gastroenterol [rus]
+- new | 2015 | 26010915 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Effects of Flaxseed Lignan Secoisolariciresinol Diglucosideon Preneoplastic Biomarkers of Cancer Progression in a Model of Simultaneous Breast and Ovarian Cancer Development. | Nutr Cancer
+- new | 2015 | 29363925 |  | [Experimental study of influence of lipophilic products of phytogenic origin on lipid metabolism in rats]. | Vopr Pitan [rus]
+- new | 2015 | 25497793 |  | Effects of diets containing grape seed, linseed, or both on milk production traits, liver and kidney activities, and immunity of lactating dairy ewes. | J Dairy Sci
+- new | 2015 | 26065911 | Research Support, Non-U.S. Gov't | Dietary ω3 fatty acid exerts anti-allergic effect through the conversion to 17,18-epoxyeicosatetraenoic acid in the gut. | Sci Rep
+- new | 2014 | 24859185 | Research Support, Non-U.S. Gov't/Review | α-Linolenic acid: nutraceutical, pharmacological and toxicological evaluation. | Food Chem Toxicol
+- new | 2013 | 22476613 | Research Support, Non-U.S. Gov't | The antidepressant effect of secoisolariciresinol, a lignan-type phytoestrogen constituent of flaxseed, on ovariectomized mice. | J Nat Med
+- new | 2013 | 23984870 | Research Support, Non-U.S. Gov't | Cyanogenic glycosides in plant-based foods available in New Zealand. | Food Addit Contam Part A Chem Anal Contr
+- new | 2013 | 23827817 | Research Support, Non-U.S. Gov't | Structure-function relationship in the CYP74 family: conversion of divinyl ether synthases into allene oxide synthases by site-directed mutagenesis. | FEBS Lett
+- new | 2013 | 23137635 | Research Support, Non-U.S. Gov't | Structural organization and classification of cytochrome P450 genes in flax (Linum usitatissimum L.). | Gene
+- new | 2013 | 23255588 | Research Support, Non-U.S. Gov't | Sex-dependent nutritional programming: fish oil intake during early pregnancy in rats reduces age-dependent insulin resistance in male, but not female, offspring. | Am J Physiol Regul Integr Comp Physiol
+- new | 2012 | 22463723 | Review | Classical to current approach for treatment of psoriasis: a review. | Endocr Metab Immune Disord Drug Targets
+- new | 2012 | 22178389 | Research Support, N.I.H., Extramural | High dose of an n-3 polyunsaturated fatty acid diet lowers activity of C57BL/6 mice. | Prostaglandins Leukot Essent Fatty Acids
+- new | 2012 | 22919480 |  | Dietary Flaxseed Oil Protects against Bleomycin-Induced Pulmonary Fibrosis in Rats. | Pulm Med
+- new | 2011 | 22095124 | Research Support, Non-U.S. Gov't | Identification and primary characterization of novel cytochrome CYP74B1 of flax (Linum usitatissimum). | Dokl Biochem Biophys
+- new | 2011 | 21390942 | Research Support, Non-U.S. Gov't/Review | Flaxseed: a potential source of food, feed and fiber. | Crit Rev Food Sci Nutr
+- new | 2010 | 20690672 | Research Support, Non-U.S. Gov't | Importance of fat oxidation in starch-based emulsions in the generation of the process contaminant furan. | J Agric Food Chem
+- new | 2010 | 21073184 | Research Support, Non-U.S. Gov't | Antioxidant coating of micronsize droplets for prevention of lipid peroxidation in oil-in-water emulsion. | ACS Appl Mater Interfaces
+- new | 2010 | 22254011 |  | Assessment of information to substantiate a health claim on the prevention of prostate cancer by lignans. | Nutrients
+- new | 2009 | 19278222 | Research Support, N.I.H., Extramural | Coadministration of Paclitaxel and curcumin in nanoemulsion formulations to overcome multidrug resistance in tumor cells. | Mol Pharm
+- new | 2009 | 19835770 |  | Assessment of the microbiological safety of edible dried seeds from retail premises in the United Kingdom with a focus on Salmonella spp. | Food Microbiol
+- new | 2009 | 18710604 | Research Support, U.S. Gov't, Non-P.H.S. | Flaxseed oil prevents trans-10, cis-12-conjugated linoleic acid-induced insulin resistance in mice. | Br J Nutr
+- new | 2008 | 18375362 | Review | [Omega-3 polyunsaturated fatty acids in the prevention of atherosclerosis]. | Orv Hetil [hun]
+- new | 2008 | 19064574 | Multicenter Study/Randomized Controlled Trial/Research Support, N.I.H., Extramural | Flaxseed supplementation (not dietary fat restriction) reduces prostate cancer proliferation rates in men presurgery. | Cancer Epidemiol Biomarkers Prev
+- HELD REF-2217 | 2007 | 17761128 | Review | Flax and flaxseed oil (Linum usitatissimum): a review by the Natural Standard Research Collaboration. | J Soc Integr Oncol
+- new | 2007 | 18054641 |  | Visual outcome and corneal changes in children with chronic blepharokeratoconjunctivitis. | Ophthalmology
+- new | 2004 | 15259529 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S./Review | Omega-3 fatty acids. | Am Fam Physician
+- new | 2004 | 22063928 |  | Effects of fatty acids on meat quality: a review. | Meat Sci
+- new | 2003 | 12573209 | Case Reports/Research Support, Non-U.S. Gov't | Anaphylaxis to Linum. | Allergol Immunopathol (Madr)
+- new | 2002 | 12418783 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Flaxseed (Linum usitatissimum) supplementation associated with reduced skin test lesional area in horses with Culicoides hypersensitivity. | Can J Vet Res
+- new | 2001 | 11603644 | Review | Soy isoflavones--benefits and risks from nature's selective estrogen receptor modulators (SERMs). | J Am Coll Nutr
+- new | 1998 | 9491240 | Case Reports | Anaphylaxis from linseed. | Allergy
+- new | 1998 | 9888630 | Research Support, Non-U.S. Gov't/Review | Phytoestrogens and human health effects: weighing up the current evidence. | Nat Toxins
+- new | 1998 | 9808635 | Research Support, Non-U.S. Gov't | Flaxseed and its lignan precursor, secoisolariciresinol diglycoside, affect pregnancy outcome and reproductive development in rats. | J Nutr
+- new | 1992 | 1487972 | Comparative Study/Research Support, Non-U.S. Gov't | Inhibition of phenytoin bioactivation and teratogenicity by dietary n-3 fatty acids in mice. | Lipids
+- new | 1988 | 3126120 |  | Induction of hepatic drug-metabolizing enzymes by cyclic fatty acid monomers in the rat. | Food Chem Toxicol
+- new | 1982 | 7062860 | Case Reports/Research Support, Non-U.S. Gov't | The dominant diseases of modernized societies as omega-3 essential fatty acid deficiency syndrome: substrate beriberi. | Med Hypotheses
+- new | 1960 | 13826908 | Case Reports | [Respiratory disorders due to flax straw. A new etiology]. | Arch Mal Prof [fre]
+
+### PubMed OBS - 68 hits, 44 not already listed above, 44 new
+- new | 2026 | 42244917 |  | Genomic selection for seed yield enhances flax breeding efficiency. | Mol Breed
+- new | 2026 | 42999038 | Research Support, Non-U.S. Gov't | Bacteroides uniformis-generated ornithine alleviates alcohol-associated liver disease via Sirt4-mediated mitochondrial regulation. | Gut Microbes
+- new | 2026 | 42941214 |  | Linking Flaxseed Intake to Lipid and Metabolic Health: Associations with Metabolic Dysfunction Indices and LDL-Subfractions in Slovak Menopausal Women. | Metabolites
+- new | 2026 | 42413615 |  | Seeds, Spices-Not Always So Nice: A Report on the Food Allergy Research & Education Patient Registry. | J Allergy Clin Immunol Pract
+- new | 2025 | 41431645 | Research Support, Non-U.S. Gov't | Perception of King Khalid University students regarding the benefits, barriers, self-efficacy, knowledge, and practices related to healthy eating: a cross-sectional study. | PeerJ
+- new | 2025 | 40731220 | Editorial/Comment | The omega effect: Harnessing fish oil for health. | Atherosclerosis
+- new | 2025 | 39941973 |  | The Influence of Vegetable Oil Addition Levels on the Fatty Acid Profile and Oxidative Transformation Dynamics in Liver Sausage-Type Processed Meats. | Foods
+- new | 2025 | 41091147 | Research Support, Non-U.S. Gov't | Improving school-age nutrition and school performance through amaranth plus flaxseed food product distribution in Sidama, Ethiopia: a study protocol. | Glob Health Action
+- new | 2025 | 40517276 |  | Herbal medicine use and associated factors among lactating mothers visiting maternal and child health clinic at Woldia comprehensive specialized hospital, North Wollo Zone, Ethiopi | J Health Popul Nutr
+- new | 2024 | 39403395 | Review | Edible plant oils modulate gut microbiota during their health-promoting effects: a review. | Front Nutr
+- new | 2024 | 38578269 | Research Support, N.I.H., Extramural | Higher ratio of plasma omega-6/omega-3 fatty acids is associated with greater risk of all-cause, cancer, and cardiovascular mortality: A population-based cohort study in UK Biobank | Elife
+- new | 2023 | 36476238 |  | Cross sectional study about nutritional risk factors of metabolically unhealthy obesity. | Rom J Intern Med
+- new | 2023 | 36789932 | Research Support, N.I.H., Extramural | Dietary phytoestrogens and total and cause-specific mortality: results from 2 prospective cohort studies. | Am J Clin Nutr
+- new | 2023 | 37496541 |  | Assessment of the Attitudes, Beliefs, and Potential Effects of Nutritional Phytoestrogenic Plant Consumption on Women's Health in Saudi Arabia. | Cureus
+- new | 2021 | 34314511 | Research Support, N.I.H., Extramural | DrugWAS: Drug-wide Association Studies for COVID-19 Drug Repurposing. | Clin Pharmacol Ther
+- new | 2021 | 33564788 | Preprint | DrugWAS: Leveraging drug-wide association studies to facilitate drug repurposing for COVID-19. | medRxiv
+- new | 2021 | 33990887 |  | Complementary, Traditional and Spiritual Practices Used by Cancer Patients in Turkey When Coping with Pain: An Exploratory Case Study. | J Relig Health
+- new | 2020 | 32823812 | Review | Medicinal Herbs Used in Traditional Management of Breast Cancer: Mechanisms of Action. | Medicines (Basel)
+- new | 2020 | 32121050 |  | Effect of Sonication on the Properties of Flaxseed Gum Films Incorporated with Carvacrol. | Int J Mol Sci
+- new | 2019 | 30526720 |  | Dietary n-3 PUFA content as a modulator of the femur properties in growing pigs. | Br J Nutr
+- new | 2018 | 30377679 |  | Postdiagnosis Isoflavone and Lignan Intake in Newly Diagnosed Breast Cancer Patients: Cross-Sectional Survey Shows Considerable Intake from Previously Unassessed High-Lignan Foods. | Curr Dev Nutr
+- new | 2016 | 27404516 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Serum metabolomics profiles in response to n-3 fatty acids in Chinese patients with type 2 diabetes: a double-blind randomised controlled trial. | Sci Rep
+- new | 2016 | 27559550 | Review |  | 
+- new | 2015 | 26362125 | Review | Nutraceuticals for blood pressure control. | Ann Med
+- new | 2015 | 25789108 | Review | Role of phytoestrogens in prevention and management of type 2 diabetes. | World J Diabetes
+- new | 2015 | 25351407 | Research Support, N.I.H., Extramural | Complementary and alternative medicine use by breast cancer patients at time of surgery which increases the potential for excessive bleeding. | Integr Cancer Ther
+- new | 2014 | 25467385 | Research Support, Non-U.S. Gov't | Lifestyle factors, demographics and medications associated with depression risk in an international sample of people with multiple sclerosis. | BMC Psychiatry
+- new | 2014 | 24869971 | Review | Flaxseed and its lignan and oil components: can they play a role in reducing the risk of and improving the treatment of breast cancer? | Appl Physiol Nutr Metab
+- new | 2013 | 23713615 | Research Support, Non-U.S. Gov't | Association of fish consumption and Ω 3 supplementation with quality of life, disability and disease activity in an international cohort of people with multiple sclerosis. | Int J Neurosci
+- new | 2012 | 23285256 | Research Support, N.I.H., Extramural | Prostatic alpha-linolenic acid (ALA) is positively associated with aggressive prostate cancer: a relationship which may depend on genetic variation in ALA metabolism. | PLoS One
+- new | 2012 | 22516883 |  | Exposure to specific herbal products during pregnancy and the risk of low birth weight. | Altern Ther Health Med
+- new | 2012 | 23031696 |  | Metal stearate distributions in modern artists' oil paints: surface and cross-sectional investigation of reference paint films using conventional and synchrotron infrared microspec | Appl Spectrosc
+- new | 2010 | 20648772 |  | Prospective study of sensitization and food allergy to flaxseed in 1317 subjects. | Eur Ann Allergy Clin Immunol
+- new | 2010 | 20581260 | Research Support, Non-U.S. Gov't | Cancer incidence among women flax textile manufacturing workers in Lithuania. | Occup Environ Med
+- new | 2010 | 19361969 | Research Support, Non-U.S. Gov't | Intake of the plant lignans matairesinol, secoisolariciresinol, pinoresinol, and lariciresinol in relation to vascular inflammation and endothelial dysfunction in middle age-elderl | Nutr Metab Cardiovasc Dis
+- new | 2010 | 21147716 |  | Intake of isoflavone and lignan phytoestrogens and associated demographic and lifestyle factors in older Australian women. | Asia Pac J Clin Nutr
+- new | 2009 | 19253375 | Comparative Study/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Phenotypic associations of Crohn's disease with antibodies to flagellins A4-Fla2 and Fla-X, ASCA, p-ANCA, PAB, and NOD2 mutations in a Swiss Cohort. | Inflamm Bowel Dis
+- new | 2006 | 16579802 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Fish oil in various doses or flax oil in pregnancy and timing of spontaneous delivery: a randomised controlled trial. | BJOG
+- new | 2005 | 15945135 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S./Review | Does alpha-linolenic acid intake reduce the risk of coronary heart disease? A review of the evidence. | Altern Ther Health Med
+- new | 2005 | 15635346 | Research Support, U.S. Gov't, P.H.S. | Increasing trends in elderly persons' use of nonvitamin, nonmineral dietary supplements and concurrent use of medications. | J Am Diet Assoc
+- new | 2003 | 12640327 | Review | [Lipids, depression and suicide]. | Encephale [fre]
+- new | 2002 | 11804682 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Cooking oil fumes and risk of lung cancer in women in rural Gansu, China. | Lung Cancer
+- new | 2000 | 11910585 | Research Support, Non-U.S. Gov't | Dietary phytoestrogen intake in mid-life Australian-born women: relationship to health variables. | Climacteric
+- new | 1995 | 7774533 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Supplementation with flaxseed oil versus sunflowerseed oil in healthy young men consuming a low fat diet: effects on platelet composition and function. | Eur J Clin Nutr
+
+### PubMed REV - 365 hits, 19 not already listed above, 19 new
+- new | 2024 | 39683475 | Review | From Food Supplements to Functional Foods: Emerging Perspectives on Post-Exercise Recovery Nutrition. | Nutrients
+- new | 2024 | 38337445 | Review | Lifestyle and Lipoprotein(a) Levels: Does a Specific Counseling Make Sense? | J Clin Med
+- new | 2023 | 36766971 | Review | The Role of Flaxseed in Improving Human Health. | Healthcare (Basel)
+- new | 2023 | 37701897 | Review | Oxidative stress, hormones, and effects of natural antioxidants on intestinal inflammation in inflammatory bowel disease. | Front Endocrinol (Lausanne)
+- new | 2023 | 37687222 | Review | The Chemical Composition and Health-Promoting Benefits of Vegetable Oils-A Review. | Molecules
+- new | 2023 | 37464425 | Review | A comprehensive review of the health benefits of flaxseed oil in relation to its chemical composition and comparison with other omega-3-rich oils. | Eur J Med Res
+- new | 2021 | 33809763 | Research Support, Non-U.S. Gov't/Review | Plant Prebiotics and Their Role in the Amelioration of Diseases. | Biomolecules
+- new | 2020 | 32824177 | Review | Effects of Dietary Phytoestrogens on Hormones throughout a Human Lifespan: A Review. | Nutrients
+- new | 2019 | 31130604 | Review | Dietary Flaxseed as a Strategy for Improving Human Health. | Nutrients
+- new | 2018 | 30619466 | Review | Secoisolariciresinol Diglucoside of Flaxseed and Its Metabolites: Biosynthesis and Potential for Nutraceuticals. | Front Genet
+- new | 2017 | 29174030 | Practice Guideline/Review | Position paper on vegetarian diets from the working group of the Italian Society of Human Nutrition. | Nutr Metab Cardiovasc Dis
+- new | 2006 | 30000955 | Review | Flaxseed. | 
+- new | 2006 | 17011474 | Review | Flaxseed. | Adv Food Nutr Res
+- new | 2004 | 15377220 | Research Support, U.S. Gov't, Non-P.H.S./Review | Phytoestrogens. | Annu Rev Plant Biol
+- new | 2003 | 14556117 | Comparative Study/Review | [Phytoestrogens]. | Zentralbl Gynakol [ger]
+- new | 2003 | 12725656 | Research Support, Non-U.S. Gov't/Review | Bioavailability of phyto-oestrogens. | Br J Nutr
+- new | 2002 | 12391713 | Review | Gynecology: select topics. | Prim Care
+- new | 2001 | 11325691 | Editorial/Review | Dietary phytoestrogens: a possible role in renal disease protection. | Am J Kidney Dis
+- new | 1997 | 9240932 | Review | Dietary phytoestrogens. | Annu Rev Nutr
+
+### ClinicalTrials.gov - 109 registered studies
+- NCT01579656 | COMPLETED | results=False | PHASE1 | Effect of Flax, Poppy, Sesame & Salba on Postprandial Blood Glucose Response, Vascular, Appetite & Sensory Parameters | conds: Cardiovascular Diseases | intr: Salba, Poppy, Flaxseed, Sesame
+- NCT03036722 | UNKNOWN | results=False | NA | Flaxseed Consumption and Bone Metabolism in Postmenopausal Women. | conds: Bone Loss, Age Realted, Post Menopausal | intr: Flaxseed, Placebo control porridge
+- NCT05245825 | UNKNOWN | results=False | NA | Flaxseed Supplementation in Prediabetic Adults (LINAPRED) | conds: Prediabetic State | intr: Flaxseed, Dietary plan
+- NCT01269320 | WITHDRAWN | results=False | PHASE4 | Natural Soybean-derived Femarelle ®for Patients With Non Alcoholic Fatty Liver Disease | conds: Nash | intr: Femarelle
+- NCT05068557 | UNKNOWN | results=False | NA | EPICO: (Study for the Pro-resolution of Chronic Inflammation in Obesity. Original Acronym From Spanish) | conds: Obesity, Chronic Inflammation | intr: Dietary plan along with fish oil capsules (3 capsules daily. Containing EPA+DHA: 1.8 g)., Dietary pl
+- NCT03583281 | COMPLETED | results=False | NA | Effects of Dietary Fatty Acids on Octadecanoid Production and Biological Actions in Obesity-induced Inflammation | conds: Obesity, Inflammation | intr: Capsules containing flax oil, Capsules containing DHA-enriched fish oil | pubs: ['34293124:DERIVED (new)']
+- NCT00049309 | COMPLETED | results=False | PHASE2 | Low-Fat Diet and/or Flaxseed in Preventing Prostate Cancer | conds: Prostate Cancer | intr: dietary intervention, flaxseed | pubs: ['19064574:RESULT (new)', '18559416:RESULT (new)', '21764858:RESULT (new)', '23285256:RESULT (new)', '23566060:RESULT (new)', '25434394:RESULT (new)']
+- NCT02497352 | COMPLETED | results=False | PHASE2,PHASE3 | Effects of Flaxseed Supplementation in Metabolic Syndrome | conds: Metabolic Syndrome | intr: flaxseed, lifestyle modification
+- NCT06848101 | ACTIVE_NOT_RECRUITING | results=False | NA | Eye and Carotenoid Augmentation Research and Evaluation (EyeCARE) | conds: Vision, Eye Health | intr: Carotenoid Group, Control (placebo) group
+- NCT04024605 | UNKNOWN | results=False | NA | Bioavailability of Protein and Amino Acids From Oilseeds in Healthy Volunteers | conds: Protein | intr: Sunflower, Rapeseed, Flaxseed, Lupin | pubs: ['36842754:DERIVED (new)', '34910189:DERIVED (new)']
+- NCT01698294 | COMPLETED | results=False | NA | Biomarkers in Post-Menopausal Women Receiving Flaxseed | conds: No Evidence of Disease | intr: Clinical Observation, Flaxseed, Laboratory Biomarker Analysis, Questionnaire Administration | pubs: ['35261959:DERIVED (new)']
+- NCT07052500 | COMPLETED | results=False | NA | Impact of Seed Cycling on Menstrual Regularity, Dysmenorrhea, and Premenstrual Symptoms | conds: Menstruation Disorders, Menstrual Cramps, Menstruation | intr: Seed Cycling
+- NCT03737422 | COMPLETED | results=False | NA | The Effects of Hesperidin and Flaxseed in Prediabetes | conds: PreDiabetes | intr: hesperidin and flaxseed, control | pubs: ['33402222:DERIVED (new)']
+- NCT02201758 | WITHDRAWN | results=False | NA | Flaxseed Lignan-Enriched Complex (FLC) for the Treatment of Patients With Ulcerative Colitis (UC): A Pilot Assessment | conds: Ulcerative Colitis | intr: Flaxseed lignan-enriched complex (FLC), Placebo
+- NCT05019118 | UNKNOWN | results=False | NA | Dietary Intervention With Únicla Dairy Products (DANTIAN) | conds: Subclinical Hypothyroidism | intr: Experimental milk, Experimental yogur, Experimental fresh cheese, Placebo milk
+- NCT02289612 | COMPLETED | results=False | NA | Glycemic and Satiety Response Study of Fibre-Enriched Pudding Products | conds: Type 2 Diabetes Mellitus | intr: Yellow Mustard Gum Fibre, Soluble Flaxseed Gum Fibre, Fenugreek Gum Fibre
+- NCT03490955 | COMPLETED | results=False | NA | Effects of Black Pepper on the Absorption of Nutrients in Vegetables | conds: Black Pepper, Absorption, Carotenoid | intr: salad dressing (canola oil) and black pepper, salad dressing (canola oil), black pepper, salad
+- NCT01857167 | COMPLETED | results=False | NA | Effect of Omega-3 Fatty Acids on Insulin Sensitivity in Chinese Type 2 Diabetic Patients | conds: Type 2 Diabetes, Insulin Resistance | intr: Fish Oil Supplementation, Flaxseed Oil Supplementation, placebo | pubs: ['27279274:DERIVED (new)']
+- NCT00465153 | COMPLETED | results=False | PHASE3 | The Combined Effects of Resistance Training and Flax Oil Supplementation Upon Inflammation in Older Adults | conds: Inflammation, Sarcopenia | intr: flax oil containing alpha linolenic acid, Resistance exercise training
+- NCT05674708 | COMPLETED | results=False | NA | Fat Quality and Postprandial Inflammation | conds: Inflammatory Response, Inflammation | intr: Fat intake | pubs: ['42128091:DERIVED (new)']
+- NCT01437930 | COMPLETED | results=False | NA | Intervention With n-3 Polyunsaturated Fatty Acids (PUFA)-Supplemented Products in Moderate Hypertriglyceridemic Patients | conds: Hypertriglyceridemia | intr: n-3 PUFA | pubs: ['25216712:DERIVED (new)']
+- NCT01320228 | COMPLETED | results=False | NA | Effect of Dietary Components on Gastrointestinal Side Effects Induced by Orlistat, a Lipase Inhibitor | conds: Obesity | intr: Control, Capolac, Flax fiber, Capolac+Flax fiber | pubs: ['28191026:DERIVED (new)']
+- NCT04824053 | RECRUITING | results=False | NA | Effects of UNICLA-A2 Dairy Products on Patients at High-risk of Colorectal Cancer Development | conds: Colorectal Polyp | intr: Milk from genetically selected homozygous- β-casein-A2 cows fed with forages and a concentrate enric
+- NCT00781950 | COMPLETED | results=True | PHASE2,PHASE3 | Effects of Dietary Flaxseed on Symptoms of Cardiovascular Disease in Patients With Peripheral Arterial Disease | conds: Peripheral Arterial Disease | intr: Flaxseed, Placebo | pubs: ['27528063:DERIVED (new)', '25694068:DERIVED (new)', '24777981:DERIVED (new)']
+- NCT05194358 | COMPLETED | results=False | PHASE1 | Study of SIAN Nasal Spray in Healthy Adults | conds: Cyanide Poisoning | intr: Stabilized Isoamyl Nitrite (SIAN)
+- NCT05723458 | UNKNOWN | results=False | PHASE1,PHASE2 | Turmeric, Black Seeds, Flaxseed and Medicago Sativa in Knee Osteoarthritis | conds: Knee Osteoarthritis | intr: Cream, Placebo
+- NCT06898840 | COMPLETED | results=False | NA | Establishing the Glycaemic Index of Fruit Drinks Using Different Measurement Methodologies | conds: Glycaemic Index, Glycaemic Response Measurements | intr: Fruit drink
+- NCT05796882 | COMPLETED | results=False | NA | Whole Food Plant-Based Diet for HIV-Associated Reduction in Cardiovascular Risk (PLANT-HART) | conds: Heart Diseases, Hiv | intr: Whole Food Plant-Based Diet Ad Libitum, Nutritional Standard Care
+- NCT02629627 | COMPLETED | results=False | PHASE2 | Conjugated Linoleic Acid / Leucine Versus Metformin on Visceral Fat in Metabolic Syndrome | conds: Metabolic Syndrome | intr: Conjugated linoleic acid/Leucine, Metformin, Placebo of ACL/Leucine, Placebo of Metformin
+- NCT04767230 | COMPLETED | results=False | NA | The Effect of a Healthy Diet Containing Flaxseed and Olive Oil on Cardiovascular Disease Risk Markers | conds: Coronary Artery Disease | intr: Dietary Intervention
+- NCT03260231 | UNKNOWN | results=False | NA | Dietary Milled Seed Mix in Patients With Non-Hodgkin Lymphoma | conds: Non-hodgkin Lymphoma | intr: Milled seed mix
+- NCT04341961 | COMPLETED | results=False | NA | Effect of Pomegranate Juice Consumption on the Health of Mothers and Infants During Breastfeeding | conds: Breastfeeding | intr: Pomegranate Juice
+- NCT07834099 | COMPLETED | results=False | NA | Comparative Effects of Aerobic Exercise and Keto Diet on Obesity-Related Biomarkers in Obese Women With High (WHR) | conds: Keto Diet, Aerobic Exercise, Obesity (Disorder) | intr: Keto diet, Aerobic exercise, Aerobic exercise + keto diet
+- NCT03558776 | COMPLETED | results=False | NA | Influence of the Background Diet on Metabolism of Land-based n-3 PUFA | conds: Endogenous Conversion of Alpha Linolenic Acid | intr: linseed oil
+- NCT05242978 | COMPLETED | results=False | NA | Acute Impact of Different Foods and Beverages on Exercise Induced Oxidative Stress and Inflammation | conds: Inflammatory Response, Oxidative Stress, Oxidative Stress Induction | intr: Nutrition
+- NCT05423457 | COMPLETED | results=False | NA | Diets, Lipoproteins and Inflammation Markers | conds: Cardiovascular Diseases, Metabolic Syndrome, Diet, Healthy, Vegan Diet | intr: Vegan diet
+- NCT04632407 | UNKNOWN | results=False | NA | Can Flaxseed Prevent Broken Hearts in Women With Breast Cancer Study? | conds: Cardiotoxicity | intr: Flax "milk", Oat fibre "milk"
+- NCT00204412 | COMPLETED | results=False | PHASE3 | Exercise and Flax-Based Nutritional Supplementation for Lowering Cholesterol | conds: Metabolic Syndrome, Osteoporosis | intr: Flax lignan, Exercise (walking)
+- NCT01317290 | COMPLETED | results=False | EARLY_PHASE1 | Supplementation of Alpha-linolenic Acid (ALA)-Rich Oil in Humans | conds: Overweight, Hypercholesterolemia | intr: n-3 PUFA free olive oil, linseed oil | pubs: ['26892399:DERIVED (new)', '24229084:DERIVED (new)']
+- NCT02243969 | COMPLETED | results=False | NA | Alpha-linolenic Acid and Blood Pressure | conds: Hypertension, Lipid Metabolism Disorders | intr: Flaxseed oil, high oleic sunflower oil (HOSF)
+- NCT00465036 | COMPLETED | results=False | NA | Effect of Flaxseed on Lipid Uptake and Appetite | conds: Obesity | intr: Whole flaxseeds, flaxseed mucilage, glucomannan
+- NCT07295327 | RECRUITING | results=False | NA | Effect of Two Food Supplements on Lipid Profile in Patients With Mild Hypercholesterolemia | conds: Hypercholesterolemia | intr: Cynacol, Metacol
+- NCT01396369 | COMPLETED | results=False | EARLY_PHASE1 | Flaxseed Lignan (Brevail) | conds: Polycystic Ovarian Syndrome | intr: Birth control, Birth control plus Brevail
+- NCT03528707 | COMPLETED | results=False | NA | Effect of Probiotic Co-administration With Omega-3 Fatty Acids on NAFLD | conds: Type2 Diabetes, NAFLD, Probiotic, Omega-3 Fatty Acids | intr: Symbiter-Omega, Placebo | pubs: ['30221912:RESULT (new)']
+- NCT05518019 | COMPLETED | results=False | NA | An Exploratory Investigation of a CBD Supplement's Impact on Sleep, Stress, and Focus | conds: Anxiety, Fear, Stress, Low Mood | intr: The Daily Supplement
+- NCT00363233 | COMPLETED | results=False | PHASE2,PHASE3 | The Potential Effects and Mechanisms of Flax Lignans on Type 2 Diabetes Mellitus | conds: Type 2 Diabetes, Hypercholesterolemia | intr: flax lignans | pubs: ['17987126:DERIVED (HELD REF-0190)']
+- NCT00051415 | COMPLETED | results=False | PHASE2,PHASE3 | Safety and Effectiveness of Flaxseed for Reducing High Cholesterol | conds: Hypercholesterolemia | intr: Flaxseed-supplemented diet
+- NCT06111378 | COMPLETED | results=False |  | Effect of OMEGA 3 Fatty Acids on Lactation Period | conds: Lactation Induced | intr: fish oil, linseed oil, walnut oil | pubs: ['41572962:DERIVED (new)']
+- NCT00502021 | UNKNOWN | results=False | PHASE2 | Use of Flaxseed(Alpha Linolenic Acid) Powder in Morbidly Obese Patients With Systemic Inflammation | conds: Morbid Obesity, Atherosclerosis, Systemic Inflammation | intr: Placebo, Alpha-linolenic acid/ALA, Alpha linolenic acid/ALA, Placebo
+- NCT00693082 | TERMINATED | results=False | PHASE2 | Polycystic Ovarian Syndrome: Impact of Flaxseed Supplementation | conds: Polycystic Ovarian Syndrome | intr: flaxseed
+- NCT01063725 | UNKNOWN | results=False | NA | A Double-Blind Study to Evaluate the Effect of Femarelle® on Menopausal on Vasomotor Symptoms | conds: Menopause, Hot Flashes | intr: Femarelle, Placebo
+- NCT06097533 | TERMINATED | results=False | PHASE2 | Improvement of Quality of Life by Cannabinoids in Oncologic Patients | conds: Medical Oncology, Palliative Care, Quality of Life, Cannabinoids | intr: Cannabisextrakt Avextra 10/10 Lösung
+- NCT07837323 | COMPLETED | results=False | NA | Flaxseed Oil, Olive Oil, and Their Combination on Hepatic and Metabolic Outcomes in Patients With Metabolic Dysfunction-Associated Fatty Liv | conds: Liver Enzymes, Glucose Levels, Lipid Profile | intr: Conventional diet+treatment, flaxseed oil, extra virgin olive oil, Flaxssed oil and extra virgin oli
+- NCT06245382 | COMPLETED | results=False | NA | The Impact of Goode Health Beverage on Markers of Physiological and Neurocognitive Health | conds: Cardiovascular Diseases, Hypertension, Cognitive Decline, Diet, Healthy | intr: Goode Health Beverage, Vanilla Base Beverage Blend
+- NCT07959146 | NOT_YET_RECRUITING | results=False | NA | A Study to Assess Dietary Flaxseed on Heart Health and Allostatic Load in Young Adults | conds: Stress | intr: Higher Fiber Group 1, Higher Fiber Group 2
+- NCT05857241 | NOT_YET_RECRUITING | results=False | NA | Therapeutic Fasting and Immune Aging | conds: Fasting, Diet, Healthy | intr: Fasting mimicking diet (FMD)
+- NCT06912542 | COMPLETED | results=False | NA | ACUTE EFFECT OF CONSUMPTION OF GROUND OR WHOLE FLAXSEEDS ON BLOOD GLUCOSE IN PEOPLE WITH TYPE 2 DIABETES | conds: Diabetes, Diabetes Type 2, Insulin Resistance | intr: Whole flaxseed bread, Ground flaxseed bread, French bread
+- NCT01233778 | COMPLETED | results=False | NA | Canola Oil Multicentre Intervention Trial (COMIT) | conds: Cardiovascular Disease | intr: Canola Oil, High Oleic Acid + DHA Canola Oil, High Oleic Acid Canola Oil, Flax Oil
+- NCT03734835 | UNKNOWN | results=False | NA | The Effect of Supplementation of Flaxseed, Hesperidin, Flaxseed and Hesperidin Together in Metabolic Syndrome | conds: Metabolic Syndrome | intr: hesperidin, hesperidin and flaxseed, flaxseed, control
+- NCT05088863 | RECRUITING | results=False | NA | Survey Assessing How Consumers Adapt Their Diet in Response to Health Claim Messaging | conds: Health Claim Implementation | intr: flaxseed
+- NCT07914387 | NOT_YET_RECRUITING | results=False | PHASE1 | Stanford University Neurofiber Study | conds: PARKINSON DISEASE (Disorder) | intr: Prebiotic fiber bar
+- NCT02047123 | COMPLETED | results=False | NA | Nutritional Intervention With Yogurt and Flaxseed in Women With Profiles Lipi | conds: Overweight | intr: Raw Flaxseed
+- NCT01129050 | COMPLETED | results=False | NA | Effects of Omega-3 Fatty Acids on Markers of Inflammation | conds: Obesity, Hypertriglyceridemia, Insulin Resistance, Hypertension | intr: Fish Oil, Flaxseed Oil, Placebo | pubs: ['22031659:RESULT (new)']
+- NCT04201938 | COMPLETED | results=False | NA | Effect of Probiotic Co-administration With Omega-3 Fatty Acids on Obesity Parameters and Insulin Resistance | conds: Obesity, Insulin Resistance, Insulin Sensitivity, Type2 Diabetes | intr: Symbiter-Omega, Placebo
+- NCT06683235 | ENROLLING_BY_INVITATION | results=False | NA | Effect of Flaxseed as a Treatment for Adults With Type 2 Diabetes Mellitus in Mexico | conds: DIABETES Mellitus Type 2 Not Well Controlled | intr: flaxseed
+- NCT06359613 | COMPLETED | results=False | NA | Efficacy Assessment of Gluten Free Cupcakes | conds: Celiac Disease in Children | intr: nutrient rich food product, food product
+- NCT02759380 | UNKNOWN | results=False | NA | Can Dietary Phytoestrogens Slow Down Prostate Tumor Proliferation? | conds: Prostate Cancer | intr: Phytoestrogen-rich foods | pubs: ['36544211:DERIVED (new)']
+- NCT01351012 | COMPLETED | results=False | NA | Canola Oil Multicentre Intervention Trial | conds: Metabolic Syndrome | intr: Corn and safflower oil, Canola oil, High oleic acid canola oil, DHA enriched high oleic acid canola  | pubs: ['30053283:DERIVED (new)', '27804268:DERIVED (new)', '25528432:DERIVED (new)', '25240692:DERIVED (new)', '24829493:DERIVED (new)', '24754911:DERIVED (new)']
+- NCT02029833 | COMPLETED | results=False | NA | Canola Oil Multi-Centre Intervention Trial II | conds: Cardiovascular Disease, Diabetes, Metabolic Syndrome | intr: Regular Canola Oil, High Oleic Canola Oil, Western Type Diet - Common Dietary Oils | pubs: ['31291447:DERIVED (new)', '30773586:DERIVED (new)']
+- NCT02475330 | TERMINATED | results=False | PHASE2 | Dietary Flaxseed in NSCLC | conds: Lung Cancer | intr: Flaxseed | pubs: ['34161146:DERIVED (new)']
+- NCT02014181 | COMPLETED | results=False | PHASE1 | Flaxseed Modulates Inflammation and Oxidative Stress in CF | conds: Cystic Fibrosis, Oxidative Stress, Inflammation | intr: finely ground flaxseed powder | pubs: [':RESULT (-)', '25963404:DERIVED (new)']
+- NCT01276704 | TERMINATED | results=True | PHASE2 | Prevention Strategy for Pre-Menopausal Women at High Risk for Development of Breast Cancer | conds: Breast Cancer | intr: Placebo, secoisolariciresinol | pubs: ['32312713:RESULT (new)']
+- NCT01157208 | COMPLETED | results=False | NA | Nutrition for Chronic Daily Headache | conds: Chronic Daily Headache | intr: Diet A, Diet B | pubs: ['25790451:RESULT (new)', '23886520:RESULT (new)', '25958314:DERIVED (new)', '21496264:DERIVED (new)']
+- NCT04759508 | UNKNOWN | results=False | NA | Flaxseed in Controlling Blood Pressure of Patients | conds: Hypertension | intr: Flax Oil Capsule, Placebo Soya Oil Capsule
+- NCT00275704 | COMPLETED | results=False | PHASE2 | Flaxseed for the Treatment of Hot Flashes | conds: Hot Flashes | intr: Flaxseed
+- NCT00733772 | COMPLETED | results=False | PHASE2,PHASE3 | Flaxseed Intervention on Metabolic Syndrome | conds: Metabolic Syndrome X | intr: flaxseed, Health lifestyle counseling | pubs: ['20826632:DERIVED (new)']
+- NCT01619020 | COMPLETED | results=False | NA | FlaxFx, A Research Study of the Effects of Flaxseed Lignans on Colon Health | conds: Healthy | intr: Flaxseed Lignans | pubs: ['31175806:DERIVED (new)']
+- NCT02284997 | COMPLETED | results=False | NA | The Effect of an Eyelid Warming Device for the Management of Meibomian Gland Dysfunction | conds: Meibomian Gland Dysfunction (MGD) | intr: MGDRx® EyeBag
+- NCT00956813 | COMPLETED | results=True | PHASE3 | Flaxseed in Treating Postmenopausal Women With Hot Flashes Who Have a History of Breast Cancer or Other Cancer or Who Do Not Wish to Take Es | conds: Breast Cancer, Hot Flashes, Menopausal Symptoms, Unspecified Adult Solid Tumor, Protocol Specific | intr: flaxseed, placebo | pubs: ['21900849:RESULT (SEEN)', ':RESULT (-)']
+- NCT01433120 | COMPLETED | results=False | NA | Targeting the Gut Microbiome to Investigate the Pathways of Progression From Obesity to Metabolic Diseases in an At-risk Population. | conds: Obesity, Insulin Resistance | intr: Lactobacillus paracasei ssp paracasei F19, Flax seed fibres, Maltodextrin (Placebo)
+- NCT02317588 | COMPLETED | results=False | PHASE1 | Gender Effects of Dietary Omega-3 Fatty Acids From Plant and Marine Sources on Oxylipins in Healthy Humans | conds: Healthy | intr: Flax Oil, Fish Oil | pubs: ['33380172:DERIVED (new)', '33097936:DERIVED (new)']
+- NCT02270164 | WITHDRAWN | results=False | NA | The Impact of Artichoke Leaf Extract on Blood Cholesterol: Primary Study | conds: Lipid Metabolism Disorders | intr: Artichoke Leaf Extract, Placebo
+- NCT07345884 | NOT_YET_RECRUITING | results=False | NA | Treatment of Severe Acute Malnutrition in Children 6 to 59 Months Old With Standard Ready To Use Therapeutic Food Compared to a Newly Formul | conds: Severe Acute Malnutrition in Childhood, Malnutrition, Child, Neurocognition, Child | intr: Lipid-Optimized Ready to Use Therapeutic Food (RUTF), Ready to Use Therapeutic Food (RUTF)
+- NCT01067911 | TERMINATED | results=False | NA | Optimizing Dietary Fatty Acids to Lower Metabolic Risk Factors Among Canadians | conds: Postprandial Lipaemia | intr: Butter and Vegetable oils from soy, flaxseed, high oleic safflower and canola, In this study subject
+- NCT07575698 | ACTIVE_NOT_RECRUITING | results=False |  | The Effect of Seed Cycling-Based Nutritional Intervention on Premenstrual Symptoms | conds: Seed Cycling, Nutrition Habits, Premenstrual Syndrome-PMS | intr: Seed consumption
+- NCT02410668 | COMPLETED | results=False | PHASE2,PHASE3 | The Effects of Flaxseed Supplement on Weight and Biochemical Factors in Overweight and Obese Subject | conds: Overweight and Obesity | intr: flaxseed, Placebo, Exercise recommendation | pubs: ['30843767:DERIVED (new)']
+- NCT02132728 | COMPLETED | results=False | NA | Impact of Flaxseed on the Syndrome Metabolic Inflammation | conds: Metabolic Syndrome | intr: Flaxseed or rice raw powder ingestion | pubs: ['25577201:DERIVED (new)']
+- NCT02496936 | COMPLETED | results=False | NA | Acute Effects of Fats on Satiety and Energy Needs | conds: Obesity | intr: SFA, MUFA, PUFA-LA, ALA
+- NCT00858767 | COMPLETED | results=False | NA | Arabic Gum-Absorption Study | conds: Bioavailability | intr: menaquinone-7 from casein capsules, menaquinone-7 from arabic gum capsules, menaquinone-7 from linse
+- NCT03183102 | COMPLETED | results=False | NA | The Role of the Gut Microbiota in Estrogen Metabolism and Dietary Flax as a Potential Modulator. | conds: Menopause | intr: Flaxseed
+- NCT03141931 | COMPLETED | results=True | NA | The Effects of Dietary Supplementation With Omega-3 Fatty Acids on Symptoms of Dry Eye | conds: Dry Eye | intr: Supplement, Placebo
+- NCT03964857 | UNKNOWN | results=False | NA | Blended Oil Beneficial for Blood Lipids Management | conds: Hyperlipidemias | intr: Refined olive oil (ROO), Blended Oil 1 (BO1), Blended Oil 2 (BO2) | pubs: ['35548564:DERIVED (new)', '33188423:DERIVED (new)']
+- NCT03888911 | COMPLETED | results=False | NA | Benefit and Tolerability of IQP-LU-104 in Weight Loss | conds: Overweight, Obesity | intr: High dose IQP-LU-104 (5120mg), Low dose IQP-LU-104 (2560mg), Placebo | pubs: ['35130547:DERIVED (new)']
+- NCT03915600 | UNKNOWN | results=False | NA | Efect of Quinoa and Flaxseed in Cititoxicity and Glicemic Control in Metabolic Syndrome Patients | conds: Metabolic Syndrome, Nutritional and Metabolic Diseases | intr: Quinoa, Flaxseed, Quinoa and Flaxseed
+- NCT07055620 | COMPLETED | results=False | NA | Effects of Different Dietary Models on Eating Behavior and Obesity Management in Overweight and Obese Individuals | conds: Mediterranean Diet, Intermittent Fasting, Diet | intr: Mediterranean diet, Standard diet, standard diet and time-restricted feeding
+- NCT05900024 | COMPLETED | results=False | NA | A Study to Evaluate the Effect of Funk It Cycle Bites on PMS | conds: Premenstrual Syndrome | intr: Funk It Cycle Bites
+- NCT00612560 | COMPLETED | results=True | NA | Flaxseed, Aromatase Inhibitors and Breast Tumor Characteristics | conds: Breast Cancer | intr: Anastrozole, flaxseed, Placebo | pubs: ['24669750:DERIVED (new)']
+- NCT07310485 | COMPLETED | results=False | NA | Examining the Impact of Phytoestrogens Supplementation on the Gene Expression, and Premenstrual Syndrome in Primenopausal Women | conds: Apparently Healthy and Not Receiving Hormonal Therapy | intr: SDG lignans, Placebo
+- NCT03734510 | UNKNOWN | results=False | NA | The Effect of Supplementation of Flaxseed, Hesperidin, Flaxseed and Hesperidin Together in Non-alcoholic Fatty Liver Disease: A Randomized,  | conds: Non Alcoholic Steatohepatitis | intr: Dietary Supplement: hesperidin and flaxseed, Dietary Supplement: hesperidin, Dietary Supplement: fla
+- NCT00935922 | COMPLETED | results=False | NA | CCRC: Understanding the Effects of Omega-3 Fatty Acids Versus Lignans in Flaxseed on Metabolic and Inflammatory Markers Leading to Diabetes  | conds: Body Weight, Lipids, Blood Glucose, Insulin | intr: Flaxseed
+- NCT03377153 | UNKNOWN | results=False | NA | The Effects of Hesperidin and Flaxseed on Biochemical Factors and Hepatic Fibrosis in Nonalcoholic Fatty Liver Disease | conds: Non Alcoholic Steatohepatitis | intr: hesperidin and flaxseed, control
+- NCT05415488 | COMPLETED | results=False | NA | Dietary Treatment for IBS Within Primary Health Care | conds: Irritable Bowel Syndrome | intr: Online dietary group treatment
+- NCT01928966 | WITHDRAWN | results=False | NA | Effect of Pumpkin Seeds on the Dietary Fatty Acid Intake and Blood Pressure in Women | conds: Cardiovascular Disease, Blood Pressure | intr: Pumpkin Seeds
+- NCT01234506 | COMPLETED | results=False | PHASE2 | Oxidative Stress and Nutritional Supplementation Intervention Study | conds: Oxidative Stress, Inflammation, Aging, Dementia | intr: secoisolariciresinol diglucoside | pubs: ['28922068:RESULT (new)', '28159728:RESULT (new)']
+- NCT01846117 | COMPLETED | results=False | PHASE1,PHASE2 | Once-Daily Oral Dose of BeneFlax to Healthy Older Adults | conds: Oxidative Stress, Inflammation, Aging, Pain | intr: secoisolariciresinol diglucoside, vitamin D | pubs: ['28159728:DERIVED (new)']
+- NCT00248794 | COMPLETED | results=True | NA | Cognitive Rehabilitation in Schizophrenia | conds: Cognitive Impairment, Schizophrenia | intr: Cognitive Rehabilitation Therapy (CRT) + Skill Training (SDG), Individual Computer Based Cognitive R
+- NCT01314586 | COMPLETED | results=False | NA | Flax Lignans and Heart Health | conds: Hypercholesterolemia | intr: secoisolariciresinol diglucoside-containing extract of flaxseed
+- NCT01531569 | COMPLETED | results=False | PHASE2 | Single Oral Dose of BeneFlax to Healthy Young and Older Adults | conds: Diabetes Mellitus, Type 2, Hypercholesterolemia | intr: BeneFlax - 38% secoisolariciresinol diglucoside (SDG)
+- NCT04179136 | COMPLETED | results=False | NA | The Role of Gut Microbiome on Cardiovascular Health Benefits of Dietary Lignans (CardioFlax Study). | conds: Healthy Volunteers | intr: lignan capsules contain 300 mg flaxseed (SDG) extract, Placebo treatment matching intervention
+
+### OpenAlex no-PMID trial-worded - 3551 hits, 67 without PMID, 67 new
+- new | 2026 | 10.34172/hpp.44662 | article | The Effects of Combination of Hydro Alcoholic Extracts of Nigella Sativa and Linum Usitatissimum on General Health, Fatigue and Its Contributing Factors in Relapsing-Remitting Mult | Health Promotion Perspectives
+- new | 2026 | 10.1016/j.msard.2026.107648 | article | The Effect of Combination Nigella Sativa and Linum Usitatissimum on Level of Disability and Depressive Symptoms in Relapsing-Remitting Multiple Sclerosis; a Randomized Double-blind | Multiple Sclerosis and Related Disorders
+- new | 2026 | https://openalex.org/W7201924012 | report | 2025 Flax Fiber Variety Trial | ScholarWorks -A service of University of
+- new | 2025 | https://openalex.org/W7217168879 | article | COMPARISON OF CLINICAL EFFECTIVENESS OF CHAMOMILE AND LINSEED SALIVARY SUBSTITUTE ON XEROSTOMIA PATIENTS: A DOUBLE-BLIND, RANDOMISED, CLINICAL TRIAL | TPM Testing, psychometrics, methodology 
+- new | 2025 | 10.17311/tas.2025.60.65 | article | Participatory Evaluation and Adaptation Trial Linseed (Linum usitatissimum L.) Varieties in Siltie, Hadiya, and Gurage Areas of Central Ethiopia Region | Trends in Agricultural Sciences
+- new | 2025 | 10.37349/emed.2025.1001297 | article | Effect of aloe vera and coconut in the management of xerostomia in patients with Sjogren’s syndrome: a crossover randomized clinical trial | Exploration of Medicine
+- new | 2024 | 10.3126/nhj.v21i1.65663 | article | Effects of Flaxseed on Blood Pressure in Patients Taking Antihypertensive Drugs: A Randomized Trial | Nepalese Heart Journal
+- new | 2023 | 10.1016/j.eja.2023.126989 | article | Experimental plan for oilseed flax in multi-environment trials | European Journal of Agronomy
+- new | 2023 | 10.22271/phyto.2023.v12.i1f.14610 | article | Pharmacological study of a Unani compound formulation in Iltehab Tajaweefe Anaf Muzmin (CRS) patients | Journal of Pharmacognosy and Phytochemis
+- new | 2021 | 10.22159/ajpcr.2021.v14i1.40288 | article | SINGLE-BLIND, RANDOMIZED, CONTROL TRIAL OF A UNANI COMPOUND FORMULATION IN ILTEHAB TAJAWEEFE ANAF MUZMIN | Asian Journal of Pharmaceutical and Clin
+- new | 2021 | 10.5114/aoms/136340 | article | Antioxidant, cytotoxicity, and anti-human lung cancer properties of Linum usitatissimum seed aqueous extract in in vitro conditions: a pre-clinical trial study | Archives of Medical Science
+- new | 2020 | 10.1007/978-3-030-16807-0_119 | book-chapter | Linum usitatissimum L. (Linaceae) | Springer eBooks
+- new | 2019 | 10.1096/fasebj.2019.33.1_supplement.755.2 | conference-abstract | The effectiveness of flaxseed (Linum usitatissimum L.) on the inflammatory response in patients with familial hypercholesterolemia receiving lipid apheresis‐preliminary results | The FASEB Journal
+- new | 2018 | 10.2478/hepo-2018-0019 | article | Characterisation and evaluation of morphological trials, biological features and seed yield of 23 flax accessions (Linum usitatissimum L.) of different geographical origins | Herba Polonica
+- new | 2018 | 10.1016/j.indcrop.2018.02.035 | article | Transcriptome analysis of flax (Linum usitatissimum L.) undergoing osmotic stress | Industrial Crops and Products
+- new | 2017 | 10.22034/mbt.2017.60379 | article | Investigation of Antibacterial Effects of Medicinal Plants on Bacterial Pathogens of Patients | Medbiotech Journal
+- new | 2016 | 10.4172/2327-5162.1000213 | article | Effect of Unani Formulation in Cervicitis (Warme-unqur-rahm): A Single-blind Randomized Placebo-controlled Trial | Alternative & Integrative Medicine
+- new | 2015 | 10.4236/jbm.2015.310006 | article | Protective Role of Golden Flaxseed (Linum usitatissimum L.) Against Oxidative Damage in Lipids and Proteins of Healthy Volunteers | Journal of Biosciences and Medicines
+- new | 2015 | https://openalex.org/W7135294785 | report | Flax Variety Trial | ScholarWorks -A service of University of
+- new | 2014 | https://openalex.org/W7139708579 | article | Flax Variety Trial | ScholarWorks -A service of University of
+- new | 2014 | https://openalex.org/W2908534803 | article | Flax Weed Control Trial | ScholarWorks -A service of University of
+- new | 2013 | https://openalex.org/W7139170158 | article | Flax Variety Trial | ScholarWorks -A service of University of
+- new | 2013 | https://openalex.org/W7135283525 | report | Flax Variety Trial | ScholarWorks -A service of University of
+- new | 2013 | 10.23986/afsci.7355 | article | Yield, SDG lignan, cadmium, lead, oil and protein contents of linseed (Linum usitatissimum L.) cultivated in trials and at different farm conditions in the south-western part of Fi | Agricultural and Food Science
+- new | 2013 | https://openalex.org/W3209991984 | article | Flax Variety Trial | 
+- new | 2013 | 10.1007/s40278-013-5322-9 | other | Clopidogrel/Linum usitatissimum/omega-3 fatty acids interaction: Increased bruising in an elderly patient: case report | Reactions Weekly
+- new | 2012 | https://openalex.org/W2741260869 | article | Comparison of machine learning algorithms Random Forest, Artificial Neural Network and Support Vector Machine to Maximum Likelihood for supervised crop type classification | Biblioteca Digital da Memória Científica
+- new | 2010 | 10.1614/ws-09-104.1 | article | Quantification and Mitigation of Adventitious Presence of Volunteer Flax (Linum usitatissimum) in Wheat | Weed Science
+- new | 2010 | 10.1614/wt-d-09-00003.1 | article | Adventitious Presence: Volunteer Flax (Linum usitatissimum) in Herbicide-Resistant Canola (Brassica napus) | Weed Technology
+- new | 2010 | 10.2134/agronj2010.0005 | article | Emergence and Persistence of Volunteer Flax in Western Canadian Cropping Systems | Agronomy Journal
+- new | 2010 | https://openalex.org/W2271937027 | article | EFFECT OF CYCOCEL ON PROLINE, SOLUBLE SUGARS, PROTEIN, OIL AND FATTY ACIDS OF FLAX (LINUM USITATISSIMUM L.) PLANTS UNDER DROUGHT STRESS IN A POT TRIAL | 
+- new | 2010 | https://openalex.org/W2468927766 | article | Ensaio de variedades de linho em diferentes épocas. Comportamento fenológico e produção Flax varieties trial at different seasons. Phenological behaviour and production | Revista de Ciências Agrárias
+- new | 2009 | 10.1007/s11738-009-0387-z | article | Calcium chloride and gibberellic acid protect linseed (Linum usitatissimum L.) from NaCl stress by inducing antioxidative defence system and osmoprotectant accumulation | Acta Physiologiae Plantarum
+- new | 2009 | https://openalex.org/W2590401631 | article | Linum usitatissimum L.) | 
+- new | 2007 | 10.17221/6045-cjgpb | article | Linum usitatissimum L., Linseed Amon | Czech Journal of Genetics and Plant Bree
+- new | 2006 | 10.1007/s10681-006-9106-7 | article | Genetic analysis of quantitative traits across environments in linseed (Linum usitatissimum L.) | Euphytica
+- new | 2006 | 10.18174/22222 | dissertation | Molecular genetic studies in flax (Linum usitatissimum L.) | 
+- new | 2006 | 10.31274/farmprogressreports-180814-150 | report | Evaluation of Previous Rotation on Flax Performance in Certified Organic Production - Crawfordsville Trial, 2005 | Iowa State University Digital Repository
+- new | 2005 | 10.31274/farmprogressreports-180814-2124 | report | Evaluation of Flax Varieties for Certified Organic Production - Neely-Kinyon Trial, 2004 | Iowa State University Digital Repository
+- new | 2004 | 10.1111/j.2042-7166.2004.tb04501.x | conference-abstract | Linum usitatissimum (flaxseed) diet supplementation has a minor impact on lipid profile in menopausal women: a 1‐year randomised, double‐blind, placebo‐controlled clinical trial | Focus on Alternative and Complementary T
+- new | 2004 | 10.1016/j.indcrop.2003.12.014 | article | A comparative study of the characteristics of fibre-flax (Linum usitatissimum) | Industrial Crops and Products
+- new | 2003 | 10.1017/s0021859603003174 | article | Cluster and canonical variate analyses in multilocation trials of linseed | The Journal of Agricultural Science
+- new | 2002 | 10.1023/a:1014716031095 | article | Genetic diversity within a range of cultivars and landraces of flax (Linum usitatissimum L.) as revealed by RAPDs | Genetic Resources and Crop Evolution
+- new | 2000 | 10.1007/s001220051520 | article | RFLP and RAPD mapping in flax (Linum usitatissimum) | Theoretical and Applied Genetics
+- new | 1999 | 10.4141/p98-105 | article | Control of volunteer flax in wheat | Canadian Journal of Plant Science
+- new | 1999 | https://openalex.org/W2494034699 | article | Evaluation of rate and timing of cycloxydim on the control of cereal volunteers in winter linseed (Linum usitatissimum). | Tests of agrochemicals and cultivars
+- new | 1997 | 10.1046/j.1365-3180.1997.d01-42.x | article | The influence of interspecific interference on the seed production of Stellaria media and Hordeum vulgare (volunteer barley) | Weed Research
+- new | 1995 | 10.1111/j.1365-3180.1995.tb02016.x | article | Volunteer barley interference in fibre flax (Linum usitatissimum L.) | Weed Research
+- new | 1993 | https://openalex.org/W2574545329 | article | The Trials of Flax | 
+- new | 1993 | https://openalex.org/W2595991969 | article | Connecticut fiber flax trials. | Biodiversity Heritage Library (Smithsoni
+- new | 1992 | 10.1111/j.1744-7348.1992.tb04910.x | article | An assessment of somaclonal variation in linseed (Linum usitatissimum) | Annals of Applied Biology
+- new | 1991 | https://openalex.org/W3157111471 | article | Modelling the effects of volunteer barley on the yield of fibre flax (Linum usitatissimum L.). | Aspects of applied biology
+- new | 1990 | 10.4141/cjps90-134 | article | EFFECTS OF VOLUNTEER WHEAT AND BARLEY ON THE GROWTH AND YIELD OF FLAX | Canadian Journal of Plant Science
+- new | 1988 | 10.1017/s0890037x00030281 | article | Annual Grass Control in Flax (Linum usitatissimum) with Quizalofop | Weed Technology
+- new | 1987 | 10.4141/cjps87-135 | article | DETRIMENTAL EFFECTS OF VOLUNTEER Brassica ON PRODUCTION OF CERTAIN CEREAL AND OILSEED CROPS | Canadian Journal of Plant Science
+- new | 1983 | https://openalex.org/W2296386066 | article | Studies on linseed (Linum usitatissimum) as protein source. 3. Comparison with other vegetable protein sources and a trial in broiler production. | CFTRI Institutional Repository
+- new | 1976 | 10.1071/ar9760649 | article | Adaptation to heterogeneous environments. III.* The inheritance of response to spacing in flax and linseed (Linum usitatissimum) | Australian Journal of Agricultural Resea
+- new | 1972 | 10.1016/s0031-9422(00)88487-3 | article | Sterols of Linum usitatissimum seed | Phytochemistry
+- new | 1971 | 10.1080/00128325.1971.11662516 | article | A Linseed Seed Rates Trial | East African Agricultural and Forestry J
+- new | 1970 | https://openalex.org/W1020535863 | article | Trials with linseed, 1965-1968. | Tidsskrift for Planteavl
+- new | 1969 | 10.30843/nzpp.1969.22.10457 | conference-paper | Weed control trials in linseed | Proceedings of the New Zealand Weed Cont
+- new | 1967 | 10.4141/cjps67-078 | article | THE INTERACTION OF VARIETY AND ENVIRONMENT IN FLAX TRIALS | Canadian Journal of Plant Science
+- new | 1963 | https://openalex.org/W2557002516 | article | 1962 Small Grain Variety Trials | Open PRAIRIE (South Dakota State Univers
+- new | 1962 | 10.4141/cjps62-073 | article | SPECIES TRIALS WITH OILSEED PLANTS: II. CAMELINA | Canadian Journal of Plant Science
+- new | 1961 | 10.4141/cjps61-106 | article | SPECIES TRIALS WITH OIL PLANTS. I. CRAMBE | Canadian Journal of Plant Science
+- new | 1959 | https://openalex.org/W3080340417 | article | Flax trials, 1956-57 | Journal of the Department of Agriculture
+- new | 1924 | 10.1080/19447012408660986 | article | Flax Variety Trials | Journal of the Textile Institute. Procee
+
+## lysimachia-vulgaris (Lysimachia vulgaris) - name clause: "Lysimachia vulgaris"[tiab] OR "yellow loosestrife"[tiab] OR "garden loosestrife"[tiab]
+
+### PubMed HT - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SR - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SAFE - 1 hits, 1 not already listed above, 0 new
+- HELD REF-2795 | 2024 | 38611770 |  | Development and Validation of a High-Performance Liquid Chromatography Method to Quantify Marker Compounds in Lysimachia vulgaris var. davurica and Its Effects in Diarrhea-Predomin | Molecules
+
+### PubMed OBS - 0 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 0 hits, 0 not already listed above, 0 new
+
+### ClinicalTrials.gov - 0 registered studies
+
+### OpenAlex no-PMID trial-worded - 44 hits, 38 without PMID, 38 new
+- new | 2025 | 10.3390/atmos16040373 | article | Agrochemical Nitrogen Cycles, Photosynthesis Performance of Nitrogen Use Efficiency, and Yield of Maize | Atmosphere
+- new | 2025 | 10.59513/snl.2025.127.161 | article | Vegetationsentwicklung in nährstoffarmen Feuchthabitaten Luxemburgs | Bulletin de la Société des naturalistes 
+- new | 2024 | 10.21266/2079-4304.2024.248.103-122 | article | Vegetation cover of forest phytocenoses of the Kologrivsky forest nature reserve | Известия СПбЛТА
+- new | 2023 | 10.3390/app13116830 | article | Antibacterial Activity of Lysimachia nummularia L. in Oro-Dental Diseases | Applied Sciences
+- new | 2022 | 10.22246/jikm.2022.43.4.680 | article | A Review of Research Trends in Traditional Korean Medicine for Nonalcoholic Fatty Liver Disease | The Journal of Internal Korean Medicine
+- new | 2022 | 10.21570/edgg.pg.52.28-43 | article | Phytosociology, ecology and plant species diversity of grasslands within nature protection sites near Zurich (Switzerland) | Palaearctic Grasslands - Journal of the 
+- new | 2021 | 10.21685/2500-0578-2021-3-1 | article | MAPPING AND SPATIAL DISTRIBUTION ANALYSIS OF HERBACEOUS VEGETATION IN THE TRANSITION AREA OF POLISTOVSKY RESERVE | Russian Journal of Ecosystem Ecology
+- new | 2021 | 10.32859/era.22.46.1-20 | article | Plants and fungi in the ethnomedicine of the medieval East - a review | Ethnobotany Research and Applications
+- new | 2021 | 10.1016/j.gecco.2021.e01568 | article | A survey of habitats on agricultural land in Estonia II. Detailed interpretation of the habitats’ landscape ecology and how this relates to alien plant species | Global Ecology and Conservation
+- new | 2019 | 10.24189/ncr.2019.013 | article | The invasiveness of Solidago canadensis in the Sanctuary «Prilepsky» (Belarus) | Nature Conservation Research
+- new | 2019 | 10.22353/mjbs.2019.17.08 | article | Ecology of Two Apollo Butterfl ies (Parnassius apolloLinnaeus, 1758 and Parnassius nomion Fischer de Waldheim, 1823) of the Khentii Mountain Range in Mongolia | Mongolian Journal of Biological Sciences
+- new | 2018 | 10.11628/ksppe.2018.21.2.139 | article | Planting Plan for Flower Border based on the Flowering Period and Plant Height of Perennial Herbaceous Garden Plants in the Middle Part of Korea | Journal of people, plants, and environme
+- new | 2017 | https://openalex.org/W2784533438 | dissertation | Competitive Interactions and Rhizome Reproductive Capacity of an Invasive Plant, Garden Loosestrife (Lysimachia vulgaris L.) | ResearchWorks at the University of Washi
+- new | 2017 | 10.5586/asbp.3561 | article | A performance comparison of sampling methods in the assessment of species composition patterns and environment–vegetation relationships in species-rich grasslands | Acta Societatis Botanicorum Poloniae
+- new | 2017 | 10.17816/snv201761114 | article | Results of Chernovskoe Reservoir hydro botanical monitoring from 1974 to 2015 | Samara Journal of Science
+- new | 2016 | 10.24355/dbbs.084-201701040942-0 | article | Die spontane Flora der Straßen von Braunschweig: Hohe Artenzahl und unerwartete Florendynamik im lokalen Maßstab | Digitale Bibliothek Braunschweig (Verbun
+- new | 2015 | https://openalex.org/W2580113777 | conference-paper | DESIGNING PLANT TRANSLOCATIONS: HYPERICUM ELODES IN MIGLIARINO-SAN ROSSORE-MASSACIUCCOLI REGIONAL PARK AS A CASE STUDY | CINECA IRIS Institutial research informa
+- new | 2015 | https://openalex.org/W2588612459 | conference-paper | AIS LIFE – AEROBIOLOGICAL INFORMATION SYSTEM AND ALLERGIC RESPIRATORY DISEASE MANAGEMENT - LIFE13ENV/IT/001107 | CINECA IRIS Institutial research informa
+- new | 2014 | 10.5423/rpd.2014.20.1.037 | article | Screening of Plant Extracts for Nemastatic Activity | Research in Plant Disease
+- new | 2014 | 10.3161/104.062.0109 | article | The Influence of Standing Vegetation Height on the Reproductive Allocation in Populations ofSerratula tinctoriaL. (Asteraceae) | Polish Journal of Ecology
+- new | 2013 | https://openalex.org/W1526087771 | article | Macrophytes of the river Ljubljanica | PeFprints (University of Ljubljana)
+- new | 2013 | https://openalex.org/W1496960095 | dissertation | Remote sensing and GIS for wetland vegetation study | Enlighten: Theses (The University of Gla
+- new | 2010 | https://openalex.org/W7236516110 | other | Union Bay Natural Area and Shoreline Management Guidelines | OakTrust (Texas A&M University Libraries
+- new | 2010 | 10.23818/limn.29.08 | article | The pond biodiversity index “IBEM”: a new tool for the rapid assessment of biodiversity in ponds from Switzerland. Part 2. Method description and examples of application | Limnetica
+- new | 2010 | 10.23818/limn.29.07 | article | The pond biodiversity index “IBEM”: a new tool for the rapid assessment of biodiversity in ponds from Switzerland. Part 1. Index development | Limnetica
+- new | 2009 | 10.5253/078.097.0114 | article | Nest Site Selection of Montagu's HarrierCircus pygargusBreeding in Natural Habitats in Eastern Poland | Ardea
+- new | 2009 | 10.11606/d.11.2009.tde-11032009-163832 | dissertation | Avaliação do potencial produtivo do milho híbrido AGN-30A06 em espaçamentos e populações diferenciadas | Digital Library of Theses and Dissertati
+- new | 2005 | https://openalex.org/W2473130363 | dissertation | Relationships between landscape factors and vegetation site types: case study from Saare County, Estonia | DSpace repository (University of Tartu)
+- new | 2004 | 10.1007/s10164-004-0123-5 | article | Grazing behaviour of free-ranging donkeys and Shetland ponies in different reproductive states | Journal of Ethology
+- new | 2003 | 10.56617/tl.4624 | article | A Váli-víz völgyének jellegzetes üde fátlan élőhelyei | Tájökológiai Lapok
+- new | 2002 | https://openalex.org/W1600759773 | dissertation | Effects of low dietary levels of saponins on two common culture fish - common carp (Cyprinus carpio L.) and Nile tilapia (Oreochromis niloticus (L.)) | University writing server of the Univers
+- new | 1996 | 10.24355/dbbs.084-200511080100-274 | article | Die Uferflora der Weser / Friedrich Wilhelm Oppermann | Digitale Bibliothek Braunschweig (Verbun
+- new | 1996 | https://openalex.org/W1519217691 | book | BWARS: bees, wasps and ants recording society: starter pack. | NERC Open Research Archive (Natural Envi
+- new | 1991 | https://openalex.org/W2576022003 | dissertation | Iron toxicity to wetland plants | White Rose eTheses Online (University of
+- new | 1988 | 10.1007/bf00045749 | article | Linear trend in multi-species time series | Plant Ecology
+- new | 1963 | 10.1111/j.1438-8677.1963.tb00115.x | article | CHROMOSOME NUMBERS OF FLOWERING PLANTS IN THE NETHERLANDS | Acta Botanica Neerlandica
+- new | 1928 | 10.18174/163386 | dissertation | Bijdrage tot de kennis van de chemische en botanische samenstelling van het hooi en van den invloed, welke enkele meststoffen daarop uitoefenen | 
+- new | 1866 | 10.5962/bhl.title.12236 | book | Botanique [du département d'Eure-et-Loir] | Biodiversity Heritage Library (Smithsoni
+
+## mahonia-aquifolium (Mahonia aquifolium) - name clause: "Mahonia aquifolium"[tiab] OR "Berberis aquifolium"[tiab] OR "Oregon grape"[tiab] OR "Oregon-grape"[tiab] OR "Relieva"[tiab]
+
+### PubMed HT - 15 hits, 15 not already listed above, 10 new
+- new | 2025 | 40210174 | Systematic Review | Herbal medicine for treating psoriasis: A systematic review. | Complement Ther Med
+- new | 2020 | 32086874 | Randomized Controlled Trial | Ethmoidal drug-eluting stent therapy is not superior to nasal corticosteroid spray in the prevention of endoscopic sinus surgery: Results from a randomised, clinical trial. | Clin Otolaryngol
+- HELD REF-0487 | 2018 | 30666279 | Review | Review of the Efficacy and Safety of Topical Mahonia aquifolium for the Treatment of Psoriasis and Atopic Dermatitis. | J Clin Aesthet Dermatol
+- new | 2018 | 30468497 | Multicenter Study/Randomized Controlled Trial | Use of balloon catheter dilation and steroid-eluting stent in light and severe rhinosinusitis of frontal sinus: a multicenter retrospective randomized study. | Eur Rev Med Pharmacol Sci
+- new | 2017 | 28492612 |  | A prospective, randomized clinical study comparing drug eluting stent therapy and intranasal corticoid steroid therapy in the treatment of patients with chronic rhinosinusitis. | Rhinology
+- new | 2016 | 27671811 | Review | Berberine and Its Role in Chronic Disease. | Adv Exp Med Biol
+- new | 2016 | 27392388 | Comparative Study | Steroid-Eluting Ethmoidal Stent Versus Antero-Posterior Ethmoidectomy: Comparison Of Efficacy And Safety In Allergic Patients. | Otolaryngol Pol
+- HELD REF-3643 | 2013 | 23909714 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Plant extracts for the topical management of psoriasis: a systematic review and meta-analysis. | Br J Dermatol
+- new | 2008 | 18651115 | Clinical Trial | [Update: catheter-based balloon dilatation of the sinuses without fluoroscopy. Dilation technique with an illumination system]. | HNO [ger]
+- HELD REF-3644 | 2007 | 17890932 | Clinical Trial/Research Support, Non-U.S. Gov't | Reliéva, a Mahonia aquifolium extract for the treatment of adult patients with atopic dermatitis. | Am J Ther
+- new | 2007 | 18077922 | Comparative Study/Randomized Controlled Trial | A randomized, double-blind, vehicle-controlled, half-side comparison with a herbal ointment containing Mahonia aquifolium, Viola tricolor and Centella asiatica for the treatment of | Int J Clin Pharmacol Ther
+- HELD REF-0591 | 2006 | 16645428 | Randomized Controlled Trial | Treatment of mild to moderate psoriasis with Reliéva, a Mahonia aquifolium extract--a double-blind, placebo-controlled study. | Am J Ther
+- HELD REF-1173 | 2005 | 16148424 | Review | A report on three recent clinical trials using Mahonia aquifolium 10% topical cream and a review of the worldwide clinical experience with Mahonia aquifolium for the treatment of p | Am J Ther
+- new | 1999 | 10352377 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of Mahonia aquifolium ointment on the expression of adhesion, proliferation, and activation markers in the skin of patients with psoriasis. | Forsch Komplementarmed
+- new | 1996 | 23195075 |  | Mahonia aquifolium in patients with psoriasis vulgaris - an intraindividual study. | Phytomedicine
+
+### PubMed SR - 3 hits, 1 not already listed above, 1 new
+- new | 2017 | 28289986 | Systematic Review | Topical Botanical Agents for the Treatment of Psoriasis: A Systematic Review. | Am J Clin Dermatol
+
+### PubMed SAFE - 19 hits, 10 not already listed above, 10 new
+- new | 2023 | 36858077 |  | Evaluation of Therapeutic Potential of Selected Plant-Derived Homeopathic Medicines for their Action against Cervical Cancer. | Homeopathy
+- new | 2023 | 38304488 | Research Support, Non-U.S. Gov't/Research Support, N.I.H., Extramural | Effect of Oregon grape root extracts on P-glycoprotein mediated transport in in vitro cell lines. | J Pharm Pharm Sci
+- new | 2021 | 33186075 |  | Allele-Specific Detection Methods for QoI Fungicide-Resistant Erysiphe necator in Vineyards. | Plant Dis
+- new | 2020 | 31786760 |  | Determination of Pb and Mg accumulation in some of the landscape plants in shrub forms. | Environ Sci Pollut Res Int
+- new | 2020 | 32735398 | Research Support, Non-U.S. Gov't/Review | Berberine: A novel therapeutic strategy for cancer. | IUBMB Life
+- new | 2018 | 29888685 | Case Reports | Patulous Eustachian tube obliteration using endovascular coils: a novel technique. | J Laryngol Otol
+- new | 2015 | 25904522 | Review | Complementary and alternative medicine for psoriasis: what the dermatologist needs to know. | Am J Clin Dermatol
+- new | 2012 | 33242239 | Review | Berberine. | 
+- new | 2010 | 20707875 | Research Support, Non-U.S. Gov't | Which plant for which skin disease? Part 1: Atopic dermatitis, psoriasis, acne, condyloma and herpes simplex. | J Dtsch Dermatol Ges [eng,ger]
+- new | 1999 | 10352374 | Review | [Phytotherapy in chronic dermatoses and wounds: what is the evidence?]. | Forsch Komplementarmed [ger]
+
+### PubMed OBS - 1 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 13 hits, 6 not already listed above, 6 new
+- new | 2020 | 31609017 | Review | Therapeutic and biological activities of berberine: The involvement of Nrf2 signaling pathway. | J Cell Biochem
+- new | 2020 | 31902359 | Review | New Development of Novel Berberine Derivatives against Bacteria. | Mini Rev Med Chem
+- new | 2020 | 32564751 | Review | Berberine Administration in Treatment of Colitis: A Review. | Curr Drug Targets
+- new | 2014 | 24373199 | Research Support, Non-U.S. Gov't/Review | Wheat stripe (yellow) rust caused by Puccinia striiformis f. sp. tritici. | Mol Plant Pathol
+- new | 2011 | 21105177 | Review | Traditional herbal remedies that influence cell adhesion molecule activity. | Phytother Res
+- new | 2003 | 12919112 | Review | From medical herbalism to phytotherapy in dermatology: back to the future. | Dermatol Ther
+
+### ClinicalTrials.gov - 1 registered studies
+- NCT05879406 | COMPLETED | results=False | NA | A Study to Evaluate the Efficacy and Safety of Clear Skin Formula on Mitigating Mild to Moderate Non-cystic Acne | conds: Non-Cystic Acne | intr: VitaMedica® Clear Skin Formula capsules, Placebo Capsules | pubs: ['39758223:DERIVED (new)']
+
+### OpenAlex no-PMID trial-worded - 297 hits, 50 without PMID, 50 new
+- new | None | https://openalex.org/W7236915346 | article | Возможности мази Псориатен в терапии псориаза | CyberLeninK (CyberLeninka)
+- new | 2026 | 10.7759/cureus.120150 | article | A Sharp Encounter With Mahonia aquifolium: A Case of Multidisciplinary Management of Penetrating Orbital Trauma | Cureus
+- new | 2026 | 10.5281/zenodo.21140233 | article | Plant-Based Approaches to Psoriasis: A Systematic Review of Efficacy and Safety | Zenodo (CERN European Organization for N
+- new | 2026 | 10.2174/0118756921484440260922105552 | article | Herbal Therapeutics for Psoriasis: Molecular Mechanisms, Clinical Evidence, and Advanced Drug Delivery Strategies | Current pharmacogenomics and personalize
+- new | 2026 | https://openalex.org/W7217870091 | article | The therapeutic effect of topical Hydnocarpus anthelminthicus oil in combination with 0.1% triamcinolone acetonide in psoriasis; A Randomized Control Trial | Thai Journal of Dermatology
+- new | 2026 | 10.1016/j.hnm.2026.200387 | article | Effect of phytosomal berberine and monacolin K association on glyco-metabolic and lipid parameters in dysglycemic and hypercholesterolemic patients | Human Nutrition & Metabolism
+- new | 2026 | 10.1007/978-981-95-4813-2_41 | conference-paper | Ignition Time Prediction of Live Shrubs Using Machine Learning | Springer proceedings in mathematics & st
+- new | 2026 | 10.5281/zenodo.18509572 | article | Herbal Approaches to Psoriasis: Insights into Medicinal Plants and Their Mechanism of Action | Zenodo (CERN European Organization for N
+- new | 2025 | 10.22271/flora.2025.v13.i6a.1046 | article | Herbal remedies in dermatology: Clinical efficacy and mechanisms in skin disease treatment | International Journal of Herbal Medicine
+- new | 2024 | 10.30574/gscbps.2024.27.1.0126 | article | Formulation and validation on UV spectroscopy of Herbosomes loaded Mahonia aquifolium cream for psoriasis | GSC Biological and Pharmaceutical Scienc
+- new | 2024 | 10.2174/0122103155324599241028163050 | article | Exploring Pharmacological Mechanisms, Clinical Trials and Patent Landscapes of Berberine: A Review | The Natural Products Journal
+- new | 2024 | 10.19080/oajt.2024.06.555676 | review | Preferences for Psoriasis Treatment: A Systematic Review of Patient Perspectives | Open Access Journal of Toxicology
+- new | 2024 | 10.19080/oajt.6.1 | paratext |  | Open Access Journal of Toxicology
+- new | 2023 | 10.13040/ijpsr.0975-8232.ijp.10(9).489-01 | paratext |  | International Journal of Pharmacognosy
+- new | 2023 | 10.54804/yhthvb.6.2022.183 | article | The research on the treatment effects of nano Berberine gel on superficial burn thickness | Tạp chí Y học Thảm hoạ và Bỏng
+- new | 2021 | 10.26650/istanbuljpharm.2020.0056 | article | Bioavailability of berberine: challenges and solutions | Istanbul Journal of Pharmacy
+- new | 2019 | https://openalex.org/W2992039711 | dissertation | Fitoterapia no tratamento e como potencial terapêutico da psoríase em placas | Portuguese National Funding Agency for S
+- new | 2019 | https://openalex.org/W7224034679 | dissertation | Phytotherapy in the treatment of plaque psoriasis and its therapeutic potencial | Portuguese National Funding Agency for S
+- new | 2019 | 10.3897/neobiota.53.38183 | article | A preliminary field trial to compare control techniques for invasive Berberis aquifolium in Belgian coastal dunes | NeoBiota
+- new | 2017 | 10.23946/2500-0764-2017-2-4-79-84 | article | CARDIOPROTECTION DURING PRIMARY PERCUTANEOUS CORONARY INTERVENTION IN PATIENTS WITH MYOCARDIAL INFARCTION | Fundamental and Clinical Medicine
+- new | 2017 | 10.14200/jrm.2017.6.0100 | article | Cardiovascular Effects of Berberine: A Review of the Literature | Journal of Restorative Medicine
+- new | 2016 | 10.7324/japs.2016.601233 | article | Clinical trials studies of plant extracts with anti-inflammatory activity | Journal of Applied Pharmaceutical Scienc
+- new | 2016 | 10.15761/god.1000151 | article | Is the alternative medicine a real alternative in adult atopic dermatitis? Experiences of 125 patients | Global Dermatology
+- new | 2015 | 10.15761/god.1000136 | review | Current evidence on the effectiveness of systemic herbal medicine for psoriasis: A systematic review with meta-analysis | Global Dermatology
+- new | 2014 | https://openalex.org/W2600795895 | article | Management trials and demonstrations for invasive Mahonia aquifolium in coastal dunes | 
+- new | 2014 | 10.15835/nbha4219484 | article | Pharmacological Benefits of Herbal Formulations in the Management of Psoriasis vulgaris | Notulae Botanicae Horti Agrobotanici Clu
+- new | 2013 | 10.1177/247553031319a00403 | article | Alternative Medicine for the Treatment of Psoriasis | Psoriasis Forum
+- new | 2013 | 10.5772/52913 | book-chapter | Immune-Based Treatment Strategies for Patients with Recurrent Urinary Tract Infections – Where Are We? | InTech eBooks
+- new | 2012 | 10.5755/j01.ct.60.2.1930 | article | The use of beebread-honey mixture in the treatment of liver diseases in alcohol-dependent patients | Chemical Technology
+- new | 2012 | 10.7778/jpkm.2012.26.2.053 | article | Overview for Pattern and Results of Herbal Medicine-derived Atopic Dermatitis Clinical Researches | The Journal of Pediatrics of Korean Medi
+- new | 2010 | 10.1111/j.1610-0387.2010.07496_supp.x | article | Welche Pflanze für welche Hauterkrankung? Teil 1: Atopische Dermatitis, Psoriasis, Akne, Kondylome und Herpes simplex | JDDG Journal der Deutschen Dermatologisc
+- new | 2007 | 10.2165/00128413-200716130-00035 | other | A cream containing Mahonia aquifolium extract [Reli??va] is beneficial in the treatment of patients with atopic dermatitis, | Inpharma Weekly
+- new | 2007 | 10.1016/b978-0-323-02998-8.50024-x | book-chapter | Veterinary Herbal Medicine: A Systems-Based Approach | Elsevier eBooks
+- new | 2006 | 10.2165/00128413-200615380-00044 | other | An extract of Mahonia aquifolium [Reli??va] reduces the severity of psoriasis and improves patient quality of life, | Inpharma Weekly
+- new | 2005 | 10.1089/act.2005.11.17 | article | Combining Herbs in a Formula for Irritable Bowel Syndrome | Alternative and Complementary Therapies
+- new | 2004 | 10.21273/hortsci.39.4.801b | article | Carrot Cultivar Trials in Oklahoma | HortScience
+- new | 2004 | 10.21273/hortsci.39.4.751c | article | `Satsuma' Mandarin Cultivar Trial on the Central Coast of California | HortScience
+- new | 2004 | 10.21273/hortsci.39.4.800a | article | Early Performance of `Fuji' Apple Trees on Several Dwarf Rootstocks in the 1999 NC-140 Rootstock Trial | HortScience
+- new | 2004 | 10.21273/hortsci.39.4.799d | article | Early Performance of `McIntosh' Apple Trees on Several Semidwarf Rootstocks in the 1999 NC-140 Rootstock Trial | HortScience
+- new | 2004 | 10.21273/hortsci.39.4.799e | article | Early Performance of `Fuji' Apple Trees on Several Semidwarf Rootstocks in the 1999 NC-140 Rootstock Trial | HortScience
+- new | 2004 | 10.21273/hortsci.39.4.800b | article | Early Performance of `McIntosh' Apple Trees on Several Dwarf Rootstocks in the 1999 NC-140 Rootstock Trial | HortScience
+- new | 2004 | 10.21273/hortsci.39.4.784d | article | Master Gardener-led Projects in Southern Nevada | HortScience
+- new | 2004 | 10.21273/hortsci.39.4.839e | article | The Master Gardeners of Southern Nevada | HortScience
+- new | 2004 | 10.21273/hortsci.39.4.839b | article | Tracking Horticultural Impact of Master Gardeners | HortScience
+- new | 2000 | 10.15760/etd.2002 | report | An Analysis of Vegetation Recovery following Dam Removal at Hemlock Recreation Site, Washington | 
+- new | 2000 | 10.15760/etd.6347 | report | Effectiveness of Pollinator Enhancements in Portland Community Orchards | 
+- new | 1995 | 10.3109/09546639509080587 | article | Mahonia aquifolium: A new type of topical treatment for psoriasis | Journal of Dermatological Treatment
+- new | 1994 | 10.1017/s0007485300032259 | article | Assessment of the behaviour patterns of the lemon leaf-cutting ant, Atta sexdens rubropilosa (Hymenoptera: Formicidae), to natural sources of allelochemicals | Bulletin of Entomological Research
+- new | 1969 | 10.5962/p.249497 | article | Some Comparatively New Plants Worthy of Trial | Arnoldia.
+- new | 1958 | 10.5962/p.249367 | article | Two New Mahoberberis Hybrids | Arnoldia.
+
+## malva-sylvestris (Malva sylvestris) - name clause: "Malva sylvestris"[tiab] OR "common mallow"[tiab] OR "high mallow"[tiab] OR "blue mallow"[tiab] OR "mallow"[ti]
+
+### PubMed HT - 21 hits, 21 not already listed above, 16 new
+- new | 2026 | 41930850 |  | Effect of Persian traditional medicine based herbal vaginal gel in vaginal atrophy. | J Ayurveda Integr Med
+- new | 2026 | 42398621 | Randomized Controlled Trial/Comparative Study | Pre-clinical evaluation of the anticaries effect of an experimental Malva sylvestris extract mouthwash using a cariogenic model in situ. | J Dent
+- new | 2026 | 42930516 | Systematic Review | Clinical Evidence of Orally Administered Herbal Preparations for Supportive Cancer Care: A PRISMA Systematic Review of Randomized Clinical Trials (1990-2026). | Med Sci (Basel)
+- new | 2026 | 41891190 |  | The preventive effects of plantago major, mallow and Honey on radiation-induced dermatitis in patients with breast cancer: A double-blind clinical trial. | J Oncol Pharm Pract
+- HELD REF-3646 | 2025 | 41184820 | Randomized Controlled Trial | The effect of Malva sylvestris mouthwash on chemotherapy-induced stomatitis and associated pain in patients with cancer: a triple-blind randomized clinical trial. | BMC Cancer
+- new | 2025 | 41286304 |  | Leaf physio-biochemical traits and antioxidant responses of Malva sylvestris to drought stress. | Sci Rep
+- new | 2025 | 40265431 | Randomized Controlled Trial/Comparative Study | A Randomized Comparative Study of Luteolin-Based Herbal Unani Formulations versus Nitrofurantoin in Women with Uncomplicated Urinary Tract Infections. | Curr Pharm Des
+- new | 2024 | 39796510 |  | Efficacy and Satisfaction of a Chemically Characterized Malva sylvestris L. Extract-Based Food Supplement for Functional Constipation in Healthy Consumers: Preliminary Results of a | Nutrients
+- HELD REF-3647 | 2024 | 39173823 | Randomized Controlled Trial/Comparative Study/Research Support, Non-U.S. Gov't | Comparison of the anti-plaque and anti-gingivitis efficacy of Chlorhexidine and Malva mouthwashes: Randomized crossover clinical trial. | J Dent
+- new | 2023 | 37243443 | Meta-Analysis/Systematic Review/Research Support, Non-U.S. Gov't | The effect of food, vitamin, or mineral supplements on chronic constipation in adults: A systematic review and meta-analysis of randomized controlled trials. | Neurogastroenterol Motil
+- new | 2023 | 37241190 |  | The Lubricating Effect of Eye Drops Containing Hyaluronic Acid and Mallow Extract in Patients with Dry Eye Disease-A Pilot Study. | Medicina (Kaunas)
+- HELD REF-1190 | 2022 | 36274662 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The Effect of Malva Sylvestris Cream on Episiotomy Pain and Healing: A Randomized Controlled Clinical Trial. | Int J Community Based Nurs Midwifery
+- HELD REF-3645 | 2021 | 33100212 | Randomized Controlled Trial | Efficacy of Short Term Topical Malva Sylvestris L. Cream in Pediatric Patients with Atopic Dermatitis: A Randomized Double-Blind Placebo-Controlled Clinical Trial. | Endocr Metab Immune Disord Drug Targets
+- new | 2021 | 33430841 | Randomized Controlled Trial | Efficacy and safety of the syrup "KalobaTUSS®" as a treatment for cough in children: a randomized, double blind, placebo-controlled clinical trial. | BMC Pediatr
+- new | 2020 | 33181845 |  | In Vitro Effect of Simulated Tooth Brushing and Children's Mouth Rinses on Physical Properties of Glass Ionomer Cement. | J Clin Pediatr Dent
+- new | 2019 | 30942656 | Review | Medicinal Plant Extracts and Their Use As Wound Closure Inducing Agents. | J Med Food
+- new | 2019 | 30984577 |  | Short-course administration of a traditional herbal mixture ameliorates asthma symptoms of the common cold in children. | Avicenna J Phytomed
+- new | 2017 | 28494850 | Randomized Controlled Trial | Efficacy of a traditional Persian medicine preparation for radiation-induced xerostomia: a randomized, open-label, active-controlled trial. | J Integr Med
+- new | 2016 | 26137850 | Randomized Controlled Trial | Evaluation of Efficacy of an Herbal Compound on Dry Mouth in Patients With Head and Neck Cancers: A Randomized Clinical Trial. | J Evid Based Complementary Altern Med
+- SEEN | 2015 | 25801702 | Clinical Trial/Research Support, Non-U.S. Gov't | Efficacy of the Malva sylvestris L. flowers aqueous extract for functional constipation: A placebo-controlled trial. | Complement Ther Clin Pract
+- new | 1979 | 284878 |  | Dental caries prevalence in 5-year-old children in Mallow (a non-fluoridated area), Cork, Ireland. | Community Dent Oral Epidemiol
+
+### PubMed SR - 3 hits, 1 not already listed above, 1 new
+- new | 2021 | 34667500 | Review | Effects of natural extracts in the treatment of oral ulcers: A systematic review of evidence from experimental studies in animals. | J Clin Exp Dent
+
+### PubMed SAFE - 39 hits, 31 not already listed above, 29 new
+- new | 2026 | 42857050 |  | Safety and efficacy of feed additives consisting of tinctures derived from the roots or leaves and stems of Althaea officinalis L.: Marsh mallow root tincture for use in all animal | EFSA J
+- new | 2025 | 40506390 | Case Reports | Suspected marsh mallow (Malva parviflora) toxicosis in ponies-Case cluster including an asymptomatic survivor. | Aust Vet J
+- new | 2025 | 40061135 | Review | Herbal based nanoparticles as a possible and potential treatment of cancer: a review. | Explor Target Antitumor Ther
+- new | 2024 | 38757320 |  | Protective Effects of the Aqueous Extract of Malva sylvestris Plant against the Lethality and Histopathological Damage in Experimental Envenoming of Hemiscorpius lepturus Venom in  | Curr Pharm Des
+- new | 2024 | 38899991 |  | Effects of natural products-based dentifrices on acrylic resin for denture bases: A simulated period of 4 years. | Am J Dent
+- new | 2024 | 38543013 |  | Unveiling the Chemical Composition, Bioactive Profile and Antioxidant Capacity of Dried Egyptian Jew's Mallow Stems as a Promising Anticancer Agent. | Molecules
+- new | 2024 | 39135425 |  | Malvidin From Malva sylvestris L. Ameliorates Allergic Responses in Ovalbumin-Induced Allergic Rhinitis Mouse Model via the STAT6/GATA3 Pathway. | Am J Rhinol Allergy
+- new | 2024 | 39374447 | Research Support, Non-U.S. Gov't | First European records of Puccinia modiolae and P. platyspora, two native South American rust fungi, and new observations on their life cycle and morphology. | Mycologia
+- HELD REF-0542 | 2023 | 36418467 | Review/Research Support, Non-U.S. Gov't | The phytochemical profiling, pharmacological activities, and safety of malva sylvestris: a review. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2023 | 36920725 |  | Partial Purification of Glutathione S-transferase Enzyme From the Seed of Mallow (Malva Slyvestris L.) and Investigation of the Inhibition Kinetics of Some Heavy Metals. | Protein J
+- HELD REF-1191 | 2023 | 37924786 |  | Potential benefits of Malva sylvestris in dry-eye disease pathology in vitro based on antioxidant, wound-healing and anti-inflammatory properties. | Biomed Pharmacother
+- new | 2023 | 36969320 |  | Radioprotective effect of Malva sylvestris L. against radiation-induced liver, kidney and intestine damages in rat: A histopathological study. | Biochem Biophys Rep
+- new | 2022 | 35965986 |  | Efficacy of methanolic extracts of some medicinal plants on wound healing in diabetic rats. | Heliyon
+- new | 2022 | 36278236 |  | In vitro effects of European and Latin-American medicinal plants in CYP3A4 gene expression, glutathione levels, and P-glycoprotein activity. | Front Pharmacol
+- new | 2022 | 36035958 | Case Reports | Echocardiographic characteristics of transcatheter closure of patent foramen ovale with mallow biodegradable occluder: A single-center, phase III clinical study. | Front Cardiovasc Med
+- new | 2019 | 30585511 |  | Phytodermatitis in East and southeast of Turkey: A prospective study. | Cutan Ocul Toxicol
+- new | 2019 | 30798126 |  | Amelioration of renal and hepatic function, oxidative stress, inflammation and histopathologic damages by Malva sylvestris extract in gentamicin induced renal toxicity. | Biomed Pharmacother
+- new | 2019 | 31016180 |  | In vitro Antibacterial Effect of Hydroalcoholic Extract of Lawsonia inermis, Malva sylvestris, and Boswellia serrata on Aggregatibacter actinomycetemcomitans. | Adv Biomed Res
+- new | 2018 | 30119252 |  | Reduction of cisplatin-induced renal and hepatic side effects in rat through antioxidative and anti-inflammatory properties of Malva sylvestris L. extract. | Biomed Pharmacother
+- new | 2018 | 30228983 |  | Effect of Ionizing Radiation on the Microbiological Safety and Phytochemical Properties of Cooked Malva sylvestris L. | Biomed Res Int
+- new | 2017 | 27341541 | Case Reports | Evidence for marsh mallow (Malva parviflora) toxicosis causing myocardial disease and myopathy in four horses. | Equine Vet J
+- new | 2017 | 28214685 |  | Role of laxative and antioxidant properties of Malva sylvestris leaves in constipation treatment. | Biomed Pharmacother
+- new | 2017 | 29155898 |  | Protective effect of Malva sylvestris L. extract in ischemia-reperfusion induced acute kidney and remote liver injury. | PLoS One
+- new | 2016 | 26045553 | Research Support, Non-U.S. Gov't | Effects of Malva sylvestris and Its Isolated Polysaccharide on Experimental Ulcerative Colitis in Rats. | J Evid Based Complementary Altern Med
+- new | 2016 | 27294181 |  | Experimental data of biomaterial derived from Malva sylvestris and charcoal tablet powder for Hg(2+) removal from aqueous solutions. | Data Brief
+- new | 2014 | 25254531 | Case Reports/Letter | Fulminant liver failure and renal failure related with malva sylvestris. | Turk J Gastroenterol
+- new | 2011 | 21513564 |  | The protective effect of Malva sylvestris on rat kidney damaged by vanadium. | Lipids Health Dis
+- new | 2010 | 20615178 | Review | Patterns of self-medication with medicinal plants and related adverse events--a South American survey. | Curr Drug Saf
+- new | 2008 | 18768152 |  | Antiproliferative activity against human tumor cell lines and toxicity test on Mediterranean dietary plants. | Food Chem Toxicol
+- new | 2006 | 16629193 |  | Probable Malva parviflora (small flowered mallow) intoxication in sheep in Western Australia. | Aust Vet J
+- new | 1948 | 18887115 |  | [Poisoning caused by confusing mallow leaves with chamico leaves]. | Rev Asoc Med Argent [spa]
+
+### PubMed OBS - 2 hits, 1 not already listed above, 1 new
+- new | 2026 | 41847131 |  | Physician attitudes toward natural syrup formulations for cough and sore throat: a multinational cross-sectional survey of 398 healthcare professionals across 13 countries. | Front Pharmacol
+
+### PubMed REV - 14 hits, 9 not already listed above, 5 new
+- HELD REF-0541 | 2024 | 37855358 | Review | Phytochemistry and Pharmacological Activity of Malva sylvestris L: A Detailed Insight. | Comb Chem High Throughput Screen
+- new | 2021 | 32013832 | Review | An Evidence-Based Research on Botanical Sources for Oral Mucositis Treatment in Traditional Persian Medicine. | Curr Drug Discov Technol
+- HELD REF-1183 | 2021 | 34434245 | Review | A Review on Health Benefits of Malva sylvestris L. Nutritional Compounds for Metabolites, Antioxidants, and Anti-Inflammatory, Anticancer, and Antimicrobial Applications. | Evid Based Complement Alternat Med
+- new | 2020 | 33128525 | Review | Herbal approach for the management of C0VID-19: an overview. | Drug Metab Pers Ther
+- HELD REF-1368 | 2020 | 31770755 | Review | Marsh Mallow (Althaea officinalis L.) and Its Potency in the Treatment of Cough. | Complement Med Res
+- new | 2019 | 31206893 | Review | Medicinal plants in traumatic brain injury: Neuroprotective mechanisms revisited. | Biofactors
+- new | 2016 | 27186389 | Review | An Evidence-Based Review on Medicinal Plants Used as Insecticide and Insect Repellent in Traditional Iranian Medicine. | Iran Red Crescent Med J
+- HELD REF-1184 | 2012 | 22221093 | Review | Ethnobotanical and scientific aspects of Malva sylvestris L.: a millennial herbal medicine. | J Pharm Pharmacol
+- new | 2005 | 15664457 | Review | Traditional phytotherapy in Central Italy (Marche, Abruzzo, and Latium). | Fitoterapia
+
+### ClinicalTrials.gov - 5 registered studies
+- NCT05138484 | COMPLETED | results=False | PHASE3 | Clinical Evaluation of a Mouthwash Containing Malva Sylvestris Extract. | conds: Periodontal Diseases | intr: experimental group 10% mouthwash of M. sylvestris extract
+- NCT05984641 | COMPLETED | results=False | NA | Efficacy and Safety of CONAN® Proctological Cream for Treatment of Haemorrhoidal Disease | conds: Hemorrhoid Pain, Haemorrhoid Inflammation | intr: CONAN® Proctological Cream
+- NCT07620522 | NOT_YET_RECRUITING | results=False |  | Observational Study of RHINOSEDAL in Acute Nasal Obstruction | conds: Nasal Obstruction, Common Cold, Allergic Rhinitis, Non-allergic Rhinitis | intr: RHINOSEDAL
+- NCT06573229 | COMPLETED | results=False | NA | LIver FRAilty Management IN Cirrhosis (LIFRAMIN) | conds: Sarcopenia, Cirrhosis, Liver, Malnutrition; Protein | intr: Aminolife Plus by Piemme Pharmatech, Italy
+- NCT07685847 | COMPLETED | results=False | NA | Clinical Evaluation of the Efficacy and Safety of a Medical Device in the Form of Rectal Suppositories (Prospidol®) for the Treatment of Sym | conds: Chronic Prostatitis/Chronic Pelvic Pain Syndrome (CP/CPPS) | intr: Prospidol suppository | pubs: ['9187685:RESULT (new)', '28012747:RESULT (new)', '9076454:RESULT (new)', '31558010:RESULT (new)', '15925077:RESULT (new)', '19570493:RESULT (new)', '19118880:RESULT (new)', '18336460:RESULT (new)']
+
+### OpenAlex no-PMID trial-worded - 587 hits, 57 without PMID, 56 new
+- new | 2026 | 10.1016/j.hermed.2026.101121 | article | The effect of ointment containing Malva sylvestris L. extract on episiotomy wound healing in primiparous women: triple-blind clinical trial | Journal of Herbal Medicine
+- new | 2026 | 10.33545/2616454x.2026.v10.i3a.442 | article | Phytopharmacological review of Khubbāzī (malva sylvestris L.): An important drug in Unani medicine | International Journal of Unani and Integ
+- new | 2026 | 10.54660/ijanfr.2026.2.3.10-14 | article | The Allelopathic Effect of Some Aqueous Extracts of Eucalyptus, Milk Thistle, And Mallow on The Germination and Growth of Basil, Arugula, And Sow Thistle Seeds | International Journal of Agriculture Nat
+- new | 2025 | 10.37290/ctnr2641-452x.23:43-49 | article | The Effects of the Combination of Hyaluronic Acid, Malva sylvestris, and Sodium Alginate on the Pharyngolaryngeal Reflux: A Randomized Case-Control Study | Current Topics in Nutraceutical Research
+- new | 2025 | 10.5812/jjnpp-159021 | article | Investigation of the Efficacy and Safety of a Syrup Composed of 11 Herbal Medicines in Improving Chronic and Subacute Cough in Patients: A Preclinical Study and a Randomized, Doubl | Jundishapur Journal of Natural Pharmaceu
+- new | 2025 | 10.9734/bpi/rpbs/v9/6800 | book-chapter | Prominent Use of Malva sylvestris L in Dermatology | Book Publisher International (a part of 
+- new | 2025 | 10.24925/turjaf.v13i8.2164-2171.7745 | article | Investigating the Effect of Plant Regulators along with Potassium Nitrate on Increasing the Germination Capacity of Malva sylvestris Seeds | Turkish Journal of Agriculture - Food Sc
+- new | 2025 | 10.21203/rs.3.rs-6222381/v1 | preprint | Evaluation of enamel staining after application of Malva sylvestris solutions for the prevention of dental caries on enamel covered or not with biofilm | Research Square
+- new | 2025 | 10.1016/j.jfca.2025.107485 | article | Genetic diversity and structure of Malva sylvestris populations using start codon target polymorphism and detection of marker-trait associations | Journal of Food Composition and Analysis
+- new | 2025 | 10.32383/appdr/212508 | review | Efficacy and Safety of Natural and Herbal Therapies in Promoting Wound Healing: A Systematic Review and Meta-Analysis of Randomized Controlled Trials | Acta Poloniae Pharmaceutica - Drug Resea
+- new | 2025 | 10.2174/0122150838408522250815080237 | article | In-vitro Antimicrobial Profiling and Standardization of a Classical Unani Polyherbal Formulation Targeting Uropathogens | Current Traditional Medicine
+- new | 2024 | 10.22038/ijogi.2024.79693.6082 | article | The effect of ointment containing Malva sylvestris extract on the pain intensity of episiotomy wound in primiparous women: triple-blind clinical trial | مجله زنان، مامایی و  نازایی ایران
+- new | 2024 | 10.2174/0115734013319264241031105823 | article | Efficacy and Safety of a Unani Pharmacopeial Powder Formulation and Sharbat banafsha in Women with Uncomplicated Urinary Tract Infection: A Pilot Self-Control Clinical Trial | Current Nutrition & Food Science
+- new | 2024 | https://openalex.org/W7172597379 | article | Performance and biochemical parameters of Japanese quail blood to different levels of hydroalcoholic extract of Malva sylvestris | Bulgarian Portal for Open Science
+- new | 2024 | 10.3390/oral4040048 | article | Nonpharmacological Interventions in the Management of Xerostomia: A Review on Topical Treatments, Alternative Medicine, and Innovative Therapies | Oral
+- new | 2024 | 10.4322/bds.2024.e3907 | review | Plant extracts used in Brazil for treatment of oral ulcers and mucositis: systematic review | Brazilian Dental Science
+- new | 2024 | 10.59324/ejtas.2024.2(4).46 | review | Efficacy of Natural Artificial Saliva and Natural Saliva Stimulant in Xerostomia: A Review | European Journal of Theoretical and Appl
+- new | 2024 | 10.1016/j.jtemin.2024.100191 | article | Water hardness affecting glyphosate efficiency for weed control and tomato (Lycopersicon esculentum L.) yield production | Journal of Trace Elements and Minerals
+- new | 2023 | 10.1016/j.jer.2023.09.010 | article | Green mediated of nanoparticles by plant extract: Investigation of its performance to treat the human renal cell carcinoma | Journal of Engineering Research
+- new | 2023 | 10.3390/agriculture13091819 | article | Effects of Dietary Zinc and/or an Herbal Mixture on Intestinal Microbiota and Barrier Integrity in Lambs | Agriculture
+- new | 2023 | 10.30978/mg-2023-4-52 | article | Cytoprotection in gastroesophageal reflux disease and prospects for the use of cytoprotective agents | Modern Gastroenterology
+- new | 2022 | 10.3390/app12073427 | article | Efficacy and Safety of a Novel Gummy Formulation for the Management of Cough in Adults: Double Blind, Randomized, Placebo-Controlled Trial | Applied Sciences
+- new | 2022 | 10.34172/ipp.2022.31352 | article | Efficacy of herbal tea preparation including mallow flower, chicory seeds, sweet violet, Melilotus officinalis, and bindii for improving respiratory symptoms in patients with COVID | Immunopathologia Persa
+- new | 2021 | 10.34172/ipp.2022.31355 | article | The combined effect of Algomed and a quadruple herbal brew of Iranian traditional medicine on the severity and outcome of COVID-19; a randomized controlled clinical trial recruitin | Immunopathologia Persa
+- HELD REF-5136 | 2021 | 10.1186/s40816-021-00306-z | article | Impact of Althaea Officinalis extract in patients with atopic eczema: a double-blind randomized controlled trial | Clinical Phytoscience
+- new | 2021 | 10.22092/jmpb.2020.343520.1232 | article | Using Morphological and Phytochemical Traits and ITS (1, 4) and rbcl DNA Barcodes in the Assessment of Different Malva sylvestris L. Genotypes | Journal of Medicinal plants and By-produ
+- new | 2021 | 10.5935/1981-2965.20210032 | article | Evaluation of different levels of Malva sylvestris supplementation powder on performance, blood biochemical and intestinal microbial population in male Cobb 500 broiler chicks | Revista Brasileira de Higiene e Sanidade
+- new | 2021 | 10.1016/j.aquaculture.2021.737287 | article | The effect of dietary combined herbs extracts (oak acorn, coriander, and common mallow) on growth, digestive enzymes, antioxidant and immune response, and resistance against Aeromo | Aquaculture
+- new | 2021 | 10.3390/agronomy11071314 | article | The Attractiveness of Five Common Mediterranean Weeds to Pollinators | Agronomy
+- new | 2021 | 10.1016/j.acuro.2020.11.005 | article | Manejo del «dolor de piedra» entre los siglos xviii y xix: breve historia de una receta médica del Virreinato en la Nueva Granada | Actas Urológicas Españolas
+- new | 2020 | 10.22127/rjp.2020.229457.1580 | article | Comparing the Effects of a Herbal Ointment (Based on Persian Medicine) and Silver Sulfadiazine Ointment on the Second-Degree Burn Wounds: a Single-Blind Randomized Clinical Trial | Research journal of pharmacognosy
+- new | 2020 | 10.1007/978-3-030-16807-0_121 | book-chapter | Malva sylvestris L. (Malvaceae) | Springer eBooks
+- new | 2020 | 10.29252/yujs.6.2.151 | article | Aqueous Extract Effect of Different Organs of Malva sylvestris Weed on Germination Characteristics and Photosynthetic Pigments of Echinochloa crus-galli | Iranian Journal of Seed Research
+- new | 2020 | 10.1016/j.anbehav.2020.04.004 | article | Detectable but unseen: imperfect crypsis protects crab spiders from predators | Animal Behaviour
+- new | 2020 | 10.7764/ijanr.v47i2.2184 | article | Effect of organic and inorganic fertilization on weed flora and seed yield in black mustard [Brassica nigra (L.) Koch] crops | International Journal of Agriculture and
+- new | 2020 | 10.1007/s10658-020-02010-z | article | Phenotypic and genotypic analysis of Pseudomonas syringae recovered from symptomatic beans and associated weeds in Northern Spain | European Journal of Plant Pathology
+- new | 2019 | 10.1016/j.aquaculture.2019.734251 | article | Effects of tetra (Cotinus coggygria) and common mallow (Malva sylvestris) plant extracts on growth performance and immune response in Gilthead Sea bream (Sparus aurata) and Europea | Aquaculture
+- new | 2019 | 10.22108/ijpb.2019.110063.1084 | article | Effect of irrigation interval and chitosan spraying on some physiological characteristics and Antioxidant enzymes activity of common Mallow (Malva sylvestris) | Iranian Journal of Plant Biology
+- new | 2019 | 10.21270/archi.v7i11.3039 | article | Malva Sylvestris, Vitis Vinífera e Punica Granatum: uma revisão sobre a contribuição para o tratamento de periodontite | ARCHIVES OF HEALTH INVESTIGATION
+- new | 2019 | 10.18502/tim.v4i3.1682 | article | Clinically Significant Improvement in a Case of Bronchial Asthma with Unani Medicine: a Case Report | Traditional and Integrative Medicine
+- new | 2018 | 10.1016/j.hermed.2018.01.005 | article | The effect of the combination of Malva sylvestris L. and Althaea digitata Boiss. on prevention of acute radiation proctitis in patients with prostate cancer | Journal of Herbal Medicine
+- new | 2018 | 10.1016/j.agwat.2018.08.012 | article | Effects of various irrigation regimes on water use efficiency and visual quality of some ornamental herbaceous plants in the field | Agricultural Water Management
+- new | 2018 | 10.22037/ipa.v1i1.20044 | article | Standardization of aqueous extract from Malva sylvestris and preparation an oral colon specific formulation for treatment of Ulcerative Colitis | International Pharmacy Acta
+- new | 2018 | https://openalex.org/W2908806450 | dissertation | Les plantes antitussives à l’officine | HAL
+- new | 2017 | 10.5812/ijcm.8642 | article | Efficacy of a Persian Medicine Herbal Compound (Alcea digitata Alef and Malva sylvestris L.) on Prevention of Radiation Induced Acute Mucositis in Patients with Head and Neck Cance | International Journal of Cancer Manageme
+- new | 2017 | https://openalex.org/W2781651279 | article | Medicinal Plants for Chemoradiotherapy-Induced Oral Mucositis: A Review of Clinical Studies | Traditional and Integrative Medicine
+- new | 2016 | 10.1016/j.hermed.2016.01.001 | article | Clinical efficacy of an herbal mouth wash composed of Salix alba, Malva sylvestrais and Althaea officinalis in chronic periodontitis patients | Journal of Herbal Medicine
+- new | 2015 | 10.1111/fct.12215 | article | Clinical assessment of Malva sylvestris and Alcea digitata in radiation‐induced xerostomia in head and neck cancer patients | Focus on Alternative and Complementary T
+- new | 2015 | https://openalex.org/W2915041637 | article | Ebegümeci: Çocukluk yaş grubunda ilk kez belirlenen üst gastrointestinal sistem kanaması nedeni olabilir mi? | Harran Üniversitesi Tıp Fakültesi Dergis
+- new | 2014 | 10.5935/0103-5053.20140288 | article | Non-Targeted Electrospray Mass Spectrometry-Based Metabolic Fingerprinting and PLS-DA-Based Classification of Brazilian "Malvas" | Journal of the Brazilian Chemical Societ
+- new | 2011 | https://openalex.org/W3194025283 | dissertation | Proceso artesanal para el secado de plantas medicinales | 
+- new | 2010 | https://openalex.org/W2281998870 | article | MALVA SYLVESTRIS IN THE TREATMENT OF HAND ECZEMA | Faṣlnāmah-i bīmārīhā-yi pūst
+- new | 2010 | https://openalex.org/W2906945215 | dissertation | Desenvolvimento do gel Malva sylvestris L. e a avaliação clínica na resposta inflamatória gengival e no biofilome dental | Americanae (AECID Library)
+- new | 2010 | 10.35552/anujr.a.24.1.225 | article | Influence of Aqueous Extracts of Seven Plants Used in Traditional Medicine on Osmotic Fragility of Human Erythrocytes | An-Najah University Journal for Research
+- new | 2009 | https://openalex.org/W1586923523 | article | Actividad antiinflamatoria local de Malva sylvestris L. (Malvaceae) en el edema inducido por carragenina en ratas | El Servicio de Difusión de la Creación I
+- new | 2009 | https://openalex.org/W2281269125 | article | Effect of natural remedies on dead space wound healing in wistar rats | Pharmacognosy Magazine
+- new | 2008 | 10.22059/ijvm.2008.19688 | article | Comparison between some medicinal plants and Pira cream in clinical Staphylococcus and E. coli mastitis in dairy cattle | Iranian Journal of Veterinary Medicine
+
+## marrubium-vulgare (Marrubium vulgare) - name clause: "Marrubium vulgare"[tiab] OR "white horehound"[tiab] OR "common horehound"[tiab] OR "horehound"[ti] OR "marrubiin"[ti]
+
+### PubMed HT - 4 hits, 4 not already listed above, 3 new
+- new | 2026 | 40270131 |  | The use of medicinal plants by cancer patients receiving chemotherapy: A cross-sectional study at a referral oncology hospital in Morocco. | J Oncol Pharm Pract
+- new | 2024 | 38323572 | Randomized Controlled Trial/Multicenter Study/Research Support, Non-U.S. Gov't | Efficacy and tolerability of SEDIFLÙ in treating dry or productive cough in the pediatric population (SEPEDIA): A pilot, randomized, double-blind, placebo-controlled, multicenter c | Clin Pediatr (Phila)
+- new | 2017 | 28701045 | Research Support, Non-U.S. Gov't | Investigating Chemical Composition and Indications of Hydrosol Soft Drinks (Aromatic Waters) Used in Persian Folk Medicine for Women's Hormonal and Reproductive Health Conditions. | J Evid Based Complementary Altern Med
+- SEEN | 2004 | 15636168 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Clinical trial of Cecropia obtusifolia and Marrubium vulgare leaf extracts on blood glucose and serum lipids in type 2 diabetics. | Phytomedicine
+
+### PubMed SR - 1 hits, 1 not already listed above, 1 new
+- new | 2019 | 30959140 | Systematic Review | A review of Algerian medicinal plants used in the treatment of diabetes. | J Ethnopharmacol
+
+### PubMed SAFE - 21 hits, 20 not already listed above, 20 new
+- new | 2026 | 42588507 |  | Polyphenol-Loaded Liposomal Nanocarriers from Marrubium vulgare: A Promising Nutraceutical Delivery System with Enhanced Bioactivity and Safety. | Molecules
+- new | 2026 | 40601286 |  | Assessment of Trace and Macro Elements in Medicinal Plants: Implications for Safety and Phytoremediation. | Biol Trace Elem Res
+- new | 2026 | 42734823 | Review | Comprehensive analysis of the pharmacological potentials of Marrubium vulgare (white horehound): a recent overview of phytochemistry and biological activities. | Naturwissenschaften
+- new | 2026 | 41683131 |  | Rational Design and Virtual Screening of Antimicrobial Terpene-Based Leads from Marrubium vulgare Essential Oil: Structure-Based Optimization for Food Preservation and Safety Appli | Foods
+- new | 2025 | 40516110 |  | UPLC-ESI-QTOF-MS/MS Profiling, Antioxidant, and Cytotoxicity Potentials of Marrubium vulgare L. Extracts: Experimental Analysis and Computational Validation. | Chem Biodivers
+- new | 2025 | 41465575 |  | Phytochemical Profiling and Structure-Based Computational Characterization of Marrubium vulgare L. Compounds as Hsp90 Modulators. | Int J Mol Sci
+- new | 2024 | 39735399 | Case Reports | Acute Kidney Injury Following the Ingestion of a Medicinal Plants' Mixture: A Case Report. | Case Rep Nephrol
+- new | 2021 | 33022340 | Review | Anticancer medicinal plants used by Moroccan people: Ethnobotanical, preclinical, phytochemical and clinical evidence. | J Ethnopharmacol
+- new | 2021 | 31163999 |  | Polyphenolic profile, antibacterial activity and brine shrimp toxicity of leaf extracts from six Tunisian spontaneous species. | Nat Prod Res
+- new | 2021 | 34431289 |  | In Vitro and In Vivo Studies of Metabolic Activation of Marrubiin, a Bioactive Constituent from Marrubium Vulgare. | Chem Res Toxicol
+- new | 2020 | 32885072 |  | Oral disorders and ethnobotanical treatments: A field study in the central Middle Atlas (Morocco). | Heliyon
+- new | 2019 | 31687035 |  | Ethnopharmacological Survey of Herbal Remedies Used for the Treatment of Cancer in the Greater Casablanca-Morocco. | Evid Based Complement Alternat Med
+- new | 2019 | 30909879 |  | Functional characterization of the cytochrome P450 monooxygenase CYP71AU87 indicates a role in marrubiin biosynthesis in the medicinal plant Marrubium vulgare. | BMC Plant Biol
+- new | 2018 | 29623832 | Review | Herbs with Potential Nephrotoxic Effects According to the Traditional Persian Medicine: Review and Assessment of Scientific Evidence. | Curr Drug Metab
+- new | 2018 | 29413609 |  | Marrubiin-loaded solid lipid nanoparticles' impact on TNF-α treated umbilical vein endothelial cells: A study for cardioprotective effect. | Colloids Surf B Biointerfaces
+- new | 2016 | 26886858 | Research Support, Non-U.S. Gov't | Hepatoprotective activity of white horehound (Marrubium vulgare) extract against cyclophosphamide toxicity in male rats. | Can J Physiol Pharmacol
+- new | 2014 | 24790895 |  | Marrubium vulgare L. methanolic extract inhibits inflammatory response and prevents cardiomyocyte fibrosis in isoproterenol-induced acute myocardial infarction in rats. | Bioimpacts
+- new | 2010 | 24825994 |  | Antihepatotoxic effect of marrubium vulgare and withania somnifera extracts on carbon tetrachloride-induced hepatotoxicity in rats. | J Basic Clin Pharm
+- new | 2007 | 17479778 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Pilot study investigating the ability of an herbal composite to alleviate clinical signs of respiratory dysfunction in horses with recurrent airway obstruction. | Can J Vet Res
+- new | 2002 | 11849848 |  | Isolation and pharmacological activity of phenylpropanoid esters from Marrubium vulgare. | J Ethnopharmacol
+
+### PubMed OBS - 1 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 7 hits, 4 not already listed above, 2 new
+- new | 2026 | 42382677 | Review | Medicinal Plants and Their Bioactive Phytochemicals as Emerging Therapeutic Strategies for Alzheimer's Disease: An Integrative Review of Preclinical and Clinical Evidence. | Scientifica (Cairo)
+- HELD REF-0603 | 2020 | 32599693 | Review | Marrubium vulgare L.: A Phytochemical and Pharmacological Overview. | Molecules
+- HELD REF-0921 | 2016 | 27271209 | Review | An Insight into a Blockbuster Phytomedicine; Marrubium vulgare L. Herb. More of a Myth than a Reality? | Phytother Res
+- new | 2013 | 23899837 | Review | Marrubiin. | Molecules
+
+### ClinicalTrials.gov - 0 registered studies
+
+### OpenAlex no-PMID trial-worded - 331 hits, 70 without PMID, 70 new
+- new | 2026 | 10.1007/s10526-026-10428-3 | article | Species-specific interactions between Marrubium vulgare solvent extracts and entomopathogenic nematodes for Phthorimaea operculella (Lepidoptera: Gelechiidae) control | BioControl
+- new | 2026 | 10.5281/zenodo.23802766 | dataset | Linked collectors and determiners for: A new species of the New Zealand endemic weevil genus Clypeolus Broun (Coleoptera: Curculionidae: Cryptorhynchinae), found attacking an invas | Zenodo (CERN European Organization for N
+- new | 2025 | 10.5812/jjnpp-159021 | article | Investigation of the Efficacy and Safety of a Syrup Composed of 11 Herbal Medicines in Improving Chronic and Subacute Cough in Patients: A Preclinical Study and a Randomized, Doubl | Jundishapur Journal of Natural Pharmaceu
+- new | 2025 | 10.18502/tim.v10i2.19059 | article | Ethnobotanical Survey of Antidiabetic Medicinal Plants Used by Patients Visiting Health Facilities in the SALÉ Region (Morocco) | Traditional and Integrative Medicine
+- new | 2025 | 10.3389/fanim.2025.1658188 | article | Horehound (Marrubium vulgare L.) as natural dietary feed additive in rabbit: effects on productive traits, antioxidant status, caecal environment, and gut morphology | Frontiers in Animal Science
+- new | 2025 | 10.5530/pj.2025.17.2 | article | Marrubium vulgare Leaf Extract-Assisted Green Synthesis of Silver Nanoparticles: Optimization, Characterization and In Vitro Exploration of Their Antimicrobial, Antioxidant and Ant | Pharmacognosy Journal
+- new | 2025 | 10.1016/j.indcrop.2025.121355 | article | Bioactivity screening of selected Moroccan medicinal and aromatic plants, and the chemical basis of the phytotoxicity of caper, Capparis spinosa L. | Industrial Crops and Products
+- new | 2025 | https://openalex.org/W7116823555 | dissertation | Accompagnement et prise en charge du patient vivant avec un diabète de type 2 par le pharmacien d'officine | HAL
+- new | 2025 | 10.1039/9781837676989-00409 | book-chapter | Therapeutic Potential of Natural Compounds in Cardiovascular Disease: Mechanisms of Action and Clinical Perspectives | Royal Society of Chemistry eBooks
+- new | 2025 | 10.26538/tjnpr/v9i8.67 | article | In Vitro Antidiabetic, Anti-Inflammatory, Antioxidant, and Anticoagulatory Effects of Costus afer Ker Gawl. Leaf Fractions | Tropical Journal of Natural Product Rese
+- new | 2025 | 10.46325/bt80yw74 | article | Therapeutic Efficacy, Regulatory Frameworks, and Socioeconomic Implications of Plant-Based Anti-Inflammatory Treatments: A Critical Review | Journal of Natural Product Research and 
+- new | 2025 | 10.17520/biods.2024305 | article | Short-term nitrogen addition, watering, and mowing weakened the relationship between soil biodiversity and ecosystem multifunctionality in degraded Sophora alopecuroides grassland | Biodiversity Science
+- new | 2024 | 10.30574/gscarr.2025.22.3.0068 | article | Diabetes mellitus patient care: An ethnopharmacological study and evaluation of antidiabetic activity invitro and in vivo on experimental high-fat diet model | GSC Advanced Research and Reviews
+- new | 2024 | 10.3897/pharmacia.71.e117793 | article | Signal transduction in wound healing: The effects of plant-derived biologically active substances | Pharmacia
+- new | 2024 | 10.32859/era.28.27.1-49 | article | Ethnopharmacological investigation and traditional cultural use of anticancer medicinal plants in Morocco’s Casablanca-Settat region | Ethnobotany Research and Applications
+- new | 2024 | 10.1007/s13596-024-00789-4 | article | Predictors of high phytotherapy usage among women with cancer: the impact of cancer duration, symptoms, and psychosocial factors | Oriental Pharmacy and Experimental Medic
+- new | 2023 | 10.29228/jrp.564 | article | EVALUATION OF THE ANTIVIRAL POTENTIAL OF MARRUBIUM VULGARE EXTRACTS | Journal of Research in Pharmacy
+- new | 2023 | 10.61186/jmp.22.87.77 | article | Variation of antioxidant activity and phenolic compositions of Marrubium vulgare L. as influenced by organic acids | Armaghan.
+- new | 2023 | 10.46325/jnpra.v3i01.51 | article | Colorectal cancer and natural products: Role of Marrubium vulgare L. and Zingiber officinale Roscoe | Journal of Natural Product Research and 
+- new | 2023 | 10.26502/acbr.50170363 | article | Anticancer Potential of Retama monosperma (L) Boiss in the Beni Mellal Khenifra Region | Archives of Clinical and Biomedical Rese
+- new | 2023 | 10.56082/annalsarscibio.2023.2.81 | article | The Relevance of Some Plant Extracts In Human Patients and Animal Models of Diabetes | Annals of the Academy of Romanian Scient
+- new | 2023 | 10.3839/jabc.2023.051 | article | IMMUNIES, a unique polyherbal extract, exhibits antiproliferative activity and improves tumor-bearing canine patients: a pilot study | Journal of Applied Biological Chemistry
+- new | 2022 | 10.1016/j.eujim.2022.102137 | article | The use of medicinal plants against cancer: An ethnobotanical study in the Beni Mellal-Khenifra Region in Morocco | European Journal of Integrative Medicine
+- new | 2022 | 10.1016/j.phyplu.2022.100376 | article | Medicinal plants used in the treatment of asthma in different regions of Brazil: A comprehensive review of ethnomedicinal evidence, preclinical pharmacology and clinical trials | Phytomedicine Plus
+- new | 2022 | 10.1007/978-981-16-9232-1_29 | book-chapter | The Pathophysiology of Liver Disorders and Pharmacotherapy Options with Special Reference to Traditional Herbal Medicines: A Comprehensive Review | Springer eBooks
+- new | 2021 | 10.1051/e3sconf/202131901107 | conference-paper | Adverse effects of medicinal plants used by cancer patients in Beni Mellal and the communication of this use | E3S Web of Conferences
+- new | 2021 | 10.26538/tjnpr/v5i6.11 | article | Ethnobotanical Study of Medicinal Plants Used in the Treatment of Cancers in the City of Casablanca (West-Central of Morocco) | Tropical Journal of Natural Product Rese
+- new | 2021 | 10.1016/j.eujim.2021.101358 | article | Ethnobotanical treatment of respiratory diseases in the central Middle Atlas (Morocco): Qualitative and quantitative approach | European Journal of Integrative Medicine
+- new | 2021 | 10.21608/sinjas.2021.108661.1072 | article | TOXICOLOGICAL EFFECTS OF SOME SINAI'S FLORA EXTRACTS AGAINST THE GREATER WAX MOTH, Galleria mellonella L. | Sinai Journal of Applied Sciences/Sinai 
+- new | 2021 | https://openalex.org/W7135362090 | dissertation | étude ethnobotanique sur l'usage des plantes médicinales dans le traitement des maladies dermatologiques au niveau du service de dermatologie -CHU Tlemcen- | Dépôt Institutionnel de lUniversité de T
+- new | 2020 | 10.1007/978-3-030-16807-0_122 | book-chapter | Marrubium vulgare L. (Lamiaceae) | Springer eBooks
+- new | 2020 | 10.1016/j.jarmap.2020.100250 | article | Differential effects of soluble salts on seed germination of Marrubium vulgare L. | Journal of Applied Research on Medicinal
+- new | 2020 | 10.1016/j.ando.2020.07.930 | conference-abstract | Aspects cliniques et particularités étiologiques des patients hospitalisés pour hypoglycémie dans un service d’endocrinologie | Annales d Endocrinologie
+- new | 2020 | 10.12873/401samouh | article | Eating behavior among cancer patients: a cross-sectional study | Nutrición clínica y dietética hospitalar
+- new | 2020 | 10.32859/era.19.12.1-28 | article | Ethnobotanical survey about the management of diabetes with medicinal plants used by diabetic patients in Region of Fez-Meknes, Morocco | Ethnobotany Research and Applications
+- new | 2020 | 10.1016/j.eujim.2020.101194 | review | CAM treatments for cough and sore throat as part of an uncomplicated acute respiratory tract infection: a systematic review of prescription rates and a survey among European integr | European Journal of Integrative Medicine
+- new | 2019 | 10.15171/jnp.2020.06 | article | Hypoglycemic effects of aqueous extract of Salvia mirzayanii Rech. F& Esfand in diabetic patients; a randomized controlled trial study | Journal of Nephropathology
+- new | 2019 | 10.1136/ejhpharm-2019-eahpconf.582 | conference-paper | 5PSQ-149 Self-medication in cancer patients: survey conducted in the pharmacy department of a university hospital | European Journal of Hospital Pharmacy
+- new | 2019 | 10.21608/mbse.2019.136042 | article | EVALUATION OF THE THERAPEUTIC EFFECT OF SOME HERBAL AND FOODS ON TUBERCULOSIS PATIENTS | مجلة بحوث التربية النوعية
+- new | 2019 | 10.31254/phyto.2019.8309 | article | Ethnopharmacological Study of Herbal Medicines used to treat Cancer in Morocco | The Journal of Phytopharmacology
+- new | 2019 | 10.3166/phyto-2019-0176 | article | Étude de prévalence des effets indésirables liés à l’utilisation des plantes médicinales par les patients diabétiques de l’hôpital Ibn-Sina de Rabat, Maroc | Phytothérapie
+- new | 2019 | 10.22270/jddt.v9i3-s.2940 | article | Phytopharmaceuticals: An emerging platform for innovation and development of new drugs from botanicals | Journal of Drug Delivery and Therapeutic
+- new | 2019 | 10.53331/teq.v2i6.5402 | article | Efecto analgésico de dos formas farmacéuticas tópicas con extracto de Lactuca sativa | Tequio
+- new | 2018 | https://openalex.org/W2908806450 | dissertation | Les plantes antitussives à l’officine | HAL
+- new | 2018 | 10.3390/books978-3-03897-024-8 | book | Plant Medicines for Clinical Trial | MDPI eBooks
+- new | 2017 | 10.5897/jpp2016.0437 | article | Ethnopharmacological survey of plants used for the treatment of diabetes in the town of Sidi Slimane (Morocco) | Journal of Pharmacognosy and Phytotherap
+- new | 2017 | https://openalex.org/W2969259825 | dissertation | Metabolic effects of Cosmos caudatus Kunth (ulam raja) supplementation in type-2 diabetes mellitus patients | Universiti Putra Malaysia Institutional 
+- new | 2016 | https://openalex.org/W2187090273 | article | Antibacterial activity of Marrubium vulgare L. against antibiotic resistance Klebsiella pneumoniae strains | Advanced herbal medicine
+- new | 2016 | 10.1111/tips.v2i4.102 | article | Herbal remedies for oligomenorrhea in Traditional Persian Medicine | Trends in pharmaceutical sciences
+- new | 2016 | https://openalex.org/W3162921032 | dissertation | Acil servise başvuran göğüs ağrılı hastalarda serum irisin ve troponin ı'nın diagnostik değeri / In patients presenting to the emergency department wi?th chest pai?n and irisin dia | DSpace - FIRAT (Fırat University)
+- new | 2015 | https://openalex.org/W2364872292 | article | Characteristics of Synaptospermy in the Perennial Marrubium vulgare | Xibei zhiwu xuebao
+- new | 2015 | 10.5846/stxb201405090928 | article | Morphology and intermittent germination characteristics of two types of synaptospermy: A case study ofTribulus terresterandMarrubium vulgare | Acta Ecologica Sinica
+- new | 2013 | 10.1007/s10298-013-0819-1 | article | Extraction, séparation et activité antibactérienne des tanins de marrube blanc (Marrubium vulgare L.) | Phytothérapie
+- new | 2013 | 10.9734/ejmp/2013/3403 | article | Screening of North African Medicinal Plant Extracts for Cytotoxic Activity Against Tumor Cell Lines | European Journal of Medicinal Plants
+- new | 2013 | 10.5897/ijbc12.057 | article | Estimating suitable environments for invasive plant species across large landscapes: A remote sensing strategy using Landsat 7 ETM+ | International Journal of Biodiversity an
+- new | 2012 | https://openalex.org/W4302143740 | article | The effect of Marrubium vulgare on contractile reactivity of aorta in diabetic rats | ARYA atherosclerosis
+- new | 2012 | 10.5897/jmpr11.1796 | article | Ethnopharmacological survey of medicinal plants used in the traditional treatment of diabetes mellitus in the North Western and South Western Algeria | Dépôt Institutionnel de lUniversité de T
+- new | 2010 | 10.1055/s-0030-1264685 | article | Effects of salinity and temperature on germination and seedling growth of nine medicinal plants | Planta Medica
+- new | 2010 | https://openalex.org/W2515654802 | article | Antimicrobial agent producing microbes from some soils rhizosphere in Al-Madinah Al-Munawwarah, KSA | 
+- new | 2008 | https://openalex.org/W2258082008 | conference-paper | Initial acceptance of novel flavours in diets offered to stabled horses. | ePrints Soton (University of Southampton
+- new | 2006 | https://openalex.org/W2273035594 | article | Vasorelaxant effect of aerial part of Marrubium vulgare in aorta of male | Bimonthly Journal of Hormozgan Universit
+- new | 2006 | https://openalex.org/W2293421688 | article | Analgesic effect of chronic oral administration of aerial part of Marrubium Vulgare in diabetic rats | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2005 | https://openalex.org/W2592891057 | article | THE EFFECT OF MARRUBIUM VULGARE ON CONTRACTILE RESPONSE OF AORTA IN DIABETIC RATS | ARYA atherosclerosis
+- new | 2001 | 10.5962/bhl.title.51295 | book | Perennial medicinal herb trials, 1996-1999 / | Biodiversity Heritage Library (Smithsoni
+- new | 1997 | 10.5962/bhl.title.51083 | book | Medicinal herb trial 1996 / | Biodiversity Heritage Library (Smithsoni
+- new | 1992 | 10.21273/hortsci.27.11.1160d | article | SURVEY OF FIELD EXPERIMENTS CONDUCTED TO ESTABLISH MEDICINAL CROPS IN QUEBEC | HortScience
+- new | 1988 | 10.1007/978-3-642-73715-2_163 | book-chapter | Treatment of Melancholic Illness | Springer eBooks
+- new | 1988 | 10.1007/978-3-642-73715-2_162 | book-chapter | Treatment of a Nightmare | Springer eBooks
+- new | 1988 | 10.1007/978-3-642-73715-2_182 | book-chapter | Treatment of Asthma | Springer eBooks
+- new | 1831 | 10.1097/00000441-183100160-00013 | article | Art. XII. Post-mortem Examination of a patient who died from the bite of a Rattlesnake, (Crotalus Horridus.) | The American Journal of the Medical Scie

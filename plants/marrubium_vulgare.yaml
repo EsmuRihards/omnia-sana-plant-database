@@ -208,6 +208,13 @@ contraindications:
   reference_ids:
   - REF-0468
   status: verified
+- note: 'Liver: liver enzymes (CYP2C9, CYP2C19 and CYP3A4) convert marrubiin, horehound''s main bitter
+    compound, into reactive metabolites in lab and rat studies, a furan-ring activation the authors link
+    to possible liver toxicity; whether this applies to people is not known.'
+  severity: info
+  reference_ids:
+  - REF-5481
+  status: verified
 references:
 - REF-0920
 - REF-0921
@@ -253,4 +260,13 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   | 2026-11-12: symptom-source audit deep re-sweep batch 10 - Deep re-sweep. REF-0926 (rat lung
   fibrosis) removed from the expectorant action (still cited for respiratory-support); REF-0925
   (antinociception) removed from antispasmodic (kept in references). Not used: Cecropia/Marrubium
-  glucose trial 15636168 (no blood-sugar pair).'
+  glucose trial 15636168 (no blood-sugar pair).
+  | 2026-11-26: symptom-source audit research-deepening batch 20 - Searched PubMed (Marrubium
+  vulgare / white or common horehound tiab, horehound and marrubiin ti: 4 HT, 1 SR, 21 SAFE hits),
+  Europe PMC, ClinicalTrials.gov (0) and OpenAlex (70 no-PMID hits, mostly lab, ethnobotany and
+  diabetes surveys). Added: a 2021 study of marrubiin metabolic activation (furan ring,
+  CYP2C9/2C19/3A4, rat bile) as an info note. Not added: 2024 acute kidney injury case after a
+  three-plant mixture (with wormwood and centaury; not attributable); SEDIFLU and other paediatric
+  cough syrups (combinations); 2004 Cecropia vs Marrubium diabetes trial (already judged: no
+  glucose effect for horehound); Moroccan and Algerian use surveys. Settled for human efficacy: no
+  trial of horehound alone.'

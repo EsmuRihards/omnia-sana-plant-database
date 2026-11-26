@@ -35773,15 +35773,17 @@
    "indications": [
     {
      "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [],
+     "note": "A warm flaxseed poultice applied to the hands once a day for 7 days eased pain and improved hand function in hand osteoarthritis more than a hot compress or no extra treatment (randomized trial)",
+     "reference_ids": [
+      "REF-5469"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0001",
       "REF-0152",
       "REF-2217"
      ],
-     "evidence": 1,
+     "evidence": 5,
      "label": "Arthritis / joint pain"
     },
     {
@@ -35927,6 +35929,27 @@
      "status": "verified",
      "evidence": 6,
      "label": "Constipation"
+    },
+    {
+     "condition": "liver-support",
+     "note": "Flaxseed lowered the liver enzyme ALT and blood triglycerides in people with non-alcoholic fatty liver disease in a meta-analysis of randomized trials, and 30 g a day of ground flaxseed with lifestyle advice reduced liver fibrosis and fat (steatosis) scores more than lifestyle advice alone (randomized trial)",
+     "reference_ids": [
+      "REF-5467",
+      "REF-5468"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "Liver support"
+    },
+    {
+     "condition": "menstrual-cramps",
+     "note": "Flaxseed capsules (1 g three times a day for 8 weeks) reduced period pain, pelvic pain and pain during sex compared with placebo in women with endometriosis (randomized trial)",
+     "reference_ids": [
+      "REF-5470"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Menstrual cramps"
     }
    ],
    "contraindications": [
@@ -35982,6 +36005,48 @@
       "REF-0063"
      ],
      "status": "verified"
+    },
+    {
+     "note": "Allergy: flaxseed can cause severe allergic reactions, including anaphylaxis; one woman reacted to half a teaspoon of flaxseed flour (case report). Its seed storage proteins (2S albumin, Lin u 1, and 11S globulin) were the allergens in five people with severe reactions, and Lin u 1 cross-reacted with peanut and cashew proteins in lab tests (patient study).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5471",
+      "REF-5472"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Hormones: a 70-year-old man developed breast enlargement (gynaecomastia) three months after starting a daily tablespoon of flaxseed oil (case report); a meta-analysis of ten randomized trials found flaxseed did not significantly change sex hormones such as FSH, SHBG or testosterone.",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5473",
+      "REF-5474"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Cyanide: flaxseed contains cyanogenic glycosides. In a crossover study in 12 adults, a linseed meal containing 6.8 mg of cyanide equivalents raised blood cyanide to a peak of about 5.7 micromolar, roughly a third of the peak after cassava or bitter apricot kernels with the same amount, because linseed releases its cyanide more slowly.",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5475"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Medicines: in a small randomized crossover study in healthy volunteers, 30 g of flaxseed taken with the blood thinner dabigatran lowered dabigatran exposure (AUC) compared with placebo, although the authors concluded flaxseed did not affect its pharmacokinetics overall.",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5476"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Blood sugar and blood pressure: in a 6-month randomized double-blind trial in adults aged 49-87, a flax lignan supplement (543 mg a day) caused no episodes of low blood sugar or low blood pressure.",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5482"
+     ],
+     "status": "verified"
     }
    ],
    "references": [
@@ -36005,6 +36070,7 @@
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-08-15",
+   "drug_class_interactions": [],
    "common_slug": "flaxseed"
   },
   {
@@ -36709,7 +36775,8 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0487",
-      "REF-0488"
+      "REF-0488",
+      "REF-5478"
      ],
      "status": "verified"
     }
@@ -37052,17 +37119,18 @@
     },
     {
      "condition": "pain",
-     "note": "A mallow mouthwash eased chemotherapy mouth-sore pain in a randomized trial, but a cream did not ease episiotomy pain; analgesic effects reported in lab and animal studies (reviews)",
+     "note": "A mallow mouthwash eased chemotherapy mouth-sore pain in a randomized trial. For episiotomy pain the results are mixed: a mallow ointment reduced pain more than placebo on days 5 and 10 in one randomized triple-blind trial, but a cream did not in another; analgesic effects reported in lab and animal studies (reviews)",
      "reference_ids": [
       "REF-0541",
       "REF-0542",
-      "REF-3646"
+      "REF-3646",
+      "REF-5480"
      ],
      "status": "needs-review",
      "null_result_ids": [
       "REF-1190"
      ],
-     "evidence": 5,
+     "evidence": 6,
      "label": "Pain (general)"
     },
     {
@@ -37145,6 +37213,14 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0480"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Skin: mallow was among the plants that caused irritant contact dermatitis in a prospective study of 34 patients with plant-related skin reactions in eastern Turkey.",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5479"
      ],
      "status": "verified"
     }
@@ -37459,6 +37535,14 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0468"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Liver: liver enzymes (CYP2C9, CYP2C19 and CYP3A4) convert marrubiin, horehound's main bitter compound, into reactive metabolites in lab and rat studies, a furan-ring activation the authors link to possible liver toxicity; whether this applies to people is not known.",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5481"
      ],
      "status": "verified"
     }

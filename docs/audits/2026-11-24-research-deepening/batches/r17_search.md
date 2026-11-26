@@ -1,0 +1,1672 @@
+# Research-deepening batch 17 - search
+
+## hippophae-rhamnoides (Hippophae rhamnoides) - name clause: "Hippophae rhamnoides"[tiab] OR "sea buckthorn"[tiab] OR "seabuckthorn"[tiab]
+
+### PubMed HT - 63 hits, 63 not already listed above, 53 new
+- HELD REF-3590 | 2026 | 41829976 | Randomized Controlled Trial | Hippophae rhamnoides L. Fruit Extract Relieves Chronic Idiopathic Constipation and Improves Bowel Function: A Monocentric, Randomized, Double-Blind, Placebo-Controlled, Clinical Tr | Nutrients
+- new | 2026 | 42985426 | Review | The consolidation paradox: rethinking thoracic radiotherapy in extensive-stage small cell lung cancer in the immunotherapy era. | Front Oncol
+- new | 2025 | 40133564 | Randomized Controlled Trial | A prospective study of vaginal topical pretreatment of compound sea-buckthorn oil suppository in postmenopausal women prior to colposcopy. | Sci Rep
+- new | 2025 | 41304322 |  | Effects of Sea Buckthorn Polysaccharides on Rumen In Vitro Fermentation Characteristics and Microbial Composition of Hu Sheep. | Microorganisms
+- new | 2025 | 41440857 |  | Effects of a Novel Hippophae rhamnoides L. Seed Lipid Extract Formulation Obtained via Supercritical Carbon Dioxide Extraction on Reducing Residual Cardiovascular Risk in High-Risk | J Cardiovasc Dev Dis
+- new | 2025 | 40343368 |  | Effects of seabuckthorn pomace on rumen development, intramuscular fatty acids and antioxidant capacity in weaned lambs. | Front Vet Sci
+- new | 2024 | 39805767 | Network Meta-Analysis | [Network Meta-analysis of Chinese patent medicines combined with recombinant human interferon α-2b in treatment of cervical human papillomavirus infections]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2023 | 37309905 |  | Benefits of sea buckthorn juice consumption in women of productive age with hypercholesterolemia. | Rocz Panstw Zakl Hig
+- new | 2023 | 37644446 | Systematic Review | The effects of medicinal and food homologous substances on blood lipid and blood glucose levels and liver function in patients with nonalcoholic fatty liver disease: a systematic r | Lipids Health Dis
+- HELD REF-3586 | 2022 | 36043374 | Meta-Analysis/Systematic Review | Effects of sea buckthorn (Hippophae rhamnoides L.) on factors related to metabolic syndrome: A systematic review and meta-analysis of randomized controlled trial. | Phytother Res
+- new | 2022 | 35684164 |  | Functional Yogurt Fortified with Honey Produced by Feeding Bees Natural Plant Extracts for Controlling Human Blood Sugar Level. | Plants (Basel)
+- new | 2022 | 35267966 | Review | Preparations from Various Organs of Sea Buckthorn (Elaeagnus rhamnoides (L.) A. Nelson) as Important Regulators of Hemostasis and Their Role in the Treatment and Prevention of Card | Nutrients
+- new | 2022 | 36380973 | Systematic Review/Research Support, Non-U.S. Gov't | Platelet Aggregation Inhibition: An Evidence-Based Systematic Review on the Role of Herbs for Primary Prevention Based on Randomized Controlled Trials. | Iran J Med Sci
+- new | 2021 | 33832645 | Randomized Controlled Trial | Efficacy and safety of a new vaginal gel for the treatment of symptoms associated with vulvovaginal atrophy in postmenopausal women: A double-blind randomized placebo-controlled st | Maturitas
+- new | 2021 | 33917994 |  | Effect of Sea Buckthorn on Plasma Glucose in Individuals with Impaired Glucose Regulation: A Two-Stage Randomized Crossover Intervention Study. | Foods
+- new | 2021 | 33467951 | Practice Guideline/Research Support, Non-U.S. Gov't | Nursing Procedures for the Prevention and Treatment of Mucositis Induced by Cancer Therapies: Clinical Practice Guideline Based on an Interdisciplinary Consensus Process and a Syst | Integr Cancer Ther
+- HELD REF-3592 | 2021 | 33792111 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | To compare the effect of sea buckthorn and silver sulfadiazine dressing on period of wound healing in patients with second-degree burns: A randomized triple-blind clinical trial. | Wound Repair Regen
+- new | 2020 | 35516250 | Review | The bioactive components as well as the nutritional and health effects of sea buckthorn. | RSC Adv
+- new | 2020 | 32452118 | Randomized Controlled Trial | Protective effects of isorhamnetin on pulmonary arterial hypertension: in vivo and in vitro studies. | Phytother Res
+- new | 2020 | 32140719 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Supplementation with Seabuckthorn Oil Augmented in 16:1n-7t Increases Serum Trans-Palmitoleic Acid in Metabolically Healthy Adults: A Randomized Crossover Dose-Escalation Study. | J Nutr
+- new | 2019 | 30892697 | Systematic Review | The role of oral vitamins and supplements in the management of atopic dermatitis: a systematic review. | Int J Dermatol
+- new | 2019 | 30497904 | Randomized Controlled Trial | Effects of a sea buckthorn oil spray emulsion on dry eye. | Cont Lens Anterior Eye
+- new | 2019 | 30787601 | Randomized Controlled Trial | Rapid and selective mobilization of specific stem cell types after consumption of a polyphenol-rich extract from sea buckthorn berries (Hippophae) in healthy human subjects. | Clin Interv Aging
+- new | 2019 | 31976004 |  | A Retrospective Study of a Chinese Traditional Medicine YIKEER in the Treatment of Verruca Patients in Liaoning District. | Evid Based Complement Alternat Med
+- SEEN | 2019 | 30679968 |  | Sea buckthorn extract in the treatment of psoriasis. | Exp Ther Med
+- new | 2018 | 29022100 | Randomized Controlled Trial | Sea buckthorn decreases and delays insulin response and improves glycaemic profile following a sucrose-containing berry meal: a randomised, controlled, crossover study of Danish se | Eur J Nutr
+- new | 2018 | 30007724 | Research Support, Non-U.S. Gov't | High content analysis of sea buckthorn, black chokeberry, red and white currants microbiota - A pilot study. | Food Res Int
+- SEEN | 2017 | 27522605 | Randomized Controlled Trial/Retracted Publication | Effect of seabuckthorn seed oil in reducing cardiovascular risk factors: A longitudinal controlled trial on hypertensive subjects. | Clin Nutr
+- new | 2015 | 26790259 | Comparative Study/Randomized Controlled Trial | [Comparative study of the clinical observation on traumatic perforation of tympanic membrane]. | Lin Chuang Er Bi Yan Hou Tou Jing Wai Ke [chi]
+- new | 2014 | 25362595 |  | Hippophae rhamnoides oil-in-water (O/W) emulsion improves barrier function in healthy human subjects. | Pak J Pharm Sci
+- new | 2014 | 25316430 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Management of cognitive determinants in senile dementia of Alzheimer's type: therapeutic potential of a novel polyherbal drug product. | Clin Drug Investig
+- HELD REF-3591 | 2014 | 25104582 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of sea buckthorn oil intake on vaginal atrophy in postmenopausal women: a randomized, double-blind, placebo-controlled study. | Maturitas
+- new | 2014 | 25254008 |  | Clinical and sebumetric evaluation of topical emulsions in the treatment of acne vulgaris. | Postepy Dermatol Alergol
+- new | 2014 | 24291404 | Research Support, Non-U.S. Gov't | Quinine sensitivity influences the acceptance of sea-buckthorn and grapefruit juices in 9- to 11-year-old children. | Appetite
+- new | 2013 | 24640205 | Randomized Controlled Trial | Immunomodulating and antiproteinuric effect of Hippophae rhamnoides (Badriphal) in idiopathic nephrotic syndrome. | J Assoc Physicians India
+- HELD REF-3588 | 2013 | 23131570 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effect of sea buckthorn supplement on oral health, inflammation, and DNA damage in hemodialysis patients: a double-blinded, randomized crossover study. | J Ren Nutr
+- new | 2013 | 23529392 | Randomized Controlled Trial | Influence of hippophae rhamnoides on two appetite factors, gastric emptying and metabolic parameters, in children with functional dyspepsia. | Hell J Nucl Med
+- new | 2013 | 23945716 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of sea buckthorn and bilberry on serum metabolites differ according to baseline metabolic profiles in overweight women: a randomized crossover trial. | Am J Clin Nutr
+- new | 2013 | 24278079 |  | Whitening efficacy of plant extracts including Hippophae rhamnoides and Cassia fistula extracts on the skin of Asian patients with melasma. | Postepy Dermatol Alergol
+- new | 2012 | 22098442 | Controlled Clinical Trial/Research Support, Non-U.S. Gov't | The fibres and polyphenols in sea buckthorn (Hippophaë rhamnoides) extraction residues delay postprandial lipemia. | Int J Food Sci Nutr
+- new | 2012 | 22545034 |  | Acceptance of Nordic snack bars in children aged 8-11 years. | Food Nutr Res
+- new | 2012 | 22953845 | Research Support, Non-U.S. Gov't | Children's hedonic response to berry products: Effect of chemical composition of berries and hTAS2R38 genotype on liking. | Food Chem
+- new | 2012 | 22336810 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Dietary supplements for established atopic eczema. | Cochrane Database Syst Rev
+- new | 2012 | 21868139 | Research Support, Non-U.S. Gov't | Effects of repeated exposure on acceptance of initially disliked and liked Nordic snack bars in 9-11 year-old children. | Clin Nutr
+- new | 2011 | 21224867 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Different berries and berry fractions have various but slightly positive effects on the associated variables of metabolic diseases on overweight and obese women. | Eur J Clin Nutr
+- new | 2011 | 21832964 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of oral sea buckthorn oil on tear film Fatty acids in individuals with dry eye. | Cornea
+- new | 2010 | 20554904 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Oral sea buckthorn oil attenuates tear film osmolarity and symptoms in individuals with dry eye. | J Nutr
+- new | 2010 | 20187995 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Prebiotic effect of fruit and vegetable shots containing Jerusalem artichoke inulin: a human intervention study. | Br J Nutr
+- HELD REF-3589 | 2009 | 19288149 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of a low dose of sea buckthorn berries on circulating concentrations of cholesterol, triacylglycerols, and flavonols in healthy adults. | Eur J Nutr
+- HELD REF-3587 | 2008 | 17593932 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of sea buckthorn berries on infections and inflammation: a double-blind, randomized, placebo-controlled trial. | Eur J Clin Nutr
+- new | 2008 | 19009913 | Clinical Trial/Research Support, Non-U.S. Gov't | Effect of a dietary supplement containing blueberry and sea buckthorn concentrate on antioxidant capacity in type 1 diabetic children. | Acta Physiol Hung
+- new | 2008 | 18954533 | Research Support, Non-U.S. Gov't | Intra-herb pharmacokinetics interaction between quercetin and isorhamentin. | Acta Pharmacol Sin
+- new | 2007 | 18389773 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Role of multi-component functional foods in the complex treatment of patients with advanced breast cancer. | Rev Med Chir Soc Med Nat Iasi
+- new | 2006 | 16905811 | Clinical Trial | Comprehensive treatment of generalized parodontitis. | Georgian Med News
+- new | 2006 | 16968106 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Absorption of flavonols derived from sea buckthorn (Hippophaë rhamnoides L.) and their effect on emerging risk factors for cardiovascular disease in humans. | J Agric Food Chem
+- new | 2003 | 12854177 | Clinical Trial/Randomized Controlled Trial | Effect of sea buckthorn on liver fibrosis: a clinical study. | World J Gastroenterol
+- new | 2002 | 12088800 |  | Effects of an antioxidant-rich juice (sea buckthorn) on risk factors for coronary heart disease in humans. | J Nutr Biochem
+- new | 2001 | 12528545 | Clinical Trial/Randomized Controlled Trial | [Effect of total flavones of Hippophae rhamnoides L. on sympathetic activity in hypertension]. | Hua Xi Yi Ke Da Xue Xue Bao [chi]
+- new | 2000 | 11002130 |  | Effect of dietary supplementation with sea buckthorn (Hippophaë rhamnoides) seed and pulp oils on the fatty acid composition of skin glycerophospholipids of patients with atopic de | J Nutr Biochem
+- new | 2000 | 11120446 |  | Sea buckthorn berry oil inhibits platelet aggregation. | J Nutr Biochem
+- HELD REF-3593 | 1999 | 15539258 | Clinical Trial/Controlled Clinical Trial | Effects of dietary supplementation with sea buckthorn (Hippophaë rhamnoides) seed and pulp oils on atopic dermatitis. | J Nutr Biochem
+- new | 1987 | 3304921 | Clinical Trial/Comparative Study | [A control trial of flavonoids of Hippophae rhamnoides L. in treating ischemic heart disease]. | Zhonghua Xin Xue Guan Bing Za Zhi [chi]
+- new | 1986 | 3786084 |  | [Effect of Hippophae rhamnoides oil on the lipid concentration of serum, T-, B- and O-lymphocytes in acute pneumonia in young children]. | Pediatriia [rus]
+
+### PubMed SR - 14 hits, 7 not already listed above, 7 new
+- new | 2026 | 42075548 | Systematic Review | Rosacea and Hippophae rhamnoides: A Phytonutrient Approach to Skin Repair (The Systematic Review). | Medicina (Kaunas)
+- new | 2026 | 42973966 | Meta-Analysis | From water deficit to growth suppression: meta-analytic evidence for a functional hierarchy of drought adaptation in Hippophae rhamnoides. | Photosynthetica
+- new | 2025 | 41008176 | Review | From Desert Greening to Human Health: A Systematic Review of the Extraction, Unique Structure, and Bioactivity of Sea Buckthorn Proanthocyanidins. | Foods
+- new | 2024 | 39273592 | Systematic Review | Peptides Evaluated In Silico, In Vitro, and In Vivo as Therapeutic Tools for Obesity: A Systematic Review. | Int J Mol Sci
+- new | 2024 | 39045282 | Systematic Review | Research progress on antitumor effects of sea buckthorn, a traditional Chinese medicine homologous to food and medicine. | Front Nutr
+- new | 2021 | 33787128 | Systematic Review | [Application and modern research progress of sea buckthorn leaves]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2013 | 23777875 |  | A systematic review of anti-obesity medicinal plants - an update. | J Diabetes Metab Disord
+
+### PubMed SAFE - 151 hits, 137 not already listed above, 133 new
+- new | 2026 | 41418959 |  | Structural characterization of Seabuckthorn polysaccharides and protective effects on acute alcoholic liver disease. | Int J Biol Macromol
+- new | 2026 | 42073276 | Review | Sea Buckthorn (Hippophae rhamnoides L.): Nutritional Significance, Phytochemistry, Molecular Mechanisms, Therapeutic Potential, and Emerging Applications in Food Systems. | Foods
+- new | 2026 | 41484732 |  | Hybrid Herbal-Synthetic Sunscreen Formulations: Boosting SPF With Hippophae Rhamnoides and Sapindus Mukorossi Extracts. | Appl Biochem Biotechnol
+- new | 2026 | 42019419 |  | Food processing and phenolic bioaccessibility: a dual in vitro, in silico perspective on seabuckthorn. | Food Chem
+- new | 2026 | 41742464 |  | Anti-Gingivitis and Anti-Osteoclastogenesis Effects of Ethanol Extract from Hippophae rhamnoides L. Fruits in IL-1β-Induced Human Gingival Fibroblasts and RANKL-Induced RAW 264.7 M | J Microbiol Biotechnol
+- new | 2026 | 42796992 | Review | Sea Buckthorn in Cardiovascular and Metabolic Health: Evidence for the Role of the Leaves. | Nutrients
+- new | 2026 | 42914413 |  | Functionalized gellan gum hydrogel encapsulating emulsion of probiotic/sea buckthorn oil and co-loading protocatechuic acid for chicken meat preservation. | Food Res Int
+- new | 2026 | 42154731 |  | [Senescent dermal fibroblasts: Molecular logistics of the distant and systemic effects of exogenous bioactive compounds in the human body.]. | Adv Gerontol [rus]
+- new | 2026 | 42643666 |  | Exploring the toxicity of extracts, fractions, and their bioactive components from raw and roasted sea buckthorn seeds on selected human cells. | Front Mol Biosci
+- new | 2026 | 42476576 |  | Sea buckthorn pulp oil modulates MAFLD through lipid reprogramming and inflammatory resolution: insights from integrated omics analysis. | Food Funct
+- new | 2026 | 41077260 |  | Safe usage levels of aqueous Hippophae rhamnoides fruit extract in cosmetics estimated by threshold of toxicological concern, point of departure, and history of safe consumption. | Regul Toxicol Pharmacol
+- new | 2026 | 41940129 |  | A comparative dataset on LC-MS analysis of sea buckthorn berries pulped extract juice phytocompounds and metabolomics on probiotic fermentation. | Data Brief
+- new | 2026 | 42935680 |  | Ursolic Acid in Hippophae rhamnoides L. Protects against Alcohol-Induced Hepatic Injury by Alleviating Inflammatory Response and Regulating Fas/FasL Activation. | Prev Nutr Food Sci
+- new | 2026 | 42104474 |  | Development of a nano-emulsion and evaluation of its intradermal adjuvant function of Swine Influenza H3N2 Vaccine. | Virol J
+- new | 2025 | 40462231 |  | Sea buckthorn-derived extracellular vesicles foster bone regeneration through aau-miR168-mediated pathways. | Stem Cell Res Ther
+- new | 2025 | 41771694 |  | Antitumor potential of whole plant functional foods in breast cancer. | Klin Onkol
+- new | 2025 | 39984555 | Research Support, Non-U.S. Gov't | Nebulized seabuckthorn seed oil inhalation attenuates Alzheimer's disease progression in APP/PS1 mice. | Sci Rep
+- new | 2025 | 40472616 |  | Mult-omics analysis reveals the lipid-lowering effects of sea buckthorn and milk thistle solid beverage in hyperlipidemic rats. | Phytomedicine
+- new | 2025 | 40429771 |  | Anti-Tumorigenic Effects of Sea Buckthorn Root Extracts on Head and Neck Cancer Cells-A Systematic Analysis. | Int J Mol Sci
+- new | 2025 | 41387850 |  | The effect of Hippophae rhamnoides on Hydroxychloroquine-Induced stomatitis in rats. | BMC Complement Med Ther
+- new | 2025 | 40513919 |  | Sea buckthorn regulates PXR/CAR/NF-κB signaling and restores CYP2C metabolic function in BCG-induced hepatitis. | J Ethnopharmacol
+- new | 2025 | 41278285 |  | Expert-guided approaches to complementary interventions for common side effects of cancer therapies: a practice-based perspective from integrative oncology centers in Baden-Württem | Front Oncol
+- new | 2025 | 40196797 | Review | Recent advances in the control of dengue fever using herbal and synthetic drugs. | Heliyon
+- new | 2025 | 41227676 |  | Effect of Hippophae rhamnoides Extract Addition on the Quality and Safety of Traditional Kazakh Chunked Delicacy "Jaya". | Foods
+- new | 2025 | 40403894 |  | Proteomic analysis reveals proteins and pathways associated with the effects of Hippophae rhamnoides L. total flavonoids on ameliorating excessive erythropoiesis in high-altitude p | J Ethnopharmacol
+- new | 2025 | 39824425 |  | Anti-inflammatory activity, stability, bioavailability and toxicity studies on seabuckthorn polyphenol enriched fraction and its phospholipid complex (Phytosomes) preparation. | Int J Biol Macromol
+- HELD REF-2326 | 2025 | 40371330 |  | Chemopreventive and therapeutic effects of Hippophae rhamnoides L. fruit peels evaluated in preclinical models of breast carcinoma. | Front Pharmacol
+- new | 2025 | 40163943 |  | Sea buckthorn leaves and gallic acid inhibit C48/80-induced pseudo-allergic reaction via the PLC/IP3 signaling pathway both in vitro and in vivo. | Int Immunopharmacol
+- new | 2025 | 41419727 | Review | Progress in the antitumor molecular mechanisms of Isorhamnetin. | Discov Oncol
+- new | 2025 | 39793780 |  | The major roles of intestinal microbiota and TRAF6/NF-κB signaling pathway in acute intestinal inflammation in mice, and the improvement effect by Hippophae rhamnoides polysacchari | Int J Biol Macromol
+- new | 2025 | 41154525 |  | Proteomic Changes in the Cytoplasmatic Fraction of Weaned Piglets' Liver and Kidney Under Antioxidant and Mycotoxin Diets. | Antioxidants (Basel)
+- new | 2024 | 38650631 | Review | Isorhamnetin: what is the in vitro evidence for its antitumor potential and beyond? | Front Pharmacol
+- new | 2024 | 39132863 | Research Support, Non-U.S. Gov't | Hippophae Rhamnoides-derived Phytomedicine Nano-System Modulates Bax/Fas Pathways to Reduce Proliferation in Triple-Negative Breast Cancer. | Adv Healthc Mater
+- new | 2024 | 39495351 |  | Sea Buckthorn Flavonoid Extracted with High Hydrostatic Pressure Alleviated Shrimp Allergy in Mice through the Microbiota and Metabolism. | J Agric Food Chem
+- new | 2024 | 38924989 |  | Characterizing and decoding the key odor-active compounds in fresh, pasteurized, and high pressure processing sea buckthorn (Hippophae rhamnoides L.) juice. | Talanta
+- new | 2024 | 38732560 | Review | Characterizations of White Mulberry, Sea-Buckthorn, Garlic, Lily of the Valley, Motherwort, and Hawthorn as Potential Candidates for Managing Cardiovascular Disease-In Vitro and Ex | Nutrients
+- new | 2024 | 38506659 | Review | Dietary agents in the prevention of radiation-induced nausea and vomiting (RINV): review addressing the scientific observations, benefits, lacunae and future direction. | Int J Radiat Biol
+- new | 2024 | 38619986 |  | In vivo evidence of sea buckthorn relieving oxidative stress and improving immune performance of common carp (Cyprinus carpio L.). | J Sci Food Agric
+- new | 2024 | 38687316 | Research Support, Non-U.S. Gov't | Wound-healing effect of topical nanoemulsion-loaded cream and gel formulations of Hippophae rhamnoides L. (sea buckthorn) fruit oil and their acute dermal toxicity study on female  | Indian J Pharmacol
+- new | 2024 | 38984297 |  | Research on the mechanism of sea buckthorn leaf Fu tea in the treatment of hyperlipidemia. | Heliyon
+- new | 2023 | 36970196 |  | Herbal formula BaWeiBaiDuSan alleviates polymicrobial sepsis-induced liver injury via increasing the gut microbiota Lactobacillus johnsonii and regulating macrophage anti-inflammat | Acta Pharm Sin B
+- new | 2023 | 36828095 |  | Sea buckthorn polysaccharide ameliorates high-fat diet induced mice neuroinflammation and synaptic dysfunction via regulating gut dysbiosis. | Int J Biol Macromol
+- new | 2023 | 38007790 |  | Protective Effect of Sea Buckthorn (Hipphophae Rhamnoides) Extract on Liver Injury Induced by High-Fat Diet in Mice. | Stud Health Technol Inform
+- new | 2023 | 37833431 | Research Support, Non-U.S. Gov't | Hippophae rhamnoides reverses decreased CYP2D6 expression in rats with BCG-induced liver injury. | Sci Rep
+- new | 2023 | 37685103 |  | Asparaginase Treatment of Sea Buckthorn Berries as an Effective Tool for Acrylamide Reduction in Nutritionally Enriched Wholegrain Wheat, Rye and Triticale Biscuits. | Foods
+- new | 2023 | 36930583 | Review | Hippophae rhamnoides L.: A Comprehensive Review on the Botany, Traditional Uses, Phytonutrients, Health Benefits, Quality Markers, and Applications. | J Agric Food Chem
+- new | 2023 | 35502492 |  | Lipid-lowering, anti-inflammatory, and hepatoprotective effects of isorhamnetin on acetaminophen-induced hepatotoxicity in mice. | Drug Chem Toxicol
+- new | 2023 | 36677921 |  | Anti-Inflammatory, Anti-Bacterial, and Anti-Fungal Activity of Oligomeric Proanthocyanidins and Extracts Obtained from Lignocellulosic Agricultural Waste. | Molecules
+- new | 2023 | 36688345 | Review | Fruits and their phytochemicals in mitigating the ill effects of ionizing radiation: review on the existing scientific evidence and way forward. | Food Funct
+- new | 2023 | 37570937 |  | Chemical Characterization, Bioactivity and Toxicity of European Flora Plant Extracts in Search for Potential Natural Origin Preservatives. | Plants (Basel)
+- new | 2023 | 37104237 | Research Support, Non-U.S. Gov't | Natural Antioxidant By-Product Mixture Counteracts the Effects of Aflatoxin B1 and Ochratoxin A Exposure of Piglets after Weaning: A Proteomic Survey on Liver Microsomal Fraction. | Toxins (Basel)
+- new | 2022 | 35359022 |  | Therapeutic Potential of Isorhamnetin following Acetaminophen-Induced Hepatotoxicity through Targeting NLRP3/NF-κB/Nrf2. | Drug Res (Stuttg)
+- new | 2022 | 36043710 | Review/Research Support, Non-U.S. Gov't | Isorhamnetin: A Novel Natural Product Beneficial for Cardiovascular Disease. | Curr Pharm Des
+- new | 2022 | 36080297 |  | Antioxidative Properties and Acrylamide Content of Functional Wheat-Flour Cookies Enriched with Wild-Grown Fruits. | Molecules
+- new | 2022 | 35306042 |  | Total flavonoids of sea buckthorn (Hippophae rhamnoides L.) improve MC903-induced atopic dermatitis-like lesions. | J Ethnopharmacol
+- new | 2022 | 36556472 |  | Mechanisms and Effects of Isorhamnetin on Imiquimod-Induced Psoriasiform Dermatitis in Mice. | Life (Basel)
+- new | 2022 | 35401244 |  | Isorhamnetin Alleviates Airway Inflammation by Regulating the Nrf2/Keap1 Pathway in a Mouse Model of COPD. | Front Pharmacol
+- new | 2022 | 35408620 |  | Metabolomic Profiling Reveals Protective Effects and Mechanisms of Sea Buckthorn Sterol against Carbon Tetrachloride-Induced Acute Liver Injury in Rats. | Molecules
+- new | 2022 | 35341932 |  | Protective effect of flavonoids extract of Hippophae rhamnoides L. on alcoholic fatty liver disease through regulating intestinal flora and inhibiting TAK1/p38MAPK/p65NF-κB pathway | J Ethnopharmacol
+- new | 2022 | 36246879 | Research Support, Non-U.S. Gov't | Seabuckthorn polysaccharide combined with astragalus polysaccharide ameliorate alcoholic fatty liver by regulating intestinal flora. | Front Endocrinol (Lausanne)
+- new | 2021 | 33390133 | Review | Therapeutic Properties of Several Chemical Compounds of Salvia officinalis L. in Alzheimer's Disease. | Mini Rev Med Chem
+- new | 2021 | 33808398 |  | Protective Effect of Two Alkaloids from Hippophae rhamnoides Linn. against Doxorubicin-Induced Toxicity in H9c2 Cardiomyoblasts. | Molecules
+- new | 2021 | 33856060 | Research Support, Non-U.S. Gov't/Review | Flavonoids from sea buckthorn: A review on phytochemistry, pharmacokinetics and role in metabolic diseases. | J Food Biochem
+- new | 2021 | 33145761 |  | Sea buckthorn (Hippophae rhamnoides L.) fermentation liquid protects against alcoholic liver disease linked to regulation of liver metabolome and the abundance of gut microbiota. | J Sci Food Agric
+- new | 2021 | 34946689 |  | Mechanochemical-Assisted Extraction and Hepatoprotective Activity Research of Flavonoids from Sea Buckthorn (Hippophaë rhamnoides L.) Pomaces. | Molecules
+- new | 2021 | 34335913 | Review | Experimental research in topical psoriasis therapy (Review). | Exp Ther Med
+- new | 2021 | 33385857 |  | Novel bioactive properties of low-polarity fractions from sea-buckthorn extracts (Elaeagnus rhamnoides (L.) A. Nelson) - (in vitro). | Biomed Pharmacother
+- new | 2021 | 34951203 | Review | [Research progress on chemical constituents and pharmacological activities of seabuckthorn and prediction of its Q-markers]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2021 | 34646511 |  | Fatty acid profile and safety aspects of the edible oil prepared by artisans' at small-scale agricultural companies. | Food Sci Nutr
+- new | 2021 | 33455772 | Randomized Controlled Trial, Veterinary | Effects of a dietary supplement enriched in palmitoleic acid on fatty acid composition of follicular fluid, granulosa cell metabolism, and oocyte developmental capacity in early la | J Dairy Sci
+- new | 2021 | 33671978 | Research Support, Non-U.S. Gov't | The Effectiveness of Dietary Byproduct Antioxidants on Induced CYP Genes Expression and Histological Alteration in Piglets Liver and Kidney Fed with Aflatoxin B1 and Ochratoxin A. | Toxins (Basel)
+- new | 2021 | 34564652 | Research Support, Non-U.S. Gov't | The Reduction of the Combined Effects of Aflatoxin and Ochratoxin A in Piglet Livers and Kidneys by Dietary Antioxidants. | Toxins (Basel)
+- HELD REF-0837 | 2020 | 30081653 |  | Genotoxicity and teratogenicity of seabuckthorn (Hippophae rhamnoides L.) berry oil. | Drug Chem Toxicol
+- new | 2020 | 32655657 |  | Sea Buckthorn and Grape Antioxidant Effects in Hyperlipidemic Rats: Relationship with the Atorvastatin Therapy. | Evid Based Complement Alternat Med
+- new | 2020 | 32579735 |  | Protective effect of seabuckthorn berry juice against acrylamide-induced oxidative damage in rats. | J Food Sci
+- new | 2020 | 32843010 |  | Ameliorative effects of sea buckthorn oil on DNCB induced atopic dermatitis model mice via regulation the balance of Th1/Th2. | BMC Complement Med Ther
+- new | 2020 | 32635436 |  | Cytogenetic Study on the Biostimulation Potential of the Aqueous Fruit Extract of Hippophae rhamnoides for a Sustainable Agricultural Ecosystem. | Plants (Basel)
+- new | 2020 | 32232876 | Research Support, Non-U.S. Gov't | Antiobesity effects of the combination of Patrinia scabiosaefolia root and Hippophae rhamnoides leaf extracts. | J Food Biochem
+- new | 2020 | 32875458 | Comparative Study | Fabrication of Nanosuspensions to Improve the Oral Bioavailability of Total Flavones from Hippophae rhamnoides L. and their Comparison with an Inclusion Complex. | AAPS PharmSciTech
+- new | 2020 | 32915856 | Research Support, Non-U.S. Gov't/Retracted Publication | RETRACTED: Involvement of NF-κB in the reversal of CYP3A down-regulation induced by sea buckthorn in BCG-induced rats. | PLoS One
+- new | 2019 | 30360709 | Review | Molecular Concept of Diabetic Wound Healing: Effective Role of Herbal Remedies. | Mini Rev Med Chem
+- new | 2019 | 30674068 |  | Benefits of sea buckthorn (Hippophae rhamnoides) pulp oil-based mouthwash on oral health. | J Appl Microbiol
+- new | 2019 | 31315001 |  | Characterization of the Hippophae rhamnoides WRKY gene family and functional analysis of the role of the HrWRKY21 gene in resistance to abiotic stresses. | Genome
+- new | 2019 | 31355117 |  | Amelioration of antioxidant potential, toxicity, and antihyperglycemic activity of Hippophae salicifolia D. Don leaf extracts in alloxan-induced diabetic rats. | 3 Biotech
+- new | 2019 | 31547333 |  | Lipid Oxidation Inhibition Capacity of 11 Plant Materials and Extracts Evaluated in Highly Oxidised Cooked Meatballs. | Foods
+- new | 2019 | 31827168 | Research Support, Non-U.S. Gov't | Radiomodifying action, Pharmacokinetic and Biodistribution of Ethyl 3, 4, 5-trihydroxybenzoate-Implication in development of radiomitigator. | Sci Rep
+- new | 2018 | 29593547 | Review | The Anticancer Activity of Sea Buckthorn [Elaeagnus rhamnoides (L.) A. Nelson]. | Front Pharmacol
+- new | 2018 | 29425659 |  | Seabuckthorn berry polysaccharide extracts protect against acetaminophen induced hepatotoxicity in mice via activating the Nrf-2/HO-1-SOD-2 signaling pathway. | Phytomedicine
+- new | 2018 | 28409391 |  | Anti-inflammatory activity of the functional groups present in Hippophae rhamnoides (Seabuckthorn) leaf extract. | Inflammopharmacology
+- new | 2018 | 30142919 |  | The Effect of Sea Buckthorn (Hippophae rhamnoides L.) Seed Oil on UV-Induced Changes in Lipid Metabolism of Human Skin Cells. | Antioxidants (Basel)
+- new | 2018 | 30398061 |  | Active Components from Sea Buckthorn ( Hippophae rhamnoides L.) Regulate Hepatic Stellate Cell Activation and Liver Fibrogenesis. | J Agric Food Chem
+- new | 2018 | 29616833 |  | Single pot synthesized gold nanoparticles using Hippophae rhamnoides leaf and berry extract showed shape-dependent differential nanobiotechnological applications. | Artif Cells Nanomed Biotechnol
+- new | 2018 | 29762731 |  | Nutrient digestibility, rumen microbial protein synthesis, and growth performance in sheep consuming rations containing sea buckthorn pomace. | J Anim Sci
+- new | 2017 | 28873377 |  | Sea Buckthorn (Hippophaë rhamnoides L.) Oil Improves Atopic Dermatitis-Like Skin Lesions via Inhibition of NF-κB and STAT1 Activation. | Skin Pharmacol Physiol
+- new | 2017 | 28986179 |  | Acute and subchronic toxicity studies of seabuckthorn (Hippophae rhamnoides L.) oil in rodents. | Regul Toxicol Pharmacol
+- new | 2017 | 28766672 |  | Seabuckthorn berry polysaccharide protects against carbon tetrachloride-induced hepatotoxicity in mice via anti-oxidative and anti-inflammatory activities. | Food Funct
+- new | 2016 | 27374757 |  | Effects of aqueous extracts from Panax ginseng and Hippophae rhamnoides on acute alcohol intoxication: An experimental study using mouse model. | J Ethnopharmacol
+- new | 2016 | 25613316 | Comparative Study | A comparison of the pharmacokinetics of three different preparations of total flavones of Hippophae rhamnoides in beagle dogs after oral administration. | Eur J Drug Metab Pharmacokinet
+- new | 2016 | 29381286 |  | [Nutrition value of wild-growing fruits from mountain Dagestan and its safety after fast freezing and cold storage]. | Vopr Pitan [rus]
+- new | 2015 | 25496311 | Research Support, Non-U.S. Gov't | A phospholipid complex to improve the oral bioavailability of flavonoids. | Drug Dev Ind Pharm
+- new | 2015 | 26494508 | Research Support, Non-U.S. Gov't | Protective effects of sea buckthorn polysaccharide extracts against LPS/d-GalN-induced acute liver failure in mice via suppressing TLR4-NF-κB signaling. | J Ethnopharmacol
+- new | 2015 | 24888486 | Comparative Study/Research Support, Non-U.S. Gov't | Comparative pharmacokinetic interactions of Quercetin and Rutin in rats after oral administration of European patented formulation containing Hipphophae rhamnoides and Co-administr | Eur J Drug Metab Pharmacokinet
+- new | 2015 | 26975114 | Evaluation Study/Research Support, Non-U.S. Gov't | [Determination of plasma concentration of quercetin, kaempferid and isorhamnetin in Hippophae rhamnoides extract by HPLC-MS/MS and pharmacokinetics in rats]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2014 | 25332713 |  | Molecular docking studies of anti-cancerous candidates in Hippophae rhamnoides and Hippophae salicifolia. | J Biomed Res
+- new | 2014 | 24462958 | Research Support, Non-U.S. Gov't | Phytic acid enhances the oral absorption of isorhamnetin, quercetin, and kaempferol in total flavones of Hippophae rhamnoides L. | Fitoterapia
+- new | 2013 | 22676076 | Research Support, Non-U.S. Gov't/Review | Advances in improvement of quality and resistance in a multipurpose crop: sea buckthorn. | Crit Rev Biotechnol
+- new | 2013 | 23472020 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The hepatoprotective effect of sea buckthorn (Hippophae rhamnoides) berries on induced aflatoxin B1 poisoning in chickens 1. | Poult Sci
+- new | 2013 | 23909572 | Research Support, Non-U.S. Gov't | Molecular cloning and expression profile of a Halloween gene encoding Cyp307A1 from the seabuckthorn carpenterworm, Holcocerus hippophaecolus. | J Insect Sci
+- new | 2013 | 22757776 | Research Support, Non-U.S. Gov't | Effects of solid dispersion and self-emulsifying formulations on the solubility, dissolution, permeability and pharmacokinetics of isorhamnetin, quercetin and kaempferol in total f | Drug Dev Ind Pharm
+- new | 2012 | 22056665 | Research Support, Non-U.S. Gov't | Pharmacokinetic properties of isorhamnetin, kaempferol and quercetin after oral gavage of total flavones of Hippophae rhamnoides L. in rats using a UPLC-MS method. | Fitoterapia
+- new | 2012 | 23087514 | Research Support, Non-U.S. Gov't | Acute and sub acute toxicity and efficacy studies of Hippophae rhamnoides based herbal antioxidant supplement. | Indian J Pharmacol
+- new | 2012 | 22759730 | Case Reports | Generalized yellow skin caused by high intake of sea buckthorn. | Forsch Komplementmed
+- HELD REF-2317 | 2011 | 21963559 | Review | Medicinal and therapeutic potential of Sea buckthorn (Hippophae rhamnoides L.). | J Ethnopharmacol
+- new | 2010 | 20558226 | Research Support, Non-U.S. Gov't | Ninety day repeated gavage administration of Hipphophae rhamnoides extract in rats. | Food Chem Toxicol
+- new | 2010 | 20136488 | Research Support, Non-U.S. Gov't | Assessment of intestinal absorption of total flavones of Hippophae rhamnoides L. in rat using in situ absorption models. | Drug Dev Ind Pharm
+- new | 2010 | 21265138 | Comparative Study/Research Support, Non-U.S. Gov't | [Leaf morphological structure and physiological and biochemical characteristics of female and male Hippophae rhamnoides subsp. sinensis under different soil moisture condition]. | Ying Yong Sheng Tai Xue Bao [chi]
+- new | 2009 | 19524009 | Research Support, Non-U.S. Gov't | Protective effects of seabuckthorn (Hippophae rhamnoides L.) seed oil against carbon tetrachloride-induced hepatotoxicity in mice. | Food Chem Toxicol
+- new | 2009 | 19425187 | Research Support, Non-U.S. Gov't | Safety and healing efficacy of Sea buckthorn (Hippophae rhamnoides L.) seed oil on burn wounds in rats. | Food Chem Toxicol
+- HELD REF-2321 | 2009 | 19535023 | Research Support, Non-U.S. Gov't | Anti-tumor promoters phenolics and triterpenoid from Hippophae rhamnoides. | Fitoterapia
+- new | 2008 | 20040938 |  | Comparative evaluation of some flavonoids and tocopherol acetate against the systemic toxicity induced by sulphur mustard. | Indian J Pharmacol
+- new | 2007 | 17141932 |  | Adaptogenic and safety evaluation of seabuckthorn (Hippophae rhamnoides) leaf extract: a dose dependent study. | Food Chem Toxicol
+- new | 2006 | 16629511 | Comparative Study/Review | Anticarcinogenic potential of lipids from Hippophae--evidence from the recent literature. | Asian Pac J Cancer Prev
+- new | 2006 | 17048614 | Comparative Study | [Effects and comparison of seed oil and sarcocarp oil of Hippophae rhamnoides on rats with experimental hepatocirrhosis]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2006 | 17081171 |  | Protection of spermatogenesis in mice against gamma ray induced damage by Hippophae rhamnoides. | Andrologia
+- new | 2006 | 16866185 |  | Protective effects of fruit extracts of Hippophae rhamnoides L. against arsenic toxicity in Swiss albino mice. | Hum Exp Toxicol
+- new | 2005 | 15639001 | Research Support, Non-U.S. Gov't | Protection of mitochondrial system by Hippophae rhamnoides L. against radiation-induced oxidative damage in mice. | J Pharm Pharmacol
+- new | 2005 | 15749631 | Research Support, Non-U.S. Gov't | Chemoprevention by Hippophae rhamnoides: effects on tumorigenesis, phase II and antioxidant enzymes, and IRF-1 transcription factor. | Nutr Cancer
+- new | 2005 | 16176147 |  | Therapeutic value of Hippophae rhamnoides L. against subchronic arsenic toxicity in mice. | J Med Food
+- new | 2005 | 15911921 |  | A preclinical study of the effects of seabuckthorn (Hippophae rhamnoides L.) leaf extract on cutaneous wound healing in albino rats. | Int J Low Extrem Wounds
+- new | 2004 | 15273667 |  | Sea-buckthorn juice protects mice against genotoxic action of cisplatin. | Exp Oncol
+- new | 2002 | 12622196 | Comparative Study | Protective effect of RH-3 with special reference to radiation induced micronuclei in mouse bone marrow. | Indian J Exp Biol
+- new | 1997 | 9376762 | Comparative Study | [The cytotoxicity of Chamaenerium angustifolium (L.) Scop. and Hippophae rhamnoides L. tannins and their effect on mitochondrial respiration]. | Eksp Klin Farmakol [rus]
+- new | 1994 | 7945887 |  | [An preliminary study on hepato-protective action of seed oil of Hippophae rhamnoides L. (HR) and mechanism of the action]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 1992 | 1302197 |  | [Protective action of seed oil of Hippophae rhamnoides L. (HR) against experimental liver injury in mice]. | Zhonghua Yu Fang Yi Xue Za Zhi [chi]
+- new | 1991 | 1855919 | Research Support, Non-U.S. Gov't | Prevention of tumour production in rats fed aminopyrine plus nitrite by sea buckthorn juice. | IARC Sci Publ
+- new | 1990 | 2093863 | Case Reports | [Application of "Aekol" preparation for combined treatment of open injuries]. | Ortop Travmatol Protez [rus]
+- new | 1990 | 2350427 |  | [Acute toxicity of flesh oil of Hippophae rhamnoides L. and its protection against experimental hepatic injury]. | Zhongguo Zhong Yao Za Zhi [chi]
+
+### PubMed OBS - 3 hits, 1 not already listed above, 1 new
+- new | 2017 | 28769569 |  | Management of traumatic tympanic membrane perforation: a comparative study. | Ther Clin Risk Manag
+
+### PubMed REV - 94 hits, 20 not already listed above, 16 new
+- new | 2026 | 41868122 | Review | Ethnopharmacology, phytochemistry, and pharmacology of sea buckthorn (Hippophae rhamnoides L.): a comprehensive review. | Front Pharmacol
+- new | 2024 | 38567353 | Review | Traditional Tibetan medicine: therapeutic potential in lung diseases. | Front Pharmacol
+- HELD REF-2319 | 2024 | 39494241 | Review | Research progress of sea buckthorn (Hippophae rhamnoides L.) in prevention and treatment of cardiovascular disease. | Front Cardiovasc Med
+- new | 2024 | 38266946 | Review | Extraction, purification, structural characterization and pharmacological activities of polysaccharides from sea buckthorn (Hippophae rhamnoides L.): A review. | J Ethnopharmacol
+- new | 2024 | 39727928 | Review | Bridging the Gap: Supplements Strategies from Experimental Research to Clinical Applications in Sarcopenic Obesity. | Curr Issues Mol Biol
+- new | 2023 | 37241737 | Review | Food Polyphenols and Type II Diabetes Mellitus: Pharmacology and Mechanisms. | Molecules
+- HELD REF-2323 | 2023 | 35971438 | Review | Phytochemistry and pharmacology of sea buckthorn (Elaeagnus rhamnoides; syn. Hippophae rhamnoides): progress from 2010 to 2021. | Phytochem Rev
+- new | 2023 | 37818015 | Review | Prioritizing strategies for wheat biofortification: Inspiration from underutilized species. | Heliyon
+- new | 2023 | 38027169 | Review/Research Support, Non-U.S. Gov't | Sea buckthorn, its bioactive constituents, and mechanism of action: potential application in female reproduction. | Front Endocrinol (Lausanne)
+- new | 2022 | 36562043 | Review | Phytochemistry, health benefits, and food applications of sea buckthorn (Hippophae rhamnoides L.): A comprehensive review. | Front Nutr
+- new | 2022 | 36615843 | Review | Selected Seeds as Sources of Bioactive Compounds with Diverse Biological Activities. | Nutrients
+- new | 2021 | 34281584 | Review | West meets east: open up a dialogue on phytomedicine. | Chin Med
+- HELD REF-0838 | 2020 | 32502837 | Review | Isorhamnetin: A review of pharmacological effects. | Biomed Pharmacother
+- HELD REF-2324 | 2020 | 32466930 | Research Support, Non-U.S. Gov't/Review | Why is sea buckthorn (Hippophae rhamnoides L.) so exceptional? A review. | Food Res Int
+- new | 2019 | 31643168 | Review | [Sea buckthorn (Hippophaë rhamnoides L.) as a vitamin C treasury]. | Postepy Biochem [pol]
+- new | 2018 | 29662448 | Review | Berry Phenolic Antioxidants - Implications for Human Health? | Front Pharmacol
+- new | 2018 | 29369521 | Review | Brief Challenges on Medicinal Plants: An Eye-Opening Look at Ageing-Related Disorders. | Basic Clin Pharmacol Toxicol
+- new | 2015 | 26448818 | Review | Anti-Aging Potential of Phytoextract Loaded-Pharmaceutical Creams for Human Skin Cell Longetivity. | Oxid Med Cell Longev
+- new | 2006 | 30000918 | Review | Buckthorn. | 
+- new | 1999 | 10552673 | Review | Sea buckthorn products: manufacture and composition. | J Agric Food Chem
+
+### ClinicalTrials.gov - 7 registered studies
+- NCT00739713 | COMPLETED | results=False | NA | Effects of Sea Buckthorn Oil on Dry Eye | conds: Dry Eye Syndromes | intr: Sea buckthorn (Hippophaë rhamnoides) oil, Placebo comparison | pubs: ['20554904:RESULT (new)']
+- NCT05738733 | COMPLETED | results=False | NA | A Clinical Efficacy Study of MsChief Personal Lubricant in Healthy Female Subjects | conds: Healthy Females | intr: MsChief Classic Natural Lubricant, MsChief Ylang Ylang Natural Lubricant, MsChief Vanilla & Citrus N
+- NCT03540186 | UNKNOWN | results=False | NA | Epigenorm Antivir Combined With Acupuncture for the Treatment of Osteoarthritis Patients Who Are Overweight or Obese | conds: Osteoarthritis, Overweight and Obesity | intr: Epigenorm Antivir, Acupuncture
+- NCT06148662 | COMPLETED | results=False | PHASE4 | The Effect of Oral Sprays on Salivary pH | conds: Oral Health | intr: No intervention (negative control), Water (positive control), Dental foam "Biorepair PERIBIOMA", Den | pubs: ['38668005:DERIVED (new)']
+- NCT02140697 | COMPLETED | results=False | PHASE2,PHASE3 | Efficacy and Safety of Hippophae Rhamnoides L. Leaf Extract on Body Fat | conds: Obesity | intr: Hippophae rhamnoides L. Leaf Extract (3g/day), Placebo (3g/day)
+- NCT07082673 | RECRUITING | results=False | NA | The Beneficial Effect on the Bowel Function of a Food Supplement Based on Sea Buckthorn (Hippophae Rhamnoides L.) Extract in Subjects With P | conds: Functional Constipation (FC) | intr: Sea Buckthorn (Hippophae rhamnoides L.) botanical extract 500 mg., Sea buckthorn (Hippophae rhamnoid
+- NCT02412995 | COMPLETED | results=False | EARLY_PHASE1 | The Effects of Sea Buckthorn and Strawberry on Postprandial Glycaemia, Insulinemia and Appetite | conds: Insulin Sensitivity, Glucose Intolerance | intr: Meal sequence 1-2-3, Meal sequence 1-3-2, Meal sequence 2-3-1, Meal sequence 2-1-3
+
+### OpenAlex no-PMID trial-worded - 1185 hits, 51 without PMID, 51 new
+- new | 2026 | 10.26599/fshw.2026.9251139 | article | A randomized, double-blind, placebo-controlled trial of a botanical-based dietary supplement: Regulating postprandial blood glucose by reshaping gut microbiota and metabolism in pr | Food Science and Human Wellness
+- new | 2026 | 10.25258/ijddt.16.70s.48 | article | Review on Medicinal properties of Hippophae rhamnoides (Sea buckthorn) | International Journal of Drug Delivery T
+- new | 2026 | 10.5281/zenodo.24353198 | article | Sea Buckthorn (Hippophae rhamnoides): Omega-7 and Dry Eye | Zenodo (CERN European Organization for N
+- new | 2026 | 10.53365/nrfhh.1279 | article | Sea Buckthorn (Hippophae Rhamnoides L.): Phytochemistry, Nutritional Value and Therapeutic Potential | Natural Resources for Human Health
+- new | 2025 | 10.31989/ffhd.v15i6.1631 | article | Seaberry ursolic acid improves daytime frequency and urgency of urination in healthy Japanese subjects: A randomized, placebo-controlled, double-blind trial | Functional Foods in Health and Disease
+- new | 2025 | 10.1016/j.tifs.2025.105454 | article | Is sea buckthorn berry a sustainable intervention for the modulation of cardiometabolic risk factors? An updated, critical synthesis of randomized controlled trials with meta-analy | Trends in Food Science & Technology
+- new | 2025 | 10.9734/ajarr/2025/v19i71093 | article | Sea Buckthorn (Hippophae rhamnoides): A Comprehensive Review of Its Phytochemistry and Pharmacological Properties | Asian Journal of Advanced Research and R
+- new | 2025 | 10.5281/zenodo.17953757 | article | SEA BUCKTHORN (Hippophae rhamnoides): A COMPREHENSIVE REVIEW OF ITS NUTRITIONAL AND THERAPEUTIC POTENTIAL | Zenodo (CERN European Organization for N
+- new | 2025 | 10.12681/jhvms.38818 | article | Effect of dietary inclusion of Sea – buckthorn (Hippophae rhamnoides) on health and productivity of mink | Journal of the Hellenic Veterinary Medic
+- new | 2022 | 10.55705/cmbr.2022.330326.1020 | article | Therapeutic potential of Seabuckthorn (Hippophae rhamnoides L.) in medical sciences | Cellular Molecular and Biomedical Report
+- new | 2021 | 10.25083/rbl/26.4/2869-2878 | article | Evaluation of the antiviral and immunomodulatory activity of nutritional supplement formula in a randomized, double-blind, placebo-controlled clinical trial | ROMANIAN BIOTECHNOLOGICAL LETTERS
+- new | 2021 | https://openalex.org/W3200469566 | article | A comparative study of the effect of Hippophae Rhamnoides ointment and silver sulfadiazine ointment on burn healing period: A triple-blind randomized clinical trial | حیات
+- new | 2021 | 10.2478/ausal-2021-0003 | article | Physiological benefits of a honeydew-based functional food fortified with selected bioactive agents justified by trials | Acta Universitatis Sapientiae Alimentari
+- new | 2020 | 10.1093/cdn/nzaa061_107 | article | Effects of Sea Buckthorn Whole Fruit Puree on Plasma Glucose in People with Impaired Glucose Regulation: A Randomized Crossover Intervention Study | Current Developments in Nutrition
+- new | 2020 | 10.31925/farmacia.2020.3.21 | article | EVIDENCE-BASED USE OF SEA BUCKTHORN FRESH JUICE FOR PATIENTS WITH TRAUMATIC BRAIN INJURY. A PILOT STUDY | FARMACIA
+- new | 2019 | 10.1016/j.atherosclerosis.2019.06.882 | article | Systematic Review On The Potential Of Sea Buckthorn HippophaË Rhamnoides L. For A Possible Novel Enriched Bread For The Patients With Cardiovascular Diseases | Atherosclerosis
+- new | 2017 | 10.5455/ijlr.20170812040829 | article | Assessment of Wound Healing Potential of Hippophae Rhamnoides Bark Extract In Murid Model | International Journal of Livestock Resea
+- new | 2016 | 10.1016/j.tifs.2016.11.007 | review | Effect of sea buckthorn (Hippophae rhamnoides L.) on blood lipid profiles: A systematic review and meta-analysis from 11 independent randomized controlled trials | Trends in Food Science & Technology
+- new | 2016 | 10.1080/23311932.2015.1128519 | article | Bioactive profile, health benefits and safety evaluation of sea buckthorn (Hippophae rhamnoides L.): A review | Cogent Food & Agriculture
+- new | 2016 | 10.1007/s40009-016-0489-2 | article | An Improved Method for Propagation of Seabuckthorn (Hippophae rhamnoides L.) by Cuttings | National Academy Science Letters
+- new | 2015 | 10.17140/droj-1-116 | article | Combination Treatment with a Novel Polyherbal Formulation and Metformin: A Single Blind Placebo-Controlled Study in Patients with T2DM and Cognitive Impairments | Diabetes Research - Open Journal
+- new | 2015 | 10.1016/j.jff.2015.04.041 | article | Effects of sea buckthorn (Hippophaë rhamnoides) juice and L-quebrachitol on type 2 diabetes mellitus in db/db mice | Journal of Functional Foods
+- new | 2015 | https://openalex.org/W2278169672 | article | EFFECT OF DIFFERENT TREATMENTS ON HIPPOPHAE RHAMNOIDES SEED GERMINATION IN LABORATORY | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2014 | 10.1016/j.eujim.2014.07.016 | article | The effect of Elaeagnus angustifolia L. whole fruit and medulla powder on women with osteoarthritis of the knee: A randomized controlled clinical trial | European Journal of Integrative Medicine
+- new | 2013 | 10.4314/tjpr.v11i6.12 | article | Anti-Aging Effects of Hippophae rhamnoides Emulsion on Human Skin | Tropical Journal of Pharmaceutical Resea
+- new | 2013 | 10.5455/vetworld.2013.596-600 | article | Safety evaluation of seabuckthorn (Hippophae rhamnoides) leaves in Japanese quail | Veterinary World
+- new | 2012 | 10.1016/j.chnaes.2011.12.005 | article | Effects of climatic and edaphic factors on arbuscular mycorrhizal fungi in the rhizosphere of Hippophae rhamnoides in the Loess Plateau, China | Acta Ecologica Sinica
+- new | 2012 | https://openalex.org/W2357996994 | article | Technical Study of the Microwave Extraction of the Total Flavonoids from Hippophae Rhamnoides | Shijie zhongxiyi jiehe zazhi
+- new | 2011 | 10.5897/jmpr.9000703 | review | Hippophae rhamnoides Linn. for treatment of diabetes mellitus: A review | Journal of Medicinal Plants Research
+- new | 2011 | https://openalex.org/W2371856155 | article | Pollution Control Technology for Dry Shrink on Hippophae rhamnoides | Protection Forest Science and Technology
+- new | 2010 | 10.1007/s11632-010-0012-7 | article | Molecular identification of sex in Hippophae rhamnoides L. using isozyme and RAPD markers | 中国林业科技：英文版
+- new | 2010 | 10.15835/nbha3824760 | article | Several Lipophilic Components of Five Elite Genotypes of Romanian Seabuckthorn (Hippophae rhamnoides subs. carpatica) | Notulae Botanicae Horti Agrobotanici Clu
+- new | 2009 | 10.1016/j.ijcard.2009.09.122 | article | Total flavones of Hippophae rhamnoides L. for essential hypertension: a systematic review of randomized controlled trials | International Journal of Cardiology
+- new | 2009 | https://openalex.org/W2351638978 | article | Total Flavones of Hippophae Rhamnoides L. for Essential Hypertension:A Systematic Review of Randomized Controlled Trials | Zhongguo xunzheng yixue zazhi
+- new | 2008 | https://openalex.org/W2369964383 | article | The Effect of Total Flavones of Hippophae Rhamnoides on Carrageenan-induced Thrombopoiesis in Rats | Lishizhen Medicine and Materia Medica Re
+- new | 2007 | https://openalex.org/W2376789671 | article | Growth Characters and Their Correlations with Fruit Yield of Thirteen Large Berry Cultivars of Sea Buckthorn in Different Trial Plots | Forest Research Open Access
+- new | 2007 | https://openalex.org/W2347351970 | article | RAPD analysis of 24 big grain sea-buckthorns (Hippophae rhamnoides) | Guoshu xuebao
+- new | 2006 | https://openalex.org/W2399927553 | article | The Effects of Total Flavones of Hippophae Rhamnoides L. on Cardiac function and Hemodynamics of Normal Subjects | 
+- new | 2006 | https://openalex.org/W2781874197 | article | Urinary excretion of bioactive compounds and several of their metabolites after consumption of sea buckthorn juice in young healthy volunteers | 
+- new | 2005 | https://openalex.org/W2369626621 | article | Effect of the Total Flavones of Hippophae Rhamnoides L. on Nitric Oxide and Endothelin in Hypertensives | Huaxi yixue
+- new | 2005 | https://openalex.org/W2351853451 | article | THE ANTIHYPERGLYCEMIC EFFECT OF FLAVONOIDS FROM HIPPOPHAE RHAMNOIDES L.ON DIABETIC RATS INDUCED BY STREPTOZOTOCIN | Acta Nutrimenta Sinica
+- new | 2004 | https://openalex.org/W2363357493 | article | Randomized control trial of total flavones of Hippophae rhamnoides L.in patients with middle-severe hypertension | Huaxi yaoxue zazhi
+- new | 2004 | 10.1111/j.1601-5223.1998.00045.x | article | Genetic Sex Determination and RAPD Marker Segregation in the Dioecious Species Sea Buckthorn (Hippophae Rhamnoides L.) | Hereditas
+- new | 2003 | https://openalex.org/W3027469113 | article | New start for vegetable variety trials | Jukuri (Natural Resources Institute Finl
+- new | 2003 | https://openalex.org/W2376930455 | article | Efficacy of total flavones of hippophae, rhamnoides L, in the treatment of hyperlipemia | 
+- new | 2003 | https://openalex.org/W2380460765 | article | Cultivation Values and growth seedlings technique of Russian Hippophae rhamnoides L. | Journal of Agricultural Science Yanbian 
+- new | 2002 | https://openalex.org/W2351780472 | article | Effect of Total Flavones of Hippophae Rhamnoides L.(TFH) on the Target Organs of Patients with Essentiol Hypertension | Chinese Journal of Hypertension
+- new | 1999 | 10.1046/j.1365-294x.1999.00631.x | article | Population genetic structure in the dioecious pioneer plant species Hippophae rhamnoides investigated by random amplified polymorphic DNA (RAPD) markers | Molecular Ecology
+- new | 1995 | 10.1007/978-94-015-8394-7_161 | book-chapter | Neutral Lipids of Mature and Developing Sea Buckthorn (Hippophaë Rhamnoides L.) Fruits | Springer eBooks
+- new | 1973 | 10.1007/bf00422203 | article | The formation of vesicles in the developmental cycle of the nodular endophyte of Hippophaë rhamnoides L. | Archives of Microbiology
+- new | 1958 | 10.1007/bf00803349 | article | The effect of extracts of hippophae rhamnoides upon the development of tumor transplants in animals | Bulletin of Experimental Biology and Med
+
+## humulus-lupulus (Humulus lupulus) - name clause: "Humulus lupulus"[tiab] OR "hop extract"[tiab] OR "hops extract"[tiab] OR "hops"[ti] OR "xanthohumol"[ti] OR "8-prenylnaringenin"[ti]
+
+### PubMed HT - 108 hits, 108 not already listed above, 101 new
+- new | 2026 | 42494803 |  | Bitter hop nutraceutical stimulates fat mass loss while preserving muscle mass in a cohort of individuals with overweight or obesity receiving diet and exercise advice. | Obes Pillars
+- new | 2026 | 41834265 | Randomized Controlled Trial/Clinical Trial, Phase II/Research Support, N.I.H., Extramural | Safety and Tolerability of Xanthohumol in Adults With Crohn's Disease: Results of a Triple-Masked, Randomized, Placebo-Controlled Phase 2 Trial. | Mol Nutr Food Res
+- new | 2026 | 41793519 | Randomized Controlled Trial | A single oral dose of an iso-alpha acids rich hop extract dampens the lipoteichoic acid mediated immune response of monocytes in healthy individuals. | Eur J Nutr
+- new | 2026 | 41723719 | Randomized Controlled Trial | The Bioavailability of Xanthohumol in Humans and the Influence of Formulation and Dose: Randomized Controlled Trial Data. | Mol Nutr Food Res
+- new | 2026 | 43007033 |  | Effects of Hops β-Acids Extract on the Structure and Composition of Mature and Immature Oral Biofilms. | Compend Contin Educ Dent
+- new | 2026 | 42138225 | Clinical Trial, Phase II/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Modulation of Microbiota-Derived Bile Acids Linked to Symptom Amelioration in Crohn's Disease: Insights From a Randomized Clinical Trial With Xanthohumol Supplementation. | Mol Nutr Food Res
+- new | 2026 | 43007035 |  | Impact of Hops β-Acids Extract on eDNA in Oral Biofilm Extracellular Polymeric Substances Revealed by Molecular Probes, Microarray Polymer Profiling, and Scanning Electron Microsco | Compend Contin Educ Dent
+- new | 2026 | 41818307 | Research Support, Non-U.S. Gov't | Beneficial Effect of Xanthohumol Supplementation on the Clinical Course of IgA Nephropathy Refractory to Conventional Treatment-A Prospective, Open-Label Case Series. | Mol Nutr Food Res
+- new | 2026 | 43007037 |  | Hops β-Acids Extract Enhances Toothpaste's Efficacy in Morning Breath Reduction: Insights From Pooled Analyses of In Vivo Studies. | Compend Contin Educ Dent
+- new | 2026 | 43082332 |  | Effectiveness of a Novel Hops (8-Prenylnaringenin) and Cimicifuga-Based Combination Food Supplement in Alleviating Climacteric Symptoms and Enhancing Quality of Life in Postmenopau | Clin Pract
+- new | 2026 | 43007034 | Randomized Controlled Trial | Enhanced Dental Biofilm Removal With Toothpastes Containing Hops β-Acids Extract: In Vivo Studies on Oral Hygiene. | Compend Contin Educ Dent
+- new | 2025 | 40427771 |  | Humulus lupulus Promoting Osteoblast Activity and Bone Integrity: Effects and Mechanisms. | Biology (Basel)
+- new | 2025 | 40773451 | Research Support, Non-U.S. Gov't | Virus and viroid diversity in hops, investigating the German hop virome. | PLoS One
+- new | 2025 | 39637948 | Review | Is there a place for natural agents with anti-inflammatory and antioxidative properties in critically ill patients? Potential usefulness of Xanthohumol. | Pharmacol Ther
+- new | 2025 | 40462685 | Randomized Controlled Trial | Effects of a Valerian-Hops Extract Combination (Ze 91019) on Sleep Duration and Daytime Cognitive and Psychological Parameters in Occasional Insomnia: A Randomized Controlled Feasi | Brain Behav
+- new | 2024 | 39071168 |  | Gastrointestinal delivery of bitter hop extract reduces appetite and food cravings in healthy adult women undergoing acute fasting. | Obes Pillars
+- new | 2024 | 38358253 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Research Support, N.I.H., Extramural | Gut enterotype-dependent modulation of gut microbiota and their metabolism in response to xanthohumol supplementation in healthy adults. | Gut Microbes
+- new | 2023 | 37101856 | Randomized Controlled Trial | Effect of Humulus lupulus L. (Hop) on Postmenopausal Sexual Dysfunction: A Randomized Clinical Trial. | Int J Clin Pract
+- new | 2023 | 36508996 | Randomized Controlled Trial | Humulus lupus extract rich in xanthohumol improves the clinical course in critically ill COVID-19 patients. | Biomed Pharmacother
+- new | 2023 | 37691315 |  | Combination of Soy Isoflavones, 8-Prenylnaringenin and Melatonin Improves Hot Flashes and Health-Related Quality of Life Outcomes in Postmenopausal Women: Flavie Study. | J Menopausal Med
+- new | 2023 | 37375599 | Randomized Controlled Trial | Effect of a Hop Extract Standardized in 8-Prenylnaringenin on Bone Health and Gut Microbiome in Postmenopausal Women with Osteopenia: A One-Year Randomized, Double-Blind, Placebo-C | Nutrients
+- new | 2023 | 37253812 |  | Breast cancer prevention with liquiritigenin from licorice through the inhibition of aromatase and protein biosynthesis in high-risk women's breast tissue. | Sci Rep
+- new | 2023 | 36781111 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of intraduodenal or intragastric administration of a bitter hop extract (Humulus lupulus L.), on upper gut motility, gut hormone secretion and energy intake in healthy-weig | Appetite
+- new | 2023 | 37721120 | Randomized Controlled Trial | The Pharmacokinetics of Individual Conjugated Xanthohumol Metabolites Show Efficient Glucuronidation and Higher Bioavailability of Micellar than Native Xanthohumol in a Randomized, | Mol Nutr Food Res
+- new | 2022 | 35857130 | Clinical Trial | Oral intake of xanthohumol attenuates lipoteichoic acid-induced inflammatory response in human PBMCs. | Eur J Nutr
+- new | 2022 | 35705607 | Clinical Trial, Phase II/Multicenter Study | HOPS-R01 phase II trial evaluating neoadjuvant S-1 therapy for resectable pancreatic adenocarcinoma. | Sci Rep
+- HELD REF-1729 | 2022 | 35337147 |  | The Anti-Inflammatory Effect of Humulus lupulus Extract In Vivo Depends on the Galenic System of the Topical Formulation. | Pharmaceuticals (Basel)
+- new | 2022 | 36273173 | Clinical Trial Protocol | Xanthohumol microbiome and signature in adults with Crohn's disease (the XMaS trial): a protocol for a phase II triple-masked, placebo-controlled clinical trial. | Trials
+- new | 2022 | 36293555 | Randomized Controlled Trial | A Xanthohumol-Rich Hop Extract Diminishes Endotoxin-Induced Activation of TLR4 Signaling in Human Peripheral Blood Mononuclear Cells: A Study in Healthy Women. | Int J Mol Sci
+- new | 2022 | 35102364 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | An extract of hops (Humulus lupulus L.) modulates gut peptide hormone secretion and reduces energy intake in healthy-weight men: a randomized, crossover clinical trial. | Am J Clin Nutr
+- new | 2021 | 34399063 | Multicenter Study/Randomized Controlled Trial | Efficacy and Safety of a Standardized Soy and Hop Extract on Menopausal Symptoms: A 12-Week, Multicenter, Randomized, Double-Blind, Placebo-Controlled Clinical Trial. | J Altern Complement Med
+- new | 2021 | 34706595 |  | Proposed Assessment of Cough and Dyspnea in Children via Telemedicine in Coronavirus Disease 2019 Era: A Web Application-HOPS. | Clin Pediatr (Phila)
+- new | 2021 | 33629812 | Clinical Trial, Phase I/Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S. | Xanthohumol Microbiome and Signature in Healthy Adults (the XMaS Trial): Safety and Tolerability Results of a Phase I Triple-Masked, Placebo-Controlled Clinical Trial. | Mol Nutr Food Res
+- new | 2021 | 34510448 | Multicenter Study/Randomized Controlled Trial | Comparison of the real-world effectiveness of vertical versus lateral functional hemispherotomy techniques for pediatric drug-resistant epilepsy: A post hoc analysis of the HOPS st | Epilepsia
+- new | 2020 | 33106168 | Published Erratum | Correction to: Xanthohumol microbiome and signature in healthy adults (the XMaS trial): a phase I triple-masked, placebo-controlled clinical trial. | Trials
+- new | 2020 | 33028396 | Clinical Trial Protocol | Xanthohumol microbiome and signature in healthy adults (the XMaS trial): a phase I triple-masked, placebo-controlled clinical trial. | Trials
+- new | 2020 | 32285669 | Clinical Trial, Phase I | Pharmacokinetic Interactions of a Hop Dietary Supplement with Drug Metabolism in Perimenopausal and Postmenopausal Women. | J Agric Food Chem
+- new | 2020 | 31837629 |  | Neurocognitive challenged hops reduced functional performance relative to traditional hop testing. | Phys Ther Sport
+- new | 2020 | 33246482 | Clinical Trial Protocol | Hydroxyurea Optimization through Precision Study (HOPS): study protocol for a randomized, multicenter trial in children with sickle cell anemia. | Trials
+- new | 2020 | 31689341 | Research Support, U.S. Gov't, P.H.S. | Chlamydia and Gonorrhea Incidence and Testing Among Patients in the Human Immunodeficiency Virus Outpatient Study (HOPS), 2007-2017. | Clin Infect Dis
+- new | 2019 | 30634461 |  | Hop Extract Acts as an Antioxidant with Antimicrobial Effects against Propionibacterium Acnes and Staphylococcus Aureus. | Molecules
+- new | 2019 | 31261419 | Clinical Trial/Multicenter Study | Cucurbita pepo-Rhus aromatica-Humulus lupulus Combination Reduces Overactive Bladder Symptoms in Women - A Noninterventional Study. | Planta Med
+- new | 2019 | 31766216 | Randomized Controlled Trial | New Zealand Bitter Hops Extract Reduces Hunger During a 24 h Water Only Fast. | Nutrients
+- new | 2019 | 31306735 | Clinical Trial, Phase II/Multicenter Study | Phase 2 Study of Neoadjuvant Treatment of Sequential S-1-Based Concurrent Chemoradiation Therapy Followed by Systemic Chemotherapy with Gemcitabine for Borderline Resectable Pancre | Int J Radiat Oncol Biol Phys
+- new | 2019 | 30392773 | Research Support, Non-U.S. Gov't | Introducing a novel test with unanticipated medial/lateral diagonal hops that reliably captures hip and knee kinematics in healthy women. | J Biomech
+- new | 2018 | 29790489 |  | Inhibitory effect of hop fractions against Gram-positive multi-resistant bacteria. A pilot study. | Biomed Pap Med Fac Univ Palacky Olomouc 
+- new | 2018 | 30577513 | Randomized Controlled Trial | β-Eudesmol, an Oxygenized Sesquiterpene, Reduces the Increase in Saliva 3-Methoxy-4-Hydroxyphenylglycol After the "Trier Social Stress Test" in Healthy Humans: A Randomized, Double | Nutrients
+- new | 2018 | 29363261 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The Oral Bioavailability of 8-Prenylnaringenin from Hops (Humulus Lupulus L.) in Healthy Women and Men is Significantly Higher than that of its Positional Isomer 6-Prenylnaringenin | Mol Nutr Food Res
+- new | 2018 | 28337590 | Clinical Trial | ACL-reconstructed and ACL-deficient individuals show differentiated trunk, hip, and knee kinematics during vertical hops more than 20 years post-injury. | Knee Surg Sports Traumatol Arthrosc
+- new | 2018 | 30376838 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The relationship between the effect of matured hop extract and physical activity on reducing body fat: re-analysis of data from a randomized, double-blind, placebo-controlled paral | Nutr J
+- new | 2018 | 29322620 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Rice Protein Matrix Enhances Circulating Levels of Xanthohumol Following Acute Oral Intake of Spent Hops in Humans. | Mol Nutr Food Res
+- new | 2017 | 28131837 | Randomized Controlled Trial | Acute improvement of endothelial functions after oral ingestion of isohumulones, bitter components of beer. | Biochem Biophys Res Commun
+- HELD REF-1732 | 2017 | 28742505 | Randomized Controlled Trial | Effects of a hops (Humulus lupulus L.) dry extract supplement on self-reported depression, anxiety and stress levels in apparently healthy young adults: a randomized, placebo-contr | Hormones (Athens)
+- new | 2017 | 28912088 |  | Sip and spit or sip and swallow: Choice of method differentially alters taste intensity estimates across stimuli. | Physiol Behav
+- new | 2017 | 28812892 | Research Support, N.I.H., Extramural | DESIGNER Extracts as Tools to Balance Estrogenic and Chemopreventive Activities of Botanicals for Women's Health. | J Nat Prod
+- new | 2017 | 27923802 | Clinical Trial | Xanthohumol Prevents DNA Damage by Dietary Carcinogens: Results of a Human Intervention Trial. | Cancer Prev Res (Phila)
+- new | 2017 | 28218661 | Randomized Controlled Trial | Exploring the Effect of Lactium™ and Zizyphus Complex on Sleep Quality: A Double-Blind, Randomized Placebo-Controlled Trial. | Nutrients
+- HELD REF-0841 | 2016 | 27677719 | Review | Botanicals and Their Bioactive Phytochemicals for Women's Health. | Pharmacol Rev
+- new | 2016 | 27105715 |  | Protocol for systematic review and meta-analysis: hop (Humulus lupulus L.) for menopausal vasomotor symptoms. | BMJ Open
+- HELD REF-3594 | 2016 | 25982391 | Randomized Controlled Trial | The effect of Hop (Humulus lupulus L.) on early menopausal symptoms and hot flashes: A randomized placebo-controlled trial. | Complement Ther Clin Pract
+- new | 2016 | 26960416 | Randomized Controlled Trial | Matured hop extract reduces body fat in healthy overweight humans: a randomized, double-blind, placebo-controlled parallel group study. | Nutr J
+- new | 2016 | 26835128 |  | Effects of conditioning hops on drop jump and sprint performance: a randomized crossover pilot study in elite athletes. | BMC Sports Sci Med Rehabil
+- new | 2016 | 26840505 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Impact of xanthohumol (a prenylated flavonoid from hops) on DNA stability and other health-related biochemical parameters: Results of human intervention trials. | Mol Nutr Food Res
+- new | 2016 | 27781435 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Detecting Beer Intake by Unique Metabolite Patterns. | J Proteome Res
+- new | 2015 | 26770167 |  | Nutritional Approach for Relief of Joint Discomfort: A 12-week, Open-case Series and Illustrative Case Report. | Integr Med (Encinitas)
+- new | 2014 | 24942257 | Multicenter Study/Research Support, U.S. Gov't, P.H.S. | Factors associated with mortality among persistently viraemic triple-antiretroviral-class-experienced patients receiving antiretroviral therapy in the HIV Outpatient Study (HOPS). | J Antimicrob Chemother
+- new | 2014 | 23597931 | Comparative Study/Research Support, Non-U.S. Gov't | Comparison between clinical diagnosis and CSF biomarkers of Alzheimer disease in elderly patients with late onset psychosis: Helsinki Old Age Psychosis Study (HOPS). | Am J Geriatr Psychiatry
+- new | 2014 | 25045111 | Comparative Study/Research Support, N.I.H., Extramural | Pharmacokinetics of prenylated hop phenols in women following oral administration of a standardized extract of hops. | Mol Nutr Food Res
+- new | 2013 | 24147061 | Randomized Controlled Trial | Repetitive hops induce postactivation potentiation in triceps surae as well as an increase in the jump height of subsequent maximal drop jumps. | PLoS One
+- HELD REF-4203 | 2013 | 23543804 | Comparative Study/Randomized Controlled Trial | Efficacy and safety of a polyherbal sedative-hypnotic formulation NSF-3 in primary insomnia in comparison to zolpidem: a randomized controlled trial. | Indian J Pharmacol
+- new | 2013 | 24177342 | Validation Study | The rapid identification and quantification of iso-α-acids and reduced iso-α-acids in blood using UHPLC-MS/MS: validation of a novel marker for beer consumption. | Anal Bioanal Chem
+- new | 2012 | 22815680 | Clinical Trial/Research Support, Non-U.S. Gov't | The sedative effect of non-alcoholic beer in healthy female nurses. | PLoS One
+- new | 2012 | 22690252 |  | Alternative methods for the treatment of post-menopausal troubles. | GMS Health Technol Assess
+- new | 2012 | 25355991 |  | Evaluation of the Homework, Organization, and Planning Skills (HOPS) Intervention for Middle School Students with ADHD as Implemented by School Mental Health Providers. | School Psych Rev
+- new | 2011 | 21614939 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Randomized trial of the effect of an integrative medicine approach to the management of asthma in adults on disease-related quality of life and pulmonary function. | Altern Ther Health Med
+- new | 2011 | 21540742 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Factors associated with initiation of prolonged analgesic use among patients in the HIV Outpatient Study (HOPS). | Clin J Pain
+- new | 2011 | 20367803 | Multicenter Study/Research Support, U.S. Gov't, P.H.S. | Treatment of hepatitis C virus (HCV) infection in patients coinfected with HIV in the HIV Outpatient Study (HOPS), 1999-2007. | J Viral Hepat
+- new | 2010 | 20167461 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A randomized, double-blind, placebo-controlled, cross-over pilot study on the use of a standardized hop extract to alleviate menopausal discomforts. | Phytomedicine
+- new | 2010 | 21122628 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Subjects with elevated LDL cholesterol and metabolic syndrome benefit from supplementation with soy protein, phytosterols, hops rho iso-alpha acids, and Acacia nilotica proanthocya | J Clin Lipidol
+- new | 2010 | 20569455 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A dietary supplement to improve the quality of sleep: a randomized placebo controlled trial. | BMC Complement Altern Med
+- new | 2010 | 20628685 | Review | Treating primary insomnia - the efficacy of valerian and hops. | Aust Fam Physician
+- new | 2010 | 20721358 |  | Hop and Acacia Phytochemicals Decreased Lipotoxicity in 3T3-L1 Adipocytes, db/db Mice, and Individuals with Metabolic Syndrome. | J Nutr Metab
+- new | 2010 | 19913311 | Comparative Study/Letter/Research Support, Non-U.S. Gov't | Interaction between warfarin and Korean red ginseng in patients with cardiac valve replacement. | Int J Cardiol
+- new | 2010 | 20722793 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Medicinal plants as alternative treatments for female sexual dysfunction: utopian vision or possible treatment in climacteric women? | J Sex Med
+- new | 2009 | 19528867 | Randomized Controlled Trial | The acute effects of heavy back squats on mechanical variables during a series of bilateral hops. | J Strength Cond Res
+- new | 2008 | 18559301 | Randomized Controlled Trial | Sleep improving effects of a single dose administration of a valerian/hops fluid extract - a double blind, randomized, placebo-controlled sleep-EEG study in a parallel design using | Eur J Med Res
+- new | 2008 | 18358504 | Clinical Trial | Safety, efficacy and anti-inflammatory activity of rho iso-alpha-acids from hops. | Phytochemistry
+- new | 2007 | 18066133 | Clinical Trial/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Clinical safety and efficacy of NG440: a novel combination of rho iso-alpha acids from hops, rosemary, and oleanolic acid for inflammatory conditions. | Can J Physiol Pharmacol
+- HELD REF-2451 | 2007 | 17486686 | Randomized Controlled Trial | A randomized, double blind, placebo-controlled, prospective clinical study to demonstrate clinical efficacy of a fixed valerian hops extract combination (Ze 91019) in patients suff | Phytother Res
+- new | 2007 | 17521469 | Research Support, Non-U.S. Gov't | Microbial and dietary factors associated with the 8-prenylnaringenin producer phenotype: a dietary intervention trial with fifty healthy post-menopausal Caucasian women. | Br J Nutr
+- HELD REF-3595 | 2006 | 16321485 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A first prospective, randomized, double-blind, placebo-controlled study on the use of a standardized hop extract to alleviate menopausal discomforts. | Maturitas
+- new | 2006 | 16618016 | Clinical Trial | Open, non-controlled clinical studies to assess the efficacy and safety of a medical device in form of gel topically and intravaginally used in postmenopausal women with genital at | Arzneimittelforschung
+- new | 2006 | 16772450 | Clinical Trial/Research Support, Non-U.S. Gov't | The prenylflavonoid isoxanthohumol from hops (Humulus lupulus L.) is activated into the potent phytoestrogen 8-prenylnaringenin in vitro and in the human intestine. | J Nutr
+- new | 2006 | 16934044 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Pharmacokinetics and systemic endocrine effects of the phyto-oestrogen 8-prenylnaringenin after single oral doses to postmenopausal women. | Br J Clin Pharmacol
+- new | 2006 | 17133215 | Clinical Trial/Letter/Research Support, U.S. Gov't, P.H.S. | Renal function in patients receiving tenofovir with ritonavir/lopinavir or ritonavir/atazanavir in the HIV Outpatient Study (HOPS) cohort. | J Acquir Immune Defic Syndr
+- new | 2005 | 16335333 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Valerian-hops combination and diphenhydramine for treating insomnia: a randomized placebo-controlled clinical trial. | Sleep
+- new | 2004 | 15178687 | Clinical Trial/Randomized Controlled Trial | Isohumulones, bitter acids derived from hops, activate both peroxisome proliferator-activated receptor alpha and gamma and reduce insulin resistance. | J Biol Chem
+- new | 2004 | 15546807 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of lozenge containing lavender oil, extracts from hops, lemon balm and oat on electrical brain activity of volunteers. | Eur J Med Res
+- new | 2004 | 15254851 | Clinical Trial/Randomized Controlled Trial | The fixed combination of valerian and hops (Ze91019) acts via a central adenosine mechanism. | Planta Med
+- new | 2002 | 12587700 | Research Support, U.S. Gov't, P.H.S. | A preliminary RAPD-PCR analysis of Cimicifuga species and other botanicals used for women's health. | Phytomedicine
+- new | 2000 | 11003973 |  | Effect of a fixed valerian-Hop extract combination (Ze 91019) on sleep polygraphy in patients with non-organic insomnia: a pilot study. | Eur J Med Res
+- new | 2000 | 10651600 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Discontinuation of chemoprophylaxis against Pneumocystis carinii pneumonia in patients with HIV infection. HIV Outpatient Study (HOPS) Investigators. | Ann Intern Med
+- new | 2000 | 10799347 | Clinical Trial/Controlled Clinical Trial | Pharmacodynamic effects of valerian and hops extract combination (Ze 91019) on the quantitative-topographical EEG in healthy volunteers. | Eur J Med Res
+- new | 1999 | 10475534 | Multicenter Study/Research Support, U.S. Gov't, P.H.S. | Changing conditions and treatments in a dynamic cohort of ambulatory HIV patients: the HIV outpatient study (HOPS). | Ann Epidemiol
+- new | 1998 | 9768629 | Multicenter Study/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Pneumocystis carinii pneumonia incidence and chemoprophylaxis failure in ambulatory HIV-infected patients. HIV Outpatient Study (HOPS) Investigators. | J Acquir Immune Defic Syndr Hum Retrovir
+- new | 1998 | 9757514 | Clinical Trial/Comparative Study/Randomized Controlled Trial | [Comparative study for assessing quality of life of patients with exogenous sleep disorders (temporary sleep onset and sleep interruption disorders) treated with a hops-valarian pr | Wien Med Wochenschr [ger]
+- new | 1997 | 9178221 | Research Support, Non-U.S. Gov't | Head-trunk coordination during hops using one or two feet in children and adults. | J Vestib Res
+- new | 1996 | 9982247 |  | Crossover in tunneling hops in systems of strongly localized electrons. | Phys Rev B Condens Matter
+
+### PubMed SR - 8 hits, 6 not already listed above, 6 new
+- new | 2026 | 43067361 |  | Appetite regulating and metabolic effects of bitter melon (Momordica charantia), gurmar (Gymnema sylvestre), hops (Humulus lupulus) and Caralluma (Caralluma fimbriata): A systemati | Appetite
+- new | 2026 | 41735208 | Systematic Review | The Anti-Aging Benefits of Phytoestrogens: Insights and Evidence. | Curr Med Chem
+- new | 2025 | 40872530 | Review | Humulus lupulus (Hop)-Derived Chemical Compounds Present Antiproliferative Activity on Various Cancer Cell Types: A Meta-Regression Based Panoramic Meta-Analysis. | Pharmaceuticals (Basel)
+- new | 2023 | 37631050 |  | Analysis of Safety Concerns on Herbal Products with Assumed Phytoestrogenic Activity. | Pharmaceuticals (Basel)
+- new | 2021 | 33670177 | Systematic Review | The Promising Ability of Humulus lupulus L. Iso-α-acids vs. Diabetes, Inflammation, and Metabolic Syndrome: A Systematic Review. | Molecules
+- new | 2020 | 32155342 | Meta-Analysis/Research Support, Non-U.S. Gov't | The Genomics of Cannabis and Its Close Relatives. | Annu Rev Plant Biol
+
+### PubMed SAFE - 205 hits, 167 not already listed above, 165 new
+- new | 2026 | 42280732 | Review | Humulus lupulus L. in Animal Nutrition: Phytochemical Profile, Bioactive Properties, and Applications as a Functional Feed Additive-A Comprehensive Review. | Plants (Basel)
+- new | 2026 | 41453548 |  | Xanthohumol ameliorates OVA-induced allergic asthma by inhibiting AIM2 inflammasome activation. | J Ethnopharmacol
+- new | 2026 | 41072866 | Review | The evolving role of Hospital Oncology Pharmacists (HOPs) in assessing therapeutic innovations and managing toxicities in cancer care. | Ann Pharm Fr
+- new | 2026 | 42280329 |  | Early Metabolic and Oxidative Effects of Hop Extract, Alendronate, and Their Combination Across Tissues in an Estrogen-Deficient Rat Model: An Exploratory Study. | Nutrients
+- new | 2026 | 41807782 | Research Support, Non-U.S. Gov't | Interindividual variability in gut microbial formation of the hop phytoestrogen 8-prenylnaringenin results in elevated but sub-toxic internal exposures. | Arch Toxicol
+- new | 2026 | 43062516 |  | Supercritical CO₂ extracts of two Humulus lupulus L. varieties as sustainable acaricidal agents against Varroa destructor: an in vitro study. | Exp Appl Acarol
+- new | 2025 | 41226386 |  | Xanthohumol Triggers Pyroptotic in Prostate Cancer Cells via the Caspase-3/GSDME Signaling Pathway. | Int J Mol Sci
+- new | 2025 | 41011595 | Review | Advancing Brain Health Naturally: β-Caryophyllene and Xanthohumol as Neuroprotective Agents. | Molecules
+- new | 2025 | 40725169 |  | Abscisic Acid Enhances Ex Vitro Acclimatization Performance in Hop (Humulus lupulus L.). | Int J Mol Sci
+- new | 2025 | 40710352 |  | Spent Hop (Humulus lupulus L.) Extract and Its Flaxseed Polysaccharide-Based Encapsulates Attenuate Inflammatory Bowel Diseases Through the Nuclear Factor-Kappa B, Extracellular Si | Cells
+- new | 2025 | 39893852 |  | Targeting KEAP1-mediated IKKβ degradation strategy for colitis-associated colorectal carcinogenesis: The potential of xanthohumol. | Biomed Pharmacother
+- new | 2024 | 38394733 |  | Xanthohumol ameliorates drug-induced hepatic ferroptosis via activating Nrf2/xCT/GPX4 signaling pathway. | Phytomedicine
+- new | 2024 | 38151096 |  | Occupational hops allergy with nonspecific lipid transfer protein sensitization: Cross-reactivity with food nonspecific lipid transfer protein. | Ann Allergy Asthma Immunol
+- new | 2024 | 38597376 | Comparative Study | Comparison of in vitro Toxicities of 8-Prenylnaringenin, Tartrazine and 17β-Estradiol, Representatives of Natural and Synthetic Estrogens, in Rat and Human Hepatoma Cell Lines. | Endocr Res
+- new | 2024 | 38455172 |  | Tissue distribution and pharmacokinetics of isoxanthohumol from hops in rodents. | Food Sci Nutr
+- new | 2024 | 39765887 | Review | Antioxidant Potential of Xanthohumol in Disease Prevention: Evidence from Human and Animal Studies. | Antioxidants (Basel)
+- new | 2024 | 39519459 |  | Allergenic Potential of Common Hops (Humulus lupulus L.) in the Context of Cross-Reactions with Pollen Allergens. | Nutrients
+- new | 2024 | 38542210 |  | Gut Microbiota and Inflammation Modulation in a Rat Model for Ulcerative Colitis after the Intraperitoneal Administration of Apigenin, Luteolin, and Xanthohumol. | Int J Mol Sci
+- new | 2024 | 38996835 |  | In vitro effects and mechanisms of Humulus lupulus extract on bone marrow progenitor cells and endothelial cells. | Mol Cell Endocrinol
+- new | 2024 | 38542371 | Review | Xanthohumol-A Miracle Molecule with Biological Activities: A Review of Biodegradable Polymeric Carriers and Naturally Derived Compounds for Its Delivery. | Int J Mol Sci
+- new | 2024 | 38126727 | Research Support, Non-U.S. Gov't | Safety Assessment of Hops as Used in Cosmetics. | Int J Toxicol
+- new | 2023 | 37151166 | Review | Natural Compounds Used for Treating Hair Loss. | Curr Pharm Des
+- new | 2023 | 36908194 |  | A retrospective evaluation of hops ingestion in 177 dogs (2005-2018). | J Vet Emerg Crit Care (San Antonio)
+- new | 2023 | 37406514 |  | Xanthohumol protect against acetaminophen-induced hepatotoxicity via Nrf2 activation through the AMPK/Akt/GSK3β pathway. | Biomed Pharmacother
+- new | 2023 | 37511484 |  | The Effect of Xanthohumol Derivatives on Apoptosis Induction in Canine Lymphoma and Leukemia Cell Lines. | Int J Mol Sci
+- new | 2023 | 36333646 |  | Compound of Cynanchum wilfordii and Humulus lupulus L. Ameliorates Menopausal Symptoms in Ovariectomized Mice. | Reprod Sci
+- new | 2023 | 37110262 |  | Effects of Hops Treatment on Nitrogen Retention, Volatile Fatty Acid Accumulations, and Select Microbial Populations of Composting Poultry Litter Intended for Use as a Ruminant Fee | Microorganisms
+- new | 2023 | 36378586 |  | Nobiletin and xanthohumol counteract the TNFα-mediated activation of endothelial cells through the inhibition of the NF-κB signaling pathway. | Cell Biol Int
+- new | 2023 | 38231665 |  | The Hepatic Antisteatosis Effect of Xanthohumol in High-Fat Diet-Fed Rats Entails Activation of AMPK as a Possible Protective Mechanism. | Foods
+- new | 2022 | 35328588 | Review | The Potent Phytoestrogen 8-Prenylnaringenin: A Friend or a Foe? | Int J Mol Sci
+- new | 2022 | 34967501 | Review | Bioavailability and Cardiometabolic Effects of Xanthohumol: Evidence from Animal and Human Studies. | Mol Nutr Food Res
+- new | 2022 | 36387776 |  | Differential Inhibite Effect of Xanthohumol on HepG2 Cells and Primary Hepatocytes. | Dose Response
+- new | 2022 | 34914109 |  | Absorption, metabolism, and pharmacokinetic profile of xanthohumol in rats as determined via UPLC-MS/MS. | Biopharm Drug Dispos
+- new | 2022 | 35705833 |  | Colupulone, colupone and novel deoxycohumulone geranyl analogues as larvicidal agents against Culex pipiens. | Pest Manag Sci
+- new | 2022 | 35432956 |  | 8-Prenylnaringenin tissue distribution and pharmacokinetics in mice and its binding to human serum albumin and cellular uptake in human embryonic kidney cells. | Food Sci Nutr
+- new | 2022 | 35814220 |  | Advanced in Vitro Safety Assessment of Herbal Medicines for the Treatment of Non-Psychotic Mental Disorders in Pregnancy. | Front Pharmacol
+- new | 2022 | 34965452 | Research Support, Non-U.S. Gov't | AHR agonistic effects of 6-PN contribute to potential beneficial effects of Hops extract. | Mol Cell Endocrinol
+- new | 2022 | 34450158 | Research Support, Non-U.S. Gov't | Facile green synthesis of non-genotoxic, non-hemolytic organometallic silver nanoparticles using extract of crushed, wasted, and spent Humulus lupulus (hops): Characterization, ant | Environ Res
+- new | 2022 | 36365221 |  | Quality by Design Based Formulation of Xanthohumol Loaded Solid Lipid Nanoparticles with Improved Bioavailability and Anticancer Effect against PC-3 Cells. | Pharmaceutics
+- new | 2022 | 36559547 | Review | An Updated Review of the Genus Humulus: A Valuable Source of Bioactive Compounds for Health and Disease Prevention. | Plants (Basel)
+- new | 2022 | 35956774 |  | Ligand and Structure-Based Virtual Screening in Combination, to Evaluate Small Organic Molecules as Inhibitors for the XIAP Anti-Apoptotic Protein: The Xanthohumol Hypothesis. | Molecules
+- HELD REF-0840 | 2021 | 34946512 | Review | Herbal Products Used in Menopause and for Gynecological Disorders. | Molecules
+- new | 2021 | 33923053 | Review | Xanthohumol for Human Malignancies: Chemistry, Pharmacokinetics and Molecular Targets. | Int J Mol Sci
+- new | 2021 | 34170599 | Research Support, Non-U.S. Gov't/Review | Xanthohumol from Hop: Hope for cancer prevention and treatment. | IUBMB Life
+- new | 2021 | 34439086 |  | Nobiletin and Xanthohumol Sensitize Colorectal Cancer Stem Cells to Standard Chemotherapy. | Cancers (Basel)
+- new | 2021 | 33544749 |  | Dietary iso-α-acids prevent acetaldehyde-induced liver injury through Nrf2-mediated gene expression. | PLoS One
+- new | 2021 | 35498911 |  | Discovery of 8-prenylnaringenin from hop (Humulus lupulus L.) as a potent monoacylglycerol lipase inhibitor for treatments of neuroinflammation and Alzheimer's disease. | RSC Adv
+- new | 2021 | 34207931 |  | Chemoprotective Effects of Xanthohumol against the Carcinogenic Mycotoxin Aflatoxin B1. | Foods
+- new | 2021 | 34771946 |  | Evaluation of the Antitumour and Antiproliferative Effect of Xanthohumol-Loaded PLGA Nanoparticles on Melanoma. | Materials (Basel)
+- new | 2021 | 33984828 |  | Characterization of phase I and phase II metabolites of hop (Humulus lupulus L.) bitter acids: In vitro and in vivo metabolic profiling by UHPLC-Q-Orbitrap. | J Pharm Biomed Anal
+- new | 2020 | 33396660 |  | Antioxidant and Chemopreventive Effect of Aliophen(®) Formulation Based on Malts and Hops. | Antioxidants (Basel)
+- new | 2020 | 35492081 |  | Xanthohumol from Humulus lupulus L. potentiates the killing of Mycobacterium tuberculosis and mitigates liver toxicity by the combination of isoniazid in mouse tuberculosis models. | RSC Adv
+- new | 2020 | 32595273 |  | Identifying Herbal Adverse Events From Spontaneous Reporting Systems Using Taxonomic Name Resolution Approach. | Bioinform Biol Insights
+- new | 2020 | 31867855 | Research Support, Non-U.S. Gov't | HOPS/TMUB1 retains p53 in the cytoplasm and sustains p53-dependent mitochondrial apoptosis. | EMBO Rep
+- new | 2020 | 32986415 | Research Support, N.I.H., Extramural | 6-Prenylnaringenin from Hops Disrupts ERα-Mediated Downregulation of CYP1A1 to Facilitate Estrogen Detoxification. | Chem Res Toxicol
+- new | 2020 | 33081295 |  | Xanthohumol and Gossypol Are Promising Inhibitors against Babesia microti by In Vitro Culture via High-Throughput Screening of 133 Natural Products. | Vaccines (Basel)
+- new | 2020 | 32996724 |  | Pharmacokinetics of xanthohumol in rats of both sexes after oral and intravenous administration of pure xanthohumol and prenylflavonoid extract. | Adv Clin Exp Med
+- new | 2020 | 33015460 |  | Xanthohumol Effect on 2,3,7,8-Tetrachlorodibenzo-p-dioxin-Treated Japanese Quails in Terms of Serum Lipids, Liver Enzymes, Estradiol, and Thyroid Hormones. | ACS Omega
+- new | 2020 | 33036258 |  | The Preventive Effects of Xanthohumol on Vascular Calcification Induced by Vitamin D(3) Plus Nicotine. | Antioxidants (Basel)
+- new | 2020 | 32509787 |  | Xanthohumol Inhibits the Growth of Keratin 18-Overexpressed Esophageal Squamous Cell Carcinoma in vitro and in vivo. | Front Cell Dev Biol
+- new | 2020 | 32542699 | Research Support, Non-U.S. Gov't | Effect of a new herbal composition comprised of red clover and hop extract on human endothelial cell damage and vasorelaxant activity. | J Food Biochem
+- new | 2019 | 31595166 | Research Support, Non-U.S. Gov't | Xanthohumol inhibits colorectal cancer cells via downregulation of Hexokinases II-mediated glycolysis. | Int J Biol Sci
+- new | 2019 | 31803641 | Review | Supportive therapy for dysmenorrhea: Time to look beyond mefenamic acid in primary care. | J Family Med Prim Care
+- new | 2019 | 30608650 | Research Support, N.I.H., Extramural/Review/Research Support, Non-U.S. Gov't | The Multiple Biological Targets of Hops and Bioactive Compounds. | Chem Res Toxicol
+- new | 2019 | 30857300 |  | Antiproliferative and Cytotoxic Activity of Xanthohumol and Its Non-Estrogenic Derivatives in Colon and Hepatocellular Carcinoma Cell Lines. | Int J Mol Sci
+- new | 2019 | 31983118 |  | Xanthohumol chalcone acts as a powerful inhibitor of carcinogenesis in drug-resistant human colon carcinoma and these effects are mediated via G2/M phase cell cycle arrest, activat | J BUON
+- new | 2018 | 29543713 | Review | Therapeutic Perspectives of 8-Prenylnaringenin, a Potent Phytoestrogen from Hops. | Molecules
+- new | 2018 | 30469331 |  | Selective Inhibition of Human AKR1B10 by n-Humulone, Adhumulone and Cohumulone Isolated from Humulus lupulus Extract. | Molecules
+- new | 2018 | 28464967 |  | Mechanisms of resistance to three mite growth inhibitors of Tetranychus urticae in hops. | Bull Entomol Res
+- new | 2018 | 29516522 | Research Support, Non-U.S. Gov't | Xanthohumol ameliorates 2,3,7,8-tetrachlorodibenzo-p-dioxin-induced cellular toxicity in cultured MC3T3-E1 osteoblastic cells. | J Appl Toxicol
+- new | 2018 | 30240731 |  | Xanthohumol inhibits cell proliferation and induces apoptosis in human thyroid cells. | Food Chem Toxicol
+- new | 2018 | 29973479 |  | Genetic, acute and subchronic toxicity studies of matured hop extract produced by extraction from heat-treated hops. | J Toxicol Sci
+- new | 2018 | 29422966 |  | Inhibition of breast cancer cell survival by Xanthohumol via modulation of the Notch signaling pathway in vivo and in vitro. | Oncol Lett
+- new | 2018 | 29655693 |  | Molecular modeling and in vitro approaches towards cholinesterase inhibitory effect of some natural xanthohumol, naringenin, and acyl phloroglucinol derivatives. | Phytomedicine
+- new | 2018 | 32625735 |  | Safety and efficacy of a super critical carbon dioxide extract of Humulus lupulus L. flos when used as a feed flavouring for all animal species. | EFSA J
+- new | 2018 | 29886234 |  | Can nonalcoholic beer, silicon and hops reduce the brain damage and behavioral changes induced by aluminum nitrate in young male Wistar rats? | Food Chem Toxicol
+- new | 2018 | 29330372 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Non-estrogenic Xanthohumol Derivatives Mitigate Insulin Resistance and Cognitive Impairment in High-Fat Diet-induced Obese Mice. | Sci Rep
+- new | 2018 | 29375936 |  | Antifibrotic effect of xanthohumol in combination with praziquantel is associated with altered redox status and reduced iron accumulation during liver fluke-associated cholangiocar | PeerJ
+- new | 2017 | 27234135 | Review | In vitro assays in natural products research - a matter of concentration and relevance to in vivo administration using resveratrol, α-mangostin/γ-mangostin and xanthohumol as examp | Nat Prod Res
+- new | 2017 | 28899509 |  | A standardized Humulus lupulus (L.) ethanol extract partially prevents ovariectomy-induced bone loss in the rat without induction of adverse effects in the uterus. | Phytomedicine
+- new | 2017 | 29152142 |  | Antiproliferative and apoptotic effects of xanthohumol in cholangiocarcinoma. | Oncotarget
+- new | 2017 | 28662177 |  | A new approach for the assessment of the toxicity of polyphenol-rich compounds with the use of high content screening analysis. | PLoS One
+- HELD REF-1731 | 2016 | 27269377 | Research Support, N.I.H., Extramural | Hop (Humulus lupulus L.) Extract and 6-Prenylnaringenin Induce P450 1A1 Catalyzed Estrogen 2-Hydroxylation. | Chem Res Toxicol
+- new | 2016 | 27904394 |  | Dose-Dependent Protective and Inductive Effects of Xanthohumol on Oxidative DNA Damage in Saccharomyces cerevisiae. | Food Technol Biotechnol
+- new | 2016 | 26718026 |  | Anticancer effect of xanthohumol induces growth inhibition and apoptosis of human liver cancer through NF-κB/p53-apoptosis signaling pathway. | Oncol Rep
+- new | 2015 | 25574819 | Research Support, Non-U.S. Gov't/Review | Pharmacological profile of xanthohumol, a prenylated flavonoid from hops (Humulus lupulus). | Molecules
+- new | 2015 | 25600644 | Review | Contact dermatitis as an adverse reaction to some topically used European herbal medicinal products - part 2: Echinacea purpurea-Lavandula angustifolia. | Contact Dermatitis
+- new | 2015 | 26079861 | Research Support, Non-U.S. Gov't | Enantiospecific pharmacokinetics of isoxanthohumol and its metabolite 8-prenylnaringenin in the rat. | Mol Nutr Food Res
+- new | 2015 | 26201061 | Research Support, Non-U.S. Gov't | In vitro structure-toxicity relationship of chalcones in human hepatic stellate cells. | Toxicology
+- new | 2015 | 26011160 | Research Support, Non-U.S. Gov't | Xanthohumol inhibits Notch signaling and induces apoptosis in hepatocellular carcinoma. | PLoS One
+- new | 2015 | 26621458 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Molecular mechanisms of Tetranychus urticae chemical adaptation in hop fields. | Sci Rep
+- new | 2015 | 26232134 | Research Support, Non-U.S. Gov't | In vitro growth-inhibitory effect of ethanol GRAS plant and supercritical CO₂ hop extracts on planktonic cultures of oral pathogenic microorganisms. | Fitoterapia
+- new | 2014 | 24905140 | Research Support, Non-U.S. Gov't | Naringenin (NAR) and 8-prenylnaringenin (8-PN) reduce the developmental competence of porcine oocytes in vitro. | Reprod Toxicol
+- new | 2014 | 24342125 | Research Support, N.I.H., Extramural | Inhibition of human cytochrome P450 enzymes by hops (Humulus lupulus) and hop prenylphenols. | Eur J Pharm Sci
+- new | 2014 | 24038952 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Human pharmacokinetics of xanthohumol, an antihyperglycemic flavonoid from hops. | Mol Nutr Food Res
+- new | 2014 | 24931510 | Research Support, Non-U.S. Gov't | Enantiospecific analysis of 8-prenylnaringenin in biological fluids by liquid-chromatography-electrospray ionization mass spectrometry: application to preclinical pharmacokinetic i | Chirality
+- new | 2014 | 28962286 |  | Xanthohumol, a prenylated flavonoid from hops (Humulus lupulus L.), protects rat tissues against oxidative damage after acute ethanol administration. | Toxicol Rep
+- new | 2014 | 24489866 | Research Support, Non-U.S. Gov't | Long-term oral administration of hop flower extracts mitigates Alzheimer phenotypes in mice. | PLoS One
+- new | 2014 | 25216973 | Case Reports/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Respiratory disease associated with occupational inhalation to hop (Humulus lupulus) during harvest and processing. | Ann Allergy Asthma Immunol
+- new | 2014 | 25044854 | Research Support, Non-U.S. Gov't | Hop-derived prenylflavonoids are substrates and inhibitors of the efflux transporter breast cancer resistance protein (BCRP/ABCG2). | Mol Nutr Food Res
+- new | 2013 | 22634733 | Research Support, Non-U.S. Gov't | Xanthohumol suppresses inflammatory response to warm ischemia-reperfusion induced liver injury. | Exp Mol Pathol
+- new | 2013 | 23220514 |  | Effect of linalool as a component of Humulus lupulus on doxorubicin-induced antitumor activity. | Food Chem Toxicol
+- new | 2013 | 23361834 | Comparative Study | A comparison of the anticancer properties of isoxanthohumol and 8-prenylnaringenin using in vitro models of colon cancer. | Biofactors
+- new | 2013 | 24077106 |  | Analytical methods for quantitation of prenylated flavonoids from hops. | Curr Anal Chem
+- new | 2013 | 24206127 | Research Support, Non-U.S. Gov't | Hexahydro-β-acids potently inhibit 12-O-tetradecanoylphorbol 13-acetate-induced skin inflammation and tumor promotion in mice. | J Agric Food Chem
+- new | 2012 | 31644179 | Review | Hops. | 
+- new | 2012 | 22884764 | Research Support, Non-U.S. Gov't | Xanthohumol prevents carbon tetrachloride-induced acute liver injury in rats. | Food Chem Toxicol
+- new | 2012 | 22700224 |  | Anti-inflammatory and anti-tumor-promoting effects of 5-deprenyllupulonol C and other compounds from Hop (Humulus lupulus L.). | Chem Biodivers
+- new | 2012 | 22295144 | Research Support, Non-U.S. Gov't | Protective effect of xanthohumol on toxin-induced liver inflammation and fibrosis. | Int J Clin Exp Pathol
+- new | 2012 | 21997247 | Research Support, N.I.H., Extramural | Hops (Humulus lupulus) inhibits oxidative estrogen metabolism and estrogen-induced malignant transformation in human mammary epithelial cells (MCF-10A). | Cancer Prev Res (Phila)
+- new | 2012 | 22147307 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Pharmacokinetics of xanthohumol and metabolites in rats after oral and intravenous administration. | Mol Nutr Food Res
+- new | 2012 | 22138251 | Research Support, Non-U.S. Gov't | Protective effects of xanthohumol against the genotoxicity of heterocyclic aromatic amines MeIQx and PhIP in bacteria and in human hepatoma (HepG2) cells. | Food Chem Toxicol
+- new | 2012 | 22447626 |  | Xanthohumol inhibits growth and vascularization of developing endometriotic lesions. | Hum Reprod
+- new | 2012 | 22952060 | Research Support, Non-U.S. Gov't | Xanthohumol impairs human prostate cancer cell growth and invasion and diminishes the incidence and progression of advanced tumors in TRAMP mice. | Mol Med
+- new | 2011 | 22088086 | Research Support, Non-U.S. Gov't | Xanthohumol uptake and intracellular kinetics in hepatocytes, hepatic stellate cells, and intestinal cells. | J Agric Food Chem
+- new | 2011 | 21093515 | Research Support, Non-U.S. Gov't | Anti-inflammatory activity of xanthohumol involves heme oxygenase-1 induction via NRF2-ARE signaling in microglial BV2 cells. | Neurochem Int
+- new | 2011 | 21467798 |  | [Effects of ethanol extracts of herbal medicines on dermatitis in an atopic dermatitis mouse model]. | Yakugaku Zasshi [jpn]
+- new | 2011 | 21476568 | Comparative Study/Research Support, Non-U.S. Gov't | Comparative study of hops-containing products on human cytochrome P450-mediated metabolism. | J Agric Food Chem
+- new | 2011 | 22111577 |  | Xanthohumol induces apoptosis in human malignant glioblastoma cells by increasing reactive oxygen species and activating MAPK pathways. | J Nat Prod
+- new | 2010 | 20144742 | Research Support, Non-U.S. Gov't | Xanthohumol inhibits IL-12 production and reduces chronic allergic contact dermatitis. | Int Immunopharmacol
+- new | 2010 | 20043079 | Research Support, Non-U.S. Gov't | Xanthohumol, a prenylated chalcone derived from hops, inhibits proliferation, migration and interleukin-8 expression of hepatocellular carcinoma cells. | Int J Oncol
+- new | 2010 | 20944105 | Research Support, N.I.H., Extramural | Growth inhibitory and apoptosis-inducing effects of xanthohumol, a prenylated chalone present in hops, in human prostate cancer cells. | Anticancer Res
+- new | 2010 | 20461738 | Research Support, Non-U.S. Gov't | Xanthohumol, a prenylated chalcone from hops, modulates hepatic expression of genes involved in thyroid hormone distribution and metabolism. | Mol Nutr Food Res
+- new | 2010 | 20335224 | Research Support, Non-U.S. Gov't | Xanthohumol-induced transient superoxide anion radical formation triggers cancer cells into apoptosis via a mitochondria-mediated mechanism. | FASEB J
+- new | 2010 | 20409652 | Research Support, Non-U.S. Gov't | In vitro growth-inhibitory effect of plant-derived extracts and compounds against Paenibacillus larvae and their acute oral toxicity to adult honey bees. | Vet Microbiol
+- new | 2010 | 20427021 | Research Support, Non-U.S. Gov't | Xanthohumol feeding does not impair organ function and homoeostasis in mice. | Food Chem Toxicol
+- new | 2010 | 20447364 |  | Direct inhibition of elastase and matrixmetalloproteinases and stimulation of biosynthesis of fibrillar collagens, elastin, and fibrillins by xanthohumol. | J Cosmet Sci
+- new | 2010 | 20633549 | Research Support, Non-U.S. Gov't | 8-Prenylnaringenin is an inhibitor of multidrug resistance-associated transporters, P-glycoprotein and MRP1. | Eur J Pharmacol
+- new | 2010 | 21034356 |  | Re-evaluation of superoxide scavenging capacity of xanthohumol. | Free Radic Res
+- new | 2010 | 20547166 |  | Xanthohumol, a prenylated flavonoid contained in beer, prevents the induction of preneoplastic lesions and DNA damage in liver and colon induced by the heterocyclic aromatic amine  | Mutat Res
+- new | 2009 | 19476340 | Research Support, Non-U.S. Gov't/Review | Hop (Humulus lupulus)-derived bitter acids as multipotent bioactive compounds. | J Nat Prod
+- new | 2009 | 19435215 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Control of Listeria monocytogenes on frankfurters by dipping in hops beta acids solutions. | J Food Prot
+- new | 2009 | 19655312 | Research Support, Non-U.S. Gov't | Hop bitter acids efficiently block inflammation independent of GRalpha, PPARalpha, or PPARgamma. | Mol Nutr Food Res
+- new | 2008 | 17959367 | Research Support, Non-U.S. Gov't | Antimutagenicity of hops (Humulus lupulus L.): bioassay-directed fractionation and isolation of xanthohumol. | Phytomedicine
+- new | 2008 | 18768384 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Structural basis of human pregnane X receptor activation by the hops constituent colupulone. | Mol Pharmacol
+- new | 2008 | 18369342 | Research Support, Non-U.S. Gov't | Enhanced effects of xanthohumol plus honokiol on apoptosis in 3T3-L1 adipocytes. | Obesity (Silver Spring)
+- new | 2007 | 17874298 | Research Support, Non-U.S. Gov't | Effect of xanthohumol and isoxanthohumol on 3T3-L1 cell apoptosis and adipogenesis. | Apoptosis
+- new | 2007 | 23675054 |  | Evidence for the Effects of Xanthohumol in Disrupting Angiogenic, but not Stable Vessels. | Int J Biomed Sci
+- new | 2007 | 16563612 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Xanthohumol, a prenylflavonoid derived from hops induces apoptosis and inhibits NF-kappaB activation in prostate epithelial cells. | Cancer Lett
+- new | 2007 | 17590382 | Evaluation Study/Research Support, Non-U.S. Gov't | Protective effects of xanthohumol against the genotoxicity of benzo(a)pyrene (BaP), 2-amino-3-methylimidazo[4,5-f]quinoline (IQ) and tert-butyl hydroperoxide (t-BOOH) in HepG2 huma | Mutat Res
+- new | 2007 | 17434926 | Research Support, Non-U.S. Gov't | Chemopreventive effects of lupulone, a hop {beta}-acid, on human colon cancer-derived metastatic SW620 cells and in a rat model of colon carcinogenesis. | Carcinogenesis
+- new | 2007 | 17372274 | Research Support, Non-U.S. Gov't | Humulone inhibits phorbol ester-induced COX-2 expression in mouse skin by blocking activation of NF-kappaB and AP-1: IkappaB kinase and c-Jun-N-terminal kinase as respective potent | Carcinogenesis
+- new | 2006 | 16611861 | Research Support, N.I.H., Extramural | Identification of human hepatic cytochrome P450 enzymes involved in the metabolism of 8-prenylnaringenin and isoxanthohumol from hops (Humulus lupulus L.). | Drug Metab Dispos
+- new | 2005 | 16144030 | Research Support, Non-U.S. Gov't | Xanthohumol kills B-chronic lymphocytic leukemia cells by an apoptotic mechanism. | Mol Nutr Food Res
+- new | 2005 | 15796161 | Comparative Study/Research Support, Non-U.S. Gov't | A safety study of oral tangeretin and xanthohumol administration to laboratory mice. | In Vivo
+- new | 2005 | 16194107 | Research Support, N.I.H., Extramural | Screening method for the discovery of potential cancer chemoprevention agents based on mass spectrometric detection of alkylated Keap1. | Anal Chem
+- new | 2005 | 16092070 | Research Support, Non-U.S. Gov't | A safety study of oral xanthohumol administration and its influence on fertility in Sprague Dawley rats. | Mol Nutr Food Res
+- new | 2004 | 15051922 |  | Toxicity and cell cycle effects of synthetic 8-prenylnaringenin and derivatives in human cells. | Pharmacology
+- new | 2004 | 14744951 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Metabolism of 8-prenylnaringenin, a potent phytoestrogen from hops (Humulus lupulus), by human liver microsomes. | Drug Metab Dispos
+- new | 2004 | 14648707 | Comparative Study | Intake of beer inhibits azoxymethane-induced colonic carcinogenesis in male Fischer 344 rats. | Int J Cancer
+- new | 2004 | 14709013 | Research Support, Non-U.S. Gov't | Mechanisms of cancer chemoprevention by hop bitter acids (beer aroma) through induction of apoptosis mediated by Fas and caspase cascades. | J Agric Food Chem
+- new | 2003 | 12520174 | Comparative Study | Inhibitors of nitric oxide production from hops (Humulus lupulus L.). | Biol Pharm Bull
+- new | 2003 | 14974692 | Research Support, Non-U.S. Gov't | Toxicity of imidacloprid to Galendromus occidentalis, Neoseiulus fallacis and Amblyseius andersoni (Acari: Phytoseiidae) from hops in Washington State, USA. | Exp Appl Acarol
+- new | 2002 | 11918619 | Case Reports | Contact urticaria from hops (Humulus lupulus) in a patient with previous urticaria-angioedema from peanut, chestnut and banana. | Contact Dermatitis
+- new | 2002 | 12498595 | Case Reports | Occupational airborne and hand dermatitis to hop (Humulus lupulus) with non-occupational relapses. | Ann Agric Environ Med
+- new | 2002 | 12512192 | Case Reports | [Systemic urticaria induced by hops]. | Allerg Immunol (Paris) [fre]
+- new | 2002 | 12481418 | Research Support, Non-U.S. Gov't | Cancer chemopreventive activity of Xanthohumol, a natural product derived from hop. | Mol Cancer Ther
+- new | 2001 | 11426925 |  | Work-related skin symptoms and type I allergy among eastern-Polish farmers growing hops and other crops. | Ann Agric Environ Med
+- new | 2001 | 11227917 | Research Support, Non-U.S. Gov't | Are there any links between Hop Japanese pollen and other weed pollens or food allergens on skin prick tests? | Allergy Asthma Proc
+- new | 2000 | 10752639 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | In vitro inhibition of human P450 enzymes by prenylated flavonoids from hops, Humulus lupulus. | Xenobiotica
+- new | 1998 | 9680110 | Research Support, Non-U.S. Gov't | Induction of differentiation of myelogenous leukemia cells by humulone, a bitter in the hop. | Leuk Res
+- new | 1997 | 8977648 | Case Reports | Malignant hyperthermia-like reaction secondary to ingestion of hops in five dogs. | J Am Vet Med Assoc
+- new | 1995 | 7854777 |  | Humulon, a bitter in the hop, inhibits tumor promotion by 12-O-tetradecanoylphorbol-13-acetate in two-stage carcinogenesis in mouse skin. | Oncology
+- new | 1994 | 8185600 | Research Support, Non-U.S. Gov't | Effects of colupulone, a component of hops and brewers yeast, and chromium on glucose tolerance and hepatic cytochrome P450 in nondiabetic and spontaneously diabetic mice. | Biochem Biophys Res Commun
+- new | 1994 | 7959454 |  | The effect of colupulone (a HOPS beta-acid) on hepatic cytochrome P-450 enzymatic activity in the rat. | Food Chem Toxicol
+- new | 1992 | 1352202 | Research Support, U.S. Gov't, P.H.S. | Identification of the antibiotic hops component, colupulone, as an inducer of hepatic cytochrome P-4503A in the mouse. | Drug Metab Dispos
+- new | 1980 | 6447587 | Case Reports | [Occupational immediate type allergy to hemp pollen and hashish (author's transl)]. | Derm Beruf Umwelt [ger]
+
+### PubMed OBS - 20 hits, 7 not already listed above, 7 new
+- new | 2026 | 41942449 |  | Direct evidence for magnetohydrodynamic disk winds driving rotating outflows in protostar HOPS 358. | Nat Commun
+- new | 2025 | 40284746 |  | Potential Use of Selected Natural Anti-Microbials to Control Listeria monocytogenes in Vacuum Packed Beef Burgers and Their Impact on Quality Attributes. | Microorganisms
+- new | 2024 | 39100937 |  | Assessing the Relationship of Psychological Sport Readiness, Single-leg Vertical Jump, and Non-Sagittal Single-Leg Hops to Quadriceps Strength After Anterior Cruciate Ligament Reco | Int J Sports Phys Ther
+- new | 2023 | 37750646 | Multicenter Study | Improvement in menopausal symptoms with a nutritional product containing evening primrose oil, hop extract, saffron, tryptophan, vitamins B6, D3, K2, B12, and B9. | Eur Rev Med Pharmacol Sci
+- new | 2023 | 37947959 |  | Are We Jumping to the Wrong Conclusions? Longer Jumps and More Hops in Female Football Players Who Went on to Sustain a Primary or Secondary ACL Injury Compared to Those Who Did No | Sports Med Open
+- new | 2019 | 31549012 |  | Clinical usefulness of conversion surgery for unresectable pancreatic cancer diagnosed on multidetector computed tomography imaging: Results from a multicenter observational cohort | Ann Gastroenterol Surg
+- new | 2011 | 21398272 | Research Support, U.S. Gov't, P.H.S. | Increased rates of bone fracture among HIV-infected persons in the HIV Outpatient Study (HOPS) compared with the US general population, 2000-2006. | Clin Infect Dis
+
+### PubMed REV - 98 hits, 15 not already listed above, 15 new
+- new | 2025 | 41307105 | Review | Hot off the Press. | Nat Prod Rep
+- new | 2025 | 39360504 | Review | Hop as a phytogenic alternative to antibiotic growth promoters in poultry production. | J Sci Food Agric
+- new | 2023 | 37290874 | Review | Humulus lupulus and microbes: Exploring biotic causes for hop creep. | Food Microbiol
+- new | 2023 | 36641978 | Review | Phytotherapy of mood disorders in the light of microbiota-gut-brain axis. | Phytomedicine
+- new | 2023 | 37598971 | Review | Trophodynamics of halogenated organic pollutants (HOPs) in aquatic food webs. | Sci Total Environ
+- new | 2023 | 36283308 | Review | Xanthohumol properties and strategies for extraction from hops and brewery residues: A review. | Food Chem
+- new | 2022 | 36531342 | Review | Resilience of hop (Humulus lupulus L.) to salinity, heat and drought stresses: A mini-review. | Front Plant Sci
+- new | 2021 | 32860479 | Research Support, Non-U.S. Gov't/Review | The Ins and Outs of HOPS/TMUB1 in biology and pathology. | FEBS J
+- new | 2021 | 33445965 | Review | Recent patents on therapeutic activities of xanthohumol: a prenylated chalconoid from hops (Humulus lupulus L.). | Pharm Pat Anal
+- new | 2021 | 32462886 | Review | Hop bioactive compounds in prevention of nutrition-related noncommunicable diseases. | Crit Rev Food Sci Nutr
+- new | 2020 | 33112208 | Research Support, Non-U.S. Gov't/Review | HOPS and p53: thick as thieves in life and death. | Cell Cycle
+- new | 2019 | 31287692 | Review | Role of Characteristic Components of Humulus lupulus in Promoting Human Health. | J Agric Food Chem
+- new | 2018 | 29872398 | Review | Anticancer Activity and Mechanism of Xanthohumol: A Prenylated Flavonoid From Hops (Humulus lupulus L.). | Front Pharmacol
+- new | 2017 | 28871284 | Review | Hops (Humulus lupulus L.) Bitter Acids: Modulation of Rumen Fermentation and Potential As an Alternative Growth Promoter. | Front Vet Sci
+- new | 2006 | 30000893 | Review | Hops. | 
+
+### ClinicalTrials.gov - 96 registered studies
+- NCT04054284 | COMPLETED | results=False | NA | Safety and Efficacy of Herbal Tea in Type 2 Diabetics | conds: Type 2 Diabetes, Herbal Medicine Adverse Reaction | intr: Antidiabetic Herbal Tea, Herbal Tea
+- NCT07904390 | RECRUITING | results=False | NA | Hop Extract Versus Soy Isoflavone Extract for Menopausal Symptoms (HOPES) | conds: Menopause, Perimenopause, Postmenopause | intr: Full Spectrum hop extract (MENODUO FullSpectrum), Soy isoflavone extract
+- NCT04590508 | ACTIVE_NOT_RECRUITING | results=False | PHASE2 | A Phase 2 Clinical Trial: Xanthohumol Metabolism and Signature (XMaS) in Crohn's Disease | conds: Crohn Disease | intr: Xanthohumol, Placebo | pubs: ['42138225:DERIVED (new)', '41834265:DERIVED (new)', '36273173:DERIVED (new)']
+- NCT02848430 | COMPLETED | results=False | NA | Hop Botanical Dietary Supplements - Metabolism and Safety in Women | conds: Food-Drug Interactions | intr: Humulus lupulus | pubs: ['32285669:RESULT (new)']
+- NCT03875430 | UNKNOWN | results=False |  | Study to Investigate the Effectiveness of a Food Supplement Made of Hop in the Improvement of Menopausal Symptoms | conds: Menopause | intr: Humulus lupulus L
+- NCT05463393 | SUSPENDED | results=False | EARLY_PHASE1 | Xanthohumol as an Adjuvant Therapy in Critically Ill COVID-19 Patients | conds: COVID-19 Respiratory Infection | intr: Xanthohumol - prenylated chalcone extracted from female inflorescences of hop cones (Humulus lupus).
+- NCT06892834 | COMPLETED | results=True | PHASE2 | Assessing Gingivitis of 3 Different Dentifrices Compared to a Negative Control. | conds: Gingivitis | intr: Stannous Fluoride Dentifrice, Sodium Fluoride Dentifrice, Sodium monofluorophosphate dentifrice
+- NCT04004013 | COMPLETED | results=False | NA | Evaluate the Effect of Lifenol in Improving Bone Status in Postmenopausal Osteopenic Women | conds: Osteopenia, Generalized | intr: Lifenol®, Placebo
+- NCT02104219 | COMPLETED | results=True |  | Retrospective, Non-interventional Natural History of Patients With Juvenile-onset Hypophosphatasia (HPP) | conds: Hypophosphatasia (HPP) | intr: 
+- NCT07827404 | NOT_YET_RECRUITING | results=False | NA | VR Versus Plyometric Exercise on Lower Limb Motor Control and Balance in Spastic Hemiplegic Children | conds: Cerebral Palsy | intr: Virtual reality (VR), Plyometric exercises
+- NCT00843544 | COMPLETED | results=False | PHASE2,PHASE3 | Integrative Medicine Approach to the Management of Asthma in Adults | conds: Asthma | intr: Integrative Medicine | pubs: ['21614939:DERIVED (new)']
+- NCT00952484 | COMPLETED | results=True | PHASE2 | Safety and Efficacy of Asfotase Alfa in Juvenile Patients With Hypophosphatasia (HPP) | conds: Hypophosphatasia (HPP) | intr: asfotase alfa, asfotase alfa | pubs: ['32417537:DERIVED (new)', '27699270:DERIVED (new)']
+- NCT05762809 | UNKNOWN | results=False | NA | Kinesiophobia After Anterior Cruciate Ligament Reconstruction. | conds: Kinesiophobia, ACL Injury | intr: Tampa Scale of Kinesiophobia (TSK-17), Knee injury and Osteoarthritis Outcome Score (KOOS), Oxford K | pubs: ['39159822:DERIVED (new)']
+- NCT04289844 | WITHDRAWN | results=False | NA | Elastic-explosive Strength Training Combined With Active Joint Mobilizations in Basketball Players | conds: Basketball Players | intr: Elastic-explosive and resistance strength, Elastic-explosive strength
+- NCT05998057 | COMPLETED | results=False | NA | The Effect of Neuromuscular Exercise Training on Balance, Jump and Trunk Endurance in Female Ice Hockey Players | conds: Sports Physical Therapy | intr: exercise, control
+- NCT07591675 | RECRUITING | results=False | NA | Comparison of Combined Sprint-Plyometric Training Versus Traditional Strength Training on Speed, Agility, Power, and Movement Quality in Int | conds: Athletic Performance, Neuromuscular Training | intr: Combined Sprint-Plyometric Training, Traditional Strength Training Group
+- NCT02235493 | COMPLETED | results=True |  | Non-interventional Substudy of ALX-HPP-502 to Assess Natural History of Patients With Juvenile-onset HPP Who Served as Historical Controls i | conds: Hypophosphatasia, Bone Disease | intr: Retrospective Case Only
+- NCT06464796 | COMPLETED | results=False | NA | Effectiveness of Motor Imagery Techniques in the Management of Acute Lateral Ankle Sprains in Soccer Players | conds: Ankle Sprains | intr: Motor Imagery Techniques, Conventional Exercise Therapy
+- NCT05527886 | COMPLETED | results=False | NA | Acute Effects of Dynamic Stretching, Plyometrics, and Loading on Achilles Tendon Properties and Performance Outcomes | conds: Tendon Injuries | intr: AAROM, Slow Load, Plyometric
+- NCT06302153 | COMPLETED | results=False | NA | Progressive Loading Exercises and Conditioning Exercises on Calf Strain | conds: Range of Motion, Pain, Sports Injuries, Stretching, Triceps Surae | intr: Progressive Loading Exercises
+- NCT01376869 | COMPLETED | results=False | NA | Investigation of the Acute Cognitive, Mood and Autonomic Effects of Hops in Healthy Participants | conds: Mood Modulation, Modulation of Cognition | intr: Hops Extract, Placebo (silica)
+- NCT06509711 | UNKNOWN | results=False | NA | Comparative Effects Of Mud Based Plyometric Jump Training on Volleyball Players | conds: Sports Physical Therapy | intr: PLYOMETRICS jump training with HIIT (4 weeks,3 sessions per week), PLYOMETRICS JUMP TRAINING WITHOUT
+- NCT07604168 | COMPLETED | results=False | NA | Effect of Coordinated Locomotor Training on Lumbopelvic Stability and Pain in Runners With Mechanical Low Back Pain | conds: Mechanical Low Back Pain, Lumbopelvic Pain | intr: Coordinated Locomotor Training, Plyometric Training
+- NCT06546605 | RECRUITING | results=False | NA | A Randomized Crossover Study on Diverse Training Methods to Enhance University Athletes' Performance and Health | conds: Athletic Performance, Plyometric Exercise, Healthy | intr: Whole-Body Electrical Muscle Stimulation (WB-EMS) Training, Plyometric Training, Functional Training
+- NCT05834205 | UNKNOWN | results=False | NA | Effects of Plyometric Training Versus Bowling Drills on Fast Bowlers | conds: Sports Physical Therapy | intr: Plyometric Training, Drills
+- NCT05646914 | COMPLETED | results=False | NA | Plyometric and Complex Training in Male Cricket Players | conds: Physical Functional Performance | intr: Complex training exercises, Plyometric training exercises | pubs: ['38008712:DERIVED (new)']
+- NCT07191301 | COMPLETED | results=False | NA | Functional Strength Training and Kinesiotaping, With and Without Proprioceptive Neuromuscular Facilitation in Fibular (Peroneal) Neuropathy | conds: Peroneal Neuropathy | intr: Functional Strength Training, Kinesio Taping, and Proprioceptive Neuromuscular Facilitation, Functio
+- NCT07266649 | NOT_YET_RECRUITING | results=False | NA | Effects of Pilates Training on Ankle Proprioception, Postural Control and Performance in Footballers With Chronic Ankle Instability | conds: Proprioception, Postural Balance, Performance, Chronic Ankle Instability, CAI | intr: Pilates exercises, Balance exercises
+- NCT07612358 | COMPLETED | results=False | NA | Comparing Two Training Frequencies of Balance Training for Chronic Ankle Instability | conds: Chronic Ankle Instability, CAI, Chronic Ankle Instability | intr: PHSB Training - High Frequency Short Duration, PHSB Training - Low Frequency Long Duration
+- NCT05707104 | COMPLETED | results=False | NA | Pilates and Plyometric Training on Physical Performance of Volleyball Players | conds: Volleyball Players | intr: Pilates Exercises, plyometrics exercises
+- NCT05736783 | COMPLETED | results=False | NA | Plyometric and Strength Training of Quadriceps and Hamstrings in Football Players | conds: Football Players | intr: plyometric exercises, strenghtening of quadriceps and hamstring
+- NCT06774547 | RECRUITING | results=False | NA | Early Implementation of Plyometric Exercises in the Rehabilitation of Individuals Suffering From Lower-Extremity Tendinopathies | conds: Achilles Tendinopathy, Patellar Tendinopathy, Plantar Fasciopathy | intr: Heavy-slow resistance training, Plyometric exercise
+- NCT05524714 | COMPLETED | results=False | NA | Plasma Appearance of Xanthohumol in Healthy Adults | conds: Plasmakinetics of Xanthohumol | intr: solubilized Xanthohumol low dose, solubilized Xanthohumol high dose, native Xanthohumol low dose, na | pubs: ['41723719:DERIVED (new)']
+- NCT07524647 | ACTIVE_NOT_RECRUITING | results=False | NA | Effects of Percutaneous Neuromodulation on Vertical Jump | conds: Healthy Athletes | intr: Plyometric Training, Bilateral femoral nerve ultrasound guide neuromodulation
+- NCT06149052 | COMPLETED | results=False | NA | Effects of SMART VS FIRE Training in Chronic Ankle Instability | conds: Chronic Ankle Instability | intr: SMART TRAINING, FIRE training
+- NCT06212856 | UNKNOWN | results=False | NA | Effects of 8 Week Plyometric Training on Physical Fitness and Technical Skills in Young Male Volleyball Players | conds: Physical Fitness, Technical Skills | intr: Plyometric training, Conventional
+- NCT06509685 | COMPLETED | results=False | NA | Effects of Ladder Versus Balance Training on Dynamic Balance and Performance Among Football Players | conds: Sports Physical Therapy | intr: Ladder Training, balance training
+- NCT06587516 | COMPLETED | results=False | NA | Neuromuscular Warm-Up Program for Badminton Players | conds: Balance; Distorted, Ankle Injury | intr: Neuromuscular Warmup Program, Traditional Warmup Program | pubs: ['17436168:RESULT (new)']
+- NCT03150277 | COMPLETED | results=False | NA | Post - Activation Potentiation After Plyometric and Heavy Resistance Exercise in Soccer Players | conds: Soccer | intr: Plyometric exercise, Heavy resistance exercise | pubs: ['29568749:DERIVED (new)']
+- NCT03149237 | COMPLETED | results=True | NA | Partners-based HIV Treatment for Couples Attending Antenatal Care | conds: Human Immunodeficiency Virus | intr: Couples-based services | pubs: ['38905476:DERIVED (new)', '32859272:DERIVED (new)']
+- NCT07340021 | RECRUITING | results=False | NA | Comparative Study of Effects of Neuromuscular Warmup vs Conventional Warmup in Recreational Gym Population | conds: Healthy Participants | intr: NM Warm-up, Conventional Warm-up
+- NCT04717206 | COMPLETED | results=False | NA | 6 Weeks Plyometric Training on Vertical Jump and Agility in Relation to Gender Among Badminton Players | conds: Sports Physical Therapy | intr: Plyomtric training to male badmninton players, Plyomtric training to female badmninton players
+- NCT07901621 | NOT_YET_RECRUITING | results=False | NA | Combined Versus Multicomponent Training in People With Chronic Kidney Disease Stages 3a and 3b | conds: Chronic Kidney Disease Stage 3A, Chronic Kidney Disease Stage 3B, Chronic Kidney Disease, Non-dialysis | intr: Combined Training, Multicomponent Training
+- NCT07947394 | COMPLETED | results=False | NA | Effects of a 12-Week Myofascial Training Program on Crural Fascia Thickness and Jump Performance in Adolescents: A Randomized Controlled Tri | conds: Healthy, Athletic Performance Enhancement | intr: 12-Week Myofascial Training Program
+- NCT07390240 | RECRUITING | results=False |  | The Effect of Monoallelic Variants in the ALPL Gene on the Natural Course of Hypophosphatasia in Russia | conds: Hypophosphatasia | intr: 
+- NCT03789591 | COMPLETED | results=False | PHASE3 | Hydroxyurea Optimization Through Precision Study | conds: Sickle Cell Disease, Sickle Cell Anemia | intr: Hydroxyurea | pubs: ['33246482:DERIVED (new)']
+- NCT05951582 | UNKNOWN | results=False | NA | The Effects of Plyometric on Physical Fitness and Technical Skills of Football Players | conds: Physical Fitness and Technical Skills | intr: Plyometric Exercises, Conventional Exercises
+- NCT01176136 | COMPLETED | results=False | NA | Organizational Skills Interventions for Children With Attention Deficit Hyperactivity Disorder (ADHD) | conds: Attention Deficit Hyperactivity Disorder | intr: Homework, Organization, and Planning Skills (HOPS) Intervention
+- NCT06808763 | COMPLETED | results=False | NA | Exercise Program for Knee Recovery in Football Players with ACL Injuries | conds: ACL Injuries | intr: Knee Rehabilitation Exercise Program
+- NCT02150668 | COMPLETED | results=False | NA | Efficacy of an Organizational Skills Intervention for Middle School Students With ADHD | conds: Attention-Deficit/Hyperactivity Disorder (ADHD) | intr: Homework, Organization, and Planning Skills (HOPS) Intervention, Homework Support Intervention (HSI)
+- NCT05251142 | UNKNOWN | results=False | NA | Plyometric Training in Volleyball Players With Chronic Knee Pain | conds: Chronic Knee Pain | intr: Plyometric training, General exercises
+- NCT01683019 | COMPLETED | results=True | NA | Feasibility Study to Test Clinical Efficacy of Low Energy AC Magnetic Field to Treat Major Depression | conds: Major Depressive Disorder (MDD) | intr: NeoSync EEG Synchronization Therapy, Sham NeoSync EEG Synchronization Therapy | pubs: ['24438321:DERIVED (new)']
+- NCT07826104 | COMPLETED | results=False | NA | Microdosed Versus Conventional Plyometric Training in Adolescent Basketball Players | conds: Athletic Performance | intr: Microdosed Plyometric Training, Conventional Plyometric Training
+- NCT01010841 | COMPLETED | results=False | NA | Trial of Two Dietary Programs on Cardiometabolic Risk Factors in Subjects With Metabolic Syndrome | conds: Metabolic Syndrome, Overweight, Obesity, Hypercholesterolemia | intr: UltraMealPlus 360 (Medical food), Low-glycemic-load diet | pubs: ['21600524:RESULT (new)', '21286407:RESULT (new)', '21481713:RESULT (new)', '21775117:RESULT (new)', '21944261:RESULT (new)', '22024489:RESULT (new)', ':RESULT (-)']
+- NCT00719953 | COMPLETED | results=True | PHASE4 | Study to Assess the Efficacy of Cognitex | conds: Elderly, Memory Impairment | intr: Cognitex | pubs: ['22432687:DERIVED (new)']
+- NCT06770192 | RECRUITING | results=False | NA | Comparison Between Plyometrics and Calisthenics on Executive Function in School Going Children | conds: Executive Function | intr: Calisthenics, Plyometric, Control
+- NCT04465708 | ACTIVE_NOT_RECRUITING | results=False | NA | HOPS Study: A Conceptual Replication | conds: Executive Dysfunction, Attention Deficit Hyperactivity Disorder | intr: Homework, Organization, and Planning Skills | pubs: ['42275393:DERIVED (new)']
+- NCT04867746 | COMPLETED | results=False |  | Clinical and Functional Outcomes at Least 2 Years After Hamstring Muscle Repair | conds: Hamstring Muscle Repair, Hamstring Rupture | intr: data collection by health questionnaires, assessment of muscle strength, assessment of gait, assessm | pubs: ['38372148:DERIVED (new)', '36622424:DERIVED (new)']
+- NCT01419028 | COMPLETED | results=True |  | A Retrospective Study of the Natural History of Patients With Severe Perinatal and Infantile Hypophosphatasia (HPP) | conds: Hypophosphatasia (HPP) | intr:  | pubs: ['26529632:DERIVED (new)']
+- NCT04738617 | WITHDRAWN | results=False | NA | Inter- and Intra-individual Variation in Acute Responses to Two Different Warm-up Types. | conds: Healthy | intr: Inter and intra-individual variation in acute responses to two different warm-up types
+- NCT07521215 | COMPLETED | results=False | NA | Evaluation of Injury Risk Factors and Effects of Individualized Exercise Program in Basketball and Volleyball Athletes | conds: Athletic Injuries, Sports Injury Prevention, Musculoskeletal Injury | intr: Test-Specific Individualized Exercise Program
+- NCT00739505 | COMPLETED | results=False | PHASE1 | Safety Study of Human Recombinant Tissue Non-Specific Alkaline Phosphatase Fusion Protein Asfotase Alfa in Adults With Hypophosphatasia (HPP | conds: Hypophosphatasia (HPP) | intr: Asfotase Alfa, Asfotase Alfa
+- NCT02370368 | COMPLETED | results=True | NA | Comparison of Videogame Based Dance Training With Agility Ladder Drills on Agility of Volleyball Players | conds: Healthy Athletes | intr: XBOX Kinect Just Dance 2014, Agility Ladder Drills
+- NCT00744042 | COMPLETED | results=True | PHASE1,PHASE2 | Safety and Efficacy Study of Asfotase Alfa in Severely Affected Infants With Hypophosphatasia (HPP) | conds: Hypophosphatasia (HPP) | intr: asfotase alfa | pubs: ['32762706:DERIVED (new)', '26529632:DERIVED (new)', '22397652:DERIVED (new)']
+- NCT07578896 | COMPLETED | results=False | NA | Maze Balance Board Training Effects on Mobility and Motor Skills in Cognitively Impaired Children | conds: Cognitive Impairment | intr: Maze Balance Board traing, Conventional Physical Therapy
+- NCT06732687 | RECRUITING | results=False | NA | Combined Effects of Calisthenics and Plyometric to Reduce Risk of Musculoskeletal Injuries Among School Going Children | conds: Musculoskeletal Injuries | intr: Calisthenics, Plyometrics, Combined( Calisthenics+ Plyometrics)
+- NCT00678652 | COMPLETED | results=True | PHASE1 | Phase 1 Safety and Immunogenicity of Meningococcal Vaccine | conds: Meningococcal Infection, Group B | intr: 10 μg Group B Meningococcal 8570 HOPS-G NOMV Vaccine, 25 μg Group B Meningococcal 8570 HOPS-G NOMV V
+- NCT05261958 | COMPLETED | results=False | NA | Effect of Speed,Agility and Quickness Training on Technical Skills in Football Players | conds: Physical Fitness | intr: SAQ training
+- NCT01205152 | COMPLETED | results=True | PHASE2 | Extension Study of Protocol ENB-002-08 - Study of Asfotase Alfa in Infants and Young Children With Hypophosphatasia (HPP) | conds: Hypophosphatasia | intr: asfotase alfa | pubs: ['32762706:DERIVED (new)', '30558909:DERIVED (new)', '26529632:DERIVED (new)']
+- NCT07492732 | RECRUITING | results=False |  | Comparison of the Effects of Selected Training Methods and SIS Stimulation on Balance, Motor Tests, and Strength | conds: Hamstring Injury | intr: Nordic Hamstring Exercises + SIS stimulation, Plyometric traning + SIS stimulation, Neuromuscular tr
+- NCT01820702 | COMPLETED | results=False | NA | Short Term Bed Rest Study: Evaluation of the Use of Artificial Gravity, Induced by Short-arm Centrifugation | conds: Bone Diseases, Metabolic, Acid-Base Imbalance, Muscular Atrophy, Sprains and Strains | intr: Defined Training Programme
+- NCT02432651 | COMPLETED | results=False | PHASE1 | Xanthohumol and Prevention of DNA Damage | conds: Oxidative Stress | intr: 6 mg xanthohumol per day, 12 mg xanthohumol per day, 24 mg xanthohumol per day, Placebo
+- NCT06739070 | ACTIVE_NOT_RECRUITING | results=False | NA | Comparison Between Calisthenics and Plyometrics on School Going Children | conds: Healthy | intr: Plyometric, Calisthenics, Control group (no intervention)
+- NCT05915819 | UNKNOWN | results=False | NA | Effects of Plyometric Training and Eccentric Muscle Training on Functional Performance in Weightlifters | conds: Functional Performance | intr: Plyometric Training, Eccentric Training
+- NCT06576687 | ENROLLING_BY_INVITATION | results=False | NA | Neurophysiology of Ankle Instability | conds: Ankle Injuries | intr: Physical Rehabilitation
+- NCT06574282 | RECRUITING | results=False |  | Characteristics of Hypophosphatasia in Adult Patients in Rheumatology and Their Value in Developing an Algorithm to HPP-diagnosis - the COHI | conds: Hypophosphatasia | intr: Second alkaline phosphatase measurement
+- NCT06401681 | COMPLETED | results=False | NA | Cross-Education for Chronic Ankle Instability | conds: Balance Training Group, Control Group | intr: Balance training | pubs: ['39593444:DERIVED (new)']
+- NCT05659134 | UNKNOWN | results=False | NA | Comparison of Alfredson and Silbernagel Protocol in Competitive Athletes With Achilles Tendinopathy | conds: Achilles Tendinopathy, Tendon Injuries, Tendon Thickening, Pain, Chronic | intr: Alfredson protocol, Silbernagel protocol
+- NCT03225703 | UNKNOWN | results=False | NA | The Effect of High Impact Exercise on Bone and Articular Cartilage in Post-menopausal Women | conds: Osteoporosis, Postmenopausal, Osteoarthritis, Knee, BMD | intr: Hopping | pubs: ['33196852:DERIVED (new)']
+- NCT04502615 | COMPLETED | results=False | NA | Effect of Sand on Knee Load and Muscle Activity During a Single Leg Landing Task | conds: Single Leg Hop Sand Surface, Single Leg Hop Grass Surface, Single Leg Hop Firm Surface | intr: Sand, artificial grass, firm ground | pubs: ['39964088:DERIVED (new)']
+- NCT03140397 | COMPLETED | results=False | EARLY_PHASE1 | Oral Bioavailability and Bioactivity of Prenylflavonoids From Hops | conds: Safety After Oral Intake, Pharmacokinetics After Oral Intake, Immune Cells Activity | intr: Placebo, 6-prenylnaringenin, 8-prenylnaringenin | pubs: ['29363261:DERIVED (new)']
+- NCT05684523 | COMPLETED | results=True | PHASE4 | Feasibility Study on the Use of Redormin®500 on Day-time Cognition | conds: Sleep Disorders, Circadian Rhythm, Cognitive Dysfunction | intr: Valerian-Hop Extract, Placebo | pubs: ['40462685:RESULT (new)']
+- NCT01194557 | COMPLETED | results=False | NA | Introducing Rapid Diagnostic Tests Into the Private Health Sector | conds: Fever, Malaria, Diagnosis, Referral | intr: Rapid diagnostic test, Lumartem | pubs: ['28588992:DERIVED (new)', '26200467:DERIVED (new)', '25069975:DERIVED (new)']
+- NCT01203826 | COMPLETED | results=True | PHASE2 | Extension Study of Protocol ENB-006-09 - Study of Asfotase Alfa in Children With Hypophosphatasia (HPP) | conds: Hypophosphatasia (HPP) | intr: Asfotase Alfa | pubs: ['32417537:DERIVED (new)', '27699270:DERIVED (new)']
+- NCT04729439 | UNKNOWN | results=False | PHASE1 | Technology-Enhanced Executive Functioning Intervention for ADHD | conds: ADHD, Attention Deficit Hyperactivity Disorder, Attention Deficit Disorder, ADD | intr: Homework Organization and Planning Skills (HOPS) Intervention, Digital Health Application (Online Pl
+- NCT00894075 | WITHDRAWN | results=False | PHASE2 | Safety and Efficacy Study of ENB-0040 in Juvenile Patients With Hypophosphatasia (HPP) | conds: Hypophosphatasia | intr: ENB-0040
+- NCT06225258 | RECRUITING | results=False | PHASE2 | Xanthohumol as an Adjuvant in the Treatment of Septic Shock | conds: Septic Shock, Pneumonia, ARDS | intr: Xanthohumol | pubs: ['24329115:RESULT (new)', '23036432:RESULT (new)', '33517187:RESULT (new)', '36378586:RESULT (new)', '24200239:RESULT (new)', '36508996:RESULT (new)', '33231055:RESULT (new)', '21659748:RESULT (new)', '37520007:RESULT (new)', '34170599:RESULT (new)', '35857130:RESULT (new)', '21093515:RESULT (new)', '29906742:RESULT (new)', '34830015:RESULT (new)', '28234482:RESULT (new)', '16134000:RESULT (new)', '34398408:RESULT (new)', '15231405:RESULT (new)', '37954118:RESULT (new)', '36074228:RESULT (new)', '28188927:RESULT (new)', '37406514:RESULT (new)']
+- NCT03561116 | UNKNOWN | results=False | NA | Effects of Xanthohumol on Metabolic Syndrome Progression | conds: Metabolic Syndrome | intr: XAN, Placebo
+- NCT06745102 | RECRUITING | results=False | NA | Hop Compounds on the Immune System in Overweight People | conds: Inflammatory Response | intr: Xanthohumol, Iso-alpha Acids, Xanthohumol + Iso-alpha Acids
+- NCT01982734 | COMPLETED | results=False | EARLY_PHASE1 | Improved Oral Bioavailability of Curcumin Incorporated Into Micelles | conds: Pharmacokinetics of New Curcumin Formulations, Safety of New Curcumin Formulations | intr: curcumin | pubs: [':RESULT (-)']
+- NCT03735420 | UNKNOWN | results=True | PHASE1 | Xanthohumol Metabolism and Signature | conds: Healthy | intr: Xanthohumol, Placebo oral capsule | pubs: ['38358253:DERIVED (new)', '33028396:DERIVED (new)']
+- NCT04847193 | COMPLETED | results=False | NA | Hop Compounds and Immune System | conds: Inflammatory Response | intr: Dietary Intervention 1: Placebo, Dietary Intervention 2: Xanthohumol and Iso-alpha acids | pubs: ['36293555:DERIVED (new)', '35857130:DERIVED (new)']
+- NCT06286644 | RECRUITING | results=False | NA | Hop Compounds on the Immune System (VH) | conds: Inflammatory Response | intr: Xanthohumol, Iso-alpha-Acids, Xanthohumol + Iso-alpha-Acids
+- NCT01367431 | COMPLETED | results=False |  | Xanthohumol and Metabolic Syndrome | conds: Metabolic Syndrome | intr: Xanthohumol
+- NCT06286657 | RECRUITING | results=False | NA | Xanthohumol and Viral Infections (XL) | conds: Infection Viral | intr: Xanthohumol, Placebo
+- NCT05711212 | COMPLETED | results=False | NA | Effects of Xanthohumol on Resting Energy Expenditure and Substrate Oxidation in Healthy Women | conds: Resting Energy Expenditure | intr: micellar solubilized Xanthohumol, Placebo | pubs: ['41723719:DERIVED (new)']
+
+### OpenAlex no-PMID trial-worded - 1426 hits, 53 without PMID, 53 new
+- new | 2026 | 10.1016/b978-0-443-22332-7.00056-8 | book-chapter | Adverse reactions to hops (Humulus lupulus) and their preparations | Elsevier eBooks
+- new | 2025 | 10.1002/brb3.70600/v1/review1 | peer-review | Review for "Effects of a Valerian-Hops Extract Combination (Ze 91019) on Sleep Duration and Daytime Cognitive and Psychological Parameters in Occasional Insomnia: A Randomized Cont | Publons reviews and discussion
+- new | 2025 | 10.1002/brb3.70600/v1/review2 | peer-review | Review for "Effects of a Valerian-Hops Extract Combination (Ze 91019) on Sleep Duration and Daytime Cognitive and Psychological Parameters in Occasional Insomnia: A Randomized Cont | Publons reviews and discussion
+- new | 2025 | 10.1002/brb3.70600/v2/response1 | peer-review | Author response for "Effects of a Valerian-Hops Extract Combination (Ze 91019) on Sleep Duration and Daytime Cognitive and Psychological Parameters in Occasional Insomnia: A Random | Publons reviews and discussion
+- new | 2025 | 10.1002/brb3.70600/v2/decision1 | peer-review | Decision letter for "Effects of a Valerian-Hops Extract Combination (Ze 91019) on Sleep Duration and Daytime Cognitive and Psychological Parameters in Occasional Insomnia: A Random | Publons reviews and discussion
+- new | 2025 | 10.1002/brb3.70600/v1/decision1 | peer-review | Decision letter for "Effects of a Valerian-Hops Extract Combination (Ze 91019) on Sleep Duration and Daytime Cognitive and Psychological Parameters in Occasional Insomnia: A Random | Publons reviews and discussion
+- new | 2025 | https://openalex.org/W7112004653 | conference-paper | Virus Incidence and Spread in Australian Triploid Hops (Humulus lupulus) | Figshare
+- new | 2023 | 10.17660/actahortic.2023.1366.17 | conference-paper | Cultivation trials of hop (Humulus lupulus L.) in a Mediterranean environment | Acta Horticulturae
+- new | 2023 | 10.56083/rcv3n7-106 | article | ANXIOLYTIC EFFECT OF A COMBINATION OF VALERIANA OFFICINALIS L. AND HUMULUS LUPULUS L. IN PATIENTS UNDERGOING IMPACTED THIRD MOLAR EXTRACTION | Revista Contemporânea
+- new | 2022 | 10.26420/austinjnutrmetab.2022.1124 | article | Effects of Standardized Hops (Humulus lupulus L.) Extract on Joint Health: A Randomized, Placebo-Controlled, Double-Blind, Multiple Dose Study | Austin Journal of Nutrition & Metabolism
+- new | 2022 | 10.1016/j.jff.2022.105383 | article | Effects of matured hop bitter acids on heart rate variability and cognitive performance: A randomized placebo-controlled crossover trial | Journal of Functional Foods
+- new | 2021 | 10.21273/horttech04727-20 | article | Results from Hop Cultivar Trials in Mid-Atlantic United States | HortTechnology
+- new | 2021 | 10.1007/s13314-021-00419-x | article | Hop stunt viroid detection in hops (Humulus lupulus) in Australia | Australasian Plant Disease Notes
+- new | 2020 | 10.1007/s11627-020-10088-7 | article | In vitro leaf-derived organogenesis and somaclonal variant detection in Humulus lupulus L | In Vitro Cellular & Developmental Biolog
+- new | 2019 | https://openalex.org/W3216437684 | article | Hop Soil Health Trial | ScholarWorks -A service of University of
+- new | 2019 | https://openalex.org/W3217460055 | article | Hop Nitrogen Fertility Trial | ScholarWorks -A service of University of
+- new | 2019 | 10.1016/j.cropro.2019.05.033 | article | Evaluation of hop (Humulus lupulus) as a repellent for the management of Drosophila suzukii | Crop Protection
+- new | 2019 | https://openalex.org/W7135285983 | report | Hop Crowning Trial | ScholarWorks -A service of University of
+- new | 2018 | https://openalex.org/W2903515926 | dissertation | Hops Production in Virginia: Nutrition, Fungal Pathogens, and Cultivar Trials | VTechWorks (Virginia Tech)
+- new | 2017 | https://openalex.org/W3127653814 | article | Hop Crowning Trial Final Report | ScholarWorks -A service of University of
+- new | 2016 | https://openalex.org/W3111758677 | article | Hop Optimal Irrigation Trial | ScholarWorks -A service of University of
+- new | 2016 | https://openalex.org/W3134659845 | article | Organic Hop Variety Trial Final Report | ScholarWorks -A service of University of
+- new | 2016 | https://openalex.org/W3007587311 | review | The effects of Humulus Lupulus L.)Hops) on Menopausal Vasomotor Symptoms: A Systematic Review and Meta- analysis | 
+- new | 2015 | https://openalex.org/W2240357532 | article | The effect of Hop (Humulus lupulus L.) in treating early menopausal symptoms in post-menopausal women: A randomized clinical-controlled trial | مجله علوم پزشکی رازی
+- new | 2015 | 10.1016/j.phanu.2015.03.001 | article | Isohumulones from hops (Humulus lupulus) and their potential role in medical nutrition therapy | PharmaNutrition
+- new | 2015 | https://openalex.org/W7135285277 | report | Hop Crowning Trial | ScholarWorks -A service of University of
+- new | 2015 | https://openalex.org/W3156161663 | article | Hop Compost Tea Trial | ScholarWorks -A service of University of
+- new | 2014 | 10.22102/19.3.2 | article | Efficacy of hop (Humuluslupulus L.) on early menopausal symptoms in perimenopausal women: A randomized double blind placebo-controlled trial | 
+- new | 2014 | https://openalex.org/W2885497384 | conference-paper | What's Hop'pening in Northwest New Mexico? Hops ( Humulus lupulus ) Trials Summary 2009 to 2014 | ASHS Annual Conference
+- new | 2014 | 10.3382/japr.2013-00926 | article | Effect of hops β-acids (Humulus lupulus) on performance and intestinal health of broiler chickens | The Journal of Applied Poultry Research
+- new | 2014 | https://openalex.org/W2908482181 | article | Hop Variety Trial: Results from Year Four | ScholarWorks -A service of University of
+- new | 2009 | https://openalex.org/W2312603849 | dissertation | Bioavailability of phytoestrogens from soy and hops: human randomized controlled intervention trials | Ghent University Academic Bibliography (
+- new | 2009 | 10.1200/jco.2009.27.15_suppl.e19540 | conference-abstract | Are comorbidities present in non-Hodgkin's lymphoma (NHL) patients (pts) enrolled in recent clinical trials different from those observed in previous clinical trials? | Journal of Clinical Oncology
+- new | 2009 | 10.1016/b978-0-12-373891-2.00054-7 | book-chapter | Neuropharmacological Activity of Humulus Lupulus L. | Elsevier eBooks
+- new | 2009 | 10.17660/actahortic.2009.848.19 | conference-paper | HUMULUS LUPULUS (HOPS), IS THERE ANY EVIDENCE FOR CENTRAL NERVOUS EFFECTS RELATED TO SLEEP? | Acta Horticulturae
+- new | 2008 | 10.1055/s-2008-1047853 | article | Sleep improving effects of a single dose administration of a valerian/hops fluid extract. A double blind, randomized, placebo-controlled sleep-EEG study in a parallel design using  | Zeitschrift für Phytotherapie
+- new | 2007 | 10.1055/s-2007-992167 | article | Baldrian-Hopfen-Kombination ZE 91019 bei Schlafstörungen überlegen wirksam im Vergleich mit Baldrian allein resp. mit Placebo | Zeitschrift für Phytotherapie
+- new | 2005 | 10.17660/actahortic.2005.668.6 | conference-paper | GENETIC ANALYSIS OF AGRONOMIC AND CHEMICAL CHARACTERS IN HOP (HUMULUS LUPULUS L.) | Acta Horticulturae
+- new | 2003 | 10.1080/01140671.2003.9514265 | article | Breeding, development, and characteristics of the hop (Humulus lupulus) cultivar ‘Nelson Sauvin’ | New Zealand Journal of Crop and Horticul
+- new | 2002 | 10.1111/j.1744-7348.2002.tb00198.x | article | Mechanical transmission of Apple mosaic virus in Australian hop (Humulus lupulus) gardens | Annals of Applied Biology
+- new | 2000 | 10.1046/j.1439-0523.2000.00469.x | article | Male and female genetic linkage map of hops, Humulus lupulus | Plant Breeding
+- new | 1999 | 10.1046/j.1439-0523.1999.118002175.x | article | Genetic relationships in cultivars of hop, Humulus lupulus L., determined by RAPD analysis | Plant Breeding
+- new | 1996 | 10.1007/bf00033088 | article | DNA typing of hops (Humulus lupulus) through application of RAPD and microsatellite marker sequences converted to sequence tagged sites (STS) | Euphytica
+- new | 1989 | https://openalex.org/W1580576827 | dissertation | Studies on the viruses of hop (Humulus lupulus L.) in New Zealand | Lincoln University Research Archive (Lin
+- new | 1981 | https://openalex.org/W2570734665 | article | Brewing trials with the hop [Humulus lupulus] variety Perle (1978 harvest). | 
+- new | 1974 | 10.1002/jsfa.2740250908 | article | Hop maturation and resin formation: Field trials | Journal of the Science of Food and Agric
+- new | 1970 | https://openalex.org/W1470304478 | article | Herbicide trials in established hops. | 
+- new | 1957 | 10.1093/oxfordjournals.aob.a083566 | article | A Bivariate Test for the Clumping of Supposedly Random Individuals | Annals of Botany
+- new | 1949 | 10.2134/agronj1949.00021962004100080011x | article | Uniformity Trial on Hops, Humulus lupulus L., for Increasing the Precision of Field Experiments1 | Agronomy Journal
+- new | 1927 | 10.1002/j.2050-0416.1927.tb05095.x | article | TRIAL OF NEW VARIETIES OF HOPS | Journal of the Institute of Brewing
+- new | 1926 | 10.1002/j.2050-0416.1926.tb05030.x | article | TRIAL OF NEW VARIETIES OF HOPS | Journal of the Institute of Brewing
+- new | 1922 | 10.1002/j.2050-0416.1922.tb06535.x | article | TRIAL OF NEW VARIETIES OF HOPS | Journal of the Institute of Brewing
+- new | 1922 | 10.1002/j.2050-0416.1922.tb06543.x | article | Trial of new varieties of Hops; 1921* | Journal of the Institute of Brewing
+
+## hydrastis-canadensis (Hydrastis canadensis) - name clause: "Hydrastis canadensis"[tiab] OR "goldenseal"[tiab] OR "golden seal"[tiab] OR "hydrastine"[ti]
+
+### PubMed HT - 14 hits, 14 not already listed above, 10 new
+- new | 2025 | 39488825 | Clinical Trial | Sex-Dependent Effects of CYP2D6 on the Pharmacokinetics of Berberine in Humans. | Clin Pharmacol Ther
+- new | 2025 | 39943692 | Clinical Trial, Phase I/Randomized Controlled Trial/Research Support, N.I.H., Extramural | The Pharmacokinetic Interaction Between Metformin and the Natural Product Goldenseal Is Metformin Dose-Dependent: A Three-Arm Crossover Study in Adults With Type 2 Diabetes. | Clin Transl Sci
+- new | 2021 | 33174626 | Clinical Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Assessing Transporter-Mediated Natural Product-Drug Interactions Via In vitro-In Vivo Extrapolation: Clinical Evaluation With a Probe Cocktail. | Clin Pharmacol Ther
+- HELD REF-0455 | 2020 | 32683037 | Review | Goldenseal (Hydrastis canadensis L.) and its active constituents: A critical review of their efficacy and toxicological issues. | Pharmacol Res
+- new | 2016 | 27671811 | Review | Berberine and Its Role in Chronic Disease. | Adv Exp Med Biol
+- new | 2015 | 25609220 | Clinical Study | Hydrastine pharmacokinetics and metabolism after a single oral dose of goldenseal (Hydrastis canadensis) to humans. | Drug Metab Dispos
+- new | 2015 | 26559365 | Research Support, Non-U.S. Gov't | Ultra-highly diluted plant extracts of Hydrastis canadensis and Marsdenia condurango induce epigenetic modifications and alter gene expression profiles in HeLa cells in vitro. | J Integr Med
+- new | 2015 | 25623616 | Research Support, N.I.H., Extramural | An ex vivo approach to botanical-drug interactions: a proof of concept study. | J Ethnopharmacol
+- HELD REF-1855 | 2008 | 17495878 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | Supplementation with goldenseal (Hydrastis canadensis), but not kava kava (Piper methysticum), inhibits human CYP3A activity in vivo. | Clin Pharmacol Ther
+- HELD REF-5051 | 2008 | 18214849 | Research Support, N.I.H., Extramural | Clinical assessment of CYP2D6-mediated herb-drug interactions in humans: effects of milk thistle, black cohosh, goldenseal, kava kava, St. John's wort, and Echinacea. | Mol Nutr Food Res
+- new | 2007 | 17079360 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | Effect of goldenseal (Hydrastis canadensis) and kava kava (Piper methysticum) supplementation on digoxin pharmacokinetics in humans. | Drug Metab Dispos
+- HELD REF-2503 | 2005 | 15900287 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | In vivo effects of goldenseal, kava kava, black cohosh, and valerian on human cytochrome P450 1A2, 2D6, 2E1, and 3A4/5 phenotypes. | Clin Pharmacol Ther
+- new | 2003 | 14551183 | Comparative Study | Influence of goldenseal root on the pharmacokinetics of indinavir. | J Clin Pharmacol
+- new | 1997 | 9063549 |  | Herbal preparation use among urban emergency department patients. | Acad Emerg Med
+
+### PubMed SR - 3 hits, 3 not already listed above, 3 new
+- new | 2025 | 40149916 | Review | Interplay Between Traditional and Scientific Knowledge: Phytoconstituents and Their Roles in Lung and Colorectal Cancer Signaling Pathways. | Biomolecules
+- new | 2012 | 22855269 | Systematic Review | Clinical evidence of herbal drugs as perpetrators of pharmacokinetic drug interactions. | Planta Med
+- new | 2005 | 15829016 | Research Support, Non-U.S. Gov't/Systematic Review | Natural health product-HIV drug interactions: a systematic review. | Int J STD AIDS
+
+### PubMed SAFE - 74 hits, 60 not already listed above, 58 new
+- new | 2026 | 42653808 | Review | Berberine-Drug Interactions: Mechanisms, Clinical Relevance and Risk Stratification-A Narrative Review. | Pharmaceuticals (Basel)
+- new | 2026 | 41634959 |  | The Effect of Some Complementary Medicine Active Components on Rat Embryonic Heart Rate In Vitro. | Birth Defects Res
+- new | 2026 | 41756342 | Case Reports | Transient Mood Elevation Without a Manic Switch: Goldenseal-Augmented Oral Glutamatergic Regimen in Bipolar Depression With Comorbid Obsessive-Compulsive Disorder (OCD). | Cureus
+- new | 2026 | 42048162 | Review | A screening strategy for identifying the developmental and reproductive toxicity potential of botanicals. | Pharm Biol
+- new | 2026 | 41031904 |  | Limited Sampling Strategy of Rosuvastatin Single-Time-point Concentrations Accurately Estimate Exposure and Constitutive Transporter Activities in Healthy Adults. | Ther Drug Monit
+- new | 2026 | 41783550 | Case Reports | Marked Improvement in Treatment-Intolerant Obsessive-Compulsive Disorder in an Adolescent Using a Glutamatergic Regimen With Dextromethorphan, Piracetam, and Goldenseal Root. | Cureus
+- new | 2026 | 42999173 | Preprint | Cell Painting and machine learning for mechanistic profiling of hepatotoxic botanicals and their constituents. | bioRxiv
+- new | 2025 | 40403579 |  | A gut response: Application of human enteroid monolayers to probe the mechanism of the goldenseal-mediated inhibition of metformin intestinal absorption. | J Pharmacol Exp Ther
+- new | 2024 | 39690297 | Review | Inhibitory effects of berberine on fungal growth, biofilm formation, virulence, and drug resistance as an antifungal drug and adjuvant with prospects for future applications. | World J Microbiol Biotechnol
+- new | 2024 | 39078118 | Review/Research Support, N.I.H., Extramural | Mechanisms of intestinal pharmacokinetic natural product-drug interactions. | Drug Metab Rev
+- new | 2023 | 37967895 |  | Unlocking the Goldenseal Reveals the Complexities of Natural Product-Drug Interactions. | J Pharmacol Exp Ther
+- new | 2023 | 37562957 | Research Support, N.I.H., Extramural | Goldenseal-Mediated Inhibition of Intestinal Uptake Transporters Decreases Metformin Systemic Exposure in Mice. | Drug Metab Dispos
+- new | 2023 | 36724611 | Research Support, Non-U.S. Gov't | Protective effects of berberine against β-amyloid-induced neurotoxicity in HT22 cells via the Nrf2/HO-1 pathway. | Bioorg Chem
+- new | 2023 | 36707434 | Review/Research Support, Non-U.S. Gov't | Interactions between natural products and cancer treatments: underlying mechanisms and clinical importance. | Cancer Chemother Pharmacol
+- new | 2023 | 37291812 |  | Interactions between complementary medicines and drugs used in primary care and oral COVID-19 antiviral drugs. | Aust J Gen Pract
+- new | 2023 | 36858077 |  | Evaluation of Therapeutic Potential of Selected Plant-Derived Homeopathic Medicines for their Action against Cervical Cancer. | Homeopathy
+- new | 2023 | 37541764 | Research Support, N.I.H., Extramural | An Integrative Approach to Elucidate Mechanisms Underlying the Pharmacokinetic Goldenseal-Midazolam Interaction: Application of In Vitro Assays and Physiologically Based Pharmacoki | J Pharmacol Exp Ther
+- new | 2023 | 37629702 |  | In Silico Analysis of the Effect of Hydrastis canadensis on Controlling Breast Cancer. | Medicina (Kaunas)
+- new | 2022 | 35048143 |  | Physiologically based pharmacokinetic model predictions of natural product-drug interactions between goldenseal, berberine, imatinib and bosutinib. | Eur J Clin Pharmacol
+- new | 2021 | 33164294 | Review | Is it safe to consume traditional medicinal plants during pregnancy? | Phytother Res
+- new | 2021 | 34326303 | Case Reports | Usefulness of Hydrastis for the prevention of encrustation of long-term indwelling catheters in persons with neurogenic bladder dysfunction: a case series. | Spinal Cord Ser Cases
+- new | 2020 | 32610349 |  | In Vitro Assessment of Homeopathic Potencies of Hydrastis canadensis on Hormone-Dependent and Independent Breast Cancer. | Homeopathy
+- HELD REF-2504 | 2020 | 32591416 | Research Support, N.I.H., Extramural | Modulation of Major Human Liver Microsomal Cytochromes P450 by Component Alkaloids of Goldenseal: Time-Dependent Inhibition and Allosteric Effects. | Drug Metab Dispos
+- new | 2019 | 29600756 | Review | Potential Pharmacokinetic Herb-Drug Interactions: Have we Overlooked the Importance of Human Carboxylesterases 1 and 2? | Curr Drug Metab
+- new | 2017 | 28762712 | Review | Common Herbal Dietary Supplement-Drug Interactions. | Am Fam Physician
+- new | 2017 | 29143794 |  | Berberine Activates Aryl Hydrocarbon Receptor but Suppresses CYP1A1 Induction through miR-21-3p Stimulation in MCF-7 Breast Cancer Cells. | Molecules
+- new | 2015 | 26234707 | Review | Drug metabolism and pharmacokinetic diversity of ranunculaceae medicinal compounds. | Curr Drug Metab
+- new | 2015 | 26526838 | Research Support, U.S. Gov't, Non-P.H.S./Review | Clinically Relevant Pharmacokinetic Herb-drug Interactions in Antiretroviral Therapy. | Curr Drug Metab
+- new | 2014 | 26417265 | Review | Cytochrome P450 enzyme mediated herbal drug interactions (Part 1). | EXCLI J
+- new | 2013 | 23747414 | Research Support, U.S. Gov't, Non-P.H.S./Research Support, U.S. Gov't, P.H.S. | Mechanism study of goldenseal-associated DNA damage. | Toxicol Lett
+- new | 2013 | 23262639 | Research Support, N.I.H., Intramural/Review | The toxicity and pathology of selected dietary herbal medicines. | Toxicol Pathol
+- new | 2013 | 23886934 | Research Support, Non-U.S. Gov't | Inhibition of CYP1 by berberine, palmatine, and jatrorrhizine: selectivity, kinetic characterization, and molecular modeling. | Toxicol Appl Pharmacol
+- new | 2012 | 33242239 | Review | Berberine. | 
+- new | 2012 | 22565299 | Review | Pharmacokinetic herb-drug interactions (part 2): drug interactions involving popular botanical dietary supplements and their clinical relevance. | Planta Med
+- new | 2012 | 22257149 | Research Support, Non-U.S. Gov't/Review | Drug interactions with herbal medicines. | Clin Pharmacokinet
+- new | 2012 | 22342832 |  | Modulations of cytochrome P450 expression in diabetic mice by berberine. | Chem Biol Interact
+- new | 2012 | 22588833 | Review | Phenotyping studies to assess the effects of phytopharmaceuticals on in vivo activity of main human cytochrome p450 enzymes. | Planta Med
+- new | 2011 | 22224048 |  | Protective effects of goldenseal (Hydrastis canadensis L.) on acetaminophen-induced hepatotoxicity through inhibition of CYP2E1 in rats. | Pharmacognosy Res
+- new | 2011 | 21920422 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Dose-response of berberine on hepatic cytochromes P450 mRNA expression and activities in mice. | J Ethnopharmacol
+- new | 2011 | 21300790 | Research Support, N.I.H., Extramural/Research Support, N.I.H., Intramural | Investigating the potential for toxicity from long-term use of the herbal products, goldenseal and milk thistle. | Toxicol Pathol
+- new | 2010 | 21372858 | Technical Report | Toxicology and carcinogenesis studies of goldenseal root powder (Hydrastis Canadensis) in F344/N rats and B6C3F1 mice (feed studies). | Natl Toxicol Program Tech Rep Ser
+- HELD REF-0589 | 2010 | 20218935 | Research Support, Non-U.S. Gov't | Rapid screening of commercially available herbal products for the inhibition of major human hepatic cytochrome P450 enzymes using the N-in-one cocktail. | Xenobiotica
+- new | 2010 | 20843149 |  | Anti-carcinogenic potentials of a plant extract (Hydrastis canadensis): I. Evidence from in vivo studies in mice (Mus musculus). | Asian Pac J Cancer Prev
+- new | 2009 | 19269122 |  | Validation of a liquid chromatography-tandem mass spectrometric assay for the quantitative determination of hydrastine and berberine in human serum. | J Pharm Biomed Anal
+- new | 2007 | 17585008 | Case Reports | Severe hypernatremia and hyperosmolality exacerbated by an herbal preparation in a patient with diabetic ketoacidosis. | Clin Pediatr (Phila)
+- new | 2007 | 18066144 | Research Support, Non-U.S. Gov't | Modulation of human cytochrome P450 3A4 (CYP3A4) and P-glycoprotein (P-gp) in Caco-2 cell monolayers by selected commercial-source milk thistle and goldenseal products. | Can J Physiol Pharmacol
+- new | 2007 | 17611934 | Research Support, N.I.H., Extramural | An in vitro evaluation of cytochrome P450 inhibition and P-glycoprotein interaction with goldenseal, Ginkgo biloba, grape seed, milk thistle, and ginseng extracts and their constit | Planta Med
+- new | 2007 | 17658211 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Effects of herbal products and their constituents on human cytochrome P450(2E1) activity. | Food Chem Toxicol
+- new | 2006 | 16780351 | Research Support, N.I.H., Intramural | Photochemistry and photocytotoxicity of alkaloids from Goldenseal (Hydrastis canadensis L.). 2. Palmatine, hydrastine, canadine, and hydrastinine. | Chem Res Toxicol
+- new | 2006 | 16983620 | Research Support, N.I.H., Extramural | Interactions between natural health products and antiretroviral drugs: pharmacokinetic and pharmacodynamic effects. | Clin Infect Dis
+- new | 2006 | 16634078 | Research Support, N.I.H., Extramural | Developmental toxicity evaluation of berberine in rats and mice. | Birth Defects Res B Dev Reprod Toxicol
+- new | 2005 | 16193497 | Research Support, Non-U.S. Gov't | A reproductive screening test of goldenseal. | Birth Defects Res B Dev Reprod Toxicol
+- new | 2003 | 14677798 | Case Reports | Photosensitivity reaction in a woman using an herbal supplement containing ginseng, goldenseal, and bee pollen. | J Toxicol Clin Toxicol
+- new | 2003 | 12809364 | Research Support, Non-U.S. Gov't | In vitro inhibition of human cytochrome P450-mediated metabolism of marker substrates by natural products. | Phytomedicine
+- new | 2003 | 14570772 |  | Human cytochrome p450 inhibition and metabolic-intermediate complex formation by goldenseal extract and its methylenedioxyphenyl components. | Drug Metab Dispos
+- new | 2002 | 12298422 | Research Support, U.S. Gov't, P.H.S./Review | An evaluation of selected herbal reference texts and comparison to published reports of adverse herbal events. | Adverse Drug React Toxicol Rev
+- new | 2001 | 11712911 |  | Photochemistry and photocytotoxicity of alkaloids from Goldenseal (Hydrastis canadensis L.) 1. Berberine. | Chem Res Toxicol
+- new | 2000 | 10969720 | Research Support, Non-U.S. Gov't | An in vitro evaluation of human cytochrome P450 3A4 inhibition by selected commercial herbal extracts and tinctures. | Phytomedicine
+- new | 1986 | 3081844 | Research Support, Non-U.S. Gov't | Berberine sulfate inhibits tumor-promoting activity of teleocidin in two-stage carcinogenesis on mouse skin. | Oncology
+- new | 1954 | 14398297 |  | Toxicity of hydrastine, hydrastinine, and sparteine. | Acta Pharmacol Toxicol (Copenh)
+
+### PubMed OBS - 1 hits, 1 not already listed above, 1 new
+- new | 2013 | 24283381 | Research Support, N.I.H., Extramural | The use of dietary supplements and their association with blood pressure in a large Midwestern cohort. | BMC Complement Altern Med
+
+### PubMed REV - 25 hits, 5 not already listed above, 5 new
+- new | 2024 | 38109712 | Review/Research Support, U.S. Gov't, Non-P.H.S./Research Support, Non-U.S. Gov't | A cornucopia of diversity-Ranunculales as a model lineage. | J Exp Bot
+- new | 2020 | 32064656 | Review | Progress and prospects in the management of bacterial infections and developments in Phytotherapeutic modalities. | Clin Exp Pharmacol Physiol
+- new | 2014 | 24669227 | Review | Antioxidant and anti-inflammatory activities of berberine in the treatment of diabetes mellitus. | Evid Based Complement Alternat Med
+- new | 2006 | 30000926 | Review | Goldenseal. | 
+- new | 2001 | 11607041 | Research Support, Non-U.S. Gov't/Review | Cardiovascular actions of berberine. | Cardiovasc Drug Rev
+
+### ClinicalTrials.gov - 6 registered studies
+- NCT05081583 | COMPLETED | results=True | EARLY_PHASE1 | Clinical Evaluation of the Pharmacokinetic Goldenseal-Metformin Interaction in Diabetic Patients | conds: Interaction, Adverse Herb-Drug, Diabetes Mellitus, Type 2 | intr: Midazolam Hcl 1Mg/Ml Inj, Goldenseal (Hydrastis canadensis) | pubs: ['39943692:DERIVED (new)']
+- NCT02345447 | COMPLETED | results=False | PHASE3 | Herbal-Based Medication vs. Placebo in Preventing Acute Otitis Media in Children at High Risk of Recurrence | conds: Acute Otitis Media | intr: Herbal-based medication, Placebo
+- NCT06426966 | COMPLETED | results=False | NA | Gymnema Sylvestre vs Berberine in Obesity Gene Expression of Adipokines | conds: Diabetes Mellitus, Obesity | intr: Berberine, Gymnema sylvestre
+- NCT05652959 | COMPLETED | results=False |  | Real-world Performance and Safety of Cerviron® in the Treatment of Vaginitis | conds: Vaginitis, Bacterial Vaginosis | intr: Cerviron®
+- NCT05668806 | COMPLETED | results=False |  | RWE Study in the Treatment of Cervical Lesions of Various Etiology | conds: Cervical Lesion, Vaginal Bleeding | intr: Cerviron | pubs: ['37546352:DERIVED (new)']
+- NCT01049373 | COMPLETED | results=True | PHASE3 | Efficacy and Safety of Lymphdiaral Basistropfen (HDC) in the Treatment of Chronic Low-back Pain | conds: Low Back Pain | intr: HDC, Placebo solution
+
+### OpenAlex no-PMID trial-worded - 675 hits, 64 without PMID, 64 new
+- new | 2026 | 10.33545/26164485.2026.v10.i3.a.2396 | article | Hydrastis canadensis in a chronic case of hypothyroidism associated with long-standing cough and haemorrhoids: A case report | International Journal of Homoeopathic Sc
+- new | 2026 | 10.5281/zenodo.18115651 | article | BERBERINE: A PROMISING PHYTOCHEMICAL WITH MULTIFUNCTIONAL PHARMACOLOGICAL ACTIVITIES AND FUTURE THERAPEUTIC POTENTIAL | Zenodo (CERN European Organization for N
+- new | 2026 | 10.33545/26164485.2026.v10.i9.d.3210 | article | Study of ranunculaceae family medicines in cases of rheumatoid arthritis | International Journal of Homoeopathic Sc
+- new | 2026 | 10.1016/j.hnm.2026.200387 | article | Effect of phytosomal berberine and monacolin K association on glyco-metabolic and lipid parameters in dysglycemic and hypercholesterolemic patients | Human Nutrition & Metabolism
+- new | 2025 | 10.4103/ijra.ijra_28_25 | article | Preclinical Insights on Hydrastis canadensis in Oral Cancer | International Journal of Research in AYU
+- new | 2025 | 10.22214/ijraset.2025.70576 | article | Biological Properties of Hydrastis Canadensis Using Copper Nanoparticles | International Journal for Research in Ap
+- new | 2025 | 10.22271/plants.2025.v13.i2a.1800 | article | Therapeutic potential of goldenseal root extract on glucose metabolism and weight reduction in diabetic rats | Journal of Medicinal Plants Studies
+- new | 2024 | 10.3390/app14188436 | article | Natural Photosensitizers in Clinical Trials | Applied Sciences
+- new | 2024 | 10.3390/cosmetics11040139 | article | Skin and Scalp Health Benefits of a Specific Botanical Extract Blend: Results from a Double-Blind Placebo-Controlled Study in Urban Outdoor Workers | Cosmetics
+- new | 2024 | 10.1007/s40521-024-00360-1 | article | Impact of Cosmetics and Cleansers in Atopic Dermatitis—How to Advise Patients | Current Treatment Options in Allergy
+- new | 2023 | https://openalex.org/W7217372482 | article | Alternative Avenues in Cancer Management: A Comprehensive Review of Homoeopathic Medicines | Journal of chemical health risks
+- new | 2023 | 10.1124/jpet.122.232190 | article | Goldenseal-mediated Inhibition of Enteric Uptake Transporters Decreases Metformin Systemic Exposure in Mice | Journal of Pharmacology and Experimental
+- new | 2023 | 10.1515/jnhpr-2023-050201 | article | A Pilot Crossover Study of Berberine and its Short-Term Effects on Blood Glucose Levels in Healthy Volunteers | Journal of Natural Health Product Resear
+- new | 2022 | 10.25061/2527-2675/rebram/2022.v25i3.1549 | article | Homeopatia para o controle da hiperacidez gástrica: revisão sistemática da literatura | Revista Brasileira Multidisciplinar
+- new | 2022 | 10.26442/20795696.2022.4.201793 | article | Change of angiogenesis in the nodular form of benign mammary dysplasia during treatment with alkaloids, flavonoids and glycosides | GYNECOLOGY
+- new | 2022 | 10.1002/9781119818779.ch15 | book-chapter | Herbal Bioactives for Treating Urinary Tract Infections | Wiley eBooks
+- new | 2022 | 10.33978/2307-3586-2022-18-14-36-41 | article | Efficacy and Safety Evaluation of Gastrokur Dietary Supplement in Combination with Pantoprazole in Patients with Helicobacter pylori | Effective Pharmacotherapy
+- new | 2021 | 10.51910/ijhdr.v12i45.635 | article | Evidence in support of gene regulatory hypothesis: Gene expression profiling manifests homeopathy effect as more than placebo | International Journal of High Dilution R
+- new | 2021 | 10.51415/10321/4025 | dissertation | The influence of pharmaceutical methods ofpreparation of Hydrastis canadensis mother tincture, on concentrations of Hydrastine and Berberine, using High-Performance Liquid Chromato | DUT Open Scholar (Durban University of T
+- new | 2021 | 10.51415/10321/4024 | dissertation | The influence of pharmaceutical methods ofpreparation of Hydrastis canadensis mother tincture, on concentrations of Hydrastine and Berberine, using High-Performance Liquid Chromato | DUT Open Scholar (Durban University of T
+- new | 2021 | 10.47310/hjcmph.2021.v02i02.001 | article | Dyspepsia and Homoeopathic Management | Himalayan Journal of Community Medicine 
+- new | 2021 | 10.1186/s43094-021-00256-w | article | Current perspectives in herbal and conventional drug interactions based on clinical manifestations | Future Journal of Pharmaceutical Science
+- new | 2020 | 10.17816/jowd89801-807 | article | To the casuistry of perforating the uterus of the patient herself in order to induce an abortion | Journal of obstetrics and women s diseas
+- new | 2020 | 10.5958/2321-5836.2020.00019.1 | article | Retrospective Analytical Case Series Study on the Acid Peptic Disorders treated with Homoeopathic Medications | Research Journal of Pharmacology and Pha
+- new | 2018 | 10.1089/act.2018.29176.eya | article | Herbs for Upper Digestive Overgrowth of Flora | Alternative and Complementary Therapies
+- new | 2017 | 10.11648/j.ijgg.20160406.11 | article | Genetic Assessment of the Shrub Syncepalum dulcificum (SCHUMACH & THONN.) Daniell in Nigeria Using the Randomly Amplified Polymorphic DNA (RAPD) | International Journal of Genetics and Ge
+- new | 2016 | 10.51415/10321/1780 | dissertation | A repertorial comparison of the proving of a homoeopathic complex to the rubrics of the constitutent parts | DUT Open Scholar (Durban University of T
+- new | 2015 | 10.14309/00000434-201510001-00852 | article | Goldenseal Root Powder (Hydrastis Canadensis) Associated Hepatotoxicity | The American Journal of Gastroenterology
+- new | 2015 | 10.4172/2157-7439.1000311 | article | Nanoparticle Characterization of Traditional Homeopathically-Manufactured Silver (Argentum Metallicum) Medicines and Placebo Controls | Journal of Nanomedicine & Nanotechnology
+- new | 2015 | https://openalex.org/W2340291582 | dissertation | Experimental greenhouse and field trials on American Ginseng, Panax quinquefolium: Implications for restoration in Appalachia | JMU Scholoraly Commons (James Madison Un
+- new | 2015 | 10.1186/s40816-015-0002-3 | article | Common phyto-remedies used against cardiovascular diseases and their potential to induce adverse events in cardiovascular patients | Clinical Phytoscience
+- new | 2014 | https://openalex.org/W2740182892 | article | Alternative Homeopathic Therapy for Cancer Treatment: The Psorinum Therapy | 
+- new | 2013 | https://openalex.org/W2900832718 | article | Eosinophilic oesophagitis (EoE): Hypothetical herbal interventions for a rare and emerging gastrointestinal disorder | Australian journal of medical herbalism
+- new | 2013 | 10.5772/52913 | book-chapter | Immune-Based Treatment Strategies for Patients with Recurrent Urinary Tract Infections – Where Are We? | InTech eBooks
+- new | 2012 | https://openalex.org/W3096888071 | dissertation | New perspectives on saw palmetto (Serenoa repens) : a medico historical/analytical comparison of preparations derived from it and a clinical pilot trial in patients with benign pro | UCL Discovery (University College London
+- new | 2011 | 10.1055/s-0031-1304768 | article | Anti-Inflammatory and Barrier-Protective Effects of Berberine | Zeitschrift für Gastroenterologie
+- new | 2010 | https://openalex.org/W2554012394 | review | Methods for exploring heterogeneity in systematic reviews of randomized controlled trials. | TSpace (University of Toronto)
+- new | 2009 | 10.7275/655283 | dissertation | Genetic Variability in Hydrastis Canadensis L. Using Rapd Analysis | Scholarworks (University of Massachusett
+- new | 2009 | https://openalex.org/W129947894 | dissertation | ANTICANCER PROPERTIES OF RESEARCH-GRADE HYDRASTIS CANADENSIS (GOLDENSEAL) AND CHARACTERIZATION OF ITS EFFECT ON THE MDR1 -ENCODED PHOSPHOGLYCOPROTEIN EFFLUX PUMP | TigerPrints (Clemson University)
+- new | 2009 | 10.1055/s-2009-1216394 | article | Trials and Tribulations of Planning and Conducting a Phase 2 Clinical Trial with Black Cohosh and Red Clover | Planta Medica
+- new | 2009 | 10.2147/nds.s6084 | article | Berberine: metabolic and cardiovascular effects in preclinical and clinical trials | Nutrition and Dietary Supplements
+- new | 2008 | 10.1660/0022-8443(2008)111[147:gpqlag]2.0.co;2 | article | Ginseng (Panax quinquefolius L.) and goldenseal (Hydrastis canadensis L.) trials in eastern Kansas | Transactions of the Kansas Academy of Sc
+- new | 2008 | https://openalex.org/W1606416467 | article | Chemical Composition and Anti-proliferative Activity of Several Medicinal Plants | NC Digital Online Collection of Knowledg
+- new | 2008 | 10.4212/cjhp.v61i1.8 | article | Use of Dietary Supplements by Patients Taking Digoxin | The Canadian Journal of Hospital Pharmac
+- new | 2006 | 10.51415/10321/25 | dissertation | The efficacy of a topical naturopathic complex (Allium sativum MT, Hydrastis canadensis MT, Apis mellifica D3 and Urtica urens D3) in the treatment of Tinea pedis | DUT Open Scholar (Durban University of T
+- new | 2004 | 10.1111/j.1061-2971.2004.00297.x | article | Restoration ofHydrastis canadensis: Experimental Test of a Disturbance Hypothesis After Two Growing Seasons | Restoration Ecology
+- new | 2003 | 10.51415/10321/70 | dissertation | A study investigating the efficacy of a homoeopathic complex (Hydrastis canadensis 9CH, Kalium bichromicum 9CH, Sambucus nigra 9CH) on the treatment of chronic sinusitis | DUT Open Scholar (Durban University of T
+- new | 2003 | 10.1046/j.1526-100x.2003.00183.x | article | Restoration ofHydrastis canadensisby Transplanting with Disturbance Simulation: Results of One Growing Season | Restoration Ecology
+- new | 2003 | 10.1080/07060660309507072 | article | The ginseng root pathogensCylindrocarpon destructansandPhytophthora cactorumare not pathogenic to the medicinal herbsHydrastis canadensisand Actaea racemosa | Canadian Journal of Plant Pathology
+- new | 2002 | 10.20381/ruor-11205 | dissertation | Recovery of the threatened economic plant goldenseal (Hydrastis canadensis). | uO Research (University of Ottawa)
+- new | 2000 | 10.5962/p.364034 | article | Ontario Goldenseal, Hydrastis canadensis, populations in relation to habitat size, paths, and woodland edge | The Canadian Field-Naturalist
+- new | 1995 | 10.21273/hortsci.30.4.902d | article | Student Teaching and Research Initiative through Volunteer Employment | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.822c | article | Michigan Asparagus Clone Trial | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.908d | article | First Results of Woody Ornamental Trial Network in Québec | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.885b | article | Grower Contributions to the Early Stages of Crop Nutrient Trials with Vegetables | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.771a | article | Rootstock and Scion Interact to Affect Apple Tree Performance: A 5-year Summary of the 1990 NC-140 Trial | HortScience
+- new | 1965 | 10.1139/v65-271 | article | BIOSYNTHESIS OF BERBERINE AND BERBERASTINE INCORPORATION OF CATECHOLAMINES | Canadian Journal of Chemistry
+- new | 1963 | 10.1139/v63-111 | article | THE BIOSYNTHESIS OF HYDRASTINE AND BERBERINE | Canadian Journal of Chemistry
+- new | 1962 | 10.1016/s0025-7125(16)33762-2 | article | Heredity and the Blood Dyscrasias | Medical Clinics of North America
+- new | 1912 | 10.1055/s-0029-1189840 | article | Liquor Hydrastinini (Bayer) — ein synthetisches Hydrastininum hydrochloricum | DMW - Deutsche Medizinische Wochenschrif
+- new | 1887 | 10.1001/jama.1887.02400090017003 | article | MEDICAL PROGRESS. | JAMA
+- new | 1872 | 10.1016/s0140-6736(02)63704-3 | article | LIVERPOOL. | The Lancet
+- new | 1872 | 10.1016/s0140-6736(02)63703-1 | article | NEWCASTLE-ON-TYNE. | The Lancet
+- new | 1872 | 10.1016/s0140-6736(02)63705-5 | article | THE VOLUNTEER MEDICAL SERVICE. | The Lancet
+
+## hypericum-perforatum (Hypericum perforatum) - name clause: "Hypericum perforatum"[tiab] OR "St John's wort"[tiab] OR "St. John's wort"[tiab] OR "St Johns wort"[tiab] OR "hyperforin"[ti] OR "hypericin"[ti] OR "Hypericum"[ti]
+
+### PubMed HT - 583 hits, 200 not already listed above, 187 new
+- new | 2026 | 42793293 | Review | Hyperforin as a Multifunctional Specialized Metabolite of Natural Origin for Chronic Diseases: From Molecular Mechanisms to Clinical Translation. | Curr Issues Mol Biol
+- new | 2026 | 41253417 | Randomized Controlled Trial/Comparative Study | Comparison of the Effect of Hypericum perforatum Vaginal Gel and Clotrimazole Vaginal Cream on Vaginal Candida albicans Infection: A Double-Blind Randomized Clinical Trial. | J Integr Complement Med
+- SEEN | 2025 | 39951699 | Randomized Controlled Trial | Homeopathic Treatment of Chronic Low-Back Pain: A Double-Blind, Randomized, Placebo-Controlled Trial. | J Integr Complement Med
+- new | 2025 | 40906611 | Observational Study | St John's Wort (Hypericum perforatum) Fresh Plant Tincture for Patients with Mild to Moderate Depression: A Prospective Observational Study. | Complement Med Res
+- new | 2025 | 38963342 | Systematic Review/Meta-Analysis | Herbal Medicine in Children and Adults With Atopic Dermatitis: A Systematic Review and Meta-Analysis. | Dermatitis
+- new | 2025 | 40733149 |  | Wound Healing Effects of New Cream Formulations with Herbal Ingredients. | Pharmaceutics
+- new | 2025 | 40327993 |  | Bidirectional interactions between St. John´s wort and gut microbiome: Potential implications on gut-brain-axis. | Biomed Pharmacother
+- new | 2025 | 39857765 | Review | Hypericin-Mediated Photodynamic Therapy for Head and Neck Cancers: A Systematic Review. | Biomedicines
+- HELD REF-3602 | 2025 | 40717256 | Randomized Controlled Trial | The Effects of St. John's Wort on Healing of Stages 1 and 2 Pressure Injuries: A Randomized Controlled Trial. | J Wound Ostomy Continence Nurs
+- new | 2024 | 39717381 | Systematic Review | Phytochemicals in the treatment of patients with depression: a systemic review. | Front Psychiatry
+- new | 2024 | 38700454 | Research Support, Non-U.S. Gov't | St. John's wort extract with a high hyperforin content does not induce P-glycoprotein activity at the human blood-brain barrier. | Clin Transl Sci
+- new | 2024 | 39466382 |  | Patients with systemic sclerosis frequently use phytopharmaceuticals: a cross-sectional survey. | Rheumatol Int
+- new | 2024 | 38673695 |  | Fluorescence-Guided Laparoscopy after Oral Hypericin Administration for Staging of Locally Advanced Gastric Cancer-A Pilot Study. | J Clin Med
+- new | 2024 | 39039480 |  | Medicinal plants used in multiple sclerosis patients, prevalence and associated factors: a descriptive cross-sectional study. | BMC Complement Med Ther
+- HELD REF-3605 | 2024 | 38242739 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The Effect of St. John's Wort Oil (Hypericum Perforatum L.) in Knee Osteoarthritis: A Randomized Controlled and Qualitative Study. | Pain Manag Nurs
+- new | 2023 | 36226689 | Meta-Analysis | The efficacy and safety of St. John's wort extract in depression therapy compared to SSRIs in adults: A meta-analysis of randomized clinical trials. | Adv Clin Exp Med
+- new | 2023 | 37663386 | Review | Herbal medicines in the treatment of children and adolescents with attention-deficit/hyperactivity disorder (ADHD): An updated systematic review of clinical trials. | Avicenna J Phytomed
+- new | 2023 | 37354040 | Review | Treatment of Mood and Depressive Disorders With Complementary and Alternative Medicine: Efficacy Review. | J Midwifery Womens Health
+- new | 2023 | 37560083 | Review | Role of Herbal Medication in Tobacco Cessation Treatment: A Systematic Review and Meta-analysis. | Addict Health
+- new | 2023 | 37663381 |  | The antidepressant effect of combined extracts of Hypericum perforatum and Echium amoenum supplementation in patients with depression symptoms: A randomized clinical trial. | Avicenna J Phytomed
+- new | 2023 | 37176699 |  | Efficacy and Safety of Co-Administered St. John's Wort and Ginkgo biloba Extracts in Patients with Subjective Tinnitus: A Preliminary Prospective Randomized Controlled Trial. | J Clin Med
+- new | 2023 | 36946749 | Randomized Controlled Trial | A Randomized Split-Face Study of Photodynamic Therapy With St. John's Wort and Indole-3-Acetic Acid for the Treatment of Acne. | Dermatol Surg
+- new | 2023 | 37047914 | Systematic Review/Research Support, Non-U.S. Gov't | Adaptogens on Depression-Related Outcomes: A Systematic Integrative Review and Rationale of Synergism with Physical Activity. | Int J Environ Res Public Health
+- new | 2022 | 36510811 | Randomized Controlled Trial | [Christmas article: Can gin with herbs induce the vision of Christmas elves?]. | Ugeskr Laeger [dan]
+- new | 2022 | 36299970 | Review | Advantages and Disadvantages of Using St. John's Wort as a Treatment for Depression. | Cureus
+- new | 2022 | 35985181 | Review | Hypericin and its anticancer effects: From mechanism of action to potential therapeutic application. | Phytomedicine
+- new | 2022 | 34608830 | Systematic Review | Weight gain in menopause: systematic review of adverse events in women treated with black cohosh. | Climacteric
+- new | 2022 | 35678785 | Clinical Trial, Phase III/Randomized Controlled Trial | Hypericum and neem oil for dehisced post-surgical wounds: a randomised, controlled, single-blinded phase III study. | J Wound Care
+- new | 2022 | 36367811 |  | The efficacy of St John's wort oil macerates on intractable skin lesions of patients with idiopathic granulomatous mastitis: preliminary results. | J Wound Care
+- SEEN | 2022 | 35171041 | Randomized Controlled Trial | Hypericum perforatum to Improve Postoperative Pain Outcome After Monosegmental Spinal Sequestrectomy (HYPOS): Results of a Randomized, Double-Blind, Placebo-Controlled Trial. | J Integr Complement Med
+- new | 2022 | 35418599 |  | Antioxidant potential and essential oil properties of Hypericum perforatum L. assessed by application of selenite and nano-selenium. | Sci Rep
+- HELD REF-0670 | 2021 | 33021111 | Meta-Analysis/Systematic Review | Review & meta-analysis: isopropanolic black cohosh extract iCR for menopausal symptoms - an update on the evidence. | Climacteric
+- new | 2021 | 33167674 | Review | Contraception for Women With Psychiatric Disorders. | Am J Psychiatry
+- new | 2021 | 34796061 | Review | A Systematic Review of the Use of St. John's Wort for Smoking Cessation in Adults. | Cureus
+- new | 2021 | 32959922 | Research Support, Non-U.S. Gov't | Effects of Hypericum perforatum (St John's wort) on the pharmacokinetics and pharmacodynamics of rivaroxaban in humans. | Br J Clin Pharmacol
+- new | 2021 | 34199290 | Review | Nutritional Supplements for the Treatment of Neuropathic Pain. | Biomedicines
+- new | 2021 | 33057887 | Multicenter Study/Randomized Controlled Trial | Effect of St. John's wort oil and olive oil on the postoperative complications after third molar surgery: randomized, double-blind clinical trial. | Clin Oral Investig
+- new | 2020 | 32501634 | Letter/Comment | Can Hypericum perforatum (SJW) prevent cytokine storm in COVID-19 patients? | Phytother Res
+- new | 2020 | 32211986 | Review | From St. John's wort to tomato and from Rhodiola to cranberry : A review of phytotherapy and some examples. | Wien Klin Wochenschr
+- new | 2020 | 31938871 |  | Computational screening of miRNAs and their targets in leaves of Hypericum spp. by transcriptome-mining: a pilot study. | Planta
+- new | 2020 | 32936948 | Research Support, Non-U.S. Gov't/Systematic Review | Antimicrobial mouthwashes (gargling) and nasal sprays administered to patients with suspected or confirmed COVID-19 infection to improve patient outcomes and to protect healthcare  | Cochrane Database Syst Rev
+- new | 2020 | 33463265 | Research Support, Non-U.S. Gov't | Hypericin-Loaded Transferrin Nanoparticles Induce PP2A-Regulated BMI1 Degradation in Colorectal Cancer-Specific Chemo-Photodynamic Therapy. | ACS Biomater Sci Eng
+- new | 2020 | 32436985 |  | The healing effects of Hyperium perforatum (St. John's Wort) on experimental alkaline corrosive eosephageal and stomach burns. | Ulus Travma Acil Cerrahi Derg
+- HELD REF-3598 | 2019 | 31331546 | Randomized Controlled Trial | The effect of Hypericum perforatum on postmenopausal symptoms and depression: A randomized controlled trial. | Complement Ther Med
+- new | 2019 | 30382352 | Randomized Controlled Trial | The acute effect of Hypericum perforatum on short-term memory in healthy adults. | Psychopharmacology (Berl)
+- new | 2019 | 30626212 | Systematic Review | Benefit-risk profile of black cohosh (isopropanolic Cimicifuga racemosa extract) with and without St John's wort in breast cancer patients. | Climacteric
+- new | 2019 | 30993194 |  | Simultaneous defeat of MCF7 and MDA-MB-231 resistances by a hypericin PDT-tamoxifen hybrid therapy. | NPJ Breast Cancer
+- new | 2019 | 30739325 | Clinical Trial, Phase I/Research Support, Non-U.S. Gov't | No Clinically Relevant Interactions of St. John's Wort Extract Ze 117 Low in Hyperforin With Cytochrome P450 Enzymes and P-glycoprotein. | Clin Pharmacol Ther
+- new | 2019 | 34466472 |  | Antidepressant Effects of a Persian Medicine Remedy on Multiple Sclerosis Patients: A Double-Blinded Randomized Clinical Trial. | Galen Med J
+- new | 2019 | 30762165 |  | In vitro antioxidant assessment, screening of enzyme inhibitory activities of methanol and water extracts and gene expression in Hypericum lydium. | Mol Biol Rep
+- new | 2019 | 30484733 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Subchronic treatment with St John's wort produces a positive shift in emotional processing in healthy volunteers. | J Psychopharmacol
+- new | 2018 | 29846749 | Review | [Herbal medicines for psychiatric disorders]. | Nervenarzt [ger]
+- HELD REF-3409 | 2018 | 28027682 | Randomized Controlled Trial | The effect of Achillea millefolium and Hypericum perforatum ointments on episiotomy wound healing in primiparous women. | J Matern Fetal Neonatal Med
+- new | 2018 | 30192025 | Clinical Trial, Phase I | Rivaroxaban and macitentan can be coadministered without dose adjustment but the combination of rivaroxaban and St John's wort should be avoided. | Br J Clin Pharmacol
+- new | 2018 | 29991209 | Comparative Study/Controlled Clinical Trial/Observational Study | Role in depression of a multi-fractionated versus a conventional Hypericum perforatum extract. | Panminerva Med
+- new | 2018 | 30607361 |  | Impact of Hypericum Perforatum Ointment on Perineal Pain Intensity Following Episiotomy: a Randomized Placebo-Controlled Trial. | J Caring Sci
+- new | 2017 | 28685911 | Pragmatic Clinical Trial/Randomized Controlled Trial | Combined Lifestyle and Herbal Medicine in Overweight Women with Polycystic Ovary Syndrome (PCOS): A Randomized Controlled Trial. | Phytother Res
+- new | 2017 | 28216196 | Review | Hypericum perforatum (St John's wort) beyond depression: A therapeutic perspective for pain conditions. | J Ethnopharmacol
+- new | 2017 | 29200376 | Review | Anesthetic Considerations for Patients on Antidepressant Therapy-Part I. | Anesth Prog
+- new | 2017 | 29557312 | Comparative Study/Historical Article | [A Multi-arm Placebo-controlled Study with Glutamic Acid Conducted in Rostock in 1953/1954]. | Prax Kinderpsychol Kinderpsychiatr [ger]
+- new | 2016 | 27589952 | Meta-Analysis/Systematic Review | A systematic review of St. John's wort for major depressive disorder. | Syst Rev
+- new | 2016 | 27041449 | Research Support, Non-U.S. Gov't/Review | Regulation of hepatic energy metabolism by the nuclear receptor PXR. | Biochim Biophys Acta
+- new | 2016 | 27294213 | Review | The efficacy of Iranian herbal medicines in alleviating hot flashes: A systematic review. | Int J Reprod Biomed
+- new | 2016 | 27462550 | Review | Effects of flaxseed and Hypericum perforatum on hot flash, vaginal atrophy and estrogen-dependent cancers in menopausal women: a systematic review and meta-analysis. | Avicenna J Phytomed
+- new | 2016 | 28083422 |  | St. John's Wort for Major Depressive Disorder: A Systematic Review. | Rand Health Q
+- new | 2016 | 25963330 | Clinical Trial, Phase I | St. John's wort treatment in women bears risks beyond pharmacokinetic drug interactions. | Arch Toxicol
+- new | 2015 | 26764438 | Review |  | 
+- new | 2015 | 25190721 | Letter/Comment | Comment on: Pharmacokinetics of the co-administration of boceprevir and St John's wort to male and female healthy volunteers. | J Antimicrob Chemother
+- HELD REF-1795 | 2014 | 24188229 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Hypericum perforatum L. preparations for menopause: a meta-analysis of efficacy and safety. | Climacteric
+- new | 2014 | 24068654 | Clinical Trial | The effect of St John's wort on the pharmacokinetics of docetaxel. | Clin Pharmacokinet
+- new | 2014 | 24472406 | Research Support, Non-U.S. Gov't | Influence of St. John's wort on the steady-state pharmacokinetics and metabolism of bosentan. | Int J Clin Pharmacol Ther
+- new | 2014 | 24851449 | News | [Which antidepressant for what patients? St. John's wort: broad application - new mechanism of action]. | MMW Fortschr Med [ger]
+- new | 2014 | 24739262 | Research Support, Non-U.S. Gov't | PKC-mediated potentiation of morphine analgesia by St. John's Wort in rodents and humans. | J Pharmacol Sci
+- new | 2013 | 23813259 | Review | Dietary supplement interactions with medications used commonly in dentistry. | J Am Dent Assoc
+- new | 2013 | 24161307 | Review | Treatment of premenstrual dysphoric disorder. | Womens Health (Lond)
+- new | 2013 | 23943471 | Review | Integrative medicine for treating depression: an update on the latest evidence. | Curr Psychiatry Rep
+- new | 2013 | 24091858 | Comparative Study/Letter/Meta-Analysis | Conditional probability of response or nonresponse of placebo compared with antidepressants or St John's Wort in major depressive disorder. | J Clin Psychopharmacol
+- new | 2013 | 23394826 | Research Support, Non-U.S. Gov't/Review | Relevance of in vitro and clinical data for predicting CYP3A4-mediated herb-drug interactions in cancer patients. | Cancer Treat Rev
+- new | 2013 | 22968811 | Comparative Study/Randomized Controlled Trial | Effect of the CYP3A inhibitor ketoconazole on the PXR-mediated induction of CYP3A activity. | Eur J Clin Pharmacol
+- new | 2012 | 22686865 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Systematic Review | Systematic review of breastfeeding and herbs. | Breastfeed Med
+- new | 2012 | 22385322 | Systematic Review | Efficacy of Cimicifuga racemosa, Hypericum perforatum and Agnus castus in the treatment of climacteric complaints: a systematic review. | Gynecol Endocrinol
+- new | 2012 | 21635359 | Randomized Controlled Trial | St John's wort greatly decreases the plasma concentrations of oral S-ketamine. | Fundam Clin Pharmacol
+- new | 2011 | 21171936 | Systematic Review | Herbal treatments for alleviating premenstrual symptoms: a systematic review. | J Psychosom Obstet Gynaecol
+- new | 2011 | 20977305 | Research Support, Non-U.S. Gov't/Review | Potential of St John's Wort for the treatment of depression: the economic perspective. | Aust N Z J Psychiatry
+- new | 2011 | 21438644 | Review | St. John's wort and S-adenosyl methionine as "natural" alternatives to conventional antidepressants in the era of the suicidality boxed warning: what is the evidence for clinically | Altern Med Rev
+- new | 2011 | 21438645 | Systematic Review | Herbal medicines, other than St. John's Wort, in the treatment of depression: a systematic review. | Altern Med Rev
+- new | 2011 | 22018419 | Systematic Review | Depression in children and adolescents. | BMJ Clin Evid
+- new | 2011 | 21058968 | Clinical Trial | Drug interaction between St John's wort and zolpidem in healthy subjects. | J Clin Pharm Ther
+- new | 2011 | 21810233 | Randomized Controlled Trial | Early effect of NEURAPAS® balance on current source density (CSD) of human EEG. | BMC Psychiatry
+- new | 2010 | 20493333 | Review | Complementary and alternative medicine usage for behavioral health indications. | Prim Care
+- new | 2010 | 20590478 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | A randomized clinical trial of St. John's wort for smoking cessation. | J Altern Complement Med
+- new | 2010 | 21053786 | Research Support, N.I.H., Extramural | Update on St. John's Wort. | J Psychosoc Nurs Ment Health Serv
+- new | 2010 | 20708905 | Review | Efficacy and tolerability of Hypericum extract for the treatment of mild to moderate depression. | Eur Neuropsychopharmacol
+- new | 2010 | 20106684 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | St John's wort greatly reduces the concentrations of oral oxycodone. | Eur J Pain
+- new | 2010 | 20568656 | Meta-Analysis | Better tolerability of St. John's wort extract WS 5570 compared to treatment with SSRIs: a reanalysis of data from controlled clinical trials in acute major depression. | Int Clin Psychopharmacol
+- new | 2010 | 21170696 | Review | [The HMPC monograph on Hypericum: Background, development, contents]. | Wien Med Wochenschr [ger]
+- new | 2010 | 21914616 |  | History and therapeutic properties of Hypericum Perforatum from antiquity until today. | Psychiatriki
+- new | 2010 | 19809408 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A randomized, double-blind, placebo-controlled trial of St John's wort for treating irritable bowel syndrome. | Am J Gastroenterol
+- new | 2010 | 20573327 | Comparative Study/Meta-Analysis | Complementary and alternative medicine for major depressive disorder: a meta-analysis of patient characteristics, placebo-response rates, and treatment outcomes relative to standar | J Clin Psychiatry
+- new | 2009 | 19633246 | Comment | Review: St John's wort superior to placebo and similar to antidepressants for major depression but with fewer side effects. | Evid Based Ment Health
+- new | 2009 | 19657198 | Review | St. John's wort - an overview. | Forsch Komplementmed
+- new | 2009 | 18692251 | Comparative Study/Research Support, Non-U.S. Gov't/Review | Complementary and alternative medicine for perinatal depression. | J Affect Disord
+- new | 2009 | 19445770 | Systematic Review | Depression in children and adolescents. | BMJ Clin Evid
+- new | 2009 | 19028540 | Meta-Analysis | Efficacy and tolerability of Hypericum perforatum in major depressive disorder in comparison with selective serotonin reuptake inhibitors: a meta-analysis. | Prog Neuropsychopharmacol Biol Psychiatr
+- new | 2009 | 18791483 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Hypericum perforatum with Vitex agnus-castus in menopausal symptoms: a randomized, controlled trial. | Menopause
+- HELD REF-0154 | 2008 | 18843608 | Systematic Review | St John's wort for major depression. | Cochrane Database Syst Rev
+- new | 2008 | 18456339 | Research Support, N.I.H., Extramural/Review | Complementary and alternative medicine in the treatment of bipolar disorder--a review of the evidence. | J Affect Disord
+- new | 2008 | 18424529 | Review | Hypericum and nurses: a comprehensive literature review on the efficacy of St. John's Wort in the treatment of depression. | J Holist Nurs
+- new | 2008 | 18331283 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Hypericum perforatum extract in burning mouth syndrome: a randomized placebo-controlled study. | J Oral Pathol Med
+- new | 2008 | 18084790 | Review | Efficacy of St. John's wort extract WS 5570 in acute treatment of mild depression: a reanalysis of data from controlled clinical trials. | Eur Arch Psychiatry Clin Neurosci
+- new | 2008 | 18204476 | Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Effects of St John's wort and CYP2C9 genotype on the pharmacokinetics and pharmacodynamics of gliclazide. | Br J Pharmacol
+- new | 2008 | 18363644 | Review | Review article: cytochrome P450 enzyme, and transport protein mediated herb-drug interactions in renal transplant patients: grapefruit juice, St John's Wort - and beyond! | Nephrology (Carlton)
+- new | 2007 | 17194961 | Research Support, N.I.H., Extramural/Review | Botanical and dietary supplements for mood and anxiety in menopausal women. | Menopause
+- new | 2007 | 17284505 | Clinical Trial | Effects of St. John's wort supplementation on ibuprofen pharmacokinetics. | Ann Pharmacother
+- new | 2007 | 17254717 | Letter | St. John's wort may diminish methylphenidate's efficacy in treating patients suffering from attention deficit hyperactivity disorder. | Med Hypotheses
+- new | 2006 | 16818121 | Review | Anti-depressive therapies after heart transplantation. | J Heart Lung Transplant
+- new | 2006 | 16825922 | Systematic Review | St. John's wort and the treatment of mild to moderate depression: a systematic review. | Holist Nurs Pract
+- new | 2006 | 17105697 | Research Support, Non-U.S. Gov't/Review | St John's wort for depression: time for a different perspective? | Complement Ther Med
+- new | 2006 | 16904419 | Controlled Clinical Trial/Research Support, N.I.H., Extramural | Does St. John's wort interfere with the antiandrogenic effect of oral contraceptive pills? | Contraception
+- new | 2006 | 17010103 | Systematic Review | The effect of St John's wort extracts on CYP3A: a systematic review of prospective clinical trials. | Br J Clin Pharmacol
+- new | 2006 | 17014404 | Research Support, Non-U.S. Gov't/Review | Effectiveness of complementary and self-help treatments for depression in children and adolescents. | Med J Aust
+- new | 2006 | 17050802 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Investigation of the effects of herbal medicines on warfarin response in healthy subjects: a population pharmacokinetic-pharmacodynamic modeling approach. | J Clin Pharmacol
+- new | 2006 | 16884867 | Research Support, N.I.H., Extramural/Review | Contemporary alternatives to plant estrogens for menopause. | Maturitas
+- new | 2006 | 16449108 | Randomized Controlled Trial | Black cohosh and St. John's wort for climacteric complaints: a randomized trial. | Obstet Gynecol
+- new | 2006 | 16477470 | Comparative Study/Review | Hyperforin in St. John's wort drug interactions. | Eur J Clin Pharmacol
+- new | 2005 | 16342849 | Review | St. John's wort. | Am Fam Physician
+- new | 2005 | 15684231 | Comparative Study/Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | St John's wort for depression: meta-analysis of randomised controlled trials. | Br J Psychiatry
+- new | 2005 | 15846605 | Meta-Analysis/Systematic Review | St John's wort for depression. | Cochrane Database Syst Rev
+- new | 2005 | 15953803 | Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, P.H.S./Review | Nonpharmacologic treatments for depression in patients with coronary heart disease. | Psychosom Med
+- new | 2005 | 15910213 | Comparative Study/Multicenter Study/Research Support, Non-U.S. Gov't | Open-label pilot study of St. John's wort in adolescent depression. | J Child Adolesc Psychopharmacol
+- new | 2005 | 15703370 | Clinical Trial/Comparative Study/Research Support, Non-U.S. Gov't | CYP3A and P-glycoprotein activity induction with St. John's Wort in healthy volunteers from 6 ethnic populations. | J Clin Pharmacol
+- new | 2005 | 15693723 | Systematic Review | Large-scale observational studies of hypericum extracts in patients with depressive disorders--a systematic review. | Phytomedicine
+- new | 2005 | 15643100 | Clinical Trial/Randomized Controlled Trial/Research Support, U.S. Gov't, P.H.S. | St. John's wort versus placebo in social phobia: results from a placebo-controlled pilot study. | J Clin Psychopharmacol
+- new | 2005 | 16192837 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | St John's wort versus placebo in obsessive-compulsive disorder: results from a double-blind study. | Int Clin Psychopharmacol
+- new | 2005 | 16160619 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A Double-blind, randomized trial of St John's wort, fluoxetine, and placebo in major depressive disorder. | J Clin Psychopharmacol
+- new | 2004 | 15554758 | Systematic Review | Adverse effects of St. John's Wort: a systematic review. | J Clin Psychiatry
+- new | 2004 | 15163246 | Meta-Analysis/Research Support, Non-U.S. Gov't | How effective is St John's wort? The evidence revisited. | J Clin Psychiatry
+- new | 2004 | 15231618 | Research Support, Non-U.S. Gov't/Systematic Review | Interaction of St John's wort with conventional drugs: systematic review of clinical trials. | BMJ
+- new | 2004 | 15470331 | Clinical Trial/Controlled Clinical Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Effect of St John's wort on imatinib mesylate pharmacokinetics. | Clin Pharmacol Ther
+- new | 2004 | 14681346 | Clinical Trial/Clinical Trial, Phase I/Clinical Trial, Phase II/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Effects of St. John's wort (Hypericum perforatum) on tacrolimus pharmacokinetics in healthy volunteers. | J Clin Pharmacol
+- new | 2004 | 15488262 | Comparative Study/Research Support, Non-U.S. Gov't/Review | Safety of Hypericum extract in mildly to moderately depressed outpatients: a review based on data from three randomized, placebo-controlled trials. | J Affect Disord
+- new | 2004 | 15354376 | Review | Selected integrative medicine treatments for depression: considerations for women. | J Am Med Womens Assoc (1972)
+- new | 2004 | 15536462 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Influence of St John's wort on catecholamine turnover and cardiovascular regulation in humans. | Clin Pharmacol Ther
+- new | 2004 | 15179409 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of St John's wort dose and preparations on the pharmacokinetics of digoxin. | Clin Pharmacol Ther
+- new | 2004 | 15001970 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | St John's wort induces both cytochrome P450 3A4-catalyzed sulfoxidation and 2C19-dependent hydroxylation of omeprazole. | Clin Pharmacol Ther
+- new | 2004 | 15211398 | Meta-Analysis | [Meta-analysis of effectiveness and tolerability of treatment of mild to moderate depression with St. John's Wort]. | Fortschr Neurol Psychiatr [ger]
+- new | 2003 | 12832592 | Research Support, Non-U.S. Gov't/Systematic Review | St John's wort: a systematic review of adverse effects and drug interactions for the consultation psychiatrist. | Psychosomatics
+- new | 2003 | 12904978 | Review | St. John's Wort. An option for the primary care treatment of depressive patients? | Eur Arch Psychiatry Clin Neurosci
+- new | 2003 | 12874492 | Clinical Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | An open-label pilot study of St. John's wort in juvenile depression. | J Am Acad Child Adolesc Psychiatry
+- new | 2003 | 14659385 | Comparative Study | St John's wort, conventional medication, and placebo: an egregious double standard. | Complement Ther Med
+- new | 2003 | 14663455 | Clinical Trial/Research Support, U.S. Gov't, P.H.S. | The interaction between St John's wort and an oral contraceptive. | Clin Pharmacol Ther
+- new | 2003 | 12845387 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Impact of ginkgo biloba on the pharmacokinetics of digoxin. | Am J Ther
+- new | 2002 | 12189216 | Editorial/Comment | St. John's Wort: more implications for cancer patients. | J Natl Cancer Inst
+- new | 2002 | 12939122 | Review | Citrus aurantium as a thermogenic, weight-reduction replacement for ephedra: an overview. | J Med
+- new | 2002 | 12212522 | Meta-Analysis | [Hypericum perforatum extract in treatment of mild to moderate depression. Clinical and pharmacological aspects]. | Nervenarzt [ger]
+- new | 2002 | 11915827 | Comment | St John's wort was not better than placebo for reducing depression scores. | Evid Based Ment Health
+- new | 2002 | 12440452 | Comment | St John's wort was not better than placebo for reducing symptoms in major depressive disorder. | Evid Based Ment Health
+- new | 2002 | 12222670 | Review | Clinical trials with hypericum extracts in patients with depression--results, comparisons, conclusions for therapy with antidepressant drugs. | Phytomedicine
+- new | 2002 | 12053635 | Clinical Trial/Comparative Study/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | St John's wort or sertraline? Randomized controlled trial in primary care. | Can Fam Physician
+- new | 2002 | 12087344 | Clinical Trial/Controlled Clinical Trial/Research Support, U.S. Gov't, P.H.S. | Effect of St John's wort on the pharmacokinetics of fexofenadine. | Clin Pharmacol Ther
+- new | 2002 | 12235448 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Cytochrome P450 phenotypic ratios for predicting herb-drug interactions in humans. | Clin Pharmacol Ther
+- new | 2002 | 12143922 | Research Support, U.S. Gov't, P.H.S./Review | Alternative treatments for depression: empirical support and relevance to women. | J Clin Psychiatry
+- new | 2002 | 11937433 | Review | Complementary/alternative therapies for reducing hot flashes in prostate cancer patients: reevaluating the existing indirect data from studies of breast cancer and postmenopausal w | Urology
+- new | 2002 | 12424553 | Clinical Trial/Comparative Study/Randomized Controlled Trial | St John's wort extract (LI 160) in somatoform disorders: results of a placebo-controlled trial. | Psychopharmacology (Berl)
+- HELD REF-3596 | 2002 | 11939866 | Clinical Trial/Multicenter Study/Randomized Controlled Trial/Research Support, U.S. Gov't, P.H.S. | Effect of Hypericum perforatum (St John's wort) in major depressive disorder: a randomized controlled trial. | JAMA
+- new | 2001 | 11601931 | Historical Article/Research Support, U.S. Gov't, P.H.S./Review | Herbal medicines today and the roots of modern pharmacology. | Ann Intern Med
+- new | 2001 | 11370698 | Review | St John's wort (Hypericum perforatum L.): a review of its chemistry, pharmacology and clinical properties. | J Pharm Pharmacol
+- new | 2001 | 11552767 | Meta-Analysis/Systematic Review | A systematic review and meta-analysis of Hypericum perforatum in depression: a comprehensive clinical review. | Int Clin Psychopharmacol
+- new | 2001 | 11593081 | Clinical Trial/Letter | St. John's wort: effect on CYP2D6 activity using dextromethorphan-dextrorphan ratios. | J Clin Psychopharmacol
+- new | 2001 | 11719733 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Red wine decreases cyclosporine bioavailability. | Clin Pharmacol Ther
+- new | 2001 | 11275394 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | St. John's wort has no effect on pain in polyneuropathy. | Pain
+- new | 2001 | 11673747 | Clinical Trial/Research Support, U.S. Gov't, P.H.S. | The effects of St John's wort (Hypericum perforatum) on human cytochrome P450 activity. | Clin Pharmacol Ther
+- new | 2001 | 11518076 | Review | Efficacy and tolerability of Ze 117 St. John's wort extract in comparison with placebo, imipramine and fluoxetine for the treatment of mild to moderate depression according to ICD- | Pharmacopsychiatry
+- HELD REF-3597 | 2001 | 11308434 | Clinical Trial/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Effectiveness of St John's wort in major depression: a randomized controlled trial. | JAMA
+- new | 2001 | 11570071 | Clinical Trial/Newspaper Article | St. John's wort extract found not helpful for hepatitis C. | TreatmentUpdate
+- new | 2000 | 10803859 | Review | St John's wort: a potential therapy for elderly depressed patients? | Drugs Aging
+- new | 2000 | 10796719 | Systematic Review | St John's wort for depression. | Cochrane Database Syst Rev
+- new | 2000 | 10901558 |  | A pilot study of Hypericum perforatum for the treatment of premenstrual syndrome. | BJOG
+- new | 2000 | 10982200 | Clinical Trial/Research Support, Non-U.S. Gov't | An open-label trial of St. John's Wort (Hypericum perforatum) in obsessive-compulsive disorder. | J Clin Psychiatry
+- new | 2000 | 10809859 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Topical application of St John's wort (Hypericum perforatum L.) and of its metabolite hyperforin inhibits the allostimulatory capacity of epidermal cells. | Br J Dermatol
+- new | 2000 | 10968813 | Clinical Trial/Comparative Study/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Comparison of St John's wort and imipramine for treating depression: randomised controlled trial. | BMJ
+- new | 2000 | 10770006 | News | Patients being treated for HIV should avoid St. John's Wort: NIH. | J Am Dent Assoc
+- new | 1999 | 10394673 | Research Support, Non-U.S. Gov't/Review | Assessing the risks and benefits of herbal medicine: an overview of scientific evidence. | Altern Ther Health Med
+- HELD REF-1798 | 1999 | 10483049 | Review | The experimental and clinical pharmacology of St John's Wort (Hypericum perforatum L.). | Mol Psychiatry
+- new | 1999 | 10496508 | Comparative Study/Meta-Analysis | St. John's wort for depression: a meta-analysis of well-defined clinical trials. | J Nerv Ment Dis
+- new | 1999 | 10625118 | Review | Hypericum for depression. An update of the clinical evidence. | Eur Neuropsychopharmacol
+- new | 1999 | 10623319 | Clinical Trial | St. John's Wort extract: efficacy for menopausal symptoms of psychological origin. | Adv Ther
+- HELD REF-2433 | 1999 | 10546917 | Clinical Trial/Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Pharmacokinetic interaction of digoxin with an herbal extract from St John's wort (Hypericum perforatum). | Clin Pharmacol Ther
+- new | 1998 | 9717868 |  | Is St. John's wort (Hypericum perforatum) an effective antidepressant? | J Nerv Ment Dis
+- new | 1998 | 9860144 | Systematic Review | Adverse effects profile of the herbal antidepressant St. John's wort (Hypericum perforatum L.). | Eur J Clin Pharmacol
+- new | 1998 | 9684946 | Clinical Trial/Comparative Study/Controlled Clinical Trial | Oral bioavailability of hyperforin from hypericum extracts in rats and human volunteers. | Pharmacopsychiatry
+- new | 1998 | 9684948 | Clinical Trial/Comparative Study/Multicenter Study/Randomized Controlled Trial | St. John's wort in mild to moderate depression: the relevance of hyperforin for the clinical efficacy. | Pharmacopsychiatry
+- new | 1997 | 9342763 | Review | Controlled clinical trials of hypericum extracts in depressed patients--an overview. | Pharmacopsychiatry
+- new | 1997 | 9342768 | Clinical Trial/Randomized Controlled Trial | Hypericin and pseudohypericin: pharmacokinetics and effects on photosensitivity in humans. | Pharmacopsychiatry
+- new | 1997 | 9342767 | Clinical Trial/Randomized Controlled Trial | Treatment of seasonal affective disorder (SAD) with hypericum extract. | Pharmacopsychiatry
+- new | 1996 | 8704532 | Comparative Study/Meta-Analysis/Systematic Review | St John's wort for depression--an overview and meta-analysis of randomised clinical trials. | BMJ
+- new | 1995 | 23196103 |  | St. John's Wort, an anti-depressant? A systematic, criteria-based review. | Phytomedicine
+- new | 1994 | 7857501 | Clinical Trial/Comparative Study/Multicenter Study/Randomized Controlled Trial | Multicenter double-blind study examining the antidepressant effectiveness of the hypericum extract LI 160. | J Geriatr Psychiatry Neurol
+- new | 1994 | 7857506 | Clinical Trial/Multicenter Study | Benefits and risks of the hypericum extract LI 160: drug monitoring study with 3250 patients. | J Geriatr Psychiatry Neurol
+- new | 1994 | 7857516 | Clinical Trial/Multicenter Study/Randomized Controlled Trial | Placebo-controlled double-blind study examining the effectiveness of an hypericum preparation in 105 mildly depressed patients. | J Geriatr Psychiatry Neurol
+
+### PubMed SR - 177 hits, 51 not already listed above, 47 new
+- new | 2026 | 41817282 | Scoping Review | Current Umbrella Evidence on Nutraceuticals and Herbal Medicine for Depression in Adults: A Scoping Review. | J Integr Complement Med
+- new | 2025 | 40210174 | Systematic Review | Herbal medicine for treating psoriasis: A systematic review. | Complement Ther Med
+- new | 2025 | 40735481 | Systematic Review | Understanding the research landscape of over-the-counter herbal products, dietary supplements, and medications evaluated for depressive symptoms in adults: a scoping review. | Front Pharmacol
+- new | 2024 | 38997788 | Research Support, Non-U.S. Gov't/Review | Effectiveness of smoking cessation interventions among adults: an overview of systematic reviews. | Syst Rev
+- new | 2024 | 37654090 | Systematic Review | The role of diet and non-pharmacologic supplements in the treatment of chronic neuropathic pain: A systematic review. | Pain Pract
+- new | 2024 | 39861682 | Review | Riboflavin- and Hypericin-Mediated Antimicrobial Photodynamic Therapy as Alternative Treatments for Oral Candidiasis: A Systematic Review. | Pharmaceutics
+- new | 2024 | 38287355 | Meta-Analysis/Systematic Review | Effectiveness of Shugan Jieyu capsules for psychiatric symptoms of epilepsy: a systematic review and meta-analysis. | BMC Complement Med Ther
+- new | 2023 | 36940629 | Systematic Review/Research Support, Non-U.S. Gov't | Triggers for acute mood episodes in bipolar disorder: A systematic review. | J Psychiatr Res
+- new | 2023 | 38152358 | Systematic Review | Identifying complementary and alternative medicine recommendations for anxiety treatment and care: a systematic review and critical assessment of comprehensive clinical practice gu | Front Psychiatry
+- new | 2022 | 35311615 | Meta-Analysis/Research Support, Non-U.S. Gov't | Clinician guidelines for the treatment of psychiatric disorders with nutraceuticals and phytoceuticals: The World Federation of Societies of Biological Psychiatry (WFSBP) and Canad | World J Biol Psychiatry
+- new | 2022 | 35490427 | Systematic Review | Native Iranian Medicinal Plants with Anti-Vaginal Infection Properties: A Systematic Review. | Infect Disord Drug Targets
+- new | 2022 | 35788539 | Systematic Review | Prevalence of Use of Traditional, Complementary and Alternative Medicine by the General Population: A Systematic Review of National Studies Published from 2010 to 2019. | Drug Saf
+- new | 2021 | 32478963 | Research Support, Non-U.S. Gov't/Systematic Review | Warfarin and food, herbal or dietary supplement interactions: A systematic review. | Br J Clin Pharmacol
+- new | 2021 | 33596697 | Research Support, Non-U.S. Gov't/Review | Plant-based Medicines (Phytoceuticals) in the Treatment of Psychiatric Disorders: A Meta-review of Meta-analyses of Randomized Controlled Trials: Les médicaments à base de plantes  | Can J Psychiatry
+- new | 2020 | 32319681 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Antidepressants for smoking cessation. | Cochrane Database Syst Rev
+- new | 2020 | 32124509 | Systematic Review | Herbal medicines and phytochemicals for obsessive-compulsive disorder. | Phytother Res
+- new | 2019 | 31383703 | Review | Complementary therapies for clinical depression: an overview of systematic reviews. | BMJ Open
+- new | 2019 | 28653745 | Scoping Review | St John's wort for depression: scoping review about perceptions and use by general practitioners in clinical practice. | J Pharm Pharmacol
+- new | 2019 | 30660822 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Interaction of herbal products with prescribed medications: A systematic review and meta-analysis. | Pharmacol Res
+- HELD REF-2535 | 2019 | 30036891 | Meta-Analysis/Review | The Efficacy of Saffron in the Treatment of Mild to Moderate Depression: A Meta-analysis. | Planta Med
+- new | 2019 | 31133058 | Systematic Review | Medicinal plants as therapeutic options for topical treatment in canine dermatology? A systematic review. | BMC Vet Res
+- HELD REF-2547 | 2018 | 29575228 | Systematic Review | Herbal medicines in the treatment of psychiatric disorders: 10-year updated review. | Phytother Res
+- new | 2018 | 29708295 | Systematic Review | The safety of St John's wort (Hypericum perforatum) in pregnancy and lactation: A systematic review of rodent studies. | Phytother Res
+- new | 2018 | 29632841 | Review | The effectiveness and safety of Iranian herbal medicines for treatment of premenstrual syndrome: A systematic review. | Avicenna J Phytomed
+- HELD REF-0842 | 2017 | 28064110 | Meta-Analysis/Review | Clinical use of Hypericum perforatum (St John's wort) in depression: A meta-analysis. | J Affect Disord
+- new | 2017 | 29196903 | Systematic Review | Concurrent Use of Prescription Drugs and Herbal Medicinal Products in Older Adults: A Systematic Review. | Drugs Aging
+- new | 2016 | 27762349 | Meta-Analysis/Research Support, Non-U.S. Gov't/Review | Hypericum perforatum as a cognitive enhancer in rodents: A meta-analysis. | Sci Rep
+- new | 2016 | 27444983 | Systematic Review | Co-administration of St. John's wort and hormonal contraceptives: a systematic review. | Contraception
+- new | 2016 | 26857948 | Practice Guideline | Nonpharmacologic Versus Pharmacologic Treatment of Adult Patients With Major Depressive Disorder: A Clinical Practice Guideline From the American College of Physicians. | Ann Intern Med
+- new | 2016 | 26887532 | Meta-Analysis/Systematic Review | A Critical Approach to Evaluating Clinical Efficacy, Adverse Events and Drug Interactions of Herbal Remedies. | Phytother Res
+- new | 2014 | 24995905 | Research Support, Non-U.S. Gov't/Systematic Review | Efficacy of interventions to combat tobacco addiction: Cochrane update of 2013 reviews. | Addiction
+- new | 2014 | 24554646 | Meta-Analysis/Research Support, Non-U.S. Gov't | Understanding variability with voriconazole using a population pharmacokinetic approach: implications for optimal dosing. | J Antimicrob Chemother
+- new | 2012 | 22472025 | Review | Nutraceuticals in psychiatric practice. | Recent Pat CNS Drug Discov
+- new | 2012 | 23089215 | Systematic Review | A systematic review and meta-analysis on the use of Hypericum perforatum (St. John's Wort) for pain conditions in dental practice. | Homeopathy
+- new | 2011 | 21673208 | Review | Complementary and alternative medicine for the treatment of major depressive disorder. | Can Fam Physician
+- new | 2011 | 21601431 | Research Support, Non-U.S. Gov't/Systematic Review | Herbal medicine for depression, anxiety and insomnia: a review of psychopharmacology and clinical evidence. | Eur Neuropsychopharmacol
+- new | 2010 | 20929532 | Systematic Review | Nutritional and herbal supplements for anxiety and anxiety-related disorders: systematic review. | Nutr J
+- HELD REF-2436 | 2009 | 19719333 | Systematic Review | Interactions between herbal medicines and prescribed drugs: an updated systematic review. | Drugs
+- new | 2009 | 19445768 | Systematic Review | Postnatal depression. | BMJ Clin Evid
+- new | 2009 | 19614563 | Systematic Review | Kava and St. John's Wort: current evidence for use in mood and anxiety disorders. | J Altern Complement Med
+- new | 2008 | 18537576 | Systematic Review | An update on clinical drug interactions with the herbal antidepressant St. John's wort. | Curr Drug Metab
+- new | 2008 | 18251757 | Clinical Trial, Phase III/Comparative Study/Randomized Controlled Trial | Effect of homeopathy on analgesic intake following knee ligament reconstruction: a phase III monocentre randomized placebo controlled study. | Br J Clin Pharmacol
+- new | 2007 | 17943857 | Meta-Analysis/Systematic Review | Antidepressants for neuropathic pain. | Cochrane Database Syst Rev
+- new | 2006 | 16428030 | Comparative Study/Review | Safety of St. John's Wort extract compared to synthetic antidepressants. | Phytomedicine
+- new | 2005 | 16034979 | Meta-Analysis/Systematic Review | Antidepressants for neuropathic pain. | Cochrane Database Syst Rev
+- new | 2003 | 12784543 | Meta-Analysis | [New therapeutic studies and meta-analysis. St. John's wort extract vs. synthetics]. | Pharm Unserer Zeit [ger]
+- new | 2002 | 12392581 | Systematic Review | St John's wort (Hypericum perforatum): drug interactions and clinical outcomes. | Br J Clin Pharmacol
+- new | 2002 | 11888457 | Case Reports/Systematic Review | St John's Wort supplements endanger the success of organ transplantation. | Arch Surg
+- new | 2002 | 12017747 | Review | [Herbal drugs: luxury or basic therapy in federal insurance practice?]. | Wien Med Wochenschr [ger]
+- new | 2000 | 10746915 | Comparative Study/Review | Potential treatment for subthreshold and mild depression: a comparison of St. John's wort extracts and fluoxetine. | Compr Psychiatry
+- new | 1998 | 10513454 | Review | Treatment of depression--newer pharmacotherapies. | Psychopharmacol Bull
+
+### PubMed SAFE - 1177 hits, 164 not already listed above, 156 new
+- new | 2026 | 41692603 |  | Clinical Efficacy and Safety of Hypericin-Mediated Photodynamic Therapy for Oral Candida albicans Infections. | Oral Dis
+- new | 2026 | 41843408 | Review | Topical hypericin: a promising photodynamic therapy for early-stage cutaneous T-cell lymphoma. | Expert Opin Investig Drugs
+- new | 2026 | 42280309 |  | Hypnotic Effects of Hypericum perforatum L. and Melissa officinalis L. Through Adenosine and Melatonin Receptors. | Nutrients
+- new | 2026 | 42913372 |  | Spiro-Polycyclic Polyprenylated Acylphloroglucinols from Hypericum monogynum and Their anti-Alzheimer's Disease Effects. | J Nat Prod
+- new | 2026 | 42787300 |  | Hypericin and hyperforin from St. John's Wort are potent intestinal UGT inhibitors with distinct binding modes: mechanistic and quantitative prediction of clinical drug-drug intera | Front Pharmacol
+- new | 2026 | 42421515 | Review/Research Support, Non-U.S. Gov't | Interactions between cytochrome P450 enzymes and traditional Chinese herbs: A comprehensive review. | J Chin Med Assoc
+- new | 2025 | 39796209 | Review | The Putative Antidiabetic Effect of Hypericum perforatum on Diabetes Mellitus. | Int J Mol Sci
+- new | 2025 | 40776690 |  | Seco-Prenylated Butylphloroglucinol Derivatives from Hypericum elodeoides and Their Anti-Alzheimer's Disease Activities. | Org Lett
+- new | 2025 | 39631519 | Research Support, Non-U.S. Gov't | Targeting Dlat-Trpv3 pathway by hyperforin elicits non-canonical promotion of adipose thermogenesis as an effective anti-obesity strategy. | J Adv Res
+- new | 2025 | 40032107 |  | Hypericum scabrum L.-infused locust bean gum/agar hydrogel film: A novel candidate for anti-aging facial mask applications. | Int J Biol Macromol
+- new | 2025 | 41236635 |  | Comprehensive Examination of Hypericum perforatum and Hypericin: Anti-obesity Mechanisms Uncovered by Network Pharmacology and Gene Expression Analysis. | Plant Foods Hum Nutr
+- new | 2025 | 41573713 |  | Hypericin alleviates cerebral ischemia/reperfusion injury by modulating endoplasmic reticulum stress. | Front Pharmacol
+- new | 2025 | 39180673 |  | Hypericin-loaded in modified theranostic liposome nanoplatform: a preliminary in vivo study of targeting and diagnosis. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2025 | 41155703 |  | Polyprenylated Acylphloroglucinols from Hypericum rochelii and Hypericum olympicum-Cytotoxic Effects on Non-Tumorigenic Cell Lines and Antibacterial Potential. | Pharmaceuticals (Basel)
+- new | 2024 | 38461532 | Research Support, Non-U.S. Gov't | Brain-Targeted Black Phosphorus-Based Nanotherapeutic Platform for Enhanced Hypericin Delivery in Depression. | Small
+- new | 2024 | 39770466 | Review | Documentary Analysis of Hypericum perforatum (St. John's Wort) and Its Effect on Depressive Disorders. | Pharmaceuticals (Basel)
+- new | 2024 | 38331331 |  | Hypericin emulsomes combined with hollow microneedles as a non-invasive photodynamic platform for rheumatoid arthritis treatment. | Int J Pharm
+- new | 2024 | 39694954 |  | Anti-leishmanial activity of Hypericum Scabrum extract against Leishmania major. | AMB Express
+- new | 2024 | 38465436 | Review | Safety Issues of Herb-Warfarin Interactions. | Curr Drug Metab
+- new | 2024 | 39481178 |  | Synergistic effect of folic acid and hypericin administration to improve the efficacy of photodynamic therapy via folate receptors. | J Photochem Photobiol B
+- new | 2024 | 38219807 |  | Mechanisms of hepatocellular toxicity associated with the components of St. John's Wort extract hypericin and hyperforin in HepG2 and HepaRG cells. | Toxicol Lett
+- new | 2024 | 39557924 |  | A study on the effect of Hypericum perforatum L. extract on vanadium toxicity in Allium cepa L. | Sci Rep
+- new | 2024 | 38279301 |  | Apolar Extracts of St. John's Wort Alleviate the Effects of β-Amyloid Toxicity in Early Alzheimer's Disease. | Int J Mol Sci
+- new | 2023 | 36442576 | Review | Hyperforin: A natural lead compound with multiple pharmacological activities. | Phytochemistry
+- new | 2023 | 37893173 | Review | Effect of St. John's Wort (Hypericum perforatum L.) on Male Sexual and Reproductive Health: A Narrative Review. | Biomedicines
+- new | 2023 | 37863663 |  | St. John's Wort Formulations Induce Rat CYP3A23-3A1 Independent of Their Hyperforin Content. | Mol Pharmacol
+- new | 2023 | 36882144 | Case Reports | Promising onychomycosis treatment with hypericin-mediated photodynamic therapy: Case reports. | Photodiagnosis Photodyn Ther
+- new | 2023 | 37795026 | Review | Hypericum sampsonii Hance: a review of its botany, traditional uses, phytochemistry, biological activity, and safety. | Front Pharmacol
+- new | 2023 | 38023351 |  | Hyperforin modulates MAPK/CCL11 signaling to reduce the inflammatory response of nasal mucosal epithelial cells caused by allergic rhinitis by targeting BCL6. | Exp Ther Med
+- new | 2023 | 36948046 |  | Effects of Aronia melanocarpa and Hypericum perforatum aqueous extracts on hexavalent chromium induced toxicity in rat's thyrocytes. | J Trace Elem Med Biol
+- new | 2023 | 37690821 | Review | Hypericin as a promising natural bioactive naphthodianthrone: A review of its pharmacology, pharmacokinetics, toxicity, and safety. | Phytother Res
+- new | 2023 | 36017806 |  | Evaluation of the Herb-Drug Interaction Potential of Commonly Used Botanicals on the US Market with Regard to PXR- and AhR-Mediated Influences on CYP3A4 and CYP1A2. | J Diet Suppl
+- new | 2023 | 37259926 |  | In silico Prediction of ADMET/Drug-likeness Properties of Bioactive Phloroglucinols from Hypericum Genus. | Med Chem
+- new | 2023 | 36689857 | Review | Hypericin: A natural anthraquinone as promising therapeutic agent. | Phytomedicine
+- HELD REF-1789 | 2022 | 36246064 | Review | Hypericum perforatum: Traditional uses, clinical trials, and drug interactions. | Iran J Basic Med Sci
+- new | 2022 | 35631688 |  | Ultrasound Triggers Hypericin Activation Leading to Multifaceted Anticancer Activity. | Pharmaceutics
+- new | 2022 | 34089613 |  | Hypericin-mediated photodynamic therapy enhances gemcitabine induced Capan-2 cell apoptosis via inhibiting NADPH level. | J Pharm Pharmacol
+- new | 2022 | 35660541 |  | Photodynamic therapy-mediated hypericin-loaded nanostructured lipid carriers against vulvovaginal candidiasis. | J Mycol Med
+- new | 2022 | 36297648 |  | Conjugation of Hypericin to Gold Nanoparticles for Enhancement of Photodynamic Therapy in MCF-7 Breast Cancer Cells. | Pharmaceutics
+- new | 2022 | 34986560 | Research Support, Non-U.S. Gov't | Nitrogen modulates strontium uptake and toxicity in Hypericum perforatum plants. | J Hazard Mater
+- new | 2022 | 35359845 |  | Hypericum lanceolatum Lam. Medicinal Plant: Potential Toxicity and Therapeutic Effects Based on a Zebrafish Model. | Front Pharmacol
+- new | 2022 | 35114918 |  | Substrate-dependent Inhibition of Hypericin on Human Carboxylesterase 2: Implications for Herb-drug Combination. | Curr Drug Metab
+- new | 2022 | 36073954 | Research Support, Non-U.S. Gov't | St. John's Wort Exacerbates Acetaminophen-Induced Liver Injury by Activation of PXR and CYP-Mediated Bioactivation. | Toxicol Sci
+- new | 2022 | 35814220 |  | Advanced in Vitro Safety Assessment of Herbal Medicines for the Treatment of Non-Psychotic Mental Disorders in Pregnancy. | Front Pharmacol
+- new | 2022 | 33050761 |  | Hypericin, a medicinal compound from St. John's Wort, inhibits genotoxicity induced by mutagenic agents in V79 cells. | Drug Chem Toxicol
+- new | 2022 | 34515077 | Case Reports | St. John's Wort (Hypericum perforatum)-Related Acute Kidney Injury. | Blood Purif
+- new | 2022 | 36473041 | Case Reports | Home Care and the Effects of Hypericum tetrapterum Oil Extract in the Treatment of Chronic Wounds During the COVID-19 Pandemic. | Pril (Makedon Akad Nauk Umet Odd Med Nau
+- new | 2022 | 36224261 | Research Support, Non-U.S. Gov't | Analysis of hyperforin (St. John's wort) action at TRPC6 channel leads to the development of a new class of antidepressant drugs. | Mol Psychiatry
+- new | 2022 | 32525718 |  | Effectiveness and Tolerability of Natural Herbal Formulations in the Prevention of Radiation-Induced Skin Toxicity in Patients Undergoing Radiotherapy. | Int J Low Extrem Wounds
+- new | 2022 | 35348232 |  | Prophylactic effects of hyperforin on anhedonia-like phenotype in chronic restrain stress model: A role of gut microbiota. | Lett Appl Microbiol
+- new | 2022 | 34624906 |  | Medicinal Plants for the Treatment of Mental Diseases in Pregnancy: An In Vitro Safety Assessment. | Planta Med
+- new | 2021 | 34182907 | Review | A Review on Pharmacokinetic and Pharmacodynamic Drug Interactions of Adrenergic β-blockers with Clinically Relevant Drugs-An Overview. | Curr Drug Metab
+- new | 2021 | 34421585 |  | Hypericin Enhances Paclitaxel-Induced B16-F10 Cell Apoptosis by Activating a Cytochrome c Release-Dependent Pathway. | Front Pharmacol
+- HELD REF-2522 | 2020 | 31742659 | Review | Clinical relevance of St. John's wort drug interactions revisited. | Br J Pharmacol
+- new | 2020 | 33143088 | Review | Protective Role of St. John's Wort and Its Components Hyperforin and Hypericin against Diabetes through Inhibition of Inflammatory Signaling: Evidence from In Vitro and In Vivo Stu | Int J Mol Sci
+- new | 2020 | 33379141 | Review | Anti-Tumor Activity of Hypericum perforatum L. and Hyperforin through Modulation of Inflammatory Signaling, ROS Generation and Proton Dynamics. | Antioxidants (Basel)
+- new | 2020 | 34907704 |  | Toxicity assessment of Hypericum olympicum subsp. olympicum L. on human lymphocytes and breast cancer cell lines. | J Appl Biomed
+- new | 2019 | 29411879 | Review | Understanding drug interactions with St John's wort (Hypericum perforatum L.): impact of hyperforin content. | J Pharm Pharmacol
+- new | 2019 | 28266019 | Review | Quality control of Hypericum perforatum L. analytical challenges and recent progress. | J Pharm Pharmacol
+- new | 2019 | 31185679 |  | A Hypericin Delivery System Based on Polydopamine Coated Cerium Oxide Nanorods for Targeted Photodynamic Therapy. | Polymers (Basel)
+- new | 2019 | 30461013 | Review | Hypericum perforatum in the treatment of psychiatric and neurodegenerative disorders: Current evidence and potential mechanisms of action. | J Cell Physiol
+- new | 2019 | 31004882 |  | Pharmacokinetic properties of phytochemicals in Hypericum perforatum influence efficacy of regulating oxidative stress. | Phytomedicine
+- new | 2019 | 31149836 |  | From Protohypericin to Hypericin: Photoconversion Analysis Using a Time-Resolved Thermal Lens Technique. | Appl Spectrosc
+- new | 2019 | 30573512 |  | Hyperforin-Induced Activation of the Pregnane X Receptor Is Influenced by the Organic Anion-Transporting Polypeptide 2B1. | Mol Pharmacol
+- new | 2019 | 30891904 |  | Profiling Auspicious Butyrylcholinesterase Inhibitory Activity of Two Herbal Molecules: Hyperforin and Hyuganin C. | Chem Biodivers
+- new | 2019 | 30551474 |  | Breast cancer resistance protein is the enemy of hypericin accumulation and toxicity of hypericin-mediated photodynamic therapy. | Biomed Pharmacother
+- new | 2019 | 31263918 | Case Reports/Letter | No effects of Hypericum-containing complex on dolutegravir plasma trough concentrations: a case report. | Eur J Clin Pharmacol
+- new | 2019 | 30663566 |  | Phytochemical Profiles and Antibacterial Activities of Hydroalcoholic Extracts of Origanum vulgare and Hypericum perforatum and Carvacrol and Hypericin as a Promising Anti-Staphylo | Mini Rev Med Chem
+- new | 2019 | 30597213 |  | Benefits of hypericin transport and delivery by low- and high-density lipoproteins to cancer cells: From in vitro to ex ovo. | Photodiagnosis Photodyn Ther
+- new | 2019 | 30675694 | Research Support, Non-U.S. Gov't | Physiologically Based Pharmacokinetic Modelling of Hyperforin to Predict Drug Interactions with St John's Wort. | Clin Pharmacokinet
+- new | 2019 | 31304911 |  | Effect of Camellia sinensis, Hypericum perforatum and Urtica dioica on kidney and liver injury induced by carbon tetrachloride in rats. | Cell Mol Biol (Noisy-le-grand)
+- new | 2019 | 31218416 |  | A formulation of neem and hypericum oily extract for the treatment of the wound myiasis by Wohlfahrtia magnifica in domestic animals. | Parasitol Res
+- new | 2019 | 30993302 | Case Reports | Treatment of Peristomal granulomatosis with a Neem and Red Hypericum Oil application: Case studies. | Clin Ter
+- new | 2019 | 31349520 |  | Synergistic effects of ultrasound and photodynamic therapy leading to biofilm eradication on polyurethane catheter surfaces modified with hypericin nanoformulations. | Mater Sci Eng C Mater Biol Appl
+- new | 2019 | 30481499 |  | Neuroprotective role of hyperforin on aluminum maltolate-induced oxidative damage and apoptosis in PC12 cells and SH-SY5Y cells. | Chem Biol Interact
+- new | 2018 | 29971184 |  | Investigation of the embryotoxic and teratogenic effect of Hypericum perforatum in pregnant rats. | Turk J Obstet Gynecol
+- new | 2018 | 35539193 |  | Discovery of acylphloroglucinol-based meroterpenoid enantiomers as KSHV inhibitors from Hypericum japonicum. | RSC Adv
+- new | 2018 | 30006311 | Research Support, Non-U.S. Gov't | Hypericin-functionalized graphene oxide for enhanced mitochondria-targeting and synergistic anticancer effect. | Acta Biomater
+- new | 2018 | 29314561 |  | Biodistribution and tolerance of intravenous iodine-131-labelled hypericin in healthy dogs. | Vet Comp Oncol
+- new | 2017 | 28885074 | Review | Clinical risks of St John's Wort (Hypericum perforatum) co-administration. | Expert Opin Drug Metab Toxicol
+- new | 2017 | 28502251 | Case Reports | St John's wort (Hypericum perforatum)-induced psychosis: a case report. | J Med Case Rep
+- new | 2017 | 29362586 |  | Hypericum perforatum: Synthesis of Active Principles during Flowering and Fruitification-Novel Aspects of Biological Potential. | Evid Based Complement Alternat Med
+- new | 2017 | 28079268 |  | Renoprotective effect of Hypericum perforatum against diabetic nephropathy in rats: Insights in the underlying mechanisms. | Clin Exp Pharmacol Physiol
+- new | 2017 | 28755953 | Review | Kidney toxicity related to herbs and dietary supplements: Online table of case reports. Part 3 of 5 series. | Food Chem Toxicol
+- new | 2017 | 28160544 |  | Effects of Hypericum perforatum extract on oxaliplatin-induced neurotoxicity: in vitro evaluations. | Z Naturforsch C J Biosci
+- new | 2017 | 28661430 |  | Analysis of Hypericin-Mediated Effects and Implications for Targeted Photodynamic Therapy. | Int J Mol Sci
+- new | 2017 | 28683711 | Case Reports | [Decreased everolimus blood concentration associated with consumption of St. John's wort (Hypericum perforatum) extract sweets]. | Farm Hosp [spa]
+- new | 2017 | 28117734 |  | Hyperforin Exhibits Antigenotoxic Activity on Human and Bacterial Cells. | Molecules
+- new | 2017 | 28011162 | Case Reports | Effect of St.John's wort (Hypericum perforatum) oily extract for the care and treatment of pressure sores; a case report. | J Ethnopharmacol
+- HELD REF-1791 | 2016 | 27462333 | Review | Neuroprotective Activity of Hypericum perforatum and Its Major Components. | Front Plant Sci
+- new | 2016 | 27200034 | Review | Hypericin in the Light and in the Dark: Two Sides of the Same Coin. | Front Plant Sci
+- new | 2016 | 27447402 |  | Hypericin fluorescence kinetics in the presence of low density lipoproteins: study on quail CAM assay for topical delivery. | Gen Physiol Biophys
+- new | 2016 | 27261575 |  | Drug membrane transporters and CYP3A4 are affected by hypericin, hyperforin or aristoforin in colon adenocarcinoma cells. | Biomed Pharmacother
+- new | 2016 | 26692114 | Case Reports/Letter | Reduction of hyperbilirubinemia with hypericum extract (St. John's Wort) in a patient with Crigler-Najjar syndrome type II. | Br J Clin Pharmacol
+- new | 2016 | 27468236 |  | A meta-analysis on the efficacy and safety of St John's wort extract in depression therapy in comparison with selective serotonin reuptake inhibitors in adults. | Neuropsychiatr Dis Treat
+- new | 2015 | 25600644 | Review | Contact dermatitis as an adverse reaction to some topically used European herbal medicinal products - part 2: Echinacea purpurea-Lavandula angustifolia. | Contact Dermatitis
+- new | 2015 | 26223121 | Review | [Advances in the study of enzymes and transporters-mediated pharmacokinetic mechanism for herb-drug interaction]. | Yao Xue Xue Bao [chi]
+- new | 2015 | 26036354 | Review | A Review of the Toxicity of HIV Medications II: Interactions with Drugs and Complementary and Alternative Medicine Products. | J Med Toxicol
+- new | 2015 | 26865836 |  | Cytotoxic and apoptogenic effect of hypericin, the bioactive component of Hypericum perforatum on the MCF-7 human breast cancer cell line. | Cancer Cell Int
+- HELD REF-1792 | 2014 | 23897801 | Review | Hypericum perforatum: pharmacokinetic, mechanism of action, tolerability, and clinical drug-drug interactions. | Phytother Res
+- new | 2014 | 24121871 | Research Support, Non-U.S. Gov't | St. John's wort extract and hyperforin protect rat and human pancreatic islets against cytokine toxicity. | Acta Diabetol
+- new | 2014 | 25297909 | Research Support, Non-U.S. Gov't | Amended safety assessment of Hypericum perforatum-derived ingredients as used in cosmetics. | Int J Toxicol
+- new | 2014 | 24797595 |  | The effects of Hypericum perforatum on hepatic ischemia- -reperfusion injury in rats. | Bratisl Lek Listy
+- new | 2013 | 23769281 | Research Support, Non-U.S. Gov't | Photodynamic effect of hypericin on the microorganisms and primary human fibroblasts. | Photodiagnosis Photodyn Ther
+- new | 2013 | 23627568 | Research Support, Non-U.S. Gov't | Necrosis affinity evaluation of 131I-hypericin in a rat model of induced necrosis. | J Drug Target
+- new | 2013 | 24575655 | Review | [Phytotherapy threats with emphasis on St. John's wort medicines]. | Pol Merkur Lekarski [pol]
+- new | 2012 | 31644187 | Review | St. John's Wort. | 
+- new | 2012 | 22699020 | Research Support, Non-U.S. Gov't | St. John's wort significantly increased the systemic exposure and toxicity of methotrexate in rats. | Toxicol Appl Pharmacol
+- new | 2012 | 22292789 | Review | Herb-drug interactions and mechanistic and clinical considerations. | Curr Drug Metab
+- new | 2012 | 22113252 | Case Reports | Interaction of St John's wort (Hypericum perforatum) with clozapine. | Int Clin Psychopharmacol
+- new | 2011 | 21480130 | Case Reports/Letter | St. John's wort (Hypericum perforatum) and warfarin: Dangerous liaisons! | Turk J Gastroenterol
+- new | 2011 | 22139684 | Research Support, Non-U.S. Gov't/Review | Evaluation of metabolism-mediated herb-drug interactions. | Arch Pharm Res
+- new | 2011 | 21395523 | Review | Metabolic drug interactions between antidepressants and anticancer drugs: focus on selective serotonin reuptake inhibitors and hypericum extract. | Curr Drug Metab
+- new | 2011 | 27147854 | Review | Does cytochrome P450 liver isoenzyme induction increase the risk of liver toxicity after paracetamol overdose? | Open Access Emerg Med
+- new | 2011 | 22593920 | Review | Medical Attributes of St. John’s Wort (Hypericum perforatum). | 
+- new | 2010 | 21170698 | Comparative Study/Review | [Pharmacokinetic drug interactions by herbal drugs: Critical evaluation and clinical relevance]. | Wien Med Wochenschr [ger]
+- HELD REF-2523 | 2009 | 19859815 | Review | Herb-drug interactions with St John's wort (Hypericum perforatum): an update on clinical observations. | AAPS J
+- new | 2009 | 19909690 | Review | St John's wort (Hypericum perforatum) in major depression. | J Clin Psychiatry
+- new | 2008 | 18178045 |  | Hepatoprotective effect of Hypericum japonicum extract and its fractions. | J Ethnopharmacol
+- new | 2008 | 18673195 | Review | Clinical drugs that interact with St. John's wort and implication in drug development. | Curr Pharm Des
+- new | 2006 | 16973193 |  | Hyperforin. | Phytochemistry
+- new | 2006 | 17085775 | Review | Safety and efficacy of St. John's wort (hypericum) during pregnancy and lactation. | Can J Clin Pharmacol
+- HELD REF-1796 | 2006 | 16640452 | Review | Hypericum perforatum: a 'modern' herbal antidepressant: pharmacokinetics of active ingredients. | Clin Pharmacokinet
+- new | 2006 | 24940966 |  | Hypericum-induced mood disorder: switch from depression to mixed episodes in two patients. | Int J Psychiatry Clin Pract
+- new | 2006 | 16571270 |  | Effect of benzophenones from Hypericum annulatum on carbon tetrachloride-induced toxicity in freshly isolated rat hepatocytes. | Redox Rep
+- new | 2005 | 16203790 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Effect of the St. John's wort constituent hyperforin on docetaxel metabolism by human hepatocyte cultures. | Clin Cancer Res
+- new | 2005 | 16227061 | Review | Toxicity and drug interactions associated with herbal products: ephedra and St. John's Wort. | Med Clin North Am
+- new | 2005 | 16220113 |  | St. John's wort and its constituent hyperforin concordantly regulate expression of genes encoding enzymes involved in basic cellular pathways. | Pharmacogenet Genomics
+- new | 2005 | 16379667 | Review | Antidepressant-like components of Hypericum perforatum extracts: an overview of their pharmacokinetics and metabolism. | Curr Drug Metab
+- new | 2005 | 15638760 | Research Support, Non-U.S. Gov't/Review | Hypericin--the facts about a controversial agent. | Curr Pharm Des
+- new | 2005 | 16259319 | Case Reports | Bone marrow necrosis: a rare complication of herbal treatment with Hypericum perforatum (St. John's wort). | Acta Medica (Hradec Kralove)
+- HELD REF-2461 | 2004 | 15049433 | Review | Drug interactions with St. John's Wort (Hypericum perforatum): a review of the clinical evidence. | Int J Clin Pharmacol Ther
+- new | 2004 | 15325741 | Comparative Study/Research Support, Non-U.S. Gov't | Hypericum androsaemum infusion increases tert-butyl hydroperoxide-induced mice hepatotoxicity in vivo. | J Ethnopharmacol
+- HELD REF-2460 | 2004 | 15165499 | Review | Safety and efficacy of herbal sedatives in cancer care. | Integr Cancer Ther
+- new | 2004 | 21656982 | Review | (64)Cu-Labeled bis-1,4,7,10-tetraazacyclododecane-N,N',N,N'-tetraacetic acid conjugated hypericin. | 
+- new | 2004 | 15504456 | Research Support, Non-U.S. Gov't | Toxicity of Hypericum perforatum (St. John's wort) administered during pregnancy and lactation in rats. | Toxicol Appl Pharmacol
+- new | 2003 | 12927015 | Research Support, Non-U.S. Gov't | The safety of St. John's wort (Hypericum perforatum) during breastfeeding. | J Clin Psychiatry
+- new | 2003 | 14692732 | Research Support, Non-U.S. Gov't/Review | A review of clinical and experimental observations about antidepressant actions and side effects produced by Hypericum perforatum extracts. | Phytomedicine
+- new | 2003 | 15089009 | Case Reports | St. John's wort (Hypericum perforatum) as a treatment for premenstrual dysphoric disorder: case report. | Int J Psychiatry Med
+- new | 2003 | 12685330 | Research Support, Non-U.S. Gov't/Review | [Therapeutic and toxicologic aspects of biological effects of Saint John's wort (Hypericum perforatum L.)]. | Ceska Slov Farm [slo]
+- new | 2003 | 12857935 | Comparative Study/Research Support, Non-U.S. Gov't | Hyperforin contributes to the hepatic CYP3A-inducing effect of Hypericum perforatum extract in the mouse. | Toxicol Sci
+- new | 2003 | 14556315 | Research Support, Non-U.S. Gov't | Potentiation of photodynamic therapy with hypericin by mitomycin C in the radiation-induced fibrosarcoma-1 mouse tumor model. | Photochem Photobiol
+- new | 2002 | 12008092 | Review | St. John's wort and depression: efficacy, safety and tolerability-an update. | Life Sci
+- new | 2002 | 12063742 | Review | [St. John's wort (Hypericum perforatum L.). A plant with relevance for dermatology]. | Hautarzt [ger]
+- new | 2002 | 12597263 | Review | Herbal interactions with cardiovascular drugs. | J Cardiovasc Nurs
+- new | 2002 | 11819157 | Case Reports | St. John's wort (Hypericum perforatum)--is it safe during breastfeeding? | Pharmacopsychiatry
+- new | 2001 | 11243487 | Review | St. John's wort (Hypericum perforatum): a review of the current pharmacological, toxicological, and clinical literature. | Psychopharmacology (Berl)
+- new | 2001 | 11558639 | Review | Final report on the safety assessment of Hypericum perforatum extract and Hypericum perforatum oil. | Int J Toxicol
+- new | 2001 | 12397870 | Review | The emerging recognition of herb-drug interactions with a focus on St. John's wort (Hypericum perforatum). | Psychopharmacol Bull
+- new | 2001 | 11315759 | Case Reports/Review | Incidence and clinical relevance of the interactions and side effects of Hypericum preparations. | Phytomedicine
+- new | 2001 | 11406865 |  | Experience with St John's Wort (Hypericum perforatum) in children under 12 years with symptoms of depression and psychovegetative disturbances. | Phytother Res
+- new | 2001 | 11684566 | Case Reports | Interaction between cyclosporine and Hypericum perforatum (St. John's wort) after organ transplantation. | Am J Kidney Dis
+- new | 2000 | 10784267 | Editorial/Review | A review of the benefits, adverse events, drug interactions, and safety of St. John's Wort (Hypericum perforatum): the implications with regard to the regulation of herbal medicine | J Altern Complement Med
+- new | 2000 | 10800553 | Review | [Drug interactions of Hypericum perforatum (St. John's wort) are potentially hazardous]. | Ned Tijdschr Geneeskd [dut]
+- new | 2000 | 11276296 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S./Review | Efficacy and safety of St. John's wort for the treatment of major depression. | Public Health Nutr
+- new | 2000 | 11155496 | Review | [Incidence and clinical relevance of interactions and side-effects of hypericum preparations]. | Praxis (Bern 1994) [ger]
+- new | 2000 | 11180019 | Research Support, Non-U.S. Gov't | St John's Wort induces intestinal P-glycoprotein/MDR1 and intestinal and hepatic CYP3A4. | Clin Pharmacol Ther
+- new | 2000 | 12125624 | Newspaper Article | Toxicity. St. John's wort--interactions with indinavir and other drugs. | TreatmentUpdate
+- new | 1999 | 10528811 | Research Support, Non-U.S. Gov't | Effects of Hypericum perforatum extraction on alcohol intake in Marchigian Sardinian alcohol-preferring rats. | Alcohol Alcohol
+- new | 1998 | 9600023 | Review | St. John's Wort (Hypericum perforatum): clinical effects on depression and other conditions. | Altern Med Rev
+- new | 1998 | 9787983 | Meta-Analysis | St John's Wort (Hypericum perforatum)--a herbal antidepressant. | Curr Med Res Opin
+- new | 1998 | 9518947 | Case Reports/Letter | SSRIs and St.John's Wort: possible toxicity? | Am Fam Physician
+- new | 1997 | 9459298 | Research Support, Non-U.S. Gov't | Alternative pathways of xanthone biosynthesis in cell cultures of Hypericum androsaemum L. | FEBS Lett
+- new | 1996 | 9002247 | Case Reports | Hypericin in phototherapy. | J Photochem Photobiol B
+
+### PubMed OBS - 85 hits, 43 not already listed above, 43 new
+- new | 2026 | 41628083 | Published Erratum | Erratum. | Complement Med Res
+- new | 2026 | 42805319 |  | Dietary beverages and cutaneous health: Mechanisms, clinical evidence, and practical implications for dermatologists. | Clin Dermatol
+- new | 2026 | 41533079 |  | Antidepressant use in German adolescents with a first recorded diagnosis of depression: a retrospective cohort study. | Eur Child Adolesc Psychiatry
+- new | 2025 | 39288907 | Review | Pharmacokinetic and Pharmacodynamic Interactions between Food or Herbal Products and Oral Anticoagulants: Evidence Review, Practical Recommendations, and Knowledge Gaps. | Semin Thromb Hemost
+- new | 2025 | 41584153 |  | Self-administered complementary and alternative methods of treating mental disorders among students in Wrocław: a cross-sectional study. | Front Public Health
+- new | 2024 | 38253249 | Research Support, Non-U.S. Gov't | Systematic analysis of combined oral contraceptive prescription patterns in psychotropic drug users across twelve European countries. | Contraception
+- new | 2024 | 38468217 |  | Knowledge and practice of community pharmacists regarding the safety of drugs during pregnancy: a cross-sectional study from a developing country. | BMC Pregnancy Childbirth
+- new | 2024 | 39385284 |  | Identification of molecular targets of Hypericum perforatum in blood for major depressive disorder: a machine-learning pharmacological study. | Chin Med
+- new | 2024 | 38894516 |  | Assessment of Undergraduate Nursing Students' Understanding of Herbal Medicines and Herb-Drug Interactions in Riyadh, Saudi Arabia. | Med Sci Monit
+- new | 2023 | 36792552 | Review | The role of diet in managing menopausal symptoms: A narrative review. | Nutr Bull
+- new | 2022 | 33048645 | Observational Study | Assessment of pharmacy students' knowledge, attitude, and practice toward herbal dietary supplements. | J Am Coll Health
+- new | 2020 | 32595273 |  | Identifying Herbal Adverse Events From Spontaneous Reporting Systems Using Taxonomic Name Resolution Approach. | Bioinform Biol Insights
+- new | 2019 | 31673442 | Review | Effective Medicinal Plants in the Treatment of the Cyclic Mastalgia (Breast Pain): A Review. | J Pharmacopuncture
+- new | 2019 | 30986235 | Research Support, Non-U.S. Gov't | Antidepressants and the risk of death in older patients with depression: A population-based cohort study. | PLoS One
+- new | 2017 | 28177134 | Systematic Review | The influence of combination use of CYP450 inducers on the pharmacokinetics of voriconazole: a systematic review. | J Clin Pharm Ther
+- new | 2017 | 28951674 |  | Prevalence of self-medication practice with herbal products among non-psychotic psychiatric patients from southeastern Serbia: A cross-sectional study. | Saudi Pharm J
+- new | 2016 | 26784183 |  | Herb-Induced Liver Injury in the Berlin Case-Control Surveillance Study. | Int J Mol Sci
+- new | 2016 | 27066102 |  | Knowledge and Attitudes towards Complementary and Alternative Medicine among Senior Medical Students in King Abdulaziz University, Saudi Arabia. | Evid Based Complement Alternat Med
+- new | 2015 | 26536653 | Research Support, Non-U.S. Gov't | Hypericum perforatum use during pregnancy and pregnancy outcome. | Reprod Toxicol
+- new | 2014 | 25266952 | Research Support, Non-U.S. Gov't | The gastrointestinal tract microbiome, probiotics, and mood. | Inflammopharmacology
+- new | 2014 | 25544371 | Observational Study | Hypericum perforatum and neem oil for the management of acute skin toxicity in head and neck cancer patients undergoing radiation or chemo-radiation: a single-arm prospective obser | Radiat Oncol
+- new | 2013 | 23179673 | Clinical Trial/Multicenter Study/Research Support, Non-U.S. Gov't | Herbal triplet in treatment of nervous agitation in children. | Wien Med Wochenschr
+- new | 2013 | 23439542 | Research Support, Non-U.S. Gov't | Use of serotonergic antidepressants and St John's wort in older Australians: a population-based cohort study. | Australas Psychiatry
+- new | 2012 | 22639197 | Research Support, Non-U.S. Gov't | Outpatient treatment in German adolescents with depression: an analysis of nationwide health insurance data. | Pharmacoepidemiol Drug Saf
+- new | 2012 | 23304204 |  | Depression, Comorbidities, and Prescriptions of Antidepressants in a German Network of GPs and Specialists with Subspecialisation in Anthroposophic Medicine: A Longitudinal Observa | Evid Based Complement Alternat Med
+- new | 2011 | 21609510 | Systematic Review | Depression in adults: drug and physical treatments. | BMJ Clin Evid
+- new | 2011 | 21641521 |  | The quality of information on websites selling St. John's wort. | Complement Ther Med
+- new | 2010 | 25214939 |  | Effect of St. John's wort extract on depressive disorder in elderly patients with unstable angina. | World J Emerg Med
+- new | 2009 | 19476768 |  | Complementary and alternative medicine use among patients undergoing otolaryngologic surgery. | J Otolaryngol Head Neck Surg
+- new | 2009 | 19575271 | Comparative Study | Herbal supplement use and blood lead levels of United States adults. | J Gen Intern Med
+- new | 2008 | 17707513 | Comparative Study | Self medication with St. John's wort in depressive disorders: an observational study in community pharmacies. | J Affect Disord
+- new | 2008 | 18667843 | Randomized Controlled Trial | Skin tolerance of a new bath oil containing St. John's wort extract. | Skin Pharmacol Physiol
+- new | 2008 | 18328304 |  | Potential for interactions between dietary supplements and prescription medications. | Am J Med
+- new | 2007 | 32811070 |  | Drug Treatment in Juvenile Depression - Is St. John's Wort a Safe and Effective Alternative? | Child Adolesc Ment Health
+- new | 2007 | 19454086 | Systematic Review | Depression in adults: drug and physical treatments. | BMJ Clin Evid
+- new | 2007 | 17443868 | Research Support, Non-U.S. Gov't | Patterns and prevalence of antidepressant drug use in the German state of Baden-Wuerttemberg: a prescription-based analysis. | Pharmacoepidemiol Drug Saf
+- new | 2006 | 16566628 | Comparative Study | St. John's wort (Hypericum perforatum) and breastfeeding: plasma and breast milk concentrations of hyperforin for 5 mothers and 2 infants. | J Clin Psychiatry
+- new | 2005 | 16296926 |  | Dietary supplements and weight control in a middle-age population. | J Altern Complement Med
+- new | 2003 | 12756423 | Research Support, Non-U.S. Gov't/Review | Drug-herb interaction among commonly used conventional medicines: a compendium for health care professionals. | Am J Ther
+- new | 2002 | 12126027 |  | Alternative therapies for traditional disease states: menopause. | Am Fam Physician
+- new | 2001 | 11765308 |  | Evaluation of the association between St. John's wort and elevated thyroid-stimulating hormone. | Pharmacotherapy
+- new | 2001 | 11789123 | Clinical Trial/Comparative Study/Controlled Clinical Trial/Multicenter Study | [St. John's wort extract WS 5572 in minor to moderately severe depression. Effectiveness and tolerance of 600 and 1200 mg active ingredient daily]. | Fortschr Med Orig [ger]
+- new | 2000 | 11090733 |  | Herbal medicines: current trends in anesthesiology practice--a hospital survey. | J Clin Anesth
+
+### PubMed REV - 639 hits, 17 not already listed above, 14 new
+- new | 2025 | 40865615 | Review | Neuroprotective and cognitive-enhancing potentials of herbal remedies: Focus on St. John's wort, green tea, and Ashwagandha. | Neurotoxicol Teratol
+- new | 2023 | 36624575 | Review | Utility of Therapeutic Drug Monitoring in Identifying Clinically Significant Interactions Between St. John's Wort and Prescription Drugs. | Ther Drug Monit
+- new | 2022 | 36304597 | Review | Dietary supplements and bleeding. | Proc (Bayl Univ Med Cent)
+- new | 2022 | 36144755 | Review | Medicinal Plants Used for Anxiety, Depression, or Stress Treatment: An Update. | Molecules
+- HELD REF-1787 | 2022 | 33480339 | Review | Anti-anxiety Properties of Selected Medicinal Plants. | Curr Pharm Biotechnol
+- HELD REF-0843 | 2022 | 35294606 | Review | St. John's wort (Hypericum perforatum) and depression: what happens to the neurotransmitter systems? | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2019 | 29034955 | Review | A review of issues of nomenclature and taxonomy of Hypericum perforatum L. and Kew's Medicinal Plant Names Services. | J Pharm Pharmacol
+- new | 2017 | 28762712 | Review | Common Herbal Dietary Supplement-Drug Interactions. | Am Fam Physician
+- new | 2009 | 20214594 | Review | St. John's wort components and the brain: uptake, concentrations reached and the mechanisms underlying pharmacological effects. | Curr Drug Metab
+- new | 2007 | 17704987 | Comparative Study/Review | St. John's wort: role of active compounds for its mechanism of action and efficacy. | Wien Med Wochenschr
+- new | 2005 | 16005588 | Review | Potential for interaction of kava and St. John's wort with drugs. | J Ethnopharmacol
+- new | 2005 | 16003288 | Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, P.H.S./Review/Comment | St John's wort-associated drug interactions: short-term inhibition and long-term induction? | Clin Pharmacol Ther
+- new | 2004 | 15350151 | Review | Drug interactions with St John's wort : mechanisms and clinical implications. | Drug Saf
+- new | 2003 | 12784541 | Review | [What is known about St. John's wort? Phytochemistry and pharmacology]. | Pharm Unserer Zeit [ger]
+- new | 2002 | 12484666 | Review | St. John's wort and oral contraceptives: reasons for concern? | J Midwifery Womens Health
+- HELD REF-0844 | 2000 | 10675182 | Review | Herb-drug interactions. | Lancet
+- new | 1999 | 10332924 | Review | Traditional Chinese medicine, acupuncture, and other alternative medicines for prostate cancer: an introduction and the need for more research. | Semin Urol Oncol
+
+### ClinicalTrials.gov - 75 registered studies
+- NCT00027014 | COMPLETED | results=False | PHASE4 | Herb-Opioid Interactions | conds: Pain | intr: St. John's Wort, oxycodone, fentanyl
+- NCT00110136 | TERMINATED | results=True | PHASE2 | St. John's Wort in Relieving Hot Flashes in Postmenopausal Women With Non-Metastatic Breast Cancer | conds: Breast Cancer, Hot Flashes | intr: St. John's Wort
+- NCT01663922 | COMPLETED | results=True | PHASE1 | Boceprevir and Ucalm (St John&Apos;s Wort) | conds: Hepatitis C | intr: Boceprevir, St John's Wort | pubs: ['24610312:RESULT (new)']
+- NCT05477472 | COMPLETED | results=False |  | Low Dose St John's Wort for Depression | conds: Major Depression | intr: St John's Wort
+- NCT04683263 | COMPLETED | results=False | NA | Immediate and Mid-term Effect of a Natural Topical Product in Patients With Musculoskeletal Pain | conds: Musculoskeletal Pain, Chronic Pain, Joint Pain, Stiffness of Unspecified Joint, Not Elsewhere Classified | intr: Placebo, Fisiocrem
+- NCT00861978 | COMPLETED | results=False | PHASE3 | St. John's Wort Extract LI 160 for the Treatment of Atypical Depression | conds: Atypical Depression | intr: St. John's Wort extract, Placebo
+- NCT01979133 | COMPLETED | results=True | PHASE3 | Study of Icariin for Bipolar Disorder and Co-Occurring Substance Use Disorders | conds: Bipolar Disorder, Substance Use Disorder | intr: Icariin
+- NCT00048815 | COMPLETED | results=True | NA | Drug Therapy to Treat Minor Depression | conds: Depression | intr: Citalopram, St. John's Wort, Placebos
+- NCT06367036 | COMPLETED | results=False | NA | Effect of Hypericum Perforatum Oil on Ecchymosis and Pain | conds: Pain, Ecchymosis | intr: Topical hypericum perforatum oil intervention
+- NCT02505191 | COMPLETED | results=False | PHASE1 | Pilot Pharmacokinetic Study of a Prolonged-release Formulation of St. John's Wort Extract Ze 117 | conds: Healthy | intr: St. John's wort prolonged-release tablet 500 mg, St. John's wort film coated tablets 250 mg
+- NCT01921881 | COMPLETED | results=False | PHASE1 | Does the Natural Medicinal Plant St John's Wort Affect the Glucose Tolerance in Healthy Individuals | conds: Type 2 Diabetes | intr: St John's wort
+- NCT00006395 | COMPLETED | results=False | PHASE4 | Drug Interaction Study of Tegretol (Carbamazepine) and St. John's Wort in Normal Volunteers | conds: Healthy | intr: St. John's Wort
+- NCT00222365 | TERMINATED | results=False | PHASE3 | Homeopathy Assessment in Terms of the Consumption of Analgesics After Knee Ligamentoplasty | conds: Pain | intr: Arnica montana, 5 CH, Bryonia alba, 5 CH, Hypericum perforatum, 5 CH, Ruta graveolens, 3 DH | pubs: ['10853874:RESULT (new)']
+- NCT00782080 | COMPLETED | results=False | PHASE3 | Efficacy and Safety of St. John´s Wort/Valerian Extract Versus Placebo in Children and Adolescents With ADHD | conds: ADHD | intr: Sedariston, Placebo
+- NCT02840331 | UNKNOWN | results=False | PHASE3 | Pilot Study on Intra-abdominal Photodynamic Diagnosis in Peritoneal Carcinosis | conds: Peritoneal Carcinomatosis | intr: St. John's Wort, Photodynamic diagnostic and therapy
+- NCT00118833 | COMPLETED | results=False | PHASE2,PHASE3 | St. John's Wort for the Treatment of Generalized Social Anxiety Disorder (GSAD) | conds: Anxiety Disorders, Mental Health | intr: Hypericum perforatum (St. John's wort)
+- NCT00451516 | COMPLETED | results=False | PHASE2 | St. John's Wort And Kava In The Treatment Of Major Depressive Disorder With Comorbid Anxiety | conds: Depressive Disorder, Major, Anxiety Disorders | intr: Herbal medicine (St. John's wort and Kava)
+- NCT06545422 | COMPLETED | results=False | NA | Effect of St. John's Wort Oil on Skin Moisture in Intensive Care Patients | conds: Skin Moisture | intr: St. John's wort oil, Barrier Cream
+- NCT01258504 | COMPLETED | results=True |  | Influence of CYP3A4-induction by St. John's Wort on the Steady State Pharmacokinetics of Bosentan | conds: Drug Interactions | intr: St. Johns Wort
+- NCT04558697 | COMPLETED | results=False | PHASE4 | Use of Vagitories Based on St. John's Wort, Tea Tree Oil and Shepherd's Purse in the Treatment of Vaginal Inflammation | conds: Non Specific Vaginitis | intr: Shepherd's Purse extractum oleosum vagitories, Tea tree oil vagitories, Hyperici extractum oleosum v
+- NCT00587860 | COMPLETED | results=True | PHASE2 | A Placebo-Controlled Trial of St. John's Wort for Irritable Bowel Syndrome | conds: Irritable Bowel Syndrome | intr: St. John's wort, Placebo
+- NCT00100295 | COMPLETED | results=False | PHASE2 | Herbal Treatment for Attention Deficit Hyperactivity Disorder (ADHD) | conds: Attention Deficit Hyperactivity Disorder | intr: Hypericum perforatum, Placebo | pubs: ['18544723:DERIVED (new)']
+- NCT05663996 | COMPLETED | results=False | NA | St. John's Wort Oil on Osteoarthritis | conds: Osteoarthritis, Knee, Pain | intr: locally applied to the skin, locally applied to the skin
+- NCT00035438 | COMPLETED | results=False | PHASE2 | St. John's Wort Vs. Placebo in Obsessive-Compulsive Disorder. | conds: Obsessive Compulsive Disorder | intr: St. John's Wort
+- NCT03482817 | COMPLETED | results=True | PHASE1 | Drug Cocktail Interaction Study of St. John's Wort Dry Extract Ze 117 | conds: Drug Interaction Study | intr: Ze 117, Probe drug cocktail
+- NCT00351117 | COMPLETED | results=False | PHASE3 | St. John's Wort in the Treatment of Raynaud's Phenomenon | conds: Raynaud's Disease | intr: St. John's Wort, Lactose
+- NCT05164926 | UNKNOWN | results=False | NA | The Use of St. John's Wort Oil With Massage in the Perineum During Childbirth | conds: Perineal Injury | intr: perineal massage with St. John's Wort oil
+- NCT03783819 | COMPLETED | results=False | NA | Effects of Hypericum Perforatum Oil on Promoting Skin Recovery in Different Human Skin Damage Models | conds: Skin Recovery in Different Human Skin Damage Models | intr: Hypericum perforatum oil, Placebo, SLS induced irritation, Tape-stripping | pubs: ['32686217:DERIVED (new)']
+- NCT00001919 | COMPLETED | results=False |  | Neuroimaging of St. John's Wort-Induced Changes of Serotonin Metabolism in Normal Subjects | conds: Healthy, Mood Disorder | intr: Hypericum (LI-160)
+- NCT05073211 | COMPLETED | results=False | NA | St. John's Wort Photodynamic Therapy | conds: Acne | intr: PDT | pubs: ['36946749:DERIVED (new)']
+- NCT00131885 | COMPLETED | results=True | PHASE4 | Effects of St. John's Wort on the Oral Contraceptive Hormone Levonorgestrel | conds: Contraception | intr: Placebo Control (Placebo Herb), St. John's Wort, Levonorgestrel
+- NCT01311362 | COMPLETED | results=True |  | Influence of Cytochrome CYP3A4-induction by St. John's Wort on the Steady State Pharmacokinetics of Ambrisentan | conds: Drug Interactions | intr: St. Johns wort
+- NCT07012278 | RECRUITING | results=False | NA | St. John's Wort Oil for Wound Healing and Pain After Cesarean Section | conds: Wound Healing, Caesarean Section | intr: Caesarean section scar dressing with St. John's wort oil
+- NCT06122116 | TERMINATED | results=False | NA | Investigating Orthobiologics After PRP and Photobiomodulation for Knee Osteoarthritis | conds: Knee Osteoarthritis | intr: Physical Therapy, Platelet-Rich Plasma Injection, Photobiomodulation Therapy
+- NCT00955604 | COMPLETED | results=False |  | Azilect + Antidepressant Chart Review | conds: Serotonin Syndrome | intr: Group R+AD Rasagiline + Antidepressant, Group R Rasagiline, Group AD Anti-PD + Antidepressant
+- NCT02112123 | COMPLETED | results=False | PHASE1 | Icariin to Prevent Corticosteroid-related Memory Changes | conds: the Pharmacokinetic Profile of Icariin in Humans | intr: Icariin, Matching placebo
+- NCT04315597 | COMPLETED | results=False | PHASE3 | Study to Learn About Relapse Prevention of Hypericumextract (a Drug Based on the Plant St. John Wort) in Outpatients Suffering From Moderate | conds: Moderate Depressive Episodes (Major Depression) | intr: Laif® 900, BAY98-7108, Placebo
+- NCT04373421 | COMPLETED | results=True | PHASE4 | Effect of St. John's Wort and Olive Oils on the Postoperative Complications | conds: Impacted Third Molar Tooth | intr: Chlorhexidine Gluconate 0.12 % Mouthwash + benzydamine hydrochloride, St. John's wort oil, Virgin ol
+- NCT00026013 | COMPLETED | results=False | NA | Effects of St. John's Wort on the Effectiveness of Oral Contraceptives | conds: Contraception | intr: hypericum perforatum
+- NCT00041171 | WITHDRAWN | results=False | PHASE3 | Docetaxel and St. John's Wort in Treating Patients With Solid Tumors That Cannot Be Removed By Surgery | conds: Adult Solid Tumor, Breast Cancer, Head and Neck Cancer, Kidney and Urinary Cancer | intr: Hypericum perforatum, docetaxel, placebo
+- NCT07882771 | COMPLETED | results=False | NA | St. John's Wort Oil Versus Chlorhexidine Mouthwash for Gingival Problems After Rapid Maxillary Expansion | conds: Gingivitis, Maxillary Transversal Deficiency | intr: St. John's Wort Oil, Chlorhexidine
+- NCT00066859 | COMPLETED | results=False | PHASE3 | Sertraline Compared With Hypericum Perforatum (St.John's Wort) in Treating Depression | conds: Depression, Unspecified Adult Solid Tumor, Protocol Specific | intr: Zoloft 50 mg, St. John's Wort 600 mg
+- NCT01726764 | COMPLETED | results=False | PHASE1 | Interaction Between St John's Wort and Metformin? | conds: Type 2 Diabetes, Depression | intr: St John's Wort, Metformin
+- NCT00035412 | COMPLETED | results=False | PHASE2 | St. John's Wort Versus Placebo in Social Phobia | conds: Phobic Disorders | intr: St. John's Wort
+- NCT07639658 | COMPLETED | results=False |  | Temple Massager System Study in Women Ages 35-65 | conds: Tension Headaches, Stress, Sleep Quality, Quality of Life | intr: Temple Massager System
+- NCT07448051 | ACTIVE_NOT_RECRUITING | results=False | NA | THE EFFECT OF ST. JOHN'S WORT OİL APPLİCATİON ON PERIORBITAL EDEMA AND ECCHYMOSİS AFTER RHİNOPLASTY | conds: Effect of Postoperative Topical St. John's Wort Oil (Hypericum Perforatum) on Periorbital Edema and Ecchymosis Following Rhinoplasty | intr: Topical St. John's Wort oil application
+- NCT01330589 | WITHDRAWN | results=False | NA | Pharmacodynamic Study on Efficacy of Clopidogrel With St. John's Wort | conds: Acute Coronary Syndrome | intr: Placebo, St. Johns Wort
+- NCT00005013 | COMPLETED | results=False | NA | Treatment of Major Depression With St. John's Wort (Hypericum) | conds: Major Depression | intr: Sertraline, Hypericum perforatum (St. John's wort) | pubs: ['11939866:RESULT (HELD REF-3596)', '15876903:RESULT (new)', '25544195:DERIVED (new)', '24232445:DERIVED (new)', '22592504:DERIVED (new)', '22053942:DERIVED (new)']
+- NCT02862236 | COMPLETED | results=False | PHASE4 | The Acute Effect of Hypericum Perforatum on Short-Term Memory in Healthy Adults | conds: Subclinical Anxious Adults, Nootropic Potential of Hypericum and Alprazolam, Healthy Adults | intr: Hypericum perforatum extract | pubs: ['30382352:DERIVED (new)']
+- NCT02909686 | COMPLETED | results=True | NA | Effects of Botanical Microglia Modulators in Gulf War Illness | conds: Gulf War Illness | intr: Boswellia Serrata, Curcumin, Epimedium, Fisetin | pubs: ['33915962:DERIVED (new)', '33802381:DERIVED (new)', '33802272:DERIVED (new)']
+- NCT00005805 | COMPLETED | results=False | PHASE3 | St. John's Wort in Relieving Fatigue in Patients Undergoing Chemotherapy or Hormone Therapy for Cancer | conds: Chronic Myeloproliferative Disorders, Fatigue, Leukemia, Lymphoma | intr: St. John's wort | pubs: ['36999619:DERIVED (new)']
+- NCT01595347 | UNKNOWN | results=False | PHASE4 | Olive Oil's Cream Effectiveness in Prevention of Pressure Ulcers in Immobilized Patients in Primary Care | conds: Pressure Ulcer | intr: Hyper-oxigenated fatty acid, Olive oil's cream | pubs: ['28922519:DERIVED (new)', '25886152:DERIVED (new)', '24152576:DERIVED (new)']
+- NCT04357990 | COMPLETED | results=False | NA | Viruxal Oral and Nasal Spray for Treating the Symptoms of COVID-19 | conds: COVID-19 | intr: Viruxal Oral and Nasal Spray, Placebo
+- NCT00405912 | COMPLETED | results=True | PHASE2 | St. John's Wort for Tobacco Cessation | conds: Smoking, Nicotine Dependence | intr: Placebo, St. John's Wort-900 mg/day, St. John's Wort-1800mg/day | pubs: ['20590478:RESULT (new)', '37230961:DERIVED (new)']
+- NCT06839313 | COMPLETED | results=False | NA | Comparison of Hypericum Perforatum, Topical Corticosteroids, and Hyaluronic Acid for Recurrent Aphthous Stomatitis | conds: Stomatitis, Aphthous | intr: Kenacort A Orabase® pomad , Bristol-Myers Squibb İlaçları Inc. İstanbul , Türkiye, Hyaluronic acid, 
+- NCT06543199 | COMPLETED | results=False | NA | Evaluation of the Effect of Hypericum Perforatum L and Hyaluronic Acid on Excisional Palatal Wound Healing | conds: Wound Healing Disorder, Palate; Wound | intr: local application of hyaluronic acid agent to the wound site, Local application of hypericum perfora
+- NCT05067998 | RECRUITING | results=False |  | The Benefits of Natural Medicine, Vitamin IV Therapy and Supplements: Maintaining Good Health Through Nature | conds: Anxiety Disorders and Symptoms, Fibromyalgia, Arthritis, Chronic Pain | intr: IV Vitamin Infused Therapy Treatment, Herbal medicine
+- NCT03796377 | COMPLETED | results=False | PHASE1 | Rivaroxaban Hypericum Trial | conds: Drug Interaction Study | intr: St Johns Wort Extract, Rivaroxaban | pubs: ['32959922:RESULT (new)']
+- NCT06617026 | COMPLETED | results=False | PHASE1,PHASE2 | Short-Term Outcome of Medical Vs. Surgical Management Of Chronic Anal Fissure | conds: Anal Fissure Chronic | intr: Sucralfate, Azadirachtin, fissurectomy and lateral sphincterectomy
+- NCT07397325 | RECRUITING | results=False | PHASE1,PHASE2 | Clinical Study of DA-020 for the Treatment of Chemotherapy Induced Alopecia | conds: Chemotherapy Induced Alopecia, Chemotherapy Side Effects | intr: DA-020, Placebo, DA-020 and Hyperforin
+- NCT00000645 | COMPLETED | results=False | PHASE1 | A Phase I Dose Escalation Study of Synthetic Hypericin in HIV-Infected Patients With Less Than 300 CD4 Lymphocytes | conds: HIV Infections | intr: Hypericin
+- NCT06149247 | COMPLETED | results=True | PHASE2 | HyBryte (Synthetic Hypericin) Versus Valchlor (Mechlorethamine) in the Treatment of CTCL | conds: Cutaneous T-Cell Lymphoma/Mycosis Fungoides | intr: Hypericin, Mechlorethamine Topical Gel | pubs: ['41920467:DERIVED (new)']
+- NCT05442190 | COMPLETED | results=True | PHASE2 | Topical SGX302 for Mild-to-Moderate Psoriasis | conds: Psoriasis, Plaque Psoriasis, Psoriasis Vulgaris | intr: Hypericin
+- NCT02448381 | COMPLETED | results=True | PHASE3 | FLASH [Fluorescent Light Activated Synthetic Hypericin] Clinical Study: Topical SGX301 (Synthetic Hypericin) for the Treatment of Cutaneous  | conds: Cutaneous T-Cell Lymphoma | intr: SGX301 (synthetic hypericin), Placebo | pubs: ['35857290:DERIVED (new)', '32632956:DERIVED (new)']
+- NCT06470451 | TERMINATED | results=False | PHASE3 | Confirmatory Study of Topical HyBryte™ vs. Placebo for the Treatment of CTCL | conds: CTCL/ Mycosis Fungoides, CTCL, Mycosis Fungoides, Cutaneous T Cell Lymphoma | intr: Hypericin, Placebo
+- NCT01365676 | UNKNOWN | results=False | PHASE3 | GAMALINE®+HIPERICIN® for PMS Treatment and Vasomotor Symptoms | conds: Premenstrual Syndrome, Uterus; Hemorrhage, Preclimacteric or Premenopausal | intr: GAMALINE® + HIPERICIN®, GAMALINE®
+- NCT01283568 | UNKNOWN | results=False |  | Safety and Efficacy Study of Gamaline+Hipericin in PMS | conds: Edema, Depression, Hot Flashes, Anxiety | intr: 
+- NCT00000792 | COMPLETED | results=False | PHASE1 | A Pharmacologically Guided Phase I/II Study of Daily Orally Administered Synthetic Hypericin in HIV-Infected Subjects | conds: HIV Infections | intr: Hypericin
+- NCT05872854 | COMPLETED | results=False | PHASE2 | Treatment of Mycosis Fungoides With Hypericin Ointment and Visible Light | conds: Cutaneous T Cell Lymphoma, Mycosis Fungoides | intr: Hypericin, Visible Light
+- NCT05380635 | COMPLETED | results=True | PHASE2 | PK and ECG Determinations Following 8 Weeks of HyBryte Treatment for Cutaneous T-Cell Lymphoma | conds: Cutaneous T-Cell Lymphoma/Mycosis Fungoides | intr: Hypericin
+- NCT00557427 | TERMINATED | results=False | PHASE4 | Hypericum vs Fluoxetine for Mild to Moderate Adolescent Depression | conds: Depression | intr: hypericum, fluoxetine | pubs: ['12874492:RESULT (new)', '15910213:RESULT (new)']
+- NCT01481025 | UNKNOWN | results=False | PHASE3 | Efficacy and Safety for Cimicifuga/Hypericum Product | conds: Perimenopausal Disorder | intr: Cimicifuga + Hiperico, Cimicifuga Herbarium, Aplause®
+- NCT00997256 | COMPLETED | results=False | PHASE1 | Study to Investigate Effects of a Herbal Drug Compared to Placebo on Sleep | conds: Healthy, Sleep Quality | intr: Neurapas® balance (Herbal product (Hypericum, Passionflower, Valerian)), film-coated sugar-pill
+- NCT01047605 | COMPLETED | results=False | PHASE1 | Pharmacological Effects of Neurapas® Balance and Pascoflair® 425 mg on Brain Activity in Healthy Volunteers | conds: Healthy | intr: Neurapas balance, Pascoflair 425 mg, P-Tabletten weiß | pubs: ['21810233:DERIVED (new)']
+- NCT00997490 | TERMINATED | results=False | PHASE3 | Study of the Antidepressant Efficacy of a Combination Herbal Drug Preparation (NEURAPAS Balance) | conds: Depressive Disorder | intr: Neurapas® balance (Herbal combination out of hypericum, valerian, passionflower), film-coated sugar-
+
+### OpenAlex no-PMID trial-worded - 5254 hits, 25 without PMID, 25 new
+- new | 2025 | 10.1016/j.aimed.2025.100606 | article | An exploratory, randomized, placebo-controlled, double-blind trial of Hypericum perforatum 200CH in preventing and treating fingertip puncture site pain and tenderness | Advances in Integrative Medicine
+- new | 2024 | 10.21801/ppcrj.2023.94.9 | article | PSORIATICUM: Topical Hypericum Perforatum for Moderate Plaque Psoriasis: Study Protocol for a Randomized Controlled Trial | Principles and Practice of Clinical Rese
+- new | 2023 | 10.5281/zenodo.19631435 | article | Randomized Trial of Herbal Antidepressants | Zenodo (CERN European Organization for N
+- new | 2022 | 10.19080/oroaj.2022.20.556028 | article | Immediate and Mid-Term Effect of a Natural Topical Product in Patients with Musculoskeletal Pain: Randomized, Double-Blinded, and Placebo-Controlled Clinical Trial | Orthopedics and Rheumatology Open Access
+- new | 2022 | 10.1016/j.eujim.2022.102119 | article | Comparative effectiveness of Hypericum perforatum, acupuncture, and lifestyle modification in the management of obesity: A randomized clinical trial | European Journal of Integrative Medicine
+- new | 2021 | 10.4103/ijrh.ijrh_49_20 | article | Evaluation of Hypericum perforatum mother tincture as an antigingivitis agent in comparison with Chlorhexidine: A randomised controlled trial | Indian Journal of Research in Homoeopath
+- new | 2020 | 10.4103/aihb.aihb_16_20 | article | Evaluation of the effect of perforan (Hypericum perforatum) on premenstrual syndrome severity of physical and behavioural symptoms in patients with premenstrual syndrome: A clinica | Advances in Human Biology
+- new | 2020 | 10.1016/j.aimed.2020.01.001 | article | Appetite and weight control by Hypericum perforatum and acupuncture added to lifestyle modification: Study protocol for a randomized clinical trial | Advances in Integrative Medicine
+- new | 2019 | 10.1016/j.eujim.2019.100995 | article | The effect of hypericum perforatum oil on the healing process in the care of episiotomy wounds: A randomized controlled trial | European Journal of Integrative Medicine
+- new | 2016 | https://openalex.org/W2596593140 | article | Comparison of the effect of omega-3 fatty acids and perforan (Hypericum perforatum) on severity of premenstrual syndrome (PMS): a randomized trial | International Journal of Medical Researc
+- new | 2014 | 10.12980/apjtb.4.201414b160 | article | Effect of Hypericum perforatum L. compared with metronidazole in bacterial vaginosis: a double-blind randomized trial | Asian Pacific Journal of Tropical Biomed
+- new | 2013 | 10.22122/cdj.v1i2.53 | article | Comparison the efficacy of Hypericum perforatum and vitex agnus- castus in hot flushes: A double-blinded randomized controlled trial | Chronic Diseases Journal
+- new | 2011 | 10.1016/j.ypsy.2010.10.065 | article | A Randomized, Double-Blind, Placebo-Controlled Trial of St John's Wort for Treating Irritable Bowel Syndrome | Yearbook of Psychiatry and Applied Menta
+- new | 2010 | 10.1111/j.2042-7166.2010.01045_12.x | article | Hypericum extract worse than placebo in a trial in irritable bowel syndrome patients | Focus on Alternative and Complementary T
+- new | 2009 | 10.17615/arpc-wf20 | review | Effectiveness of St. John’s Wort (Hypericum Perforatum) vs. Placebo or Other Antidepressants in the Treatment of Mild to Moderate Depression: A Meta-Analysis of Randomized Control  | Carolina Digital Repository (University 
+- new | 2008 | https://openalex.org/W2468589341 | article | DOUBLE BLIND PLACEBO CONTROLLED CLINICAL DOUBLE BLIND PLACEBO CONTROLLED CLINICAL DOUBLE BLIND PLACEBO CONTROLLED CLINICAL DOUBLE BLIND PLACEBO CONTROLLED CLINICAL DOUBLE BLIND PLA | Journal of Pakistan Psychiatric Society
+- new | 2008 | 10.1016/s0016-5085(08)62546-9 | conference-abstract | Lack of Superiority of ST. John's Wort Over Placebo in Treating Irritable Bowel Syndrome (IBS): A Randomized Controlled Trial | Gastroenterology
+- new | 2006 | 10.1111/j.2042-7166.2006.tb04742.x | article | Effects of Hypericum perforatum compared to placebo on hot flushes and quality of life in menopausal women: a pilot trial | Focus on Alternative and Complementary T
+- new | 2005 | https://openalex.org/W3207000203 | review | Extracts of St. John's wort for mild to moderate depression - A meta-analysis of randomized, double-blinded and placebo-controlled trials | Zhōnghuá mínguó yíngyǎng xuéhuì zázhì
+- new | 2005 | https://openalex.org/W47018096 | article | The Effect of black cohosh with St. John's wort (Feramin-Q(R)) on climacteric symptoms: multicenter randomized double-blind placebo-controlled trial. | Obstetrics & Gynecology Science
+- new | 2004 | https://openalex.org/W2994036827 | article | Comparison of hypericum perforatum and placebo in treatment of physical symptoms of premenstrual syndrome | حیات
+- new | 2003 | 10.1016/s0965-2299(03)00095-5 | other | Breathing retraining for asthmatic patients: the need for preliminary studies before developing a randomised controlled trial | Complementary Therapies in Medicine
+- new | 2002 | 10.1016/s0924-9338(02)80310-8 | article | Efficacy of St. John's wort extract WS® 5570 in major depression — a double-blind, placebo-controlled trial | European Psychiatry
+- new | 1998 | 10.1002/(sici)1099-1077(199804)13:3<163::aid-hup5>3.0.co;2-i | article | Hypericum treatment of mild-moderate depression in a placebo-controlled study. A prospective, double-blind, randomized, placebo-controlled, multicentre study | Human Psychopharmacology Clinical and Ex
+- new | 1994 | 10.1177/089198879400701s13 | article | Pharmacokinetics of Hypericin and Pseudohypericin after Oral Intake of the Hypericum Perforatum Extract LI 160 in Healthy Volunteers | Journal of Geriatric Psychiatry and Neur
+
+## hyssopus-officinalis (Hyssopus officinalis) - name clause: "Hyssopus officinalis"[tiab] OR "hyssop"[tiab]
+
+### PubMed HT - 6 hits, 6 not already listed above, 6 new
+- new | 2026 | 42505409 |  | Hyssopus officinalis L. (Lamiaceae) Cell Culture Extract Modulates Epidermal Lipid-Related and Differentiation Markers. | Cells
+- new | 2024 | 39959798 |  | Effect of Hyssop (Hyssopus officinalis) Syrup on Mild to Moderate Asthma: A Randomized Double-Blind Placebo-Controlled Trial. | Tanaffos
+- new | 2023 | 37141519 |  | [Impact of essential oil vapors inhalation on blood pressure in patients with hypertension]. | Vopr Kurortol Fizioter Lech Fiz Kult [rus]
+- new | 2021 | 32394355 |  | Precision Harvesting of Medicinal Plants: Elements and Ash Content of Hyssop (Hyssopus officinalis L.) as Affected by Harvest Height. | Biol Trace Elem Res
+- new | 2019 | 30984577 |  | Short-course administration of a traditional herbal mixture ameliorates asthma symptoms of the common cold in children. | Avicenna J Phytomed
+- new | 2004 | 15658650 | Clinical Trial/Randomized Controlled Trial | [Clinical study on treatment of mid-advanced crescentic nephritis by qingre huoxue recipe]. | Zhongguo Zhong Xi Yi Jie He Za Zhi [chi]
+
+### PubMed SR - 2 hits, 2 not already listed above, 2 new
+- new | 2019 | 31239862 | Review | The Effects of Various Essential Oils on Epilepsy and Acute Seizure: A Systematic Review. | Evid Based Complement Alternat Med
+- new | 2016 | 27761420 | Review | A review study on the effect of Iranian herbal medicines against in vitro replication of herpes simplex virus. | Avicenna J Phytomed
+
+### PubMed SAFE - 22 hits, 21 not already listed above, 18 new
+- new | 2023 | 38628881 | Review | Herbal Treatment of COPD and Asthma According to Persian Medicine: a Review of Current Evidence. | Tanaffos
+- HELD REF-0846 | 2022 | 35069979 | Review | Hyssopus Essential Oil: An Update of Its Phytochemistry, Biological Activities, and Safety Profile. | Oxid Med Cell Longev
+- new | 2022 | 31736373 |  | Differential effect of herbal tea extracts on free fatty acids-, ethanol- and acetaminophen-induced hepatotoxicity in FL83B hepatocytes. | Drug Chem Toxicol
+- HELD REF-1806 | 2021 | 33810509 |  | Wild Italian Hyssopus officinalis subsp. aristatus (Godr.) Nyman: From Morphological and Phytochemical Evidences to Biological Activities. | Plants (Basel)
+- new | 2021 | 33916934 |  | Antioxidant, Antigenotoxic and Cytotoxic Activity of Essential Oils and Methanol Extracts of Hyssopus officinalis L. Subsp. aristatus (Godr.) Nyman (Lamiaceae). | Plants (Basel)
+- new | 2020 | 32209108 |  | Identification of essential oils with activity against stationary phase Staphylococcus aureus. | BMC Complement Med Ther
+- new | 2020 | 32700853 |  | Induction of Biosynthetic Genes Related to Rosmarinic Acid in Plant Callus Culture and Antiproliferative Activity Against Breast Cancer Cell Line. | Pak J Biol Sci
+- new | 2018 | 29258916 | Research Support, Non-U.S. Gov't/Review | Potential of selected Lamiaceae plants in anti(retro)viral therapy. | Pharmacol Res
+- new | 2017 | 28110082 |  | Acute larvicidal toxicity of five essential oils (Pinus nigra, Hyssopus officinalis, Satureja montana, Aloysia citrodora and Pelargonium graveolens) against the filariasis vector C | Parasitol Int
+- new | 2016 | 26008751 | Review | Laūq: A Sustained-Release Dosage Form for Respiratory Disorders in Traditional Persian Medicine. | J Evid Based Complementary Altern Med
+- new | 2016 | 26999084 | Research Support, Non-U.S. Gov't | Fumigant Toxicity of Lamiaceae Plant Essential Oils and Blends of Their Constituents against Adult Rice Weevil Sitophilus oryzae. | Molecules
+- new | 2014 | 25330194 | Randomized Controlled Trial | Effect of mucoprotective plant-derived therapies on damage to colonic mucosa caused by carprofen and robenacoxib administered to healthy dogs for 21 days. | Vet Q
+- new | 2013 | 24571303 | Case Reports | Suspected Lythrum hyssopifolia (lesser loosestrife) poisoning of cattle. | Aust Vet J
+- new | 2012 | 31643710 | Review | Hyssop. | 
+- new | 2012 | 22465769 |  | Vibrational spectroscopy and electrophoresis as a "golden means" in monitoring of polysaccharides in medical plant and gels. | Spectrochim Acta A Mol Biomol Spectrosc
+- new | 2007 | 17479778 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Pilot study investigating the ability of an herbal composite to alleviate clinical signs of respiratory dysfunction in horses with recurrent airway obstruction. | Can J Vet Res
+- new | 2006 | 17066806 | Research Support, Non-U.S. Gov't | Fumigant toxicity of plant essential oils to Thrips palmi (Thysanoptera: Thripidae) and Orius strigicollis (Heteroptera: Anthocoridae). | J Econ Entomol
+- HELD REF-5364 | 1999 | 10460442 | Case Reports | Plant-induced seizures: reappearance of an old problem. | J Neurol
+- new | 1996 | 8630713 | Case Reports | Labiatae allergy: systemic reactions due to ingestion of oregano and thyme. | Ann Allergy Asthma Immunol
+- new | 1981 | 7333081 | Case Reports/Research Support, Non-U.S. Gov't | Toxicity of some essential plant oils. Clinical and experimental study. | Clin Toxicol
+- new | 1979 | 493616 |  | [Experimental study of the toxic convulsant properties of commercial preparations of essences of sage and hyssop (author's transl)]. | Rev Electroencephalogr Neurophysiol Clin [fre]
+
+### PubMed OBS - 0 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 17 hits, 10 not already listed above, 9 new
+- new | 2026 | 41681651 | Review | Ontogenetic and Environmental Variability of Hyssop (Hyssopus officinalis L.) Essential Oil Composition and Activity. | Plants (Basel)
+- HELD REF-0845 | 2024 | 38931115 | Review | The Genus Hyssopus: Traditional Use, Phytochemicals and Pharmacological Properties. | Plants (Basel)
+- new | 2023 | 37895122 | Review | Plant Extracts as Skin Care and Therapeutic Agents. | Int J Mol Sci
+- new | 2022 | 35218388 | Review/Retracted Publication | Biotechnology for propagation and secondary metabolite production in Bacopa monnieri. | Appl Microbiol Biotechnol
+- new | 2022 | 35201388 | Review | Biotechnological production of bacosides from cell and organ cultures of Bacopa monnieri. | Appl Microbiol Biotechnol
+- new | 2020 | 32080752 | Review | The Effect of Auxin and Auxin-Producing Bacteria on the Growth, Essential Oil Yield, and Composition in Medicinal and Aromatic Plants. | Curr Microbiol
+- new | 2019 | 31527294 | Review | A review on the management of asthma in the Avicenna's Canon of Medicine. | J Complement Integr Med
+- new | 2017 | 27774904 | Review | Medicinal Plants for the Treatment of Asthma: A Traditional Persian Medicine Perspective. | Curr Pharm Des
+- new | 2017 | 26682768 | Review | Listeriosis Phytotherapy: A Review Study on the Effectiveness of Iranian Medicinal Plants in Treatment of Listeriosis. | J Evid Based Complementary Altern Med
+- new | 2014 | 24899872 | Review | Phytochemistry and bioactivity of aromatic and medicinal plants from the genus Agastache (Lamiaceae). | Phytochem Rev
+
+### ClinicalTrials.gov - 0 registered studies
+
+### OpenAlex no-PMID trial-worded - 349 hits, 86 without PMID, 86 new
+- new | 2026 | 10.22270/jddt.v16i10.8003 | article | Zūfā (Hyssopus officinalis L.): Unani Temperament, Traditional Therapeutic Uses, Phytochemistry, Pharmacological Actions, and Clinical Potential – A Comprehensive Review | Journal of Drug Delivery and Therapeutic
+- new | 2026 | 10.22067/ijasr.2026.96772.1282 | article | Effects of Hyssop (Hyssopus officinalis L.) Essential Oil on Ruminal Fermentation Parameters, Nutrient Degradability, and Methane Production in vitro | Pizhūhishhā-yi ̒ulum-i dāmī-i Īrān
+- new | 2026 | 10.6084/m9.figshare.32944777 | article | Insight into the composition, in vitro activities and in vivo safety and efficacy of hydrolates from Hyssopus officinalis, Lavandula × intermedia, and Thymus vulgaris | Figshare
+- new | 2026 | 10.1080/22311866.2026.2693648 | article | Insight into the composition, in vitro activities and in vivo safety and efficacy of hydrolates from Hyssopus officinalis, Lavandula × intermedia, and Thymus vulgaris | Journal of Biologically Active Products 
+- new | 2026 | 10.17557/tjfc.1544888 | article | The Effect of Plant Growth-Promoting Rhizobacteria (PGPR) and Mycorrhiza on Morphophysiological Characteristics, Essential Oil Percentage, and Yield of Hyssopus officinalis Under D | Turkish Journal of Field Crops
+- new | 2025 | 10.5812/jjnpp-159021 | article | Investigation of the Efficacy and Safety of a Syrup Composed of 11 Herbal Medicines in Improving Chronic and Subacute Cough in Patients: A Preclinical Study and a Randomized, Doubl | Jundishapur Journal of Natural Pharmaceu
+- new | 2025 | 10.2139/ssrn.5723423 | preprint | Effect of Selenium on Morpho-Physiological, Phytochemical and Antioxidant Responses to Drought Stress in Hyssopus officinalis L | SSRN Electronic Journal
+- new | 2025 | 10.2139/ssrn.5683709 | preprint | Effect of Selenium on Morpho-Physiological, Phytochemical and Antioxidant Responses to Drought Stress in Hyssopus officinalis L | SSRN Electronic Journal
+- new | 2025 | 10.1016/j.indcrop.2025.121432 | article | Phytochemical, physiological and morphological alterations in Hyssopus officinalis L. as affected by light emitting diodes (LEDs) and water deficit | Industrial Crops and Products
+- new | 2025 | 10.22067/jhs.2025.90559.1387 | article | Effect of Red and Blue LED Lights on Morphological and Physiological Characteristics of Hyssop (Hyssopus officinalis L.) | Majallah-i ̒ulum-i bāghbānī
+- new | 2025 | 10.3390/nitrogen6030060 | article | Nitrogen Fertilization and Glomus Mycorrhizal Inoculation Enhance Growth and Secondary Metabolite Accumulation in Hyssop (Hyssopus officinalis L.) | Nitrogen
+- new | 2025 | 10.1016/j.aimed.2025.02.005 | article | Personalized integrative medicine: Bridging CAM and EBM | Advances in Integrative Medicine
+- new | 2024 | 10.33140/jfmhi.03.01.05 | article | Evaluating the Effect of Hyssopus Officinalis and Verbascum Thapsus Herbal Tea on SPO2 and Duration of Hospitalization in Patients With Covid-19 | Journal of Future Medicine and Healthcar
+- new | 2024 | 10.31925/farmacia.2024.4.2 | review | THERAPEUTIC POTENTIAL OF HYSSOPUS OFFICINALIS L. IN SKIN PROBLEMS – A REVIEW | FARMACIA
+- new | 2024 | 10.21608/ejchem.2024.266013.9255 | article | Effect of foliar spraying with some Micro-elements on the chemical composition and essential oil of Hyssop( Hyssopus officinalis) plant | Egyptian Journal of Chemistry
+- new | 2024 | 10.34172/jhp.2025.52718 | article | Comprehensive analysis of bioactive compounds in Hyssopus officinalis L. and evaluation of its antioxidant, antibacterial, and anti-Alzheimer properties | Journal of Herbmed Pharmacology
+- new | 2024 | 10.29261/pakvetj/2024.295 | article | In Vitro Anthelmintic Potential of Selected Essential Oils against Gastrointestinal Nematodes of Sheep | Pakistan Veterinary Journal
+- new | 2023 | 10.1080/0972060x.2022.2160279 | article | Water Deficit Stress Mitigation by the Foliar Spraying of Salicylic Acid and Proline on the Volatile Oils and Growth Features of Hyssop (Hyssopus officinalis L.) | Journal of Essential Oil Bearing Plants
+- new | 2023 | 10.61186/yujs.10.1.125 | article | Investigating the effects of nano and micro iron chelate to alleviate salinity stress damages at hyssop (Hyssopus officinalis) germination and seedling stages | Journal of Seed Research
+- new | 2023 | 10.36348/sijtcm.2023.v06i11.001 | article | Lobelia inflata L. as an Alternative Medicine for Respiratory Problems Provoked by Covid- 19: A Review | Scholars International Journal of Tradit
+- new | 2022 | 10.56042/ijtk.v21i2.53424 | article | HYSSOP and POLIUM could help to prevent COVID-19 in high-risk population: The results of a parallel randomized placebo-controlled field trial | Indian Journal of Traditional Knowledge
+- new | 2022 | 10.1055/s-0042-1759332 | article | Effect of hyssop syrup on syndrome-differentiated mild to moderate asthma: A pilot clinical trial | Planta Medica
+- new | 2022 | 10.2174/2210315512666220811153919 | review | Phytochemistry and Pharmacology of Indian Traditional Plant Hyssop (Hyssopus officinalis L.): A Review | The Natural Products Journal
+- new | 2022 | 10.24326/asphc.2022.3.10 | article | THE INFLUENCE OF HARVESTING APPLIED AT DIFFERENT STAGES OF PLANT DEVELOPMENT ON Hyssopus officinalis L. PRODUCTION | Acta Scientiarum Polonorum Hortorum Cult
+- new | 2022 | 10.71500/thesis.2022.916915 | dissertation | Effect of Drought Stress and Foliar Application of Proline, Yeast and Nitrogen on Growth, Quantity and Quality of Hyssop (Hyssopus officinalis L.) Essential oil under Intercropping | Test
+- new | 2022 | 10.55124/ijid.v1i1.225 | article | The Effects of hydroalcholic extract polyherbal formulation on improving the symptoms of patients with COVID-19 in hospital | International Journal of Infectious Dise
+- new | 2021 | 10.5812/jjnpp.117677 | article | Efficacy and Safety of Novel Herbal Tablets in COVID-19 Patients in Hospital Stay Days, ICU Admission and Mortality Rate Thereof: An Ppen-Label, Single-Blind Randomized Clinical Tr | Jundishapur Journal of Natural Pharmaceu
+- new | 2021 | 10.22059/ijhst.2020.298266.346 | article | Quantity and Quality of Hyssop (Hyssopus officinalis L.) Affected by Precision Harvesting | 
+- new | 2021 | 10.22103/jab.2021.16756.1277 | article | Effect of plant growth regulators on callogenesis and regeneration of Hyssopus officinalis in In vitro conditions | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2021 | 10.22067/ijasr.v13i2.84861 | article | Effect of Hyssopus Officinalis, Aspirin and Virginiamycin on Performance, Blood Metabolites, Carcass Parameters and Ileum Microbial Population of Broiler Chickens under Cold Stress | Pizhūhishhā-yi ̒ulum-i dāmī-i Īrān
+- new | 2021 | 10.22034/saps.2021.13100 | article | Evaluation of Quantitative and Qualitative Traits of Hyssop (Hyssopus officinalis) under Heat Stress and Nitrogen Fertilizer (Case study: Sub Tropical Climatic Condition of Jiroft) | دانش کشاورزی وتولید پایدار
+- new | 2021 | 10.1016/j.eujim.2021.101358 | article | Ethnobotanical treatment of respiratory diseases in the central Middle Atlas (Morocco): Qualitative and quantitative approach | European Journal of Integrative Medicine
+- new | 2021 | 10.1016/j.indcrop.2021.114330 | article | Phytochemical and morpho-physiological changes of hyssop in response to chitosan-spraying under different levels of irrigation | Industrial Crops and Products
+- new | 2020 | 10.1007/978-3-030-16807-0_110 | book-chapter | Hyssopus officinalis L. (Lamiaceae) | Springer eBooks
+- new | 2020 | 10.22034/saps.2020.12284 | article | تأثیر سیستم کشت مخلوط افزایشی بر عملکرد، اجزای عملکرد و شاخصهای سودمندی زوفا (Hyssopus officinalis) و اسفرزه (Plantago ovate Forsk) | دانش کشاورزی وتولید پایدار
+- new | 2019 | 10.1142/s2575900019500149 | article | Study on the protective effect of different extraction sites of Hyssopus officinalis and Dracocephalum moldavica combination on cerebral ischemia-reperfusion injury in rats | Traditional Medicine and Modern Medicine
+- new | 2019 | 10.29252/nbr.6.1.106 | article | The effects of magnetopriming on the growth, physiology and antioxidant systems in hyssop | Nova Biologica Reperta
+- new | 2019 | https://openalex.org/W3120869608 | article | Effect of zinc oxide nanoparticles synthesized by aqueous extract of hyssopus officinalis on colon cancer cell line (HT-29) and normal cell line (Huvec), and also on proxytonin pro | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2019 | 10.1016/j.postharvbio.2019.06.002 | article | Efficiency of essential oils against Pectobacterium carotovorum subsp. carotovorum causing potato soft rot and their possible application as coatings in storage | Postharvest Biology and Technology
+- new | 2019 | 10.29252/sjimu.27.3.14 | article | Effect of Solvent Extraction on Phenol, Flavonoids and Antioxidant Activity of some Iranian Native Herbs | journal of ilam university of medical sc
+- new | 2019 | 10.29252/qums.13.7.22 | article | The Cytotoxic Effect of Hyssop Extract on Breast Cancer Cell Line | Qom Univ Med Sci J
+- new | 2018 | 10.15421/021873 | article | Compositions of essential oils with antimicrobial properties against isolates from oral cavities of patients with inflammatory diseases of the periodontium | Regulatory Mechanisms in Biosystems
+- new | 2018 | 10.15407/microbiolj80.04.003 | article | Antimicrobial Activity of Some Essential Oils on Candida Genus Clinical Isolates | Mikrobiolohichnyi Zhurnal
+- new | 2018 | 10.15407/microbiolj80.04 | paratext |  | Mikrobiolohichnyi Zhurnal
+- new | 2018 | https://openalex.org/W2908806450 | dissertation | Les plantes antitussives à l’officine | HAL
+- new | 2017 | 10.13005/bbra/2538 | article | The Effect of Plant Growth Promoting Rhizobacteria (PGPR), Salicylic Acid and Drought Stress on Growth Indices, the Chlorophyll and Essential Oil of Hyssop (Hyssopus officinalis) | Biosciences Biotechnology Research Asia
+- new | 2017 | https://openalex.org/W2785839752 | article | Changes of Essential Oil, Photosynthetic Pigments, and Morphological Characteristics of Hyssop (Hyssopus officinalis L.) at Different Harvesting Time | Journal of Medicinal Plants
+- new | 2017 | 10.1016/j.jocit.2017.04.029 | conference-abstract | Effect of Persian medicine remedy on Chemotherapy Induced Nausea and Vomiting in breast cancer; A double blind, randomized, crossover clinical trial | Journal of Cellular Immunotherapy
+- new | 2017 | 10.11603/ijmmr.2413-6077.2017.1.7039 | article | IMPROVEMENT IN THE APPROACHES TO THE TREATMENT OF EMIGRANTS AND RE-EMIGRANTS WITH DEPRESSIVE DISORDERS | International Journal of Medicine and Me
+- new | 2017 | 10.22067/jpp.v30i4.36193 | article | Study the Effect of Three Species of Medicinal Plants of the Mint Family on Pathogenicity and Damage Root Knot Nematode Meloidogyne javanica in Tomato | Majallah-i ḥifāẓat-i giyāhān
+- new | 2016 | 10.22067/jhorts4.v30i3.46003 | article | Effects of organic amendments and biofertilizer application on some morphological traits and yield of hyssop (Hyssopus officinalis L.). | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2016 | https://openalex.org/W2573978502 | article | Effect of Hyssopus officinalis leaves alcoholic extract on motor neuron density in anterior horn after sciatic nerve compression in rats | مجله علمی دانشگاه علوم پزشکی گرگان
+- new | 2016 | 10.9734/ejmp/2016/23589 | article | The Effects of Zinc Application and Cutting on Growth, Herb, Essential Oil and Flavonoids in Three Medicinal Lamiaceae Plants | European Journal of Medicinal Plants
+- new | 2016 | 10.18535/jmscr/v4i1.37 | article | Therapeutic Efficacy of Certain Unani Drugs in the Treatment of Chronic Rhino Sinusitis | Journal of Medical Science And clinical 
+- new | 2016 | https://openalex.org/W2619202166 | article | ANTIFUNGAL ACTIVITY OF SOME PLANT EXTRACTS AGAINST Alternaria alternata (Fr.) Keissl. IN THE BLACK CURRANT CROP ( Ribes nigrum L.) | Acta Scientiarum Polonorum Hortorum Cult
+- new | 2015 | https://openalex.org/W7236509643 | article | Topical Hyssopus officinalis (hyssop) essential oil for the reduction in terminal respiratory secretions | Scholarly Commons @Augusta University
+- new | 2015 | 10.36953/ecj.2015.se1649 | article | Investigating the possibility of decrease consumption of chemical fertilizers with using the biofertilizers in Hyssopus officinalis in Iran | Environment Conservation Journal
+- new | 2015 | 10.12691/aefs-1-1-1 | article | The Assessment Effects of Bio and Chemical Fertilizers on Vegetative Growth and Essential Oil of Hyssop (Hyssopus officinalis L.) | 
+- new | 2015 | https://openalex.org/W2241324569 | article | The effect of mycorrhizal fungi on malondialdehyde concentration and some metabolic processes in hyssop (Hyssopus officinalis) under water deficit stress | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2014 | https://openalex.org/W2601400157 | article | INTRASPECIFIC GENETIC VARIABILITY OF HYSSOPUS OFFICINALIS L. | Analele Stiintifice ale Universitatii "A
+- new | 2014 | https://openalex.org/W2186296675 | article | Antileishmanial activity of Hyssopus officinalis, Tussilage farfara, Carum copticum extracts in mice infected with Leishmania major. | International Journal of Herbal Medicine
+- new | 2014 | 10.15835/buasvmcn-hort:10410 | article | Effect of Irrigation on Growth and Development of the Root System of Two Medicinal Plants, Hyssopus officinalis and Passiflora incarnata | Bulletin of University of Agricultural S
+- new | 2014 | 10.20868/upm.thesis.32621 | dissertation | Habitat management for conservation of pollinators in agro-ecosystems of Central Spain | 
+- new | 2013 | https://openalex.org/W2188682322 | article | Effect of Salinity and Temperature Interaction on Germination of Hyssop (Hyssopus officinalis) | 
+- new | 2013 | https://openalex.org/W2393240191 | article | The inhibiting effect of Uigur Herb Hyssopus officinalis L. on airway hyperresponsiveness in asthmatic mice | Immunological Journal
+- new | 2013 | https://openalex.org/W2367734614 | article | Effect of Uighur Medicine Hyssopus officinalis L.Total Flavonoids on Airway Inflammation in Ovalbumin induced Asthmatic Rats | Keji daobao
+- new | 2013 | 10.14200/jrm.2013.2.0109 | article | The Use of Lobelia in the Treatment of Asthma and Respiratory Illness | Journal of Restorative Medicine
+- new | 2013 | 10.18188/sap.v12i2.6451 | article | Disponibilidade de Nutrientes e Elementos Potencialmente Tóxicos para as Plantas de Hissopo em Solo Arenoso sob Adubação Mineral e Orgânica | Scientia agrária paranaensis/Revista sci
+- new | 2011 | 10.5897/ajpp11.527 | article | A review on Hyssopus officinalis L.: Composition and biological activities | African Journal of Microbiology Research
+- new | 2011 | 10.5897/jmpr.9000256 | article | Application times and concentration of humic acid impact on aboveground biomass and oil production of hyssop ( Hyssopus officinalis ) | Journal of Medicinal Plants Research
+- new | 2011 | https://openalex.org/W2377491908 | article | Effect of Uighur Medicine Hyssopus officinalis L. Ethly Aectate on Inflammatory Response in Asthma Rats | Keji daobao
+- new | 2011 | 10.1055/s-0031-1282731 | article | Response of germination and seedling growth of, hyssop (Hyssopus officinalis) and Marguerite (Chrysanthemum x superbum) as medicinal plants to water stress | Planta Medica
+- new | 2011 | 10.1055/s-0031-1282332 | article | The effect of harvesting time on total phenolic content and antioxidant activity of five plants of the family Labiatae | Planta Medica
+- new | 2011 | 10.1080/22311866.2011.10719080 | article | Antimicrobial Activity and Chemical Composition ofHyssopus officinalisL. Essential oil | Journal of Biologically Active Products 
+- new | 2010 | https://openalex.org/W2368862881 | article | Effects of Uygur medicine Hyssopus officinalis L.on serum IL-17 level and balance of Th1/Th2 of asthma rats | Zhongguo xiandai yixue/Zhongguo xiandai 
+- new | 2010 | 10.1055/s-0030-1264685 | article | Effects of salinity and temperature on germination and seedling growth of nine medicinal plants | Planta Medica
+- new | 2009 | https://openalex.org/W2249849880 | article | Effect of Uygur Medicine Hyssopus officinalis L. on Serum Eotaxin-2,Eotaxin-3 and sP-selectin Level of Asthma Rats | Keji daobao
+- new | 2008 | https://openalex.org/W1947379094 | article | Effect of biofertilizers on agronomic criteria of Hyssop (Hyssopus officinalis). | Organic Eprints (International Centre fo
+- new | 2008 | https://openalex.org/W2382039897 | article | Effects of Uigur Herb Hyssopus officinalis L. on Cytokines in Allergic Asthma Mice | Acta Universitatis Traditionis Medicalis
+- new | 2008 | 10.22067/gsc.v6i1.1184 | article | ارزیابی اثر کودهای بیولوژیکی بر ویژگیهای رشد، عملکرد و خصوصیات کیفی گیاه دارویی زوفا (Hyssopus officinalis) | پژوهشهای زراعی ایران
+- new | 2007 | https://openalex.org/W2186011422 | article | Microclonal Propagation of Hyssop (Hyssopus officinalis L.) | 
+- new | 2007 | 10.1055/s-2007-987415 | article | Effects of irrigation regimes and plant density on yield and essential oil production in hyssop (Hyssopus officinalis) | Planta Medica
+- new | 2001 | 10.5962/bhl.title.51295 | book | Perennial medicinal herb trials, 1996-1999 / | Biodiversity Heritage Library (Smithsoni
+- new | 1999 | https://openalex.org/W3148177513 | article | Effect of chemical fertilizer (N&P) on seed yield of Hyssopus officinalis. | Iranian Journal of Medicinal and Aromati
+- new | 1997 | 10.5962/bhl.title.51083 | book | Medicinal herb trial 1996 / | Biodiversity Heritage Library (Smithsoni
+- new | 1963 | 10.5962/p.249470 | article | Results of Trials in the Gound Cover Demonstration Plots | Arnoldia.

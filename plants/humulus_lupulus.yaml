@@ -200,6 +200,19 @@ indications:
   - REF-3594
   - REF-3595
   status: verified
+- condition: metabolic-support
+  note: A matured hop extract drink reduced visceral (belly) fat and overall body fat vs placebo over
+    12 weeks in healthy overweight adults (randomized double-blind trial)
+  reference_ids:
+  - REF-5409
+  status: verified
+- condition: bad-breath
+  note: Toothpastes with a hops beta-acid extract reduced morning-breath sulphur compounds more than the
+    same toothpaste without hops, more so at higher hop concentrations, in a pooled analysis of seven
+    randomized company studies
+  reference_ids:
+  - REF-5410
+  status: verified
 contraindications:
 - note: Generally safe at therapeutic doses for short-term use. Hop preparations may enhance the sedative
     effects of alcohol, benzodiazepines, and other CNS depressants - avoid combination. Not recommended
@@ -219,6 +232,21 @@ contraindications:
   reference_ids:
   - REF-0226
   - REF-0063
+  status: verified
+- note: 'Medicines: a standardised hop extract taken for 2 weeks caused no clinically relevant change
+    in drugs cleared by CYP2C9, CYP1A2, CYP2D6 or CYP3A4 (only a 7.6% fall in alprazolam levels) in peri-
+    and postmenopausal women (clinical study).'
+  severity: info
+  reference_ids:
+  - REF-5411
+  status: verified
+- note: 'Allergy: hops can cause skin allergy and, more rarely, hives, rhinitis or asthma, mostly in people
+    who handle the plant; one person had repeated whole-body hives traced to wild hop (case report), and
+    hop proteins cross-react with pollen allergens (lab study).'
+  severity: caution
+  reference_ids:
+  - REF-5412
+  - REF-5413
   status: verified
 references:
 - REF-0839
@@ -338,4 +366,15 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-20 (owner asked to fix the hop wording): three entries overstated a GABA-A mechanism. (1) Preparation ''Standardised extract'' (REF-0839 only) -> ''Dry extract'': the EU monograph REF-3077 (read 2026-11-20) lists dry extract 4-5:1 at 125 mg 2-3x daily (mental stress) and 125-250 mg 60 min before bedtime (sleep); REF-0839 is an animal pentobarbital-sleep study of one Korean hop extract (not described as standardised); WHO REF-4003 records a 15-volunteer uncontrolled study with no sleep-inducing effect and mixed animal results. (2) Bitter-acids constituent: ''responsible for much of the sedative, GABA-A-receptor-active and antimicrobial activity'' replaced by WHO REF-4003 (bitter substances 15-25% in the resins; humulone and lupulone the active anti-H. pylori constituents) and REF-0839 (humulone + xanthohumol mix matched the extract; xanthohumol is a prenylflavonoid, not a bitter acid). (3) passiflora-incarnata pairing (approved): ''both GABA-acting sedative herbs commonly combined in sleep blends'' had REF-2452 (a hypnotic-herb review naming neither herb) and REF-0565 (passionflower tea RCT); now REF-4203 (Maroo 2013 NSF-3 RCT: valerian + passionflower + hop extracts vs zolpidem, no significant difference, drowsiness commonest AE), REF-3077 (4.7 may impair ability to drive) and REF-0565. Kept approved, reviewed_date 2026-11-20. Not changed: the melissa-officinalis pairing also leans on REF-2452, which does not name hops.
   | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0024 (Becker 2014,
   valerian extract and valerenic acid in mice, PMID 25066015) is about valerian, not hop: removed from
-  both hop cautions and moved to the valerian references.'
+  both hop cautions and moved to the valerian references.
+  | 2026-11-26: symptom-source audit research-deepening batch 17 - Searched PubMed (Humulus
+  lupulus / hop(s) extract tiab; hops, xanthohumol, 8-prenylnaringenin ti: 108 HT, 8 SR, 205 SAFE
+  hits; many "hops" hits were jumping or beer studies), Europe PMC, ClinicalTrials.gov (96) and
+  OpenAlex. Added: NEW metabolic-support pair (2016 matured hop extract placebo RCT, visceral
+  fat); NEW bad-breath pair (2026 pooled participant-level analysis of seven randomized breath
+  studies, hops beta-acid toothpastes, company-run); the 2020 phase I drug-interaction study as an
+  info note; an allergy caution (2002 urticaria case with review; 2024 pollen cross-reactivity).
+  Not added: hop vaginal gel vs oestradiol in sexual dysfunction (active comparator), hop +
+  valerian, soy + hop, Lactium and other combinations, xanthohumol-only safety and microbiome
+  trials (compound), bitter-hop appetite studies (no vocab condition), dental biofilm studies
+  (plaque, a surrogate), 8-prenylnaringenin bone trial (no vocab condition).'

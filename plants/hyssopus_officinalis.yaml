@@ -194,6 +194,13 @@ contraindications:
   - REF-0227
   - REF-0063
   status: verified
+- note: 'Asthma: in a small randomized trial of hyssop syrup added to usual asthma treatment, a post-hoc
+    analysis found improvement in people with a productive cough but worse lung function in those with
+    a dry cough.'
+  severity: caution
+  reference_ids:
+  - REF-5420
+  status: verified
 references:
 - REF-0845
 - REF-0846
@@ -273,4 +280,11 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   neither of which tests expectoration - both removed from it (REF-1803 kept in references).
   Grieve REF-3608 (Hyssop: expectorant, promotes expectoration, chronic catarrh, pulmonary
   complaints) added to expectorant and respiratory-support. Gaps (traditional only): Grieve also
-  names asthma and bruises - no pairs. No trials on PubMed.'
+  names asthma and bruises - no pairs. No trials on PubMed.
+  | 2026-11-26: symptom-source audit research-deepening batch 17 - Searched PubMed (Hyssopus
+  officinalis / hyssop tiab: 6 HT, 2 SR, 22 SAFE hits), Europe PMC, ClinicalTrials.gov (0) and
+  OpenAlex. The 2024 triple-blind placebo RCT of hyssop syrup in mild-moderate asthma reported
+  benefit only in a post-hoc productive-cough subgroup, with worsening in dry-cough patients, so
+  no asthma pair was created (no whole-group benefit stated); the subgroup finding is recorded as
+  a caution. Not added: multi-herb syrups, Qingre Huoxue recipe, Labiatae allergy case (oregano
+  and thyme), essential-oil convulsant studies (already covered by the essential-oil caution).'

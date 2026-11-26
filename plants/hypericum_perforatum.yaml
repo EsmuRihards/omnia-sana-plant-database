@@ -300,6 +300,7 @@ drug_class_interactions:
   - REF-2435
   - REF-2434
   - REF-2521
+  - REF-5419
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
@@ -457,4 +458,13 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): the antiviral and emollient
   actions cited only the subscription database REF-0181 (title repaired). Antiviral now cites WHO
   Herba Hyperici REF-3986 (antiviral activity of hypericin against enveloped viruses in vitro);
-  emollient had no readable source and is removed.'
+  emollient had no readable source and is removed.
+  | 2026-11-26: symptom-source audit research-deepening batch 17 - Searched PubMed (Hypericum
+  perforatum / St John''s wort tiab; hyperforin, hypericin, Hypericum ti: 583 HT, 177 SR, 1,177
+  SAFE hits; SR family and safety screened, depression and the many approved interactions not
+  padded), Europe PMC, ClinicalTrials.gov and OpenAlex. Added: 2016 SR on combined oral
+  contraceptives (breakthrough bleeding, lower hormone exposure, possible ovulation) to the
+  approved hormonal-therapies interaction. Not added: dental pain SR/MA 2012 (homeopathic
+  Hypericum with Arnica), OCD, neuropathic pain and smoking-cessation reviews (no benefit or no
+  vocab condition), rodent pregnancy-safety SR, general interaction overviews already reflected in
+  the approved interactions.'

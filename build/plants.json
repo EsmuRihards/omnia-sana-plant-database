@@ -30215,15 +30215,16 @@
     },
     {
      "condition": "blood-sugar",
-     "note": "Reviewed for blood-sugar benefits (review); a meta-analysis of trials found no effect on blood sugar",
+     "note": "Results are mixed: a meta-analysis of trials found no effect on blood sugar, while sea buckthorn fruit puree slightly lowered fasting glucose vs placebo in people with impaired glucose regulation (randomized crossover trial); reviewed for blood-sugar benefits (review)",
      "reference_ids": [
-      "REF-2319"
+      "REF-2319",
+      "REF-5406"
      ],
      "status": "needs-review",
      "null_result_ids": [
       "REF-3586"
      ],
-     "evidence": 2,
+     "evidence": 5,
      "label": "Blood sugar / diabetes support"
     },
     {
@@ -30345,6 +30346,27 @@
      "status": "verified",
      "evidence": 5,
      "label": "Menopause"
+    },
+    {
+     "condition": "eye-strain",
+     "note": "Oral sea buckthorn oil (2 g a day) limited the rise in tear-film osmolarity and eased dry-eye redness and burning vs placebo in a randomized double-blind trial, and a sea buckthorn oil spray on closed eyelids relieved dry-eye symptoms more than a reference spray",
+     "reference_ids": [
+      "REF-5404",
+      "REF-5405"
+     ],
+     "status": "verified",
+     "evidence": 6,
+     "label": "Eye strain / eye health"
+    },
+    {
+     "condition": "liver-support",
+     "note": "A sea buckthorn extract lowered blood markers of liver fibrosis and sped the normalisation of liver enzymes compared with a vitamin B control in people with cirrhosis (randomized trial)",
+     "reference_ids": [
+      "REF-5407"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Liver support"
     }
    ],
    "contraindications": [
@@ -30361,6 +30383,14 @@
      "severity": "info",
      "reference_ids": [
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Skin colour: eating large amounts of sea buckthorn for months turned a man's skin yellow (from its carotenoid pigments); it is harmless but can be mistaken for jaundice (case report).",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5408"
      ],
      "status": "verified"
     }
@@ -30658,6 +30688,26 @@
      "status": "verified",
      "evidence": 6,
      "label": "Hot flashes"
+    },
+    {
+     "condition": "metabolic-support",
+     "note": "A matured hop extract drink reduced visceral (belly) fat and overall body fat vs placebo over 12 weeks in healthy overweight adults (randomized double-blind trial)",
+     "reference_ids": [
+      "REF-5409"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Metabolic support"
+    },
+    {
+     "condition": "bad-breath",
+     "note": "Toothpastes with a hops beta-acid extract reduced morning-breath sulphur compounds more than the same toothpaste without hops, more so at higher hop concentrations, in a pooled analysis of seven randomized company studies",
+     "reference_ids": [
+      "REF-5410"
+     ],
+     "status": "verified",
+     "evidence": 7,
+     "label": "Bad breath"
     }
    ],
    "contraindications": [
@@ -30675,6 +30725,23 @@
      "reference_ids": [
       "REF-0226",
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Medicines: a standardised hop extract taken for 2 weeks caused no clinically relevant change in drugs cleared by CYP2C9, CYP1A2, CYP2D6 or CYP3A4 (only a 7.6% fall in alprazolam levels) in peri- and postmenopausal women (clinical study).",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5411"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Allergy: hops can cause skin allergy and, more rarely, hives, rhinitis or asthma, mostly in people who handle the plant; one person had repeated whole-body hives traced to wild hop (case report), and hop proteins cross-react with pollen allergens (lab study).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5412",
+      "REF-5413"
      ],
      "status": "verified"
     }
@@ -31013,6 +31080,32 @@
      "reference_ids": [
       "REF-0455",
       "REF-0589"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Medicines: in human studies goldenseal did not meaningfully change blood levels of the HIV drug indinavir or of digoxin, and in people with type 2 diabetes it did not change metformin exposure overall, though at low metformin doses exposure fell by about 20%. Its stronger effect on CYP3A4 and CYP2D6 is listed under drug interactions.",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5414",
+      "REF-5415",
+      "REF-5416"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Salt balance: in an 11-year-old girl with newly diagnosed type 1 diabetes, goldenseal appeared to worsen severe high blood sodium (hypernatraemia) (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5417"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Long-term use: in 2-year toxicity studies, goldenseal root powder increased liver tumours in rats and mice; whether this applies to people is not known (animal studies).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5418"
      ],
      "status": "verified"
     }
@@ -31480,7 +31573,8 @@
      "reference_ids": [
       "REF-2435",
       "REF-2434",
-      "REF-2521"
+      "REF-2521",
+      "REF-5419"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
@@ -31876,6 +31970,14 @@
       "REF-0846",
       "REF-0227",
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Asthma: in a small randomized trial of hyssop syrup added to usual asthma treatment, a post-hoc analysis found improvement in people with a productive cough but worse lung function in those with a dry cough.",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5420"
      ],
      "status": "verified"
     }

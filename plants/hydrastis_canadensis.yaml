@@ -184,6 +184,28 @@ contraindications:
   - REF-0455
   - REF-0589
   status: verified
+- note: 'Medicines: in human studies goldenseal did not meaningfully change blood levels of the HIV drug
+    indinavir or of digoxin, and in people with type 2 diabetes it did not change metformin exposure overall,
+    though at low metformin doses exposure fell by about 20%. Its stronger effect on CYP3A4 and CYP2D6
+    is listed under drug interactions.'
+  severity: info
+  reference_ids:
+  - REF-5414
+  - REF-5415
+  - REF-5416
+  status: verified
+- note: 'Salt balance: in an 11-year-old girl with newly diagnosed type 1 diabetes, goldenseal appeared
+    to worsen severe high blood sodium (hypernatraemia) (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5417
+  status: verified
+- note: 'Long-term use: in 2-year toxicity studies, goldenseal root powder increased liver tumours in
+    rats and mice; whether this applies to people is not known (animal studies).'
+  severity: caution
+  reference_ids:
+  - REF-5418
+  status: verified
 references:
 - REF-0455
 - REF-1849
@@ -318,4 +340,14 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Pharmacological
   "inferred from ... action".
   | 2026-11-12: symptom-source audit deep re-sweep batch 9 - Deep re-sweep. Notes rewritten to
   what the review REF-0455 names (traditional use for wounds, skin and eye infections, digestive
-  disorders) and the lab studies. PubMed trials are pharmacokinetic only.'
+  disorders) and the lab studies. PubMed trials are pharmacokinetic only.
+  | 2026-11-26: symptom-source audit research-deepening batch 17 - Searched PubMed (Hydrastis
+  canadensis / goldenseal tiab, hydrastine ti: 14 HT, 3 SR, 74 SAFE hits), Europe PMC,
+  ClinicalTrials.gov (6) and OpenAlex. Berberine-only trials were not searched as goldenseal
+  evidence (berberine is shared with Berberis and Coptis). Still no efficacy trial of goldenseal
+  itself. Added: human interaction studies (2025 metformin in T2DM, 2003 indinavir, 2007 digoxin)
+  as an info note; a 2007 hypernatraemia case and the 2011 NTP two-year rodent study (liver
+  tumours) as cautions. Not added: berberine pharmacokinetic studies (compound), a
+  photosensitivity case with a ginseng + goldenseal + bee pollen product (combination), goldenseal
+  catheter case, psychiatric case reports with multi-agent regimens, in vitro CYP and
+  phototoxicity work.'

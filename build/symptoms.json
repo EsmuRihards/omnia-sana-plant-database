@@ -9493,6 +9493,16 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "bad-breath",
+     "label": "Bad breath",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5410"
+     ]
+    },
+    {
      "condition": "hot-flashes",
      "label": "Hot flashes",
      "evidence": 6,
@@ -9542,6 +9552,16 @@
      "inferred": false,
      "references": [
       "REF-1732"
+     ]
+    },
+    {
+     "condition": "metabolic-support",
+     "label": "Metabolic support",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5409"
      ]
     },
     {
@@ -14447,6 +14467,28 @@
      ]
     },
     {
+     "condition": "eye-strain",
+     "label": "Eye strain / eye health",
+     "evidence": 6,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5404",
+      "REF-5405"
+     ]
+    },
+    {
+     "condition": "blood-sugar",
+     "label": "Blood sugar / diabetes support",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2319",
+      "REF-5406"
+     ]
+    },
+    {
      "condition": "constipation",
      "label": "Constipation",
      "evidence": 5,
@@ -14468,6 +14510,16 @@
      ]
     },
     {
+     "condition": "liver-support",
+     "label": "Liver support",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5407"
+     ]
+    },
+    {
      "condition": "menopause",
      "label": "Menopause",
      "evidence": 5,
@@ -14486,16 +14538,6 @@
      "references": [
       "REF-2318",
       "REF-3592"
-     ]
-    },
-    {
-     "condition": "blood-sugar",
-     "label": "Blood sugar / diabetes support",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-2319"
      ]
     },
     {

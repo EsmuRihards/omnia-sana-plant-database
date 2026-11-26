@@ -156,10 +156,12 @@ indications:
   reference_ids: []
   status: needs-review
 - condition: blood-sugar
-  note: Reviewed for blood-sugar benefits (review); a meta-analysis of trials found no effect on blood
-    sugar
+  note: 'Results are mixed: a meta-analysis of trials found no effect on blood sugar, while sea buckthorn
+    fruit puree slightly lowered fasting glucose vs placebo in people with impaired glucose regulation
+    (randomized crossover trial); reviewed for blood-sugar benefits (review)'
   reference_ids:
   - REF-2319
+  - REF-5406
   status: needs-review
   null_result_ids:
   - REF-3586
@@ -237,6 +239,20 @@ indications:
   reference_ids:
   - REF-3591
   status: verified
+- condition: eye-strain
+  note: Oral sea buckthorn oil (2 g a day) limited the rise in tear-film osmolarity and eased dry-eye
+    redness and burning vs placebo in a randomized double-blind trial, and a sea buckthorn oil spray on
+    closed eyelids relieved dry-eye symptoms more than a reference spray
+  reference_ids:
+  - REF-5404
+  - REF-5405
+  status: verified
+- condition: liver-support
+  note: A sea buckthorn extract lowered blood markers of liver fibrosis and sped the normalisation of
+    liver enzymes compared with a vitamin B control in people with cirrhosis (randomized trial)
+  reference_ids:
+  - REF-5407
+  status: verified
 contraindications:
 - note: Sea buckthorn berry oil showed no genotoxicity in standard tests, and no maternal or embryo toxicity
     when given to pregnant rats; the authors conclude it is safe for dietary use (animal and lab evidence).
@@ -254,6 +270,12 @@ contraindications:
   severity: info
   reference_ids:
   - REF-0063
+  status: verified
+- note: 'Skin colour: eating large amounts of sea buckthorn for months turned a man''s skin yellow (from
+    its carotenoid pigments); it is harmless but can be mistaken for jaundice (case report).'
+  severity: info
+  reference_ids:
+  - REF-5408
   status: verified
 references:
 - REF-0836
@@ -332,4 +354,15 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   taxonomic study of Hippophae) states no safety information: removed from both cautions (kept in
   references). The first caution is rewritten to the berry-oil safety study REF-0837; ''mild
   anticoagulant'', ''may lower blood pressure and blood sugar'' and ''allergic reactions are rare''
-  were unsourced.'
+  were unsourced.
+  | 2026-11-26: symptom-source audit research-deepening batch 17 - Searched PubMed (Hippophae
+  rhamnoides / sea buckthorn / seabuckthorn tiab: 63 HT, 14 SR, 151 SAFE hits), Europe PMC,
+  ClinicalTrials.gov (7) and OpenAlex. Added: NEW eye-strain pair (2010 double-blind placebo RCT
+  of oral oil in dry eye; 2019 eyelid spray study); 2021 randomized crossover trial (fasting
+  glucose -0.14 vs +0.07 mmol/L) to blood-sugar beside the null MA; NEW liver-support pair (2003
+  randomized trial in cirrhosis vs vitamin B control); yellow-skin case as an info note. Not
+  added: 2018 postprandial trial (no effect on glucose; insulin only), nephrotic syndrome add-on
+  study (randomisation not stated), cholesterol juice study (pair already 7), compound sea
+  buckthorn suppositories and other combinations, tear-film fatty-acid and flavonol absorption
+  studies (no clinical outcome), the retracted 2017 seed-oil RCT (already judged), acceptance and
+  taste studies.'

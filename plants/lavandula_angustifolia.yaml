@@ -148,8 +148,13 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids: []
+  note: 'Lavender oil eased knee osteoarthritis pain: aromatherapy massage with lavender oil reduced pain
+    compared with no massage for up to a week but not at four weeks (randomized trial), and lavender oil
+    worked about as well as piroxicam gel, while an untreated group did not change (randomized double-blind
+    trial)'
+  reference_ids:
+  - REF-5445
+  - REF-5446
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0043
@@ -238,6 +243,54 @@ indications:
   - REF-3616
   - REF-3617
   status: verified
+- condition: menstrual-cramps
+  note: Inhaling lavender (in sesame oil) over four menstrual cycles eased period-pain symptoms more than
+    placebo in 96 students with primary dysmenorrhoea (randomized trial)
+  reference_ids:
+  - REF-5436
+  status: verified
+- condition: menopause
+  note: Lavender aromatherapy reduced menopausal symptoms in a meta-analysis of trials (some combined
+    lavender with other aromas) and in randomized trials of inhaled lavender, including menopause-specific
+    quality of life; an oral lavender oil capsule did not beat placebo on overall symptoms (randomized
+    trial)
+  reference_ids:
+  - REF-5437
+  - REF-5438
+  - REF-5440
+  status: verified
+  null_result_ids:
+  - REF-5441
+- condition: hot-flashes
+  note: Smelling lavender for 20 minutes twice a day for 12 weeks reduced the number of hot flushes compared
+    with a control scent (randomized crossover trial); a meta-analysis of lavender aromatherapy also reported
+    fewer hot flushes
+  reference_ids:
+  - REF-5439
+  - REF-5437
+  status: verified
+- condition: fatigue
+  note: Lavender reduced fatigue in a meta-analysis of trials of inhaled oil in haemodialysis patients,
+    in a randomized double-blind trial of lavender flower capsules in multiple sclerosis, and in a randomized
+    trial of inhaled oil during chemotherapy for blood cancers
+  reference_ids:
+  - REF-5442
+  - REF-5443
+  - REF-5444
+  status: verified
+- condition: oral-health
+  note: Lavender oil applied to recurrent mouth ulcers (aphthous ulcers) reduced ulcer size, inflammation
+    and pain and shortened healing compared with placebo (randomized double-blind trial)
+  reference_ids:
+  - REF-5447
+  status: verified
+- condition: pms
+  note: A single 10-minute inhalation of lavender in the premenstrual phase eased low mood and confusion
+    and raised calming (parasympathetic) nerve activity compared with water in women with premenstrual
+    symptoms (small randomized crossover trial)
+  reference_ids:
+  - REF-5448
+  status: verified
 contraindications:
 - note: Generally very safe. Essential oil should not be ingested in large amounts. Rarely, contact dermatitis
     may occur. May potentiate the effect of sedative medications. Avoid therapeutic doses during pregnancy.
@@ -260,6 +313,47 @@ contraindications:
   - REF-0155
   - REF-0265
   - REF-0063
+  status: verified
+- note: 'Children: in case reports, a few prepubertal boys developed breast growth, and girls early breast
+    development, while lavender-containing products (oils, lotions, colognes; in some cases with tea tree
+    oil) were used on them regularly; it went away after the products were stopped. A systematic review
+    found little evidence of a causal link, a survey of 556 children found no cases, and guideline tests
+    of lavender oil''s main compounds found no hormone activity (case reports; review; survey; lab and
+    animal studies).'
+  severity: caution
+  reference_ids:
+  - REF-5449
+  - REF-5450
+  - REF-5451
+  - REF-5452
+  - REF-5453
+  status: verified
+- note: 'Skin allergy: lavender is an uncommon cause of allergic contact dermatitis, mostly from personal-care
+    products and essential oils (2.2% of 2,178 patients patch-tested with lavender at an Australian clinic
+    reacted). Lavender oil left exposed to air oxidises into stronger skin allergens (patch-test and lab
+    study).'
+  severity: caution
+  reference_ids:
+  - REF-5454
+  - REF-5455
+  status: verified
+- note: 'Medicines: in randomized crossover studies in healthy volunteers, the oral lavender oil Silexan
+    (160 mg a day) had no relevant effect on the drug-clearing enzymes CYP1A2, CYP2C9, CYP2D6 and CYP3A4
+    (the CYP2C19 result was inconclusive) and did not change levels of an ethinyl estradiol/levonorgestrel
+    contraceptive pill.'
+  severity: info
+  reference_ids:
+  - REF-5456
+  - REF-5457
+  status: verified
+- note: 'Driving and dependence: in randomized trials, Silexan did not impair simulated driving (unlike
+    lorazepam), was not liked more than placebo by recreational drug users even at eight times the usual
+    dose, and caused no withdrawal symptoms when stopped abruptly after 10 weeks.'
+  severity: info
+  reference_ids:
+  - REF-5458
+  - REF-5459
+  - REF-5460
   status: verified
 references:
 - REF-0857
@@ -374,4 +468,31 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-3610), depression (MA REF-3611, RCT REF-3612; inconclusive SR REF-2212 recorded as
   no-effect), stress (MA REF-3613), pain (SRs REF-3616, REF-3617). Sleep MAs REF-3614/REF-3615
   added to insomnia; episiotomy SR REF-3617 to wounds. Not used: retracted burn-patient MA
-  36651329; underpowered post-dural-puncture headache RCT 33245709.'
+  36651329; underpowered post-dural-puncture headache RCT 33245709.
+  | 2026-11-26: symptom-source audit research-deepening batch 19 - Searched PubMed (Lavandula
+  angustifolia / Lavandula officinalis / Silexan tiab, lavender ti: 347 HT, 58 SR, 193 SAFE hits),
+  Europe PMC, ClinicalTrials.gov (123) and OpenAlex. Huge plant: screened the SR family,
+  conditions without a pair and safety; anxiety (9), depression (9), insomnia (8), pain (8),
+  stress (7) and wounds (7) were not padded. INTEGRITY HOLD checked: no new reference is first- or
+  last-authored by the flagged Tehran psychopharmacology group; the 2003 lavender tincture vs
+  imipramine depression trial (12551734) is from that group and was not added. Added: NEW
+  menstrual-cramps (2014 placebo RCT), menopause (2020 MA + two RCTs; 2024 oral-oil RCT recorded
+  as no-effect on overall symptoms), hot-flashes (2016 crossover RCT + the MA; 29778129 and
+  27388435 report the same Ardabil trial and are cited on different pairs), fatigue (2024
+  haemodialysis MA, 2022 MS capsule RCT, 2025 chemotherapy RCT), oral-health (2012 aphthous-ulcer
+  placebo RCT) and pms (2013 crossover RCT) pairs; knee osteoarthritis RCTs (2016, 2025) to
+  arthritis; cautions on prepubertal breast growth (case reports with the review, survey and
+  guideline tests that question causality) and on skin allergy (Australian patch-test series;
+  oxidised oil); info notes on Silexan drug, contraceptive, driving, abuse and withdrawal studies.
+  Not added: headache (2022 post-dural-puncture RCT different only immediately after inhalation;
+  2012 migraine trial does not state randomisation; clove+lavender and nitroglycerin-headache
+  trials not significant or vs acetaminophen); sexual function (benefit only in a domain of the
+  oral-oil RCT, aromatherapy combinations); 2025 post-intubation sore-throat gauze trial
+  (procedure-specific); 29389470 (same knee OA trial as 27863613); 2024 blood-pressure trial (with
+  ylang-ylang) and a 2013 trial where lavender tended to raise blood pressure; nausea
+  (peppermint+ginger+lavender blend); restless legs and dementia agitation (no vocab condition);
+  combinations with bergamot, bitter orange, rosemary, sweet orange or ginger; L. stoechas
+  labour-pain MA and anticholinergic tea case (other species); retracted burn-pain MA and
+  retracted cardiovascular review; serotonin-toxicity letter with sertraline (no abstract; a
+  possible interaction worth re-checking if the full text becomes available); aromatherapist
+  contact dermatitis letters with no abstract.'

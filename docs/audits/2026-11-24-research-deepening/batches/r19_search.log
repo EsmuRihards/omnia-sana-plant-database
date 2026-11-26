@@ -1,0 +1,41 @@
+   lamium-album HT 2
+   lamium-album SR 0
+   lamium-album SAFE 3
+   lamium-album OBS 0
+   lamium-album REV 0
+lamium-album done
+   laurus-nobilis HT 9
+   laurus-nobilis SR 4
+   laurus-nobilis SAFE 63
+   laurus-nobilis OBS 1
+   laurus-nobilis REV 21
+laurus-nobilis done
+   lavandula-angustifolia HT 347
+   lavandula-angustifolia SR 58
+   lavandula-angustifolia SAFE 193
+   lavandula-angustifolia OBS 20
+   lavandula-angustifolia REV 93
+lavandula-angustifolia done
+   lentinula-edodes HT 113
+   lentinula-edodes SR 22
+   lentinula-edodes SAFE 362
+   lentinula-edodes OBS 10
+   lentinula-edodes REV 110
+lentinula-edodes done
+   leonurus-cardiaca HT 17
+   leonurus-cardiaca SR 10
+   leonurus-cardiaca SAFE 36
+   leonurus-cardiaca OBS 5
+   leonurus-cardiaca REV 20
+leonurus-cardiaca done
+
+PUBMED-DONE
+lamium-album done
+laurus-nobilis done
+lavandula-angustifolia done
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22Lentinula+edodes%22+OR+TITLE%3A%22Shiita The read operation timed out
+lentinula-edodes done
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Leonurus+cardiaca%22+AND+%28TITLE%3Arandomized+OR+TITLE The read operation timed out
+leonurus-cardiaca done
+# Research-deepening batch 19 - Europe PMC
+SEARCH-DONE

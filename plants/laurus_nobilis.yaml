@@ -155,13 +155,37 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1686
+- condition: blood-sugar
+  note: In a small randomized placebo-controlled trial in type 2 diabetes, 1-3 g of ground bay leaf a
+    day for 30 days lowered fasting blood glucose by about a fifth to a quarter, while the placebo group
+    did not change
+  reference_ids:
+  - REF-5426
+  status: verified
+- condition: high-cholesterol
+  note: Ground bay leaf (1-3 g a day for 30 days) lowered total and LDL cholesterol in people with type
+    2 diabetes (small randomized placebo trial), and daily bay leaf tea for 10 days gave lower LDL and
+    higher HDL cholesterol than a placebo tea in healthy adults (randomized double-blind pilot trial)
+  reference_ids:
+  - REF-5426
+  - REF-5427
+  status: verified
+- condition: stress
+  note: Daily bay leaf tea for 10 days lowered perceived stress scores more than a placebo tea in healthy
+    adults (small randomized double-blind pilot trial)
+  reference_ids:
+  - REF-5428
+  status: verified
+- condition: anxiety
+  note: Daily bay leaf tea for 10 days lowered anxiety scores (STAI) more than a placebo tea in healthy
+    adults (small randomized double-blind pilot trial)
+  reference_ids:
+  - REF-5428
+  status: verified
 contraindications:
-- note: Generally safe when used in food amounts. Not toxic to people and safe to cook with. Leaves are
-    very rigid and leathery - should be removed before eating as they don't soften with cooking and edges
-    can be sharp. Insufficient reliable information about safety during pregnancy or breastfeeding - stick
-    to food amounts. Large amounts of bay leaf tea may cause vomiting (emetic properties) and drowsiness
-    (sedative properties). In high doses, bay laurel has cytotoxic activity. Some people may experience
-    allergic contact dermatitis from bay laurel oil.
+- note: Generally safe in food amounts. Insufficient reliable information about safety during pregnancy
+    or breastfeeding - stick to food amounts. Large amounts of bay leaf tea may cause vomiting (emetic
+    properties) and drowsiness (sedative properties). In high doses, bay laurel has cytotoxic activity.
   severity: caution
   reference_ids: []
   status: needs-review
@@ -173,6 +197,36 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0063
+  status: verified
+- note: 'Liver: two women who regularly drank bay leaf tea developed liver injury (case reports). In one,
+    the link was rated probable and she improved after stopping the tea; the other, who had drunk it daily
+    for a month, died of liver failure.'
+  severity: caution
+  reference_ids:
+  - REF-5429
+  - REF-5430
+  status: verified
+- note: 'Swallowing the leaves: whole bay leaves have lodged in the oesophagus (gullet) and blocked it
+    (two case reports); remove whole leaves from food before eating.'
+  severity: caution
+  reference_ids:
+  - REF-5431
+  status: verified
+- note: 'Allergy: bay (laurel) leaf oil can cause allergic contact dermatitis, for example after a massage
+    with it, sometimes as an unusual target-like (erythema multiforme-like) rash; in a food-industry worker,
+    breathing in bay leaf and other herb dusts caused asthma, confirmed by inhalation tests (case reports).'
+  severity: caution
+  reference_ids:
+  - REF-5432
+  - REF-5433
+  - REF-5434
+  status: verified
+- note: 'Identification: an 84-year-old developed complete heart block after drinking a tea of oleander
+    leaves mistaken for bay leaves, and needed an antidote and a pacemaker (case report). Oleander contains
+    heart poisons (cardiac glycosides) in all its parts.'
+  severity: warning
+  reference_ids:
+  - REF-5435
   status: verified
 references:
 - REF-1678
@@ -249,4 +303,30 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-12: symptom-source audit deep re-sweep batch 10 - Deep re-sweep. Bruising dropped: its
   only card was a rabbit wound-healing study (a wound is not a bruise; batch-1 rule). No trials on
   PubMed.
-  | 2026-11-19 (monograph-source audit): dosage[0] checked against REF-1682/REF-1683: the 5 g in 100 ml once daily for 10 days is correct; removed ''traditional references suggest 1-3 g per cup up to three times daily'' and ''no EMA or WHO monograph exists'' (neither is stated by a cited source).'
+  | 2026-11-19 (monograph-source audit): dosage[0] checked against REF-1682/REF-1683: the 5 g in 100 ml once daily for 10 days is correct; removed ''traditional references suggest 1-3 g per cup up to three times daily'' and ''no EMA or WHO monograph exists'' (neither is stated by a cited source).
+  | 2026-11-26: symptom-source audit research-deepening batch 19 - Searched PubMed (Laurus nobilis
+  / bay leaf / bay leaves / bay laurel tiab: 9 HT, 4 SR, 63 SAFE hits), Europe PMC,
+  ClinicalTrials.gov (3) and OpenAlex (72 no-PMID hits). Added: NEW blood-sugar pair (2009 placebo
+  trial in type 2 diabetes; the abstract says only "divided into 4 groups", the PMC full text says
+  "divided randomly"; within-group analysis, baseline glucose differed between groups); NEW
+  high-cholesterol pair (same trial + 2024 randomized double-blind placebo pilot of bay leaf tea,
+  PACTR202205671550114); NEW stress and anxiety pairs (2026 Sci Rep randomized double-blind
+  placebo pilot, PACTR202205585377035; the two 2024/2026 pilots report the same 55 participants
+  with different outcomes, each cited only for its own outcome); liver caution (2026
+  RUCAM-probable case; 2021 fatal fulminant hepatitis case, DOI only); oesophageal impaction
+  caution (1993, two cases); allergy caution (laurel oil contact dermatitis 2007 and 2015;
+  occupational asthma 1996); oleander-mistaken-for-bay warning (2023). TEXT EDIT: the unsourced
+  needs-review caution lost "Not toxic to people and safe to cook with" (contradicted by the liver
+  cases) and its leaf-rigidity and laurel-oil dermatitis sentences (now sourced cautions); the
+  rest stays needs-review. Not added: 2017 randomized crossover bay-leaf cookie trial (glucose
+  lower at 30 and 45 min only, no difference in the overall glucose response, iAUC p = 0.41); 2011
+  Res J Med Plant diabetes study (randomisation not stated, abstract wording closely copies the
+  2009 paper); 2007 FASEB abstract (same trial as 2009); 2023 essential-oil inhalation study in
+  849 hypertensive women (24 oils, randomisation not stated); 2020 spice-blend meal trial (13
+  spices); 2026 insomnia preprint; impaction, perforation and bleeding case letters with no
+  abstract (1980-1999: duodenum, small bowel, Meckel diverticulum, hypopharynx); bay leaf
+  phytodermatitis and erythema multiforme letters with no abstract; chemical burn from a three-oil
+  mixture (combination); Frullania cross-sensitisation chemistry (1975); West Indian bay (Pimenta
+  racemosa) GRAS review (other species); 2022 and 2020 uncontrolled tea studies (REF-1682/1683,
+  cited for dosage only). Possible follow-up for the owner: oleander as a formal Dangerous
+  Lookalikes entry (needs a sourced toxicology and distinguishing-features write-up).'

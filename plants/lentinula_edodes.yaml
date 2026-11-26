@@ -143,15 +143,20 @@ indications:
 - condition: immune-support
   reference_ids:
   - REF-3640
+  - REF-5462
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0300
   - REF-1170
   note: Eating shiitake daily improved immune cell function and raised secretory IgA in healthy adults
-    in a randomized trial
+    in a randomized trial; a shiitake mycelium beta-glucan (Lentinex) raised B-cell numbers vs placebo
+    in healthy older adults (randomized crossover trial)
 - condition: infection
-  note: inferred from antimicrobial action
-  reference_ids: []
+  note: 'AHCC, a standardised extract of cultured shiitake mycelium, helped clear persistent high-risk
+    HPV infection: 14 of 22 women were HPV-negative after 6 months vs 2 of 19 on placebo (randomized double-blind
+    trial)'
+  reference_ids:
+  - REF-5461
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0300
@@ -169,6 +174,7 @@ contraindications:
   reference_ids:
   - REF-1169
   - REF-1168
+  - REF-5466
   status: verified
 - note: 'Duke (2002) rates shiitake as +++ and notes immunostimulant, hypocholesterolemic, antibacterial,
     and anti-HIV activities at the experimental level (score 1). The key active compound is lentinan,
@@ -181,6 +187,19 @@ contraindications:
   reference_ids:
   - REF-0300
   - REF-0063
+  status: verified
+- note: 'Bowel blockage: shiitake eaten in large or poorly chewed pieces has blocked the small bowel;
+    two people without teeth who ate uncut shiitake needed surgery (case reports).'
+  severity: caution
+  reference_ids:
+  - REF-5464
+  - REF-5465
+  status: verified
+- note: 'Medicines: a shiitake-rich diet slightly increased the kidneys'' clearance of gabapentin without
+    changing its overall blood levels (volunteer study).'
+  severity: info
+  reference_ids:
+  - REF-5463
   status: verified
 references:
 - REF-1163
@@ -242,4 +261,22 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   extract preparation and the lentinan constituent now cite the lentinan clinical review REF-3642 and
   the Lentinus edodes review REF-1167; the safety note now cites the shiitake-dermatitis reviews
   REF-1169 and REF-1168. Dropped as unsupported: qi and blood, capsules for immune support, injectable
-  lentinan, mild anticoagulant effects, digestive upset.'
+  lentinan, mild anticoagulant effects, digestive upset.
+  | 2026-11-26: symptom-source audit research-deepening batch 19 - Searched PubMed (Lentinula
+  edodes / Lentinus edodes / shiitake tiab, lentinan ti: 113 HT, 22 SR, 362 SAFE hits), Europe PMC
+  (two queries timed out and were re-run), ClinicalTrials.gov (22) and OpenAlex. Lentinan
+  injections and intrapleural infusions excluded (route); the cancer pair (8) was not padded.
+  Added: 2022 AHCC randomized placebo HPV trial to infection (NCT02405533; AHCC is a cultured L.
+  edodes mycelium extract); 2011 Lentinex crossover RCT to immune-support; bowel-obstruction
+  caution (2019 two surgical cases, 2022 case); French poison-centre series (59 dermatitis cases
+  2014-2019) to the shiitake-dermatitis caution; gabapentin diet study as an info note. Not added:
+  2021 double-blind RCT of shiitake bars (only triglycerides fell, 10%; no cholesterol change, so
+  no high-cholesterol pair; the abstract also reports dermatitis in "10% of individuals sensitive
+  to the mushroom", wording unclear); 2012 anticaries crossover RCT (plaque metabolism only, a
+  surrogate) and 2011 mouthrinse study (randomisation not stated); 2023 lentinan nasal drops in
+  COVID-19 (faster antigen clearance, no symptom difference); 2023 AHCC taste-disorder RCT and
+  2025 L.E.M. neuropathy RCT (no vocab condition; the neuropathy primary endpoint was null); 2013
+  eccentric-exercise crossover study (no effect on inflammation); 2018 AHCC stress study (design
+  unclear); 2020 Lentinex well-being RCT (no vocab condition); fermented rice bran (MGN-3/Biobran)
+  and mushroom-blend or multi-ingredient products; dermatitis case reports already covered by
+  REF-1168/REF-1169.'

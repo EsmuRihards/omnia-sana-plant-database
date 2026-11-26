@@ -1,0 +1,30 @@
+plant	condition	ref	op
+laurus_nobilis	blood-sugar	REF-5426	newpair
+laurus_nobilis	high-cholesterol	REF-5426,REF-5427	newpair
+laurus_nobilis	stress	REF-5428	newpair
+laurus_nobilis	anxiety	REF-5428	newpair
+lavandula_angustifolia	menstrual-cramps	REF-5436	newpair
+lavandula_angustifolia	menopause	REF-5437,REF-5438,REF-5440	newpair
+lavandula_angustifolia	menopause	REF-5441	nulladd
+lavandula_angustifolia	hot-flashes	REF-5439,REF-5437	newpair
+lavandula_angustifolia	fatigue	REF-5442,REF-5443,REF-5444	newpair
+lavandula_angustifolia	arthritis	REF-5445	add
+lavandula_angustifolia	arthritis	REF-5446	add
+lavandula_angustifolia	arthritis	-	note
+lavandula_angustifolia	oral-health	REF-5447	newpair
+lavandula_angustifolia	pms	REF-5448	newpair
+lentinula_edodes	infection	REF-5461	add
+lentinula_edodes	infection	-	note
+lentinula_edodes	immune-support	REF-5462	add
+lentinula_edodes	immune-support	-	note
+laurus_nobilis	cinew	Liver: two women who regularly drank bay	REF-5429,REF-5430
+laurus_nobilis	cinew	Swallowing the leaves: whole bay leaves 	REF-5431
+laurus_nobilis	cinew	Allergy: bay (laurel) leaf oil can cause	REF-5432,REF-5433,REF-5434
+laurus_nobilis	cinew	Identification: an 84-year-old developed	REF-5435
+lavandula_angustifolia	cinew	Children: in case reports, a few prepube	REF-5449,REF-5450,REF-5451,REF-5452,REF-5453
+lavandula_angustifolia	cinew	Skin allergy: lavender is an uncommon ca	REF-5454,REF-5455
+lavandula_angustifolia	cinew	Medicines: in randomized crossover studi	REF-5456,REF-5457
+lavandula_angustifolia	cinew	Driving and dependence: in randomized tr	REF-5458,REF-5459,REF-5460
+lentinula_edodes	cinew	Bowel blockage: shiitake eaten in large 	REF-5464,REF-5465
+lentinula_edodes	ciadd	Eating raw or undercooked shiitake can cause shiitake dermatitis	REF-5466
+lentinula_edodes	cinew	Medicines: a shiitake-rich diet slightly	REF-5463

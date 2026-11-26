@@ -294,4 +294,13 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0270 ''Shang 2014, The
   genus Leonurus'' (the real Shang 2014 J Ethnopharmacol review is on Leonurus japonicus) is not in
   PubMed, Crossref or OpenAlex as cited: removed from every entry (each kept another source) and
-  deleted.'
+  deleted.
+  | 2026-11-26: symptom-source audit research-deepening batch 19 - Searched PubMed (Leonurus
+  cardiaca / motherwort tiab: 17 HT, 10 SR, 36 SAFE hits), Europe PMC (one query timed out and was
+  re-run), ClinicalTrials.gov (1, not yet recruiting) and OpenAlex. Nothing new: almost all trials
+  and meta-analyses are of Chinese motherwort injection (L. japonicus; other species and route)
+  for postpartum or post-abortion bleeding. GAP: a 2011 study of L. cardiaca oil extract (1,200 mg
+  a day for 28 days) in 50 people with hypertension plus anxiety and sleep problems reported
+  improvement but had no control group, so no pair was created. A 2015 review lists "motherwort"
+  among herbs that reduce platelet aggregation without naming the species, so it was not added to
+  the anticoagulant caution.'

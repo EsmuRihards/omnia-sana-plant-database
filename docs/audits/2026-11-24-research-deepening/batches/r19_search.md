@@ -1,0 +1,1356 @@
+# Research-deepening batch 19 - search
+
+## lamium-album (Lamium album) - name clause: "Lamium album"[tiab] OR "white dead nettle"[tiab] OR "white deadnettle"[tiab] OR "white dead-nettle"[tiab]
+
+### PubMed HT - 2 hits, 2 not already listed above, 1 new
+- new | 2005 | 15793525 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Treatment of atopic dermatitis with herbal combination of Eleutherococcus, Achillea millefolium, and Lamium album has no advantage over placebo: a double blind, placebo-controlled, | J Am Acad Dermatol
+- HELD REF-3827 | 2000 | 10911825 | Clinical Trial/Randomized Controlled Trial | Randomized controlled trial of nettle sting for treatment of base-of-thumb pain. | J R Soc Med
+
+### PubMed SR - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SAFE - 3 hits, 2 not already listed above, 2 new
+- new | 2023 | 37999514 |  | Lamium album Flower Extracts: A Novel Approach for Controlling Fusarium Growth and Mycotoxin Biosynthesis. | Toxins (Basel)
+- new | 2022 | 36278236 |  | In vitro effects of European and Latin-American medicinal plants in CYP3A4 gene expression, glutathione levels, and P-glycoprotein activity. | Front Pharmacol
+
+### PubMed OBS - 0 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 0 hits, 0 not already listed above, 0 new
+
+### ClinicalTrials.gov - 0 registered studies
+
+### OpenAlex no-PMID trial-worded - 97 hits, 68 without PMID, 68 new
+- new | 2026 | 10.30895/1991-2919-2026-955 | article | Comprehensive Effects of Lamium Extracts on Disorders in a Letrozole-Induced Model of Polyendocrine Metabolic Ovarian Syndrome in Rats | Ведомости Научного центра экспертизы сре
+- new | 2026 | 10.22271/plants.2026.v14.i1c.2039 | article | Most promising medicinal plants for hemorrhoids treatment: A critical evaluation of tradition, science, and safety | Journal of Medicinal Plants Studies
+- new | 2026 | 10.22214/ijraset.2026.82385 | article | Utilization of Clitoria Ternatia Flower Petal\'s Extract for the Development and Formulation of Functional Confectionery Product (Candy) | International Journal for Research in Ap
+- new | 2026 | 10.1016/j.ufug.2026.129436 | article | Dynamics on vegetation, pollinators and soil microorganisms after transforming boreal urban lawns into meadows | Urban forestry & urban greening
+- new | 2025 | 10.24917/25438832.10.13 | article | Analysis of Traditional Medical Sciences in Asia and the Middle East in phytotherapeutic aspects | Annales Universitatis Paedagogicae Craco
+- new | 2025 | 10.1007/s10761-025-00794-6 | article | An Environmental Perspective on the Ethnography of Archaeological Practice: The Case of Exhumations in Death Valley (Chojnice, Poland) | International Journal of Historical Arch
+- new | 2025 | 10.61882/eltiamj.12.1.11 | article | Assessment of the Effects of Parsley (Petroselinum sativum) Ethanolic Extract on the Healing of Infected Skin Wounds and Oxidative Stress in Rats | Eltiam
+- new | 2025 | 10.61882/ifej.2025.550 | article | Evaluation and Comparison of the Growth Status of Plant Species in the Landslide and Control Areas in the 4th Series of the Neka Chub Forestry Plan | Ecology of Forests
+- new | 2025 | 10.32859/era.32.36.1-64 | article | Moroccan medicinal plants with potential antidiabetic activity | Ethnobotany Research and Applications
+- new | 2024 | 10.34660/inf.2022.22.67.246 | conference-paper | ACTIVATION OF DONOR LYMPHOCYTE SUBPOPULATIONS WITH IGG-CLASS AUTOANTIBODIES TO ELASTIN IN PATIENTS WITH ATOPIC DERMATITIS | Scientific Research of the SCO Countries
+- new | 2024 | 10.18174/647596 | report | Pilot beheer en inzaaien bloemrijke dijken Amsterdam-Rijnkanaal : rapportage 2023 | 
+- new | 2024 | 10.21608/ejvs.2023.240984.1633 | article | Antihyperglycemic Effect of Aqueous Extract of Urtica dioica L. Leaves Growing in Kurdistan Region-Iraq | Egyptian Journal of Veterinary Science
+- new | 2024 | 10.53555/ajbr.v27i6s.7381 | article | A Comprehensive Review on Plant-Derived Inhibitors of Key Enzymes in Diabetes Mellitus | African Journal of Biomedical Research
+- new | 2024 | 10.23902/trkjnat.1411314 | article | Natural treatment approaches for varicose veins: A brief review of the literature | Trakya University Journal of Natural Sci
+- new | 2023 | 10.1134/s2075111723040173 | article | Changes in Flora Species Composition and Soil Enzyme Activity in Communities of Acer negundo in Kemerovo Region | Russian Journal of Biological Invasions
+- new | 2023 | 10.35885/1996-1499-16-2-288-296 | article | CHANGES IN FLORA SPECIES COMPOSITION AND SOIL ENZYME ACTIVITY IN COMMUNITIES OF ACER NEGUNDO IN THE KEMEROVO REGION | Russian Journal of Biological Invasions
+- new | 2023 | 10.55529/jnrpsp.33.6.23 | article | A Study on Awareness and Attitude of People towards Use of Traditional Medicine in Central Kashmir, J&K | Journal of Nursing Research Patient Safe
+- new | 2023 | 10.2298/botserb2301145i | article | The alpine scrubs and dwarf heaths of the Balkan Peninsula - an exceptional center of floristic richness and endemism | Botanica Serbica
+- new | 2023 | 10.18006/2023.11(3).598.611 | article | Effect of Transpiration on the Monocot Ornamental Plants Leave Anatomy | Journal of Experimental Biology and Agri
+- new | 2023 | 10.33140/jpr.08.02.14 | article | Diabetes and Ethnomedicine a Comprehensive Review of Scientific Literature on Traditional Medical Practices | Journal of Pharmaceutical Research
+- new | 2022 | 10.18174/571147 | report | Tiny Forests: groene mini-oases in de stad : Monitoring van biodiversiteit en bijdragen aan CO2-opslag, wateropvang en tegengaan hittestress in elf Tiny Forests | 
+- new | 2022 | 10.61186/jcbior.3.3.131 | article | Machine learning, infection, microbial toxins profile and health monitoring pre/post general surgeries during COVID-19 pandemic | Journal of Current Biomedical Reports
+- new | 2022 | 10.52547/phypha.26.1.3 | article | Evaluating the impact of Viola spathulata in a rat model of brain ischemia/reperfusion by influencing expression level of caspase-3 and cyclooxygenase-2 | Physiology and Pharmacology
+- new | 2022 | 10.13187/ejbr.2022.1.8 | article | A Review: Some Plants Used for Hemorrhoids in Turkey Traditional Medicine | Russian Journal of Biological Research
+- new | 2022 | 10.3166/phyto-2022-0327 | article | Plantes médicinales de Hongrie | Phytothérapie
+- new | 2022 | 10.52547/ifej.10.19.99 | article | Wind-Thrown Trees Characteristics and Effects of Topographic and Soil Factors on Wind Throw in Chamestan Forest- Mazandaran | Ecology of Iranian Forests
+- new | 2021 | 10.52547/jmp.20.79.72 | article | Therapeutic potential of ointment containing methanol extract of Lamium album L. on cutaneous wound healing in rats | Journal of Medicinal Plants
+- new | 2021 | 10.51910/ijhdr.v8i28.356 | article | History of homeopathy and social history of medicine: the story of a successful marriage | International Journal of High Dilution R
+- new | 2020 | 10.3920/jiff2020.0048 | article | Growth, survival and development of house crickets (Acheta domesticus) fed flowering plants | Journal of Insects as Food and Feed
+- new | 2020 | 10.21203/rs.3.rs-79468/v1 | preprint | Evaluation of protection against desiccation with different artificial tears containing 0.1%-0.3% hyaluronic acid in experimental dry eye model | Research Square
+- new | 2020 | 10.52547/ifej.8.15.41 | article | Ecological Assessment of Swiss and Danish Thinning Methods on Brutia Pine (Pinus Brutia Ten.) Reforestation in Neka Area- Mazadaran Province) | Ecology of Iranian Forests
+- new | 2020 | 10.3923/ajps.2020.91.106 | article | Floristics, Leaf Size Spectra and Life-form Distribution of Riparian Vegetation along a Hill Stream, Bhaderwah, Jammu and Kashmir, India | Asian Journal of Plant Sciences
+- new | 2020 | https://openalex.org/W3039113495 | dissertation | Prise en charge à l’officine de la diarrhée aiguë de l’adulte | HAL AMU
+- new | 2020 | https://openalex.org/W7135330626 | dissertation | utilisation desremèdes non conventionnels dans le traitement traditionnel de la pthologie hémorröidaire à Tlemcen | Dépôt Institutionnel de lUniversité de T
+- new | 2019 | 10.15171/ps.2019.6 | article | The Effects of Urtica dioica and Lamium album Extracts on the Expression Level of Cyclooxygenase-2 and Caspase-3 in the Liver and Kidney of Streptozotocin-Induced Diabetic Rats | Pharmaceutical Sciences
+- new | 2019 | 10.21475/ajcs.19.13.07.p1649 | article | In vitro organogenesis and growth of Ocimum basilicum ‘Genovese’ (basil) cultivated with growth regulators | Australian Journal of Crop Science
+- new | 2019 | https://openalex.org/W3207446493 | article | Влияние Acer negundo L. на зарастание залежных земель пригородных территорий | Izvestiya of Samara Scientific Center of
+- new | 2019 | 10.5281/zenodo.2643877 | article | Reduction of Plants Biodiversity in Hyrcanian Forest by Coal Mining Activities | Zenodo (CERN European Organization for N
+- new | 2019 | 10.3264/fg.2019.1022 | article | The DNA weights per nucleus (genome size) of more than 2350 species of the Flora of The Netherlands, of which 1370 are new to science, including the pattern of their DNA peaks | Online Publication Service of Würzburg U
+- new | 2019 | 10.58694/20.500.12479/2488 | dissertation | Effects of pesticidal plants on legume pollinators’ attraction in the field and bruchids control in storage | 
+- new | 2019 | 10.3166/phyto-2019-0201 | article | Traitement des alopécies par les plantes médicinales : étude d’un groupe d’herboristes de la ville de Marrakech (Maroc) | Phytothérapie
+- new | 2019 | 10.5586/mb.2019.001 | article | Diversity and environmental variability of riparian tall herb fringe communities of the order Convolvuletalia sepium in Polish river valleys | Monographiae Botanicae
+- new | 2018 | 10.26686/wgtn.17072279 | dissertation | Batesian mimicry in plants: The significance of shared leaf shape between Alseuosmia pusilla and Pseudowintera colorata | Open Access Victoria University of Welli
+- new | 2017 | 10.29252/rmm.5.2.9 | article | Effect of Lamium Album on Mitochondrial Oxidative Stress in Diabetic Rats | Research in Molecular Medicine
+- new | 2017 | https://openalex.org/W2739930434 | article | Les plantes diurétiques à l’officine | 
+- new | 2017 | https://openalex.org/W2949057480 | article | Mineral Contents of Weed Crops In Central Anatolian Region | European Journal of Sustainable Developm
+- new | 2017 | 10.18869/acadpub.ijae.6.1.29 | article | Effects of Forest Roads on Herbaceous Species Composition (Case Study: Asalem Forest) | Iranian Journal of Applied Ecology
+- new | 2016 | 10.24355/dbbs.084-201701040942-0 | article | Die spontane Flora der Straßen von Braunschweig: Hohe Artenzahl und unerwartete Florendynamik im lokalen Maßstab | Digitale Bibliothek Braunschweig (Verbun
+- new | 2015 | 10.21010/ajtcam.v12i5.13 | article | LAMIUM ALBUM OR URTICA DIOICA? WHICH IS MORE EFFECTIVE IN DECREASING SERUM GLUCOSE, LIPID AND HEPATIC ENZYMES IN STREPTOZOTOCIN INDUCED DIABETIC RATS: A COMPARATIVE STUDY | African Journal of Traditional Complemen
+- new | 2014 | 10.7211/jjsrt.40.269 | article | The trial of guide species selection for vegetation management and restoration which considered biodiversity on the levees in paddy fields | Journal of the Japanese Society of Reveg
+- new | 2014 | 10.1007/s11101-014-9363-3 | editorial | Natural products utilization | Phytochemistry Reviews
+- new | 2013 | 10.13040/ijpsr.0975-8232.4(8).2853-65 | paratext |  | International Journal of Pharmaceutical 
+- new | 2013 | 10.4172/2327-5162.1000117 | review | The Role of Genipin and Geniposide in Liver Diseases: A Review | Alternative & Integrative Medicine
+- new | 2012 | 10.7778/jpkm.2012.26.2.053 | article | Overview for Pattern and Results of Herbal Medicine-derived Atopic Dermatitis Clinical Researches | The Journal of Pediatrics of Korean Medi
+- new | 2012 | 10.13057/biodiv/d130204 | article | Effect of plantations on plant species diversity in the Darabkola, Mazandaran Province, North of Iran | Biodiversitas Journal of Biological Dive
+- new | 2011 | https://openalex.org/W2140597238 | report | Ontwikkeling signalering / vangsysteem voor schadelijke wantsen met lokstoffen en lokplanten": Onderzoek aan geurstoffen en lokplanten in laboratorium, veld en kassen | Wageningen University & Research Publica
+- new | 2009 | 10.17221/40/2008-jfs | article | The effect of shelterwood silvicultural method on the plant species diversity in a beech (Fagus orientalis Lipsky) forest in the north of Iran | Journal of Forest Science
+- new | 2008 | https://openalex.org/W353543377 | dissertation | Förändringar i vegetationens sammansättning efter en våtmarksrestaurering : Changes in the vegetation composition after a wetlandrestoration | Digitala vetenskapliga arkivet (Diva) (K
+- new | 2007 | 10.1080/09064710701464685 | article | Nitrogen and phosphorous fertilizer improve pastures naturally growing under hazelnut trees | Acta Agriculturae Scandinavica Section B
+- new | 2006 | 10.1111/j.1365-2745.2006.01172.x | article | Interactions between non‐native plant species and the floristic composition of common habitats | Journal of Ecology
+- new | 2005 | https://openalex.org/W1107955036 | dissertation | Cytotoxic Compounds of Plant Origin – Biological and Chemical Diversity | Uppsala University Publications (Uppsala
+- new | 2003 | 10.23986/afsci.5748 | article | Effect of conservation tillage and peat application on weed infestation on a clay soil | Agricultural and Food Science
+- new | 2001 | 10.24382/4705 | dissertation | Treatment of musculoskeletal pain with the sting of the stinging nettle: Urtica dioica | PEARL (University of Plymouth)
+- new | 1999 | https://openalex.org/W1757328690 | book | Vegetation of the British countryside - the Countryside Vegetation System. ECOFACT Volume 1 | NERC Open Research Archive (Natural Envi
+- new | 1996 | 10.24355/dbbs.084-200511080100-274 | article | Die Uferflora der Weser / Friedrich Wilhelm Oppermann | Digitale Bibliothek Braunschweig (Verbun
+- new | 1991 | 10.17660/actahortic.1991.288.18 | conference-paper | TRIALS TO REARE BUMBLE BEES | Acta Horticulturae
+- new | 1991 | https://openalex.org/W1819872548 | report | Countryside Survey 1990. Establishing a baseline of vegetation data from sample quadrats placed in 1km squares to be surveyed as part of the "countryside Survey 1990". First progre | NERC Open Research Archive (Natural Envi
+- new | 1866 | 10.5962/bhl.title.12236 | book | Botanique [du département d'Eure-et-Loir] | Biodiversity Heritage Library (Smithsoni
+
+## laurus-nobilis (Laurus nobilis) - name clause: "Laurus nobilis"[tiab] OR "bay leaf"[tiab] OR "bay leaves"[tiab] OR "bay laurel"[tiab]
+
+### PubMed HT - 9 hits, 9 not already listed above, 7 new
+- new | 2025 | 40266814 |  | Insecticidal and Repellent Activity of Plant Powders on the Weevil (Sitophilus zeamais) in Stored Corn Grains in a Rural Community of Oaxaca, Mexico. | Insects
+- new | 2024 | 39104271 |  | [Adaptation for use In Russia of the extended odor identification Sniffin' Sticks test]. | Vestn Otorinolaringol [rus]
+- new | 2023 | 37141519 |  | [Impact of essential oil vapors inhalation on blood pressure in patients with hypertension]. | Vopr Kurortol Fizioter Lech Fiz Kult [rus]
+- HELD REF-1682 | 2022 | 36881915 |  | Evaluation of daily Laurus nobilis tea consumption on anxiety and stress biomarkers in healthy volunteers. | Arch Ital Biol
+- HELD REF-1683 | 2020 | 32213118 | Research Support, Non-U.S. Gov't | Evaluation of Daily Laurus nobilis Tea Consumption on Lipid Profile Biomarkers in Healthy Volunteers. | J Am Coll Nutr
+- new | 2020 | 32211803 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Spices in a High-Saturated-Fat, High-Carbohydrate Meal Reduce Postprandial Proinflammatory Cytokine Secretion in Men with Overweight or Obesity: A 3-Period, Crossover, Randomized C | J Nutr
+- new | 2017 | 28853992 | Randomized Controlled Trial | Effect of Incorporating Bay Leaves in Cookies on Postprandial Glycemia, Appetite, Palatability, and Gastrointestinal Well-Being. | J Am Coll Nutr
+- new | 2013 | 23523026 | Research Support, Non-U.S. Gov't | Ultrasound-assisted extraction of phenolic compounds from Laurus nobilis L. and their antioxidant activity. | Ultrason Sonochem
+- new | 2009 | 19177188 |  | Bay leaves improve glucose and lipid profile of people with type 2 diabetes. | J Clin Biochem Nutr
+
+### PubMed SR - 4 hits, 4 not already listed above, 3 new
+- new | 2026 | 41257434 | Systematic Review/Research Support, Non-U.S. Gov't | Shrubs and trees as natural insect protection for grazing animals in Switzerland and the alpine region: A systematic review of in vitro, in vivo and clinical trials. | Med Vet Entomol
+- HELD REF-1681 | 2022 | 35053967 | Review | Isolation of Laurus nobilis Leaf Polyphenols: A Review on Current Techniques and Future Perspectives. | Foods
+- new | 2020 | 33383896 |  | The Power of Wild Plants in Feeding Humanity: A Meta-Analytic Ethnobotanical Approach in the Catalan Linguistic Area. | Foods
+- new | 2020 | 33371127 |  | Chinese herbal medicine for the treatment of small intestinal bacterial overgrowth (SIBO): A protocol for systematic review and meta-analysis. | Medicine (Baltimore)
+
+### PubMed SAFE - 63 hits, 63 not already listed above, 59 new
+- new | 2026 | 42533387 |  | Bay Laurel (Laurus nobilis) essential oil: contact toxicity, detoxification enzyme inhibition, and antifeedant effects on Plodia interpunctella larvae. | Int J Environ Health Res
+- new | 2026 | 41598335 | Case Reports | Herb-Induced Liver Injury by Laurus nobilis: A Case Assessed for Causality Using the Updated RUCAM. | Life (Basel)
+- new | 2026 | 41876019 |  | In vitro safety assessment, titanium migration analysis, and functional properties of chitosan-alginate bio-nanocomposite films with bay leaf extract and TiO₂ for sustainable chick | Int J Biol Macromol
+- new | 2025 | 40745421 |  | Toxicity of Ethanolic Plant Extracts to Aphis gossypii, Bemisia tabaci, and Frankliniella occidentalis and Selectivity to Coccinella septempunctata and Menochilus sexmaculatus. | Neotrop Entomol
+- new | 2024 | 39212582 |  | Laurus nobilis L. leaves Suppress Alcohol-Related Liver Disease by Exhibiting Antioxidant and Anti-Inflammatory Effects in Alcohol-Treated Hepatocytes and Mice. | J Med Food
+- new | 2024 | 38369612 |  | Assessment of metals (Ni, Ba) deposition in plant types and their organs at Mersin City, Türkiye. | Environ Monit Assess
+- new | 2023 | 37885923 | Case Reports | Laurel but Hardy: unintended poisoning, a case report of oleander misidentification as bay laurel. | Toxicol Rep
+- new | 2023 | 37105538 | Case Reports | Erythema multiforme-like allergic contact dermatitis from bay leaves in a home-made natural remedy. | Contact Dermatitis
+- new | 2023 | 35067202 |  | Artecanin of Laurus nobilis is a novel inhibitor of SARS-CoV-2 main protease with highly desirable druglikeness. | J Biomol Struct Dyn
+- new | 2023 | 36206926 |  | Effect of multifactorial free and liposome-coated of bay laurel (Laurus nobilis) and rosemary (Salvia rosmarinus) extracts on the behavior of Listeria monocytogenes and Vibrio para | Environ Res
+- new | 2023 | 36908566 |  | Safety and efficacy of a feed additive consisting of an essential oil from the leaves of Laurus nobilis L. (laurel leaf oil) for all animal species (FEFANA asbl). | EFSA J
+- new | 2023 | 37954396 |  | Heavy metals induced health risk assessment through consumption of selected commercially available spices in Noakhali district of Bangladesh. | Heliyon
+- new | 2023 | 36219334 | Review | Critical Review on Nutritional, Bioactive, and Medicinal Potential of Spices and Herbs and Their Application in Food Fortification and Nanotechnology. | Appl Biochem Biotechnol
+- HELD REF-2657 | 2022 | 36355976 |  | Risk of Poisoning from Garden Plants: Misidentification between Laurel and Cherry Laurel. | Toxins (Basel)
+- new | 2022 | 36618289 |  | Evaluation of the Effect of Alcoholic Extract of Laurus Nobilis Leaves on Blood Biochemical Parameters and Histological Changes in the Liver and Kidney among Female Wistar Rats Tre | Arch Razi Inst
+- new | 2022 | 36590130 |  | Aqueous extract of bay leaf (Laurus nobilis) ameliorates testicular toxicity induced by aluminum chloride in rats. | Vet World
+- new | 2021 | 33191495 | Case Reports | Bay leaf phytodermatitis. | Contact Dermatitis
+- HELD REF-1680 | 2021 | 34091077 | Research Support, Non-U.S. Gov't | Laurus nobilis ethanolic extract attenuates hyperglycemia and hyperinsulinemia-induced insulin resistance in HepG2 cell line through the reduction of oxidative stress and improveme | Mitochondrion
+- new | 2020 | 32967115 |  | Bio-Guided Fractionation Driven by In Vitro α-Amylase Inhibition Assays of Essential Oils Bearing Specialized Metabolites with Potential Hypoglycemic Activity. | Plants (Basel)
+- new | 2020 | 32702506 |  | FEMA GRAS assessment of natural flavor complexes: Clove, cinnamon leaf and West Indian bay leaf-derived flavoring ingredients. | Food Chem Toxicol
+- new | 2020 | 32911831 |  | Natural Formulation Based on Diatomaceous Earth and Botanicals against Stored Product Insects. | Insects
+- new | 2019 | 31671618 |  | Cultivar-Dependent Anticancer and Antibacterial Properties of Silver Nanoparticles Synthesized Using Leaves of Different Olea Europaea Trees. | Nanomaterials (Basel)
+- new | 2018 | 30406022 | Review | Antidotes for aluminum phosphide poisoning - An update. | Toxicol Rep
+- new | 2018 | 29191726 |  | Essential oils of culinary herbs and spices display agonist and antagonist activities at human aryl hydrocarbon receptor AhR. | Food Chem Toxicol
+- HELD REF-5424 | 2017 | 27568784 | Review | Systemic allergic dermatitis caused by sesquiterpene lactones. | Contact Dermatitis
+- new | 2016 | 27058630 |  | Cytotoxicity of South-African medicinal plants towards sensitive and multidrug-resistant cancer cells. | J Ethnopharmacol
+- HELD REF-1687 | 2015 | 25837780 | Research Support, Non-U.S. Gov't | Laurus nobilis L. Seed Extract Reveals Collateral Sensitivity in Multidrug-Resistant P-Glycoprotein-Expressing Tumor Cells. | Nutr Cancer
+- new | 2015 | 25933076 | Case Reports | Erythema multiforme like allergic contact dermatitis associated with laurel oil: a rare presentation. | Dermatol Online J
+- new | 2015 | 25753052 | Case Reports | Allergic contact dermatitis caused by laurel leaf oil. | Contact Dermatitis
+- new | 2015 | 25243884 | Research Support, Non-U.S. Gov't | Nutraceutical properties of dietary plants extracts: prevention of diabetic nephropathy through inhibition of glycation and toxicity to erythrocytes and HEK293 cells. | Pharm Biol
+- new | 2014 | 26170795 | Case Reports | A cause of severe chemical burn: topical application of herbal medicines. | Ann Burns Fire Disasters
+- new | 2013 | 22294441 |  | Aluminum phosphide-induced genetic and oxidative damages in rats: attenuation by Laurus nobilis leaf extract. | Toxicol Ind Health
+- new | 2013 | 23543905 |  | Aluminium phosphide-induced genetic and oxidative damages in vitro: attenuation by Laurus nobilis L. leaf extract. | Indian J Pharmacol
+- new | 2012 | 22036959 | Research Support, Non-U.S. Gov't | The 'headache tree' via umbellulone and TRPA1 activates the trigeminovascular system. | Brain
+- new | 2011 | 21882685 | Evaluation Study/Research Support, Non-U.S. Gov't | Chemical composition and fumigant toxicity of some essential oils against Ephestia kuehniella. | J Econ Entomol
+- new | 2011 | 21939359 | Research Support, Non-U.S. Gov't | Eugenol enhances the chemotherapeutic potential of gemcitabine and induces anticarcinogenic and anti-inflammatory activity in human cervical cancer cells. | Cancer Biother Radiopharm
+- new | 2010 | 22491184 |  | Isolation and structure elucidation of antioxidant compounds from leaves of Laurus nobilis and Emex spinosus. | Drug Discov Ther
+- new | 2010 | 21372857 | Technical Report | Toxicology and carcinogenesis studies of isoeugenol (CAS No. 97-54-1) in F344/N rats and B6C3F1 mice (gavage studies). | Natl Toxicol Program Tech Rep Ser
+- new | 2009 | 19418312 |  | Sulfite determination by a biosensor based on bay leaf tissue homogenate: very simple and economical method. | Artif Cells Blood Substit Immobil Biotec
+- new | 2007 | 17577382 | Case Reports | Allergic contact dermatitis from Laurus nobilis oil induced by massage. | Contact Dermatitis
+- new | 2005 | 15662650 |  | Repellency and toxicity of aromatic plant extracts against the mosquito Culex pipiens molestus (Diptera: Culicidae). | Pest Manag Sci
+- new | 2004 | 15478207 | Research Support, Non-U.S. Gov't | The chemical composition of some Lauraceae essential oils and their antifungal activities. | Phytother Res
+- new | 2001 | 11553154 | Case Reports | Allergic contact dermatitis from Laurus nobilis (laurel) oil. | Contact Dermatitis
+- new | 2000 | 10836203 | Review | A review of the natural occurrence, synthetic production and use of carcinogenic hydrazines and related chemicals. | In Vivo
+- new | 1999 | 10215575 | Case Reports/Letter | Duodenal obstruction secondary to bay leaf impaction. | Ann Intern Med
+- new | 1998 | 9519462 | Research Support, Non-U.S. Gov't | Polycyclic aromatic hydrocarbons in Laurus nobilis leaves as a measure of air pollution in urban and rural sites of Tuscany. | Chemosphere
+- new | 1998 | 9615893 | Case Reports | Dried bay leaf: an unusual cause of upper gastrointestinal tract hemorrhage. | Endoscopy
+- new | 1997 | 9126131 | Case Reports/Letter/Review | Bay leaf perforation of Meckel's diverticulum. | Can J Surg
+- new | 1996 | 8899117 | Case Reports/Research Support, Non-U.S. Gov't | Occupational asthma caused by aromatic herbs. | Allergy
+- new | 1994 | 8134147 | Case Reports | Bay leaf: an uncommon foreign body of the hypopharynx. | Otolaryngol Head Neck Surg
+- new | 1993 | 8496654 | Case Reports | Bay-leaf: an unusual oesophageal foreign body. | J Laryngol Otol
+- new | 1992 | 1556436 | Case Reports/Letter | Bay leaf perforation of the small bowel in a patient with chronic calcific pancreatitis. | J Clin Gastroenterol
+- new | 1991 | 24258800 |  | Fumigant toxicity of essential oils against four major stored-product insects. | J Chem Ecol
+- new | 1991 | 2044368 |  | Allergic contact dermatitis from Dittrichia viscosa (L.) Greuter. | Contact Dermatitis
+- new | 1990 | 2386346 | Case Reports/Comment/Letter | Bay leaf impaction. | Ann Intern Med
+- new | 1990 | 2350114 | Case Reports | Bay leaf impaction in the esophagus and hypopharynx. | Ann Intern Med
+- new | 1984 | 6476889 |  | Allergic contact dermatitis to laurel (Laurus nobilis L.): isolation and identification of haptens. | Arch Dermatol Res
+- new | 1984 | 6464528 | Case Reports | [Nevus of the arrector muscle of hair]. | Z Hautkr [ger]
+- new | 1983 | 6864930 | Case Reports/Letter | The dangers of cooking with bay leaves. | JAMA
+- new | 1981 | 7238011 | Case Reports | Perioral dermatitis from marjoram, bay leaf and cinnamon. | Contact Dermatitis
+- new | 1980 | 7470211 | Case Reports | Beware of bay leaf. | Br Med J
+- new | 1975 | 1235253 |  | Contact allergy to Frullania and Laurus Nobilis: cross-sensitization and chemical structure of the allergens. | Contact Dermatitis
+- new | 1974 | 4441116 |  | Editorial: Cross-sensitization between Frullania and Laurus nobilis: The allergen laurel. | Arch Dermatol
+
+### PubMed OBS - 1 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 21 hits, 15 not already listed above, 15 new
+- new | 2026 | 43058403 | Review | Laurus nobilis Essential Oil as a Natural Additive in Food Industry: A Review of Bioactivity, Encapsulation, and Applications. | Compr Rev Food Sci Food Saf
+- new | 2026 | 42655776 | Review | Functional Aquafeeds for Climate-Resilient Finfish Culture: A PRISMA-Guided Systematic Evidence Map of Nutritional Strategies for Thermal-Stress Tolerance, Immunity and Metabolic H | Vet Sci
+- new | 2025 | 40699817 | Review | The Preventive Power of the Mediterranean Diet Against Blue-Light-Induced Retinal Degeneration: Is the Secret in the Herbs and Spices? | Curr Issues Mol Biol
+- new | 2024 | 38085446 | Review | Targeting cardiovascular risk factors with eugenol: an anti-inflammatory perspective. | Inflammopharmacology
+- new | 2023 | 36978994 | Review | Plant-Based Antioxidants for Prevention and Treatment of Neurodegenerative Diseases: Phytotherapeutic Potential of Laurus nobilis, Aronia melanocarpa, and Celastrol. | Antioxidants (Basel)
+- new | 2022 | 35267385 | Review | Bay Laurel (Laurus nobilis L.) Essential Oil as a Food Preservative Source: Chemistry, Quality Control, Activity Assessment, and Applications to Olive Industry Products. | Foods
+- new | 2022 | 35567209 | Review | A Review of the Botany, Volatile Composition, Biochemical and Molecular Aspects, and Traditional Uses of Laurus nobilis. | Plants (Basel)
+- new | 2021 | 33979271 | Review | Plant-derived antioxidants incorporated into active packaging intended for vegetables and fatty animal products: a review. | Food Addit Contam Part A Chem Anal Contr
+- new | 2020 | 33341863 | Review | Is Cinnamon Efficacious for Glycaemic Control in Type-2 Diabetes Mellitus? | J Pak Med Assoc
+- new | 2019 | 31703341 | Review | Evaluation of the Anti-Diabetic Activity of Some Common Herbs and Spices: Providing New Insights with Inverse Virtual Screening. | Molecules
+- new | 2016 | 27186389 | Review | An Evidence-Based Review on Medicinal Plants Used as Insecticide and Insect Repellent in Traditional Iranian Medicine. | Iran Red Crescent Med J
+- new | 2015 | 25984608 | Research Support, Non-U.S. Gov't/Review | Potential anti-cancer activities and mechanisms of costunolide and dehydrocostuslactone. | Int J Mol Sci
+- new | 2014 | 24236996 | Review | An overview on chemical composition, bioactivity and processing of leaves of Cinnamomum tamala. | Crit Rev Food Sci Nutr
+- new | 2012 | 22634840 | Review | Antiproliferative and molecular mechanism of eugenol-induced apoptosis in cancer cells. | Molecules
+- new | 2004 | 15180577 | Research Support, U.S. Gov't, P.H.S./Review | Antimicrobial and chemopreventive properties of herbs and spices. | Curr Med Chem
+
+### ClinicalTrials.gov - 3 registered studies
+- NCT07403305 | NOT_YET_RECRUITING | results=False | NA | The Effect of Water Physical Exercise Program in Thermal Water and Hydropinotherapy on Cardiovascular Health | conds: Cardiovascular (CV) Risk | intr: WPEP in thermal water, Hydropinotherapy
+- NCT03064958 | COMPLETED | results=False | NA | The Acute Effect of Spices on Vascular Health | conds: Oxidative Stress | intr: Herbs and spices, High fat meal | pubs: ['32211803:DERIVED (new)']
+- NCT07887074 | COMPLETED | results=False | NA | Essential Oil Mouthwash - Oral Hygiene | conds: Oral Hygiene, Oral Health, Dental Plaque, Respiratory Tract Infections (RTI) | intr: Essential oil mouthwash, Chlorhexidine gluconate alcohol-free mouthwash, Povidone-iodine alcohol-fre
+
+### OpenAlex no-PMID trial-worded - 899 hits, 72 without PMID, 72 new
+- new | 2026 | 10.1038/s41598-026-73555-y | article | Effects of daily Laurus nobilis tea on inflammatory biomarkers and stress/anxiety levels: a randomized controlled pilot study in healthy North African participants | Scientific Reports
+- new | 2026 | 10.21608/mid.2026.472932.3772 | article | Antibacterial activity of combined extracts of Laurus nobilis, Rosmarinus officinalis, and Quercus rubra against Staphylococcus aureus isolated from patients with folliculitis and  | Microbes and Infectious Diseases /Microb
+- new | 2026 | 10.51470/plantarchives.2026.v26.supplement-2.383 | article | IMMUNOSTIMULATORY EFFECT OF Laurus nobilis LEAF POWDER ON Labeo catla AND ITS RESISTANCE AGAINST Aeromonas hydrophila | PLANT ARCHIVES
+- new | 2026 | 10.22271/veterinary.2026.v11.i2b.3026 | article | Immunosorbent Assay (ELISA) using crushed Melissa officinalis and Laurus nobilis leaves for broiler chickens | International Journal of Veterinary Scie
+- new | 2026 | 10.3390/sci8040075 | article | Evaluation of Chlorella vulgaris and Laurus nobilis as Feed Additives: Influence on Physiology of Nutrition in New Zealand White Rabbit | Sci
+- new | 2026 | 10.3390/su18189608 | article | Bulk Versus Nanoemulsified Laurel (Laurus nobilis) Extract as Feed Additives: Effects on In Vitro Gas and Methane Production, and Rumen Fermentation | Sustainability
+- new | 2026 | 10.1063/5.0325526 | conference-paper | Investigating the antibacterial effects of selected plant extracts on Pseudomonas aeruginosa | AIP conference proceedings
+- new | 2026 | 10.5281/zenodo.21301098 | preprint | NATUROPATIA E PRÁTICAS INTEGRATIVAS EM SAÚDE O POTENCIAL DO LAURUS NOBILIS L. FRENTE À HELICOBACTER PYLORI. | Zenodo (CERN European Organization for N
+- new | 2026 | 10.63342/cjbbs2026.34.005.en | article | Antimicrobial Effects of Bay Leaf (Laurus nobilis) and Sesame (Sesamum indicum) Essential Oils on Dried African Catfish (Clarias gariepinus) During Storage in North-Central Nigeria | Cameroon Journal of Biological and Bioch
+- new | 2026 | 10.21203/rs.3.rs-11062914/v1 | preprint | Effect of Bay Leaf on Quality of Sleep in Patients With Primary Insomnia: A Randomized Control Study | Research Square
+- new | 2026 | 10.1134/s1070363226030047 | article | Prospects for the Use of Volatile Plant Compounds for the Ecological Control of Western Flower Thrips in Greenhouse Production Systems | Russian Journal of General Chemistry
+- new | 2026 | 10.31640/ls-2026-2-08 | review | Pharmacological mechanisms and therapeutic implications of herbal immunomodulators (mini-review) | Likarska sprava
+- new | 2025 | 10.2174/0122150838401509250818105001 | article | The Dual Identity of Laurus nobilis L.: A Culinary Delight and Pharmacological Treasure | Current Traditional Medicine
+- new | 2025 | 10.33245/2310-4902-2025-200-2-145-150 | article | Autologous skin transplantation using water extract of bay leaves (Laurus nobilis L.) | Naukovij vìsnik veterinarnoï medicini
+- new | 2025 | 10.1016/j.ando.2025.102423 | conference-abstract | Effet de l’infusion de Laurus nobilis sur le cholestérol HDL : essai interventionnel | Annales d Endocrinologie
+- new | 2025 | 10.1016/j.aquaculture.2025.742155 | article | Effects of dietary bay leaf (Laurus nobilis) aqueous extract on growth performance, feed utilization, antioxidant activity, immunity, and gene expression in Nile tilapia (Oreochrom | Aquaculture
+- new | 2025 | 10.21608/epsj.2025.82534.1169 | article | " Effect of dietary supplementation of laurus nobilis leaves meal on growth performance and blood antioxidant status of growing rabbits" | Egyptian Poultry Science
+- new | 2025 | 10.21608/alexja.2025.411297.1160 | article | Molecular Characterization of Strawberry Mold and Antifungal Potential of Psidium guajava and Laurus nobilis Extracts for Post-Harvest Quality Preservation | Alexandria Journal of Agricultural Scien
+- new | 2025 | 10.47832/2717-8234.22.22 | article | INVESTIGATE THE INFLUENCE OF VARIOUS LAURUS NOBILIS EXTRACTS AT DIFFERENT TIME PERIODS ON SEVERAL BIOCHEMICAL INDICATORS IN EXPERIMENTAL RATS INDUCED BY DIABETES | MINAR International Journal of Applied S
+- new | 2025 | https://openalex.org/W7220090996 | article | "THE HYPOTENSIVE EFFECTS OF MEDICINAL PLANTS IN HYPERTENSION AND CLINICAL OBSERVATION RESULTS (BASED ON BAY LEAF EXAMPLE)". | Journal of Multidisciplinary Sciences an
+- new | 2025 | 10.3390/f16010157 | article | First Record of the Ambrosia Beetle Xylosandrus compactus (Coleoptera, Curculionidae) in Croatia | Forests
+- new | 2024 | 10.51745/najfnr.8.17.86-98 | article | Randomized, placebo-controlled pilot study investigating the effects of Laurus nobilis tea on lipid profiles and oxidative stress biomarkers in healthy North African volunteers | The North African Journal of Food and Nu
+- new | 2024 | 10.1201/9781003573227-15 | book-chapter | Breeding Improvement of Laurus nobilis L. by Conventional and In Vitro Propagation Techniques | CRC Press eBooks
+- new | 2024 | 10.5424/fs/2024332-20854 | article | Implementing linear mixed effects models to enhance estimation of the dimensional stability of wood of Laurus nobilis L. | Forest Systems
+- new | 2024 | 10.29278/azd.1452082 | article | The Effect of Seed Pre-Treatments and Plant Growth Regulators on In Vitro Germination of Dormant Laurus nobilis L. Seeds | Akademik Ziraat Dergisi
+- new | 2024 | 10.35193/bseufbd.1407442 | article | Effects of Thin Cell Layer Technique and Nutrient Media Contents of Regeneration and Browning Characteristics of the Laurus nobilis L. Explants | Bilecik Şeyh Edebali Üniversitesi Fen Bi
+- new | 2024 | 10.3390/fermentation10080387 | article | The Impact of Varying Levels of Laurus nobilis Leaves as a Sustainable Feed Additive on Ruminal Fermentation: In Vitro Gas Production, Methane and Carbon Dioxide Emissions, and Rum | Fermentation
+- new | 2024 | 10.32441/kjps.08.01.p7 | article | HEAVY METALS DETECTION IN SOME TYPES OF HERBS USED IN MEDICAL TREATMENTS | Al-Kitab Journal for Pure Sciences
+- new | 2024 | 10.55041/ijsrem37055 | article | Traditional Herbal Drug Approach used in the Treatment of Asthma: A Review | INTERANTIONAL JOURNAL OF SCIENTIFIC RESE
+- new | 2024 | 10.30574/wjbphs.2024.18.2.0235 | article | Analysis of biological organic extract of plants in suppressing aphid (Myzus persicae) infestations | World Journal of Biology Pharmacy and He
+- new | 2023 | 10.30574/gscarr.2023.15.3.0272 | article | Effect of salinity on germination capacity of laurel (Laurus nobilis L.) | GSC Advanced Research and Reviews
+- new | 2023 | 10.36348/sijap.2023.v06i04.001 | article | Evaluation of the Effects of Extracts of Laurus nobilis on some Biochemical Parameters of Wistar Rats | Scholars International Journal of Anatom
+- new | 2023 | 10.1088/1755-1315/1252/1/012043 | conference-paper | Allelopathic Actions of Laurus nobilis on Seed Germination and Growth of Some Crop and Weed Species | IOP Conference Series Earth and Environm
+- new | 2023 | 10.15347/wjm/2023.002 | article | Extract of Laurus nobilis attenuates inflammation and epithelial ulcerations in an experimental model of inflammatory bowel disease | WikiJournal of Medicine
+- new | 2023 | 10.53555/jrtdd.v6i7s.2711 | article | Study Of Medicinal Plant-Based Anti-Stress Herbal Tea On Prediabetic Women: Randomized Controlled Trial | Journal for ReAttach Therapy and Develop
+- new | 2023 | 10.1088/1755-1315/1215/1/012057 | conference-paper | Antibacterial Efficacy and Molecular Docking of Leaf Extract of Laurus nobilis L Against some Isolated Pathogenic UTI Bacteria | IOP Conference Series Earth and Environm
+- new | 2023 | 10.21608/epsj.2023.332524 | article | NUTRITIONAL EFFECTS OF LAURUS NOBILIS LEAF MEAL ON GROWTH PERFORMANCE, CARCASS CRITERIA AND SOME BLOOD PARAMETERS OF GROWING DANDARAWI CHICKS | Egyptian Poultry Science
+- new | 2023 | 10.12681/jhvms.29936 | article | The effects of laurel (Laurus nobilis L.) leaf powder supplementation on performance, carcass characteristics, meat lipid oxidation and some blood parameters of broiler chicks | Journal of the Hellenic Veterinary Medic
+- new | 2022 | 10.1080/10496475.2022.2087819 | article | Protective Effects of Aqueous Extract of Bay Leaf (Laurus Nobilis) on Endotoxin-Induced Oxidative Stress in Rabbits | Journal of Herbs Spices & Medicinal Plan
+- new | 2021 | 10.33706/jemcr.972191 | article | Hepatotoxicity caused by bay leaf (Laurus nobilis): A case report | Journal of Emergency Medicine Case Repor
+- new | 2021 | 10.4025/actascianimsci.v43i1.52198 | article | Highly effective dietary inclusion of laurel (Laurus nobilis) leaves on productive traits of broiler chickens | Acta Scientiarum Animal Sciences
+- new | 2021 | 10.1088/1755-1315/761/1/012104 | conference-paper | Effect of adding different level of Bay laurel (Laurus nobilis L.) powder to diet on productive performance and some physiological traits for female Quail | IOP Conference Series Earth and Environm
+- new | 2021 | 10.21608/epsj.2021.195784 | article | EFFECT OF DIETARY SUPPLEMENTATION OF LAURUS NOBILIS LEAVES MEAL ON GROWTH PERFORMANCE, CARCASS TRAITS AND BLOOD ANTIOXIDANT STATUS OF GROWING NZW RABBITS | Egyptian Poultry Science
+- new | 2021 | 10.1097/nt.0000000000000493 | article | Bay Leaf: Potential Health Benefits | Nutrition Today
+- new | 2020 | 10.21203/rs.3.rs-28846/v1 | preprint | Evaluation of Impact of Daily Laurus Nobilis Tea Consumption on the Lipid Profile and on the Increased Anti-Oxidant Activity In Healthy Volunteers | Research Square
+- new | 2020 | 10.21203/rs.3.rs-28846/v2 | preprint | Evaluation of impact of daily Laurus nobilis tea consumption on the lipid profile and on the increased anti-oxidant activity in healthy volunteers | Research Square
+- new | 2020 | 10.1016/j.livsci.2020.104301 | article | Dietary effect of dried bay leaves (Laurus nobilis) meal on selected productive performances and on quality meat traits in growing rabbits | Livestock Science
+- new | 2020 | https://openalex.org/W3012032991 | article | Effect of adding different levels of crushed laurel leaves ( Laurus nobilis ) to the diet of broiler chickens on some physiological blood traits | Eurasian Journal of Biosciences
+- new | 2020 | https://openalex.org/W3010831365 | article | Effect of adding different levels of crushed laurel leaves ( Laurus nobilis ) to the diet on some blood parameters for broiler chickens | Eurasian Journal of Biosciences
+- new | 2020 | https://openalex.org/W3010863322 | article | Response of immune system and microbial content of gut to feeding with different levels of crushed laurel leaves ( Laurus nobilis ) in broiler chickens | Eurasian Journal of Biosciences
+- new | 2019 | 10.15666/aeer/1703_59535964 | article | POTENTIAL OF FLOW CYTOMETRY IN SEX DETERMINATION AND IN VITRO MICROPROPAGATION OF LAURUS NOBILIS L. | Applied Ecology and Environmental Resear
+- new | 2019 | https://openalex.org/W3084233846 | dissertation | Linking Culture Chemistry To Isolation Success And Microbial Inhibition Potential Of Microbial Symbionts From Laurus Nobilis | UA Campus Repository (The University of 
+- new | 2019 | https://openalex.org/W7216623179 | article | EFEITO ALELOPÁTICO DE Plectranthus neochilus Schltr E Laurus nobilis L. NA GERMINAÇÃO DE SEMENTES DE Abelmoschus esculentus (L). Moench | SaBios-Revista de Saúde e Biologia
+- new | 2019 | 10.4081/jae.2019.889 | article | Noise attenuation provided by hedges | Journal of Agricultural Engineering
+- new | 2019 | 10.7719/jpair.v35i1.654 | article | Development of Chalk from Selected Herbs as Cockroach (Periplaneta americana) Repellents | JPAIR Multidisciplinary Research
+- new | 2018 | 10.1080/0972060x.2017.1417060 | article | Determination of the Essential Oil Composition and the Antifungal Activities of Bilberry (Vaccinium myrtillus L.) and Bay Laurel (Laurus nobilis L.) | Journal of Essential Oil Bearing Plants
+- new | 2018 | 10.17582/journal.pjz/2018.50.3.1087.1096 | article | Effect of Essential Oil of Laurel (Laurus nobilis L.) on Performance, Blood and Fecal Parameters of Holstein Calves during Suckling Period | Pakistan Journal of Zoology
+- new | 2018 | 10.25271/sjuoz.2018.6.3.513 | article | Kinetic Study of Adsorption of Hexavalent Chromium in Aqueous Solution using Bay Leaf (Laurus Nobilis) as New Bio-Adsorbent | Science Journal of University of Zakho
+- new | 2018 | 10.17485/ijst/2018/v11i37/130988 | article | Effect of Bay Laurel (Laurus nobilis L.) Leaf Powder Dietary Supplementation on Dressing Percent, Carcass Traits, Carcass Cuts and Some Internal Organs of Quail | Indian Journal of Science and Technology
+- new | 2017 | 10.29076/issn.2528-7737vol10iss24.2017pp46-50p | article | Evaluación de la capacidad antimicrobiana de las hojas de Laurusnobilis y Thymusvulgaris.// Evaluation of the antimicrobial capacity of the leaves of Laurus nobilis and Thymus vulg | Ciencia Unemi
+- new | 2013 | 10.1080/03235408.2013.774526 | article | Contact toxicity ofAzadirachta indica(Adr. Juss.),Eucalyptus camaldulensis(Dehn.) andLaurus nobilis(L.) essential oils on mortality cotton aphids,Aphis gossypiiGlover (Hem.: Aphidi | Archives of Phytopathology and Plant Pro
+- new | 2012 | 10.1016/j.jbiotec.2012.06.006 | erratum | Erratum to “Lead phytoremediation: a field application in a Site of National Interest” [J. Biotechnol. 150S (2010) S287] | Journal of Biotechnology
+- new | 2011 | 10.29252/jnkums.3.2.81 | article | Antidiabetic effect of Laurus nobilis hydroalcoholic extract in rat | Journal of North Khorasan University of 
+- new | 2011 | 10.3923/rjmp.2011.471.476 | article | Effects of Bay Leaves on the Patients with Diabetes Mellitus | Research Journal of Medicinal Plant
+- new | 2011 | 10.3923/javaa.2011.1883.1889 | article | Bay Laurel (Laurus nobilis L.) in Japanese Quails Feeding 1. Performance and Egg Quality Parameters | Journal of Animal and Veterinary Advance
+- new | 2010 | 10.1016/j.jbiotec.2010.09.803 | conference-abstract | Bioremedation and phytoremedation: Synergism in lead extraction from contamined soils | Journal of Biotechnology
+- new | 2008 | 10.1007/978-1-4020-6955-0_6 | book-chapter | Bioactive Turkish Plant Extracts and Their Constituents | Springer eBooks
+- new | 2007 | 10.1096/fasebj.21.6.lb46-d | conference-abstract | Bay leaves improve glucose and lipid profile of people with type 2 diabetes mellitus | The FASEB Journal
+- new | 2003 | 10.7764/rcia.v30i3.271 | article | Control of Sitophilus zeamais (Coleoptera: Curculionidae) with vegetable powders used singly and mixed with calcium carbonate in stored corn. | International Journal of Agriculture and
+- new | 2002 | 10.1300/j044v09n02_15 | article | Breeding Improvement ofLaurus nobilisL. by Conventional andIn VitroPropagation Techniques | Journal of Herbs Spices & Medicinal Plan
+- new | 1983 | 10.1001/jama.249.6.729 | article |  | JAMA
+- new | 1974 | 10.1001/archderm.1974.01630120089026 | article | Cross-Sensitization Between Frullania and Laurus nobilis: The Allergen Laurel | Archives of Dermatology
+
+## lavandula-angustifolia (Lavandula angustifolia) - name clause: "Lavandula angustifolia"[tiab] OR "Lavandula officinalis"[tiab] OR "Silexan"[tiab] OR "lavender"[ti]
+
+### PubMed HT - 347 hits, 200 not already listed above, 185 new
+- HELD REF-3614 | 2026 | 40600743 | Systematic Review/Meta-Analysis | The Sleep-Enhancing Effect of Lavender Essential Oil in Adults: A Systematic Review and Meta-Analysis. | Holist Nurs Pract
+- new | 2026 | 40788541 | Systematic Review/Network Meta-Analysis/Comparative Study | Comparative efficacy and acceptability of anxiolytic drugs for the treatment of anxiety disorders: a systematic review and network meta-analysis. | Eur Arch Psychiatry Clin Neurosci
+- new | 2026 | 41736003 | Clinical Trial Protocol | The Silexan in the Treatment Of Posttraumatic stress disorder (STOP) trial: protocol for a 12-week randomised controlled trial of adjunctive Silexan for PTSD. | BMC Complement Med Ther
+- new | 2026 | 41076308 | Randomized Controlled Trial/Comparative Study | Comparative Effects of Lavender Aromatherapy and Nature Sounds on Anxiety and Pain in Cataract Surgery Patients: A Randomized Controlled Trial. | J Integr Complement Med
+- new | 2026 | 41579454 | Randomized Controlled Trial | The effect of lavender herbal tea on the mental health of individuals with misophonia: A randomized controlled trial. | J Psychiatr Res
+- new | 2026 | 41084264 | Review | Effect of Lavender Essential Oil-based Aromatherapy on Anxiety: An Overview of Results of Recent Randomized Controlled Trials. | Curr Pharm Des
+- new | 2026 | 42550483 | Randomized Controlled Trial | Effects of lavender oil preparation silexan on different symptoms of major depression - results from a randomized, controlled trial. | Int J Neuropsychopharmacol
+- new | 2025 | 39453446 | Review | Silexan in anxiety, depression, and related disorders: pharmacological background and clinical data. | Eur Arch Psychiatry Clin Neurosci
+- HELD REF-3616 | 2025 | 40187937 | Research Support, Non-U.S. Gov't/Systematic Review | Inhalation Aromatherapy With Lavender for Postoperative Pain Management: A Systematic Review of Randomized Controlled Trials. | Pain Manag Nurs
+- new | 2025 | 40653563 | Randomized Controlled Trial | Effect of aromatherapy massage with lavender essential oil on sleep quality, pain, and mental and psychiatric disorders among breast cancer patients undergoing chemotherapy: a rand | Support Care Cancer
+- new | 2025 | 41114802 | Letter/Comment | Letter to the editor: Methodological comments to "Effect of aromatherapy massage with lavender essential oil on sleep quality, pain, and mental and psychiatric disorders among brea | Support Care Cancer
+- new | 2025 | 39775962 | Randomized Controlled Trial | The efficacy of lavender oil on fatigue and sleep quality in patients with hematological malignancy receiving chemotherapy: a single-blind randomized controlled trial. | Support Care Cancer
+- new | 2025 | 40378898 | Randomized Controlled Trial | The impact of aromatherapy with Citrus bergamia- Lavandula angustifolia essential oil and/or mindfulness-based therapy on postmenopausal health: A factorial randomized controlled t | Complement Ther Med
+- new | 2025 | 41177368 | Randomized Controlled Trial | Short- and long-term effects of inhaled lavender essential oil on anxiety, fatigue, blood pressure, and sleep quality in middle-aged adults with hypertension: A randomized placebo- | Complement Ther Med
+- HELD REF-3612 | 2025 | 38558147 | Randomized Controlled Trial | Lavender oil preparation Silexan is effective in mild-to-moderate major depression: a randomized, placebo- and reference-controlled trial. | Eur Arch Psychiatry Clin Neurosci
+- new | 2025 | 40345901 | Letter | Letter to the Editor on "The efficacy of oral Lavandula angustifolia Mill. essential oil on menopausal symptoms, serum lipid profile, and cortisol concentration in postmenopausal w | Complement Ther Med
+- new | 2025 | 40300466 | Letter | Response to letter to the editor on: "The efficacy of oral Lavandula angustifolia Mill. essential oil on menopausal symptoms, serum lipid profile, and cortisol concentration in pos | Complement Ther Med
+- new | 2025 | 40832605 |  | Effects of lavender essential oil inhalation aromatherapy on postoperative sleep quality in patients with intracranial tumors: a randomized controlled trial. | Front Pharmacol
+- new | 2025 | 41623781 |  | Ylang-ylang and lavender aromatherapy for paediatric dental anxiety: A randomized control trial in first restorative appointment. | Bioinformation
+- new | 2025 | 40256221 | Review | A systematic review on the use of phytotherapy in managing clinical depression. | Bioimpacts
+- new | 2025 | 40556871 |  | Long-lasting effects of lavender exposure on brain resting-state networks in healthy women. | Front Neurosci
+- new | 2025 | 41060468 | Letter/Comment | Comments on effect of aromatherapy massage with lavender essential oil on sleep quality, pain, and mental and psychiatric disorders among breast cancer patients undergoing chemothe | Support Care Cancer
+- new | 2025 | 40288054 | Randomized Controlled Trial | The effect of lavender oil on anxiety before endoscopy in children: A randomized controlled trial. | J Pediatr Nurs
+- new | 2025 | 40795547 | Randomized Controlled Trial | The effect of lavender essential oil aromatherapy on anxiety and fatigue in patients with implantable cardioverter defibrillator: randomized controlled trial. | Explore (NY)
+- new | 2025 | 40192256 | Randomized Controlled Trial/Comparative Study | Efficacy of Lavender Oil as an Adjunctive Treatment for Patients with Osteoarthritis: A Randomized, Double-Blind, Placebo-Controlled Trial. | J Pain Palliat Care Pharmacother
+- new | 2025 | 40154579 | Randomized Controlled Trial | Effect of aromatherapy with peppermint, ginger, and lavender on postoperative nausea severity after oral surgery under general anaesthesia: A single-blind randomized controlled tri | Complement Ther Med
+- new | 2025 | 39503638 | Randomized Controlled Trial | The Effects of Lavender and Rosemary Extracts on Sore Throat and Hoarseness After Endotracheal Intubation in Patients Undergoing Percutaneous Nephrolithotomy: A Randomized Clinical | J Perianesth Nurs
+- new | 2025 | 39917122 |  | The Combined Effects of Cold Foot Bath and Lavender Oil Inhalation on Autonomic Variables in Healthy Volunteers: A Randomized Controlled Trial. | Cureus
+- new | 2025 | 40654405 |  | The effects of lavender, chamomile and peppermint inhalation aromatherapy on dental anxiety in children: A randomized controlled trial. | J Dent Sci
+- new | 2025 | 41311605 |  | Compare the Effect of Aromatherapy with Lavender and Valerian Essential Oil on Headache Caused by Nitroglycerin Infusion, Vital Signs, and Narcotic Use in Patients with Coronary Ar | Iran J Nurs Midwifery Res
+- new | 2025 | 40000146 | Retraction Notice | RETRACTION: Effects of Aromatherapy With Rosa Damascene and Lavender on Pain and Anxiety of Burn Patients: A Systematic Review and Meta-Analysis. | Int Wound J
+- new | 2025 | 40012817 |  | The Effects of Aromatherapy With Clove and Lavender on Headache Caused by Spinal Anesthesia in Patients Undergoing Urological Surgery: A Randomized Clinical Trial Study. | Health Sci Rep
+- new | 2025 | 40981164 | Randomized Controlled Trial | Lavender-Neroli Aromatherapy for Reducing Dental Anxiety and Pain in Children During Anesthesia: A Two-Arm Randomized Controlled Trial. | Med Sci (Basel)
+- new | 2024 | 39400653 | Randomized Controlled Trial | Aromatherapy Using Lavender Oil Effectiveness on Pain and Anxiety After C-Section: A Randomized Controlled Trial. | J Epidemiol Glob Health
+- new | 2024 | 39717381 | Systematic Review | Phytochemicals in the treatment of patients with depression: a systemic review. | Front Psychiatry
+- new | 2024 | 39047346 | Randomized Controlled Trial | The effect of lavender and rosemary aromatherapy application on cognitive functions, anxiety, and sleep quality in the elderly with diabetes. | Explore (NY)
+- new | 2024 | 38241803 | Randomized Controlled Trial | Effects of lavender essential oil inhalation aromatherapy on depression and sleep quality in stroke patients: A single-blind randomized controlled trial. | Complement Ther Clin Pract
+- new | 2024 | 39284754 | Randomized Controlled Trial | The effect of lavender oil use on pain and comfort level in intramuscular injection administration: A single blind randomized controlled study. | J Tissue Viability
+- new | 2024 | 40259958 |  | The adjuvant therapy of edible herbal product including colchicum bulb, olive leaf, black cumin seeds, lavender flower, and ginger rhizome on the outcome of patients with severe an | Avicenna J Phytomed
+- new | 2024 | 39154289 |  | Real-world outcomes of long-term use of silexan in patients with anxiety disorders: a single-centre experience. | Int J Psychiatry Clin Pract
+- new | 2024 | 38267936 | Randomized Controlled Trial | Alleviating effect of lavender (Lavandula angustifolia) and its major components on postherpetic pain: a randomized blinded controlled trial. | BMC Complement Med Ther
+- new | 2024 | 38919308 | Review | Effect of Lavender Aromatherapy on Anxiety and Fatigue in Hemodialysis Patients: A Systematic Review and Meta-Analysis. | Iran J Public Health
+- new | 2024 | 38425206 | Review | Baseline symptom severity and efficacy of Silexan in patients with anxiety disorders: A symptom-based, patient-level analysis of randomized, placebo-controlled trials. | Eur Psychiatry
+- new | 2024 | 39685078 | Review | Efficacy of Lavender Essential Oil in Reducing Stress, Insomnia, and Anxiety in Pregnant Women: A Systematic Review. | Healthcare (Basel)
+- new | 2024 | 39267900 |  | Effect of Lavender Oil Leg Massage on Physical, Cognitive, and Psychological Variables of Patients with Hypertension: A Randomized Controlled Trial. | Int J Ther Massage Bodywork
+- new | 2024 | 38022715 | Review | The Effect of Aromatherapy with Lavender on Pain of Needle Insertion and Severity of Restless Legs Syndrome in Hemodialysis Patients; a Systematic Review and Meta-analysis. | Arch Acad Emerg Med
+- new | 2024 | 37931721 | Randomized Controlled Trial | Lavender and metformin effectively propagate progesterone levels in patients with polycystic ovary syndrome: A randomized, double-blind clinical trial. | Fitoterapia
+- new | 2024 | 38754638 | Randomized Controlled Trial | The efficacy of oral Lavandula angustifolia Mill. essential oil on menopausal symptoms, serum lipid profile, and cortisol concentration in postmenopausal women: A triple-blind, ran | Complement Ther Med
+- new | 2024 | 38087747 | Randomized Controlled Trial | Effect of Lavandula angustifolia and Cananga odorata on decrease of blood pressure in high blood pressure volunteers: A randomized controlled trial. | Explore (NY)
+- new | 2024 | 38253777 |  | Investigation of The Alleviating Effect of Liquid Seaweed Fertilizer on Lavandula officinalis under Salt Stress. | Environ Monit Assess
+- new | 2024 | 38016202 | Randomized Controlled Trial | Effects of lavender oil on odor elimination, ostomy adjustment and quality of life in patients with permanent colostomy: A randomized controlled trial. | Eur J Oncol Nurs
+- new | 2024 | 38036371 | Randomized Controlled Trial | The effect of the hand massage using baby oil with lavender application on the procedural pain and state anxiety of women undergoing brachytherapy: A parallel-group randomized cont | Explore (NY)
+- new | 2024 | 38842713 | Randomized Controlled Trial | The Effect of Aromatherapy with Lavender Essential Oil on the Sleep and Fatigue Level of Patients with Multiple Sclerosis in Turkey: A Randomized Controlled Trial. | Niger J Clin Pract
+- new | 2024 | 39113957 |  | Evaluation of lavender and rose aromatherapies on the success of inferior alveolar nerve block in symptomatic irreversible pulpitis: A randomized clinical trial. | Heliyon
+- new | 2024 | 39214150 | Randomized Controlled Trial/Comparative Study/Research Support, Non-U.S. Gov't | Comparing the Effects of Lavender Aromatherapy and Mindfulness-Based Cognitive Therapy on Sexual Function in Women in Iran. | Nurs Womens Health
+- new | 2024 | 38502819 | Randomized Controlled Trial | Use of a Combination Lavender/Peppermint Aromatherapy Patch During Port Catheter Placement Under Monitored Anesthesia Care Does Not Reduce Time to Discharge Readiness: A Randomized | J Integr Complement Med
+- new | 2024 | 33534425 |  | The Effect of Lavender Aromatherapy on Heart Rate, Blood Pressure, and Perceived Stress Among Cardiac Rehabilitation Patients: A Pilot Study. | Holist Nurs Pract
+- new | 2024 | 38459484 | Randomized Controlled Trial | The effect of lavender on mood disorders associated with the use of combined oral contraceptives (COCs): a triple-blinded randomized controlled trial. | BMC Complement Med Ther
+- new | 2024 | 38490827 | Randomized Controlled Trial | The effect of lavender and bergamot oil applied via inhalation on the anxiety level and sleep quality of surgical intensive care unit patients. | Explore (NY)
+- new | 2024 | 37495431 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of a lavender essential oil and sleep hygiene protocol on insomnia in postmenopausal women: A pilot randomized clinical trial. | Explore (NY)
+- new | 2024 | 38286818 |  | The effect of aromatherapy with Lavender-Neroli oil and music in management of pediatric dental anxiety: a randomized control trial. | BDJ Open
+- new | 2023 | 35987683 | Randomized Controlled Trial | Determining the effect of inhalation and lavender essential oil massage therapy on the severity of perceived labor pain in primiparous women: A randomized controlled trial. | Explore (NY)
+- HELD REF-0857 | 2023 | 37325306 | Systematic Review/Research Support, Non-U.S. Gov't/Network Meta-Analysis | Essential oils for treating anxiety: a systematic review of randomized controlled trials and network meta-analysis. | Front Public Health
+- HELD REF-3611 | 2023 | 35262795 | Meta-Analysis | Beneficial effects of Silexan on co-occurring depressive symptoms in patients with subthreshold anxiety and anxiety disorders: randomized, placebo-controlled trials revisited. | Eur Arch Psychiatry Clin Neurosci
+- HELD REF-2531 | 2023 | 36717399 | Meta-Analysis | Efficacy of Silexan in patients with anxiety disorders: a meta-analysis of randomized, placebo-controlled trials. | Eur Arch Psychiatry Clin Neurosci
+- HELD REF-2212 | 2023 | 34420270 | Review | Efficacy and tolerability of Lavandula angustifolia in treating patients with the diagnosis of depression: a systematic review of randomized controlled trials. | J Complement Integr Med
+- new | 2023 | 35703289 |  | The Effects of Inhalational Lavender Essential Oil Aromatherapy on Sleep Quality in Hemodialysis Patients: A Before-and-After-Intervention Trial. | Holist Nurs Pract
+- new | 2023 | 35987997 | Randomized Controlled Trial | The Effect of Lavender on Anxiety and Hemodynamic Status Before Septorhinoplasy and Rhinoplasty. | J Perianesth Nurs
+- new | 2023 | 32893748 | Randomized Controlled Trial | A novel treatment modality for myogenous temporomandibular disorders using aromatherapy massage with lavender oil: A randomized controlled clinical trial. | Cranio
+- new | 2023 | 36646611 | Randomized Controlled Trial | Effects of rose and lavender scents on nurses' job stress: A randomized controlled trial. | Explore (NY)
+- SEEN | 2023 | 36651329 | Meta-Analysis/Systematic Review/Retracted Publication | Effects of aromatherapy with Rosa damascene and lavender on pain and anxiety of burn patients: A systematic review and meta-analysis. | Int Wound J
+- new | 2023 | 36306254 |  | Effect of lavender and rosemary aromatherapy on test anxiety in chiropractic students. | J Chiropr Educ
+- new | 2023 | 37098173 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The immediate effects of lavender-based essential oil inhalation on subsequent polysomnography in people with poor sleep quality. | J Chin Med Assoc
+- new | 2023 | 37494903 | Randomized Controlled Trial | The Use of Lavender Aromatherapy for Pain After Total Hip and Total Knee Arthroplasty: A Randomized Trial. | Orthop Nurs
+- new | 2023 | 36058824 | Randomized Controlled Trial | "Effects of abdominal massage applied with ginger and lavender oil for elderly with constipation: A randomized controlled trial". | Explore (NY)
+- new | 2023 | 34396816 | Randomized Controlled Trial | Effect of inhaler and topical lavender oil on pain management of arteriovenous fistula cannulation. | J Vasc Access
+- new | 2023 | 37289849 | Randomized Controlled Trial | The Effect of Precolonoscopy Lavender Inhalation on Patient Anxiety and Comfort: A Randomized, Controlled, Double-Blinded, Single-Center Study. | Gastroenterol Nurs
+- new | 2023 | 35212648 | Randomized Controlled Trial | Effects of Long-term Administration of Inhaled Lavender During Hemodialysis on Patients' Invasive Pain, Anxiety, and Comfort During Cannulation: A Single-blind Randomized Controlle | Altern Ther Health Med
+- new | 2023 | 37663382 |  | Lavender (Lavandula angustifolia) syrup as an adjunct to standard care in patients with mild to moderate COVID-19: An open-label, randomized, controlled clinical trial. | Avicenna J Phytomed
+- new | 2023 | 37932761 | Clinical Trial Protocol | The effect of lavender aroma for anxiety disorder: a study protocol for a multicenter, double-masked, randomized, placebo-controlled clinical trial. | BMC Complement Med Ther
+- new | 2023 | 38343757 |  | The Role of Inhalation Aromatherapy, Lavender and Peppermint in the Management of Perioperative Pain and Opioid Consumption Following Primary Unilateral Total Hip Arthroplasty: A P | J Pain Relief
+- new | 2023 | 38162239 |  | Comparative Evaluation between Lavender Essential Oil and Patchouli Essential Oil in Aromatherapy and Its Effect on Dental Anxiety in Children. | Int J Clin Pediatr Dent
+- new | 2023 | 36270928 | Randomized Controlled Trial | The effect of a combined treatment of foot soak and lavender oil inhalation therapy on the severity of insomnia of patients with cancer: Randomized interventional study. | Explore (NY)
+- new | 2023 | 36476355 | Randomized Controlled Trial | The effect of lavender aromatherapy on the level of intraoperative anxiety in caesarean case under spinal anesthesia: A randomized controlled trial. | Explore (NY)
+- new | 2023 | 37635603 | Randomized Controlled Trial | Effectiveness of cold application and lavender oil on pain during drain removal: A randomized clinical trial. | Niger J Clin Pract
+- HELD REF-2546 | 2022 | 35378276 | Systematic Review/Research Support, Non-U.S. Gov't/Network Meta-Analysis | Medicinal herbs for the treatment of anxiety: A systematic review and network meta-analysis. | Pharmacol Res
+- new | 2022 | 35708558 | Systematic Review | The Effect of Lavender on Sleep Quality in Individuals Without Insomnia: A Systematic Review. | Holist Nurs Pract
+- new | 2022 | 33454232 | Randomized Controlled Trial | The effects of Lavender and Chamomile essential oil inhalation aromatherapy on depression, anxiety and stress in older community-dwelling people: A randomized controlled trial. | Explore (NY)
+- new | 2022 | 36259937 | Meta-Analysis/Review | Effect of anxiolytic drug silexan on sleep - a narrative review. | World J Biol Psychiatry
+- new | 2022 | 35462027 | Systematic Review | A systematic review of the effect of lavender on cancer complications. | Complement Ther Med
+- new | 2022 | 35803088 | Randomized Controlled Trial | Lavender improves fatigue symptoms in multiple sclerosis patients: A double-blind, randomized controlled trial. | Mult Scler Relat Disord
+- new | 2022 | 35166248 |  | Evaluation of the Effect of Lavender Aroma on Fatigue Among Hemodialysis Patients. | Holist Nurs Pract
+- new | 2022 | 36350922 | Retraction Notice | Statement of Retraction: Lavender-thymol as a new topical aromatherapy preparation for episiotomy: A randomised clinical trial. | J Obstet Gynaecol
+- new | 2022 | 35202019 | Randomized Controlled Trial | A Pilot Randomized Control Trial to Assess the Impact of Lavender on Anxiety and Comfort After Cesarean Birth and the Barriers Encountered. | MCN Am J Matern Child Nurs
+- SEEN | 2022 | 33245709 | Randomized Controlled Trial | Effects of Aromatherapy with Lavender (Lavandula angustifolia MILL) on Post-Dural Puncture Headache: A Randomized Placebo-Controlled Trial. | Altern Ther Health Med
+- new | 2022 | 33305625 | Randomized Controlled Trial | Comparing the effects of vestibular rehabilitation with and without lavender oil scents as an olfactory stimulus on balance, fear of falling down and activities of daily living of  | Disabil Rehabil
+- new | 2022 | 36945997 | Randomized Controlled Trial | The effect of topically administered lavender aromatherapy on the pain of insulin injection in diabetic patients: a double-blind randomized controlled clinical trial. | Turk J Med Sci
+- new | 2022 | 35085018 | Randomized Controlled Trial | Efficacy of Auricular Acupuncture and Lavender Oil Aromatherapy in Reducing Preinterventional Anxiety in Cardiovascular Patients: A Randomized Single-Blind Placebo-Controlled Trial | J Integr Complement Med
+- new | 2022 | 34736874 | Randomized Controlled Trial | The effects of lavender, rosemary and orange essential oils on memory problems and medication adherence among patients undergoing hemodialysis: A parallel randomized controlled tri | Explore (NY)
+- new | 2022 | 35202010 | Randomized Controlled Trial | A Pilot Randomized Control Trial to Assess the Impact of Lavender on Anxiety and Comfort After Cesarean Birth and the Barriers Encountered. | MCN Am J Matern Child Nurs
+- new | 2022 | 36524136 |  | Effect of Aromatherapy with Essential oil of Lavandula Angustifolia Mill- Citrus Bergamia and Mindfulness-Based Intervention on Sexual Function, Anxiety, and Depression in Postmeno | Iran J Nurs Midwifery Res
+- new | 2022 | 35149233 | Research Support, Non-U.S. Gov't/Clinical Trial Protocol | Design and outcome measures of LAVENDER, a phase 3 study of trofinetide for Rett syndrome. | Contemp Clin Trials
+- new | 2022 | 36457653 |  | Effects of Aromatherapy With Citrus Aurantium Lavender on Sexual Function of Postmenopausal Women: A Randomized Controlled Trial. | J Family Reprod Health
+- new | 2022 | 35663791 |  | Prevalence of endocrine disorders among children exposed to Lavender Essential Oil and Tea Tree Essential Oils. | Int J Pediatr Adolesc Med
+- new | 2022 | 36076107 | Randomized Controlled Trial | Comparison of the analgesic effect of inhaled lavender vs vanilla essential oil for neonatal frenotomy: a randomized clinical trial (NCT04867824). | Eur J Pediatr
+- new | 2022 | 35027302 | Randomized Controlled Trial | Effectiveness of aromatherapy with inhaled lavender essential oil and breathing exercises on ECT-related anxiety in depressed patients. | Explore (NY)
+- HELD REF-3610 | 2021 | 34775136 | Meta-Analysis/Systematic Review | Effects of Lavender on Anxiety, Depression, and Physiological Parameters: Systematic Review and Meta-Analysis. | Asian Nurs Res (Korean Soc Nurs Sci)
+- HELD REF-0858 | 2021 | 33905827 | Randomized Controlled Trial | Lavender essential oil on postmenopausal women with insomnia: Double-blind randomized trial. | Complement Ther Med
+- new | 2021 | 33259721 | Randomized Controlled Trial | Pain Control with Lavender Oil in Premature Infants: A Double-Blind Randomized Controlled Study. | J Altern Complement Med
+- new | 2021 | 33548936 | Randomized Controlled Trial | The Effect of Lavender Oil on Perioperative Pain, Anxiety, Depression, and Sleep after Microvascular Breast Reconstruction: A Prospective, Single-Blinded, Randomized, Controlled Tr | J Reconstr Microsurg
+- new | 2021 | 33516726 | Randomized Controlled Trial | Effects of lavender and Citrus aurantium on pain of conscious intensive care unit patients: A parallel randomized placebo-controlled trial. | J Integr Med
+- new | 2021 | 34229085 | Randomized Controlled Trial | Effectiveness of lavender inhalation aromatherapy on pain level and vital signs in children with burns: a randomized controlled trial. | Complement Ther Med
+- new | 2021 | 33638614 | Meta-Analysis/Review | Therapeutic effects of Silexan on somatic symptoms and physical health in patients with anxiety disorders: A meta-analysis. | Brain Behav
+- new | 2021 | 33221027 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Silexan does not affect driving performance after single and multiple dose applications: Results from a double-blind, placebo and reference-controlled study in healthy volunteers. | J Psychiatr Res
+- new | 2021 | 33549687 | Meta-Analysis/Systematic Review | The antidepressant effects of lavender (Lavandula angustifolia Mill.): A systematic review and meta-analysis of randomized controlled clinical trials. | Complement Ther Med
+- new | 2021 | 33626029 | Randomized Controlled Trial | Lavender Aromatherapy for Anxiety and Pain During Multichannel Urodynamics: A Randomized Controlled Pilot Trial. | Female Pelvic Med Reconstr Surg
+- new | 2021 | 34820153 |  | Lavender Aromatherapy to Reduce Anxiety During Intrauterine Insemination: A Randomized Controlled Trial. | Glob Adv Health Med
+- new | 2021 | 33500169 | Randomized Controlled Trial | Abdominal Surgical Patients Randomized to Aromatherapy for Pain Management. | J Perianesth Nurs
+- new | 2021 | 34984050 |  | Impact of Lavender on Pain and Anxiety Levels Associated With Spine Procedures. | Ochsner J
+- new | 2021 | 34168398 |  | Effect of Lavender Aromatherapy on Sleep Quality and Physiological Indicators in Patients after CABG Surgery: A Clinical Trial Study. | Indian J Crit Care Med
+- new | 2021 | 32798174 | Randomized Controlled Trial | Effects of lavender oil intervention before endoscopic retrograde cholangiopancreatography on patients' vital signs, pain and anxiety: A randomized controlled study. | Explore (NY)
+- new | 2021 | 34703485 |  | Comparison between the effect of aromatherapy with lavender and damask rose on sleep quality in patients undergoing coronary artery bypass graft surgery: A randomized clinical tria | ARYA Atheroscler
+- new | 2021 | 34547316 |  | Preparation, characterization, and application of polysaccharide-based emulsions incorporated with lavender essential oil for skin-friendly cellulosic support. | Int J Biol Macromol
+- new | 2021 | 32657903 | Randomized Controlled Trial | Effect of Massage With Lavender Oil on Postoperative Pain Level of Patients Who Underwent Gynecologic Surgery: A Randomized, Placebo-Controlled Study. | Holist Nurs Pract
+- new | 2021 | 33614252 |  | Development of a Positive Psychology Program (LAVENDER) for Preserving Medical Student Well-being: A Single-Arm Pilot Study. | Glob Adv Health Med
+- new | 2021 | 33640257 | Randomized Controlled Trial | Effect of Lavender Aromatherapy On Arteriovenous Fistula Puncture Pain and the Level of State and Trait Anxiety in Hemodialysis Patients: A Randomized Controlled Trial. | Pain Manag Nurs
+- new | 2021 | 33300578 | Clinical Trial, Phase I/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | No Abuse Potential of Silexan in Healthy Recreational Drug Users: A Randomized Controlled Trial. | Int J Neuropsychopharmacol
+- new | 2021 | 32889038 | Randomized Controlled Trial | The Effect of Aromatherapy Massage With Lavender and Citrus Aurantium Essential Oil on Quality of Life of Patients on Chronic Hemodialysis: A Parallel Randomized Clinical Trial Stu | J Pain Symptom Manage
+- new | 2021 | 34217127 | Randomized Controlled Trial | The effects of aromatherapy massage with lavender essential oil on neuropathic pain and quality of life in diabetic patients: A randomized clinical trial. | Complement Ther Clin Pract
+- new | 2020 | 31987569 | Randomized Controlled Trial | Effects of glycerin oil and lavender oil massages on hemodialysis patients' restless legs syndrome. | J Bodyw Mov Ther
+- HELD REF-3617 | 2020 | 33066851 | Systematic Review | The effect of Lavender on pain and healing of episiotomy: A systematic review. | Complement Ther Med
+- new | 2020 | 32308715 |  | Effects of Aromatherapy with Lavender and Peppermint Essential Oils on the Sleep Quality of Cancer Patients: A Randomized Controlled Trial. | Evid Based Complement Alternat Med
+- new | 2020 | 32379682 | Meta-Analysis/Systematic Review | Does aromatherapy with lavender affect physical and psychological symptoms of menopausal women? A systematic review and meta-analysis. | Complement Ther Clin Pract
+- new | 2020 | 32463382 | Randomized Controlled Trial | Comparison the effects of inhalation and massage aromatherapy with lavender and sweet orange on fatigue in hemodialysis patients: a randomized clinical trial. | J Complement Integr Med
+- new | 2020 | 32620104 | Comparative Study/Randomized Controlled Trial | A double-blind, randomized pilot study for comparison of Melissa officinalis L. and Lavandula angustifolia Mill. with Fluoxetine for the treatment of depression. | BMC Complement Med Ther
+- new | 2020 | 32002444 |  | A Feasibility Study of Lavender Aromatherapy in an Awake Craniotomy Environment. | J Patient Cent Res Rev
+- new | 2020 | 32709507 | Randomized Controlled Trial | The Effects of Inhalation Aromatherapy Using Lavender Essential Oil on Postoperative Pain of Inguinal Hernia: A Randomized Controlled Trial. | J Perianesth Nurs
+- new | 2020 | 32030454 | Randomized Controlled Trial | Can lavender oil inhalation help to overcome dental anxiety and pain in children? A randomized clinical trial. | Eur J Pediatr
+- new | 2020 | 32739466 | Randomized Controlled Trial | Lavender and dodder combined herbal syrup versus citalopram in major depressive disorder with anxious distress: A double-blind randomized trial. | J Integr Med
+- new | 2020 | 32341707 | Randomized Controlled Trial | The Effect of Music Therapy and Aromatherapy with Chamomile-Lavender Essential Oil on the Anxiety of Clinical Nurses: A Randomized and Double-Blind Clinical Trial. | J Med Life
+- new | 2020 | 32516765 | Controlled Clinical Trial | The Effect of Aromatherapy on Sleep and Quality of Life in Menopausal Women with Sleeping Problems: A Non-Randomized, Placebo-Controlled Trial. | Complement Med Res
+- new | 2020 | 32178950 | Randomized Controlled Trial | A Randomized Prospective Placebo-Controlled Study of the Effects of Lavender Aromatherapy on Preoperative Anxiety in Cataract Surgery Patients. | J Perianesth Nurs
+- new | 2019 | 31655395 | Meta-Analysis/Systematic Review | Effects of lavender on anxiety: A systematic review and meta-analysis. | Phytomedicine
+- new | 2019 | 29150713 | Meta-Analysis | Efficacy of Silexan in subthreshold anxiety: meta-analysis of randomised, placebo-controlled trials. | Eur Arch Psychiatry Clin Neurosci
+- new | 2019 | 31538981 |  | Lavender Aromatherapy: Examining the Effects of Lavender Oil Patches on Patients in the Hematology-Oncology Setting. | Clin J Oncol Nurs
+- new | 2019 | 31792285 | Comparative Study/Network Meta-Analysis/Systematic Review | Efficacy and safety of lavender essential oil (Silexan) capsules among patients suffering from anxiety disorders: A network meta-analysis. | Sci Rep
+- new | 2019 | 31003666 | Comparative Study/Randomized Controlled Trial | Comparing the effects of massage and aromatherapy massage with lavender oil on sleep quality of cardiac patients: A randomized controlled trial. | Complement Ther Clin Pract
+- new | 2019 | 31121394 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Beneficial effects of Silexan on sleep are mediated by its anxiolytic effect. | J Psychiatr Res
+- new | 2019 | 30903528 | Clinical Trial | Predictability of gastric intestinal metaplasia by patchy lavender color seen on linked color imaging endoscopy. | Lasers Med Sci
+- new | 2019 | 30957054 |  | Evaluation of aromatherapy with lavender oil on academic stress: A randomized placebo controlled clinical trial. | Contemp Clin Trials Commun
+- new | 2019 | 30670268 | Randomized Controlled Trial | A randomised controlled trial of Lavender (Lavandula Angustifolia) and Lemon Balm (Melissa Officinalis) essential oils for the treatment of agitated behaviour in older people with  | Complement Ther Med
+- new | 2019 | 31003654 | Randomized Controlled Trial | The effect of diluted lavender oil inhalation on pain development during vascular access among patients undergoing haemodialysis. | Complement Ther Clin Pract
+- HELD REF-3609 | 2019 | 31743795 | Meta-Analysis/Systematic Review | How Strong is the Evidence for the Anxiolytic Efficacy of Lavender?: Systematic Review and Meta-analysis of Randomized Controlled Trials. | Asian Nurs Res (Korean Soc Nurs Sci)
+- new | 2019 | 31505191 | Randomized Controlled Trial | Influence of lavender oil inhalation on vital signs and anxiety: A randomized clinical trial. | Physiol Behav
+- new | 2019 | 31476706 | Randomized Controlled Trial | Effects of lavender essential oil for colorectal cancer patients with permanent colostomy on elimination of odor, quality of life, and ostomy adjustment: A randomized controlled tr | Eur J Oncol Nurs
+- new | 2019 | 30660371 | Randomized Controlled Trial | Effect of Lavender Oil on the Anxiety of Patients Before Breast Surgery. | J Perianesth Nurs
+- new | 2019 | 30328781 |  | The Results of a Crossover Placebo-Controlled Study of the Effect of Lavender Oil on Behavioral and Psychological Symptoms of Dementia. | Rejuvenation Res
+- new | 2019 | 30712745 | Randomized Controlled Trial | Effect of lavender aromatherapy through inhalation on quality of life among postmenopausal women covered by a governmental health center in Isfahan, Iran: A single-blind clinical t | Complement Ther Clin Pract
+- new | 2019 | 30915309 |  | The Effect of Aromatherapy by Lavender Oil on Infant Vaccination Pain: a Double Blind Randomized Controlled Trial. | J Caring Sci
+- new | 2019 | 31574261 | Randomized Controlled Trial | Effect of Lavender Oil Inhalation on Reducing Presurgical Anxiety in Orthognathic Surgery Patients. | J Oral Maxillofac Surg
+- new | 2018 | 28511598 | Review | Silexan in anxiety disorders: Clinical data and pharmacological background. | World J Biol Psychiatry
+- new | 2018 | 29778129 | Randomized Controlled Trial | The Effect of Lavender Aromatherapy on the Symptoms of Menopause. | J Natl Med Assoc
+- new | 2018 | 29389470 | Review | Aromatherapy massage with lavender essential oil and the prevention of disability in ADL in patients with osteoarthritis of the knee: A randomized controlled clinical trial. | Complement Ther Clin Pract
+- new | 2018 | 29508154 | Systematic Review | Complementary and Alternative Medicine Treatments for Generalized Anxiety Disorder: Systematic Review and Meta-analysis of Randomized Controlled Trials. | Adv Ther
+- new | 2018 | 29565630 | Randomized Controlled Trial | Effectiveness of Aromatherapy Massage and Inhalation on Symptoms of Depression in Chinese Community-Dwelling Older Adults. | J Altern Complement Med
+- new | 2018 | 29547610 | Comparative Study/Randomized Controlled Trial | Aromatherapy: The Effect of Lavender on Anxiety and Sleep Quality in Patients Treated With Chemotherapy. | Clin J Oncol Nurs
+- new | 2018 | 30057057 |  | The effect of lavender oil on anxiety levels of patients before laparoscopic cholecystectomy. | Complement Ther Clin Pract
+- new | 2018 | 29787355 | Randomized Controlled Trial | Effect of Lavender cream with or without footbath on sleep quality and fatigue in pregnancy and postpartum: a randomized controlled trial. | Women Health
+- new | 2018 | 29705445 | Comparative Study/Randomized Controlled Trial | Comparison of the effect of lavender and bitter orange on anxiety in postmenopausal women: A triple-blind, randomized, controlled clinical trial. | Complement Ther Clin Pract
+- new | 2017 | 28779942 |  | Effect of inhalation aromatherapy with lavender essence on pain associated with intravenous catheter insertion in preschool children: A quasi-experimental study. | Complement Ther Clin Pract
+- new | 2017 | 28779939 | Randomized Controlled Trial | Effects of lavender scent on patients' anxiety and pain levels during gynecological examination. | Complement Ther Clin Pract
+- new | 2017 | 28319423 | Randomized Controlled Trial | Silexan does not cause withdrawal symptoms even when abruptly discontinued. | Int J Psychiatry Clin Pract
+- new | 2017 | 28379882 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Silexan in generalized anxiety disorder: investigation of the therapeutic dosage range in a pooled data set. | Int Clin Psychopharmacol
+- new | 2017 | 28892932 |  | Comparison of Effect of Lavandula officinalis and Venlafaxine in Treating Depression: A Double Blind Clinical Trial. | J Clin Diagn Res
+- new | 2017 | 28481623 | Randomized Controlled Trial | Does Japanese Citrus Fruit Yuzu (Citrus junos Sieb. ex Tanaka) Fragrance Have Lavender-Like Therapeutic Effects That Alleviate Premenstrual Emotional Symptoms? A Single-Blind Rando | J Altern Complement Med
+- new | 2017 | 28154606 |  | Lavandula angustifolia Mill. Oil and Its Active Constituent Linalyl Acetate Alleviate Pain and Urinary Residual Sense after Colorectal Cancer Surgery: A Randomised Controlled Trial | Evid Based Complement Alternat Med
+- new | 2016 | 26850806 | Randomized Controlled Trial | The use of aromasticks to help with sleep problems: A patient experience survey. | Complement Ther Clin Pract
+- new | 2016 | 30549622 |  | A Pilot Study on the Physiological Effects of Three Essential Oils in Humans. | Nat Prod Commun
+- new | 2016 | 27388435 | Randomized Controlled Trial | Effect of lavender aromatherapy on menopause hot flushing: A crossover randomized clinical trial. | J Chin Med Assoc
+- new | 2016 | 26718792 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy of Silexan in mixed anxiety-depression--A randomized, placebo-controlled trial. | Eur Neuropsychopharmacol
+- new | 2016 | 27863613 | Randomized Controlled Trial | Effect of aromatherapy massage with lavender essential oil on pain in patients with osteoarthritis of the knee: A randomized controlled clinical trial. | Complement Ther Clin Pract
+- new | 2016 | 27047319 |  | The effect of cold application and lavender oil inhalation in cardiac surgery patients undergoing chest tube removal. | EXCLI J
+- new | 2015 | 26107706 | Clinical Trial | [Massage with aromatherapy: effectiveness on anxiety of users with personality disorders in psychiatric hospitalization]. | Rev Esc Enferm USP [por]
+- new | 2015 | 26092515 |  | Phytopharmaceutical treatment of anxiety, depression, and dementia in the elderly: evidence from randomized, controlled clinical trials. | Wien Med Wochenschr
+- new | 2015 | 26051566 | Randomized Controlled Trial | The effect of topical application of lavender essential oil on the intensity of pain caused by the insertion of dialysis needles in hemodialysis patients: A randomized clinical tri | Complement Ther Med
+- new | 2015 | 26023343 |  | Lavender fragrance essential oil and the quality of sleep in postpartum women. | Iran Red Crescent Med J
+- new | 2015 | 25384116 | Randomized Controlled Trial/Retracted Publication | Lavender-thymol as a new topical aromatherapy preparation for episiotomy: A randomised clinical trial. | J Obstet Gynaecol
+- new | 2015 | 25821760 |  | Effect of Lavender Cream with or without Foot-bath on Anxiety, Stress and Depression in Pregnancy: a Randomized Placebo-Controlled Trial. | J Caring Sci
+- new | 2015 | 25895182 | Comment | [The effect of lavender on patients' anxiety with acute myocardial infarction]. | Pflege Z [ger]
+- new | 2014 | 24456909 | Comparative Study/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Lavender oil preparation Silexan is effective in generalized anxiety disorder--a randomized, double-blind comparison to placebo and paroxetine. | Int J Neuropsychopharmacol
+- new | 2013 | 23808618 | Review | An orally administered lavandula oil preparation (Silexan) for anxiety disorder and related conditions: an evidence based review. | Int J Psychiatry Clin Pract
+- new | 2013 | 23401474 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Drug cocktail interaction study on the effect of the orally administered lavender oil preparation silexan on cytochrome P450 enzymes in healthy volunteers. | Drug Metab Dispos
+- new | 2013 | 23932834 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Evaluation of the effect of aromatherapy with lavender essential oil on post-tonsillectomy pain in pediatric patients: a randomized controlled trial. | Int J Pediatr Otorhinolaryngol
+- new | 2012 | 22464012 | Meta-Analysis/Systematic Review | Is lavender an anxiolytic drug? A systematic review of randomised clinical trials. | Phytomedicine
+- new | 2010 | 19962288 | Comparative Study/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A multi-center, double-blind, randomised study of the Lavender oil preparation Silexan in comparison to Lorazepam for generalized anxiety disorder. | Phytomedicine
+- new | 2008 | 18317288 |  | The effect of essential oils on work-related stress in intensive care unit nurses. | Holist Nurs Pract
+- new | 2008 | 18635155 | Randomized Controlled Trial | Effect of lavender aroma on salivary endocrinological stress markers. | Arch Oral Biol
+- new | 2008 | 18713168 | Letter/Randomized Controlled Trial | Lavender aroma therapy for behavioral and psychological symptoms in dementia patients. | Geriatr Gerontol Int
+- new | 2006 | 30000925 | Review | Lavender. | 
+- HELD REF-0173 | 2003 | 12690999 | Clinical Trial/Randomized Controlled Trial | Aromas of rosemary and lavender essential oils differentially affect cognition and mood in healthy adults. | Int J Neurosci
+
+### PubMed SR - 58 hits, 27 not already listed above, 23 new
+- new | 2026 | 41257434 | Systematic Review/Research Support, Non-U.S. Gov't | Shrubs and trees as natural insect protection for grazing animals in Switzerland and the alpine region: A systematic review of in vitro, in vivo and clinical trials. | Med Vet Entomol
+- new | 2026 | 43077169 | Review | Valerian, chamomile, and lavender for insomnia and sleep disturbance: a narrative review of mechanisms, clinical efficacy, and safety. | Sleep Breath
+- new | 2026 | 43074177 | Systematic Review/Meta-Analysis/Review | Effects of Lavender Essential Oil on People With Sleep Disorders: A Systematic Review and Meta-Analysis. | Brain Behav
+- new | 2025 | 40917836 | Systematic Review | Evaluating efficacy, safety, and innovation in skin care applications of essential oils: a systematic review. | Front Med (Lausanne)
+- HELD REF-3615 | 2025 | 41057090 | Systematic Review/Meta-Analysis | A systematic review and meta-analysis of clinical trials on lavender for sleep disorders in older adults. | Exp Gerontol
+- new | 2024 | 37966400 | Meta-Analysis/Systematic Review | Effect of Lavender Oil on Preoperative Anxiety: Systematic Review and Meta-analysis. | J Perianesth Nurs
+- new | 2024 | 38843799 | Review | Flower Power: An Overview on Chemistry and Biological Impact of Selected Essential Oils from Blossoms. | Planta Med
+- new | 2023 | 37998470 | Review | Anxiety-Reducing Effects of Lavender Essential Oil Inhalation: A Systematic Review. | Healthcare (Basel)
+- new | 2023 | 37039741 | Systematic Review | Systematic review on the anxiolytic and hypnotic effects of flower extracts in in vivo pre-clinical studies published from 2010 to 2020. | Phytother Res
+- new | 2023 | 38130406 | Systematic Review | The antibacterial effectiveness of lavender essential oil against methicillin-resistant Staphylococcus aureus: a systematic review. | Front Pharmacol
+- HELD REF-2209 | 2023 | 37153408 | Scoping Review | Use of Lavandula angustifolia essential oil as a complementary therapy in adult health care: A scoping review. | Heliyon
+- new | 2023 | 35080353 | Review | The effect of lavender on mothers sleep quality in the postpartum period: a systematic review and meta-analysis. | J Complement Integr Med
+- HELD REF-3613 | 2022 | 35429599 | Meta-Analysis/Systematic Review | The effect of lavender on stress in individuals: A systematic review and meta-analysis. | Complement Ther Med
+- new | 2022 | 35646155 | Review/Retracted Publication | Role of Aromatherapy as a Natural Complementary and Alternative Therapy in Cardiovascular Disease: A Comprehensive Systematic Review. | Evid Based Complement Alternat Med
+- new | 2022 | 34611999 | Systematic Review/Research Support, Non-U.S. Gov't | Lavender aromatherapy: A systematic review from essential oil quality and administration methods to cognitive enhancing effects. | Appl Psychol Health Well Being
+- new | 2022 | 35692129 | Review | Ameliorative Effects of Phytomedicines on Alzheimer's Patients. | Curr Alzheimer Res
+- new | 2020 | 35866093 | Review | A Systematic Review of the Effects of Aromatherapy with Lavender Essential Oil on Depression. | Cent Asian J Glob Health
+- new | 2020 | 33224252 | Review | The Effect of Lavender (Lavandula stoechas L.) on Reducing Labor Pain: A Systematic Review and Meta-Analysis. | Evid Based Complement Alternat Med
+- new | 2020 | 35876748 | Published Erratum | Erratum to: A Systematic Review of the Effects of Aromatherapy with Lavender Essential Oil on Depression. | Cent Asian J Glob Health
+- new | 2020 | 32147050 | Systematic Review | The relationship between lavender and tea tree essential oils and pediatric endocrine disorders: A systematic review of the literature. | Complement Ther Med
+- new | 2020 | 32088511 | Systematic Review/Network Meta-Analysis | The best route of administration of lavender for anxiety: a systematic review and network meta-analysis. | Gen Hosp Psychiatry
+- new | 2019 | 31123463 | Review | Medicinal Plants with Anti-Trichomonas vaginalis Activity in Iran: A Systematic Review. | Iran J Parasitol
+- new | 2019 | 31497578 |  | Effect of Lavender on Sleep, Sexual Desire, Vasomotor, Psychological and Physical Symptom among Menopausal and Elderly Women: A Systematic Review. | J Menopausal Med
+- new | 2018 | 30439747 | Systematic Review | Effectiveness of Silexan oral lavender essential oil compared to inhaled lavender essential oil aromatherapy for sleep in adults: a systematic review. | JBI Database System Rev Implement Rep
+- new | 2017 | 27861196 | Letter/Meta-Analysis | Lavender Oil Preparation (Silexan) for Treating Anxiety: An Updated Meta-Analysis. | J Clin Psychopharmacol
+- new | 2017 | 28398982 |  | Effectiveness of Silexan oral lavender essential oil compared to inhaled lavender essential oil aromatherapy on sleep in adults: a systematic review protocol. | JBI Database System Rev Implement Rep
+- HELD REF-2206 | 2004 | 15364646 | Systematic Review | Lavender (Lavandula angustifolia Miller). | J Herb Pharmacother
+
+### PubMed SAFE - 193 hits, 142 not already listed above, 141 new
+- new | 2026 | 41898198 |  | Prospective Pilot Study of Lavender Terpenoid Topical Formulation in Psoriasis Patients with Chronic Kidney Disease: Clinical and Inflammatory Outcomes. | Biomedicines
+- new | 2026 | 41968827 |  | The Impact of Cognitive Behavioral Group Therapy with or without Lavender Aroma on Sleep Quality in Menopausal Women: Randomized Controlled Trial. | Curr Aging Sci
+- new | 2026 | 42771808 |  | Phytochemical characterization and in vitro, in vivo, and in silico evaluation of antihyperglycemic, antibacterial, and insecticidal activities and acute safety of decoctions of La | Nat Prod Res
+- new | 2026 | 41921217 |  | Linalool, linalyl acetate, and lavender essential oil: evaluation of metabolism and drug interactions using canine liver microsomes and recombinant enzymes. | Xenobiotica
+- new | 2026 | 41854830 |  | The Biochemical and Genetic Effects of Lavandula angustifolia and Medical Ozone Treatments on Acute Liver Toxicity. | Biochem Genet
+- new | 2026 | 39954047 |  | Silexan is well-tolerated for long-term use in adults and for treatment of adolescents: a real-world data analysis. | Eur Arch Psychiatry Clin Neurosci
+- new | 2026 | 41949179 |  | Dual-action depot formulation of hyaluronic acid/poloxamer in-situ gel enclosing lavender oil-based syringic acid nanoemulsion for enhanced intra-articular treatment of osteoarthri | Ther Deliv
+- new | 2026 | 42087407 |  | Insecticidal Potential of Essential Oils from Origanum onites, Lavandula angustifolia, and Foeniculum vulgare Against Agonoscena pistaciae: Integrated In Vitro and In Silico Approa | Chem Biodivers
+- new | 2026 | 41499426 | Randomized Controlled Trial | Effects of lavender essential oil inhalation on sleep quality and fatigue in patients with chronic heart failure: a randomized controlled trial. | Eur J Cardiovasc Nurs
+- new | 2026 | 41970263 |  | Seed priming with lavender essential oil increases germination and seedling growth in saline and potentially toxic elements-contaminated soils. | PeerJ
+- new | 2025 | 40619952 |  | Lavandula angustifolia and Cyperus rotundus Extract Treatments Ameliorate Copper Toxicity in Rats. | Brain Behav
+- new | 2025 | 40770275 |  | Phytochemical profiling and in vitro biological activity evaluation of Lavandula angustifolia flower essential oil. | Sci Rep
+- new | 2025 | 40994458 | Review | A Comprehensive Review on Anxiolytic Effect of Lavandula Angustifolia Mill. in Clinical Studies. | Food Sci Nutr
+- new | 2025 | 41155614 |  | Interactions of Linalool and Linalyl Acetate with Selected Dog Cytochrome P450 (CYP) Proteins Identified by In Silico Drug Discovery Followed by Molecular Docking Analysis. | Pharmaceuticals (Basel)
+- new | 2025 | 39894758 |  | Mitigative and neuroprotective effects of Lavandula angustifolia essential oil on serotonin syndrome-induced neurotoxicity in male albino rats. | Drug Chem Toxicol
+- new | 2025 | 40625820 |  | The effect of lavender aromatherapy and acetaminophen as preemptive on comfort and Nitroglycerin-induced headache in acute coronary syndrome. | ARYA Atheroscler
+- new | 2025 | 40741363 |  | Safety and efficacy of a feed additive consisting of a tincture derived from the flowers of Lavandula angustifolia Mill. (lavender tincture) for use in all animal species (FEFANA a | EFSA J
+- new | 2025 | 40472446 |  | Exogenous application of methyl jasmonate affects the transcriptome of terpenoid biosynthesis genes in lavender and functional characterization of the candidate gene LabHLH74. | Plant Physiol Biochem
+- new | 2025 | 40310503 | Research Support, Non-U.S. Gov't | Enantiomeric Excess Bupivacaine in a Lavender Oil NLC Tested in a Melanoma Model: Prolonged Release and Anticancer Effect. | Mol Pharm
+- new | 2025 | 40868434 |  | Is Inhaled Colostrum as Effective as Inhaled Lavender Essential Oil for Pain Control in Neonatal Frenotomies? A Prospective, Randomized Clinical Trial. | Children (Basel)
+- new | 2025 | 40594647 |  | In vitro evaluation of the susceptibility of Echinococcus granulosus hydatid cysts to lavender and green tea extracts. | Sci Rep
+- new | 2024 | 39771213 | Review | Soothing the Itch: The Role of Medicinal Plants in Alleviating Pruritus in Palliative Care. | Plants (Basel)
+- new | 2024 | 39346373 |  | Effect of Lavender Oil on Social Anxiety Among First-Year College Students. | J Pharm Bioallied Sci
+- new | 2024 | 39796511 |  | Effect of a Novel Lavender Extract on Plasma Lipid and Lipoprotein Metabolism, Glucose Tolerance and Adipose Tissue Metabolic Activation: A Preclinical Safety and Efficacy Study. | Nutrients
+- new | 2024 | 39367299 |  | The mitochondrial genome of Lavandula angustifolia Mill. (Lamiaceae) sheds light on its genome structure and gene transfer between organelles. | BMC Genomics
+- new | 2024 | 39469432 |  | Safety and efficacy of a feed additive consisting of an essential oil derived from the flowering tops of Lavandula angustifolia Mill. (lavender oil) for use in all animal species ( | EFSA J
+- new | 2024 | 37906319 |  | Critical assessment of the endocrine potential of Linalool and Linalyl acetate: proactive testing strategy assessing estrogenic and androgenic activity of Lavender oil main compone | Arch Toxicol
+- new | 2024 | 38892359 |  | Medicinal Anti-Inflammatory Patch Loaded with Lavender Essential Oil. | Int J Mol Sci
+- new | 2024 | 38181031 | Research Support, Non-U.S. Gov't | Aromatic oil from lavender as an atopic dermatitis suppressant. | PLoS One
+- new | 2023 | 35789993 |  | Binary Synergistic Combinations of Lavender and Fennel Essential Oils with Amoxicillin. | Planta Med
+- new | 2023 | 37394293 | Case Reports | Unknown criminals for kidney: Acute interstitial nephritis due to lavender tea. | Explore (NY)
+- new | 2023 | 36677813 |  | In Vitro Metabolism and CYP-Modulating Activity of Lavender Oil and Its Major Constituents. | Molecules
+- new | 2023 | 37764231 |  | Development of a Liquid Chromatography-Tandem Mass Spectrometry (LC-MS/MS) Method for Characterizing Linalool Oral Pharmacokinetics in Humans. | Molecules
+- new | 2023 | 37106945 |  | The Effects of Oral Lavender Therapy on Wounding in Chimpanzees (Pan troglodytes). | Animals (Basel)
+- new | 2023 | 36903258 |  | Toxicity and Physiological Effects of Nine Lamiaceae Essential Oils and Their Major Compounds on Reticulitermes dabieshanensis. | Molecules
+- new | 2023 | 37631127 |  | Phytochemical Properties of Croton gratissimus Burch (Lavender Croton) Herbal Tea and Its Protective Effect against Iron-Induced Oxidative Hepatic Injury. | Plants (Basel)
+- new | 2023 | 37768921 | Research Support, Non-U.S. Gov't | Drosophila melanogaster as a model for studies related to the toxicity of lavender, ginger and copaiba essential oils. | PLoS One
+- new | 2023 | 37760366 |  | Effects of Lavender Essential Oil Inhalation on the Welfare and Meat Quality of Fattening Heavy Pigs Intended for Parma Ham Production. | Animals (Basel)
+- new | 2023 | 36839811 |  | Boosting the In Vivo Transdermal Bioavailability of Asenapine Maleate Using Novel Lavender Oil-Based Lipid Nanocapsules for Management of Schizophrenia. | Pharmaceutics
+- new | 2022 | 35873824 | Review | Neuroprotective Potential of Aromatic Herbs: Rosemary, Sage, and Lavender. | Front Neurosci
+- new | 2022 | 35712919 |  | Team Lavender Supports Healthcare Workers: "Our Spiritual, Emotional and Mental Health Matters". | J Pastoral Care Counsel
+- new | 2022 | 35745338 |  | Safety of Lavender Oil-Loaded Niosomes for In Vitro Culture and Biomedical Applications. | Nanomaterials (Basel)
+- new | 2022 | 35145890 |  | Effect of Lavender (Lavandula angustifolia L.) syrup on olfactory dysfunction in COVID-19 infection: A pilot controlled clinical trial. | Avicenna J Phytomed
+- new | 2022 | 35531130 |  | Hydroethanolic extract of Lavandula angustifolia ameliorates vincristine-induced peripheral neuropathy in rats. | Res Pharm Sci
+- new | 2022 | 35485678 |  | Evaluation of the Anti-Cancer/Anti-Mutagenic Efficiency of Lavandula officinalis Essential Oil. | Asian Pac J Cancer Prev
+- new | 2022 | 35715054 |  | Biochemical and insecticidal effects of plant essential oils on insecticide resistant and susceptible populations of Musca domestica L. point to a potential cross-resistance risk. | Pestic Biochem Physiol
+- new | 2022 | 35822445 | Research Support, Non-U.S. Gov't | Insecticidal efficacy of nanomaterials used to control mosquito, Culex quinquefasciatus Say, 1823 with special reference to their hepatotoxicity in rats. | Biosci Rep
+- new | 2022 | 35377106 | Randomized Controlled Trial | Analgesic effect of inhaled lavender essential oil for frenotomy in healthy neonates: a randomized clinical trial. | World J Pediatr
+- new | 2022 | 33121420 | Review | Radioprotective Effects of Plants from the Lamiaceae Family. | Anticancer Agents Med Chem
+- new | 2022 | 36232284 | Research Support, Non-U.S. Gov't | Cocktail Effect of Endocrine Disrupting Chemicals: Application to Chlorpyrifos in Lavender Essential Oils. | Int J Environ Res Public Health
+- new | 2022 | 36036168 |  | Rapid oral transmucosal delivery of zaleplon-lavender oil utilizing self-nanoemulsifying lyophilized tablets technology: development, optimization and pharmacokinetic evaluation. | Drug Deliv
+- new | 2022 | 35545746 |  | Assessment of plant species suitability in green walls based on API, heavy metal accumulation, and particulate matter capture capacity. | Environ Sci Pollut Res Int
+- new | 2022 | 34779137 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of massage therapy with lavender oil on severity of restless legs syndrome and quality of life in hemodialysis patients. | J Nurs Scholarsh
+- new | 2022 | 35814220 |  | Advanced in Vitro Safety Assessment of Herbal Medicines for the Treatment of Non-Psychotic Mental Disorders in Pregnancy. | Front Pharmacol
+- new | 2022 | 36066675 | Clinical Trial | Seizure treatment with olfactory training: a preliminary trial. | Neurol Sci
+- new | 2021 | 34212507 | Letter | Moderate serotonin toxicity precipitated by a possible interaction between lavender tea and sertraline. | Emerg Med Australas
+- new | 2021 | 34189009 |  | Effect of bacterial inoculation on co-composting of lavender (Lavandula angustifolia Mill.) waste and cattle manure. | 3 Biotech
+- new | 2021 | 32614066 |  | Allergic contact dermatitis caused by Lavandula angustifolia and cross-reaction with Citrus bergamia essential oils in an aromatherapist. | Int J Dermatol
+- new | 2021 | 33181239 | Review | Pharmacological basis of the anxiolytic and antidepressant properties of Silexan®, an essential oil from the flowers of lavender. | Neurochem Int
+- new | 2021 | 30607990 | Comparative Study | Evaluation of toxicological and antimicrobial activity of lavender and immortelle essential oils. | Drug Chem Toxicol
+- new | 2021 | 33838094 | Randomized Controlled Trial | The effects of foot massage on hemodialysis patients' sleep quality and restless leg syndrome: a comparison of lavender and sweet orange essential oil topical application. | J Complement Integr Med
+- new | 2021 | 33953850 | Review | Alzheimer's disease treatment: The share of herbal medicines. | Iran J Basic Med Sci
+- new | 2021 | 34660350 | Research Support, Non-U.S. Gov't | In Vitro Evaluation of Lavandula angustifolia Essential Oil on Anti-Toxoplasma Activity. | Front Cell Infect Microbiol
+- new | 2021 | 34802531 |  | Fumigant toxicity and biochemical effects of selected essential oils toward the red flour beetle, Tribolium castaneum (Coleoptera: Tenebrionidae). | Pestic Biochem Physiol
+- new | 2021 | 33919409 |  | Evaluation of Insecticidal Effects of Plants Essential Oils Extracted from Basil, Black Seeds and Lavender against Sitophilus oryzae. | Plants (Basel)
+- new | 2021 | 34355250 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A randomized, double-blind, single-dose study (LAVENDER) to assess the safety, tolerability, pharmacokinetics, and immunogenicity of a combined infusion of ABP 980 and pertuzumab i | Cancer Chemother Pharmacol
+- new | 2020 | 32133043 |  | Efficacy, Safety and Tolerability of Aroma Massage with Lavender Essential Oil: an Overview. | Int J Ther Massage Bodywork
+- new | 2020 | 32596098 | Case Reports | Transcriptomic analysis of multi-drug resistant Escherichia coli K-12 strain in response to Lavandula angustifolia essential oil. | 3 Biotech
+- new | 2020 | 32806608 |  | A New Eucalyptol-Rich Lavender (Lavandula stoechas L.) Essential Oil: Emerging Potential for Therapy against Inflammation and Cancer. | Molecules
+- new | 2020 | 33294706 |  | Proconvulsant effects of Nepeta menthoides hydro alcoholic extract in different seizure tests: behavioral and biochemical studies. | Heliyon
+- new | 2019 | 30535718 |  | A lavender ABC transporter confers resistance to monoterpene toxicity in yeast. | Planta
+- new | 2019 | 30642214 |  | Toxicity assessment of Lavandula officinalis extracts in Brine Shrimp (Artemia salina). | Toxicol Mech Methods
+- new | 2019 | 31140190 | Case Reports | Aromatherapy and occupational allergic contact dermatitis: Two further cases caused by lavender oil and other essential oils. | Contact Dermatitis
+- new | 2019 | 30779160 |  | Contact allergy and allergic contact dermatitis caused by lavender: A retrospective study from an Australian clinic. | Contact Dermatitis
+- new | 2019 | 31393563 | Case Reports/Research Support, N.I.H., Intramural | Lavender Products Associated With Premature Thelarche and Prepubertal Gynecomastia: Case Reports and Endocrine-Disrupting Chemical Activities. | J Clin Endocrinol Metab
+- new | 2019 | 30833968 |  | Evaluation of Skin Irritation and Acute and Subacute Oral Toxicity of Lavandula angustifolia Essential Oils in Rabbit and Mice. | J Toxicol
+- new | 2019 | 30785945 | Research Support, Non-U.S. Gov't | Toxicity and oviposition deterrence of essential oils of Clinopodium nubigenum and Lavandula angustifolia against the myiasis-inducing blowfly Lucilia sericata. | PLoS One
+- new | 2018 | 29716876 |  | Screening and characterization of selected drugs having antibacterial potential. | Pak J Pharm Sci
+- new | 2018 | 29636827 |  | Estrogenicity of essential oils is not required to relieve symptoms of urogenital atrophy in breast cancer survivors. | Ther Adv Med Oncol
+- new | 2018 | 29417554 |  | Toxicity and growth inhibition potential of vetiver, cinnamon, and lavender essential oils and their blends against larvae of the sheep blowfly, Lucilia sericata. | Int J Dermatol
+- new | 2018 | 29846654 |  | In vitro Safety and Efficacy of Lavender Essential Oil (Lamiales: Lamiaceae) as an Insecticide Against Houseflies (Diptera: Muscidae) and Blowflies (Diptera: Calliphoridae). | J Econ Entomol
+- new | 2018 | 30320657 | Randomized Controlled Trial | The Effect of Lavender Oil Application via Inhalation Pathway on Hemodialysis Patients' Anxiety Level and Sleep Quality. | Holist Nurs Pract
+- new | 2018 | 29288824 |  | Inhaled Lavandula angustifolia essential oil inhibits consolidation of contextual- but not tone-fear conditioning in rats. | J Ethnopharmacol
+- new | 2017 | 28895410 |  | Chromatographic analyses of Lavandula angustifolia and Rosmarinus officinalis extracts and their biological effects in mammalian cells and cell-free systems. | Neoplasma
+- new | 2017 | 28369977 |  | Biogenic Amine Formation and Microbiological Quality of Anchovy (Engraulis encrasicolus) Treated with Lavender and Lemon Balm Ethanol Extracts. | J Food Sci
+- new | 2017 | 28496494 |  | Effect of Inhalation of Lavender Essential Oil on Vital Signs in Open Heart Surgery ICU. | Iran J Pharm Res
+- new | 2017 | 29473381 |  | Effectiveness on mild stress and mixed urinary incontinence and impact on Quality of Life of a phytotherapic product containing astragalus, thyme, lavender, hop, equisetum, red clo | Arch Ital Urol Androl
+- new | 2016 | 26353172 | Case Reports | Prepubertal gynecomastia and chronic lavender exposure: report of three cases. | J Pediatr Endocrinol Metab
+- new | 2016 | 26350499 |  | Toxicity of Lavandula angustifolia oil constituents and spray formulations to insecticide-susceptible and pyrethroid-resistant Plutella xylostella and its endoparasitoid Cotesia gl | Pest Manag Sci
+- new | 2016 | 27381452 |  | Protective effect of two essential oils isolated from Rosa damascena Mill. and Lavandula angustifolia Mill, and two classic antioxidants against L-dopa oxidative toxicity induced i | Regul Toxicol Pharmacol
+- new | 2016 | 26730790 |  | Lavandula angustifolia Mill. Essential Oil Exerts Antibacterial and Anti-Inflammatory Effect in Macrophage Mediated Immune Response to Staphylococcus aureus. | Immunol Invest
+- new | 2016 | 27396210 | Research Support, Non-U.S. Gov't | Antifungal Screening of Lavender Essential oils and Essential Oil Constituents on three Post-harvest Fungal Pathogens. | Nat Prod Commun
+- new | 2016 | 26671837 |  | Patch Testing with Main Sensitizers Does Not Detect All Cases of Contact Allergy to Oxidized Lavender Oil. | Acta Derm Venereol
+- new | 2015 | 25600644 | Review | Contact dermatitis as an adverse reaction to some topically used European herbal medicinal products - part 2: Echinacea purpurea-Lavandula angustifolia. | Contact Dermatitis
+- new | 2015 | 25677490 | Case Reports/Letter | Premature thelarche in the setting of high lavender oil exposure. | J Paediatr Child Health
+- new | 2015 | 26261829 |  | The effectiveness of lavender essence on strernotomy related pain intensity after coronary artery bypass grafting. | Adv Biomed Res
+- new | 2015 | 26293583 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy of orally administered Silexan in patients with anxiety-related restlessness and disturbed sleep--A randomized, placebo-controlled trial. | Eur Neuropsychopharmacol
+- new | 2015 | 26159138 |  | [Effects of Blending Oil of Lavender and Thyme on Oxidative Stress, Immunity, and Skin Condition in Atopic Dermatitis Induced Mice]. | J Korean Acad Nurs [kor]
+- new | 2015 | 25835641 | Research Support, Non-U.S. Gov't | Hepatoprotective and Renoprotective Effects of Lavender (Lavandula stoechas L.) Essential Oils Against Malathion-Induced Oxidative Stress in Young Male Mice. | J Med Food
+- new | 2015 | 26835466 |  | The Effect of Massage With Lavender Oil on Restless Leg Syndrome in Hemodialysis Patients: A Randomized Controlled Trial. | Nurs Midwifery Stud
+- new | 2015 | 26010088 | Research Support, Non-U.S. Gov't | Plant Essential Oils Synergize and Antagonize Toxicity of Different Conventional Insecticides against Myzus persicae (Hemiptera: Aphididae). | PLoS One
+- new | 2014 | 25319228 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | No interacting influence of lavender oil preparation silexan on oral contraception using an ethinyl estradiol/levonorgestrel combination. | Drugs R D
+- new | 2014 | 25587315 |  | Effects of Inhalation of Lavender Essential Oil on Open-heart Surgery Pain. | Iran J Pharm Res
+- new | 2014 | 24731891 | Randomized Controlled Trial | Effect of lavender inhalation on the symptoms of primary dysmenorrhea and the amount of menstrual bleeding: A randomized clinical trial. | Complement Ther Med
+- new | 2014 | 24909715 | Research Support, Non-U.S. Gov't | Lavender essential oil inhalation suppresses allergic airway inflammation and mucous cell hyperplasia in a murine model of asthma. | Life Sci
+- new | 2014 | 24746728 | Randomized Controlled Trial | Clinical and mycological evaluation of an herbal antifungal formulation in canine Malassezia dermatitis. | J Mycol Med
+- new | 2013 | 23472485 | Research Support, Non-U.S. Gov't/Review | Adverse effects of herbal medicines: an overview of systematic reviews. | Clin Med (Lond)
+- new | 2013 | 23594314 |  | Ingestion toxicity of three Lamiaceae essential oils incorporated in protein baits against the olive fruit fly, Bactrocera oleae (Rossi) (Diptera Tephritidae). | Nat Prod Res
+- new | 2013 | 25250135 |  | Aqueous Extract of Lavender Angustifolia Inhibits Lymphocytes Proliferation of Hodgkin's Lymphoma Patients. | Iran J Cancer Prev
+- new | 2013 | 23207249 | Comparative Study | Silexan, an essential oil from flowers of Lavandula angustifolia, is not recognized as benzodiazepine-like in rats trained to discriminate a diazepam cue. | Phytomedicine
+- new | 2013 | 24219098 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A randomized, controlled cross-over trial of dermally-applied lavender (Lavandula angustifolia) oil as a treatment of agitated behaviour in dementia. | BMC Complement Altern Med
+- new | 2013 | 24578844 |  | The Effects of Lavandula Angustifolia Mill Infusion on Depression in Patients Using Citalopram: A comparison Study. | Iran Red Crescent Med J
+- new | 2012 | 31643546 | Review | Lavender. | 
+- new | 2012 | 22928313 | Comparative Study/Evaluation Study/Research Support, Non-U.S. Gov't | Fumigant toxicity of plant essential oils against Camptomyia corticalis (Diptera: Cecidomyiidae). | J Econ Entomol
+- new | 2012 | 22760025 | Case Reports | Anticholinergic syndrome and supraventricular tachycardia caused by lavender tea toxicity. | Keio J Med
+- new | 2012 | 22558691 | Comparative Study/Randomized Controlled Trial | Topical lavender oil for the treatment of recurrent aphthous ulceration. | Am J Dent
+- new | 2012 | 22177577 |  | Toxicity of essential and non-essential oils against the chewing louse, Bovicola (Werneckiella) ocellatus. | Res Vet Sci
+- new | 2012 | 22789792 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effects of clinical aromatherapy for anxiety and depression in the high risk postpartum woman - a pilot study. | Complement Ther Clin Pract
+- new | 2012 | 22475718 | Clinical Trial, Phase II/Research Support, Non-U.S. Gov't | Phase II trial on the effects of Silexan in patients with neurasthenia, post-traumatic stress disorder or somatization disorder. | Phytomedicine
+- new | 2011 | 22262935 |  | Xanthine oxidase inhibitory activity of the methanolic extracts of selected Jordanian medicinal plants. | Pharmacogn Mag
+- new | 2011 | 20839219 | Research Support, Non-U.S. Gov't | Genotoxicity of lavender oil, linalyl acetate, and linalool on human lymphocytes in vitro. | Environ Mol Mutagen
+- new | 2010 | 21170695 | Comparative Study/Review | Efficacy and safety of silexan, a new, orally administered lavender oil preparation, in subthreshold anxiety disorder - evidence from clinical trials. | Wien Med Wochenschr
+- HELD REF-2205 | 2009 | 19104276 | Review | Lavandula angustifolia Miller: English lavender. | Holist Nurs Pract
+- new | 2008 | 18759894 | Research Support, Non-U.S. Gov't | Lavender oil lacks natural protection against autoxidation, forming strong contact allergens on air exposure. | Contact Dermatitis
+- new | 2008 | 18154552 | Research Support, Non-U.S. Gov't | Autoxidation of linalyl acetate, the main component of lavender oil, creates potent contact allergens. | Contact Dermatitis
+- new | 2007 | 17992785 |  | [Prescriptions for alleviating side effects of chemotherapy. Inhaling lavender oil, polishing nails]. | MMW Fortschr Med [ger]
+- new | 2007 | 17267908 | Case Reports/Research Support, N.I.H., Intramural | Prepubertal gynecomastia linked to lavender and tea tree oils. | N Engl J Med
+- new | 2007 | 17988288 | Case Reports | Photoallergic contact dermatitis from lavender oil in topical ketoprofen. | Contact Dermatitis
+- new | 2007 | 17291597 |  | Smelling lavender and rosemary increases free radical scavenging activity and decreases cortisol level in saliva. | Psychiatry Res
+- new | 2007 | 17342790 | Randomized Controlled Trial | Efficacy of aromatherapy (Lavandula angustifolia) as an intervention for agitated behaviours in Chinese older persons with dementia: a cross-over randomized trial. | Int J Geriatr Psychiatry
+- new | 2007 | 18219845 | Case Reports/Letter | Occupational asthma to fresh sea lavender and cross-reactivity to sweet vernal grass pollen. | Ann Allergy Asthma Immunol
+- new | 2007 | 17894152 | Randomized Controlled Trial | Treatment with lavender aromatherapy in the post-anesthesia care unit reduces opioid requirements of morbidly obese patients undergoing laparoscopic adjustable gastric banding. | Obes Surg
+- new | 2006 | 17186871 | Case Reports | Clinical, clinicopathologic, postmortem examination findings and familial history of 3 Arabians with lavender foal syndrome. | J Vet Intern Med
+- new | 2004 | 15130569 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effectiveness of relaxation acupoint stimulation and acupressure with aromatic lavender essential oil for non-specific low back pain in Hong Kong: a randomised controlled trial | Complement Ther Med
+- new | 2000 | 10789871 | Case Reports | Combined contact allergy to tea tree oil and lavender oil complicating chronic vulvovaginitis. | Contact Dermatitis
+- new | 1999 | 10217323 | Research Support, Non-U.S. Gov't | Lavender oil inhibits immediate-type allergic reaction in mice and rats. | J Pharm Pharmacol
+- new | 1999 | 10445700 | Case Reports | Facial 'pillow' dermatitis due to lavender oil allergy. | Contact Dermatitis
+- new | 1996 | 8630713 | Case Reports | Labiatae allergy: systemic reactions due to ingestion of oregano and thyme. | Ann Allergy Asthma Immunol
+- new | 1995 | 7719750 | Clinical Trial/Randomized Controlled Trial | Lavender oil and perineal repair. | Mod Midwife
+- new | 1994 | 8138636 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The role of lavender oil in relieving perineal discomfort following childbirth: a blind randomized clinical trial. | J Adv Nurs
+- new | 1994 | 7924304 | Case Reports | Allergic contact dermatitis from lavender fragrance in Difflam gel. | Contact Dermatitis
+- new | 1986 | 2948764 | Case Reports | Occupational allergy to lavender oil. | Contact Dermatitis
+
+### PubMed OBS - 20 hits, 9 not already listed above, 9 new
+- new | 2026 | 41775830 |  | The association between medicinal herbs consumption and body weight and composition: a hospital based cross-sectional study. | Sci Rep
+- new | 2024 | 38233343 |  | Medicinal herbs consumption in relation to cardiometabolic indices and coronary artery stenosis in participants undergoing coronary angiography: A cross-sectional study. | Phytother Res
+- new | 2023 | 37121899 | Research Support, Non-U.S. Gov't | Utility of a "Lavender Lounge" to Reduce Stress Among Critical Care Registered Nurses: A Cross-Sectional Study. | Am J Crit Care
+- new | 2022 | 36611537 |  | Prescription of Silexan Is Associated with Less Frequent General Practitioner Repeat Consultations Due to Disturbed Sleep Compared to Benzodiazepine Receptor Agonists: A Retrospect | Healthcare (Basel)
+- new | 2022 | 35719220 |  | Aromatherapy massage seems effective in critically ill children: an observational before-after study. | Paediatr Neonatal Pain
+- new | 2020 | 31964675 | Multicenter Study/Research Support, Non-U.S. Gov't | Emergency healthcare needs in the Lavender Hill suburb of Cape Town, South Africa: a cross-sectional, community-based household survey. | BMJ Open
+- new | 2017 | 28265482 |  | Evaluating the effects of diffused lavender in an adult day care center for patients with dementia in an effort to decrease behavioral issues: a pilot study. | J Drug Assess
+- new | 2014 | 24326741 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Multinational, double-blind, randomised, placebo-controlled, prospective study of esomeprazole in the prevention of recurrent peptic ulcer in low-dose acetylsalicylic acid users: t | Gut
+- new | 2010 | 21129111 |  | 'Lavender retirement': a questionnaire survey of lesbian, gay and bisexual people's accommodation plans for old age. | Int J Nurs Pract
+
+### PubMed REV - 93 hits, 8 not already listed above, 7 new
+- new | 2025 | 41007011 | Review | Medicinal Plants for Child Mental Health: Clinical Insights, Active Compounds, and Perspectives for Rational Use. | Children (Basel)
+- new | 2024 | 38909282 | Review | How to treat subsyndromal anxiety disorder - practical recommendations for implementation in primary care. | Int J Psychiatry Clin Pract
+- new | 2024 | 37202896 | Review | Lavender Plant: Farming and Health Benefits. | Curr Mol Med
+- new | 2024 | 38645751 | Review | Mitigating digestive disorders: Action mechanisms of Mediterranean herbal active compounds. | Open Life Sci
+- new | 2023 | 37021969 | Review | Psychiatric manifestations of post-COVID-19 syndrome: the potential benefit of Silexan. | Int J Psychiatry Clin Pract
+- new | 2022 | 36048322 | Review | Nip it in the Bud: Botanicals for Anxiety - a Practical Prescriber's Guide. | Curr Psychiatry Rep
+- new | 2009 | 19831048 | Review | Essential oils and anxiolytic aromatherapy. | Nat Prod Commun
+- HELD REF-0043 | 2002 | 12112282 | Review | Biological activities of lavender essential oil. | Phytother Res
+
+### ClinicalTrials.gov - 123 registered studies
+- NCT04237285 | COMPLETED | results=False | NA | Effectiveness of Inhalation Aromatherapy In Children With Burns | conds: Burns | intr: Inhalation aromatherapy
+- NCT07288736 | ACTIVE_NOT_RECRUITING | results=False | NA | Aromatherapy Formulas for Sundowning and Sleep Quality in Patients With Dementia. | conds: Dementia, Sundowning | intr: Aromatherapy Formula A, Aromatherapy Formula B
+- NCT04974190 | UNKNOWN | results=False | NA | A Randomized, Double Blind, Placebo-controlled Study to Evaluate the Efficacy of Lavandula Angustifolia Containing Nasal Spray Medical Devic | conds: COVID-19 Infection | intr: Nasal Spray Device
+- NCT07692412 | COMPLETED | results=False | NA | Multisensory Interventions Reduce MRI Anxiety in Cancer Patients | conds: Malignant Tumor (Cancer), MRI Examination-induced Anxiety | intr: Guzheng music therapy, Lavender aromatherapy
+- NCT04767737 | COMPLETED | results=False | NA | The Effect of Aromatherapy on the Insulin Injection Pain | conds: Pain, Aromatherapy, Subcutaneous Injections | intr: Topically Administered Lavender Aromatherapy, Topically Administered Water | pubs: ['36945997:DERIVED (new)']
+- NCT05334537 | COMPLETED | results=False | NA | Effect of Aromatherapy on Perioperative Anxiety Level in Cesarean Sections | conds: Anxiety, Midazolam Overdose, Breast Feeding | intr: Aromatherapy, Placebo oil (odorless baby oil- jojoba and almond oil)
+- NCT07906600 | COMPLETED | results=False | NA | Lavender Inhalation for Anxiety in Patients Undergoing Coronary Angiography | conds: Anxiety, Coronary Angiography (CAG) | intr: Lavender Essential Oil Inhalation
+- NCT07599189 | NOT_YET_RECRUITING | results=False | NA | Essential Oils for Urinary Symptoms in Multiple Sclerosis Patients | conds: Multiple Sclerosis (MS), Neurogenic Bladder Disorder, Urinary Incontinence (UI), Urinary Urgency | intr: Essential Oil Blend (Lavender, Rosemary), Neutral Carrier Oil (Apricot Kernel Oil)
+- NCT07622602 | RECRUITING | results=False | NA | Impact of Topical Aromatherapy on Postoperative Quality of Recovery After Lung Resection | conds: Thoracic Surgical Procedures, Postoperative Recovery, Pain, Complementary Therapies | intr: topical application of the "AromaQoR" formulation, topical application of sweet almond vegetable oil
+- NCT04969900 | COMPLETED | results=True | NA | Effects of Aromatherapy on Patient Satisfaction With Surgical Abortion at Less Than 10 Weeks Gestation | conds: Surgical Abortion, Patient Satisfaction, Anesthesia, Pain | intr: Placebo oil, Lavender oil. | pubs: ['37858617:DERIVED (new)']
+- NCT07305493 | COMPLETED | results=False | NA | Lavender (Lavandula Angustifolia) Aromatherapy Inhalation as an Anti-Anxiety Treatment for Pain | conds: Anxiety, Pain, Aromatherapy | intr: Lavender Extract Aromatherapy, Placebo
+- NCT03296943 | COMPLETED | results=False | PHASE3 | Efficacy of Inhalation of Essential Oil on the Reduction of Inhalants Craving | conds: Inhalants Craving | intr: Essential oil, Perfume, Cue-induced inhalants craving
+- NCT07176676 | ACTIVE_NOT_RECRUITING | results=False | NA | Aromatherapy Treatment With Lavender Essential Oil to Reduce Post-Operative Nausea and Vomiting (PONV) | conds: PONV | intr: Lavanda Angustifolia essential oil, Usual Care
+- NCT06167096 | COMPLETED | results=False | NA | Effects of Lavender Aromatherapy on Patient Anxiety During Mohs Micrographic Surgery | conds: Skin Cancer, Skin Carcinoma | intr: Lavender essential oil, Water
+- NCT03090750 | COMPLETED | results=False | PHASE1 | Effects of Aromatherapy on Anxiety in Invasive Radiologic Procedure | conds: Anxiety, Anxiety Preoperative | intr: Lavender Oil, Bergamot Oil, Water
+- NCT01809067 | COMPLETED | results=False | NA | The Effects of Lavender Aromatherapy on Reducing Stress and Anxiety During MRI Procedures. | conds: Anxiety | intr: Lavender aromatherapy inhalers
+- NCT05377983 | UNKNOWN | results=False | NA | The Effect of Lavender Oil Inhalation on Pain, Anxiety and Sleep Quality After Coronary Artery Bypass Graft | conds: Coronary Artery Bypass Graft Surgery | intr: Lavender oil inhalation will be performed by placing two drops of 2% lavender oil on a 5x5 cm steril
+- NCT03002337 | COMPLETED | results=False | NA | Efficacy of the Yoga and Aromatherapy on Salivary Hormone and Immune Function in Pregnant Women. | conds: Stress, Psychologic | intr: Aromatherapy massage, Yoga exercise
+- NCT01307748 | COMPLETED | results=True | PHASE2,PHASE3 | Effects of Stress-reducing Aromatherapy | conds: Stress-related Problems | intr: aroma | pubs: ['27355279:RESULT (new)', '25802539:RESULT (new)']
+- NCT03461055 | COMPLETED | results=False | NA | Lavender During Intrauterine Insemination | conds: Infertility, Female, Anxiety | intr: Lavender, Water
+- NCT05032664 | COMPLETED | results=False | NA | Effectiveness of Home-based Aromatherapy for BPSD | conds: Behavioural and Psychiatric Symptoms of Dementia | intr: Home-based aromatherapy programme, Control Group | pubs: ['40496446:DERIVED (new)']
+- NCT03445130 | COMPLETED | results=False | NA | A Study of the Effects of Lavender Aromatherapy on Preoperative Anxiety in Breast Surgery Patients | conds: Anxiety | intr: Lavandula Angustifolia oil (LO), Michelia Alba Leaf oil (MA), Almond oil (AO), Water
+- NCT03328143 | COMPLETED | results=True | PHASE1 | Feasibility of Aromatherapy in an Awake Craniotomy Environment | conds: Intracranial Pathology | intr: Lavender (Lavandula angustifolia)
+- NCT04874857 | COMPLETED | results=False | NA | The Effect of Aromatherapy Massage Applied to Hemodialysis Patients With Muscle Cramp | conds: Muscle Cramps, Aromatherapy, Hemodialysis, Quality of Life | intr: Lavandula angustifolia, Rosmarinus officinalis L. and Origanum majorana L., Baby oil | pubs: ['39787573:DERIVED (new)']
+- NCT05446662 | COMPLETED | results=False | NA | The Effect of Complementary Care Model on Patient Outcomes | conds: Nursing Caries, Music Therapy, Aromatherapy, Preoperative Care | intr: music therapy, aromatherapy, Progressive Relaxation Exercises, Hand massage
+- NCT06581211 | SUSPENDED | results=False | NA | Aromatherapy Oil Associated for Managing Anxiety and Pain During Bone Marrow Biopsy Procedures | conds: Hematopoietic and Lymphatic System Neoplasm, Malignant Solid Neoplasm | intr: Aromatherapy and Essential Oils, Electronic Health Record Review, Jojoba Oil, Lavender Oil
+- NCT06066073 | COMPLETED | results=False | NA | "Pain and Emotional Changes on Relationships Between Anxiety and Olfaction" | conds: Anxiety | intr: Lavender Oil, Distal Water
+- NCT06100029 | UNKNOWN | results=False | NA | The Effect of Lavender Essential Oil for Delirium in Elderly Intensive Care Unit Patients: Study Protocol | conds: Delirium in Old Age | intr: Lavender, A2F bundle
+- NCT07299617 | COMPLETED | results=False | NA | The Effect of Lavender Oil Applied Via Inhalation on Headache and Anxiety Level | conds: Hemodialysis Patients | intr: Lavender Oil Inhalation, Standard Hemodialysis Care
+- NCT07522554 | ACTIVE_NOT_RECRUITING | results=False | NA | Lavender and Lemongrass Aromatherapy for Pain and Anxiety in Labor: A Randomized Trial | conds: Labor Pain and Anxiety | intr: Lavender and Lemongrass Aromatherapy, Placebo (Sweet Almond Oil)
+- NCT06294769 | COMPLETED | results=False | NA | Effect of Aromatherapy on Postoperative Pain: Randomized Clinical Trial | conds: Acute Pain, Perioperative/Postoperative Complications, CAM, Nurse's Role | intr: essencial oil of lavandula angustifolia, grape seed vegetable oil
+- NCT03583801 | COMPLETED | results=False | NA | Assessment of the Aromatherapy to Alleviate Peri Operative Anxiety in Ambulatory Elective Upper Limb Surgery Under Loco-regional Anesthesia | conds: Anxiety | intr: Olfactory aromatherapy, without aromatherapy
+- NCT03093454 | COMPLETED | results=True | PHASE3 | Effects of Lavender Oil on Postoperative Pain, Sleep Quality and Mood | conds: Pain, Postoperative | intr: Lavender Essential Oil
+- NCT07352397 | NOT_YET_RECRUITING | results=False | NA | Inhaled Lavender Oil, Rosemary Oil, and Their Combination in Reducing Dental Anxiety and Pain in Pediatric Dental Patients | conds: Dental Anxiety | intr: Lavender group, Rosemary group, Combination of both lavender and rosemary, No essential oils
+- NCT05660486 | COMPLETED | results=False | NA | Aromatherapy Effect on Anxiety Prior to Ultrasound Guided Musculoskeletal Procedures | conds: Anxiety State | intr: Aromatherapy, Placebo
+- NCT05408650 | UNKNOWN | results=False | NA | Effect of Aromatherapy Massage on Sleep Quality of Post-operative Cardiothoracic Patients | conds: Aromatherapy | intr: Aromatherapy Massage
+- NCT07480668 | RECRUITING | results=False | NA | Aromatherapy for Mental Health Promotion in IVF Patients | conds: Anxiety, Stress, Depression Disorder, Quality of Life | intr: Lavender essential oil Inhalation, Synthetic lavender aroma inhalation
+- NCT02344745 | COMPLETED | results=True | NA | Lavender Aromatherapy for Anxiety During Urodynamics | conds: Anxiety, Pain | intr: Lavandula angustifolia essential oil (Aura Cacia), Distilled water | pubs: ['33626029:DERIVED (new)']
+- NCT06316934 | TERMINATED | results=True | PHASE2 | Lavender Aromatherapy to Decrease Anxiety/Pain Perception During Office Hysteroscopy | conds: Anxiety, Pain, Procedural | intr: Lavandula angustifolia, Aura Cacia, Placebo
+- NCT07665398 | ACTIVE_NOT_RECRUITING | results=False | NA | Effect of Marjoram, Vetiver, and Lavender Oil in the Treatment of Bruxism | conds: Bruxism, Bruxism, Sleep, Bruxism, Sleep-Related | intr: Aromatherapy with Essential Oil Blend (Lavender, Marjoram, Vetiver), Carrier Oil (Sesame Oil)
+- NCT05459025 | COMPLETED | results=False | NA | Effectiveness of Aromatherapy Yoga | conds: Female College Students | intr: Aromatherapy yoga, Yoga
+- NCT07493434 | ENROLLING_BY_INVITATION | results=False | NA | Evaluation of Pain Thresholds in Migraine Patients After Inhalation of Essential Oils: a Randomized Clinical Trial | conds: Migraine | intr: Lavander essential oil, Peppermint essential oil, Lavandula angustifolia and Mentha Piperita, Coconu
+- NCT06924853 | TERMINATED | results=False | NA | Platelet Lysate vs Saline for Lumbosacral Radiculopathy | conds: Lumbosacral Radiculopathy, Lumbar Radiculopathy | intr: Platelet lysate, Saline control
+- NCT05908981 | UNKNOWN | results=False | NA | The Effects of Sandalwood Aromatherapy on Anxiety Levels of Pediatric | conds: Anxiety, Dental | intr: sandalwood aromatherapy (Santalum album) | pubs: [':RESULT (-)', '28070420:RESULT (new)']
+- NCT05451771 | ACTIVE_NOT_RECRUITING | results=False | PHASE1,PHASE2 | Venetoclax-Dexamethasone in Relapsed and/or Refractory t(11;14) Amyloidosis | conds: AL Amyloidosis | intr: Venetoclax Oral Tablet, 200 mg, FISH assay, Venetoclax Oral Tablet, 400 mg, Dexamethasone Oral, 10 m | pubs: ['40226119:DERIVED (new)']
+- NCT02592044 | COMPLETED | results=False | PHASE4 | Effect of Aromatherapy on Venopuncture Pain and Anxiety | conds: Pain | intr: peripheral venous cannulation, Aromatherapy with lavender essential oil, Placebo
+- NCT05617144 | COMPLETED | results=False | NA | Aromatherapy Protocol for Pain Reduction in Hospice Patients | conds: Pain | intr: Aromatherapy treatment
+- NCT05168098 | COMPLETED | results=False | NA | Impact of the Olfactory Stimulation on the People With Mild Dementia Via the Horticultural Therapy | conds: Dementia | intr: board game comparison, olfactory stimulation intervention | pubs: ['36204759:DERIVED (new)']
+- NCT07578181 | ENROLLING_BY_INVITATION | results=False | NA | Aromatherapy Massage in Chronic Low Back Pain | conds: Low Back Pain | intr: Conventional Physiotherapy, Aromatherapy Massage + Conventional Physiotherapy
+- NCT04396444 | COMPLETED | results=False | NA | Lavender Aromasticks for Pain Control | conds: Pain Perception, Patient Satisfaction | intr: Aromastick
+- NCT07155876 | COMPLETED | results=False | NA | Exploring the Effect of Aromatherapy | conds: Anxiety, Labor Pain, Nausea and Vomiting | intr: Aromatherapy plus standard of care, Standard of Care Only
+- NCT05328973 | COMPLETED | results=True | PHASE2 | Intraoperative Aromatherapy Versus Placebo for Port-a-Cath Placement Under Monitored Anesthesia Care. A Randomized Controlled Trial | conds: Cancer Pain | intr: ELEQUIL | pubs: ['38502819:DERIVED (new)']
+- NCT07437833 | RECRUITING | results=False | NA | Psychophysiological Responses to Six Single-Session Self-Regulation Interventions in a Female Adult With ADHD and Stabilized Bipolar Disorde | conds: ADHD - Attention Deficit Disorder With Hyperactivity, Bipolar Affective Disorder; Remission in | intr: Moderate-Intensity Aerobic Exercise on Cycloergometer, Cyclic Sighing, Aromatherapy, Music Therapy
+- NCT05791266 | COMPLETED | results=False | NA | Safety of Sticker Pad Containing Essential Oil Containing Lavender and Ylang-ylang Oil | conds: Healthy | intr: Sticker pads containing lavender and ylang ylang oil
+- NCT06769503 | COMPLETED | results=False | NA | Effect of Aromatherapy on Anxiety in Relatives of Emergency Patients. | conds: Emergency Service, Hospital, Aromatherapy, Anxiety | intr: aromatherapy
+- NCT05912881 | COMPLETED | results=False | NA | Chemosensory Dysfunction and Recovery in Endoscopic Endonasal Skull Base Surgery | conds: Anosmia, Skull Base Neoplasms | intr: Olfactory training, Placebo training
+- NCT05728190 | COMPLETED | results=False | NA | Effect of Aromatherapy on Pain, Anxiety and Sleep Quality in Burn Patients | conds: Aromatherapy | intr: steril/salin water, Lavender essential oil
+- NCT07299474 | RECRUITING | results=False | NA | Efficacy of Lavender Aromatherapy on Anxiety and Pain Reduction During Awake Otolaryngologic Procedures | conds: Inferior Turbinate Hypertrophy, Chronic Rhinosinusitis (CRS), Rhinitis, Vasomotor, Thyroid Nodules | intr: Lavender Aromatherapy, Placebo Aromatherapy
+- NCT06510335 | COMPLETED | results=False | NA | Lavender Essential Oil-based Product System for Sleep | conds: Healthy | intr: Lavender essential oil-based product system
+- NCT07948187 | ACTIVE_NOT_RECRUITING | results=False | NA | Mirror Therapy With Olfactory-Motor Priming for Arm Recovery After Stroke | conds: Stroke, Hemiparesis, Hemiparesis After Stroke | intr: Mirror Therapy, Lavender-Based Olfactory Stimulation
+- NCT06869902 | COMPLETED | results=False | NA | Use of Inhaled Colostrum to Control Pain in Neonatal Frenotomy and Comparison to Inhaled Lavender Essential Oil | conds: Pain, Ankyloglossia, Neonate | intr: Colostrum | pubs: ['18053656:RESULT (new)', '15827459:RESULT (new)', '21054600:RESULT (new)', '26560183:RESULT (new)', '8413140:RESULT (new)', '39141691:RESULT (new)', '19010360:RESULT (new)', '36076107:RESULT (new)', '35377106:RESULT (new)', '20817247:RESULT (new)', '9950311:RESULT (new)', '17565285:RESULT (new)', '26685099:RESULT (new)', '21028915:RESULT (new)']
+- NCT02610205 | COMPLETED | results=False |  | Caring Touch as a Bodily Anchor for Patients After Sustaining a Motor Vehicle Accident | conds: Emergency | intr: caring touch | pubs: ['27004552:DERIVED (new)']
+- NCT07638605 | COMPLETED | results=False | NA | Sensory and Behavioral Sleep Training | conds: Sleep Disorder (Disorder) | intr: Sleep Hygiene Education, Sensory-Based Sleep Intervention, Behavioral Relaxation Intervention
+- NCT06114472 | UNKNOWN | results=False | NA | The Impact of Preoperative Aromatherapy Upon Time to First Analgesia Request After Cesarean Section | conds: Pain | intr: aromatherapy blend containing Lavender
+- NCT07086495 | COMPLETED | results=False | NA | Effects of Aromatherapy After Aerobic Exercise" | conds: Sports Recovery, Sports Performance | intr: Aromatherapy, Placebo Diffuser (No Essential Oil)
+- NCT06380933 | COMPLETED | results=False | NA | The Effects of Receiving Warm Footbath With Lavender Essential Oil on Sleep and Comfort | conds: Sleep Quality, Comfort | intr: experimental group
+- NCT06774599 | NOT_YET_RECRUITING | results=False | NA | Effects of Nonpharmacological Interventions in Sleep Quality, Anxiety, and Delirium for Patients of Adult Intensive Care Units | conds: Intensive Care Unit, Critical Care, Sleep Quality, Anxiety | intr: music combined with lavender essential oil group
+- NCT06933771 | COMPLETED | results=False | NA | Children's Blood Draws: Lavender Study | conds: Nursing Caries, Pain Management | intr: LAVENDER ESSENCE GROUP, CONTROL GROUP
+- NCT04798040 | COMPLETED | results=False | NA | Effects of Lavender Aromatherapy and Cold Application on Pain During Drain Removal | conds: Major Abdominal Surgery | intr: cold application, lavender oil inhalation, oxygen administration
+- NCT04630470 | COMPLETED | results=False | NA | Effect of Massage Therapy on Severity of Restless Legs Syndrome and Quality of Life in Hemodialysis Patients | conds: Hemodialysis | intr: massage therapy with lavender oil, massage therapy with baby oil | pubs: ['19414938:RESULT (new)', '28948161:RESULT (new)', '29735856:RESULT (new)', '30925907:RESULT (new)', '26835466:RESULT (new)', '28985917:RESULT (new)', '32379666:RESULT (new)', '14592341:RESULT (new)', '25023924:RESULT (new)', '14592339:RESULT (new)', '14592342:RESULT (new)', '17275473:RESULT (new)', '8628042:RESULT (new)', '31987569:RESULT (new)', '31126564:RESULT (new)', '34779137:DERIVED (new)']
+- NCT06779786 | COMPLETED | results=False | NA | The Effect of Aromatherapy Applied to Intensive Care Nurses on Tension-Type Headache | conds: Headache, Tension | intr: Group 1 (Aromatherapy Groups):, Group 2 (Aromatherapy Groups):, Group 3 (Placebo Control Group)
+- NCT03704493 | COMPLETED | results=False | NA | Virtual Group Motivation in Exercise Treadmill Testing | conds: Exercise Test | intr: Video Group | pubs: ['32725609:DERIVED (new)']
+- NCT05282706 | COMPLETED | results=False | PHASE1 | Use of Aromatherapy in Conjunction With Physical/Occupational Therapy in an Acute Care Setting | conds: Suffering, Physical, Nausea | intr: Lavender Oil, Mandarin Oil, Peppermint oil, Placebo
+- NCT07757724 | COMPLETED | results=False | NA | Chinese Herbal Sachet Therapy for Sleep Quality in Menopausal Women | conds: Sleep Initiation and Maintenance Disorders, Menopause | intr: Traditional Chinese medicine aromatic sachet, Placebo aromatic sachet
+- NCT05855369 | RECRUITING | results=False | PHASE2,PHASE3 | Study of Chemosensory Enhancement Through Neuromodulation Training (SCENT for Long COVID) | conds: Smell Dysfunction, Olfactory Disorder, Long COVID | intr: Trigeminal Nerve Stimulation (TNS), Active Smell Training (ST), Placebo Smell Training (PBO)
+- NCT04867824 | UNKNOWN | results=False | NA | The Use of Lavender vs Vanilla Essential Oil as Complementary Analgesia for Frenotomy in Healthy Newborns | conds: Ankyloglossia | intr: Case (use of inhaled vanilla essential oil), Control (use of inhaled lavender essential oil) | pubs: ['36076107:DERIVED (new)']
+- NCT05708066 | WITHDRAWN | results=False | NA | Aromatherapy With Lavender as Anxiolysis Prior to Cataracts Surgery | conds: Aromatherapy, Anxiety | intr: Lavender Aromatherapy, Non-scented Tab
+- NCT07547371 | RECRUITING | results=False | NA | Effectiveness of Aromatherapy and Digital Anesthesia in Managing Dental Anxiety and Pain in Children | conds: Pain, Dental Anxiety, Tooth Extraction | intr: Traditional Local Anesthesia (Conventional Syringe), Aromatherapy (Lavender or Orange Essential Oil)
+- NCT06338527 | UNKNOWN | results=False | NA | Effects of Aromatherapy on Patients Undergoing Chemotherapy for Breast Cancer | conds: Sleep Quality, Anxiety | intr: Aromatherapy, No intervention | pubs: ['40653563:DERIVED (new)']
+- NCT06241495 | COMPLETED | results=False | NA | Aromatherapy in Providing a Semen Sample | conds: Infertility, Male | intr: Placebo, Aromatherapy
+- NCT05369936 | COMPLETED | results=False | NA | Pain Perception: on Relationships Between Dental Anxiety and Olfaction | conds: Dental Anxiety, Dental Pain, Essential Oil | intr: Aromatherapy, Placebo
+- NCT03460145 | COMPLETED | results=False | NA | Lavender Oil on Preoperative Anxiety and Sedation Requirement in General Anaesthesia | conds: Preoperative Anxiety | intr: Lavender Oil on Nasal Strip (Lx), Strip without Lavender Oil (Px), Propofol 1 % Injectable Suspensio
+- NCT02670941 | TERMINATED | results=False | EARLY_PHASE1 | Aromatherapy for Chemotherapy-induced Symptoms | conds: Chemotherapy Symptoms | intr: Ginger, Lavender, Orange, Jojoba
+- NCT07732179 | COMPLETED | results=False | NA | Aromatherapy and Music Impact on Nurses' Stress at Work | conds: Stress | intr: lavender-chamomile aromatherapy oil and music
+- NCT05929638 | UNKNOWN | results=False | NA | Aromatherapy With Lavender Essential Oil in Patients With Multiple Sclerosis | conds: Aromatherapy, Randomized Controlled Trial, Multiple Sclerosis | intr: lavender oil
+- NCT07652957 | COMPLETED | results=False | NA | Comparison Of The Effects Of Swedish Massage With Natural Oils | conds: Childbirth, Aromatherapy, Pain Management, Fear | intr: Aromatherapy and Massage Care for labor pain management | pubs: [':RESULT (-)']
+- NCT04840212 | COMPLETED | results=False | NA | The Effectiveness of Aromatherapy in an Urban, Safety-Net Hospital on Pain | conds: Pain Management | intr: Lavender-Sandalwood scented aromatherapy sticker
+- NCT04079309 | COMPLETED | results=False | NA | Anxiolytic Effects of Lavender and Orange Oil | conds: Anxiety State, Pediatric ALL, Dental Anxiety, Oil; Inhalation | intr: Lavender/Orange
+- NCT05658367 | COMPLETED | results=False | NA | Effect of Aromatherapy Massage on Pain and Anxiety After Mastectomy | conds: Acute Pain, Anxiety, Mastectomy, Massage Therapy | intr: Aromatherapy massage with sesame- lavender oil mixed, Aromatherapy massage with sesame oil, Massage 
+- NCT07766902 | NOT_YET_RECRUITING | results=False | PHASE2 | The Effect of Inhalation Aromatherapy on Intraoperative Fear in Patients Undergoing Lower Blepharoplasty Under Local Anesthesia: A Randomize | conds: Lower Eyelid Bags | intr: inhaled aromatherapy
+- NCT06761859 | COMPLETED | results=False | NA | Aromatherapy Inhalation in Psychiatric Nurses | conds: Aromatherapy | intr: Aromatherapy Inhalation in Psychiatric Nurses
+- NCT07113080 | RECRUITING | results=False | PHASE4 | Assessing the Efficacy of Lemongrass and Lavender Aromatherapy in Reducing Dental Anxiety and Pain Associated With Local Anesthetic Injectio | conds: Dental Fear and Anxiety | intr: lavender essential oil inhaled using face mask, lemongrass essential oil inhaled using face mask
+- NCT05862350 | UNKNOWN | results=False | NA | Effects of Lavender Essential Oil in Patients With Chronic Heart Failure | conds: Chronic Heart Failure | intr: aromatherapy inhalation with lavender essential oil, aromatherapy inhalation with coconut essential  | pubs: ['41499426:DERIVED (new)']
+- NCT05464602 | COMPLETED | results=False | NA | The Effect of Aromatherapy in Laparoscopic Cholecystectomy Patients | conds: Cholecystectomy, Aromatherapy | intr: Intervention group Lavender, Intervention group Geranium | pubs: ['40490599:DERIVED (new)']
+- NCT02163369 | UNKNOWN | results=False | NA | The Use of Aromatherapy for Symptom Management | conds: Nausea, Vomiting and Anxiety Associated With Medical Oncology Patients | intr: Peppermint and Lavender Essential Oils
+- NCT07519291 | COMPLETED | results=False | NA | EFFECTS OF AROMATHERAPY AND REFLEXOLOGY ON PAIN, SLEEP, AND SATISFACTION IN CHILDREN WITH CEREBRAL PALSY | conds: Cerebral Palsy (CP), Pain, Sleep Disorder (Disorder) | intr: Aromatherapy, Reflexology
+- NCT05692700 | COMPLETED | results=False | NA | The Effect of Inhaled Lavender and Bergamot Oil on Anxiety and Sleep Quality in Intensive Care Patients. | conds: Patient Undergoing Surgery | intr: aromatherapy, Placebo | pubs: ['34690334:RESULT (new)']
+- NCT07612059 | NOT_YET_RECRUITING | results=False | NA | Skin-to-Skin Contact and Lavender Aromatherapy After Elective Cesarean: Effects on Cortisol and Early Breastfeeding | conds: Breastfeeding, Cesarean Section, Postpartum Period, Maternal Stress | intr: Structured early postpartum mother-infant skin-to-skin contact, Maternal inhalational lavender aroma | pubs: ['7437211:RESULT (new)', '39400653:RESULT (new)', '30762247:RESULT (new)']
+- NCT05987020 | UNKNOWN | results=False | NA | Effects of Aromatherapy for Older Adults at Risk of Metabolic Syndrome in the Community | conds: Metabolic Syndrome | intr: Aromatherapy
+- NCT04198753 | SUSPENDED | results=False |  | Skin Characteristics of Parents of Food Allergic Pediatric Patients | conds: Food Allergy in Children | intr: Skin tape stripping, Skin barrier assessment, Blood draw
+- NCT04598763 | UNKNOWN | results=False | NA | Evaluation of Two Methods of Olfactory Rehabilitation in Post-viral Loss of Smell: Classic and Intensive | conds: Olfaction Disorders | intr: smell the odors of the olfactory rehabilitation kit according to the classic or intensive method
+- NCT06387849 | COMPLETED | results=False | NA | Aromatherapy Effect on Pain and Anxiety After C-section | conds: Post-operative Pain, Post-operative Anxiety | intr: Aromatherapy, Placebo | pubs: ['39400653:DERIVED (new)']
+- NCT03016221 | COMPLETED | results=True | NA | Local Changes of Skin Characteristics After an Application of a Topical Product With a Warming or Cooling Effect | conds: Healthy | intr: Axanova hot gel, Axanova activ gel, Perskindol Dolo Gel, Perskindol Classic Gel | pubs: ['38706945:RESULT (new)']
+- NCT05255874 | COMPLETED | results=False | NA | The Effect of Aromatherapy Applied to the Patients in the Urodynamic Procedure | conds: Anxiety | intr: Aromatherapy | pubs: ['33626029:RESULT (new)']
+- NCT05169138 | COMPLETED | results=False | NA | The Effect Of Lavender Essential Oil On Birth Pain | conds: Labor Pain, Aromatherapy | intr: Aromatherapy application /massage with lavender oil, Aromatherapy application / inhalation with lave
+- NCT07737366 | COMPLETED | results=False | NA | The Efficacy of Lavender Herbal Tea in Premenstrual Syndrome | conds: Premenstrual Syndrome, Anxiety, Depression, Stress | intr: Lavender herbal tea | pubs: ['30774727:RESULT (new)', ':RESULT (-)', ':RESULT (-)', '37335817:RESULT (new)', '29855308:RESULT (new)', '21171936:RESULT (new)', '2382749:RESULT (new)', '36317488:RESULT (new)', '31969927:RESULT (new)']
+- NCT02402803 | TERMINATED | results=False |  | Dried Blood Spot- Statin Pilot Study | conds: Hyperlipidemias, Cardiovascular Diseases | intr: Dried blood spot testing and phlebotomy
+- NCT04934969 | COMPLETED | results=False | NA | The Adjunctive Use of Lavender and Peppermint Essential Oils | conds: Joint Diseases | intr: Adjunctive use of lavender and peppermint essential oils
+- NCT06060418 | UNKNOWN | results=False | NA | Effect of Lavender Aromatherapy on Post-Operative Nausea and Vomiting Among Laparotomy Patients | conds: Postoperative Nausea and Vomiting | intr: aromtherapy
+- NCT04115891 | COMPLETED | results=False | NA | Lavender Oil Inhalation Help to Overcome Dental Anxiety Among Children | conds: Dental Anxiety, Anxiety Disorder, Aromatherapy | intr: Anxiety scale, Pain scale - 1, Pain scale - 2, Inhalation
+- NCT04596904 | COMPLETED | results=False | NA | The Effect of Lavender Smell on Anxiety | conds: Anxiety State | intr: Lavender oil application group, Distilled water application group
+- NCT07434323 | COMPLETED | results=False | NA | Lavender Aromatherapy for Preoperative Anxiety in Melanoma and Epithelioma Patients | conds: Melanoma, Non-Melanoma Skin Cancer, Preoperative Anxiety, pT1a | intr: Lavender Essential Oil, Physiological saline solution (as placebo)
+- NCT06849297 | ACTIVE_NOT_RECRUITING | results=False | NA | Effectiveness of Aromatherapy in Reducing Anxiety and Pain Perception in Women During Childbirth | conds: Healthy | intr: Aromatherapy during labor
+- NCT06045078 | COMPLETED | results=True | NA | Aromatherapy in Total Knee Replacement | conds: Total Knee Replacement, Post-operative Nausea and Vomiting, Opioid Use, Anxiety | intr: Elequil Lavender-peppermint Aromatabs, Elequil Almond-Oil Aromatabs | pubs: ['34619742:RESULT (new)', '31389832:RESULT (new)', '27555173:RESULT (new)', '34820153:RESULT (new)', '32308715:RESULT (new)', '32985338:RESULT (new)', '27333231:RESULT (new)', '28070420:RESULT (new)', '23573142:RESULT (new)', '17894152:RESULT (new)', '17129308:RESULT (new)', '23932834:RESULT (new)', '26261829:RESULT (new)', '27863613:RESULT (new)', '22049287:RESULT (new)', '22588767:RESULT (new)', '34196978:RESULT (new)', '21697139:RESULT (new)', '35857151:RESULT (new)', '40828687:DERIVED (new)']
+- NCT07513831 | COMPLETED | results=False | NA | Effect of Lavender Aromatherapy on Preoperative Anxiety, Stress, and Depression in Orthopedic Surgery Patients | conds: Preoperative Anxiety, Psychological Stress, Depressive Symptoms, Orthopedic Surgery Patients | intr: Lavender Essential Oil Inhalation
+- NCT05539560 | UNKNOWN | results=False | NA | The Effect of Olfactory Training in Patients With COVID-19 Induced Olfactory Dysfunction | conds: COVID-19 | intr: Olfactory training with essential oils, Olfactory training with fragrance-free oils | pubs: ['40371997:DERIVED (new)']
+- NCT07328412 | COMPLETED | results=False | NA | Aromatherapy to Address Psychological Distress in Emergency Department Patients. | conds: Aromatherapy, Anxiety, Stress, Emergency Department | intr: Lavender Aromatherapy, Unscented Aromatherapy
+- NCT03449511 | COMPLETED | results=False | NA | Aromatherapy for Integrated Cancer Care | conds: Cancer | intr: Ginger aromatherapy, Orange aromatherapy, Lavender aromatherapy, Jojoba aromatherapy
+- NCT05646953 | COMPLETED | results=False | NA | Safety and Efficacy Study of Vasu Facial Beauty Oil | conds: Healthy, Wrinkle, Dry Skin, Skin Pigment | intr: Facial Beauty Oil
+- NCT04513093 | COMPLETED | results=False | NA | Aromatherapy Massage Applied on Constipation | conds: Constipation | intr: Aromatherapy Massage
+- NCT01214304 | COMPLETED | results=False | NA | Aromatherapy to Reduce Pain and Anxiety During Cervical Colposcopy | conds: Colposcopy | intr: Essential Lavender Oil, Lavender Scent
+- NCT06163274 | TERMINATED | results=False | EARLY_PHASE1 | Trial to Assess Acceptability and Safety of Two Placebo Intravaginal Rings | conds: Safety, Acceptability | intr: Placebo Intravaginal Ring A, Placebo Intravaginal Ring B
+- NCT07248787 | NOT_YET_RECRUITING | results=False | NA | Effect of Multi-Sensory Interventions on Labor Pain, Comfort, and Birth Satisfaction | conds: Labor Pain, Birth Satisfaction | intr: Sacral Massage, Lavender Aromatherapy, Turkish Makam Music, Aquarium Visual Stimulus
+
+### OpenAlex no-PMID trial-worded - 2342 hits, 31 without PMID, 31 new
+- new | 2026 | 10.34172/ijdrc.9119 | article | Efficacy of Lavandula angustifolia Mill. on DSM-5–Defined Depressive Symptoms, Sleep Quality, and Fatigue: A Scoping Review of Randomized Controlled Trials | International Journal of Drug Research i
+- new | 2026 | 10.9734/jocamr/2026/v27i11792 | article | Effect of Foot Reflexology with Aromatic Oil to Assess Sleep Quality among Healthy Young Adults: A Randomized Controlled Trial | Journal of Complementary and Alternative
+- new | 2026 | 10.64898/2026.06.27.26356736 | preprint | Effect of Inhaled Lavender Aromatherapy on Preoperative Anxiety in Patients Undergoing Tooth Extraction: A Randomized Controlled Trial | medRxiv
+- new | 2025 | 10.1093/ijnp/pyaf052.123 | conference-abstract | EFFICACY OF SILEXAN IN PATIENTS WITH A MAJOR DEPRESSIVE EPISODE – RESULTS FROM A MULTI-CENTRE, DOUBLE-BLIND, RANDOMISED, PLACEBO- AND REFERENCE-CONTROLLED PHASE III TRIAL | The International Journal of Neuropsycho
+- new | 2025 | 10.21203/rs.3.rs-5944481/v1 | preprint | The effect of lavender essential oil for delirium in elderly ICU patients: Study protocol for a double blind, randomized, placebo-controlled trial | Research Square
+- new | 2025 | 10.26630/jk.v16i3.5376 | article | Analysis of Lavandula angustifolia Aromatherapy Relaxation on Stress Levels and Sleep Quality in Kidney Failure Patients | Jurnal Kesehatan
+- new | 2024 | 10.1192/j.eurpsy.2024.479 | article | Efficacy of Silexan in Patients with a Major Depressive Episode – First Results from a Multi-centre, Double-blind, Randomised, Placebo- and Reference-controlled Phase III Trial | European Psychiatry
+- new | 2023 | https://openalex.org/W7120550307 | dissertation | Effectiveness of aromatherapy with lavender oil angustifolia in post-operative cardic surgery pain: randomized clinical trial | LA Referencia (Red Federada de Repositor
+- new | 2023 | 10.1016/j.phyplu.2023.100430 | article | The therapeutic effect of the extracts of Lavandula angustifolia and Dracocephalum ruyschiana besides sertraline on patients with mild to moderate depression: A double-blind contro | Phytomedicine Plus
+- new | 2023 | 10.57912/23838465 | dissertation | A Feasibility Study of The Effects of Lavandula Angustifolia Aromatherapy on the Incidence and Severity of Acute Pain in Pediatric Patients | American University Research Archive
+- new | 2022 | 10.18502/tim.v7i4.11485 | article | The Effect of Lavender Inhalation on the Pain Perception of Orthodontic Separator Placement: An Open-Label Randomized Controlled Trial | Traditional and Integrative Medicine
+- new | 2022 | 10.18203/2349-3259.ijct20221871 | article | The effect of lavender oil inhalation on pain, anxiety, and sleep quality after coronary artery bypass graft: a randomized controlled trial protocol | International Journal of Clinical Trials
+- new | 2022 | 10.4067/s0719-81322022000200083 | article | Evaluation of the efficacy of essential oils of Lavandula angustifolia and Eucalyptus globulus for the control of Varroa destructor in Apis mellifera: A randomised field study | Austral journal of veterinary sciences
+- new | 2022 | 10.6084/m9.figshare.19906438 | dataset | LAVENDER ESSENTIAL OIL FOR SPINAL PAIN IN OBESE WOMEN: A CLINICAL TRIAL | Figshare
+- new | 2022 | 10.1016/j.nsa.2022.100450 | review | Results from a meta-analysis of placebo-controlled clinical trials with Silexan in patients with anxiety disorders | Neuroscience Applied
+- new | 2022 | 10.26444/jpccr/150090 | article | A randomized controlled trial evaluating the efficacy and safety of a MYCOFUNGI CREAM in patients with skin mycoses | Journal of Pre-Clinical and Clinical Res
+- new | 2022 | 10.2478/fon-2022-0022 | article | Lavender aromatherapy on anxiety and depression in patients with Acute Coronary Syndrome: a single-blind randomized clinical trial | Frontiers of Nursing
+- new | 2021 | 10.1590/s1808-185120212003243743 | article | LAVENDER ESSENTIAL OIL FOR SPINAL PAIN IN OBESE WOMEN: A CLINICAL TRIAL | Coluna/Columna
+- new | 2020 | 10.1093/sleep/zsaa056.495 | article | Effect of Lavender Essential Oil on Sleep in Postmenopausal Women with Insomnia: Double-Blind Randomized Controlled Trial | SLEEP
+- new | 2020 | 10.1186/s41606-020-00047-x | article | Comparing the effect of aromatherapy with peppermint and lavender on the sleep quality of cardiac patients: a randomized controlled trial | Sleep Science and Practice
+- new | 2020 | 10.52547/sjku.25.5.37 | article | Determination of the Effect of Iranian lavandula on Tremor in the Patients with Multiple Sclerosis: A Randomized Controlled Trial | Scientific Journal of Kurdistan Universi
+- new | 2020 | 10.32598/jccnc.6.2.34.2 | article | The Effect of Aromatherapy and the Benson Relaxation Technique on the Anxiety of Patients With Acute Coronary Syndrome: Randomized Controlled Trial | Journal of Client-centered Nursing Care
+- new | 2019 | 10.29252/jmp.2.70.162 | article | The Effect of Aromatherapy with Lavender Essence on Depression and Headache Disability in Migraine Patients: A Randomized Clinical Trial | Journal of Medicinal Plants
+- new | 2019 | https://openalex.org/W3167112820 | article | EFFECT OF SLOW DEEP BREATHING AND AROMATHERA-PY OF LAVENDER (LAVANDULA ANGUSTIFOLIA) ON BLOOD PRESSURE IN HYPERTENSION PATIENTS IN PANTI WERDHA ILOMATA OF GORONTALO CITY | 
+- new | 2018 | 10.15419/bmrat.v5i3.423 | article | The effect of aromatherapy using Lavender (Lavandula angustifolia Miller) and Citrus aurantium L. extracts to treat anxiety of patients undergoing laparoscopic cholecystectomy: A r | Biomedical Research and Therapy
+- new | 2018 | 10.5455/jcmr.20171019022824 | article | Anxiolytic-like effect of Lippia alba essential oil: A randomized, placebo-controlled trial | Journal of Complementary Medicine Resear
+- new | 2017 | https://openalex.org/W3095697579 | article | LAVANDULA ANGUSTIFOLIA MILL. FOR THE TREATMENT OF MILD TO MODERATE DEPRESSION. A DOUBLE-BLINED, RANDOMIZED TRIAL IN COMPARISON WITH FLUOXETINE | 
+- new | 2016 | https://openalex.org/W2482037691 | article | Comparing the effect of Boswellia serrata and Lavandula angustifolia extract administration with the placebo on improvement of premature ejaculation during methadone treatment of o | Journal of Medicinal Plants
+- new | 2014 | 10.15296/ijwhr.2014.42 | article | Phytochemical and Anti-oxidant Activity of Lavandula Angustifolia Mill. Essential oil on Preoperative Anxiety in Patients undergoing Diagnostic Curettage | International Journal of Women s Health 
+- new | 2011 | 10.1016/s0924-9338(11)72330-6 | conference-abstract | The effect of lavandula angustifolia in the treatment of depression | European Psychiatry
+- new | 1993 | 10.17660/actahortic.1993.332.33 | conference-paper | AROMATHERAPY - A CLINICAL TRIAL | Acta Horticulturae
+
+## lentinula-edodes (Lentinula edodes) - name clause: "Lentinula edodes"[tiab] OR "Lentinus edodes"[tiab] OR "shiitake"[tiab] OR "lentinan"[ti]
+
+### PubMed HT - 113 hits, 113 not already listed above, 111 new
+- HELD REF-3641 | 2026 | 42648714 | Meta-Analysis/Systematic Review | Lentinula edodes in Cancer Treatment: A Systematic Review and Meta-Analysis. | Integr Cancer Ther
+- new | 2026 | 41971609 |  | Immunomodulatory Effects of Zinc and Selenium-Enriched Lentinula edodes Extract: Biochemical Characterization and Bioactivity Relevant to Tuberculosis. | Food Sci Nutr
+- new | 2026 | 42180284 |  | Nutritional and economic evaluation of fermented durian peel on laying duck performance and yolk omega profile. | J Adv Vet Anim Res
+- new | 2026 | 42245461 |  | Dietary fermented cassava peel improves laying performance, yolk fatty acid profile, and economic return in laying hens. | Vet World
+- new | 2026 | 43079973 |  | Shiitake Mushroom Extract (AHCC®): Enhancing Clearance of HPV Infection with Clinical Evidence. | Clin Exp Dermatol
+- new | 2026 | 41528538 |  | Health risk assessment of cadmium exposure via multiple pathways in preschool children from the inland region of Northwest China. | Environ Monit Assess
+- new | 2025 | 40860821 |  | A placebo-controlled study of the doses and efficacy of Lentinula edodes mycelia for oxaliplatin-induced peripheral neuropathy in colorectal cancer. | Front Oncol
+- new | 2025 | 40244191 | Review | Lentinula edodes as a Source of Bioactive Compounds with Therapeutical Potential in Intestinal Inflammation and Colorectal Cancer. | Int J Mol Sci
+- new | 2024 | 38672336 |  | The Canine Gut Health: The Impact of a New Feed Supplement on Microbiota Composition. | Animals (Basel)
+- new | 2024 | 38100922 | Meta-Analysis/Systematic Review | Systematic review and meta-analysis on the efficacy and safety of Injectable Lentinan combined with chemotherapy in the treatment of gastric cancer. | Phytomedicine
+- new | 2024 | 39428405 |  | Prognostic model for gastric cancer patients with COVID-19 and network pharmacology study on treatment by lentinan. | Sci Rep
+- new | 2024 | 38788041 | Meta-Analysis/Systematic Review | Investigation on the efficiency of lentinan for injection combining cisplatin on treating malignant pleural effusion based on systematic review and meta-analysis. | Medicine (Baltimore)
+- new | 2023 | 37193480 | Scoping Review | Therapeutic Effects of Medicinal Mushrooms on Gastric, Breast, and Colorectal Cancer: A Scoping Review. | Cureus
+- new | 2023 | 35950537 | Randomized Controlled Trial | Efficacy of Lentinula edodes Mycelia Extract on Chemotherapy-Related Tasted Disorders in Pancreatic Cancer Patients. | Nutr Cancer
+- new | 2023 | 38108068 |  | Safety and efficacy of lentinan nasal drops in patients infected with the variant of COVID-19: a randomized, placebo-controlled trial. | Front Pharmacol
+- new | 2023 | 38222955 |  | Role of Biobran (Arabinoxylan Rice Bran) on Patients with Advanced Stage Hepatocellular Carcinoma. | Euroasian J Hepatogastroenterol
+- new | 2023 | 37256902 | Research Support, Non-U.S. Gov't | Production of 17 strains of edible mushroom grown on corn stover and its effect on the chemical composition and ruminal in vitro digestibility of the residual substrate. | PLoS One
+- new | 2022 | 35814366 |  | AHCC(®) Supplementation to Support Immune Function to Clear Persistent Human Papillomavirus Infections. | Front Oncol
+- new | 2022 | 34875322 |  | Immunomodulatory activity of β-glucan polysaccharides isolated from different species of mushroom - A potential treatment for inflammatory lung conditions. | Sci Total Environ
+- new | 2022 | 35151367 | Clinical Trial Protocol | Efficacy of active hexose correlated compound on survival of patients with resectable/borderline resectable pancreatic cancer: a study protocol for a double-blind randomized phase  | Trials
+- new | 2022 | 34488129 |  | Improved accuracy of geographical origin identification of shiitake grown in sawdust medium: A compound-specific isotope model-based pilot study. | Food Chem
+- new | 2022 | 35075934 | Clinical Trial/Research Support, Non-U.S. Gov't | Preventing Recurrence of Hepatocellular Carcinoma After Curative Hepatectomy With Active Hexose-correlated Compound Derived From Lentinula edodes Mycelia. | Integr Cancer Ther
+- new | 2021 | 33761711 | Systematic Review | Lentinan combined with cisplatin for the treatment of non-small cell lung cancer. | Medicine (Baltimore)
+- new | 2021 | 34947058 |  | Chromosome-Wide Characterization of Intragenic Crossover in Shiitake Mushroom, Lentinula edodes. | J Fungi (Basel)
+- new | 2021 | 34375514 | Randomized Controlled Trial | Effects of Shiitake Culinary-Medicinal Mushroom, Lentinus edodes (Agaricomycetes), Bars on Lipid and Antioxidant Profiles in Individuals with Borderline High Cholesterol: A Double- | Int J Med Mushrooms
+- new | 2021 | 33876798 | Systematic Review | Effects of fungal beta-glucans on health - a systematic review of randomized controlled trials. | Food Funct
+- new | 2021 | 34359426 |  | Efficacy and Safety of Aronia, Red Ginseng, Shiitake Mushroom, and Nattokinase Mixture on Insulin Resistance in Prediabetic Adults: A Randomized, Double-Blinded, Placebo-Controlled | Foods
+- new | 2021 | 34086127 | Comparative Study | Nutritional impact of active hexose-correlated compound for patients with resectable or borderline-resectable pancreatic cancer treated with neoadjuvant therapy. | Surg Today
+- new | 2021 | 33580297 | Randomized Controlled Trial | Modulation of human intestinal microbiota in a clinical trial by consumption of a β-D-glucan-enriched extract obtained from Lentinula edodes. | Eur J Nutr
+- new | 2021 | 33309412 | Research Support, Non-U.S. Gov't/Systematic Review | Fungal beta-glucans as adjuvants for treating cancer patients - A systematic review of clinical trials. | Clin Nutr
+- new | 2021 | 34444843 | Randomized Controlled Trial | Adjuvant Effect of Orally Applied Preparations Containing Non-Digestible Polysaccharides on Influenza Vaccination in Healthy Seniors: A Double-Blind, Randomised, Controlled Pilot T | Nutrients
+- new | 2020 | 32535483 | Review | Intrathoracic infusion therapy with Lentinan and chemical irritants for malignant pleural effusion: a systematic review and meta-analysis of 65 randomized controlled trials. | Phytomedicine
+- new | 2020 | 32706908 |  | Purified β-glucans from the Shiitake mushroom ameliorates antibiotic-resistant Klebsiella pneumoniae-induced pulmonary sepsis. | Lett Appl Microbiol
+- new | 2020 | 32162896 |  | Possible therapeutic role of a highly standardized mixture of active compounds derived from cultured Lentinula edodes mycelia (AHCC) in patients infected with 2019 novel coronaviru | Minerva Gastroenterol Dietol
+- new | 2020 | 32749096 | Randomized Controlled Trial | A Quality-of-Life Study in Healthy Adults Supplemented with Lentinex® Beta-Glucan of Shiitake Culinary-Medicinal Mushroom, Lentinus edodes (Agaricomycetes). | Int J Med Mushrooms
+- new | 2020 | 30460541 |  | Immunomodulatory Effect of Lentinan on Aberrant T Subsets and Cytokines Profile in Non-small Cell Lung Cancer Patients. | Pathol Oncol Res
+- new | 2019 | 31618905 | Comparative Study/Randomized Controlled Trial | Modulation of T Regulatory and Dendritic Cell Phenotypes Following Ingestion of Bifidobacterium longum, AHCC(®) and Azithromycin in Healthy Individuals. | Nutrients
+- new | 2018 | 29558822 |  | Effects of AHCC® on Immune and Stress Responses in Healthy Individuals. | J Evid Based Integr Med
+- new | 2018 | 30043277 | Review | Lentinan as an immunotherapeutic for treating lung cancer: a review of 12 years clinical studies in China. | J Cancer Res Clin Oncol
+- new | 2018 | 29222887 |  | Relationship between umami taste acuity with sweet or bitter taste acuity and food selection in Japanese women university students. | Asia Pac J Clin Nutr
+- new | 2017 | 28811898 |  | Lentinula edodes mycelia extract plus adjuvant chemotherapy for breast cancer patients: Results of a randomized study on host quality of life and immune function improvement. | Mol Clin Oncol
+- new | 2016 | 27548491 | Clinical Study | Improvement of QOL and Immunological Function With Lentinula Edodes Mycelia in Patients Undergoing Cancer Immunotherapy: An Open Pilot Study. | Altern Ther Health Med
+- new | 2016 | 27501505 | Clinical Trial, Phase III/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Randomised phase III study of S-1 alone versus S-1 plus lentinan for unresectable or recurrent gastric cancer (JFMC36-0701). | Eur J Cancer
+- HELD REF-3640 | 2015 | 25866155 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Consuming Lentinula edodes (Shiitake) Mushrooms Daily Improves Human Immunity: A Randomized Dietary Intervention in Healthy Young Adults. | J Am Coll Nutr
+- new | 2015 | 26333154 | Clinical Trial | Antioxidant and Anticoagulant Status Were Improved by Personalized Dietary Intervention Based on Biochemical and Clinical Parameters in Cancer Patients. | Nutr Cancer
+- new | 2014 | 24755139 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Dietary supplementation with rice bran fermented with Lentinus edodes increases interferon-γ activity without causing adverse effects: a randomized, double-blind, placebo-controlle | Nutr J
+- new | 2014 | 24168107 | Controlled Clinical Trial | Effect of mushroom diet on pharmacokinetics of gabapentin in healthy Chinese subjects. | Br J Clin Pharmacol
+- new | 2014 | 25335712 |  | [Evaluation of immunity in elderly patients with unresectable gastric cancer receiving S-1/Lentinan combination chemotherapy]. | Gan To Kagaku Ryoho [jpn]
+- new | 2013 | 23756400 | Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Effect of shiitake (Lentinus edodes) extract on antioxidant and inflammatory response to prolonged eccentric exercise. | J Physiol Pharmacol
+- new | 2013 | 23886130 | Research Support, Non-U.S. Gov't | Efficacy of oral administration of Lentinula eododes mycelia extract for breast cancer patients undergoing postoperative hormone therapy. | Asian Pac J Cancer Prev
+- new | 2013 | 23874107 |  | Evaluation of host quality of life and immune function in breast cancer patients treated with combination of adjuvant chemotherapy and oral administration of Lentinula edodes mycel | Onco Targets Ther
+- new | 2012 | 23267884 |  | [Evaluation of quality of life and immune function in cancer patients receiving combined immunotherapy and oral administration of lentinula edodes mycelia extract]. | Gan To Kagaku Ryoho [jpn]
+- new | 2012 | 22500081 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The anticaries effect of a food extract (shiitake) in a short-term clinical study. | J Biomed Biotechnol
+- new | 2012 | 22200763 | Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Combination therapy with lentinan improves outcomes in patients with esophageal carcinoma. | Mol Med Rep
+- new | 2011 | 21994907 |  | Lentinan prolonged survival in patients with gastric cancer receiving S-1-based chemotherapy. | World J Clin Oncol
+- new | 2011 | 22164761 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Supplementation with a soluble β-glucan exported from Shiitake medicinal mushroom, Lentinus edodes (Berk.) singer mycelium: a crossover, placebo-controlled study in healthy elderly | Int J Med Mushrooms
+- new | 2011 | 22126542 | Research Support, Non-U.S. Gov't | Efficacy of orally administered Lentinula edodes mycelia extract for advanced gastrointestinal cancer patients undergoing cancer chemotherapy: a pilot study. | Asian Pac J Cancer Prev
+- new | 2011 | 21598414 | Clinical Trial/Research Support, Non-U.S. Gov't | Efficacy and safety of orally administered Lentinula edodes mycelia extract for patients undergoing cancer chemotherapy: a pilot study. | Am J Chin Med
+- new | 2011 | 21910335 | Randomized Controlled Trial | [Clinical observation of thermotherapy combined with thoracic injection of lentinan in treatment of cancerous hydrothorax of patients with lung cancer]. | Zhongguo Zhong Xi Yi Jie He Za Zhi [chi]
+- new | 2011 | 21912481 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Testing a low molecular mass fraction of a mushroom (Lentinus edodes) extract formulated as an oral rinse in a cohort of volunteers. | J Biomed Biotechnol
+- new | 2010 | 20422897 | Clinical Trial/Multicenter Study/Research Support, Non-U.S. Gov't | Improvement of QOL and prognosis by treatment of superfine dispersed lentinan in patients with advanced gastric cancer. | Hepatogastroenterology
+- new | 2010 | 20332683 |  | [Provision for adverse effect of S-1 containing chemotherapy in patients with advanced digestive cancer--combination with superfine dispersed lentinan]. | Gan To Kagaku Ryoho [jpn]
+- new | 2009 | 19596954 | Meta-Analysis | Individual patient based meta-analysis of lentinan for unresectable/recurrent gastric cancer. | Anticancer Res
+- new | 2009 | 19579640 | Randomized Controlled Trial | Lentinan with S-1 and paclitaxel for gastric cancer chemotherapy improve patient quality of life. | Hepatogastroenterology
+- new | 2009 | 19579616 | Multicenter Study/Research Support, Non-U.S. Gov't | Clinical efficacy of superfine dispersed lentinan (beta-1,3-glucan) in patients with hepatocellular carcinoma. | Hepatogastroenterology
+- new | 2009 | 19453066 | Clinical Trial/Multicenter Study/Research Support, Non-U.S. Gov't | Efficacy of oral administered superfine dispersed lentinan for advanced pancreatic cancer. | Hepatogastroenterology
+- new | 2008 | 19106583 | Clinical Trial, Phase III/Multicenter Study/Randomized Controlled Trial | [Clinical trial of non-specific immunotherapy using Lentinan in advanced or recurrent gastric cancer]. | Gan To Kagaku Ryoho [jpn]
+- new | 2008 | 18670743 | Randomized Controlled Trial | Clinical application of a combination therapy of lentinan, multi-electrode RFA and TACE in HCC. | Adv Ther
+- new | 2008 | 18661940 | Research Support, Non-U.S. Gov't | Thermally induced conformation transition of triple-helical lentinan in NaCl aqueous solution. | J Phys Chem B
+- new | 2007 | 18202543 | Clinical Trial, Phase I/Research Support, Non-U.S. Gov't | A Phase I study of the safety of the nutritional supplement, active hexose correlated compound, AHCC, in healthy volunteers. | J Nutr Sci Vitaminol (Tokyo)
+- new | 2006 | 16897983 | Clinical Trial/Multicenter Study | [S-1 combined with lentinan in patients with unresectable or recurrent gastric cancer]. | Gan To Kagaku Ryoho [jpn]
+- new | 2005 | 16121931 | Review | [Anticancer immunotherapy with perorally effective lentinan]. | Gan To Kagaku Ryoho [jpn]
+- new | 2005 | 16315865 |  | [Evaluation of host immunity and side effects in breast cancer patients treated with adjuvant chemotherapy (FEC therapy)]. | Gan To Kagaku Ryoho [jpn]
+- new | 2003 | 14619521 |  | [TS-1 and lentinan combination immunochemotherapy for advanced or recurrent gastric cancer: a preliminary report]. | Gan To Kagaku Ryoho [jpn]
+- new | 2003 | 12938267 |  | [Usefulness of TS-1 and lentinan combination immunochemotherapy in advanced or recurrent gastric cancer--pilot study aiming at a randomized trial]. | Gan To Kagaku Ryoho [jpn]
+- new | 2003 | 14518408 | Clinical Trial/Multicenter Study/Research Support, Non-U.S. Gov't | [Pilot study of TS-1 combined with lentinan in patients with unresectable or recurrent advanced gastric cancer]. | Gan To Kagaku Ryoho [jpn]
+- new | 2002 | 12385925 | Clinical Trial/Comparative Study/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Effects of a mushroom mycelium extract on the treatment of prostate cancer. | Urology
+- new | 2002 | 12465402 | Case Reports | [Postoperative adjuvant immunochemotherapy using Lentinan for advanced gastric carcinoma patients with metastasis in the regional lymph nodes and serosal invasion]. | Gan To Kagaku Ryoho [jpn]
+- new | 2000 | 11205205 | Clinical Trial/Research Support, Non-U.S. Gov't | Immunoregulatory effects of the antitumor polysaccharide lentinan on Th1/Th2 balance in patients with digestive cancers. | Anticancer Res
+- new | 1999 | 10522061 | Clinical Trial/Multicenter Study/Randomized Controlled Trial | A multi-institutional prospective study of lentinan in advanced gastric cancer patients with unresectable and recurrent diseases: effect on prolongation of survival and improvement | Hepatogastroenterology
+- new | 1999 | 10458542 | Clinical Trial/Randomized Controlled Trial | The preoperative administration of lentinan ameliorated the impairment of natural killer activity after cardiopulmonary bypass. | Int J Immunopharmacol
+- new | 1998 | 10503166 | Clinical Trial/Clinical Trial, Phase I/Clinical Trial, Phase II/Randomized Controlled Trial | A placebo-controlled trial of the immune modulator, lentinan, in HIV-positive patients: a phase I/II trial. | J Med
+- new | 1998 | 11477860 | Clinical Trial/Randomized Controlled Trial | [Immune modulatory and therapeutic effect of lentinan on condyloma acuminatum]. | Zhongguo Zhong Xi Yi Jie He Za Zhi [chi]
+- new | 1998 | 9600497 | Clinical Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S./Research Support, U.S. Gov't, P.H.S. | Eosinophilia and gastrointestinal symptoms after ingestion of shiitake mushrooms. | J Allergy Clin Immunol
+- new | 1998 | 10681809 | Clinical Trial/Randomized Controlled Trial | [Effects of lentinan of peripheral blood mononuclear cell expression of interleukin-2 receptor in patients with chronic hepatitis B in vivo and in vitro]. | Hunan Yi Ke Da Xue Xue Bao [chi]
+- new | 1997 | 9210882 | Clinical Trial | Clinical evaluation of anti-tumor effects of Lentinan combined with chemotherapy in the treatment of various malignancies. | Gan To Kagaku Ryoho
+- new | 1997 | 9252710 | Clinical Trial | Lentinan potentiates immunity and prolongs the survival time of some patients. | Anticancer Res
+- new | 1996 | 8796449 | Comparative Study | In vitro and in vivo analysis of human leukocyte binding by the antitumor polysaccharide, lentinan. | Int J Immunopharmacol
+- new | 1995 | 8721897 | Clinical Trial/Clinical Trial, Phase II/Randomized Controlled Trial | A phase II controlled study of a combination of the immune modulator, lentinan, with didanosine (ddI) in HIV patients with CD4 cells of 200-500/mm3. | J Med
+- new | 1994 | 8128920 | Clinical Trial/Multicenter Study/Randomized Controlled Trial | [Effect of lentinan for advanced prostate carcinoma]. | Hinyokika Kiyo [jpn]
+- new | 1993 | 8467158 |  | Effect of lentinan on lymphocyte subsets of peripheral blood, lymph nodes, and tumor tissues in patients with gastric cancer. | Surg Today
+- new | 1993 | 7691769 |  | Individual diversity of IL-6 generation by human monocytes with lentinan administration. | Int J Immunopharmacol
+- new | 1993 | 8267381 |  | Augmentation of lymphokine-activated killer cell activity by lentinan. | Anticancer Res
+- new | 1992 | 1582733 |  | Enhanced production of interleukin 1 and tumor necrosis factor by peripheral monocytes after lentinan administration in patients with gastric carcinoma. | Int J Immunopharmacol
+- new | 1992 | 1521921 |  | Enhanced induction of lymphokine-activated killer activity after lentinan administration in patients with gastric carcinoma. | Int J Immunopharmacol
+- new | 1991 | 2014026 |  | [Diversity of complement activation by lentinan, an antitumor polysaccharide, in gastric cancer patients]. | Nihon Geka Gakkai Zasshi [jpn]
+- new | 1990 | 2230448 |  | [Studies on usefulness of postoperative adjuvant chemotherapy with lentinan in patients with gastrointestinal cancer]. | Nihon Gan Chiryo Gakkai Shi [jpn]
+- new | 1990 | 2137155 |  | [Antigenic phenotype of the lymphocytic component of regional lymph nodes in patients with cervical cancer and its modulation by lentinan]. | Nihon Sanka Fujinka Gakkai Zasshi [jpn]
+- new | 1989 | 2547863 |  | Effect of lentinan on superoxide dismutase enzyme activity in vitro. | Immunopharmacol Immunotoxicol
+- new | 1989 | 2774594 | Case Reports | [Change of blood lentinan level in patients with advanced cancers]. | Gan To Kagaku Ryoho [jpn]
+- new | 1988 | 3257678 |  | [Effects of endoscopic intratumoral injection of lentinan in patients with gastric cancer]. | Gan To Kagaku Ryoho [jpn]
+- new | 1988 | 3265714 |  | Augmentative effect of lentinan on immune responses of pelvic lymph node lymphocytes in patients with uterine cervical cancer. | Nihon Sanka Fujinka Gakkai Zasshi
+- new | 1987 | 3101609 | Clinical Trial/Randomized Controlled Trial | [Synergistic action of lentinan (LNT) with endocrine therapy of breast cancer in rats and humans]. | Gan To Kagaku Ryoho [jpn]
+- new | 1987 | 3121179 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Clinical efficacy of lentinan on patients with stomach cancer: end point results of a four-year follow-up survey. | Cancer Detect Prev Suppl
+- new | 1987 | 3113339 | Clinical Trial/Comparative Study/Controlled Clinical Trial | [A comparative clinical trial with tegafur plus lentinan treatment at two different doses in advanced cancer]. | Gan To Kagaku Ryoho [jpn]
+- new | 1986 | 3083785 | Clinical Trial/Randomized Controlled Trial | [Randomized study of lentinan on patients with advanced gastric and colorectal cancer. Tohoku Lentinan Study Group]. | Gan To Kagaku Ryoho [jpn]
+- new | 1985 | 3867496 |  | [Clinical observation on the effect of lentinan (776) in improving cellular immunofunction in leukemia patients]. | Zhonghua Nei Ke Za Zhi [chi]
+- new | 1985 | 3918510 | Clinical Trial/Randomized Controlled Trial | [Results of phase III study of lentinan]. | Gan To Kagaku Ryoho [jpn]
+- new | 1983 | 6225393 |  | [Studies on the effect of lentinan on human immune system. II. In vivo effect on NK activity, MLR induced killer activity and PHA induced blastic response of lymphocytes in cancer  | Gan To Kagaku Ryoho [jpn]
+- new | 1983 | 6349538 | Clinical Trial/Randomized Controlled Trial | [Effects of lentinan in advanced or recurrent cases of gastric, colorectal, and breast cancer]. | Gan To Kagaku Ryoho [jpn]
+- new | 1982 | 6764117 | Clinical Trial | [Effect of lentinan administration of adrenalectomized rats and patients with breast cancer]. | Gan To Kagaku Ryoho [jpn]
+- new | 1982 | 7184439 |  | [Preoperative immunochemotherapy for gastric cancer patients--immunomodulating effect of levamisole and lentinan on cell-mediated immunity and regional lymph node]. | Gan To Kagaku Ryoho [jpn]
+- new | 1982 | 6186754 | Case Reports | [Effect of continuous intra-arterial infusion therapy with BLM-MMC-lentinan (B-M-L) in treating patients with hepatic metastases of esophageal cancer]. | Nihon Gan Chiryo Gakkai Shi [jpn]
+
+### PubMed SR - 22 hits, 13 not already listed above, 10 new
+- new | 2026 | 40765214 | Letter | Trends in Shiitake Mushroom-Induced Dermatitis: A Systematic Review of Reported Cases Over Time. | J Cutan Med Surg
+- new | 2026 | 42538439 | Scoping Review | Sustainable mushroom cultivation: a scoping review on circular bioeconomy practices and food system implications. | World J Microbiol Biotechnol
+- new | 2026 | 42201770 | Review | Therapeutic effects of Lentinan in gastrointestinal inflammation and carcinogenesis - A scoping review of evidence from preclinical and clinical studies. | Eur J Microbiol Immunol (Bp)
+- new | 2025 | 40592243 | Systematic Review | Structural basis of immunomodulation by edible fungal polysaccharides: From molecular characteristics to action mechanisms. | Carbohydr Res
+- HELD REF-2598 | 2023 | 37373268 | Review | Anti-Cancer Potential of Edible/Medicinal Mushrooms in Breast Cancer. | Int J Mol Sci
+- new | 2023 | 35343314 | Systematic Review | Vitamin B12 sources in non-animal foods: a systematic review. | Crit Rev Food Sci Nutr
+- new | 2023 | 37651416 | Research Support, Non-U.S. Gov't/Scoping Review | Modified rice bran arabinoxylan as a nutraceutical in health and disease-A scoping review with bibliometric analysis. | PLoS One
+- new | 2021 | 33157222 | Systematic Review | Immunomodulation of Chinese Herbal Medicines on NK cell populations for cancer therapy: A systematic review. | J Ethnopharmacol
+- HELD REF-3642 | 2019 | 31030752 | Research Support, Non-U.S. Gov't/Systematic Review | Mushroom polysaccharide lentinan for treating different types of cancers: A review of 12 years clinical studies in China. | Prog Mol Biol Transl Sci
+- new | 2019 | 31813467 | Research Support, Non-U.S. Gov't | Evaluation of Efficacy and Safety for Lentinan in the Control of the Malignant Pleural Effusions via Intrapleural Injection. | Am J Med Sci
+- new | 2017 | 28940986 | Meta-Analysis | Efficacy of biological response modifier lentinan with chemotherapy for advanced cancer: a meta-analysis. | Cancer Med
+- HELD REF-1169 | 2017 | 28054338 | Systematic Review | Clinical features of shiitake dermatitis: a systematic review. | Int J Dermatol
+- new | 2015 | 26548936 | Meta-Analysis/Systematic Review | A meta-analysis of lentinan injection combined with chemotherapy in the treatment of nonsmall cell lung cancer. | Indian J Cancer
+
+### PubMed SAFE - 362 hits, 173 not already listed above, 170 new
+- new | 2026 | 41261357 |  | Shiitake Dermatitis. | J Cutan Med Surg
+- new | 2026 | 42227903 | Case Reports | [A woman with 'whip marks']. | Ned Tijdschr Geneeskd [dut]
+- new | 2026 | 41589096 | Case Reports | Shiitake mushroom-induced flagellate erythema. | Oxf Med Case Reports
+- new | 2026 | 41371850 |  | Decoding the pharmacokinetics of intravenous lentinan: A multiscale journey from the blood to hepatic Kupffer cells' lysosomes. | Carbohydr Polym
+- new | 2026 | 41643971 |  | Mechanistic insights into the hepatic metabolism of lentinan: A TLR2-ROS-lysosome axis. | Int J Biol Macromol
+- new | 2026 | 42231050 | Letter | Flagellate Erythema From Mushroom Coffee: A Novel Exposure Route for Shiitake Dermatitis. | Int J Dermatol
+- new | 2026 | 41976523 |  | Atmospheric Cold Plasma Degradation of Fenvalerate Residues on Shiitake Mushrooms: Mechanisms, Toxicity Evolution, and Quality Effects. | Foods
+- new | 2026 | 41745291 |  | Transcriptomic and Physiological Profiling Reveals Metabolic Determinants and Key Regulatory Hubs of Fruiting Body Degeneration in Lentinula edodes. | J Fungi (Basel)
+- new | 2026 | 42654311 | Review | Immunomodulatory and Immunonutritional Effects of a Standardized Extract of Cultured Lentinula edodes Mycelia in Cancer: From Prevention to Perioperative Microenvironment Stabiliza | Nutrients
+- new | 2025 | 40887538 |  | Synbiotic microencapsulation of Lactiplantibacillus plantarum-lentinan for enhanced growth in broilers. | AMB Express
+- new | 2025 | 40709892 |  | Watch Your Plate: A Curious Case of Shiitake Dermatitis in India. | Indian Dermatol Online J
+- new | 2025 | 41302443 | Review | Fungal Polysaccharides as Modulators of Molecular Pathways in Liver Health. | Molecules
+- new | 2025 | 39843881 |  | Lentinan's effect on gut microbiota and inflammatory cytokines in 5-FU-induced mucositis mice. | AMB Express
+- new | 2025 | 40475276 |  | Supplementation of lentinan improves lactation performance by altering ruminal microorganisms and metabolites in dairy cows. | Anim Nutr
+- new | 2025 | 41360865 |  | Safety assessment and in vitro cytotoxicity profiling of fruiting bodies from Lentinula edodes (shiitake) strains in HeLa and MCF-7 cell lines. | Sci Rep
+- new | 2025 | 40507156 | Review | Critical Review on the Anti-Tumor Activity of Bioactive Compounds from Edible and Medicinal Mushrooms over the Last Five Years. | Nutrients
+- new | 2025 | 41320310 |  | Protective Effects of Maternal Administration of a Standardized Extract of Cultured Lentinula edodes Mycelia against Radiation-Induced Fetal Morphological Abnormalities. | Biol Pharm Bull
+- new | 2025 | 40075961 |  | Effect of Dietary Addition of Lentinus edodes on Rumen Flora, Lactation, and Health of Dairy Goats. | Animals (Basel)
+- new | 2025 | 40059267 | Case Reports | Shiitake Dermatitis: First Report From Turkey. | Contact Dermatitis
+- new | 2025 | 40414724 |  | Continuous Ingestion of a Standardized Extract of Cultured Lentinula edodes Mycelia Suppresses Spontaneous Carcinogenesis in a Murine Model. | Biol Pharm Bull
+- new | 2025 | 37345438 | Letter | Shiitake flagellate dermatitis: a case series from Italy. | Eur Ann Allergy Clin Immunol
+- new | 2025 | 39949544 |  | Effect of soluble dietary fiber extracted from Lentinula edodes (Berk.) Pegler on lipid metabolism and liver protection in mice on high-fat diet. | Front Nutr
+- new | 2025 | 41444353 |  | Lentinula edodes cultured extract intake alleviates long-term immune deregulation induced by early-life gut microbiota dysbiosis. | Sci Rep
+- new | 2025 | 41083025 | Multicenter Study/Observational Study | Emerging mycotoxic syndromes in France: Epidemiological trends and public health implications (2015-2022). | Toxicon
+- new | 2025 | 40054799 |  | Lentinan mitigates ulcerative colitis via the IL-22 pathway to repair the compromised mucosal barrier and enhance antimicrobial defense. | Int J Biol Macromol
+- new | 2024 | 39828361 |  | [Elucidation of Coloring Molecule Using a Simple Identification Method with a Color Reaction for Omphalotus japonicus]. | Shokuhin Eiseigaku Zasshi [jpn]
+- new | 2024 | 39490132 |  | Application of lentinan in suppression of Marek's disease virus infection. | Poult Sci
+- new | 2024 | 39214015 |  | Lentinan attenuates allergic airway inflammation and epithelial barrier dysfunction in asthma via inhibition of the PI3K/AKT/NF-κB pathway. | Phytomedicine
+- new | 2024 | 39077726 | Case Reports | Shiitake mushroom-induced flagellate dermatitis: The first case reported in Nepal. | Clin Case Rep
+- new | 2024 | 39057091 | Review | Medicinal Mushrooms in Metastatic Breast Cancer: What Is Their Therapeutic Potential as Adjuvant in Clinical Settings? | Curr Issues Mol Biol
+- new | 2024 | 39057469 |  | Development and Characterization of Hybrid Meat Analogs from Whey Protein-Mushroom Composite Hydrogels. | Gels
+- new | 2024 | 38567230 | Case Reports | Recognizing Flagellate Erythema in Skin of Color: A Case of Shiitake Dermatitis. | Cureus
+- new | 2024 | 39245482 | Research Support, Non-U.S. Gov't | Insights into oral lentinan immunomodulation: Dectin-1-mediated lymphatic transport from Peyer's patch M cells to mononuclear phagocytes. | Carbohydr Polym
+- new | 2024 | 39282616 |  | Agaricus bisporus mushroom anaphylaxis: A case report and review of the literature. | J Allergy Clin Immunol Glob
+- new | 2024 | 38243855 | Case Reports | Shiitake flagellate dermatitis: The first paediatric case? | Contact Dermatitis
+- new | 2024 | 38636260 |  | Detoxification of tetracycline and synthetic dyes by a newly characterized Lentinula edodes laccase, and safety assessment using proteomic analysis. | Ecotoxicol Environ Saf
+- new | 2024 | 39382253 | Research Support, Non-U.S. Gov't | Edodes Cultured Extract Regulates Immune Stress During Puberty and Modulates MicroRNAs Involved in Mammary Gland Development and Breast Cancer Suppression. | Cancer Med
+- new | 2024 | 39339266 |  | Enhancing Radiotherapy Sensitivity in Prostate Cancer with Lentinan-Functionalized Selenium Nanoparticles: Mechanistic Insights and Therapeutic Potential. | Pharmaceutics
+- new | 2024 | 38257149 |  | Hepatoprotection of a Standardized Extract of Cultured Lentinula edodes Mycelia against Liver Injury Induced by Ischemia-Reperfusion and Partial Hepatectomy. | Nutrients
+- new | 2024 | 39291630 |  | The dose-dependent mechanism behind the protective effect of lentinan against acute alcoholic liver injury via proliferating intestinal probiotics. | Food Funct
+- new | 2024 | 37526876 |  | Levels and Health Risk Assessment of Inorganic Arsenic, Methylmercury, and Heavy Metals in Edible Mushrooms Collected from Online Supermarket in China. | Biol Trace Elem Res
+- new | 2023 | 37819956 | Case Reports | Shiitake Dermatitis. | N Engl J Med
+- new | 2023 | 36200588 | Letter | Shiitake dermatitis: a case report of a rare mushroom-induced dermatitis in the United States. | Int J Dermatol
+- new | 2023 | 36057923 |  | In silico tools to assess the potential allergenicity of shiitake mushrooms (Lentinula edodes). | J Sci Food Agric
+- new | 2023 | 36963728 |  | Transcriptomics of natural and synthetic vitamin D in human hepatocyte lipotoxicity. | J Nutr Biochem
+- new | 2023 | 37742572 |  | Lentinan protects Caenorhabditis elegans against fluopyram-induced toxicity through DAF-16 and SKN-1 pathways. | Ecotoxicol Environ Saf
+- new | 2023 | 37541318 | Research Support, Non-U.S. Gov't | "Eritadenine as a regulator of anxiety Disorders: An experimental and docking Approach". | Neurosci Lett
+- new | 2023 | 36938950 | Letter/Comment | Shiitake dermatitis: clinical forms of presentation. | Int J Dermatol
+- new | 2023 | 37687141 | Review | Modified Rice Bran Arabinoxylan by Lentinus edodes Mycelial Enzyme as an Immunoceutical for Health and Aging-A Comprehensive Literature Review. | Molecules
+- new | 2023 | 37439832 |  | Multi-stage nuclear transcriptomic insights of morphogenesis and biparental role changes in Lentinula edodes. | Appl Microbiol Biotechnol
+- new | 2023 | 36804157 |  | Oral Intake of Combined Natural Immunostimulants Suppresses the 7,12-DMBA/ Croton Oil Induced Two-step Skin Carcinogenesis in Swiss Albino Mice. | Gulf J Oncolog
+- new | 2023 | 37834058 |  | Lentinula edodes Cultured Extract and Rouxiella badensis subsp. acadiensis (Canan SV-53) Intake Alleviates Immune Deregulation and Inflammation by Modulating Signaling Pathways and | Int J Mol Sci
+- new | 2023 | 35640040 | Case Reports | Shiitake Dermatitis and Potential Implications for Military Readiness. | Mil Med
+- new | 2022 | 36464462 |  | Shiitake Flagellate Dermatitis. | Mayo Clin Proc
+- new | 2022 | 35391534 |  | Shiitake flagellate dermatitis. | Ital J Dermatol Venerol
+- new | 2022 | 35466167 | Case Reports | Bowel Obstruction due to Shiitake Mushrooms: Diagnostic Features on Computed Tomography. | Intern Med
+- new | 2022 | 35414836 |  | Safety of pea and rice protein fermented by Shiitake (Lentinula edodes) mycelia as a Novel food pursuant to Regulation (EU) 2015/2283. | EFSA J
+- new | 2022 | 36138494 |  | A new method for the preparation of a purified glucosylceramide and ceramide from shiitake mushroom. | Biosci Biotechnol Biochem
+- new | 2022 | 36380080 | Research Support, Non-U.S. Gov't | Lentinan improves intestinal inflammation and gut dysbiosis in antibiotics-induced mice. | Sci Rep
+- new | 2022 | 36115955 |  | Edible algae (Ecklonia cava) bioprocessed with mycelia of shiitake (Lentinula edodes) mushrooms in liquid culture and its isolated fractions protect mice against allergic asthma. | BMC Complement Med Ther
+- new | 2022 | 35404185 | Observational Study | Shiitake dermatitis: experience of the Poison Control Centre Network in France from 2014 to 2019. | Clin Toxicol (Phila)
+- new | 2022 | 35050176 |  | Lentinan Protects against Nonalcoholic Fatty Liver Disease by Reducing Oxidative Stress and Apoptosis via the PPARα Pathway. | Metabolites
+- new | 2022 | 35199807 |  | Hypoglycemic effect of a novel polysaccharide from Lentinus edodes on STZ-induced diabetic mice via metabolomics study and Nrf2/HO-1 pathway. | Food Funct
+- new | 2022 | 35313999 | Research Support, Non-U.S. Gov't | Lentinan alleviates arsenic-induced hepatotoxicity in mice via downregulation of OX40/IL-17A and activation of Nrf2 signaling. | BMC Pharmacol Toxicol
+- new | 2021 | 34132531 |  | Mechanism of Lentinan Intestinal Absorption: Clathrin-Mediated Endocytosis and Macropinocytosis. | J Agric Food Chem
+- new | 2021 | 34795781 |  | Lentinan Combined with (125)I Brachytherapy for Recurrent Ovarian Cancer. | Evid Based Complement Alternat Med
+- new | 2021 | 34408892 | Case Reports | A case of shiitake dermatitis in the United States. | Oxf Med Case Reports
+- new | 2021 | 34533219 |  | Relationship between flavor and energy status in shiitake mushroom (Lentinula edodes) harvested at different developmental stages. | J Food Sci
+- new | 2021 | 33638755 |  | Quantification of ustalic acid, a chemotaxonomic marker, in Tricholoma ustale using liquid chromatography-mass spectrometry. | J Nat Med
+- new | 2021 | 33378763 |  | Lentinan Inhibited the Activation of Th2 Cells in Allergic Mice by Reducing the Amplitude of Changes in Biological Rhythm. | Int Arch Allergy Immunol
+- new | 2021 | 37465267 |  | A Culinary Misadventure: A Case Report of Shiitake Dermatitis. | J Educ Teach Emerg Med
+- new | 2021 | 34594953 |  | Mushroom Poisoning Outbreaks - China, 2020. | China CDC Wkly
+- new | 2021 | 34214422 |  | [Shiitake Mushroom-Induced Flagellate Erythema]. | Acta Med Port [por]
+- new | 2021 | 34194772 | Case Reports | A characteristic rash caused by Shiitake mushrooms - An emerging concern? | Clin Case Rep
+- new | 2021 | 34513811 |  | Lentinan-Based Oral Nanoparticle Loaded Budesonide With Macrophage-Targeting Ability for Treatment of Ulcerative Colitis. | Front Bioeng Biotechnol
+- new | 2021 | 34119545 |  | Lentinan as a natural stabilizer with bioactivities for preparation of drug-drug nanosuspensions. | Int J Biol Macromol
+- new | 2021 | 33279005 |  | Metabolic degradation of lentinan in liver mediated by CYP450 enzymes and epoxide hydrolase. | Carbohydr Polym
+- new | 2021 | 34386076 |  | A standardized extract of cultured Lentinula edodes mycelia downregulates cortactin in gemcitabine-resistant pancreatic cancer cells. | Oncol Lett
+- new | 2021 | 34414024 |  | What's for dinner this time?: DNA authentication of "wild mushrooms" in food products sold in the USA. | PeerJ
+- new | 2021 | 33449484 | Case Reports | Lentinan Dermatitis: Time to Rename Shiitake Dermatitis. | Dermatitis
+- new | 2021 | 33639084 |  | Antioxidant and Hepatoprotective Effects of Acidic-Hydrolysis Residue Polysaccharides from Shiitake Culinary-Medicinal Mushroom Lentinus edodes (Agaricomycetes) in Mice. | Int J Med Mushrooms
+- new | 2021 | 33709503 | Evaluation Study | Intensive pulsed light pretreatment combined with controlled temperature and humidity for convection drying to reduce browning and improve quality of dried shiitake mushrooms. | J Sci Food Agric
+- new | 2021 | 34790828 |  | Lentinan Attenuates Damage of the Small Intestinal Mucosa, Liver, and Lung in Mice with Gut-Origin Sepsis. | J Immunol Res
+- new | 2021 | 34825546 | Case Reports | Shiitake flagellate dermatitis (toxicoderma): A case report. | Natl Med J India
+- new | 2021 | 33944785 | Case Reports | Identification of Ribosomal Proteins as Cross-Reactive Allergens in a Case of Mushroom Allergy. | J Investig Allergol Clin Immunol
+- new | 2021 | 33925340 | Review | The Health-Promoting Properties and Clinical Applications of Rice Bran Arabinoxylan Modified with Shiitake Mushroom Enzyme-A Narrative Review. | Molecules
+- new | 2021 | 34477076 | Case Reports | Flagellate Dermatitis due to Bleomycin Intake. | Acta Dermatovenerol Croat
+- new | 2021 | 33918846 |  | Microbiological Safety and Sensory Quality of Cultivated Mushrooms (Pleurotus eryngii, Pleurotus ostreatus and Lentinula edodes) at Retail Level and Post-Retail Storage. | Foods
+- new | 2021 | 33964908 |  | A plant-based medicinal food inhibits the growth of human gastric carcinoma by reversing epithelial-mesenchymal transition via the canonical Wnt/β-catenin signaling pathway. | BMC Complement Med Ther
+- new | 2021 | 34224698 |  | Latcripin-7A from Lentinula edodes C(91-3) induces apoptosis, autophagy, and cell cycle arrest at G1 phase in human gastric cancer cells via inhibiting PI3K/Akt/mTOR signaling. | Eur J Pharmacol
+- new | 2020 | 32522923 |  | Shiitake Dermatitis. | Intern Med
+- new | 2020 | 33559591 |  | Shiitake Dermatitis. | Dtsch Arztebl Int
+- new | 2020 | 32614349 |  | Lentinan-functionalized selenium nanosystems with high permeability infiltrate solid tumors by enhancing transcellular transport. | Nanoscale
+- new | 2020 | 32069862 |  | Protective Role of Shiitake Mushroom-Derived Exosome-Like Nanoparticles in D-Galactosamine and Lipopolysaccharide-Induced Acute Liver Injury in Mice. | Nutrients
+- new | 2020 | 32666934 | Case Reports/Letter | Shiitake dermatitis: a type IV allergic hypersensitivity reaction to raw mushrooms. | Eur J Dermatol
+- new | 2020 | 32447870 | Case Reports/Review | [Flagellate dermatitis caused by the intake of shiitake mushrooms. A case report and review of the literature]. | Rev Alerg Mex [spa]
+- new | 2020 | 32306051 |  | Anti-intoxication and protective effects of a recombinant serine protease inhibitor from Lentinula edodes against acute alcohol-induced liver injury in mice. | Appl Microbiol Biotechnol
+- new | 2020 | 31864870 | Case Reports | Not a fungi to be with: Shiitake mushroom flagellate dermatitis. | Am J Emerg Med
+- new | 2020 | 33147547 |  | Quantitative analysis of the Tricholoma ustale-derived toxin, ustalic acid, in mushroom and food samples by LC-MS/MS. | Forensic Sci Int
+- new | 2019 | 32450024 | Review | Review of Bioactive Molecules Production, Biomass, and Basidiomata of Shiitake Culinary-Medicinal Mushrooms, Lentinus edodes (Agaricomycetes). | Int J Med Mushrooms
+- new | 2019 | 30732553 |  | Effects of vitamin D(2)-fortified shiitake mushroom on bioavailability and bone structure. | Biosci Biotechnol Biochem
+- new | 2019 | 30439442 | Review | Mushroom poisoning: A proposed new clinical classification. | Toxicon
+- new | 2019 | 30640757 | Case Reports | Histological Features of Flagellate Erythema. | Am J Dermatopathol
+- new | 2019 | 31416372 | Research Support, Non-U.S. Gov't | Bioactive Immunomodulatory Compounds: A Novel Combinatorial Strategy for Integrated Medicine in Oncology? BAIC Exposure in Cancer Cells. | Integr Cancer Ther
+- new | 2019 | 31156791 |  | Evaluation of lentinan effects on cytochrome P450 activity in rats by a cocktail method. | Iran J Basic Med Sci
+- new | 2019 | 31777421 |  | Activation of NF-E2 p45-related factor-2 transcription and inhibition of intestinal tumor development by AHCC, a standardized extract of cultured Lentinula edodes mycelia. | J Clin Biochem Nutr
+- new | 2019 | 31413838 | Case Reports | Two cases of small bowel obstruction due to a shiitake mushroom. | Gastroenterol Rep (Oxf)
+- new | 2019 | 31543768 | Case Reports | Flagellate Dermatitis by Shiitake Mushroom. | Case Rep Dermatol
+- new | 2019 | 31267916 | Case Reports | Small Bowel Obstruction with a Mass Due to an Impacted Shiitake Mushroom: Specific CT Images. | Am Surg
+- new | 2018 | 30869391 |  | [Shiitake dermatitis]. | Rev Prat [fre]
+- new | 2018 | 28970086 | Case Reports | A Case of Flagellate Dermatitis After Ingestion of Shiitake Mushrooms. | J Allergy Clin Immunol Pract
+- new | 2018 | 30263765 |  | Optimization of UV irradiation conditions for the vitamin D(2)-fortified shiitake mushroom (Lentinula edodes) using response surface methodology. | Food Sci Biotechnol
+- new | 2018 | 29124643 |  | Characteristics of radiocesium contaminations in mushrooms after the Fukushima nuclear accident: evaluation of the food monitoring data from March 2011 to March 2016. | Environ Sci Pollut Res Int
+- new | 2018 | 29479775 | Case Reports/Letter | A case of shiitake mushroom dermatitis. | Australas J Dermatol
+- new | 2018 | 29876541 | Evaluation Study | A sensitive and rapid radiolabelling method for the in vivo pharmacokinetic study of lentinan. | Food Funct
+- new | 2018 | 29767489 | Case Reports/Letter | Shiitake dermatosis in a Caucasian woman. | G Ital Dermatol Venereol
+- new | 2017 | 28385716 | Case Reports | Shiitake dermatitis. | CMAJ
+- new | 2017 | 29025164 |  | Shiitake dermatitis. | QJM
+- new | 2017 | 29469797 | Case Reports | A gastronomic delight? | Dermatol Online J
+- new | 2017 | 28628771 |  | Lentinan diminishes apoptotic bodies in the ileal crypts associated with S-1 administration. | Int Immunopharmacol
+- new | 2017 | 28804924 | Case Reports | Flagellate Dermatitis in a Child Most Likely Secondary to Doxorubicin. | Pediatr Dermatol
+- HELD REF-2630 | 2017 | 28690301 |  | [Rapid Identification Method of Omphalotus japonicus by Polymerase Chain Reaction-Restriction Fragment Length Polymorphism (PCR-RFLP)]. | Shokuhin Eiseigaku Zasshi [jpn]
+- new | 2017 | 29150072 | Case Reports | Shiitake mushroom-induced flagellate dermatitis. | Ann Allergy Asthma Immunol
+- new | 2017 | 28121274 |  | Multi-elemental analysis of Lentinula edodes mushrooms available in trade. | J Environ Sci Health B
+- new | 2017 | 28657277 | Case Reports | Shiitake Flagellate Dermatitis: the First Case Reported in Ireland. | Ir Med J
+- new | 2017 | 28528001 |  | A Lentinus edodes polysaccharide induces mitochondrial-mediated apoptosis in human cervical carcinoma HeLa cells. | Int J Biol Macromol
+- new | 2017 | 32264536 |  | Uptake of intraperitoneally administrated triple helical β-glucan for antitumor activity in murine tumor models. | J Mater Chem B
+- new | 2017 | 27888812 |  | A polysaccharide from Lentinus edodes inhibits human colon cancer cell proliferation and suppresses tumor growth in athymic nude mice. | Oncotarget
+- new | 2016 | 27649725 |  | Mushroom Extracts Decrease Bone Resorption and Improve Bone Formation. | Int J Med Mushrooms
+- new | 2016 | 27899975 |  | In vitro antitumor activity of Latcripin-15 regulator of chromosome condensation 1 domain protein. | Oncol Lett
+- new | 2016 | 27483228 |  | Chemical Composition and Inhibitory Effect of Lentinula edodes Ethanolic Extract on Experimentally Induced Atopic Dermatitis in Vitro and in Vivo. | Molecules
+- HELD REF-1168 | 2016 | 27566177 | Review | Shiitake Mushroom Dermatitis: A Review. | Am J Clin Dermatol
+- new | 2016 | 27130669 |  | Polysaccharide from Lentinus edodes combined with oxaliplatin possesses the synergy and attenuation effect in hepatocellular carcinoma. | Cancer Lett
+- new | 2016 | 27121155 |  | Lentinan mitigates therarubicin-induced myelosuppression by activating bone marrow-derived macrophages in an MAPK/NF-κB-dependent manner. | Oncol Rep
+- new | 2016 | 25208952 | Letter/Research Support, Non-U.S. Gov't/Comment | Log-grown shiitake is perhaps the real cause for Shiitake dermatitis. | J Eur Acad Dermatol Venereol
+- new | 2016 | 26866554 | Case Reports | Shiitake dermatitis: the tale of an under-recognised, undercooked fungus. | Med J Aust
+- new | 2016 | 27910754 |  | Assessment of the Safety of the Shiitake Culinary-Medicinal Mushroom, Lentinus edodes (Agaricomycetes), in Rats: Biochemical, Hematological, and Antioxidative Parameters. | Int J Med Mushrooms
+- new | 2016 | 26875873 |  | Genetic dissection of fruiting body-related traits using quantitative trait loci mapping in Lentinula edodes. | Appl Microbiol Biotechnol
+- new | 2016 | 28082791 | Review | The Unexplored Anticaries Potential of Shiitake Mushroom. | Pharmacogn Rev
+- new | 2016 | 26807923 | Research Support, Non-U.S. Gov't | Elm Tree (Ulmus parvifolia) Bark Bioprocessed with Mycelia of Shiitake (Lentinus edodes) Mushrooms in Liquid Culture: Composition and Mechanism of Protection against Allergic Asthm | J Agric Food Chem
+- new | 2016 | 27027234 | Research Support, Non-U.S. Gov't | Extracts from Lentinula edodes (Shiitake) Edible Mushrooms Enriched with Vitamin D Exert an Anti-Inflammatory Hepatoprotective Effect. | J Med Food
+- new | 2015 | 26057512 | Case Reports/Letter | Shiitake mushroom dermatitis. | Cutis
+- new | 2015 | 25831007 | Case Reports | Shiitake dermatitis. | An Bras Dermatol
+- new | 2015 | 26437171 | Case Reports | Flagellate shiitake mushroom dermatitis. | Dermatol Online J
+- new | 2015 | 26608881 | Case Reports | Investigation of a staphylococcal food poisoning outbreak combining case-control, traditional typing and whole genome sequencing methods, Luxembourg, June 2014. | Euro Surveill
+- new | 2015 | 24708525 | Case Reports/Letter | Shiitake dermatitis: toxic or allergic reaction? | J Eur Acad Dermatol Venereol
+- new | 2014 | 24399654 | Case Reports | [Flagellate dermatitis after bleomycin chemotherapy in a patient with malignant germ cell tumor]. | Dtsch Med Wochenschr [ger]
+- new | 2013 | 23837150 | Case Reports/Review | Shiitake dermatitis: a report of 3 cases and review of the literature. | Cutis
+- new | 2013 | 23291817 | Case Reports | A wide-spread flagellate dermatitis. | BMJ Case Rep
+- new | 2013 | 24021365 | Case Reports/Review | Shiitake mushroom-induced flagellate erythema: A striking case and review of the literature. | Dermatol Online J
+- new | 2011 | 22187665 |  | Physicochemical properties and acute toxicity studies of a lectin from the saline extract of the fruiting bodies of the shiitake mushroom, Lentinula edodes (Berk). | Int J Biochem Mol Biol
+- new | 2010 | 20920418 | Case Reports | Shiitake mushroom dermatitis. | Dermatitis
+- new | 2009 | 19596936 | Multicenter Study/Research Support, Non-U.S. Gov't | Efficacy of orally administered superfine dispersed lentinan (beta-1,3-glucan) for the treatment of advanced colorectal cancer. | Anticancer Res
+- new | 2006 | 17195451 | Case Reports | A case of recurrent ovarian cancer successfully treated with adoptive immunotherapy and lentinan. | Anticancer Res
+- new | 2006 | 16536844 | Case Reports/Letter | Shiitake dermatitis: the first case reported from a European country. | Br J Dermatol
+- new | 2005 | 15710347 |  | Combined immunomodulating effects of BCG and Lentinan after intranasal application in guinea pigs. | Int Immunopharmacol
+- new | 2005 | 16095952 | Comparative Study | Novel antimutagenic factors derived from the edible mushroom Agrocybe cylindracea. | Mutat Res
+- HELD REF-1165 | 2004 | 15630237 |  | Lentinan from shiitake mushroom (Lentinus edodes) suppresses expression of cytochrome P450 1A subfamily in the mouse liver. | Biofactors
+- new | 2004 | 15571467 | Review | Botanical medicine and cancer: a review of the safety and efficacy. | Expert Opin Pharmacother
+- new | 2003 | 12534625 | Case Reports/Letter | Shiitake dermatitis. | Br J Dermatol
+- new | 2000 | 10767375 |  | Effects of lentinan on colorectal carcinogenesis in mice with ulcerative colitis. | Oncol Rep
+- new | 1997 | 9130004 |  | Effects of Lentinus edodes, Grifola frondosa and Pleurotus ostreatus administration on cancer outbreak, and activities of macrophages and lymphocytes in mice treated with a carcino | Immunopharmacol Immunotoxicol
+- new | 1996 | 8599970 |  | Improvement of erythroid toxicity by lentinan and erythropoietin in mice treated with chemotherapeutic agents. | Exp Hematol
+- new | 1994 | 7927994 | Comparative Study/Review | Antitumor and immunological activity of lentinan in comparison with LPS. | Int J Immunopharmacol
+- new | 1992 | 1395630 | Review | Shiitake (Lentinus edodes) dermatitis. | Contact Dermatitis
+- new | 1992 | 1395559 | Case Reports | Allergic contact dermatitis in shiitake (Lentinus edodes (Berk) Sing) growers. | Contact Dermatitis
+- new | 1991 | 2030812 |  | Provocation tests in extrinsic allergic alveolitis in mushroom workers. | Neth J Med
+- new | 1989 | 2711382 |  | Quantitative assay of lentinan in human blood with the limulus colorimetric test. | Tohoku J Exp Med
+- new | 1987 | 3319150 | Review | Antitumor and metastasis-inhibitory activities of lentinan as an immunomodulator: an overview. | Cancer Detect Prev Suppl
+- new | 1987 | 3613248 | Research Support, Non-U.S. Gov't | Prevalence rates and risk factors for allergic symptoms among inhabitants in rural districts. | Sangyo Igaku
+- new | 1981 | 7302978 |  | Chronic intravenous administration of lentinan to the rhesus monkey. | Toxicol Lett
+- new | 1981 | 7302979 |  | The intravenous toxicity of lentinan to the beagle dog. | Toxicol Lett
+- new | 1981 | 7302975 |  | The effect of lentinan on pregnancy of the New Zealand white rabbit. | Toxicol Lett
+
+### PubMed OBS - 10 hits, 2 not already listed above, 2 new
+- new | 2019 | 31551952 |  | Variations in Nuclear Number and Size in Vegetative Hyphae of the Edible Mushroom Lentinula edodes. | Front Microbiol
+- new | 2013 | 23585029 | Research Support, Non-U.S. Gov't | Maximising umami taste in meat using natural ingredients: effects on chemistry, sensory perception and hedonic liking in young and old consumers. | J Sci Food Agric
+
+### PubMed REV - 110 hits, 13 not already listed above, 11 new
+- new | 2025 | 41422274 | Review | Application of edible fungi in gut microbiota regulation. | NPJ Sci Food
+- HELD REF-1590 | 2023 | 37513265 | Review | Medicinal Mushrooms: Their Bioactive Components, Nutritional Value and Application in Functional Food Production-A Review. | Molecules
+- new | 2023 | 35364694 | Review | Farming of Medicinal Mushrooms. | Adv Biochem Eng Biotechnol
+- new | 2023 | 37031727 | Review/Research Support, Non-U.S. Gov't | Fungi as a source of bioactive molecules for the development of longevity medicines. | Ageing Res Rev
+- new | 2022 | 35889098 | Review | Mycelium vs. Fruiting Bodies of Edible Fungi-A Comparison of Metabolites. | Microorganisms
+- new | 2022 | 35215289 | Review | Anticancer Activities of Mushrooms: A Neglected Source for Drug Discovery. | Pharmaceuticals (Basel)
+- new | 2017 | 28143744 | Review | Can fungi compete with marine sources for chitosan production? | Int J Biol Macromol
+- HELD REF-1172 | 2016 | 27020147 | Review | Are mushrooms medicinal? | Fungal Biol
+- new | 2014 | 25975107 | Review | [Antiviral properties of basidiomycetes metabolites]. | Antibiot Khimioter [rus]
+- new | 2014 | 24689228 | Review | Terpenoids and sterols from some Japanese mushrooms. | Nat Prod Commun
+- new | 2010 | 20471485 | Research Support, Non-U.S. Gov't/Review | Regulation of fruiting body photomorphogenesis in Coprinopsis cinerea. | Fungal Genet Biol
+- new | 1999 | 10460691 | Research Support, U.S. Gov't, P.H.S./Review | Mushrooms, tumors, and immunity. | Proc Soc Exp Biol Med
+- new | 1996 | 9110582 | Review | Functional properties of edible mushrooms. | Nutr Rev
+
+### ClinicalTrials.gov - 22 registered studies
+- NCT05763199 | ACTIVE_NOT_RECRUITING | results=False | PHASE2 | Standardized Extract of Cultured Lentinula Edodes Mycelia (AHCC®) in Ovarian Cancer Patients on Adjuvant Chemotherapy | conds: Ovarian Epithelial Carcinoma, Fallopian Tube Carcinoma, Peritoneal Carcinoma | intr: AHCC, Chemotherapy, Placebo
+- NCT07118735 | NOT_YET_RECRUITING | results=False | NA | AHCC® as Immune Modulator in Cancer Patients Treated With Immunotherapy | conds: Liver Cancer, Hepatocellular Carcinoma | intr: A standardized extract of cultured Lentinula edodes mycelia (AHCC®), Placebo | pubs: ['12076865:RESULT (new)', '18202543:RESULT (new)', '17449585:RESULT (new)', '35514996:RESULT (new)']
+- NCT07479394 | NOT_YET_RECRUITING | results=False | PHASE4 | Impact of AHCC® Supplementation for Prevention of Respiratory Tract Infections Among Children Age 4-6 Years Old | conds: Respiratory Tract Infections (RTI) | intr: a prebiotic, that us a standardized extract of cultured Lentinula edodes mycelia, Placebo
+- NCT03829228 | COMPLETED | results=True | NA | An Evaluation of Proglucamune in the Treatment of Protective Qi Insufficiency | conds: Protective Qi Insufficiency | intr: Proglucamune | pubs: ['32820452:DERIVED (new)']
+- NCT05130905 | COMPLETED | results=False | NA | RiteStart Personal Nutritional Dietary Study | conds: Healthy Nutrition | intr: RiteStart Supplement
+- NCT04329481 | UNKNOWN | results=False | NA | The Effect of Mycobiome Supplementation on Gastrointestinal Symptoms in IBD Patients | conds: Ulcerative Colitis, Crohn Disease, Inflammatory Bowel Diseases | intr: Mycodigest supplement
+- NCT03550287 | COMPLETED | results=False | PHASE4 | Evaluation of the Effect of a Shiitake Extract on Lipid Profile in Subjects With Moderate Hyperlipidemia | conds: Hypercholesterolemia, Hyperlipidemias, Dietary Supplements, Cardiovascular Risk Factor | intr: Experimental product, Placebo product
+- NCT05619952 | COMPLETED | results=False | NA | Postprandial Lipemia and Glycemia Following a High-Fat Meal | conds: Hypercholesterolemia, Postprandial Hyperglycemia, Lipid Disorder | intr: Mushroom Powder | pubs: [':RESULT (-)']
+- NCT04821258 | COMPLETED | results=False | NA | Effect of the Nutraceutical "MICODIGEST 2.0" on the Complications After Surgery for Colorectal Cancer | conds: Colorectal Cancer, Surgery--Complications | intr: MICODIGEST 2.0 supplement, Placebo supplement | pubs: ['35576566:DERIVED (new)']
+- NCT04186780 | COMPLETED | results=True | NA | Effects of Lentinula Edodes Bars on Dyslipidemia and Oxidative Stress in Cholesterol Individuals: Randomized Study | conds: Dyslipidemias | intr: Shiitake cereal bar
+- NCT06338046 | COMPLETED | results=False | NA | SMosE Safety and Efficacy Evaluation as a Skin Adaptogen | conds: Sebum Production, Acne Scars, Skin Barrier to Water Loss | intr: Corthellus Shiitake(Mushroom) Extract, Placebo
+- NCT04646980 | COMPLETED | results=False | NA | Biobran/MGN-3 Increases Innate Resistance and Reduces the Incidence of Influenza-like Illnesses | conds: Influenza-like Illness | intr: Biobran/MGN-3, Placebo | pubs: ['29456638:RESULT (new)', '31489525:RESULT (new)']
+- NCT05917015 | UNKNOWN | results=False | NA | A Clinical Study to Determine if Beta Glucan Reduces the Incidence, Duration or Severity of URTIs Among Skiers | conds: Upper Respiratory Tract Infections, Mental Stress | intr: Treatment, Placebo
+- NCT01896154 | COMPLETED | results=False | PHASE1,PHASE2 | Pilot Study on Effect Size of Non-digestible Polysaccharides (NPS) on Immunity | conds: Immunosenescence | intr: NPS
+- NCT02690103 | COMPLETED | results=False | PHASE2 | Response Modifier (Arabinoxylan Rice Bran/MGN-3/Biobran) With Interferon-Alpha for HCV | conds: Hepatitis C, Chronic | intr: pegylated IFN, Biobran, Ribavirin | pubs: ['27799299:DERIVED (new)']
+- NCT02019628 | COMPLETED | results=False | NA | Enhanced Natural Killer Cell Activity and RBAC | conds: Family Member | intr: Rice Bran Arabinoxylan Compound (RBAC)
+- NCT03782974 | COMPLETED | results=True | NA | A Follow-up Trial of Proglucamune® in the Treatment of Protective Qi Deficiency, a TCM Condition | conds: Protective Qi Insufficiency (a Condition Term From TCM) | intr: beta glucan | pubs: ['33963479:DERIVED (new)']
+- NCT04633330 | UNKNOWN | results=False | NA | Evaluation of AHCC® for the Clearance of High Risk-HPV Infections in Chinese Female | conds: High Risk Human Papillomavirus Infection, Low Grade Squamous Intraepithelial Lesion | intr: AHCC®capsules, Simulation of AHCC®capsules
+- NCT06752083 | COMPLETED | results=False |  | Efficacy of Lentinula Edodes-Derived Supplement (AHCC®) in Promoting Negativity of Persistent HPV Infection | conds: HPV Infection | intr: AHCC® (Active Hexose Correlated Compound), Gardasil 9®
+- NCT00002098 | COMPLETED | results=False | PHASE1 | Phase I/II Study of the Tolerance and Efficacy of Combined Use of Didanosine (2',3'-Dideoxyinosine; ddI) and Lentinan in HIV-Positive Patien | conds: HIV Infections | intr: Lentinan, Didanosine
+- NCT00002099 | UNKNOWN | results=False | PHASE2 | Phase II/III Study of the Tolerance and Efficacy of Combined Use of Didanosine (2',3'-Dideoxyinosine; ddI) and Lentinan in HIV-Positive Pati | conds: HIV Infections | intr: Lentinan, Didanosine
+- NCT00677027 | UNKNOWN | results=False | PHASE1 | Dose Escalation Safety Study of MM-10-001 in Healthy Subjects | conds: Healthy | intr: lentinan, placebo
+
+### OpenAlex no-PMID trial-worded - 1262 hits, 49 without PMID, 49 new
+- new | 2026 | 10.31989/ffhd.v16i9.2086 | article | Reduction of chemotherapy-induced neutropenia by AHCC in breast cancer patients: A randomized, double-blind, placebo-controlled, parallel-group exploratory study | Functional Foods in Health and Disease
+- new | 2026 | 10.1016/j.eujim.2026.102756 | review | Lentinula edodes derivatives in women with HPV infection: a systematic review | European Journal of Integrative Medicine
+- new | 2026 | 10.2139/ssrn.6904559 | preprint | AHCC Improves Overall Survival in Resectable and Borderline Resectable Pancreatic Ductal Adenocarcinoma: A Multicentre, Double-Blind, Randomised Phase 2 Trial | SSRN Electronic Journal
+- new | 2026 | 10.1007/978-981-95-7793-4_11 | book-chapter | Lentinula edodes as a Unique Source of Medicinals | Interdisciplinary biotechnological advan
+- new | 2026 | 10.1038/s41598-026-63239-y | article | Lentinula edodes (Shiitake) extract as a vitamin D receptor activator to enhance skin adaptogenic responses | Scientific Reports
+- new | 2026 | 10.5281/zenodo.20503440 | article | Development And Acceptability Of Cookie Added With Shitake Mushroom (Lentinula Edodes) | Aloysian Interdisciplinary Journal of So
+- new | 2025 | 10.47836/mjmhs.21.3.50 | article | Effects of Two-week Fungal-based Essence in Healthy Malaysian Adults: A Pilot Randomized Controlled Trial | Malaysian Journal of Medicine and Health
+- new | 2025 | 10.36497/jri.v45i4.820 | article | Effects of Active Hexose Correlated Compound (AHCC®) on Clinical and Laboratory Response of Pulmonary Tuberculosis Patients | Jurnal Respirologi Indonesia
+- new | 2025 | https://openalex.org/W7130903751 | dissertation | Internship Reports and Monograph Entitled" Macrofungi in Dermocosmetics: A Natural Approach to Skin Care for Oncology Patients" | Portuguese National Funding Agency for S
+- new | 2024 | 10.1016/j.annonc.2024.05.021 | article | 10P A placebo-controlled study comparing doses and efficacy of lentinula edodes mycelia for chemotherapy-induced peripheral neuropathy in colorectal cancer: The LEMON trial | Annals of Oncology
+- new | 2023 | 10.1016/j.tifs.2023.104224 | article | Lentinan, β-glucan from Shiitake (Lentinula edodes): A review on structure, conformational transition, and gastro-intestinal interaction contributing towards its anti-diabetic pote | Trends in Food Science & Technology
+- new | 2023 | 10.1016/j.scienta.2023.111955 | article | The T-DNA integration characteristics of monokaryotic mutant library in Lentinula edodes | Scientia Horticulturae
+- new | 2021 | 10.6084/m9.figshare.14288583 | dataset | MYCELIAL KINETICS OF EDIBLE FUNGI PLEUROTUS OSTREATUS AND LENTINULA EDODES IN LIGNOCELLULOSIC RESIDUES | Figshare
+- new | 2020 | 10.1017/s0029665120004772 | article | β-(1→3,1→6)-D-glucans in disease prevention and health promotion - a systematic review of randomized controlled trials | Proceedings of The Nutrition Society
+- new | 2020 | 10.1625/jcam.17.105 | article | Evaluation of the Effect of Lentinula Edodes Mycelia Extract on Immune Function in Healthy Subjects Placebo-controlled, Parallel-group Study | Japanese Journal of Complementary and Al
+- new | 2020 | 10.1625/jcam.17.155 | article | Combination Treatment with in Situ Tumor Vaccination Therapy and Nutritional Intervention Utilizing Lentinula Edodes Mycelia Extract for Patient with Lingual Cancer: A Case Report | Japanese Journal of Complementary and Al
+- new | 2020 | 10.24925/turjaf.v8i7.1540-1547.3415 | article | The Effect of Different Agricultural Wastes on Aroma Composition of Shiitake (Lentinula edodes (Berk.) Pegler) Mushroom | Turkish Journal of Agriculture - Food Sc
+- new | 2019 | 10.31525/ct1-nct04186780 | article | Effects of Lentinula Edodes Bars on Dyslipidemia and Oxidative Stress in Cholesterol Individuals: Randomized Study | Case Medical Research
+- new | 2018 | 10.1625/jcam.15.15 | article | Evaluation of Immune Function of Healthy Volunteer Treated with Oral Lentinula Edodes Mycelia Extract | Japanese Journal of Complementary and Al
+- new | 2018 | 10.5958/2230-7338.2018.00023.x | article | Crop room studies in relation to yield potential of Lentinula edodes strains on wheat straw | Journal of Hill Agriculture
+- new | 2016 | 10.5539/jas.v8n4p43 | article | Comparison of Antibacterial Activity of the Spent Substrate of Pleurotus ostreatus and Lentinula edodes | Journal of Agricultural Science
+- new | 2016 | https://openalex.org/W2409100963 | conference-paper | EFFECTS OF DIETARY LENTINULA EDODES EXTRACT ON LIVER AND GUT HISTOLOGY OF RAINBOW TROUT | DigitalCommons@UMaine (University of Mai
+- new | 2015 | 10.1016/j.aquaculture.2015.04.031 | article | Effects of feed supplemented with Lentinula edodes mushroom extract on the immune response of rainbow trout, Oncorhynchus mykiss, and disease resistance against Lactococcus garviea | Aquaculture
+- new | 2014 | https://openalex.org/W2265527177 | article | Evaluation of genetic diversity among strains of shiitake mushroom using random primers | Journal of research
+- new | 2014 | 10.1016/j.scienta.2014.09.044 | article | Phenotypic evaluation and analysis of important agronomic traits in the hybrid and natural populations of Lentinula edodes | Scientia Horticulturae
+- new | 2013 | 10.3785/j.issn.1008-9497.2013.02.022 | article | Study on the genetic diversity of Lentinula edodes 135 and 9015 by random amplified polymorphic DNA(RAPD) markers | Journal of Zhejiang University(Science E
+- new | 2013 | https://openalex.org/W7216780705 | article | Studies on genetic diversity and lentinan production among Lentinula edodes strains | Mushroom Research
+- new | 2012 | 10.1097/01.eja.0000412508.20256.8a | conference-abstract | Severe Coagulopathy in a Patient Scheduled for a Transsphenoidal Resection of an Hypophyseal Tumor Taking Transfer Factors | European Journal of Anaesthesiology
+- new | 2011 | 10.24002/biota.v16i2.97 | article | Variasi Genetik Berdasarkan Penanda Molekular Random Amplified Polymorphic DNA Pada Jamur Shiitake (Lentinula edodes) | Journal of Biota
+- new | 2009 | 10.1625/jcam.6.9 | article | The Safety of Excessive Intake of the Food Containing Extract of Cultured Lentinula edodes Mycelia (L.E.M.) in Healthy Adult Volunteers | Japanese Journal of Complementary and Al
+- new | 2009 | https://openalex.org/W2347807354 | article | Analysis of Regional Trial on New Strains Luxiang L01,Luxiang L02 of Lentinula edodes | Zhongguo shiyongjun
+- new | 2009 | 10.1007/s11274-009-0227-8 | article | Evaluation of genetic diversity in Lentinula edodes strains using RAPD, ISSR and SRAP markers | World Journal of Microbiology and Biotec
+- new | 2008 | 10.1270/jsbbs.58.23 | article | Genetic map of a basidiomycete fungus, Lentinula edodes (shiitake mushroom), constructed by tetrad analysis | Ikushugaku zasshi
+- new | 2007 | https://openalex.org/W2287937629 | article | An observation of a double blind placebo controlled study monitoring healthy athletes consuming a commercial preparation of nutraceuticals | Australian journal of medical herbalism
+- new | 2006 | https://openalex.org/W2354584477 | article | Analysis of Several Cis-Acting Elements of Lentinula edodes Cloned Randomly by Plasmid-Checking Vector | Anhui nongye kexue
+- new | 2006 | https://openalex.org/W2367631800 | article | Identification of Secondary Recombinants for Mating Type Factors in Lentinula edodes | Junwu yanjiu
+- new | 2005 | 10.1556/aalim.34.2005.4.11 | article | Mineral composition of the cultivated mushrooms Agaricus bisporus, Pleurotus ostreatus and Lentinula edodes | Acta Alimentaria
+- new | 2005 | https://openalex.org/W2364595523 | article | DISCRIMINATORY POWER OF MOLECULAR TYPING TECHNIQUES FOR LENTINULA EDODES | Mycosystema
+- new | 2005 | https://openalex.org/W2385311040 | article | APPLICATION OF SCAR MOLECULAR MARKER TECHNOLOGY IN IDENTIFICATION OF LENTINULA EDODES | Mycosystema
+- new | 2004 | https://openalex.org/W2361155554 | article | Microsatellite Motif (TATG)_n in Lentinula edode | ACTA MICROBIOLOGICA SINICA
+- new | 2003 | https://openalex.org/W2387547366 | article | ANALYSIS OF GENETIC DIVERSITY IN NATURAL GERMPLASM OF LENTINULA EDODES IN CHINA USING RAPD TECHNIQUE | Mycosystema
+- new | 2002 | 10.5414/alp25484 | article | Shiitake (Lentinula edodes)-Dermatitis | Allergologie
+- new | 2002 | https://openalex.org/W2373292555 | article | Molecular Identification of 15 Lentinula edodes Strains Cultivated with Artificial Synthetic Compost | Shiyongjun xuebao
+- new | 2001 | https://openalex.org/W834523711 | article | Genetic Variation of the Wild Strains of Lentinula edodes in Three Mountains of Korea | The Korean Journal of Mycology
+- new | 2000 | https://openalex.org/W194555522 | article | PRELIMINARY STUDY ON POLARIZED PROTOPLAST FUSION BETWEEN PLEUROTUS SAJOR-CAJU AND LENTINULA EDODES | Mycosystema
+- new | 1997 | https://openalex.org/W773947491 | article | Classification of Korean Lentinula edodos Strains by Random Amplified Polymorphic DNA (RAPD) Markers | The Korean Journal of Mycology
+- new | 1996 | 10.1016/s0953-7562(96)80069-4 | article | Genetic homogeneity of cultivated strains of shiitake (Lentinula edodes) used in China as revealed by the polymerase chain reaction | Mycological Research
+- new | 1991 | https://openalex.org/W1548177652 | dissertation | Genetic studies on the edible mushrooms Lentinula edodes and Pleurotus species | Nottingham ePrints (University of Nottin
+- new | 1985 | 10.1016/b978-0-12-695680-1.50037-5 | book-chapter | LENTINAN: BIOLOGICAL ACTIVITY AND CLINICAL TRIAL | Elsevier eBooks
+
+## leonurus-cardiaca (Leonurus cardiaca) - name clause: "Leonurus cardiaca"[tiab] OR "motherwort"[tiab]
+
+### PubMed HT - 17 hits, 17 not already listed above, 16 new
+- new | 2026 | 41598329 | Review | Medicinal Plants and Phytochemicals in Cardioprotection-Mechanistic Pathways and Translational Roadmap. | Life (Basel)
+- new | 2023 | 36800587 |  | The effectiveness of motherwort injection in preventing postabortion hemorrhage after induced abortion: A protocol for systematic review and meta-analysis. | Medicine (Baltimore)
+- new | 2022 | 35935833 | Systematic Review | Motherwort Injection for Preventing Uterine Hemorrhage in Women With Induced Abortion: A Systematic Review and Meta-Analysis of Randomized Evidence. | Front Pharmacol
+- new | 2022 | 35401190 |  | Effects of Motherwort Injection Versus Intramuscular Oxytocin for Preventing Postpartum Hemorrhage Among Women Who Underwent Cesarean Section. | Front Pharmacol
+- new | 2021 | 34397731 |  | Efficacy of carboprost tromethamine combined with leonurus japonicus for prevention of postpartum hemorrhage in high-risk pregnant women: A protocol for systematic review and meta- | Medicine (Baltimore)
+- new | 2020 | 31492552 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Motherwort injection in preventing post-abortion hemorrhage after induced abortion: A multi-center, prospective, randomized controlled trial. | Explore (NY)
+- new | 2019 | 30288846 | Meta-Analysis/Review | Efficacy and safety of motherwort injection add-on therapy to carboprost tromethamine for prevention of post-partum blood loss: A meta-analysis of randomized controlled trials. | J Obstet Gynaecol Res
+- new | 2019 | 31354850 | Review | Motherwort Injection for Preventing Postpartum Hemorrhage in Women with Vaginal Delivery: A Systematic Review and Meta-Analysis of Randomized Evidence. | Evid Based Complement Alternat Med
+- new | 2018 | 29882344 | Meta-Analysis/Systematic Review | Motherwort injection for preventing postpartum hemorrhage in pregnant women with cesarean section: A systematic review and meta-analysis. | J Evid Based Med
+- new | 2016 | 26414626 | Randomized Controlled Trial | Combination of motherwort injection and oxytocin for the prevention of postpartum hemorrhage after cesarean section. | J Matern Fetal Neonatal Med
+- new | 2011 | 20839214 |  | Effect of Leonurus cardiaca oil extract in patients with arterial hypertension accompanied by anxiety and sleep disorders. | Phytother Res
+- new | 2009 | 19570440 | Multicenter Study/Randomized Controlled Trial | [Multi-center study of motherwort injection to prevent postpartum hemorrhage after caesarian section]. | Zhonghua Fu Chan Ke Za Zhi [chi]
+- new | 2008 | 19317162 | Randomized Controlled Trial | [Clinical observation on ziyin tongbi decoction in treating benign prostatic hyperplasia]. | Zhongguo Zhong Xi Yi Jie He Za Zhi [chi]
+- new | 2007 | 17482282 |  | The influence of birch pollination on the adenoid size in children with intermittent allergic rhinitis. | Int J Pediatr Otorhinolaryngol
+- SEEN | 2006 | 17209457 | Clinical Trial | [Effects of melatonin and motherwort tincture on the emotional state and visual functions in anxious subjects]. | Eksp Klin Farmakol [rus]
+- new | 2006 | 17263243 | Comparative Study | [The influence of tree pollen on the adenoid size in children with periodic (seasonal) allergic rhinitis]. | Otolaryngol Pol [pol]
+- new | 1950 | 14779431 |  | [Application of Leonurus cardiaca in therapy of children]. | Lattante [und]
+
+### PubMed SR - 10 hits, 4 not already listed above, 3 new
+- new | 2026 | 41847307 | Systematic Review | Stachydrine: A Systematic Review of Its Multi-Targeted Therapeutic Potential in Cardiovascular, Oncology, Renal, Gynecological, and Inflammatory Disorders. | Drug Des Devel Ther
+- SEEN | 2025 | 40527062 | Meta-Analysis | Motherwort synergized with oxytocin for postpartum hemorrhage prevention: Integrated clinical efficacy and mechanism exploration. | Phytomedicine
+- new | 2022 | 35492367 |  | The Efficacy of the Yasmin[Ethinylestradiol-Drospirenone (0.03/3 mg)] Treatment for Postoperative Abortion: A Protocol of Meta-Analysis. | Front Med (Lausanne)
+- new | 2020 | 32173585 | Research Support, Non-U.S. Gov't/Systematic Review | A review of pharmacological and pharmacokinetic properties of stachydrine. | Pharmacol Res
+
+### PubMed SAFE - 36 hits, 21 not already listed above, 21 new
+- new | 2027 | 42800160 |  | Leonurus cardiaca L. polysaccharide-stabilized Pd-Au nanozymes for NIR-responsive doxorubicin delivery and combined chemo-chemodynamic-photothermal therapy. | Talanta
+- new | 2026 | 42630663 |  | Optimization of an integrated traditional Chinese and western medicine regimen for thin endometrium using motherwort injection combined with different doses of CPET - evaluating en | Am J Transl Res
+- new | 2026 | 43013768 |  | Safety and Effectiveness of Motherwort Injection for Hemostasis and Menstrual Regulation: Protocol for a Prospective, Observational, Multicenter Real-World Study. | JMIR Res Protoc
+- new | 2025 | 40540192 | Review | Research progress on molecular mechanism and future perspectives of leonurine. | Front Med
+- new | 2024 | 38732560 | Review | Characterizations of White Mulberry, Sea-Buckthorn, Garlic, Lily of the Valley, Motherwort, and Hawthorn as Potential Candidates for Managing Cardiovascular Disease-In Vitro and Ex | Nutrients
+- new | 2024 | 38613836 |  | Curative effect of motherwort combined with ethinylestradiol-cyproterone acetate on dysfunctional uterine bleeding. | Expert Rev Hematol
+- new | 2022 | 35368913 | Retracted Publication | Image Analysis Application of Motherwort Total Alkaloid Injection in the Treatment of Postabortion Hemorrhage. | J Healthc Eng
+- new | 2022 | 35598796 |  | Total alkaloid fraction of Leonurus japonicus Houtt. Promotes angiogenesis and wound healing through SRC/MEK/ERK signaling pathway. | J Ethnopharmacol
+- new | 2022 | 35272128 |  | Leonurus japonicus Houtt. (Motherwort): Systematic research through chemical profiling, stability under controlled conditions and pharmacokinetic analysis on screening Q-markers fo | J Pharm Biomed Anal
+- new | 2019 | 30694908 | Research Support, Non-U.S. Gov't | Leonurine promotes neurite outgrowth and neurotrophic activity by modulating the GR/SGK1 signaling pathway in cultured PC12 cells. | Neuroreport
+- new | 2018 | 29360539 | Review | Discovery of Leonuri and therapeutical applications: From bench to bedside. | Pharmacol Ther
+- new | 2018 | 32186089 |  | Post-marketing safety surveillance and reevaluation of Motherwort injection: A clinical study of 10 094 cases. | J Tradit Chin Med
+- new | 2018 | 29729400 |  | Angiogenic effect of motherwort (Leonurus japonicus) alkaloids and toxicity of motherwort essential oil on zebrafish embryos. | Fitoterapia
+- new | 2016 | 27501946 |  | Is it true that plant-derived polyphenols are always beneficial for the human? In vitro study on Leonurus cardiaca extract properties in the context of the pathogenesis of Staphylo | J Med Microbiol
+- new | 2015 | 25713735 | Review | Alternative medicine in atrial fibrillation treatment-Yoga, acupuncture, biofeedback and more. | J Thorac Dis
+- new | 2013 | 24494563 | Research Support, Non-U.S. Gov't | [Effect of Taohong Siwu decoction on angiogenesis of medicine-induced incomplete-abortion in early pregnancy rats and expressions of Ang-1, Ang-2 and Tie-2]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2010 | 19918711 | Research Support, Non-U.S. Gov't | Cardiac and electrophysiological effects of primary and refined extracts from Leonurus cardiaca L. (Ph.Eur.). | Planta Med
+- new | 2010 | 20707084 | Review | [Advances in studies of renal adverse reactions of Leonurus heterophyllus]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2003 | 14499027 |  | In vitro anticancer activities of Leonurus heterophyllus sweet (Chinese motherwort herb). | J Altern Complement Med
+- new | 1990 | 2382973 | Research Support, Non-U.S. Gov't | Effects of motherwort (Leonurus sibiricus L) on preneoplastic and neoplastic mammary gland growth in multiparous GR/A mice. | Anticancer Res
+- new | 1981 | 6779941 | Case Reports | Mistletoe hepatitis. | Br Med J (Clin Res Ed)
+
+### PubMed OBS - 5 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 20 hits, 11 not already listed above, 9 new
+- new | 2026 | 42193346 | Review | Wild Flora Species from Romania with Anxiolytic and Antidepressant Potential: A Global Perspective-Narrative Review. | Biomedicines
+- new | 2020 | 33017723 | Review | Uncovering the pharmacological mechanism of motherwort (Leonurus japonicus Houtt.) for treating menstrual disorders: A systems pharmacology approach. | Comput Biol Chem
+- HELD REF-0860 | 2019 | 31119169 | Review | Leonurus cardiaca L. as a Source of Bioactive Compounds: An Update of the European Medicines Agency Assessment Report (2010). | Biomed Res Int
+- new | 2019 | 31195353 | Review | Leonurus japonicus (Chinese motherwort), an excellent traditional medicine for obstetrical and gynecological diseases: A comprehensive overview. | Biomed Pharmacother
+- new | 2018 | 29335190 | Review | Phytochemistry and pharmacology of the genus Leonurus: The herb to benefit the mothers and more. | Phytochemistry
+- new | 2017 | 29474759 | Review | REPRESENTATIVES OF MOTHERWORT GENUS (LEONURUS SPP.): ASPECTS OF PHARMACOGNOSTIC FEATURES AND RELEVANCE OF NEW SPECIES APPLICATION. | Acta Pol Pharm
+- new | 2017 | 27748195 | Review | Adonis sp., Convallaria sp., Strophanthus sp., Thevetia sp., and Leonurus sp. - Cardiotonic Plants with Known Traditional Use and a Few Preclinical and Clinical Studies. | Curr Pharm Des
+- new | 2016 | 28911575 | Review | Recent progress on the traditional Chinese medicines that regulate the blood. | J Food Drug Anal
+- new | 2015 | 25839871 | Review | The influence of herbal medicine on platelet function and coagulation: a narrative review. | Semin Thromb Hemost
+- new | 2014 | 24412548 | Research Support, Non-U.S. Gov't/Review | Leonurus japonicus Houtt.: ethnopharmacology, phytochemistry and pharmacology of an important traditional Chinese medicine. | J Ethnopharmacol
+- HELD REF-0861 | 2013 | 23042598 | Review | Leonurus cardiaca L. (motherwort): a review of its phytochemistry and pharmacology. | Phytother Res
+
+### ClinicalTrials.gov - 1 registered studies
+- NCT06954038 | NOT_YET_RECRUITING | results=False | NA | Evaluate the Beneficial Effects of an Oral Nutritional Supplement Based on Leonurus Cardiaca for the Improvement of Mood and Anxiety | conds: General Anxiety Disorder | intr: Leonurus cardiaca extract 250 mg, Placebo, Leonurus cardiaca extract 500 mg
+
+### OpenAlex no-PMID trial-worded - 138 hits, 58 without PMID, 58 new
+- new | 2026 | 10.64269/jewpp.v7i1.5787 | article | Leonurus japonicus Houtt in Traditional Chinese Medicine: A Review of Phytochemistry, Pharmacology, and Clinical Applications | Journal of Eastern – Western Pharmacolog
+- new | 2026 | https://openalex.org/W7223525162 | article | ВАЛЕРИАНА, ПУСТЫРНИК И ВИТАМИН B6: АНАЛИЗ НАУЧНЫХ ДАННЫХ О МЕХАНИЗМАХ ВЛИЯНИЯ НА ТРЕВОЖНОСТЬ И КАЧЕСТВО СНА | Теория и практика современной науки
+- new | 2026 | https://openalex.org/W7233525072 | article | Evaluation of the Analgesic Potential of A. cocculus Stem Bark Using In Vivo Assays | International Journal of Health Economic
+- new | 2025 | 10.32383/appdr/208282 | review | Herbal Therapeutics in Cardiovascular Disease: A Review | Acta Poloniae Pharmaceutica - Drug Resea
+- new | 2025 | 10.20944/preprints202507.0774.v1 | preprint | Antioxidant and Anticoccidial Effects of Natural Phytogenic Additives in Broiler Chickens: An In Vitro and In Vivo Evaluation | Preprints.org
+- new | 2025 | 10.21203/rs.3.rs-5562329/v1 | preprint | Atonik and DA-6 enriched nano Silicon fertilizer for growth and phytochemical, and mineral uptake properties enhancement in Zataria multiflora Boiss | Research Square
+- new | 2025 | 10.14258/jcprm.20250112950 | article | STUDY OF BIOELEMENTS IN THE COMPOSITION OF MEDICINAL PREPARATIONS PREPARED FROM MEDICINAL PLANTS OF THE FERGHANA VALLEY AND PROSPECTS FOR THEIR USE FOR THE CORRECTION OF BIOELEMENT | chemistry of plant raw material
+- new | 2024 | 10.30841/2786-720x.2.2024.307529 | article | Anti-inflammatory and Antioxidant Effects of Plant Components in Complex Therapy for Acute Female Cystitis | Family medicine European practices
+- new | 2024 | 10.21518/ms2024-100 | article | Effective treatment of stress and anxiety symptoms in patients with chronic diseases | Meditsinskiy sovet = Medical Council
+- new | 2024 | 10.32782/2522-9680-2024-4-60 | article | Phytocomposition use in middle-aged patients with coronary heart disease functional state restoration to increase physical exercise tolerance | Fìtoterapìâ
+- new | 2024 | https://openalex.org/W7165713281 | article | Effects of dietary compound Chinese herbal medicine on reproductive performance， lactation performance of Danish sows and growth performance of suckling piglets | Siliao yanjiu
+- new | 2024 | 10.20944/preprints202406.0353.v1 | preprint | Herbal Medicine for Hypertension: A Review of Potential Therapeutics | Preprints.org
+- new | 2024 | 10.51168/sjhrafrica.v5i6.1215 | article | MORINGA OLEIFERA LEAF POWDER INFLUENCED THE CHEMICAL PROFILE OF LEONOTIS LEONURUS ESSENTIAL OILS. | Student s Journal of Health Research Afr
+- new | 2024 | https://openalex.org/W7215385126 | article | Psychoemotional Disorders Developing on the Basis of Somatic Diseases, Their Consequences and Integrative Approaches to the Treatment | Excellencia: International Multi-discipl
+- new | 2023 | 10.29296/25877305-2023-03-16 | article | Cognitive impairment in obese patients: a pilot study. Correction possibilities | Vrach
+- new | 2023 | 10.21518/ms2023-094 | article | Anxiety disorders in general clinical practice | Meditsinskiy sovet = Medical Council
+- new | 2023 | 10.31550/2712-8598-zhzir-2023-2-4 | article | Premenstrual syndrome. Nutrient support options | Women s Health and Reproduction
+- new | 2023 | 10.22438/jeb/44/3(si)/jeb-24 | article | Molecular cloning and development of RAPD-SCAR markers for the selection of thermo-tolerant line of tropical tasar silkworm | Journal of Environmental Biology
+- new | 2023 | 10.15446/rcciquifa.v52n1.109390 | article | Efeitos sobre funções cognitivas, analgésicos e ansiolíticos de medicamentos homeopáticos e da 7-epiclusianona em um modelo experimental de camundongos Swiss | Revista Colombiana de Ciencias Químico F
+- new | 2022 | 10.3375/22-2 | article | Floral Resources Used by the Endangered Rusty Patched Bumble Bee (Bombus affinis) in the Midwestern United States | Natural Areas Journal
+- new | 2022 | 10.33617/2522-9680-2022-2 | paratext |  | Fìtoterapìâ
+- new | 2022 | 10.52547/jcb.14.43.155 | article | Investigation of Some Physiological Traits in Dracocephalum Moldavica L. Ecotypes under Salt Stress Condition | Journal of Crop Breeding
+- new | 2022 | 10.22225/seas.6.1.4881.10-15 | article | Arabica Coffee Plant Response to Atonic Concentration and Production Pruning | SEAS (Sustainable Environment Agricultur
+- new | 2021 | 10.17516/1997-1389-0339 | article | Morphological Variability of Leonurus quinquelobatus (Lamiaceae): Environmental and Resource Potential Perspective | Journal of Siberian Federal University B
+- new | 2021 | 10.36073/1512-0996-2021-2-11-28 | article | Prospects for the Production of Aromatized Wines Enriched with Biologically Active Compounds | Works of Georgian Technical University
+- new | 2021 | 10.32859/era.21.41.1-17 | article | Medicinal plants used to boost immunity and decrease the intensity of infection caused by SARS-COV-2 in Morocco | Ethnobotany Research and Applications
+- new | 2021 | 10.7197/cmj.870286 | article | ASSESSMENT OF THE ANTINOCICEPTIVE EFFECTS OF CANNABINOID RECEPTOR AGONISTS SER 601 AND L-759,633 IN AN ACUTE PAIN MODEL IN RATS | Cumhuriyet Tıp Dergisi/Cumhuriyet Üniver
+- new | 2020 | https://openalex.org/W3154889438 | dissertation | Medicinal Plants Used in the Treatment of Cardiovascular Disorders in the Czech Republic - Overview and Consumption Analysis in Years 2015 - 2019 | Digital Repository (National Repository 
+- new | 2018 | 10.1007/s42161-018-0003-4 | article | Molecular characterization of Boeremia strasseri the causal agent of black stems and rhizomes rot of peppermint | Journal of Plant Pathology
+- new | 2017 | 10.1089/act.2017.29114.eya | article | Herbs for Atrial Fibrillation | Alternative and Complementary Therapies
+- new | 2017 | https://openalex.org/W2949214747 | article | Особенности влияния биологически активных веществ лекарственных растений на фармакологическую активность лекарственных средств | Современные проблемы здравоохранения и м
+- new | 2016 | 10.1002/psb.1496 | article | The hidden problem of herb‐drug interactions | Prescriber
+- new | 2016 | https://openalex.org/W2543217873 | article | A Floristic Study of the Oak Leaf Lake Unit of the Swan Lake Wildlife Management Area in Nicollet County, Minnesota | Cornerstone (Minnesota State University,
+- new | 2015 | 10.19277/bbr.12.1.102 | article | Potential herb-drug interactions found in a community pharmacy patients | Biomedical and Biopharmaceutical Researc
+- new | 2015 | 10.1186/s40816-015-0002-3 | article | Common phyto-remedies used against cardiovascular diseases and their potential to induce adverse events in cardiovascular patients | Clinical Phytoscience
+- new | 2014 | https://openalex.org/W2575564988 | dissertation | The quality of citizen scientists’ bee observations: An evaluation of PollinatorWatch at Royal Botanical Gardens and the rare Charitable Research Reserve | UWSpace (University of Waterloo)
+- new | 2014 | 10.1016/j.ejbt.2014.11.004 | article | Development and significance of RAPD-SCAR markers for the identification of Litchi chinensis Sonn. by improved RAPD amplification and molecular cloning | Electronic Journal of Biotechnology
+- new | 2013 | 10.22103/jab.2013.1204 | article | STUDY OF GENETIC DIVERSITY OF MEDICINAL PLANTLEONURUS CARDIACA SOME POPULATIONS IN IRAN USING RAPD MARKER | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2013 | https://openalex.org/W632749703 | dissertation | Brygder och besvärjelser : En arkeobotanisk studie av medicinalväxter och den medeltida staden Nya Lödöse | DiVA at Umeå University (Umeå University
+- new | 2012 | 10.2147/btat.s20593 | article | A systematic updated review of scientifically tested selected plants used for anxiety disorders | Botanics Targets and Therapy
+- new | 2012 | 10.5586/aa.2008.044 | article | The occurrence and pathogenicity of Phoma exigua Desm. var. exigua for selected species of herbs | Acta Agrobotanica
+- new | 2011 | 10.1016/j.hermed.2011.07.002 | article | What’s in the bottle? Prescriptions formulated by medical herbalists in a clinical trial of treatment during the menopause | Journal of Herbal Medicine
+- new | 2010 | 10.1055/s-0030-1264387 | article | Application of Leonurus cardiaca L. oil extract for treatment of psycho neurological disorders in clinic | Planta Medica
+- new | 2010 | https://openalex.org/W2385707301 | article | Observation on the effects of Shuerjing granules for the treatment of Qizhixueyu dysmenorrhea | Chinese Journal of Hospital Pharmacy
+- new | 2010 | 10.24355/dbbs.084-201002081423-0 | article | Analyse der Uferflora der Ilse (Harz/Harzvorland) unter besonderer Berücksichtigung von Nitrophyten und Neophyten / Yvonne Siedentopf & Dietmar Brandes | Digitale Bibliothek Braunschweig (Verbun
+- new | 2010 | 10.12681/eadd/28936 | dissertation | Χημική ανάλυση των βιοδραστικών δευτερογενών μεταβολιτών του ενδημικού φυτού Marrubium thessalum | 
+- new | 2008 | 10.1055/s-0028-1084324 | article | The antiarrhythmic effects of Leonurus cardiaca on cardiac electrophysiology | Planta Medica
+- new | 2008 | 10.4212/cjhp.v61i1.8 | article | Use of Dietary Supplements by Patients Taking Digoxin | The Canadian Journal of Hospital Pharmac
+- new | 2008 | https://openalex.org/W2238000445 | report | Seasonal Events at Lost Mound | Illinois Digital Environment for Access 
+- new | 2007 | 10.1016/b978-0-323-02998-8.50024-x | book-chapter | Veterinary Herbal Medicine: A Systems-Based Approach | Elsevier eBooks
+- new | 2007 | https://openalex.org/W330350634 | dissertation | In vitro - Identifizierung fettassimilationsinhibierender Bioaktivität | MACAU: Open Access Repository of Kiel Un
+- new | 2005 | 10.2135/cropsci2005.0282a | article | Species Diversity and Functional Composition of Pastures that Vary in Landscape Position and Grazing Management | Crop Science
+- new | 2002 | https://openalex.org/W589892726 | dissertation | The process of conducting herbal medicine research through the clinical trials exemption scheme | Middlesex University Research Repository
+- new | 2000 | 10.7326/0003-4819-133-6-200009190-00031 | book-review | Herbal Medicine: Expanded Commission E Monographs | Annals of Internal Medicine
+- new | 1990 | https://openalex.org/W2585634020 | article | Vascular plants of the UWM Field Station area | UWM Digital Commons (University of Wisco
+- new | 1926 | 10.1038/118696b0 | article | The Reaction to Flea Bites: Anaphylaxis and Louse Infestation | Nature
+- new | 1892 | 10.5962/bhl.title.64121 | book | The flora of Montreal Island | Biodiversity Heritage Library (Smithsoni
+- new | 1827 | 10.1056/nejm182704010010205 | article | Bills of Mortality | New England Journal of Medicine

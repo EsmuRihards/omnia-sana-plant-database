@@ -1,0 +1,1008 @@
+# Research-deepening batch 16 - search
+
+## hamamelis-virginiana (Hamamelis virginiana) - name clause: "Hamamelis virginiana"[tiab] OR "witch hazel"[tiab] OR "hamamelis"[tiab]
+
+### PubMed HT - 24 hits, 24 not already listed above, 19 new
+- new | 2026 | 42688674 |  | A scientometric study on the characteristics of herbal medicine and identification of herbaceous agents for treatment of periodontal diseases. | J Dent Sci
+- SEEN | 2026 | 41468068 | Randomized Controlled Trial/Comparative Study | Comparison of the Effects of Breast Milk and Hamamelis virginiana (Witch Hazel) on the Healing of Diaper Dermatitis in Infants: A Randomized Trial. | Breastfeed Med
+- new | 2024 | 39449909 |  | An Assessment of the Safety, Efficacy, and Tolerability of a Novel Scalp Treatment Regimen Combining a Hydroxy Acid-Based Scrub and Copper Tripeptide Serum in the Management of Seb | Cureus
+- new | 2023 | 36958415 | Systematic Review | Phytotherapy in paediatric skin disorders - A systematic literature review. | Complement Ther Med
+- new | 2023 | 36892384 |  | Lip Mesotherapy with Dexpanthenol as a Novel Approach to Prevent Isotretinoin-Associated Cheilitis. | Dermatol Pract Concept
+- HELD REF-2052 | 2021 | 34975471 |  | Human Metabolites of Hamaforton™ (Hamamelis virginiana L. Extract) Modulates Fibroblast Extracellular Matrix Components in Response to UV-A Irradiation. | Front Pharmacol
+- new | 2019 | 30794364 | Clinical Trial | Natural Skin Care Products as Adjunctive to Prescription Therapy in Moderate to Severe Rosacea. | J Drugs Dermatol
+- new | 2018 | 30052192 | Randomized Controlled Trial | Understanding Solar Skin Elastosis-Cause and Treatment. | J Cosmet Sci
+- new | 2018 | 30124733 | Randomized Controlled Trial | Evaluation of the Performance of a Nature-Based Sensitive Skin Regimen in Subjects With Clinically Diagnosed Sensitive Skin. | J Drugs Dermatol
+- new | 2017 | 28091974 | Clinical Trial | Clinical trial shows lasting function of a new moisturizing cream against vaginal dryness. | Wien Med Wochenschr
+- new | 2015 | 26423504 | Randomized Controlled Trial | Effectiveness of Oral Antiseptics on Tooth Biofilm: A Study in vivo. | J Contemp Dent Pract
+- HELD REF-3527 | 2013 | 23337964 | Randomized Controlled Trial | [Antiinflammatory potential of seven plant extracts in the ultraviolet erythema test. A randomized, placebo-controlled study]. | Hautarzt [ger]
+- new | 2012 | 22592710 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Local cooling for relieving pain from perineal trauma sustained during childbirth. | Cochrane Database Syst Rev
+- new | 2011 | 22134571 | Clinical Trial | Evaluation of a prescription strength 4% hydroquinone/10% L-ascorbic acid treatment system for normal to oily skin. | J Drugs Dermatol
+- new | 2010 | 20707877 | Research Support, Non-U.S. Gov't/Review | Which plant for which skin disease? Part 2: Dermatophytes, chronic venous insufficiency, photoprotection, actinic keratoses, vitiligo, hair loss, cosmetic indications. | J Dtsch Dermatol Ges [eng,ger]
+- HELD REF-5177 | 2008 | 18154553 | Research Support, Non-U.S. Gov't | Cosmetics and herbal remedies with Compositae plant extracts - are they tolerated by Compositae-allergic patients? | Contact Dermatitis
+- new | 2007 | 17943903 | Meta-Analysis/Systematic Review | Local cooling for relieving pain from perineal trauma sustained during childbirth. | Cochrane Database Syst Rev
+- new | 2007 | 17177071 | Clinical Trial | Hamamelis in children with skin disorders and skin injuries: results of an observational study. | Eur J Pediatr
+- new | 2002 | 15277085 |  | Characterizing adverse events reported to the California Poison Control System on herbal remedies and dietary supplements: a pilot study. | J Herb Pharmacother
+- new | 2002 | 12119511 |  | Antiseptic effect of a topical dermatological formulation that contains Hamamelis distillate and urea. | Forsch Komplementarmed Klass Naturheilkd
+- HELD REF-3575 | 1998 | 9621139 | Clinical Trial/Randomized Controlled Trial | Anti-inflammatory effect of hamamelis lotion in a UVB erythema test. | Dermatology
+- new | 1996 | 8861830 | Clinical Trial/Randomized Controlled Trial | The efficacy of Prrrikweg gel in the treatment of insect bites: a double-blind, placebo-controlled clinical trial. | Pharm World Sci
+- new | 1995 | 8582464 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Comparative efficacy of hamamelis distillate and hydrocortisone cream in atopic eczema. | Eur J Clin Pharmacol
+- new | 1993 | 8513841 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Anti-inflammatory activity of hamamelis distillate applied topically to the skin. Influence of vehicle and dose. | Eur J Clin Pharmacol
+
+### PubMed SR - 5 hits, 2 not already listed above, 2 new
+- new | 2021 | 34409356 | Review | Complementary and alternative medicine treatments for common skin diseases: A systematic review and meta-analysis. | JAAD Int
+- new | 2001 | 11471937 | Research Support, Non-U.S. Gov't | Food processing by animals: do beavers leach tree bark to improve palatability? | J Chem Ecol
+
+### PubMed SAFE - 35 hits, 26 not already listed above, 25 new
+- HELD REF-0832 | 2026 | 40906322 |  | Hamamelitannin from Hamamelis virginiana Attenuates Ethanol-Induced Oxidative and Inflammatory Responses in Danio rerio Larvae. | Mol Biotechnol
+- new | 2026 | 40780996 | Case Reports | Anaphylactic shock induced by HEC® ointment: A CARE case report. | Eur Ann Otorhinolaryngol Head Neck Dis
+- new | 2025 | 40458338 | Review | Natural Products in Hemorrhoid Management: A Comprehensive Literature Review of Traditional Herbal Remedies and Evidence-Based Therapies. | Cureus
+- new | 2024 | 38795579 | Case Reports | Chronic subdural hematoma treated with homeopathic medicine Hamamelis virginica: A case report. | J Ayurveda Integr Med
+- new | 2024 | 38799527 | Case Reports | A case of a patient requiring medically supervised withdrawal after ingestion of witch hazel toner as a surrogate alcohol. | Clin Case Rep
+- new | 2024 | 39198706 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Polymodal K(+) channel modulation contributes to dual analgesic and anti-inflammatory actions of traditional botanical medicines. | Commun Biol
+- new | 2023 | 36250215 |  | Flow cytometry as an alternative method to evaluate genotoxicity of natural cosmetic actives. | J Cosmet Dermatol
+- new | 2023 | 37205316 | Review | Ginnalin A and hamamelitannin: the unique gallotannins with promising anti-carcinogenic potential. | Explor Target Antitumor Ther
+- new | 2023 | 37041820 |  | Pediatricians' Knowledge, Attitudes, and Therapeutic Approaches Regarding Diaper Dermatitis: A Common Condition with Many Different Practices. | Clin Cosmet Investig Dermatol
+- new | 2022 | 35176843 |  | Towards a better understanding of the use of additives in tattoos. | Ital J Dermatol Venerol
+- new | 2022 | 35426210 |  | Lip mesotherapy with dexpanthenol in the treatment of isotretinoin-induced cheilitis. | J Cosmet Dermatol
+- new | 2022 | 36095450 | Review | Description of a new species of Hamamelistes forming galls on Fothergilla spp. (Hamamelidaceae) and the generic limits of Hormaphidini (Sternorrhyncha: Aphididae: Hormaphidinae). | Zootaxa
+- new | 2020 | 32191669 | Case Reports | Treatment of haemorrhoidal disease with micronized purified flavonoid fraction and sucralfate ointment. | Acta Biomed
+- new | 2017 | 28338538 |  | Allergenic Ingredients in Facial Wet Wipes. | Dermatitis
+- new | 2015 | 25600644 | Review | Contact dermatitis as an adverse reaction to some topically used European herbal medicinal products - part 2: Echinacea purpurea-Lavandula angustifolia. | Contact Dermatitis
+- new | 2014 | 24356492 | Case Reports/Review | The 'sparing phenomenon' of purpuric rash over tattooed skin. | Dermatology
+- new | 2012 | 23062397 |  | Allergen of the month--witch hazel. | Ann Allergy Asthma Immunol
+- new | 2004 | 15055439 | Case Reports | Accidental sodium hypochlorite-induced skin injury during endodontic treatment. | J Endod
+- new | 2003 | 12711142 | Research Support, Non-U.S. Gov't | Genotoxic and antigenotoxic effects of catechin and tannins from the bark of Hamamelis virginiana L. in metabolically competent, human hepatoma cells (Hep G2) using single cell gel | Phytochemistry
+- new | 2002 | 12069555 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Phylogenetics and evolution of the eastern Asian-eastern North American disjunct aphid tribe, Hormaphidini (Hemiptera: Aphididae). | Mol Phylogenet Evol
+- new | 2002 | 12112294 | Research Support, Non-U.S. Gov't | Peroxynitrite scavenging activity of herb extracts. | Phytother Res
+- new | 2002 | 12121555 |  | Rejuvenating facial massage--a bane or boon? | Int J Dermatol
+- new | 1999 | 10352374 | Review | [Phytotherapy in chronic dermatoses and wounds: what is the evidence?]. | Forsch Komplementarmed [ger]
+- new | 1999 | 10490342 |  | [Hamamelis water in dermatology. Experiences in the treatment of seborrheic, atopic and non-atopic dermatitis]. | Forsch Komplementarmed [ger]
+- new | 1994 | 23195891 |  | Evidence for the efficacy and safety of topical herbal drugs in dermatology: Part I: Anti-inflammatory agents. | Phytomedicine
+- new | 1994 | 7821023 | Case Reports | Contact allergy to witch hazel. | Contact Dermatitis
+
+### PubMed OBS - 7 hits, 4 not already listed above, 3 new
+- new | 2023 | 36811730 |  | Patient perspectives of wound care management in hidradenitis suppurativa. | Arch Dermatol Res
+- new | 2023 | 38179008 |  | Efficacy, Tolerability, and Superiority of Propylene Glycol-Free, North American Witch-Hazel (Hamamelis virginiana)-Based Solution of 5% Minoxidil Sulfate for the Treatment of Fema | Int J Trichology
+- new | 2014 | 25210333 |  | North American Virginian Witch Hazel (Hamamelis virginiana): Based Scalp Care and Protection for Sensitive Scalp, Red Scalp, and Scalp Burn-Out. | Int J Trichology
+- HELD REF-2055 | 2012 | 22434718 |  | Conversion of phenolic constituents in aqueous Hamamelis virginiana leaf extracts during fermentation. | Phytochem Anal
+
+### PubMed REV - 19 hits, 11 not already listed above, 10 new
+- new | 2026 | 42067175 | Review/Practice Guideline | AGA Clinical Practice Update on Diagnosis and Treatment of Hemorrhoids: Expert Review. | Clin Gastroenterol Hepatol
+- HELD REF-0532 | 2025 | 40649262 | Review | Hamamelis virginiana L. in Skin Care: A Review of Its Pharmacological Properties and Cosmetological Applications. | Molecules
+- new | 2022 | 36615352 | Review | Therapeutic Potential of Flavonoids and Tannins in Management of Oral Infectious Diseases-A Review. | Molecules
+- new | 2021 | 34356471 | Review | The Role of Food Supplementation in Microcirculation-A Comprehensive Review. | Biology (Basel)
+- new | 2018 | 30657034 | Review | New Perspectives on the Efficacy of Gallic Acid in Cosmetics & Nanocosmeceuticals. | Curr Pharm Des
+- new | 2017 | 28300437 | Review | Botanicals With Dermatologic Properties Derived From First Nations Healing: Part 2-Plants and Algae. | J Cutan Med Surg
+- new | 2014 | 24847408 | Review | Moisturizers for Acne: What are their Constituents? | J Clin Aesthet Dermatol
+- new | 2009 | 19442393 | Review | Clinical inquiries. Do nonmedicated topicals relieve childhood eczema? | J Fam Pract
+- new | 2009 | 19657604 | Review | [Evidence-based cosmetics: concepts and applications in photoaging of the skin and xerosis]. | Wien Klin Wochenschr [ger]
+- new | 2001 | 11310520 | Review | Urogenital atrophy: prevention and treatment. | Pharmacotherapy
+- new | 2001 | 11302778 | Review | Hemorrhoids and varicose veins: a review of treatment options. | Altern Med Rev
+
+### ClinicalTrials.gov - 3 registered studies
+- NCT06699303 | COMPLETED | results=False | NA | Effect of Breast Milk on Diaper Dermatitis in Infants | conds: Diaper Dermatitis | intr: Use of diaper rash cream containing Hamamelis virginiana (potency 12mg/100g) 5.35 g / 100 g for infa
+- NCT06148662 | COMPLETED | results=False | PHASE4 | The Effect of Oral Sprays on Salivary pH | conds: Oral Health | intr: No intervention (negative control), Water (positive control), Dental foam "Biorepair PERIBIOMA", Den | pubs: ['38668005:DERIVED (new)']
+- NCT00935948 | UNKNOWN | results=False | PHASE3 | Efficacy and Safety Evaluation of the Imescard Compound Water Smartweed Ointment | conds: Hemorrhoidal Disease | intr: Imescard compound water smartweed ointment, Placebo
+
+### OpenAlex no-PMID trial-worded - 266 hits, 46 without PMID, 46 new
+- new | 2026 | 10.5281/zenodo.23760632 | article | HEMORRHOIDS AND HOMOEOPATHY: AN OVERVIEW OF THERAPEUTIC APPROACH AND MANAGEMENT | World Journal of Pharmaceutical Research
+- new | 2026 | 10.25259/jnrp_158_2026 | article | Neuroprotective effects of Hamamelis virginiana (Witch Hazel) extract against rotenone-induced Parkinsonism in rats: unveiling novel mechanisms of Nrf2/HO-1 activation, PINK1/parki | Journal of Neurosciences in Rural Practi
+- new | 2026 | 10.5281/zenodo.20019575 | article | A Comparative Clinical and Materia Medica-Based Differential Approach to the Management of Haemorrhoids: A Prospective Observational Study | Zenodo (CERN European Organization for N
+- new | 2026 | 10.15199/62.2026.10.5 | article | Wybrane substancje naturalne jako składniki aktywne w produktach donosowych | PRZEMYSŁ CHEMICZNY
+- new | 2026 | https://openalex.org/W7236555040 | article | Nursing Care According to the Levine Protection Model in a Patient Diagnosed with Acute Promyelocytic Leukemia: A Case Report | DergiPark
+- new | 2026 | 10.33545/26164485.2026.v10.i3.c.2420 | article | Haemorrhoids - homoeopathic management - A literature review on quality of life and symptom relief | International Journal of Homoeopathic Sc
+- new | 2025 | 10.3390/app152212342 | article | Assessment of Oncology Patients’ Knowledge on Skin Care During and After Radiotherapy Treatment | Applied Sciences
+- new | 2025 | 10.3390/app151810135 | article | Evaluation of the Effectiveness of a Postbiotic in Home Care Maintenance in Patients Affected by Peri-Implant Mucositis | Applied Sciences
+- new | 2025 | 10.18203/2320-6012.ijrms20251014 | article | Elucidating the role of zinc oxide in dermatitis of varied etiology across the age spectrum: a comprehensive review | International Journal of Research in Med
+- new | 2025 | 10.36948/ijfmr.2025.v07i06.59756 | article | Effectiveness of Garlic Suppositories in the Symptomatic Management of Haemorrhoids | International Journal For Multidisciplin
+- new | 2024 | 10.1155/2024/8814508 | article | Efficacy and Safety of Phoenix dactylifera L. Leaf Extract (WartOver®) in the Treatment of Cutaneous Warts: A Randomized, Double‐Blind, Placebo‐Controlled Trial | Dermatologic Therapy
+- new | 2024 | 10.3390/cosmetics11030083 | article | A Randomized Controlled Prospective Cohort Study on the Efficacy of a Witch Hazel Extract Cream for the Eyelids and Eye Contour Area and a Cleansing Face Cream in Dermatitis of the | Cosmetics
+- new | 2024 | 10.1016/j.jaad.2024.07.1395 | article | Unveiling the Impact of Seborrheic Dermatitis: Patient Perspectives on Management and Quality of Life | Journal of the American Academy of Derma
+- new | 2023 | 10.15406/jdc.2023.07.00224 | article | Pharmacological mechanisms of medicinal plant extracts in the treatment of dermatological diseases: in vitro, in vivo studies and clinical trials | Journal of Dermatology & Cosmetology
+- new | 2023 | 10.29011/2577-2201.100072 | article | Effects of Novel All Natural Plant Based Ointment Formulation on Diaper Rash Severity in Infants: A Clinical Trial | Current Research in Complementary & Alte
+- new | 2023 | 10.1016/j.jaad.2023.07.615 | article | Effectiveness in real world practice after fifty-two weeks of Risankizumab treatment for patients with moderate-to-severe psoriasis: thirty-one patient cohort | Journal of the American Academy of Derma
+- new | 2023 | 10.1016/j.jaad.2023.07.613 | article | Early treatment intervention in moderate psoriasis keeps a long-term remission among patients with apremilast: a single-center observational study with 5 years data | Journal of the American Academy of Derma
+- new | 2022 | 10.3390/app12178610 | article | Domiciliary Management of Periodontal Indexes and Glycosylated Hemoglobin (HbA1c) in Type 1 Diabetic Patients with Paraprobiotic-Based Toothpaste and Mousse: Randomized Clinical Tr | Applied Sciences
+- new | 2021 | 10.21518/1995-1477-2021-18-1-72-80 | article | Treatment of hemorrhoids in a comorbid patient: selection of a preparation of plant origin | Ambulatornaya khirurgiya = Ambulatory Su
+- new | 2021 | 10.3390/app11188586 | article | Management of Gingival Bleeding in Periodontal Patients with Domiciliary Use of Toothpastes Containing Hyaluronic Acid, Lactoferrin, or Paraprobiotics: A Randomized Controlled Clin | Applied Sciences
+- new | 2021 | 10.21275/sr21422070513 | article | Auricular Hematoma in a Dog Treated by Homeopathic Therapy - Case Report | International Journal of Science and Res
+- new | 2021 | 10.36106/paripex/2710901 | article | ANAL FISTULA TREATED BY HOMEOPATHY IN A FRENCH BULLDOG - CASE REPORT | PARIPEX-INDIAN JOURNAL OF RESEARCH
+- new | 2021 | 10.34117/bjdv7n7-600 | article | Homeopathic treatment of perianal fistula in a dog - Case Report / Tratamento homeopático da fístula perianal num cão - Relato de caso | Brazilian Journal of Development
+- new | 2020 | 10.31533/pubvet.v14n8a647.1-5 | article | Tratamento de Otohematoma em Cão (Canis familiaris) através da Homeopatia: Relato de Caso | PubVet
+- new | 2020 | 10.1201/9780429328541-11 | book-chapter | Potential of Phytochemicals in the Treatment of Hemorrhoids | Apple Academic Press eBooks
+- new | 2019 | 10.2298/mpns1912339z | article | The efficacy and tolerability of Avaricon® hemor medical preparation in the treatment of hemorrhoids compared to placebo – a prospective double blind randomized clinical study | Medicinski pregled
+- new | 2019 | 10.21273/horttech04349-19 | article | Growth, Flowering, and Powdery Mildew-related Responses of Witchhazels in Tennessee | HortTechnology
+- new | 2019 | 10.21518/2079-701x-2019-6-58-62 | article | The efficacy of combination drug therapy of patients with nasal obstruction and rhinorrhoea | Meditsinskiy sovet = Medical Council
+- new | 2018 | https://openalex.org/W7220578782 | article | TRATAMENTO PARA A ACNE A PARTIR DE FITOTERÁPICOS | Intellectus Revista Acadêmica Digital
+- new | 2018 | 10.3390/cosmetics5020025 | article | Development and Stability Evaluation of Liquid Crystal-Based Formulations Containing Glycolic Plant Extracts and Nano-Actives | Cosmetics
+- new | 2018 | 10.22543/0090-0222.2025 | article | Distribution of First Instar Gypsy Moths (Lepidoptera: Lymantriidae) Among Saplings of Four Tree Species Common in the Great Lakes Region | The Great Lakes Entomologist
+- new | 2018 | 10.26641/2307-5279.21.1.2017.150137 | article | Clinical efficacy suppositories «Prostalin forte» in the treatment of patients with chronic prostatitis | Urologiya
+- new | 2018 | 10.5505/ktd.2018.68553 | article | Evaluation of patients treated due to burn injury in Afyonkarahisar State Hospital: a retrospective study | Kocaeli Medical Journal
+- new | 2018 | 10.1007/978-3-319-53357-5_6 | book-chapter | Medical Therapy of Hemorrhoidal Disease | Coloproctology
+- new | 2017 | 10.1007/978-3-319-51989-0_6-1 | book-chapter | Medical Therapy of Hemorrhoidal Disease | Coloproctology
+- new | 2017 | 10.17140/drmtoj-2-124 | review | Systematic Review of Oral and Topical Botanicals in Reducing Photosensitivity | Dermatology - Open Journal
+- new | 2016 | https://openalex.org/W2896241191 | article | Pripravci ljekovitih biljaka u liječenju kožnih bolesti | Farmaceutski glasnik : glasilo Hrvatskog
+- new | 2016 | https://openalex.org/W2558833452 | article | REVIEW ON ANTIVIRAL AND IMMUNO-STIMULATORY POTENTIAL OF MEDICINAL PLANTS | International Journal of Ayurveda and Ph
+- new | 2014 | https://openalex.org/W1582232159 | dissertation | La place de la phytothérapie dans la prise en charge de l’insuffisance veineuse : étude de six plantes médicinales | HAL
+- new | 2013 | 10.5897/jmpr2013.5166 | article | Safety profile of suppository Hamamelis virginiana leaf extract | Journal of Medicinal Plants Research
+- new | 2010 | 10.1111/j.1610-0387.2010.07472_supp.x | article | Welche Pflanze für welche Hauterkrankung? Teil 2: Dermatophyten, chronisch‐venöse Insuffizienz, Photoprotektion, aktinische Keratosen, Vitiligo, Haarausfall, kosmetische Indikation | JDDG Journal der Deutschen Dermatologisc
+- new | 2007 | 10.1016/b978-0-323-02998-8.50024-x | book-chapter | Veterinary Herbal Medicine: A Systems-Based Approach | Elsevier eBooks
+- new | 2004 | https://openalex.org/W2247499537 | article | Formulation of herbal antiperspirant from parotia persica (DC.) C.A.Mey. (Hamamelis persica) and preliminary clinical study | Journal of Medicinal Plants
+- new | 2000 | 10.21273/hortsci.35.3.451e | article | Ex Vitro Rooting of Micropropagated Hamamelis | HortScience
+- new | 1997 | 10.21273/hortsci.32.3.482a | article | Interspecific Hybridizations in the Family Hamamelidaceae | HortScience
+- new | 1993 | 10.2737/nc-gtr-154 | conference-abstract | Abstracts of presentations at the first international symposium on the biology of adventitious root formation. | 
+
+## harpagophytum-procumbens (Harpagophytum procumbens) - name clause: "Harpagophytum procumbens"[tiab] OR "devil's claw"[tiab] OR "devils claw"[tiab] OR "Harpagophytum"[tiab] OR "harpagoside"[ti]
+
+### PubMed HT - 40 hits, 40 not already listed above, 33 new
+- new | 2026 | 42394971 | Review | Harpagophytum procumbens in musculoskeletal disorders: current evidence and comparison with NSAIDs. | Front Pharmacol
+- new | 2025 | 41737916 |  | A randomized, double-blind, controlled study on the efficacy of an oral dietary supplement containing fish oil, ASU and phytotherapeutic extracts in canine osteoarthritis. | Front Vet Sci
+- new | 2024 | 39446666 | Randomized Controlled Trial/Multicenter Study | Investigating the Additive Effects of Loxacon(®) Food Supplement Capsules in Patients with Knee Osteoarthritis. A Multicenter, Randomized, Double-Blind, Controlled, Crossover, Foll | J Med Food
+- new | 2021 | 34035964 |  | Prospective, Multicenter Evaluation of a Polyherbal Supplement alongside Standard-of-Care Treatment for Mild Knee Osteoarthritis. | Adv Orthop
+- new | 2021 | 34712343 |  | The Efficacy of Harpagophytum procumbens (Teltonal) in Patients with Knee Osteoarthritis: A Randomized Active-Controlled Clinical Trial. | Evid Based Complement Alternat Med
+- new | 2021 | 34067240 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Analysis of Effectiveness of a Supplement Combining Harpagophytum procumbens, Zingiber officinale and Bixa orellana in Healthy Recreational Runners with Self-Reported Knee Pain: A  | Int J Environ Res Public Health
+- new | 2020 | 32781652 |  | Induction of CD4(+)CD25(+) Regulatory T Cells from In Vitro Grown Human Mononuclear Cells by Sparteine Sulfate and Harpagoside. | Biology (Basel)
+- new | 2019 | 29701488 | Clinical Trial/Multicenter Study | Effectiveness of a Dietary Supplement Containing Hydrolyzed Collagen, Chondroitin Sulfate, and Glucosamine in Pain Reduction and Functional Capacity in Osteoarthritis Patients. | J Diet Suppl
+- new | 2019 | 30986309 | Consensus Statement/Research Support, U.S. Gov't, Non-P.H.S. | Dietary Ingredients as an Alternative Approach for Mitigating Chronic Musculoskeletal Pain: Evidence-Based Recommendations for Practice and Research in the Military. | Pain Med
+- new | 2017 | 28872719 | Meta-Analysis/Systematic Review | Oral herbal medicines marketed in Brazil for the treatment of osteoarthritis: A systematic review and meta-analysis. | Phytother Res
+- SEEN | 2017 | 28614869 | Randomized Controlled Trial | A Rosa canina - Urtica dioica - Harpagophytum procumbens/zeyheri Combination Significantly Reduces Gonarthritis Symptoms in a Randomized, Placebo-Controlled Double-Blind Study. | Planta Med
+- new | 2016 | 26630428 | Systematic Review | Herbal Medicine for Low Back Pain: A Cochrane Review. | Spine (Phila Pa 1976)
+- new | 2016 | 27095919 |  | A natural herbal remedy modulates angiogenic activity of bronchoalveolar lavage cells from sarcoidosis patients. | Cent Eur J Immunol
+- new | 2016 | 27429708 |  | Alteration of Neutrophil Reactive Oxygen Species Production by Extracts of Devil's Claw (Harpagophytum). | Oxid Med Cell Longev
+- new | 2014 | 24473984 | Multicenter Study/Observational Study | A complex of three natural anti-inflammatory agents provides relief of osteoarthritis pain. | Altern Ther Health Med
+- HELD REF-1261 | 2014 | 25536022 | Meta-Analysis/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Systematic Review | Herbal medicine for low-back pain. | Cochrane Database Syst Rev
+- new | 2013 | 24600731 | Randomized Controlled Trial | Devil's claw root: ulcers and gastrointestinal bleeding? | Prescrire Int
+- new | 2009 | 19856319 | Systematic Review | Evidence of effectiveness of herbal medicinal products in the treatment of arthritis. Part I: Osteoarthritis. | Phytother Res
+- new | 2009 | 19107732 |  | Retrospective evaluation of biopsychosocial determinants and treatment response in patients receiving devil's claw extract (doloteffin). | Phytother Res
+- new | 2008 | 18236448 | Systematic Review | Systematic review on the safety of Harpagophytum preparations for osteoarthritic and low back pain. | Phytother Res
+- new | 2007 | 17202897 | Research Support, Non-U.S. Gov't/Systematic Review | Herbal medicine for low back pain: a Cochrane review. | Spine (Phila Pa 1976)
+- new | 2007 | 17886223 | Clinical Trial/Research Support, Non-U.S. Gov't | Effectiveness and safety of Devil's Claw tablets in patients with general rheumatic disorders. | Phytother Res
+- HELD REF-1834 | 2006 | 17212570 | Research Support, Non-U.S. Gov't/Review | Devil's Claw (Harpagophytum procumbens) as a treatment for osteoarthritis: a review of efficacy and safety. | J Altern Complement Med
+- new | 2006 | 16859534 | Research Support, Non-U.S. Gov't/Systematic Review | Osteoarthritis and nutrition. From nutraceuticals to functional foods: a systematic review of the scientific evidence. | Arthritis Res Ther
+- SEEN | 2006 | 16625605 | Meta-Analysis/Systematic Review | Herbal medicine for low back pain. | Cochrane Database Syst Rev
+- HELD REF-0561 | 2004 | 15369596 | Comparative Study/Systematic Review | Harpgophytum procumbens for osteoarthritis and low back pain: a systematic review. | BMC Complement Altern Med
+- new | 2003 | 12509627 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A randomized double-blind pilot study comparing Doloteffin and Vioxx in the treatment of low back pain. | Rheumatology (Oxford)
+- new | 2003 | 13678253 | Review | The quality of clinical trials with Harpagophytum procumbens. | Phytomedicine
+- new | 2003 | 14669250 | Clinical Trial/Multicenter Study | Treatment of patients with arthrosis of hip or knee with an aqueous extract of devil's claw (Harpagophytum procumbens DC.). | Phytother Res
+- new | 2002 | 12017748 | Comparative Study/Review | [Pain management with herbal antirheumatic drugs]. | Wien Med Wochenschr [ger]
+- new | 2002 | 12046857 | Comparative Study/Multicenter Study | Comparison of outcome measures during treatment with the proprietary Harpagophytum extract doloteffin in patients with pain in the lower back, knee or hip. | Phytomedicine
+- new | 2002 | 11860402 |  | Antioxidant effects of herbal therapies used by patients with inflammatory bowel disease: an in vitro study. | Aliment Pharmacol Ther
+- new | 2001 | 11746846 | Clinical Trial/Multicenter Study | Efficacy and tolerance of Harpagophytum extract LI 174 in patients with chronic non-radicular back pain. | Phytother Res
+- new | 2001 | 11372004 | Clinical Trial/Research Support, Non-U.S. Gov't | Investigations on the pharmacokinetic properties of Harpagophytum extracts and their effects on eicosanoid biosynthesis in vitro and ex vivo. | Clin Pharmacol Ther
+- new | 2001 | 11810324 | Clinical Trial/Randomized Controlled Trial | [Effects of Harpagophytum procumbens LI 174 (devil's claw) on sensory, motor und vascular muscle reagibility in the treatment of unspecific back pain]. | Schmerz [ger]
+- HELD REF-3576 | 2000 | 11185727 | Clinical Trial/Multicenter Study/Randomized Controlled Trial | Efficacy and tolerance of Harpagophytum procumbens versus diacerhein in treatment of osteoarthritis. | Phytomedicine
+- SEEN | 2000 | 11143915 | Clinical Trial/Comparative Study/Multicenter Study/Randomized Controlled Trial | Harpagophytum procumbens in the treatment of knee and hip osteoarthritis. Four-month results of a prospective, multicenter, double-blind trial versus diacerhein. | Joint Bone Spine
+- new | 1999 | 10101629 | Clinical Trial/Randomized Controlled Trial | Effectiveness of Harpagophytum extract WS 1531 in the treatment of exacerbation of low back pain: a randomized, placebo-controlled, double-blind study. | Eur J Anaesthesiol
+- new | 1996 | 23194854 |  | Effectiveness of Harpagophytum procumbens in treatment of acute low back pain. | Phytomedicine
+- new | 1992 | 1409765 | Clinical Trial/Controlled Clinical Trial | A drug used in traditional medicine, harpagophytum procumbens: no evidence for NSAID-like effect on whole blood eicosanoid production in human. | Prostaglandins Leukot Essent Fatty Acids
+
+### PubMed SR - 16 hits, 5 not already listed above, 4 new
+- new | 2024 | 38258782 | Systematic Review | A Systemic Review on Nutraceutical Supplements used in the Management of Osteoarthritis. | Recent Adv Food Nutr Agric
+- new | 2013 | 23391017 | Research Support, Non-U.S. Gov't/Systematic Review | Plant food supplements with anti-inflammatory properties: a systematic review (II). | Crit Rev Food Sci Nutr
+- new | 2008 | 17964131 | Meta-Analysis | Impact of herbal medicines on physical impairment. | Phytomedicine
+- HELD REF-0443 | 2006 | 17135164 | Systematic Review | Devil's Claw (Harpagophytum procumbens DC): an evidence-based systematic review by the Natural Standard Research Collaboration. | J Herb Pharmacother
+- new | 2004 | 14668651 | Review | Selected CAM therapies for arthritis-related pain: the evidence from systematic reviews. | Clin J Pain
+
+### PubMed SAFE - 74 hits, 49 not already listed above, 46 new
+- new | 2026 | 41391813 | Review | Decoding the mechanistic landscape of harpagoside: From molecular targets to translational pharmacology. | Fitoterapia
+- new | 2025 | 40042557 | Research Support, Non-U.S. Gov't | Devil's claw (Harpagophytum procumbens): is the buzz in Google justified? | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2025 | 40430054 |  | The Activity of Phytotherapic Extracts Combined in a Unique Formulation Alleviates Oxidative Stress and Protects Mitochondria Against Atorvastatin-Induced Cardiomyopathy. | Int J Mol Sci
+- new | 2024 | 38794230 | Review | The Therapeutic Potential of Harpagophytum procumbens and Turnera subulata and Advances in Nutraceutical Delivery Systems in Neurodegenerative Diseases. | Pharmaceuticals (Basel)
+- new | 2024 | 38785519 | Review | Osteoarthritis: Insights into Diagnosis, Pathophysiology, Therapeutic Avenues, and the Potential of Natural Extracts. | Curr Issues Mol Biol
+- new | 2024 | 38180010 | Observational Study/Multicenter Study | Open, Observational, Single-Arm, Multicenter Study Assessing the Effectiveness of a Dietary Supplement Containing Hydrolyzed Collagen, Chondroitin Sulfate, and Glucosamine for Oste | J Diet Suppl
+- new | 2023 | 36648708 |  | Ethyl Acetate Fraction of Harpagophytum procumbens Prevents Oxidative Stress In Vitro and Amphetamine-Induced Alterations in Mice Behavior. | Neurochem Res
+- new | 2022 | 36005136 | Review | The Nutraceuticals as Modern Key to Achieve Erythrocyte Oxidative Stress Fighting in Osteoarthritis. | Curr Issues Mol Biol
+- new | 2021 | 32880419 |  | A sport cream (Harpago-Boswellia-ginger-escin) for localized neck/shoulder pain. | Minerva Med
+- new | 2021 | 34486189 |  | The protective effect of harpagoside on angiotensin II (Ang II)-induced blood-brain barrier leakage in vitro. | Phytother Res
+- new | 2020 | 32020872 |  | Toxicology studies of aqueous-alcohol extracts of Harpagophytum procumbens subsp. procumbens (Burch.) DC.Ex Meisn. (Pedaliaceae) in female and male rats. | BMC Complement Med Ther
+- new | 2020 | 30686246 | Review | Natural Products and their (Semi-)Synthetic Forms in the Treatment of Migraine: History and Current Status. | Curr Med Chem
+- new | 2019 | 30242850 | Clinical Trial, Veterinary | Pharmacokinetics of harpagoside in horses after intragastric administration of a Devil's claw (Harpagophytum procumbens) extract. | J Vet Pharmacol Ther
+- new | 2018 | 29355053 |  | Harpagoside-induced anaphylactic reaction in an IgE-independent manner both in vitro and in vivo. | Immunopharmacol Immunotoxicol
+- new | 2018 | 28699506 | Review | Natural or Plant Products for the Treatment of Neurological Disorders: Current Knowledge. | Curr Drug Metab
+- new | 2018 | 29513253 | Case Reports | A rare cause of gastrointestinal obstruction. Drug poisoning as a surgical disorder? | Pol Przegl Chir
+- HELD REF-0727 | 2017 | 28275210 | Review | Phytomedicine in Joint Disorders. | Nutrients
+- new | 2017 | 28918484 | Review | Drug-Herb Interactions in the Elderly Patient with IBD: a Growing Concern. | Curr Treat Options Gastroenterol
+- new | 2017 | 27991703 |  | Risk Assessment via Metabolism and Cell Growth Inhibition in a HepG2/C3A Cell Line Upon Treatment with Arpadol and its Active Component Harpagoside. | Phytother Res
+- new | 2017 | 28355406 | Case Reports | Syndrome of inappropriate antidiuretic hormone secretion induced by the phytotherapy Harpagophytum procumbers: case report. | J Bras Nefrol [por,eng]
+- HELD REF-1830 | 2016 | 26189616 |  | Harpagophytum procumbens extract potentiates morphine antinociception in neuropathic rats. | Nat Prod Res
+- new | 2016 | 26732278 | Research Support, Non-U.S. Gov't | Harpagophytum Procumbens Ethyl Acetate Fraction Reduces Fluphenazine-Induced Vacuous Chewing Movements and Oxidative Stress in Rat Brain. | Neurochem Res
+- new | 2015 | 26109771 |  | Antimutagenic potential of harpagoside and Harpagophytum procumbens against 1-nitropyrene. | Pharmacogn Mag
+- new | 2015 | 26094951 | Case Reports | Systemic Hypertension Induced by Harpagophytum procumbens (devil's claw): A Case Report. | J Clin Hypertens (Greenwich)
+- new | 2015 | 26626238 | Comparative Study/Research Support, Non-U.S. Gov't | Development of a highly reproducible system to evaluate inhibition of cytochrome P450 3A4 activity by natural medicines. | J Pharm Pharm Sci
+- new | 2014 | 25175765 | Research Support, Non-U.S. Gov't | Alteration of anti-inflammatory activity of Harpagophytum procumbens (devil's claw) extract after external metabolic activation with S9 mix. | J Pharm Pharmacol
+- new | 2014 | 25039191 | Research Support, Non-U.S. Gov't | [Studies on effects of Achyranthes bidentata on tongsaimai pellets main active ingredients chlorogenic acid, isoliquiritin, harpagoside and glycyrrhizin in vivo pharmacokinetics]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2013 | 23472485 | Research Support, Non-U.S. Gov't/Review | Adverse effects of herbal medicines: an overview of systematic reviews. | Clin Med (Lond)
+- new | 2013 | 23597204 | Review | Mechanisms of herb-induced nephrotoxicity. | Curr Med Chem
+- new | 2012 | 22850529 |  | Current nutraceuticals in the management of osteoarthritis: a review. | Ther Adv Musculoskelet Dis
+- new | 2012 | 22411727 |  | Effect of silymarin and harpagoside on inflammation reaction of BEAS-2B cells, on ciliary beat frequency (CBF) of trachea explants and on mucociliary clearance (MCC). | Planta Med
+- new | 2012 | 22192054 | Research Support, Non-U.S. Gov't | Harpagoside attenuates MPTP/MPP⁺ induced dopaminergic neurodegeneration and movement disorder via elevating glial cell line-derived neurotrophic factor. | J Neurochem
+- new | 2011 | 21951024 | Review | The use of glucosamine, devil's claw (Harpagophytum procumbens), and acupuncture as complementary and alternative treatments for osteoarthritis. | Altern Med Rev
+- new | 2011 | 21756221 | Review | Drug interactions in African herbal remedies. | Drug Metabol Drug Interact
+- new | 2011 | 21749392 | Research Support, Non-U.S. Gov't | The interaction potential of herbal medicinal products: a luminescence-based screening platform assessing effects on cytochrome P450 and its use with devil's claw (Harpagophyti rad | J Pharm Pharmacol
+- new | 2009 | 19237327 | Evaluation Study/Research Support, Non-U.S. Gov't | An in vivo microdialysis measurement of harpagoside in rat blood and bile for predicting hepatobiliary excretion and its interaction with cyclosporin A and verapamil. | J Chromatogr B Analyt Technol Biomed Lif
+- new | 2009 | 19577448 | Research Support, Non-U.S. Gov't | Effects of Devil's Claw (Harpagophytum procumbens) on the multidrug transporter ABCB1/P-glycoprotein. | Phytomedicine
+- new | 2008 | 18729248 |  | A one-year survey on the use of a powder from Rosa canina lito in acute exacerbations of chronic pain. | Phytother Res
+- new | 2008 | 17853386 | Research Support, Non-U.S. Gov't/Validation Study | Simultaneous determination of harpagoside and cinnamic acid in rat plasma by liquid chromatography electrospray ionization mass spectrometry and its application to pharmacokinetic  | Biomed Chromatogr
+- new | 2007 | 17627199 | Review | A review of the efficacy and safety of devil's claw for pain associated with degenerative musculoskeletal diseases, rheumatoid, and osteoarthritis. | Holist Nurs Pract
+- new | 2007 | 17899026 | Evaluation Study | Simultaneous determination of harpagoside and cinnamic acid in rat plasma by high-performance liquid chromatography: application to a pharmacokinetic study. | Anal Bioanal Chem
+- new | 2006 | 16582551 | Case Reports | [Bone metastases in breast carcinoma]. | Forsch Komplementmed [ger]
+- new | 2005 | 15676159 | Research Support, Non-U.S. Gov't/Review | Cardiovascular pharmacotherapy and herbal medicines: the risk of drug interaction. | Int J Cardiol
+- new | 2005 | 15942912 | Review | Herbal medications commonly used in the practice of rheumatology: mechanisms of action, efficacy, and side effects. | Semin Arthritis Rheum
+- HELD REF-0444 | 2004 | 15150687 | Comparative Study/Review | [Devil's claw extract as an example of the effectiveness of herbal analgesics]. | Orthopade [ger]
+- new | 2004 | 15630188 | Research Support, Non-U.S. Gov't | Inhibition of phorbol ester-induced COX-2 expression by some edible African plants. | Biofactors
+- new | 2004 | 15384148 | Comparative Study/Evaluation Study/Research Support, Non-U.S. Gov't/Validation Study | Simultaneous determination of the inhibitory potency of herbal extracts on the activity of six major cytochrome P450 enzymes using liquid chromatography/mass spectrometry and autom | Rapid Commun Mass Spectrom
+- new | 2001 | 11563723 | Case Reports | Devil's claw (Harpagophytum procumbens) in a Brahman's preputial sheath: a case report from Botswana. | J S Afr Vet Assoc
+- new | 2000 | 10920504 | Review | [Oral anticoagulants and medicinal plants. An emerging interaction]. | Ann Ital Med Int [ita]
+
+### PubMed OBS - 6 hits, 1 not already listed above, 1 new
+- new | 2013 | 23957710 | Research Support, Non-U.S. Gov't | Drug-induced acute pancreatitis: results from the hospital-based Berlin case-control surveillance study of 102 cases. | Aliment Pharmacol Ther
+
+### PubMed REV - 49 hits, 13 not already listed above, 9 new
+- new | 2025 | 40794373 | Review | Deciphering the iridoids' boundaries: from soil ecology to anti-inflammatory medicines. | Inflammopharmacology
+- new | 2024 | 39519204 | Review | Bioactive Compounds in Osteoarthritis: Molecular Mechanisms and Therapeutic Roles. | Int J Mol Sci
+- HELD REF-1832 | 2022 | 35684573 | Review | The Fight against Infection and Pain: Devil's Claw (Harpagophytum procumbens) a Rich Source of Anti-Inflammatory Activity: 2011-2022. | Molecules
+- new | 2021 | 33992751 | Review | Oral hygiene in Namibia: A case of chewing sticks. | J Ethnopharmacol
+- new | 2021 | 34451822 | Review | From Bush Medicine to Modern Phytopharmaceutical: A Bibliographic Review of Devil's Claw (Harpagophytum spp.). | Pharmaceuticals (Basel)
+- new | 2020 | 33204741 | Review | An ex vivo skin model to probe modulation of local cutaneous arachidonic acid inflammation pathway. | J Biol Methods
+- HELD REF-1833 | 2019 | 31273865 | Review | Devil's claw (Harpagophytum procumbens) and chronic inflammatory diseases: A concise overview on preclinical and clinical data. | Phytother Res
+- HELD REF-0751 | 2016 | 27247570 | Review | Review of Anti-Inflammatory Herbal Medicines. | Adv Pharmacol Sci
+- HELD REF-1829 | 2012 | 22940241 | Review | Devil's Claw-a review of the ethnobotany, phytochemistry and biological activity of Harpagophytum procumbens. | J Ethnopharmacol
+- new | 2008 | 18577439 | Research Support, Non-U.S. Gov't/Review | A broad review of commercially important southern African medicinal plants. | J Ethnopharmacol
+- new | 2008 | 18246887 | Review | Dietary supplements for osteoarthritis. | Am Fam Physician
+- new | 2007 | 17128436 | Review | A review of the biological and potential therapeutic actions of Harpagophytum procumbens. | Phytother Res
+- new | 2005 | 16112533 | Review | The commercial harvest of devil's claw (Harpagophytum spp.) in southern Africa: the devil's in the details. | J Ethnopharmacol
+
+### ClinicalTrials.gov - 8 registered studies
+- NCT04765527 | COMPLETED | results=False | NA | Turmeric and Exercise-Induced Muscle Damage and Oxinflammation | conds: Muscular Injury | intr: Turmeric Strength for Joint, Placebo
+- NCT03569930 | UNKNOWN | results=False | PHASE4 | Irritation and Anal Bleeding in Patients Affected by Hemorrhoids. | conds: Hemorrhoids | intr: flavonoid-based supplements, Centella Complex, standard of care
+- NCT02196129 | COMPLETED | results=False | PHASE3 | Immediate Pain Relieving Effects of Sinbaro-3 for Low Back Pain | conds: Low Back Pain With Radiculopathy, Low Back Pain Without Radiculopathy, Herniated Intervertebral Disc | intr: Sinbaro-3, Hwangryun
+- NCT05054023 | COMPLETED | results=False | PHASE2,PHASE3 | Topical Piroxicam vs Soulagel in the Treatment of Acute Extremity Pain After Emergency Department Discharge | conds: Acute Pain | intr: Soulagel®, Arthrosyl®
+- NCT00295490 | TERMINATED | results=True | PHASE2 | Trial Evaluating Devil's Claw for the Treatment of Hip and Knee Osteoarthritis | conds: Osteoarthritis, Knee, Osteoarthritis, Hip | intr: Devil Claw, Placebo
+- NCT03641248 | WITHDRAWN | results=False | EARLY_PHASE1 | Bioavailability and Pharmacokinetic Measures of H. Procumbens Extract | conds: Osteoarthritis, Knee | intr: Enteric coated Devil's Claw, Non-enteric coated Devil's Claw
+- NCT05925725 | COMPLETED | results=False | PHASE4 | Clinical Efficacy and Safety of Loxacon Dietary Supplement Capsules at Patients With Knee Arthrosis | conds: Osteo Arthritis Knee | intr: • harpagozid • boswellin = LOXACON
+- NCT07859319 | NOT_YET_RECRUITING | results=False | PHASE4 | Evaluation of the Efficacy and Acceptability of a Phytotherapy Combining Devil's Claw, Blackcurrant and Meadowsweet for the Management of Ar | conds: Hormone Therapy-induced Arthralgia, Phytotherapy, Symptom Management, Adjuvant Treatment | intr: Phytotherapy Dietary Supplement (Harpagophytum, Meadowsweet, and Blackcurrant), Patient Experience Q
+
+### OpenAlex no-PMID trial-worded - ? hits, 0 without PMID, 0 new
+
+## hedera-helix (Hedera helix) - name clause: "Hedera helix"[tiab] OR "ivy leaf"[tiab] OR "English ivy"[tiab] OR "ivy extract"[tiab] OR "ivy leaves"[tiab] OR "Prospan"[ti] OR "EA 575"[ti]
+
+### PubMed HT - 56 hits, 56 not already listed above, 47 new
+- new | 2026 | 42196994 | Review | A Review of the Properties of Clinically Evaluated Plant-Derived Agents in the Treatment of Respiratory Infections. | Nutrients
+- new | 2026 | 41807028 | Multicenter Study/Randomized Controlled Trial/Clinical Trial, Phase III/Equivalence Trial | Randomized, Double-Blind, Multicenter, Phase 3 Study of AG NPP709 Compared With Ivy Leaf Extract in Patients With Acute or Chronic Respiratory Symptoms. | J Korean Med Sci
+- new | 2026 | 42739377 | Review | From Traditional Remedy to Evidence-Based Phytotherapeutic Agent: Hedera helix L. in Respiratory Medicine. | Plants (Basel)
+- new | 2026 | 42075849 | Comment | Reply to Cho, P.S.P. Comment on "Kardos et al. Efficacy and Safety of a Single Ivy Extract Versus Two Herbal Extract Combinations in Patients with Acute Bronchitis: A Multi-Center, | Pharmaceuticals (Basel)
+- new | 2026 | 42075848 | Comment | Comment on Kardos et al. Efficacy and Safety of a Single Ivy Extract Versus Two Herbal Extract Combinations in Patients with Acute Bronchitis: A Multi-Center, Randomized, Open-Labe | Pharmaceuticals (Basel)
+- new | 2026 | 42253835 |  | Effect of an Herbal Mouthwash Derived from Pedicough Syrup on Plaque, Gingival and Bleeding Indices in Patients with Gingivitis: A Randomized Controlled Trial. | J Dent (Shiraz)
+- new | 2025 | 40109035 |  | Efficacy and Safety of YJP-40 in Patients with Acute Bronchitis: A Randomized, Double-Blind, Parallel Group Study. | Tuberc Respir Dis (Seoul)
+- new | 2025 | 40310108 |  | The Impact of Ivy Leaf Dry Extract EA 575 on Subsequent Antibiotic Use and Its Therapeutic Value in Children and Adolescents with the Common Cold: A Retrospective Prescription Data | Children (Basel)
+- HELD REF-0798 | 2025 | 40376625 | Systematic Review | Phytotherapy for acute respiratory tract infections in children: a systematically conducted, comprehensive review. | Front Pediatr
+- new | 2025 | 40430571 |  | Efficacy and Safety of a Single Ivy Extract Versus Two Herbal Extract Combinations in Patients with Acute Bronchitis: A Multi-Center, Randomized, Open-Label Clinical Trial. | Pharmaceuticals (Basel)
+- new | 2024 | 38889376 | Multicenter Study/Randomized Controlled Trial/Clinical Trial, Phase III | Efficacy and safety of mixture of ivy leaf extract and coptidis rhizome in the treatment of acute bronchitis: multicenter, randomized, double-blinded, active-controlled, parallel,  | Curr Med Res Opin
+- new | 2024 | 38323572 | Randomized Controlled Trial/Multicenter Study/Research Support, Non-U.S. Gov't | Efficacy and tolerability of SEDIFLÙ in treating dry or productive cough in the pediatric population (SEPEDIA): A pilot, randomized, double-blind, placebo-controlled, multicenter c | Clin Pediatr (Phila)
+- new | 2023 | 37731370 | Review | Ivy leaf dry extract EA 575 for the treatment of acute and chronic cough in pediatric patients: review and expert survey. | Curr Med Res Opin
+- new | 2023 | 36749235 | Clinical Trial | The clinical efficacy of a mixture of ivy leaf extract and coptidis rhizome in patients with idiopathic pulmonary fibrosis. | Medicine (Baltimore)
+- new | 2022 | 36414647 | Meta-Analysis/Research Support, Non-U.S. Gov't | Ivy leaves extract EA 575 in the treatment of cough during acute respiratory tract infections: meta-analysis of double-blind, randomized, placebo-controlled trials. | Sci Rep
+- new | 2022 | 34872427 |  | Association between ivy leaves dry extract EA 575 prescriptions and antibiotic use, sick leave duration, and repeated infections in adult patients. | Postgrad Med
+- new | 2022 | 35451717 |  | Magnetic particle monitoring on leaves in winter: a pilot study on a highly polluted location in the Po plain (Northern Italy). | Environ Sci Pollut Res Int
+- HELD REF-0833 | 2021 | 33523253 | Systematic Review | Ivy leaf (Hedera helix) for acute upper respiratory tract infections: an updated systematic review. | Eur J Clin Pharmacol
+- new | 2021 | 35095508 | Review | Safety Evaluation of Natural Drugs in Chronic Skeletal Disorders: A Literature Review of Clinical Trials in the Past 20 years. | Front Pharmacol
+- new | 2021 | 33921227 | Multicenter Study/Observational Study/Research Support, Non-U.S. Gov't | Effects of a Mixture of Ivy Leaf Extract and Coptidis rhizome on Patients with Chronic Bronchitis and Bronchiectasis. | Int J Environ Res Public Health
+- HELD REF-0472 | 2020 | 32454850 |  | Assessment of the Efficacy and Safety of Ivy Leaf (Hedera helix) Cough Syrup Compared with Acetylcysteine in Adults and Children with Acute Bronchitis. | Evid Based Complement Alternat Med
+- new | 2020 | 32731694 | Multicenter Study/Observational Study | The herbal medicine containing of ivy leaf dry extract in the treatment of productive cough in children. | Wiad Lek
+- new | 2019 | 31832428 |  | Efficacy of two dosing schemes of a liquid containing ivy leaves dry extract EA 575 versus placebo in the treatment of acute bronchitis in adults. | ERJ Open Res
+- new | 2019 | 30017873 | Randomized Controlled Trial | The influence of standardized dry ivy leaf extract on the proportion of nasal secretion after post-septoplasty nasal packing removal. | Braz J Otorhinolaryngol
+- new | 2019 | 30829213 | Clinical Trial, Phase II/Controlled Clinical Trial | Chewable cough tablets with improved palatability: A comparative phase II clinical trial. | Pak J Pharm Sci
+- new | 2018 | 29397088 | Review | Management of acute cough by Zataria multiflora Boiss as an alternative treatment. | J Integr Med
+- new | 2018 | 30587469 | Randomized Controlled Trial | The evaluation ofefficacy and safety of Cough (EMA) granules used for upper respiratory disorders. | Pak J Pharm Sci
+- new | 2017 | 28650326 | Randomized Controlled Trial | To evaluate the efficacy and safety of CofNovex plus (EMA) syrup. | Pak J Pharm Sci
+- HELD REF-0473 | 2017 | 29478973 | Multicenter Study | efficacy of dry extract of ivy leaves in the treatment of productive cough. | Wiad Lek
+- HELD REF-5328 | 2017 | 28846157 | Multicenter Study | Allergy-like immediate reactions with herbal medicines in children: A retrospective study using data from VigiBase(®). | Pediatr Allergy Immunol
+- HELD REF-0575 | 2016 | 29441845 | Multicenter Study/Randomized Controlled Trial | A randomized, controlled, double-blind, multi-center trial to evaluate the efficacy and safety of a liquid containing ivy leaves dry extract (EA 575(®)) vs. placebo in the treatmen | Pharmazie
+- new | 2016 | 27409075 |  | Proceedings of the 3rd IPLeiria's International Health Congress : Leiria, Portugal. 6-7 May 2016. | BMC Health Serv Res
+- new | 2015 | 26183729 | Review | Clinical trials with herbal medicinal products in children: a literature analysis. | Wien Med Wochenschr
+- new | 2014 | 25147703 |  | Therapeutic Effect of Hedera helix Alcoholic Extract Against Cutaneous Leishmaniasis Caused by Leishmania major in Balb/c Mice. | Jundishapur J Microbiol
+- HELD REF-3578 | 2014 | 24916707 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Tolerance and effect of an add-on treatment with a cough medicine containing ivy leaves dry extract on lung function in children with bronchial asthma. | Phytomedicine
+- new | 2013 | 24274605 |  | [Cutaneous reactivity to common ivy (Hedera helix) pollen extract in allergic patients]. | Rev Alerg Mex [spa]
+- new | 2012 | 22532491 | Clinical Trial/Research Support, Non-U.S. Gov't | Suitability of ivy extract for the treatment of paediatric cough. | Phytother Res
+- new | 2011 | 21211950 | Clinical Trial | Observational study on the tolerability and safety of film-coated tablets containing ivy extract (Prospan® Cough Tablets) in the treatment of colds accompanied by coughing. | Phytomedicine
+- new | 2011 | 20976077 |  | Systematic review of clinical trials assessing the effectiveness of ivy leaf (hedera helix) for acute upper respiratory tract infections. | Evid Based Complement Alternat Med
+- new | 2011 | 21802921 | Multicenter Study/Randomized Controlled Trial | Acute bronchitis therapy with ivy leaves extracts in a two-arm study. A double-blind, randomised study vs. an other ivy leaves extract. | Phytomedicine
+- new | 2010 | 20446230 |  | [Use of herbal medicine in German children - prevalence, indications and motivation]. | Dtsch Med Wochenschr [ger]
+- new | 2009 | 16860549 | Clinical Trial/Multicenter Study | Tolerance, safety and efficacy of Hedera helix extract in inflammatory bronchial diseases under clinical practice conditions: a prospective, open, multicentre postmarketing study i | Phytomedicine
+- new | 2009 | 20109380 | Controlled Clinical Trial/Multicenter Study | [Multicentric study on a topical compound with lymph-draining action in the treatment of the phlebostatic ulcer of the inferior limbs]. | G Chir [ita]
+- new | 2008 | 19434268 |  | Management for the children with otitis media with effusion in the tertiary hospital. | Clin Exp Otorhinolaryngol
+- new | 2008 | 18315739 | Case Reports/Clinical Trial | Occupational asthma to ivy (Hedera helix). | Allergy
+- new | 2007 | 17619603 | Clinical Trial/Multicenter Study | [Treatment of acute bronchitis in children and adolescents. Non-interventional postmarketing surveillance study confirms the benefit and safety of a syrup made of extracts from thy | MMW Fortschr Med [ger]
+- new | 2006 | 16880367 | Research Support, Non-U.S. Gov't/Systematic Review | Herbal medicines for the treatment of COPD: a systematic review. | Eur Respir J
+- SEEN | 2006 | 17063641 | Randomized Controlled Trial | Efficacy and tolerability of a fluid extract combination of thyme herb and ivy leaves and matched placebo in adults suffering from acute bronchitis with productive cough. A prospec | Arzneimittelforschung
+- new | 2005 | 16391481 | Clinical Trial/Research Support, Non-U.S. Gov't | Open trial to assess aspects of safety and efficacy of a combined herbal cough syrup with ivy and thyme. | Forsch Komplementarmed Klass Naturheilkd
+- HELD REF-3577 | 2003 | 12725580 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Efficacy of dry extract of ivy leaves in children with bronchial asthma--a review of randomized controlled trials. | Phytomedicine
+- new | 2002 | 12006725 | Clinical Trial/Multicenter Study | [Treatment of chronic bronchitis with ivy leaf special extract--multicenter post-marketing surveillance study in 1,350 patients]. | Forsch Komplementarmed Klass Naturheilkd [ger]
+- new | 2000 | 11050261 | Research Support, Non-U.S. Gov't/Systematic Review | Herbal medicines for asthma: a systematic review. | Thorax
+- new | 1999 | 10594293 | Clinical Trial/Comparative Study/Controlled Clinical Trial | Assessment of the ability of the topical skin protectant (TSP) to protect against contact dermatitis to urushiol (Rhus) antigen. | Am J Contact Dermat
+- new | 1997 | 9310722 | Clinical Trial | Preservation of allergic contact dermatitis to poison ivy (urushiol) in late HIV disease. The implications and relevance to immunotherapy with contact allergens. | Dermatology
+- new | 1977 | 142613 |  | Contact dermatitis in black patients. | Cutis
+- new | 1976 | 779306 | Clinical Trial | [Prospan--the bronchosecretolytic and antitussive drug]. | ZFA (Stuttgart) [ger]
+
+### PubMed SR - 11 hits, 2 not already listed above, 2 new
+- new | 2026 | 41576988 | Review | Efficacy and Safety of Ivy Leaf Dry Extract EA 575 in Cough Management: An Updated Review of Clinical Evidence. | Planta Med
+- new | 2026 | 42839197 |  | Benefits and Harms of Herbal Medicines for Preventing and Treating Acute Respiratory Infections: An Overview of Systematic Reviews. | Phytother Res
+
+### PubMed SAFE - 96 hits, 60 not already listed above, 57 new
+- new | 2026 | 40778928 |  | Co-administered chitosan and ivy leaf extract reduce deltamethrin-induced testicular toxicity. | Drug Chem Toxicol
+- new | 2026 | 42120197 |  | Combined Chitosan and Ivy Leaf Extract Mitigate Deltamethrin-Induced Hepatorenal and Reproductive Toxicity via miR-144 Antioxidant Signaling. | Environ Toxicol
+- new | 2026 | 41994554 |  | Safety and efficacy of a feed additive consisting of an extract from the dried leaves of Hedera helix L. (common ivy extract) and thymol for all animal species and categories excep | EFSA J
+- new | 2026 | 41590078 |  | Carrier-Free Supramolecular Hydrogel Self-Assembled from Triterpenoid Saponins from Traditional Chinese Medicine: Preparation, Characterization, and Evaluation of Anti-Inflammatory | Gels
+- new | 2025 | 40114497 | Case Reports | The Risk of Rewilding. | Contact Dermatitis
+- new | 2025 | 40403377 |  | Hedera helix folium extract attenuates methotrexate-induced hepatotoxicity by modulating oxidative stress and inflammatory mediators. | Tissue Cell
+- new | 2025 | 41275623 | Review | Therapeutic promise of α-hederin in Alzheimer's disease: Insights into inflammation, oxidative stress, and apoptosis modulation. | Biomed Pharmacother
+- new | 2025 | 40147328 |  | Integrated metabolome and transcriptome analyses revealed key cytochrome P450 genes involved in the biosynthesis of oleanane-type saponins in Hedera helix L. | Plant Physiol Biochem
+- new | 2025 | 40706415 | Historical Article/Case Reports | The ivy and the palm: Care and mourning for a child buried in 19th-century Madrid, Spain. | Int J Paleopathol
+- new | 2025 | 40273670 |  | In-depth molecular assessment of Hedera helix's L. α - Hederin & Hederacoside C as a gastroprotective & a possible safe Omeprazole phyto-alternative in ethanol-induced gastric ulce | Int Immunopharmacol
+- new | 2023 | 37828294 |  | [Exposures to fruit plants in Germany from 2010-2019 : Analysis of the Erfurt joint poison information center database]. | Bundesgesundheitsblatt Gesundheitsforsch [ger]
+- new | 2023 | 37330073 |  | Assessment of subchronic toxicity and toxicokinetics of AG NPP709 in Sprague-Dawley rats. | J Ethnopharmacol
+- new | 2023 | 38069297 |  | Studying the Functional Potential of Ground Ivy (Glechoma hederacea L.) Extract Using an In Vitro Methodology. | Int J Mol Sci
+- new | 2023 | 37523956 | Research Support, Non-U.S. Gov't | Floristic survey, trace element transfers between soil and vegetation and human health risk at an urban industrial wasteland. | J Hazard Mater
+- new | 2022 | 34882810 |  | Incognito allergic contact dermatitis from common ivy (Hedera helix L) hiding behind Compositae sensitization. | Contact Dermatitis
+- new | 2022 | 34839259 |  | Anti-arthritic activity of the flavonoids fraction of ivy leaves (Hedera helix L.) standardized extract in adjuvant induced arthritis model in rats in relation to its metabolite pr | Biomed Pharmacother
+- new | 2021 | 34280828 |  | Ivy leaves dry extract EA 575® mediates biased β(2)-adrenergic receptor signaling. | Phytomedicine
+- HELD REF-2310 | 2021 | 34482524 | Multicenter Study | Safety of English ivy (Hedera helix) leaf extract during pregnancy: retrospective cohort study. | Daru
+- new | 2020 | 32837900 |  | The effects of Hedera helix on viral respiratory infections in humans: A rapid review. | Adv Integr Med
+- new | 2019 | 31969292 |  | Formulation, characterization and in vivo evaluation of Hedera helix L., topical dosage forms. | Pak J Pharm Sci
+- new | 2019 | 30777790 |  | Hepatoprotective and antioxidant effects of Hedera helix extract on acetaminophen induced oxidative stress and hepatotoxicity in mice. | Biotech Histochem
+- new | 2017 | 28737724 |  | Time-dependent Inhibition of CYP2C8 and CYP2C19 by Hedera helix Extracts, A Traditional Respiratory Herbal Medicine. | Molecules
+- new | 2017 | 32104347 |  | A rapid and sensitive liquid chromatography-tandem mass spectrometric method for the determination of hederasaponin B in rat plasma: Application to a pharmacokinetic study. | Asian J Pharm Sci
+- new | 2016 | 27411171 |  | An ultra-high-performance liquid chromatography-tandem mass spectrometric method for the determination of hederacoside C, a drug candidate for respiratory disorder, in rat plasma. | J Pharm Biomed Anal
+- HELD REF-2308 | 2016 | 27377040 | Evaluation Study | Pharmacokinetic parameters of three active ingredients hederacoside C, hederacoside D, and ɑ-hederin in Hedera helix in rats. | J Sep Sci
+- new | 2016 | 26208459 |  | Antioxidant activity evaluation by physiologically relevant assays based on haemoglobin peroxidase activity and cytochrome c-induced oxidation of liposomes. | Nat Prod Res
+- new | 2015 | 25630853 | Case Reports | Airborne contact dermatitis caused by common ivy (Hedera helix L. ssp. helix). | Contact Dermatitis
+- new | 2015 | 25600644 | Review | Contact dermatitis as an adverse reaction to some topically used European herbal medicinal products - part 2: Echinacea purpurea-Lavandula angustifolia. | Contact Dermatitis
+- new | 2013 | 23274745 | Research Support, Non-U.S. Gov't | Participation of extracellular calcium in α-hederin-induced contractions of rat isolated stomach strips. | J Ethnopharmacol
+- new | 2013 | 23607546 | Research Support, Non-U.S. Gov't | Pharmacokinetics of hederacoside C, an active ingredient in AG NPP709, in rats. | Xenobiotica
+- new | 2012 | 22568849 | Case Reports | Allergic contact dermatitis caused by Hedera helix arborescens and not by Hedera helix L. | Contact Dermatitis
+- new | 2012 | 24007931 |  | [Anaphylaxis Due to Ingestion of Ivy Syrup (Hedera hÈlix). Report of two Cases]. | Rev Alerg Mex [spa]
+- new | 2012 | 22839683 | Multicenter Study/Research Support, Non-U.S. Gov't | Adverse drug reactions for CAM and conventional drugs detected in a network of physicians certified to prescribe CAM drugs. | J Manag Care Pharm
+- HELD REF-2314 | 2011 | 21291987 | Research Support, Non-U.S. Gov't | The effect of the whole extract of common ivy (Hedera helix) leaves and selected active substances on the motoric activity of rat isolated stomach strips. | J Ethnopharmacol
+- new | 2010 | 20236156 | Case Reports/Review | Dermatitis from common ivy (Hedera helix L. subsp. helix) in Europe: past, present, and future. | Contact Dermatitis
+- new | 2009 | 19260922 |  | Allergic contact dermatitis to English ivy (Hedera helix)--a case series. | Contact Dermatitis
+- new | 2008 | 18759904 | Case Reports | Contact urticaria to common ivy (Hedera helix cv. 'Hester') with concomitant immediate sensitivity to the labiate family (Lamiaceae) in a Danish gardener. | Contact Dermatitis
+- new | 2007 | 17295182 |  | Occurrence of N-phenylpropenoyl-L-amino acid amides in different herbal drugs and their influence on human keratinocytes, on human liver cells and on adhesion of Helicobacter pylor | Planta Med
+- new | 2004 | 15304307 |  | Extract of Toxicodendron quercifolium caused genotoxicity and antigenotoxicity in bone marrow cells of CD1 mice. | Food Chem Toxicol
+- new | 2003 | 14513244 | Case Reports | [Allergic contact dermatitis to common ivy (Hedera helix L.)]. | Hautarzt [ger]
+- new | 2003 | 12820750 | Case Reports | An unusual case of death: suffocation caused by leaves of common ivy (Hedera helix). Detection of hederacoside C, alpha-hederin, and hederagenin by LC-EI/MS-MS. | J Anal Toxicol
+- new | 2002 | 11918618 | Case Reports | Contact dermatitis from Hedera helix in a husband and wife. | Contact Dermatitis
+- new | 1999 | 10208509 | Case Reports | The allergens of Dendropanax trifidus Makino and Fatsia japonica Decne. et Planch. and evaluation of cross-reactions with other plants of the Araliaceae family. | Contact Dermatitis
+- new | 1997 | 9197960 | Case Reports | The major allergen of Dendropanax trifidus Makino. | Contact Dermatitis
+- new | 1995 | 8549138 | Case Reports | Allergic contact dermatitis from Hedera helix L. | Contact Dermatitis
+- new | 1994 | 8059459 | Case Reports | [Contact dermatitis allergy to common ivy (Hedera helix L.)]. | Ugeskr Laeger [dan]
+- new | 1994 | 8311112 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S./Research Support, U.S. Gov't, P.H.S. | 4A11, a monoclonal antibody recognizing a novel antigen expressed on aberrant vascular endothelium. Upregulation in an in vivo model of contact dermatitis. | Am J Pathol
+- new | 1989 | 2574536 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Keratinocyte intercellular adhesion molecule-1 (ICAM-1) expression precedes dermal T lymphocytic infiltration in allergic contact dermatitis (Rhus dermatitis). | Am J Pathol
+- new | 1988 | 3180778 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Human maximization test of falcarinol, the principal contact allergen of English ivy and Algerian ivy (Hedera helix, H. canariensis). | Contact Dermatitis
+- new | 1988 | 3378437 | Case Reports | Contact dermatitis from variegated ivy (Hedera helix subsp. canariensis Willd.). | Contact Dermatitis
+- new | 1987 | 3827282 | Case Reports | Compositae dermatitis in childhood. | Arch Dermatol
+- new | 1987 | 3652685 | Case Reports/Research Support, Non-U.S. Gov't | Allergic and irritant contact dermatitis from falcarinol and didehydrofalcarinol in common ivy (Hedera helix L.). | Contact Dermatitis
+- new | 1987 | 16665420 |  | Photoinhibition and zeaxanthin formation in intact leaves : a possible role of the xanthophyll cycle in the dissipation of excess light energy. | Plant Physiol
+- new | 1985 | 3987251 | Case Reports | Contact dermatitis to Hedera helix (common ivy). | Contact Dermatitis
+- new | 1981 | 6456115 | Case Reports | Allergic contact dermatitis from Hedera helix and Brassaia actinophylla (Araliaceae). | Contact Dermatitis
+- new | 1961 | 13779189 |  | Further studies on the role of proteases in the allergic reaction. | J Exp Med
+- new | 1959 | 13629356 |  | Algerian ivy dermatitis; a California disease. | Calif Med
+- new | 1956 | 13361502 |  | Dermatitis venenata from English ivy (Hedera helix). | AMA Arch Derm
+- new | 1949 | 18108858 |  | House ivy dermatitis; treatment by alcoholic extract of house ivy leaves. | Ann Allergy
+- new | 1939 | 19870876 |  | STUDIES ON THE SENSITIZATION OF ANIMALS WITH SIMPLE CHEMICAL COMPOUNDS : VI. EXPERIMENTS ON THE SENSITIZATION OF GUINEA PIGS TO POISON IVY. | J Exp Med
+
+### PubMed OBS - 17 hits, 2 not already listed above, 2 new
+- new | 2020 | 32312131 |  | Reduced antibiotic use after initial treatment of acute respiratory infections with phytopharmaceuticals- a retrospective cohort study. | Postgrad Med
+- new | 2003 | 14531355 |  | [The prevalence of skin and mucosal symptoms in gardeners handling Ficus benjamina (weeping fig) and Hedera helix (ivy). A cross-sectional study]. | Ugeskr Laeger [dan]
+
+### PubMed REV - 20 hits, 9 not already listed above, 7 new
+- new | 2024 | 38790578 | Review | Well-Established and Traditional Use of Vegetal Extracts as an Approach to the "Deep Roots" of Cough. | Children (Basel)
+- new | 2024 | 39239645 | Review | Pharmacological profile of dicaffeoylquinic acids and their role in the treatment of respiratory diseases. | Front Pharmacol
+- HELD REF-0870 | 2023 | 37765014 | Review | Mechanistic Evidence of Andrographis paniculata (Burm. f.) Wall. ex Nees, Pelargonium sidoides DC., Echinacea Species and a Combination of Hedera helix L., Primula veris L./Primula | Pharmaceuticals (Basel)
+- new | 2022 | 35741026 | Review | Medicinal Herbs in the Relief of Neurological, Cardiovascular, and Respiratory Symptoms after COVID-19 Infection A Literature Review. | Cells
+- HELD REF-0834 | 2021 | 34981489 | Review | The Effects of Ivy (Hedera helix) on Respiratory Problems and Cough in Humans: A Review. | Adv Exp Med Biol
+- new | 2021 | 33177422 | Review | Healing Adjuncts in Craniofacial Surgery: Review of Dietary Vitamins and Supplements. | J Craniofac Surg
+- new | 2020 | 33071794 | Review | COVID-19: Is There Evidence for the Use of Herbal Medicines as Adjuvant Symptomatic Therapy? | Front Pharmacol
+- new | 2015 | 25875509 | Review | A Valuable Option for the Treatment of Respiratory Diseases: Review on the Clinical Evidence of the Ivy Leaves Dry Extract EA 575®. | Planta Med
+- new | 2012 | 23128091 | Review | Ipomea hederacea Jacq.: a medicinal herb with promising health benefits. | Molecules
+
+### ClinicalTrials.gov - 6 registered studies
+- NCT06761339 | COMPLETED | results=False | NA | Clinical Trial Evaluate the Cough-relieving and Expectorant Effects of the Health Supplement AZKA Nasal and Throat for Children in Outpatien | conds: Cough Severity, Cough Frequency, Cough Duration, Phlegm Accumulation (Nasal and Throat Mucus) | intr: Azka Nasal and Throat for Children, Prospan cough Syrup
+- NCT06907355 | COMPLETED | results=False | PHASE4 | CHAO Tos: Codeina, HederA Helix, LevOdropropizina Para la TOS | conds: Upper Resp Tract Infection | intr: Codeine, Levodropropizine, Ivy Leaves Cough Liquid, Placebo
+- NCT01127048 | UNKNOWN | results=False | PHASE3 | Prospan® Hustenzäpfchen - Investigation on Efficacy and Tolerability in Children | conds: Symptoms of Acute Bronchitis Accompanied by Coughing | intr: Suppositories containing Ivy leaves dry extract, Placebo
+- NCT02045550 | UNKNOWN | results=False | PHASE2 | Tolerance and Effect of a Prophylactical Treatment With Ivy Leaves Dry Extract in Recurrent Wheezy Bronchitis | conds: Acute Wheezy Bronchitis, Recurrent Bronchitis | intr: Prospan Syrup
+- NCT06377410 | RECRUITING | results=False | NA | Efficacy & Safety of Dry Powder Ivy Extract (Syrup Prospan) Versus NAC Among COPD Patients | conds: Chronic Obstructive Pulmonary Disease | intr: Syrup Prospan, N-Acetylcysteine | pubs: ['30415748:RESULT (new)', '19554195:RESULT (new)', '16443707:RESULT (new)', '26151174:RESULT (new)', '9520914:RESULT (new)', '31107966:RESULT (new)', '24988878:RESULT (new)', '20956181:RESULT (new)']
+- NCT01692041 | UNKNOWN | results=False | PHASE2 | Effect of an add-on Treatment With Ivy Leaves Dry Extract on Lung Function in Bronchial Asthma | conds: Asthma | intr: ivy leaves dry extract, Placebo
+
+### OpenAlex no-PMID trial-worded - 748 hits, 55 without PMID, 55 new
+- new | 2026 | 10.2174/0115748871408554251204101702 | article | Randomized Trial Comparing Levodropropizine, Codeine, Hedera Helix, and Placebo for the Treatment of Acute Cough: A Chao Tos Study Protocol | Reviews on Recent Clinical Trials
+- new | 2026 | 10.35950/cbej.v32i137.15688 | article | Increase Production Secondary Substances in Hedera helix L. Callus by Abiotic Elicitor | journal of the college of basic educatio
+- new | 2026 | 10.53365/nrfhh.1000 | article | Identification of Phenolic Compounds in Conocarpus lancifolius and Hedera helix by High-Performance Liquid Chromatography and Evaluation of Antifungal Activity Against Pathogenic F | Natural Resources for Human Health
+- new | 2026 | 10.1136/bmjpo-2026-epa-unepsa.274 | conference-paper | PP–023 Therapeutic response to ivy leaf extract in coughing children: a single-arm meta-analysis and systematic review | BMJ Paediatrics Open
+- new | 2026 | 10.67317/ijmsrt26oct042 | review | Prospects of Integration of Herbal Remedies in the Treatment of Respiratory Tract Infections in Primary Care: A Concise Narrative Review | International Journal of Modern Science 
+- new | 2026 | 10.3390/su182111185 | article | Thermoelectric Condensate Production and a Feasibility Assessment of Its Reuse for Indoor Plant Irrigation | Sustainability
+- new | 2025 | 10.59931/rcp.25.0003 | article | Clinical Evaluation of Azka Nasal and Throat, a Herbal Formulation, Versus Prospan in Pediatric Acute Nasopharyngitis: A Randomized Controlled Trial | Research in Clinical Pharmacy
+- new | 2025 | 10.2174/9789815274318125010009 | book-chapter | Hedera helix L. (Araliaceae) | BENTHAM SCIENCE PUBLISHERS eBooks
+- new | 2025 | 10.12991/jrespharm.1644543 | article | Protective effect of an aqueous extract of Hedera helix (English ivy) on indomethacin-induced ulceration in mice | Journal of Research in Pharmacy
+- new | 2025 | 10.1007/s13762-025-06478-2 | article | Utilization of agricultural waste compost as a green roof substrates for Senecio maritimus, Hedera helix, Vinca minor | International Journal of Environmental S
+- new | 2025 | 10.21518/ms2025-053 | article | The possibilities of natural remedies in the treatment of acute cough in children | Meditsinskiy sovet = Medical Council
+- new | 2025 | 10.36303/sagp.3562 | article | Ivy leaf extract for cough | South African General Practitioner
+- new | 2025 | 10.1111/gfs.70001 | article | Screening of and Mechanistic Insights Into the Enteric Methane Mitigation Potential of European Native and Non‐Native Forage Trees, Shrubs, and Herbs Using In Vitro Batch Culture | Grass and Forage Science
+- new | 2025 | 10.1007/s11104-025-07647-5 | article | Study of liana's response to drought stress and assessment of air remediation potential using different experimental models | Plant and Soil
+- new | 2024 | 10.5530/pj.2024.16.89 | article | Efficacy and Safety of Traditional Transdermal Patch (Ya-Pok- Dud-Pid) in Primary Knee Osteoarthritis Patients: A Randomized Controlled Trial | Pharmacognosy Journal
+- new | 2024 | 10.56936/18290825-18.2024-113 | article | The effect of a thyme-ivy fluid extract combination on the severity of cough in children: randomized controlled trial | THE NEW ARMENIAN MEDICAL JOURNAL
+- new | 2024 | 10.1142/s1793292024500693 | article | Synthesis of Gold Nanoparticle from Aqueous Extracts of Hedera helix L., Senna alexandrina Mill., Thymus vulgaris L. and Tribulus terrestris L. and Evaluation of Their In-Vitro Ant | NANO
+- new | 2024 | 10.21518/ms2024-396 | article | Acute cough in young children in the practice of a primary care pediatrician | Meditsinskiy sovet = Medical Council
+- new | 2023 | 10.48175/ijarsct-8691 | article | Clinical Trial of Herbal Medicine in Children | International Journal of Advanced Resear
+- new | 2023 | 10.21518/ms2023-005 | article | Experience in the use of phytotherapy in the treatment of bronchitis in children | Meditsinskiy sovet = Medical Council
+- new | 2021 | 10.21518/2079-701x-2021-18-56-61 | article | Possibilities of phyto preparations in treatment of patients with acute cough | Meditsinskiy sovet = Medical Council
+- new | 2021 | 10.2174/2210315511666210917111801 | review | Phytochemical Contents, Biological Activities and Therapeutic Applications of Hedera Helix (Ivy Leaf) Extracts: A Review | The Natural Products Journal
+- new | 2021 | 10.22516/25007440.582 | article | Cohortes de premedicación en endoscopia alta con Simeticona, N-acetylcisteina, Hedera helix y validación de escala visual | Revista Colombiana de Gastroenterología
+- new | 2021 | 10.21518/2079-701x-2021-17-122-127 | article | Prospects for the drug use based on common ivy for bronchopulmonary pathology in childhood | Meditsinskiy sovet = Medical Council
+- new | 2020 | 10.1016/j.hermed.2020.100350 | article | Comparison of the effect of topical Hedera helix L. extract gel to diclofenac gel in the treatment of knee osteoarthritis | Journal of Herbal Medicine
+- new | 2019 | 10.1055/s-0039-3400120 | conference-paper | Assessment of the effectiveness of Ivy leaf (Hedera helix) Syrup compared to acetylcystein in adults and children with acute bronchitis | Planta Medica
+- new | 2019 | 10.15171/jhp.2019.11 | article | Protective effect of ivy leaf extract on paracetamol-induced oxidative stress and nephrotoxicity in mice | Journal of Herbmed Pharmacology
+- new | 2019 | 10.2478/hepo-2019-0004 | article | Litogenolitic and solubility properties of products obtained from common ivy extract (Hederae helicis e folium) and medium of diversified polarity (εM) | Herba Polonica
+- new | 2019 | https://openalex.org/W2957830086 | article | Removing invasive plant species from Highrock Park in Esquimalt, British Columbia: Helping preserve and restore unique ecosystems through community participation | 
+- new | 2018 | https://openalex.org/W3103208762 | article | Comparing Percent Cover of Select Invasive Plant Species (Rubus armeniacus, Ilex aquifolum, and Hedera helix) at Salish Creek and Canyon Creek in Pacific Spirit Park | Expedition: The magazine of the Universi
+- new | 2018 | https://openalex.org/W2980661202 | article | Restoring native biodiversity within urban landscapes: A community restoration initiative to remove invasive species from an urban forest ecosystem in Esquimalt Gorge Park in Victo | 
+- new | 2018 | https://openalex.org/W2796565388 | article | An assessment of invasive plants on Shorter University’s campus | Mathematical and Computational Forestry 
+- new | 2018 | https://openalex.org/W2908806450 | dissertation | Les plantes antitussives à l’officine | HAL
+- new | 2017 | 10.1055/s-0037-1601134 | article | A case of “rhinorrhea cerebrospinalis” | Allgemeine Homöopathische Zeitung
+- new | 2016 | 10.1177/1420326x16638711 | article | Psycho-physiological responses to plant variegation as measured through eye movement, self-reported emotion and cerebral activity | Indoor and Built Environment
+- new | 2016 | https://openalex.org/W7208799409 | conference-paper | Magnetic biomonitoring of particulate pollution in the city of Montpellier (France): The relative contribution of vehicles and trams. | HAL
+- new | 2014 | https://openalex.org/W2234785911 | article | Preliminary trial report on cutting propagation of Hedera helix | Nanfang nongye xuebao
+- new | 2014 | 10.21840/siic/139871 | report | El Extracto Estandarizado de Hedera helix es un Tratamiento Eficaz y Seguro de las Afecciones de la Vía Aérea Superior | 
+- new | 2014 | 10.1055/s-0034-1394641 | article | Clinical studies on herbal remedies in children: A systematic literature analysis | Planta Medica
+- new | 2013 | https://openalex.org/W2993248005 | article | Efficiency of dracaena deremensis and hederahelix plants in elimination of benzene from air using SPME-GC-FID | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2012 | https://openalex.org/W2258015233 | article | In vitro effect of various concentrations of Hedera Helix extract and Glucantime on visceral Leishmaniosis | Fiyz̤.
+- new | 2012 | 10.17660/actahortic.2012.947.19 | conference-paper | POTENTIALS OF RUNNING A LIVING WALL | Acta Horticulturae
+- new | 2011 | 10.1111/j.1526-100x.2010.00719.x | article | Composting One Invasive Species to Control Another | Restoration Ecology
+- new | 2009 | 10.1055/s-0029-1239935 | article | Influence of the saponins from Hedera helix on the β2-adrenergic responsiveness of living cells investigated by β2-adrenergic receptor internalization studies and determination of  | Zeitschrift für Phytotherapie
+- new | 2009 | 10.17660/actahortic.2009.843.53 | conference-paper | DEVELOPMENT OF HYDROPONIC SYSTEMS FOR URBAN FACADE GREENERY | Acta Horticulturae
+- new | 2009 | 10.1055/s-0029-1239454 | article | Verträglichkeit, Sicherheit und Wirksamkeit von Efeublätter-Extrakt | Zeitschrift für Phytotherapie
+- new | 2006 | 10.1089/act.2006.12.71 | article | Taking the Whoop Out of Whooping Cough | Alternative and Complementary Therapies
+- new | 2003 | https://openalex.org/W2624569504 | dissertation | Distributional Characteristics of Lianas: Example of Hedera helix, Drayton Wood, Norwich. | VTechWorks (Virginia Tech)
+- new | 2000 | 10.17660/actahortic.2000.519.12 | conference-paper | IDENTIFICATION OF DYNAMIC PLANT GROWTH AS A FUNCTION OF LIGHT QUANTITY | Acta Horticulturae
+- new | 1997 | 10.17660/actahortic.1997.449.33 | conference-paper | EVAPOTRANSPIRATION AND POTTED PLANTS WATER REQUIREMENTS AS AFFECTED BY ENVIRONMENTAL FACTORS | Acta Horticulturae
+- new | 1995 | 10.21273/hortsci.30.4.902d | article | Student Teaching and Research Initiative through Volunteer Employment | HortScience
+- new | 1990 | 10.1016/0165-1161(90)90070-5 | article | Effects of different saponins from Calendula officinalis, Calendula arvensis and Hedera helix in the mutagenic activities of benzo[a]pyrene and a smoker's urine | Mutation Research/Environmental Mutagene
+- new | 1988 | 10.21273/jashs.113.4.630 | article | Adventitious Root Initiation in De-bladed Petioles from the Juvenile and Mature Phases of English Ivy | Journal of the American Society for Hort
+- new | 1986 | 10.24266/0738-2898-4.2.37 | article | Effect of Experimental Bactericides on Three Bacterial Diseases of Foliage Plants | Journal of Environmental Horticulture
+- new | 1959 | 10.1002/j.1537-2197.1959.tb07063.x | article | DEVELOPMENT OF THE CUTICULAR LAYERS IN ANGIOSPERM LEAVES | American Journal of Botany
+
+## hericium-erinaceus (Hericium erinaceus) - name clause: "Hericium erinaceus"[tiab] OR "lion's mane"[tiab] OR "yamabushitake"[tiab]
+
+### PubMed HT - 23 hits, 23 not already listed above, 16 new
+- new | 2026 | 42738789 | Review | Safety and Efficacy of Natural and Conventional Psychiatric Treatments: A Comparative Review of Mushroom-Derived Compounds and Medicinal Plants in the Management of Mental Disorder | Molecules
+- new | 2026 | 41599861 |  | Characterization of Children with Intellectual Disabilities and Relevance of Mushroom Hericium Biomass Supplement to Neurocognitive Behavior. | Nutrients
+- new | 2026 | 42884628 |  | A Pilot Proof-of-Concept Study to Evaluate the Physiological and Cognitive Impacts of Hericium erinaceus on Healthy Adults. | Nutrients
+- new | 2026 | 42978868 | Clinical Trial | The effects of four-week supplementation of Lion's mane and a Lion's mane and Reishi blend on prioritised mood and wellbeing measures in young women. | Front Nutr
+- HELD REF-3580 | 2025 | 40959699 | Systematic Review | Benefits, side effects, and uses of Hericium erinaceus as a supplement: a systematic review. | Front Nutr
+- HELD REF-0641 | 2025 | 40276537 |  | Acute effects of a standardised extract of Hericium erinaceus (Lion's Mane mushroom) on cognition and mood in healthy younger adults: a double-blind randomised placebo-controlled s | Front Nutr
+- new | 2025 | 41695889 |  | Kiperin Mind Focus supplement mitigates chronic stress-induced neuroinflammation and molecular dysregulation and improves stress-related affective and exploratory behaviors in rats | Front Integr Neurosci
+- new | 2025 | 41280379 | Review | Effects of fungal supplementation on endurance, immune function, and hematological profiles in adult athletes: a systematic review and meta-analysis. | Front Nutr
+- new | 2024 | 38141002 | Research Support, Non-U.S. Gov't | ALSUntangled #73: Lion's Mane. | Amyotroph Lateral Scler Frontotemporal D
+- HELD REF-0640 | 2023 | 38004235 | Randomized Controlled Trial | The Acute and Chronic Effects of Lion's Mane Mushroom Supplementation on Cognitive Function, Stress and Mood in Young Adults: A Double-Blind, Parallel Groups, Pilot Study. | Nutrients
+- new | 2023 | 38140277 | Randomized Controlled Trial | Acute Effects of Naturally Occurring Guayusa Tea and Nordic Lion's Mane Extracts on Cognitive Performance. | Nutrients
+- new | 2023 | 37256902 | Research Support, Non-U.S. Gov't | Production of 17 strains of edible mushroom grown on corn stover and its effect on the chemical composition and ruminal in vitro digestibility of the residual substrate. | PLoS One
+- new | 2022 | 36582308 |  | Four Weeks of Hericium erinaceus Supplementation Does Not Impact Markers of Metabolic Flexibility or Cognition. | Int J Exerc Sci
+- new | 2021 | 33800983 |  | Influence of Short-Term Consumption of Hericium erinaceus on Serum Biochemical Markers and the Changes of the Gut Microbiota: A Pilot Study. | Nutrients
+- new | 2021 | 33453565 |  | Landscape of meiotic crossovers in Hericium erinaceus. | Microbiol Res
+- HELD REF-2419 | 2020 | 32581767 |  | Prevention of Early Alzheimer's Disease by Erinacine A-Enriched Hericium erinaceus Mycelia Pilot Double-Blind Placebo-Controlled Study. | Front Aging Neurosci
+- new | 2020 | 32570735 | Clinical Trial | Effects of Rich in Β-Glucans Edible Mushrooms on Aging Gut Microbiota Characteristics: An In Vitro Study. | Molecules
+- HELD REF-3579 | 2019 | 31413233 | Comparative Study/Multicenter Study/Randomized Controlled Trial | Improvement of cognitive functions by oral intake of Hericium erinaceus. | Biomed Res
+- new | 2019 | 31118969 |  | Hericium erinaceus Improves Mood and Sleep Disorders in Patients Affected by Overweight or Obesity: Could Circulating Pro-BDNF and BDNF Be Potential Biomarkers? | Evid Based Complement Alternat Med
+- new | 2017 | 28115973 |  | Dietary Supplementation of Hericium erinaceus Increases Mossy Fiber-CA3 Hippocampal Neurotransmission and Recognition Memory in Wild-Type Mice. | Evid Based Complement Alternat Med
+- SEEN | 2010 | 20834180 | Randomized Controlled Trial | Reduction of depression and anxiety by 4 weeks Hericium erinaceus intake. | Biomed Res
+- HELD REF-0170 | 2009 | 18844328 | Randomized Controlled Trial | Improving effects of the mushroom Yamabushitake (Hericium erinaceus) on mild cognitive impairment: a double-blind placebo-controlled clinical trial. | Phytother Res
+- new | 1985 | 3932005 | Clinical Trial | A double-blind study of effectiveness of hericium erinaceus pers therapy on chronic atrophic gastritis. A preliminary report. | Chin Med J (Engl)
+
+### PubMed SR - 11 hits, 9 not already listed above, 9 new
+- new | 2026 | 42042379 | Review | Regional Cultivation Forms of Hericium erinaceus Across China's Climatic Zones: A Scoping Review and Analytical Lens for Climate-Adaptive Production. | J Fungi (Basel)
+- new | 2026 | 41562932 | Systematic Review/Research Support, Non-U.S. Gov't | Application of Medicinal Mushrooms for the Treatment of Peripheral Nerve Injury: A Systematic Review. | Med Sci (Basel)
+- new | 2026 | 41518660 | Scoping Review | Hericenones From Hericium erinaceus (Bull.) Pers.: A Scoping Review of Structural Diversity and Health Benefits. | Chem Biodivers
+- new | 2025 | 40626304 | Review | Unveiling the role of erinacines in the neuroprotective effects of Hericium erinaceus: a systematic review in preclinical models. | Front Pharmacol
+- new | 2025 | 40289452 | Systematic Review/Research Support, Non-U.S. Gov't | Edible and Medicinal Fungi as Candidate Natural Antidepressants: Mechanisms and Nutritional Implications. | Mol Nutr Food Res
+- new | 2024 | 38539908 | Review | Oxidative Stress in Spinocerebellar Ataxia Type 3 and Its Attenuation by Herbal Remedies in Traditional Chinese Medicine: A Systematic Review. | Antioxidants (Basel)
+- new | 2024 | 37561965 | Research Support, Non-U.S. Gov't/Scoping Review | The Role of Dietary Ingredients in Mental Energy - A Scoping Review of Randomized Controlled Trials. | J Am Nutr Assoc
+- new | 2023 | 35686376 | Systematic Review | Effect of nutritional supports on malnutrition, cognition, function and biomarkers of Alzheimer's disease: a systematic review. | Int J Neurosci
+- new | 2021 | 33509239 | Review | Therapeutic roles of natural remedies in combating hereditary ataxia: A systematic review. | Chin Med
+
+### PubMed SAFE - 53 hits, 47 not already listed above, 45 new
+- new | 2026 | 42036910 |  | Preparation, characterization and immune enhancement study of Hericium erinaceus polysaccharide-loaded polyethyleneimine-modified poly(lactic-co-glycolic acid) nanoparticles. | J Sci Food Agric
+- new | 2026 | 41475170 |  | Alleviation of heat stress-induced jejunal injury in ducks by Hericium erinaceus polysaccharide. | Poult Sci
+- new | 2026 | 42000649 |  | Modulation of ABCB1 by Erinacerin S: Binding dynamics and transmembrane helix remodeling. | Comput Biol Chem
+- new | 2026 | 43027872 | Review | Natural Medicines Targeting Mitochondrial Dysfunction in Spinocerebellar Ataxia Type 3: A Narrative Review of Cellular and Molecular Events. | Int J Mol Sci
+- new | 2026 | 42608826 |  | Effects of a mushroom-based β-glucan blend on the gastrointestinal health and immune function of healthy adult cats. | J Anim Sci
+- HELD REF-2418 | 2025 | 40284172 | Review | Lion's Mane Mushroom (Hericium erinaceus): A Neuroprotective Fungus with Antioxidant, Anti-Inflammatory, and Antimicrobial Potential-A Narrative Review. | Nutrients
+- new | 2025 | 41230556 |  | A toxicological assessment of Hericium erinaceus (Lion's mane) and Trametes versicolor (Turkey tail) mushroom powders. | Front Toxicol
+- HELD REF-0645 | 2025 | 40495939 | Letter | Potential of traditional Chinese medicine in gastrointestinal disorders: Hericium erinaceus in chronic atrophic gastritis. | World J Gastroenterol
+- new | 2025 | 41300379 |  | Hypoglycemic Effect of Pleurotus citrinopileatus and Hericium erinaceus Buccal Tablets on Diabetic Mice. | Biology (Basel)
+- new | 2025 | 40508113 | Review | Medicinal Mushrooms in Colon Cancer Therapy: Mechanisms of Action of Bioactive Compounds and Therapeutic Potential. | Int J Mol Sci
+- new | 2025 | 39223928 | Case Reports | Grade 3 cytolysis in a patient with metastatic colorectal cancer consuming a mushroom powder-based alternative therapy. | J Oncol Pharm Pract
+- new | 2025 | 39935672 | Review | Theoretical Potential of Hericium Erinaceus Supplementation as an Add-On to Antipsychotics in Chronic and Treatment-Resistant Schizophrenia. | Psychopharmacol Bull
+- new | 2025 | 40382030 |  | Hericium erinaceus ethanol extract exhibits potent DNA-protective and antioxidant action: Evidence from in vitro and Drosophila melanogaster studies. | Food Res Int
+- new | 2025 | 41135064 | Review | The Role of Medicinal Mushrooms in Cancer Treatment: Bioactive Compounds and Therapeutic Potential. | Int J Med Mushrooms
+- new | 2024 | 38617639 |  | Combining Deep Learning and Structural Modeling to Identify Potential Acetylcholinesterase Inhibitors from Hericium erinaceus. | ACS Omega
+- new | 2024 | 38394854 |  | Erinacine S, a small active component derived from Hericium erinaceus, protects oligodendrocytes and alleviates mood abnormalities in cuprizone-exposed rodents. | Biomed Pharmacother
+- new | 2024 | 39339171 |  | Enhancing Oral 5-ASA Effectiveness in Mild-to-Moderate Ulcerative Colitis through an H. erinaceus-Based Nutraceutical Add-on Multi-Compound: The "HERICIUM-UC" Two-Arm Multicentre R | Pharmaceutics
+- new | 2023 | 37603263 | Review | Over the Counter Supplements for Memory: A Review of Available Evidence. | CNS Drugs
+- new | 2023 | 36443636 | Research Support, Non-U.S. Gov't | Hericium erinaceus mycelium-Derived Polysaccharide Alleviates Ulcerative Colitis and Modulates Gut Microbiota in Cynomolgus Monkeys. | Mol Nutr Food Res
+- new | 2023 | 37860101 |  | Benefits of Erinacines from Different Cultivate Formulas on Cognitive Deficits and Anxiety-Like Behaviour in Mice with Trimethyltin-Induced Toxicity. | Trop Life Sci Res
+- new | 2022 | 36184501 |  | Ameliorating Effect of the Edible Mushroom Hericium erinaceus on Depressive-Like Behavior in Ovariectomized Rats. | Biol Pharm Bull
+- new | 2022 | 35341120 |  | Subchronic toxicity and genotoxicity studies of Hericium erinaceus β-glucan extract preparation. | Curr Res Toxicol
+- new | 2022 | 36118772 |  | Potential antidepressant effects of a dietary supplement from the chlorella and lion's mane mushroom complex in aged SAMP8 mice. | Front Nutr
+- new | 2022 | 38647811 |  | In vitro assessment of multipotential therapeutic importance of Hericium erinaceus mushroom extracts using different solvents. | Bioresour Bioprocess
+- new | 2022 | 36014338 |  | Assessment of Cosmetic Properties and Safety of Use of Model Washing Gels with Reishi, Maitake and Lion's Mane Extracts. | Molecules
+- new | 2021 | 34541370 | Review | The effects of twenty-one nutrients and phytonutrients on cognitive function: A narrative review. | J Clin Transl Res
+- new | 2021 | 34679002 |  | Aflatoxin B1 Toxicity in Zebrafish Larva (Danio rerio): Protective Role of Hericium erinaceus. | Toxins (Basel)
+- new | 2021 | 34876186 |  | Neurogenesis-dependent antidepressant-like activity of Hericium erinaceus in an animal model of depression. | Chin Med
+- new | 2020 | 32460371 |  | Auxiliary antitumor effects of fungal proteins from Hericium erinaceus by target on the gut microbiota. | J Food Sci
+- new | 2019 | 30856668 | Case Reports | Lion's mane jellyfish (Cyanea capillata) envenoming presenting as suspected decompression sickness. | Diving Hyperb Med
+- new | 2019 | 31002635 |  | Thirteen-Week Oral Toxicity Evaluation of Erinacine AEnriched Lion's Mane Medicinal Mushroom, Hericium erinaceus (Agaricomycetes), Mycelia in Sprague-Dawley Rats. | Int J Med Mushrooms
+- new | 2019 | 31374912 |  | Lion's Mane Mushroom, Hericium erinaceus (Bull.: Fr.) Pers. Suppresses H(2)O(2)-Induced Oxidative Damage and LPS-Induced Inflammation in HT22 Hippocampal Neurons and BV2 Microglia. | Antioxidants (Basel)
+- new | 2019 | 31881712 | Review | Therapeutic Potential of Hericium erinaceus for Depressive Disorder. | Int J Mol Sci
+- new | 2018 | 29359595 |  | Acute and developmental toxicity assessment of erincine A-enriched Hericium erinaceus mycelia in Sprague-Dawley rats. | Drug Chem Toxicol
+- new | 2018 | 30355923 | Retracted Publication | Erinacine Facilitates the Opening of the Mitochondrial Permeability Transition Pore Through the Inhibition of the PI3K/ Akt/GSK-3β Signaling Pathway in Human Hepatocellular Carcino | Cell Physiol Biochem
+- new | 2017 | 28860534 | Research Support, Non-U.S. Gov't | Genomic and transcriptomic analyses reveal differential regulation of diverse terpenoid and polyketides secondary metabolites in Hericium erinaceus. | Sci Rep
+- new | 2016 | 27481155 |  | Nutrient Optimization Using Response Surface Methodology for Simultaneous Biomass and Bioactive Compound Production by Lion's Mane Medicinal Mushroom, Hericium erinaceus (Agaricomy | Int J Med Mushrooms
+- new | 2016 | 27262461 |  | Protective Effects of Extracellular and Intracellular Polysaccharides on Hepatotoxicity by Hericium erinaceus SG-02. | Curr Microbiol
+- new | 2016 | 27816657 |  | Haematological, biochemical and histopathological aspects of Hericium erinaceus ingestion in a rodent model: A sub-chronic toxicological assessment. | J Ethnopharmacol
+- new | 2016 | 26274992 | Case Reports/Comparative Study | Endoscope-assisted endonasal versus supraorbital keyhole resection of olfactory groove meningiomas: comparison and combination of 2 minimally invasive approaches. | J Neurosurg
+- new | 2015 | 25960751 |  | Protective Effect of Hericium erinaceus on Alcohol Induced Hepatotoxicity in Mice. | Evid Based Complement Alternat Med
+- new | 2015 | 28955459 | Case Reports | Production of cyathane type secondary metabolites by submerged cultures of Hericium erinaceus and evaluation of their antibacterial activity by direct bioautography. | Fungal Biol Biotechnol
+- new | 2014 | 25404218 | Research Support, Non-U.S. Gov't | Screening and isolation for anti-hepatofibrotic components from medicinal mushrooms using TGF-(β1-induced live fibrosis in hepatic stellate cells. | Int J Med Mushrooms
+- new | 2014 | 24810469 |  | Evaluation of the toxicological safety of erinacine A-enriched Hericium erinaceus in a 28-day oral feeding study in Sprague-Dawley rats. | Food Chem Toxicol
+- new | 2014 | 28962329 |  | Genotoxicity profile of erinacine A-enriched Hericium erinaceus mycelium. | Toxicol Rep
+- new | 2012 | 38289992 | Review | Lion’s Mane. | 
+- new | 2003 | 14714963 | Case Reports | Hericium erinaceum (yamabushitake) extract-induced acute respiratory distress syndrome monitored by serum surfactant proteins. | Intern Med
+
+### PubMed OBS - 6 hits, 3 not already listed above, 3 new
+- new | 2025 | 41097229 | Multicenter Study/Observational Study | Management of Post-Colonoscopy Syndrome with a Nutraceutical Intervention Based on Hericium erinaceus: A Retrospective Two-Arm Multicentre Analysis. | Nutrients
+- new | 2022 | 35773270 | Observational Study/Research Support, Non-U.S. Gov't | Psilocybin microdosers demonstrate greater observed improvements in mood and mental health at one month relative to non-microdosing controls. | Sci Rep
+- new | 2014 | 24329027 |  | The lion's mane sign: surgical results using the bilateral fronto-orbito-nasal approach in large and giant anterior skull base meningiomas. | J Neurosurg
+
+### PubMed REV - 81 hits, 21 not already listed above, 18 new
+- new | 2026 | 41906431 | Review | Lion's Mane Mushroom: Nutritional Profile, Bioactive Compounds, Functional Properties, and Applications in Functional Food Systems. | J Food Sci
+- new | 2025 | 41379127 | Review | Morphology, anticancer and neurological activities of Hericium erinaceus. | Braz J Biol
+- new | 2025 | 40333844 | Review | Bioactive Polysaccharides from Hericium erinaceus: Extraction, Structure, Bioactivities, and Applications. | Molecules
+- new | 2024 | 39664911 | Review | Enriching the Mediterranean diet could nourish the brain more effectively. | Front Nutr
+- new | 2024 | 37907145 | Review | The ethnopharmacology, phytochemistry and pharmacology of the genus Hericium. | J Ethnopharmacol
+- HELD REF-0642 | 2023 | 37958943 | Review | Neurotrophic and Neuroprotective Effects of Hericium erinaceus. | Int J Mol Sci
+- HELD REF-1590 | 2023 | 37513265 | Review | Medicinal Mushrooms: Their Bioactive Components, Nutritional Value and Application in Functional Food Production-A Review. | Molecules
+- new | 2023 | 37031727 | Review/Research Support, Non-U.S. Gov't | Fungi as a source of bioactive molecules for the development of longevity medicines. | Ageing Res Rev
+- new | 2023 | 37346156 | Review | Hericium erinaceus, a medicinal fungus with a centuries-old history: Evidence in gastrointestinal diseases. | World J Gastroenterol
+- new | 2023 | 36736282 | Review | Key oncologic pathways inhibited by Erinacine A: A perspective for its development as an anticancer molecule. | Biomed Pharmacother
+- new | 2022 | 35627059 | Review | Edible Mushrooms as a Potential Component of Dietary Interventions for Major Depressive Disorder. | Foods
+- new | 2022 | 35892581 | Review/Research Support, Non-U.S. Gov't | The Monkey Head Mushroom and Memory Enhancement in Alzheimer's Disease. | Cells
+- new | 2021 | 33917843 | Review | Neuroprotective Herbs for the Management of Alzheimer's Disease. | Biomolecules
+- new | 2021 | 33577664 | Review | Chemical studies on bioactive compounds related to higher fungi. | Biosci Biotechnol Biochem
+- new | 2020 | 32397163 | Review | Antitumor, Anti-Inflammatory and Antiallergic Effects of Agaricus blazei Mushroom Extract and the Related Medicinal Basidiomycetes Mushrooms, Hericium erinaceus and Grifola frondos | Nutrients
+- new | 2020 | 32684620 | Research Support, Non-U.S. Gov't/Review | Plant growth regulators from mushrooms. | J Antibiot (Tokyo)
+- new | 2020 | 32663897 | Review | A Mechanistic Review on Medicinal Mushrooms-Derived Bioactive Compounds: Potential Mycotherapy Candidates for Alleviating Neurological Disorders. | Planta Med
+- new | 2017 | 28087447 | Review | Structures, biological activities, and industrial applications of the polysaccharides from Hericium erinaceus (Lion's Mane) mushroom: A review. | Int J Biol Macromol
+- HELD REF-2420 | 2015 | 26244378 | Review | Chemistry, Nutrition, and Health-Promoting Properties of Hericium erinaceus (Lion's Mane) Mushroom Fruiting Bodies and Mycelia and Their Bioactive Compounds. | J Agric Food Chem
+- new | 2014 | 25317734 | Research Support, Non-U.S. Gov't/Review | Hericium erinaceus (Yamabushitake): a unique resource for developing functional foods and medicines. | Food Funct
+- new | 2013 | 24716157 | Review | Neuronal health - can culinary and medicinal mushrooms help? | J Tradit Complement Med
+
+### ClinicalTrials.gov - 15 registered studies
+- NCT07752641 | COMPLETED | results=False | NA | Effect of HIFAS MENOPAUSE on Quality of Life in Postmenopausal Women | conds: Menopause, Menopausal Symptoms | intr: HIFAS MENOPAUSE
+- NCT05443477 | UNKNOWN | results=False | NA | Hericium Erinaceus Mycelium and Probiotic of the Grape King Bio on Symptoms of Premenstrual Syndrome | conds: Premenstrual Syndrome | intr: Hericium Erinaceus Mycelium, Probiotic, control | pubs: ['20084389:RESULT (new)', '32017837:RESULT (new)', '16172836:RESULT (new)', '32867260:RESULT (new)', '20834180:RESULT (SEEN)']
+- NCT04428983 | UNKNOWN | results=False | NA | The Effect of Hericium Erinaceus Mycelium in Non-motor Symptoms of Parkinson's Disease | conds: Parkinson Disease | intr: Hericium erinaceus mycelium
+- NCT07405632 | COMPLETED | results=False | NA | The Impact of Supplementation With Hericium Erinaceus (Lion's Mane) Extract on Cognitive Functioning | conds: Attention, Memory, Cognitive Function and Well-Being | intr: Hericium erinaceus Supplementation, Placebo
+- NCT03632512 | UNKNOWN | results=False | NA | Effect of Hericium Erinaceus on Clinical Patients With Hearing Impairment | conds: Tinnitus | intr: Hericium honey bolus, Placebo honey bolus
+- NCT07665840 | COMPLETED | results=False | NA | Effects of L-Theanine and Hericium Erinaceus Gummies on Psychological, Cognitive, and Sleep Quality in University Students | conds: Psychological Stress, Anxiety, Depression, Sleep Quality | intr: gummy intervention
+- NCT04821258 | COMPLETED | results=False | NA | Effect of the Nutraceutical "MICODIGEST 2.0" on the Complications After Surgery for Colorectal Cancer | conds: Colorectal Cancer, Surgery--Complications | intr: MICODIGEST 2.0 supplement, Placebo supplement | pubs: ['35576566:DERIVED (new)']
+- NCT06870136 | RECRUITING | results=False |  | Study Evaluating the Quality and Effects of Lion's Mane Product on Cognitive Health | conds: Cognitive Decline | intr: Lion's Mane Study Product
+- NCT04065061 | COMPLETED | results=False | NA | Erinacine A-enriched Hericium Erinaceus Mycelia for Improvement of Recognition, Vision, and Functional MRI Alterations | conds: Supplement, Cognition Disorders in Old Age, Vision, fMRI | intr: Erinacine A-enriched Hericium Erinaceus Mycelia, Placebo | pubs: ['32581767:DERIVED (new)']
+- NCT07405957 | COMPLETED | results=False | NA | Effects of Two Different Lion's Mane Extracts (Lions Mane Fruiting Body & Lions Mane Fruiting Body With Mycellium) on Cognitive Performance, | conds: Healthy Adult Females, Healthy Adult Male | intr: Lion Mane (Hericium erinaceus) fruiting body extract - Nordic Origin, Lions Mane (Hericium erinaceus
+- NCT07755553 | COMPLETED | results=False | NA | Effect of a Mushroom Extract-Containing Topical Cosmetic Formulation During Breast Radiotherapy | conds: Radiation Dermatitis, Breast Cancer | intr: Mushroom extract-containing topical cosmetic formulation, Usual moisturizing cosmetic care
+- NCT06599710 | WITHDRAWN | results=False | NA | The Effects of a Food Product Containing Mushroom Extracts (AndoSanTM) in Subjects With Colorectal Cancer-related Fatigue | conds: Cancer-related Fatigue | intr: AndoSanTM
+- NCT07806279 | NOT_YET_RECRUITING | results=False | PHASE3 | Lifestyle Changes, Mushroom Supplementation, and Bupropion to Reduce Adiposity and Cardiometabolic Risk | conds: Cardiometabolic Syndrome, Obesity and Cardiovascular Risk, Overweight , Obesity | intr: Bupropion 150 mg, Lyophilized powder from edible mushrooms, Lifestyle Management
+- NCT04939961 | COMPLETED | results=False | NA | Effects of Hericium Erinaceus on Microbiota and Cognition | conds: Cognitive Decline, Mild | intr: Hericium erinaceus, Placebo
+- NCT07755566 | COMPLETED | results=False | NA | Effect of Oral Papilozumib on Vaginal and Intestinal Microbiota in Human Papillomavirus (HPV)-Positive Women | conds: Papillomavirus Infections | intr: Papilozumib
+
+### OpenAlex no-PMID trial-worded - 783 hits, 44 without PMID, 44 new
+- new | 2026 | 10.64898/2026.04.13.26350781 | preprint | A randomized, double□blind, placebo□controlled study evaluating the impact of Hericium erinaceus (Lion’s Mane) on cognitive performance and subjective wellbeing | medRxiv
+- new | 2026 | 10.31435/ijitss.3(51).2026.6297 | review | HERICIUM ERINACEUS AND COGNITIVE ENHANCEMENT IN HEALTHY YOUNG ADULTS: A NARRATIVE REVIEW | International Journal of Innovative Tech
+- new | 2026 | 10.3390/jphytomed1030013 | article | Neuroprotective Biomolecules from Hericium erinaceus: A Biochemical Perspective | Journal of Phytomedicine
+- new | 2026 | 10.31234/osf.io/uyz7s_v1 | preprint | Evaluating the Neurotrophic Mechanisms of Hericium erinaceus in Mood Regulation: Emerging Evidence and Translational Barriers | PsyArXiv (OSF Preprints)
+- new | 2026 | 10.3389/fntpr.2026.1872464 | article | Bioactive constituents of Hericium erinaceus: extraction strategies, health benefits and food applications | Frontiers in Natural Products
+- new | 2026 | 10.1038/s41538-026-01205-8 | article | A glycoprotein from Hericium erinaceus attenuates metabolic disorders in type 2 diabetic mice | npj Science of Food
+- new | 2026 | https://openalex.org/W7131754801 | article | The Effect of Hericium erinaceus as a potential suppressive treatment for Alzheimer’s Disease with Drosophila melanogaster Model of Alzheimer’s Disease | Furman University Scholar Exchange (Furm
+- new | 2026 | 10.53941/fm.2026.100009 | article | Neuroprotective Effects of Hericium erinaceus: Evidence from Experimental and Clinical Studies—A Systematic Review and Limited Meta-Analysis | Food as Medicine
+- new | 2025 | 10.47836/mjmhs.21.3.50 | article | Effects of Two-week Fungal-based Essence in Healthy Malaysian Adults: A Pilot Randomized Controlled Trial | Malaysian Journal of Medicine and Health
+- new | 2025 | 10.20944/preprints202508.1899.v1 | preprint | Mood and Sleep Benefits of Mushroom Supplementation in Young Adults: An Exploratory Randomized, Double-Blind, Placebo-Controlled Trial | Preprints.org
+- new | 2025 | 10.5281/zenodo.18821202 | preprint | Hericium erinaceus and autism spectrum disorder: current evidence from human studies | Zenodo (CERN European Organization for N
+- new | 2025 | 10.1016/j.jveb.2025.04.010 | article | Multimodal assessment of Hericium erinaceus and Valeriana officinalis for canine anxiety: Integrating EEG, neurochemical analysis, and behavioral surveys | Journal of Veterinary Behavior
+- new | 2024 | 10.1016/j.jff.2024.106120 | article | Effect of erinacine A-enriched Hericium erinaceus supplementation on cognition: A randomized, double-blind, placebo-controlled pilot study | Journal of Functional Foods
+- new | 2024 | 10.12982/cmjs.2024.028 | article | Cultivation and Nutrient Compositions of Medicinal Mushroom, Hericium erinaceus in Thailand | Chiang Mai Journal of Science
+- new | 2024 | 10.1017/s0029665124005111 | review | Hericium erinaceus: A possible future therapeutic treatment for the prevention and delayed progression of Alzheimer’s disease? – A Systematic Review | Proceedings of The Nutrition Society
+- new | 2024 | 10.26226/m.6671b578ed4a6d605af6b0e5 | conference-abstract | OC17 - Hericium erinaceus: A possible future therapeutic treatment for the prevention and delayed progression of Alzheimer’s disease? – A Systematic Review. | 
+- new | 2023 | 10.25118/2763-9037.2023.v13.443 | review | Use of Hericium erinaceus as a potential therapeutic of mental disorders: a systematic review | Debates em Psiquiatria
+- new | 2023 | 10.36103/ijas.v54i3.1749 | article | ANTIBATERIAL ACTIVITY OF (HERICIUM ERINACEUS) EXTRACT ON SOME CLINICAL PATHOGENIC ISOLATES | IRAQI JOURNAL OF AGRICULTURAL SCIENCES
+- new | 2022 | 10.1016/j.jff.2022.105220 | article | Effects of erinacine A-enriched Hericium erinaceus on elderly hearing-impaired patients: A double-blind, randomized, placebo-controlled clinical trial | Journal of Functional Foods
+- new | 2022 | 10.1016/j.jfutfo.2022.08.006 | article | Effects of Hericium erinaceus polypeptide on lowering blood lipids of mice with hyperlipidemia induced by a high-fat diet | Journal of Future Foods
+- new | 2022 | 10.12775/jehs.2022.12.09.058 | article | Therapeutic potential of Lion's Mane (Hericium erinaceus) in neurological and cognitive disorders - a review of the literature | Journal of Education Health and Sport
+- new | 2022 | 10.36036/mr.31.2.2022.127549 | article | Optimization of vegetative growth conditions for submerged cultivation of edible medicinal mushroom Hericium erinaceus through resonance surface methodology | Mushroom Research
+- new | 2022 | 10.13386/j.issn1002-0306.2021040252 | article | Comparison of Protective Effects of Hericium erinaceus Extracts Prepared by Different Methods on Acute Gastric Mucosal Injury in Rats | Science and Technology of Food Industry
+- new | 2021 | 10.6084/m9.figshare.14317915 | dataset | Antioxidant-mediated protective role of Hericium erinaceus (Bull.: Fr.) Pers. against oxidative damage in fibroblasts from Friedreich’s ataxia patient | Figshare
+- new | 2021 | 10.17352/ojb.000020 | article | Hericium erinaceus powder inhibits the growth of Porphyromonas gingivalis | Open Journal of Bacteriology
+- new | 2021 | 10.13386/j.issn1002-0306.2021020065 | article | Ameliorative Effect of Poria cocos -Yam Riched Rice Paste and Hericium erinaceus Biscuit on Rats with Functional Dyspepsia | 食品工业科技
+- new | 2020 | 10.1590/fst.09919 | article | Antioxidant-mediated protective role of Hericium erinaceus (Bull.: Fr.) Pers. against oxidative damage in fibroblasts from Friedreich’s ataxia patient | Food Science and Technology
+- new | 2020 | 10.1016/j.jff.2020.103832 | article | Hericium erinaceus enhances neurotrophic factors and prevents cochlear cell apoptosis in senescence accelerated mice | Journal of Functional Foods
+- new | 2020 | https://openalex.org/W3117251663 | article | PROTEOMIC ANALYSIS OF FETAL RAT NEURAL STEM CELLS AFTER TREATMENT WITH Hericium erinaceus | Scholarly Commons (University of the Pac
+- new | 2020 | 10.5530/pj.2020.12.79 | article | Online Survey for Patient Outcomes on Hericium Erinaceous Mushroom | Pharmacognosy Journal
+- new | 2019 | 10.6084/m9.figshare.11390835 | dataset | Antioxidant-mediated protective role of Hericium erinaceus (Bull.: Fr.) Pers. against oxidative damage in fibroblasts from Friedreich’s ataxia patient | Figshare
+- new | 2019 | 10.31525/ct1-nct04065061 | article | Erinacine A-enriched Hericium Erinaceus Mycelia for Improvement of Recognition, Vision, and Functional MRI Alterations | Case Medical Research
+- new | 2019 | 10.20289/zfdergi.528957 | article | The use of phenolic-rich agricultural wastes for Hericium erinaceus and Lentinula edodes cultivation and its effect on yield performance | Ege Üniversitesi Ziraat Fakültesi Dergis
+- new | 2018 | https://openalex.org/W2979215734 | dissertation | Clinical Effects and Cytokine Responses from Ingestion of AndoSanTM in Patients with Ulcerative Colitis and Crohn´s Disease. A Randomized Placebo Controlled Study | NVA (Nasjonalt vitenarkiv)
+- new | 2018 | 10.1016/j.nbt.2018.05.1146 | article | Improvement of vision, cognitive and functional performance through erinacine A-enriched Hericium erinaceus mycelia in patients with mild Alzheimer's disease | New Biotechnology
+- new | 2014 | 10.14480/jm.2014.12.2.77 | article | A comprehensive review of the therapeutic effects of Hericium erinaceus in neurodegenerative disease | Journal of Mushrooms
+- new | 2014 | 10.1007/s10298-014-0831-5 | article | Étude randomisée comparant l’efficacité d’Hericium erinaceus versus huiles essentielles sur Helicobacter pylori (HP) | Phytothérapie
+- new | 2014 | https://openalex.org/W2377773107 | article | Antineoplastic effect and influence on serum cytokine of hericium erinaceus polysaccharides on S180 tumor-bearing mice | Shiyong yaowu yu linchuang
+- new | 2012 | 10.1007/s10298-012-0725-y | article | Étude Hericium/Tomatis randomisée et prospective sur 84 étudiants. Accélération de l'apprentissage et meilleur taux de succès aux concours médicaux | Phytothérapie
+- new | 2012 | https://openalex.org/W2363077370 | article | Inhibitory Effect of Hericium erinaceus Polysaccharide on Hepatoma-22(H22) Tumor Bearing Mice | Food Science
+- new | 2011 | https://openalex.org/W2383827113 | article | Hericium Erinaceus Tablet combined Mosapride in treating aged patients with functional dyspepsia | Zhongguo xiandai yixue/Zhongguo xiandai 
+- new | 2011 | https://openalex.org/W2375564643 | article | Anti-fatigue Effect of Acanthopanax senticosus Processed by Hericium erinaceus | Zhongguo shiyan fangjixue zazhi
+- new | 2005 | 10.1615/intjmedmushrooms.v7.i3.130 | article | Anti-MRSA Compounds from Hericium erinaceus (Bull.:Fr.) Pers. | International journal of medicinal mushr
+- new | 1999 | https://openalex.org/W2391571046 | article | Antiradiation effect of hericium erinaceus polysaccharide | Zhonghua fangshe yixue yu fanghu zazhi
+
+## hibiscus-sabdariffa (Hibiscus sabdariffa) - name clause: "Hibiscus sabdariffa"[tiab] OR "roselle"[tiab] OR "sour tea"[tiab] OR "hibiscus tea"[tiab] OR "karkade"[tiab]
+
+### PubMed HT - 104 hits, 104 not already listed above, 89 new
+- new | 2026 | 42514335 | Review | Beyond GLP-1 Agonists: Plant-Derived Bioactive Compounds as Adjunctive Strategies for Obesity Management. | Nutrients
+- new | 2026 | 42637462 |  | Chemical environment of an acidic Hibiscus sabdariffa beverage and its role in early amylolytic interactions in a starch-based food system. | Food Res Int
+- new | 2026 | 42011348 |  | Comparison of Hibiscus sabdariffa L. extract and hydrochlorothiazide as adjuncts to Valsartan in managing hypertension in type 2 diabetic nephropathy: A randomized clinical trial. | Avicenna J Phytomed
+- new | 2026 | 42993332 | Randomized Controlled Trial/Comparative Study | Acute effects of hibiscus tea versus coffee consumption before prolonged sitting on blood pressure and heart rate variability in adults: a randomized crossover trial. | Eur J Nutr
+- HELD REF-5128 | 2026 | 42191680 | Systematic Review/Meta-Analysis/Research Support, Non-U.S. Gov't | The effect of Lippia Citriodora (LC) extract on cardiometabolic risk factors: a systematic review and meta-analysis. | Nutr Diabetes
+- new | 2025 | 38418667 | Review | Natural Products in the Clinical Management of Metabolic Syndrome. | Handb Exp Pharmacol
+- new | 2025 | 41305605 | Randomized Controlled Trial | Standardized Hibiscus-Inulin Shot Lowers Lipid-Glucose Indices in Adults with Overweight and Obesity: 8-Week Randomized Trial. | Nutrients
+- new | 2025 | 40009760 | Randomized Controlled Trial | Acute effects of Hibiscus sabdariffa on blood pressure and cognitive function. | Nutr Neurosci
+- new | 2025 | 40806423 | Randomized Controlled Trial | Hibiscus Collagen Alternative (VC-H1) as an Oral Skin Rejuvenating Agent: A 12-Week Pilot Study. | Int J Mol Sci
+- HELD REF-3582 | 2025 | 39870328 | Meta-Analysis/Systematic Review | Efficacy and safety of Hibiscus sabdariffa in cardiometabolic health: An overview of reviews and updated dose-response meta-analysis. | Complement Ther Med
+- new | 2025 | 41010543 | Systematic Review | Systematic Review of the Effects of Plant-Based Foods on Metabolic Outcomes in Adults with MASLD and Comorbidities Such as Obesity, Metabolic Syndrome, and Type 2 Diabetes. | Nutrients
+- new | 2025 | 40334927 | Randomized Controlled Trial | Efficacy of Hibiscus sabdariffa L. extract on metabolic parameters in participants with abdominal obesity and mild metabolic syndrome in Bangkok, Thailand: A double-blind, randomiz | Complement Ther Med
+- HELD REF-3585 | 2024 | 38878905 | Systematic Review/Meta-Analysis | Clinical effects of Hibiscus sabdariffa Linn. on obesity treatment: A systematic review and meta-analysis of randomized controlled trials. | Complement Ther Med
+- new | 2024 | 38725554 |  | Dataset on the qualitative characteristics of roselle varieties (Hibiscus sabdariffa L.). | Data Brief
+- new | 2024 | 38952776 |  | Roselle (Hibiscus sabdariffa L.) extract as an adjunct to valsartan in patients with mild chronic kidney disease: A double-blind randomized controlled clinical trial. | Avicenna J Phytomed
+- new | 2024 | 39346261 |  | Effectiveness of Aqueous Hibiscus Sabdariffa Extract on Reduction of Blood Pressure and Serum Lipids Among Prehypertensive Patients. | J Pharm Bioallied Sci
+- new | 2024 | 39497467 | Review | Comparative effects of tea and coffee drinking on body weight in adults: a systematic review and network meta-analysis of randomised trials. | Br J Nutr
+- new | 2024 | 39057249 |  | Feeding Preferences of the Bean Leaf Beetle (Ootheca spp.) (Coleoptera: Chrysomelidae): Insights for Targeted Pest Control Strategies in Uganda. | Insects
+- new | 2024 | 38881876 | Systematic Review | Safety classification of herbal medicine use among hypertensive patients: a systematic review and meta-analysis. | Front Pharmacol
+- new | 2024 | 38573334 |  | The utility of Hibiscus sabdariffa L. to prepare metal oxides NPs for clinical application on osteoporosis supported by theoretical study. | Bioprocess Biosyst Eng
+- new | 2024 | 39394235 |  | Unveiling the potential role of gibberellic acid, melatonin and indole acetic acid on parthenocarpy, physiological traits and phytochemical responses in Hibiscus sabdariffa L. | Sci Rep
+- new | 2023 | 37297513 | Review | Effect of the Combination of Hibiscus sabdariffa in Combination with Other Plant Extracts in the Prevention of Metabolic Syndrome: A Systematic Review and Meta-Analysis. | Foods
+- new | 2023 | 37986526 | Clinical Trial/Research Support, Non-U.S. Gov't | Bioavailability of bioactive compounds in Hibiscus sabdariffa beverage as a potential anti-inflammatory. | Food Res Int
+- HELD REF-0566 | 2022 | 34694241 | Meta-Analysis/Systematic Review | Efficacy of Hibiscus sabdariffa on Reducing Blood Pressure in Patients With Mild-to-Moderate Hypertension: A Systematic Review and Meta-Analysis of Published Randomized Controlled  | J Cardiovasc Pharmacol
+- HELD REF-0464 | 2022 | 34927694 | Meta-Analysis/Systematic Review/Research Support, Non-U.S. Gov't | A systematic review and meta-analysis of the effects of Hibiscus sabdariffa on blood pressure and cardiometabolic markers. | Nutr Rev
+- new | 2022 | 35966727 |  | Clinical Evaluation of a Novel Tablet Formulation of Traditional Thai Polyherbal Medicine Named Nawametho in Comparison with Its Decoction in the Treatment of Hyperlipidemia. | Evid Based Complement Alternat Med
+- new | 2022 | 36187334 | Randomized Controlled Trial | Antidyslipidemic, Antioxidant, and Anti-inflammatory Effects of Jelly Drink Containing Polyphenol-Rich Roselle Calyces Extract and Passion Fruit Juice with Pulp in Adults with Dysl | Oxid Med Cell Longev
+- new | 2022 | 34370964 | Randomized Controlled Trial | Hibiscus sabdariffa tea affects diet-induced thermogenesis and subjective satiety responses in healthy men but not in women: a randomized crossover trial. | Appl Physiol Nutr Metab
+- new | 2022 | 34591168 | Randomized Controlled Trial | Effectiveness of a polyphenolic extract (Lippia citriodora and Hibiscus sabdariffa) on appetite regulation in overweight and obese grade I population: an 8-week randomized, double- | Eur J Nutr
+- new | 2022 | 35758855 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Improvement on blood pressure and skin using roselle drink: A clinical trial. | J Food Biochem
+- HELD REF-3581 | 2021 | 34837382 | Research Support, Non-U.S. Gov't/Systematic Review | Roselle for hypertension in adults. | Cochrane Database Syst Rev
+- new | 2021 | 34589217 |  | Effect of the roselle (Hibiscus sabdariffa L.) calyces drink on the physiological parameters of healthy adult subjects. | Biomed Rep
+- new | 2021 | 32909326 | Randomized Controlled Trial | Effect of sour tea supplementation on liver enzymes, lipid profile, blood pressure, and antioxidant status in patients with non-alcoholic fatty liver disease: A double-blind random | Phytother Res
+- new | 2021 | 33810049 | Randomized Controlled Trial | A Randomized, Double-Blind, Placebo-Controlled Trial to Determine the Effectiveness of a Polyphenolic Extract (Hibiscus sabdariffa and Lippia citriodora) for Reducing Blood Pressur | Molecules
+- HELD REF-1847 | 2021 | 32948827 | Review | Hypertension treatment with Combretum micranthum or Hibiscus sabdariffa, as decoction or tablet: a randomized clinical trial. | J Hum Hypertens
+- new | 2021 | 34959284 |  | The Effect of Capsule-in-Capsule Combinations on In Vivo Disintegration in Human Volunteers: A Combined Imaging and Salivary Tracer Study. | Pharmaceutics
+- new | 2021 | 35947728 |  | The hypotensive effect of the aqueous calyx extract of Hibiscus sabdariffa may occur through the attenuation of Autonomic nervous system activity. | Niger J Physiol Sci
+- new | 2021 | 34298670 |  | A Randomized, Double-Blind, Placebo-Controlled, Cross-Over Study to Evaluate the Efficacy of Aqualief(TM) Mucoadhesive Tablets in Head and Neck Cancer Patients Who Developed Radiat | Cancers (Basel)
+- HELD REF-3584 | 2020 | 31833112 | Meta-Analysis/Systematic Review | Effect of Hibiscus sabdariffa (Roselle) supplementation in regulating blood lipids among patients with metabolic syndrome and related disorders: A systematic review and meta-analys | Phytother Res
+- HELD REF-3583 | 2020 | 32156406 | Meta-Analysis/Systematic Review | The antidiabetic and antilipidemic effects of Hibiscus sabdariffa: A systematic review and meta-analysis of randomized clinical trials. | Food Res Int
+- new | 2020 | 32138285 | Published Erratum | Correction: Marhuenda, J., et al. A Randomized, Double-Blind, Placebo Controlled Trial to Determine the Effectiveness a Polyphenolic Extract (Hibiscus sabdariffa and Lippia citriod | Foods
+- HELD REF-0567 | 2020 | 31943427 | Meta-Analysis/Systematic Review | The efficacy of sour tea (Hibiscus sabdariffa L.) on selected cardiovascular disease risk factors: A systematic review and meta-analysis of randomized clinical trials. | Phytother Res
+- new | 2020 | 32699546 | Review | Urinary tract infections in the elderly: a review of disease characteristics and current treatment options. | Drugs Context
+- new | 2020 | 31935957 |  | A Randomized, Double-Blind, Placebo Controlled Trial to Determine the Effectiveness a Polyphenolic Extract (Hibiscus sabdariffa and Lippia citriodora) in the Reduction of Body Fat  | Foods
+- new | 2020 | 33005201 |  | Action Mechanism of Rosella (Hibiscus sabdariffa L.) Used to Treat Metabolic Syndrome in Elderly Women. | Evid Based Complement Alternat Med
+- new | 2020 | 32614361 | Randomized Controlled Trial | The Efficacy of a Dietary Supplement with Carnosine and Hibiscus Sabdariffa L. (AqualiefTM) in Patients with Xerostomia: a Randomized, Placebo-Controlled, Double-Blind Trial. | Clin Ter
+- new | 2020 | 32403906 | Observational Study | Efficacy of food supplement Acidif plus® in the treatment of uncomplicated UTIs in women: a pilot observational study. | Minerva Ginecol
+- new | 2020 | 32725873 | Clinical Trial, Phase II/Randomized Controlled Trial | Antihypertensive efficacy and safety of a standardized herbal medicinal product of Hibiscus sabdariffa and Olea europaea extracts (NW Roselle): A phase-II, randomized, double-blind | Phytother Res
+- new | 2019 | 30669431 |  | Hibiscus sabdariffa Meal Improves Iron Status of Childbearing Age Women and Prevents Stunting in Their Toddlers in Northern Ghana. | Nutrients
+- new | 2019 | 31334091 |  | Effect of hibiscus sabdariffa on blood pressure in patients with stage 1 hypertension. | J Adv Pharm Technol Res
+- new | 2019 | 30764582 | Randomized Controlled Trial | Acute Effects of Hibiscus Sabdariffa Calyces on Postprandial Blood Pressure, Vascular Function, Blood Lipids, Biomarkers of Insulin Resistance and Inflammation in Humans. | Nutrients
+- new | 2019 | 30951501 | Randomized Controlled Trial | In vitro modulation of cytochrome P450 isozymes and pharmacokinetics of caffeine by extracts of Hibiscus sabdariffa Linn calyx. | J Basic Clin Physiol Pharmacol
+- new | 2019 | 30816148 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Differential effects of a combination of Hibiscus sabdariffa and Lippia citriodora polyphenols in overweight/obese subjects: A randomized controlled trial. | Sci Rep
+- new | 2018 | 30591660 | Clinical Trial | Effects of Pecan Nut (Carya illinoiensis) and Roselle Flower (Hibiscus sabdariffa) as Antioxidant and Antimicrobial Agents for Sardines (Sardina pilchardus). | Molecules
+- new | 2018 | 29862395 | Randomized Controlled Trial | Hibiscus and lemon verbena polyphenols modulate appetite-related biomarkers in overweight subjects: a randomized controlled trial. | Food Funct
+- new | 2018 | 29387571 |  | Effects of aqueous extracts of dried calyx of sour tea (Hibiscus sabdariffa L.) on polygenic dyslipidemia: A randomized clinical trial. | Avicenna J Phytomed
+- new | 2018 | 29974725 | Clinical Trial, Phase III/Comparative Study/Randomized Controlled Trial | L-Methionine associated with Hibiscus sabdariffa and Boswellia serrata extracts are not inferior to antibiotic treatment for symptoms relief in patients affected by recurrent uncom | Arch Ital Urol Androl
+- new | 2017 | 28262045 | Review | Recurrent urinary tract infections in women: risk factors, etiology, pathogenesis and prophylaxis. | Future Microbiol
+- new | 2017 | 28925046 | Randomized Controlled Trial | In vivo pharmacodynamic and pharmacokinetic interactions of Hibiscus sabdariffa calyces extracts with simvastatin. | J Clin Pharm Ther
+- new | 2017 | 27736246 | Randomized Controlled Trial | The Effect of Green Tea and Sour Tea (Hibiscus sabdariffa L.) Supplementation on Oxidative Stress and Muscle Damage in Athletes. | J Diet Suppl
+- new | 2017 | 28244718 | Randomized Controlled Trial | APOE and CETP TaqIB polymorphisms influence metabolic responses to Hibiscus sabdariffa L. and Gynostemma pentaphyllum Makino tea consumption in hypercholesterolemic subjects. | Asia Pac J Clin Nutr
+- new | 2017 | 29147120 |  | A comparative study of the effect of green tea and sour tea on blood pressure and lipid profile in healthy adult men. | ARYA Atheroscler
+- new | 2017 | 29311704 | Randomized Controlled Trial | Clinical efficacy of African traditional medicines in hypertension: A randomized controlled trial with Combretum micranthum and Hibiscus sabdariffa. | J Hum Hypertens
+- new | 2017 | 28755971 | Randomized Controlled Trial | Efficacy of standardized extract of Hibiscus sabdariffa L. (Malvaceae) in improving iron status of adults in malaria endemic area: A randomized controlled trial. | J Ethnopharmacol
+- new | 2017 | 27221151 | Randomized Controlled Trial | Does consumption of an aqueous extract of Hibscus sabdariffa affect renal function in subjects with mild to moderate hypertension? | J Physiol Sci
+- new | 2016 | 26982618 | Randomized Controlled Trial | Evaluation of the effects of roselle (Hibiscus sabdariffa L.) on oxidative stress and serum levels of lipids, insulin and hs-CRP in adult patients with metabolic syndrome: a double | J Complement Integr Med
+- new | 2016 | 27413258 |  | Infusion of Hibiscus sabdariffa L. Modulates Oxidative Stress in Patients with Marfan Syndrome. | Mediators Inflamm
+- new | 2016 | 26696232 | Research Support, Non-U.S. Gov't | Local food-based complementary feeding recommendations developed by the linear programming approach to improve the intake of problem nutrients among 12-23-month-old Myanmar childre | Br J Nutr
+- HELD REF-2527 | 2015 | 25875025 | Meta-Analysis/Systematic Review | Effect of sour tea (Hibiscus sabdariffa L.) on arterial hypertension: a systematic review and meta-analysis of randomized controlled trials. | J Hypertens
+- new | 2015 | 25714729 | Research Support, Non-U.S. Gov't/Review | Managing hypertension by polyphenols. | Planta Med
+- new | 2015 | 26093884 |  | Complementary and Alternative Medicine Use Among Patients With Chronic Kidney Disease and Kidney Transplant Recipients. | J Ren Nutr
+- new | 2015 | 26468478 |  | Effect of sour tea (Lipicom) pill versus captopril on the treatment of hypertension. | J Renal Inj Prev
+- new | 2015 | 26289514 | Randomized Controlled Trial | Effect of Hibiscus sabdariffaon blood pressure and electrolyte profile of mild to moderate hypertensive Nigerians: A comparative study with hydrochlorothiazide. | Niger J Clin Pract
+- new | 2015 | 26600645 | Comparative Study/Randomized Controlled Trial | Effects of aqueous extract of Hibiscus sabdariffa on the renin-angiotensin-aldosterone system of Nigerians with mild to moderate essential hypertension: A comparative study with li | Indian J Pharmacol
+- new | 2015 | 26234931 | Clinical Trial/Research Support, Non-U.S. Gov't | The acute impact of polyphenols from Hibiscus sabdariffa in metabolic homeostasis: an approach combining metabolomics and gene-expression analyses. | Food Funct
+- new | 2014 | 25312144 |  | Efficacy of Hibiscus sabdariffa and Telfairia occidentalis in the attenuation of CCl4-mediated oxidative stress. | Asian Pac J Trop Med
+- new | 2014 | 24444676 | Review | [Therapeutic potential of Hibiscus sabdariffa: a review of the scientific evidence]. | Endocrinol Nutr [spa]
+- new | 2014 | 24549255 | Randomized Controlled Trial | Hibiscus sabdariffa extract inhibits obesity and fat accumulation, and improves liver steatosis in humans. | Food Funct
+- new | 2014 | 25242840 |  | The Effect of Green Tea versus Sour Tea on Insulin Resistance, Lipids Profiles and Oxidative Stress in Patients with Type 2 Diabetes Mellitus: A Randomized Clinical Trial. | Iran J Med Sci
+- new | 2014 | 26196579 |  | The Aqueous Calyx Extract of Hibiscus sabdariffa Lowers Blood Pressure and Heart Rate via Sympathetic Nervous System Dependent Mechanisms. | Niger J Physiol Sci
+- HELD REF-1843 | 2013 | 24120746 | Research Support, Non-U.S. Gov't/Systematic Review | Effects of Hibiscus sabdariffa L. on serum lipids: a systematic review and meta-analysis. | J Ethnopharmacol
+- HELD REF-1845 | 2013 | 23333908 | Research Support, N.I.H., Extramural/Review | Hibiscus sabdariffa L. in the treatment of hypertension and hyperlipidemia: a comprehensive review of animal and human studies. | Fitoterapia
+- new | 2013 | 24343464 |  | Effects of Roselle on arterial pulse pressure and left ventricular hypertrophy in hypertensive patients. | Saudi Med J
+- new | 2013 | 23725524 | Comparative Study/Randomized Controlled Trial | The effect of green tea and sour tea on blood pressure of patients with type 2 diabetes: a randomized clinical trial. | J Diet Suppl
+- new | 2013 | 23890462 | Research Support, Non-U.S. Gov't | Complementary and alternative medicine (CAM) use among Jordanian patients with chronic diseases. | Complement Ther Clin Pract
+- new | 2013 | 24082826 |  | Effect of Hibiscus sabdariffa Calices on Dyslipidemia in Obese Adolescents: A Triple-masked Randomized Controlled Trial. | Mater Sociomed
+- new | 2012 | 22331521 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Consumption of Hibiscus sabdariffa L. aqueous extract and its impact on systemic antioxidant potential in healthy subjects. | J Sci Food Agric
+- new | 2012 | 21806865 | Research Support, Non-U.S. Gov't | Contribution of beverages to the intake of polyphenols and antioxidant capacity in obese women from rural Mexico. | Public Health Nutr
+- new | 2011 | 21991538 |  | The effect of hibiscus sabdariffa on lipid profile, creatinine, and serum electrolytes: a randomized clinical trial. | ISRN Gastroenterol
+- HELD REF-3581 | 2010 | 20091658 | Systematic Review | Roselle for hypertension in adults. | Cochrane Database Syst Rev
+- HELD REF-1844 | 2010 | 19801187 | Systematic Review | The effectiveness of Hibiscus sabdariffa in the treatment of hypertension: a systematic review. | Phytomedicine
+- new | 2010 | 20018807 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Hibiscus sabdariffa L. tea (tisane) lowers blood pressure in prehypertensive and mildly hypertensive adults. | J Nutr
+- new | 2010 | 20553629 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | An evaluation of the hypolipidemic effect of an extract of Hibiscus Sabdariffa leaves in hyperlipidemic Indians: a double blind, placebo controlled trial. | BMC Complement Altern Med
+- new | 2010 | 19962289 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of Hibiscus sabdariffa extract powder and preventive treatment (diet) on the lipid profiles of patients with metabolic syndrome (MeSy). | Phytomedicine
+- new | 2010 | 19765963 | Clinical Trial | The aqueous extract of Hibiscus sabdariffa calices modulates the production of monocyte chemoattractant protein-1 in humans. | Phytomedicine
+- new | 2009 | 19678781 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of sour tea (Hibiscus sabdariffa) on lipid profile and lipoproteins in patients with type II diabetes. | J Altern Complement Med
+- new | 2009 | 18685605 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effects of sour tea (Hibiscus sabdariffa) on hypertension in patients with type II diabetes. | J Hum Hypertens
+- new | 2007 | 17094172 | Randomized Controlled Trial | Effects of water extract of Hibiscus sabdariffa, Linn (Malvaceae) 'Roselle' on excretion of a diclofenac formulation. | Phytother Res
+- new | 2007 | 17315307 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Clinical effects produced by a standardized herbal medicinal product of Hibiscus sabdariffa on patients with hypertension. A randomized, double-blind, lisinopril-controlled clinica | Planta Med
+- new | 2005 | 16858935 | Controlled Clinical Trial | The efficacy of roselle (Hibicus sabdariffa Linn.) flower tea as oral negative contrast agent for MRCP study. | J Med Assoc Thai
+- new | 2005 | 15647413 | Clinical Trial/Comparative Study/Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Pharmacokinetics of anthocyanidin-3-glycosides following consumption of Hibiscus sabdariffa L. extract. | J Clin Pharmacol
+- new | 2004 | 15330492 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effectiveness and tolerability of a standardized extract from Hibiscus sabdariffa in patients with mild to moderate hypertension: a controlled and randomized clinical trial. | Phytomedicine
+- new | 1999 | 10404421 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effect of sour tea (Hibiscus sabdariffa) on essential hypertension. | J Ethnopharmacol
+- new | 1994 | 7869018 | Research Support, Non-U.S. Gov't | Changes in urinary chemical composition in healthy volunteers after consuming roselle (Hibiscus sabdariffa Linn.) juice. | J Med Assoc Thai
+
+### PubMed SR - 26 hits, 9 not already listed above, 9 new
+- new | 2026 | 43027724 | Systematic Review/Review | Dermatoprotective Potential of Hibiscus sabdariffa L.: A Systematic Review of Preclinical Evidence. | Int J Mol Sci
+- new | 2023 | 36436183 | Meta-Analysis/Review | Hibiscus sabdariffa (Roselle) calyx: a systematic and meta-analytic review of memory-enhancing, anti-neuroinflammatory and antioxidative activities. | Inflammopharmacology
+- new | 2023 | 36174808 | Scoping Review | A scoping review of African natural products against gastric ulcers and Helicobacter pylori. | J Ethnopharmacol
+- new | 2022 | 35820316 | Systematic Review | Medicinal plants with anti-colorectal cancer bioactive compounds: Potential game-changers in colorectal cancer management. | Biomed Pharmacother
+- new | 2021 | 34040600 | Meta-Analysis/Systematic Review | Immunomodulatory and Mechanistic Considerations of Hibiscus sabdariffa (HS) in Dysfunctional Immune Responses: A Systematic Review. | Front Immunol
+- new | 2021 | 34691218 | Review | Systematic Review of Medicinal Plants Used for Treatment of Diabetes in Human Clinical Trials: An ASEAN Perspective. | Evid Based Complement Alternat Med
+- new | 2021 | 33724587 | Systematic Review | Phytonutrient supplements and metabolic biomarkers of cardiovascular disease: An umbrella review of meta-analyses of clinical trials. | Phytother Res
+- new | 2020 | 32354172 | Review | Organic Acids from Roselle (Hibiscus sabdariffa L.)-A Brief Review of Its Pharmacological Effects. | Biomedicines
+- new | 2015 | 26520790 | Research Support, Non-U.S. Gov't/Systematic Review | A systematic review of medicinal plants used for weight loss in Brazil: Is there potential for obesity treatment? | J Ethnopharmacol
+
+### PubMed SAFE - 151 hits, 124 not already listed above, 124 new
+- new | 2026 | 42367450 | Case Reports | Possible Interaction Between Hibiscus and Warfarin Resulting in Severe International Normalized Ratio Elevation: A Case Report. | Cureus
+- new | 2026 | 42925973 | Review | Medicinal plants and functional foods with diuretic effects: a nutraceutical approach to cardiovascular health. | Fitoterapia
+- new | 2026 | 42382430 |  | Dietary Microencapsulated Roselle (Hibiscus sabdariffa L.) Calyx Extract Enhances Growth, Pigmentation, and Physiological Responses in Fancy Carp (Cyprinus carpio L.). | Aquac Nutr
+- new | 2026 | 42535466 | Review | Dietary exposure and health risk assessment of heavy metals in hibiscus sabdariffa calyces sold in Ghanaian markets. | J Environ Sci Health B
+- new | 2026 | 42311560 |  | Amoxicillin-Induced Drug-Induced Liver Injury Superimposed on Acute Hepatitis C Infection in a Patient With Hurler Syndrome: A Diagnostic Challenge Assessed by the Updated RUCAM. | Case Reports Hepatol
+- new | 2026 | 41859011 | Case Reports | Effects of Drying Duration on the Bioactive Profile of Black Garlic and Its Utilization in Functional Herbal Tea. | Curr Dev Nutr
+- new | 2026 | 42675452 | Review | Integrative Approaches in Cardiovascular Disease: The Role of Nutraceuticals in Heart Failure, Atrial Fibrillation, and Related Conditions. | Phytother Res
+- new | 2026 | 42895182 | Review | Edible Rose and Roselle: A Critical Review of Nutritional Composition, Safety, and Regulatory Considerations for Product Development. | J Food Sci
+- new | 2026 | 42489326 | Review | Assessment of Impacts of Clinically Effective Antihypertensive Herbal Medicines on the Activities of Major Drug Metabolizing Enzymes and Transport Proteins. | Drug Metab Bioanal
+- new | 2026 | 42840268 |  | Hibiscus sabdariffa protects against fibromyalgia by modulating the neuroinflammation-oxidative stress-microRNA axis. | Biochem Biophys Rep
+- new | 2026 | 42382308 |  | Comprehensive Phytochemical Profiling and Multi-Target Biological Evaluation of Hibiscus sabdariffa L. Calyx Extracts From Libya: A Promising Functional Food Candidate With Antibac | Food Sci Nutr
+- new | 2026 | 42948974 |  | The anthocyanin-rich extract of Hibiscus sabdariffa enhances nuclear area, stratum thickness, and dendritic spines of hippocampal pyramidal cells in ovariectomized Wistar rats. | Histol Histopathol
+- new | 2026 | 42883557 |  | An Innovative Blend of Cinnamon Essential Oil, Roselle, and Moringa Flower Powders as a Natural Alternative to Sodium Nitrite in Chicken Sausage Processing. | Foods
+- new | 2025 | 41155164 |  | Hibiscus syriacus Bud 'Pyeonghwa' Water Extract Inhibits Adipocyte Differentiation and Mitigates High-Fat-Diet-Induced Obesity In Vivo. | Int J Mol Sci
+- new | 2025 | 40397207 |  | Antibacterial effects of rosella petal extract (Hibiscus sabdariffa L.) in mouthwash formulation against Streptococcus sanguinis and Porphyromonas gingivalis Biofilms: An in vitro  | Saudi Dent J
+- new | 2025 | 38976141 |  | Multi-element Contamination and Health Risks in Green Leafy Vegetables from Ambagarh Chowki, Chhattisgarh, India. | Biol Trace Elem Res
+- new | 2025 | 39877333 |  | Antibacterial activity of 1 % Roselle flower nano-emulsion extract (Hibiscus sabdariffa) against peri-implantitis-related bacteria on orthodontic mini-implants: An in vitro study. | J Oral Biol Craniofac Res
+- new | 2025 | 40042671 |  | Oral intake of Hibiscus sabdariffa L. increased c-Myc and caspase-3 gene expression and altered microbial population in colon of BALB/c mice induced to preneoplastic lesions. | Eur J Nutr
+- new | 2025 | 40806573 |  | Genomic and Cytotoxic Damage in Wistar Rats and Their Newborns After Transplacental Exposure to Hibiscus sabdariffa Hydroalcoholic Extract. | Int J Mol Sci
+- new | 2025 | 39947066 |  | Hibiscus sabdariffa calyx extract protects human keratinocyte cells from fluoranthene-induced ferroptosis via the repression of aryl hydrocarbon receptor. | Ecotoxicol Environ Saf
+- new | 2024 | 38357241 |  | Roselle (Hibiscus sabdariffa L.) calyces tea improves physical fitness of healthy adults. | Biomed Rep
+- new | 2024 | 39464663 |  | Transcriptome-wide Identification of Nine Tandem Repeat Protein Families in Roselle (Hibiscus sabdariffa L.). | Trop Life Sci Res
+- new | 2023 | 37363150 | Case Reports | Hibiscus Tea, Hormone Balance, and Thrombosis: A Case Report. | Integr Med (Encinitas)
+- new | 2023 | 37314593 |  | The Phytoestrogenic Effect of Hibiscus sabdariffa Involves Estrogen Receptor α in Ovariectomized Wistar Rats. | Plant Foods Hum Nutr
+- new | 2023 | 37764756 |  | Hibiscus Anthocyanins Extracts Induce Apoptosis by Activating AMP-Activated Protein Kinase in Human Colorectal Cancer Cells. | Nutrients
+- new | 2023 | 37375755 | Review | Therapeutic Potential of Hibiscus sabdariffa Linn. in Attenuating Cardiovascular Risk Factors. | Pharmaceuticals (Basel)
+- new | 2023 | 37830114 | Review | Novel Insight into the Cellular and Molecular Signalling Pathways on Cancer Preventing Effects of Hibiscus sabdariffa: A Review. | J Cancer Prev
+- new | 2023 | 37675925 | Review | Natural angiotensin converting enzyme inhibitors: A safeguard against hypertension, respiratory distress syndrome, and chronic kidney diseases. | Phytother Res
+- new | 2023 | 38139436 | Review | The Potential Role of Gossypetin in the Treatment of Diabetes Mellitus and Its Associated Complications: A Review. | Int J Mol Sci
+- new | 2023 | 37060710 |  | Ultrasound application for the decontamination of roselle (Hibiscus sabdariffa L.) seeds: Influence on fungal inhibition and seed quality. | Ultrason Sonochem
+- new | 2023 | 37450997 |  | Hibiscus-cisplatin combination treatment decreases liver toxicity in rats while increasing toxicity in lung cancer cells via oxidative stress- apoptosis pathway. | Biomed Pharmacother
+- new | 2023 | 36829816 |  | Antioxidant, Alpha-Glucosidase Inhibition Activities, In Silico Molecular Docking and Pharmacokinetics Study of Phenolic Compounds from Native Australian Fruits and Spices. | Antioxidants (Basel)
+- new | 2023 | 36940025 |  | Therapeutic effect of gossypetin against paraquat-induced testicular damage in male rats: a histological and biochemical study. | Environ Sci Pollut Res Int
+- new | 2022 | 34021873 |  | Health Hazard Assessment Due to Slimming Medicinal Plant Intake. | Biol Trace Elem Res
+- new | 2022 | 36452138 |  | Supplementation with the Traditional Thai Polyherbal Medicine NawaTab Ameliorates Lipid Profiles in High-Fat Diet-Induced Hyperlipidemic Rats. | Evid Based Complement Alternat Med
+- new | 2022 | 35455462 | Review | Physiological Effects and Human Health Benefits of Hibiscus sabdariffa: A Review of Clinical Trials. | Pharmaceuticals (Basel)
+- new | 2022 | 35619271 |  | Computer-Aided Identification of Cholinergic and Monoaminergic Inhibitory Flavonoids from Hibiscus sabdariffa L. | Curr Drug Discov Technol
+- new | 2022 | 36307527 |  | Alleviating the adverse effects of salinity on Roselle plants by green synthesized nanoparticles. | Sci Rep
+- new | 2022 | 34941430 |  | Comparison of the Antibacterial Activity and Effect on Membrane Permeability of Hibiscus Acid and a Commercial Chlorhexidine Mouthrinse Against Pathogenic Oral Bacteria and Determi | J Med Food
+- new | 2022 | 35035921 |  | Microencapsulation of roselle (Hibiscus sabdariffa L.) anthocyanins: Effects of drying conditions on some physicochemical properties and antioxidant activities of spray-dried powde | Food Sci Nutr
+- new | 2022 | 36145217 |  | Hibiscus sabdariffa Extract Protects HaCaT Cells against Phenanthrene-Induced Toxicity through the Regulation of Constitutive Androstane Receptor/Pregnane X Receptor Pathway. | Nutrients
+- new | 2022 | 36259155 | Research Support, Non-U.S. Gov't | Hibiscus sabdariffa L. polyphenolic-rich extract promotes muscle glucose uptake and inhibits intestinal glucose absorption with concomitant amelioration of Fe(2+) -induced hepatic  | J Food Biochem
+- new | 2022 | 35187171 |  | Prevention of Hepatorenal Insufficiency Associated with Lead Exposure by Hibiscus sabdariffa L. Beverages Using In Vivo Assay. | Biomed Res Int
+- new | 2021 | 33174095 | Review | Plants Used as Antihypertensive. | Nat Prod Bioprospect
+- new | 2021 | 34771006 |  | Anti-Multiple Myeloma Potential of Secondary Metabolites from Hibiscus sabdariffa-Part 2. | Molecules
+- new | 2021 | 34383955 |  | Effect of Hibiscus sabdariffa and Zingiber officinale on pharmacokinetics and pharmacodynamics of amlodipine. | J Pharm Pharmacol
+- new | 2021 | 32888148 |  | Antiapoptotic and antioxidant capacity of phytochemicals from Roselle (Hibiscus sabdariffa) and their potential effects on monosodium glutamate-induced testicular damage in rat. | Environ Sci Pollut Res Int
+- new | 2021 | 34987253 |  | Effect of Co-administration of Glibenclamide and Aqueous Calyx Extract of Hibiscus Sabdariffa on Oxidative Stress Markers in Streptozotocin-Induced Diabetic Rats. | Niger J Physiol Sci
+- new | 2021 | 34070238 |  | Modelling the Effects of Roselle Extract, Potato Peel Flour, and Beef Fat on the Sensory Properties and Heterocyclic Amines Formation of Beef Patties Studied by Using Response Surf | Foods
+- new | 2020 | 33025593 |  | Potassium bromate cytotoxicity in the Wister rat model of chronic gastric ulcers: Possible reversal by protocatechuic acid. | J Food Biochem
+- new | 2020 | 32181145 |  | Phytochemical analysis and in vitro cytostatic potential of ethnopharmacological important medicinal plants. | Toxicol Rep
+- new | 2020 | 32655663 |  | Pharmacokinetic Herb-Drug Interaction between Hibiscus sabdariffa Calyces Aqueous Extract and Captopril in Rats. | Evid Based Complement Alternat Med
+- new | 2020 | 32882797 |  | Olive Leaves and Hibiscus Flowers Extracts-Based Preparation Protect Brain from Oxidative Stress-Induced Injury. | Antioxidants (Basel)
+- new | 2020 | 32934766 |  | Hibiscus sabdariffa extract protects against cadmium-induced ovarian toxicity in adult Wistar rats. | Int J Physiol Pathophysiol Pharmacol
+- new | 2020 | 32359554 |  | The protective effect of Hibiscus sabdariffa calyxes extract against cypermethrin induced oxidative stress in mice. | Pestic Biochem Physiol
+- new | 2020 | 32048541 |  | Effect of Hibiscus sabdariffa and Zingiber officinale on the antihypertensive activity and pharmacokinetic of losartan in hypertensive rats. | Xenobiotica
+- new | 2020 | 30710163 |  | Hibiscus sabdariffa L. extract prolongs lifespan and protects against amyloid-β toxicity in Caenorhabditis elegans: involvement of the FoxO and Nrf2 orthologues DAF-16 and SKN-1. | Eur J Nutr
+- new | 2020 | 33005778 |  | Toxicity assessment of sub-acute and sub-chronic oral administration and diuretic potential of aqueous extract of Hibiscus sabdariffa calyces. | Heliyon
+- new | 2020 | 34394271 |  | Trace metal toxicity in some food items in three major markets in Ado-Odo/Ota LGA, Ogun State, Nigeria and associated health implications. | Afr Health Sci
+- new | 2020 | 33102143 |  | Toxicity and gas chromatography-mass spectrometry analyses of a polyherbal formulation commonly used in Ibadan metropolis, Nigeria. | Toxicol Rep
+- new | 2019 | 30606475 |  | Evaluation of natural dyes for human spermatozoa morphology assessment. | Acta Histochem
+- new | 2019 | 30626104 | Review | Beneficial Effects of Natural Bioactive Compounds from Hibiscus sabdariffa L. on Obesity. | Molecules
+- new | 2019 | 31323932 |  | Anti-Multiple Myeloma Potential of Secondary Metabolites from Hibiscus sabdariffa. | Molecules
+- new | 2019 | 30208764 |  | Effectiveness of D-mannose, Hibiscus sabdariffa and Lactobacillus plantarum therapy in prevention of infectious events following urodynamic study. | Urologia
+- new | 2019 | 31599646 | Multicenter Study | Treating Uncontrolled Hypertension with Hibiscus sabdariffa When Standard Treatment Is Insufficient: Pilot Intervention. | J Altern Complement Med
+- new | 2019 | 29672189 |  | Abrogation of Hepatic Damage Induced by Anticancer Drug Methotrexate by Zobo (Hibiscus sabdariffa extract) Supplementation via Targeting Oxidative Hepatotoxicity in Rats. | J Diet Suppl
+- new | 2018 | 29468962 | Review | Plant-Derived Polyphenols in Human Health: Biological Activity, Metabolites and Putative Molecular Targets. | Curr Drug Metab
+- new | 2018 | 30544726 | Review | Evidence of Some Natural Products with Antigenotoxic Effects. Part 2: Plants, Vegetables, and Natural Resin. | Nutrients
+- new | 2018 | 29868312 |  | Prediction of binding potential of natural leads against the prioritized drug targets of chikungunya and dengue viruses by computational screening. | 3 Biotech
+- new | 2017 | 29057840 | Review | Ethnomedicinal, Phytochemical and Ethnopharmacological Aspects of Four Medicinal Plants of Malvaceae Used in Indian Traditional Medicines: A Review. | Medicines (Basel)
+- new | 2017 | 28197528 |  | Antimutagenic Effect of Hibiscus sabdariffa L. Aqueous Extract on Rats Treated with Monosodium Glutamate. | ScientificWorldJournal
+- new | 2017 | 28434514 | Case Reports/Letter | Cutaneous Toxicity Induced by Hibiscus Tea in a Patient Treated with Erlotinib. | J Thorac Oncol
+- new | 2017 | 28049927 |  | Hypolipidemic and Hypocholesterolemic Effect of Roselle (Hibiscus sabdariffa L.) Seeds Oil in Experimental Male Rats. | J Oleo Sci
+- new | 2017 | 28918124 | Review | Polyphenols reported to shift APAP-induced changes in MAPK signaling and toxicity outcomes. | Chem Biol Interact
+- new | 2017 | 28336227 |  | Aqueous calyxes extract of Roselle or Hibiscus sabdariffa Linn supplementation improves liver morphology in streptozotocin induced diabetic rats. | Arab J Gastroenterol
+- new | 2017 | 28414519 | Multicenter Study/Observational Study | Effect of a Food Supplement Containing L-Methionine on Urinary Tract Infections in Pregnancy: A Prospective, Multicenter Observational Study. | J Altern Complement Med
+- new | 2017 | 28542915 | Comparative Study | Effect of aqueous extract and anthocyanins of calyces of Hibiscus sabdariffa (Malvaceae) in rats with adenine-induced chronic kidney disease. | J Pharm Pharmacol
+- new | 2017 | 28335544 |  | Combination Effect of Antituberculosis Drugs and Ethanolic Extract of Selected Medicinal Plants against Multi-Drug Resistant Mycobacterium tuberculosis Isolates. | Sci Pharm
+- new | 2017 | 28873717 | Research Support, Non-U.S. Gov't | Herbal products containing Hibiscus sabdariffa L., Crataegus spp., and Panax spp.: Labeling and safety concerns. | Food Res Int
+- new | 2016 | 27416488 | Observational Study | Hibiscus sabdariffa increases hydroxocobalamin oral bioavailability and clinical efficacy in vitamin B(12) deficiency with neurological symptoms. | Fundam Clin Pharmacol
+- new | 2016 | 27118499 | Review | Antimicrobial, antiparasitic and anticancer properties of Hibiscus sabdariffa (L.) and its phytochemicals: in vitro and in vivo studies. | Ceska Slov Farm
+- new | 2016 | 27564372 |  | Metabolic profile and hepatoprotective activity of the anthocyanin-rich extract of Hibiscus sabdariffa calyces. | Pharm Biol
+- new | 2016 | 25682722 | Research Support, Non-U.S. Gov't | Safety assessment of Hibiscus sabdariffa after maternal exposure on male reproductive parameters in rats. | Drug Chem Toxicol
+- new | 2015 | 26869866 | Review | Plants with potential use on obesity and its complications. | EXCLI J
+- new | 2014 | 25077880 |  | Anti-hepatotoxic activities of Hibiscus sabdariffa L. in animal model of streptozotocin diabetes-induced liver damage. | BMC Complement Altern Med
+- new | 2013 | 23561167 | Research Support, Non-U.S. Gov't | Aluminium and other elements in selected herbal tea plant species and their infusions. | Food Chem
+- new | 2013 | 24146512 | Research Support, Non-U.S. Gov't | Toxicity studies of the water extract from the calyces of Hibiscus sabdariffa L. in rats. | Afr J Tradit Complement Altern Med
+- new | 2013 | 24146485 |  | In vitro inhibitory activities of the extract of Hibiscus sabdariffa L. (family Malvaceae) on selected cytochrome P450 isoforms. | Afr J Tradit Complement Altern Med
+- new | 2012 | 22474496 |  | Ethnopharmacology of medicinal plants of the pantanal region (mato grosso, Brazil). | Evid Based Complement Alternat Med
+- new | 2012 | 22428240 | Research Support, Non-U.S. Gov't | Effect of Hibiscus sabdariffa and its anthocyanins on some reproductive aspects in rats. | Nat Prod Commun
+- new | 2012 | 22057204 | Research Support, Non-U.S. Gov't | Inhibition of calcium oxalate crystal deposition on kidneys of urolithiatic rats by Hibiscus sabdariffa L. extract. | Urol Res
+- new | 2012 | 24575672 | Comparative Study | In vitro antioxidant activities of extract and oil from roselle (Hibiscus sabdariffa L.) seed against sunflower oil autoxidation. | Malays J Nutr
+- new | 2012 | 21798576 |  | Effect of extract of Hibiscus on the ultrastructure of the testis in adult mice. | Acta Histochem
+- new | 2011 | 21291361 | Research Support, Non-U.S. Gov't/Review | Chemopreventive properties and molecular mechanisms of the bioactive compounds in Hibiscus sabdariffa Linne. | Curr Med Chem
+- new | 2011 | 21480802 |  | Herb-drug interaction between the extract of Hibiscus sabdariffa L. and hydrochlorothiazide in experimental animals. | J Med Food
+- new | 2010 | 20355050 | Research Support, Non-U.S. Gov't | Aqueous extract of Hibiscus sabdariffa L. decelerates acetaminophen-induced acute liver damage by reducing cell death and oxidative stress in mouse experimental models. | J Sci Food Agric
+- new | 2010 | 20418021 |  | Inhibitory effect of marinades with hibiscus extract on formation of heterocyclic aromatic amines and sensory quality of fried beef patties. | Meat Sci
+- new | 2010 | 20839905 |  | Mechanism of delayed puberty in rats whose mothers consumed Hibiscus sabdariffa during lactation. | Pharm Biol
+- new | 2010 | 22416659 |  | Hibiscus sabdariffa ethanolic extract protects against dyslipidemia and oxidative stress induced by chronic cholesterol administration in rabbits. | Afr J Med Med Sci
+- new | 2010 | 21294418 | Research Support, Non-U.S. Gov't | Liposome-containing Hibiscus sabdariffa calyx extract formulations with increased antioxidant activity, improved dermal penetration and reduced dermal toxicity. | J Med Assoc Thai
+- new | 2008 | 20161963 |  | Toxicity and immunomodulatory activity of fractions of Hibiscus sabdariffa Linn (family Malvaceae) in animal models. | Afr J Tradit Complement Altern Med
+- new | 2008 | 22062281 |  | Effects of Urtica dioica and Hibiscus sabdariffa on the quality and safety of sucuk (Turkish dry-fermented sausage). | Meat Sci
+- new | 2008 | 19434221 |  | Maternal consumption of an aqueous extract of Hibiscus sabdariffa during lactation accelerates postnatal weight and delays onset of puberty in female offspring. | Niger J Physiol Sci
+- new | 2008 | 18054472 | Research Support, Non-U.S. Gov't | Acetaminophen-induced liver damage in mice: effects of some medicinal plants on the oxidative defense system. | Exp Toxicol Pathol
+- new | 2008 | 19434218 |  | Mechanism of the delayed puberty onset in offspring of rats that consumed aqueous extract of Hibiscus sabdariffa during pregnancy. | Niger J Physiol Sci
+- new | 2007 | 17707603 | Comparative Study/Research Support, Non-U.S. Gov't | Toxicity and mutagenic activity of some selected Nigerian plants. | J Ethnopharmacol
+- new | 2007 | 17145051 | Research Support, Non-U.S. Gov't | Chemopreventive properties of Hibiscus sabdariffa L. on human gastric carcinoma cells through apoptosis induction and JNK/p38 MAPK signaling activation. | Chem Biol Interact
+- new | 2007 | 17406073 |  | Influence of aqueous extract of Hibiscus sabdariffa L. petal on cadmium toxicity in rats. | Biol Trace Elem Res
+- new | 2007 | 17395447 | Research Support, Non-U.S. Gov't | Commonly used tropical medicinal plants exhibit distinct in vitro antioxidant activities against hepatotoxins in rat liver. | Exp Toxicol Pathol
+- new | 2007 | 18030661 |  | Effect of Hibiscus anthocyanins-rich extract induces apoptosis of proliferating smooth muscle cell via activation of P38 MAPK and p53 pathway. | Mol Nutr Food Res
+- new | 2006 | 16842235 | Research Support, Non-U.S. Gov't/Review | Evaluation of natural and synthetic compounds from East Asiatic folk medicinal plants on the mediation of cancer. | Anticancer Agents Med Chem
+- new | 2006 | 16751998 |  | Effects of Roselle and Ginger on cisplatin-induced reproductive toxicity in rats. | Asian J Androl
+- new | 2005 | 16018963 | Research Support, Non-U.S. Gov't | Delphinidin 3-sambubioside, a Hibiscus anthocyanin, induces apoptosis in human leukemia cells through reactive oxygen species-mediated mitochondrial pathway. | Arch Biochem Biophys
+- new | 2005 | 15922006 | Research Support, Non-U.S. Gov't | Hibiscus anthocyanins rich extract-induced apoptotic cell death in human promyelocytic leukemia cells. | Toxicol Appl Pharmacol
+- new | 2005 | 15878355 |  | Hepatoprotective effects of Hibiscus, Rosmarinus and Salvia on azathioprine-induced toxicity in rats. | Life Sci
+- new | 2004 | 15151167 | Comparative Study/Validation Study | Effect of zobo drink (Hibiscus sabdariffa water extract) on the pharmacokinetics of acetaminophen in human volunteers. | Eur J Drug Metab Pharmacokinet
+- new | 2003 | 14522449 |  | Toxicological investigation of aqueous-methanolic extract of the calyces of Hibiscus sabdariffa L. | J Ethnopharmacol
+- new | 2003 | 12557248 |  | The effect of a water extract and anthocyanins of hibiscus sabdariffa L on paracetamol-induced hepatoxicity in rats. | Phytother Res
+- new | 2002 | 11955669 | Research Support, Non-U.S. Gov't | In vivo protective effect of protocatechuic acid on tert-butyl hydroperoxide-induced rat hepatotoxicity. | Food Chem Toxicol
+- new | 2000 | 10762726 | Research Support, Non-U.S. Gov't | Protective effect of Hibiscus anthocyanins against tert-butyl hydroperoxide-induced hepatic toxicity in rats. | Food Chem Toxicol
+- new | 1999 | 10451541 |  | Antihypertensive effect of roselle (Hibiscus sabdariffa) calyx infusion in spontaneously hypertensive rats and a comparison of its toxicity with that in Wistar rats. | Cell Biochem Funct
+- new | 1999 | 10478827 |  | Effects of roselle (Hibiscus sabdariffa Linn.), a Thai medicinal plant, on the mutagenicity of various known mutagens in Salmonella typhimurium and on formation of aberrant crypt f | Food Chem Toxicol
+- new | 1997 | 9449221 | Research Support, Non-U.S. Gov't | Protective effects of dried flower extracts of Hibiscus sabdariffa L. against oxidative stress in rat primary hepatocytes. | Food Chem Toxicol
+- new | 1996 | 8760395 | Research Support, Non-U.S. Gov't | Hibiscus protocatechuic acid protects against oxidative damage induced by tert-butylhydroperoxide in rat primary hepatocytes. | Chem Biol Interact
+
+### PubMed OBS - 12 hits, 3 not already listed above, 3 new
+- new | 2024 | 38827648 |  | Attitude and Practice of Pharmacy Students Toward Traditional Herbal Medicines, Sudan. | Integr Pharm Res Pract
+- new | 2020 | 33198765 |  | Special foods and local herbs used to enhance breastmilk production in Ghana: rate of use and beliefs of efficacy. | Int Breastfeed J
+- new | 2014 | 24835027 | Research Support, Non-U.S. Gov't | Ethno-medicinal knowledge and plants traditionally used to treat anemia in Tanzania: a cross sectional survey. | J Ethnopharmacol
+
+### PubMed REV - 82 hits, 17 not already listed above, 13 new
+- new | 2025 | 40970519 | Review | The potential of phytomedicines to optimize CAR-T cell therapy in cancer. | Immunotherapy
+- new | 2025 | 40935038 | Review | Exploring the structure, modification and sustainable applications of roselle-derived nanocellulose and fibers: A review. | Int J Biol Macromol
+- new | 2024 | 39599590 | Review | The Effects of Antioxidant Supplementation on Soccer Performance and Recovery: A Critical Review of the Available Evidence. | Nutrients
+- new | 2024 | 39640147 | Review | A Comprehensive Review of the Antimicrobial Effects of Hibiscus Species. | Cureus
+- new | 2023 | 37895122 | Review | Plant Extracts as Skin Care and Therapeutic Agents. | Int J Mol Sci
+- HELD REF-0413 | 2023 | 37240430 | Review | The Management of Diabetes Mellitus Using Medicinal Plants and Vitamins. | Int J Mol Sci
+- new | 2023 | 37286197 | Review | Dietary modification for prevention and control of high blood pressure. | Postgrad Med J
+- new | 2023 | 38024072 | Review | Exploring the Health Benefits and Therapeutic Potential of Roselle (Hibiscus sabdariffa) in Human Studies: A Comprehensive Review. | Cureus
+- new | 2023 | 36826044 | Review | Advances in Molecular Regulation of Prostate Cancer Cells by Top Natural Products of Malaysia. | Curr Issues Mol Biol
+- HELD REF-1842 | 2022 | 35885378 | Review | Hibiscus sabdariffa in Diabetes Prevention and Treatment-Does It Work? An Evidence-Based Review. | Foods
+- new | 2022 | 35544364 | Review | Exotic Medicinal Plants Used in Brazil with Diuretic Properties: A Review. | Chem Biodivers
+- new | 2021 | 32476481 | Review | Use of roselle extracted from Hibiscus sabdariffa for histological staining: a critical review and rational stain formulation. | Biotech Histochem
+- HELD REF-1841 | 2018 | 29597091 | Review | A review on phytochemistry and therapeutic uses of Hibiscus sabdariffa L. | Biomed Pharmacother
+- new | 2017 | 27650031 | Review | Review: Weak radiofrequency radiation exposure from mobile phone radiation on plants. | Electromagn Biol Med
+- HELD REF-1840 | 2014 | 25038696 | Review | Hibiscus sabdariffa L. - a phytochemical and pharmacological review. | Food Chem
+- new | 2012 | 27186114 | Review | Hibiscus sabdariffa L., roselle calyx, from ethnobotany to pharmacology. | J Exp Pharmacol
+- new | 2006 | 30000942 | Review | Hibiscus. | 
+
+### ClinicalTrials.gov - 43 registered studies
+- NCT07041866 | COMPLETED | results=False | NA | Impact of the Consumption of Fortified Biscuits on the Iron Status of School-aged Children | conds: This Study Aimed to Evaluate the Impact of Fortified Biscuit Consumption on the Iron Status of School-aged Children in Rural Kaolack | intr: Fortified Biscuit with Local Iron-Rich Ingredients, Non-Fortified Biscuit
+- NCT04345029 | COMPLETED | results=False | NA | Effectiveness of a Natural Ingredient on Appetite Regulation | conds: Appetite Regulation, Overweight and Obesity | intr: Dietary supplement consumption
+- NCT03597152 | UNKNOWN | results=False | NA | Nutritional Supplementation for Recurrent Urinary Tract Infections in Women | conds: Recurrent Urinary Tract Infection | intr: WelTract, Placebo | pubs: ['37947276:DERIVED (new)', '37068952:DERIVED (new)', '36041061:DERIVED (new)']
+- NCT07295600 | COMPLETED | results=False | NA | Postprandial Effect of Isocaloric Challenge Meals Enriched With Indigenous Fruits and Vegetables on Glucose Metabolism in Individuals With T | conds: Type 2 Diabetes, Cardiometabolic Health | intr: Indigenous Fruit and vegetable., Challenge meal that resembles the oral glucose tolerance test.
+- NCT05873933 | WITHDRAWN | results=False | NA | An Investigation of a Multi-Function Skincare Product to Improve Aging, Eczema, and Acne Outcomes | conds: Acne, Eczema, Skin Aging | intr: Hemptress Oil
+- NCT06141200 | UNKNOWN | results=False | PHASE3 | NW Roselle in Grade 1 Essential Hypertension: Phase III Clinical Trial | conds: Essential Hypertension | intr: NW Roselle, Captopril 25Mg Tab
+- NCT03952013 | WITHDRAWN | results=False |  | Low Health Literacy Prevalence's Study in Patients With Chronic Cardiovascular Disease | conds: Cardiovascular Diseases | intr: To explore health literacy levels in patients hospitalized for acute neuro-cardiovascular diseases i
+- NCT05988554 | COMPLETED | results=False | NA | Efficacy Testing of Hibiscus Sabdariffa Extract and Collagen Products | conds: Skin Condition | intr: Placebo sachet, Hibiscus sabdariffa extract and collagen products
+- NCT04339283 | COMPLETED | results=False | NA | Effect of Standardized Hibiscus Sabdariffa Tea in Seemingly Healthy Human Volunteers | conds: Healthy Human Volunteers | intr: Standardized Hibiscus sabdariffa tea | pubs: ['34837382:DERIVED (HELD REF-3581)']
+- NCT02165553 | COMPLETED | results=False | NA | Impact of Hibiscus on Cardiovascular Disease Risk | conds: Cardiovascular Diseases | intr: Hibiscus sabdariffa calyces extract as a cold drink
+- NCT01682291 | UNKNOWN | results=False | PHASE4 | Prehypertension and Dietary Supplements - The PYRAMIDS Study | conds: Prehypertension | intr: Life-style modifications, Dietary supplements | pubs: ['28447625:DERIVED (new)']
+- NCT04105192 | COMPLETED | results=False | NA | Effectiveness of a Natural Ingredient on Obesity | conds: Overweight and Obesity, High Blood Pressure | intr: dietary supplement consumption
+- NCT03507023 | COMPLETED | results=False | NA | Effect of Hibiscus and Lippia Extract on Blood Pressure | conds: Blood Pressure | intr: Metabolaid®, Placebo
+- NCT01414374 | COMPLETED | results=False | PHASE3 | Hibiscus Sabdariffa and Centella Asiatica in the Treatment of Anemia by Iron Deficiency | conds: Iron Deficiency Anemia | intr: Herbal medicine, Iron
+- NCT07175597 | COMPLETED | results=False | NA | Pilot Trial of Hibiscus Drink During Pregnancy (PTHDDP) | conds: Pregnant Woman | intr: Hibiscus sabdariffa drink
+- NCT05263804 | RECRUITING | results=False | NA | CoHort of Patients to Identify Biological and Imaging markerS of CardiovascUlar Outcomes in Stroke - HIBISCUS-STROKE II | conds: Ischemic Stroke | intr: Collection of blood samples and MRI imaging in order to create a bio- and imaging-collection, Cardia
+- NCT02216253 | COMPLETED | results=False | NA | L-methionine, Hibiscus Sabdariffa and Boswellia Leaf Extract to Prevent Postoperative Urinary Tract Infection. | conds: Urinary Tract Infection, Pelvic Organ Prolapse, Urinary Incontinence | intr: L-methionine, Hibiscus Sabdariffa and Boswellia Leaf Extract, Placebo
+- NCT05653076 | UNKNOWN | results=False | NA | Hibiscus Sabdariffa Extract Effect on Neuromuscular Performance | conds: Neuromuscular Performance | intr: Hibiscus sabdariffa extract
+- NCT05019066 | WITHDRAWN | results=False | NA | Oral Herbal Combination Formulation and Hair Growth in Women | conds: Hair Loss, Hair Thinning | intr: Herbal Supplementation
+- NCT03612414 | COMPLETED | results=False | NA | Efficacy of a Dietary Supplement (Aqualief®) in Xerostomic Patients | conds: Xerostomia Due to Hyposecretion of Salivary Gland, pH, Saliva, Quality of Life | intr: Aqualief, Placebo
+- NCT07159152 | NOT_YET_RECRUITING | results=False | NA | Effects of Coffee Versus Hibiscus Tea Consumption During Prolonged Sitting on Blood Pressure and Heart Rate | conds: Hypertension | intr: Coffee, Hibiscus drink | pubs: ['34694241:RESULT (new)', '34927694:RESULT (new)', '25038696:RESULT (new)', '24996300:RESULT (new)', '31062117:RESULT (new)', '10556993:RESULT (new)', '32992846:RESULT (new)', '32659894:RESULT (new)', '25212328:RESULT (new)', '32757163:RESULT (new)', '34334722:RESULT (new)', '28130340:RESULT (new)', '30354827:RESULT (new)', '37682412:RESULT (new)']
+- NCT06570226 | UNKNOWN | results=False | NA | Discussion on the Effectiveness of Tea on Blood Pressure, Body Composition and Vision Problems in College Students | conds: Myopia, Visual Fatigue, Blood Pressure, Body Composition | intr: hibiscus tea
+- NCT03049592 | COMPLETED | results=False | NA | High-risk Obstetrical Patient Intervention Utilizing the Contraceptive CHOICE Project Script | conds: Diabetes, Contraception | intr: HIBISCUS counseling
+- NCT03804801 | UNKNOWN | results=False | PHASE4 | Effect of Hibiscus Sabdariffa on Blood Pressure in a University Population | conds: Elevated Blood Pressure | intr: Hibiscus Sabdariffa
+- NCT00701480 | UNKNOWN | results=False | PHASE2 | Safety and Efficacy of Skin Cleanser Contained Roselle Extract in Acne | conds: Acne | intr: skin cleanser contained Hibiscus sabdariffa extract, marketed skin cleanser
+- NCT03471533 | COMPLETED | results=False | NA | Efficacy of a Natural Ingredient on Blood Pressure | conds: Hypertension | intr: nutraceutical: experimental product, placebo
+- NCT05906771 | COMPLETED | results=False | NA | Study of the Effect of the Combined Extract of Lemon Verbena and Hibiscus on Health Indicators | conds: Diet, Mediterranean, Antioxidant Effect, Body Weight, Cardiovascular Diseases | intr: Metabolaid(R), Nutraceutical placebo
+- NCT07269821 | COMPLETED | results=False | NA | Evaluation of a Nutritional Intervention With Dietary Supplements in People Who Have Recently Lost Weight: Effects on Body Composition, Emot | conds: GLP-1, Weight Loss Trajectory, Emotional Disorder, Microbiota Balance | intr: Metabolaid®-based nutraceutical formulation, Placebo capsules
+- NCT07914686 | NOT_YET_RECRUITING | results=False | PHASE4 | A Study on the Efficacy and Safety of Ningmitai Capsules in Treating Patients With Upper Urinary Tract Stones After Extracorporeal Shock Wav | conds: Calculus of Upper Urinary Tract | intr: Ningmitai Capsule, placebo
+- NCT02637570 | COMPLETED | results=False | NA | Effect of Hibiscus Tea and Green Tea Supplements on Athletic Performance, Blood Pressure, Muscle Damage Indices and Oxidative Stress | conds: Healthy | intr: Hibiscus tea, green tea, placebo (dextrose)
+- NCT06254209 | COMPLETED | results=False | NA | Study to Evaluate the Physiological Effects on the Skin of 3 Food Supplements Versus Placebo in 40-60 Years Old Female Subjects | conds: Healthy Volunteers | intr: Botanicals extracts, Placebo
+- NCT04254016 | COMPLETED | results=False | PHASE4 | Short Term Effects of a Hibiscus Sabdariffa and Stevia Rebaudiana Drink on Cardiac Relaxation and Urinary Albumin Excretion in a Group of Di | conds: Benefits of a Hibiscus Sabdariffa and Stevia Rebaudiana Drink in Patients With Type 2 Diabetes Mellitus Before and After 8 Weeks of add-on Therapy | intr: HIBISTEVER1
+- NCT07079046 | COMPLETED | results=False | NA | Efficacy of Satisens® in Reducing Emotional Eating | conds: Emotional Eating, Overweight or Obesity, Hormonal Changes, Neurotransmitter Agents | intr: Intervention 1: Satisens®, Intervention 2: Placebo
+- NCT03754998 | COMPLETED | results=False | NA | Community Interventions to Improve Iron and Iodine Status in Mother and Child Dyads in Northern Ghana | conds: Iron Deficiency (ID), General Anemia, Iron Deficiency Anemia (IDA) | intr: Intervention Group
+- NCT05774613 | UNKNOWN | results=False | NA | Effect of Hibiscus Sabdariffa Beverage | conds: Markers of Inflammation, Hyperglycemia, Postprandial, Hyperinsulinism | intr: Effect of a Hibiscus sabdariffa beverage
+- NCT05528094 | COMPLETED | results=False | NA | An Exploratory Investigation of a Supplement to Support Student Learning | conds: Concentration Ability Impaired, Mental Fatigue | intr: GeniusDrops
+- NCT00175110 | COMPLETED | results=False | PHASE1,PHASE2 | The Effect of Hibiscus Sabdariffa L. Tea on Blood Pressure | conds: Hypertension | intr: herbal therapy/botanical therapy (Hibiscus sabdariffa) | pubs: ['20018807:DERIVED (new)']
+- NCT04624659 | ACTIVE_NOT_RECRUITING | results=False | PHASE3 | A Study of Etavopivat in Adults and Adolescents With Sickle Cell Disease (HIBISCUS) | conds: Sickle Cell Disease | intr: Etavopivat Tablets Low dose, Etavopivat Tablets High dose, Placebo Tablets, Etavopivat Tablets | pubs: ['37254256:DERIVED (new)', '35019238:DERIVED (new)']
+- NCT05167747 | COMPLETED | results=False | NA | Food Supplementation With Diuripres for Blood Pressure Modulation in Subjects With High-Normal Blood Pressure | conds: High-Normal Blood Pressure | intr: Dietary Supplement, Placebo | pubs: ['37448322:RESULT (new)']
+- NCT06413550 | UNKNOWN | results=False | NA | The Efficacy of Hibiscus Sabdariffa in Xerostomia | conds: Radiation-induced Xerostomia | intr: Hibiscus Sabdariffa
+- NCT03601962 | TERMINATED | results=False | NA | Effects of Aqualief® in Patients With Xerostomia as Consequence of Radiotherapy for Head and Neck Cancer | conds: Xerostomia, Asialia, Hyposalivation, Mouth Dryness | intr: Aqualief, Placebo
+- NCT06788132 | COMPLETED | results=False | NA | Cranberry, Hibiscus, and Vitamin C Extracts Versus Placebo in Latency of Premature Rupture of Membranes. | conds: Premature Rupture of Membranes, Fetal Complications | intr: Cranberry products, Placebo
+- NCT02158013 | TERMINATED | results=False | NA | Treatment Of Chronic Anal Fissure | conds: Chronic Anal Fissure | intr: Levorag Emulgel, Diltiazem | pubs: ['31980871:DERIVED (new)']
+
+### OpenAlex no-PMID trial-worded - 4172 hits, 43 without PMID, 41 new
+- new | 2026 | 10.5281/zenodo.23484838 | article | Rosella (Hibiscus sabdariffa): tea, trials and safety | Zenodo (CERN European Organization for N
+- new | 2026 | 10.5281/zenodo.23498443 | article | Hibiscus and Blood Pressure: What the Trials Found | Zenodo (CERN European Organization for N
+- new | 2026 | 10.9734/jocamr/2026/v27i9777 | review | Glycaemic Effects of Hibiscus sabdariffa Supplementation in Adults with Type 2 Diabetes Mellitus and Metabolic Syndrome: A Critical Narrative Review of Trials and Mechanism | Journal of Complementary and Alternative
+- new | 2025 | 10.1108/nfs-02-2025-0065 | article | High-intensity functional training combined with hibiscus sabdariffa supplementation improves cardiovascular risk factors in overweight and obese men: a randomized controlled trial | Nutrition & Food Science
+- new | 2025 | 10.1016/j.eujim.2025.102582 | review | Evidence-based ranking of herbal medicines for hypertension management: A systematic review and network meta-analysis of randomized controlled trials | European Journal of Integrative Medicine
+- new | 2025 | 10.31989/ffhd.v15i11.1768 | article | Acceptability and tolerability of a Hibiscus sabdariffa L. beverage and effect on biomarkers of pregnant women: Phase I pilot trial | Functional Foods in Health and Disease
+- new | 2024 | 10.4314/njpr.v20i1.8 | article | Effect of Hibiscus Sabdariffa (Linn) Water Extract on the Pharmacokinetics of Lisinopril in Healthy Human Volunteers | Nigerian Journal of Pharmaceutical Resea
+- new | 2024 | https://openalex.org/W4401166446 | article | Assessment Through Multilocation Trial for Unique Germplasm of Hibiscus sabdariffa L. with Special Reference to Flower and Fruit Colour | Ekin Journal of Crop Breeding and Geneti
+- new | 2023 | https://openalex.org/W7220552699 | article | Effects of Acute Oral Administration of Hibiscus sabdariffa Tea on Blood Pressure and Pulse Rate in Apparently Healthy Humans: A Randomized Double-blind Placebo-controlled Study | Journal of African Association of Physio
+- new | 2023 | 10.55324/ijoms.v2i8.514 | article | Hibiscus sabdariffa on Fibroblast Growth Factor 21 (FGF21) on Diabetes Mellitus Type 2 Patients | Indonesian Journal of Multidisciplinary 
+- HELD REF-0566 | 2022 | 10.1097/fjc.0000000000001161 | review | Efficacy of Hibiscus sabdariffa on Reducing Blood Pressure in Patients With Mild-to-Moderate Hypertension: A Systematic Review and Meta-Analysis of Published Randomized Controlled  | Journal of Cardiovascular Pharmacology
+- new | 2022 | https://openalex.org/W7217428473 | article | To Study the Effect of Sour Tea (Hibiscus Sabdariffa) on Lipid Profile in Hypertensive Patients | International Journal of Recent Advances
+- new | 2021 | 10.18502/jnfs.v6i2.6062 | article | Cardiovascular and Renal Effects of Hibiscus Sabdariffa Linnaeus. in Patients with Diabetic Nephropathy: A Randomized, Double-Blind, Controlled Trial | Journal of Nutrition and Food Security
+- new | 2021 | 10.1016/j.jff.2021.104583 | article | Effect of metabolaid® on pre- and stage 1 hypertensive patients: A randomized controlled trial | Journal of Functional Foods
+- new | 2021 | 10.26911/theijmed.v6i4.416 | review | Effectiveness of Hibiscus sabdariffa Linn for Obesity Treatment: A Systematic Review of Randomized Controlled Trials | Indonesian Journal of Medicine
+- new | 2021 | 10.26911/theijmed.2021.6.4.416 | review | Effectiveness of Hibiscus sabdariffa Linn for Obesity Treatment: A Systematic Review of Randomized Controlled Trials | Indonesian Journal of Medicine
+- new | 2021 | 10.35842/jkry.v8i2.609 | article | EFFECTIVENESS OF HIBISCUS SABDARIFFA ON BLOOD PRESSURE OF HYPERTENSION PATIENTS | Jurnal Keperawatan Respati Yogyakarta
+- new | 2020 | 10.23917/iseth.1429 | article | The Effect of Rosella (Hibiscus sabdariffa Linn) on Insulin Resistance in Patients with Type 2 Diabetes Mellitus: A Randomized Clinical Trial | Proceeding ISETH (International Summit o
+- new | 2020 | https://openalex.org/W3139645060 | article | Safety Evaluation of Hibiscus sabdariffa Tea and its Effect on Blood Pressure, Blood Glucose and Lipid Profile: A Randomised Controlled Trial | Indian Journal of Pharmacy Practice
+- new | 2020 | 10.1016/j.clnesp.2020.09.279 | article | Acute effect of green tea and hibiscus ingestion on energy metabolism and substrate oxidation rates: A randomized clinical trial | Clinical Nutrition ESPEN
+- new | 2020 | 10.36347/sjams.2020.v08i02.013 | article | To Study the Effect of Sour Tea (Hibiscus Sabdariffa) on Blood Pressure in Prehypertensive Patients | Scholars Journal of Applied Medical Scie
+- new | 2018 | 10.35814/jifi.v16i2.530 | article | The Effect of Rosella (Hibiscuss sabdariff a L.) Powder on CD4 Counts in Healthy Volunteers | JURNAL ILMU KEFARMASIAN INDONESIA
+- new | 2018 | 10.12928/pharmaciana.v8i2.8738 | article | Effect of the ethanolic extract of red roselle calyx (Hibiscus sabdariffa L.) on hematocrit, platelets, and erythrocytes in healthy volunteers | Pharmaciana
+- new | 2018 | https://openalex.org/W2928429282 | dissertation | EFFECT OF HIBISCUS SABDARIFFA (LINN) WATER EXTRACT ON THE PHARMACOKINETICS OF METFORMIN AND LISINOPRIL IN HEALTHY HUMAN VOLUNTEERS | 
+- new | 2017 | 10.1088/1757-899x/259/1/012019 | conference-paper | Effect of calyx capsule-ethanol extract Hibiscus sabdariffa L. on renal function of healthy volunteers | IOP Conference Series Materials Science 
+- new | 2017 | 10.1016/j.freeradbiomed.2017.04.311 | conference-abstract | Hibiscus and lemon verbena polyphenols: Assessment for weight management in overweight volunteers. Appetite control and satiety | Free Radical Biology and Medicine
+- new | 2016 | 10.1093/ndt/gfw159.15 | conference-abstract | SP106ANTIHYPERTENSIVE EFFICACY OF COMBRETUM MICRANTHUM AND HIBISCUS SABDARIFFA: A RANDOMIZED CONTROLLED TRIAL VERSUS RAMIPRIL | Nephrology Dialysis Transplantation
+- new | 2016 | 10.4172/2327-5073.1000233 | article | Efficacy and Safety of a Medical Device versus Placebo in the Early Treatment of Patients with Symptoms of Urinary Tract Infection: A Randomized Controlled Trial | Clinical Microbiology Open Access
+- new | 2016 | 10.4172/2167-0412.1000265 | article | Therapeutic Effectiveness of an Herbal Medicinal Product of Hibiscus sabdariffa in Hypertensive Patients: A 16 Week Controlled and Randomized Clinical Study | Medicinal & Aromatic Plants
+- new | 2016 | https://openalex.org/W2738346925 | article | The efficacy of Hibiscus sabdariffa (rosella) in essential hypertension: A systematic review of clinical trials | UTAS Research Repository
+- new | 2015 | 10.1016/j.eujim.2015.09.056 | conference-abstract | Efficacy of kinkeliba and bissap in non-complicated hypertensive patients: A randomized controlled trial | European Journal of Integrative Medicine
+- HELD REF-2527 | 2015 | 10.1016/j.atherosclerosis.2015.04.933 | review | Effect of sour tea (Hibiscus sabdariffa L.) on arterial hypertension: A systematic review and meta-analysis of randomized controlled trials | Atherosclerosis
+- new | 2015 | https://openalex.org/W7203851751 | article | Effect of Daily Consumption of Green Tea and Hibiscus on Some Biochemical Parameters in a Sample of Healthy Volunteers (Preliminary Study) | University of Science and Technology Ins
+- new | 2015 | 10.11648/j.jdmp.20150101.11 | article | Oxidative Stress Attenuation in Hiv/Aids Patients on Antiretroviral Drugs by Calyx Juice of Hibiscus sabdariffa Linn (Malvaceae) | Journal of Diseases and Medicinal Plants
+- new | 2014 | 10.1016/j.endoen.2014.04.003 | article | Therapeutic potential of Hibiscus sabdariffa: A review of the scientific evidence | Endocrinología y Nutrición (English Edit
+- new | 2013 | https://openalex.org/W7220268869 | article | The Antihypertensive Effects of Hibiscus sabdariffa L. Tea: A Systematic Review of Clinical Trials | The American Journal of Natural Medicine
+- new | 2012 | 10.70933/2773-9465.1625 | article | Comparative Study on the Efficacy and Side Effects of Hibiscus sabdariffa Linn. Extract Versus Simvastatin in Reducing Blood Lipids Levels on Hyperlipidemias Patient (Clinical Tria | Asian Medical Journal and Alternative Me
+- new | 2011 | 10.1016/j.foodres.2011.04.046 | article | Selecting ultrafiltration and nanofiltration membranes to concentrate anthocyanins from roselle extract (Hibiscus sabdariffa L.) | Food Research International
+- new | 2010 | https://openalex.org/W3134711898 | article | The Effect of Ellagic Acid Extract from Hibiscus Sabdariffa on Sera of Leukemic Patients | 
+- new | 2009 | https://openalex.org/W2184617376 | article | Cultivars and variety identification and their genetic relationships by randomly amplified polymorphic DNA (RAPD) markers in roselle (Hibiscus sabdariffa L.) | 
+- new | 2007 | 10.1016/j.nutres.2007.01.007 | article | Hibiscus sabdariffa extract reduces serum cholesterol in men and women | Nutrition Research
+- new | 2002 | 10.4314/njhbs.v1i2.11481 | article | Hypotensive Effect of Hibiscus sabdariffa in normotensive volunteers | Nigerian Journal of Health and Biomedica
+- new | 1965 | https://openalex.org/W3185165617 | article | Fertility Trials with Roselle (Hibiscus sabdariffa L. var. altissima Hort.) | Tropical Agriculture

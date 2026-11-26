@@ -29025,7 +29025,8 @@
      "note": "Because it is a bitter that increases stomach-acid and bile secretion, it is contraindicated in active peptic ulcer, gastritis and (without medical supervision) gallstones.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0443"
+      "REF-0443",
+      "REF-5392"
      ],
      "status": "verified"
     },
@@ -29033,7 +29034,8 @@
      "note": "May add to the effect of anticoagulants (e.g. warfarin) and may influence blood sugar, blood pressure and heart rhythm; use caution with these medicines.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0443"
+      "REF-0443",
+      "REF-5394"
      ],
      "status": "verified"
     },
@@ -29042,6 +29044,22 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0443"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Side effects: in a 2008 systematic review of 28 clinical trials, minor side effects, mainly digestive, occurred in about 3% of patients, and no double-blind trial found more side effects than with placebo.",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5391"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Low blood sodium: a woman taking devil's claw for osteoarthritis twice developed low blood sodium caused by inappropriate antidiuretic hormone secretion (SIADH), the second time after restarting it (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5393"
      ],
      "status": "verified"
     }
@@ -29067,6 +29085,7 @@
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
    "last_updated": "2026-08-15",
+   "drug_class_interactions": [],
    "common_slug": "devil-s-claw"
   },
   {
@@ -29240,11 +29259,12 @@
     },
     {
      "condition": "bronchitis",
-     "note": "Ivy leaf extract eased productive cough and acute bronchitis in trials, including vs placebo; an updated systematic review found the effects minimal at best",
+     "note": "Ivy leaf extract eased productive cough and acute bronchitis in trials, including two placebo-controlled randomized trials of EA 575 (2016 and 2019); an updated systematic review found the effects minimal at best",
      "reference_ids": [
       "REF-0472",
       "REF-0473",
-      "REF-0575"
+      "REF-0575",
+      "REF-5395"
      ],
      "status": "verified",
      "null_result_ids": [
@@ -29255,11 +29275,12 @@
     },
     {
      "condition": "cough",
-     "note": "Ivy leaf extract eased acute productive cough vs placebo in a randomized trial; an updated systematic review found the effects minimal at best",
+     "note": "Ivy leaf extract EA 575 eased acute cough more than placebo in two randomized trials (2016 and 2019), and ivy extracts helped productive cough in other clinical studies, though an updated systematic review of all ivy products found the effects minimal at best",
      "reference_ids": [
       "REF-0472",
       "REF-0473",
-      "REF-0575"
+      "REF-0575",
+      "REF-5395"
      ],
      "status": "verified",
      "null_result_ids": [
@@ -29300,7 +29321,9 @@
      "note": "Generally well tolerated; occasional gastrointestinal upset or, rarely, allergic reaction. Use only standardised extract products - the fresh raw plant contains irritant saponins and falcarinol that can cause contact dermatitis.",
      "severity": "info",
      "reference_ids": [
-      "REF-0472"
+      "REF-0472",
+      "REF-5396",
+      "REF-5397"
      ],
      "status": "verified"
     },
@@ -29525,7 +29548,8 @@
       "REF-0642"
      ],
      "null_result_ids": [
-      "REF-0641"
+      "REF-0641",
+      "REF-5398"
      ],
      "evidence": 10,
      "label": "Cognitive function"
@@ -29609,6 +29633,14 @@
      "reference_ids": [
       "REF-0170",
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Lungs: a man developed acute respiratory distress syndrome, an immune-type lung reaction, after taking a lion's mane extract diet product; he recovered with steroid treatment (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5399"
      ],
      "status": "verified"
     }
@@ -29888,6 +29920,16 @@
      ],
      "evidence": 8,
      "label": "Metabolic support"
+    },
+    {
+     "condition": "liver-support",
+     "note": "A hibiscus extract reduced body weight and body fat and improved fatty liver (steatosis) compared with a control group in a small randomized trial in obese adults",
+     "reference_ids": [
+      "REF-5403"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Liver support"
     }
    ],
    "contraindications": [
@@ -29904,7 +29946,8 @@
      "note": "May alter the absorption or levels of some medicines (e.g. paracetamol, chloroquine); avoid concentrated or medicinal doses in pregnancy.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0464"
+      "REF-0464",
+      "REF-5402"
      ],
      "status": "needs-review"
     }

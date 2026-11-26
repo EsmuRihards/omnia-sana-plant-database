@@ -61,6 +61,7 @@ STOP_EPITHETS = {
     "group", "groups",  # trial prose: "Echinacea groups compared with any control"
     "than", "aromatherapy",  # "lower in the group inhaling eucalyptus than ...", "Eucalyptus aromatherapy"
     "exposure",  # "high Glycyrrhiza exposure (>= 500 mg/week)"
+    "intake", "tea",  # "hibiscus intake was discontinued", "after consuming hibiscus tea"
 }
 
 

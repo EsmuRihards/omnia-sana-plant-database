@@ -149,6 +149,7 @@ indications:
   - REF-0642
   null_result_ids:
   - REF-0641
+  - REF-5398
 - condition: cold
   note: inferred from immunomodulator action
   reference_ids: []
@@ -203,6 +204,12 @@ contraindications:
   reference_ids:
   - REF-0170
   - REF-0063
+  status: verified
+- note: 'Lungs: a man developed acute respiratory distress syndrome, an immune-type lung reaction, after
+    taking a lion''s mane extract diet product; he recovered with steroid treatment (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5399
   status: verified
 references:
 - REF-0642
@@ -264,4 +271,13 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   added to cognitive-function. Gaps (not added): stress - REF-0640 only a trend (p=0.051);
   depression/anxiety - RCT 20834180 shows within-group change only, and the SR''s mood claim rests
   on animal data.
-  | 2026-11-19 (monograph-source audit): dosage[0] checked against REF-2419: the trial dose is correct; the unsourced sentence ''other studies commonly use around 1-3 g of dried fruiting body extract daily'' was removed (no cited source states it).'
+  | 2026-11-19 (monograph-source audit): dosage[0] checked against REF-2419: the trial dose is correct; the unsourced sentence ''other studies commonly use around 1-3 g of dried fruiting body extract daily'' was removed (no cited source states it).
+  | 2026-11-26: symptom-source audit research-deepening batch 16 - Searched PubMed (Hericium
+  erinaceus / lion''s mane / yamabushitake tiab: 23 HT, 11 SR, 53 SAFE hits), Europe PMC,
+  ClinicalTrials.gov (15) and OpenAlex. Added: 2022 single-blind placebo study (10 g a day for 4
+  weeks, no effect on cognition) as no-effect for cognitive-function; a 2003 acute respiratory
+  distress syndrome case as a lung caution. Not added: 2019 mood and sleep study in overweight
+  adults (no control group), 2010 depression and anxiety RCT (already judged: within-group change
+  only), guayusa and lion''s mane acute cognition study (two products), a liver-injury case
+  attributed to Agaricus blazei in a mixed mushroom powder, a 1985 atrophic gastritis study (no
+  abstract), toxicology in rodents.'

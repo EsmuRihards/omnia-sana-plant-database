@@ -147,22 +147,26 @@ indications:
   null_result_ids:
   - REF-3578
 - condition: bronchitis
-  note: Ivy leaf extract eased productive cough and acute bronchitis in trials, including vs placebo;
-    an updated systematic review found the effects minimal at best
+  note: Ivy leaf extract eased productive cough and acute bronchitis in trials, including two placebo-controlled
+    randomized trials of EA 575 (2016 and 2019); an updated systematic review found the effects minimal
+    at best
   reference_ids:
   - REF-0472
   - REF-0473
   - REF-0575
+  - REF-5395
   status: verified
   null_result_ids:
   - REF-0833
 - condition: cough
-  note: Ivy leaf extract eased acute productive cough vs placebo in a randomized trial; an updated systematic
-    review found the effects minimal at best
+  note: Ivy leaf extract EA 575 eased acute cough more than placebo in two randomized trials (2016 and
+    2019), and ivy extracts helped productive cough in other clinical studies, though an updated systematic
+    review of all ivy products found the effects minimal at best
   reference_ids:
   - REF-0472
   - REF-0473
   - REF-0575
+  - REF-5395
   status: verified
   null_result_ids:
   - REF-0833
@@ -189,6 +193,8 @@ contraindications:
   severity: info
   reference_ids:
   - REF-0472
+  - REF-5396
+  - REF-5397
   status: verified
 - note: A cough lasting more than a week, or with fever, breathlessness or purulent sputum, needs medical
     assessment. Safety in pregnancy and breastfeeding is not established.
@@ -240,4 +246,14 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (two clinical ef
   animals) purged and deleted. Asthma: review of RCTs REF-3577 added as support, add-on RCT
   REF-3578 (primary outcomes null) as no-effect. REF-0834 retagged narrative-review. Notes now
   state the updated SR REF-0833 finding (effects minimal at best).
-  | 2026-11-19 (monograph-source audit): botanical_description, traditional_uses, preparations[0], dosage[0] and constituents[1] cited only REF-0472 (open study of an ivy syrup vs acetylcysteine), which does not describe the plant, its folk use, extract types, doses or flavonoids. RE-SOURCED: Wikipedia Hedera helix (REF-3964, new; Description section), PFAF REF-3269 (folk uses, toxicity), review REF-0834 (Commission E), EU herbal monograph rev. 2 (REF-3963, new; extracts, posology, under-2 contraindication), Rosca-Casian 2017 REF-2315 (rutin, quercetin, kaempferol). REF-0472 kept only for what it found (EA 575 syrup about as effective as acetylcysteine). Dropped as unsupported: woody root system, standardised to hederacoside C, benefit within about 48 hours, phenolic acids, antioxidant supporting constituents.'
+  | 2026-11-19 (monograph-source audit): botanical_description, traditional_uses, preparations[0], dosage[0] and constituents[1] cited only REF-0472 (open study of an ivy syrup vs acetylcysteine), which does not describe the plant, its folk use, extract types, doses or flavonoids. RE-SOURCED: Wikipedia Hedera helix (REF-3964, new; Description section), PFAF REF-3269 (folk uses, toxicity), review REF-0834 (Commission E), EU herbal monograph rev. 2 (REF-3963, new; extracts, posology, under-2 contraindication), Rosca-Casian 2017 REF-2315 (rutin, quercetin, kaempferol). REF-0472 kept only for what it found (EA 575 syrup about as effective as acetylcysteine). Dropped as unsupported: woody root system, standardised to hederacoside C, benefit within about 48 hours, phenolic acids, antioxidant supporting constituents.
+  | 2026-11-26: symptom-source audit research-deepening batch 16 - Searched PubMed (Hedera helix /
+  ivy leaf / English ivy / ivy extract tiab, Prospan / EA 575 ti: 56 HT, 11 SR, 96 SAFE hits),
+  Europe PMC, ClinicalTrials.gov (6) and OpenAlex. Added: 2019 EA 575 placebo RCT in acute
+  bronchitis to cough and bronchitis. The 2022 IPD meta-analysis (PMID 36414647) pools exactly
+  this trial and REF-0575 (2016), so it was NOT added (it would count the same two trials twice).
+  Also added: a 2012 report of two anaphylaxis cases after ivy syrup and the 2010 falcarinol
+  patch-test series and review to the allergy note. Not added: ivy + thyme, ivy + primula, ivy +
+  coptis (AG NPP709) and other combinations, two-arm ivy-vs-ivy trials, post-marketing and
+  observational studies, antibiotic-use cohorts, a 2017 in vitro CYP2C8/2C19 inhibition study
+  (preclinical), plant contact dermatitis case reports beyond the review.'

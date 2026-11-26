@@ -9367,6 +9367,16 @@
       "REF-3582",
       "REF-3584"
      ]
+    },
+    {
+     "condition": "liver-support",
+     "label": "Liver support",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5403"
+     ]
     }
    ]
   },
@@ -9859,7 +9869,8 @@
      "references": [
       "REF-0472",
       "REF-0473",
-      "REF-0575"
+      "REF-0575",
+      "REF-5395"
      ]
     },
     {
@@ -9871,7 +9882,8 @@
      "references": [
       "REF-0472",
       "REF-0473",
-      "REF-0575"
+      "REF-0575",
+      "REF-5395"
      ]
     },
     {

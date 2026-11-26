@@ -218,17 +218,32 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0443
+  - REF-5392
   status: verified
 - note: May add to the effect of anticoagulants (e.g. warfarin) and may influence blood sugar, blood pressure
     and heart rhythm; use caution with these medicines.
   severity: caution
   reference_ids:
   - REF-0443
+  - REF-5394
   status: verified
 - note: Avoid during pregnancy (oxytocic/uterine effect) and while breastfeeding.
   severity: caution
   reference_ids:
   - REF-0443
+  status: verified
+- note: 'Side effects: in a 2008 systematic review of 28 clinical trials, minor side effects, mainly digestive,
+    occurred in about 3% of patients, and no double-blind trial found more side effects than with placebo.'
+  severity: info
+  reference_ids:
+  - REF-5391
+  status: verified
+- note: 'Low blood sodium: a woman taking devil''s claw for osteoarthritis twice developed low blood sodium
+    caused by inappropriate antidiuretic hormone secretion (SIADH), the second time after restarting it
+    (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5393
   status: verified
 references:
 - REF-1829
@@ -274,4 +289,25 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Natural Standar
   REF-1261 ("seem to reduce pain more than placebo", moderate quality at best) added to back-pain
   and pain. OA RCT vs diacerhein REF-3576 added to arthritis (11143915 is the same trial in
   another journal - not added twice). Notes simplified.
-  | 2026-11-19 (monograph-source audit): botanical_description, habitat, traditional_uses and constituents[1] cited only REF-0443 (Natural Standard systematic review; abstract has no content on the plant). RE-SOURCED: WHO monograph Radix Harpagophyti vol. 3 (REF-3960, new; archive.org text), Useful Tropical Plants (REF-3961, new), ethnobotany review REF-1829, Avato 2019 (REF-3962, new; acteoside and isoacteoside after harpagoside in root tinctures). Dropped as unsupported: greyish-green leaves, funnel-shaped violet flowers, flowering in the rainy season, standardised extracts as effective as some conventional analgesics, antioxidant supporting constituents.'
+  | 2026-11-19 (monograph-source audit): botanical_description, habitat, traditional_uses and constituents[1] cited only REF-0443 (Natural Standard systematic review; abstract has no content on the plant). RE-SOURCED: WHO monograph Radix Harpagophyti vol. 3 (REF-3960, new; archive.org text), Useful Tropical Plants (REF-3961, new), ethnobotany review REF-1829, Avato 2019 (REF-3962, new; acteoside and isoacteoside after harpagoside in root tinctures). Dropped as unsupported: greyish-green leaves, funnel-shaped violet flowers, flowering in the rainy season, standardised extracts as effective as some conventional analgesics, antioxidant supporting constituents.
+  | 2026-11-26: symptom-source audit research-deepening batch 16 - Searched PubMed (Harpagophytum
+  procumbens / devil''s claw / Harpagophytum tiab, harpagoside ti: 40 HT, 16 SR, 74 SAFE hits),
+  Europe PMC, ClinicalTrials.gov (8) and OpenAlex. Arthritis, back pain and pain (8) are already
+  SR/MA-backed and were not padded (Teltonal vs active drug 2021, Loxacon and other combinations,
+  observational studies logged here). Added: 2008 safety SR (adverse events no higher than
+  placebo) as an info note; the 2013 Prescrire review of gastrointestinal bleeding cases to the
+  ulcer caution; a 2017 SIADH case (positive rechallenge) as a caution; a 2000 review to the
+  anticoagulant caution and a DRAFT anticoagulant interaction (severity insufficient; needs owner
+  sign-off) - the caution already warned about warfarin but the herb-drug checker had no entry.
+  Not added: a 2015 hypertension case report (no abstract), a bezoar from an unnamed herbal
+  preparation, the 2016 Spine republication of the Cochrane low back pain review (the 2014
+  Cochrane update is already cited as REF-1261; the 2006 and 2007 versions are superseded).'
+drug_class_interactions:
+- drug_class: anticoagulants-antiplatelets
+  severity: insufficient
+  mechanism: Reviews list devil's claw among herbs that may strengthen the effect of warfarin; the warning
+    rests on case reports, and no clinical study has measured the interaction (reviews).
+  reference_ids:
+  - REF-0443
+  - REF-5394
+  status: draft

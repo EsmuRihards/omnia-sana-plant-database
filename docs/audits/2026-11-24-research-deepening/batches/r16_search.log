@@ -1,0 +1,40 @@
+   hamamelis-virginiana HT 24
+   hamamelis-virginiana SR 5
+   hamamelis-virginiana SAFE 35
+   hamamelis-virginiana OBS 7
+   hamamelis-virginiana REV 19
+hamamelis-virginiana done
+   harpagophytum-procumbens HT 40
+   harpagophytum-procumbens SR 16
+   harpagophytum-procumbens SAFE 74
+   harpagophytum-procumbens OBS 6
+   harpagophytum-procumbens REV 49
+  !! request failed: https://api.openalex.org/works?search=%22Harpagophytum+procumbens%22&per-page=100&filter=title_and_abstract.search%3Aran <urlopen error [Errno 11001] getaddrinfo failed>
+harpagophytum-procumbens done
+   hedera-helix HT 56
+   hedera-helix SR 11
+   hedera-helix SAFE 96
+   hedera-helix OBS 17
+   hedera-helix REV 20
+hedera-helix done
+   hericium-erinaceus HT 23
+   hericium-erinaceus SR 11
+   hericium-erinaceus SAFE 53
+   hericium-erinaceus OBS 6
+   hericium-erinaceus REV 81
+hericium-erinaceus done
+   hibiscus-sabdariffa HT 104
+   hibiscus-sabdariffa SR 26
+   hibiscus-sabdariffa SAFE 151
+   hibiscus-sabdariffa OBS 12
+   hibiscus-sabdariffa REV 82
+hibiscus-sabdariffa done
+
+PUBMED-DONE
+hamamelis-virginiana done
+harpagophytum-procumbens done
+hedera-helix done
+hericium-erinaceus done
+hibiscus-sabdariffa done
+# Research-deepening batch 16 - Europe PMC
+SEARCH-DONE

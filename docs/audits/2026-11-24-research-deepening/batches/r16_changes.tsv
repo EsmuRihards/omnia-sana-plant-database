@@ -1,0 +1,17 @@
+plant	condition	ref	op
+hedera_helix	cough	REF-5395	add
+hedera_helix	cough	-	note
+hedera_helix	bronchitis	REF-5395	add
+hedera_helix	bronchitis	-	note
+hericium_erinaceus	cognitive-function	REF-5398	nulladd
+hibiscus_sabdariffa	liver-support	REF-5403	newpair
+harpagophytum_procumbens	ciadd	Because it is a bitter that increases stomach-acid	REF-5392
+harpagophytum_procumbens	ciadd	May add to the effect of anticoagulants	REF-5394
+harpagophytum_procumbens	cinew	Side effects: in a 2008 systematic revie	REF-5391
+harpagophytum_procumbens	cinew	Low blood sodium: a woman taking devil's	REF-5393
+harpagophytum_procumbens	dcinew	anticoagulants-antiplatelets	REF-0443,REF-5394
+hedera_helix	ciadd	Generally well tolerated; occasional gastrointestinal upset	REF-5396,REF-5397
+hericium_erinaceus	cinew	Lungs: a man developed acute respiratory	REF-5399
+hibiscus_sabdariffa	ciadd	May alter the absorption or levels of some medicines	REF-5402
+hibiscus_sabdariffa	dcinew	statins	REF-5401
+hibiscus_sabdariffa	dcinew	anticoagulants-antiplatelets	REF-5400

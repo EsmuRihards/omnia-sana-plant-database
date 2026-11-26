@@ -1,0 +1,1392 @@
+# Research-deepening batch 24 - search
+
+## panax-ginseng (Panax ginseng) - name clause: "Panax ginseng"[tiab] OR "Korean ginseng"[tiab] OR "Asian ginseng"[tiab] OR "Korean red ginseng"[tiab] OR "red ginseng"[tiab]
+
+### PubMed HT - 405 hits, 200 not already listed above, 192 new
+- new | 2026 | 42948596 | Review | Global research trends in clinical studies of ginseng: a bibliometric and text-as-data analysis. | J Ginseng Res
+- new | 2026 | 41017752 | Review | Effects of American ginseng (Panax quinquefolius) extract on human neurocognitive function: a review. | Nutr Neurosci
+- new | 2026 | 42317874 | Systematic Review | Nutritional supplementation with Panax ginseng extract and bone health in osteoporotic animal models: a systematic review and meta-analysis. | Front Nutr
+- new | 2026 | 42601961 | Review | Plant-derived bioactives in depression-related and antidepressant-associated sexual dysfunction: a narrative review. | Front Nutr
+- new | 2026 | 42488829 | Review | Challenges and opportunities for ginseng-based medicines in treating cardiac fibrosis from mechanistic insights to clinical translation. | Chin Herb Med
+- new | 2026 | 42277690 | Systematic Review | Efficacy of plant extracts in heart failure patients: a systematic review and network meta-analysis. | BMC Cardiovasc Disord
+- new | 2026 | 42100315 | Systematic Review | The efficacy and safety of ginseng berry saponin for heart failure: a systematic review and meta-analysis. | Front Pharmacol
+- new | 2026 | 42141250 | Review | Ginsenosides for Multi-target Intervention in Alzheimer's Disease: Current Evidence, Challenges, and Future Directions. | Mol Neurobiol
+- new | 2026 | 42943019 | Randomized Controlled Trial | Effects of Two Rg3-Enriched Korean Ginseng Preparations on Blood Pressure in Adults with Early-Stage Hypertension: A Randomized, Double-Blind, Placebo-Controlled Trial. | Nutrients
+- new | 2026 | 41745077 | Review | Efficacy of Phytotherapy for Cancer-Related Fatigue: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Diseases
+- new | 2025 | 40771449 | Review | Herbal Remedies for Hair Loss: A Review of Efficacy and Safety. | Skin Appendage Disord
+- new | 2025 | 41357500 |  | Shenhuang Granules for patients with sepsis: study protocol of a multicenter, randomized, double-blind, placebo-controlled clinical trial. | Front Med (Lausanne)
+- new | 2025 | 40872598 |  | Safety Considerations for Natural Products with Adaptogenic and Immunomodulating Activities. | Pharmaceuticals (Basel)
+- new | 2025 | 41268442 |  | Effects of plant extracts on patients with heart failure: a network meta-analysis of randomized controlled trials. | Front Pharmacol
+- new | 2025 | 40762126 |  | Practical survey on the use of herbal medicine by patients with systemic sclerosis. | Vasc Dis (Paris)
+- new | 2025 | 40819941 | Randomized Controlled Trial/Multicenter Study | [Effects of Yiqi Huoxue Jiedu formula on the gut microbiota in elderly patients with pulmonary-derived sepsis based on 16S rDNA sequencing: a multicenter prospective randomized dou | Zhonghua Wei Zhong Bing Ji Jiu Yi Xue [chi]
+- new | 2025 | 39534953 | Clinical Trial | Does a Polyherbal Medicine Enhance Cognition in Healthy Older Adults? An Exploratory Open-Label Study. | J Integr Complement Med
+- new | 2025 | 40453352 |  | Anti-fatigue effects of Korean Red Ginseng extract in healthy Japanese adults: A randomized, double-blind, placebo-controlled study. | J Ginseng Res
+- new | 2025 | 40289951 | Randomized Controlled Trial | Effect of Hydroponically Grown Red Panax Ginseng on Perceived Stress Level, Emotional Processing, and Cognitive Functions in Moderately Stressed Adults: A Randomized, Double-Blind, | Nutrients
+- new | 2025 | 40843010 |  | Korean Red ginseng supplements improve quality of life in patients with mild chronic pancreatitis symptoms: A prospective clinical trial. | J Ginseng Res
+- new | 2025 | 40621076 |  | The effects of G1899 Korean red ginseng extract powder on long COVID for acute COVID19 infection: A randomized, double-blind, placebo-controlled trial. | J Ginseng Res
+- new | 2024 | 39263305 |  | Enhanced immunity effect of Korean Red Ginseng capsule: A randomized, double-blind and placebo-controlled clinical trial. | J Ginseng Res
+- new | 2024 | 39004031 | Randomized Controlled Trial | Effects of ginseng berry saponins from panax ginseng on glucose metabolism of patients with prediabetes: A randomized, double-blinded, placebo-controlled, crossover trial. | Phytomedicine
+- new | 2024 | 38554338 |  | Protective effects of Panax Ginseng against 131I-induced genotoxicity in patients with differentiated thyroid cancer. | J Cancer Res Ther
+- new | 2024 | 39583165 |  | Effects of Korean Red Ginseng combination therapy on HIV-infected patients treated with integrase strand transfer inhibitors. | J Ginseng Res
+- new | 2024 | 38888561 | Systematic Review | The effect of Panax ginseng supplementation on markers of resistance exercise-induced muscle damage: a systematic review. | J Sports Med Phys Fitness
+- new | 2024 | 38425647 | Systematic Review | The efficacy and safety of Chinese herbal medicine for mild cognitive impairment: a systematic review and meta-analysis of randomized placebo-controlled trials. | Front Pharmacol
+- new | 2024 | 37652660 |  | Safety and Efficacy Assessment of Red Ginseng Oil (RXGIN) in Men with Lower Urinary Tract Symptoms in a Randomized, Double-Blind, Placebo-Controlled Trial. | World J Mens Health
+- new | 2024 | 39969290 | Randomized Controlled Trial | Efficacy and safety of red ginseng extract powder (KGC05pg) in achieving glycemic control in prediabetic Korean adults: A 12-week, single-center, randomized, double-blind, parallel | Medicine (Baltimore)
+- new | 2024 | 38223820 |  | Effects of Korean red ginseng on T-cell repopulation after autologous hematopoietic stem cell transplantation in childhood cancer patients. | J Ginseng Res
+- new | 2024 | 38931306 | Randomized Controlled Trial | Efficacy and Safety of Panax ginseng Sprout Extract in Subjective Memory Impairment: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial. | Nutrients
+- new | 2024 | 38576235 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effectiveness of Korean Red Ginseng on fatigue in patients with rheumatic diseases: a randomized, double-blind, placebo-controlled study. | Korean J Intern Med
+- new | 2024 | 38731094 |  | Icarifil(®) in Association with Daily Use of Tadalafil (5 mg) versus Standard Tadalafil Daily Dose (5 mg) or Alone: Results from a Controlled, Randomized Clinical Trial. | J Clin Med
+- new | 2024 | 39142714 | Randomized Controlled Trial | An Integrated Approach Using Network Pharmacology and Experimental Validation to Reveal the Therapeutic Mechanism of Weifuchun in Treating Gastric Cancer. | J Med Food
+- new | 2023 | 37686709 | Meta-Analysis/Systematic Review | Dietary Supplements for Erectile Dysfunction: Analysis of Marketed Products, Systematic Review, Meta-Analysis and Rational Use. | Nutrients
+- new | 2023 | 36644395 |  | Korean Red Ginseng slows coreceptor switch in HIV-1 infected patients. | J Ginseng Res
+- new | 2023 | 36265676 |  | Multiplex quantitation of 17 drug-derived components in human plasma after administration of a fixed herbal preparation of Sailuotong using combined online SPE-LC-MS/MS methods. | J Ethnopharmacol
+- new | 2023 | 37049424 | Randomized Controlled Trial | Korean Red Ginseng Potentially Improves Maintaining Antibodies after COVID-19 Vaccination: A 24-Week Longitudinal Study. | Nutrients
+- new | 2023 | 38107397 |  | The effects of Korean Red Ginseng on stress-related neurotransmitters and gene expression: A randomized, double-blind, placebo-controlled trial. | J Ginseng Res
+- new | 2023 | 35975564 | Randomized Controlled Trial | Protective effects of Panax ginseng against doxorubicin-induced cardiac toxicity in patients with non-metastatic breast cancer: A randomized, double-blind, placebo-controlled clini | J Oncol Pharm Pract
+- new | 2023 | 37218691 | Randomized Controlled Trial | Effects of Panax Ginseng on Health-Related Quality of Life in Patients with Non-Metastatic Breast Cancer: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial Ginseng for  | Nutr Cancer
+- new | 2023 | 37425492 | Randomized Controlled Trial | Effect of Saengmaeksan on Fatigue, Liver Function, and Immunity Combined with High-Intensity Training. | J Immunol Res
+- new | 2023 | 38288378 |  | Supplementation of complex natural feed additive containing (C. militaris, probiotics and red ginseng by-product) on rumen-fermentation, growth performance and carcass characterist | Front Vet Sci
+- new | 2023 | 38304493 |  | Comparison of the effectiveness of red ginseng herbal mouth rinse with chlorhexidine and saline in oral cancer patients: A pilot double-blinded randomized control trial. | J Oral Maxillofac Pathol
+- new | 2022 | 35182139 |  | REHABILITATION OF PATIENTS WITH LONG-TERM AFTEREFFECTS OF MILD COMBAT TRAUMATIC BRAIN INJURY. | Wiad Lek
+- new | 2022 | 35509826 | Review | Effects of Panax ginseng on hyperglycemia, hypertension, and hyperlipidemia: A systematic review and meta-analysis. | J Ginseng Res
+- new | 2022 | 35691259 | Meta-Analysis/Systematic Review | Using ginseng for menopausal women's health care: A systematic review of randomized placebo-controlled trials. | Complement Ther Clin Pract
+- new | 2022 | 36582454 |  | Mechanisms of Panax Ginseng on Treating Sepsis by RNA-Seq Technology. | Infect Drug Resist
+- new | 2022 | 36237992 |  | Normalisation of High Bone Remodelling due to Oestrogen Deficiency by Traditional Chinese Formulation Kang Shuai Lao Pian in Ovariectomised Rats. | Int J Med Sci
+- new | 2022 | 35622748 |  | Effects of Red Ginseng Byproducts on Rumen Fermentation, Growth Performance, Blood Metabolites, and mRNA Expression of Heat Shock Proteins in Heat-Stressed Fattening Hanwoo Steers. | Vet Sci
+- new | 2022 | 35334841 | Meta-Analysis/Systematic Review | Exploratory Systematic Review and Meta-Analysis of Panax Genus Plant Ingestion Evaluation in Exercise Endurance. | Nutrients
+- new | 2022 | 36559300 |  | Pharmacokinetic Comparison of Ginsenosides between Fermented and Non-Fermented Red Ginseng in Healthy Volunteers. | Pharmaceutics
+- new | 2022 | 35565660 |  | Effect of Fermented Red Ginseng Concentrate Intake on Stool Characteristic, Biochemical Parameters, and Gut Microbiota in Elderly Korean Women. | Nutrients
+- new | 2022 | 35818426 |  | Safety of red ginseng and herb extract complex (RHC) in menopausal women: A randomized, double-blind, placebo-controlled trial. | J Ginseng Res
+- new | 2022 | 35818424 |  | Preventive effects of ginseng against atherosclerosis and subsequent ischemic stroke: A randomized controlled trial (PEGASUS trial). | J Ginseng Res
+- new | 2022 | 35111231 |  | Pharmacokinetics of Ginsenoside Rb1, Rg3, Rk1, Rg5, F2, and Compound K from Red Ginseng Extract in Healthy Korean Volunteers. | Evid Based Complement Alternat Med
+- new | 2022 | 35428430 | Review | Nutraceuticals and Phytotherapy in Men's Health: Antioxidants, Pro-oxidants, and a Novel Opportunity for Lifestyle Changes. | Urol Clin North Am
+- new | 2022 | 35818418 |  | Safety and antifatigue effect of Korean Red Ginseng capsule: A randomized, double-blind and placebo-controlled clinical trial. | J Ginseng Res
+- new | 2022 | 33650944 | Systematic Review | Modulation of the hypothalamic-pituitary-adrenal (HPA) axis by plants and phytonutrients: a systematic review of human trials. | Nutr Neurosci
+- new | 2022 | 35708631 | Randomized Controlled Trial | KGR-BG1, a Standardized Korean Black Ginseng Extract, Has No Significant Effects on Head or Face Temperature Compared with Korean Red Ginseng Extract and a Placebo. | J Med Food
+- new | 2022 | 32379240 | Randomized Controlled Trial | Panax ginseng Supplementation Increases Muscle Recruitment, Attenuates Perceived Effort, and Accelerates Muscle Force Recovery After an Eccentric-Based Exercise in Athletes. | J Strength Cond Res
+- new | 2022 | 36312736 |  | Major ginsenosides from Panax ginseng promote aerobic cellular respiration and SIRT1-mediated mitochondrial biosynthesis in cardiomyocytes and neurons. | J Ginseng Res
+- new | 2022 | 36532751 |  | Transcriptome expression profile of compound-K-enriched red ginseng extract (DDK-401) in Korean volunteers and its apoptotic properties. | Front Pharmacol
+- new | 2022 | 35035241 |  | A comprehensive quality analysis of randomized controlled clinical trials of Asian ginseng and American ginseng based on the CONSORT guideline. | J Ginseng Res
+- new | 2022 | 34972259 | Systematic Review/Research Support, Non-U.S. Gov't | The efficacy and tolerability of pharmacologically active interventions for alcohol-induced hangover symptomatology: a systematic review of the evidence from randomised placebo-con | Addiction
+- new | 2021 | 33150931 | Systematic Review | Examining the Effects of Herbs on Testosterone Concentrations in Men: A Systematic Review. | Adv Nutr
+- new | 2021 | 34611615 |  | Efficacy of pharmacologic treatment in tinnitus patients without specific or treatable origin: A network meta-analysis of randomised controlled trials. | EClinicalMedicine
+- new | 2021 | 34552783 | Review | Alternative medicine and herbal remedies in the treatment of erectile dysfunction: A systematic review. | Arab J Urol
+- new | 2021 | 33631926 |  | Effect of Panax ginseng on Carbamazepine Pharmacokinetics in Rabbits. | Turk J Pharm Sci
+- HELD REF-3722 | 2021 | 34638031 | Meta-Analysis/Systematic Review | Beneficial effects of natural products on female sexual dysfunction: A systematic review and meta-analysis. | Phytomedicine
+- new | 2021 | 33437171 |  | Immuno-enhancement effects of Korean Red Ginseng in healthy adults: a randomized, double-blind, placebo-controlled trial. | J Ginseng Res
+- new | 2021 | 32070136 | Randomized Controlled Trial | The Effect of Korean Red Ginseng on Symptoms and Inflammation in Patients With Allergic Rhinitis. | Ear Nose Throat J
+- new | 2021 | 35056100 |  | An Open-Label, Pilot Trial of HRG80™ Red Ginseng in Chronic Fatigue Syndrome, Fibromyalgia, and Post-Viral Fatigue. | Pharmaceuticals (Basel)
+- new | 2021 | 34764722 |  | Effect of red ginseng on visual function and vision-related quality of life in patients with glaucoma. | J Ginseng Res
+- new | 2021 | 35281141 | Review | Efficacy of herbal alternatives in maintaining oral health in cancer patients: A systematic review. | J Oral Maxillofac Pathol
+- new | 2021 | 34858175 |  | Clinical Effects of Korean Red Ginseng in Postmenopausal Women With Hand Osteoarthritis: A Double-Blind, Randomized Controlled Trial. | Front Pharmacol
+- new | 2021 | 33728269 |  | Efficacy of Herbal Based Syrup on male sexual experiences: A double-blind randomized clinical trial. | J Tradit Complement Med
+- new | 2021 | 33668699 |  | Effects of Red and White Ginseng Preparations on Electrical Activity of the Brain in Elderly Subjects: A Randomized, Double-Blind, Placebo-Controlled, Three-Armed Cross-Over Study. | Pharmaceuticals (Basel)
+- new | 2021 | 34578969 | Randomized Controlled Trial | The Effects of Korean Red Ginseng on Biological Aging and Antioxidant Capacity in Postmenopausal Women: A Double-Blind Randomized Controlled Study. | Nutrients
+- new | 2021 | 34359426 |  | Efficacy and Safety of Aronia, Red Ginseng, Shiitake Mushroom, and Nattokinase Mixture on Insulin Resistance in Prediabetic Adults: A Randomized, Double-Blinded, Placebo-Controlled | Foods
+- new | 2021 | 33216632 | Randomized Controlled Trial | Effects of Korean Red Ginseng (Panax ginseng C.A. Meyer) on Menopausal Symptoms in Premenopausal Women After Gynecologic Cancer Surgery: A Double-Blind, Randomized Controlled Trial | J Altern Complement Med
+- new | 2021 | 34803424 |  | Effect of coadministration of enriched Korean Red Ginseng (Panax ginseng) and American ginseng (Panax quinquefolius L) on cardiometabolic outcomes in type-2 diabetes: A randomized  | J Ginseng Res
+- new | 2021 | 33918329 |  | Ginsenoside Absorption Rate and Extent Enhancement of Black Ginseng (CJ EnerG) over Red Ginseng in Healthy Adults. | Pharmaceutics
+- new | 2021 | 34804894 |  | Effects of a polyherbal formulation on the quality of life and survival of patients with common upper gastrointestinal cancers: A randomized placebo-controlled trial. | Avicenna J Phytomed
+- new | 2021 | 34801051 |  | A correlational study of Weifuchun and its clinical effect on intestinal flora in precancerous lesions of gastric cancer. | Chin Med
+- new | 2021 | 33486572 | Randomized Controlled Trial | Co-administration of viscous fiber, Salba-chia and ginseng on glycemic management in type 2 diabetes: a double-blind randomized controlled trial. | Eur J Nutr
+- new | 2021 | 34194584 |  | Positive influence of gut microbiota on the effects of Korean red ginseng in metabolic syndrome: a randomized, double-blind, placebo-controlled clinical trial. | EPMA J
+- new | 2021 | 34202864 |  | Effect of Korean Red Ginseng on Plasma Ceramide Levels in Postmenopausal Women with Hypercholesterolemia: A Pilot Randomized Controlled Trial. | Metabolites
+- new | 2021 | 34764725 |  | Effects of red ginseng on gut, microbiota, and brain in a mouse model of post-infectious irritable bowel syndrome. | J Ginseng Res
+- new | 2020 | 31447414 | Review | Sexual Performance Anxiety. | Sex Med Rev
+- HELD REF-1469 | 2020 | 33059260 | Systematic Review | Panax ginseng clinical trials: Current status and future perspectives. | Biomed Pharmacother
+- new | 2020 | 32009310 |  | Ginseng for Improving Semen Quality Parameters: A Systematic Review. | World J Mens Health
+- new | 2020 | 32765262 | Systematic Review | Clinical and Preclinical Systematic Review of Panax ginseng C. A. Mey and Its Compounds for Fatigue. | Front Pharmacol
+- new | 2020 | 31972326 |  | Metabolic disturbance in Korean red ginseng-induced "Shanghuo" (excessive heat). | J Ethnopharmacol
+- new | 2020 | 33124595 |  | Effectiveness and Tolerability of Korean Red Ginseng Augmentation in Major Depressive Disorder Patients with Difficult-to-treat in Routine Practice. | Clin Psychopharmacol Neurosci
+- new | 2020 | 32724321 |  | Effectiveness and Safety of Panax ginseng Extract on Hepatic Dysfunction: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial. | Evid Based Complement Alternat Med
+- new | 2020 | 32235339 |  | Efficacy of Panax ginseng Meyer Herbal Preparation HRG80 in Preventing and Mitigating Stress-Induced Failure of Cognitive Functions in Healthy Subjects: A Pilot, Randomized, Double | Pharmaceuticals (Basel)
+- new | 2020 | 31987248 | Randomized Controlled Trial | Efficacy of Korean red ginseng (Panax ginseng) for middle-aged and moderate level of chronic fatigue patients: A randomized, double-blind, placebo-controlled trial. | Complement Ther Med
+- new | 2020 | 31958908 |  | Effect of Omega-3 and Korean Red Ginseng on Children with Attention Deficit Hyperactivity Disorder: An Open-Label Pilot Study. | Clin Psychopharmacol Neurosci
+- new | 2020 | 31680216 | Review | Herbal preparations for the treatment of hair loss. | Arch Dermatol Res
+- new | 2020 | 33171597 | Randomized Controlled Trial | Effect of Korean Red Ginseng on Cholesterol Metabolites in Postmenopausal Women with Hypercholesterolemia: A Pilot Randomized Controlled Trial. | Nutrients
+- new | 2020 | 32470863 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effect of Korean Red Ginseng on sarcopenia biomarkers in type 2 diabetes patients. | Arch Gerontol Geriatr
+- new | 2020 | 32025522 | Randomized Controlled Trial | Supplementation with Korean Red Ginseng Improves Current Perception Threshold in Korean Type 2 Diabetes Patients: A Randomized, Double-Blind, Placebo-Controlled Trial. | J Diabetes Res
+- new | 2020 | 33584955 |  | An Herbal Extract Combination (Biochanin A, Acetyl tetrapeptide-3, and Ginseng Extracts) versus 3% Minoxidil Solution for the Treatment of Androgenetic Alopecia: A 24-week, Prospec | J Clin Aesthet Dermatol
+- new | 2020 | 32147072 | Multicenter Study/Randomized Controlled Trial | Vascular effects of combined enriched Korean Red ginseng (Panax Ginseng) and American ginseng (Panax Quinquefolius) administration in individuals with hypertension and type 2 diabe | Complement Ther Med
+- new | 2019 | 30729756 | Systematic Review | A systematic review of research investigating the physiological and psychological effects of combining Ginkgo biloba and Panax ginseng into a single treatment in humans: Implicatio | Brain Behav
+- new | 2019 | 30940771 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | 12-month randomised controlled trial of ginseng extract for moderate COPD. | Thorax
+- new | 2019 | 31695571 |  | Safety and antifatigue effect of Korean Red Ginseng: a randomized, double-blind, and placebo-controlled clinical trial. | J Ginseng Res
+- HELD REF-3719 | 2019 | 31315027 | Meta-Analysis/Systematic Review | Efficacy of Panax ginseng supplementation on blood lipid profile. A meta-analysis and systematic review of clinical randomized trials. | J Ethnopharmacol
+- new | 2019 | 31331583 | Randomized Controlled Trial | The effect of ginseng on sexual dysfunction in menopausal women: A double-blind, randomized, controlled trial. | Complement Ther Med
+- new | 2019 | 32055589 |  | Cognition enhancing effect of panax ginseng in Korean volunteers with mild cognitive impairment: a randomized, double-blind, placebo-controlled clinical trial. | Transl Clin Pharmacol
+- new | 2019 | 31308812 |  | Effect of Korean Red Ginseng in individuals exposed to high stress levels: a 6-week, double-blind, randomized, placebo-controlled trial. | J Ginseng Res
+- new | 2019 | 31182153 | Clinical Trial Protocol | Efficacy of Cognition Support Formula® on cognitive function in older adults with subjective cognitive impairment: a protocol for a 26-week, randomised, double-blind, placebo-contr | Trials
+- new | 2019 | 30543483 | Randomized Controlled Trial | Pharmacokinetic Study of Compound K in Japanese Subjects After Ingestion of Panax ginseng Fermented by Lactobacillus paracasei A221 Reveals Significant Increase of Absorption into  | J Med Food
+- new | 2019 | 30506753 | Clinical Trial | Anti-acne properties of hydrophobic fraction of red ginseng (Panax ginseng C.A. Meyer) and its active components. | Phytother Res
+- new | 2018 | 30156931 | Meta-Analysis/Systematic Review | Effect of phytoestrogens on sexual function in menopausal women: a systematic review and meta-analysis. | Climacteric
+- new | 2018 | 30337818 |  | Safety and tolerability of Korean Red Ginseng in healthy adults: a multicenter, double-blind, randomized, placebo-controlled trial. | J Ginseng Res
+- new | 2018 | 29348727 |  | Efficacy and safety of Panax ginseng berry extract on glycemic control: A 12-wk randomized, double-blind, and placebo-controlled clinical trial. | J Ginseng Res
+- new | 2018 | 29719460 |  | Korean Red Ginseng exhibits no significant adverse effect on disease activity in patients with rheumatoid arthritis: a randomized, double-blind, crossover study. | J Ginseng Res
+- new | 2018 | 29719466 |  | Effect of high-dose ginsenoside complex (UG0712) supplementation on physical performance of healthy adults during a 12-week supervised exercise program: A randomized placebo-contro | J Ginseng Res
+- new | 2018 | 32055163 |  | A Study on Growth Performance of Ducks Fed Diets with Different Types of Sipjeondaebo-Tang Byproduct Meal and Red Ginseng Marc with Fermented Red Koji and Ammonia Fluxes in Duck Li | J Poult Sci
+- new | 2018 | 29853744 |  | The Beneficial Effect of Korean Red Ginseng Extract on Atopic Dermatitis Patients: An 8 Weeks Open, Noncomparative Clinical Study. | Ann Dermatol
+- new | 2018 | 28558522 | Research Support, Non-U.S. Gov't | Saponin Extracts Induced Apoptosis of Endometrial Cells From Women With Endometriosis Through Modulation of miR-21-5p. | Reprod Sci
+- new | 2018 | 29888582 | Randomized Controlled Trial | [Treatment of Menopausal Syndrome by Combined Electroacupuncture, Acupoint-injection and Fire-needle Therapies]. | Zhen Ci Yan Jiu [chi]
+- new | 2018 | 30080229 | Randomized Controlled Trial | A Combination of Essential Fatty Acids, Panax Ginseng Extract, and Green Tea Catechins Modifies Brain fMRI Signals in Healthy Older Adults. | J Nutr Health Aging
+- new | 2017 | 28707603 | Meta-Analysis/Systematic Review | Ginseng for Treating Hypertension: A Systematic Review and Meta-Analysis of Double Blind, Randomized, Placebo-Controlled Trials. | Curr Vasc Pharmacol
+- new | 2017 | 28568743 | Systematic Review | Interventions for treatment and/or prevention of alcohol hangover: Systematic review. | Hum Psychopharmacol
+- new | 2017 | 28797065 | Systematic Review | A systematic review of the pharmacokinetic and pharmacodynamic interactions of herbal medicine with warfarin. | PLoS One
+- new | 2017 | 29062371 |  | Eustress and Malondialdehyde (MDA): Role of Panax Ginseng: Randomized Placebo Controlled Study. | Iran J Psychiatry
+- new | 2017 | 28948486 | Review | Efficacy and Tolerability of Phytomedicines in Multiple Sclerosis Patients: A Review. | CNS Drugs
+- new | 2017 | 28753932 | Randomized Controlled Trial | Effect of Red Ginseng on Genotoxicity and Health-Related Quality of Life after Adjuvant Chemotherapy in Patients with Epithelial Ovarian Cancer: A Randomized, Double Blind, Placebo | Nutrients
+- new | 2017 | 28732813 | Randomized Controlled Trial | A randomized, double-blind, placebo- controlled study on the anti-haemostatic effects of Curcuma longa, Angelica sinensis and Panax ginseng. | Phytomedicine
+- new | 2017 | 28874596 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A Double-Blind, Randomized, Placebo-Controlled Trial of Panax Ginseng for Cancer-Related Fatigue in Patients With Advanced Cancer. | J Natl Compr Canc Netw
+- new | 2017 | 28413328 |  | Effect of Korean Red Ginseng intake on the survival duration of human immunodeficiency virus type 1 patients. | J Ginseng Res
+- new | 2016 | 27661038 | Meta-Analysis/Systematic Review | Ginseng for managing menopausal woman's health: A systematic review of double-blind, randomized, placebo-controlled trials. | Medicine (Baltimore)
+- new | 2016 | 26952957 | Review | Male infertility: lifestyle factors and holistic, complementary, and alternative therapies. | Asian J Androl
+- new | 2016 | 27641605 | Review | Post-hematopoietic stem cell transplantation in patients with hematologic disorders: Chinese herbal medicine for an unmet need. | J Integr Med
+- new | 2016 | 27616896 |  | Anti-inflammatory and antifatigue effect of Korean Red Ginseng in patients with nonalcoholic fatty liver disease. | J Ginseng Res
+- new | 2016 | 27746690 |  | Effect of Red Ginseng on cytochrome P450 and P-glycoprotein activities in healthy volunteers. | J Ginseng Res
+- new | 2016 | 26507878 |  | Effects of Panax ginseng extract on human dermal fibroblast proliferation and collagen synthesis. | Int Wound J
+- new | 2016 | 26081140 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Ginsenoside Rd Is Efficacious Against Acute Ischemic Stroke by Suppressing Microglial Proteasome-Mediated Inflammation. | Mol Neurobiol
+- new | 2016 | 26912094 | Meta-Analysis/Systematic Review | Integrative Medicine for Relief of Nausea and Vomiting in the Treatment of Colorectal Cancer Using Oxaliplatin-Based Chemotherapy: A Systematic Review and Meta-Analysis. | Phytother Res
+- new | 2016 | 27266702 |  | Panax ginseng and salvia miltiorrhiza supplementation abolishes eccentric exercise-induced vascular stiffening: a double-blind randomized control trial. | BMC Complement Altern Med
+- new | 2016 | 27045864 | Multicenter Study/Randomized Controlled Trial | A randomized, double-blind, multicenter, placebo-controlled clinical study on the efficacy and safety of Shenmai injection in patients with chronic heart failure. | J Ethnopharmacol
+- new | 2016 | 27516803 |  | Enhanced Absorption Study of Ginsenoside Compound K (20-O-β-(D-Glucopyranosyl)-20(S)-protopanaxadiol) after Oral Administration of Fermented Red Ginseng Extract (HYFRG™) in Healthy | Evid Based Complement Alternat Med
+- new | 2016 | 27240158 | Randomized Controlled Trial | Electrocardiographic and blood pressure effects of energy drinks and Panax ginseng in healthy volunteers: A randomized clinical trial. | Int J Cardiol
+- new | 2016 | 25967606 | Randomized Controlled Trial | Effects of Korean red ginseng on semen parameters in male infertility patients: A randomized, placebo-controlled, double-blind clinical study. | Chin J Integr Med
+- new | 2016 | 26843120 | Randomized Controlled Trial | Blood pressure-lowering effect of Korean red ginseng associated with decreased circulating Lp-PLA2 activity and lysophosphatidylcholines and increased dihydrobiopterin level in pre | Hypertens Res
+- new | 2016 | 27603149 | Randomized Controlled Trial | Effects of Complementary Combination Therapy of Korean Red Ginseng and Antiviral Agents in Chronic Hepatitis B. | J Altern Complement Med
+- new | 2016 | 27912940 | Randomized Controlled Trial | Panax ginseng and Salvia miltiorrhiza supplementation during eccentric resistance training in middle-aged and older adults: A double-blind randomized control trial. | Complement Ther Med
+- new | 2016 | 26974484 | Research Support, Non-U.S. Gov't | Effect of Korean Red Ginseng on Cognitive Function and Quantitative EEG in Patients with Alzheimer's Disease: A Preliminary Study. | J Altern Complement Med
+- new | 2016 | 27495955 |  | Effect of fermented red ginseng on cytochrome P450 and P-glycoprotein activity in healthy subjects, as evaluated using the cocktail approach. | Br J Clin Pharmacol
+- new | 2016 | 27616902 |  | A single-center, randomized, double-blind, placebo-controlled study on the efficacy and safety of "enzyme-treated red ginseng powder complex (BG11001)" for antiwrinkle and proelast | J Ginseng Res
+- new | 2015 | 28930204 | Review | Safety Analysis of Panax Ginseng in Randomized Clinical Trials: A Systematic Review. | Medicines (Basel)
+- new | 2015 | 25553083 |  | Chemopreventive effects of korean red ginseng extract on rat hepatocarcinogenesis. | J Cancer
+- new | 2015 | 26300710 | Randomized Controlled Trial | Null effect of ginsenoside Rb1 on improving glycemic status in men during a resistance training recovery. | J Int Soc Sports Nutr
+- new | 2015 | 25873296 | Clinical Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | High-Dose Asian Ginseng (Panax Ginseng) for Cancer-Related Fatigue: A Preliminary Report. | Integr Cancer Ther
+- new | 2015 | 25597699 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of single-dose Ginkgo biloba and Panax ginseng on driving performance. | Clin Toxicol (Phila)
+- new | 2015 | 25535471 |  | Effect of Korean Red Ginseng supplementation on dry eye syndrome in glaucoma patients - A randomized, double-blind, placebo-controlled study. | J Ginseng Res
+- new | 2015 | 26798402 |  | The Effect of Korean Red Ginseng on Sexual Function in Premenopausal Women: Placebo-Controlled, Double-Blind, Crossover Clinical Trial. | Evid Based Complement Alternat Med
+- new | 2015 | 26413574 |  | The Effect of Korean Red Ginseng on Symptoms and Quality of Life in Chronic Tinnitus: A Randomized, Open-Label Pilot Study. | J Audiol Otol
+- new | 2014 | 24343974 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | FOLFOX 4 combined with herbal medicine for advanced colorectal cancer: a systematic review. | Phytother Res
+- new | 2014 | 24814037 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Antioxidative effects of Korean red ginseng in postmenopausal women: a double-blind randomized controlled trial. | J Ethnopharmacol
+- new | 2014 | 25379002 |  | An 8-wk, randomized, double-blind, placebo-controlled clinical trial for the antidiabetic effects of hydrolyzed ginseng extract. | J Ginseng Res
+- new | 2014 | 25161696 |  | Panax ginseng therapy for chronic obstructive pulmonary disease: a clinical trial protocol and pilot study. | Chin Med
+- new | 2013 | 22969004 | Research Support, Non-U.S. Gov't/Systematic Review | Panax ginseng in randomised controlled trials: a systematic review. | Phytother Res
+- new | 2013 | 23548116 | Research Support, Non-U.S. Gov't/Review | Quality and risk of bias in Panax ginseng randomized controlled trials: a review. | Am J Chin Med
+- new | 2013 | 23560064 | Research Support, Non-U.S. Gov't/Systematic Review | Ginseng for health care: a systematic review of randomized controlled trials in Korean literature. | PLoS One
+- new | 2013 | 23394826 | Research Support, Non-U.S. Gov't/Review | Relevance of in vitro and clinical data for predicting CYP3A4-mediated herb-drug interactions in cancer patients. | Cancer Treat Rev
+- new | 2012 | 22645630 |  | Korean red ginseng improves blood pressure stability in patients with intradialytic hypotension. | Evid Based Complement Alternat Med
+- new | 2012 | 22805313 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Beneficial effects of Korean red ginseng on lymphocyte DNA damage, antioxidant enzyme activity, and LDL oxidation in healthy participants: a randomized, double-blind, placebo-contr | Nutr J
+- new | 2012 | 23001440 | Review | What do most erectile dysfunction guidelines have in common? No evidence-based discussion or recommendation of heart-healthy lifestyle changes and/or Panax ginseng. | Asian J Androl
+- new | 2012 | 22474520 |  | A six-month supplementation of mulberry, korean red ginseng, and banaba decreases biomarkers of systemic low-grade inflammation in subjects with impaired glucose tolerance and type | Evid Based Complement Alternat Med
+- new | 2012 | 22314101 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A placebo-controlled trial of Korean red ginseng extract for preventing influenza-like illness in healthy adults. | BMC Complement Altern Med
+- new | 2011 | 21985167 | Historical Article/Research Support, Non-U.S. Gov't/Review | Therapeutic potential of ginseng in the management of cardiovascular disorders. | Drugs
+- new | 2011 | 21948222 | Review | Rise of herbal and traditional medicine in erectile dysfunction management. | Curr Urol Rep
+- HELD REF-3723 | 2011 | 22139546 | Meta-Analysis/Systematic Review | Red ginseng for type 2 diabetes mellitus: a systematic review of randomized controlled trials. | Chin J Integr Med
+- new | 2011 | 21704950 | Research Support, Non-U.S. Gov't/Systematic Review | Systematic review of randomized controlled trials evaluating the efficacy and safety of ginseng. | J Acupunct Meridian Stud
+- new | 2011 | 21619921 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Korean red ginseng (Panax ginseng C.A. Meyer) root fractions: differential effects on postprandial glycemia in healthy individuals. | J Ethnopharmacol
+- new | 2011 | 21845445 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Fermentation of Korean red ginseng by Lactobacillus plantarum M-2 and its immunological activities. | Appl Biochem Biotechnol
+- new | 2011 | 21235416 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of Korean red ginseng on arterial stiffness in subjects with hypertension. | J Altern Complement Med
+- HELD REF-1475 | 2010 | 21154383 | Meta-Analysis/Systematic Review | Ginseng for cognition. | Cochrane Database Syst Rev
+- HELD REF-3724 | 2009 | 19584437 | Research Support, Non-U.S. Gov't/Systematic Review | Ginseng for cognitive function in Alzheimer's disease: a systematic review. | J Alzheimers Dis
+- new | 2009 | 22435515 | Clinical Trial | First preliminary results of an observation of Panax ginseng treatment in patients with autistic disorder. | J Diet Suppl
+- new | 2009 | 19957872 | Comparative Study/Controlled Clinical Trial/Research Support, U.S. Gov't, Non-P.H.S./Review | Herbal supplements and athlete immune function--what's proven, disproven, and unproven? | Exerc Immunol Rev
+- HELD REF-3721 | 2008 | 18754850 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Red ginseng for treating erectile dysfunction: a systematic review. | Br J Clin Pharmacol
+- new | 2008 | 18637764 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Interaction between warfarin and Panax ginseng in ischemic stroke patients. | J Altern Complement Med
+- new | 2007 | 18090773 | Clinical Trial/Comparative Study/Review | The effect of herbal medicines on platelet function: an in vivo experiment and review of the literature. | Plast Reconstr Surg
+- new | 2006 | 16880367 | Research Support, Non-U.S. Gov't/Systematic Review | Herbal medicines for the treatment of COPD: a systematic review. | Eur Respir J
+- new | 2005 | 15817756 | Clinical Trial/Comparative Study/Research Support, Non-U.S. Gov't | Korean red ginseng slows depletion of CD4 T cells in human immunodeficiency virus type 1-infected patients. | Clin Diagn Lab Immunol
+- new | 2003 | 12605613 | Review | The effects of Panax ginseng on quality of life. | J Clin Pharm Ther
+- new | 2003 | 12817527 | Clinical Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Drug interaction potential of soy extract and Panax ginseng. | J Clin Pharmacol
+- new | 2002 | 12020172 | Case Reports/Research Support, Non-U.S. Gov't/Systematic Review | Panax ginseng: a systematic review of adverse effects and drug interactions. | Drug Saf
+- new | 2001 | 11549118 | Clinical Trial | Protective effects of antioxidant supplementation on plasma lipid peroxidation in smokers. | J Toxicol Environ Health A
+- new | 2000 | 10748963 | Review | Panax (ginseng)--panacea or placebo? Molecular and cellular basis of its pharmacological activity. | Ann Acad Med Singap
+- HELD REF-2290 | 2000 | 10996277 | Review | Eleutherococcus senticosus (Rupr. & Maxim.) Maxim. (Araliaceae) as an adaptogen: a closer look. | J Ethnopharmacol
+- new | 1995 | 8750052 | Clinical Trial/Randomized Controlled Trial | Clinical efficacy of Korean red ginseng for erectile dysfunction. | Int J Impot Res
+- new | 1995 | 7549378 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | [Effects of red ginseng on the congestive heart failure and its mechanism]. | Zhongguo Zhong Xi Yi Jie He Za Zhi [chi]
+- new | 1994 | 7992821 | Clinical Trial/Randomized Controlled Trial | Alteration of pulse in human subjects by three Chinese herbs. | Am J Chin Med
+- new | 1986 | 3528672 | Clinical Trial/Controlled Clinical Trial | A double-blind, placebo-controlled clinical study on the effect of a standardized ginseng extract on psychomotor performance in healthy volunteers. | J Ethnopharmacol
+
+### PubMed SR - 130 hits, 60 not already listed above, 55 new
+- new | 2026 | 42280421 | Systematic Review | Ginseng Bioactive Components as Gut-Brain Axis-Targeted Modulators: Therapeutic Potential and Mechanisms in Multifactorial Diseases. | Nutrients
+- new | 2026 | 42402095 | Systematic Review/Meta-Analysis | Ginsenosides mitigate multi-organ aging: mechanistic insights from a preclinical systematic review and meta-analysis. | Crit Rev Food Sci Nutr
+- new | 2026 | 42668494 | Review | Comparative Efficacy of Herbal Products on Metabolic Parameters in Metabolic-Dysfunction Associated Liver Disease: A Systematic Review and Network Meta-Analysis. | Gastro Hep Adv
+- new | 2025 | 41092580 | Systematic Review | Targeting cancer epigenetics with PPD-type ginsenosides: A systematic review of mechanisms and therapeutic potential. | Phytomedicine
+- new | 2025 | 40440906 | Systematic Review | Transcriptomic strategy provides molecular insights into the growth and ginsenosides accumulation of Panax ginseng. | Phytomedicine
+- new | 2025 | 39892311 | Systematic Review | Targeting pyroptosis: A novel strategy of ginseng for the treatment of diabetes and its chronic complications. | Phytomedicine
+- new | 2025 | 39039242 | Systematic Review/Meta-Analysis | Efficacy of ginsenoside Rg1 on rodent models of depression: A systematic review and meta-analysis. | Psychopharmacology (Berl)
+- new | 2025 | 41041643 | Published Erratum | Correction: The potential of medicinal food plant Panax ginseng C. A. Mey. in managing chronic diseases via gut microbiota regulation: a systematic review of mechanisms and evidenc | Front Pharmacol
+- new | 2025 | 41109042 | Systematic Review | Systematic review and pharmacological insights of ginsenoside Rf: Current status and future perspectives. | Phytomedicine
+- new | 2024 | 37536646 | Systematic Review | Ginsenoside Rg1, lights up the way for the potential prevention of Alzheimer's disease due to its therapeutic effects on the drug-controllable risk factors of Alzheimer's disease. | J Ethnopharmacol
+- new | 2024 | 38256796 | Review | Alternative Crops for the European Tobacco Industry: A Systematic Review. | Plants (Basel)
+- new | 2024 | 37717842 | Systematic Review | Understanding mechanistic aspect of the therapeutic role of herbal agents on neuroplasticity in cerebral ischemic-reperfusion injury. | J Ethnopharmacol
+- HELD REF-3720 | 2024 | 38877862 | Systematic Review/Meta-Analysis | The Effect of Ginseng Supplementation on Lipid Profile: GRADE-assessed Systematic Review and Dose-response Meta-analysis of Randomized Controlled Trials. | Curr Pharm Des
+- new | 2024 | 39064530 | Systematic Review | Systematic Review of Preclinical Studies on the Efficacy and Mechanisms of Herbal Medicines in Post-Myocardial Infarction Heart Failure with Reduced Ejection Fraction. | Medicina (Kaunas)
+- new | 2024 | 38504564 | Scoping Review | Current View on How Human Gut Microbiota Mediate Metabolic and Pharmacological Activity of Panax ginseng. A Scoping Review. | Endocr Metab Immune Disord Drug Targets
+- new | 2024 | 38539908 | Review | Oxidative Stress in Spinocerebellar Ataxia Type 3 and Its Attenuation by Herbal Remedies in Traditional Chinese Medicine: A Systematic Review. | Antioxidants (Basel)
+- new | 2023 | 36987052 | Review | Nootropic Herbs, Shrubs, and Trees as Potential Cognitive Enhancers. | Plants (Basel)
+- new | 2023 | 36939049 | Research Support, Non-U.S. Gov't/Systematic Review | A comprehensive and systemic review of ginseng-based nanomaterials: Synthesis, targeted delivery, and biomedical applications. | Med Res Rev
+- new | 2023 | 36691539 |  | Bibliometric analysis of traditional Chinese medicine research on heart failure in the 21st century based on the WOS database. | Heliyon
+- new | 2023 | 36771427 | Meta-Analysis/Systematic Review | The Efficacy of Panax ginseng for the Treatment of Nonalcoholic Fatty Liver Disease: A Systematic Review and Meta-Analysis of Preclinical Studies. | Nutrients
+- new | 2023 | 37720567 | Review | Effect of anti-skin disorders of ginsenosides- A Systematic Review. | J Ginseng Res
+- new | 2023 | 36691721 | Systematic Review | Compound K: A systematic review of its anticancer properties and probable mechanisms. | Fundam Clin Pharmacol
+- new | 2023 | 38074843 |  | Red Ginseng Is a Therapeutic Candidate for Chronic Doxorubicin-Induced Cardiomyopathy in Mice. | Evid Based Complement Alternat Med
+- new | 2023 | 37445780 | Systematic Review | Systemic Review of Clot Retraction Modulators. | Int J Mol Sci
+- new | 2023 | 37107216 | Review | A Meta-Analysis of Preclinical Studies to Investigate the Effect of Panax ginseng on Alcohol-Associated Liver Disease. | Antioxidants (Basel)
+- new | 2023 | 37251340 | Review | The effect of ginsenosides on liver injury in preclinical studies: a systematic review and meta-analysis. | Front Pharmacol
+- new | 2023 | 37730634 | Review | Age-related hearing loss and its potential drug candidates: a systematic review. | Chin Med
+- new | 2023 | 37397412 | Review | Analysis of common and characteristic actions of Panax ginseng and Panax notoginseng in wound healing based on network pharmacology and meta-analysis. | J Ginseng Res
+- new | 2023 | 37335746 | Meta-Analysis | Network analysis to explore the pharmacological mechanism of Shenmai injection in treating granulocytopenia and evidence-based medicine approach validation. | Medicine (Baltimore)
+- new | 2022 | 35143871 | Systematic Review | Panax ginseng and aging related disorders: A systematic review. | Exp Gerontol
+- new | 2022 | 34551361 | Review | Chinese patent medicine Aidi injection for cancer care: An overview of systematic reviews and meta-analyses. | J Ethnopharmacol
+- new | 2022 | 35692129 | Review | Ameliorative Effects of Phytomedicines on Alzheimer's Patients. | Curr Alzheimer Res
+- new | 2022 | 35631252 | Systematic Review | Medicinal Plants and Their Impact on the Gut Microbiome in Mental Health: A Systematic Review. | Nutrients
+- new | 2022 | 36012338 | Systematic Review | Experimental Evidence for the Anti-Metastatic Action of Ginsenoside Rg3: A Systematic Review. | Int J Mol Sci
+- new | 2022 | 36091817 | Systematic Review | Efficacy and Safety of Shenfu Injection for Severe Pneumonia in the Elderly: A Systematic Review and Meta-Analysis Based on Western and Eastern Medicine. | Front Pharmacol
+- HELD REF-0506 | 2021 | 34445021 | Historical Article/Meta-Analysis/Systematic Review | Plant Adaptogens-History and Future Perspectives. | Nutrients
+- new | 2021 | 32691627 | Research Support, Non-U.S. Gov't/Systematic Review | Ginseng and Cancer-Related Fatigue: A Systematic Review of Clinical Trials. | Nutr Cancer
+- new | 2021 | 33982500 | Systematic Review | [Effects of ecological factors on shape and ginsenoside of Panax ginseng]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2021 | 35002732 | Review | Strategies for Remodeling the Tumor Microenvironment Using Active Ingredients of Ginseng-A Promising Approach for Cancer Therapy. | Front Pharmacol
+- new | 2021 | 34635149 | Research Support, Non-U.S. Gov't | Protocols for cognitive enhancement. A user manual for Brain Health Services-part 5 of 6. | Alzheimers Res Ther
+- new | 2021 | 33466125 |  | Renshen (Panax ginseng) and Huanglian (Rhizoma Coptidis) For T2DM: A protocol of systematic review and meta-analysis of randomized clinical trials. | Medicine (Baltimore)
+- new | 2021 | 35009068 | Review | Comparison between the Biological Active Compounds in Plants with Adaptogenic Properties (Rhaponticum carthamoides, Lepidium meyenii, Eleutherococcus senticosus and Panax ginseng). | Plants (Basel)
+- new | 2021 | 33157222 | Systematic Review | Immunomodulation of Chinese Herbal Medicines on NK cell populations for cancer therapy: A systematic review. | J Ethnopharmacol
+- new | 2021 | 33624893 | Systematic Review | A systematic review of possible interactions for herbal medicines and dietary supplements used concomitantly with disease-modifying or symptom-alleviating multiple sclerosis drugs. | Phytother Res
+- new | 2020 | 32858896 | Comparative Study/Systematic Review | Research Quality-Based Multivariate Modeling for Comparison of the Pharmacological Effects of Black and Red Ginseng. | Nutrients
+- new | 2020 | 32541519 |  | Effect of Panax ginseng on preventing acute respiratory tract infection: A protocol for systematic review and meta-analysis. | Medicine (Baltimore)
+- HELD REF-1471 | 2018 | 29624410 | Systematic Review | Ginseng as a Treatment for Fatigue: A Systematic Review. | J Altern Complement Med
+- new | 2018 | 29861768 | Review | Effects of Panax ginseng on Obesity in Animal Models: A Systematic Review and Meta-Analysis. | Evid Based Complement Alternat Med
+- new | 2018 | 29329463 | Systematic Review | Ginsenoside Rh1: A Systematic Review of Its Pharmacological Properties. | Planta Med
+- new | 2018 | 30705884 | Review | Panax ginseng for Frailty-Related Disorders: A Review. | Front Nutr
+- new | 2016 | 28150477 | Review | Red Ginseng as an Ergogenic Aid: A Systematic Review of Clinical Trials. | J Exerc Nutrition Biochem
+- new | 2016 | 26887532 | Meta-Analysis/Systematic Review | A Critical Approach to Evaluating Clinical Efficacy, Adverse Events and Drug Interactions of Herbal Remedies. | Phytother Res
+- new | 2014 | 25108743 | Research Support, Non-U.S. Gov't/Systematic Review | Saponins in the genus Panax L. (Araliaceae): a systematic review of their chemical diversity. | Phytochemistry
+- new | 2013 | 23717154 |  | Ginseng for managing menopause symptoms: a systematic review of randomized clinical trials. | J Ginseng Res
+- new | 2012 | 22303969 | Systematic Review | Chinese herbs for dementia diseases. | Mini Rev Med Chem
+- HELD REF-0192 | 2012 | 23717123 |  | Ginseng in traditional herbal prescriptions. | J Ginseng Res
+- new | 2011 | 21322286 | Review | Complementary and alternative medicine for prevention and treatment of the common cold. | Can Fam Physician
+- HELD REF-2436 | 2009 | 19719333 | Systematic Review | Interactions between herbal medicines and prescribed drugs: an updated systematic review. | Drugs
+- new | 2008 | 18204104 | Systematic Review | Safety and efficacy of panax ginseng during pregnancy and lactation. | Can J Clin Pharmacol
+- new | 2001 | 11772128 | Systematic Review | Interactions between herbal medicines and prescribed drugs: a systematic review. | Drugs
+
+### PubMed SAFE - 905 hits, 154 not already listed above, 151 new
+- new | 2026 | 42994854 | Randomized Controlled Trial | Effects and safety of Korean red ginseng on the clinical course of uterine leiomyoma: A double-blind randomized placebo-controlled trial. | Medicine (Baltimore)
+- new | 2026 | 41989206 |  | Red Ginseng Oil Enhances Lipid Metabolism and Liver Function in HepG2 Cells and Hypercholesterolemic Rats. | J Med Food
+- new | 2026 | 42521752 |  | Comment on: protective effects of Panax Ginseng against bisphenol A-induced testicular toxicity in rats. | Int J Impot Res
+- new | 2026 | 41921254 | Review | Ginseng in exercise training and injury recovery: Composition, mechanism of action, dosage recommendations, and safety analysis. | Nutr Res
+- new | 2025 | 41399799 | Review | Potential of Panax ginseng for bone health and osteoporosis management. | Chin Herb Med
+- new | 2025 | 41268322 | Review | A comprehensive review of the effects of Panax ginseng and its constituents against inflammatory diseases. | J Ginseng Res
+- new | 2025 | 41268305 |  | Korean red ginseng extract suppresses food allergy by remodeling the gut microbiota and restoring immune homeostasis in IL4ra(F709) mice. | J Ginseng Res
+- new | 2025 | 40621080 | Review | Can Panax ginseng help protect the body from the harmful effects of airborne particulate matter? | J Ginseng Res
+- new | 2025 | 39899370 | Case Reports | Impact of INSTI on a Drug-Resistant Mutation (S68S Insertion) in a Patient Infected with HIV-1 CRF06_cpx. | AIDS Res Hum Retroviruses
+- new | 2025 | 41002721 | Review | A Review of the Mechanisms and Risks of Panax ginseng in the Treatment of Alcohol Use Disorder. | Diseases
+- new | 2024 | 37691222 | Review | Efficacy of Herbal Medicine in Hand Osteoarthritis: A Narrative Review. | Curr Rheumatol Rev
+- new | 2024 | 38223824 | Review | Effects of Red ginseng on neuroinflammation in neurodegenerative diseases. | J Ginseng Res
+- new | 2024 | 38223821 |  | Korean red ginseng suppresses mitochondrial apoptotic pathway in denervation-induced skeletal muscle atrophy. | J Ginseng Res
+- new | 2024 | 38455159 |  | Ginseng in white and red processed forms: Ginsenosides and cardiac side effects. | Food Sci Nutr
+- new | 2024 | 38707645 | Review | Metabolism and drug interactions of Korean ginseng based on the pharmacokinetic properties of ginsenosides: Current status and future perspectives. | J Ginseng Res
+- new | 2024 | 38861010 | Review | Protective effects of Panax ginseng as a medical food against chemical toxic agents: molecular and cellular mechanisms. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2024 | 38248467 |  | Red Ginseng Attenuates the Hepatic Cellular Senescence in Aged Mice. | Biology (Basel)
+- new | 2024 | 38951791 | Case Reports | Pityriasis Rosea-Like Eruption following anti-fatigue traditional herbs: Aconitum carmichaelii Debx and Panax Ginseng suspected. | BMC Complement Med Ther
+- new | 2024 | 38332753 |  | The impact of the administration of red ginseng (Panax ginseng) on lipid metabolism and free fatty acid profiles in healthy horses using a molecular networking approach. | Front Vet Sci
+- new | 2024 | 38927118 | Research Support, Non-U.S. Gov't | Functional Validation of the Cytochrome P450 Family PgCYP309 Gene in Panax ginseng. | Biomolecules
+- new | 2024 | 38262161 |  | Panaxydol extracted from Panax ginseng inhibits NLRP3 inflammasome activation to ameliorate NASH-induced liver injury. | Int Immunopharmacol
+- new | 2024 | 38818674 | Review | Mechanistic Insights into Bisphenol A-Mediated Male Infertility: Potential Role of Panax Ginseng Extract. | Chem Biodivers
+- new | 2024 | 39084170 |  | Physiological and molecular mechanisms of silicon and potassium on mitigating iron-toxicity stress in Panax ginseng. | Plant Physiol Biochem
+- new | 2024 | 38707647 |  | Assessing systemic, developmental, and reproductive toxicity and estrogenicity of Korean red ginseng extract G1899 in juvenile Sprague-Dawley Rats. | J Ginseng Res
+- new | 2024 | 38419811 |  | Protective Effects of Red Ginseng Against Tacrine-Induced Hepatotoxicity: An Integrated Approach with Network Pharmacology and Experimental Validation. | Drug Des Devel Ther
+- new | 2023 | 37375903 | Review | Atrazine Toxicity: The Possible Role of Natural Products for Effective Treatment. | Plants (Basel)
+- new | 2023 | 36926605 | Review | Protective effects of Korean Red Ginseng against toxicity of endocrine-disrupting chemicals. | J Ginseng Res
+- new | 2023 | 36970196 |  | Herbal formula BaWeiBaiDuSan alleviates polymicrobial sepsis-induced liver injury via increasing the gut microbiota Lactobacillus johnsonii and regulating macrophage anti-inflammat | Acta Pharm Sin B
+- new | 2023 | 36788470 |  | Probiotic Characteristics and Safety Assessment of Lacticaseibacillus casei KGC1201 Isolated from Panax ginseng. | J Microbiol Biotechnol
+- new | 2023 | 38076549 |  | A pharmacokinetic study on red ginseng with furosemide in equine. | Front Vet Sci
+- new | 2023 | 37740887 | Review | Attention-deficit/hyperactivity disorder and inflammation: natural product-derived treatments-a review of the last ten years. | Inflammopharmacology
+- new | 2023 | 37709921 | Review | Pharmacokinetics and pharmacodynamics of Rh2 and aPPD ginsenosides in prostate cancer: a drug interaction perspective. | Cancer Chemother Pharmacol
+- new | 2023 | 37397415 |  | Korean Red Ginseng extract attenuates alcohol-induced addictive responses and cognitive impairments by alleviating neuroinflammation. | J Ginseng Res
+- new | 2023 | 36644381 |  | Biodistribution and pharmacokinetic evaluation of Korean Red Ginseng components using radioisotopes in a rat model. | J Ginseng Res
+- new | 2023 | 37047092 | Review | Ginsenosides from Panax ginseng as Key Modulators of NF-κB Signaling Are Powerful Anti-Inflammatory and Anticancer Agents. | Int J Mol Sci
+- new | 2023 | 36358028 |  | Toxicological and molecular adverse effect of Illicium verum fruit constituents toward Bradysia procera. | Pest Manag Sci
+- new | 2023 | 36948264 |  | Panaxytriol upregulates CYP3A4 expression through the interaction between nuclear regulators and DNA response elements. | J Ethnopharmacol
+- new | 2023 | 36926617 | Review | The ways for ginsenoside Rh2 to fight against cancer: the molecular evidences in vitro and in vivo. | J Ginseng Res
+- new | 2023 | 37348025 |  | Alleviation of D-gal-induced senile liver injury by Rg3, a signature component of red ginseng. | Aging (Albany NY)
+- new | 2023 | 38107396 | Review | Methods on improvements of the poor oral bioavailability of ginsenosides: Pre-processing, structural modification, drug combination, and micro- or nano- delivery system. | J Ginseng Res
+- new | 2022 | 36297591 | Review | Controversial Interactions of Tacrolimus with Dietary Supplements, Herbs and Food. | Pharmaceutics
+- new | 2022 | 36014874 | Review | Nootropics as Cognitive Enhancers: Types, Dosage and Side Effects of Smart Drugs. | Nutrients
+- new | 2022 | 36532771 | Review | Functional compounds of ginseng and ginseng-containing medicine for treating cardiovascular diseases. | Front Pharmacol
+- new | 2022 | 36285806 | Review | Natural Products for the Treatment of Drug Addiction: Narrative Review. | Chem Biodivers
+- new | 2022 | 35233163 | Review | Can Panax ginseng help control cytokine storm in COVID-19? | J Ginseng Res
+- new | 2022 | 35818422 |  | Korean Red Ginseng attenuates Di-(2-ethylhexyl) phthalate-induced inflammatory response in endometrial cancer cells and an endometriosis mouse model. | J Ginseng Res
+- new | 2022 | 36545315 |  | The mechanism of Renshen-Fuzi herb pair for treating heart failure-Integrating a cardiovascular pharmacological assessment with serum metabolomics. | Front Pharmacol
+- new | 2022 | 35509821 | Review | Red ginseng (Panax ginseng Meyer) oil: A comprehensive review of extraction technologies, chemical composition, health benefits, molecular mechanisms, and safety. | J Ginseng Res
+- new | 2022 | 36199681 | Review | Progress on the efficacy and mechanism of action of panax ginseng monomer saponins treat toxicity. | Front Pharmacol
+- new | 2022 | 35161364 |  | Overexpression of the PanaxginsengCYP703 Alters Cutin Composition of Reproductive Tissues in Arabidopsis. | Plants (Basel)
+- new | 2022 | 35892624 |  | Korean Red Ginseng Ameliorates Allergic Asthma through Reduction of Lung Inflammation and Oxidation. | Antioxidants (Basel)
+- new | 2022 | 35138605 |  | Effects and Mechanism of Action of Panax notoginseng Saponins on the Pharmacokinetics of Warfarin. | Eur J Drug Metab Pharmacokinet
+- new | 2022 | 34269523 |  | Pairing of orthogonal chaperones with a cytochrome P450 enhances terpene synthesis in Saccharomyces cerevisiae. | Biotechnol J
+- new | 2022 | 36079818 |  | Anticolon Cancer Effect of Korean Red Ginseng via Autophagy- and Apoptosis-Mediated Cell Death. | Nutrients
+- new | 2022 | 35968150 | Review | Discrimination of Panax ginseng from counterfeits using single nucleotide polymorphism: A focused review. | Front Plant Sci
+- new | 2022 | 36139815 |  | Induction of BVR-A Expression by Korean Red Ginseng in Murine Hippocampal Astrocytes: Role of Bilirubin in Mitochondrial Function via the LKB1-SIRT1-ERRα Axis. | Antioxidants (Basel)
+- new | 2022 | 35269514 | Research Support, Non-U.S. Gov't | Dual Effects of Korean Red Ginseng on Astrocytes and Neural Stem Cells in Traumatic Brain Injury: The HO-1-Tom20 Axis as a Putative Target for Mitochondrial Function. | Cells
+- new | 2022 | 34600077 |  | Effect of a combination of Korean red ginseng extract and probiotics on the prevention of atopic dermatitis in a murine model. | J Ethnopharmacol
+- new | 2022 | 35417848 |  | Panaxytriol upregulates CYP3A4 expression based on the interaction of PXR, CAR, HSP90α, and RXRα. | Phytomedicine
+- new | 2022 | 35054451 |  | Ginsenoside F1 Protects the Brain against Amyloid Beta-Induced Toxicity by Regulating IDE and NEP. | Life (Basel)
+- new | 2022 | 36618917 |  | Red ginseng extract improves skeletal muscle energy metabolism and mitochondrial function in chronic fatigue mice. | Front Pharmacol
+- new | 2022 | 35172794 |  | Efficacy and safety evaluation of black ginseng (Panax ginseng C.A. Mey.) extract (CJ EnerG): broad spectrum cytotoxic activity in human cancer cell lines and 28-day repeated oral  | BMC Complement Med Ther
+- new | 2021 | 33593628 | Review | Toxicity as prime selection criterion among SARS-active herbal medications. | Phytomedicine
+- new | 2021 | 34764717 | Review | Panax ginseng and its ginsenosides: potential candidates for the prevention and treatment of chemotherapy-induced side effects. | J Ginseng Res
+- new | 2021 | 33841000 | Review | Pharmacological potential of ginseng and its major component ginsenosides. | J Ginseng Res
+- new | 2021 | 34580047 |  | Korean red ginseng decreases 1-methyl-4-phenylpyridinium-induced mitophagy in SH-SY5Y cells. | J Integr Med
+- new | 2021 | 34805471 | Case Reports | Subcorneal pustular dermatosis as a cause of pityriasis amiantacea in a young child. | JAAD Case Rep
+- new | 2021 | 34285765 |  | Red Ginseng Oil Attenuates Oxidative Stress and Offers Protection against Ultraviolet-Induced Photo Toxicity. | Oxid Med Cell Longev
+- new | 2021 | 34843587 |  | Panax Ginseng alleviates thioacetamide-induced liver injury in ovariectomized rats: Crosstalk between inflammation and oxidative stress. | PLoS One
+- new | 2021 | 34743938 |  | Structural analysis of Panax ginseng glycoproteins and its anti-oligoasthenozoospermia effect in vivo. | Int J Biol Macromol
+- new | 2021 | 34555627 |  | Integration of transcriptomics and metabolomics confirmed hepatoprotective effects of steamed shoot extracts of ginseng (Panax ginseng C.A. Meyer) on toxicity caused by overdosed a | Biomed Pharmacother
+- new | 2021 | 34771064 |  | Molecular Cloning and Identification of NADPH Cytochrome P450 Reductase from Panax ginseng. | Molecules
+- new | 2021 | 34961415 |  | The Impact of Gut Microbiome on the Pharmacokinetics of Ginsenosides Rd and Rg3 in Mice after Oral Administration of Red Ginseng. | Am J Chin Med
+- new | 2020 | 32617033 | Review | Adaptogenic effects of Panax ginseng on modulation of cardiovascular functions. | J Ginseng Res
+- new | 2020 | 31578020 |  | Antiallodynic Effect of Intrathecal Korean Red Ginseng in Cisplatin-Induced Neuropathic Pain Rats. | Pharmacology
+- new | 2020 | 32095092 | Review | Medicinal potential of Panax ginseng and its ginsenosides in atopic dermatitis treatment. | J Ginseng Res
+- new | 2020 | 32372861 | Review | The safety, immunological benefits, and efficacy of ginseng in organ transplantation. | J Ginseng Res
+- new | 2020 | 32023909 |  | Herb-Drug Interaction of Red Ginseng Extract and Ginsenoside Rc with Valsartan in Rats. | Molecules
+- new | 2020 | 32175515 |  | Preclinical Herb-Drug Pharmacokinetic Interaction of Panax ginseng Extract and Selegiline in Freely Moving Rats. | ACS Omega
+- new | 2020 | 32423655 | Published Erratum | Corrigendum to 'Korean red ginseng water extract alleviates atopic dermatitis-like inflammatory responses by negative regulation of mitogen-activated protein kinase signaling pathw | Biomed Pharmacother
+- new | 2020 | 33066617 | Review | Pharmacology of Herbal Sexual Enhancers: A Review of Psychiatric and Neurological Adverse Effects. | Pharmaceuticals (Basel)
+- new | 2020 | 32372870 |  | Korean Red Ginseng enhances cardiac hemodynamics on doxorubicin-induced toxicity in rats. | J Ginseng Res
+- new | 2020 | 31726191 |  | A 26-week 20(S)-ginsenoside Rg3 oral toxicity study in Beagle dogs. | Regul Toxicol Pharmacol
+- new | 2020 | 32557706 |  | Characterization of red ginseng-drug interaction by CYP3A activity increased in high dose administration in mice. | Biopharm Drug Dispos
+- new | 2020 | 32630349 |  | Biological Effects of Korean Red Ginseng Polysaccharides in Aged Rat Using Global Proteomic Approach. | Molecules
+- new | 2020 | 32670814 |  | Preventive effects of Korean red ginseng on experimentally induced colitis and colon carcinogenesis. | J Tradit Complement Med
+- new | 2020 | 32806557 |  | Effect of Co-Administration of Panax ginseng and Brassica oleracea on Postmenopausal Osteoporosis in Ovariectomized Mice. | Nutrients
+- new | 2019 | 30336242 |  | Characterization of squalene-induced PgCYP736B involved in salt tolerance by modulating key genes of abscisic acid biosynthesis. | Int J Biol Macromol
+- new | 2019 | 31269358 | Clinical Trial, Veterinary | Anti-obesity effects of Korean red ginseng extract in healthy beagles. | Pol J Vet Sci
+- new | 2019 | 30342195 |  | Reversing effects of ginsenosides on LPS-induced hepatic CYP3A11/3A4 dysfunction through the pregnane X receptor. | J Ethnopharmacol
+- new | 2019 | 31695941 |  | Manufacture and characterization of optimized red ginseng drinks containing herbal medicine extracts. | Food Sci Biotechnol
+- new | 2019 | 30904430 |  | Acute and genetic toxicity of GS-E3D, a new pectin lyase-modified red ginseng extract. | Regul Toxicol Pharmacol
+- new | 2019 | 31493264 | Review | Interactions of ginseng with therapeutic drugs. | Arch Pharm Res
+- new | 2019 | 31519295 |  | Panax ginseng is superior to vitamin E as a hepatoprotector against cyclophosphamide-induced liver damage. | Complement Ther Med
+- new | 2019 | 30976162 |  | Developmental and reproductive toxicity assessment in rats with KGC-HJ3, Korean Red Ginseng with Angelica gigas and Deer antlers. | J Ginseng Res
+- new | 2019 | 31057647 |  | Panax ginseng Inhibits Metabolism of Diester Alkaloids by Downregulating CYP3A4 Enzyme Activity via the Pregnane X Receptor. | Evid Based Complement Alternat Med
+- new | 2018 | 29460310 | Review | LC-MS based metabolic and metabonomic studies of Panax ginseng. | Phytochem Anal
+- new | 2018 | 29989018 |  | Effect of Korean Red Ginseng extracts on drug-drug interactions. | J Ginseng Res
+- new | 2018 | 29971477 | Review | Quality, safety and efficacy profiling of ginseng adventitious roots produced in vitro. | Appl Microbiol Biotechnol
+- new | 2018 | 29145145 |  | Alleviation of ginsenoside Rg1 on hematopoietic homeostasis defects caused by lead-acetate. | Biomed Pharmacother
+- new | 2018 | 30057692 |  | Systemic and Local Anaphylaxis is Not Induced by Korean Red Ginseng Mixture in Guinea Pigs. | Toxicol Res
+- new | 2018 | 31620593 |  | Antiepileptic and anti-neuroinflammatory effects of red ginseng in an intrahippocampal kainic acid model of temporal lobe epilepsy demonstrated by electroencephalography. | Yeungnam Univ J Med
+- new | 2018 | 29274665 |  | Red ginseng extracts attenuate skin inflammation in atopic dermatitis through p70 ribosomal protein S6 kinase activation. | J Pharmacol Sci
+- new | 2018 | 30221110 | Case Reports | Diversity of bacterial endophytes in Panax ginseng and their protective effects against pathogens. | 3 Biotech
+- new | 2018 | 29455730 |  | Enhancement of oral bioavailability and immune response of Ginsenoside Rh2 by co-administration with piperine. | Chin J Nat Med
+- new | 2018 | 29976280 |  | Effect of Red Ginseng Extract on the Pharmacokinetics of Aspirin Metabolite in Sprague Dawley Rats. | Chin Med Sci J
+- new | 2018 | 30424502 |  | Effects of Red Ginseng Extract on the Pharmacokinetics and Elimination of Methotrexate via Mrp2 Regulation. | Molecules
+- new | 2018 | 29970815 |  | Effect of Red Ginseng Extract on the Pharmacokinetics and Efficacy of Metformin in Streptozotocin-Induced Diabetic Rats. | Pharmaceutics
+- new | 2018 | 29155077 |  | Subchronic oral toxicity study of Korean red ginseng extract in Sprague-Dawley rats with a 4-week recovery period. | Regul Toxicol Pharmacol
+- new | 2018 | 29962955 |  | Panax ginseng Polysaccharide Protected H9c2 Cardiomyocyte From Hypoxia/Reoxygenation Injury Through Regulating Mitochondrial Metabolism and RISK Pathway. | Front Physiol
+- new | 2017 | 28762712 | Review | Common Herbal Dietary Supplement-Drug Interactions. | Am Fam Physician
+- new | 2017 | 28707966 | Review | Targeted molecular ablation of cancer stem cells for curing gastrointestinal cancers. | Expert Rev Gastroenterol Hepatol
+- new | 2017 | 28701868 |  | Protective effect of Korean Red Ginseng against FK506-induced damage in LLC-PK1 cells. | J Ginseng Res
+- new | 2017 | 27930947 | Review/Research Support, U.S. Gov't, Non-P.H.S. | Ginseng and obesity: observations and understanding in cultured cells, animals and humans. | J Nutr Biochem
+- new | 2017 | 27541286 |  | Withanone, an Active Constituent from Withania somnifera, Affords Protection Against NMDA-Induced Excitotoxicity in Neuron-Like Cells. | Mol Neurobiol
+- HELD REF-1473 | 2017 | 27864798 | Review | Pharmacokinetic Drug Interactions with Panax ginseng. | Eur J Drug Metab Pharmacokinet
+- new | 2017 | 28965396 |  | Caspase-Mediated Anti-Apoptotic Effect of Ginsenoside Rg5, a Main Rare Ginsenoside, on Acetaminophen-Induced Hepatotoxicity in Mice. | J Agric Food Chem
+- new | 2017 | 29021709 |  | Subacute oral toxicity and bacterial mutagenicity study of Korean Red Ginseng oil. | J Ginseng Res
+- new | 2017 | 28413320 |  | Panax ginseng Meyer prevents radiation-induced liver injury via modulation of oxidative stress and apoptosis. | J Ginseng Res
+- new | 2017 | 27189791 |  | Korean red ginseng extract enhances paclitaxel distribution to mammary tumors and its oral bioavailability by P-glycoprotein inhibition. | Xenobiotica
+- new | 2017 | 28413317 |  | Korean Red Ginseng improves atopic dermatitis-like skin lesions by suppressing expression of proinflammatory cytokines and chemokines in vivo and in vitro. | J Ginseng Res
+- new | 2016 | 27616901 |  | Effects of Panax ginseng, zearalenol, and estradiol on sperm function. | J Ginseng Res
+- new | 2016 | 26916912 | Research Support, N.I.H., Extramural/Review | Phytochemistry and Anticancer Potential of Notoginseng. | Am J Chin Med
+- new | 2016 | 27158238 |  | Protective effect of Korean Red Ginseng against chemotherapeutic drug-induced premature catagen development assessed with human hair follicle organ culture model. | J Ginseng Res
+- new | 2016 | 27459888 |  | Mechanistic understanding of the effect of Dengzhan Shengmai capsule on the pharmacokinetics of clopidogrel in rats. | J Ethnopharmacol
+- new | 2016 | 28053615 |  | Antioxidant and hepatoprotective effects of fermented red ginseng against high fat diet-induced hyperlipidemia in rats. | Lab Anim Res
+- new | 2015 | 26207250 | Review | Dietary, non-microbial intervention to prevent Helicobacter pylori-associated gastric diseases. | Ann Transl Med
+- new | 2015 | 26199556 |  | Effects of Korean Red Ginseng extract on busulfan-induced dysfunction of the male reproductive system. | J Ginseng Res
+- new | 2015 | 26045683 |  | Korean Red Ginseng attenuates ethanol-induced steatosis and oxidative stress via AMPK/Sirt1 activation. | J Ginseng Res
+- new | 2015 | 25535473 |  | Effect of sun ginseng potentiation on epirubicin and paclitaxel-induced apoptosis in human cervical cancer cells. | J Ginseng Res
+- HELD REF-5214 | 2014 | 25233607 | Research Support, Non-U.S. Gov't/Review | Warfarin interactions with medicinal herbs. | Nat Prod Commun
+- new | 2014 | 25111692 | Research Support, Non-U.S. Gov't | Renoprotective effect of red ginseng in gentamicin-induced acute kidney injury. | Lab Invest
+- new | 2014 | 24558315 |  | Safety of red ginseng oil for single oral administration in Sprague-Dawley rats. | J Ginseng Res
+- new | 2014 | 25378996 |  | Korean Red Ginseng saponin fraction modulates radiation effects on lipopolysaccharide-stimulated nitric oxide production in RAW264.7 macrophage cells. | J Ginseng Res
+- new | 2013 | 24053327 | Research Support, Non-U.S. Gov't | Ginsenoside Rg1 inhibits the TSLP production in allergic rhinitis mice. | Immunopharmacol Immunotoxicol
+- new | 2013 | 23717155 |  | Protective effects of Korean red ginseng extract on cadmium-induced hepatic toxicity in rats. | J Ginseng Res
+- new | 2012 | 31643526 | Review | Ginseng. | 
+- new | 2012 | 21821652 | Review | Medicinal plants as antiemetics in the treatment of cancer: a review. | Integr Cancer Ther
+- new | 2012 | 22257149 | Research Support, Non-U.S. Gov't/Review | Drug interactions with herbal medicines. | Clin Pharmacokinet
+- new | 2011 | 21919844 | Review | Clinical herbal interactions with conventional drugs: from molecules to maladies. | Curr Med Chem
+- new | 2011 | 21615868 | Research Support, Non-U.S. Gov't/Review | Nutrigenomic approach to tackle the unpleasant journey to Helicobacter pylori-associated gastric carcinogenesis. | J Dig Dis
+- new | 2011 | 23717078 |  | Chemopreventive Effects of Korean Red Ginseng (Panax ginseng Meyer) on Exposure to Polycyclic Aromatic Hydrocarbons. | J Ginseng Res
+- new | 2011 | 23717056 |  | Efficacy of korean red ginseng in the treatment of atopic dermatitis. | J Ginseng Res
+- new | 2008 | 18956590 | Research Support, Non-U.S. Gov't/Review | Phytoceuticals: mighty but ignored weapons against Helicobacter pylori infection. | J Dig Dis
+- new | 2007 | 17553632 |  | Cytoprotective effect of Panax ginseng on gallic acid-induced toxicity in TM3 mouse Leydig cells. | Fitoterapia
+- new | 2006 | 30000873 | Review | Ginseng. | 
+- new | 2004 | 15571467 | Review | Botanical medicine and cancer: a review of the safety and efficacy. | Expert Opin Pharmacother
+- new | 2001 | 11748383 | Review | Anticarcinogenic effect of Panax ginseng C.A. Meyer and identification of active compounds. | J Korean Med Sci
+- new | 2001 | 11368667 | Review | Herbal therapy: what every facial plastic surgeon must know. | Arch Facial Plast Surg
+- new | 2001 | 11748374 | Review | Chemistry and cancer preventing activities of ginseng saponins and some related triterpenoid compounds. | J Korean Med Sci
+- HELD REF-0844 | 2000 | 10675182 | Review | Herb-drug interactions. | Lancet
+- new | 2000 | 11276295 | Research Support, Non-U.S. Gov't/Review | Efficacy and safety of ginseng. | Public Health Nutr
+- new | 2000 | 10880039 | Research Support, Non-U.S. Gov't/Review | The cancer-preventive potential of Panax ginseng: a review of human and experimental evidence. | Cancer Causes Control
+- new | 1999 | 10531760 | Case Reports/Review | Dietary supplement-drug interactions. | J Am Med Womens Assoc (1972)
+
+### PubMed OBS - 49 hits, 39 not already listed above, 39 new
+- new | 2026 | 41167420 | Research Support, Non-U.S. Gov't | Ginsenoside Rg3 inhibits melanoma progression by inducing ferroptosis via the p53/SLC7A11/GPX4 pathway. | J Adv Res
+- new | 2026 | 42079340 |  | Ginseng Tea Consumption and Liver Cancer Risk: A Prospective Korean Multi-center Cancer Cohort Study. | J Cancer Prev
+- new | 2026 | 41550589 |  | Effects of Korean red ginseng on the HIV-1 env sequence length and CpG dinucleotides. | J Ginseng Res
+- new | 2026 | 41683418 |  | Rapid Authentication of Flowers of Panax ginseng and Panax notoginseng Using High-Resolution Melting (HRM) Analysis. | Molecules
+- new | 2026 | 42544642 | Observational Study | Microneedling-assisted Panax ginseng exosome protocol for vulvovaginal symptoms and vulvar skin tone changes: A preliminary pilot observational study. | Womens Health (Lond)
+- new | 2025 | 41077270 |  | Ginsenoside Rc inhibits TGF-β signaling and downregulates nucleolin to mitigate oxidative stress-induced muscle atrophy. | Life Sci
+- new | 2025 | 40255042 |  | Inconsistent Reporting of Interactions Between Warfarin and Medicinal Plants Across Clinical Decision Support Resources. | J Evid Based Integr Med
+- new | 2025 | 39958181 |  | Fermented red ginseng extract improves sarcopenia-related muscle atrophy in old mice through regulation of muscle protein metabolism. | Food Sci Biotechnol
+- new | 2025 | 40283009 |  | Utilization of Dietary Supplements in People with the Atopic Triad in Korea: A Cross-Sectional Study Using KNHANES (2018-2021). | Medicina (Kaunas)
+- new | 2024 | 39639753 | Review/Research Support, Non-U.S. Gov't | Ginsenoside Rg1: A Neuroprotective Natural Dammarane-Type Triterpenoid Saponin With Anti-Depressive Properties. | CNS Neurosci Ther
+- new | 2024 | 38816911 |  | Association between dietary supplements and frailty: a cross-sectional study using national survey data in South Korea. | Int J Food Sci Nutr
+- new | 2024 | 39151265 | Review | Exploring the antimicrobial activity of rare ginsenosides and the progress of their related pharmacological effects. | Phytomedicine
+- new | 2024 | 39167545 |  | Ameliorative Effects of Fermented Red Ginseng Extract on Muscle Atrophy in Dexamethasone-Induced C2C12 Cell And Hind Limb-Immobilized C57BL/6J Mice. | J Med Food
+- new | 2023 | 37704464 | Research Support, Non-U.S. Gov't/Research Support, N.I.H., Extramural | Red ginseng aqueous extract improves mucociliary transport dysfunction and histopathology in CF rat airways. | J Cyst Fibros
+- new | 2023 | 37516089 |  | Association of medicinal plant consumption with all-cause mortality and cognitive impairment in older adult: A large prospective cohort study. | Phytomedicine
+- new | 2023 | 36839180 |  | Association between Consumption of Dietary Supplements and Chronic Kidney Disease Prevalence: Results of the Korean Nationwide Population-Based Survey. | Nutrients
+- new | 2022 | 35998204 |  | Concurrent use of Chinese herbal medicine and anticoagulants may reduce major bleeding events. | PLoS One
+- new | 2022 | 36090680 |  | Long-term administration of red ginseng non-saponin fraction rescues the loss of skeletal muscle mass and strength associated with aging in mice. | J Ginseng Res
+- new | 2017 | 30333441 |  | [KOUJIN POWDER (RED GINSENG POWDER) WITH NINJIN-YOUEITO FOR FATIGUE DUE TO TARGETED THERAPY FOR ADVANCED RENAL CELL CARCINOMA: A RETROSPECTIVE COHORT STUDY]. | Nihon Hinyokika Gakkai Zasshi [jpn]
+- new | 2017 | 28417089 |  | Demographic and medication characteristics of traditional Chinese medicine users among colorectal cancer survivors: A nationwide database study in Taiwan. | J Tradit Complement Med
+- new | 2017 | 28831288 |  | Uncertain Associations of Major Bleeding and Concurrent Use of Antiplatelet Agents and Chinese Medications: A Nested Case-Crossover Study. | Evid Based Complement Alternat Med
+- new | 2016 | 27476299 |  | THE USE OF PANAX GINSENG AND ITS ANALOGUES AMONG PHARMACY CUSTOMERS IN ESTONIA: A CROSS-SECTIONAL STUDY. | Acta Pol Pharm
+- new | 2015 | 25504813 | Clinical Trial/Research Support, Non-U.S. Gov't | Effect of Korean Red Ginseng as an adjuvant treatment for women with residual symptoms of major depression. | Asia Pac Psychiatry
+- new | 2013 | 23429665 |  | The use of health functional foods in gastrointestinal cancer patients. | Clin Nutr Res
+- new | 2012 | 22685488 |  | Prescription pattern of chinese herbal products for breast cancer in taiwan: a population-based study. | Evid Based Complement Alternat Med
+- new | 2011 | 23717059 |  | Korean red ginseng powder in the treatment of melasma: an uncontrolled observational study. | J Ginseng Res
+- new | 2011 | 23717086 |  | Frequent Genetic Defects in the HIV-1 5' LTR/gag Gene in Hemophiliacs Treated with Korean Red Ginseng: Decreased Detection of Genetic Defects by Highly Active Antiretroviral Therap | J Ginseng Res
+- new | 2011 | 23717065 |  | Clinical effects of korean red ginseng on attention deficit hyperactivity disorder in children: an observational study. | J Ginseng Res
+- new | 2010 | 20521975 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Non-organ-specific preventive effect of long-term administration of Korean red ginseng extract on incidence of human cancers. | J Med Food
+- new | 2009 | 19678784 |  | Association between ginseng intake and mortality: Kangwha cohort study. | J Altern Complement Med
+- new | 2006 | 17576449 |  | Natural health products that inhibit angiogenesis: a potential source for investigational new agents to treat cancer-Part 2. | Curr Oncol
+- new | 2006 | 16484711 | Comparative Study/Review | Targeting angiogenesis with integrative cancer therapies. | Integr Cancer Ther
+- new | 2006 | 17030294 |  | Potential drug-herb interaction with antiplatelet/anticoagulant drugs. | Complement Ther Clin Pract
+- new | 2003 | 12628504 | Review | Experimental and epidemiological evidence on non-organ specific cancer preventive effect of Korean ginseng and identification of active compounds. | Mutat Res
+- new | 2002 | 12020739 | Clinical Trial/Randomized Controlled Trial | Modulation of cognition and mood following administration of single doses of Ginkgo biloba, ginseng, and a ginkgo/ginseng combination to healthy young adults. | Physiol Behav
+- new | 2001 | 11748380 | Clinical Trial/Multicenter Study/Randomized Controlled Trial | Study on chemoprevention of hepatocellular carcinoma by ginseng: an introduction to the protocol. | J Korean Med Sci
+- new | 2001 | 11748373 |  | Epidemiological study on cancer prevention by ginseng: are all kinds of cancers preventable by ginseng? | J Korean Med Sci
+- new | 1998 | 9698120 | Research Support, Non-U.S. Gov't | Non-organ specific cancer prevention of ginseng: a prospective study in Korea. | Int J Epidemiol
+- new | 1995 | 7655337 | Research Support, Non-U.S. Gov't | Preventive effect of ginseng intake against various human cancers: a case-control study on 1987 pairs. | Cancer Epidemiol Biomarkers Prev
+
+### PubMed REV - 628 hits, 19 not already listed above, 14 new
+- HELD REF-1467 | 2024 | 38964625 | Review | Overview of Panax ginseng and its active ingredients protective mechanism on cardiovascular diseases. | J Ethnopharmacol
+- new | 2024 | 38939839 | Review | Ginsenosides: an immunomodulator for the treatment of colorectal cancer. | Front Pharmacol
+- new | 2024 | 38512649 | Review | Recent trends in ginseng research. | J Nat Med
+- new | 2023 | 36902200 | Review | Depression and Its Phytopharmacotherapy-A Narrative Review. | Int J Mol Sci
+- HELD REF-1472 | 2023 | 37385964 | Review | Pharmacological Effects of Ginseng: Multiple Constituents and Multiple Actions on Humans. | Am J Chin Med
+- new | 2023 | 36644386 | Review | Ginseng polysaccharides: Potential antitumor agents. | J Ginseng Res
+- new | 2023 | 37331298 | Review | Ginsenosides for therapeutically targeting inflammation through modulation of oxidative stress. | Int Immunopharmacol
+- new | 2022 | 35721176 | Review | Neuroprotective Mechanisms of Ginsenoside Rb1 in Central Nervous System Diseases. | Front Pharmacol
+- new | 2022 | 35498130 | Review | Oxidative Stress and Ginsenosides: An Update on the Molecular Mechanisms. | Oxid Med Cell Longev
+- new | 2021 | 35024180 | Research Support, Non-U.S. Gov't/Review | Activation of Nrf2/HO-1 signaling: An important molecular mechanism of herbal medicine in the treatment of atherosclerosis via the protection of vascular endothelial cells from oxi | J Adv Res
+- new | 2021 | 33174095 | Review | Plants Used as Antihypertensive. | Nat Prod Bioprospect
+- HELD REF-1468 | 2020 | 33127555 | Research Support, Non-U.S. Gov't/Review | Chemical constituents of Panax ginseng and Panax notoginseng explain why they differ in therapeutic efficacy. | Pharmacol Res
+- new | 2020 | 33113992 | Review | Anti-Angiogenic Properties of Ginsenoside Rg3. | Molecules
+- new | 2019 | 31078628 | Research Support, Non-U.S. Gov't/Review | Triterpenoid-biosynthetic UDP-glycosyltransferases from plants. | Biotechnol Adv
+- new | 2018 | 30337816 | Review | Red ginseng monograph. | J Ginseng Res
+- HELD REF-1466 | 2017 | 28698154 | Review | Panax ginseng and Panax quinquefolius: From pharmacology to toxicology. | Food Chem Toxicol
+- new | 2017 | 29403626 | Review | A review of effective herbal medicines in controlling menopausal symptoms. | Electron Physician
+- new | 2013 | 23472485 | Research Support, Non-U.S. Gov't/Review | Adverse effects of herbal medicines: an overview of systematic reviews. | Clin Med (Lond)
+- HELD REF-0137 | 2003 | 14596440 | Review | Panax ginseng. | Am Fam Physician
+
+### ClinicalTrials.gov - 100 registered studies
+- NCT01734005 | COMPLETED | results=False | NA | Efficacy and Safety of Red Ginseng on Decrement of Body Fat | conds: Obesity | intr: Red Ginseng, Placebo
+- NCT00631852 | COMPLETED | results=True | PHASE2 | A Phase II Biomarker Trial of Gelatin Encapsulated Extract of American Ginseng Root (LEAG) in Breast Cancer | conds: Breast Cancer | intr: American Ginseng root
+- NCT02034136 | UNKNOWN | results=False | NA | Ginsenoside Improve Metabolic Syndrome | conds: Metabolic Syndrome | intr: Ginsenoside, Dietary fiber fill | pubs: ['26860800:DERIVED (new)']
+- NCT02260336 | UNKNOWN | results=False | NA | The Effect of Panax Notoginseng Powders on Rheumatic Pain | conds: Rheumatic Pain | intr: Panax Notoginseng Powder 1g, Panax Notoginseng Powder 5g, Panax Notoginseng Powder 10g, Panax Notogi
+- NCT07398885 | COMPLETED | results=False | NA | Assessing the Impact of Herbal Supplement on Fatigue and Disease Activity in SLE: Results From an 8-Week Randomized Trial | conds: System; Lupus Erythematosus | intr: EVACUR, PLACEBO | pubs: ['34441861:RESULT (new)', '33214160:RESULT (new)']
+- NCT00752895 | COMPLETED | results=True | PHASE2 | American Ginseng Extract in Preventing Respiratory Infection and in Reducing Antibiotic Use in Patients With CLL | conds: Leukemia | intr: American ginseng, Placebo
+- NCT02583802 | UNKNOWN | results=False | PHASE2,PHASE3 | The Clinical Study of Improving the Thirst and Hypotension of Hemodialysis Patients | conds: Intradialytic Hypotension | intr: Ear pills, Shengmai capsule
+- NCT03028077 | COMPLETED | results=False | NA | Effects of GS-3K8 and GINst15 on Acute Respiratory Illness | conds: Acute Respiratory Infection | intr: GS-3K8, GINst15, Placebo
+- NCT07050121 | NOT_YET_RECRUITING | results=False |  | A Prospective Multi-Center Real-World Study of Ciwujia Capsules in the Treatment of Cancer-Related Insomnia | conds: Cancer, Insomnia, Cancer Related Insomnia | intr: Ciwujia capsules
+- NCT06482671 | RECRUITING | results=False | PHASE3 | Primary Care dySpEpsia rikkuNshiTo | conds: Dyspepsia and Other Specified Disorders of Function of Stomach, Postprandial Distress Syndrome | intr: Rikkunshi-to, Placebo
+- NCT05735418 | COMPLETED | results=False | NA | The Effect of GI Biome #7 on Gut Microbiome and Health of the Elderly | conds: Muscle Weakness | intr: GI Biome #7, Placebo
+- NCT00965471 | COMPLETED | results=False | NA | Effect of Chinese Traditional Medicine for Post Revascularization Treatment of Coronary Artery Disease | conds: Percutaneous Coronary Artery Intervention, Coronary Artery Bypass Graft, Acute Coronary Syndrome | intr: cipher prescription 1, cipher prescription 2 | pubs: ['25592946:DERIVED (new)']
+- NCT00255307 | COMPLETED | results=False | PHASE2 | Pilot Evaluation of CVT-E002 in Pediatric Upper Respiratory Tract Infection. | conds: Upper Respiratory Infection | intr: CVT-E002 ginseng extract | pubs: ['18676527:DERIVED (new)']
+- NCT02044835 | UNKNOWN | results=False | PHASE2,PHASE3 | The Evaluation Studies of Curative Effect of Fu-zheng-qu-zhuo Oral Liquid in Treatment of Ischemic Nephropathy | conds: Atherosclerotic Renal Artery Stenosis | intr: Fu-zheng-qu-zhuo oral liquid
+- NCT02763280 | COMPLETED | results=False | NA | Efficacy and Safety of Ginseng Extract on Improvement of Bone Metabolism in Menopausal Women | conds: Osteopenia | intr: Ginseng extract 1g, Ginseng extract 3g, Placebo
+- NCT06514339 | RECRUITING | results=False | EARLY_PHASE1 | Evidence-based Evaluation and Mechanism of Shenhuang Granules in the Treatment of Sepsis | conds: Sepsis | intr: shenhuang granule, placebo | pubs: ['41357500:DERIVED (new)']
+- NCT00103012 | COMPLETED | results=True | PHASE4 | Drug Interactions of Echinacea, Ginseng, and Ginkgo Biloba Taken With Lopinavir/Ritonavir in Healthy Volunteers | conds: Healthy | intr: Gingko Biloba, Echinacea purpurea, Panax ginseng
+- NCT04073511 | UNKNOWN | results=False | NA | Herbal Medicine 'Eungyosan' and 'Samsoeum' for Common Cold | conds: Common Cold | intr: Eungyosan, Samsoeum, Placebo | pubs: ['38033649:DERIVED (new)', '32071868:DERIVED (new)']
+- NCT06214195 | RECRUITING | results=False | PHASE3 | The Use of Shengmai San to Prevent Anthracycline Sequential Trastuzumab Therapy Related Cardiac Toxicity | conds: Cardiotoxicity Induced by Drug Therapy for Breast Cancer | intr: Shengmai San (ingredients include ginseng, Ophiopogon japonicus, and Schisandra chinensis)
+- NCT07932600 | NOT_YET_RECRUITING | results=False | NA | Ginseng-notoginseng Containing Supplement for Chronic Fatigue | conds: Chronic Fatigue | intr: Ginseng-notoginseng Containing Supplement
+- NCT03125551 | WITHDRAWN | results=False | NA | ROTEM and Dietary Supplements | conds: Dietary Supplements, Bleeding Tendency; Due to Coagulation Defect | intr: Ginger, Garlic, Ginkgo Biloba, Ginseng
+- NCT01542905 | COMPLETED | results=False | NA | Stress Relief Effect of Korean Red Ginseng | conds: Stress Relief | intr: Korean Red Ginseng, Placebo
+- NCT03775837 | RECRUITING | results=False | NA | Effect of Panax Ginseng C.A. Mey Extract on Liver Function in Adults | conds: Liver Diseases | intr: Panax Ginseng C.A. Mey Extract group, Placebo group
+- NCT03640884 | UNKNOWN | results=False |  | Post-marketing Safety Surveillance of Xueshuantong-Injection : a Registry Study | conds: Adverse Drug Event, Adverse Drug Reactions, Anaphylactic Reaction, Severe Adverse Reactions | intr: Xueshuantong-Injection
+- NCT02796664 | COMPLETED | results=True | NA | Preventive Effects of Ginseng Against Atherosclerosis | conds: Ischemic Stroke, Atherosclerosis | intr: Ginseng, Placebo
+- NCT05129917 | COMPLETED | results=False | NA | Effects of Supplementation With Ginseng and BCAA Improved Central Fatigue and Enhanced Attention During Exercise | conds: Exercise Addiction | intr: Placebo, Gojinsen® drinks
+- NCT05520424 | COMPLETED | results=False | NA | An Exploratory Investigation of a Supplement to Promote Brain Health | conds: Memory Deficits, Cognitive Change, Stress | intr: The Daily Supplement
+- NCT06228638 | UNKNOWN | results=False |  | CognivAiD Real-World Evidence Clinical Registry (CONNECT Registry) | conds: Memory Impairment, Dementia, Vascular | intr: CognivAID (Sailuotong) | pubs: ['24761653:RESULT (new)', '28067784:RESULT (new)', '31565154:RESULT (new)', '26762282:RESULT (new)', '28115971:RESULT (new)']
+- NCT02053740 | COMPLETED | results=False | PHASE4 | Use of Traditional Chinese Medicine (Ren Shen Yang Rong Tang) Against Microinflammation in Hemodialysis Patients: A Quasi-randomized Control | conds: Immune Dysfunction | intr: Add R-S-Y-R-T (500 mg 3 times per day) for 6 months, Routine western medicine
+- NCT06674252 | RECRUITING | results=False | NA | A Study on the Improvement of Postoperative Symptoms and Survival Benefits of Modified Bufei Decoction in Elderly Patients With Lung Cancer  | conds: Lung Cancers | intr: Jiawei Bufei Tang granules, Placebo
+- NCT05228873 | COMPLETED | results=False |  | Comparison of Quality of Life After Discharge of the Mild and Moderate COVID-19 Patients With or Without Herbal Medicine | conds: COVID-19 Pandemic, Quality of Life | intr: Shen Cao Gan Jiang Tang (Gan Cao Gan Jiang Tang with Ginseng)
+- NCT06845254 | NOT_YET_RECRUITING | results=False | PHASE3 | Clinical Study on the Intervention of Xuesaitong Soft Capsules in Post-Intervention Patients with Acute Coronary Syndrome and Clinical Resea | conds: Acute Coronary Syndrome | intr: Xuesaitong soft capsule (main ingredient is Panax notoginseng saponins), placebo capsule
+- NCT03407716 | COMPLETED | results=False | EARLY_PHASE1 | Ginseng in Decreasing Cancer-Related Fatigue After Treatment in Cancer Survivors | conds: Cancer Survivor, Stage I Breast Cancer AJCC v7, Stage I Colon Cancer AJCC v6 and v7, Stage IA Breast Cancer AJCC v7 | intr: American Ginseng, Laboratory Biomarker Analysis, Placebo, Questionnaire Administration
+- NCT01826409 | COMPLETED | results=False | PHASE2,PHASE3 | Hypoglycemic Effects of Fermented Red Ginseng in Subject With Impaired Fasting Glucose or Type 2 Diabetes | conds: Impaired Glucose or Type 2 Diabetes | intr: Fermented Red Ginseng, Placebo | pubs: ['25015735:DERIVED (new)']
+- NCT01228006 | UNKNOWN | results=False | PHASE3 | Study for Effectiveness Evaluation of Panax Ginseng, Vitamins and Minerals (Natugerin®) in Improvement of Stress and Fatigue | conds: Stress, Fatigue | intr: NatusGerin, Placebo capsules
+- NCT07081802 | RECRUITING | results=False | NA | The Effect of Perioperative Transcutaneous Electrical Acupoint Stimulation Combined With Traditional Chinese Medicine on Gastrointestinal Fu | conds: ERAS, Traditional Chinese Medication (TCM) | intr: Da Jian Zhong Tang (Zanthoxylum, Ginger, Ginseng, Maltose), Transcutaneous Electrical Acupoint Stimu
+- NCT06333496 | COMPLETED | results=False | NA | Effect of a Glucagon Like Peptide 1 (GLP1) Booster in Healthy Humans | conds: Blood Sugar; High, Overweight and Obesity, Fat Burn, Obesity | intr: GLP-1 Booster (GB)
+- NCT07378228 | COMPLETED | results=False | NA | Weak Pulse at Yang and Wiry Pulse at Yin Theory | conds: Coronary Heart Disease, Stable Angina Pectoris | intr: Metoprolol Succinate Extended-Release Tablets, Aspirin Enteric-Coated Tablets, Atorvastatin Calcium 
+- NCT03681392 | WITHDRAWN | results=False | NA | Study of Dr. Pyke's Supplement for Stream (S4S) in Men With Prostatism and ED | conds: Prostatism, Erectile Dysfunction | intr: Dr. Pyke's Supplement for Stream (S4S)
+- NCT06387134 | UNKNOWN | results=False | NA | Lifei Xiaoji Wan Treatment's of Early-stage NSCLC and Its Impact on the Tumor Microenvironment | conds: Early Stage Lung Adenocarcinoma | intr: Lifei Xiaoji Wan, Conventional treatment with Western medicine
+- NCT03623451 | UNKNOWN | results=False | NA | Serum Metabolomics Study of Traditional Chinese Medicine Formula （Shen Qi Tiao Ti Formula） Intervention to Polycystic Ovary Syndrome | conds: Polycystic Ovary Syndrome | intr: Chinese Medicine Formula
+- NCT02056743 | COMPLETED | results=False | PHASE1 | Clinical Trials on Evaluate the Red Ginseng and Fermented-Red Ginseng Affect to Drug Metabolizing Enzyme and Transporter in Healthy Voluntee | conds: Healthy | intr: CYP cocktail, Fexofenadine 30mg, Red ginseng, Fermented-red ginseng | pubs: ['27746690:DERIVED (new)', '27495955:DERIVED (new)']
+- NCT07255755 | TERMINATED | results=False | NA | Cereboost (American Ginseng Extract) and Brain Function | conds: Attention, Cognition | intr: American Ginseng extract, Placebo product
+- NCT02580071 | COMPLETED | results=False | NA | Chinese Herbal Medicine for Immune Reconstitution Following HSCT in Acute Leukemia Patients | conds: Acute Leukemia | intr: Sheng-Yu-Tang | pubs: ['29431027:DERIVED (new)']
+- NCT02204826 | COMPLETED | results=False | PHASE4 | Effects of Korean Red Ginseng on Semen Parameters in Male Infertility Patients: a Randomized, Placebo-controlled, Double-blind Clinical Stud | conds: Male Infertility | intr: Korean Red Ginseng (KRG), Varicocelectomy
+- NCT06137833 | COMPLETED | results=False | NA | Wide Spectrum Micronutrients Supplementation in Patients With Cancer Related Fatigue During Neoadjuvant and Adjuvant Chemotherapy | conds: Fatigue, Breast Cancer | intr: APPOPRTAL®, Placebo
+- NCT04428606 | COMPLETED | results=False | NA | Study to Determine the Effect of Synbiotics in Patients With Pre-diabetes | conds: PreDiabetes | intr: Metabolic Rheostat, Butyrate Ultra, Placebo
+- NCT06326658 | UNKNOWN | results=False | NA | Bufei Yishen Prescription on Patients With Frequent AECOPD in Stable Stage | conds: Chronic Obstructive Pulmonary Disease | intr: Bufei Yishen Prescription Granule | pubs: ['40969810:DERIVED (new)']
+- NCT01622101 | COMPLETED | results=False | NA | Thermogenic Properties of Zantrex-3 | conds: Obesity | intr: Thermogenic properties of Zantrex-3®
+- NCT04523467 | UNKNOWN | results=False | NA | Anti-angiogenic Targeted Drugs Plus Rg3 to Improve the Efficacy of TACE for Unresectable Hepatocellular Carcinoma | conds: Hepatocellular Carcinoma | intr: Anti-angiogenic Targeted Drugs, Ginsenoside Rg3, TACE
+- NCT01136928 | COMPLETED | results=False | PHASE1 | Pharmacokinetic Interaction Study of Efavirenz and American Ginseng in Healthy Volunteers | conds: Healthy Volunteers | intr: American ginseng
+- NCT02553382 | COMPLETED | results=False | NA | Fibre Grain Herb Trial in Type 2 Diabetes | conds: Type 2 Diabetes | intr: Dietary, Herbal, Positive Control | pubs: ['33486572:DERIVED (new)']
+- NCT03945123 | COMPLETED | results=False | NA | Effects of Red Ginseng on Liver Function | conds: Liver Dysfunction | intr: Red ginseng | pubs: ['33841012:DERIVED (new)']
+- NCT00965822 | COMPLETED | results=False | PHASE2 | A Randomized, Double-blind, Placebo-controlled Study on the Efficacy and Safety of CVT-E002 in the Treatment of Upper Respiratory Tract Infe | conds: Upper Respiratory Tract Infections | intr: North American ginseng, Placebo
+- NCT00527969 | COMPLETED | results=False | PHASE2 | Cognitive, Emotional, Physical and Psychosocial Effects of Panax Quinquefolius L | conds: Memory, Learning, Attention, Cognition | intr: HT1001 extract of Panax quinquefolius L
+- NCT02039635 | COMPLETED | results=False | NA | Korean Red Ginseng in Treating Patients With Fatigue Caused by Chemotherapy for Colorectal Cancer | conds: Colorectal Cancer | intr: Korean Red Ginseng, Placebo
+- NCT03186625 | UNKNOWN | results=False | NA | Impact of Traditional Chinese Medicine on the Gut Microbiota-dependent Trimethylamine N-oxide | conds: Acute Coronary Syndrome | intr: Compound Panax Notoginseng Granule, Placebo Granule
+- NCT06629246 | COMPLETED | results=False | NA | Pogejiuxin Decoction Combination of Conventional Western Medicine for the Treatment of Heart Failure With Preserved Ejection Fraction | conds: Heart Failure, Diastolic (HFpEF) | intr: Conventional heart failure treatment, Pogejiuxin decoction combined with conventional heart failure  | pubs: ['33628294:RESULT (new)', '23747768:RESULT (new)', '31475794:RESULT (new)']
+- NCT05227313 | UNKNOWN | results=False | NA | Double-Blind, Placebo-Controlled Trial of Eefooton in Patients With Chronic Kidney Disease | conds: Chronic Kidney Diseases, Renal Insufficiency, Chronic, Urologic Diseases | intr: Eefooton oral solution, Placebo oral solution
+- NCT03179527 | UNKNOWN | results=False | PHASE4 | Research on the Clinical Effect of Shuanghe Decoction in Treating Unstable Angina. | conds: Unstable Angina | intr: Anti-Platelet Drugs, Lipid Regulating Drugs, Coronary Vasodilator, Shuanghe Decoction | pubs: ['23762142:RESULT (new)', '25254054:RESULT (new)', '22536282:RESULT (new)', '27777598:RESULT (new)', '23737852:RESULT (new)']
+- NCT05055427 | COMPLETED | results=False | PHASE2,PHASE3 | Efficacy Evaluation of Shen Cao Gan Jiang Tang on Mild and Moderate COVID-19 Patients | conds: COVID-19 Respiratory Infection, Herbal Medicine | intr: Shen Cao Gan Jiang Tang (Gan Cao Gan Jiang Tang with Ginseng)
+- NCT01598272 | COMPLETED | results=False | PHASE4 | Effects of a Proprietary Blend of Herbal Extract Supplement on Cellular Detoxification, Inflammation, and Cumulative Cognitive Index as Well | conds: Anti Aging | intr: Vitality product AM + Vitality product PM, Placebo
+- NCT07141472 | COMPLETED | results=False | NA | Glucagon Like Peptide 1 (GLP-1) Booster™ RCT Study | conds: Blood Sugar; High, Overweight and Obesity, Fat Loss, GLP-1 | intr: GB, Placebo
+- NCT02326766 | COMPLETED | results=False | PHASE3 | Blood Pressure Lowering Effect of Supplementation With Korea Red Ginseng Associated With Reductions in Circulating Lp-PLA2 Activity and Lyso | conds: Prehypertension | intr: KRG, Placebo | pubs: ['26843120:DERIVED (new)']
+- NCT06414486 | COMPLETED | results=False | NA | Effects of Ginseng on Stress, Emotional and Cognitive Processing | conds: Stress | intr: Dietary supplement group, Placebo group
+- NCT01536210 | COMPLETED | results=False | PHASE3 | Efficacy and Safety Study of Combination of Ginkgo Extract and Ginseng Extract in Children With ADHD(Attention Deficit Hyperactivity Disorde | conds: Mental Disorders | intr: YY-162, Placebo | pubs: ['11394191:RESULT (new)']
+- NCT00781534 | COMPLETED | results=False | EARLY_PHASE1 | A Clinical Trial of Ginseng in Diabetes | conds: Diabetes | intr: Ginseng, Ginseng, ginsenoside RE, Placebo (sugar pill) | pubs: ['21411505:DERIVED (new)']
+- NCT00401089 | COMPLETED | results=False | PHASE1,PHASE2 | Efficacy Study of Panax Ginseng to Boost Antipsychotics Effects in Schizophrenia | conds: Schizophrenia, Schizoaffective Disorder, Tardive Dyskinesia, Insulin Resistance | intr: Panax Ginseng
+- NCT02007304 | UNKNOWN | results=False | NA | Effects of Panax Ginseng and Salvia Miltiorrhiza Supplementation on Vascular Function | conds: Healthy | intr: Eccentric exercise training | pubs: ['27912940:DERIVED (new)', '27266702:DERIVED (new)']
+- NCT07178184 | NOT_YET_RECRUITING | results=False | PHASE2 | Evaluating the Efficacy and Safety of Modified Qing-Zao-Jiu-Fei Decoction on Pneumoconiosis Patients | conds: Pneumoconiosis | intr: Modified Qing-Zao-Jiu-Fei Decoction (MQZJFD), Placebo
+- NCT02428998 | COMPLETED | results=False | NA | Safety for 24 Weeks Intake of Korean Red Ginseng in Adults | conds: Healthy, Diabetes, Hypertension, Hyperlipidemia | intr: Korean Red Ginseng, Placebo
+- NCT07765589 | NOT_YET_RECRUITING | results=False | PHASE2 | TU-100 for Accelerating GI Recovery After Major Abdominopelvic Surgery (RC & CAWR) | conds: Delay in GI Recovery/Postoperative Ileus (POI) | intr: TU-100, Placebo
+- NCT07461402 | COMPLETED | results=False | NA | Plant Protein With Ashwagandha-Rhodiola for Sleep Quality | conds: Sleep Quality, Sleep Disorders, Insomnia | intr: Plant Protein Supplement, Rhodiola rosea Extract, Ashwagandha KSM-66, Placebo | pubs: [':RESULT (-)']
+- NCT04961086 | COMPLETED | results=False | NA | Health Effect of Energy Drink Consumption | conds: Blood Pressure, Blood Glucose, High, Cognitive Change | intr: energy drink | pubs: ['26184263:RESULT (new)', '29562659:RESULT (new)', '28168925:RESULT (new)', '26394126:RESULT (new)', '29947575:RESULT (new)', '26931509:RESULT (new)']
+- NCT03983408 | UNKNOWN | results=False | NA | Impact of Korean Red Ginseng on Fatigue in Patients With Rheumatic Disease | conds: Sjögren's Syndrome, Rheumatic Diseases, Korean Red Ginseng | intr: Korean Red Ginseng, Placebo
+- NCT05480774 | COMPLETED | results=False | PHASE1 | Effect of Red Ginseng Extract on Changes in Indicators of Immune Function in Vietnamese Healthy Volunteers | conds: Healthy | intr: KRG hard capsule, Placebo hard capsule
+- NCT05370898 | UNKNOWN | results=False | NA | The Study of Chinese Medicine for the Treatment of Primary Osteoporosis | conds: Primary Osteoporosis | intr: Caltrate D, Chinese medicine prescription, Placebo
+- NCT03947554 | COMPLETED | results=False | PHASE1,PHASE2 | Ginseng HRG80 in Stress and Fatigue | conds: Psychological Stress | intr: HRG80 Panax ginseng, Panax ginseng, Placebo
+- NCT03865745 | UNKNOWN | results=False | NA | Red Ginseng Extract With Climacteric Symptoms | conds: Climacteric Symptoms | intr: Korean Red Ginseng
+- NCT07580235 | NOT_YET_RECRUITING | results=False | NA | Yiqi Huayu Jiedu Therapy for Non-Surgical Supratentorial Hypertensive Intracerebral Hemorrhage | conds: Intracranial Hemorrhage, Hypertensive | intr: Yiqi Huayu Jiedu Mixture Intervention, The placebo | pubs: ['17463317:RESULT (new)', '36481437:RESULT (new)', '37245517:RESULT (new)', '36446240:RESULT (new)', '38598795:RESULT (new)', '34487721:RESULT (new)', '38803115:RESULT (new)']
+- NCT03775733 | UNKNOWN | results=False | NA | Efficacy and Safety of Hydrolysed Red Ginseng Extract on Improvement of Hyperglycemia | conds: Hyperglycemia | intr: Hydrolysed Red Ginseng Extract, Placebo
+- NCT01375114 | ACTIVE_NOT_RECRUITING | results=True | PHASE1,PHASE2 | The Effects of Ginseng on Cancer-Related Fatigue | conds: Advanced Cancers, Solid Tumors | intr: Panax Ginseng, Placebo, Questionnaires | pubs: ['28874596:DERIVED (new)']
+- NCT02544087 | UNKNOWN | results=False | NA | Heat-clearing and Blood-activating Chinese Medicinal Components in Acute Cerebral Infarction | conds: Ischemic Stroke | intr: Ixeris of sonchifolia Hance, Panax notoginseng saponins, Ixeris of sonchifolia Hance combined with P
+- NCT01479426 | COMPLETED | results=True | NA | A Trial to Evaluate the Efficacy and Safety of EFLA400 Korea Red Ginseng Extract on Sexual Function in Men With Erectile Dysfunction | conds: Healthy Subjects(Only Men) | intr: EFLA400, Placebo | pubs: ['33871063:DERIVED (new)']
+- NCT05592093 | COMPLETED | results=False | PHASE2,PHASE3 | Effect of Korean Red Ginseng on Oxidation in Middle-aged and Elderly Sub-health Population | conds: Healthy Ageing, Antioxidative Stress | intr: Korean red ginseng capsule (marketed product in Korea), Korean red ginseng capsule(placebo)
+- NCT01699074 | COMPLETED | results=False | PHASE1 | Acute Dose Response of Korean White Ginseng in Metabolic Syndrome or Type 2 Diabetes | conds: Type 2 Diabetes, Metabolic Syndrome | intr: 1 gram of White Korean Ginseng, 3 grams of White Korean Ginseng, 6 grams of White Korean Ginseng, 3  | pubs: ['25136536:DERIVED (new)']
+- NCT02211352 | COMPLETED | results=False | PHASE2 | Effect of Korean Red Ginseng on Central Blood Pressure in Patient With Essential Hypertension | conds: Hypertension | intr: Korean Red Ginseng Capsules, Placebo
+- NCT05583773 | RECRUITING | results=False | PHASE4 | SHengXIaN-QuYu DEcoction in Heart Failure With Reduced and Mildly Reduced Ejection Fraction | conds: Heart Failure | intr: ShengXian-QuYu Decoction, Placebo
+- NCT04183842 | COMPLETED | results=False | NA | Evaluation of a Fixed Combination of Herbal Extracts to Prevent Symptoms Alcohol-induced Hangovers | conds: Headache, Nausea, Dizziness, Sleepiness | intr: LACIME Anti-hangover, Placebo
+- NCT07550998 | RECRUITING | results=False | PHASE3 | Yulinzhu for Women With Diminished Ovarian Reserve | conds: Diminished Ovarian Reserve (DOR) | intr: Yulinzhu (a Chinese Medicinal Formulae)
+- NCT02386852 | COMPLETED | results=False | EARLY_PHASE1 | Ginseng and Ginkgo Biloba Effects on Cognition as Modulated by Cardiovascular Reactivity | conds: Blood Pressure, Cognition | intr: Placebo, Ginseng, Ginkgo Biloba | pubs: ['26938637:DERIVED (new)']
+- NCT07768579 | RECRUITING | results=False |  | The Effect of Sequential Therapy on Alzheimer's Disease | conds: Mild Cognitive Impairment Due to Alzheimer Disease, Alzheimer Disease | intr: 
+- NCT06930157 | RECRUITING | results=False | PHASE4 | Multi-center Randomized Controlled Clinical Study of Shenling Baishu Granule to Prevent the Recurrence of Low-risk Colorectal Adenoma | conds: Low-risk Colorectal Adenoma | intr: Shenling Baizhu granules (TCM patent medicine)
+- NCT06618495 | COMPLETED | results=False | PHASE1,PHASE2 | Clinical Study and Molecular Mechanism of Xuesaitong Soft Capsule in the Treatment of Acute Coronary Syndrome | conds: Acute Coronary Syndrome | intr: Xuesaitong soft capsule (main ingredient is Panax notoginseng saponins)
+- NCT06915506 | NOT_YET_RECRUITING | results=False | PHASE4 | Shenfu Injection Modulates Carotid Elasticity in Septic Shock | conds: Septic Shock, Vascular Dysfunction, Arterial Stiffness, Carotid Artery Elasticity Alterations | intr: Shenfu Injection
+- NCT07801599 | NOT_YET_RECRUITING | results=False | PHASE3 | Huayu Jiedu Formula (FTFY-919) Granules Versus Traditional Decoction for Acute Hypertensive Intracerebral Hemorrhage | conds: Intracerebral Hemorrhage, Hypertension | intr: Huayu Jiedu Formula (FTFY-919) Granules, Huayu Jiedu Formula (FTFY-919) Traditional Decoction, Place
+- NCT05489016 | UNKNOWN | results=False | PHASE4 | HuoXin Pills Intervention on Patients With Coronary Heart Disease After Drug-Coated Balloon Implantation | conds: Coronary Heart Disease, Medicine, Chinese Traditional | intr: Yuekang Huoxin Pills (concentrated pills), Yuekang Huoxin Pills (concentrated pills)simulant
+- NCT00976274 | COMPLETED | results=True | NA | Korean Red Ginseng and Metabolic Syndrome | conds: Metabolic Syndrome | intr: Korean red ginseng, starch | pubs: ['22916320:DERIVED (new)']
+- NCT01201187 | COMPLETED | results=False | PHASE3 | Efficacy and Safety Study of Combination of Ginkgo Extract and Ginseng Extract(YY-162)in Children With ADHD | conds: Mental Disorders | intr: YY-162, Placebo | pubs: ['11394191:RESULT (new)']
+- NCT06110260 | COMPLETED | results=False | NA | Pharmacokinetic Effect of AstraGin on Whey Protein Absorption and Muscle Function in Healthy Subjects | conds: Pharmacokinetic Effect of AstraGin on Whey Protein Absorption and Muscle Function in Healthy Subjects | intr: AstraGin (Ginseng and Astragalus Saponin Extract), Placebo
+
+### OpenAlex no-PMID trial-worded - 7399 hits, 19 without PMID, 19 new
+- new | 2026 | 10.1016/j.jgr.2026.101193 | article | Clinical effects of ginseng berry extract (KGC19b) on periodontal health improvements: A randomized, double-blind, and placebo-controlled clinical trial | Journal of Ginseng Research
+- new | 2026 | 10.2139/ssrn.7274931 | preprint | The efficacy and safety of Shenge Powder in the treatment of chronic heart failure: a randomized, double-blind, placebo-controlled, multicenter clinical trial | SSRN Electronic Journal
+- new | 2025 | 10.1158/1557-3265.sabcs24-p2-12-16 | conference-abstract | Abstract P2-12-16: A PROSPECTIVE RANDOMIZED PLACEBO-CONTROLLED TRIAL EVALUATING EFFECT OF A WIDE SPECTRUM MICRONUTRIENTS SUPPLEMENT ON CANCER RELATED FATIGUE IN BREAST CANCER PATIE | Clinical Cancer Research
+- new | 2025 | 10.5812/jjnpp-159511 | article | Effectiveness of Ginseng on the Symptoms of Depression and Anxiety in Patients Referred to Addiction Treatment Clinics in Ahvaz: A Randomized Clinical Trial | Jundishapur Journal of Natural Pharmaceu
+- new | 2021 | https://openalex.org/W3194132290 | article | Improvement of Cognitive Functions by Taking Supplement Containing Panax ginseng―A Randomized, Placebo—controlled, Double—blind, Clinical Study― | 薬理と治療
+- new | 2019 | https://openalex.org/W2945759598 | article | Effects of Panax Ginseng—containing Tea on Cognitive Performance in Adolescence― A Randomized, Double—blinded, Placebo—controlled Parallel Comparison Trial― | Yakuri to chiryō
+- new | 2019 | 10.1016/j.aimed.2019.12.001 | article | Vitamin E and ginseng combined supplement for treatment of male erectile dysfunction: A double-blind, placebo-controlled, randomized, clinical trial | Advances in Integrative Medicine
+- new | 2018 | 10.1016/j.bjp.2018.02.007 | article | Randomized controlled trial of Panax ginseng in patients with irritable bowel syndrome | Revista Brasileira de Farmacognosia
+- new | 2017 | 10.1200/jco.2017.35.15_suppl.10008 | conference-abstract | Korean red ginseng to improve cancer-related fatigue in colorectal cancer patients with FOLFOX chemotherapy: A randomized, double-blind, placebo-controlled, parallel, multicenter t | Journal of Clinical Oncology
+- new | 2016 | 10.9734/bjmmr/2016/28168 | article | Panax ginseng and Ergogenic Profile: Randomized, Placebo Controlled Study | Journal of Advances in Medicine and Medi
+- new | 2016 | 10.1161/circ.133.suppl_1.mp43 | conference-abstract | Abstract MP43: Electrocardiographic and Blood Pressure Effects of Energy Drinks and Panax Ginseng in Healthy Volunteers: A Randomized Clinical Trial | Circulation
+- new | 2016 | 10.1200/jco.2016.34.26_suppl.209 | conference-abstract | Effects of high-dose Asian ginseng (Panax ginseng) to improve cancer-related fatigue: Results of a double-blind, placebo-controlled randomized controlled trial. | Journal of Clinical Oncology
+- new | 2013 | 10.1096/fasebj.27.1_supplement.1076.8 | conference-abstract | Effects of a novel dietary supplement on physical and mental function in middle‐aged adults: a double‐blind, randomized, placebo‐controlled trial | The FASEB Journal
+- new | 2013 | 10.1016/j.jalz.2013.05.1665 | article | P4–272: A randomized, double‐blind, placebo‐controlled clinical trial of Korean ginseng as a functional food in mild cognitive impairment | Alzheimer s & Dementia
+- new | 2012 | 10.1186/1472-6882-12-s1-p297 | conference-abstract | Panax ginseng in randomized controlled trials: a systematic review | BMC Complementary and Alternative Medici
+- new | 2011 | https://openalex.org/W3187069297 | article | Efficacy of Red Ginseng by Oriental Medical Obesity Syndrome Differentiation on Obese women : Randomized, Double-blind, Placebo-controlled Trial | Journal of Korean Medicine for Obesity R
+- new | 2010 | https://openalex.org/W2406120703 | article | Effect of Korean Red Ginseng on Sleep : A Randomized, Placebo-Controlled Trial | Sleep Medicine and Psychophysiology
+- new | 2007 | 10.5142/jgr.2007.31.2.109 | article | Effect of Korean Red Ginseng Extract on Blood Circulation in Healthy Volunteers: A Randomized, Double-Blind, Placebo-Controlled Trial | Journal of Ginseng Research
+- new | 2005 | https://openalex.org/W2141824368 | article | The effect of acute administration of 400mg of Panax ginseng on cognitive performance and mood in healthy young volunteers. | Lancaster EPrints (Lancaster University)
+
+## passiflora-incarnata (Passiflora incarnata) - name clause: "Passiflora incarnata"[tiab] OR "passionflower"[tiab] OR "passion flower"[tiab] OR "maypop"[tiab]
+
+### PubMed HT - 62 hits, 62 not already listed above, 49 new
+- new | 2026 | 42595368 | Randomized Controlled Trial/Clinical Trial, Phase II/Clinical Trial, Phase I | Protocol for a randomised, double-blind, placebo-controlled clinical trial on the effects of high-dose vitamin B multivitamin supplementation with and without Passiflora incarnata  | BMJ Open
+- new | 2026 | 42345918 | Review | Preoperative Anxiolysis in Surgical Care Without Sedation or General Anesthesia: A Systematic Review. | Dent J (Basel)
+- new | 2026 | 42739461 | Review | Neuroprotective and Neuromodulatory Potential of Valeriana officinalis, Passiflora incarnata, and Ginkgo biloba: Efficacy, Safety, and Regulatory Aspects. | Plants (Basel)
+- new | 2025 | 41392563 | Review | Anxiolytic Potential of Passiflora incarnata in Oral Surgery: Mechanisms, Evidence and Clinical Application. | Pak J Biol Sci
+- new | 2025 | 40768551 | Review | Herbal Medicines in Autism Spectrum Disorder: Therapeutic Potential, Plant Components, and Dosage Guidelines. | Altern Ther Health Med
+- new | 2025 | 41381570 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of Passiflora incarnata on salivary biomarkers and anxiety in patients undergoing third molar extraction surgery. | Sci Rep
+- new | 2025 | 40054227 | Scoping Review/Research Support, Non-U.S. Gov't | Over-the-counter products for insomnia in adults: A scoping review of randomised controlled trials. | Sleep Med
+- new | 2025 | 39514279 | Randomized Controlled Trial | Exploring the Effects of a Calming Herbal Tea Blend on Perioperative Anxiety: A Randomized Clinical Trial. | J Med Food
+- HELD REF-1907 | 2024 | 38646244 |  | Randomized, Double-Blind, Placebo-Controlled, Clinical Study of Passiflora incarnata in Participants With Stress and Sleep Problems. | Cureus
+- new | 2024 | 38743126 | Randomized Controlled Trial | Effects of Passiflora incarnata and Valeriana officinalis in the control of anxiety due to tooth extraction: a randomized controlled clinical trial. | Oral Maxillofac Surg
+- new | 2023 | 37663386 | Review | Herbal medicines in the treatment of children and adolescents with attention-deficit/hyperactivity disorder (ADHD): An updated systematic review of clinical trials. | Avicenna J Phytomed
+- new | 2023 | 36986524 |  | Add-On Treatment with Passiflora incarnata L., herba, during Benzodiazepine Tapering in Patients with Depression and Anxiety: A Real-World Study. | Pharmaceuticals (Basel)
+- HELD REF-2546 | 2022 | 35378276 | Systematic Review/Research Support, Non-U.S. Gov't/Network Meta-Analysis | Medicinal herbs for the treatment of anxiety: A systematic review and network meta-analysis. | Pharmacol Res
+- new | 2022 | 35875924 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The chronic effects of a combination of herbal extracts (Euphytose(®)) on psychological mood state and response to a laboratory stressor: A randomised, placebo-controlled, double b | J Psychopharmacol
+- new | 2021 | 34016305 | Systematic Review | A systematic review of integrative medicine for opioid withdrawal. | J Subst Abuse Treat
+- new | 2021 | 34076379 | Randomized Controlled Trial | Assessment of Passiflora incarnata L for conscious sedation of patients during the extraction of mandibular third molars: a randomized, split-mouth, double-blind, crossover study. | Quintessence Int
+- new | 2021 | 33495257 | Systematic Review | Effectiveness and safety of oral sedation in adult patients undergoing dental procedures: a systematic review. | BMJ Open
+- new | 2021 | 32951121 | Randomized Controlled Trial | Herbal medicines as anxiolytics prior to third molar surgical extraction. A randomized controlled clinical trial. | Clin Oral Investig
+- new | 2021 | 33141635 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Cost-Effectiveness of Passion Fruit Albedo versus Turmeric in the Glycemic and Lipaemic Control of People with Type 2 Diabetes: Randomized Clinical Trial. | J Am Coll Nutr
+- HELD REF-0490 | 2020 | 33352740 | Systematic Review | Passiflora incarnata in Neuropsychiatric Disorders-A Systematic Review. | Nutrients
+- new | 2020 | 31447414 | Review | Sexual Performance Anxiety. | Sex Med Rev
+- HELD REF-0564 | 2020 | 31714321 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of Passiflora incarnata Linnaeus on polysomnographic sleep parameters in subjects with insomnia disorder: a double-blind randomized placebo-controlled study. | Int Clin Psychopharmacol
+- HELD REF-2459 | 2020 | 31985131 |  | Effect of the fixed combination of valerian, lemon balm, passionflower, and butterbur extracts (Ze 185) on the prescription pattern of benzodiazepines in hospitalized psychiatric p | Phytother Res
+- new | 2019 | 30447340 | Observational Study | Patients' experiences attributed to the use of Passiflora incarnata: A qualitative, phenomenological study. | J Ethnopharmacol
+- new | 2019 | 31007882 |  | How often do women use non-drug treatment methods for psyschiatric symptoms during pregnancy and postpartum periods? | Ment Illn
+- new | 2019 | 31331545 |  | A combination of melatonin, vitamin B6 and medicinal plants in the treatment of mild-to-moderate insomnia: A prospective pilot study. | Complement Ther Med
+- new | 2018 | 29464801 | Systematic Review | Herbal medicine for depression and anxiety: A systematic review with assessment of potential psycho-oncologic relevance. | Phytother Res
+- new | 2018 | 29458926 |  | Pregnancy outcomes in psychiatric patients treated with passiflora incarnata. | Complement Ther Med
+- new | 2018 | 29846749 | Review | [Herbal medicines for psychiatric disorders]. | Nervenarzt [ger]
+- new | 2018 | 29433687 | Randomized Controlled Trial | Effects of a fixed herbal drug combination (Ze 185) to an experimental acute stress setting in healthy men - An explorative randomized placebo-controlled double-blind study. | Phytomedicine
+- new | 2018 | 30234132 |  | Unconventional Vegetable Oils for a Reduction of Methanogenesis and Modulation of Ruminal Fermentation. | Front Vet Sci
+- new | 2018 | 29604618 |  | An open prospective pilot study of a herbal combination "Relief" as a supportive dietetic measure during alcohol withdrawal. | Neuro Endocrinol Lett
+- new | 2017 | 28137522 | Systematic Review | Herbal medicines in children with attention deficit hyperactivity disorder (ADHD): A systematic review. | Complement Ther Med
+- HELD REF-3706 | 2017 | 27918731 | Randomized Controlled Trial | Effects of passiflora incarnata and midazolam for control of anxiety in patients undergoing dental extraction. | Med Oral Patol Oral Cir Bucal
+- new | 2017 | 28852842 | Randomized Controlled Trial | The impact of combined nutraceutical supplementation on quality of life and metabolic changes during the menopausal transition: a pilot randomized trial. | Arch Gynecol Obstet
+- new | 2017 | 28920038 |  | Comparing the Effect of Preoperative Administration of Melatonin and Passiflora incarnata on Postoperative Cognitive Disorders in Adult Patients Undergoing Elective Surgery. | Anesth Pain Med
+- new | 2016 | 27928252 |  | Effects of Passion Flower Extract, as an Add-On Treatment to Sertraline, on Reaction Time in Patients ‎with Generalized Anxiety Disorder: A Double-Blind Placebo-Controlled Study. | Iran J Psychiatry
+- new | 2014 | 24867852 |  | Complementary and alternative medicine (CAM) use in an Italian cohort of pediatric headache patients: the tip of the iceberg. | Neurol Sci
+- HELD REF-1908 | 2013 | 24140586 | Review | Passiflora incarnata L.: ethnopharmacology, clinical application, safety and evaluation of clinical trials. | J Ethnopharmacol
+- new | 2013 | 24724122 |  | The efficacy of passiflora incarnata linnaeus in reducing dental anxiety in patients undergoing periodontal treatment. | J Dent (Shiraz)
+- new | 2013 | 23179673 | Clinical Trial/Multicenter Study/Research Support, Non-U.S. Gov't | Herbal triplet in treatment of nervous agitation in children. | Wien Med Wochenschr
+- HELD REF-4203 | 2013 | 23543804 | Comparative Study/Randomized Controlled Trial | Efficacy and safety of a polyherbal sedative-hypnotic formulation NSF-3 in primary insomnia in comparison to zolpidem: a randomized controlled trial. | Indian J Pharmacol
+- HELD REF-1911 | 2012 | 22048283 | Randomized Controlled Trial | Passiflora incarnata Linneaus as an anxiolytic before spinal anesthesia. | J Anesth
+- HELD REF-0565 | 2011 | 21294203 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A double-blind, placebo-controlled investigation of the effects of Passiflora incarnata (passionflower) herbal tea on subjective sleep quality. | Phytother Res
+- new | 2011 | 21810233 | Randomized Controlled Trial | Early effect of NEURAPAS® balance on current source density (CSD) of human EEG. | BMC Psychiatry
+- new | 2011 | 22009858 | Research Support, Non-U.S. Gov't | Multivariate analysis of morphological characteristics of two species of passion flower with ornamental potential and of hybrids between them. | Genet Mol Res
+- new | 2010 | 20493333 | Review | Complementary and alternative medicine usage for behavioral health indications. | Prim Care
+- new | 2010 | 20929532 | Systematic Review | Nutritional and herbal supplements for anxiety and anxiety-related disorders: systematic review. | Nutr J
+- new | 2010 | 21308265 | Meta-Analysis/Review | [Medicinal plants for the treatment of generalized anxiety disorder: a review of controlled clinical studies]. | Braz J Psychiatry [por]
+- new | 2010 | 22049281 |  | A comparative study on the effects of Hypericum Perforatum and passion flower on the menopausal symptoms of women referring to Isfahan city health care centers. | Iran J Nurs Midwifery Res
+- new | 2009 | 19274698 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Fixed herbal drug combination with and without butterbur (Ze 185) for the treatment of patients with somatoform disorders: randomized, placebo-controlled pharmaco-clinical trial. | Phytother Res
+- HELD REF-0332 | 2008 | 18037151 | Review | Risks and benefits of commonly used herbal medicines in Mexico. | Toxicol Appl Pharmacol
+- HELD REF-0563 | 2008 | 18499602 | Randomized Controlled Trial | Preoperative oral Passiflora incarnata reduces anxiety in ambulatory surgery patients: a double-blind, placebo-controlled study. | Anesth Analg
+- new | 2007 | 17253512 | Meta-Analysis/Systematic Review | Passiflora for anxiety disorder. | Cochrane Database Syst Rev
+- new | 2005 | 17561634 | Review | Oral nonprescription treatment for insomnia: an evaluation of products with limited evidence. | J Clin Sleep Med
+- new | 2005 | 15982998 | Review | Medicinal plants for insomnia: a review of their pharmacology, efficacy and tolerability. | J Psychopharmacol
+- new | 2004 | 15719825 | Clinical Trial | [Evaluation of activity parameters of passionflower dry extract capsules according to a "star" model]. | J Pharm Belg [fre]
+- HELD REF-3705 | 2001 | 11679026 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Passionflower in the treatment of generalized anxiety: a pilot double-blind randomized controlled trial with oxazepam. | J Clin Pharm Ther
+- new | 2001 | 11679027 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Passionflower in the treatment of opiates withdrawal: a double-blind randomized controlled trial. | J Clin Pharm Ther
+- new | 1999 | 10711131 | Review | Dietary supplements used in the treatment of depression, anxiety, and sleep disorders. | Lippincotts Prim Care Pract
+- new | 1998 | 23196028 |  | The quantitative EEG as a screening instrument to identify sedative effects of single doses of plant extracts in comparison with diazepam. | Phytomedicine
+- new | 1991 | 1815310 | Clinical Trial/Comparative Study/Controlled Clinical Trial/Randomized Controlled Trial | [Acute sedative effect of a herbal relaxation tablet as compared to that of bromazepam]. | Schweiz Rundsch Med Prax [ger]
+
+### PubMed SR - 22 hits, 8 not already listed above, 7 new
+- new | 2026 | 42384113 | Systematic Review | Behavioral responses of pigs to dietary alternatives to antibiotic growth promoters: a systematic review. | Vet Res Commun
+- new | 2023 | 37039741 | Systematic Review | Systematic review on the anxiolytic and hypnotic effects of flower extracts in in vivo pre-clinical studies published from 2010 to 2020. | Phytother Res
+- new | 2021 | 33561990 | Systematic Review | Herbal Remedies and Their Possible Effect on the GABAergic System and Sleep. | Nutrients
+- HELD REF-2547 | 2018 | 29575228 | Systematic Review | Herbal medicines in the treatment of psychiatric disorders: 10-year updated review. | Phytother Res
+- new | 2018 | 29168225 | Systematic Review | GABA-modulating phytomedicines for anxiety: A systematic review of preclinical and clinical evidence. | Phytother Res
+- new | 2012 | 22472025 | Review | Nutraceuticals in psychiatric practice. | Recent Pat CNS Drug Discov
+- new | 2008 | 22432466 | Systematic Review | An evidence-based systematic review of passion flower (Passiflora incarnata L.) by the Natural Standard Research Collaboration. | J Diet Suppl
+- new | 2007 | 17562566 | Systematic Review | Herbal medicines in the treatment of psychiatric disorders: a systematic review. | Phytother Res
+
+### PubMed SAFE - 76 hits, 45 not already listed above, 42 new
+- new | 2026 | 41750223 | Review | Medicinal Plants for Major Depressive Disorder. | Brain Sci
+- new | 2026 | 42163694 |  | Chrysin against Endocrine and Reproductive Systems Impairment: Current Evidence and Future Perspectives. | Curr Med Chem
+- HELD REF-2474 | 2026 | 41901246 | Review | Efficacy and Safety of Herbal Supplements with Anxiolytic, Antidepressant, and Sedative Action: A Review of Clinical Data and Toxicological Risks. | Pharmaceuticals (Basel)
+- new | 2025 | 41011705 | Review | The Efficacy of Melatonergic Receptor Agonists Used in Clinical Practice in Insomnia Treatment: Melatonin, Tasimelteon, Ramelteon, Agomelatine, and Selected Herbs. | Molecules
+- new | 2025 | 42152915 | Case Reports | Combination of Botanicals and Mindfulness Meditation for the Treatment of Chronic Pancreatitis: A Case Report. | J Chiropr Med
+- new | 2025 | 40488268 |  | The Protective Effects of Chrysin on Acrylamide-Induced Hepatotoxicity: Insights Into Oxidative Stress, Inflammation, Apoptosis, Autophagy, and Histological Evaluation in Rats. | J Biochem Mol Toxicol
+- new | 2025 | 41515173 |  | Oral Administration of Astrocyte-Targeted Natural Antioxidants Suppress NOX4-Driven Neuroinflammation and Restore Hippocampal Neurogenesis in MPTP-Induced Parkinson's Disease Mouse | Nutrients
+- new | 2024 | 37345244 | Review | Edible Herbal Medicines as an Alternative to Common Medication for Sleep Disorders: A Review Article. | Curr Neuropharmacol
+- new | 2024 | 39598400 | Review | Plants with Potential Importance in Supporting the Treatment of Depression: Current Trends, and Research. | Pharmaceuticals (Basel)
+- new | 2024 | 39158796 |  | Harmony in nature's elixir: a comprehensive exploration of ethanol and nano-formulated extracts from Passiflora incarnata leaves: unveiling in vitro cytotoxicity, acute and sub-acu | J Mol Histol
+- new | 2024 | 39429529 |  | Passiflora incarnata L., herba, in benzodiazepine tapering: long-term safety and efficacy in a real-world setting. | Front Psychiatry
+- new | 2022 | 36144755 | Review | Medicinal Plants Used for Anxiety, Depression, or Stress Treatment: An Update. | Molecules
+- new | 2022 | 35319401 |  | Powerful Stress Relieving Medicinal Plants for Anger, Anxiety, Depression, and Stress During Global Pandemic. | Recent Pat Biotechnol
+- new | 2022 | 36278236 |  | In vitro effects of European and Latin-American medicinal plants in CYP3A4 gene expression, glutathione levels, and P-glycoprotein activity. | Front Pharmacol
+- new | 2022 | 35892244 | Research Support, Non-U.S. Gov't | Chrysin reduces hypercholesterolemia-mediated atherosclerosis through modulating oxidative stress, microflora, and apoptosis in experimental rats. | J Food Biochem
+- new | 2021 | 33861446 | Review | Use of Plant-Derived Natural Products in Sleep Disturbances. | Adv Exp Med Biol
+- new | 2020 | 31993179 |  | Sleep-inducing effect of Passiflora incarnata L. extract by single and repeated oral administration in rodent animals. | Food Sci Nutr
+- new | 2020 | 30979692 |  | Metabolomics and proteomics profiles of some medicinal plants and correlation with BDNF activity. | Phytomedicine
+- new | 2019 | 31803641 | Review | Supportive therapy for dysmenorrhea: Time to look beyond mefenamic acid in primary care. | J Family Med Prim Care
+- new | 2019 | 32257918 |  | Chronic oral administration of Passiflora incarnata extract has no abnormal effects on metabolic and behavioral parameters in mice, except to induce sleep. | Lab Anim Res
+- new | 2018 | 30249608 |  | Prevalence of drug-herb and drug-supplement interactions in older adults: a cross-sectional survey. | Br J Gen Pract
+- new | 2017 | 29403626 | Review | A review of effective herbal medicines in controlling menopausal symptoms. | Electron Physician
+- new | 2017 | 28293192 |  | Indole Alkaloids from Plants as Potential Leads for Antidepressant Drugs: A Mini Review. | Front Pharmacol
+- new | 2017 | 28407638 |  | [Improvement of Stress Resistance and Quality of Life of Adults with Nervous Restlessness after Treatment with a Passion Flower Dry Extract]. | Complement Med Res [ger]
+- new | 2016 | 26948409 | Multicenter Study | Adverse Effects of Plant Food Supplements and Plants Consumed as Food: Results from the Poisons Centres-Based PlantLIBRA Study. | Phytother Res
+- new | 2014 | 24486618 | Research Support, Non-U.S. Gov't | Mitigation of 5-Fluorouracil induced renal toxicity by chrysin via targeting oxidative stress and apoptosis in wistar rats. | Food Chem Toxicol
+- new | 2012 | 31643352 | Review | Passionflower. | 
+- new | 2012 | 22873194 | Research Support, Non-U.S. Gov't | Passion flower extract antagonizes the expression of nicotine locomotor sensitization in rats. | Pharm Biol
+- new | 2012 | 22876743 | Case Reports | Coltsfoot as a potential cause of deep vein thrombosis and pulmonary embolism in a patient also consuming kava and blue vervain. | J Diet Suppl
+- new | 2011 | 21515303 | Research Support, Non-U.S. Gov't | Chrysin suppresses mast cell-mediated allergic inflammation: involvement of calcium, caspase-1 and nuclear factor-κB. | Toxicol Appl Pharmacol
+- new | 2009 | 19441067 | Case Reports | Interactions of Valeriana officinalis L. and Passiflora incarnata L. in a patient treated with lorazepam. | Phytother Res
+- new | 2009 | 19048610 | Research Support, Non-U.S. Gov't | Preclinical toxicological assessment of a phytotherapeutic product--CPV (based on dry extracts of Crataegus oxyacantha L., Passiflora incarnata L., and Valeriana officinalis L.). | Phytother Res
+- new | 2009 | 19140118 |  | Attitudes and knowledge toward natural products safety in the pharmacy setting: an Italian study. | Phytother Res
+- new | 2008 | 18603389 | Case Reports | A case of beta-carboline alkaloid intoxication following ingestion of Peganum harmala seed extract. | Forensic Sci Int
+- new | 2006 | 16449696 | Review | Complementary medicines in psychiatry: review of effectiveness and safety. | Br J Psychiatry
+- new | 2006 | 16328317 |  | Safety implications regarding use of phytomedicines. | Eur J Clin Pharmacol
+- HELD REF-2460 | 2004 | 15165499 | Review | Safety and efficacy of herbal sedatives in cancer care. | Integr Cancer Ther
+- new | 2003 | 12720510 | Case Reports | Fatal fulminant hepatic failure induced by a natural therapy containing kava. | Med J Aust
+- new | 2001 | 12609386 |  | Herbal Medicines and Epilepsy: The Potential for Benefit and Adverse Effects. | Epilepsy Behav
+- new | 2000 | 10696928 | Case Reports | Toxicity of Passiflora incarnata L. | J Toxicol Clin Toxicol
+- new | 2000 | 12531167 |  | Efficacy and safety of herbal stimulants and sedatives in sleep disorders. | Sleep Med Rev
+- HELD REF-5394 | 2000 | 10920504 | Review | [Oral anticoagulants and medicinal plants. An emerging interaction]. | Ann Ital Med Int [ita]
+- new | 1997 | 9396980 | Case Reports | Occupational respiratory allergic disease induced by Passiflora alata and Rhamnus purshiana. | Ann Allergy Asthma Immunol
+- new | 1997 | 9148484 | Case Reports | [Nature medicine as intoxicant]. | Tidsskr Nor Laegeforen [nor]
+- new | 1996 | 8771452 |  | Screening of medicinal plants for induction of somatic segregation activity in Aspergillus nidulans. | J Ethnopharmacol
+
+### PubMed OBS - 11 hits, 4 not already listed above, 4 new
+- new | 2026 | 42729335 |  | Pharmaceutical profile and prescribing practices in compounding pharmacies in Brazil: a cross-sectional study. | Front Pharmacol
+- new | 2026 | 42924740 |  | Longitudinal Changes in Insomnia, Sleep Continuity, and Sleep Timing During Residential Treatment for Eating Disorders: A Six-Month Observational Study. | Clocks Sleep
+- new | 2026 | 41599739 |  | Synergistic Effect of Passiflora incarnata L., Herba and Cognitive Behavioural Therapy in the Management of Benzodiazepine Misuse. | Pharmaceuticals (Basel)
+- new | 2022 | 34673926 | Research Support, Non-U.S. Gov't | Biomechanics of tendrils and adhesive pads of the climbing passion flower Passiflora discophora. | J Exp Bot
+
+### PubMed REV - 58 hits, 13 not already listed above, 11 new
+- new | 2025 | 41007011 | Review | Medicinal Plants for Child Mental Health: Clinical Insights, Active Compounds, and Perspectives for Rational Use. | Children (Basel)
+- new | 2023 | 36641978 | Review | Phytotherapy of mood disorders in the light of microbiota-gut-brain axis. | Phytomedicine
+- HELD REF-1787 | 2022 | 33480339 | Review | Anti-anxiety Properties of Selected Medicinal Plants. | Curr Pharm Biotechnol
+- new | 2022 | 35620220 | Review | Anaesthesia of decapod crustaceans. | Vet Anim Sci
+- new | 2022 | 36048322 | Review | Nip it in the Bud: Botanicals for Anxiety - a Practical Prescriber's Guide. | Curr Psychiatry Rep
+- HELD REF-1350 | 2021 | 34116572 | Review | Medicinal Plants for Insomnia Related to Anxiety: An Updated Review. | Planta Med
+- new | 2020 | 32765195 | Review | Herbal Medicinal Products from Passiflora for Anxiety: An Unexploited Potential. | ScientificWorldJournal
+- new | 2017 | 29354614 | Review | Role Identification of Passiflora Incarnata Linnaeus: A Mini Review. | J Menopausal Med
+- new | 2012 | 22474979 | Review | Phytotherapy of alcoholism. | Nat Prod Commun
+- new | 2010 | 20175810 | Research Support, Non-U.S. Gov't/Review | Phytotherapeutics: an evaluation of the potential of 1000 plants. | J Clin Pharm Ther
+- new | 2007 | 17853630 | Review | Herbal and dietary supplements for treatment of anxiety disorders. | Am Fam Physician
+- new | 2004 | 15261959 | Research Support, Non-U.S. Gov't/Review | Passiflora: a review update. | J Ethnopharmacol
+- new | 2002 | 12391715 | Review | Anxiety, depression, and insomnia. | Prim Care
+
+### ClinicalTrials.gov - 12 registered studies
+- NCT06278077 | COMPLETED | results=False | PHASE2 | Neurexan - a Clinical Trial in Short-Term Insomnia Patients | conds: Insomnia, Stress Reaction | intr: Neurexan, Placebo
+- NCT03780595 | UNKNOWN | results=False | PHASE4 | Passiflora Extract for Benzodiazepine Withdrawal | conds: Benzodiazepine Withdrawal (Disorder) | intr: Passiflora incarnata, Control
+- NCT07790029 | COMPLETED | results=False | NA | Passiflora Incarnata for Dental Extraction Anxiety | conds: Dental Anxiety, Preoperative Anxiety | intr: Passiflora incarnata extract, Placebo
+- NCT00982787 | WITHDRAWN | results=False | PHASE2 | Safety and Anticonvulsant Efficacy of Passiflora Incarnata Extract in Patients With Partial Epilepsy | conds: Partial Epilepsy | intr: Botanical extract from Passiflora incarnata
+- NCT02651922 | COMPLETED | results=True |  | Treatment of Patients Suffering From Nervous Restlessness With PASCOFLAIR® | conds: Nervous Restlessness | intr: 
+- NCT02065843 | COMPLETED | results=False | PHASE2,PHASE3 | Three Anxiolytic Drugs Used in Third Molar Surgery | conds: Dental Anxiety, Impacted Third Molar Tooth | intr: Mulungu, Placebo, Passiflora incarnata, midazolam
+- NCT00794456 | COMPLETED | results=False | PHASE3 | Association of Passiflora Incarnata L; Crataegus Oxyacantha L and Salix Alba L. on Mild and Moderate Anxiety | conds: Anxiety Disorder | intr: Passiflora ; Crataegus and Salix, Valeriana
+- NCT00944268 | UNKNOWN | results=False | PHASE3 | Efficacy and Tolerability Study to Treat Mild and Moderate Anxiety | conds: Anxiety, Efficacy, Tolerability | intr: Passiflora, Crataegus e Salix
+- NCT01695616 | WITHDRAWN | results=False | PHASE3 | Efficacy and Safety of Passiflora Incarnata and Isoflavona Combination in the Treatment of Climacteric Symptoms | conds: Climacteric Syndrome | intr: Placebo, Active drug
+- NCT01100645 | UNKNOWN | results=False | PHASE3 | Efficacy and Safety of the Herbal Medicine Sominex ® (Passiflora Incarnata L., Valeriana Officinalis L. and Crataegus Oxyacantha L.), Manufa | conds: Insomnia | intr: Sominex, Placebo
+- NCT03953469 | UNKNOWN | results=False | NA | Short-term Effects of Passiflora and Meditation on Blood Pressure and Heart Rate | conds: Heart Rate Fast, Blood Pressure | intr: Passiflora incarnata
+- NCT01665170 | COMPLETED | results=True | PHASE3 | Pilot Study on the Efficacy of Pascoflair in an Acute Stressful Situation (TSST) | conds: Healthy, Stress | intr: Passiflora incarnata, Placebo
+
+### OpenAlex no-PMID trial-worded - 763 hits, 46 without PMID, 46 new
+- new | 2026 | 10.33545/26164485.2026.v10.i8.h.3159 | article | The effectiveness of Passiflora incarnata on sleep quality in patients with alcohol dependence | International Journal of Homoeopathic Sc
+- new | 2026 | 10.24875/cirue.m22000168 | article | Pregabalin as a premedication for anxiety in patients undergoing plastic surgery: A randomized double-blind and placebo-controlled study | Cirugía y Cirujanos (English Edition)
+- new | 2026 | 10.1007/978-981-95-3620-7_26 | book-chapter | Medicinal and Nutritional Importance of Passiflora incarnata in Human Health | Springer eBooks
+- new | 2026 | 10.1016/j.hermed.2026.101140 | review | Is Passiflora incarnata Linnaeus (Passifloraceae) effective for controlling anxiety in dentistry? A systematic review | Journal of Herbal Medicine
+- new | 2026 | 10.32782/2226-2008-2026-2-6 | erratum | CORRECTION OF INCREASED ANXIETY IN CHILDREN WITH OBESITY USING PASSIFLORA INCARNATA EXTRACT | 
+- new | 2026 | 10.5281/zenodo.21438908 | article | Design And Development Of Topical Gel Formulation From Leaf Extract Of Passiflora Incarnata | Zenodo (CERN European Organization for N
+- new | 2025 | 10.5281/zenodo.17839659 | other | NeuroStress Complex (TrueMedicalCare, Romania) for generalized anxiety symptoms: a randomized, double-blind, placebo-controlled trial | Zenodo (CERN European Organization for N
+- new | 2025 | 10.52338/jopr.2025.4585 | article | A new anxiolitic approach with Passiflora Incarnata L., Herba in patients with Irritable Bowel Syndrome and comorbidy for mild anxiety disorders: a prospective, observational, real | Journal of psychiatry research.
+- new | 2025 | 10.1080/19476337.2025.2504527 | article | Comparative effect of Chamomile flower (Matricaria chamomilla L.) andPassion flower (Passiflora incarnata L.) powder tea in patients suffering from primary insomnia | CyTA - Journal of Food
+- new | 2025 | 10.1079/ejhs.2025.0027 | article | Response of Passiflora incarnata to Meloidogyne javanica | European Journal of Horticultural Scienc
+- new | 2024 | 10.18203/2319-2003.ijbcp20241646 | article | A randomized, double-blind, parallel and placebo-controlled clinical study to evaluate the efficacy and safety of KaraCalm™: a dietary supplement to support sleep and manage stress | International Journal of Basic & Clinica
+- new | 2024 | 10.36468/pharmaceutical-sciences.11.1.155 | article | Efficacy on Subthreshold Anxiety Disorders of a New Drug Containing Passiflora Incarnata L. Herba in 76 Patients with Anxious Symptoms | Indian Journal of Pharmaceutical Science
+- new | 2024 | 10.12775/qs.2024.35.56361 | article | Passiflora incarnata as an Adjunctive Treatment for Anxiety and Sleep Disorders | Quality in Sport
+- new | 2024 | 10.21664/2238-8869.2024v13i4.p305-317 | article | Associação de Valeriana officinalis L. E Passiflora incarnata L. para Tratamento da Ansiedade ao Tratamento Odontológico | Fronteiras Journal of Social Technologic
+- new | 2023 | 10.21203/rs.3.rs-2965376/v1 | preprint | A Randomized,Double-blind, Placebo-controlled, Multi-centric, Interventional, Prospective Clinical Study to Evaluate Efficacy and Safety of Passiflora incarnata (Aerial Parts) Extr | Research Square
+- new | 2023 | 10.7897/2277-4343.140246 | article | A PROSPECTIVE, OPEN-LABEL, NON-RANDOMISED STUDY TO ASSESS THE EFFICACY AND SAFETY OF ZERO TENSION TABLETS IN PATIENTS WITH STRESS, ANXIETY AND INSOMNIA DISORDERS | International Journal of Research in Ayu
+- new | 2022 | 10.18502/tim.v7i2.9928 | article | Herbal Medications to Manage Insomnia: An Overview of Clinical Trials Using Herbal Treatment for Insomnia | Traditional and Integrative Medicine
+- new | 2022 | 10.1101/2022.06.13.22276352 | preprint | Type construction in qualitative health research and its relevance in complementary and integrative medicine. Two studies about patients’ experiences with herbal medicine preparati | medRxiv
+- new | 2021 | https://openalex.org/W3212054266 | article | PHYTOCHEMICAL AND ANTIMICROBIAL STUDIES ON PASSIFLORA INCARNATA LINN. | Journal of Emerging Technologies and Inn
+- new | 2020 | 10.37506/ijfmt.v14i2.3192 | article | Comparison of the Effects of Passiflora Incarnata and Piroxicam in opioids withdrawal-Induced Myalgia and Anxiety: A randomized Clinical Trial | Indian Journal of Forensic Medicine & To
+- new | 2020 | 10.26766/pmgp.v5i1.229 | article | A psychosomatic approach to the diagnosis and treatment of anxiety in patients with chronic noncommunicable diseases | Psychosomatic Medicine and General Pract
+- new | 2020 | 10.1016/j.livsci.2020.104000 | article | Passiflora Incarnata powder extract in postweaning piglets feeding slightly improves wellbeing and immune parameters | Livestock Science
+- new | 2019 | 10.31989/ffhd.v9i5.593 | article | Passionflower Extract Improves Diurnal Quality of Life in Japanese Subjects with Anxiety: A Randomized, Placebo-controlled, Double-blind Trial | Functional Foods in Health and Disease
+- new | 2019 | 10.4236/wjns.2019.93007 | article | Effects of Neurexan on Stress-Induced Changes of Spectral EEG Power: A Double-Blind, Randomized, Placebo-Controlled, Crossover Exploratory Trial in Human Volunteers | World Journal of Neuroscience
+- new | 2019 | 10.29252/jmp.2.70.162 | article | The Effect of Aromatherapy with Lavender Essence on Depression and Headache Disability in Migraine Patients: A Randomized Clinical Trial | Journal of Medicinal Plants
+- new | 2019 | 10.33545/26164485.2019.v3.i3a.89 | article | A study to compare the efficacy of Eschscholzia californica MT and Passiflora incarnata MT in insomnia | International Journal of Homoeopathic Sc
+- new | 2019 | 10.15406/ijfcm.2019.03.00158 | review | Generalized anxiety: a systematic review Passiflora incarnata (passion fruit), Matricaria recutita (Chamomile) and Melissa officinalis (lemongrass) | International Journal of Family & Commun
+- new | 2018 | 10.1016/j.bjp.2018.01.006 | article | Comparison of bioactive compounds content in leaf extracts of Passiflora incarnata , P. caerulea and P. alata and in vitro cytotoxic potential on leukemia cell lines | Revista Brasileira de Farmacognosia
+- new | 2018 | 10.6084/m9.figshare.7506605 | dataset | Influence of light and temperature on the germination of Passiflora incarnata L. seeds | Figshare
+- new | 2017 | 10.3823/2276 | article | Effects of the single supplementation and multiple doses of Passiflora incarnata L. on human anxiety: A Clinical Trial, Double-blind, Placebo-controlled, Randomized | International Archives of Medicine
+- new | 2017 | 10.22159/ajpcr.2017.v10i8.18852 | article | BOTH ORAL PASSIFLORA INCARNATA AND OXAZEPAM CAN REDUCE PRE-OPERATIVE ANXIETY IN AMBULATORY SURGERY PATIENTS: A DOUBLE-BLIND, PLACEBO-CONTROLLED STUDY | Asian Journal of Pharmaceutical and Clin
+- new | 2017 | https://openalex.org/W2739002935 | article | Preoperative Oral Passiflora Incarnata Reduces Coughing Following Extubation: A Double Blind, Placebo-Controlled Study | Archives of Anesthesia and Critical Care
+- new | 2017 | 10.33545/26164485.2017.v1.i1a.5 | article | Utility of passiflora incarnata homoeopathic mother tincture in general anxiety disorder: A pilot study | International Journal of Homoeopathic Sc
+- new | 2017 | 10.3856/vol45-issue5-fulltext-5 | article | Effect of Passiflora incarnata (L) extract on gonadal maturation in young tilapia (Oreochromis sp.) | Latin American Journal of Aquatic Resear
+- new | 2016 | https://openalex.org/W2603994359 | article | Efficacy of Passiflora incarnate on anxiety relief before orthopedic surgery: A double blinded clinical trial study | Journal of Shahrekord University of Medi
+- new | 2015 | https://openalex.org/W2533311606 | article | Could herbal medicine alternatives reduce overuse of benzodiazepines in older adults? Thoughts on the EMPOWER trial | Australian journal of medical herbalism
+- new | 2015 | 10.1590/2317-1545v37n2147082 | article | Influence of light and temperature on the germination of Passiflora incarnata L. seeds | Journal of Seed Science
+- new | 2015 | 10.15171/ijpni.2015.11 | article | Effect of Organic Fertilization on Biomass Production and Bioactive Compounds in Passiflora incarnata L. | International Journal of Phytocosmetics 
+- new | 2014 | https://openalex.org/W168103931 | article | Evaluation of antidepressant-like effect of hydroalcoholic extract of Passiflora incarnata in animal models of depression in male mice | Journal of Herbmed Pharmacology
+- new | 2014 | https://openalex.org/W1481836383 | dissertation | Interventioner som reducerar oro inför och under anestesi hos vuxna patienter | Uppsala University Publications (Uppsala
+- new | 2014 | https://openalex.org/W2612119689 | dissertation | Efeitos da Passiflora incarnata e do midazolam no controle da ansiedade em pacientes submetidos à exodontia de terceiros molares inclusos | Americanae (AECID Library)
+- new | 2012 | https://openalex.org/W2272785067 | article | A DRY EXTRACT OF PASSIFLORA INCARNATA L. (SEDANXIO®) AS FIRST INTENTION TREATMENT OF PATIENTS CONSULTING FOR ANXIETY PROBLEMS IN GENERAL PRACTICE | Acta psychiatrica Belgica
+- new | 2012 | https://openalex.org/W4405205700 | article | Efecto in vitro de una solución de Passiflora incarnata L. sobre la respuesta de linfocitos humanos de donantes sanos y de enfermos con inmunodeficiencia celular In vitro effect of | Revista cubana de hematología, inmunolog
+- new | 2009 | https://openalex.org/W1605920837 | article | A Review on Medicinal Plants Used in Animal Models and Clinical Trials concerning Drug Addiction | Journal of Medicinal Plants
+- new | 2005 | 10.2217/14750708.2.4.609 | article | Passiflora incarnata in the treatment of attention-deficit hyperactivity disorder in children and adolescents | Therapy
+- new | 2002 | https://openalex.org/W4304459377 | article | Passionflower in the treatment of generalized anxiety disorder: a double-blind and randomized trial with oxazepam | Journal of Medicinal Plants
+
+## paullinia-cupana (Paullinia cupana) - name clause: "Paullinia cupana"[tiab] OR "guarana"[tiab]
+
+### PubMed HT - 61 hits, 61 not already listed above, 52 new
+- new | 2026 | 42646867 |  | Acute Effects of Guarana (Paullinia cupana) Supplementation on Cognitive Performance, Technical Skills, and Physiological Responses in Amateur Soccer Players. | Sports (Basel)
+- new | 2026 | 42556491 | Review | Energy drinks in youth: Cardiovascular risk and a call to action. | Am J Med
+- new | 2026 | 42878429 | Review | Amazonian and Related Phytotherapy for Cancer-Related Fatigue: A Narrative Review of Clinical and Mechanistic Evidence. | Integr Cancer Ther
+- new | 2026 | 41745077 | Review | Efficacy of Phytotherapy for Cancer-Related Fatigue: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Diseases
+- new | 2025 | 41640686 | Systematic Review | The effect of plant active substances on cognitive function in healthy older adults: a systematic review and network meta-analysis of randomized controlled trials. | Front Pharmacol
+- new | 2025 | 41394145 | Systematic Review | Systematic review and network meta-analysis of the effects of plant active substance on quality of life in breast cancer patients. | Front Pharmacol
+- HELD REF-0955 | 2024 | 37898479 | Randomized Controlled Trial | Guarana (Paullinia cupana) but Not Low-Dose Caffeine Improves Cycling Time-Trial Performance Versus Placebo. | Int J Sport Nutr Exerc Metab
+- HELD REF-3707 | 2024 | 39536249 | Meta-Analysis/Systematic Review | Natural supplementation to effectively treat cancer-induced fatigue: evidence of a meta-analysis on the use of guaraná. | Rev Assoc Med Bras (1992)
+- new | 2024 | 38931247 | Randomized Controlled Trial | Effects of Acute Guarana (Paullinia cupana) Ingestion on Mental Performance and Vagal Modulation Compared to a Low Dose of Caffeine. | Nutrients
+- new | 2024 | 38367243 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of the active botanical blend "WKUP GT" on attention and cognitive functions after lunch in healthy volunteers. | Hum Psychopharmacol
+- new | 2024 | 38958672 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of Acute Ingestion of Guarana (Paullinia Cupana) on Soccer Player Performance: A Randomized, Cross-over, Placebo-Controlled Study. | J Am Nutr Assoc
+- new | 2023 | 35174607 | Controlled Clinical Trial | Effects of repeated use of a commercial topical lotion on subcutaneous fat thickness in resistance-trained male athletes. | J Cosmet Dermatol
+- HELD REF-0950 | 2023 | 36678305 | Meta-Analysis/Systematic Review | Effect of Guarana (Paullinia cupana) on Cognitive Performance: A Systematic Review and Meta-Analysis. | Nutrients
+- new | 2023 | 36146946 | Randomized Controlled Trial | Cognitive effects of guarana supplementation with maximal intensity cycling. | Br J Nutr
+- new | 2023 | 36736038 |  | A coffee enriched with guarana, selenium, and l-carnitine (GSC) has nutrigenomic effects on oxi-inflammatory markers of relapsing-remitting multiple sclerosis patients: A pilot stu | Mult Scler Relat Disord
+- new | 2023 | 36651448 |  | Accumulation and decomposition of cultural residues of Theobroma grandiflorum, Paullinia cupana, Bixa orellana and forest in the southern region of Amazonas. | Braz J Biol
+- new | 2023 | 37111136 | Randomized Controlled Trial | Effects of Dietary Supplementation of a Microalgae Extract Containing Fucoxanthin Combined with Guarana on Cognitive Function and Gaming Performance. | Nutrients
+- new | 2022 | 36612088 | Review | Meta-Analysis of Pharmacological, Nutraceutical and Phytopharmaceutical Interventions for the Treatment of Cancer Related Fatigue. | Cancers (Basel)
+- new | 2022 | 35458131 | Randomized Controlled Trial | Acute Effect of Caffeine-Based Multi-Ingredient Supplement on Reactive Agility and Jump Height in Recreational Handball Players. | Nutrients
+- HELD REF-0951 | 2021 | 34146166 | Meta-Analysis/Systematic Review | The use of guarana (Paullinia cupana) as a dietary supplement for fatigue in cancer patients: a systematic review with a meta-analysis. | Support Care Cancer
+- new | 2020 | 31338640 | Randomized Controlled Trial | Impact of a topical lotion, CG428, on permanent chemotherapy-induced alopecia in breast cancer survivors: a pilot randomized double-blind controlled clinical trial (VOLUME RCT). | Support Care Cancer
+- new | 2019 | 30300016 |  | Effects of Carbohydrate, Caffeine, and Guarana on Cognitive Performance, Perceived Exertion, and Shooting Performance in High-Level Athletes. | Int J Sports Physiol Perform
+- HELD REF-3710 | 2018 | 29190155 | Randomized Controlled Trial | Purified Dry Paullinia cupana (PC-18) Extract for Chemotherapy-Induced Fatigue: Results of Two Double-Blind Randomized Clinical Trials. | J Diet Suppl
+- new | 2018 | 29915949 | Systematic Review | Dietary supplements and fatigue in patients with breast cancer: a systematic review. | Breast Cancer Res Treat
+- new | 2018 | 29732286 |  | Safety and efficacy of daily Revactin(®) in men with erectile dysfunction: a 3-month pilot study. | Transl Androl Urol
+- new | 2017 | 28598402 | Randomized Controlled Trial | Cognitive Performance Enhancement Induced by Caffeine, Carbohydrate and Guarana Mouth Rinsing during Submaximal Exercise. | Nutrients
+- new | 2017 | 25259737 | Comparative Study/Randomized Controlled Trial | The effect of a single dose of multivitamin and mineral combinations with and without guaraná on functional brain activity during a continuous performance task. | Nutr Neurosci
+- new | 2017 | 27322597 |  | Placebo-Controlled, Double-Blind, Randomized Study of a Dry Guarana Extract in Patients with Head and Neck Tumors Undergoing Chemoradiotherapy: Effects on Fatigue and Quality of Li | J Diet Suppl
+- new | 2016 | 25695932 | Clinical Trial, Phase II/Research Support, Non-U.S. Gov't | Guarana (Paullinia cupana) Improves Anorexia in Patients with Advanced Cancer. | J Diet Suppl
+- new | 2015 | 25811312 | Research Support, Non-U.S. Gov't/Systematic Review | The impact of complementary and alternative medicines on cancer symptoms, treatment side effects, quality of life, and survival in women with breast cancer--a systematic review. | Nutr Cancer
+- new | 2015 | 26225993 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The Effects of Supplementation with a Vitamin and Mineral Complex with Guaraná Prior to Fasted Exercise on Affect, Exertion, Cognitive Performance, and Substrate Metabolism: A Rand | Nutrients
+- new | 2015 | 26612980 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Acute effectiveness of a "fat-loss" product on substrate utilization, perception of hunger, mood state and rate of perceived exertion at rest and during exercise. | J Int Soc Sports Nutr
+- new | 2014 | 25558905 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Heart rate variability and cognitive function following a multi-vitamin and mineral supplementation with added guarana (Paullinia cupana). | Nutrients
+- HELD REF-3709 | 2013 | 24237188 | Clinical Trial, Phase II/Randomized Controlled Trial | Purified dry extract of Paullinia cupana (guaraná) (PC-18) for chemotherapy-related fatigue in patients with solid tumors: an early discontinuation study. | J Diet Suppl
+- new | 2013 | 24488380 |  | Paullinia cupana for control of hot flashes in breast cancer patients: a pilot study. | Einstein (Sao Paulo) [eng,por]
+- new | 2013 | 23207186 | Randomized Controlled Trial | Acute effects of a herb extract formulation and inulin fibre on appetite, energy intake and food choice. | Appetite
+- new | 2013 | 23706111 | Randomized Controlled Trial | Effects of a commercial product containing guaraná on psychological well-being, anxiety and mood: a single-blind, placebo-controlled study in healthy subjects. | J Negat Results Biomed
+- new | 2013 | 24067387 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Acute effects of different multivitamin mineral preparations with and without Guaraná on mood, cognitive performance and functional brain activation. | Nutrients
+- new | 2012 | 23206286 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S./Review | Do energy drinks contain active components other than caffeine? | Nutr Rev
+- new | 2011 | 21321035 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S./Review | Health effects of energy drinks on children, adolescents, and young adults. | Pediatrics
+- new | 2011 | 22151935 | Controlled Clinical Trial | Dermal penetration of creatine from a face-care formulation containing creatine, guarana and glycerol is linked to effective antiwrinkle and antisagging efficacy in male subjects. | J Cosmet Dermatol
+- HELD REF-3708 | 2011 | 21612429 | Clinical Trial, Phase II/Randomized Controlled Trial | Guarana (Paullinia cupana) improves fatigue in breast cancer patients undergoing systemic chemotherapy. | J Altern Complement Med
+- new | 2010 | 21268950 | Review | Cancer-related fatigue. | Acta Clin Belg
+- HELD REF-3711 | 2009 | 19388866 | Randomized Controlled Trial | Effectiveness of guaraná (Paullinia cupana) for postradiation fatigue and depression: results of a pilot double-blind randomized study. | J Altern Complement Med
+- new | 2008 | 18617377 | Randomized Controlled Trial | Lipolytic effect of a polyphenolic citrus dry extract of red orange, grapefruit, orange (SINETROL) in human body fat adipocytes. Mechanism of action by inhibition of cAMP-phosphodi | Phytomedicine
+- new | 2008 | 18077056 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Improved cognitive performance and mental fatigue following a multi-vitamin and mineral supplement with added guaraná (Paullinia cupana). | Appetite
+- HELD REF-0106 | 2007 | 16533867 | Controlled Clinical Trial | A double-blind, placebo-controlled, multi-dose evaluation of the acute behavioural effects of guaraná in humans. | J Psychopharmacol
+- new | 2006 | 17052970 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Efficacy of 12 weeks supplementation of a botanical extract-based weight loss formula on body weight, body composition and blood chemistry in healthy, overweight subjects--a random | Eur J Med Res
+- new | 2006 | 16418760 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Metabolic and physiological effects of ingesting extracts of bitter orange, green tea and guarana at rest and during treadmill walking in overweight males. | Int J Obes (Lond)
+- new | 2005 | 15836459 | Systematic Review | Adverse events of herbal food supplements for body weight reduction: systematic review. | Obes Rev
+- new | 2005 | 15798997 | Research Support, Non-U.S. Gov't | Clinical toxicology study of an herbal medicinal extract of Paullinia cupana, Trichilia catigua, Ptychopetalum olacoides and Zingiber officinale (Catuama) in healthy volunteers. | Phytother Res
+- new | 2005 | 15961987 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, P.H.S. | Short-term metabolic and hemodynamic effects of ephedra and guarana combinations. | Clin Pharmacol Ther
+- new | 2005 | 16176615 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of encapsulated green tea and Guarana extracts containing a mixture of epigallocatechin-3-gallate and caffeine on 24 h energy expenditure and fat oxidation in men. | Br J Nutr
+- new | 2005 | 16366740 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effect of an herbal supplement containing black tea and caffeine on metabolic parameters in humans. | Altern Med Rev
+- new | 2004 | 15582012 | Clinical Trial/Comparative Study/Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Improved cognitive performance in human volunteers following administration of guarana (Paullinia cupana) extract: comparison and interaction with Panax ginseng. | Pharmacol Biochem Behav
+- new | 2002 | 12087345 | Clinical Trial/Research Support, U.S. Gov't, P.H.S. | Pharmacology of ephedra alkaloids and caffeine after single-dose dietary supplement use. | Clin Pharmacol Ther
+- new | 2001 | 11319627 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | An herbal supplement containing Ma Huang-Guarana for weight loss: a randomized, double-blind trial. | Int J Obes Relat Metab Disord
+- new | 2001 | 11424516 | Clinical Trial/Randomized Controlled Trial | Weight loss and delayed gastric emptying following a South American herbal preparation in overweight patients. | J Hum Nutr Diet
+- new | 2000 | 10997530 | Review | Alternative therapies: Part I. Depression, diabetes, obesity. | Am Fam Physician
+- new | 1996 | 8984582 | Clinical Trial/Comparative Study/Randomized Controlled Trial | The effects of long-term administration of guarana on the cognition of normal, elderly volunteers. | Sao Paulo Med J
+- new | 1994 | 7638522 | Clinical Trial/Randomized Controlled Trial | Acute effects of the Paulinia cupana, "Guaraná" on the cognition of normal volunteers. | Sao Paulo Med J
+
+### PubMed SR - 15 hits, 5 not already listed above, 5 new
+- new | 2025 | 41266869 | Systematic Review | Energy Drinks as the Legal Cocaine? A Comparative Review of Cardiac Physiopathological and Histopathological Patterns. | Cardiovasc Toxicol
+- new | 2023 | 37111219 | Meta-Analysis/Systematic Review | Comment on Hack et al. Effect of Guarana (Paullinia cupana) on Cognitive Performance: A Systematic Review and Meta-Analysis. Nutrients 2023, 15, 434. | Nutrients
+- new | 2023 | 36987052 | Review | Nootropic Herbs, Shrubs, and Trees as Potential Cognitive Enhancers. | Plants (Basel)
+- new | 2023 | 37111221 | Meta-Analysis/Systematic Review | Reply to Gurney, T.; Ronca, F. Comment on "Hack et al. Effect of Guarana (Paullinia cupana) on Cognitive Performance: A Systematic Review and Meta-Analysis. Nutrients 2023, 15, 434 | Nutrients
+- new | 2021 | 33802176 | Review | The Use and Impact of Cognitive Enhancers among University Students: A Systematic Review. | Brain Sci
+
+### PubMed SAFE - 105 hits, 89 not already listed above, 86 new
+- new | 2026 | 42329224 |  | Caffeine levels and voluntary labelling accuracy of guarana-containing solid foods in Korea: A pre-implementation market baseline (2020-2021). | Food Addit Contam Part A Chem Anal Contr
+- new | 2026 | 42891593 | Video-Audio Media | Hepatoprotective Effects of N-Acetylcysteine and Guarana in a Wistar Rat Model of Acute Acetaminophen Toxicity. | J Vis Exp
+- new | 2026 | 39718445 |  | The impact of Paullinia cupana extract on pharmacokinetics of phenytoin in rats. | Nat Prod Res
+- new | 2025 | 40722985 |  | Guarana, Selenium, and L-Carnitine Supplementation Improves the Oxidative Profile but Fails to Reduce Tissue Damage in Rats with Osteoarthritis. | Antioxidants (Basel)
+- new | 2025 | 39989980 |  | Preventive treatment with guarana powder (Paullinia cupana) mitigates acute paracetamol-induced hepatotoxicity by modulating oxidative stress. | Toxicol Rep
+- new | 2024 | 38914193 |  | Safety and efficacy indicators of guarana and Brazil nut extract carried in nanoparticles of coenzyme Q10: Evidence from human blood cells and red earthworm experimental model. | Food Chem Toxicol
+- new | 2024 | 38985071 |  | Bisphenol-A induced cyto-genotoxicity on retinal pigment epithelial cells is differentially modulated by a multi-supplement containing guarana, selenium, and L-carnitine. | Braz J Biol
+- new | 2024 | 39371681 |  | Impacts of gentamycin toxicity: nephroprotective role of guarana through different signaling pathways. | Toxicol Res (Camb)
+- new | 2023 | 36862943 | Review | International society of sports nutrition position stand: energy drinks and energy shots. | J Int Soc Sports Nutr
+- new | 2023 | 36168017 |  | Paullinia cupana seed extract ameliorated methotrexate-induced testicular dysfunction through the regulation of antioxidants, inflammatory, apoptosis/anti-apoptosis, and steroidoge | Environ Sci Pollut Res Int
+- new | 2023 | 36747348 |  | Metabolism of guarana (Paullinia cupana Kunth var. sorbilis) plants and fruit production subjected to glyphosate doses. | J Environ Sci Health B
+- new | 2022 | 36014874 | Review | Nootropics as Cognitive Enhancers: Types, Dosage and Side Effects of Smart Drugs. | Nutrients
+- new | 2022 | 36447122 | Review | Mental Performance and Sport: Caffeine and Co-consumed Bioactive Ingredients. | Sports Med
+- new | 2022 | 36461205 | Review/Research Support, Non-U.S. Gov't | Antiproliferative effects and main molecular mechanisms of Brazilian native fruits and their by-products on lung cancer. | Food Res Int
+- new | 2022 | 34432547 |  | Comparative Study on the Effects of Paullinia cupana, PC-18 and Magnesium Chloride on Solid Ehrlich Tumor. | J Med Food
+- new | 2022 | 35148411 |  | Development and Validation of Ultra Performance Liquid Chromatography (UPLC) Method for the Quantitative Estimation of Caffeine in Non-Alcoholic Soft and Energy Drinks. | J AOAC Int
+- HELD REF-0952 | 2021 | 34262701 |  | Protective effects of guarana (Paullinia cupana) against methotrexate-induced intestinal damage in mice. | Food Sci Nutr
+- new | 2021 | 35633827 | Case Reports | Energy Drink-Associated Cardiomyopathy after Excessive Consumption: A Case Report. | J Tehran Heart Cent
+- new | 2021 | 33596454 |  | Safety indicators of a novel multi supplement based on guarana, selenium, and L-carnitine: Evidence from human and red earthworm immune cells. | Food Chem Toxicol
+- new | 2021 | 33270240 | Research Support, Non-U.S. Gov't | Aqueous extract of Paullinia cupana attenuates renal and hematological effects associated with ketoprofen. | J Food Biochem
+- HELD REF-0958 | 2020 | 30198423 |  | Guarana (Paullinia cupana Mart.) protects against amyloid-β toxicity in Caenorhabditis elegans through heat shock protein response activation. | Nutr Neurosci
+- new | 2020 | 32595273 |  | Identifying Herbal Adverse Events From Spontaneous Reporting Systems Using Taxonomic Name Resolution Approach. | Bioinform Biol Insights
+- new | 2020 | 31343956 | Research Support, Non-U.S. Gov't/Review | Nutraceutical Potential of Diet Drinks: A Critical Review on Components, Health Effects, and Consumer Safety. | J Am Coll Nutr
+- new | 2020 | 32719085 |  | Application of Cryopreserved Human Intestinal Mucosa and Cryopreserved Human Enterocytes in the Evaluation of Herb-Drug Interactions: Evaluation of CYP3A Inhibitory Potential of Gr | Drug Metab Dispos
+- new | 2020 | 31757446 |  | Protective effect of guarana-loaded liposomes on hemolytic activity. | Colloids Surf B Biointerfaces
+- new | 2019 | 30547260 |  | The Influence of a Xanthine-Catechin Chemical Matrix on in vitro Macrophage-Activation Triggered by Antipsychotic Ziprasidone. | Inflammation
+- new | 2019 | 31482331 | Review | European Cardiac Arrhythmia Society Statement on the cardiovascular events associated with the use or abuse of energy drinks. | J Interv Card Electrophysiol
+- new | 2019 | 30868680 |  | Guarana supplementation attenuated obesity, insulin resistance, and adipokines dysregulation induced by a standardized human Western diet via brown adipose tissue activation. | Phytother Res
+- new | 2019 | 31539257 |  | Safety of Guarana Seed as a Dietary Ingredient: A Review. | J Agric Food Chem
+- new | 2019 | 30763379 | Research Support, Non-U.S. Gov't | In vitro evaluation of the protective effects of plant extracts against amyloid-beta peptide-induced toxicity in human neuroblastoma SH-SY5Y cells. | PLoS One
+- new | 2018 | 30042909 | Case Reports | Energy Drinks and Myocardial Infarction. | Cureus
+- new | 2018 | 29534980 |  | Effects of Paullinia cupana extract on lamotrigine pharmacokinetics in rats: A herb-drug interaction on the gastrointestinal tract with potential clinical impact. | Food Chem Toxicol
+- new | 2018 | 29405235 | Research Support, Non-U.S. Gov't | Neuroprotective Effects of Guarana (Paullinia cupana Mart.) against Vincristine in Vitro Exposure. | J Prev Alzheimers Dis
+- new | 2018 | 29649297 | Research Support, Non-U.S. Gov't | Diversity of cultivable fungal endophytes in Paullinia cupana (Mart.) Ducke and bioactivity of their secondary metabolites. | PLoS One
+- new | 2017 | 27904988 | Case Reports/Review | Acute visual loss and intraretinal hemorrhages associated to energy drink consumption. | Int Ophthalmol
+- new | 2017 | 29290737 |  | Abuse and Misuse of Selected Dietary Supplements Among Adolescents: a Look at Poison Center Data. | J Pediatr Pharmacol Ther
+- new | 2017 | 27913821 |  | Theobromine Upregulates Osteogenesis by Human Mesenchymal Stem Cells In Vitro and Accelerates Bone Development in Rats. | Calcif Tissue Int
+- new | 2016 | 28316775 |  | Guarana (Paullinia cupana Mart.) attenuates methylmercury-induced toxicity in Caenorhabditis elegans. | Toxicol Res (Camb)
+- new | 2016 | 26948409 | Multicenter Study | Adverse Effects of Plant Food Supplements and Plants Consumed as Food: Results from the Poisons Centres-Based PlantLIBRA Study. | Phytother Res
+- new | 2016 | 25791997 | Comparative Study/Research Support, Non-U.S. Gov't | Genoprotective and hepatoprotective effects of Guarana (Paullinia cupana Mart. var. sorbilis) on CCl4-induced liver damage in rats. | Drug Chem Toxicol
+- new | 2016 | 26928206 | Research Support, Non-U.S. Gov't | Adverse Effects of Plant Food Supplements Self-Reported by Consumers in the PlantLIBRA Survey Involving Six European Countries. | PLoS One
+- new | 2015 | 26035983 | Case Reports/Review | Celiac trunk and branches dissection due to energy drink consumption and heavy resistance exercise: case report and review of literature. | Bol Asoc Med P R
+- new | 2014 | 25293549 | Research Support, N.I.H., Extramural/Review | Energy drinks mixed with alcohol: what are the risks? | Nutr Rev
+- new | 2014 | 25632790 | Case Reports | Acute caffeine poisoning resulting in atrial fibrillation after guarana extract overdose. | Przegl Lek
+- new | 2013 | 23896014 | Case Reports | Death of a young man after overuse of energy drink. | Am J Emerg Med
+- new | 2013 | 23374013 | Case Reports | Potential toxicity of caffeine when used as a dietary supplement for weight loss. | J Diet Suppl
+- new | 2013 | 23879181 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | An analysis of energy-drink toxicity in the National Poison Data System. | Clin Toxicol (Phila)
+- new | 2013 | 23220610 | Research Support, Non-U.S. Gov't | The protective effects of guaraná extract (Paullinia cupana) on fibroblast NIH-3T3 cells exposed to sodium nitroprusside. | Food Chem Toxicol
+- new | 2012 | 36753599 | Review | Guarana. | 
+- new | 2012 | 22324861 | Review | Energy drinks: what is all the hype? The dangers of energy drink consumption. | J Am Acad Nurse Pract
+- new | 2012 | 22675703 |  | Guarana: Paullinia cupana, P. sorbilis; also known as Brazilian cocoa and 'zoom'. | J Prim Health Care
+- new | 2012 | 23157583 | Case Reports | Potential toxicity of caffeine when used as a dietary supplement for weight loss. | J Diet Suppl
+- new | 2012 | 23304200 |  | Herb-Drug Interaction of Paullinia cupana (Guarana) Seed Extract on the Pharmacokinetics of Amiodarone in Rats. | Evid Based Complement Alternat Med
+- new | 2012 | 23104127 | Case Reports | Death by caffeine: presumptive malicious poisoning of a dog by incorporation in ground meat. | J Med Toxicol
+- new | 2011 | 21537710 | Review | Cancer-related fatigue: a review. | Rev Assoc Med Bras (1992) [eng,por]
+- new | 2011 | 21676849 |  | Hypertensive Urgency Associated With Xenadrine EFX Use. | J Pharm Pract
+- new | 2010 | 20492310 | Review | Caffeine (1, 3, 7-trimethylxanthine) in foods: a comprehensive review on consumption, functionality, safety, and regulatory matters. | J Food Sci
+- new | 2010 | 21037046 | Review | Energy beverages: content and safety. | Mayo Clin Proc
+- new | 2010 | 20631477 | Review | Energy drinks: a review of use and safety for athletes. | Phys Sportsmed
+- new | 2010 | 20424408 |  | Effects of commercial energy drink consumption on athletic performance and body composition. | Phys Sportsmed
+- new | 2010 | 20633025 | Review | Safety of herbal supplements: a guide for cardiologists. | Cardiovasc Ther
+- new | 2010 | 20716937 | Research Support, Non-U.S. Gov't | A novel dietary supplement containing multiple phytochemicals and vitamins elevates hepatorenal and cardiac antioxidant enzymes in the absence of significant serum chemistry and ge | Oxid Med Cell Longev
+- new | 2009 | 19734657 | Research Support, Non-U.S. Gov't | Inhibitory effects of guarana seed extract on passive cutaneous anaphylaxis and mast cell degranulation. | Biosci Biotechnol Biochem
+- new | 2009 | 19140118 |  | Attitudes and knowledge toward natural products safety in the pharmacy setting: an Italian study. | Phytother Res
+- new | 2008 | 18595815 | Review | Safety issues associated with commercially available energy drinks. | J Am Pharm Assoc (2003)
+- new | 2007 | 17349826 | Case Reports | New-onset seizures in adults: possible association with consumption of popular energy drinks. | Epilepsy Behav
+- new | 2007 | 17344170 | Case Reports | [Acute renal failure caused by plant extract]. | Orv Hetil [hun]
+- new | 2006 | 16492795 | Case Reports | Acute tubular necrosis associated with chromium picolinate-containing dietary supplement. | Ann Pharmacother
+- new | 2006 | 16328317 |  | Safety implications regarding use of phytomedicines. | Eur J Clin Pharmacol
+- new | 2006 | 17126636 | Research Support, U.S. Gov't, P.H.S. | Availability of weight-loss supplements: Results of an audit of retail outlets in a southeastern city. | J Am Diet Assoc
+- new | 2006 | 16902808 |  | Pre-exposure to a novel nutritional mixture containing a series of phytochemicals prevents acetaminophen-induced programmed and unprogrammed cell deaths by enhancing BCL-XL express | Mol Cell Biochem
+- new | 2006 | 16406177 | Research Support, Non-U.S. Gov't | Protective effects of guarana (Paullinia cupana Mart. var. Sorbilis) against DEN-induced DNA damage on mouse liver. | Food Chem Toxicol
+- new | 2005 | 15657116 | Letter/Review | Potential for toxicity with use of bitter orange extract and guarana for weight loss. | Ann Pharmacother
+- HELD REF-5042 | 2005 | 16159994 |  | Evaluation of herbal dietary supplements marketed on the internet for recreational use. | Ann Pharmacother
+- new | 2005 | 15620524 | Comparative Study/Research Support, Non-U.S. Gov't | Comparative study between capillary electrophoresis and high performance liquid chromatography in 'guarana' based phytopharmaceuticals. | J Pharm Biomed Anal
+- new | 2005 | 15895207 | Research Support, Non-U.S. Gov't | Short-term and long-term in vivo exposure to an ephedra- and caffeine-containing metabolic nutrition system does not induce cardiotoxicity in B6C3F1 mice. | Arch Toxicol
+- new | 2005 | 15537744 |  | Acute hemorrhagic myocardial necrosis and sudden death of rats exposed to a combination of ephedrine and caffeine. | Toxicol Sci
+- new | 2004 | 15201651 | Case Reports | Rhabdomyolysis in response to weight-loss herbal medicine. | Am J Med Sci
+- new | 2002 | 15277107 |  | Cardiovascular adverse reactions associated with Guarana: is there a causal effect? | J Herb Pharmacother
+- new | 2002 | 12298422 | Research Support, U.S. Gov't, P.H.S./Review | An evaluation of selected herbal reference texts and comparison to published reports of adverse herbal events. | Adverse Drug React Toxicol Rev
+- new | 2002 | 11974441 | Review | [Ma Huang, from dietary supplement to abuse]. | Acta Clin Belg [fre]
+- new | 2002 | 24862522 |  | Ma Huang, du complement alimentaire a l'abus. | Acta Clin Belg
+- new | 2001 | 11419773 | Case Reports | Caffeine-induced cardiac arrhythmia: an unrecognised danger of healthfood products. | Med J Aust
+- new | 2001 | 12609386 |  | Herbal Medicines and Epilepsy: The Potential for Benefit and Adverse Effects. | Epilepsy Behav
+- new | 2001 | 11229306 | Case Reports/Letter | [Cerebral infarction in a patient consuming MaHuang extract and guarana]. | Presse Med [fre]
+- new | 2000 | 10938194 | Case Reports/Letter | Myoglobinuria after ingestion of extracts of guarana, Ginkgo biloba and kava. | Neurol Sci
+- new | 1998 | 9570905 | Research Support, Non-U.S. Gov't | Evaluation of the toxicity of guarana with in vitro bioassays. | Ecotoxicol Environ Saf
+- new | 1994 | 7513067 | Research Support, Non-U.S. Gov't | Genotoxic and mutagenic effects of guarana (Paullinia cupana) in prokaryotic organisms. | Mutat Res
+- new | 1992 | 1417698 | Review | Widespread tannin intake via stimulants and masticatories, especially guarana, kola nut, betel vine, and accessories. | Basic Life Sci
+
+### PubMed OBS - 5 hits, 3 not already listed above, 3 new
+- new | 2026 | 42588095 | Review | Potential Relevance of Amazonian Diet Components in Parkinson's Disease: An Integrative Review with Multivariate Analysis. | Nutrients
+- new | 2016 | 27532758 | Comparative Study | Changes in beverage consumption among adolescents from public schools in the first decade of the century XXI. | Rev Bras Epidemiol [eng,por]
+- new | 2011 | 21341338 | Research Support, Non-U.S. Gov't | Habitual intake of guaraná and metabolic morbidities: an epidemiological study of an elderly Amazonian population. | Phytother Res
+
+### PubMed REV - 57 hits, 10 not already listed above, 9 new
+- new | 2024 | 38916807 | Review | Amazonian Fruits for Treatment of Non-Communicable Diseases. | Curr Nutr Rep
+- new | 2023 | 38126638 | Review | Guarana propagation strategies: a review. | Braz J Biol
+- new | 2023 | 36673435 | Review | Bioactive Compounds from Fruits as Preservatives. | Foods
+- HELD REF-0954 | 2022 | 34755935 | Research Support, Non-U.S. Gov't/Review | Effects of the consumption of guarana on human health: A narrative review. | Compr Rev Food Sci Food Saf
+- new | 2022 | 35400408 | Review | Signaling pathways and the potential anticarcinogenic effect of native Brazilian fruits on breast cancer. | Food Res Int
+- new | 2018 | 29864619 | Review | Mechanistic considerations in chemotherapeutic activity of caffeine. | Biomed Pharmacother
+- new | 2017 | 29225735 | Review | Effects of energy drinks on the cardiovascular system. | World J Cardiol
+- new | 2013 | 23981847 | Research Support, Non-U.S. Gov't/Review | Guarana: revisiting a highly caffeinated plant from the Amazon. | J Ethnopharmacol
+- new | 2010 | 20682226 | Review | Problematic use of energy drinks by adolescents. | Child Adolesc Psychiatr Clin N Am
+- new | 2006 | 30000527 | Review | Caffeine. | 
+
+### ClinicalTrials.gov - 19 registered studies
+- NCT07469475 | ACTIVE_NOT_RECRUITING | results=False | PHASE1,PHASE2 | Effect of a Daily Supplement on Plasma PAI-1 Levels | conds: Aging, Endothelial Dysfunction, Senescence | intr: Supplement with ginger extract, L-citrulline, Paullinia cupana, and muira puama
+- NCT00144235 | COMPLETED | results=False | PHASE3 | Pharmaton Upgrade in Improving Mental Performance and Decreasing Fatigue | conds: Mental Competency, Mental Fatigue | intr: Pharmaton PHL 00749, Placebo
+- NCT07816263 | RECRUITING | results=False |  | Guaraná Supplementation for Cancer-Related Fatigue | conds: Cancer-related Fatigue, Breast Cancer, Lung Cancer, Colorectal Cancer | intr: Guaraná (Paullinia cupana)
+- NCT06898840 | COMPLETED | results=False | NA | Establishing the Glycaemic Index of Fruit Drinks Using Different Measurement Methodologies | conds: Glycaemic Index, Glycaemic Response Measurements | intr: Fruit drink
+- NCT01622101 | COMPLETED | results=False | NA | Thermogenic Properties of Zantrex-3 | conds: Obesity | intr: Thermogenic properties of Zantrex-3®
+- NCT01929694 | COMPLETED | results=False | PHASE4 | The Effect of Consuming a guaraná and Vitamin/Mineral Complex Pre-exercise on Affect, Exertion, Metabolism and Cognition | conds: Affect and Exertion During and Post-exercise | intr: Berocca Boost, Placebo
+- NCT05061797 | COMPLETED | results=False | NA | A Study to Examine the Effect of a Thermogenic Energy Drink in Healthy Adults | conds: Metabolism | intr: Thermogenic Energy Drink - Active Study Product Formula, Placebo
+- NCT03823196 | COMPLETED | results=False | NA | Bioavailability, Pharmacokinetic and Mechanistic Study of Sinetrol® Xpur, a Polyphenol-rich Ingredient | conds: Overweight | intr: Verum900, Verum1800 | pubs: ['39415279:DERIVED (new)', '37943075:DERIVED (new)']
+- NCT00615316 | COMPLETED | results=False | PHASE2 | Guaraná for Radiation Related Fatigue in Breast Cancer Patients | conds: Fatigue | intr: Guaraná, Placebo
+- NCT02185638 | COMPLETED | results=False | NA | Appetite Suppression Effects of an Herbal Combination of Yerba maté, Guarana, Damiana (YGD), and 12 Other Herbal Components, Versus YGD Supp | conds: Obesity | intr: Appetite suppressant properties of YGD and A20-50
+- NCT03423719 | COMPLETED | results=False | NA | Evaluation of Fiit-ns® in Health-related Quality of Life Improvement in Overweight and Obese Subjects | conds: Overweight and Obesity | intr: Fiit-ns®, Placebo
+- NCT04630977 | UNKNOWN | results=False | NA | Long-term Intervention Effects of a Personalized, Home-based Exercise Program and Nutritional Advice, Along With the Inclusion of a Pre-work | conds: Muscle Loss, Obesity, Obesity, Abdominal, Weight Loss | intr: Multi-ingredient Pre-workout supplement, Progressive Resistance Training, Nutritional Patterns Guide
+- NCT07151391 | RECRUITING | results=False | PHASE2 | The Use of Guarana to Treat Fatigue in Patients With Neuroendocrine Tumors and Gynecologic Cancers (Guarana Fatigue) | conds: Neuroendocrine Tumors, Gynecologic Cancer | intr: Guarana, Placebo
+- NCT05595915 | COMPLETED | results=False | PHASE1,PHASE2 | COMP-4 Supplementation and Brachial Artery FMD | conds: Aging, Endothelial Dysfunction, Senescence | intr: COMP-4
+- NCT04455009 | COMPLETED | results=False | NA | Acute Effects of Fitness Drink Formulas on Energy Expenditure and Fat Metabolism | conds: Caffeine, Diet, Healthy, Fat Burn, Cognitive Change | intr: Fitness Drink Formula
+- NCT04685005 | COMPLETED | results=False | NA | "WakeUp" for Vigilance Following Lunch | conds: Fatigue | intr: "Wake Up", Caffeine
+- NCT03897556 | COMPLETED | results=False | NA | Effect of High-Dose Guarana And Cancer-Related Fatigue | conds: Cancer-related Fatigue | intr: Guarana herb, Usual Care
+- NCT01540019 | UNKNOWN | results=False | PHASE1,PHASE2 | Paullinia Cupana for Anorexia in Oncologic Patients | conds: Cancer-related Problem/Condition, Anorexia, Loss of Weight | intr: Paullinia cupana
+- NCT01043913 | COMPLETED | results=False | PHASE2 | Guarana (Paullinia Cupana) for Breast Cancer Chemotherapy-related Fatigue | conds: Signs and Symptoms, Neoplasms, Neoplasms by Site, Fatigue | intr: Guarana extract | pubs: ['19388866:RESULT (HELD REF-3711)', '18077056:RESULT (new)']
+
+### OpenAlex no-PMID trial-worded - 555 hits, 42 without PMID, 39 new
+- new | 2026 | 10.1007/s11332-026-01969-2 | article | Guarana (Paullinia cupana) improves anaerobic performance: a randomized, crossover, double-blind, placebo-controlled clinical trial | Sport Sciences for Health
+- new | 2026 | 10.34172/jsums.1151 | article | Effects of Resistance Training and Paullinia cupana Supplementation on Body Composition, Liver Enzymes, Lipid Profile, and Inflammation in Overweight Young Women: A Randomized Cont | Journal of Shahrekord University of Medi
+- new | 2026 | 10.1055/s-0046-1825986 | article | The Clinical Use of Amazonian Plants for the Treatment of Advanced Cancer Related Symptoms: A Review of Clinical Trials | Brazilian Journal of Oncology
+- new | 2026 | 10.5281/zenodo.23938105 | article | Effect of Nootropic Guarana (Paullinia Cupana) Supplement on Simple and Choice Reaction Time in Young Healthy Adults | Zenodo (CERN European Organization for N
+- new | 2026 | 10.3389/fanim.2026.1729844 | article | Guarana (Paullinia cupana var. sorbilis) as a dietary additive for finishing pigs: impacts on digestibility, growth performance, and carcass traits | Frontiers in Animal Science
+- new | 2024 | https://openalex.org/W7120348344 | dissertation | Efeitos da suplementação com guaraná (Paullinia cupana) sobre a aptidão anaeróbia: um ensaio clínico randomizado, cruzado, duplo cego e placebo controlado | LA Referencia (Red Federada de Repositor
+- new | 2024 | https://openalex.org/W7120343148 | dissertation | Efeito da ingestão aguda de guaraná (Paullinia cupana) e cafeína no desempenho físico de jogadores de futebol das categorias de base : ensaio clínico randomizado, crossover e contr | LA Referencia (Red Federada de Repositor
+- new | 2023 | 10.1016/b978-0-323-90052-2.00021-4 | book-chapter | Guarana (Paullinia cupana Kunth): Applications to Alzheimer's disease and dementias | Elsevier eBooks
+- HELD REF-0950 | 2023 | 10.1249/01.mss.0000987068.15525.c6 | conference-abstract | Effect Of Guarana (Paullinia Cupana) On Cognitive Performance: A Systematic Review And Meta-analysis | Medicine & Science in Sports & Exercise
+- new | 2023 | 10.1016/j.jff.2023.105944 | review | Effects of guarana (Paullinia cupana) powder on obesity-associated diseases in animal models: A systematic review | Journal of Functional Foods
+- HELD REF-0951 | 2020 | https://openalex.org/W7120579933 | dissertation | The use of guarana (Paullinia Cupana) as a dietary supplement for fatigue in cancer patients: a systematic review with meta-analysis | LA Referencia (Red Federada de Repositor
+- new | 2020 | 10.1016/j.jff.2020.104105 | article | Supplementation with babassu oil reduces fatigue and inflammation in breast cancer patients: A pilot randomized clinical trial | Journal of Functional Foods
+- new | 2019 | 10.18311/jnr/2019/22737 | article | Use of Guarana for Hot Flashes after Breast Cancer: Randomized, Double-Blind, Placebo-Controlled Phase II Trial | Journal of Natural Remedies
+- new | 2019 | 10.52095/gpa.2020.1332 | review | The effects of Guarana (Paullinia cupana) supplementation on the cognitive performance of young healthy adults – a Systematic Review | GLOBAL PSYCHIATRY ARCHIVES
+- new | 2019 | 10.14309/01.ajg.0000591572.44054.f1 | article | Ginger, Paullinia Cupana, Muira Puama, and L-citrulline (COMP-4) as a Novel Natural Treatment for Severe Constipation | The American Journal of Gastroenterology
+- new | 2019 | 10.11606/t.11.2019.tde-20191220-123706 | dissertation | Nutrição mineral de clones de guaranazeiros (Paullinia cupana var. sorbilis (Mart.) Ducke) cultivados em Porto Velho, Rondônia | Digital Library of Theses and Dissertati
+- new | 2018 | 10.1016/j.jff.2018.10.004 | article | Guarana (Paullinia cupana) presents a safe and effective anti-fatigue profile in patients with chronic kidney disease: A randomized, double-blind, three-arm, controlled clinical tr | Journal of Functional Foods
+- new | 2018 | 10.4322/col.2018.007 | review | Paullinia cupana (Guarana) for Chemotherapy-Induced Fatigue in Patients with Solid Tumors: A Meta-Analysis | Clinical Oncology Letters
+- new | 2018 | 10.18311/jnr/2018/21665 | article | Phase II Pilot Clinical Study of the Use of Uncaria tomentosa (Cat’s Claw) Combined with Paullinia cupana (Guarana) for the Treatment of Symptoms in Terminal Cancer Patients | Journal of Natural Remedies
+- new | 2018 | https://openalex.org/W7120818414 | dissertation | Translational study of the protective effect of guaraná (Paullinia cupana) in methylmercury exposure | LA Referencia (Red Federada de Repositor
+- new | 2017 | 10.1200/jco.2017.35.31_suppl.234 | conference-abstract | Novel approach for cancer-related fatigue: A double-blind randomized clinical trial. | Journal of Clinical Oncology
+- new | 2017 | 10.1093/eurheartj/ehx502.p1526 | article | P1526Influence of energy drinks on hemodynamic parameters - randomized double-blind placebo controlled cross-over study | European Heart Journal
+- new | 2017 | https://openalex.org/W2752775941 | dissertation | Efetividade do guaraná (Paullinia cupana) para manejo da fadiga em mulheres com câncer de mama em quimioterapia: um ensaio clínico, duplo cego, randomizado | LA Referencia (Red Federada de Repositor
+- new | 2016 | 10.1016/j.plgene.2016.03.005 | article | TRAP and SRAP markers to find genetic variability in complex polyploid Paullinia cupana var. sorbilis | Plant Gene
+- new | 2015 | 10.1200/jco.2015.33.15_suppl.e17041 | conference-abstract | "Randomized, placebo-controlled, double-blind trial of (purified) dry extract of Paullinia cupana (guaraná) for chemoradiation-related fatigue and quality of life in patients with  | Journal of Clinical Oncology
+- new | 2014 | 10.1200/jco.2014.32.15_suppl.e20532 | conference-abstract | Relationship of guarana (Paullinia cupana) on anorexia in patients with advanced cancer. | Journal of Clinical Oncology
+- new | 2014 | 10.1016/b978-0-12-411462-3.00006-0 | book-chapter | Using Paullinia cupana (Guarana) to Treat Fatigue and Other Symptoms of Cancer and Cancer Treatment | Elsevier eBooks
+- new | 2013 | 10.1200/jco.2013.31.15_suppl.e20524 | conference-abstract | Phase II randomized, placebo-controlled trial of phytotherapeutic product Catuama for breast cancer women undergoing adjuvant radiation therapy. | Journal of Clinical Oncology
+- HELD REF-3709 | 2013 | 10.1200/jco.2013.31.15_suppl.e20680 | conference-abstract | Purified dry extract of Paullinia cupana (guaraná) (PC-18) for chemotherapy-related fatigue in patients with solid tumors: An early discontinuation study. | Journal of Clinical Oncology
+- new | 2013 | https://openalex.org/W2759248418 | dissertation | ESTUDO CLÍNICO, RANDOMIZADO, CONTROLADO POR PLACEBO DO EFEITO DA SUPLEMENTAÇÃO DE GUARANÁ EM MARCADORESBIOQUÍMICOS ASSOCIADOS À ATEROSCLEROSE | Americanae (AECID Library)
+- new | 2011 | 10.1200/jco.2011.29.15_suppl.e19706 | review | Paulinia cupana (Guarana) for the treatment of cancer-related fatigue in patients undergoing radiation therapy or chemotherapy: A meta-analysis of three clinical trials. | Journal of Clinical Oncology
+- new | 2011 | 10.5667/tang.2011.0009 | review | Paulinia cupana (Guaraná) for the treatment of cancer related fatigue in patients undergoing radiation therapy or chemotherapy: a meta-analysis of three clinical trials | TANG [HUMANITAS MEDICINE]
+- new | 2011 | https://openalex.org/W2151713948 | dissertation | Efeito da catuama® na sintomatologia da síndrome da ardência bucal: ensaio clínico, randomizado, duplo-cego, placebo-controlado | Americanae (AECID Library)
+- new | 2011 | https://openalex.org/W2154175031 | article | Paulinia cupana (Guaraná) for the treatment of cancer related fatigue in patients undergoing radiation therapy or chemotherapy | 
+- new | 2010 | 10.1200/jco.2010.28.15_suppl.9007 | conference-abstract | Effect of guarana (Paullinia cupana) on fatigue in breast cancer patients undergoing systemic chemotherapy. | Journal of Clinical Oncology
+- new | 2010 | 10.11606/d.6.2010.tde-31012011-093906 | dissertation | Avaliação da atividade antioxidante in vitro e in vivo do guaraná (Paullinia cupana) em pó | Digital Library of Theses and Dissertati
+- new | 2010 | 10.1016/s0924-977x(10)70355-2 | conference-abstract | P.1.d.001 Marinobufagenin, an endogenous Na pump inhibitor, is implicated in social behavior of mice | European Neuropsychopharmacology
+- new | 2008 | 10.1016/j.schres.2007.12.045 | conference-abstract | Sustained attentional performance of healthy first-degree relatives of schizophrenia patients | Schizophrenia Research
+- new | 2007 | 10.1016/j.radphyschem.2007.02.054 | article | Effect of γ-irradiation on mycoflora of guarana (Paullinia cupana) | Radiation Physics and Chemistry
+- new | 2005 | 10.1590/s1517-83822005000300011 | article | Seasonal dynamics of arbuscular mycorrhizal fungi in plants of Theobroma grandiflorum Schum and Paullinia cupana Mart. of aN agroforestry system in Central Amazonia, Amazonas State | Brazilian Journal of Microbiology
+- new | 1999 | 10.1097/00005768-199905001-00710 | conference-abstract | EFFECT OF THERMOGENIC DIETARY SUPPLEMENTS ON RESTING METABOLIC RATE IN HEALTHY MALE AND FEMALE VOLUNTEERS | Medicine & Science in Sports & Exercise
+- new | 1987 | 10.1055/s-0038-1644553 | conference-paper | GUARANA (Paullinia cupana) INHIBITS AGGREGATION IN WHOLE BLOOD | Thrombosis and Haemostasis
+
+## pelargonium-sidoides (Pelargonium sidoides) - name clause: "Pelargonium sidoides"[tiab] OR "EPs 7630"[tiab] OR "EPs7630"[tiab] OR "Umckaloabo"[tiab]
+
+### PubMed HT - 69 hits, 69 not already listed above, 50 new
+- new | 2026 | 42196994 | Review | A Review of the Properties of Clinically Evaluated Plant-Derived Agents in the Treatment of Respiratory Infections. | Nutrients
+- new | 2026 | 42014704 | Randomized Controlled Trial/Pragmatic Clinical Trial/Multicenter Study | Pelargonium sidoides extract (EPs® 7630) versus usual care for acute bronchitis in Swiss primary care (PHYTOBRONCH): a pragmatic, open-label, randomised controlled trial. | NPJ Prim Care Respir Med
+- new | 2025 | 40150627 |  | Open, Randomised, Controlled Study to Evaluate the Role of a Dietary Supplement Containing Pelargonium sidoides Extract, Honey, Propolis, and Zinc as Adjuvant Treatment in Children | Children (Basel)
+- new | 2025 | 40109035 |  | Efficacy and Safety of YJP-40 in Patients with Acute Bronchitis: A Randomized, Double-Blind, Parallel Group Study. | Tuberc Respir Dis (Seoul)
+- HELD REF-0798 | 2025 | 40376625 | Systematic Review | Phytotherapy for acute respiratory tract infections in children: a systematically conducted, comprehensive review. | Front Pediatr
+- new | 2024 | 38562459 |  | Long-term benefits of EPs(®) 7630 in patients with acute sinusitis: a real-world cohort study. | Front Pharmacol
+- new | 2024 | 39654721 | Scoping Review | Unlocking the therapeutic potential of Pelargonium sidoides natural extract: A scoping review. | Heliyon
+- new | 2024 | 38832001 |  | Hand, foot, and mouth disease: could EPs® 7630 be a treatment option? A prospective randomized open-label multicenter clinical study. | Front Pediatr
+- new | 2024 | 38931472 |  | The Effectiveness of a Dietary Supplement with Honey, Propolis, Pelargonium sidoides Extract, and Zinc in Children Affected by Acute Tonsillopharyngitis: An Open, Randomized, and C | Pharmaceuticals (Basel)
+- new | 2024 | 38889376 | Multicenter Study/Randomized Controlled Trial/Clinical Trial, Phase III | Efficacy and safety of mixture of ivy leaf extract and coptidis rhizome in the treatment of acute bronchitis: multicenter, randomized, double-blinded, active-controlled, parallel,  | Curr Med Res Opin
+- new | 2024 | 38819917 | Clinical Trial Protocol | The Effects of a Dietary Supplement (PediaFlù) Plus Standard of Care in Children With Acute Tonsillopharyngitis/Rhinopharyngitis: Protocol for a Randomized Controlled Trial. | JMIR Res Protoc
+- new | 2023 | 36865690 |  | Safety of Pelargonium extract EPs 7630 in young children with acute bronchitis. | Front Pediatr
+- new | 2023 | 36868289 | Systematic Review | Complementary and alternative medicine in the (symptomatic) treatment of acute tonsillitis in children: A systematic review. | Complement Ther Med
+- HELD REF-5545 | 2023 | 36609950 | Systematic Review/Network Meta-Analysis | Herbal Medicines for Rhinosinusitis: A Systematic Review and Network Meta-analysis. | Curr Allergy Asthma Rep
+- new | 2023 | 37476531 |  | Effects of EPs 7630 on the duration of inability to work in acute bronchitis - a meta-analysis. | Multidiscip Respir Med
+- new | 2022 | 35419311 |  | Evaluation of food effects on the pharmacokinetics of Pelargonium sidoides and Coptis with each bioactive compound berberine and epicatechin after a single oral dose of an expector | Transl Clin Pharmacol
+- new | 2022 | 36051888 |  | Effects of Pelargonium sidoides extract EPs 7630 on acute cough and quality of life - a meta-analysis of randomized, placebo-controlled trials. | Multidiscip Respir Med
+- new | 2022 | 36153858 | Randomized Controlled Trial/Multicenter Study/Clinical Trial, Phase III/Research Support, Non-U.S. Gov't | The efficacy and safety of DW1601 in patients with acute bronchitis: a multi-center, randomized, double-blind, phase III clinical trial. | Korean J Intern Med
+- new | 2021 | 33995094 |  | Pelargonium Extract EPs 7630 in the Treatment of Human Corona Virus-Associated Acute Respiratory Tract Infections - A Secondary Subgroup-Analysis of an Open-Label, Uncontrolled Cli | Front Pharmacol
+- HELD REF-1876 | 2021 | 33514367 | Randomized Controlled Trial | Pelargonium sidoides root extract for the treatment of acute cough due to lower respiratory tract infection in adults: a feasibility double-blind, placebo-controlled randomised tri | BMC Complement Med Ther
+- new | 2021 | 33720662 | Review | [Herbal medicine for acute sinusitis - current trends]. | Vestn Otorinolaringol [rus]
+- new | 2021 | 33614926 |  | Effects of Pelargonium sidoides extract vs roxithromycin on chemokine levels in nasal secretions of patients with uncomplicated acute rhinosinusitis. | Laryngoscope Investig Otolaryngol
+- HELD REF-1873 | 2021 | 34304301 | Randomized Controlled Trial | Effectiveness of Pelargonium sidoides in pediatric patients diagnosed with uncomplicated upper respiratory tract infection: a single-blind, randomized, placebo-controlled study. | Eur J Pediatr
+- new | 2021 | 33938204 | Review | Natural remedies for acute post-viral cough in children. | Allergol Immunopathol (Madr)
+- new | 2020 | 32456442 | Comparative Study/Equivalence Trial | Herbal Drug EPs 7630 versus Amoxicillin in Patients with Uncomplicated Acute Bacterial Rhinosinusitis: A Randomized, Open-Label Study. | Ann Otol Rhinol Laryngol
+- new | 2020 | 33209511 |  | Effects of Pelargonium sidoides extract on chemokine levels in nasal secretions of patients with non-purulent acute rhinosinusitis. | J Drug Assess
+- new | 2020 | 32147041 | Systematic Review | Complementary and alternative medicine in the treatment of acute bronchitis in children: A systematic review. | Complement Ther Med
+- new | 2019 | 31844762 | Review | Treatment of signs and symptoms of the common cold using EPs 7630 - results of a meta-analysis. | Heliyon
+- new | 2019 | 31341433 |  | Treatment with EPs 7630, a Pelargonium Sidoides Root Extract, Is Effective and Safe in Patients with the Common Cold: Results From a Randomized, Double Blind, Placebo-Controlled Cl | Integr Med (Encinitas)
+- new | 2019 | 31384480 |  | HATRIC: a study of Pelargonium sidoides root extract EPs®7630 (Kaloba®) for the treatment of acute cough due to lower respiratory tract infection in adults-study protocol for a dou | Pilot Feasibility Stud
+- HELD REF-1875 | 2019 | 30707726 | Clinical Trial/Research Support, Non-U.S. Gov't | Pelargonium sidoides radix extract EPs 7630 reduces rhinovirus infection through modulation of viral binding proteins on human bronchial epithelial cells. | PLoS One
+- HELD REF-3712 | 2019 | 31014293 | Meta-Analysis/Research Support, Non-U.S. Gov't/Review | Faster recovery and reduced paracetamol use - a meta-analysis of EPs 7630 in children with acute respiratory tract infections. | BMC Pediatr
+- new | 2018 | 29119837 | Research Support, Non-U.S. Gov't/Review | EPs 7630 is effective and safe in children under 6 years with acute respiratory tract infections: clinical studies revisited. | Curr Med Res Opin
+- new | 2018 | 29231073 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Pelargonium sidoides preparation EPs 7630 in COPD: health-related quality-of-life and other patient-reported outcomes in adults receiving add-on therapy. | Curr Med Res Opin
+- HELD REF-3713 | 2018 | 28610802 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Herbal Medicine in Children With Respiratory Tract Infection: Systematic Review and Meta-Analysis. | Acad Pediatr
+- HELD REF-0492 | 2018 | 29563828 | Review | Pelargonium sidoides extract EPs 7630: a review of its clinical efficacy and safety for treating acute respiratory tract infections in children. | Int J Gen Med
+- HELD REF-3714 | 2018 | 29055287 | Clinical Trial, Phase III/Randomized Controlled Trial | Efficacy and Tolerability of High-dose Pelargonium Extract in Patients With the Common Cold. | Altern Ther Health Med
+- new | 2017 | 27914909 | Review | Benefits, pitfalls and risks of phytotherapy in clinical practice in otorhinolaryngology. | Eur Ann Otorhinolaryngol Head Neck Dis
+- HELD REF-0577 | 2016 | 27404100 | Systematic Review | [A Systematic Review of Phytotherapy for Acute Rhinosinusitis]. | Forsch Komplementmed [ger]
+- HELD REF-3434 | 2015 | 26840418 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Herbal Medicine for Cough: a Systematic Review and Meta-Analysis. | Forsch Komplementmed
+- HELD REF-1868 | 2014 | 24463034 | Research Support, Non-U.S. Gov't/Review | Medicinal properties and conservation of Pelargonium sidoides DC. | J Ethnopharmacol
+- HELD REF-3716 | 2013 | 23478193 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Randomised, double-blind, placebo-controlled trial of EPs 7630 in adults with COPD. | Respir Med
+- HELD REF-1870 | 2013 | 24146345 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Pelargonium sidoides extract for treating acute respiratory tract infections. | Cochrane Database Syst Rev
+- new | 2013 | 23927521 | Research Support, Non-U.S. Gov't/Review | Positioning of the Bronchitis Severity Score (BSS) for standardised use in clinical studies. | Curr Med Res Opin
+- HELD REF-3717 | 2013 | 23142309 | Randomized Controlled Trial | Can the Pelargonium sidoides root extract EPs® 7630 prevent asthma attacks during viral infections of the upper respiratory tract in children? | Phytomedicine
+- HELD REF-0799 | 2012 | 22962927 | Review | Treatment of the common cold in children and adults. | Am Fam Physician
+- HELD REF-3715 | 2012 | 22360575 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Treatment of acute bronchitis with EPs 7630: randomized, controlled trial in children and adolescents. | Pediatr Int
+- new | 2012 | 23498035 | Systematic Review | Herbal medicine, randomised controlled trials and global core competencies. | S Afr Med J
+- new | 2012 | 22343933 | Clinical Trial, Phase III/Multicenter Study/Randomized Controlled Trial | African geranium (EPs 7630), part I: a proprietary root extract of Pelargonium sidoides (EPs 7630) is found to be effective in resolving symptoms associated with the common cold in | Holist Nurs Pract
+- new | 2012 | 22864299 | Clinical Trial | African Geranium (EPs 7630), part 2: the efficacy of Pelargonium sidoides (EPs 7630) in the treatment of acute bronchitis in adults and children. | Holist Nurs Pract
+- new | 2012 | 22809962 | Randomized Controlled Trial | The efficacy of Pelargonium sidoides in the treatment of upper respiratory tract infections in children with transient hypogammaglobulinemia of infancy. | Phytomedicine
+- new | 2011 | 20850953 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Immune responses induced by Pelargonium sidoides extract in serum and nasal mucosa of athletes after exhaustive exercise: modulation of secretory IgA, IL-6 and IL-15. | Phytomedicine
+- new | 2010 | 20070280 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy and tolerability of EPs 7630 in patients (aged 6-18 years old) with acute bronchitis. | Acta Paediatr
+- new | 2010 | 20197012 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy and tolerability of EPs 7630 in children and adolescents with acute bronchitis - a randomized, double-blind, placebo-controlled multicenter trial with a herbal drug prepar | Int J Clin Pharmacol Ther
+- new | 2010 | 21170697 | Comparative Study/Multicenter Study/Randomized Controlled Trial | [Pelargonium sidoides in acute bronchitis - Health-related quality of life and patient-reported outcome in adults receiving EPs 7630 treatment]. | Wien Med Wochenschr [ger]
+- new | 2010 | 20387996 | Randomized Controlled Trial | Efficacy and tolerability of EPs 7630 tablets in patients with acute bronchitis: a randomised, double-blind, placebo-controlled dose-finding study with a herbal drug preparation fr | Curr Med Res Opin
+- new | 2009 | 19382496 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Treatment of acute rhinosinusitis with the preparation from Pelargonium sidoides EPs 7630: a randomized, double-blind, placebo-controlled trial. | Rhinology
+- HELD REF-0576 | 2008 | 18222667 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Pelargonium sidoides for acute bronchitis: a systematic review and meta-analysis. | Phytomedicine
+- new | 2008 | 18449849 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | EPs 7630 improves acute bronchitic symptoms and shortens time to remission. Results of a randomised, double-blind, placebo-controlled, multicentre trial. | Planta Med
+- SEEN | 2008 | 18646148 | Systematic Review | Pelargonium sidoides extract for acute respiratory tract infections. | Cochrane Database Syst Rev
+- new | 2007 | 17184981 | Clinical Trial/Multicenter Study/Research Support, Non-U.S. Gov't | Pelargonium sidoides preparation (EPs 7630) in the treatment of acute bronchitis in adults and children. | Phytomedicine
+- new | 2007 | 17288687 | Comparative Study/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Treatment of acute bronchitis with a liquid herbal drug preparation from Pelargonium sidoides (EPs 7630): a randomised, double-blind, placebo-controlled, multicentre study. | Curr Med Res Opin
+- new | 2007 | 17276048 | Letter/Multicenter Study/Randomized Controlled Trial | Liquid herbal drug preparation from the root of Pelargonium sidoides is effective against acute bronchitis: results of a double-blind study with 124 patients. | Phytomedicine
+- new | 2007 | 18005909 | Controlled Clinical Trial/Multicenter Study/Randomized Controlled Trial | Efficacy of a pelargonium sidoides preparation in patients with the common cold: a randomized, double blind, placebo-controlled clinical trial. | Explore (NY)
+- new | 2007 | 17184982 | Clinical Trial/Multicenter Study | Treatment effect and safety of EPs 7630-solution in acute bronchitis in childhood: report of a multicentre observational study. | Phytomedicine
+- new | 2007 | 17184984 | Clinical Trial/Multicenter Study | EPs 7630-solution--an effective therapeutic option in acute and exacerbating bronchitis. | Phytomedicine
+- new | 2005 | 16781588 | Randomized Controlled Trial | Treatment of acute bronchitis in adults with a pelargonium sidoides preparation (EPs 7630): a randomized, double-blind, placebo-controlled trial. | Explore (NY)
+- new | 2003 | 14526713 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy of extract of Pelargonium sidoides in children with acute non-group A beta-hemolytic streptococcus tonsillopharyngitis: a randomized, double-blind, placebo-controlled tria | Altern Ther Health Med
+- new | 2003 | 12807337 | Clinical Trial/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy and safety of an extract of Pelargonium sidoides (EPs 7630) in adults with acute bronchitis. A randomised, double-blind, placebo-controlled trial. | Phytomedicine
+
+### PubMed SR - 20 hits, 2 not already listed above, 2 new
+- new | 2026 | 41653615 | Systematic Review | Pelargonium sidoides - from ethnopharmacology to evidence-based medicine: a systematic review. | Phytomedicine
+- new | 2010 | 22432518 | Systematic Review | An evidence-based systematic review of umckaloabo (Pelargonium sidoides) by the Natural Standard Research Collaboration. | J Diet Suppl
+
+### PubMed SAFE - 54 hits, 17 not already listed above, 15 new
+- new | 2026 | 41890334 |  | Short-term Liver Safety of Pelargonium sidoides DC. Root (PELARGO) 20 mg Capsule: A Non-interventional Post-authorization Safety Study. | Acta Med Philipp
+- new | 2024 | 38464728 |  | Identifying in-market application of Pelargonium root extract EPs 7630 for the treatment of COVID-19: analysis of pharmacovigilance data. | Front Pharmacol
+- new | 2023 | 37779585 |  | Pelargonium sidoides extract mediates nephrotoxicity through mitochondrial malfunction and cytoskeleton destabilization. | Toxicol Res
+- new | 2021 | 32406252 |  | The combination of N-Acetyl-L-Cysteine, Pelargonium sidoides and Justicia adhatoda (NAXX) exerts bacteriostatic activity against S. aureus and E. coli. | Nat Prod Res
+- new | 2019 | 31365763 | Review | Role of medicinal plants in HIV/AIDS therapy. | Clin Exp Pharmacol Physiol
+- new | 2017 | 28924942 |  | Exploring the anti-proliferative activity of Pelargonium sidoides DC with in silico target identification and network pharmacology. | Mol Divers
+- HELD REF-5504 | 2016 | 26784183 |  | Herb-Induced Liver Injury in the Berlin Case-Control Surveillance Study. | Int J Mol Sci
+- new | 2016 | 27860473 |  | Use of plant extracts as an efficient alternative therapy of respiratory tract infections. | Ceska Slov Farm
+- new | 2013 | 23472485 | Research Support, Non-U.S. Gov't/Review | Adverse effects of herbal medicines: an overview of systematic reviews. | Clin Med (Lond)
+- new | 2013 | 23510966 | Review | Herbal hepatotoxicity: suspected cases assessed for alternative causes. | Eur J Gastroenterol Hepatol
+- new | 2012 | 22381150 | Case Reports | Spontaneous reports of primarily suspected herbal hepatotoxicity by Pelargonium sidoides: was causality adequately ascertained? | Regul Toxicol Pharmacol
+- new | 2012 | 22728685 | Letter/Comment | Spontaneous reports of primarily suspected herbal hepatotoxicity by Pelargonium sidoides: Was causality adequately ascertained? | Regul Toxicol Pharmacol
+- new | 2012 | 22700632 |  |  Initially purported hepatotoxicity by Pelargonium sidoides: the dilemma of pharmacovigilance and proposals for improvement. | Ann Hepatol
+- new | 2012 | 22839683 | Multicenter Study/Research Support, Non-U.S. Gov't | Adverse drug reactions for CAM and conventional drugs detected in a network of physicians certified to prescribe CAM drugs. | J Manag Care Pharm
+- HELD REF-0493 | 2007 | 17704982 | Comparative Study/Review | [Pelargonium sidoides-extract (EPs 7630): registration confirms efficacy and safety]. | Wien Med Wochenschr [ger]
+- new | 2007 | 17188479 |  | Treatment of rats with the Pelargonium sidoides extract EPs 7630 has no effect on blood coagulation parameters or on the pharmacokinetics of warfarin. | Phytomedicine
+- new | 2007 | 17696580 | Case Reports | Allergic reactions to medicines derived from Pelargonium species. | Drug Saf
+
+### PubMed OBS - 13 hits, 2 not already listed above, 2 new
+- new | 2025 | 41221167 |  | Evaluation of Management Strategies for Viral Upper Respiratory Tract Infections Among Pediatricians in Türkiye. | Infect Drug Resist
+- new | 2020 | 32312131 |  | Reduced antibiotic use after initial treatment of acute respiratory infections with phytopharmaceuticals- a retrospective cohort study. | Postgrad Med
+
+### PubMed REV - 38 hits, 10 not already listed above, 10 new
+- new | 2025 | 40660733 | Review | Immunomodulatory Effects of Pelargonium sidoides Extract (EPs7630) in the Treatment of Acute Rhinosinusitis. | Expert Rev Mol Med
+- new | 2024 | 37549862 | Review | Uzara (Xysmalobium undulatum) - An underutilized anti-diarrhoeic and spasmolytic herbal remedy. | J Ethnopharmacol
+- new | 2023 | 37350689 | Review | Efficacy of traditional herbal formulas on human immunity. | Eur Rev Med Pharmacol Sci
+- new | 2021 | 33520034 | Review | Therapeutic potential of medicinal plants against COVID-19: The role of antiviral medicinal metabolites. | Biocatal Agric Biotechnol
+- new | 2020 | 33041391 | Review | Coronaviruses and Nature's Pharmacy for the Relief of Coronavirus Disease 2019. | Rev Bras Farmacogn
+- new | 2020 | 33071794 | Review | COVID-19: Is There Evidence for the Use of Herbal Medicines as Adjuvant Symptomatic Therapy? | Front Pharmacol
+- new | 2015 | 26498493 | Research Support, Non-U.S. Gov't/Review | A review of commercially important African medicinal plants. | J Ethnopharmacol
+- new | 2008 | 18577439 | Research Support, Non-U.S. Gov't/Review | A broad review of commercially important southern African medicinal plants. | J Ethnopharmacol
+- new | 2008 | 18725280 | Historical Article/Review | A historical, scientific and commercial perspective on the medicinal use of Pelargonium sidoides (Geraniaceae). | J Ethnopharmacol
+- new | 2007 | 17188477 | Review | Fascinating metabolic pools of Pelargonium sidoides and Pelargonium reniforme, traditional and phytomedicinal sources of the herbal medicine Umckaloabo. | Phytomedicine
+
+### ClinicalTrials.gov - 9 registered studies
+- NCT05916768 | COMPLETED | results=False | NA | Management of Acute Bronchitis With Pelargonium Sidoides Extract | conds: Acute Bronchitis | intr: Pelargonium sidoides extract EPs® 7630, usual care
+- NCT02174653 | COMPLETED | results=False | PHASE3 | Safety and Intake Effect of EPs® 7630 (an Extract of the Roots of Pelargonium Sidoides) | conds: Common Cold | intr: EPs® 7630, Placebo
+- NCT07835620 | COMPLETED | results=False | PHASE4 | A Phase 4 Clinical Trial to Evaluate the Efficacy and Safety of CANIUM Tab. in Acute Bronchitis Patients. | conds: Acute Bronchitis | intr: DSP2505(Canium), Umckamin, Placebo Matching Umckamin, Placebo Matching DSP2505 (Canium)
+- NCT07017335 | COMPLETED | results=False | PHASE1 | Drug-Drug Interaction Between R1_PBK_M2301 and R2_PBK_M2301 in Healthy Adults | conds: Drug-Drug Interaction Healthy Volunteers | intr: R1_PBK_M2301(Levocloperastine 60mg), R2_PBK_M2301 (Pelargonium sidoides extract)
+- NCT06353477 | COMPLETED | results=False | PHASE2,PHASE3 | Hand, Foot, and Mouth Disease: Could EPs®7630 be a Treatment Option | conds: Hand, Foot, and Mouth Disease | intr: EPs® 7630 | pubs: ['38832001:DERIVED (new)']
+- NCT04899401 | COMPLETED | results=False | NA | Trial To Assess Efficacy and Safety of PediaFlu® in Children With Acute Tonsillopharyngitis / Rhinopharyngitis | conds: Tonsillopharyngitis, Rhinopharyngitis | intr: Standard of care + PediaFlù®, Standard of care | pubs: ['40150627:DERIVED (new)', '38819917:DERIVED (new)']
+- NCT01420445 | COMPLETED | results=False | PHASE2 | Safety/Tolerability and Efficacy of YHD001 in Patients With Acute and Chronic Bronchitis | conds: Acute Bronchitis, Chronic Bronchitis | intr: YHD001 dose level 1, YHD001 dose level 2, Pelargonium sidoides extract, placebo
+- NCT05015387 | COMPLETED | results=False | PHASE2 | Efficacy of Proanthocyanidins in Non-Surgical Periodontal Therapy | conds: Periodontitis, Adult | intr: Minimally invasive non-surgical therapy, Subgingival application of collagen hydrogels with proantho
+- NCT07161180 | RECRUITING | results=False | PHASE1 | Evaluation of the Pharmacokinetics of "PBK_M2301" in Healthy Adults | conds: Healthy Volunteers | intr: PBK_M2301 (levodropropizine + Pelargonium sidoides extract), R1_PBK_M2301 (levodropropizine), R2_PBK
+
+### OpenAlex no-PMID trial-worded - 555 hits, 40 without PMID, 40 new
+- new | 2026 | 10.5281/zenodo.22864499 | article | Umckaloabo (Pelargonium sidoides): What the Trials Show | Zenodo (CERN European Organization for N
+- new | 2026 | 10.1055/s-0045-1814820 | conference-paper | Clinical trials of herbal medicines for treatment of common infections: challenges and opportunities | Planta Medica
+- new | 2026 | 10.5281/zenodo.18767738 | dataset | Management of acute bronchitis in Switzerland with Pelargonium sidoides extract EPS®7630 versus usual care – a pragmatic, open-label, randomised controlled trial | Zenodo (CERN European Organization for N
+- new | 2026 | 10.5281/zenodo.22646491 | article | What is the efficacy of Pelargonium sidoides extract in treating acute bronchitis symptoms in adults? | Zenodo (CERN European Organization for N
+- new | 2025 | 10.21608/fumj.2025.318887.1389 | article | Efficacy of Pelargonium sidoides extract in treatment of acute bronchiolitis in infants | Fayoum University Medical Journal/Fayoum
+- new | 2025 | 10.19127/mbsjohs.1612382 | article | The Effect of Pelargonium Sidoides Extract on Penicillin-Induced | MIDDLE BLACK SEA JOURNAL OF HEALTH SCIEN
+- new | 2024 | 10.21608/ejentas.2023.227036.1662 | article | Effect Of Each Pelargonium Sidoides And Echinacea With Azithromycin On Recurrent Tonsillitis In Pediatrics | Egyptian Journal of Ear Nose Throat and 
+- new | 2024 | https://openalex.org/W7132422066 | dissertation | Efficacy of Oral Care Products with Pelargonium Sidoides DC. Root Extract on Gum Conditions | Lithuanian University of Health Sciences
+- new | 2023 | 10.1055/s-0043-1774017 | article | Management of acute bronchitis in Switzerland with Pelargonium sidoides extract EPS7630 versus usual care: protocol of a randomized controlled trial | Planta Medica
+- new | 2023 | https://openalex.org/W7131911528 | conference-paper | Protective effect of Pelargonium sidoides root extract on periodontal tissue | Lithuanian University of Health Sciences
+- new | 2023 | https://openalex.org/W7131954988 | conference-paper | Pelargonium sidoides DC. active substances therapy protected periodontal tissue decreased inflammation | Lithuanian University of Health Sciences
+- new | 2022 | 10.3390/app12073427 | article | Efficacy and Safety of a Novel Gummy Formulation for the Management of Cough in Adults: Double Blind, Randomized, Placebo-Controlled Trial | Applied Sciences
+- new | 2022 | 10.36118/pharmadvances.2022.33 | review | Treatment of sore throat and hoarseness with Pelargonium sidoides extract EPs 7630: a meta-analysis | 
+- new | 2022 | 10.71067/aepviii-2022-143-155 | book-chapter | Impact of Pelargonium Sidoides on Periodontal Inflammation and Improvement of Oral Health | 
+- new | 2021 | 10.1055/s-0040-1722205 | review | Influence of EPs 7630 on Antipyretic Comedication and Recovery from Acute Tonsillopharyngitis in Children: A Meta-analysis of Randomized, Placebo-Controlled, Clinical Trials | Journal of Pediatric Infectious Diseases
+- new | 2020 | 10.2478/hepo-2020-0009 | article | Pelargonium root (Pelargonium sidoides DC) extract in paediatric patients - food supplement or medicine? | Herba Polonica
+- new | 2020 | 10.37987/1997-9894.2020.1(237).214180 | article | Effectiveness of the Pelargonium extract (EPs® 7630) in the treatment of patients with acute bronchitis | Medicine of Ukraine
+- new | 2020 | 10.17660/actahortic.2020.1287.8 | conference-paper | Propagation of Pelargonium sidoides from root cuttings | Acta Horticulturae
+- new | 2019 | 10.1186/s13063-019-3688-6 | conference-paper | Engaging surgical trainees in Orthopaedic, NIHR Portfolio, multicentre randomised controlled trials | Oxford University Research Archive (ORA)
+- new | 2019 | 10.1055/s-0039-3400159 | conference-paper | Add-on therapy with EPs 7630 in patients with chronic obstructive pulmonary disease – an overview on clinical efficacy and safety | Planta Medica
+- new | 2018 | 10.3844/ajidsp.2018.93.102 | article | Impact of Proven Viral Load on Common Cold Patients Treated with Pelargonium sidoides Preparation EPs 7630 | American Journal of Infectious Diseases
+- new | 2018 | 10.1080/09540105.2018.1444738 | article | Immunomodulatory effects of Echinacea and Pelargonium on the innate and adoptive immunity in calves | Food and Agricultural Immunology
+- new | 2016 | 10.15406/jlprr.2016.03.00068 | review | EPs 7630 in Acute Respiratory Tract Infections – A systematic Review and Meta-Analysis of Randomized Clinical Trials | Journal of Lung Pulmonary & Respiratory 
+- new | 2016 | 10.17795/compreped-42158 | article | Clinical Efficacy and Safety of Liquid Pelargonium sidoides Preparation (EPs 7630) in Children with Acute Non-Streptococcal Tonsillopharyngitis | Journal of Comprehensive Pediatrics
+- new | 2015 | 10.4172/2327-5162.1000204 | article | Tolerability and Treatment Effects of Pelargonium sidoides Preparation EPs 7630 in Adults Suffering from Acute Rhinopharyngitis – A Prospective, Open-Label Trial | Alternative & Integrative Medicine
+- new | 2013 | 10.5897/jen2012.0061 | article | Estimation of Pelargonium sidoides root damage by Meloidogyne spp. | Journal of Entomology and Nematology
+- new | 2013 | 10.17660/actahortic.2013.1007.115 | conference-paper | SHADE NET EFFECTS ON CHEMICAL COMPOSITION OF PELARGONIUM SIDOIDES (GERANIACEAE) | Acta Horticulturae
+- new | 2013 | https://openalex.org/W609444762 | dissertation | Treatment of Respiratory Tract Infections with a Pelargonium sidoides Extract (EPs® 7630) : - Literature study | DiVA at Umeå University (Umeå University
+- new | 2013 | 10.17660/actahortic.2013.1007.92 | conference-paper | VEGETATIVE PROPAGATION OF PELARGONIUM SIDOIDES (RABASSAM): FACTORS AFFECTING ROOTING OF LEAF-BUD CUTTINGS | Acta Horticulturae
+- new | 2012 | 10.1016/j.eujim.2012.07.873 | conference-abstract | A case of hepatotoxicity by Pelargonium sidoides | European Journal of Integrative Medicine
+- new | 2009 | https://openalex.org/W322111331 | article | Comparison of Pelargonium sidoides, placebo and antibiotic treatment of chronic endometritis in dairy cows: a field trial. | Journal of Animal and Veterinary Advance
+- new | 2009 | 10.29333/ejgm/82677 | article | Antibacterial Spectrum of Umckaloabo (Pelargonium Sidoides) on Upper Airway Infectıon Agents | Electronic Journal of General Medicine
+- new | 2009 | 10.1021/bk-2009-1021.ch017 | conference-paper | Umckaloabo: From a Patent Remedy to a Modern Herbal Pharmaceutical based on Pelargonium sidoides with Clinically Proven Efficacy | ACS symposium series
+- new | 2009 | https://openalex.org/W2187759501 | article | Pelargonium sidoides Extract (EPs 7630): Alternative Treatment of Acute Upper Respiratory Tract Infections | 
+- new | 2007 | 10.18093/0869-0189-2007-0-6-49-55 | article | Treatment of acute bronchitis in adults with extract of Pelargonium Sidoides: a randomised, double-blind, placebo controlled trial | PULMONOLOGIYA
+- new | 2007 | 10.1055/s-2007-986832 | article | Pelargonium sidoides for the treatment of acute bronchitis: a systematic review and meta-analysis | Planta Medica
+- new | 2007 | 10.1055/s-2007-986452 | article | Pelargonium-sidoides-Extrakt EPs® 7630 bei 217 Patienten mit akuter Bronchitis: Weitere zulassungsrelevante Doppelblindstudie publiziert | Zeitschrift für Phytotherapie
+- new | 2006 | 10.1055/s-2006-956525 | article | Auszug aus Pelargonium-sidoides-Wurzel wirksam bei akuter Bronchitis - Ergebnisse einer Doppelblindstudie mit 124 Patienten | Zeitschrift für Phytotherapie
+- new | 2005 | https://openalex.org/W21986512 | dissertation | Evaluation of isolates and identified phenolics from Pelargonium Sidoides against Mycobacterium Tuberculosis, other bacteria and fungi | UpSpace Institutional Repository (Univer
+- new | 2002 | 10.1007/978-3-642-57528-0_1 | book-chapter | Wirksamkeit eines Extraktes aus Pelargonium sidoides (EPs 7630) im Vergleich zu Placebo bei Patienten mit akuter Bronchitis | Steinkopff eBooks
+
+## petasites-hybridus (Petasites hybridus) - name clause: "Petasites hybridus"[tiab] OR "butterbur"[tiab] OR "Petadolex"[tiab] OR "Ze 339"[tiab] OR "Ze339"[tiab]
+
+### PubMed HT - 46 hits, 46 not already listed above, 39 new
+- new | 2024 | 38603736 | Systematic Review/Meta-Analysis | Medicinal plants for allergic rhinitis: A systematic review and meta-analysis. | PLoS One
+- new | 2022 | 35585841 | Review | Petasites for Migraine Prevention: New Data on Mode of Action, Pharmacology and Safety. A Narrative Review. | Front Neurol
+- HELD REF-1575 | 2020 | 32310327 | Systematic Review | Herbal treatments for migraine: A systematic review of randomised-controlled studies. | Phytother Res
+- new | 2020 | 32104974 | Systematic Review | Alternative therapies for sinusitis and rhinitis: a systematic review utilizing a modified Delphi method. | Int Forum Allergy Rhinol
+- HELD REF-2459 | 2020 | 31985131 |  | Effect of the fixed combination of valerian, lemon balm, passionflower, and butterbur extracts (Ze 185) on the prescription pattern of benzodiazepines in hospitalized psychiatric p | Phytother Res
+- new | 2019 | 30790138 | Review | Complementary and Integrative Medicine for Episodic Migraine: an Update of Evidence from the Last 3 Years. | Curr Pain Headache Rep
+- new | 2019 | 30627973 | Review | Phytomedicines in the Treatment of Migraine. | CNS Drugs
+- new | 2018 | 29433687 | Randomized Controlled Trial | Effects of a fixed herbal drug combination (Ze 185) to an experimental acute stress setting in healthy men - An explorative randomized placebo-controlled double-blind study. | Phytomedicine
+- new | 2018 | 29619575 | Review | The Evidence for the Role of Nutraceuticals in the Management of Pediatric Migraine: a Review. | Curr Pain Headache Rep
+- new | 2017 | 28527085 |  | The use of nutraceutics in children's and adolescent's headache. | Neurol Sci
+- new | 2017 | 28527067 | Review | Usefulness of nutraceuticals in migraine prophylaxis. | Neurol Sci
+- new | 2017 | 27914909 | Review | Benefits, pitfalls and risks of phytotherapy in clinical practice in otorhinolaryngology. | Eur Ann Otorhinolaryngol Head Neck Dis
+- new | 2016 | 26695061 | Research Support, Non-U.S. Gov't/Review | Prophylactic Drug Treatment of Migraine in Children and Adolescents: An Update. | Curr Pain Headache Rep
+- new | 2014 | 24443395 | Review | Nutraceuticals in the prophylaxis of pediatric migraine: Evidence-based review and recommendations. | Cephalalgia
+- new | 2012 | 22683887 | Practice Guideline | Canadian Headache Society guideline for migraine prophylaxis. | Can J Neurol Sci
+- new | 2011 | 21489609 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Petasol butenoate complex (Ze 339) relieves allergic rhinitis-induced nasal obstruction more effectively than desloratadine. | J Allergy Clin Immunol
+- new | 2011 | 21080124 |  | Nonpharmacologic treatments for migraine and tension-type headache: how to choose and when to use. | Curr Treat Options Neurol
+- new | 2010 | 20464605 | Review | Non-pharmacological approach to migraine prophylaxis: part II. | Neurol Sci
+- new | 2009 | 19274698 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Fixed herbal drug combination with and without butterbur (Ze 185) for the treatment of patients with somatoform disorders: randomized, placebo-controlled pharmaco-clinical trial. | Phytother Res
+- new | 2009 | 19262383 | Review | Complementary and alternative medicine for allergic rhinitis. | Curr Opin Otolaryngol Head Neck Surg
+- new | 2008 | 17659990 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Butterbur root extract and music therapy in the prevention of childhood migraine: an explorative study. | Eur J Pain
+- new | 2008 | 18343939 | Comparative Study/Randomized Controlled Trial | The effects of spirulina on allergic rhinitis. | Eur Arch Otorhinolaryngol
+- new | 2008 | 18325296 |  | Update on the prophylaxis of migraine. | Curr Treat Options Neurol
+- HELD REF-0544 | 2007 | 18219828 | Research Support, Non-U.S. Gov't/Systematic Review | Herbal medicines for the treatment of allergic rhinitis: a systematic review. | Ann Allergy Asthma Immunol
+- new | 2006 | 16987643 | Systematic Review | Effectiveness of Petasites hybridus preparations in the prophylaxis of migraine: a systematic review. | Phytomedicine
+- new | 2006 | 16784008 | Randomized Controlled Trial | The butterbur extract petasin has no effect on skin test reactivity induced by different stimuli: a randomized, double-blind crossover study using histamine, codeine, methacholine, | J Investig Allergol Clin Immunol
+- new | 2006 | 16751170 | Research Support, Non-U.S. Gov't | Efficacy and safety of butterbur herbal extract Ze 339 in seasonal allergic rhinitis: postmarketing surveillance study. | Adv Ther
+- new | 2005 | 16114089 | Clinical Trial/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Treating intermittent allergic rhinitis: a prospective, randomized, placebo and antihistamine-controlled study of Butterbur extract Ze 339. | Phytother Res
+- new | 2005 | 15836592 | Clinical Trial/Comparative Study/Multicenter Study | Migraine prevention in children and adolescents: results of an open study with a special butterbur root extract. | Headache
+- HELD REF-1481 | 2004 | 15005644 | Clinical Trial/Multicenter Study/Research Support, Non-U.S. Gov't | Petasites hybridus (Butterbur root) extract in the treatment of asthma--an open trial. | Altern Med Rev
+- HELD REF-1479 | 2004 | 15623680 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Petasites hybridus root (butterbur) is an effective preventive treatment for migraine. | Neurology
+- new | 2004 | 15080820 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A placebo-controlled evaluation of butterbur and fexofenadine on objective and subjective outcomes in perennial allergic rhinitis. | Clin Exp Allergy
+- new | 2004 | 15611396 | Clinical Trial/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Butterbur Ze339 for the treatment of intermittent allergic rhinitis: dose-dependent efficacy in a prospective, randomized, double-blind, placebo-controlled study. | Arch Otolaryngol Head Neck Surg
+- new | 2004 | 14752215 | Clinical Trial/Comparative Study/Randomized Controlled Trial | The first placebo-controlled trial of a special butterbur root extract for the prevention of migraine: reanalysis of efficacy criteria. | Eur Neurol
+- new | 2004 | 14720270 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Butterbur, a herbal remedy, confers complementary anti-inflammatory activity in asthmatic patients receiving inhaled corticosteroids. | Clin Exp Allergy
+- new | 2004 | 15281472 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of butterbur treatment in intermittent allergic rhinitis: a placebo-controlled evaluation. | Ann Allergy Asthma Immunol
+- new | 2004 | 14989395 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effects of butterbur on the histamine and allergen cutaneous response. | Ann Allergy Asthma Immunol
+- new | 2003 | 12864764 | Clinical Trial/Controlled Clinical Trial | Safety of a patented special butterbur root extract for migraine prevention. | Headache
+- new | 2003 | 14501441 | Research Support, U.S. Gov't, P.H.S. | Review of complementary and alternative medicine in treatment of ocular allergies. | Curr Opin Allergy Clin Immunol
+- new | 2003 | 12859442 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Butterbur, a herbal remedy, attenuates adenosine monophosphate induced nasal responsiveness in seasonal allergic rhinitis. | Clin Exp Allergy
+- new | 2002 | 24682554 |  | Gibt es Evidenz für die Wirksamkeit komplementärmedizinischer Therapien für die Migräneprophylaxe? | Bundesgesundheitsblatt Gesundheitsforsch [ger]
+- new | 2002 | 12188041 | Clinical Trial/Research Support, Non-U.S. Gov't | Anti-inflammatory activity of an extract of Petasites hybridus in allergic rhinitis. | Int Immunopharmacol
+- new | 2002 | 11799030 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Randomised controlled trial of butterbur and cetirizine for treating seasonal allergic rhinitis. | BMJ
+- new | 2002 | 12403927 | Research Support, Non-U.S. Gov't/Review | Petasins in the treatment of allergic diseases: results of preclinical and clinical studies. | Int Arch Allergy Immunol
+- HELD REF-0543 | 2001 | 11410074 | Clinical Trial/Randomized Controlled Trial | An extract of Petasites hybridus is effective in the prophylaxis of migraine. | Altern Med Rev
+- HELD REF-0543 | 2000 | 11020030 | Clinical Trial/Randomized Controlled Trial | An extract of Petasites hybridus is effective in the prophylaxis of migraine. | Int J Clin Pharmacol Ther
+
+### PubMed SR - 9 hits, 2 not already listed above, 2 new
+- new | 2025 | 39084196 | Systematic Review/Research Support, Non-U.S. Gov't | Efficacy and Safety of Phytotherapy and Anthroposophic Medicine in Seasonal Allergic Rhinitis: A Systematic Review. | Int Arch Allergy Immunol
+- new | 2005 | 16520304 | Systematic Review | Butterbur: an evidence-based systematic review by the natural standard research collaboration. | J Herb Pharmacother
+
+### PubMed SAFE - 88 hits, 56 not already listed above, 52 new
+- new | 2026 | 41721401 | Clinical Trial, Veterinary | Clinical impact of butterbur shoot extract in dogs with oral melanoma: a combined phase 1 and 2 clinical trial. | BMC Vet Res
+- new | 2026 | 41908273 |  | Efficacy of Petasites hybridus in migraine prophylaxis: the first real-world study. | Front Neurol
+- new | 2025 | 39853578 | Review | Nutraceuticals and Headache 2024: Riboflavin, Coenzyme Q10, Feverfew, Magnesium, Melatonin, and Butterbur. | Curr Pain Headache Rep
+- new | 2025 | 40558112 | Review | Efficacy and Safety of P. hybridus Leaf Extract Ze 339 for the Treatment of Allergic Rhinitis. | Adv Respir Med
+- new | 2024 | 38307641 | Review | Nutraceuticals in migraine. | Handb Clin Neurol
+- new | 2023 | 30725845 | Study Guide | Butterbur. | 
+- new | 2023 | 37350686 |  | Efficacy of butterbur in allergic rhinitis: a cell culture study. | Eur Rev Med Pharmacol Sci
+- new | 2023 | 37394426 |  | Application to Butterbur Products of a Suggested Daily Intake-Based Safety Evaluation of Individual Herbal Supplements with Cytochrome P450 Expression as a Major Index. | J Nutr Sci Vitaminol (Tokyo)
+- new | 2023 | 37032589 |  | Dissipation pattern and safety assessment of fenazaquin and metaflumizone in butterbur (Petasites japonicus). | J Environ Sci Health B
+- HELD REF-1480 | 2023 | 37395030 | Research Support, Non-U.S. Gov't | A Standardized Extract of Petasites hybridus L., Containing the Active Ingredients Petasins, Acts as a Pro-Oxidant and Triggers Apoptosis through Elevating of NF-κB in a Highly Inv | Front Biosci (Landmark Ed)
+- new | 2022 | 36088149 | Review | Allergies and Natural Alternatives. | Otolaryngol Clin North Am
+- HELD REF-1483 | 2022 | 35427728 | Review | A review on the ethnobotany, phytochemistry, pharmacology and toxicology of butterbur species (Petasites L.). | J Ethnopharmacol
+- new | 2022 | 34713925 | Letter | Anaphylaxis to lipid transfer protein from butterbur scape. | J Dermatol
+- new | 2021 | 34441739 |  | Single and Repeated Oral Dose Toxicity and Genotoxicity of the Leaves of Butterbur. | Foods
+- new | 2021 | 33562487 | Research Support, Non-U.S. Gov't/Review | Non-Pharmacological Approaches to Headaches: Non-Invasive Neuromodulation, Nutraceuticals, and Behavioral Approaches. | Int J Environ Res Public Health
+- new | 2021 | 33668395 |  | Treatment of Early Allergic and Late Inflammatory Symptoms of Allergic Rhinitis with Petasites hybridus Leaf Extract (Ze 339): Results of a Noninterventional Observational Study in | Pharmaceuticals (Basel)
+- new | 2021 | 34169585 | Case Reports/Letter/Review | Two cases of unique presentation of anaphylaxis to Japanese butterbur scapes and literature review. | J Eur Acad Dermatol Venereol
+- new | 2020 | 33188248 | Research Support, Non-U.S. Gov't | The invasive butterbur contaminates stream and seepage water in groundwater wells with toxic pyrrolizidine alkaloids. | Sci Rep
+- new | 2020 | 31631423 |  | In vitro hepatotoxicity of Petasites hybridus extract (Ze 339) depends on the concentration, the cytochrome activity of the cell system, and the species used. | Phytother Res
+- new | 2019 | 31083451 |  | Hepatobiliary Events in Migraine Therapy with Herbs-The Case of Petadolex, A Petasites Hybridus Extract. | J Clin Med
+- new | 2018 | 29620235 |  | Toxicity of plant extracts containing pyrrolizidine alkaloids using alternative invertebrate models. | Mol Med Rep
+- new | 2017 | 27451267 | Case Reports/Letter | Anaphylaxis to Japanese butterbur scapes. | Allergol Int
+- new | 2016 | 28002518 |  | Oral toxicity study of certain plant extracts containing pyrrolizidine alkaloids. | Rom J Morphol Embryol
+- new | 2016 | 26674157 | Research Support, Non-U.S. Gov't | Petatewalide B, a novel compound from Petasites japonicus with anti-allergic activity. | J Ethnopharmacol
+- new | 2015 | 26252585 | Review | Preventive Migraine Treatment. | Continuum (Minneap Minn)
+- new | 2015 | 26581315 | Review | Recent Patents of Complementary and Alternative Medicine for Allergic Rhinitis. | Recent Pat Inflamm Allergy Drug Discov
+- new | 2015 | 26094206 |  | UPLC TOF MS for sensitive quantification of naturally occurring pyrrolizidine alkaloids in Petasites hybridus extract (Ze 339). | J Chromatogr B Analyt Technol Biomed Lif
+- new | 2014 | 24439647 |  | Butterbur extract: prophylactic treatment for childhood migraines. | Complement Ther Clin Pract
+- new | 2014 | 24685772 | Research Support, Non-U.S. Gov't | How useful are clinical liver function tests in in vitro human hepatotoxicity assays? | Toxicol In Vitro
+- new | 2013 | 23472485 | Research Support, Non-U.S. Gov't/Review | Adverse effects of herbal medicines: an overview of systematic reviews. | Clin Med (Lond)
+- new | 2013 | 23906985 |  | Simultaneous investigation of sesquiterpenes, pyrrolizidine alkaloids and N-oxides in Butterbur (Petasites hybridus) with an offline 2D-combination of HPLC-UV and LC-MMI-ToF-MS. | J Pharm Biomed Anal
+- new | 2012 | 31643329 | Review | Butterbur. | 
+- new | 2012 | 23030536 | Review | Herbal treatment of headache. | Headache
+- new | 2012 | 22868542 | Case Reports/Review | Nonmedication, alternative, and complementary treatments for migraine. | Continuum (Minneap Minn)
+- new | 2012 | 23132561 |  | Japanese butterbur (Petasites japonicus) leaves increase hepatic oxidative stress in male rats. | Biosci Biotechnol Biochem
+- new | 2010 | 21049704 |  | Migraine: prophylactic treatment. | J Assoc Physicians India
+- new | 2010 | 19827027 | Research Support, Non-U.S. Gov't | Petasites extract Ze 339 (PET) inhibits allergen-induced Th2 responses, airway inflammation and airway hyperreactivity in mice. | Phytother Res
+- new | 2009 | 19454881 | Review | Foods and supplements in the management of migraine headaches. | Clin J Pain
+- new | 2009 | 19770483 | Research Support, Non-U.S. Gov't | Toxicogenomics applied to cultures of human hepatocytes enabled an identification of novel petasites hybridus extracts for the treatment of migraine with improved hepatobiliary saf | Toxicol Sci
+- new | 2008 | 18803445 | Review | Treatment of migraine with prophylactic drugs. | Expert Opin Pharmacother
+- new | 2008 | 18806984 | Review | [Alternatives to beta blockers in preventive migraine treatment]. | Nervenarzt [ger]
+- new | 2008 | 18605519 |  | Conventional, complementary, and alternative options for seasonal allergies. | Urol Nurs
+- new | 2006 | 16463791 | Review | [Allergo-immunology]. | Rev Med Suisse [fre]
+- new | 2006 | 16608208 | Research Support, Non-U.S. Gov't | Anti type I allergic property of Japanese butterbur extract and its mast cell degranulation inhibitory ingredients. | J Agric Food Chem
+- new | 2005 | 15967894 | Comment/Letter | Addressing the long-term safety aspects of butterbur therapy: a call for immediate action. | Arch Otolaryngol Head Neck Surg
+- new | 2004 | 15264611 | Review | Evidenced-based use of botanicals, minerals, and vitamins in the prophylactic treatment of migraines. | J Am Acad Nurse Pract
+- new | 2004 | 15063152 |  | Effects of S-petasin on cyclic AMP production and enzyme activity of P450scc in rat zona fasciculata-reticularis cells. | Eur J Pharmacol
+- new | 2003 | 14584971 | Review | Petasites--Zeller: ZE 339. | Drugs R D
+- HELD REF-1477 | 2003 | 12808361 | Review | [The common butterbur (Petasites hybridus)--portrait of a medicinal herb]. | Forsch Komplementarmed Klass Naturheilkd [ger]
+- HELD REF-1478 | 2003 | 12807342 | Review | A newly developed extract (Ze 339) from butterbur (Petasites hybridus L.) is clinically efficient in allergic rhinitis (hay fever). | Phytomedicine
+- new | 2003 | 15277065 |  | Butterbur for allergic rhinitis. | J Herb Pharmacother
+- new | 2002 | 12033216 | Comment/Letter | Treating seasonal allergic rhinitis. Trial does not show that there is no difference between butterbur and cetirizine. | BMJ
+- new | 2002 | 12817704 | Research Support, Non-U.S. Gov't | Effects of S-petasin on corticosterone release in rats. | Chin J Physiol
+- new | 2001 | 11286996 | Comparative Study/Research Support, Non-U.S. Gov't | Role of petasin in the potential anti-inflammatory activity of a plant extract of petasites hybridus. | Biochem Pharmacol
+- new | 2001 | 15990509 |  | Herbs and nutrients in the treatment of depression, anxiety, insomnia, migraine, and obesity. | J Psychiatr Pract
+- new | 2000 | 11132091 | Research Support, Non-U.S. Gov't | Inhibition of testosterone secretion by S-petasin in rat testicular interstitial cells. | Chin J Physiol
+
+### PubMed OBS - 5 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 44 hits, 6 not already listed above, 6 new
+- new | 2019 | 31639086 | Review | Actualities in the phytochemical research on selected terpenes. | Acta Pharm
+- new | 2018 | 29309470 | Review | The evidence for herbal and botanical remedies, Part 2. | J Fam Pract
+- new | 2018 | 29309469 | Review | The evidence for herbal and botanical remedies, Part 1. | J Fam Pract
+- new | 2016 | 27017022 | Review | Complementary and Integrative Approaches for Pediatric Headache. | Semin Pediatr Neurol
+- new | 2016 | 26954394 | Review | Nutraceuticals in Migraine: A Summary of Existing Guidelines for Use. | Headache
+- new | 2014 | 24867850 | Review | Herbal therapy in migraine. | Neurol Sci
+
+### ClinicalTrials.gov - 1 registered studies
+- NCT01062139 | UNKNOWN | results=False | PHASE4 | Cosalin® Monotherapy Versus Cosalin® and Xarlin® Combination Therapy | conds: Perennial Allergic Rhinitis | intr: Xarlin (Levocetirizine), Cosalin (Petasites hybridus CO2 extract)
+
+### OpenAlex no-PMID trial-worded - 197 hits, 41 without PMID, 41 new
+- new | 2026 | 10.52711/2231-5659.2026.00037 | article | Herbal Medicines in the Management of Migraine: Ethnobotanical Insights and Pharmacological Perspectives | Asian Journal of Research in Pharmaceuti
+- new | 2026 | 10.5281/zenodo.21270776 | dataset | Are there any vitamins or supplements that have either old or recent clinical trial evidence of being beneficial for preventing or reducing migraines that may have been overlooked? | Zenodo (CERN European Organization for N
+- new | 2026 | 10.9734/ajarr/2026/v20i41334 | article | Herbal Therapeutic Approaches for Migraine Management: Pharmacological Mechanisms and Evidence of Medicinal Plants with Clinical Approach | Asian Journal of Advanced Research and R
+- new | 2026 | 10.1186/s12906-026-05571-4 | article | Active substances of plants in the treatment of allergic rhinitis: a systematic review and network meta-analysis | BMC Complementary Medicine and Therapies
+- new | 2026 | 10.9734/ejmp/2026/v37i41359 | review | Medicinal Plants in Migraine Management: A Narrative Review | European Journal of Medicinal Plants
+- new | 2025 | 10.48208/headachemed.2025.10 | article | Petasites hybridus: evidence 1A on migraine prophylaxis | Headache Medicine/Revista Headache Medic
+- new | 2025 | 10.48208/headachemed.2025.11 | article | Prevention of migraine in children and adolescents: results of an open-label study with special extract of Petasites hybridus root | Headache Medicine/Revista Headache Medic
+- new | 2024 | 10.48208/headachemed.2024.51 | article | Petasites hybridus: scientific evidence A | Headache Medicine/Revista Headache Medic
+- new | 2024 | 10.48208/headachemed.2024.28 | article | Petasites hybridus in migraine prophylaxis: literature review | Headache Medicine/Revista Headache Medic
+- new | 2024 | 10.1201/9781003573227 | book | Breeding Research on Aromatic and Medicinal Plants | CRC Press eBooks
+- new | 2024 | 10.1016/b978-0-443-24705-7.00030-2 | book-chapter | Herbal medicines | Elsevier eBooks
+- new | 2022 | 10.1055/s-0042-1749263 | article | Effect of Petasites hybridus extract Ze 339 on organic cation transporter 3 – consequences for intestinal handling of histamine | Zeitschrift für Phytotherapie
+- new | 2022 | 10.22246/jikm.2022.43.2.283 | article | A Case Report of a Patient Diagnosed with Diabetic Ketoacidosis Accompanied by Hyperammonemia from Systemic Inflammation | The Journal of Internal Korean Medicine
+- new | 2021 | 10.58837/chula.the.2021.91 | dissertation | Efficacy and safety of Phlai capsule compared to placebo as the treatment in allergic rhinitis patients | Chula Digiverse
+- new | 2021 | 10.23958/ijirms/vol06-i04/1106 | article | Randomized Controlled Study to Evaluate Prophylactic Properties of Ayurvedic Treatment Protocol in Refractory and Chronic Migraine Patients | International Journal of Innovative Rese
+- new | 2020 | 10.1186/s40816-020-00231-7 | article | Evidence-based management of acute rhinosinusitis with herbal products | Clinical Phytoscience
+- new | 2019 | 10.1007/978-3-030-21217-9_37 | book-chapter | Herbal Remedy Alternatives for Allergic Rhinitis | Springer eBooks
+- new | 2018 | 10.1177/2515816318759304 | article | Safety profile of a special butterbur extract fromPetasites hybridusin migraine prevention with emphasis on the liver | Cephalalgia Reports
+- new | 2018 | 10.1111/jcpe.324_12916 | conference-abstract | Pilot clinical trial and revision of the literature: short implants in daily clinical practice reduce the need for complex surgeries? Do they reduce treatment time, morbidity and c | Journal Of Clinical Periodontology
+- new | 2018 | 10.1111/jcpe.321_12916 | conference-abstract | Management of persistent acute neuropathic orofacial pain following dental implant placement in the posterior maxilla: a case report | Journal Of Clinical Periodontology
+- new | 2017 | 10.1097/01.ebp.0000541879.42327.4f | article | Is butterbur an effective treatment for allergic rhinitis? | Evidence-Based Practice
+- new | 2017 | 10.48208/headachemed.2017.14 | article | Medications we miss in headache treatment in Brazil | Headache Medicine/Revista Headache Medic
+- new | 2017 | 10.1016/j.aforl.2016.08.009 | article | La phytothérapie en pratique clinique en otorhinolaryngologie : apport, limites et risques | Annales françaises d Oto-rhino-laryngolo
+- new | 2017 | https://openalex.org/W2802774014 | dissertation | Phytopharmacy Research in the Context of Saudi Arabian Healthcare – the Example of Nigella sativa L. Efficacy on Asthma Inflammation and Outcomes | UCL Discovery (University College London
+- new | 2016 | 10.1055/s-0036-1596936 | article | Effects of a fixed herbal drug combination (Ze 185) to an experimental acute stress setting in healthy men – an explorative randomized placebo-controlled double blind study | Planta Medica
+- new | 2016 | 10.1055/s-0036-1584436 | article | Effects of a fixed herbal drug combination (Ze 185) to an experimental acute stress setting in healthy men – an explorative randomized placebo-controlled double blind study | Zeitschrift für Phytotherapie
+- new | 2016 | 10.5167/uzh-129232 | conference-abstract | Petadolex®, a herbal extract for migraine prophylaxis with spontaneous case reports of disputed liver injury: robust causality evaluation by rucam, the roussel uclaf causality asse | Zurich Open Repository and Archive (Univ
+- new | 2016 | 10.4172/2472-1913.100009 | article | Recent developments in the treatment of migraine in children and adolescents | Journal of Headache & Pain Management
+- new | 2015 | https://openalex.org/W3152621518 | article | Migraine Prophylaxis with Petasites Hybridus | UND Scholarly Commons (University of Nor
+- new | 2015 | https://openalex.org/W2478363937 | article | Effectiveness and tolerability Recibido: 20/10/2015 Aceptado: 21/11/2015 of the Petasites hybridus leaf extract Ze 339 in the treatment of allergic rhinitis in a paediatric populat | Archivos Venezolanos de Farmacología y T
+- new | 2014 | 10.2147/btat.s54023 | article | Update on the efficacy and safety of Petadolex®, a butterbur extract for migraine prophylaxis | Botanics Targets and Therapy
+- new | 2013 | 10.2478/hepo-2013-0028 | article | Phytochemical, pharmacological and clinical studies of petasites hybridus (l.) P. Gaertn., B. Mey. & Scherb. A review / | Herba Polonica
+- new | 2013 | 10.1111/fct.12026 | article | Complementary integrative medicine in atopic diseases – an overview | Focus on Alternative and Complementary T
+- new | 2013 | 10.31524/bkkmedj.2013.02.012 | article | Update on Migraine Prophylaxis: Things that can help your migraine patients | THE BANGKOK MEDICAL JOURNAL
+- new | 2012 | 10.1055/s-0032-1313233 | article | Rationale Phytotherapie in der HNO-Praxis | Zeitschrift für Phytotherapie
+- new | 2009 | https://openalex.org/W2605691861 | article | Is butterbur an effective herbal therapy to prevent migraine? | MOspace Institutional Repository (Univer
+- new | 2007 | 10.1016/b978-0-323-02998-8.50024-x | book-chapter | Veterinary Herbal Medicine: A Systems-Based Approach | Elsevier eBooks
+- new | 2006 | 10.1055/s-2006-951373 | article | CO2-Extrakt aus Pestwurzblättern wirksam bei allergischer Rhinitis - Ergebnisse einer dreiarmigen Doppelblindstudie mit 330 Patienten | Zeitschrift für Phytotherapie
+- new | 2004 | 10.1016/j.jpsychores.2004.04.036 | conference-abstract | 32-USING NEW PSYCHOACTIVE DRUGS AND PROMOTING PSYCHOTHERAPY IN A PSYCHOSOMATIC C-L SERVICE. | Journal of Psychosomatic Research
+- new | 2003 | 10.1016/s0091-6749(03)80184-7 | article | Butterbur, a herbal remedy, protects against allergen-sensitized mast cell priming in seasonal allergic rhinitis | Journal of Allergy and Clinical Immunolo
+- new | 2002 | 10.1136/bmj.324.7330.0a | article | Butterbur is as effective as cetirizine for hay fever | BMJ

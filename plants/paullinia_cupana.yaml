@@ -185,6 +185,15 @@ contraindications:
   - REF-0233
   - REF-0063
   status: verified
+- note: 'Heart rhythm: guarana products can deliver dangerous doses of caffeine. A 25-year-old woman with
+    mitral valve prolapse developed ventricular fibrillation after a guarana "natural energy" drink, and
+    a man who swallowed guarana tablets containing 1.6 g of caffeine developed caffeine poisoning with
+    atrial fibrillation (case reports).'
+  severity: warning
+  reference_ids:
+  - REF-5548
+  - REF-5549
+  status: verified
 references:
 - REF-0950
 - REF-0951
@@ -232,4 +241,13 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0009 was mis-attributed
   (''Amaral 2015''); it is Mattei 1998, J Ethnopharmacol 60:111-6 (PMID 9582000), low-toxicity
   behavioural tests in animals plus antioxidant activity in vitro. Kept on the antioxidant action;
-  removed from the dose and the two caffeine cautions, which it does not state.'
+  removed from the dose and the two caffeine cautions, which it does not state.
+  | 2026-11-26: symptom-source audit research-deepening batch 24 - Searched PubMed (Paullinia
+  cupana / guarana tiab: 61 HT, 15 SR, 105 SAFE hits; many were energy-drink or multi-ingredient
+  studies), Europe PMC, ClinicalTrials.gov (19) and OpenAlex. Fatigue (9) and cognition (8) were
+  not padded (2017 head-and-neck chemoradiotherapy RCT, 2023-2024 exercise-cognition RCTs not
+  added). Added: 2001 ventricular fibrillation and 2014 caffeine-poisoning atrial fibrillation
+  cases as a heart-rhythm warning. Not added: 2016 anorexia and 2013 hot-flush pilots (single-arm,
+  uncontrolled), energy-drink case reports and reviews (many ingredients), Ma Huang + guarana and
+  other weight-loss combinations, multivitamin + guarana trials, topical cosmetic studies, 2000
+  myoglobinuria case with ginkgo and kava (combination).'

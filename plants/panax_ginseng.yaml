@@ -168,8 +168,10 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids: []
+  note: Korean red ginseng eased hand osteoarthritis pain and improved hand function compared with placebo
+    in postmenopausal women (randomized double-blind trial)
+  reference_ids:
+  - REF-5564
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0014
@@ -177,7 +179,8 @@ indications:
   - REF-0137
 - condition: blood-sugar
   note: Blood-sugar lowering effects reviewed (review); a systematic review of red ginseng trials in type
-    2 diabetes found the evidence not convincing
+    2 diabetes found the evidence not convincing, and in a 2026 double-blind trial added to diabetes medicines,
+    Korean red ginseng did not change fasting glucose or HbA1c compared with placebo
   reference_ids:
   - REF-0137
   status: needs-review
@@ -186,6 +189,7 @@ indications:
   - REF-0192
   null_result_ids:
   - REF-3723
+  - REF-5569
 - condition: cognitive-function
   note: Ginseng compounds protected nerve cells in lab and animal studies (review); a Cochrane review
     found no convincing evidence that ginseng improves cognition, and evidence in Alzheimer's disease
@@ -209,9 +213,12 @@ indications:
   - REF-0192
   - REF-0137
 - condition: fatigue
-  note: Asian and American ginseng reduced fatigue in people with chronic illness (systematic review)
+  note: Asian and American ginseng reduced fatigue in people with chronic illness (systematic review),
+    and Panax ginseng extract reduced fatigue more than placebo in gastrointestinal cancer survivors over
+    4 weeks (randomized double-blind trial)
   reference_ids:
   - REF-1471
+  - REF-5567
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0014
@@ -276,6 +283,36 @@ indications:
   - REF-3721
   - REF-3722
   status: verified
+- condition: menopause
+  note: Ginseng reduced menopausal symptoms and improved quality of life compared with placebo in a 2022
+    meta-analysis of randomized trials (most trials at risk of bias)
+  reference_ids:
+  - REF-5559
+  status: verified
+- condition: hot-flashes
+  note: Ginseng lowered hot flushes compared with placebo in a 2022 meta-analysis of randomized trials
+    (small effect; most trials at risk of bias)
+  reference_ids:
+  - REF-5559
+  status: verified
+- condition: high-blood-pressure
+  note: Korean red ginseng lowered blood pressure compared with placebo in people with prehypertension
+    or hypertension (meta-analysis of double-blind trials; American ginseng trials did not), Rg3-enriched
+    Korean ginseng lowered systolic pressure by 7-10 mmHg vs placebo over 12 weeks (randomized double-blind
+    trial), and a 2022 meta-analysis found lower systolic and diastolic pressure
+  reference_ids:
+  - REF-5560
+  - REF-5561
+  - REF-5562
+  status: verified
+- condition: stress
+  note: Red Panax ginseng lowered perceived stress and negative mood more than placebo in moderately stressed
+    adults, and white ginseng lowered a composite stress index more than placebo over 12 weeks (randomized
+    double-blind trials)
+  reference_ids:
+  - REF-5563
+  - REF-5568
+  status: verified
 contraindications:
 - note: Generally well tolerated in short-term use (up to 3 months). May cause insomnia, headache, or
     gastrointestinal upset at high doses. Avoid during pregnancy and breastfeeding. May interact with
@@ -289,8 +326,8 @@ contraindications:
 - note: 'Duke (2002) rates Korean/Oriental ginseng (Panax ginseng) as highly active with clinical support
     for adaptogenic, immunostimulant, and performance-enhancing effects. Commission E approves standardized
     ginseng root extract (4–7% ginsenosides) as a tonic for fatigue and during convalescence. Dose: 200–600
-    mg standardized extract daily. Duke cautions about ''Ginseng Abuse Syndrome'' (GAS) with overdose -
-    symptoms include hypertension, insomnia, edema, and nervousness. Drug interactions are notable:
+    mg standardized extract daily. Duke cautions about ''Ginseng Abuse Syndrome'' (GAS) with overdose
+    - symptoms include hypertension, insomnia, edema, and nervousness. Drug interactions are notable:
     ginseng potentiates MAOIs and may interact with warfarin, digoxin, and stimulants. Cycle use (2–3
     weeks on, 2 weeks off) is recommended (Duke, 2002).'
   severity: caution
@@ -299,6 +336,20 @@ contraindications:
   - REF-0137
   - REF-0192
   - REF-0063
+  status: verified
+- note: 'Hormones: in a 6-month randomized double-blind trial in 69 premenopausal women with uterine fibroids,
+    Korean red ginseng did not make the fibroids grow more than placebo and did not change reproductive
+    hormones.'
+  severity: info
+  reference_ids:
+  - REF-5565
+  status: verified
+- note: 'Pregnancy: a 2008 systematic review found no adverse effects in a pregnancy cohort study and
+    judged reports of masculinising effects in a newborn to be due to an adulterant, but advised caution,
+    especially in the first trimester; there are no human studies in breastfeeding.'
+  severity: info
+  reference_ids:
+  - REF-5566
   status: verified
 references:
 - REF-1466
@@ -396,4 +447,22 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   removed from neuroprotective and recorded as no-effect for memory as well as cognition; AD SR
   REF-3724 no-effect. Red ginseng T2D SR REF-3723 no-effect for blood-sugar. New pairs (owner
   rule): high-cholesterol (2019 MA REF-3719; 2024 GRADE MA REF-3720 no-effect), low-libido (ED SR
-  REF-3721, FSD MA REF-3722).'
+  REF-3721, FSD MA REF-3722).
+  | 2026-11-26: symptom-source audit research-deepening batch 24 - Searched PubMed (Panax ginseng
+  / Korean, Asian or Korean red ginseng / red ginseng tiab: 405 HT, 130 SR, 905 SAFE hits), Europe
+  PMC (re-run after an interrupted session), ClinicalTrials.gov (100) and OpenAlex. Huge plant:
+  screened SRs, conditions without a pair and safety; low libido (8), fatigue (7) and cholesterol
+  (7) were not padded; American ginseng (P. quinquefolius) and notoginseng results were not
+  counted. Added: NEW menopause and hot-flashes pairs (2022 MA of placebo RCTs; the 2013 SR it
+  updates was not added), NEW high-blood-pressure pair (2017 MA of double-blind RCTs, 2026 Rg3
+  RCT, 2022 metabolic MA), NEW stress pair (2025 RCT), 2021 hand OA RCT to arthritis (replacing
+  the inferred note); fibroid-safety RCT and pregnancy SR as info notes; via Europe PMC: 2026
+  cancer-survivor fatigue RCT to fatigue, 2025 white ginseng RCT to stress, 2026 diabetes add-on
+  RCT as a no-effect study on blood-sugar. Not added: 2021 genitourinary-syndrome RCT (only
+  patient-reported symptoms improved), 2026 red ginseng glucose RCT (within-group changes only),
+  ginseng berry andropause RCT (libido already 8), KRG hangover complex (combination); 2019 Thorax
+  COPD RCT (no difference from placebo; no respiratory pair exists), immune-enhancement RCTs
+  (NK-cell markers only), 2019 high-stress RCT (biomarkers and one cognitive test), prediabetes
+  RCTs and the metabolic MA for blood sugar (blood-sugar left as is beside its null SR), ginseng
+  in multi-herb products (Saengmaeksan, aronia mixture, chia fibre), injectable Chinese products
+  (Shenmai, Shenfu, Aidi), mouse drug-interaction studies.'

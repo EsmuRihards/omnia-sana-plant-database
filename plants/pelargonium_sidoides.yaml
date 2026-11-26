@@ -185,6 +185,23 @@ contraindications:
   reference_ids:
   - REF-0492
   status: needs-review
+- note: 'Allergy: the WHO pharmacovigilance programme received 34 reports of suspected allergic reactions
+    to pelargonium extract (all from Germany), some of them immediate-type reactions; two people needed
+    treatment for circulatory collapse (pharmacovigilance review).'
+  severity: caution
+  reference_ids:
+  - REF-5550
+  status: verified
+- note: 'Liver: a structured causality assessment of 15 German spontaneous reports of suspected liver
+    injury found no probable link to pelargonium, with other possible causes and poor data in almost all
+    cases; a 2026 post-authorisation study of 300 adults found no signs of liver toxicity after 7 days,
+    and an open randomized trial in 591 children aged 1-5 raised no safety concerns.'
+  severity: info
+  reference_ids:
+  - REF-5551
+  - REF-5552
+  - REF-5553
+  status: verified
 references:
 - REF-1868
 - REF-0492
@@ -229,4 +246,14 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Int J Gen Med a
   | 2026-11-13: symptom-source audit deep re-sweep batch 12 - Deep re-sweep. New pairs (owner
   rule): cough (herbal cough MA REF-3434, batch-2 carry), respiratory-support (COPD RCT REF-3716),
   asthma (RCT REF-3717). Bronchitis RCT REF-3715 and children MA REF-3712, cold RCT REF-3714,
-  children RTI MA REF-3713 added. REF-1875 retagged preclinical.'
+  children RTI MA REF-3713 added. REF-1875 retagged preclinical.
+  | 2026-11-26: symptom-source audit research-deepening batch 24 - Searched PubMed (Pelargonium
+  sidoides / EPs 7630 / Umckaloabo tiab: 69 HT, 20 SR, 54 SAFE hits), Europe PMC,
+  ClinicalTrials.gov (9) and OpenAlex. Bronchitis (9), cold (8), sinusitis (8), sore throat, cough
+  and infection (7) were not padded (2026 Swiss pragmatic bronchitis trial, 2022 cough MA, 2023
+  work-inability MA, 2019 common cold RCT and older company RCTs not added; most are already
+  pooled in the cited MAs). Added: 2007 WHO pharmacovigilance allergy review as a caution;
+  liver-causality analysis, 2026 liver-safety study and 2023 paediatric safety trial as an info
+  note. Not added: honey/propolis/zinc combinations, EPs 7630 vs amoxicillin or roxithromycin
+  (active comparators), hand-foot-and-mouth disease open study (no vocab condition), chemokine
+  studies (surrogate), nephrotoxicity cell study.'

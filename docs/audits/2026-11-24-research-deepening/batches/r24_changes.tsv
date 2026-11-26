@@ -1,0 +1,20 @@
+plant	condition	ref	op
+panax_ginseng	menopause	REF-5559	newpair
+panax_ginseng	hot-flashes	REF-5559	newpair
+panax_ginseng	high-blood-pressure	REF-5560,REF-5561,REF-5562	newpair
+panax_ginseng	stress	REF-5563,REF-5568	newpair
+panax_ginseng	fatigue	REF-5567	add
+panax_ginseng	fatigue	-	note
+panax_ginseng	blood-sugar	REF-5569	nulladd
+panax_ginseng	blood-sugar	-	note
+panax_ginseng	arthritis	REF-5564	add
+panax_ginseng	arthritis	-	note
+panax_ginseng	cinew	Hormones: in a 6-month randomized double	REF-5565
+panax_ginseng	cinew	Pregnancy: a 2008 systematic review foun	REF-5566
+passiflora_incarnata	cinew	Heart: a 34-year-old woman developed sev	REF-5556
+passiflora_incarnata	ciadd	Use in pregnancy and breastfeeding is not recommended.	REF-5557
+passiflora_incarnata	dciadd	sedatives-cns-depressants	REF-5558
+paullinia_cupana	cinew	Heart rhythm: guarana products can deliv	REF-5548,REF-5549
+pelargonium_sidoides	cinew	Allergy: the WHO pharmacovigilance progr	REF-5550
+pelargonium_sidoides	cinew	Liver: a structured causality assessment	REF-5551,REF-5552,REF-5553
+petasites_hybridus	cinew	Liver: even the PA-free root extract Pet	REF-5554,REF-5555

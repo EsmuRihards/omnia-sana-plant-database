@@ -12643,6 +12643,29 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "high-blood-pressure",
+     "label": "High blood pressure",
+     "evidence": 9,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5560",
+      "REF-5561",
+      "REF-5562"
+     ]
+    },
+    {
+     "condition": "fatigue",
+     "label": "Fatigue / low energy",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1471",
+      "REF-5567"
+     ]
+    },
+    {
      "condition": "low-libido",
      "label": "Low libido",
      "evidence": 8,
@@ -12654,16 +12677,6 @@
      ]
     },
     {
-     "condition": "fatigue",
-     "label": "Fatigue / low energy",
-     "evidence": 7,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-1471"
-     ]
-    },
-    {
      "condition": "high-cholesterol",
      "label": "High cholesterol",
      "evidence": 7,
@@ -12671,6 +12684,47 @@
      "inferred": false,
      "references": [
       "REF-3719"
+     ]
+    },
+    {
+     "condition": "hot-flashes",
+     "label": "Hot flashes",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5559"
+     ]
+    },
+    {
+     "condition": "menopause",
+     "label": "Menopause",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5559"
+     ]
+    },
+    {
+     "condition": "stress",
+     "label": "Stress",
+     "evidence": 6,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5563",
+      "REF-5568"
+     ]
+    },
+    {
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-5564"
      ]
     },
     {
@@ -12732,14 +12786,6 @@
      "references": [
       "REF-0137"
      ]
-    },
-    {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
     },
     {
      "condition": "cold",

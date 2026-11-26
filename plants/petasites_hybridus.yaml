@@ -204,6 +204,16 @@ contraindications:
   reference_ids:
   - REF-0426
   status: verified
+- note: 'Liver: even the PA-free root extract Petadolex has been linked to rare cases of herb-induced
+    liver injury; most were mild, but nine were severe and two people needed a liver transplant, while
+    the others recovered after stopping (case analysis). Many patients also took other pain medicines
+    that can harm the liver. In rats, bile-duct changes appeared only at 45-90 times the maximum clinical
+    dose (review).'
+  severity: warning
+  reference_ids:
+  - REF-5554
+  - REF-5555
+  status: verified
 references:
 - REF-1476
 - REF-1477
@@ -273,4 +283,14 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Pediatrics in R
   asthma (open trial) keep their sources.
   | 2026-11-13: symptom-source audit deep re-sweep batch 12 - Deep re-sweep. Genus review REF-1483
   retagged narrative-review and removed from both actions (kept in references). Muscle-spasm
-  dropped (smooth-muscle antispasmodic; off-target). Notes rewritten.'
+  dropped (smooth-muscle antispasmodic; off-target). Notes rewritten.
+  | 2026-11-26: symptom-source audit research-deepening batch 24 - Searched PubMed (Petasites
+  hybridus / butterbur / Petadolex / Ze 339 tiab: 46 HT, 9 SR, 88 SAFE hits), Europe PMC,
+  ClinicalTrials.gov (1) and OpenAlex. Allergy (7) and migraine/headache (6) were not padded: the
+  placebo RCTs of Ze 339 in allergic rhinitis and the 2006 migraine SR pool trials the record''s
+  SR and RCTs already cite. Added: 2019 analysis of Petadolex liver-injury cases with the 2022
+  safety review as a liver WARNING (the record had only the raw-plant PA caution). Not added: 2008
+  paediatric migraine RCT (butterbur better than placebo only at follow-up, not after treatment),
+  2004 asthma add-on crossover (airway challenge and exhaled NO only, surrogate), Ze 185
+  combination, Japanese butterbur (Petasites japonicus) anaphylaxis cases and toxicology (other
+  species), postmarketing surveillance studies (uncontrolled).'

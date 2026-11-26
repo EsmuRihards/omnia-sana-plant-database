@@ -184,6 +184,14 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0491
+  - REF-5557
+  status: verified
+- note: 'Heart: a 34-year-old woman developed severe nausea, vomiting, drowsiness, a prolonged QT interval
+    and runs of ventricular tachycardia after taking passionflower at usual doses, and needed hospital
+    heart monitoring (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5556
   status: verified
 references:
 - REF-0490
@@ -207,6 +215,7 @@ drug_class_interactions:
   - REF-2452
   - REF-2460
   - REF-0490
+  - REF-5558
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
@@ -247,4 +256,16 @@ internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (
   examined in the 2026 data-integrity analysis (Research Integrity and Peer Review, PMID 42288935)
   questioned 223 RCTs from one psychopharmacology research group. Owner decision 2026-11-25: leave
   existing pairs as they are and wait for the journals'' investigations; no new support from that
-  group is added meanwhile.'
+  group is added meanwhile.
+  | 2026-11-26: symptom-source audit research-deepening batch 24 - Searched PubMed (Passiflora
+  incarnata / passionflower / passion flower / maypop tiab: 62 HT, 22 SR, 76 SAFE hits), Europe
+  PMC, ClinicalTrials.gov (12) and OpenAlex. INTEGRITY HOLD applies (owner decision 2026-11-25):
+  existing pairs unchanged and nothing new added from the flagged group; anxiety (10), stress (8)
+  and insomnia (7) were not padded anyway (dental-anxiety RCTs 2021-2025, sertraline add-on trial,
+  Cochrane 2007 not added). Added: 2000 QT-prolongation and ventricular tachycardia case as a
+  heart caution; 2018 case series of five pregnancies with neonatal complications to the pregnancy
+  caution; 2009 valerian + passionflower + lorazepam case to the approved sedatives interaction.
+  Not added: 2001 opioid-withdrawal RCT (no vocab condition), ADHD reviews, menopause comparison
+  with St John''s wort (active comparator), melatonin vs passionflower (active comparator),
+  Euphytose, Ze 185 and other combinations, benzodiazepine-tapering real-world studies, Passiflora
+  edulis (passion fruit) studies.'

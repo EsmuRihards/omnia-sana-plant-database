@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 128,
+ "count": 131,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -683,6 +683,21 @@
    "status": "approved"
   },
   {
+   "plant_id": "equisetum-arvense",
+   "plant": "Field Horsetail",
+   "scientific": "Equisetum arvense",
+   "common_slug": "field-horsetail",
+   "wp_post_id": null,
+   "drug_class": "antiretrovirals",
+   "drug_class_label": "Antiretrovirals (HIV medicines)",
+   "severity": "caution",
+   "mechanism": "Two people on long-standing efavirenz-based HIV treatment had their virus return (virological breakthrough) after taking a herbal supplement containing horsetail; the authors suspected an interaction and advised avoiding the combination (case reports).",
+   "references": [
+    "REF-5344"
+   ],
+   "status": "approved"
+  },
+  {
    "plant_id": "ononis-arvensis",
    "plant": "Field restharrow",
    "scientific": "Ononis arvensis",
@@ -1243,6 +1258,21 @@
    "scientific": "Ganoderma lingzhi",
    "common_slug": "lingzhi",
    "wp_post_id": null,
+   "drug_class": "anticoagulants-antiplatelets",
+   "drug_class_label": "Anticoagulants / antiplatelets",
+   "severity": "caution",
+   "mechanism": "In patients with atherosclerotic disease, reishi (1 g three times a day for 2 weeks) reduced platelet aggregation by up to about 30% (clinical study), so it may add to the effect of antiplatelet and anticoagulant medicines.",
+   "references": [
+    "REF-5371"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "ganoderma-lingzhi",
+   "plant": "Lingzhi",
+   "scientific": "Ganoderma lingzhi",
+   "common_slug": "lingzhi",
+   "wp_post_id": null,
    "drug_class": "sedatives-cns-depressants",
    "drug_class_label": "Sedatives / CNS depressants",
    "severity": "caution",
@@ -1671,6 +1701,22 @@
    "references": [
     "REF-2483",
     "REF-2482"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "crocus-sativus",
+   "plant": "Saffron",
+   "scientific": "Crocus sativus",
+   "common_slug": "saffron",
+   "wp_post_id": null,
+   "drug_class": "anticoagulants-antiplatelets",
+   "drug_class_label": "Anticoagulants / antiplatelets",
+   "severity": "caution",
+   "mechanism": "A man taking the anticoagulant rivaroxaban developed nosebleeds and bleeding gums after starting a saffron supplement (case report); a placebo-controlled study in healthy volunteers found no effect of 200 to 400 mg saffron a day for a week on clotting factors or clotting times.",
+   "references": [
+    "REF-5306",
+    "REF-5307"
    ],
    "status": "approved"
   },

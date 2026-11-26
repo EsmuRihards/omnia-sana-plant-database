@@ -18215,6 +18215,18 @@
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
      "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "anticoagulants-antiplatelets",
+     "severity": "caution",
+     "mechanism": "A man taking the anticoagulant rivaroxaban developed nosebleeds and bleeding gums after starting a saffron supplement (case report); a placebo-controlled study in healthy volunteers found no effect of 200 to 400 mg saffron a day for a week on clotting factors or clotting times.",
+     "reference_ids": [
+      "REF-5306",
+      "REF-5307"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-26"
     }
    ],
    "lookalikes_review": {
@@ -22400,7 +22412,19 @@
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-08-15",
-   "drug_class_interactions": [],
+   "drug_class_interactions": [
+    {
+     "drug_class": "antiretrovirals",
+     "severity": "caution",
+     "mechanism": "Two people on long-standing efavirenz-based HIV treatment had their virus return (virological breakthrough) after taking a herbal supplement containing horsetail; the authors suspected an interaction and advised avoiding the combination (case reports).",
+     "reference_ids": [
+      "REF-5344"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-26"
+    }
+   ],
    "common_slug": "field-horsetail"
   },
   {
@@ -26410,6 +26434,17 @@
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
      "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "anticoagulants-antiplatelets",
+     "severity": "caution",
+     "mechanism": "In patients with atherosclerotic disease, reishi (1 g three times a day for 2 weeks) reduced platelet aggregation by up to about 30% (clinical study), so it may add to the effect of antiplatelet and anticoagulant medicines.",
+     "reference_ids": [
+      "REF-5371"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-11-26"
     }
    ],
    "lookalikes_review": {

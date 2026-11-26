@@ -367,7 +367,9 @@ drug_class_interactions:
   reference_ids:
   - REF-5306
   - REF-5307
-  status: draft
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-11-26'
 lookalikes_review:
   outcome: has-lookalikes
   reviewed_by: Omnia Sana (owner-authorized)

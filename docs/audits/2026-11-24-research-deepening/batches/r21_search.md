@@ -1,0 +1,2089 @@
+# Research-deepening batch 21 - search
+
+## matricaria-chamomilla (Matricaria chamomilla) - name clause: "Matricaria chamomilla"[tiab] OR "Matricaria recutita"[tiab] OR "Chamomilla recutita"[tiab] OR "German chamomile"[tiab] OR "chamomile"[ti] OR "camomile"[ti]
+
+### PubMed HT - 186 hits, 186 not already listed above, 161 new
+- new | 2026 | 41930850 |  | Effect of Persian traditional medicine based herbal vaginal gel in vaginal atrophy. | J Ayurveda Integr Med
+- new | 2026 | 42201886 | Research Support, Non-U.S. Gov't | Repeated dosing of myrrh, chamomile extract, and coffee charcoal reveals potential health-beneficial effects in patients with irritable bowel syndrome in the M-SHIME simulator. | PLoS One
+- new | 2026 | 42812757 |  | Efficacy of an Herbal Cream on Patients with Hemorrhoids: a randomized triple-blind controlled trial. | J Pharmacopuncture
+- new | 2026 | 41550600 |  | Use of Topical Calendula and Chamomile Creams for the Management of Radiodermatitis in Cancer Patients: A Randomized Clinical Trial Protocol. | Glob Adv Integr Med Health
+- HELD REF-3632 | 2026 | 41761999 | Randomized Controlled Trial | Effect of Matricaria chamomilla on the Quality of Life Among Women with Menopausal Symptoms: A Triple-Blind Randomized Controlled Trial. | J Integr Complement Med
+- new | 2026 | 42122886 |  | Comparative Antifungal Activity of Medicinal Plant Extracts and Essential Oils Against Clinical Isolates of Candida albicans from Denture Stomatitis Patients. | Plants (Basel)
+- new | 2026 | 42192655 |  | Comparative Clinical Evaluation of Chamomile, Sage, and Ginger Mouthwashes in Reducing Plaque and Gingival Inflammation. | Antibiotics (Basel)
+- new | 2026 | 42034981 |  | Dynamics of Gracilaria edulis liquid extract on agromorphology, yield, and essential oil profile of chamomile (Matricaria recutita L.). | BMC Plant Biol
+- new | 2026 | 41809790 |  | Efficacy and safety of Compound Chamomile-Lidocaine Gel for postoperative wound management after pediatric circumcision: a multicenter randomized controlled trial. | Transl Androl Urol
+- new | 2026 | 43052462 | Randomized Controlled Trial/Equivalence Trial | Intra-sulcular compound chamomile and lidocaine hydrochloride gel for procedural pain during ultrasonic scaling: a randomized, single-blind, split-mouth, sham-controlled superiorit | Clin Oral Investig
+- new | 2026 | 42476198 |  | Integrated biocontrol of watermelon mosaic virus in squash using Artemisia extract and Bacillus mycoides. | Microb Pathog
+- new | 2026 | 42866805 |  | Examining the Impact of Swedish Massage with Chamomile Oil During Labor on Fear of Childbirth, Anxiety, Depression, and Stress in Primiparous Women: A Randomized Controlled Clinica | Iran J Nurs Midwifery Res
+- new | 2026 | 43077169 | Review | Valerian, chamomile, and lavender for insomnia and sleep disturbance: a narrative review of mechanisms, clinical efficacy, and safety. | Sleep Breath
+- new | 2026 | 41538720 | Randomized Controlled Trial | Evaluation of the protective effect of chamomile oral solution on the incidence of neurotoxicity caused by paclitaxel in breast cancer patients. | Anticancer Drugs
+- HELD REF-3630 | 2025 | 40665590 | Meta-Analysis/Systematic Review | Anti-inflammatory effect of chamomile from randomized clinical trials: a systematic review and meta-analyses. | Pharm Biol
+- HELD REF-3631 | 2025 | 39836709 | Randomized Controlled Trial | Efficacy and safety of Matricaria chamomilla intervention in managing menopausal symptoms: a triple-blind clinical trial. | Menopause
+- new | 2025 | 39545336 | Randomized Controlled Trial | Effects of chamomile oil inhalation on sleep quality in young adults with insomnia: A randomized controlled trial. | Int J Psychiatry Med
+- new | 2025 | 39514279 | Randomized Controlled Trial | Exploring the Effects of a Calming Herbal Tea Blend on Perioperative Anxiety: A Randomized Clinical Trial. | J Med Food
+- new | 2025 | 40314057 | Review | The Efficacy and Safety of Using Chamomile Products During Pregnancy and the Postpartum Period. | Cureus
+- new | 2025 | 39891079 |  | Evaluation of the rainfed and irrigated conditions on biomass and essential oil yield of German chamomile (Matricaria chamomilla) in response to melatonin foliar application. | BMC Plant Biol
+- new | 2025 | 40184312 |  | Impact of Compound Chamomile and Lidocaine Hydrochloride Gel on Airway Complications Associated With Laryngeal Mask Airway: A Prospective, Multicenter, Randomized Controlled Trial. | Anesth Analg
+- new | 2025 | 41394268 | Review | Effect of chamomile on musculoskeletal pain: A systematic review and meta-analysis of randomized controlled trials. | Caspian J Intern Med
+- new | 2025 | 40535870 | Published Erratum | Corrigendum to "Effect of chamomile aromatherapy with and without oxygen on pain of women in post cesarean section with spinal anaesthesia: A randomized clinical trial" [Heliyon Vo | Heliyon
+- new | 2025 | 40440968 | Randomized Controlled Trial | Topical chamomile oil as a novel therapeutic intervention for diabetic neuropathy: A randomized double-blind controlled clinical trial. | Explore (NY)
+- new | 2025 | 42021801 |  | Efficacy of Topical Chamomile and Dill Oil on Abdominal Obesity in Women Ages 25-55 Years: A Randomized Clinical Trial. | Med J Islam Repub Iran
+- new | 2025 | 39723456 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of Chamomile and Olive Oils on Volume, Range of Motion, and Quality of Life in Breast Cancer-Related Lymphedema: A Randomized Controlled Trial. | Lymphat Res Biol
+- new | 2025 | 40654405 |  | The effects of lavender, chamomile and peppermint inhalation aromatherapy on dental anxiety in children: A randomized controlled trial. | J Dent Sci
+- new | 2025 | 41334853 |  | Chamomile mouthwash for prevention of chemotherapy-induced oral mucositis: A prospective cohort study in a pharmacist-led supportive care setting. | J Oncol Pharm Pract
+- new | 2025 | 40975934 |  | Optimized chamomile-derived bioinhibitor (CCO) for enhanced maize production: Balancing nitrogen efficiency and reducing gaseous emissions. | Ecotoxicol Environ Saf
+- new | 2025 | 39041491 | Systematic Review/Network Meta-Analysis/Research Support, Non-U.S. Gov't | Effect of inhaled aromatherapy on sleep quality in critically ill patients: A systematic review and network meta-analysis. | J Clin Nurs
+- new | 2025 | 41525193 | Randomized Controlled Trial | Effects of chamomile and -theanine beverage on menstrual pain, menstrual symptoms, mood, and sleep quality in young women experiencing primary dysmenorrhea: A randomized, double-bl | J Food Drug Anal
+- new | 2025 | 39283344 | Randomized Controlled Trial/Comparative Study/Research Support, Non-U.S. Gov't | Comparison of liposomal gel with and without chamomile to prevent radiation dermatitis in breast cancer patients: a randomized controlled trial. | Strahlenther Onkol
+- new | 2024 | 40783833 | Randomized Controlled Trial | [Sertraline hydrochloride combined with compound chamomile lidocaine gel for the treatment of premature ejaculation]. | Zhonghua Nan Ke Xue [chi]
+- new | 2024 | 38932814 | Review | The effect of chamomile consumption on glycemic markers in humans and animals: a systematic review and meta-analysis. | J Diabetes Metab Disord
+- new | 2024 | 38273379 | Randomized Controlled Trial/Multicenter Study | Efficacy of an aloe vera, chamomile, and thyme cosmetic cream for the prophylaxis and treatment of mild dermatitis induced by radiation therapy in breast cancer patients: a control | Trials
+- new | 2024 | 38172912 | Randomized Controlled Trial | Effects of aromatherapy with Matricaria chamomile essential oil on anxiety and hemodynamic indices in patients with acute coronary syndrome, 2021: a randomized controlled trial. | BMC Complement Med Ther
+- new | 2024 | 38229887 |  | Biochemical characterization of chamomile essential oil: Antioxidant, antibacterial, anticancer and neuroprotective activity and potential treatment for Alzheimer's disease. | Saudi J Biol Sci
+- new | 2024 | 38300194 | Randomized Controlled Trial/Comparative Study/Research Support, Non-U.S. Gov't | Comparison of the Effects of Aromatherapy With Damask Rose and Chamomile Essential Oil on Preoperative Pain and Anxiety in Emergency Orthopedic Surgery: A Randomized Controlled Tri | J Perianesth Nurs
+- HELD REF-5470 | 2024 | 39759908 |  | The Effects of Chamomile and Flaxseed on Pelvic Pain, Dyspareunia, and Dysmenorrhea in Endometriosis: A Controlled Randomized Clinical Trial. | Iran J Nurs Midwifery Res
+- new | 2024 | 39032836 | Randomized Controlled Trial/Comparative Study | Comparison of liposomal gel with and without addition of chamomile for prevention of radiation dermatitis in head and neck cancer patients: A randomized controlled trial. | Radiother Oncol
+- new | 2024 | 39669183 |  | Effect of Citrus aurantium and chamomile aromas on anxiety and vital signs in cardiac care unit patients: A randomized clinical trial. | Health Sci Rep
+- new | 2024 | 40092536 |  | Effectiveness of Chamomile in Reducing the Incidence and Severity of Nausea and Vomiting After Middle Ear Surgery: A Triple-Blind Randomized Study. | Anesth Pain Med
+- new | 2024 | 38616815 |  | Efficacy of an aloe vera, chamomile, and thyme cosmetic cream for the prophylaxis and treatment of mild dermatitis induced by radiation therapy in breast cancer patients (the Alant | Contemp Clin Trials Commun
+- new | 2024 | 37926605 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Prophylactic effect of chamomile on post-dural puncture headache in women undergoing elective cesarean section: A randomized, double blind, placebo-controlled clinical trial. | Explore (NY)
+- new | 2024 | 38300838 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The Acute Effect of Chamomile Intake on Blood Coagulation Tests in Healthy Volunteers: A Randomized Trial. | J Appl Lab Med
+- new | 2023 | 36641990 | Letter | [Effect of Matricaria chamomilla on stressed relatives of COVID-19 patients in andean communities of Peru]. | Aten Primaria [spa]
+- new | 2023 | 38089419 |  | Comparison of the effect of mint extract and chamomile drops on the gastric residual volume of traumatic patients under mechanical ventilation and nasogastric tube feeding in the i | Avicenna J Phytomed
+- SEEN | 2023 | 37427624 | Randomized Controlled Trial | Co-administration of saffron and chamomile: to determine the efficacy as an adjuvant therapy for mild to moderate depression in human subjects. A pilot randomized clinical trial. | J Pak Med Assoc
+- new | 2023 | 37730613 |  | Effect of chamomile intake on blood coagulation tests in healthy volunteers: a randomized, placebo-controlled, crossover trial. | Perioper Med (Lond)
+- new | 2023 | 37336118 |  | The effect of chamomile on flatulence after the laparoscopic cholecystectomy: A randomized triple-blind placebo-controlled clinical trial. | J Ayurveda Integr Med
+- new | 2023 | 37123948 |  | Effect of chamomile aromatherapy with and without oxygen on pain of women in post cesarean section with spinal anesthesia: A randomized clinical trial. | Heliyon
+- new | 2023 | 37404935 |  | Investigating the effect of Swedish massage with chamomile oil on labor pain and anxiety of primiparous women: A clinical trial. | J Educ Health Promot
+- new | 2022 | 33454232 | Randomized Controlled Trial | The effects of Lavender and Chamomile essential oil inhalation aromatherapy on depression, anxiety and stress in older community-dwelling people: A randomized controlled trial. | Explore (NY)
+- HELD REF-3637 | 2022 | 35129844 | Systematic Review | Action of Matricaria recutita (chamomile) in the management of radiochemotherapy oral mucositis: A systematic review. | Phytother Res
+- new | 2022 | 35958209 |  | Dynamics of Phosphorus and Biostimulants on Agro-Morphology, Yield, and Essential Oil Profile of German Chamomile (Matricaria chamomilla L.) Under Acidic Soil Conditions of the Wes | Front Plant Sci
+- new | 2022 | 35592415 | Systematic Review | Phytotherapy for Attention Deficit Hyperactivity Disorder (ADHD): A Systematic Review and Meta-analysis. | Front Pharmacol
+- new | 2022 | 37462487 | Randomized Controlled Trial | [Compound Chamomile and Lidocaine Hydrochloride Gel applied at different time-windows for premature ejaculation: A prospective single-center randomized controlled study]. | Zhonghua Nan Ke Xue [chi]
+- new | 2022 | 36434669 | Randomized Controlled Trial | A comparison of the effect of Swedish massage with and without chamomile oil on labor outcomes and maternal satisfaction of the childbirth process: a randomized controlled trial. | Eur J Med Res
+- new | 2022 | 35393979 | Clinical Trial, Phase II/Randomized Controlled Trial | A Chitosan-Coated Chamomile Microparticles Formulation to Prevent Radiodermatitis in Breast: A Double-blinded, Controlled, Randomized, Phase II Clinical Trial. | Am J Clin Oncol
+- new | 2022 | 35788739 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Efficacy of Inhaled Essential Oil Use on Selected Symptoms Affecting Quality of Life in Patients With Cancer Receiving Infusion Therapies. | Oncol Nurs Forum
+- HELD REF-3636 | 2022 | 33290635 | Randomized Controlled Trial | The effect of topical chamomile in the prevention of chemotherapy-induced oral mucositis: A randomized clinical trial. | Oral Dis
+- new | 2022 | 35719220 |  | Aromatherapy massage seems effective in critically ill children: an observational before-after study. | Paediatr Neonatal Pain
+- new | 2022 | 35880354 | Research Support, Non-U.S. Gov't | Use of Chamomile Infusion to Mitigate Radiotherapy-Induced Dry Desquamation in Head and Neck Cancer Patients. | Integr Cancer Ther
+- HELD REF-3639 | 2022 | 35787809 | Letter/Randomized Controlled Trial | Effect of chamomile oil on the intensity of nonspecific low back pain in prehospital emergency technicians. | Am J Emerg Med
+- new | 2022 | 36217471 |  | A randomized clinical trial to test efficacy of chamomile and saffron for neuroprotective and anti-inflammatory responses in depressive patients. | Heliyon
+- new | 2022 | 37465426 |  | Examining the Effect of Chamomile on Clinical Symptoms and Hormonal Parameters Among Patients With Polycystic Ovarian Syndrome. | J Family Reprod Health
+- new | 2022 | 35326877 |  | The Effect of Toothpastes Containing Natural Extracts on Bacterial Species of a Microcosm Biofilm and on Enamel Caries Development. | Antibiotics (Basel)
+- new | 2022 | 34142567 | Comparative Study/Randomized Controlled Trial | Comparison of Isotonic Seawater Nasal Spray Containing Chamomile Liquid Extract and Other Isotonic Seawater Nasal Washing Solutions for Allergic Rhinitis. | Ann Otol Rhinol Laryngol
+- new | 2022 | 35400624 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of Chamomile Vaginal Gel on the Sexual Function in Postmenopausal Women: A Double-Blind Randomized Controlled Trial. | J Sex Med
+- new | 2021 | 34704015 |  | The effect of Matricaria chamomile on menstrual related mood disorders. | Eur J Obstet Gynecol Reprod Biol X
+- new | 2021 | 34682572 | Review | Role of Essential Oil-Based Mouthwashes in Controlling Gingivitis in Patients Undergoing Fixed Orthodontic Treatment. A Review of Clinical Trials. | Int J Environ Res Public Health
+- new | 2021 | 34914258 | Controlled Clinical Trial | [Clinical evaluation of Compound Chamomile and Lidocaine Hydrochloride Gel for postoperative hypospadias in children]. | Zhonghua Nan Ke Xue [chi]
+- new | 2021 | 35028170 |  | Chamomile Extract versus Clotrimazole Vaginal Cream in Treatment of Vulvovaginal Candidiasis: A Randomized Double-Blind Control Trial. | J Pharmacopuncture
+- new | 2021 | 33038782 | Randomized Controlled Trial | Effects of chamomile extract nasal drop on chronic rhinosinusitis treatment: A randomized double blind study. | Am J Otolaryngol
+- new | 2021 | 34310352 | Multicenter Study/Randomized Controlled Trial | Swabs Containing Tea Tree Oil and Chamomile Oil Versus Baby Shampoo in Patients With Seborrheic Blepharitis: A Double-Blind Randomized Clinical Trial. | Eye Contact Lens
+- new | 2021 | 32228427 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of Chamomile Oil on Cesarean Section Pain in Primiparous Women: A Randomized Clinical Trial. | Curr Rev Clin Exp Pharmacol
+- new | 2021 | 34897567 |  | Biochemical response and nutrient uptake of two arbuscular mycorrhiza-inoculated chamomile varieties under different osmotic stresses. | Bot Stud
+- new | 2021 | 34459765 | Randomized Controlled Trial | THE EXPERIENCE OF TREATMENT THE PATIENTS WITH COMPLICATED VIRAL RESPIRATORY TRACT INFECTIONS: ROLE OF HIGH-CONCENTRATED OXYGEN INHALATIONS ADDING CAMOMILE OIL. | Wiad Lek
+- new | 2020 | 31215276 | Systematic Review | A systematic review of the efficacy of alternative medicine in the treatment of nausea and vomiting of pregnancy. | J Obstet Gynaecol
+- new | 2020 | 32324314 | Systematic Review | Effectiveness of topical interventions to prevent or treat intravenous therapy-related phlebitis: A systematic review. | J Clin Nurs
+- new | 2020 | 32831509 |  | Clinical and microbiological effects of 1% Matricaria chamomilla mouth rinse on chronic periodontitis: A double-blind randomized placebo controlled trial. | J Indian Soc Periodontol
+- new | 2020 | 32341707 | Randomized Controlled Trial | The Effect of Music Therapy and Aromatherapy with Chamomile-Lavender Essential Oil on the Anxiety of Clinical Nurses: A Randomized and Double-Blind Clinical Trial. | J Med Life
+- new | 2020 | 32924561 | Controlled Clinical Trial | Effect of a Homemade Salivary Substitute Prepared Using Chamomile (Matricaria chamomilla L.) Flower and Flax (Linum usitatissimum L.) Seed to Relieve Primary Burning Mouth Syndrome | J Altern Complement Med
+- new | 2020 | 32204715 | Historical Article/Review | Historical ethnobotanical review of medicinal plants used to treat children diseases in Romania (1860s-1970s). | J Ethnobiol Ethnomed
+- new | 2020 | 31952199 |  | Anti-Bacterial and Anti-Inflammatory Effects of Toothpaste with Swiss Medicinal Herbs towards Patients Suffering from Gingivitis and Initial Stage of Periodontitis: from Clinical E | Dent J (Basel)
+- new | 2020 | 32995326 |  | Evaluation of the influence of chamomile vaginal gel on dyspareunia and sexual satisfaction in postmenopausal women: A randomized, double-blind, controlled clinical trial. | Avicenna J Phytomed
+- new | 2020 | 31921608 |  | Effect of chamomile on chemotherapy-induced neutropenia in pediatric leukemia patients: A randomized triple-blind placebo-controlled clinical trial. | Avicenna J Phytomed
+- new | 2020 | 31688306 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Distinct patterns of short-chain fatty acids during flare in patients with ulcerative colitis under treatment with mesalamine or a herbal combination of myrrh, chamomile flowers, a | Eur J Gastroenterol Hepatol
+- new | 2020 | 32322432 |  | Do Chamomile effect on duration, amount of bleeding, and interval of menstrual cycles? | J Pharmacopuncture
+- new | 2020 | 32087031 |  | Oral provocation of patients allergic to sesquiterpene lactones with German chamomile tea to demonstrate possible systemic allergic dermatitis. | Contact Dermatitis
+- new | 2020 | 31859096 | Randomized Controlled Trial | The effect of aromatherapy massage with lavender and chamomile oil on anxiety and sleep quality of patients with burns. | Burns
+- HELD REF-1156 | 2020 | 31808709 | Randomized Controlled Trial | Putative Antidepressant Effect of Chamomile (Matricaria chamomilla L.) Oral Extract in Subjects with Comorbid Generalized Anxiety Disorder and Depression. | J Altern Complement Med
+- new | 2020 | 32985288 | Research Support, Non-U.S. Gov't | Chamomile Gel versus Urea Cream to Prevent Acute Radiation Dermatitis in Head and Neck Cancer Patients: Results from a Preliminary Clinical Trial. | Integr Cancer Ther
+- HELD REF-3629 | 2019 | 31006899 | Meta-Analysis/Systematic Review | Therapeutic efficacy and safety of chamomile for state anxiety, generalized anxiety disorder, insomnia, and sleep quality: A systematic review and meta-analysis of randomized trial | Phytother Res
+- new | 2019 | 30957134 |  | Prevalence of herbal medicines in patients with chronic allergic disorders in Western Saudi Arabia. | Saudi Med J
+- new | 2019 | 32641968 |  | Comparative Study of the Effects of Chamomile (Matricaria Chamomilla L.) and Cabergoline on Idiopathic Hyperprolactinemia: A Pilot Randomized Controlled Trial. | Iran J Pharm Res
+- new | 2019 | 30820080 |  | A relative assessment of essential oil of Chrysopogon zizanioides and Matricaria chamomilla along with calcium hydroxide and chlorhexidine gel against Enterococcus faecalis in ex v | J Conserv Dent
+- new | 2019 | 31598511 |  | Effect of the Mixed Herbal Medicines Extract (Fennel, Chamomile, and Saffron) on Menopause Syndrome: a Randomized Controlled Clinical Trial. | J Caring Sci
+- new | 2019 | 30554882 | Comparative Study/Multicenter Study/Randomized Controlled Trial | A randomized, open-label, multicenter, comparative study of therapeutic efficacy, safety and tolerability of BNO 1030 extract, containing marshmallow root, chamomile flowers, horse | Am J Otolaryngol
+- new | 2019 | 30984577 |  | Short-course administration of a traditional herbal mixture ameliorates asthma symptoms of the common cold in children. | Avicenna J Phytomed
+- new | 2018 | 30008621 | Review | Effects of Matricaria Recutita (L.) in the Treatment of Oral Mucositis. | ScientificWorldJournal
+- new | 2018 | 29632841 | Review | The effectiveness and safety of Iranian herbal medicines for treatment of premenstrual syndrome: A systematic review. | Avicenna J Phytomed
+- new | 2018 | 29656575 | Clinical Trial | Experimental and clinical antihypertensive activity of Matricaria chamomilla extracts and their angiotensin-converting enzyme inhibitory activity. | Phytother Res
+- HELD REF-3634 | 2018 | 29808331 | Randomized Controlled Trial | Evaluation of the effect of topical chamomile (Matricaria chamomilla L.) oleogel as pain relief in migraine without aura: a randomized, double-blind, placebo-controlled, crossover  | Neurol Sci
+- new | 2018 | 29072514 | Randomized Controlled Trial | Effectiveness of Matricaria chamomilla (chamomile) extract on pain control of cyclic mastalgia: a double-blind randomised controlled trial. | J Obstet Gynaecol
+- new | 2018 | 30057060 | Randomized Controlled Trial | The effect of chamomile odor on contractions of the first stage of delivery in primpara women: A clinical trial. | Complement Ther Clin Pract
+- new | 2018 | 30211237 |  | Effect of Topical Chamomile Oil on Postoperative Bowel Activity after Cesarean Section: A Randomized Controlled Trial. | J Res Pharm Pract
+- new | 2018 | 31256887 |  | Effect of Aromatherapy on Equine Heart Rate Variability. | J Equine Vet Sci
+- new | 2018 | 30517572 | Clinical Trial, Phase I/Controlled Clinical Trial | Safety of a formulation containing chitosan microparticles with chamomile: blind controlled clinical trial. | Rev Lat Am Enfermagem [eng,por,spa]
+- new | 2018 | 29887901 |  | Effect of chamomile capsule on lipid- and hormonal-related parameters among women of reproductive age with polycystic ovary syndrome. | J Res Med Sci
+- new | 2018 | 29080520 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | An exploratory study of salivary cortisol changes during chamomile extract therapy of moderate to severe generalized anxiety disorder. | J Psychiatr Res
+- new | 2017 | 28562281 | Systematic Review | Herbal Medicines for Gastrointestinal Disorders in Children and Adolescents: A Systematic Review. | Pediatrics
+- new | 2017 | 28107852 | Randomized Controlled Trial | Efficacy of topical chamomile oil for mild and moderate carpal tunnel syndrome: A randomized double-blind placebo-controlled clinical trial. | Complement Ther Clin Pract
+- new | 2017 | 26427789 | Randomized Controlled Trial | Topical use of Matricaria recutita L (Chamomile) Oil in the Treatment of Monosymptomatic Enuresis in Children: A Double-Blind Randomized Controlled Trial. | J Evid Based Complementary Altern Med
+- new | 2017 | 28616420 |  | Investigation effect of oral chamomilla on sleep quality in elderly people in Isfahan: A randomized control trial. | J Educ Health Promot
+- new | 2017 | 28844214 | Randomized Controlled Trial | Efficacy of topical chamomile on the incidence of phlebitis due to an amiodarone infusion in coronary care patients: a double-blind, randomized controlled trial. | J Integr Med
+- new | 2017 | 26763612 | Randomized Controlled Trial | Evaluation of the effectiveness of a chamomile (Matricaria chamomilla) and linseed (Linum usitatissimum) saliva substitute in the relief of xerostomia in elders. | Gerodontology
+- new | 2017 | 29154054 | Randomized Controlled Trial | The effects of chamomile extract on sleep quality among elderly people: A clinical trial. | Complement Ther Med
+- new | 2017 | 28299294 |  | The Effect of Chamomile Cream on Episiotomy Pain in Primiparous Women: A Randomized Clinical Trial. | J Caring Sci
+- new | 2017 | 27716513 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | Specific expectancies are associated with symptomatic outcomes and side effect burden in a trial of chamomile extract for generalized anxiety disorder. | J Psychiatr Res
+- HELD REF-2586 | 2016 | 27000311 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Dietary supplements for dysmenorrhoea. | Cochrane Database Syst Rev
+- HELD REF-1155 | 2016 | 27912875 | Randomized Controlled Trial | Long-term chamomile (Matricaria chamomilla L.) treatment for generalized anxiety disorder: A randomized clinical trial. | Phytomedicine
+- new | 2016 | 26827999 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A randomized controlled trial comparing Pentazocine and Chamomilla recutita for labor pain relief. | Homeopathy
+- new | 2016 | 27912953 | Randomized Controlled Trial | Evaluating the effect of Matricaria recutita and Mentha piperita herbal mouthwash on management of oral mucositis in patients undergoing hematopoietic stem cell transplantation: A  | Complement Ther Med
+- new | 2016 | 27912871 | Randomized Controlled Trial | Short-term open-label chamomile (Matricaria chamomilla L.) therapy of moderate to severe generalized anxiety disorder. | Phytomedicine
+- new | 2016 | 28231151 |  | Increase of Chamazulene and α-Bisabolol Contents of the Essential Oil of German Chamomile (Matricaria chamomilla L.) Using Salicylic Acid Treatments under Normal and Heat Stress Co | Foods
+- HELD REF-3635 | 2016 | 28025442 | Randomized Controlled Trial | Clinical efficacy of a 1% Matricaria chamomile L. mouthwash and 0.12% chlorhexidine for gingivitis control in patients undergoing orthodontic treatment with fixed appliances. | J Oral Sci
+- new | 2016 | 27768020 | Comparative Study/Randomized Controlled Trial | Clinical efficacy of a solution composed by sodium bicarbonate and alginate, aloe vera, propoli, chamomile, calendula and honey, in the treatment of minor recurrent aphthous stomat | Minerva Pediatr
+- new | 2016 | 27189615 | Randomized Controlled Trial | Chamomile infusion cryotherapy to prevent oral mucositis induced by chemotherapy: a pilot study. | Support Care Cancer
+- new | 2016 | 27020698 | Randomized Controlled Trial | Gel of chamomile vs. urea cream to prevent acute radiation dermatitis in patients with head and neck cancer: a randomized controlled trial. | J Adv Nurs
+- new | 2016 | 27324515 | Randomized Controlled Trial | Efficacy of topical chamomile management vs. placebo in patients with oral lichen planus: a randomized double-blind study. | J Eur Acad Dermatol Venereol
+- SEEN | 2016 | 27644672 | Randomized Controlled Trial | Effect of Ginger and Chamomile on Nausea and Vomiting Caused by Chemotherapy in Iranian Women with Breast Cancer. | Asian Pac J Cancer Prev
+- new | 2016 | 26694632 | Randomized Controlled Trial | Effect of a 2% topical chamomile application for treating burning mouth syndrome: a controlled clinical trial. | J Oral Pathol Med
+- HELD REF-2350 | 2016 | 26437613 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Chamomile tea improves glycemic indices and antioxidants status in patients with type 2 diabetes mellitus. | Nutrition
+- new | 2016 | 27904627 |  | Antimicrobial effects of chlorhexidine, matrica drop mouthwash (chamomile extract), and normal saline on hospitalized patients with endotracheal tubes. | Iran J Nurs Midwifery Res
+- new | 2016 | 26483209 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of an intervention with drinking chamomile tea on sleep quality and depression in sleep disturbed postnatal women: a randomized controlled trial. | J Adv Nurs
+- new | 2016 | 28210497 |  | Onset of Labor in Post-Term Pregnancy by Chamomile. | Iran Red Crescent Med J
+- new | 2015 | 26568850 |  | Honey and Radiation-Induced Stomatitis in Patients With Head and Neck Cancer. | Iran Red Crescent Med J
+- new | 2015 | 25232958 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Use of Chamomilla recutita in the Prevention and Treatment of Oral Mucositis in Patients Undergoing Hematopoietic Stem Cell Transplantation: A Randomized, Controlled, Phase II Clin | Cancer Nurs
+- new | 2015 | 26573447 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A pilot randomized double-blind placebo-controlled trial on topical chamomile (Matricaria chamomilla L.) oil for severe carpal tunnel syndrome. | Complement Ther Clin Pract
+- HELD REF-2349 | 2015 | 26256137 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy and safety of topical Matricaria chamomilla L. (chamomile) oil for knee osteoarthritis: A randomized controlled clinical trial. | Complement Ther Clin Pract
+- HELD REF-3638 | 2015 | 25194428 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effectiveness of chamomile tea on glycemic control and serum lipid profile in patients with type 2 diabetes. | J Endocrinol Invest
+- new | 2014 | 25299815 | Meta-Analysis/Systematic Review | A systematic review and meta-analysis of randomized controlled trials comparing interventions for peristomal skin care. | Ostomy Wound Manage
+- new | 2014 | 29057164 |  | Long-Term Chamomile Therapy of Generalized Anxiety Disorder: A Study Protocol for a Randomized, Double-Blind, Placebo- Controlled Trial. | J Clin Trials
+- new | 2014 | 24949418 | Clinical Trial | A quantitative ethnopharmacological documentation of natural pharmacological agents used by pediatric patients in Mauritius. | Biomed Res Int
+- new | 2014 | 25674322 |  | The therapeutic effects of chamomilla tincture mouthwash on oral aphthae: A Randomized Clinical Trial. | J Clin Exp Dent
+- HELD REF-3633 | 2014 | 24439651 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Comparison of the effects of Matricaria chamomila (Chamomile) extract and mefenamic acid on the intensity of premenstrual syndrome. | Complement Ther Clin Pract
+- new | 2014 | 25144293 | Research Support, Non-U.S. Gov't | Distinct kinetics in the frequency of peripheral CD4+ T cells in patients with ulcerative colitis experiencing a flare during treatment with mesalazine or with a herbal preparation | PLoS One
+- new | 2014 | 24891745 |  | Comparison of antimicrobial activity of essential oils, plant extracts and methylparaben in cosmetic emulsions: 2 months study. | Indian J Microbiol
+- new | 2014 | 24439653 | Randomized Controlled Trial | Clinical efficacy analysis of the mouth rinsing with pomegranate and chamomile plant extracts in the gingival bleeding reduction. | Complement Ther Clin Pract
+- new | 2013 | 23872885 |  | Effectiveness of chamomile (Matricaria recutita L.), MTAD and sodium hypochlorite irrigants on smear layer. | Eur Arch Paediatr Dent
+- new | 2013 | 24121702 | Randomized Controlled Trial | Generalized anxiety disorder (GAD): efficacy of standardized Matricaria recutita (German chamomile) extract in the treatment of generalized anxiety disorder. | Holist Nurs Pract
+- new | 2013 | 23826890 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Randomised clinical trial: a herbal preparation of myrrh, chamomile and coffee charcoal compared with mesalazine in maintaining remission in ulcerative colitis--a double-blind, dou | Aliment Pharmacol Ther
+- new | 2013 | 23933314 |  | Use of herbal medicines during pregnancy in a group of Palestinian women. | J Ethnopharmacol
+- HELD REF-3527 | 2013 | 23337964 | Randomized Controlled Trial | [Antiinflammatory potential of seven plant extracts in the ultraviolet erythema test. A randomized, placebo-controlled study]. | Hautarzt [ger]
+- new | 2013 | 24241097 | Multicenter Study | Use of herbal remedies among patients undergoing hemodialysis. | Iran J Kidney Dis
+- SEEN | 2013 | 24237191 | Randomized Controlled Trial | An in vivo study examining the antiinflammatory effects of chamomile, meadowsweet, and willow bark in a novel functional beverage. | J Diet Suppl
+- HELD REF-2348 | 2012 | 22894890 | Randomized Controlled Trial | Chamomile (Matricaria recutita) may provide antidepressant activity in anxious, depressed humans: an exploratory study. | Altern Ther Health Med
+- new | 2011 | 21412623 | Clinical Trial | Clinical application of Chamomilla recutita in phlebitis: dose response curve study. | Rev Lat Am Enfermagem
+- new | 2011 | 21186125 | Research Support, Non-U.S. Gov't | Physiological and phytochemical response to drought stress of German chamomile (Matricaria recutita L.). | Plant Physiol Biochem
+- new | 2011 | 21939549 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Preliminary examination of the efficacy and safety of a standardized chamomile extract for chronic primary insomnia: a randomized placebo-controlled pilot study. | BMC Complement Altern Med
+- new | 2011 | 21617262 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | ﻿﻿﻿﻿﻿﻿﻿Using chamomile solution or a 1% topical hydrocortisone ointment in the management of peristomal skin lesions in colostomy patients: results of a controlled clinical study. | Ostomy Wound Manage
+- new | 2010 | 21308265 | Meta-Analysis/Review | [Medicinal plants for the treatment of generalized anxiety disorder: a review of controlled clinical studies]. | Braz J Psychiatry [por]
+- new | 2010 | 22427772 |  | Mixture of Arnebia euchroma and Matricaria chamomilla (Marhame-Mafasel) for pain relief of osteoarthritis of the knee - a two-treatment, two-period crossover trial. | Arch Med Sci
+- HELD REF-1160 | 2009 | 19593179 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | A randomized, double-blind, placebo-controlled trial of oral Matricaria recutita (chamomile) extract therapy for generalized anxiety disorder. | J Clin Psychopharmacol
+- HELD REF-0332 | 2008 | 18037151 | Review | Risks and benefits of commonly used herbal medicines in Mexico. | Toxicol Appl Pharmacol
+- HELD REF-5177 | 2008 | 18154553 | Research Support, Non-U.S. Gov't | Cosmetics and herbal remedies with Compositae plant extracts - are they tolerated by Compositae-allergic patients? | Contact Dermatitis
+- new | 2008 | 18630390 |  | Herbal remedies for dyspepsia: peppermint seems effective. | Prescrire Int
+- new | 2007 | 17350803 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Iron absorption from wheat flour: effects of lemonade and chamomile infusion. | Nutrition
+- new | 2007 | 17639559 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy of Slim339 in reducing body weight of overweight and obese human subjects. | Phytother Res
+- new | 2007 | 17868213 | Research Support, Non-U.S. Gov't | Patch testing with thin-layer chromatograms of chamomile tea in patients allergic to sesquiterpene lactones. | Contact Dermatitis
+- new | 2006 | 16507072 | Comparative Study/Randomized Controlled Trial | The effect of German chamomile (Marticaria recutita L.) extract and tea tree (Melaleuca alternifolia L.) oil used as irrigants on removal of smear layer: a scanning electron micros | Int Endod J
+- new | 2006 | 16889120 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Double-blind, randomized evaluation of clinical efficacy and tolerability of an apple pectin-chamomile extract in children with unspecific diarrhea. | Arzneimittelforschung
+- new | 2006 | 16508334 | Case Reports | Acute, short-lasting rhinitis due to camomile-scented toilet paper in patients allergic to compositae. | Int Arch Allergy Immunol
+- new | 2004 | 15503788 |  | Contact allergy to Compositae plants in patients with atopic dermatitis. | Med Pregl [eng,srp]
+- new | 2004 | 16083185 | Clinical Trial/Randomized Controlled Trial | Effectiveness of lubrication of endotracheal tube cuff with chamomile-extract for prevention of postoperative sore throat and hoarseness. | J Med Assoc Thai
+- new | 2003 | 14664413 | Clinical Trial/Comparative Study/Randomized Controlled Trial | The immediate effect of natural plant extract, Angelica sinensis and Matricaria chamomilla (Climex) for the treatment of hot flushes during menopause. A preliminary report. | Clin Exp Obstet Gynecol
+- new | 2002 | 12188410 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy of chamomile-extract spray for prevention of post-operative sore throat. | J Med Assoc Thai
+- new | 2000 | 10960901 | Clinical Trial/Randomized Controlled Trial | Evaluation of massage with essential oils on childhood atopic eczema. | Phytother Res
+- new | 1999 | 10420791 |  | [Acceptance and use of medicinal plants in family medicine]. | Salud Publica Mex [spa]
+- new | 1999 | 10999016 | Clinical Trial/Comparative Study/Research Support, Non-U.S. Gov't | Inhibition of non-haem iron absorption in man by polyphenolic-containing beverages. | Br J Nutr
+- new | 1997 | 9463302 | Clinical Trial/Comparative Study/Multicenter Study/Randomized Controlled Trial | [Double-blind comparison of an apple pectin-chamomile extract preparation with placebo in children with diarrhea]. | Arzneimittelforschung [ger]
+- new | 1996 | 8630960 | Clinical Trial/Clinical Trial, Phase III/Randomized Controlled Trial/Research Support, U.S. Gov't, P.H.S. | Prospective evaluation of a chamomile mouthwash for prevention of 5-FU-induced oral mucositis. | Cancer
+- new | 1991 | 2036252 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Effect of chamomile cream and almond ointment on acute radiation skin reaction. | Acta Oncol
+- new | 1990 | 2343497 | Case Reports | [Burns in children caused by camomile tea]. | Ugeskr Laeger [dan]
+- new | 1987 | 3318194 | Clinical Trial/Controlled Clinical Trial | [Effect of chamomile on wound healing--a clinical double-blind study]. | Z Hautkr [ger]
+
+### PubMed SR - 41 hits, 24 not already listed above, 21 new
+- new | 2026 | 41490312 |  | Effect of aromatherapy with Matricaria chamomilla in pain and anxiety management in hospital settings: A scoping review protocol. | PLoS One
+- new | 2026 | 41767834 | Review | Evaluating Potential Effects of Chamomile (Matricaria chamomilla L.) in Polycystic Ovary Syndrome: A Systematic Review and Meta-Analysis. | Food Sci Nutr
+- new | 2026 | 42031027 | Scoping Review | Effect of chamomile aromatherapy on pain and anxiety management in hospital settings: A scoping review. | Complement Ther Med
+- new | 2026 | 42216861 | Review | Traditional Respiratory Remedies From Anatolia: Ethnobotanical Insights and Bioactive Properties. | Chem Biodivers
+- new | 2025 | 40917836 | Systematic Review | Evaluating efficacy, safety, and innovation in skin care applications of essential oils: a systematic review. | Front Med (Lausanne)
+- new | 2025 | 39381894 | Letter/Research Support, Non-U.S. Gov't | Aromatherapy for Sleep Promotion in the ICU: Insights and Future Directions. | J Clin Nurs
+- new | 2025 | 40374153 | Systematic Review | Chamomile: A systematic review of adverse events. | Complement Ther Med
+- HELD REF-1154 | 2024 | 39106912 | Systematic Review/Meta-Analysis | Effects of chamomile (Matricaria chamomilla L.) on sleep: A systematic review and meta-analysis of clinical trials. | Complement Ther Med
+- new | 2024 | 38784853 | Review | The Effect of Oral Chamomile on Anxiety: A Systematic Review of Clinical Trials. | Clin Nutr Res
+- new | 2024 | 38256796 | Review | Alternative Crops for the European Tobacco Industry: A Systematic Review. | Plants (Basel)
+- new | 2024 | 38843799 | Review | Flower Power: An Overview on Chemistry and Biological Impact of Selected Essential Oils from Blossoms. | Planta Med
+- new | 2023 | 37039741 | Systematic Review | Systematic review on the anxiolytic and hypnotic effects of flower extracts in in vivo pre-clinical studies published from 2010 to 2020. | Phytother Res
+- new | 2023 | 37052390 | Meta-Analysis/Systematic Review | Effect of Chamomile on the Complications of Cancer: A Systematic Review. | Integr Cancer Ther
+- HELD REF-2351 | 2021 | 34222539 | Review | The Effect of Chamomile on Pain and Menstrual Bleeding in Primary Dysmenorrhea: A Systematic Review. | Int J Community Based Nurs Midwifery
+- new | 2021 | 33988743 | Systematic Review | Medicinal plants used for the treatment of mucositis induced by oncotherapy: a systematic review. | Support Care Cancer
+- new | 2021 | 33485111 | Systematic Review | Effectiveness of phytotherapeutics in the prevention and treatment of 5-fluorouracil-induced oral mucositis in animal models: A systematic review. | Arch Oral Biol
+- new | 2020 | 31987240 | Systematic Review | Chamomile (Matricaria recutita L.) and diabetes mellitus, current knowledge and the way forward: A systematic review. | Complement Ther Med
+- new | 2019 | 31970017 | Review | Efficacy of Chamomile in the Treatment of Premenstrual Syndrome: A Systematic Review. | J Pharmacopuncture
+- new | 2019 | 30768427 | Systematic Review | Plant-derived medicines for neuropathies: a comprehensive review of clinical evidence. | Rev Neurosci
+- new | 2019 | 31133058 | Systematic Review | Medicinal plants as therapeutic options for topical treatment in canine dermatology? A systematic review. | BMC Vet Res
+- HELD REF-1159 | 2016 | 27790360 | Review | A systematic review study of therapeutic effects of Matricaria recuitta chamomile (chamomile). | Electron Physician
+- new | 2013 | 23320910 | Research Support, Non-U.S. Gov't/Systematic Review | Plant food supplements with anti-inflammatory properties: a systematic review (I). | Crit Rev Food Sci Nutr
+- new | 2011 | 21601431 | Research Support, Non-U.S. Gov't/Systematic Review | Herbal medicine for depression, anxiety and insomnia: a review of psychopharmacology and clinical evidence. | Eur Neuropsychopharmacol
+- new | 2010 | 21156115 | Systematic Review | [Evidence of dermatological effects of chamomile]. | Ugeskr Laeger [dan]
+
+### PubMed SAFE - 237 hits, 135 not already listed above, 130 new
+- new | 2026 | 41091411 |  | German Chamomile (Matricaria chamomilla) Induces Cytochrome P450 Expression Through Increased BMAL1 Protein Expression in Liver Nuclei. | Biochem Genet
+- new | 2026 | 41534752 |  | Alleviation of adverse effects associated with α-glucosidase inhibitors by Ocimum basilicum L., Matricaria chamomilla L., and Salvia officinalis L. reveals novel selective inhibiti | J Ethnopharmacol
+- new | 2026 | 41599305 |  | Unlocking the Secrets of Roman Chamomile (Anthemis nobilis L.) Essential Oil: Structural Elucidation and Acute Toxicity of New Esters. | Molecules
+- new | 2026 | 42141424 |  | Alleviation of the adverse effects of low atmospheric pressure stress by putrescine in Matricaria chamomilla. | BMC Plant Biol
+- new | 2026 | 40784071 |  | AI fragment based optimization of saffron and chamomile phytochemicals as aryl hydrocarbon receptor inhibitors for dementia therapy an integrated computational approach. | Comput Biol Chem
+- new | 2026 | 40601286 |  | Assessment of Trace and Macro Elements in Medicinal Plants: Implications for Safety and Phytoremediation. | Biol Trace Elem Res
+- new | 2026 | 42884030 |  | Anxiolytic Potential of Selected Essential Oils and Their Impact on Motor Function. | Int J Mol Sci
+- new | 2025 | 39833556 |  | Lemon Juice and Ascorbic Acid Effect on the Metals Extraction from Chamomile, Human Risk Assessment. | Biol Trace Elem Res
+- new | 2025 | 40421213 |  | Reevaluating the safety of chamomile poultices in ophthalmic care. | Front Pharmacol
+- new | 2025 | 40974418 | Review | Bisabolol as a natural anticancer agent: molecular insights and therapeutic potential in oncology. | Med Oncol
+- new | 2025 | 39154129 |  | Chamomile Extract Reduces Cardiac Toxicity in Female Mice with Ehrlich Solid Carcinoma. | Cell Biochem Biophys
+- new | 2025 | 40304195 |  | Combination of magnesium and iron nanoparticles with biochar mitigated salt toxicity and altered antioxidant activity and essential oil production of chamomile. | Int J Phytoremediation
+- new | 2025 | 41086102 |  | Assessment of mineral nutrition level and heavy metals toxicity in Kosovo herbal remedies. | J Environ Sci Health B
+- new | 2025 | 41373965 | Review | Medicinal Plants in Food Supplements for Gastrointestinal Disorders: Critical Assessment of Health Claims on Gastric Acid Regulation. | Nutrients
+- new | 2024 | 39086164 |  | Herbal and Natural Supplements for Improving Sleep: A Literature Review. | Psychiatry Investig
+- new | 2024 | 39771213 | Review | Soothing the Itch: The Role of Medicinal Plants in Alleviating Pruritus in Palliative Care. | Plants (Basel)
+- new | 2024 | 39111460 |  | Therapeutic effects of chamomile volatile oil nanoemulsion/Bletilla striata polysaccharides gels on atopic dermatitis. | Int J Biol Macromol
+- new | 2024 | 38256840 |  | In Vitro Safety and Efficacy Evaluation of a Juniperus communis Callus Culture Extract and Matricaria recutita Processing Waste Extract Combination as a Cosmetic Ingredient. | Plants (Basel)
+- new | 2024 | 38785519 | Review | Osteoarthritis: Insights into Diagnosis, Pathophysiology, Therapeutic Avenues, and the Potential of Natural Extracts. | Curr Issues Mol Biol
+- new | 2024 | 38689489 | Randomized Controlled Trial, Veterinary/Clinical Trial, Veterinary | Dietary chamomile flowers extract improved performance and mitigated aflatoxin B1 toxicity in rabbits. | J Anim Physiol Anim Nutr (Berl)
+- new | 2024 | 39062057 |  | Anti-Inflammatory and Cancer-Preventive Potential of Chamomile (Matricaria chamomilla L.): A Comprehensive In Silico and In Vitro Study. | Biomedicines
+- new | 2024 | 38956820 |  | Validation of a bioanalytical HPLC-UV method to quantify Α-Bisabolol in rat plasma applied to pharmacokinetic pilot study with the drug nanoemulsion. | Biomed Chromatogr
+- HELD REF-2903 | 2024 | 39192720 |  | Bioactive potential of Mentha arvensis L. essential oil. | J Environ Sci Health B
+- new | 2024 | 38271757 |  | The role of chamomile oil against ochratoxin A in quail breeders: productive and reproductive performances, egg quality, and blood metabolites. | Poult Sci
+- new | 2024 | 39442156 |  | Investigating the hepato-protective properties of chamomile oil and olive leaves extracts against ribociclib-induced hepatotoxicity. | Braz J Biol
+- new | 2023 | 36646376 | Review | Guaiazulene and related compounds: A review of current perspective on biomedical applications. | Life Sci
+- new | 2023 | 37513455 |  | Matricaria chamomilla Essential Oils: Repellency and Toxicity against Imported Fire Ants (Hymenoptera: Formicidae). | Molecules
+- new | 2023 | 36662614 | Case Reports/Letter | Polymorphic rupioid psoriasis with chamomile-like lesions: A case report. | J Eur Acad Dermatol Venereol
+- new | 2023 | 37971091 |  | Evaluation of the antibacterial effect of Artemisia lerchiana compared with various medicines. | Braz J Biol
+- new | 2023 | 36673335 |  | Effect of Adding Matricaria recutita L., Cymbopogon citratus, or Mentha piperita L. Extracts to Fermented Orange Beverage: Sensory Evaluation, Physicochemical Characterization, and | Foods
+- new | 2023 | 37599216 |  | [Effect of compound chamomile and lidocaine hydrochloride gel on oropharyngeal complications after the use of laryngeal mask airway with positive pressure ventilation]. | Zhonghua Yi Xue Za Zhi [chi]
+- new | 2023 | 36856276 |  | Efficacy of a new nutraceutical formulation: L-tryptophan, probiotics, charcoal, chamomile, mint, and licorice (COLONIR®) in the improvement of gastrointestinal symptoms in subject | Minerva Gastroenterol (Torino)
+- new | 2023 | 37303607 |  | Physiological and Neurobehavioral Disturbances Induced by Al(2)O(3) Nanoparticle Intoxication in Nile Tilapia Fish: Benefits of Dietary Chamomile Essential Oil. | Aquac Nutr
+- new | 2023 | 37916381 | Research Support, Non-U.S. Gov't | Green synthesized silver nanoparticles using the plant-based reducing agent Matricaria chamomilla induce cell death in colorectal cancer cells. | Eur Rev Med Pharmacol Sci
+- new | 2022 | 35405982 | Review | Health Benefits, Pharmacological Effects, Molecular Mechanisms, and Therapeutic Potential of α-Bisabolol. | Nutrients
+- new | 2022 | 35883807 |  | Prophylactic Anti-Osteoporotic Effect of Matricaria chamomilla L. Flower Using Steroid-Induced Osteoporosis in Rat Model and Molecular Modelling Approaches. | Antioxidants (Basel)
+- new | 2022 | 36160451 |  | Integrating experimental model, LC-MS/MS chemical analysis, and systems biology approach to investigate the possible antidiabetic effect and mechanisms of Matricaria aurea (Golden  | Front Pharmacol
+- new | 2022 | 35926778 |  | Anxiolytic effect of Anthemis nobilis L. (roman chamomile) and Citrus reticulata Blanco (tangerine) essential oils using the light-dark test in zebrafish (Danio rerio). | J Ethnopharmacol
+- new | 2022 | 35807237 |  | (-)-α-Bisabolol Alleviates Atopic Dermatitis by Inhibiting MAPK and NF-κB Signaling in Mast Cell. | Molecules
+- new | 2021 | 32178613 | Review | An Evidence-based Review of Medicinal Plants used in Traditional Persian Medicine for Treatment of Osteoarthritis. | Curr Drug Discov Technol
+- new | 2021 | 34524777 | Case Reports | Severe Airborne Allergic Contact Dermatitis From the Invasive Species Oncosiphon piluliferum (Globe Chamomile). | Dermatitis
+- new | 2020 | 33658919 |  | Apigenin Attenuates Acetaminophen-Induced Hepatotoxicity by Activating AMP-Activated Protein Kinase/Carnitine Palmitoyltransferase I Pathway. | Front Pharmacol
+- new | 2020 | 32229665 |  | Protective effect of Matricaria chamomilla extract against 1,2-dimethylhydrazine-induced colorectal cancer in mice. | J Complement Integr Med
+- new | 2020 | 32509999 |  | Hepatoprotective effect of Matricaria chamomilla aqueous extract against 1,2-Dimethylhydrazine-induced carcinogenic hepatic damage in mice. | Heliyon
+- new | 2020 | 31955287 |  | How to bridge the gap? European medical plants used for treating oral mucositis: on the search for evidence. | J Cancer Res Clin Oncol
+- new | 2020 | 32070270 |  | Phytochemical and comparative transcriptome analyses reveal different regulatory mechanisms in the terpenoid biosynthesis pathways between Matricaria recutita L. and Chamaemelum no | BMC Genomics
+- new | 2020 | 33054740 |  | Current uses and knowledge of medicinal plants in the Autonomous Community of Madrid (Spain): a descriptive cross-sectional study. | BMC Complement Med Ther
+- new | 2020 | 31805564 |  | Allergic Rhinitis to Weed Pollen in Germany: Dominance by Plantain, Rising Prevalence, and Polysensitization Rates over 20 Years. | Int Arch Allergy Immunol
+- new | 2020 | 31782320 |  | Evaluation of chamomile oil and nanoemulgels as a promising treatment option for atopic dermatitis induced in rats. | Expert Opin Drug Deliv
+- new | 2020 | 32786546 | Research Support, Non-U.S. Gov't | Effects of Standardized Medicinal Plant Extracts on Drug Metabolism Mediated by CYP3A4 and CYP2D6 Enzymes. | Chem Res Toxicol
+- new | 2020 | 32048127 |  | Quantitative proteomics analysis of the treatment of asthma rats with total flavonoid extract from chamomile. | Biotechnol Lett
+- new | 2019 | 30952586 | Case Reports/Letter | A case of anaphylactic reaction to chamomile tea in a patient with mugwort pollinosis. | Allergol Int
+- new | 2019 | 31029759 |  | Antiproliferative potential and phenolic compounds of infusions and essential oil of chamomile cultivated with homeopathy. | J Ethnopharmacol
+- new | 2019 | 31321807 |  | The effect of hydroethanolic extract of Matricaria chamomilla on the reproductive system of male rats exposed to formaldehyde. | Andrologia
+- new | 2019 | 30852764 | Review | Medicinal plants and their isolated phytochemicals for the management of chemotherapy-induced neuropathy: therapeutic targets and clinical perspective. | Daru
+- new | 2019 | 30961514 | Research Support, Non-U.S. Gov't | Evaluation of Antitumor Activity and Hepatoprotective Effect of Mitomycin C Solubilized in Chamomile Oil Nanoemulsion. | Anticancer Agents Med Chem
+- new | 2018 | 29124622 | Review | Medicinal plants with antithrombotic property in Persian medicine: a mechanistic review. | J Thromb Thrombolysis
+- new | 2018 | 29556124 |  | An epidemiological study on herbal product self-medication practice among psychotic outpatients from Serbia: A cross-sectional study. | Saudi Pharm J
+- new | 2018 | 28000519 | Case Reports | Chamomile reveals to be a potent galactogogue: the unexpected effect. | J Matern Fetal Neonatal Med
+- new | 2018 | 29737365 | Case Reports | [Anaphylactic reaction to camomile tea]. | Hautarzt [ger]
+- new | 2018 | 29849976 | Case Reports | A successful approach to conrol burning mouth syndrome using matricaria recutita and cognitive therapy. | J Clin Exp Dent
+- new | 2018 | 29947676 |  | Essential oils of green cumin and chamomile partially protect against acute acetaminophen hepatotoxicity in rats. | An Acad Bras Cienc
+- new | 2017 | 28527112 |  | Inhalation of Roman chamomile essential oil attenuates depressive-like behaviors in Wistar Kyoto rats. | Sci China Life Sci
+- new | 2017 | 28027824 |  | Protective effect of chamomile (Matricaria recutita L.) decoction extract against alcohol-induced injury in rat gastric mucosa. | Pathophysiology
+- new | 2017 | 29193940 | Evaluation Study | [Matricaria chamomilla (aqueous extract) improves atopic dermatitis-like lesions in a murine model]. | Rev Med Inst Mex Seguro Soc [spa]
+- new | 2017 | 28109818 | Research Support, U.S. Gov't, P.H.S. | Identification of a compound isolated from German chamomile (Matricaria chamomilla) with dermal sensitization potential. | Toxicol Appl Pharmacol
+- new | 2017 | 29611658 |  | Antimicrobial activity of some plant extracts against bacterial pathogens isolated from faeces of red deer (Cervus elaphus). | Pol J Vet Sci
+- new | 2017 | 28373891 |  | Simultaneous Determination and Pharmacokinetic Study of Quercetin, Luteolin, and Apigenin in Rat Plasma after Oral Administration of Matricaria chamomilla L. Extract by HPLC-UV. | Evid Based Complement Alternat Med
+- new | 2017 | 28776721 | Research Support, Non-U.S. Gov't | Synergistic Interaction of Matricaria Chamomilla Extract with Diclofenac and Indomethacin on Carrageenan-Induced Paw Inflammation in Rats. | Drug Dev Res
+- new | 2016 | 26937321 | Case Reports | Improvement of Asthma and Gastroesophageal Reflux Disease With Oral Pulvis stomachicus cum Belladonna, a Combination of Matricaria recutita, Atropa belladonna, Bismuth, and Antimon | Glob Adv Health Med
+- new | 2016 | 27825341 |  | Essential oils: in vitro activity against Leishmania amazonensis, cytotoxicity and chemical composition. | BMC Complement Altern Med
+- new | 2016 | 26853058 | Comparative Study | Evaluation of genotoxic variations in plant model systems in a case of metal stressors. | J Environ Sci Health B
+- new | 2016 | 26898449 | Research Support, Non-U.S. Gov't | Isolation, identification and molecular docking as cyclooxygenase (COX) inhibitors of the main constituents of Matricaria chamomilla L. extract and its synergistic interaction with | Biomed Pharmacother
+- new | 2015 | 26421053 |  | Validation of a RP-HPLC-DAD Method for Chamomile (Matricaria recutita) Preparations and Assessment of the Marker, Apigenin-7-glucoside, Safety and Anti-Inflammatory Effect. | Evid Based Complement Alternat Med
+- new | 2015 | 26055130 |  | Detection of pyrrolizidine alkaloids in German licensed herbal medicinal teas. | Phytomedicine
+- new | 2015 | 24696426 | Research Support, Non-U.S. Gov't | Hepatoprotective effect of Matricaria chamomilla.L in paraquat induced rat liver injury. | Drug Res (Stuttg)
+- new | 2015 | 26365752 |  | Pyrrolizidine and tropane alkaloids in teas and the herbal teas peppermint, rooibos and chamomile in the Israeli market. | Food Addit Contam Part A Chem Anal Contr
+- new | 2015 | 25816359 | Research Support, Non-U.S. Gov't | Chemical composition, antioxidant properties and hepatoprotective effects of chamomile (Matricaria recutita L.) decoction extract against alcohol-induced oxidative stress in rat. | Gen Physiol Biophys
+- HELD REF-5214 | 2014 | 25233607 | Research Support, Non-U.S. Gov't/Review | Warfarin interactions with medicinal herbs. | Nat Prod Commun
+- new | 2014 | 25276211 |  | Assessment of some Herbal Drugs for Prophylaxis of Peptic Ulcer. | Iran J Pharm Res
+- new | 2014 | 25345315 | Case Reports/Research Support, Non-U.S. Gov't | Occupational allergic rhinoconjunctivitis induced by Matricaria chamomilla with tolerance of chamomile tea. | J Investig Allergol Clin Immunol
+- new | 2014 | 26462267 |  | Efficacy and safety of a herbal medicinal product containing myrrh, chamomile and coffee charcoal for the treatment of gastrointestinal disorders: a non-interventional study. | BMJ Open Gastroenterol
+- new | 2014 | 25002799 |  | Ameliorative effect of Matricaria chamomilla .L on paraquat: Induced oxidative damage in lung rats. | Pharmacognosy Res
+- new | 2013 | 24106675 |  | Quantification of Sesquiterpene Lactones in Asteraceae Plant Extracts: Evaluation of their Allergenic Potential. | Sci Pharm
+- new | 2013 | 24143045 |  | In vitro and in vivo studies of an aqueous extract of Matricaria recutita (German chamomile) on the radiolabeling of blood constituents, on the morphology of red blood cells and on | Pharmacogn Mag
+- new | 2013 | 23937888 | Retraction Notice | Retraction: Severe contact dermatitis due to camomile: a common complementary remedy with potential sensitization risks. | Allergy Asthma Clin Immunol
+- new | 2013 | 23855780 | Retracted Publication | Article removed: Severe contact dermatitis due to camomile: a common complementary remedy with potential sensitization risks. | Allergy Asthma Clin Immunol
+- new | 2013 | 22511316 | Research Support, N.I.H., Extramural | Chamomile confers protection against hydrogen peroxide-induced toxicity through activation of Nrf2-mediated defense response. | Phytother Res
+- new | 2013 | 23122148 | Research Support, Non-U.S. Gov't | Infusion and decoction of wild German chamomile: bioactivity and characterization of organic acids and phenolic compounds. | Food Chem
+- new | 2013 | 23122119 | Comparative Study/Research Support, Non-U.S. Gov't | Nutrients, phytochemicals and bioactivity of wild Roman chamomile: a comparison between the herb and its preparations. | Food Chem
+- new | 2013 | 23785750 | Letter/Comment | Matricaria chamomilla - allergy and antibacterial effect. | Bratisl Lek Listy
+- new | 2012 | 31643492 | Review | Chamomile. | 
+- new | 2012 | 22466748 | Research Support, Non-U.S. Gov't | Effect of metabolic regulators on aluminium uptake and toxicity in Matricaria chamomilla plants. | Plant Physiol Biochem
+- new | 2012 | 22703521 | Research Support, Non-U.S. Gov't | Modulation of copper uptake and toxicity by abiotic stresses in Matricaria chamomilla plants. | J Agric Food Chem
+- new | 2012 | 22579431 | Research Support, Non-U.S. Gov't | Prevalence and use of herbal products in the Czech Republic: over-the-counter survey among adult pharmacies clients. | Complement Ther Med
+- new | 2011 | 21651969 | Research Support, Non-U.S. Gov't | Anti-allergic activity of German chamomile (Matricaria recutita L.) in mast cell mediated allergy model. | J Ethnopharmacol
+- new | 2010 | 20195063 | Research Support, Non-U.S. Gov't | Effect of German chamomile oil application on alleviating atopic dermatitis-like immune alterations in mice. | J Vet Sci
+- new | 2010 | 20557339 | Case Reports | The coumarin herniarin as a sensitizer in German chamomile [Chamomilla recutita (L.) Rauschert, Compositae]. | Contact Dermatitis
+- new | 2010 | 21152302 |  | Antigenotoxic effect of Chamomilla recutita (L.) Rauschert essential oil in mouse spermatogonial cells, and determination of its antioxidant capacity in vitro. | Int J Mol Sci
+- new | 2010 | 21053691 | Research Support, Non-U.S. Gov't | Development and in vitro evaluation of biopolymers as a delivery system against periodontopathogen microorganisms. | Acta Odontol Latinoam
+- new | 2010 | 19577452 |  | Activity of (-)alpha-bisabolol against Leishmania infantum promastigotes. | Phytomedicine
+- new | 2009 | 19050375 | Case Reports | Anaphylactic reaction to camomile tea. | Allergol Int
+- new | 2009 | 19788894 | Research Support, N.I.H., Extramural | Chamomile, a novel and selective COX-2 inhibitor with anti-inflammatory activity. | Life Sci
+- new | 2009 | 19705407 | Case Reports/Letter | Premature constriction of the fetal ductus arteriosus following the maternal consumption of camomile herbal tea. | Ultrasound Obstet Gynecol
+- new | 2009 | 19345259 | Research Support, Non-U.S. Gov't | Nitric oxide signals ROS scavenger-mediated enhancement of PAL activity in nitrogen-deficient Matricaria chamomilla roots: side effects of scavengers. | Free Radic Biol Med
+- new | 2009 | 19707521 |  | Monitoring by HPLC of chamomile flavonoids exposed to rat liver microsomal metabolism. | Open Med Chem J
+- new | 2008 | 18492060 | Research Support, Non-U.S. Gov't | Spiroethers of German chamomile inhibit production of aflatoxin G and trichothecene mycotoxin by inhibiting cytochrome P450 monooxygenases involved in their biosynthesis. | FEMS Microbiol Lett
+- HELD REF-1157 | 2006 | 16628544 | Research Support, U.S. Gov't, Non-P.H.S./Review | A review of the bioactivity and potential health benefits of chamomile tea (Matricaria recutita L.). | Phytother Res
+- new | 2006 | 30000867 | Review | Chamomile. | 
+- new | 2006 | 16650094 | Research Support, Non-U.S. Gov't | Contact allergy to herbal teas derived from Asteraceae plants. | Contact Dermatitis
+- HELD REF-2447 | 2006 | 16636327 | Case Reports/Letter | Warfarin interaction with Matricaria chamomilla. | CMAJ
+- new | 2006 | 16137701 |  | Inhibitory effects of the essential oil of chamomile (Matricaria recutita L.) and its major constituents on human cytochrome P450 enzymes. | Life Sci
+- new | 2005 | 15693704 | Case Reports | Wild chamomile (Matricaria recutita L.) mouthwashes in methotrexate-induced oral mucositis. | Phytomedicine
+- new | 2005 | 16029681 | Review | Cosmeceuticals containing herbs: fact, fiction, and future. | Dermatol Surg
+- HELD REF-2460 | 2004 | 15165499 | Review | Safety and efficacy of herbal sedatives in cancer care. | Integr Cancer Ther
+- new | 2004 | 15330011 | Research Support, U.S. Gov't, P.H.S./Review | Complementary and alternative interventions in asthma, allergy, and immunology. | Ann Allergy Asthma Immunol
+- new | 2003 | 14678218 | Case Reports | Occupational contact dermatitis, with asthma and rhinitis, from camomile in a cosmetician also with contact urticaria from both camomile and lime flowers. | Contact Dermatitis
+- new | 2001 | 11476211 | Case Reports/Letter | Chamomile tea enema anaphylaxis. | Med J Aust
+- new | 2000 | 10871109 | Case Reports | Contact urticaria from Matricaria chamomilla. | Contact Dermatitis
+- new | 2000 | 12531167 |  | Efficacy and safety of herbal stimulants and sedatives in sleep disorders. | Sleep Med Rev
+- new | 2000 | 10998021 |  | Anaphylaxis to camomile: clinical features and allergen cross-reactivity. | Clin Exp Allergy
+- new | 1998 | 9817225 | Case Reports | Allergic and systemic contact dermatitis from Matricaria chamomilla tea. | Contact Dermatitis
+- new | 1998 | 9536410 | Case Reports | Positive patch test with Kamillosan in a patient with hypersensitivity to camomile. | Contact Dermatitis
+- new | 1998 | 9847448 | Case Reports/Research Support, Non-U.S. Gov't | Fatal outcome of anaphylaxis to camomile-containing enema during labor: a case study. | J Allergy Clin Immunol
+- new | 1994 | 7750268 | Case Reports | Contact sensitivity to nettles and camomile in 'alternative' remedies. | Contact Dermatitis
+- new | 1994 | 23195891 |  | Evidence for the efficacy and safety of topical herbal drugs in dermatology: Part I: Anti-inflammatory agents. | Phytomedicine
+- new | 1991 | 2040155 | Case Reports | Allergic contact dermatitis of the nipple from Roman chamomile ointment. | Contact Dermatitis
+- new | 1990 | 2382873 |  | Allergic conjunctivitis to chamomile tea. | Ann Allergy
+- new | 1987 | 2949938 | Case Reports | Allergy to Matricaria chamomilla. | Contact Dermatitis
+- new | 1982 | 6461507 | Case Reports | Allergy to Matricaria chamomilla. | Contact Dermatitis
+- new | 1980 | 7392117 | Case Reports/Letter | Allergy to chamomile tea. | JAMA
+- new | 1973 | 4746793 | Case Reports | Anaphylactic reaction to chamomile tea. | J Allergy Clin Immunol
+- new | 1971 | 5116600 |  | [Occurrence of epidermal allergy against camomile in camomile preparations and cosmetics]. | Dermatol Monatsschr [ger]
+- new | 1954 | 14355995 |  | [Chamomile azulene in allergy. II. Treatment of asthma and infantile eczema]. | Minerva Pediatr [ita]
+- new | 1948 | 18912494 |  | [On a rare finding of allergy to chamomile and honey]. | Dermosifilografo (Torino) [ita]
+
+### PubMed OBS - 27 hits, 8 not already listed above, 8 new
+- new | 2026 | 41775830 |  | The association between medicinal herbs consumption and body weight and composition: a hospital based cross-sectional study. | Sci Rep
+- new | 2026 | 42252134 |  | Use of medicinal herbs in an Iranian population: cross-sectional findings from the Fasa PERSIAN Cohort Study. | BMJ Open
+- new | 2024 | 38252212 |  | The Impact of Systemic Lupus Erythematosus Flares on Clinical and Economic Outcomes: The CHAMOMILE Claims Database Study in Germany. | Rheumatol Ther
+- new | 2023 | 37783716 | Research Support, Non-U.S. Gov't | Use of medicinal plants during COVID-19 pandemic in Brazil. | Sci Rep
+- new | 2022 | 35092483 |  | Indications of medical plants: what do medical students in Germany know? A cross-sectional study. | J Cancer Res Clin Oncol
+- new | 2016 | 26035879 | Research Support, N.I.H., Extramural | Chamomile Consumption and Mortality: A Prospective Study of Mexican Origin Older Adults. | Gerontologist
+- new | 2009 | 19097772 |  | Observational study: Matricaria chamomilla may improve some symptoms of attention-deficit hyperactivity disorder. | Phytomedicine
+- new | 2009 | 19591533 | Comparative Study/Multicenter Study/Research Support, Non-U.S. Gov't | Remedies containing Asteraceae extracts: a prospective observational study of prescribing patterns and adverse drug reactions in German primary care. | Drug Saf
+
+### PubMed REV - 84 hits, 12 not already listed above, 10 new
+- new | 2025 | 41303363 | Review | Medicinal Plants for a Healthy Gut Microbiome: Scientific Insights into Modern Herbal Applications. | Int J Mol Sci
+- new | 2024 | 39500772 | Review | Aromatic plants as cosmeceuticals: benefits and applications for skin health. | Planta
+- new | 2023 | 36836674 | Review | The Therapeutic Wound Healing Bioactivities of Various Medicinal Plants. | Life (Basel)
+- HELD REF-1153 | 2022 | 35454969 | Review | Chamomile (Matricaria chamomilla L.): A Review of Ethnomedicinal Use, Phytochemistry and Pharmacological Uses. | Life (Basel)
+- HELD REF-1158 | 2022 | 36615326 | Review | Chamomile: A Review of Its Traditional Uses, Chemical Constituents, Pharmacological Activities and Quality Control Studies. | Molecules
+- new | 2021 | 35009033 | Review | A Comprehensive Review on Biology, Genetic Improvement, Agro and Process Technology of German Chamomile (Matricaria chamomilla L.). | Plants (Basel)
+- new | 2021 | 33248183 | Review | Exploring natural products-based cancer therapeutics derived from egyptian flora. | J Ethnopharmacol
+- new | 2021 | 33551629 | Review | In vitro and in vivo biological activities of azulene derivatives with potential applications in medicine. | Med Chem Res
+- new | 2018 | 29380567 | Review | [Metabolic engineering of (E)-β-farnesene synthase genes for aphid-resistant genetically modified plants]. | Sheng Wu Gong Cheng Xue Bao [chi]
+- new | 2017 | 29280987 | Review | Anti-Inflammatory and Skin Barrier Repair Effects of Topical Application of Some Plant Oils. | Int J Mol Sci
+- new | 2017 | 26721552 | Review | Management of Usr-i-Tamth (Menstrual Pain) in Unani (Greco-Islamic) Medicine. | J Evid Based Complementary Altern Med
+- new | 2015 | 26448818 | Review | Anti-Aging Potential of Phytoextract Loaded-Pharmaceutical Creams for Human Skin Cell Longetivity. | Oxid Med Cell Longev
+
+### ClinicalTrials.gov - 70 registered studies
+- NCT07515612 | COMPLETED | results=False | NA | The Impact of Valerian and Chamomile on Children's Anxiety in the Dental Clinic | conds: Anxiety, Dental | intr: Valerian extract, Chamomile extract, Water (Placebo)
+- NCT07398885 | COMPLETED | results=False | NA | Assessing the Impact of Herbal Supplement on Fatigue and Disease Activity in SLE: Results From an 8-Week Randomized Trial | conds: System; Lupus Erythematosus | intr: EVACUR, PLACEBO | pubs: ['34441861:RESULT (new)', '33214160:RESULT (new)']
+- NCT01122147 | COMPLETED | results=False | PHASE1 | Clinical Evaluation of Fluid Extract of Chamomilla Tincture for Oral Aphthae | conds: Recurrent Aphthous Stomatitis | intr: chamomilla tincture mouthwash, placebo mouthwash
+- NCT05788705 | COMPLETED | results=False | NA | Efficacy of JAK STAT Pathways Inhibitors in Treatment of Patients With Rheumatoid Arthritis | conds: Rheumatoid Arthritis | intr: Green Tea Polyphenolics (EGCG), Chamomile (Matricaria recutita), Licorice, Placebo
+- NCT02345447 | COMPLETED | results=False | PHASE3 | Herbal-Based Medication vs. Placebo in Preventing Acute Otitis Media in Children at High Risk of Recurrence | conds: Acute Otitis Media | intr: Herbal-based medication, Placebo
+- NCT02247830 | COMPLETED | results=False | PHASE3 | Management Radiodermatitis in Patients With Breast or Head and Neck Cancer | conds: Radiodermatitis | intr: Chamomilla recutita gel, Urea cream
+- NCT06313905 | UNKNOWN | results=False | NA | EVADRY® in the Treatment of Xerostomia in Sjögren's Syndrome | conds: Sjogren's Syndrome | intr: EVADRY, Placebo
+- NCT02249884 | COMPLETED | results=False | PHASE2 | Dose-Response Curve: Interventions to Prevent and Treat Radiodermatitis | conds: Radiodermatitis | intr: Urea Dose A, Urea Dose B, Urea Dose C, Chamomile Dose A
+- NCT06214273 | UNKNOWN | results=False | PHASE2 | Low Level Diode Laser Versus Topical Chamomile in Management of Chemotherapy Induced Oral Mucositis | conds: Chemotherapy Induced Oral Mucositis | intr: Low level diode laser, Chamomile, Ibuprofen analgesic and anti-inflammatory oral gel and miconazole  | pubs: ['9145556:RESULT (new)', '32920135:RESULT (new)', '33290635:RESULT (HELD REF-3636)', '32062592:RESULT (new)']
+- NCT06373653 | WITHDRAWN | results=False | PHASE4 | Study of Non-inferiority Between Manzanilla Sophia® and Meticel Ofteno® 0.5% for Providing a Soothing Sensation to the Eyes. | conds: Eye Strain, Eye Strain of Both Eyes | intr: Manzanilla Sophia®, Meticel Ofteno®
+- NCT03097484 | COMPLETED | results=True | PHASE3 | The Effect of Aromatherapy on Neonatal Abstinence Syndrome and Salivary Cortisol Levels | conds: Neonatal Abstinence Syndrome, Aromatherapy | intr: lavender and chamomile essential oils | pubs: ['23147978:RESULT (new)', '25028952:RESULT (new)', '24752403:RESULT (new)', '15764002:RESULT (new)', '18053656:RESULT (new)', '24078899:RESULT (new)', '22546607:RESULT (new)', '23589814:RESULT (new)', '25405293:RESULT (new)', '25068058:RESULT (new)', '9773369:RESULT (new)', '25365432:RESULT (new)', '22546608:RESULT (new)', '25114901:RESULT (new)', '12465213:RESULT (new)', '24136995:RESULT (new)', '33348423:DERIVED (new)']
+- NCT00989599 | COMPLETED | results=False | PHASE3 | Use of Chamomilla Recutita in Phlebitis | conds: Phlebitis | intr: compress of Chamomilla recutita infusion, compress of lukewarm water
+- NCT02251392 | UNKNOWN | results=False | PHASE3 | Evaluation of Therapeutic Efficacy in Use of Chamomilla Gel, Chamomilla Infuse and Urea in Radiodermatitis | conds: Radiodermatitis | intr: Chamomila recutita Gel, Chamomila recutita Infuse, Urea cream based
+- NCT06148662 | COMPLETED | results=False | PHASE4 | The Effect of Oral Sprays on Salivary pH | conds: Oral Health | intr: No intervention (negative control), Water (positive control), Dental foam "Biorepair PERIBIOMA", Den | pubs: ['38668005:DERIVED (new)']
+- NCT07092878 | RECRUITING | results=False | NA | Effects of Chamomile With L-theanine Beverage Among Young Women Experiencing Primary Dysmenorrhea | conds: Primary Dysmenorrhea | intr: Chamomile (Matricaria recutita), Chamomile
+- NCT01072344 | COMPLETED | results=True | PHASE3 | Long Term Chamomile Therapy for Anxiety | conds: Generalized Anxiety Disorder | intr: Chamomile (Matricaria recutita) | pubs: ['29080520:DERIVED (new)', '27912875:DERIVED (new)', '27716513:DERIVED (new)']
+- NCT06859476 | COMPLETED | results=True | PHASE4 | Evaluation of Manzanilla® and Meticel Ofteno® 0.5% for Providing a Relief Sensation to the Eyes | conds: Ophthalmological Agent Toxicity | intr: Manzanilla Sophia®, Meticel Ofteno® 0.5%
+- NCT07907081 | COMPLETED | results=False | NA | Comparative Analysis of Chamomile Tea (Matricaria Chamomilla) and Green Tea (Camellia Sinensis) Against Hyperlipidemia | conds: Hyperlipidemia, Normal | intr: Chamomile tea (Matricaria chamomilla), Green tea (Camellia sinensis)
+- NCT01341054 | COMPLETED | results=False | NA | Use of Chamomilla Recutita in Mucositis | conds: Mucositis | intr: mouthwash with Chamomilla, Standard oral care protocol
+- NCT04074915 | COMPLETED | results=False | NA | Effects of Herbal Mouth Rinse for Chronic Periodontitis | conds: Chronic Periodontitis | intr: Placebo mouth rinse, Chlorhexidine mouth rinse, Test group
+- NCT01286324 | COMPLETED | results=True | PHASE2 | Chamomile for Chronic Primary Insomnia | conds: Primary Insomnia, Chronic Insomnia | intr: Chamomile High Grade Extract, Placebo Tablet | pubs: ['21939549:RESULT (new)']
+- NCT07475299 | NOT_YET_RECRUITING | results=False | NA | Synbiotic Supplement With Botanical Extracts for Gut Microbiota Balance in Irritable Bowel Syndrome | conds: Irritable Bowel Syndrome (IBS) | intr: Synbiotic supplement containing probiotic strains, botanical extracts, magnesium, vitamin B1, and L-
+- NCT07017244 | NOT_YET_RECRUITING | results=False | NA | Effect of a Dietary Supplement vs Low-dosage Product on Infant Gastrointestinal Discomfort and Colics | conds: Infant Colic, Gut Microbiota | intr: Verum, Active comparator
+- NCT03793634 | UNKNOWN | results=False | PHASE1 | Evaluation of Topical Chamomile Versus Topical Triamcinolone Acetonide in Management of Oral Lichen Planus | conds: Oral Lichen Planus | intr: topical chamomile
+- NCT07288736 | ACTIVE_NOT_RECRUITING | results=False | NA | Aromatherapy Formulas for Sundowning and Sleep Quality in Patients With Dementia. | conds: Dementia, Sundowning | intr: Aromatherapy Formula A, Aromatherapy Formula B
+- NCT04935671 | UNKNOWN | results=False | NA | Effects of Saffron and Chamomile in Mild to Moderate Depression | conds: Depression | intr: chamomile tea n saffron
+- NCT01915966 | COMPLETED | results=False | NA | Efficacy Study of a Ginger and Cardamom Gelatin for Xerostomy in Terminally Ill Patients | conds: Xerostomia, Salivary Gland Diseases, Mouth Diseases | intr: Cardamom, ginger and orange juice gelatin, Camomile infusion with lemon juice
+- NCT04116151 | COMPLETED | results=False | NA | Effectiveness of a Cream for Treatment of Dermatitis in Patients Whith Breast Cancer | conds: DERMATITIS INDUCED BY RADIOTHERAPY IN PATIENTS WHITH BREAST CANCER | intr: Cosmetic cream (Alantel (R): aloe vera, chamomile and thime), Usual treatment | pubs: ['38273379:DERIVED (new)']
+- NCT07198243 | NOT_YET_RECRUITING | results=False | PHASE4 | The Effects of STW 5-II on Duodenal Mucosa and Symptoms in Functional Dyspepsia | conds: Functional Dyspepsia | intr: STW 5-II, Placebo
+- NCT00327548 | COMPLETED | results=False | PHASE3 | Use of Guided Imagery for Functional Abdominal Pain in Children: | conds: Functional Abdominal Pain | intr: guided imagery
+- NCT05272475 | COMPLETED | results=False | NA | The Acute Effects of Chamomile Intake on Blood Coagulation Tests in Healthy Volunteers | conds: Coagulation Disorder | intr: Chamomile Tea, Chamomile Extract Capsule | pubs: ['38300838:DERIVED (new)']
+- NCT03309254 | COMPLETED | results=False | NA | Role of Glycaemic Index and High Protein Meal in Response of Blood Biomarkers for Pre-diabetes | conds: Pre Diabetes | intr: High Glycemic Index, Low Glycemic Index | pubs: ['30391694:DERIVED (new)']
+- NCT06123234 | UNKNOWN | results=False | NA | Randomised Double-blind Active vs. Placebo Clinical Trial on the Effect of a Food Supplement on IBS in Children | conds: Irritable Bowel Syndrome | intr: Verum, Placebo
+- NCT06114797 | COMPLETED | results=False | NA | Chamomile Effect on Xerostomia Associated With End-stage Renal Disease in Elderly | conds: Xerostomia Due to Hyposecretion of Salivary Gland | intr: Chamomile, Saline mouthwash
+- NCT05696665 | UNKNOWN | results=False | NA | Role of Saffron and Chamomile in the Management of Parkinson's Disease | conds: Parkinson Disease, Neurodegenerative Diseases | intr: conventional therapy, Saffron and Chamomile, Crocin and Apigenin | pubs: ['27706421:RESULT (new)', '30159851:RESULT (new)', '29147836:RESULT (new)', '34224829:RESULT (new)', '24904963:RESULT (new)', '31111370:RESULT (new)', '28389404:RESULT (new)', '28951838:RESULT (new)', '35274200:RESULT (new)']
+- NCT03477669 | TERMINATED | results=False | NA | Infantile Colic: Study of the Efficacy of Lactobacillus GG (ATCC 53103) Plus Chamomile in Breastfeeding Infants | conds: Infantile Colic | intr: chamomile/probiotic arm, Placebo of chamomile/probiotic arm
+- NCT07732179 | COMPLETED | results=False | NA | Aromatherapy and Music Impact on Nurses' Stress at Work | conds: Stress | intr: lavender-chamomile aromatherapy oil and music
+- NCT07652957 | COMPLETED | results=False | NA | Comparison Of The Effects Of Swedish Massage With Natural Oils | conds: Childbirth, Aromatherapy, Pain Management, Fear | intr: Aromatherapy and Massage Care for labor pain management | pubs: [':RESULT (-)']
+- NCT07686029 | RECRUITING | results=False | NA | Use of Maltodextrins in the ERAS Preoperative Fasting Protocol in Pediatric Surgery | conds: Preoperative Care, Anxiety, Pediatric Surgery | intr: Maltodextrin Clear Liquid, Non-Sugared Clear Liquid
+- NCT06770166 | COMPLETED | results=False | NA | The Effect of Chamomile on Healing After Tooth Extraction | conds: Tooth Extraction Status Nos | intr: Physiological serum mouthwash, Chlorhexidine mouthwash, Chamomile mouthwash
+- NCT03605186 | UNKNOWN | results=False | NA | Prevention of Oral Mucositis After Using Chamomile Oral Cryotherapy Versus Oral Cryotherapy in Pediatric Cancer Patients Receiving Chemother | conds: Oral Mucositis (Ulcerative) Due to Antineoplastic Therapy | intr: Chamomile oral cryotherapy, Oral cryotherapy
+- NCT07138391 | NOT_YET_RECRUITING | results=False | PHASE2,PHASE3 | Chamomile Gummies and Pediatric Dental Anxiety | conds: Dental Anxiety | intr: chamomile gummy, a multivitamin gummy
+- NCT01668940 | TERMINATED | results=True | NA | Freezie Remedy to Alleviate Morning Sickness | conds: Morning Sickness | intr: Lillipops Iced Soothies (4 flavours), Mr. Freeze Freezies, Lillipop Iced Soothies (Ginger flavour)
+- NCT06634914 | WITHDRAWN | results=False | NA | 30-Day MoonBrew Sleep & Stress Study | conds: Sleep, Stress, Dietary Supplement | intr: Moonbrew
+- NCT06295900 | UNKNOWN | results=False | NA | The Effect of Aromatherapy Massage on Sleep Quality | conds: Diabetes Mellitus, Respiratory Failure, Pneumonia, Respiratory Disease | intr: Intervention 1 Group, Intervention 2 Group, Placebo Control Group
+- NCT03563365 | TERMINATED | results=False | PHASE4 | The Functional and Emotional Benefits of Replenix Power of Three With Resveratrol | conds: Acne Vulgaris | intr: Replenix Power of 3 Cream with resveratrol, Adapalene and Benzoyl peroxide gel, 0.1%/2.5%
+- NCT04317183 | UNKNOWN | results=False | PHASE2 | Topical Chamomile in Preventing Chemotherapy-induced Oral Mucositis | conds: Oral Mucositis Due to Chemotherapy | intr: chamomile topical oral gel, Miconazole Topical Gel, BBC oral spray, Oracure gel
+- NCT04093271 | COMPLETED | results=False | PHASE1 | Investigating the Efficacy of Rest-ZZZ Formula in Healthy Participants With Difficulty Falling Asleep or Staying a Sleep | conds: Sleep, Healthy | intr: Rest-ZZZ, Active Comparator - Diphenhydramine HCl, Placebo
+- NCT06474793 | RECRUITING | results=False | NA | Aromatherapy Applied to Intensive Care Nurses Effect on Fatigue and Sleep Quality | conds: Aromatherapy | intr: Aromatherapy Intervention Group-1, Aromatherapy Intervention Group-2, Aromatherapy Placebo Control G | pubs: ['42630137:DERIVED (new)']
+- NCT04678531 | COMPLETED | results=False | PHASE4 | TTO Swabs Versus Baby Shampoo in Patients With Seborrehic Blepharitis | conds: Seborrheic Blepharitis | intr: Swabs containing tea tree oil and chamomile oil, Baby shampoo
+- NCT01765387 | COMPLETED | results=False | NA | Spa Effects After Exercise | conds: Health Behavior | intr: Spa session | pubs: ['23866725:DERIVED (new)']
+- NCT05006378 | COMPLETED | results=False | NA | Effect of Chamomile Intake on Blood Coagulation Tests in Healthy Volunteers | conds: Coagulation Disorder | intr: Chamomile Tea, Chamomile Extract Capsule, Placebo Capsule | pubs: ['37730613:DERIVED (new)']
+- NCT03526081 | COMPLETED | results=False | NA | Absorption, Metabolism and Excretion of Apigenin and Apigenin Glycosides | conds: Healthy | intr: Chamomile Tea, Parsley based drink, Parsley Yogurt, Apigenin | pubs: ['35452808:DERIVED (new)']
+- NCT07267728 | COMPLETED | results=False | NA | A Clinical Study to Assess the Effect of a Dietary Supplement on Menstrual Cycle Symptoms | conds: Premenstrual Syndrome, Menstrual Pain | intr: DITTO Cycle Supplement | pubs: ['42699717:DERIVED (new)']
+- NCT06785142 | COMPLETED | results=False | NA | Investigation of a Dietary Supplement Liquid Shot Product on Aspects of Mood Both At Rest and During a Laboratory Stressor Task. | conds: Mood, Stress, Alertness | intr: Functional Shot, Placebo Shot
+- NCT00645983 | COMPLETED | results=False | PHASE4 | Chamomile Therapy for Generalized Anxiety | conds: Generalized Anxiety Disorder | intr: Chamomile Extract, Placebo | pubs: ['19593179:DERIVED (new)']
+- NCT05951647 | UNKNOWN | results=False | PHASE3 | The Effect of Pomegranate Peel, German Chamomile or Their Combination on Gingivitis | conds: Gingivitis | intr: Chamomile extract mouthwash, Pomegranate peel extract mouth wash, Combination of 5% chamomile extrac
+- NCT06860256 | NOT_YET_RECRUITING | results=False | NA | Different Exercise Training Programs in University Students with Primary Dysmenorrhea | conds: Exercise, Primary Dysmenorrhea | intr: Basic Body Awareness Therapy, High Intensity Interval Training, Classic Exercise and Lifestyle Tips
+- NCT00010933 | COMPLETED | results=False | NA | Treatment of Functional Abdominal Pain in Children: Evaluation of Relaxation/Guided Imagery and Chamomile Tea as Therapeutic Modalities | conds: Recurrent Abdominal Pain | intr: chamomile tea, Relaxation/Guided Imagery
+- NCT06133868 | UNKNOWN | results=False | NA | The Efficacy of Lavender and Chamomile Essential Oils Inhalation in Management of Dental Anxiety and Pain in Children Undergoing Local Anest | conds: Anxiety, Dental | intr: Lavender and Chamomile Essential Oils
+- NCT02445378 | COMPLETED | results=False | NA | Aromatherapy and Essential Oils in Improving Insomnia and Other Symptoms in Patients With Newly Diagnosed Acute Leukemia Undergoing Chemothe | conds: Acute Leukemia, Anorexia, Anxiety, Depression | intr: Aromatherapy and Essential Oils, Placebo, Questionnaire Administration
+- NCT07895069 | NOT_YET_RECRUITING | results=False | NA | The Effect of Compound Chamomile and Lidocaine Hydronchloride Gel as an Endotracheal Tube Lubricant on Postoperative Pharyngeal and Laryngea | conds: Postoperative Sore Throat | intr: Polycamomile Lidocaine Gel, Lidocaine Glue
+- NCT07298161 | RECRUITING | results=False | NA | Evaluating SleepWhale Drops for Rest & Resilience | conds: Sleep | intr: SleepWhale Natural Sleep Drops
+- NCT04810299 | COMPLETED | results=False | NA | Effect of Aromatherapy Massage on Symptom Control | conds: Colorectal Cancer | intr: Aromatherapy, Classical foot massage | pubs: ['39241341:DERIVED (new)']
+- NCT06382610 | COMPLETED | results=False | NA | Pharmacokinetics of Melatonin Administered in Oral, Lotion, and Bubble Bath Formulations | conds: Sleep | intr: Melatonin
+- NCT01584271 | UNKNOWN | results=False | PHASE2 | Study of Ear Comfort Ear Drops to Treat AOE Cases Compared to DexOtic & Otidin(R) | conds: Acute Otitis Externa | intr: Natural Ear Comfort(TM), a botanical ear drops product
+- NCT05773963 | TERMINATED | results=False | NA | A Post-market Study to Evaluate the Effects of Sodium Hyaluronate Based Eye Drops in Patients Affected by Dry Eye Disease | conds: Opthalomology/Dry Eye | intr: Irilens; Iridina; Afomill Lubricating Eye Drops
+- NCT07849192 | COMPLETED | results=False | NA | COMPARISON OF THE TOPICAL ANAESTHETIC EFFICACY OF VARIOUS AGENTS WITH ANAESTHETIC EFFECTS IN CHILDREN | conds: Anxiety | intr: Vemcaine, Essences and Essential Oils, VISION, ICE
+- NCT03858855 | COMPLETED | results=False | NA | Inhaled Essential Oil Effect on Common QOL Concerns During Cancer Treatment | conds: Gastrointestinal Cancer, Neuroendocrine Carcinoma, Skin Cancer | intr: Aromatherapy and Essential Oils, Aromatherapy and Essential Oils, Aromatherapy and Essential Oils, A
+- NCT07932938 | RECRUITING | results=False | NA | The Pediatric Sleep Study | conds: Sleep Quality, Sleep and Circadian Problems | intr: Olly melatonin-free supplement, Placebo Supplement
+
+### OpenAlex no-PMID trial-worded - 2166 hits, 39 without PMID, 38 new
+- new | 2026 | 10.18280/ijdne.210506 | article | Eco-Friendly Pest Control Methods for German Chamomile (Matricaria chamomilla): Effects on Pest Infestation, Yield, Soil Microbial Activity, and Beneficial Insects | International Journal of Design & Nature
+- new | 2025 | https://openalex.org/W7217168879 | article | COMPARISON OF CLINICAL EFFECTIVENESS OF CHAMOMILE AND LINSEED SALIVARY SUBSTITUTE ON XEROSTOMIA PATIENTS: A DOUBLE-BLIND, RANDOMISED, CLINICAL TRIAL | TPM Testing, psychometrics, methodology 
+- new | 2025 | 10.4103/jiaphd.jiaphd_23_25 | article | Efficacy of Chamomile, Mixed Herbal, and Conventional Gum Paint among Adult Patients with Gingivitis – A Randomized Control Trial | Journal of Indian Association of Public 
+- new | 2025 | 10.37349/emed.2025.1001297 | article | Effect of aloe vera and coconut in the management of xerostomia in patients with Sjogren’s syndrome: a crossover randomized clinical trial | Exploration of Medicine
+- new | 2025 | 10.61882/yujs.11.2.63 | article | Investigating the effect of seed moisture content, storage temperature and storage time on the German chamomile (Matricaria chamomilla) germination indicators | Journal of Seed Research
+- new | 2025 | 10.53550/eec.2025.v31i02s.076 | article | Effects of Heat Stress on Morphological Traits and Essential Oil Content in Matricaria chamomilla L. Across different Agro-climatic Zones of Uttarakhand, India | Ecology Environment and Conservation
+- new | 2024 | 10.5530/ajbls.2024.13.54 | article | Heat Stress-Induced Changes in Growth and Essential Oil Profile of German Chamomile (Matricaria chamomilla) | Asian Journal of Biological and Life Sci
+- new | 2024 | 10.21203/rs.3.rs-3888245/v1 | preprint | Effectiveness of a virtual reality-based restorative environment on psychiatric disorders for intensive care patients: study protocol for a randomized controlled trial | Research Square
+- new | 2024 | 10.5812/jjnpp-146826 | article | The Effect of Chamomile on Moderate Postpartum Depression: A Randomized Controlled Trial in Dezful, Iran | Jundishapur Journal of Natural Pharmaceu
+- new | 2023 | 10.1016/j.ijso.2023.100639 | article | Effects of German chamomile on symptoms and healing after mandibular third molar surgeries: A triple-blind split-mouth randomised controlled trial | International Journal of Surgery Open
+- new | 2023 | 10.2139/ssrn.4490492 | preprint | Effect of a Traditional Persian Polyherbal Cream on Patients with Hemorrhoid: A Randomized Triple-Blind Controlled Trial | SSRN Electronic Journal
+- new | 2023 | 10.3390/horticulturae9080857 | article | Alternations in Physiological and Phytochemical Parameters of German Chamomile (Matricaria chamomilla L.) Varieties in Response to Amino Acid Fertilizer and Plasma Activated-Water  | Horticulturae
+- new | 2023 | 10.21608/ejhc.2023.302778 | article | Effect of Aromatherapy Massage with Chamomile Oil versus Lavender Oil on Neuropathic Pain and Quality of Life in Diabetic Patients: randomized controlled clinical trial | Egyptian Journal of Health Care
+- new | 2022 | 10.34172/ps.2022.26 | article | Effect of Delphinium denudatum Wall. (Jadwar) on Knee Osteoarthritis: A Randomized Double-Blinded Placebo-Controlled Clinical Trial | Pharmaceutical Sciences
+- new | 2022 | 10.1016/j.indcrop.2022.116145 | article | GGE biplot and regression based multi-environment investigations for higher yield and essential oil content in German chamomile (Matricaria chamomilla L.) | Industrial Crops and Products
+- new | 2022 | 10.52547/jcb.14.44.46 | article | Genome Wide Assosiation Study (GWAS) in some Chamomile Genotypes (Matricaria chamomilla L.) using Morphological, Phenological Traits | Journal of Crop Breeding
+- new | 2021 | 10.1016/j.indcrop.2021.113873 | article | Agronomic interventions affect the growth, yield, and essential oil composition of German chamomile (Matricaria chamomilla L.) in the western Himalaya | Industrial Crops and Products
+- new | 2021 | 10.5812/semj.107952 | article | The Efficacy of Boswellia carterii Oleogel in Pain Relief and Functional Improvement Among Patients with Carpal Tunnel Syndrome: A Triple-Blind Randomized, Controlled Trial | Shiraz E-Medical Journal
+- new | 2021 | 10.7324/japs.2021.110703 | review | A systematic review of randomized controlled trials assessing phytochemicals and natural ingredients for skin and hair care | Journal of Applied Pharmaceutical Scienc
+- new | 2020 | 10.9734/jpri/2019/v31i630385 | article | Efficacy of Matricaria chamomilla L. in Infantile Colic: A Double Blind, Placebo Controlled Randomized Trial | Journal of Pharmaceutical Research Inter
+- new | 2020 | 10.22092/ijmapr.2020.341490.2701 | article | بررسی تأثیر خشک کردن با تابش مادون قرمز و سرعت جریان هوا بر خصوصیات کیفی بابونه (Matricaria chamomilla L.) | Iranian Journal of Medicinal and Aromati
+- HELD REF-3634 | 2019 | https://openalex.org/W3146074256 | article | Evaluation of the effect of topical chamomile (Matricaria chamomilla L.) oleogel as pain relief in migraine without aura: A randomized, double-blind, placebo-controlled, crossover  | Medicinal & Aromatic Plants
+- new | 2019 | 10.1108/nfs-08-2019-0263 | article | Herbal infusions and health: A review of findings from human studies, mechanisms and future research directions | Nutrition & Food Science
+- new | 2019 | 10.29333/ejgm/109435 | article | Effect of the mixed herbal medicines extracts on menopausal symptoms: A randomized clinical trial study | Electronic Journal of General Medicine
+- new | 2018 | 10.15419/bmrat.v5i11.499 | article | Evaluation of the efficacy of a topical chamomile-pumpkin oleogel for the treatment of plaque psoriasis: an intra-patient, double-blind, randomized clinical trial | Biomedical Research and Therapy
+- new | 2018 | https://openalex.org/W3088689126 | article | Effect of integrated nutrient management on vegetative growth and economics of German chamomile (Matricaria chamomilla L.) | International Journal of Chemical Studie
+- new | 2018 | 10.23751/pn.v20i1-s.5884 | article | The effect of chamomile (Matricaria recutita L.) infusion on blood glucose, lipid profile and kidney function in type 2 diabetic patients: a randomized clinical trial | Progress in nutrition
+- new | 2018 | 10.22207/jpam.12.3.30 | article | The Effect of Different Concentrations of Growth Regulators and the Type of Explants on Embryogenesis and Rooting of German Chamomile (Matricaria chamomilla L) | Journal of Pure and Applied Microbiology
+- new | 2018 | https://openalex.org/W2904327905 | article | Studying the Effect of German Chamomile in Alleviating CABG Surgery Wound Pain among Diabetic Patients | Journal of Research in Medical and Denta
+- new | 2017 | 10.23751/pn.v19i1-s.5171 | article | The effect of chamomile tea consumption on inflammation among rheumatoid arthritis patients: randomized clinical trial | Progress in nutrition
+- new | 2016 | 10.1016/j.apjtb.2016.08.009 | article | Evaluation of proline, chlorophyll, soluble sugar content and uptake of nutrients in the German chamomile (Matricaria chamomilla L.) under drought stress and organic fertilizer tre | Asian Pacific Journal of Tropical Biomed
+- new | 2016 | 10.22067/jhorts4.v29i4.32417 | article | Assessment of Direct Regeneration in Germany (Matricaria chamomilla L.) and Shirazi Chamomiles (Matricaria recutita L.) | Majallah-i ̒ulum-i bāghbānī
+- new | 2015 | 10.1016/j.hermed.2015.05.001 | article | The effect of Matricaria chamomilla (chamomile) extract in Orabase on minor aphthous stomatitis, a randomized clinical trial | Journal of Herbal Medicine
+- new | 2014 | https://openalex.org/W2338858504 | article | The Effect of Plant Growth Regulators and Different Explants on the Response of Tissue Culture and Cell Suspension Cultures of German Chamomile (Matricaria chamomilla L.) | اکوفیزیولوژی گیاهان زراعی
+- new | 2012 | 10.4067/s0718-58392012000200011 | article | Influence of Water Deficit on Iron and Zinc Uptake by Matricaria chamomilla L. | Chilean journal of agricultural research
+- new | 2012 | 10.17660/actahortic.2012.964.15 | conference-paper | EFFECT OF PLANT GROWTH-PROMOTING RHIZOBACTERIA AND NITROGEN FERTILIZER ON YIELD AND ESSENTIAL OIL OF GERMAN CHAMOMILE (MATRICARIA CHAMOMILLA L.) | Acta Horticulturae
+- new | 2011 | https://openalex.org/W2100272723 | article | Effects of irrigation regime and plant density on harvest index of German chamomile ('Matricaria chamomilla' L.) | 
+- new | 2009 | 10.1016/j.indcrop.2009.09.019 | article | Effects of planting date and seedling age on agro-morphological characteristics, essential oil content and composition of German chamomile (Matricaria chamomilla L.) grown in Belgi | Industrial Crops and Products
+- new | 2008 | 10.1055/s-0028-1084954 | article | Influence of soil nitrogen level and plant spacing on essential oil content and composition of German chamomile (Matricaria chamomilla) | Planta Medica
+
+## melissa-officinalis (Melissa officinalis) - name clause: "Melissa officinalis"[tiab] OR "lemon balm"[tiab] OR "Cyracos"[tiab]
+
+### PubMed HT - 124 hits, 124 not already listed above, 109 new
+- new | 2026 | 41317165 | Randomized Controlled Trial/Comparative Study | Comparison of the Effects of a Melissa officinalis L. and Valerian Combination With Clonidine on Anxiety, Hemodynamic Changes, and Shivering in Knee Replacement Surgery: A Randomiz | J Perianesth Nurs
+- new | 2026 | 41598329 | Review | Medicinal Plants and Phytochemicals in Cardioprotection-Mechanistic Pathways and Translational Roadmap. | Life (Basel)
+- new | 2026 | 42183570 | Review | Alternative and Complementary Therapies: A Review Exploring the Role of Yoga and Ayurveda-based Herbal Medicines in Alleviating Hypothyroidism and Its Neuropsychiatric Manifestatio | Ann Neurosci
+- new | 2026 | 41782777 |  | The acute effects of Zensera™ (Melissa officinalis L.) extract on mood and cognitive performance during cognitive overload: a randomised placebo-controlled, double-blind study in h | Ther Adv Psychopharmacol
+- new | 2026 | 41777239 |  | Melissa phospholipids improves sleep quality and mental well-being: concluding results from clinical study in adults with emotional distress. | Food Nutr Res
+- new | 2026 | 41864875 |  | Mycorrhizal colonization enhances the growth and physiological traits of Melissa officinalis under drought stress and Fusarium culmorum infection. | BMC Plant Biol
+- new | 2026 | 42527887 |  | Rational Use of Herbal Products in Pediatric Patients Treated With Anticancer Drugs in the European Union. | Pediatr Blood Cancer
+- new | 2026 | 41350450 | Systematic Review | Herbal galactagogues to improve breastmilk production and lactation in mothers of preterm babies: a systematic review of clinical trials. | Eur J Clin Nutr
+- HELD REF-3655 | 2025 | 40526027 | Systematic Review | Herbal Medicine for Treating Herpes Labialis: A Systematic Review. | J Integr Complement Med
+- new | 2025 | 40082838 | Randomized Controlled Trial | The effectiveness of Melissa officinalis L. essential oil inhalation on anxiety and symptom burden of hemodialysis patients: a randomized trial study. | BMC Complement Med Ther
+- new | 2025 | 40054227 | Scoping Review/Research Support, Non-U.S. Gov't | Over-the-counter products for insomnia in adults: A scoping review of randomised controlled trials. | Sleep Med
+- new | 2025 | 41647766 |  | A Review of The Efficacy of Complementary and Alternative Medicines in Managing Dermatologic Infectious Diseases. | J Clin Aesthet Dermatol
+- new | 2025 | 40256221 | Review | A systematic review on the use of phytotherapy in managing clinical depression. | Bioimpacts
+- new | 2025 | 39888701 | Randomized Controlled Trial | Lemon Balm (Melissa officinalis L.) Leaf Extract Promotes Endo180 Production in Dermal Fibroblasts and has Antiwrinkle Effect on Human Skin. | Photodermatol Photoimmunol Photomed
+- new | 2025 | 41597053 | Review | Effectiveness of Homoeopathic Treatments for Sleep Disorders in Children and Adolescents: A Systematic Review According to the Principles of Evidence-Based Medicine. | Children (Basel)
+- new | 2025 | 40735481 | Systematic Review | Understanding the research landscape of over-the-counter herbal products, dietary supplements, and medications evaluated for depressive symptoms in adults: a scoping review. | Front Pharmacol
+- new | 2025 | 41101745 | Randomized Controlled Trial/Comparative Study | Comparison of the effects of Echium amoenum and Melissa officinalis on hypertension in stage 1 hypertensive patients: A randomized, triple-blind, three-arm clinical trial. | Complement Ther Med
+- new | 2025 | 41477283 |  | Efficacy of an Herbal Vaginal Tablet Containing Oregano and Lemon Balm on Bacterial Vaginosis in Comparison to Metronidazole: a non-inferiority triple-blind active-controlled trial | J Pharmacopuncture
+- new | 2025 | 40959130 |  | The effect of inhalation aromatherapy with lemon balm essential oil on perceived stress in infertile women undergoing in vitro fertilization: An RCT. | Int J Reprod Biomed
+- new | 2025 | 40021984 | Comparative Study | Comparative analysis of LED priming effects on two medicinal lemon balm genotypes one and three weeks post-drought stress. | BMC Plant Biol
+- new | 2025 | 40739535 |  | Phytochemical, physiological and morphological response of industrial-medicinal plant Melissa officinalis L. to drought stress, nanosilicon and superabsorbent polymer application. | BMC Plant Biol
+- new | 2025 | 41497954 | Review | Targeting γ-aminobutyric acid pathways in irritable bowel syndrome: bridging central nervous system, enteric dysfunction, and the microbiota-gut-brain axis. | Front Pharmacol
+- new | 2025 | 40014460 | Systematic Review/Meta-Analysis | Efficacy of Pharmacological Interventions in Milder Depression: A Systematic Review and Meta-Analysis. | Neuropsychopharmacol Rep
+- HELD REF-1193 | 2024 | 39458539 | Review | Clinical Efficacy and Tolerability of Lemon Balm (Melissa officinalis L.) in Psychological Well-Being: A Review. | Nutrients
+- new | 2024 | 38580720 | Randomized Controlled Trial | Effect of a nutraceutical combination on sleep quality among people with impaired sleep: a randomised, placebo-controlled trial. | Sci Rep
+- HELD REF-3656 | 2024 | 39683592 | Randomized Controlled Trial | Effects of Melissa officinalis Phytosome on Sleep Quality: Results of a Prospective, Double-Blind, Placebo-Controlled, and Cross-Over Study. | Nutrients
+- HELD REF-1195 | 2024 | 38575930 | Meta-Analysis | Effects of Melissa officinalis (lemon balm) consumption on serum lipid profile: a meta-analysis of randomized controlled trials. | BMC Complement Med Ther
+- new | 2024 | 38837237 | Systematic Review/Meta-Analysis | Interventions for postburn pruritus. | Cochrane Database Syst Rev
+- new | 2024 | 38538991 |  | Improving nitrogen content in soil and lemon balm (Melissa officinalis L.) yield by purple nonsulfur bacteria Rhodopseudomonas palustris in two consecutive seasons. | Int Microbiol
+- new | 2024 | 39350003 |  | Mitigating water deficit stress in lemon balm (Melissa officinalis L.) through integrated soil amendments: A pathway to sustainable agriculture. | BMC Plant Biol
+- new | 2024 | 38868804 |  | Effect of Melissa officinalis on Chemotherapy-Induced Peripheral Neuropathy in Cancer Patients: A Randomized Trial. | Int J Hematol Oncol Stem Cell Res
+- new | 2024 | 38937193 | Randomized Controlled Trial | Effects of a traditional herbal formula containing Melissa officinalis, Pimpinella anisum, and Rosa damascena on anxiety and depression in patients with constipation-predominant ir | Explore (NY)
+- new | 2024 | 38396908 |  | Plasma Concentrations of Rosmarinic Acid in Patients on Antiretroviral Therapy: In Silico Exploration Based on Clinical Data. | Int J Mol Sci
+- new | 2024 | 39099809 |  | Natural product-based treatment potential for type 2 diabetes mellitus and cardiovascular disease. | World J Diabetes
+- new | 2024 | 39174857 | Clinical Trial | Melatonin Bioavailability After Oral Administration of a New Delayed-Release Form in Healthy Male Volunteers. | Drugs R D
+- new | 2023 | 37663386 | Review | Herbal medicines in the treatment of children and adolescents with attention-deficit/hyperactivity disorder (ADHD): An updated systematic review of clinical trials. | Avicenna J Phytomed
+- new | 2023 | 36655201 | Review/Retracted Publication | Antiviral Potential of Melissa officinalis L.: A Literature Review. | Nutr Metab Insights
+- new | 2023 | 35960461 | Systematic Review | Natural remedies for Alzheimer's disease: A systematic review of randomized controlled trials. | Metab Brain Dis
+- new | 2023 | 37111380 |  | A Phase 2a, Randomized, Double-Blind, Placebo-Controlled Study to Assess the Efficacy and Safety of ALS-L1023 in Non-Alcoholic Fatty Liver Disease. | Pharmaceuticals (Basel)
+- new | 2023 | 37259343 |  | A Dietary Plant Extract Formulation Helps Reduce Flea Populations in Cats: A Double-Blind Randomized Study. | Pharmaceuticals (Basel)
+- new | 2023 | 37927585 |  | The possible "calming effect" of subchronic supplementation of a standardised phospholipid carrier-based Melissa officinalis L. extract in healthy adults with emotional distress an | Front Pharmacol
+- HELD REF-3657 | 2023 | 37131158 | Randomized Controlled Trial | The effects of melissa officinalis on depression and anxiety in type 2 diabetes patients with depression: a randomized double-blinded placebo-controlled clinical trial. | BMC Complement Med Ther
+- new | 2023 | 36502333 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of Melissa officinalis Extract Containing Rosmarinic Acid on Cognition in Older Adults Without Dementia: A Randomized Controlled Trial. | J Alzheimers Dis
+- new | 2022 | 35592415 | Systematic Review | Phytotherapy for Attention Deficit Hyperactivity Disorder (ADHD): A Systematic Review and Meta-analysis. | Front Pharmacol
+- new | 2022 | 35748547 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Comparing the Effects of a Herbal Drug based on Echium Amoenum With Fluvoxamine in the Treatment of Adolescents with Obsessive-compulsive Disorder. | Curr Drug Discov Technol
+- new | 2022 | 37304222 |  | Evaluation of the Effectiveness of an Herbal Formulation of Boswellia sacra Flueck. In Improving Cognitive and Behavioral Symptoms in Patients with Cognitive Impairment and Alzheim | J Res Pharm Pract
+- HELD REF-1194 | 2021 | 34449930 | Meta-Analysis/Systematic Review | The effects of lemon balm (Melissa officinalis L.) on depression and anxiety in clinical trials: A systematic review and meta-analysis. | Phytother Res
+- new | 2021 | 30806589 | Meta-Analysis/Systematic Review | Treatments of sleep bruxism in children: A systematic review and meta-analysis. | Cranio
+- new | 2021 | 34316173 |  | Addition of Valerian and Lemon Balm Extract to Quetiapine Reduces Agitation in Critically Ill Patients with Delirium: A Pilot Randomized Clinical Trial. | Indian J Crit Care Med
+- HELD REF-3658 | 2021 | 34766389 | Randomized Controlled Trial | Effect of Melissa officinalis on systolic and diastolic blood pressures in essential hypertension: A double-blind crossover clinical trial. | Phytother Res
+- new | 2021 | 33465795 | Randomized Controlled Trial | The Effectiveness of Melissa Officinalis L. versus Citalopram on Quality of Life of Menopausal Women with Sleep Disorder: A Randomized Double-Blind Clinical Trial. | Rev Bras Ginecol Obstet
+- SEEN | 2021 | 34193264 | Randomized Controlled Trial | The effect of Melissa officinalis syrup on patients with mild to moderate psoriasis: a randomized, double-blind placebo-controlled clinical trial. | BMC Res Notes
+- new | 2021 | 33751522 | Randomized Controlled Trial | Barley malt-based composition as a galactagogue - a randomized, controlled trial in preterm mothers. | Ginekol Pol
+- new | 2021 | 34309987 | Randomized Controlled Trial | Melissa officinalis tea favourably affects the frequency of premature ventricular beats and cardiometabolic profile among patients with premature ventricular contraction: A randomi | Int J Clin Pract
+- new | 2021 | 34247027 | Randomized Controlled Trial | Effect of aromatherapy with Melissa essential oil on stress and hemodynamic parameters in acute coronary syndrome patients: A clinical trial in the emergency department. | Complement Ther Clin Pract
+- new | 2020 | 32813272 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Aromatherapy for dementia. | Cochrane Database Syst Rev
+- HELD REF-1197 | 2020 | 32614129 | Meta-Analysis/Systematic Review | Effects of Melissa officinalis (Lemon Balm) on cardio-metabolic outcomes: A systematic review and meta-analysis. | Phytother Res
+- new | 2020 | 31858254 | Meta-Analysis/Scoping Review | Interventions to reduce bruxism in children and adolescents: a systematic scoping review and critical reflection. | Eur J Pediatr
+- new | 2020 | 32620104 | Comparative Study/Randomized Controlled Trial | A double-blind, randomized pilot study for comparison of Melissa officinalis L. and Lavandula angustifolia Mill. with Fluoxetine for the treatment of depression. | BMC Complement Med Ther
+- HELD REF-2459 | 2020 | 31985131 |  | Effect of the fixed combination of valerian, lemon balm, passionflower, and butterbur extracts (Ze 185) on the prescription pattern of benzodiazepines in hospitalized psychiatric p | Phytother Res
+- new | 2020 | 33122694 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Safety and efficacy of Melissa officinalis extract containing rosmarinic acid in the prevention of Alzheimer's disease progression. | Sci Rep
+- new | 2019 | 31598505 |  | Investigating the Effect of Melissa Officinalis on After-Pains: A Randomized Single-Blind Clinical Trial. | J Caring Sci
+- new | 2019 | 30670268 | Randomized Controlled Trial | A randomised controlled trial of Lavender (Lavandula Angustifolia) and Lemon Balm (Melissa Officinalis) essential oils for the treatment of agitated behaviour in older people with  | Complement Ther Med
+- new | 2019 | 30548118 | Randomized Controlled Trial | Efficacy of Melissa officinalis L. (lemon balm) extract on glycemic control and cardiovascular risk factors in individuals with type 2 diabetes: A randomized, double-blind, clinica | Phytother Res
+- new | 2019 | 30831467 | Comparative Study/Randomized Controlled Trial | Homeopathic medicine of Melissa officinalis combined or not with Phytolacca decandra in the treatment of possible sleep bruxism in children: A crossover randomized triple-blinded c | Phytomedicine
+- new | 2019 | 30681971 | Randomized Controlled Trial | The effects of a Melissa officinalis L. based product on metabolic parameters in patients with type 2 diabetes mellitus: A randomized double-blinded controlled clinical trial. | J Complement Integr Med
+- new | 2019 | 31331545 |  | A combination of melatonin, vitamin B6 and medicinal plants in the treatment of mild-to-moderate insomnia: A prospective pilot study. | Complement Ther Med
+- new | 2019 | 32641961 |  | Cardioprotective Effect of Ethanolic Leaf Extract of Melissa Officinalis L Against Regional Ischemia-Induced Arrhythmia and Heart Injury after Five Days of Reperfusion in Rats. | Iran J Pharm Res
+- new | 2018 | 29632841 | Review | The effectiveness and safety of Iranian herbal medicines for treatment of premenstrual syndrome: A systematic review. | Avicenna J Phytomed
+- new | 2018 | 31011354 |  | The Effects of Lemon balm on Menstrual Bleeding and the Systemic Manifestation of Dysmenorrhea. | Iran J Pharm Res
+- new | 2018 | 30219475 | Randomized Controlled Trial | Safety and efficacy of Melissa officinalis (lemon balm) on ApoA-I, Apo B, lipid ratio and ICAM-1 in type 2 diabetes patients: A randomized, double-blinded clinical trial. | Complement Ther Med
+- new | 2018 | 30045422 | Randomized Controlled Trial | The effects of Melissa officinalis (lemon balm) in chronic stable angina on serum biomarkers of oxidative stress, inflammation and lipid profile. | Asia Pac J Clin Nutr
+- new | 2018 | 30306546 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Dietary modifications for infantile colic. | Cochrane Database Syst Rev
+- new | 2018 | 29796033 |  | Effect of Melissa officinalis (Lemon balm) on Sexual Dysfunction in Women: A Double- blind, Randomized, Placebo-controlled Study. | Iran J Pharm Res
+- new | 2018 | 30591886 |  | Effects of Herbal combination (Melissa officinalis L. and Nepeta menthoides Boiss. & Buhse) on insomnia severity, anxiety and depression in insomniacs: Randomized placebo controlle | Integr Med Res
+- new | 2018 | 29433687 | Randomized Controlled Trial | Effects of a fixed herbal drug combination (Ze 185) to an experimental acute stress setting in healthy men - An explorative randomized placebo-controlled double-blind study. | Phytomedicine
+- new | 2018 | 29741926 |  | Efficacy of a Combination of Melissa officinalis L. and Nepeta Menthoides Boiss. & Buhse on Insomnia: A Triple-Blind, Randomized Placebo-Controlled Clinical Trial. | J Altern Complement Med
+- new | 2018 | 29369810 |  | Effect of Melissa officinalis capsule on the mental health of female adolescents with premenstrual syndrome: a clinical trial study. | Int J Adolesc Med Health
+- new | 2018 | 30087294 | Comparative Study/Randomized Controlled Trial | Volatile Terpenes and Brain Function: Investigation of the Cognitive and Mood Effects of Mentha × Piperita L. Essential Oil with In Vitro Properties Relevant to Central Nervous Sys | Nutrients
+- HELD REF-2539 | 2018 | 29908682 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effects of Melissa officinalis supplementation on depression, anxiety, stress, and sleep disorder in patients with chronic stable angina. | Clin Nutr ESPEN
+- new | 2018 | 29433682 | Randomized Controlled Trial | A randomised double-blind placebo-controlled pilot trial of a combined extract of sage, rosemary and melissa, traditional herbal medicines, on the enhancement of memory in normal h | Phytomedicine
+- new | 2017 | 28137522 | Systematic Review | Herbal medicines in children with attention deficit hyperactivity disorder (ADHD): A systematic review. | Complement Ther Med
+- new | 2017 | 29844788 |  | The Effect of Melissa Officinalis Extract on the Severity of Primary Dysmenorrha. | Iran J Pharm Res
+- new | 2017 | 28665038 | Multicenter Study/Randomized Controlled Trial | Efficacy of a standardized extract of Matricariae chamomilla L., Melissa officinalis L. and tyndallized Lactobacillus acidophilus (HA122) in infantile colic: An open randomized con | Neurogastroenterol Motil
+- new | 2017 | 28367927 |  | Beneficial Effects of Lemon Balm Leaf Extract on In Vitro Glycation of Proteins, Arterial Stiffness, and Skin Elasticity in Healthy Adults. | J Nutr Sci Vitaminol (Tokyo)
+- new | 2017 | 28951674 |  | Prevalence of self-medication practice with herbal products among non-psychotic psychiatric patients from southeastern Serbia: A cross-sectional study. | Saudi Pharm J
+- new | 2016 | 28330169 |  | Investigating the effect of drought stress on expression of WRKY1 and EREBP1 genes and antioxidant enzyme activities in lemon balm (Melissa Officinalis L.). | 3 Biotech
+- HELD REF-3659 | 2016 | 27261994 | Randomized Controlled Trial | Lemon balm: A promising herbal therapy for patients with borderline hyperlipidemia-A randomized double-blind placebo-controlled clinical trial. | Complement Ther Med
+- new | 2016 | 26941093 | Clinical Trial | Consumption of medicinal plants by patients with heart diseases at a pharmacist-managed anticoagulation clinic in Brazil. | Int J Clin Pharm
+- new | 2016 | 27134350 |  | Evaluation of electromyographic signals in children with bruxism before and after therapy with Melissa Officinalis L-a randomized controlled clinical trial. | J Phys Ther Sci
+- new | 2016 | 27576581 |  | Liquid and vapour-phase antifungal activities of essential oils against Candida albicans and non-albicans Candida. | BMC Complement Altern Med
+- new | 2015 | 26465629 | Clinical Trial/Multicenter Study | Valerian Root and Lemon Balm Extracts: A Phytomedicine Compound Improves Symptoms of Hyperactivity, Attention Deficits, and Impulsivity in Children. | Holist Nurs Pract
+- new | 2015 | 26339667 |  | Effect of Melissa officinalis Capsule on the Intensity of Premenstrual Syndrome Symptoms in High School Girl Students. | Nurs Midwifery Stud
+- SEEN | 2015 | 25680840 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Heart palpitation relief with Melissa officinalis leaf extract: double blind, randomized, placebo controlled trial of efficacy and safety. | J Ethnopharmacol
+- new | 2015 | 25978046 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Pharmacokinetics, Safety and Tolerability of Melissa officinalis Extract which Contained Rosmarinic Acid in Healthy Individuals: A Randomized Controlled Trial. | PLoS One
+- new | 2014 | 24837472 | Multicenter Study | Hyperactivity, concentration difficulties and impulsiveness improve during seven weeks' treatment with valerian root and lemon balm extracts in primary school children. | Phytomedicine
+- new | 2014 | 25360512 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Anti-stress effects of lemon balm-containing foods. | Nutrients
+- HELD REF-3527 | 2013 | 23337964 | Randomized Controlled Trial | [Antiinflammatory potential of seven plant extracts in the ultraviolet erythema test. A randomized, placebo-controlled study]. | Hautarzt [ger]
+- new | 2013 | 24199972 | Randomized Controlled Trial | Valerian/lemon balm use for sleep disorders during menopause. | Complement Ther Clin Pract
+- new | 2011 | 21335973 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A double-blind placebo-controlled randomized trial of Melissa officinalis oil and donepezil for the treatment of agitation in Alzheimer's disease. | Dement Geriatr Cogn Disord
+- new | 2011 | 20858648 | Clinical Trial/Research Support, Non-U.S. Gov't | Effects of Melissa officinalis L. on oxidative status and DNA damage in subjects exposed to long-term low-dose ionizing radiation. | Toxicol Ind Health
+- new | 2011 | 22207903 |  | Pilot trial of Melissa officinalis L. leaf extract in the treatment of volunteers suffering from mild-to-moderate anxiety disorders and sleep disturbances. | Med J Nutrition Metab
+- new | 2011 | 21631360 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effects of powdered fertilized eggs on depression. | J Med Food
+- new | 2009 | 19274698 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Fixed herbal drug combination with and without butterbur (Ze 185) for the treatment of patients with somatoform disorders: randomized, placebo-controlled pharmaco-clinical trial. | Phytother Res
+- new | 2008 | 18520739 | Review | Complementary medicine for psychiatric disorders in children and adolescents. | Curr Opin Psychiatry
+- new | 2008 | 18630390 |  | Herbal remedies for dyspepsia: peppermint seems effective. | Prescrire Int
+- new | 2006 | 17173107 |  | The use of herbal medicine in Alzheimer's disease-a systematic review. | Evid Based Complement Alternat Med
+- new | 2006 | 16444660 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Anxiolytic effects of a combination of Melissa officinalis and Valeriana officinalis during laboratory induced stress. | Phytother Res
+- new | 2006 | 16487692 | Clinical Trial/Multicenter Study | A combination of valerian and lemon balm is effective in the treatment of restlessness and dyssomnia in children. | Phytomedicine
+- new | 2006 | 16868824 | Multicenter Study/Randomized Controlled Trial | The efficacy of an herbal medicine, Carmint, on the relief of abdominal pain and bloating in patients with irritable bowel syndrome: a pilot study. | Dig Dis Sci
+- new | 2005 | 17561634 | Review | Oral nonprescription treatment for insomnia: an evaluation of products with limited evidence. | J Clin Sleep Med
+- new | 2005 | 16041731 | Clinical Trial/Randomized Controlled Trial | A randomized double-blind placebo-controlled trial of a standardized extract of Matricariae recutita, Foeniculum vulgare and Melissa officinalis (ColiMil) in the treatment of breas | Phytother Res
+- new | 2004 | 15272110 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Attenuation of laboratory-induced stress in humans after acute administration of Melissa officinalis (Lemon Balm). | Psychosom Med
+- new | 2004 | 14755152 | Clinical Trial/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Treatment of functional dyspepsia with a herbal preparation. A double-blind, randomized, placebo-controlled, multicenter trial. | Digestion
+- new | 2004 | 15546807 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of lozenge containing lavender oil, extracts from hops, lemon balm and oat on electrical brain activity of volunteers. | Eur J Med Res
+- new | 2003 | 12888775 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Modulation of mood and cognitive performance following acute administration of single doses of Melissa officinalis (Lemon balm) with human CNS nicotinic and muscarinic receptor-bin | Neuropsychopharmacology
+- new | 2003 | 12810768 | Clinical Trial/Multicenter Study/Randomized Controlled Trial | Melissa officinalis extract in the treatment of patients with mild to moderate Alzheimer's disease: a double blind, randomised, placebo controlled trial. | J Neurol Neurosurg Psychiatry
+- HELD REF-0134 | 2002 | 12062586 | Clinical Trial/Randomized Controlled Trial | Modulation of mood and cognitive performance following acute administration of Melissa officinalis (lemon balm). | Pharmacol Biochem Behav
+- new | 2002 | 12143909 | Clinical Trial/Randomized Controlled Trial | Aromatherapy as a safe and effective treatment for the management of agitation in severe dementia: the results of a double-blind, placebo-controlled trial with Melissa. | J Clin Psychiatry
+- new | 2001 | 11505331 | Clinical Trial/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | [A plant extract and its modified preparation in functional dyspepsia. Results of a double-blind placebo controlled comparative study]. | Z Gastroenterol [ger]
+- new | 1999 | 10411211 | Comparative Study | Medicinal plants and Alzheimer's disease: from ethnobotany to phytotherapy. | J Pharm Pharmacol
+- new | 1999 | 10589440 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Balm mint extract (Lo-701) for topical treatment of recurring herpes labialis. | Phytomedicine
+- new | 1998 | 9884179 | Review | Medicinal plants and Alzheimer's disease: Integrating ethnobotanical and contemporary scientific evidence. | J Altern Complement Med
+- new | 1994 | 23195812 |  | Local therapy of herpes simplex with dried extract from Melissa officinalis. | Phytomedicine
+
+### PubMed SR - 34 hits, 13 not already listed above, 12 new
+- new | 2026 | 42100836 | Review | A comprehensive systematic review of human trials investigating herbal treatments for Alzheimer's disease and dementia. | Acta Neuropsychiatr
+- new | 2025 | 41226670 | Systematic Review | Natural Products in Alzheimer's Disease: A Systematic Review of Clinical Trials and Underlying Molecular Mechanisms. | Int J Mol Sci
+- new | 2024 | 38549676 | Published Erratum | Corrigendum: Phytotherapy for attention deficit hyperactivity disorder (ADHD): a systematic review and meta-analysis. | Front Pharmacol
+- new | 2024 | 38097439 | Meta-Analysis/Systematic Review | Treatment of post-burn pruritus - A systematic review and meta-analysis. | Burns
+- new | 2023 | 37570422 | Scoping Review | Influence of Nutrition on Mental Health: Scoping Review. | Healthcare (Basel)
+- new | 2021 | 33561990 | Systematic Review | Herbal Remedies and Their Possible Effect on the GABAergic System and Sleep. | Nutrients
+- new | 2021 | 33966619 | Systematic Review | Bioactive Compounds Effective Against Type 2 Diabetes Mellitus: A Systematic Review. | Curr Top Med Chem
+- new | 2021 | 34832920 | Review | An Evaluation of the Potential of Essential Oils against SARS-CoV-2 from In Silico Studies through the Systematic Review Using a Chemometric Approach. | Pharmaceuticals (Basel)
+- new | 2020 | 32498276 |  | Effects of Essential Oils on Escherichia coli Inactivation in Cheese as Described by Meta-Regression Modelling. | Foods
+- new | 2018 | 29168225 | Systematic Review | GABA-modulating phytomedicines for anxiety: A systematic review of preclinical and clinical evidence. | Phytother Res
+- new | 2017 | 28355995 |  | New Advances in Infant Feeding: New Products and Novel Technologies. | Recent Pat Food Nutr Agric
+- new | 2016 | 27761420 | Review | A review study on the effect of Iranian herbal medicines against in vitro replication of herpes simplex virus. | Avicenna J Phytomed
+- HELD REF-1201 | 2005 | 16635970 | Systematic Review | Lemon balm (Melissa officinalis L.): an evidence-based systematic review by the Natural Standard Research Collaboration. | J Herb Pharmacother
+
+### PubMed SAFE - 161 hits, 101 not already listed above, 97 new
+- new | 2026 | 41734866 |  | Lemon balm-derived nanovesicles restore mitochondrial function and reduce cytokine production in skin fibroblasts under pro-inflammatory conditions. | Eur J Pharm Sci
+- new | 2026 | 42280309 |  | Hypnotic Effects of Hypericum perforatum L. and Melissa officinalis L. Through Adenosine and Melatonin Receptors. | Nutrients
+- new | 2026 | 41750223 | Review | Medicinal Plants for Major Depressive Disorder. | Brain Sci
+- new | 2026 | 42116251 |  | Rosmarinic acid activates the Nrf2/HO-1 axis and suppresses NF-κB to protect against gentamicin-induced acute kidney injury. | Biomed Pharmacother
+- new | 2026 | 42131807 |  | From cup to cell: phytochemical characterization and safety profiles of some herbal teas in Türkiye. | Front Pharmacol
+- new | 2026 | 42123840 |  | Multi-Target Anti-Psoriatic Effects of Melissa officinalis: Phytochemical, Redox, Immunological, and Histological Evidence from an In Vivo Study. | Molecules
+- new | 2026 | 42884030 |  | Anxiolytic Potential of Selected Essential Oils and Their Impact on Motor Function. | Int J Mol Sci
+- new | 2026 | 42679696 | Case Reports | Therapeutic evaluation of Pāshoya (herbal footbath) in the management of chronic insomnia: A case report. | Explore (NY)
+- new | 2025 | 39333382 | Review | The Use of Natural Products for Preventing Cognitive Decline/Providing Neuroprotection. | Handb Exp Pharmacol
+- new | 2025 | 40686166 | Review | [Research progress on Parkinson's disease treatment with traditional Chinese medicine via regulating Nrf2/HO-1 signaling pathway]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2025 | 41011705 | Review | The Efficacy of Melatonergic Receptor Agonists Used in Clinical Practice in Insomnia Treatment: Melatonin, Tasimelteon, Ramelteon, Agomelatine, and Selected Herbs. | Molecules
+- new | 2025 | 40294906 | Research Support, Non-U.S. Gov't | Melissa officinalis Attenuates Diclofenac-Induced Hepatorenal Toxicity via AMPK/SIRT1 and STAT3/Nrf2 Pathways. | J Appl Toxicol
+- new | 2025 | 40470741 |  | Protective Effect of Melissa officinalis (Lemon Balm) Extract on Cytokine Levels and Oxidative Stress in Ovalbumin Induced Lung Toxicity in Rats. | Basic Clin Pharmacol Toxicol
+- new | 2025 | 41584153 |  | Self-administered complementary and alternative methods of treating mental disorders among students in Wrocław: a cross-sectional study. | Front Public Health
+- new | 2025 | 40149616 |  | Synergistic Effects of Green Nanoparticles on Antitumor Drug Efficacy in Hepatocellular Cancer. | Biomedicines
+- new | 2025 | 41174143 |  | Melissa officinalis essential oil modulates oxidative balance, cholinergic activity, and cognitive performance in a scopolamine-induced zebrafish model: implications for neuroprote | Sci Rep
+- new | 2025 | 40241939 |  | Anti-cariogenic potential and pharmacokinetics of Licorice and Xylitol infused chewing gum. | J Oral Biol Craniofac Res
+- new | 2025 | 40933503 |  | Protective effects of Melissa officinalis against Chlorpyrifos-induced hepatotoxicity in rat: a dose-dependent evaluation of biochemical, histological, and oxidative stress markers | Toxicol Res (Camb)
+- new | 2025 | 41373965 | Review | Medicinal Plants in Food Supplements for Gastrointestinal Disorders: Critical Assessment of Health Claims on Gastric Acid Regulation. | Nutrients
+- new | 2024 | 38461950 |  | Toxicological safety evaluation of an aqueous lemon balm (Melissa officinalis) extract. | Food Chem Toxicol
+- new | 2024 | 38769992 |  | Designing an effective dissolution test for bilayer tablets tailored for optimal melatonin release in sleep disorder management. | Front Nutr
+- new | 2024 | 38468007 |  | Co-application of titanium nanoparticles and melatonin effectively lowered chromium toxicity in lemon balm (Melissa officinalis L.) through modifying biochemical characteristics. | Environ Sci Pollut Res Int
+- new | 2024 | 39236697 | Case Reports/Review | Successful Maintenance Treatment of a Patient with Resistant Hyperthyroidism with Traditional Persian Medicine Recommendations: A Case Report and Literature Review. | Complement Med Res
+- new | 2023 | 36902200 | Review | Depression and Its Phytopharmacotherapy-A Narrative Review. | Int J Mol Sci
+- new | 2023 | 37733962 | Case Reports | Transient Complete Atrioventricular Block Associated With Herbal Supplement Use. | S D Med
+- new | 2023 | 37101730 | Review | A Comprehensive Review of Herbal Supplements Used for Persistent Symptoms Attributed to Lyme Disease. | Integr Med (Encinitas)
+- new | 2023 | 37261298 | Review | Anti-inflammatory and memory-enhancing properties of Chinese herbal extracts: The possible application in Alzheimer's disease. | Tzu Chi Med J
+- new | 2023 | 36866556 |  | Anti-Candida and Antibiofilm Activity of Selected Lamiaceae Essential Oils. | Front Biosci (Landmark Ed)
+- new | 2023 | 35607255 |  | Melissa officinalis L. nanoethosomal formulation: evaluation of antioxidant, enzyme inhibitory activities and in vitro toxicity. | Int J Environ Health Res
+- new | 2023 | 38092949 |  | Effect of Melissa officinalis L. leaf extract on manganese-induced cyto-genotoxicity on Allium cepa L. | Sci Rep
+- new | 2023 | 36903258 |  | Toxicity and Physiological Effects of Nine Lamiaceae Essential Oils and Their Major Compounds on Reticulitermes dabieshanensis. | Molecules
+- new | 2023 | 38293873 | Observational Study | [Use of medicinal plants among older people attending a public primary care center]. | Rev Med Chil [spa]
+- new | 2023 | 35550004 | Review/Case Reports | Self-treatment attempt of tobacco use disorder with Melissa officinalis: a case report and brief review of literature. | J Addict Dis
+- new | 2023 | 36469234 |  | Melissa Officinalis L. aqueous extract pretreatment decreases methotrexate-induced hepatotoxicity at lower dose and increases (99m)Tc-phytate liver uptake, as a probe of liver toxi | Ann Nucl Med
+- new | 2023 | 37958959 | Case Reports | Toxicity Derived from Interaction between Natural Compounds and Cancer Therapeutic Drugs Metabolized by CYP3A4: Lessons Learned from Two Clinical Case Reports. | Int J Mol Sci
+- new | 2023 | 37511910 |  | Comparative Studies on the Anti-Inflammatory and Apoptotic Activities of Four Greek Essential Oils: Involvement in the Regulation of NF-κΒ and Steroid Receptor Signaling. | Life (Basel)
+- new | 2023 | 38001841 |  | Multistep Approach Points to Compounds Responsible for the Biological Activity and Safety of Hydrolates from Nine Lamiaceae Medicinal Plants on Human Skin Fibroblasts. | Antioxidants (Basel)
+- new | 2022 | 36144755 | Review | Medicinal Plants Used for Anxiety, Depression, or Stress Treatment: An Update. | Molecules
+- HELD REF-1199 | 2022 | 35730441 | Review | An Updated Review on The Properties of Melissa officinalis L.: Not Exclusively Anti-anxiety. | Front Biosci (Schol Ed)
+- new | 2022 | 36612355 | Research Support, Non-U.S. Gov't | Higher Risk for Sensitization to Commonly Consumed Herbs among Adults and Youngsters Suffering from Birch, Mugwort or Grass Pollinosis. | Int J Environ Res Public Health
+- new | 2021 | 34315377 | Review | The Safety and Efficacy of Botanicals with Nootropic Effects. | Curr Neuropharmacol
+- new | 2021 | 32882361 | Review | Potential anti-influenza effective plants used in Turkish folk medicine: A review. | J Ethnopharmacol
+- new | 2021 | 34335913 | Review | Experimental research in topical psoriasis therapy (Review). | Exp Ther Med
+- new | 2021 | 33097381 |  | Target specific post-harvest treatment by gamma radiation for the microbial safety of dried Melissa officinalis and Aloysia citrodora. | Appl Radiat Isot
+- new | 2021 | 34745366 |  | Safety of a feed additive consisting of a dried aqueous ethanol extract from the leaves of Melissa officinalis L. for all animal species (Nor-Feed SAS). | EFSA J
+- new | 2021 | 33953850 | Review | Alzheimer's disease treatment: The share of herbal medicines. | Iran J Basic Med Sci
+- new | 2021 | 33861446 | Review | Use of Plant-Derived Natural Products in Sleep Disturbances. | Adv Exp Med Biol
+- new | 2021 | 34385864 |  | The protective role of melatonin under heavy metal-induced stress in Melissa Officinalis L. | Turk J Chem
+- new | 2021 | 34598697 |  | Potential antiviral effects of some native Iranian medicinal plants extracts and fractions against influenza A virus. | BMC Complement Med Ther
+- new | 2021 | 34834669 |  | A Study of Phytochemistry, Genoprotective Activity, and Antitumor Effects of Extracts of the Selected Lamiaceae Species. | Plants (Basel)
+- new | 2020 | 31482971 |  | Ethnodirigid study of Medicinal plants used by the population assisted by the "Programa de Saúde da Família" (Family Health Program) in Marechal Deodoro - AL, Brazil. | Braz J Biol
+- new | 2020 | 32331258 |  | Lemon Balm and Its Constituent, Rosmarinic Acid, Alleviate Liver Damage in an Animal Model of Nonalcoholic Steatohepatitis. | Nutrients
+- new | 2020 | 32695007 | Review | Essential Oil-Bearing Plants From Balkan Peninsula: Promising Sources for New Drug Candidates for the Prevention and Treatment of Diabetes Mellitus and Dyslipidemia. | Front Pharmacol
+- new | 2020 | 32874225 |  | Safety and efficacy of a dried aqueous ethanol extract of Melissa officinalis L. leaves when used as a sensory additive for all animal species. | EFSA J
+- new | 2020 | 32069976 |  | Antimicrobial Activity of Essential Oils against Staphylococcus and Malassezia Strains Isolated from Canine Dermatitis. | Microorganisms
+- new | 2020 | 32497278 | Research Support, Non-U.S. Gov't | Lemon balm and dandelion leaf extract synergistically alleviate ethanol-induced hepatotoxicity by enhancing antioxidant and anti-inflammatory activity. | J Food Biochem
+- new | 2020 | 33371338 | Review | Antioxidant, Antimicrobial and Antiviral Properties of Herbal Materials. | Antioxidants (Basel)
+- new | 2020 | 30979692 |  | Metabolomics and proteomics profiles of some medicinal plants and correlation with BDNF activity. | Phytomedicine
+- new | 2020 | 32560413 |  | Novel Therapeutic Approach for the Management of Mood Disorders: In Vivo and In Vitro Effect of a Combination of L-Theanine, Melissa officinalis L. and Magnolia officinalis Rehder  | Nutrients
+- new | 2019 | 31401333 |  | Physiological and molecular mechanisms underlying salicylic acid-mitigated mercury toxicity in lemon balm (Melissa officinalis L.). | Ecotoxicol Environ Saf
+- new | 2019 | 31473339 |  | Toxic essential oils, part VI: Acute oral toxicity of lemon balm (Melissa officinalis L.) essential oil in BALB/c mice. | Food Chem Toxicol
+- new | 2019 | 31834888 | Research Support, Non-U.S. Gov't | Assessing insomnia management in community pharmacy setting in Jordan: A simulated patient approach. | PLoS One
+- new | 2019 | 31326154 |  | Synergy quantifications to identify individual contributions of combination partners to the overall activity - The example of STW 5. | Phytomedicine
+- new | 2019 | 31469370 |  | Challenges of traditional herbal teas: plant infusions and their mixtures with bioactive properties. | Food Funct
+- new | 2019 | 31206248 | Research Support, Non-U.S. Gov't | A Two-Week Treatment with Plant Extracts Changes Gut Microbiota, Caecum Metabolome, and Markers of Lipid Metabolism in ob/ob Mice. | Mol Nutr Food Res
+- new | 2018 | 29556124 |  | An epidemiological study on herbal product self-medication practice among psychotic outpatients from Serbia: A cross-sectional study. | Saudi Pharm J
+- new | 2018 | 29412929 |  | Suitability of lemon balm (Melissa officinalis L.) extract rich in rosmarinic acid as a potential enhancer of functional properties in cupcakes. | Food Chem
+- new | 2018 | 29258916 | Research Support, Non-U.S. Gov't/Review | Potential of selected Lamiaceae plants in anti(retro)viral therapy. | Pharmacol Res
+- new | 2018 | 29668446 |  | Antidepressant Effect and Recognition Memory Improvement of Two Novel Plant Extract Combinations - Antistress I and Anti-stress II on Rats Subjected to a Model of Mild Chronic Stre | Folia Med (Plovdiv)
+- new | 2018 | 30223811 |  | Identification of antitumoral agents against human pancreatic cancer cells from Asteraceae and Lamiaceae plant extracts. | BMC Complement Altern Med
+- new | 2017 | 29403626 | Review | A review of effective herbal medicines in controlling menopausal symptoms. | Electron Physician
+- new | 2017 | 28571771 |  | The lemon balm extract ALS-L1023 inhibits obesity and nonalcoholic fatty liver disease in female ovariectomized mice. | Food Chem Toxicol
+- new | 2017 | 28143625 | Review | Potential benefits of phytochemicals against Alzheimer's disease. | Proc Nutr Soc
+- new | 2017 | 28369977 |  | Biogenic Amine Formation and Microbiological Quality of Anchovy (Engraulis encrasicolus) Treated with Lavender and Lemon Balm Ethanol Extracts. | J Food Sci
+- new | 2017 | 28914254 | Case Reports | Homeopathic therapy for sleep bruxism in a child: Findings of a 2-year case report. | J Indian Soc Pedod Prev Dent
+- HELD REF-1198 | 2016 | 27167460 | Review | Melissa officinalis L. - A review of its traditional uses, phytochemistry and pharmacology. | J Ethnopharmacol
+- new | 2016 | 26948409 | Multicenter Study | Adverse Effects of Plant Food Supplements and Plants Consumed as Food: Results from the Poisons Centres-Based PlantLIBRA Study. | Phytother Res
+- new | 2016 | 27309410 | Case Reports | External Nursing Applications in the Supportive Management of Prolonged Postoperative Ileus: Description of Interventions and Case Report. | Holist Nurs Pract
+- new | 2016 | 27825341 |  | Essential oils: in vitro activity against Leishmania amazonensis, cytotoxicity and chemical composition. | BMC Complement Altern Med
+- new | 2016 | 28124962 |  | [Investigation of the in vitro effects of Melissa officinalis L., Mentha x piperita L. and Ocimum basilicum L. (Lamiaceae) essential oils on the cysts and trophozoites of Acanthamo | Mikrobiyol Bul [tur]
+- new | 2015 | 26055130 |  | Detection of pyrrolizidine alkaloids in German licensed herbal medicinal teas. | Phytomedicine
+- new | 2015 | 25818661 | Research Support, Non-U.S. Gov't/Review | A Review Study on the Effect of Iranian Herbal Medicines on Opioid Withdrawal Syndrome. | J Evid Based Complementary Altern Med
+- HELD REF-5359 | 2015 | 26325431 | Observational Study | "Natural" relief of pregnancy-related symptoms and neonatal outcomes: above all do no harm. | J Ethnopharmacol
+- new | 2015 | 26408043 | Research Support, Non-U.S. Gov't | A medicinal herb, Melissa officinalis L. ameliorates depressive-like behavior of rats in the forced swimming test via regulating the serotonergic neurotransmitter. | J Ethnopharmacol
+- new | 2015 | 26281312 | Research Support, Non-U.S. Gov't | Toxic potentials of ten herbs commonly used for aphrodisiac effect in Turkey. | Turk J Med Sci
+- new | 2015 | 25870482 | Case Reports | Does melissa officinalis cause withdrawal or dependence? | Med Arch
+- new | 2014 | 24665712 | Evaluation Study/Research Support, Non-U.S. Gov't | Fumigant toxicity of summer savory and lemon balm oil constituents and efficacy of spray formulations containing the oils to B- and neonicotinoid-resistant Q-biotypes of Bemisia ta | J Econ Entomol
+- new | 2013 | 23472485 | Research Support, Non-U.S. Gov't/Review | Adverse effects of herbal medicines: an overview of systematic reviews. | Clin Med (Lond)
+- new | 2013 | 24250617 |  | Comparison of Neuroprotective Effects of Melissa officinalis Total Extract and Its Acidic and Non-Acidic Fractions against A β-Induced Toxicity. | Iran J Pharm Res
+- new | 2012 | 38381912 | Review | Lemon Balm. | 
+- new | 2012 | 22579431 | Research Support, Non-U.S. Gov't | Prevalence and use of herbal products in the Czech Republic: over-the-counter survey among adult pharmacies clients. | Complement Ther Med
+- new | 2011 | 21734832 |  | Evaluation of the genotoxic and antigenotoxic potential of Melissa officinalis in mice. | Genet Mol Biol
+- new | 2008 | 18378032 | Research Support, Non-U.S. Gov't | The antimicrobial efficacy of plant essential oil combinations and interactions with food ingredients. | Int J Food Microbiol
+- new | 2006 | 16813459 | Review | Natural remedies for Herpes simplex. | Altern Med Rev
+- new | 2006 | 17168769 |  | The psychopharmacology of European herbs with cognition-enhancing properties. | Curr Pharm Des
+- new | 2005 | 16026713 | Research Support, Non-U.S. Gov't | Neurobehavioral and genotoxic aspects of rosmarinic acid. | Pharmacol Res
+- HELD REF-2460 | 2004 | 15165499 | Review | Safety and efficacy of herbal sedatives in cancer care. | Integr Cancer Ther
+- new | 2004 | 15229712 | Review | [Antioxidants and oxidative stress]. | Tidsskr Nor Laegeforen [nor]
+- new | 2000 | 12531167 |  | Efficacy and safety of herbal stimulants and sedatives in sleep disorders. | Sleep Med Rev
+- new | 1996 | 8771452 |  | Screening of medicinal plants for induction of somatic segregation activity in Aspergillus nidulans. | J Ethnopharmacol
+- new | 1988 | 3198307 |  | Rosmarinic acid: a new inhibitor of complement C3-convertase with anti-inflammatory activity. | Int J Immunopharmacol
+
+### PubMed OBS - 18 hits, 5 not already listed above, 5 new
+- new | 2026 | 42588845 |  | Melissa officinalis Mitigates Psoriasis-Associated Cardiac Remodeling Through Antioxidant and Anti-Inflammatory Mechanisms. | Plants (Basel)
+- new | 2026 | 42448731 |  | Prevalence and patterns of use of dietary supplements and OTC medications for mood improvement and stress relief among adults in Poland. | Sci Rep
+- new | 2023 | 37783716 | Research Support, Non-U.S. Gov't | Use of medicinal plants during COVID-19 pandemic in Brazil. | Sci Rep
+- new | 2019 | 31780029 |  | Herbal supplement products used by mothers to cope with the common health problems in childhood. | Complement Ther Med
+- new | 2017 | 28793084 | Observational Study | [Use of medicinal plants as home remedies in Primary Health Care in Blumenau - State of Santa Catarina, Brazil]. | Cien Saude Colet [por]
+
+### PubMed REV - 101 hits, 12 not already listed above, 10 new
+- new | 2025 | 41007011 | Review | Medicinal Plants for Child Mental Health: Clinical Insights, Active Compounds, and Perspectives for Rational Use. | Children (Basel)
+- HELD REF-1200 | 2023 | 37376614 | Review | A Narrative Review of Alternative Symptomatic Treatments for Herpes Simplex Virus. | Viruses
+- new | 2023 | 36641978 | Review | Phytotherapy of mood disorders in the light of microbiota-gut-brain axis. | Phytomedicine
+- HELD REF-1196 | 2022 | 35408950 | Review | Melissa officinalis: Composition, Pharmacological Effects and Derived Release Systems-A Review. | Int J Mol Sci
+- new | 2022 | 35620220 | Review | Anaesthesia of decapod crustaceans. | Vet Anim Sci
+- new | 2022 | 36048322 | Review | Nip it in the Bud: Botanicals for Anxiety - a Practical Prescriber's Guide. | Curr Psychiatry Rep
+- new | 2021 | 33789361 | Review | Medical aromatherapy in geriatric syndrome. | Geriatr Gerontol Int
+- new | 2021 | 33475068 | Review | Nutraceuticals for Sleep Disorders. | Comb Chem High Throughput Screen
+- new | 2020 | 33020443 | Review | Regulation of Obesity by Antiangiogenic Herbal Medicines. | Molecules
+- new | 2017 | 29211364 | Review | Insights into novel anticancer applications for apigenin. | Adv Clin Exp Med
+- new | 2006 | 30000887 | Review | Barley. | 
+- new | 2006 | 30000901 | Review | Lemon Balm. | 
+
+### ClinicalTrials.gov - 25 registered studies
+- NCT06214637 | UNKNOWN | results=False | PHASE1 | Effectiveness of Melissa Officinalis for the Treatment of Probable Sleep Bruxism in Children and Adolescents | conds: Sleep Bruxism, Adolescent, Children, Temporomandibular Joint Disorders | intr: Melissa, Placebo
+- NCT07198243 | NOT_YET_RECRUITING | results=False | PHASE4 | The Effects of STW 5-II on Duodenal Mucosa and Symptoms in Functional Dyspepsia | conds: Functional Dyspepsia | intr: STW 5-II, Placebo
+- NCT07592130 | NOT_YET_RECRUITING | results=False | PHASE2 | Melissa Officinalis Aromatherapy for Dental Anxiety in Children | conds: Emotional Anxiety and Stress During Pediatric Dental Treatment, Dental Anesthesia | intr: Aromatherapy with Melissa officinalis essential oil - Brand A, Aromatherapy with Melissa officinalis
+- NCT02708238 | COMPLETED | results=True | PHASE4 | Efficacy of Matricariae Chamomilla L., Melissa Officinalis L. and Tyndallized Lactobacillus Acidophilus (H122) for Infantile Colics | conds: Infantile Colics | intr: Standardized extract of Chamomilla L., Melissa Officinalis L. and tyndallized L. Acidophilus (H122), | pubs: ['28665038:DERIVED (new)']
+- NCT01181284 | COMPLETED | results=False |  | Modulating Effects of Lisinopril on Sildenafil Activity in Pulmonary Arterial Hypertension(PAH)( MELISSA) | conds: Pulmonary Arterial Hypertension | intr: 
+- NCT06755489 | COMPLETED | results=False | NA | Quality of Life in Diarrhea-predominant Irritable Bowel Syndrome Taking GABA | conds: Diarrhoea Predominant Irritable Bowel Syndrome | intr: Placebo, GABA
+- NCT03685279 | COMPLETED | results=False | NA | Efficacy of the Nurtured Heart Approach to Reduce ADHD Behaviors in Children | conds: Attention Deficit Hyperactivity Disorder | intr: Nurtured Heart Approach
+- NCT06183372 | COMPLETED | results=False | NA | Enhancement of Calmness and Mood Following Acute Lemon Balm Supplementation During Cognitive Demand in Adults | conds: Stress, Mood Disturbance | intr: Lemon balm, Placebo | pubs: ['41782777:DERIVED (new)']
+- NCT07828548 | NOT_YET_RECRUITING | results=False | NA | Effect of the Ansileve Supplement on the Well-being of Parents of Children Who Have Experienced a Medical Emergency: A Randomized Controlled | conds: Parenting Anxiety, Child Hospitalization, Psychological Well-being | intr: Ansileve SOS Spray, Ansileve
+- NCT05459272 | UNKNOWN | results=False | NA | Clinical Trial on a Food Supplement With Melatonin and Herbal Products to Improve Sleep Quality | conds: Sleep Disorders | intr: Aquilea Sueno Forte, Placebo
+- NCT05422599 | COMPLETED | results=False | NA | Enhancement of Sleep Quality and Mood Following Supplementation With Lemon Balm in an Adult Population (Lemslp) | conds: Sleep Disturbance, Mood Disturbance | intr: Lemon balm, Placebo | pubs: ['20171069:RESULT (new)', '22207903:RESULT (new)', '22294820:RESULT (new)', '32557672:RESULT (new)', '2748771:RESULT (new)']
+- NCT05602688 | COMPLETED | results=False | NA | Melissa Officinalis L. Supplementation for Emotional Health and Sleep Disturbance | conds: Depression, Anxiety, Stress, Insomnia | intr: Lemon Balm Supplement, Matched Placebo | pubs: ['22207903:RESULT (new)', '37927585:DERIVED (new)']
+- NCT05841173 | UNKNOWN | results=False | NA | Effects of Weight Loss Management on Cognitive Function in Elderly Women With Obesity | conds: Obesity, Cognitive Change | intr: "PanTrek", Physical Trainings, Placebo, Diet
+- NCT03382067 | COMPLETED | results=False | NA | Influence of Chocolate With Plant Additives on Episodic Memory in Healthy Subjects Experiencing Test Anxiety | conds: Test Anxiety | intr: High Epicatechin/ Melissa, Low Epicatechin/ Oat bran
+- NCT06949592 | COMPLETED | results=False | NA | Oral Bioavailability of the Phenolic Compounds in a Melissa Supplement | conds: Nutrition, Healthy | intr: Placebo, M_ML, M_ML
+- NCT05748574 | COMPLETED | results=False | NA | Sleep Well Observation Study | conds: Sleep Disturbance | intr: Sleep Well Sachet
+- NCT03725501 | COMPLETED | results=False | PHASE2 | Evaluation of the Safety and Efficacy of ALS-L1023 Administered in Combination With Ranibizumab in Patients With Wet-AMD | conds: Age-Related Macular Degeneration | intr: ALS-L1023, Ranibizumab, Placebo
+- NCT06864520 | RECRUITING | results=False | NA | Evaluation of the Beneficial Effects of a Product Containing Γ-aminobutyric Acid (GABA) on Climacteric Syndrome Disorders | conds: Climacteric Symptoms, Hot Flashes | intr: GAMMA-AMINOBUTYRIC ACID - GABA, Placebo
+- NCT06942897 | NOT_YET_RECRUITING | results=False | NA | Evaluation of a Dietary Supplement Containing Melissa Officinalis Formulated in Phospholipids on Mood Well-being and Cortisol Modulation | conds: Stress, Mood Disorders, Emotional Well-being | intr: Melissa officinalis supplement
+- NCT03817060 | UNKNOWN | results=False | NA | CuMulativE Live bIrth Rate of Patients at High Risk of OHSS After Freeze-all Embryos at Cleavage or blAstocyst Stage | conds: Infertility | intr: cryopreservation of embryos at cleavage stage, cryopreservation of embryos at blastocyst stage
+- NCT07475299 | NOT_YET_RECRUITING | results=False | NA | Synbiotic Supplement With Botanical Extracts for Gut Microbiota Balance in Irritable Bowel Syndrome | conds: Irritable Bowel Syndrome (IBS) | intr: Synbiotic supplement containing probiotic strains, botanical extracts, magnesium, vitamin B1, and L-
+- NCT03581929 | COMPLETED | results=False | NA | Efficacy of MEMORMAX in Subjects With MCI | conds: Mild Cognitive Impairment | intr: Memormax, Placebo
+- NCT05950932 | UNKNOWN | results=False | PHASE4 | Effects of Melissa Extract on Sleep Characteristics | conds: Sleep Disorder, Anxiety, Quality of Life | intr: Melissa phytosome, Placebo
+- NCT03542721 | UNKNOWN | results=False | PHASE4 | Effect of DA-5515 (Circulan® Soft Cap.) in Patients With Chronic Fatigue Symptoms Due to Impaired Blood Circulation | conds: Fatigue Symptom | intr: DA-5515, Placebo of DA-5515
+- NCT02870543 | UNKNOWN | results=False | PHASE3 | Efficacy of Phytolacca Decandra and Melissa Officinalis in Children With Nocturnal Bruxism | conds: Nocturnal Bruxism | intr: Phytolacca decandra, Melissa officinalis, Phyt.decandra + Melissa offic.
+
+### OpenAlex no-PMID trial-worded - 2498 hits, 32 without PMID, 32 new
+- new | 2026 | 10.1163/17552559-bja10108 | article | Selective effects of Melissa officinalis L. supplementation on antioxidant enzymes in soccer players: a randomised controlled trial | Comparative Exercise Physiology
+- new | 2025 | 10.18502/tim.v10i1.18218 | article | The Anxiolytic Effects of Melissa officinalis L. on Patients Awaiting Surgery: A Randomized Double-Blind Placebo-Controlled Clinical Trial | Traditional and Integrative Medicine
+- new | 2025 | 10.34172/jsums.931 | article | Evaluation of the Effect of Melissa officinalis L. on Cognitive Impairments in major Depressive Disorder Patients Treated with Electroshock Therapy: A Randomized Clinical Trial | Journal of Shahrekord University of Medi
+- new | 2025 | 10.5281/zenodo.17839659 | other | NeuroStress Complex (TrueMedicalCare, Romania) for generalized anxiety symptoms: a randomized, double-blind, placebo-controlled trial | Zenodo (CERN European Organization for N
+- new | 2024 | 10.1016/j.aimed.2024.12.006 | article | Efficacy of Melissa officinalis, Pimpinella anisum, and Rosa damascena formula in irritable bowel syndrome: A double-blind, randomized trial | Advances in Integrative Medicine
+- new | 2024 | 10.1016/j.aimed.2024.12.005 | article | Efficacy of Melissa officinalis plus mediterranean diet in patients with moderate rheumatoid arthritis: A pilot clinical trial study protocol | Advances in Integrative Medicine
+- new | 2024 | 10.1016/j.hermed.2024.100946 | article | Double-Blind, Randomised, Placebo-Controlled Study Evaluating the Efficacy of an Early Treatment Using Herbal Supplement in the Prevention of Post-traumatic Stress Disorder in the  | Journal of Herbal Medicine
+- new | 2024 | 10.2174/0118749445280519240110075936 | article | The Effect of Inhalation Aromatherapy with Lemon Balm (Melissa officinalis) Essential Oil on Sleep Quality in Mothers of Preterm Infants in the Neonatal Intensive Care Unit (A Rand | The Open Public Health Journal
+- new | 2024 | 10.34172/ijdrc.2024.e21 | article | Effect of Saffron and Melissa officinalis L. Supplementation on Glycemic Parameters and Lipid Profile in Patients with Type 2 Diabetes Mellitus: A Double-Blind Clinical Trial | International Journal of Drug Research i
+- new | 2022 | 10.6084/m9.figshare.19962234 | dataset | The Effectiveness of Melissa Officinalis L. versus Citalopram on Quality of Life of Menopausal Women with Sleep Disorder: A Randomized Double-Blind Clinical Trial | Figshare
+- new | 2021 | 10.21203/rs.3.rs-322268/v1 | preprint | The Effect of Melissa Officinalis Syrup on Patients With Mild to Moderate Psoriasis: a Randomized, Double-blind Placebo-controlled Clinical Trial | Research Square
+- new | 2021 | 10.12691/jfnr-9-7-5 | article | Effects of Melissa officinalis L. (Lemon Balm) Extract Supplementation on Cardiovascular Risk Factors: A Pooled Analysis of Randomized Controlled Trials | Journal of Food and Nutrition Research
+- new | 2020 | 10.21203/rs.3.rs-68416/v1 | preprint | The Efficacy of Aromatherapy With Lemon Balm (Melissa Officinalis L.) on Sleep Quality in Cardiac Patients: A Randomized Controlled Trial | Research Square
+- new | 2020 | 10.5812/jjnpp.89925 | article | Effects of a Combination of Foeniculum vulgare, Melissa officinalis Extract, and Nigella saliva Powder on Healthy Menopausal Women with Sexual Dysfunction: A Randomized Clinical Tr | Jundishapur Journal of Natural Pharmaceu
+- new | 2020 | 10.22541/au.160288198.88055969/v1 | preprint | The effect of probiotics on quality of life in women with primary dysmenorrhoea: a randomized, double-blind, placebo-controlled trial | Authorea
+- new | 2019 | 10.1016/j.eujim.2019.01.010 | article | Effects of Melissa officinalis on anxiety and sleep quality in patients undergoing coronary artery bypass surgery: A double-blind randomized placebo controlled trial | European Journal of Integrative Medicine
+- new | 2019 | https://openalex.org/W3183049547 | article | The Efficacy of Aromatherapy With Melissa officinalis in Reducing Anxiety in Cardiac Patients: A Randomized Clinical Trial | Crescent Journal of Medical and Biologic
+- new | 2018 | 10.5812/ircmj.59183 | article | Efficacy of Black Seed (Nigella sativa) and Lemon Balm (Melissa officinalis) on Non-Alcoholic Fatty Liver Disease: A Randomized Controlled Clinical Trial | Iranian Red Crescent Medical Journal
+- new | 2017 | https://openalex.org/W2779289453 | article | Melissa officinalis effect on female sexual dysfunction: a double blind, randomized clinical trial | Research journal of pharmacognosy
+- new | 2017 | 10.1080/2331205x.2017.1380871 | article | Subjective assessment of the effects of an herbal supplement containing lavender essential oil on sleep quality: A randomized, double-blind, placebo-controlled crossover study | Cogent Medicine
+- new | 2016 | https://openalex.org/W2785703431 | article | The effect of mefenamic acid and melissa officinalis on primary dysmenorrhea: A randomized clinical trial study | 
+- new | 2016 | 10.17650/2222-8721-2016-6-2-41-46 | article | Comparative randomized open-label trial on efficacy and safety of Persen® and Persen® Night herbal extracts in patients with short-term insomnia | Neuromuscular Diseases
+- new | 2016 | 10.1016/j.hermed.2016.07.001 | article | The efficacy of lemon balm (Melissa officinalis L.) alone and combined with lemon balm—Nepeta menthoides on premenstrual syndrome and quality of life among students: A randomized c | Journal of Herbal Medicine
+- new | 2016 | 10.5812/ircmj.28941 | article | The Effects of Lemon balm (Melissa officinalis L.) Alone and in Combination With Nepeta menthoides on the Menstrual Bleeding in Students With Premenstrual Syndrome: A Randomized Co | Iranian Red Crescent Medical Journal
+- new | 2015 | https://openalex.org/W2559357529 | dissertation | The Effects of Melissa officinalis Leaf Powder on Lipid Profile in Patients with Hyperlipidemia:A Randomized Double‐Blind Placebo‐Controlled Clinical Trial | 
+- new | 2015 | 10.1016/s0924-9338(15)31376-6 | conference-abstract | Effect of Valerian and Lemon Balm Combined Capsules, On Postmenopausal Sleep Disorder, a Triple Blind Randomized Placebo Control Clinical Trial | European Psychiatry
+- new | 2015 | 10.17795/jjnpp-26160 | article | Therapeutic Effect of Melissa Gel and 5% Acyclovir Cream in Recurrent Herpes labialis: A Double-Blind Randomized Clinical Trial | Jundishapur Journal of Natural Pharmaceu
+- new | 2014 | 10.1016/s0924-9338(14)77615-1 | conference-abstract | Menopausal sleep disorder and use of lemon balm: a triple blind randomized control trial | European Psychiatry
+- new | 2009 | 10.1016/j.eujim.2009.08.138 | article | Fixed herbal drug combination with and without butterbur (Ze 185) for the treatment of patients with somatoform disorders: Randomized, placebo-controlled pharmaco-clinical trial | European Journal of Integrative Medicine
+- new | 2008 | 10.1055/s-0028-1084213 | article | A randomized double-blind placebo controlled clinical trial of topical herbal drug against recurrent Herpes Simplex | Planta Medica
+- new | 2002 | https://openalex.org/W2261823579 | article | Melissa officinalis L. extract in the treatment of patients with mild to moderate Alzheimer’s disease: a double blind, randomized and placebo-controlled trial | Journal of Medicinal Plants
+- new | 1999 | 10.1016/s0367-326x(99)00018-0 | article | Tolerability and efficacy of valerian/lemon balm in healthy volunteers (a double-blind, placebo-controlled, multicentre study) | Fitoterapia
+
+## mentha-piperita (Mentha × piperita) - name clause: "Mentha piperita"[tiab] OR "Mentha x piperita"[tiab] OR "peppermint"[tiab]
+
+### PubMed HT - 390 hits, 200 not already listed above, 187 new
+- new | 2026 | 42535192 | Review | Functional dyspepsia redefined: evidence supporting inflammatory dyspepsia - a systematic review. | Gastroenterol Hepatol Bed Bench
+- new | 2026 | 42024666 | Randomized Controlled Trial | Effects of peppermint (Mentha x piperita L.) oil on cardiometabolic outcomes in patients with pre- and stage 1 hypertension: A placebo randomized controlled trial. | PLoS One
+- new | 2026 | 41636367 | Review | Natural Treatments for Oral Disorders in Palliative Care: A Systematic Review. | J Palliat Med
+- new | 2026 | 41919839 |  | Essential oils in the seed quality of Myracrodruon urundeuva Fr. Allemão. | Braz J Biol
+- new | 2026 | 42011111 | Randomized Controlled Trial | Effects of inhaled aromatherapy on sleep quality and cognitive function in older adults: a randomised controlled trial. | J Gerontol A Biol Sci Med Sci
+- new | 2026 | 41710322 |  | Repellent and Insecticidal Efficacy of Four Water-Soluble Formulations of Essential Oils Against Aedes aegypti. | J Trop Med
+- new | 2026 | 42558241 | Review | Peppermint oil in menstrual disorders and menopausal symptoms: a research progress review. | Front Endocrinol (Lausanne)
+- new | 2026 | 41936486 | Review | Dietary and nutraceutical interventions for functional dyspepsia: A narrative review. | Dig Liver Dis
+- HELD REF-3669 | 2026 | 41544308 | Randomized Controlled Trial | Effect of inhaled peppermint essential oil aromatherapy on postoperative nausea and vomiting in patients undergoing laparoscopic gynecologic surgery. | Explore (NY)
+- new | 2026 | 42572206 | Systematic Review/Meta-Analysis | Systematic Review and Meta-Analysis: Plant-Based Therapy for Irritable Bowel Syndrome. | Phytother Res
+- new | 2026 | 41551898 |  | A double-blind, placebo-controlled investigation of the acute effects of Essence ring aromatherapy on sleep using actigraphy. | Sleep Biol Rhythms
+- new | 2026 | 41812712 | Randomized Controlled Trial/Comparative Study | 2% Lidocaine Spray vs. 2% Lidocaine Viscous for Head and Neck Cancer with Chemoradiation Mucositis. | J Pain Symptom Manage
+- new | 2026 | 42649342 |  | Clinical Outcomes in Chronic Limb-Threatening Ischemia Patients Undergoing Femoropopliteal Endovascular Treatment Using IN.PACT versus Ranger: Results of the PEPPERMINT Study. | Cardiovasc Intervent Radiol
+- new | 2026 | 42137844 |  | Chronic tonsillitis and its potential alternative treatment: Exploration of the antibacterial activity of ethanolic Mentha piperita leaf extract against bacterial isolates from pat | Narra J
+- new | 2026 | 42576255 |  | Perception of Long-Term Changes in Smile Aesthetics Following Dental Bleaching: A Randomized Controlled Trial. | Int J Dent Hyg
+- new | 2026 | 42829303 | Review | Aromatherapy for Anxiety and Pain in Radiologic and Interventional Procedures a Scoping Review. | Pain Manag Nurs
+- new | 2025 | 41096612 | Review | Natural Remedies for Irritable Bowel Syndrome: A Comprehensive Review of Herbal-Based Therapies. | Int J Mol Sci
+- new | 2025 | 40082070 | Randomized Controlled Trial/Clinical Trial, Phase II/Clinical Trial, Phase I/Research Support, Non-U.S. Gov't | A Pilot Randomized Placebo-Controlled Crossover Trial of Medicinal Cannabis in Adolescents with Tourette Syndrome. | Cannabis Cannabinoid Res
+- new | 2025 | 41192533 | Meta-Analysis/Systematic Review | Effectiveness of aromatherapy on physiological and psychological symptoms during pregnancy: a systematic review and meta-analysis. | Complement Ther Med
+- new | 2025 | 41243470 | Review | Treatment of pediatric abdominal pain: what is the evidence? | Expert Rev Gastroenterol Hepatol
+- new | 2025 | 40390282 | Randomized Controlled Trial/Comparative Study | Randomized trial: Peppermint oil (menthol) pharmacokinetics in children and effects on gut motility in children with functional abdominal pain: 540 mg vs. 900 mg dose comparison. | Br J Clin Pharmacol
+- new | 2025 | 41311590 | Review | The Effects of Peppermint on Menstrual Disorders: A Systematic Review of Randomized Controlled Trials. | Iran J Nurs Midwifery Res
+- new | 2025 | 40046556 |  | Near-infrared spectroscopic study of blood flow changes in the dorsolateral prefrontal cortex during pain relief by odor stimulation. | Biophys Physicobiol
+- new | 2025 | 40856681 | Randomized Controlled Trial | The Effect of Ginger and Mint on Postoperative Nausea and Vomiting in Patients Undergoing Total Thyroidectomy. | J Perianesth Nurs
+- new | 2025 | 41011665 | Review | The Role of Essential Oils in Sports Recovery and Performance. | Molecules
+- new | 2025 | 40598715 |  | Examining the role of freebase nicotine in the harm reduction potential of oral nicotine pouches versus moist snuff: A randomized crossover trial. | Addiction
+- new | 2025 | 39110917 | Systematic Review | Nutritional Interventions in Adult Patients With Irritable Bowel Syndrome: An Umbrella Review of Systematic Reviews and Meta-analyses of Randomized Clinical Trials. | Nutr Rev
+- new | 2025 | 39066774 | Randomized Controlled Trial | Outcomes of Aromatherapy in Nausea and Vomiting After Total Knee Arthroplasty. | J Perianesth Nurs
+- new | 2025 | 41099963 | Letter | Comparison of Efficacy of Peppermint Oil and Drotaverine for the Treatment of Functional Abdominal Pain in Children Aged 4-18 Years: A Single Blind, Exploratory Randomized Controll | Indian J Pediatr
+- new | 2025 | 40986764 |  | Using Blended Aromatherapy for Anxiety and Stress Management in Patients Receiving Oncology Care. | Clin J Oncol Nurs
+- new | 2025 | 40371997 | Randomized Controlled Trial | Effect of Olfactory Training in COVID-19 Related Olfactory Dysfunction-A Placebo-Controlled Trial. | Laryngoscope
+- new | 2025 | 39978315 | Review | STW 5-II for Treatment of Functional Gastrointestinal Disorders: Mechanism and Clinical Efficacy. | Dig Dis
+- new | 2025 | 40971728 |  | Impact of an Aromatherapy Program on Managing Surgical Patients' Perceived Nausea and Vomiting. | Holist Nurs Pract
+- new | 2025 | 40566063 | Review | Efficacy and Safety of L-Menthol During Gastrointestinal Endoscopy-A Systematic Review and Meta-Analysis of Randomized Clinical Trials. | J Clin Med
+- new | 2025 | 40967081 | Randomized Controlled Trial/Comparative Study | Comparison of the effect of ice sucking containing peppermint (Mentha piperita L.) with cardamom (Elettaria cardamomum) extract on nausea, vomiting, and drug request after laparosc | Explore (NY)
+- new | 2025 | 40337441 |  | The effect of peppermint essential oil on postoperative nausea, vomiting, and pain in rhinoplasty patients: a randomized clinical trial. | Ann Med Surg (Lond)
+- new | 2025 | 40421412 |  | Comparative Study on the Prokinetic Effects of Ginger, Caraway, and Peppermint in Relieving Gastrointestinal Disturbances in Pulmonary TB Patients: A Clinical Trial. | Food Sci Nutr
+- new | 2025 | 40154579 | Randomized Controlled Trial | Effect of aromatherapy with peppermint, ginger, and lavender on postoperative nausea severity after oral surgery under general anaesthesia: A single-blind randomized controlled tri | Complement Ther Med
+- new | 2025 | 41211363 |  | Comparative Evaluation of Peppermint Oil, Lignocaine Gel, and Ice as Topical Anesthetics for Intraoral Injections in Children: A Randomized Controlled Trial. | Int J Clin Pediatr Dent
+- new | 2025 | 40390380 |  | The Effect of Aromatherapy on Pain and Anxiety Levels Before Breast Biopsy: A Randomized Controlled Trial. | Eur J Breast Health
+- new | 2025 | 40333716 | Clinical Trial Protocol/Research Support, Non-U.S. Gov't | Effects of peppermint (Mentha piperita L.) oil in cardiometabolic outcomes in participants with pre and stage 1 hypertension: Protocol for a placebo randomized controlled trial. | PLoS One
+- new | 2025 | 40713393 | Review | Mechanisms of action and clinical effectiveness of herbal treatments for disorders of gut-brain interaction. | Dig Liver Dis
+- new | 2025 | 40189738 | Randomized Controlled Trial | A Randomized Placebo-Controlled Clinical Trial Exploring the Short-Term Cognitive and Cerebrovascular Effects of Consuming Peppermint Tea: A Mediation Study. | Hum Psychopharmacol
+- new | 2025 | 40654405 |  | The effects of lavender, chamomile and peppermint inhalation aromatherapy on dental anxiety in children: A randomized controlled trial. | J Dent Sci
+- new | 2025 | 40225418 |  | Comparative LC-MS-based metabolite profiling of the Peppermint, Rosemary, Savory, and Thyme extracts and their potential role in germination and early growth of Adenium arabicum an | 3 Biotech
+- new | 2025 | 40725767 | Review | Inhaling Peppermint Essential Oil as a Promising Complementary Therapy in the Treatment of Nausea and Vomiting. | J Clin Med
+- new | 2025 | 40210517 | Systematic Review | The effectiveness of plant-based topical agents for the prevention of pressure injuries: Systematic review of randomised controlled trials. | Int J Nurs Stud
+- new | 2024 | 38330531 | Meta-Analysis/Systematic Review | Effects of aromatherapy on nausea and vomiting in patients with cancer: A systematic review and meta-analysis of randomized controlled trials. | Complement Ther Clin Pract
+- new | 2024 | 37850332 | Systematic Review | Peppermint as a promising treatment agent in inflammatory conditions: A comprehensive systematic review of literature. | Phytother Res
+- HELD REF-3670 | 2024 | 39447066 | Randomized Controlled Trial | Examining the Effect of Peppermint Oil on Postoperative Nausea After Cervical Surgery. | J Neurosci Nurs
+- new | 2024 | 39452344 |  | Common Home Remedies Do Not Deter Argentine Ants, Linepithema humile (Hymenoptera: Formicidae), from a Preferred Harborage. | Insects
+- new | 2024 | 38337634 | Review | Nutraceuticals and Pain Disorders of the Gut-Brain Interaction in Infants and Children: A Narrative Review and Practical Insights. | Nutrients
+- new | 2024 | 38745888 |  | Effects of peppermint essential oil and artifier on growth performance, carcass characteristics and nutrient digestibilities in broiler chickens fed with low energy diets. | Vet Anim Sci
+- new | 2024 | 38281005 | Randomized Controlled Trial | Effect of aromatherapy with peppermint essential oil on the gag reflex: a randomized, placebo-controlled, single-blind, crossover study. | BMC Complement Med Ther
+- new | 2024 | 37536755 | Randomized Controlled Trial | Pain and sleep after open-heart surgery-inhalation peppermint essence: double-blind randomized clinical trial. | BMJ Support Palliat Care
+- new | 2024 | 39049707 |  | Mentha piperita leaf extract suppresses the release of ATP from epidermal keratinocytes and reduces dermal thinning as well as wrinkle formation. | Int J Cosmet Sci
+- new | 2024 | 38584755 |  | A comparative evaluation of peppermint oil and lignocaine spray as topical anesthetic agents prior to local anesthesia in children: a randomized clinical trial. | J Dent Anesth Pain Med
+- new | 2024 | 37743153 | Randomized Controlled Trial | The effect of aromatherapy massage with lemon and peppermint essential oil on menopausal symptoms: A double-blinded, randomized placebo controlled clinical trial. | Explore (NY)
+- new | 2024 | 39599713 | Review | Adjunct Therapies to Standard Care for IBS and IBD Patients: Digestive Symptoms Improvement and Quality of Life Optimization. | Nutrients
+- new | 2024 | 38293549 |  | Effects of peppermint oil inhalation on vertical jump performance in elite young professional soccer players: A double-blinded randomized crossover study. | Heliyon
+- new | 2024 | 38072763 | Randomized Controlled Trial | Effects of inhalation of peppermint oil after lumbar discectomy surgery on pain and anxiety levels of patients: A randomized controlled study. | Explore (NY)
+- new | 2024 | 38331851 |  | Efficacy and safety of peppermint oil for the treatment in Japanese patients with irritable bowel syndrome: a prospective, open-label, and single-arm study. | Biopsychosoc Med
+- new | 2024 | 38081110 |  | Olfactory dysfunction and training in children with COVID-19 infection: A prospective study Post-COVID pediatric olfactory training. | Int J Pediatr Otorhinolaryngol
+- new | 2024 | 39559431 | Review | Esophagogastroduodenoscopy Quality Improvement and the Role of Topical Antiperistaltic Agents: A Systematic Review and Meta-Analysis. | Cureus
+- new | 2024 | 38664261 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Randomized controlled clinical trial on the efficacy of a novel antimicrobial chewing gum in reducing plaque and gingivitis in adolescent orthodontic patients. | Clin Oral Investig
+- new | 2024 | 39203382 |  | Effects of Mint Oils on the Human Oral Microbiome: A Pilot Study. | Microorganisms
+- new | 2024 | 38502819 | Randomized Controlled Trial | Use of a Combination Lavender/Peppermint Aromatherapy Patch During Port Catheter Placement Under Monitored Anesthesia Care Does Not Reduce Time to Discharge Readiness: A Randomized | J Integr Complement Med
+- new | 2024 | 39418824 | Randomized Controlled Trial | The effect of different essential oils used in stoma bags of individuals with colostomy remooval of odor, life satisfaction and effect on stoma fit: Randomized controlled study. | Explore (NY)
+- new | 2024 | 38518690 | Randomized Controlled Trial/Comparative Study | Effect of peppermint inhalation versus Swedish massage on chemotherapy induced-nausea and vomiting in children with leukemia: Multi-arm randomised trial design. | J Pediatr Nurs
+- new | 2024 | 38993833 |  | Aromatherapy for the prevention of postoperative nausea and vomiting: A systematic review and meta-analysis. | Tzu Chi Med J
+- new | 2024 | 39354709 |  | Prevalence and Determinants of Self-Medication Among Pregnant Women at an Antenatal Clinic at Soba Teaching Hospital, Sudan: A Cross-Sectional Analysis. | Med Sci Monit
+- new | 2024 | 38702165 | Systematic Review | Effect of Nonpharmacological Methods on Pruritus in Patients with Liver Disease and Liver Cirrhosis: Systematic Review. | Altern Ther Health Med
+- new | 2023 | 36994979 | Review | The Use of Peppermint Oil in Gastroenterology. | Curr Pharm Des
+- new | 2023 | 36864527 | Randomized Controlled Trial | Prevention of radiotherapy-related oral mucositis with zinc and polyherbal mouthwash: a double-blind, randomized clinical trial. | Eur J Med Res
+- new | 2023 | 37453895 | Randomized Controlled Trial | Effect of peppermint-lemon aromatherapy on nausea-vomiting and quality of life in pediatric patients with leukemia: A randomized controlled trial. | J Pediatr Nurs
+- HELD REF-3667 | 2023 | 37730471 | Randomized Controlled Trial | Randomized Trial Examining Efficacy of Mentha piperita in Reducing Chronic Headache Discomfort in Youth. | Pain Manag Nurs
+- new | 2023 | 35467923 |  | Characterizing different-flavored e-cigarette solutions from user-reported sensory attributes and appeal. | Exp Clin Psychopharmacol
+- new | 2023 | 37013429 | Systematic Review | Achievements in Hypothyroidism Treatment with Herbal Medicine: A Systematic Review of Randomized Controlled Trials. | Curr Drug Discov Technol
+- new | 2023 | 37536001 |  | The impact of aromatherapy-based oral care on oral conditions, salivary pH, and halitosis in older adults with dementia: Pilot study. | Geriatr Nurs
+- new | 2023 | 36985839 | Randomized Controlled Trial | In Vitro Antiglycation and Methylglyoxal Trapping Effect of Peppermint Leaf (Mentha × piperita L.) and Its Polyphenols. | Molecules
+- new | 2023 | 36502789 | Meta-Analysis/Systematic Review | Menthacarin, a Proprietary Peppermint Oil and Caraway Oil Combination, Improves Multiple Complaints in Patients with Functional Gastrointestinal Disorders: A Systematic Review and  | Dig Dis
+- new | 2023 | 37892426 | Review | The Use of Fibers, Herbal Medicines and Spices in Children with Irritable Bowel Syndrome: A Narrative Review. | Nutrients
+- new | 2023 | 36959959 |  | Herbal supplement use among reproductive-aged women in an academic infertility practice. | F S Rep
+- new | 2023 | 36778015 | Review | Current use of complementary and conventional medicine for treatment of pediatric patients with gastrointestinal disorders. | Front Pharmacol
+- new | 2023 | 37323050 | Systematic Review/Research Support, Non-U.S. Gov't | Non-Chinese herbal medicines for functional dyspepsia. | Cochrane Database Syst Rev
+- new | 2023 | 36840157 |  | Nitrogen Supplementation Modulates Morphological, Biochemical, Yield and Quality Attributes of Peppermint. | Plants (Basel)
+- new | 2023 | 35090087 | Randomized Controlled Trial | Comparison of the postoperative anti-inflammatory efficacy of chlorhexidine, saline rinses and herbal mouthwashes after mechanical debridement in patients with peri-implant mucosit | Int J Dent Hyg
+- new | 2023 | 38269195 |  | Enhancement of Essential Oil Production and Expression of Some Menthol Biosynthesis-Related Genes in Mentha piperita Using Cyanobacteria. | Iran J Biotechnol
+- new | 2023 | 36750849 |  | The prevalence and predictors of herb-drug interactions among Iranian cancer patients during chemotherapy courses. | BMC Complement Med Ther
+- new | 2023 | 37677836 | Randomized Controlled Trial | Reduction of Chemotherapy-Induced Nausea and Vomiting: A Pilot Study of Essential Oils in the Autologous Blood and Marrow Transplantation Population. | Clin J Oncol Nurs
+- new | 2023 | 37665425 | Randomized Controlled Trial | Peppermint essential oil (Mentha piperita L.) increases time to exhaustion in runners. | Eur J Nutr
+- new | 2023 | 38343757 |  | The Role of Inhalation Aromatherapy, Lavender and Peppermint in the Management of Perioperative Pain and Opioid Consumption Following Primary Unilateral Total Hip Arthroplasty: A P | J Pain Relief
+- new | 2023 | 38345583 | Randomized Controlled Trial | Comparing the Effect of Local Application of Peppermint and Cold Compresses on the Severity of Pain from Venipuncture in Dialysis Patients: A Parallel Randomized Clinical Trial Stu | Saudi J Kidney Dis Transpl
+- new | 2023 | 36260282 |  | Reduction of SARS-CoV-2 viral load in exhaled air by antiseptic chewing gum: a pilot trial. | Infection
+- new | 2023 | 37571316 | Randomized Controlled Trial | A Menthol-Enhanced "Cooling" Energy Gel Does Not Influence Laboratory Time Trial Performance in Trained Runners. | Nutrients
+- new | 2023 | 36799100 | Randomized Controlled Trial | Aroma of the essential oil of peppermint reduces aggressive driving behaviour in healthy adults. | Hum Psychopharmacol
+- HELD REF-3660 | 2022 | 35942669 | Meta-Analysis/Systematic Review | Systematic review and meta-analysis: efficacy of peppermint oil in irritable bowel syndrome. | Aliment Pharmacol Ther
+- new | 2022 | 36120261 | Review | The Effectiveness of Herbal Versus Non-Herbal Mouthwash for Periodontal Health: A Literature Review. | Cureus
+- new | 2022 | 36377401 | Published Erratum | Correction to 'Randomised trial: Peppermint oil (menthol) pharmacokinetics in children and effects on gut motility in children with functional abdominal pain'. | Br J Clin Pharmacol
+- new | 2022 | 33960587 | Meta-Analysis/Systematic Review | Efficacy and safety of biophenol-rich nutraceuticals in adults with inflammatory gastrointestinal diseases or irritable bowel syndrome: A systematic literature review and meta-anal | Nutr Diet
+- new | 2022 | 34562193 | Clinical Trial | Quantitative but not qualitative flavor recognition impairments in COVID-19 patients. | Ir J Med Sci
+- new | 2022 | 36107498 |  | Complementary and alternative medicine for functional dyspepsia: An Asian perspective. | Medicine (Baltimore)
+- new | 2022 | 35048535 | Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S. | Peppermint oil effects on the gut microbiome in children with functional abdominal pain. | Clin Transl Sci
+- new | 2022 | 35529474 |  | Odor Identification by Parkinson's Disease Patients Tested by Using Sniffin' Sticks versus Natural Spices. | Parkinsons Dis
+- new | 2022 | 36010156 | Review | Herbal Approaches to Pediatric Functional Abdominal Pain. | Children (Basel)
+- new | 2022 | 35813974 |  | Essential oil nebulization in mild COVID-19(EONCO): Early phase exploratory clinical trial. | J Ayurveda Integr Med
+- new | 2022 | 35624730 |  | Introducing Three New Fruit-Scented Mints to Farmlands: Insights on Drug Yield, Essential-Oil Quality, and Antioxidant Properties. | Antioxidants (Basel)
+- new | 2022 | 35592219 |  | Topical Mentha piperita Effects on Cutaneous Wound Healing: A Study on TGF-β Expression and Clinical Outcomes. | World J Plast Surg
+- new | 2022 | 34119409 | Randomized Controlled Trial | Symptom management to alleviate thirst and dry mouth in critically ill patients: A randomised controlled trial. | Aust Crit Care
+- new | 2022 | 34528282 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Randomised trial: Peppermint oil (menthol) pharmacokinetics in children and effects on gut motility in children with functional abdominal pain. | Br J Clin Pharmacol
+- new | 2022 | 35007899 | Randomized Controlled Trial | The effect of aromatherapy with peppermint essential oil on anxiety of cardiac patients in emergency department: A placebo-controlled study. | Complement Ther Clin Pract
+- new | 2022 | 34951097 | Research Support, Non-U.S. Gov't | Demographics, health literacy and health locus of control beliefs of Australian women who take complementary medicine products during pregnancy and breastfeeding: A cross-sectional | Health Expect
+- HELD REF-3665 | 2021 | 34319275 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | Peppermint Oil Treatment for Irritable Bowel Syndrome: A Randomized Placebo-Controlled Trial. | Am J Gastroenterol
+- new | 2021 | 33197662 | Randomized Controlled Trial | The Effects of Peppermint Oil on Nausea, Vomiting and Retching in Cancer Patients Undergoing Chemotherapy: An Open Label Quasi-Randomized Controlled Pilot Study. | Complement Ther Med
+- new | 2021 | 32519140 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Oral IBGard™ Before Colonoscopy: A Single-Center Double-Blinded, Randomized, Placebo-Controlled Trial. | Dig Dis Sci
+- new | 2021 | 34371600 |  | Essential Oils of Four Virginia Mountain Mint (Pycnanthemum virginianum) Varieties Grown in North Alabama. | Plants (Basel)
+- new | 2021 | 31999480 | Research Support, Non-U.S. Gov't | Olfactory Facilitation of Takeover Performance in Highly Automated Driving. | Hum Factors
+- new | 2021 | 34274425 | Research Support, Non-U.S. Gov't | Habitual Exposure to Trigeminal Stimuli and Its Effects on the Processing of Chemosensory Stimuli. | Neuroscience
+- new | 2021 | 32985338 |  | Peppermint Essential Oil for Nausea and Vomiting in Hospitalized Patients: Incorporating Holistic Patient Decision Making Into the Research Design. | J Holist Nurs
+- new | 2021 | 34567223 |  | Comparing the Effect of Aromatherapy with Peppermint and Lavender Essential Oils on Fatigue of Cardiac Patients: A Randomized Controlled Trial. | Evid Based Complement Alternat Med
+- new | 2021 | 34064950 | Research Support, Non-U.S. Gov't | Patients' Behavior Regarding Dietary or Herbal Supplements before and during COVID-19 in Saudi Arabia. | Int J Environ Res Public Health
+- HELD REF-1575 | 2020 | 32310327 | Systematic Review | Herbal treatments for migraine: A systematic review of randomised-controlled studies. | Phytother Res
+- new | 2020 | 32697018 | Review | Food supplements and diet as treatment options in irritable bowel syndrome. | Neurogastroenterol Motil
+- new | 2020 | 31859183 | Network Meta-Analysis/Systematic Review | Efficacy of soluble fibre, antispasmodic drugs, and gut-brain neuromodulators in irritable bowel syndrome: a systematic review and network meta-analysis. | Lancet Gastroenterol Hepatol
+- HELD REF-3664 | 2020 | 31470006 | Clinical Trial, Phase III/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy and Safety of Peppermint Oil in a Randomized, Double-Blind Trial of Patients With Irritable Bowel Syndrome. | Gastroenterology
+- new | 2020 | 33178378 | Review | The Use of Natural Ingredients in the Treatment of Alopecias with an Emphasis on Central Centrifugal Cicatricial Alopecia: A Systematic Review. | J Clin Aesthet Dermatol
+- new | 2020 | 32151878 | Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Herbal formula improves upper and lower gastrointestinal symptoms and gut health in Australian adults with digestive disorders. | Nutr Res
+- new | 2020 | 32260045 |  | Soil or Vermiculite-Applied Microencapsulated Peppermint Oil Effects on White Mustard Initial Growth and Performance. | Plants (Basel)
+- new | 2020 | 31987249 | Meta-Analysis/Systematic Review | Western herbal medicines in the treatment of irritable bowel syndrome: A systematic review and meta-analysis. | Complement Ther Med
+- new | 2020 | 32308715 |  | Effects of Aromatherapy with Lavender and Peppermint Essential Oils on the Sleep Quality of Cancer Patients: A Randomized Controlled Trial. | Evid Based Complement Alternat Med
+- new | 2020 | 32196008 |  | Peppermint Oil: Evaluating Efficacy on Nausea in Patients Receiving Chemotherapy in the Ambulatory Setting. | Clin J Oncol Nurs
+- new | 2020 | 33344211 |  | The Effect of Combined Inhalation Aromatherapy with Lemon and Peppermint on Nausea and Vomiting of Pregnancy: A Double-Blind, Randomized Clinical Trial. | Iran J Nurs Midwifery Res
+- new | 2020 | 32049698 | Randomized Controlled Trial | Aloe vera-Peppermint Gel (Veramin): An Effective Treatment for Mouth Dryness Among ICU Patients. | Holist Nurs Pract
+- new | 2020 | 32544119 | Randomized Controlled Trial | Efficacy of a Natural Topical Skin Ointment for Managing Split-Thickness Skin Graft Donor Sites: A Pilot Double-blind Randomized Controlled Trial. | Adv Skin Wound Care
+- new | 2020 | 33118401 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The Effect of Peppermint (Mentha piperita) Extract on the Severity of Nausea, Vomiting and Anorexia in Patients with Breast Cancer Undergoing Chemotherapy: A Randomized Controlled  | Integr Cancer Ther
+- new | 2020 | 32891278 | Randomized Controlled Trial | The effect of aromatherapy with peppermint essential oil on nausea and vomiting after cardiac surgery: A randomized clinical trial. | Complement Ther Clin Pract
+- new | 2019 | 29728848 | Systematic Review | Effectiveness of Menthacarin on symptoms of irritable bowel syndrome. | Wien Med Wochenschr
+- new | 2019 | 31342933 | Clinical Trial | Breath selection methods for compact mass spectrometry breath analysis. | J Breath Res
+- new | 2019 | 31426018 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Deceptive but not open label placebos attenuate motion-induced nausea. | J Psychosom Res
+- new | 2019 | 31827561 | Review | A Combination of Peppermint Oil and Caraway Oil for the Treatment of Functional Dyspepsia: A Systematic Review and Meta-Analysis. | Evid Based Complement Alternat Med
+- new | 2019 | 31236155 |  | Peppermint Oil to Improve Visualization in Screening Colonoscopy: A Randomized Controlled Clinical Trial. | Gastroenterology Res
+- new | 2019 | 30957134 |  | Prevalence of herbal medicines in patients with chronic allergic disorders in Western Saudi Arabia. | Saudi Med J
+- new | 2019 | 30771044 |  | Impact of Peppermint Therapy on Dysphagia and Non-cardiac Chest Pain: A Pilot Study. | Dig Dis Sci
+- new | 2019 | 31025114 | Review | Update on Pharmacotherapy for Irritable Bowel Syndrome. | Curr Gastroenterol Rep
+- HELD REF-3661 | 2019 | 30654773 | Meta-Analysis/Systematic Review | The impact of peppermint oil on the irritable bowel syndrome: a meta-analysis of the pooled clinical data. | BMC Complement Altern Med
+- new | 2019 | 31404204 |  | Comparing the Effect of Intranasal Lidocaine 4% with Peppermint Essential Oil Drop 1.5% on Migraine Attacks: A Double-Blind Clinical Trial. | Int J Prev Med
+- new | 2018 | 29372567 | Review/Research Support, N.I.H., Extramural | Review article: the physiological effects and safety of peppermint oil and its efficacy in irritable bowel syndrome and other functional disorders. | Aliment Pharmacol Ther
+- new | 2018 | 30319738 | Review | Effects of Complementary Medicine on Nausea and Vomiting in Pregnancy: A Systematic Review. | Int J Prev Med
+- new | 2018 | 28494649 |  | Herbicidal activity of pure compound isolated from rhizosphere inhabiting Aspergillus flavus. | Nat Prod Res
+- new | 2018 | 29913229 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Inhaled peppermint, rosemary and eucalyptus essential oils do not change spirometry in healthy individuals. | Physiol Behav
+- new | 2018 | 29850445 |  | Effect of Aromatherapy with Peppermint Oil on the Severity of Nausea and Vomiting in Pregnancy: A Single-blind, Randomized, Placebo-controlled trial. | J Reprod Infertil
+- new | 2018 | 30050964 |  | The Effects of Aloe vera-Peppermint (Veramin) Moisturizing Gel on Mouth Dryness and Oral Health among Patients Hospitalized in Intensive Care Units: A Triple-Blind Randomized Place | J Res Pharm Pract
+- new | 2017 | 28236087 | Review | Gastrointestinal Pharmacology. | Handb Exp Pharmacol
+- new | 2017 | 28084009 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Aspirin for acute treatment of episodic tension-type headache in adults. | Cochrane Database Syst Rev
+- new | 2017 | 28562281 | Systematic Review | Herbal Medicines for Gastrointestinal Disorders in Children and Adolescents: A Systematic Review. | Pediatrics
+- new | 2017 | 27696378 | Review | Probiotics, fibre and herbal medicinal products for functional and inflammatory bowel disorders. | Br J Pharmacol
+- new | 2017 | 29137614 | Systematic Review | Safety classification of herbal medicines used among pregnant women in Asian countries: a systematic review. | BMC Complement Altern Med
+- new | 2017 | 28070851 |  | Development of a Sustained Antiplaque and Antimicrobial Chewing Gum of a Decapeptide. | AAPS PharmSciTech
+- new | 2017 | 28545508 | Comparative Study/Randomized Controlled Trial | Open-label versus double-blind placebo treatment in irritable bowel syndrome: study protocol for a randomized controlled trial. | Trials
+- new | 2017 | 28573171 |  | Topical lidocaine inhibits spasm during colonoscopy: a double-blind, randomized controlled trial (with video). | Endosc Int Open
+- new | 2017 | 28395396 | Randomized Controlled Trial | A Randomized Controlled Trial Provides Evidence to Support Aromatherapy to Minimize Anxiety in Women Undergoing Breast Biopsy. | Worldviews Evid Based Nurs
+- new | 2017 | 29273467 | Randomized Controlled Trial | The effect of premedication with peppermint oil capsules (Colpermin) prior to colonoscopy: A double blind randomized placebo-controlled trial. | Arab J Gastroenterol
+- new | 2017 | 28177705 | Randomized Controlled Trial | Aerobic capacity is not improved following 10-day supplementation with peppermint essential oil. | Appl Physiol Nutr Metab
+- new | 2017 | 28695660 | Randomized Controlled Trial | A randomized placebo-controlled trial on the effects of Menthacarin, a proprietary peppermint- and caraway-oil-preparation, on symptoms and quality of life in patients with functio | Neurogastroenterol Motil
+- HELD REF-1207 | 2016 | 27106030 | Review | [Peppermint oil in the acute treatment of tension-type headache]. | Schmerz [ger]
+- new | 2016 | 27785084 |  | Effectiveness of topical peppermint oil on symptomatic treatment of chronic pruritus. | Clin Cosmet Investig Dermatol
+- new | 2016 | 27333231 |  | Inhaled peppermint oil for postop nausea in patients undergoing cardiac surgery. | Nursing
+- new | 2016 | 27631535 | Review | Pain-relieving agents for infantile colic. | Cochrane Database Syst Rev
+- new | 2016 | 27515877 | Randomized Controlled Trial | Sage tea-thyme-peppermint hydrosol oral rinse reduces chemotherapy-induced oral mucositis: A randomized controlled pilot study. | Complement Ther Med
+- new | 2016 | 28070176 |  | Advances in IBS 2016: A Review of Current and Emerging Data. | Gastroenterol Hepatol (N Y)
+- new | 2016 | 27912953 | Randomized Controlled Trial | Evaluating the effect of Matricaria recutita and Mentha piperita herbal mouthwash on management of oral mucositis in patients undergoing hematopoietic stem cell transplantation: A  | Complement Ther Med
+- new | 2015 | 25449223 | Systematic Review | Pharmacologic treatment in pediatric functional abdominal pain disorders: a systematic review. | J Pediatr
+- new | 2015 | 26023339 |  | Comparison of the Effects of pH-Dependent Peppermint Oil and Synbiotic Lactol (Bacillus coagulans + Fructooligosaccharides) on Childhood Functional Abdominal Pain: A Randomized Pla | Iran Red Crescent Med J
+- HELD REF-3662 | 2014 | 24100754 | Meta-Analysis/Systematic Review | Peppermint oil for the treatment of irritable bowel syndrome: a systematic review and meta-analysis. | J Clin Gastroenterol
+- new | 2014 | 24707312 | Review | Essential oils for complementary treatment of surgical patients: state of the art. | Evid Based Complement Alternat Med
+- new | 2014 | 25070746 | Comparative Study/Controlled Clinical Trial | Attentional control in the attentional blink is modulated by odor. | Atten Percept Psychophys
+- new | 2013 | 23698023 |  | Diet and functional abdominal pain in children and adolescents. | J Pediatr Gastroenterol Nutr
+- new | 2011 | 21545610 | Review | Treatment of irritable bowel syndrome. | J Clin Pharm Ther
+- new | 2011 | 21833945 | Meta-Analysis/Systematic Review | Bulking agents, antispasmodics and antidepressants for the treatment of irritable bowel syndrome. | Cochrane Database Syst Rev
+- new | 2009 | 19559137 | Review | The role of diet in symptoms of irritable bowel syndrome in adults: a narrative review. | J Am Diet Assoc
+- new | 2009 | 19541564 | Review | Treatment of irritable bowel syndrome using complementary and alternative medicine. | J Chin Med Assoc
+- new | 2008 | 18041606 | Comparative Study/Randomized Controlled Trial | Modulation of cognitive performance and mood by aromas of peppermint and ylang-ylang. | Int J Neurosci
+- HELD REF-0332 | 2008 | 18037151 | Review | Risks and benefits of commonly used herbal medicines in Mexico. | Toxicol Appl Pharmacol
+- new | 2008 | 18781121 | Review | Chronic abdominal pain in children: what to do following the medical evaluation. | Curr Opin Pediatr
+- new | 2008 | 18254013 | Meta-Analysis/Systematic Review | Pharmacological interventions for recurrent abdominal pain (RAP) and irritable bowel syndrome (IBS) in childhood. | Cochrane Database Syst Rev
+- HELD REF-3663 | 2008 | 19008265 | Comparative Study/Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Effect of fibre, antispasmodics, and peppermint oil in the treatment of irritable bowel syndrome: systematic review and meta-analysis. | BMJ
+- new | 2007 | 17310494 | Clinical Trial/Research Support, Non-U.S. Gov't | Effect of spearmint (Mentha spicata Labiatae) teas on androgen levels in women with hirsutism. | Phytother Res
+- new | 2006 | 30000911 | Review | Peppermint. | 
+- new | 2006 | 16183142 | Comparative Study/Research Support, Non-U.S. Gov't | Sex-specific hemispheric differences in cortical activation to a bimodal odor. | Behav Brain Res
+- new | 2006 | 16143443 | Controlled Clinical Trial | Sleep changes vary by odor perception in young adults. | Biol Psychol
+- new | 2005 | 16370407 | Review | Treatment of irritable bowel syndrome. | Am Fam Physician
+- new | 2005 | 15778557 |  | [Effect of aromatherapy massage for the relief of constipation in the elderly]. | Taehan Kanho Hakhoe Chi [kor]
+- HELD REF-0100 | 2005 | 16121521 | Review | Peppermint oil in irritable bowel syndrome. | Phytomedicine
+- new | 2005 | 16032678 | Research Support, Non-U.S. Gov't | Simple measurement of gluconeogenesis by direct 2H NMR analysis of menthol glucuronide enrichment from 2H2O. | Magn Reson Med
+- new | 2004 | 15606389 | Meta-Analysis/Research Support, Non-U.S. Gov't | Meta-analysis: phytotherapy of functional dyspepsia with the herbal drug preparation STW 5 (Iberogast). | Aliment Pharmacol Ther
+- new | 2004 | 15276819 | Clinical Trial/Research Support, Non-U.S. Gov't | Release of peppermint flavour compounds from chewing gum: effect of oral functions. | Physiol Behav
+- new | 1998 | 9777477 | Clinical Trial/Randomized Controlled Trial | Effects of olfactory stimulation on the vigilance performance of individuals with brain injury. | J Clin Exp Neuropsychol
+- new | 1998 | 9672344 | Meta-Analysis | Peppermint oil for irritable bowel syndrome: a critical review and metaanalysis. | Am J Gastroenterol
+- new | 1997 | 9022871 | Clinical Trial/Randomized Controlled Trial | The effect of drink familiarity on tolerance to alcohol. | Addict Behav
+- new | 1988 | 3370851 | Clinical Trial/Randomized Controlled Trial | The effects of menthol isomers on nasal sensation of airflow. | Clin Otolaryngol Allied Sci
+
+### PubMed SR - 93 hits, 46 not already listed above, 44 new
+- new | 2026 | 41237379 | Systematic Review | Effects of Dietary Flavonoids on Mood and Mental Health: A Systematic Review. | Nutr Rev
+- new | 2026 | 41619305 | Scoping Review | Topical Formulations Containing Mentha piperita for Wound Healing: A Scoping Review. | Chem Biodivers
+- new | 2026 | 41752271 | Systematic Review | Effective Interventions to Prevent Breastfeeding-Related Nipple-Areolar Lesions: A Systematic Review. | Int J Environ Res Public Health
+- new | 2026 | 42012462 | Systematic Review | Analgesic Effects of Olfactory Stimulation: A Systematic Review of Clinical and Experimental Evidence. | FASEB J
+- new | 2026 | 42564042 | Systematic Review | Essential oil-based interventions for chemotherapy-induced nausea and vomiting in women with breast cancer: a systematic review and meta-analysis. | Front Med (Lausanne)
+- new | 2026 | 42470701 | Systematic Review | From Visceral Pain to Emotional Distress: Comparative Effectiveness of Antispasmodics and Antidepressants in Irritable Bowel Syndrome - Systematic Review and Network Meta-analysis. | J Gastrointestin Liver Dis
+- new | 2026 | 41599795 | Review | Plant-Derived Treatments for IBS: Clinical Outcomes, Mechanistic Insights, and Their Position in International Guidelines. | Nutrients
+- new | 2025 | 39041491 | Systematic Review/Network Meta-Analysis/Research Support, Non-U.S. Gov't | Effect of inhaled aromatherapy on sleep quality in critically ill patients: A systematic review and network meta-analysis. | J Clin Nurs
+- new | 2025 | 40917836 | Systematic Review | Evaluating efficacy, safety, and innovation in skin care applications of essential oils: a systematic review. | Front Med (Lausanne)
+- new | 2025 | 40731351 | Scoping Review | Herbs impact on poultry health and antimicrobial resistance: a scoping review with one health perspective. | BMC Vet Res
+- new | 2025 | 40031879 | Scoping Review | Heterogeneity in the Study of Peppermint in Aromatherapy on Cognition and Attention: A Critical Scoping Review. | Complement Med Res
+- new | 2025 | 40165169 |  | Effectiveness of non-pharmacological interventions for thirst in ICU patients: a systematic review and network meta-analysis. | BMC Nurs
+- new | 2025 | 41866875 | Review | Expert Opinion on the Efficacy and Safety of Antispasmodics with a Focus on Irritable Bowel Syndrome. | Turk J Gastroenterol
+- new | 2025 | 41394145 | Systematic Review | Systematic review and network meta-analysis of the effects of plant active substance on quality of life in breast cancer patients. | Front Pharmacol
+- HELD REF-3668 | 2024 | 39436586 | Systematic Review/Meta-Analysis | Effectiveness of the Application of Lanolin, Aloe Vera, and Peppermint on Nipple Pain and Nipple Trauma in Lactating Mothers: A Systematic Review and Meta-Analysis. | Matern Child Health J
+- new | 2024 | 38442431 | Systematic Review | Intranasal delivery of herbal medicine for disease treatment: A systematic review. | Phytomedicine
+- new | 2024 | 38604221 | Systematic Review | [Phytotherapeutic recommendations in medical guidelines for the treatment of gastroenterological diseases - a systematic review]. | Z Gastroenterol [ger]
+- new | 2023 | 36070793 | Systematic Review | Effects of Essential Oils on Scars and Wound Healing: A Systematic Review. | Facial Plast Surg
+- new | 2023 | 37351633 | Systematic Review | Effects of food-based interventions in the management of chemoradiotherapy-induced nausea and vomiting: a systematic review. | Support Care Cancer
+- new | 2022 | 34859929 | Research Support, N.I.H., Extramural/Review | Pain in irritable bowel syndrome: Does anything really help? | Neurogastroenterol Motil
+- new | 2022 | 35646155 | Review/Retracted Publication | Role of Aromatherapy as a Natural Complementary and Alternative Therapy in Cardiovascular Disease: A Comprehensive Systematic Review. | Evid Based Complement Alternat Med
+- new | 2021 | 34283916 | Systematic Review | Effectiveness of Inhaled Aromatherapy on Chemotherapy-Induced Nausea and Vomiting: A Systematic Review. | J Altern Complement Med
+- new | 2021 | 32600229 | Systematic Review | Herbal Extracts with Antifungal Activity against Candida albicans: A Systematic Review. | Mini Rev Med Chem
+- new | 2021 | 33966619 | Systematic Review | Bioactive Compounds Effective Against Type 2 Diabetes Mellitus: A Systematic Review. | Curr Top Med Chem
+- new | 2021 | 33302258 | Research Support, Non-U.S. Gov't | The peppermint breath test: a benchmarking protocol for breath sampling and analysis using GC-MS. | J Breath Res
+- new | 2020 | 31994371 | Meta-Analysis/Systematic Review | The anti-spasmodic effect of peppermint oil during colonoscopy: a systematic review and meta-analysis. | Minerva Gastroenterol Dietol
+- new | 2019 | 30915314 | Review | A Systematic Review on the Anxiolytic Effect of Aromatherapy during the First Stage of Labor. | J Caring Sci
+- new | 2019 | 31143299 | Review | Herbs and Spices- Biomarkers of Intake Based on Human Intervention Studies - A Systematic Review. | Genes Nutr
+- new | 2019 | 31864359 | Systematic Review | Effectiveness of plant-based repellents against different Anopheles species: a systematic review. | Malar J
+- new | 2019 | 31750331 |  | Irritable bowel syndrome and functional constipation management with integrative medicine: A systematic review. | World J Clin Cases
+- new | 2018 | 29523018 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Aromatherapy for treatment of postoperative nausea and vomiting. | Cochrane Database Syst Rev
+- new | 2017 | 28232472 | Review | Dietary and pharmacological treatment of abdominal pain in IBS. | Gut
+- new | 2016 | 27268043 | Research Support, Non-U.S. Gov't/Systematic Review | Medicinal plants--prophylactic and therapeutic options for gastrointestinal and respiratory diseases in calves and piglets? A systematic review. | BMC Vet Res
+- new | 2014 | 24845149 | Research Support, Non-U.S. Gov't/Review | Treatment of abdominal pain in irritable bowel syndrome. | J Gastroenterol
+- new | 2012 | 22296841 | Systematic Review | Irritable bowel syndrome. | BMJ Clin Evid
+- new | 2012 | 22936057 | Research Support, Non-U.S. Gov't/Systematic Review | Adverse effects of aromatherapy: a systematic review of case reports and case series. | Int J Risk Saf Med
+- new | 2012 | 22513952 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Aromatherapy for treatment of postoperative nausea and vomiting. | Cochrane Database Syst Rev
+- new | 2010 | 21718578 | Systematic Review | Irritable bowel syndrome. | BMJ Clin Evid
+- new | 2010 | 21389791 | Meta-Analysis/Research Support, Non-U.S. Gov't/Review | Therapy options in irritable bowel syndrome. | Eur J Gastroenterol Hepatol
+- new | 2010 | 21437019 |  | Complementary and alternative medicine modalities for the treatment of irritable bowel syndrome: facts or myths? | Gastroenterol Hepatol (N Y)
+- new | 2009 | 19221071 | Review | Complementary and alternative medicine for treatment of irritable bowel syndrome. | Can Fam Physician
+- HELD REF-1206 | 2007 | 18285310 | Systematic Review | Peppermint (Mentha piperita): an evidence-based systematic review by the Natural Standard Research Collaboration. | J Herb Pharmacother
+- new | 2006 | 30000902 | Review | Lanolin. | 
+- new | 2003 | 12509588 | Research Support, U.S. Gov't, P.H.S./Systematic Review | Systematic review of treatments for recurrent abdominal pain. | Pediatrics
+- new | 2002 | 12269960 | Research Support, Non-U.S. Gov't/Systematic Review | Systematic review: herbal medicinal products for non-ulcer dyspepsia. | Aliment Pharmacol Ther
+- new | 2000 | 10896640 | Research Support, U.S. Gov't, P.H.S./Systematic Review | Pharmacologic treatment of the irritable bowel syndrome: a systematic review of randomized, controlled trials. | Ann Intern Med
+
+### PubMed SAFE - 420 hits, 148 not already listed above, 144 new
+- new | 2026 | 42526729 |  | Clobetasol-loaded core-active lipid nanoparticles: an enhanced therapy for inflammatory skin conditions. | Int J Pharm
+- new | 2026 | 42654719 |  | Effects of Essential Oil Treatment on Clostridium perfringens Cells. | Pathogens
+- new | 2026 | 41428323 |  | Health Risk Assessment of Toxic Trace Elements in Medicinal Herbs from Algeria. | Biol Trace Elem Res
+- new | 2026 | 41519682 | Review | Drug-Related Halitosis: A Narrative Review. | Int Dent J
+- new | 2025 | 40216027 | Letter | Peppermint oil-associated hepatotoxicity. | J Hepatol
+- new | 2025 | 38168664 | Review | Peppermint and menthol: a review on their biochemistry, pharmacological activities, clinical applications, and safety considerations. | Crit Rev Food Sci Nutr
+- new | 2025 | 39912839 |  | Drugs for irritable bowel syndrome. | Med Lett Drugs Ther
+- new | 2025 | 39912842 |  | Comparison chart: Some drugs for abdominal pain in irritable bowel syndrome (IBS). | Med Lett Drugs Ther
+- new | 2025 | 39912840 |  | Comparison chart: Safety of drugs for IBS in pregnancy and lactation. | Med Lett Drugs Ther
+- new | 2025 | 39172635 |  | Patch Testing to Mentha piperita (Peppermint) Oil: The North American Contact Dermatitis Group Experience (2009-2020). | Dermatitis
+- new | 2025 | 41101186 |  | Efficacy of plant-based remedies for Varroa destructor control in honey bee colonies: A preliminary study. | Vet Parasitol
+- new | 2025 | 40144377 |  | The liver-brain axis under the influence of chronic Opisthorchis felineus infection combined with prolonged alcoholization in mice. | Vavilovskii Zhurnal Genet Selektsii
+- new | 2025 | 41135242 |  | Green synthesis and larvicidal activity of ZnO nanoparticles against Lucilia sericata larvae using essential oil bio-reductants. | Vet Parasitol
+- new | 2025 | 39816967 |  | Safety and efficacy of a feed additive consisting of an essential oil derived from the aerial parts of Mentha × piperita L. (peppermint oil) for use in all animal species (FEFANA a | EFSA J
+- new | 2025 | 41052229 |  | Essential oils as potential insecticides and behavior-modifying agents against Bactrocera tryoni (Diptera: Tephritidae). | J Insect Sci
+- new | 2025 | 41166019 | Review | Modulatory effects of bioactive natural compounds on pruritic pathways: mechanistic basis and therapeutic prospects. | Inflammopharmacology
+- new | 2025 | 40741364 |  | Safety and efficacy of a feed additive consisting of a tincture derived from the leaves or the aerial parts of Mentha × piperita L. (peppermint tincture) for use in all animal spec | EFSA J
+- new | 2025 | 40111585 |  | Antioxidant activity of Mentha piperita phenolics on arsenic induced oxidative stress, biochemical alterations, and cyto-genotoxicity in fish, Channa punctatus. | Fish Physiol Biochem
+- new | 2025 | 41106261 |  | Influence of red- and blue-dominant light spectra on the biosynthesis of mono- and sesquiterpenes in mint (Mentha × piperita) essential oil. | Food Chem
+- new | 2025 | 41372343 |  | Essential oils enriched Dant-Kanti-Gandush (oil-pulling) inhibits inter-kingdom biofilm formation on orthodontic fixtures and ameliorates cariogenic virulence factors of oral patho | Sci Rep
+- new | 2025 | 39858838 |  | Inhibitory Effects of Natural Products on Germination, Outgrowth, and Vegetative Growth of Clostridium perfringens Spores in Laboratory Medium and Chicken Meat. | Microorganisms
+- new | 2025 | 40603762 |  | Development of a Lemon-peppermint Essential Oil Nanoemulsion Blend: Effects on Bacillus spp. Inhibition, A549 Lung Cancer Cell Viability, Cell Cycle Progression, and Genotoxicity. | Cell Biochem Biophys
+- new | 2024 | 38836243 | Review | Therapeutic Potential of Essential Oils Against Ulcerative Colitis: A Review. | J Inflamm Res
+- new | 2024 | 38482621 | Review | Safety Aspects of Herb Interactions: Current Understanding and Future Prospects. | Curr Drug Metab
+- new | 2024 | 39771213 | Review | Soothing the Itch: The Role of Medicinal Plants in Alleviating Pruritus in Palliative Care. | Plants (Basel)
+- new | 2024 | 39668265 |  | Contemplating Novel W/O Emulsion Based Gel for Anti-Psoriatic Activity of Tofacitinib in Imiquimod-Induced Balb/C Mice Model. | AAPS PharmSciTech
+- new | 2024 | 38257205 |  | The Effect of Peppermint and Thyme Oils on Stabilizing the Fatty Acid Profile of Sunflower Oil. | Molecules
+- new | 2024 | 36523191 |  | Investigations on the shelf life of rainbow trout fillets covered by quinoa biofilms enriched with different essential oils (Nigella sativa and Mentha piperita). | Food Sci Technol Int
+- new | 2023 | 37788098 | Review | Pharmacotherapy for gastric and intestinal cramping pain: ‎ current and emerging therapies. | Expert Opin Pharmacother
+- new | 2023 | 37101730 | Review | A Comprehensive Review of Herbal Supplements Used for Persistent Symptoms Attributed to Lyme Disease. | Integr Med (Encinitas)
+- new | 2023 | 37467743 | Research Support, Non-U.S. Gov't | Cross-validation of the peppermint benchmarking experiment across three analytical platforms. | J Breath Res
+- new | 2023 | 36866556 |  | Anti-Candida and Antibiofilm Activity of Selected Lamiaceae Essential Oils. | Front Biosci (Landmark Ed)
+- new | 2023 | 36671304 |  | Screening of Antifungal Activity of Essential Oils in Controlling Biocontamination of Historical Papers in Archives. | Antibiotics (Basel)
+- new | 2023 | 36903258 |  | Toxicity and Physiological Effects of Nine Lamiaceae Essential Oils and Their Major Compounds on Reticulitermes dabieshanensis. | Molecules
+- new | 2023 | 36918212 | Case Reports | An unexpected allergic skin reaction to peppermint oil capsules. | BMJ Case Rep
+- new | 2023 | 37310069 |  | Restricting Promiscuity of Plant Flavonoid 3'-Hydroxylase and 4'-O-Methyltransferase Improves the Biosynthesis of (2S)-Hesperetin in E. coli. | J Agric Food Chem
+- new | 2023 | 37800357 | Research Support, Non-U.S. Gov't | Amended Safety Assessment of Mentha piperita (Peppermint)-Derived Ingredients as Used in Cosmetics. | Int J Toxicol
+- new | 2023 | 37745226 |  | Anthelmintic effects of peppermint (Mentha piperita), lemon (Citrus limon), and tea tree (Melaleuca alternifolia) essential oils against Monogenean parasite (Dactylogyrus sp.) on c | Helminthologia
+- new | 2023 | 37802220 | Review | Peppermint essential oil and its nano-emulsion: Potential against aflatoxigenic fungus Aspergillus flavus in food and feed. | Toxicon
+- new | 2023 | 35779181 |  | The Toxicological Safety Assessment of Heavy Metal Impurities (As, Pb, and Cd) in Mint Tea Infusions (Mentha piperita L.) Available in Polish Markets. | Biol Trace Elem Res
+- new | 2023 | 36858077 |  | Evaluation of Therapeutic Potential of Selected Plant-Derived Homeopathic Medicines for their Action against Cervical Cancer. | Homeopathy
+- new | 2023 | 37168992 | Review | An overview of natural products that modulate the expression of non-coding RNAs involved in oxidative stress and inflammation-associated disorders. | Front Pharmacol
+- new | 2023 | 36673335 |  | Effect of Adding Matricaria recutita L., Cymbopogon citratus, or Mentha piperita L. Extracts to Fermented Orange Beverage: Sensory Evaluation, Physicochemical Characterization, and | Foods
+- new | 2023 | 37228784 |  | Comparison of in vitro Killing Effect of Thai Herbal Essential Oils, Tea Tree Oil, and Metronidazole 0.75% versus Ivermectin 1% on Demodex folliculorum. | Clin Cosmet Investig Dermatol
+- new | 2022 | 36144755 | Review | Medicinal Plants Used for Anxiety, Depression, or Stress Treatment: An Update. | Molecules
+- new | 2022 | 35192875 |  | Production of hesperetin from naringenin in an engineered Escherichia coli consortium. | J Biotechnol
+- new | 2022 | 35399216 |  | Comparative toxicity of hydrocarbons for evaluation of Lysmata boggessi as an experimental proxy for deep-water column micronekton. | Toxicol Rep
+- new | 2022 | 36477817 |  | Toxicity of Essential Oil of Mentha piperita (Lamiaceae) and its Monoterpenoid Menthol Against Tetranychus urticae Kogan 1836 (Acari: Tetranychidae). | An Acad Bras Cienc
+- new | 2022 | 35967896 |  | Horse odor exploration behavior is influenced by pregnancy and age. | Front Behav Neurosci
+- new | 2022 | 35277031 | Review | Effectiveness of Nutritional Ingredients on Upper Gastrointestinal Conditions and Symptoms: A Narrative Review. | Nutrients
+- new | 2022 | 35305631 |  | Assessment of chemical, ultrasonic, diode laser, and Er:YAG laser application on debonding of ceramic brackets. | BMC Oral Health
+- new | 2022 | 35735830 |  | Fumigant Toxicity of Essential Oils against Frankliniella occidentalis and F. insularis (Thysanoptera: Thripidae) as Affected by Polymer Release and Adjuvants. | Insects
+- new | 2022 | 36123297 |  | Use of Aromatherapy for Pediatric Surgical Patients. | Pain Manag Nurs
+- new | 2022 | 34997605 | Research Support, Non-U.S. Gov't/Review | Reactive oxygen species: Key players in the anticancer effects of apigenin? | J Food Biochem
+- new | 2022 | 34895548 | Comparative Study | Selectivity of enzymes involved in the formation of opposite enantiomeric series of p-menthane monoterpenoids in peppermint and Japanese catnip. | Plant Sci
+- new | 2022 | 35409371 |  | Menthone Inhalation Alleviates Local and Systemic Allergic Inflammation in Ovalbumin-Sensitized and Challenged Asthmatic Mice. | Int J Mol Sci
+- new | 2022 | 36045659 |  | In Vivo Efficacy, Toxicity Assessment, and Elemental Analysis of Traditionally Used Polyherbal Recipe for Diarrhea. | Evid Based Complement Alternat Med
+- new | 2021 | 33947115 |  | Rapid Screening of Glucocorticoid Receptor (GR) Effectors Using Cortisol-Detecting Sensor Cells. | Int J Mol Sci
+- new | 2021 | 34832513 |  | Virucidal Activity of Plant Extracts against African Swine Fever Virus. | Pathogens
+- new | 2021 | 33884265 | Retracted Publication | Use of Medicinal Plants for Respiratory Diseases in Bahawalpur, Pakistan. | Biomed Res Int
+- new | 2021 | 33390133 | Review | Therapeutic Properties of Several Chemical Compounds of Salvia officinalis L. in Alzheimer's Disease. | Mini Rev Med Chem
+- new | 2021 | 32882361 | Review | Potential anti-influenza effective plants used in Turkish folk medicine: A review. | J Ethnopharmacol
+- new | 2021 | 34301073 |  | Lyophilized Composite Loaded with Meloxicam-Peppermint oil Nanoemulsion for Periodontal Pain. | Polymers (Basel)
+- HELD REF-1204 | 2020 | 32173933 | Review | Ethnomedicinal, phytochemical and pharmacological updates on Peppermint (Mentha × piperita L.)-A review. | Phytother Res
+- new | 2020 | 32947457 |  | American Contact Dermatitis Society Core Allergen Series: 2020 Update. | Dermatitis
+- new | 2020 | 32324172 |  | Drugs for Irritable Bowel Syndrome. | Med Lett Drugs Ther
+- new | 2020 | 32269872 | Case Reports | Role of Peppermint Oil in Diffuse Esophageal Spasm in the Geriatric Population. | Cureus
+- new | 2020 | 32209108 |  | Identification of essential oils with activity against stationary phase Staphylococcus aureus. | BMC Complement Med Ther
+- new | 2020 | 32754057 | Review | Herbal Therapies in Functional Gastrointestinal Disorders: A Narrative Review and Clinical Implication. | Front Psychiatry
+- new | 2020 | 32713960 |  | Decontamination of peppermint distillate using spark plasma: microbiological and physicochemical evaluation. | J Food Sci Technol
+- new | 2020 | 31759920 | Clinical Trial, Veterinary | Phoenix dactylifera, mentha piperita and montanide™ ISA-201 as immunological adjuvants in a chicken model. | Acta Trop
+- new | 2020 | 32695007 | Review | Essential Oil-Bearing Plants From Balkan Peninsula: Promising Sources for New Drug Candidates for the Prevention and Treatment of Diabetes Mellitus and Dyslipidemia. | Front Pharmacol
+- new | 2019 | 30570581 | Case Reports | "Fresh Breath" on Toothpaste: Peppermint as Cause of Cheilitis. | Dermatitis
+- HELD REF-1209 | 2019 | 31032736 |  | Peppermint (Mentha piperita L.) extract effectively inhibits cytochrome P450 3A4 (CYP3A4) mRNA induction in rifampicin-treated HepG2 cells. | Biosci Biotechnol Biochem
+- new | 2019 | 30876425 |  | 'We are nothing without herbs': a story of herbal remedies use during pregnancy in rural Ghana. | BMC Complement Altern Med
+- new | 2019 | 31284973 |  | Dynamic flavor perception of encapsulated flavors in a soft chewable matrix. | Food Res Int
+- new | 2019 | 31027573 |  | Toxicity, antifeedant and biochemical efficacy of Mentha piperita L. essential oil and their major constituents against stored grain pest. | Pestic Biochem Physiol
+- new | 2019 | 30924176 | Review | Review article: treatment options for functional dyspepsia. | Aliment Pharmacol Ther
+- new | 2019 | 29336734 | Research Support, Non-U.S. Gov't | The relationship between women's characteristics and herbal medicines use during pregnancy. | Women Health
+- new | 2019 | 32425029 | Clinical Trial/Multicenter Study | Evaluation of the effectiveness and safety of peppermint peel (PMP) soft peeling for skin ageing. | J Biol Regul Homeost Agents
+- new | 2018 | 28820648 | Review | Natural Bioactive Food Components for Improving Enteral Tube Feeding Tolerance in Adult Patient Populations. | Nutr Clin Pract
+- new | 2018 | 29512375 | Case Reports | Angioedema Due to Lamiaceae Allergy. | Iran J Allergy Asthma Immunol
+- new | 2018 | 30188583 |  | Evaluation of phytomedicinal potential of perillyl alcohol in an in vitro Parkinson's Disease model. | Drug Dev Res
+- new | 2018 | 29471237 |  | Quantifying the harmful potential of ten essential oils on immature Trichogramma pretiosum stages. | Chemosphere
+- new | 2018 | 29517825 |  | Combination of essential oil and ciprofloxacin to inhibit/eradicate biofilms in multidrug-resistant Klebsiella pneumoniae. | J Appl Microbiol
+- new | 2018 | 28503740 |  | Weed interference with peppermint (Mentha x piperita L.) and spearmint (Mentha spicata L.) crops under different herbicide treatments: effects on biomass and essential oil yield. | J Sci Food Agric
+- new | 2018 | 29486662 | Comparative Study/Validation Study | Polycyclic aromatic hydrocarbons in teas using QuEChERS and HPLC-FLD. | Food Addit Contam Part B Surveill
+- new | 2018 | 29747673 |  | Ethnobotanical survey of plants used as repellents against housefly, Musca domestica L. (Diptera: Muscidae) in Budondo Subcounty, Jinja District, Uganda. | J Ethnobiol Ethnomed
+- new | 2018 | 29849890 |  | Antifibrogenic Influence of Mentha piperita L. Essential Oil against CCl(4)-Induced Liver Fibrosis in Rats. | Oxid Med Cell Longev
+- new | 2018 | 30284674 | Clinical Trial, Phase I/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A Novel Ileocolonic Release Peppermint Oil Capsule for Treatment of Irritable Bowel Syndrome: A Phase I Study in Healthy Volunteers. | Adv Ther
+- new | 2017 | 28150115 |  | Green synthesis of rifampicin-loaded copper nanoparticles with enhanced antimicrobial activity. | J Mater Sci Mater Med
+- new | 2017 | 28904977 |  | Misuse of Topical Corticosteroids for Cosmetic Purpose in Antananarivo, Madagascar. | Biomed Res Int
+- new | 2017 | 28918484 | Review | Drug-Herb Interactions in the Elderly Patient with IBD: a Growing Concern. | Curr Treat Options Gastroenterol
+- new | 2017 | 28137527 |  | Use of herbal product among pregnant women in Turkey. | Complement Ther Med
+- new | 2017 | 28951674 |  | Prevalence of self-medication practice with herbal products among non-psychotic psychiatric patients from southeastern Serbia: A cross-sectional study. | Saudi Pharm J
+- new | 2017 | 29611658 |  | Antimicrobial activity of some plant extracts against bacterial pathogens isolated from faeces of red deer (Cervus elaphus). | Pol J Vet Sci
+- new | 2017 | 28286563 | Review | Antispasmodic drugs in colonoscopy: a review of their pharmacology, safety and efficacy in improving polyp detection and related outcomes. | Ther Adv Gastroenterol
+- new | 2017 | 28011360 |  | Effects of peppermint tea consumption on the activities of CYP1A2, CYP2A6, Xanthine Oxidase, N-acetyltranferase-2 and UDP-glucuronosyltransferases-1A1/1A6 in healthy volunteers. | Food Chem Toxicol
+- new | 2016 | 26784183 |  | Herb-Induced Liver Injury in the Berlin Case-Control Surveillance Study. | Int J Mol Sci
+- new | 2016 | 26563681 | Review | Contact dermatitis as an adverse reaction to some topically used European herbal medicinal products - Part 3: Mentha × piperita - Solanum dulcamara. | Contact Dermatitis
+- new | 2016 | 27136257 |  | Characterization of radicals arising from oxidation of commercially-important essential oils. | Free Radic Res
+- new | 2016 | 30475513 |  | Essential Oils and Their Vapors as Potential Antibacterial Agents against Respiratory Tract Pathogens. | Nat Prod Commun
+- new | 2016 | 27602249 | Case Reports | Response of irritable bowel syndrome with constipation patients administered a combined quebracho/conker tree/M. balsamea Willd extract. | World J Gastrointest Pharmacol Ther
+- new | 2016 | 26806578 |  | Contact allergy to essential oils cannot always be predicted from allergy to fragrance markers in the baseline series. | Contact Dermatitis
+- new | 2016 | 27698173 | Case Reports | Pseudomonas aeruginosa mastitis in two goats associated with an essential oil-based teat dip. | J Vet Diagn Invest
+- new | 2016 | 27563318 |  | Evaluation of mint efficacy regarding dysmenorrhea in comparison with mefenamic acid: A double blinded randomized crossover study. | Iran J Nurs Midwifery Res
+- new | 2016 | 26898115 | Research Support, Non-U.S. Gov't | Enhancing cytochrome P450-mediated conversions in P. pastoris through RAD52 over-expression and optimizing the cultivation conditions. | Fungal Genet Biol
+- new | 2016 | 27385520 | Case Reports | Allergic contact cheilitis caused by menthol in toothpaste and throat medication: a case report. | Contact Dermatitis
+- new | 2015 | 26366255 | Review | Herbal Medicines Use During Pregnancy: A Review from the Middle East. | Oman Med J
+- new | 2015 | 26539382 | Review | Essential oils, their therapeutic properties, and implication in dentistry: A review. | J Int Soc Prev Community Dent
+- new | 2015 | 26055130 |  | Detection of pyrrolizidine alkaloids in German licensed herbal medicinal teas. | Phytomedicine
+- new | 2015 | 26124607 |  | Evaluation of an Indigenously Prepared Herbal Extract (EndoPam) as an Antimicrobial Endodontic Irrigant: An Ex Vivo Study. | J Int Oral Health
+- new | 2015 | 26684797 | Research Support, Non-U.S. Gov't/Review | Safety Assessment of Panax spp Root-Derived Ingredients as Used in Cosmetics. | Int J Toxicol
+- new | 2015 | 26175929 | Review | Preclinical development and clinical use of perillyl alcohol for chemoprevention and cancer therapy. | Am J Cancer Res
+- new | 2015 | 25818661 | Research Support, Non-U.S. Gov't/Review | A Review Study on the Effect of Iranian Herbal Medicines on Opioid Withdrawal Syndrome. | J Evid Based Complementary Altern Med
+- new | 2015 | 26151027 |  | Efficacy of an Iranian herbal preparation (Lax-Asab) in treating functional constipation: A randomized, placebo-controlled clinical trial. | J Tradit Complement Med
+- new | 2015 | 25953414 |  | Anti-dermatophyte efficacy and environmental safety of some essential oils commercial and in vitro extracted pure and combined against four keratinophilic pathogenic fungi. | Environ Health Prev Med
+- new | 2014 | 23551212 | Case Reports | Alliaceous migraines. | Headache
+- new | 2014 | 24574705 | Review | Complementary and alternative medicines in irritable bowel syndrome: an integrative view. | World J Gastroenterol
+- new | 2014 | 24992947 | Review | Medication management of irritable bowel syndrome. | Digestion
+- new | 2013 | 23472485 | Research Support, Non-U.S. Gov't/Review | Adverse effects of herbal medicines: an overview of systematic reviews. | Clin Med (Lond)
+- new | 2012 | 22928313 | Comparative Study/Evaluation Study/Research Support, Non-U.S. Gov't | Fumigant toxicity of plant essential oils against Camptomyia corticalis (Diptera: Cecidomyiidae). | J Econ Entomol
+- new | 2012 | 22137159 | Clinical Trial | [1.6% peppermint oil solution as intestinal spasmolytic in retrograde endoscopic cholangiopancreatography]. | Farm Hosp [spa]
+- new | 2011 | 22117784 | Review | Herbs in dentistry. | Int Dent J
+- new | 2011 | 19782445 |  | Safety and efficacy of herbal remedies in obstetrics-review and clinical implications. | Midwifery
+- new | 2010 | 20079506 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | A candidate cDNA clone for (-)-limonene-7-hydroxylase from Perilla frutescens. | Phytochemistry
+- new | 2010 | 21061544 | Review | [Peppermint oil reduces gastric motility during the upper gastrointestinal endoscopy]. | Nihon Rinsho [jpn]
+- new | 2010 | 20359261 | Review | Clinical review and treatment of select adverse effects of dopamine receptor agonists in Parkinson's disease. | Drugs Aging
+- new | 2010 | 20184039 | Research Support, Non-U.S. Gov't | Effects of essential oils on the growth of Giardia lamblia trophozoites. | Nat Prod Commun
+- new | 2007 | 17427617 | Review | Peppermint oil. | Am Fam Physician
+- HELD REF-1203 | 2006 | 16767798 | Research Support, Non-U.S. Gov't/Review | A review of the bioactivity and potential health benefits of peppermint tea (Mentha piperita L.). | Phytother Res
+- new | 2006 | 16898856 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Ranitidine (Zantac) syrup versus Ranitidine effervescent tablets (Zantac) EFFERdose) in children: a single-center taste preference study. | Paediatr Drugs
+- new | 2005 | 16274814 | Case Reports | Peppermint oil chemical burn. | Otolaryngol Head Neck Surg
+- new | 2005 | 16121522 | Review | Gastrointestinal clinical pharmacology of peppermint oil. | Phytomedicine
+- new | 2004 | 15703634 |  | Nutritional supplements and alternative medicine. | Curr Opin Gastroenterol
+- new | 2004 | 15330011 | Research Support, U.S. Gov't, P.H.S./Review | Complementary and alternative interventions in asthma, allergy, and immunology. | Ann Allergy Asthma Immunol
+- new | 2003 | 14650521 | Research Support, Non-U.S. Gov't | Toxicity of plant essential oils to Trialeurodes vaporariorum (Homoptera: Aleyrodidae). | J Econ Entomol
+- new | 2001 | 11201253 |  | Effects of peppermint (Mentha piperita L.) extracts on experimental allergic rhinitis in rats. | Biol Pharm Bull
+- new | 2000 | 11050228 | Research Support, U.S. Gov't, Non-P.H.S. | A single amino acid substitution (F363I) converts the regiochemistry of the spearmint (-)-limonene hydroxylase from a C6- to a C3-hydroxylase. | Proc Natl Acad Sci U S A
+- new | 1999 | 10467509 | Case Reports | Extensive oral mucosal ulcerations caused by misuse of a commercial mouthwash. | Cutis
+- new | 1998 | 9855569 | Review | Perillyl alcohol: applications in oncology. | Altern Med Rev
+- new | 1996 | 9006790 | Clinical Trial/Randomized Controlled Trial | Efficacy of a fixed peppermint oil/caraway oil combination in non-ulcer dyspepsia. | Arzneimittelforschung
+- new | 1996 | 8771452 |  | Screening of medicinal plants for induction of somatic segregation activity in Aspergillus nidulans. | J Ethnopharmacol
+- new | 1995 | 8549124 | Review | Contact allergens in toothpastes and a review of their hypersensitivity. | Contact Dermatitis
+- HELD REF-2688 | 1995 | 7720737 | Case Reports | Reversible hepatic veno-occlusive disease in an infant after consumption of pyrrolizidine-containing herbal tea. | Eur J Pediatr
+- new | 1991 | 24258800 |  | Fumigant toxicity of essential oils against four major stored-product insects. | J Chem Ecol
+- new | 1984 | 6697920 | Case Reports | [Toothpaste allergy]. | Dtsch Med Wochenschr [ger]
+- new | 1978 | 710096 |  | Contact allergy to toothpaste flavors. | Contact Dermatitis
+
+### PubMed OBS - 48 hits, 27 not already listed above, 27 new
+- new | 2026 | 42378001 | Review | Small Intestinal Bacterial Overgrowth: Microbiome Dysregulation, Gut-Brain Axis Disruption, and Systemic Consequences. | Mol Nutr Food Res
+- new | 2026 | 38030481 |  | Home Remedies ("Paati Vaidyam") for Voice Disorders: Some Common Practices Among School Teachers. | J Voice
+- new | 2026 | 42790470 |  | Application of PTR-ToF-MS for detecting and tracking E-liquid aroma compounds in exhaled breath. | J Breath Res
+- new | 2025 | 41180492 | Observational Study/Research Support, Non-U.S. Gov't | Sniffin' sticks smell identification test: exploring measurement properties in an adult Brazilian healthcare professionals sample. | PeerJ
+- new | 2025 | 39991528 |  | Prevalence of intestinal parasitic contamination in fresh vegetables in Bangkok, Thailand, and surrounding areas: A cross-sectional survey. | Parasite Epidemiol Control
+- new | 2025 | 40828817 | Clinical Trial Protocol/Research Support, Non-U.S. Gov't | Preventing postoperative pulmonary complications by establishing a machine-learning assisted approach (PEPPERMINT): Study protocol for the creation of a risk prediction model. | PLoS One
+- new | 2024 | 39143562 |  | The prevalence of herbal medicine among Sudanese adults: a cross-sectional study 2021. | BMC Complement Med Ther
+- new | 2023 | 37746982 |  | Factors affecting gastrointestinal function recovery after cesarean section among Chinese mothers: A cross-sectional study. | Medicine (Baltimore)
+- new | 2023 | 37900086 |  | The effect of nutritional factors on urolithiasis: A case-control study. | J Med Life
+- new | 2023 | 37417200 |  | Applications of Dietary Supplements and Aromatherapy for Prophylactic and Treatment Purposes During COVID-19 Pandemic. | Turk J Pharm Sci
+- new | 2022 | 35092483 |  | Indications of medical plants: what do medical students in Germany know? A cross-sectional study. | J Cancer Res Clin Oncol
+- new | 2022 | 34905993 |  | Complementary Intervention in Postoperative Care: Aromatherapy's Role in Decreasing Postoperative Nausea and Vomiting. | J Holist Nurs
+- new | 2020 | 32864870 | Research Support, Non-U.S. Gov't | Can dementia be predicted using olfactory identification test in the elderly? A Bayesian network analysis. | Brain Behav
+- new | 2020 | 31935728 | Research Support, Non-U.S. Gov't | Inability to Smell Peppermint Is Related to Cognitive Decline: A Prospective Community-Based Study. | Neuroepidemiology
+- new | 2020 | 33030150 | Observational Study/Research Support, Non-U.S. Gov't | Smart Data Collection for the Assessment of Treatment Effects in Irritable Bowel Syndrome: Observational Study. | JMIR Mhealth Uhealth
+- new | 2020 | 32116721 |  | Public Knowledge, Attitude, and Practice on Herbal Remedies Used During Pregnancy and Lactation in West Bank Palestine. | Front Pharmacol
+- new | 2019 | 31147268 |  | Essential Oils to Reduce Postoperative Nausea and Vomiting. | J Perianesth Nurs
+- new | 2018 | 30477844 |  | Gastrointestinal symptom improvement from fiber, STW 5, peppermint oil, and probiotics use-Results from an online survey. | Complement Ther Med
+- new | 2017 | 28793084 | Observational Study | [Use of medicinal plants as home remedies in Primary Health Care in Blumenau - State of Santa Catarina, Brazil]. | Cien Saude Colet [por]
+- new | 2016 | 27228584 | Observational Study | [Peppermint oil solution is convincing in an observational study]. | MMW Fortschr Med [ger]
+- new | 2015 | 26162600 |  | Evaluation of potential drug- herb interactions among a group of Palestinian patients with chronic diseases. | BMC Complement Altern Med
+- new | 2015 | 25287958 |  | Beliefs about management of irritable bowel syndrome in primary care: cross-sectional survey in one locality. | Prim Health Care Res Dev
+- new | 2013 | 23337563 | Research Support, Non-U.S. Gov't | Complementary and alternative medicine use among Mauritian women. | Complement Ther Clin Pract
+- new | 2013 | 24478977 |  | Evaluation of the use of a peppermint mouth rinse for halitosis by girls studying in Tehran high schools. | J Int Soc Prev Community Dent
+- new | 2012 | 22516883 |  | Exposure to specific herbal products during pregnancy and the risk of low birth weight. | Altern Ther Health Med
+- new | 2012 | 22562537 | Clinical Trial | Peppermint oil solution is useful as an antispasmodic drug for esophagogastroduodenoscopy, especially for elderly patients. | Dig Dis Sci
+- new | 2007 | 17703180 |  | Cannabis; adverse effects from an oromucosal spray. | Br Dent J
+
+### PubMed REV - 225 hits, 11 not already listed above, 9 new
+- new | 2025 | 40543044 | Practice Guideline/Research Support, Non-U.S. Gov't | Esophageal and Oropharyngeal Dysphagia: Clinical Recommendations From the United European Gastroenterology and European Society for Neurogastroenterology and Motility. | United European Gastroenterol J
+- new | 2025 | 40844856 | Practice Guideline/Review/Consensus Statement | European Consensus on Functional Bloating and Abdominal Distension-An ESNM/UEG Recommendations for Clinical Management. | United European Gastroenterol J
+- new | 2024 | 39524109 | Review | An Overview of Commonly Used Natural Alternatives for the Treatment of Androgenetic Alopecia, with Special Emphasis on Rosemary Oil. | Clin Cosmet Investig Dermatol
+- new | 2023 | 37959863 | Review | Mentha piperita: Essential Oil and Extracts, Their Biological Activities, and Perspectives on the Development of New Medicinal and Cosmetic Products. | Molecules
+- new | 2022 | 36304597 | Review | Dietary supplements and bleeding. | Proc (Bayl Univ Med Cent)
+- HELD REF-1205 | 2022 | 35994817 | Review | Peppermint essential oil: its phytochemistry, biological activity, pharmacological effect and application. | Biomed Pharmacother
+- new | 2019 | 31720909 | Review | Functional Dyspepsia in the Elderly. | Curr Gastroenterol Rep
+- new | 2019 | 31230688 | Review | The Essentials of Essential Oils. | Adv Pediatr
+- HELD REF-1211 | 2015 | 25624208 | Research Support, Non-U.S. Gov't/Review | Peppermint antioxidants revisited. | Food Chem
+- new | 2011 | 21325845 | Review | Oral care. | Curr Probl Dermatol
+- new | 2006 | 16815990 | Review | Peppermint oil. | Pediatr Rev
+
+### ClinicalTrials.gov - 100 registered studies
+- NCT05617144 | COMPLETED | results=False | NA | Aromatherapy Protocol for Pain Reduction in Hospice Patients | conds: Pain | intr: Aromatherapy treatment
+- NCT04478630 | TERMINATED | results=False | NA | The Effects of Inhaled Aromatherapy on Chemotherapy Induced Nausea (CINV) and Vomiting | conds: Nausea, Vomiting | intr: Peppermint Essential Oil, Ginger Essential Oil, or Pure Vanilla Extract
+- NCT07320781 | COMPLETED | results=False | NA | Role of Preoperative Tapentadol in Reduction of Perioperative Analgesic Requirement After Breast Conservative Surgery in Cancer Patients. | conds: Breast Cancer | intr: Tapentadol, Placebo
+- NCT02716285 | COMPLETED | results=False | PHASE3 | Peppermint Oil for the Treatment of Irritable Bowel Syndrome: Optimizing Therapeutic Strategies Using Targeted Delivery | conds: Irritable Bowel Syndrome, Abdominal Pain, Colonic Diseases, Functional | intr: Ileocolonic release peppermint oil, Placebo, Small intestinal release peppermint oil | pubs: ['34468079:DERIVED (new)', '31470006:DERIVED (HELD REF-3664)']
+- NCT05300750 | COMPLETED | results=False | NA | The Effect of Post Cesarean Section Protocol of Care on Early and Follow up Outcomes | conds: Cesarean Section | intr: Oral fluids, Chewing gum
+- NCT04831294 | UNKNOWN | results=False | NA | Effects of Cannabidiol (CBD) on the Brain | conds: CBD, Fear, Inhibition | intr: Cannabidiol, Placebo
+- NCT05328973 | COMPLETED | results=True | PHASE2 | Intraoperative Aromatherapy Versus Placebo for Port-a-Cath Placement Under Monitored Anesthesia Care. A Randomized Controlled Trial | conds: Cancer Pain | intr: ELEQUIL | pubs: ['38502819:DERIVED (new)']
+- NCT07866937 | NOT_YET_RECRUITING | results=False | NA | Peppermint and Decongestant Technique on Chronic Sinusitis | conds: Sinus Disease | intr: Sinus self-massage and inhalation of steated boiled peppermint
+- NCT01269671 | WITHDRAWN | results=False | PHASE1 | Efficacy of Combination Therapy vs Placebo for Pediatric Functional Abdominal Pain | conds: Functional Abdominal Pain, Irritable Bowel Syndrome, Functional Dyspepsia | intr: Melatonin, Peppermint Oil (mentharil), and Simethicone, Sugar pill
+- NCT02880397 | COMPLETED | results=False | NA | Garcinia Mangostana L.Pericarp Gel as a Local Drug Delivery in Treatment of Chronic Periodontitis | conds: Generalized Chronic Periodontitis | intr: Garcinia mangostana, Placebo gel | pubs: ['8841165:RESULT (new)', '314790:RESULT (new)', '19186342:RESULT (new)']
+- NCT03738657 | UNKNOWN | results=False |  | Gustatory Function Following Radiotherapy to the Head and Neck | conds: Head and Neck Cancer | intr: Olfactory screening, Quantative Gustatory Testing using Taste Strips
+- NCT07198243 | NOT_YET_RECRUITING | results=False | PHASE4 | The Effects of STW 5-II on Duodenal Mucosa and Symptoms in Functional Dyspepsia | conds: Functional Dyspepsia | intr: STW 5-II, Placebo
+- NCT01898520 | COMPLETED | results=False | PHASE3 | A Safety, Efficacy and Tolerability Study of Sativex for the Treatment of Spasticity in Children Aged 8 to 18 Years | conds: Cerebral Palsy | intr: Sativex, Placebo
+- NCT03945461 | COMPLETED | results=False | NA | Return of Bowel Function After One or Two Level Anterior Lumbar Interbody Fusion With Chewing Gum | conds: Spondylosis, Spondylolisthesis, Neurogenic Claudication, Foraminal Stenosis | intr: Chewing gum
+- NCT06208800 | UNKNOWN | results=False | NA | The Effect of Aromatherapy on Sleep and Cognitive Level in the Elderly | conds: Insomnia, Cognitive Impairment, Elderly | intr: Blend Aromatherapy | pubs: ['42011111:DERIVED (new)']
+- NCT05990140 | UNKNOWN | results=False | NA | The Effect of Peppermint Flavored Mouthwash Applied to Patients | conds: Postoperative Complications | intr: peppermint flavored mouthwash
+- NCT03726840 | COMPLETED | results=False | NA | Sensory Stimulation During Simulated Driving | conds: Behavior | intr: Fragrance
+- NCT03286764 | COMPLETED | results=False | NA | Use of Peppermint Oil During Screening Colonoscopy to Improve Visibility | conds: Enhancement of the ADR During Colonoscopy | intr: Peppermint Oil, Distilled water
+- NCT05136066 | COMPLETED | results=False | NA | Effects of Massage With Peppermint Oil on Labor Pain | conds: Labor Pain | intr: massage with peppermint oil
+- NCT04091789 | UNKNOWN | results=False | PHASE2 | Sublingual Tablets With Cannabinoid Combinations for the Treatment of Dysmenorrhea | conds: Dysmenorrhea, Headache, Migraine, Fatigue, Nausea | intr: Pure Femme Tablets
+- NCT01606137 | COMPLETED | results=True | PHASE3 | A Study of the Long-term Safety of Sativex Use | conds: Multiple Sclerosis, Spasticity, Pain | intr: GW-1000-02 | pubs: ['22878432:RESULT (new)']
+- NCT04118322 | COMPLETED | results=False | NA | The Effect of Peppermint Oil on Nausea, Vomiting and Retching in Cancer Patients Undergoing Chemotherapy | conds: Chemotherapy Effect, Adverse Effect, Nursing Caries | intr: aromatherapy (peppermint oil)
+- NCT07403604 | RECRUITING | results=False | PHASE1 | Effect of Insulin Lowering on Lipogenesis | conds: Hyperinsulinemia, Insulin Resistance, Non-Alcoholic Fatty Liver Disease, Prediabetic State | intr: Placebo, Diazoxide Oral Suspension, 2 mg per kg per dose, Deuterated water (2H2O/D2O), 70%, Insulin 
+- NCT05677698 | COMPLETED | results=False | NA | Menoupausal Symptoms and Aromatherapy | conds: Aromatherapy | intr: Lemon oil, peppermint oil, Almond oil | pubs: ['37743153:DERIVED (new)']
+- NCT03745599 | COMPLETED | results=False | PHASE4 | Evaluation of the Effects of Different Analgesics on Pericoronitis Pain and Quality of Life | conds: Pain, Quality of Life | intr: Diclofenac, Flurbiprofen, Benzydamine
+- NCT01599234 | COMPLETED | results=True | PHASE3 | A Study to Evaluate the Efficacy of Sativex in Relieving Symptoms of Spasticity Due to Multiple Sclerosis | conds: Multiple Sclerosis | intr: Sativex, Placebo | pubs: ['20307378:RESULT (new)', '25475413:DERIVED (new)']
+- NCT00711646 | COMPLETED | results=True | PHASE3 | A Study of Sativex® for Relief of Spasticity in Subjects With Multiple Sclerosis. | conds: Spasticity, Multiple Sclerosis | intr: Sativex®, Placebo | pubs: ['17355549:RESULT (new)', '25475413:DERIVED (new)']
+- NCT01604265 | COMPLETED | results=True | PHASE3 | A Study of Sativex in the Treatment of Central Neuropathic Pain Due to Multiple Sclerosis | conds: Multiple Sclerosis, Neuropathic Pain | intr: Placebo, Sativex | pubs: ['16186518:RESULT (new)']
+- NCT05282706 | COMPLETED | results=False | PHASE1 | Use of Aromatherapy in Conjunction With Physical/Occupational Therapy in an Acute Care Setting | conds: Suffering, Physical, Nausea | intr: Lavender Oil, Mandarin Oil, Peppermint oil, Placebo
+- NCT05855369 | RECRUITING | results=False | PHASE2,PHASE3 | Study of Chemosensory Enhancement Through Neuromodulation Training (SCENT for Long COVID) | conds: Smell Dysfunction, Olfactory Disorder, Long COVID | intr: Trigeminal Nerve Stimulation (TNS), Active Smell Training (ST), Placebo Smell Training (PBO)
+- NCT04497870 | WITHDRAWN | results=False | PHASE1 | Peppermint Oil Pharmacokinetics/Dynamics | conds: Abdominal Pain | intr: Peppermint oil
+- NCT00702468 | COMPLETED | results=True | PHASE3 | Evaluate the Maintenance of Effect After Long-term Treatment With Sativex® in Subjects With Symptoms of Spasticity Due to Multiple Sclerosis | conds: Spasticity, Multiple Sclerosis | intr: Sativex, Placebo | pubs: ['21878454:RESULT (new)', '25475413:DERIVED (new)']
+- NCT02325011 | COMPLETED | results=False | PHASE1 | An Study to Evaluate the Effects of Fluconazole on the Pharmacokinetics (PK) of Sativex® in Healthy Subjects With Cannabis Experience. | conds: Healthy Subjects | intr: Sativex® (Treatment A), Sativex® and fluconazole concomitantly (Treatment B)
+- NCT02802241 | COMPLETED | results=True | NA | Effects of Open-label vs Double-blind Treatment in IBS | conds: Irritable Bowel Syndrome, Placebo Effect, Placebos, Peppermint Oil | intr: placebo, peppermint oil | pubs: ['33605656:DERIVED (new)', '28545508:DERIVED (new)']
+- NCT07201883 | ACTIVE_NOT_RECRUITING | results=False | PHASE1 | Chewing Gum vs. Ondansetron as Rescue Treatment for PONV in Female Patients | conds: Postoperative Nausea and Vomiting (PONV) | intr: Ondansetron (Zofran), chewing gum, Ondansetron + Chewing gum | pubs: ['2286697:RESULT (new)']
+- NCT04966507 | COMPLETED | results=True | PHASE2 | Antibacterial Mouthwash for Pharyngeal Gonorrhea Prevention | conds: Gonorrhea | intr: Listerine Antiseptic Mouthwash Product, Biotene Mouthwash
+- NCT03480971 | RECRUITING | results=False | PHASE2 | Treatment of Radiation and Cisplatin Induced Toxicities with Tempol | conds: Mucositis, Nephrotoxicity, Ototoxicity | intr: Tempol, Placebo Solution
+- NCT01812616 | COMPLETED | results=False | PHASE1,PHASE2 | A Safety Study of Sativex Compared With Placebo (Both With Dose-intense Temozolomide) in Recurrent Glioblastoma Patients | conds: Cancer | intr: Sativex, Placebo | pubs: ['33623076:DERIVED (new)']
+- NCT07690644 | COMPLETED | results=False | NA | Quantitative In Vivo Monitoring of Early Erosion-Associated Enamel Optical Changes Using Swept-Source Optical Coherence Tomography. | conds: Dental Erosion, Erosive Tooth Wear | intr: Swept-Source Optical Coherence Tomography (SS-OCT), Orange Juice Erosive Challenge, Sugar-Free Chewi
+- NCT00711880 | COMPLETED | results=True | PHASE3 | A Study of Sativex® for Relief of Peripheral Neuropathic Pain Associated With Allodynia. | conds: Pain, Peripheral Neuropathy | intr: Sativex®, Placebo | pubs: ['17997224:RESULT (new)']
+- NCT03370328 | COMPLETED | results=False | NA | Reducing Up-set Stomach and Vomiting After Surgery Using Essential Oils | conds: Nausea | intr: Peppermint oil, Ginger oil
+- NCT00610779 | COMPLETED | results=False | PHASE1,PHASE2 | Treatment of Acute Rhino-Sinusitis With Essential Oils of Aromatic Plants | conds: Rhino-Sinusitis | intr: mixture of aromatic essential oils., placebo
+- NCT06475482 | COMPLETED | results=False | NA | Development of a Novel Polyherbal Lip Hydrant for Improving Biophysical Barrier of the Lips | conds: Cheilitis | intr: Lip hydrant, Petroleum gel | pubs: ['40013415:DERIVED (new)']
+- NCT00611390 | COMPLETED | results=False | PHASE1,PHASE2 | Treatment of Acute Tracheitis and Laryngitis With Essential Oils of Aromatic Plants | conds: Viral Laryngitis, Viral Tracheitis | intr: mixture of aromatic essential oils., placebo
+- NCT02440997 | COMPLETED | results=False | NA | A Preliminary Investigation of the Efficacy of Aromatherapy in Reducing Discomfort in Youth With Chronic Headache | conds: Chronic Headache, Migraine Headache, Headache | intr: aromatherapy, foot bath | pubs: ['37730471:DERIVED (HELD REF-3667)']
+- NCT02163369 | UNKNOWN | results=False | NA | The Use of Aromatherapy for Symptom Management | conds: Nausea, Vomiting and Anxiety Associated With Medical Oncology Patients | intr: Peppermint and Lavender Essential Oils
+- NCT04657666 | COMPLETED | results=True | PHASE3 | Trial to Evaluate the Effect of Nabiximols Oromucosal Spray on Clinical Measures of Spasticity in Participants With Multiple Sclerosis | conds: Spasticity in Participants With Multiple Sclerosis | intr: Nabiximols, Placebo | pubs: ['39106541:DERIVED (new)']
+- NCT05799053 | COMPLETED | results=False | PHASE3 | Peppermint Oil for the Treatment of Irritable Bowel Syndrome or Functional Abdominal Pain in Children: the MINT Study | conds: Irritable Bowel Syndrome, Functional Abdominal Pain Syndrome, Child, Adolescent | intr: Small intestinal release peppermint oil, Peppermint sweets, Placebo | pubs: ['41610933:DERIVED (new)']
+- NCT05197413 | COMPLETED | results=False | NA | Study to Evaluate the Efficacy of Arrae's Bloat & Calm Alchemy Capsules to Reduce Bloating, Heartburn and Gas, and Alleviate the Intensity o | conds: IBS - Irritable Bowel Syndrome, Anxiety | intr: Arrae bloat supplement
+- NCT01747850 | COMPLETED | results=True | PHASE2 | Sativex and Behavioral-relapse Prevention Strategy in Cannabis Dependence | conds: Cannabis Dependence | intr: Motivational Enhancement/Cognitive Behavioral Therapy, Sativex, Placebo spray | pubs: ['37692969:DERIVED (new)']
+- NCT07834866 | COMPLETED | results=False | PHASE4 | Topical Lidocaine for Digital Nerve Block Pain | conds: Finger Injuries, Procedural Pain | intr: Topical Lidocaine Spray, Placebo Spray
+- NCT04934969 | COMPLETED | results=False | NA | The Adjunctive Use of Lavender and Peppermint Essential Oils | conds: Joint Diseases | intr: Adjunctive use of lavender and peppermint essential oils
+- NCT05839236 | UNKNOWN | results=False | PHASE1 | COVID-19 Vaccination Detoxification in LDL-C | conds: COVID-19 Stress Syndrome, COVID-19 Vaccine Adverse Reaction, COVID-19-Associated Thromboembolism, COVID-19 Post-Intensive Care Syndrome | intr: Atorvastatin Calcium Tablets
+- NCT06045078 | COMPLETED | results=True | NA | Aromatherapy in Total Knee Replacement | conds: Total Knee Replacement, Post-operative Nausea and Vomiting, Opioid Use, Anxiety | intr: Elequil Lavender-peppermint Aromatabs, Elequil Almond-Oil Aromatabs | pubs: ['34619742:RESULT (new)', '31389832:RESULT (new)', '27555173:RESULT (new)', '34820153:RESULT (new)', '32308715:RESULT (new)', '32985338:RESULT (new)', '27333231:RESULT (new)', '28070420:RESULT (new)', '23573142:RESULT (new)', '17894152:RESULT (new)', '17129308:RESULT (new)', '23932834:RESULT (new)', '26261829:RESULT (new)', '27863613:RESULT (HELD REF-5445)', '22049287:RESULT (new)', '22588767:RESULT (new)', '34196978:RESULT (new)', '21697139:RESULT (new)', '35857151:RESULT (new)', '40828687:DERIVED (new)']
+- NCT07127523 | NOT_YET_RECRUITING | results=False | NA | A Clinical Trial to Investigate the Efficacy and Safety of GenLabs' Social Renew on Improving Acne Symptoms and Skin Repair Among Healthy Ad | conds: Acne | intr: Social Renew, Placebo
+- NCT06414161 | UNKNOWN | results=False | NA | Management of Radiotherapy-related Xerostomia With Green Tea and Peppermint | conds: Radiation-induced Xerostomia | intr: mix of (green tea and peppermint)
+- NCT05539560 | UNKNOWN | results=False | NA | The Effect of Olfactory Training in Patients With COVID-19 Induced Olfactory Dysfunction | conds: COVID-19 | intr: Olfactory training with essential oils, Olfactory training with fragrance-free oils | pubs: ['40371997:DERIVED (new)']
+- NCT04560114 | COMPLETED | results=True | PHASE2 | Effect of Inhaled Aromatherapy on Chemo-Induced Nausea Vomiting (NCVI): CINVAROM (Chemotherapy Induced Nausea Vomiting and AROMatherapy) | conds: Nausea and Vomiting, Aromatherapy, Essential Oil, Suportive Care | intr: Essential oils
+- NCT01877421 | COMPLETED | results=True | PHASE1,PHASE2 | Safety and Tolerability of Antiplaque Chewing Gum in a Gingivitis Population | conds: Plaque, Gingivitis | intr: 2 mg KSL-W, 4 mg KSL-W, 6 mg KSL-W, 10 mg KSL-W | pubs: ['39466933:DERIVED (new)']
+- NCT05559814 | COMPLETED | results=False | NA | Intraluminal Peppermint Oil and Adenoma Detection Rate in Screening Colonoscopy | conds: Colonic Polyp | intr: Intraluminal peppermint oil, Placebo
+- NCT04874298 | UNKNOWN | results=False | NA | The Effect of Ginger and Peppermint on Postoperative Nausea and Vomiting in Patients After Thyroid Surgery | conds: Postoperative Nausea and Vomiting | intr: Ginger, Peppermint
+- NCT05447104 | COMPLETED | results=False | NA | Salivary Flow Promoted by Sugar-Free Chewing Gum | conds: Saliva Altered | intr: Mastication
+- NCT02364830 | COMPLETED | results=False | PHASE3 | Clinical Effectiveness of Enteric Coated(E.C.) Anise-oil on Irritable Bowel Syndrome | conds: Irritable Bowel Syndrome | intr: Anise-oil EC Capsule, Placebo, Colpermin®
+- NCT07103460 | NOT_YET_RECRUITING | results=False | NA | Essential Oil-Assisted Respiratory Training in Type 2 Diabetic Patients With Lung Infections | conds: Type 2 Diabetes Mellitus (T2DM), Pulmonary Infections, Pneumonia | intr: Essential Oil Diffusion Combined with Respiratory Training
+- NCT04449315 | COMPLETED | results=False | NA | Outpatient Oncology Aromatherapy for Symptom Management | conds: Anxiety, Nausea | intr: Young Living Lavender Essential Oil
+- NCT01868048 | WITHDRAWN | results=False | PHASE3 | Phase 3, 28-week, Randomized, Double-blind, Placebo-controlled Safety and Efficacy Study of Nabiximols as an add-on Therapy in Subjects With | conds: Spasticity, Multiple Sclerosis | intr: Sativex, Placebo
+- NCT01855269 | COMPLETED | results=False | NA | Lactobacillus Reuteri Versus Herbal Drop in the Treatment of Infantile Colic: a Prospective Study | conds: Crying | intr: Lactobacillus reuteri, Herbal drop, placebo sterile water | pubs: ['17200238:RESULT (new)']
+- NCT01424566 | COMPLETED | results=True | PHASE3 | A Two-Part Study of Sativex® Oromucosal Spray for Relieving Uncontrolled Persistent Pain in Patients With Advanced Cancer | conds: Pain, Advanced Cancer | intr: Nabiximols, Placebo (GA-0034)
+- NCT01337089 | COMPLETED | results=True | PHASE3 | Long Term Safety of Sativex Oromucosal Spray (Sativex®; Nabiximols) as Adjunctive Therapy in Patients With Uncontrolled Persistent Chronic C | conds: Pain, Advanced Cancer | intr: Nabiximols
+- NCT05251337 | COMPLETED | results=True | PHASE2 | Use of Aromatherapy to Reduce Symptom Burden | conds: Anxiety, Chemotherapy-induced Nausea and Vomiting | intr: Essential oils, Placebo
+- NCT05333315 | COMPLETED | results=False | NA | Clinical Trials of Five Different Food Supplements With Restriction Diet in Adults | conds: Overweight and Obesity, Inflammation, Hypercholesterolemia, Hypertension | intr: IP1, IP2, IP3, IP4
+- NCT01898091 | COMPLETED | results=True | PHASE2 | Herbal Mouthrinse for Oral Mucositis Study | conds: Oral Mucositis | intr: Neem Mouthrinse, Placebo Mouthrinse | pubs: ['18973181:RESULT (new)']
+- NCT07093138 | RECRUITING | results=False | PHASE4 | Evaluation of Efficacy and Safety of Topical Cannabidiol (Canvert-M Produced by Alasht Pharmed co. Iran) in the Treatment of Migraine Attack | conds: Migraine Disorders | intr: Canvert-M (Produced by Alasht Pharmed co. Iran)
+- NCT01051726 | UNKNOWN | results=False | PHASE2 | Effects of Aromatherapy on Childbirth | conds: Parturition, Natural Childbirth, Labor Pain | intr: Aromatherapy oil, None essential oil
+- NCT06488807 | RECRUITING | results=False | NA | Treatment of Perioperative Neurocognitive Disorders With Olfactory Enrichment | conds: Perioperative Neurocognitive Disorder | intr: Olfactory Enrichment, Sham | pubs: ['41013688:DERIVED (new)']
+- NCT07326163 | ENROLLING_BY_INVITATION | results=False | NA | The Effect of Peppermint Oil Aromatherapy on Pain, Functional Capacity and Cost in Fibromyalgia Patients | conds: Fibromyalgia, Aromatherapy, Cost | intr: Peppermint Oil, sweet almond oil, Duloxetine
+- NCT04484467 | COMPLETED | results=False | NA | Efficacy and Safety of a Food Supplement With Standardized Menthol, Limonene, and Gingerol Content in Patients With Irritable Bowel Syndrome | conds: Irritable Bowel Syndrome, Irritable Bowel Syndrome With Diarrhea, Irritable Bowel Syndrome With Constipation, Irritable Bowel Syndrome Mixed | intr: Food Supplement With Standardized Menthol, Limonene, and Ginger, Placebo | pubs: ['35704960:DERIVED (new)']
+- NCT07126301 | RECRUITING | results=False | NA | Aromatherapy Essential Oils to Manage Anxiety and Nausea in Cancer Patients Receiving Infusion in the Ambulatory Setting | conds: Hematopoietic and Lymphatic System Neoplasm, Malignant Solid Neoplasm | intr: Aromatherapy and Essential Oils, Aromatherapy and Essential Oils, Aromatherapy and Essential Oils, A
+- NCT07769905 | NOT_YET_RECRUITING | results=False | PHASE1 | Novel Irrigation Solution for Colonoscopy Visualization Pilot | conds: Colonoscopy | intr: Olympus colonoscope, Irrigation solution
+- NCT03475836 | COMPLETED | results=False | NA | Cognitive Effects of Mint Essential Oil | conds: Cognitive Change, Affect | intr: Mentha piperita, Placebo
+- NCT07537101 | NOT_YET_RECRUITING | results=False | NA | Effectiveness of a Combined Aloe Vera-Peppermint Gel on Prevention Pressure Injuries Among Intensive Care Unit Patients | conds: Pressure Injury | intr: combined Aloe Vera-Peppermint gel
+- NCT07088601 | NOT_YET_RECRUITING | results=False | PHASE4 | Efficacy of Oral Ondansetron Strips on Prevention of Post-Spinal Shivering | conds: Post-Spinal Shivering | intr: Oral ondansetron strips, Placebo (oral peppermint strip)
+- NCT04966546 | WITHDRAWN | results=False | EARLY_PHASE1 | Targeting Spreading Depolarization After Chronic Subdural Hematoma Surgery (TASD) | conds: Chronic Subdural Hematoma | intr: Memantine Hydrochloride, Placebo | pubs: ['39651891:DERIVED (new)']
+- NCT04474951 | UNKNOWN | results=False | NA | Food Supplements Based on Nettle and Peppermint to Control Signs and Symptoms Induced by Cancer Therapies | conds: Breast Cancer, Gynecologic Cancer | intr: Stinging Nettle, Stinging Nettle, Peppermint
+- NCT05541809 | COMPLETED | results=False | NA | Peppermint Aroma and Physiological Parameters | conds: Mechanical Ventilation Complication | intr: Aromatherapy, Placebo
+- NCT01748799 | COMPLETED | results=True | NA | Fixed or Self-Titrated Dosages of Sativex on Cannabis Users | conds: Cannabis Dependence | intr: Sativex, Placebo
+- NCT03295747 | COMPLETED | results=False | PHASE1 | Peppermint Oil Pharmacokinetics/Dynamics and Novel Biological Signatures in Children With Functional Abdominal Pain | conds: Abdominal Pain | intr: Peppermint oil | pubs: ['34528282:RESULT (new)', '35048535:RESULT (new)']
+- NCT04252209 | COMPLETED | results=False | PHASE3 | the Effect of Mixture of Natural Products As Salivary Substitutes in Treatment Of Xerostomia | conds: Sjogren's Syndrome, Xerostomia | intr: natural herbs of coconut, aloe vera, and pepperint, carboxy methyl cellulose | pubs: ['30050964:RESULT (new)']
+- NCT02588248 | TERMINATED | results=True | PHASE3 | L-Menthol Injection as a Novel Technique During Colonoscopy | conds: Colonic Polyps, Colon Cancer | intr: Peppermint Oil, Placebo
+- NCT06914921 | COMPLETED | results=False | NA | Enteric-Coated Peppermint Oil Versus Standard Antispasmodic in SLC6A4 (5-HTTLPR) Carriers With Irritable Bowel Syndrome. | conds: Irritable Bowel Syndrome (IBS) | intr: Peppermint Oil, A standard antispasmodic
+- NCT03641482 | COMPLETED | results=False | NA | NBF Gingival Gel Application After Impacted Lower Third Molar Surgery | conds: Alveolar Osteitis | intr: NBF, Placebo
+- NCT07179094 | NOT_YET_RECRUITING | results=False | NA | The Effect of a Protective Oral Care Protocol Using Peppermint Oil Mouthwash | conds: Hematologic Neoplasms, Nausea, Vomiting, Anorexia | intr: Routine Protective Oral Care, Protective Oral Care Using Peppermint Oil Mouthwash
+- NCT04842383 | UNKNOWN | results=False | EARLY_PHASE1 | Androgenetic Alopecia Treatment Using Varin and Cannabidiol Rich Topical Hemp Oil: A Case Series | conds: Androgenetic Alopecia | intr: Hemp Oil
+- NCT03669107 | COMPLETED | results=False | NA | Effect of Chewing Gum on Gastrointestinal Function Recovery After Surgery of Gynecological Cancer Patients | conds: Gum Chewing | intr: Gum | pubs: ['23906657:RESULT (new)']
+- NCT04538300 | COMPLETED | results=False | NA | Treatment of Postoperative Nausea-Vomiting in Laparoscopic Cholecystectomy: Peppermint-Flavored Gum Versus Gum-Free | conds: Postoperative Nausea and Vomiting, Chewing Gum | intr: Abramowitz Emesis Score, Degree of nausea, Observer's Assessment of Alertness/Sedation Scale, Patien
+- NCT05520411 | COMPLETED | results=False | NA | Examining the Effectiveness of Digestive Enzymes at Reducing Bloating and Stomach Distension | conds: Stomach Distended, Bloating | intr: HUM Flatter Me
+- NCT04110600 | COMPLETED | results=False | NA | Efficacy of Coffee Versus Peppermint Oil Intake in Promoting GIT Motility After Cesarean Section | conds: Gastrointestinal Motility and Defecation Conditions | intr: Coffee effect on early gastric motility, Efficacy pepper mint oil on motility
+- NCT01610713 | COMPLETED | results=True | PHASE3 | An Study to Investigate the Efficacy of Delta-9-tetrahydrocannabinol (THC) and Cannabidiol (CBD) in Multiple Sclerosis | conds: Multiple Sclerosis | intr: GW-1000-02 | pubs: ['15327042:RESULT (new)', '25475413:DERIVED (new)']
+- NCT05644262 | COMPLETED | results=False | PHASE2 | Life's End Benefits of cannaBidiol and tetrahYdrocannabinol | conds: Agitation, Dementia | intr: T2:C100, Placebo | pubs: ['40562636:DERIVED (new)']
+- NCT06950632 | NOT_YET_RECRUITING | results=False | NA | This Study Will Investigate the Effectiveness of Peppermint Oil Inhalation in Reducing the Intensity and Frequency of Acute Nausea and Vomit | conds: Chemotherapy Induced Nausea and Vomiting | intr: Pepppermint oil inhalation, Placebo
+
+### OpenAlex no-PMID trial-worded - 3798 hits, 41 without PMID, 41 new
+- new | 2026 | 10.1016/j.aimed.2026.100747 | review | The effect of inhalation aromatherapy with herbal essential oils on sleep quality in post-surgical patients: A systematic review of randomized controlled trials | Advances in Integrative Medicine
+- new | 2026 | 10.5281/zenodo.23219727 | article | Clinical Effects of a Herbal Mouthwash Compared With 0.12% Chlorhexidine After Mandibular Third Molar Extraction: A Randomized Controlled Trial | Zenodo (CERN European Organization for N
+- new | 2026 | 10.5812/jjnpp-172463 | article | Efficacy of a Pomegranate–Mint Syrup in Managing Chemotherapy-Induced Nausea and Vomiting in Breast Cancer: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial | Jundishapur Journal of Natural Pharmaceu
+- new | 2026 | 10.1016/j.ctmp.2026.200305 | article | A randomized controlled trial comparing Unani formulation and metformin in patients with polycystic ovarian syndrome | Clinical Traditional Medicine and Pharma
+- new | 2025 | 10.1016/j.aimed.2025.100489 | article | The effect of peppermint (Mentha piperita. L) essential oil aromatherapy on premenstrual syndrome: A randomized controlled trial protocol | Advances in Integrative Medicine
+- new | 2025 | 10.33552/gjnfs.2025.05.000615 | article | The Efficacy of Apple Mint Extract as a Nutraceutical Supplement for Skin Brightening: A Double-Blind, Randomized, Placebo-Controlled Clinical Study | Global Journal of Nutrition & Food Scien
+- new | 2025 | 10.5812/jcp-135635 | article | A Multicenter Randomized Controlled Trial on the Safety and Efficacy of Ketamine Mouthwash for Chemotherapy-Induced Oral Mucositis in Pediatric Patients | Journal of Comprehensive Pediatrics
+- new | 2025 | 10.61716/jnj.v3i1.98 | article | The Effect of Peppermint Aromatherapy (Mentha Piperita Leaf) On Reducing Post Dural Puncture Headache Pain in Post-Spinal Anesthesia Patients | Java Nursing Journal
+- new | 2024 | 10.1016/j.hermed.2024.100886 | article | The Effect of Mentha spicata Essential Oil (Supermint Oral Drops) on Gastric Residual Volume in Mechanically Ventilated Intensive Care Unit Patients: A Parallel-Group, Triple-Blind | Journal of Herbal Medicine
+- new | 2024 | 10.1136/rapm-2024-esra.497 | conference-abstract | Aromatherapy for post-operative anxiety and pain after primary unilateral total knee replacement: a pilot randomized controlled trial | Regional Anesthesia & Pain Medicine
+- new | 2024 | 10.37609/akya.2380.c13900 | book-chapter | Nane (Mentha Piperita) | Akademisyen Kitabevi eBooks
+- new | 2023 | 10.1007/s11332-023-01101-8 | article | Effects of peppermint oil (Mentha piperita L.) on cardiometabolic and other health-related outcomes: a parallel placebo randomized controlled trial | Sport Sciences for Health
+- new | 2023 | 10.15562/bmj.v12i3.4376 | article | The aromatherapy relaxation effect of lavender (Lavandula angustifolia) and peppermint (Mentha piperita) against decreased stress in patients with pulmonary tuberculosis | Bali Medical Journal
+- new | 2023 | 10.53555/jptcp.v30i19.3588 | article | AMELIORATIVE EFFECT OF PEPPERMINT OIL (MENTHA PIPERITA L.) IN LIVER FUNCTION AND SERUM LIPID PEROXIDATION BIOMARKERS IN MALE ALBINO RATS WITH INDUCED NONALCOHOLIC FATTY LIVER DISEA | 
+- new | 2022 | 10.53945/2320-7094.1075 | article | Homoeopathic pathogenetic trial of Mentha piperita L.: A multi-centric, double-blind, randomised and placebo-controlled trial | Indian Journal of Research in Homoeopath
+- new | 2022 | 10.38209/2708-2636.1125 | article | Evaluation of Pain-Relieving Effect of Menthol and Benzocaine Patches in Orthodontic Patients: A Triple-Blind Randomized Controlled Trial | Chǐʼèjiǎozhèng xuéhuì zázhì/Journal of T
+- new | 2021 | 10.34172/jhp.2022.01 | review | The effects of aromatherapy on patients undergoing coronary angiography: A systematic review of clinical trials | Journal of Herbmed Pharmacology
+- new | 2021 | 10.21608/ejhm.2021.197710 | article | Impact of Sugarless Chewing gum Versus Peppermint on First Bowel Movement after Cesarean Section: Randomized Controlled Trial | The Egyptian Journal of Hospital Medicin
+- new | 2021 | 10.17221/114/2021-pse | article | Effects of harvest stage and diurnal variability on yield and essential oil content in Mentha × piperita L. | Plant Soil and Environment
+- new | 2020 | 10.26463/rjps.10_1_7 | article | A Detailed Review on Pharmacological Profile of Mentha piperita | Rajiv Gandhi University of Health Scienc
+- new | 2020 | 10.22038/jmds.2020.45802.1871 | article | Comparison of the Effect of Herbal Mouthwashes and Chlorhexidine on Gingival Healing After Crown Lengthening Surgery (A Clinical Trial) | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2020 | 10.3390/agronomy10121950 | article | Biochar and Its Effects on Plant–Soil Macronutrient Cycling during a Three-Year Field Trial on Sandy Soil with Peppermint (Mentha piperita L.). Part I: Yield and Macro Element Cont | Agronomy
+- new | 2019 | 10.5220/0009488402860292 | conference-paper | The Effects of Simple Inhalation using Mint (Mentha Piperita) Aromatherapy on Decreased Shortness of Breath in Lung Tuberculosis Patients | International Conference on Health Infor
+- new | 2019 | 10.2298/mpns1912339z | article | The efficacy and tolerability of Avaricon® hemor medical preparation in the treatment of hemorrhoids compared to placebo – a prospective double blind randomized clinical study | Medicinski pregled
+- new | 2018 | 10.21608/rjab.2018.106784 | article | Genetic variations among two Egyptian mint species (Mentha spicata and Mentha piperita) using random amplified Polymorphic DNA markers | Research Journal of Applied Biotechnolog
+- new | 2017 | 10.1016/j.eujim.2017.04.009 | article | The effects of aromatherapy essential oil inhalation on stress, sleep quality and immunity in healthy adults: Randomized controlled trial | European Journal of Integrative Medicine
+- new | 2017 | 10.23751/pn.v19i1-s.5171 | article | The effect of chamomile tea consumption on inflammation among rheumatoid arthritis patients: randomized clinical trial | Progress in nutrition
+- new | 2016 | 10.17650/2222-8721-2016-6-2-41-46 | article | Comparative randomized open-label trial on efficacy and safety of Persen® and Persen® Night herbal extracts in patients with short-term insomnia | Neuromuscular Diseases
+- new | 2016 | https://openalex.org/W2596354021 | article | The effect of aroma therapy with peppermint on acute nausea and vomiting induced by chemotherapy among breast cancer patients: Randomized control trial | Journal of Hematology & Thromboembolic D
+- new | 2016 | 10.1016/j.hermed.2016.05.001 | article | The effect of peppermint (Mentha piperita) capsules on the severity of primary dysmenorrhea | Journal of Herbal Medicine
+- new | 2015 | 10.1055/s-0035-1559279 | article | Menthacarin for the Treatment of Epigastric Pain Syndrome (EPS) and Postprandial Distress Syndrome (PDS): Data of a placebo-controlled trial revisited | Zeitschrift für Gastroenterologie
+- new | 2015 | 10.17795/jjnpp-21517 | article | Preparation of Strong Antidandruff Shampoo Using Medicinal Plant Extracts: A Clinical Trial and Chronic Dandruff Treatment | Jundishapur Journal of Natural Pharmaceu
+- new | 2012 | https://openalex.org/W2271519799 | article | Antiplaque and antigingivitis effect of ocimum gratissimum gel: a randomized double-blinded clinical trial | Periodontia
+- new | 2012 | 10.15835/nsb448185 | article | Effect of Cadmium and Lead on Quantitative and Essential Oil Traits of Peppermint (Mentha piperita L.) | Notulae Scientia Biologicae
+- new | 2011 | 10.5897/jmpr.9001196 | article | The effect of drought stress on growth parameters, essential oil yield and constituent of Peppermint (Mentha piperita L.) | Journal of Medicinal Plants Research
+- new | 2010 | 10.1016/j.livsci.2010.01.021 | article | Growth performance, serum biochemistry and blood hematology of broiler chicks fed different levels of black seed (Nigella sativa) and peppermint (Mentha piperita) | Livestock Science
+- new | 2010 | https://openalex.org/W3021373676 | article | The effect of salinity stress on growth parameters, essential oil yield and constituent of peppermint (Mentha piperita L.). | World Applied Sciences Journal
+- new | 2009 | https://openalex.org/W2282957020 | article | The effect of Hydroalcoholic Extract of Mentha Piperita (Complement Treatment) on Severity of Depressed Patients | Armaghane Danesh
+- new | 2006 | https://openalex.org/W2110316621 | article | The Effects of Odor on Compliance and Willingness to Volunteer | 
+- new | 2004 | https://openalex.org/W2337579463 | review | A review of medicinal uses and pharmacological effects of Mentha piperita | 
+- new | 2001 | 10.21273/hortsci.36.4.761 | article | Use of Random Amplified Polymorphic DNA Markers for Cultivar Identification in Mint | HortScience
+
+## momordica-charantia (Momordica charantia) - name clause: "Momordica charantia"[tiab] OR "bitter melon"[tiab] OR "bitter gourd"[tiab] OR "karela"[tiab]
+
+### PubMed HT - 93 hits, 93 not already listed above, 84 new
+- new | 2026 | 42210833 |  | [Role of spices in the management of diabetes and gestational diabetes]. | Rev Med Suisse [fre]
+- new | 2026 | 42106488 |  | Foliar application of allantoin and serotonin mitigates salinity stress in bitter melon (Momordica charantia L.). | Sci Rep
+- new | 2026 | 43075833 |  | Elucidating Genetic Divergence in Bitter Gourd (Momordica charantia L.) Genotypes. | Recent Adv Food Nutr Agric
+- new | 2026 | 41808727 |  | Co-application of Acinetobacter calcoaceticus and L-tryptophan enhances growth, physiology, and yield in bitter gourd. | 3 Biotech
+- new | 2026 | 41599921 | Observational Study | Phytotherapeutic Supplementation with Momordica charantia: Beneficial Effects in Patients with Suboptimal Glycemic Control on Double Antidiabetic Therapy-A Real-World Evidence Obse | Nutrients
+- new | 2026 | 42703470 |  | Quinary Prevention in Patients With Type 2 Diabetes Mellitus Included in the Family Adoption Programme of a Medical College in Jaipur: A Qualitative Study. | Cureus
+- new | 2025 | 40199408 | Randomized Controlled Trial | Bitter gourd (Momordica charantia L.) supplementation for twelve weeks improves biomarkers of glucose homeostasis in a prediabetic population. | J Ethnopharmacol
+- new | 2025 | 41514586 | Review | Nutritional Impact on Breast Cancer in Menopausal and Post-Menopausal Patients Treated with Aromatase Inhibitors. | Cancers (Basel)
+- new | 2025 | 41280283 | Review | Efficacy of Momordica charantia in glycaemic control and insulin resistance among patients with prediabetes and type 2 diabetes. A GRADE-adherent meta-analysis of randomised contro | Metabol Open
+- new | 2025 | 39840393 | Review | Herbal Medicines as Complementary Therapy for Managing Complications in COVID-19 Patients with Diabetes Mellitus. | Diabetes Metab Syndr Obes
+- new | 2025 | 41422134 |  | Factors associated with herbal usage among hypertensive and diabetic patients in Yogyakarta, Indonesia: A cross-sectional study. | Sci Rep
+- new | 2025 | 41068695 |  | Complementary and alternative medicine use among patients with type-2 diabetes mellitus attending a suburban tertiary healthcare centre in Sri Lanka. | BMC Complement Med Ther
+- new | 2025 | 40050646 |  | Effect of Hoagland's nutrient solution strengths and sodium silicate on growth, yield and biochemical parameters of Carla (Momordica Charantia L.) under hydroponic conditions. | Sci Rep
+- new | 2025 | 39536276 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Investigation of the Influence of a Bitter Melon Product on Indicators of Cardiometabolic Health in Adults with Prediabetes. | J Am Nutr Assoc
+- new | 2024 | 38415194 | Review | Immunomodulatory Role of Plants and Their Constituents on the Management of Metabolic Disorders: An Evidence-Based Review. | Drug Des Devel Ther
+- new | 2024 | 38403345 |  | [Preparation and effectiveness evaluation of placebo of Jiawei Ermiao Granules]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2024 | 39817107 |  | Antibacterial Activity of Crude Momordica charantia, Cassia alata, and Allium sativum Methanolic Extracts on Leptospira interrogans serovar Manilae. | Acta Med Philipp
+- HELD REF-3673 | 2024 | 39444254 | Meta-Analysis/Systematic Review | The Effects of Bitter Melon ( Mormordica charantia ) on Lipid Profile: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Phytother Res
+- new | 2024 | 39079610 | Meta-Analysis/Systematic Review | The effects of bitter melon (Momordica charantia) on anthropometric indices in adults: A systematic review and meta-analysis of randomized controlled trials. | Prostaglandins Other Lipid Mediat
+- new | 2024 | 38461752 |  | Study the yield and quality of bitter gourd fruit (Momordica charantia) in inoculation with two species of mycorrhizal fungi and phosphorus fertilizer under different irrigation re | Plant Physiol Biochem
+- new | 2024 | 38356150 | Meta-Analysis/Systematic Review | Healing of diabetic foot ulcer with topical and oral administrations of herbal products: A systematic review and meta-analysis of randomized controlled trials. | Int Wound J
+- HELD REF-2528 | 2024 | 38784554 |  | Effects of Momordica charantia L. supplementation on glycemic control and lipid profile in type 2 diabetes mellitus patients: A systematic review and meta-analysis of randomized co | Heliyon
+- new | 2024 | 38634027 |  | Antimicrobial efficacy of two commercially available herbal products with and without ultrasonic activation in primary endodontic infections: A randomized clinical trial. | J Conserv Dent Endod
+- HELD REF-3672 | 2023 | 38274207 | Systematic Review | The metabolic effect of Momordica charantia cannot be determined based on the available clinical evidence: a systematic review and meta-analysis of randomized clinical trials. | Front Nutr
+- new | 2023 | 37009042 |  | Momordica charantia (bitter melon) efficacy and safety on glucose metabolism in Korean prediabetes participants: a 12-week, randomized clinical study. | Food Sci Biotechnol
+- new | 2023 | 38074878 |  | Efficacy of different organic and inorganic nutrient sources on the growth and yield of bitter gourd (Momordica charantia L.). | Heliyon
+- new | 2023 | 36650599 | Clinical Trial Protocol | The effect of bitter almond (Amygdalus communis L. var. Amara) gum as a functional food on metabolic profile, inflammatory markers, and mental health in type 2 diabetes women: a bl | Trials
+- new | 2023 | 37554831 |  | Effectiveness of different combinations of urea and vermicompost on yield of bitter gourd (Momordicacharantia). | Heliyon
+- new | 2022 | 35700203 | Randomized Controlled Trial | Ecosystem-based adaptation for increased agricultural productivity by smallholder farmers in Nepal. | PLoS One
+- new | 2022 | 35507955 | Randomized Controlled Trial | Effect of Momordica charantia Administration on Anthropometric Measures and Metabolic Profile in Patients with Obesity: A Pilot Clinical Trial. | J Med Food
+- new | 2022 | 35140559 |  | A randomized, double-blind, placebo-controlled trial to evaluate the hypoglycemic efficacy of the mcIRBP-19-containing Momordica charantia L. fruit extracts in the type 2 diabetic  | Food Nutr Res
+- new | 2022 | 35493312 |  | Transcriptome and metabolome changes induced by bitter melon (Momordica charantia)- intake in a high-fat diet induced obesity model. | J Tradit Complement Med
+- new | 2022 | 35478694 |  | Pilot Study of Trace Elements in the Infusion of Medicinal Plants Used for Diabetes Treatment. | Int J Anal Chem
+- new | 2022 | 36212012 |  | Herbal medicine use in Thai patients with type 2 diabetes mellitus and its association with glycemic control: A cross-sectional evaluation. | Heliyon
+- new | 2022 | 35836841 |  | In vitro and in vivo study of inhibitory potentials of α-glucosidase and acetylcholinesterase and biochemical profiling of M. charantia in alloxan-induced diabetic rat models. | Am J Transl Res
+- new | 2021 | 34132429 | Systematic Review | Promising traditional Indian medicinal plants for the management of novel Coronavirus disease: A systematic review. | Phytother Res
+- new | 2021 | 34351950 |  | Effect of seed hydro-priming durations on germination and seedling growth of bitter gourd (Momordica charantia). | PLoS One
+- new | 2021 | 34789340 |  | A randomized, double-blind clinical trial of a herbal formulation (GlycaCare-II) for the management of type 2 diabetes in comparison with metformin. | Diabetol Metab Syndr
+- new | 2021 | 34819444 |  | Effects of Momordica Charantia (Karela/bitterguord) in Type 2 Diabetic Patients Taking Allopathic Drugs: A pilot study. | Kathmandu Univ Med J (KUMJ)
+- new | 2021 | 34506588 | Research Support, Non-U.S. Gov't | Self-management using crude herbs and the health-related quality of life among adult patients with hypertension living in a suburban setting of Malaysia. | PLoS One
+- HELD REF-1213 | 2020 | 32951763 | Randomized Controlled Trial | Hypoglycemic efficacy and safety of Momordica charantia (bitter melon) in patients with type 2 diabetes mellitus. | Complement Ther Med
+- new | 2020 | 31669858 | Clinical Trial | News and views in myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS): The role of co-morbidity and novel treatments. | Med Hypotheses
+- new | 2020 | 32354072 |  | mcIRBP-19 of Bitter Melon Peptide Effectively Regulates Diabetes Mellitus (DM) Patients' Blood Sugar Levels. | Nutrients
+- new | 2020 | 32587872 |  | Potential Biomarkers of Peripheral and Central Fatigue in High-Intensity Trained Athletes at High-Temperature: A Pilot Study with Momordica charantia (Bitter Melon). | J Immunol Res
+- new | 2020 | 31915054 |  | Systematic review and meta-analysis protocol for efficacy and safety of Momordica charantia L. on animal models of type 2 diabetes mellitus. | Syst Rev
+- HELD REF-3671 | 2019 | 30385422 | Meta-Analysis/Systematic Review | Momordica charantia L. lowers elevated glycaemia in type 2 diabetes mellitus patients: Systematic review and meta-analysis. | J Ethnopharmacol
+- new | 2019 | 30661947 |  | Ayurvedic polyherbal combination (PDBT) for prediabetes: A randomized double blind placebo controlled study. | J Ayurveda Integr Med
+- new | 2018 | 30532795 |  | Effect of Bitter Melon Extracts on Lipid Levels in Japanese Subjects: A Randomized Controlled Study. | Evid Based Complement Alternat Med
+- new | 2018 | 29431598 | Randomized Controlled Trial | Momordica charantia Administration Improves Insulin Secretion in Type 2 Diabetes Mellitus. | J Med Food
+- new | 2018 | 29339109 | Randomized Controlled Trial | Bitter gourd reduces elevated fasting plasma glucose levels in an intervention study among prediabetics in Tanzania. | J Ethnopharmacol
+- HELD REF-1218 | 2018 | 30057048 | Randomized Controlled Trial | The effects of Momordica charantia (bitter melon) supplementation in patients with primary knee osteoarthritis: A single-blinded, randomized controlled trial. | Complement Ther Clin Pract
+- new | 2018 | 29884151 | Observational Study | Hypoglycaemia in diabetes: do we think enough of the cause? An observational study on prevalence and causes of hypoglycaemia among patients with type 2 diabetes in an out-patient s | BMC Endocr Disord
+- new | 2018 | 30442186 | Research Support, Non-U.S. Gov't | Safety and efficacy of Momordica charantia Linnaeus in pre-diabetes and type 2 diabetes mellitus patients: a systematic review and meta-analysis protocol. | Syst Rev
+- new | 2017 | 29034203 |  | Immediate effect of bitter gourd, ash gourd, Knol-khol juices on blood sugar levels of patients with type 2 diabetes mellitus: A pilot study. | J Tradit Complement Med
+- new | 2017 | 28994284 |  | Gastro-Resistant Insulin Receptor-Binding Peptide from Momordica charantia Improved the Glucose Tolerance in Streptozotocin-Induced Diabetic Mice via Insulin Receptor Signaling Pat | J Agric Food Chem
+- new | 2017 | 28769789 |  | Knowledge of Medicinal Plants for Children Diseases in the Environs of District Bannu, Khyber Pakhtoonkhwa (KPK). | Front Pharmacol
+- new | 2017 | 28852643 |  | Concealed use of herbal and dietary supplements among Thai patients with type 2 diabetes mellitus. | J Diabetes Metab Disord
+- new | 2015 | 25623883 | Randomized Controlled Trial | Lower hypoglycemic but higher antiatherogenic effects of bitter melon than glibenclamide in type 2 diabetic patients. | Nutr J
+- new | 2015 | 26401401 |  | Use of household ingredients as complementary medicines for perceived hypoglycemic benefit among Sri Lankan diabetic patients; a cross-sectional survey. | J Intercult Ethnopharmacol
+- new | 2014 | 24566057 | Research Support, Non-U.S. Gov't/Review | Potential for improved glycemic control with dietary Momordica charantia in patients with insulin resistance and pre-diabetes. | Int J Environ Res Public Health
+- new | 2014 | 24672797 | Research Support, Non-U.S. Gov't | Effects of Momordica charantia L. on the blood rheological properties in diabetic patients. | Biomed Res Int
+- new | 2014 | 25504465 |  | The effect of bitter melon (Mormordica charantia) in patients with diabetes mellitus: a systematic review and meta-analysis. | Nutr Diabetes
+- new | 2014 | 24897796 | Research Support, Non-U.S. Gov't | Flower synchrony, growth and yield enhancement of small type bitter gourd (Momordica charantia L.) through plant growth regulators and NPK fertilization. | Pak J Biol Sci
+- new | 2014 | 25280877 |  | Use of Complementary and Alternative Medicines (CAMs) among type 2 diabetes patients in Sri Lanka: a cross sectional survey. | BMC Complement Altern Med
+- new | 2013 | 23802882 | Research Support, Non-U.S. Gov't | Complementary alternative medicine use among patients with type 2 diabetes mellitus in the primary care setting: a cross-sectional study in Malaysia. | BMC Complement Altern Med
+- new | 2012 | 22243626 | Clinical Trial, Phase II/Research Support, Non-U.S. Gov't | Wild bitter gourd improves metabolic syndrome: a preliminary dietary supplementation trial. | Nutr J
+- HELD REF-3396 | 2012 | 22895968 | Research Support, Non-U.S. Gov't/Systematic Review | Momordica charantia for type 2 diabetes mellitus. | Cochrane Database Syst Rev
+- new | 2012 | 22348456 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Combined extractives of red yeast rice, bitter gourd, chlorella, soy protein, and licorice improve total cholesterol, low-density lipoprotein cholesterol, and triglyceride in subje | Nutr Res
+- new | 2012 | 23964459 | Research Support, Non-U.S. Gov't | Antimicrobial, antioxidant activities and total phenolic content of Thai medicinal plants used to treat HIV patients. | J Med Assoc Thai
+- new | 2011 | 21584252 |  | Traditional chinese medicines in treatment of patients with type 2 diabetes mellitus. | Evid Based Complement Alternat Med
+- new | 2011 | 22125991 | Review | Diabetes mellitus and phytotherapy in Turkey. | J Pak Med Assoc
+- new | 2011 | 21211558 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Hypoglycemic effect of bitter melon compared with metformin in newly diagnosed type 2 diabetes patients. | J Ethnopharmacol
+- new | 2011 | 22315837 |  | Prevalence and pattern of use of indigenous medicines in diabetic patients attending a tertiary care centre. | J Indian Med Assoc
+- HELD REF-3396 | 2010 | 20166099 | Systematic Review | Momordica charantia for type 2 diabetes mellitus. | Cochrane Database Syst Rev
+- new | 2009 | 19509199 | Review | Complementary and alternative medicine for the treatment of type 2 diabetes. | Can Fam Physician
+- new | 2009 | 19362455 | Comparative Study/Randomized Controlled Trial | Serum sialic acid changes in non-insulin-dependant diabetes mellitus (NIDDM) patients following bitter melon (Momordica charantia) and rosiglitazone (Avandia) treatment. | Phytomedicine
+- new | 2009 | 19665538 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | No effect of acute, single dose oral administration of Momordica charantia Linn., on glycemia, energy expenditure and appetite: a pilot study in non-diabetic overweight men. | J Ethnopharmacol
+- new | 2008 | 18537692 | Research Support, N.I.H., Extramural/Review | Efficacy of dietary supplementation with botanicals on carbohydrate metabolism in humans. | Endocr Metab Immune Disord Drug Targets
+- new | 2007 | 17493509 | Randomized Controlled Trial | The effect of Momordica charantia capsule preparation on glycemic control in type 2 diabetes mellitus needs further studies. | J Clin Epidemiol
+- new | 2006 | 16940700 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Potassium excretion in healthy Japanese women was increased by a dietary intervention utilizing home-parcel delivery of Okinawan vegetables. | Hypertens Res
+- new | 2005 | 16202376 | Clinical Conference/Research Support, U.S. Gov't, P.H.S./Systematic Review | Are Ayurvedic herbs for diabetes effective? | J Fam Pract
+- new | 2005 | 15533633 | Comparative Study | Nutraceutical resources for diabetes prevention--an update. | Med Hypotheses
+- new | 2004 | 15521566 | Clinical Trial/Comparative Study | Phytochemical determination and extraction of Momordica charantia fruit and its hypoglycemic potentiation of oral hypoglycemic drugs in diabetes mellitus (NIDDM). | Indian J Physiol Pharmacol
+- new | 2004 | 15666575 | Review | What do herbalists suggest to diabetic patients in order to improve glycemic control? Evaluation of scientific evidence and potential risks. | Acta Diabetol
+- HELD REF-1216 | 2003 | 12625217 | Review | Bitter melon (Momordica charantia): a review of efficacy and safety. | Am J Health Syst Pharm
+- new | 2003 | 12663610 | Systematic Review | Systematic review of herbs and dietary supplements for glycemic control in diabetes. | Diabetes Care
+- new | 2003 | 14723327 | Clinical Trial/Letter/Randomized Controlled Trial | Evaluation of the efficacy of bitter gourd (momordica charantia) as an oral hypoglycemic agent--a randomized controlled clinical trial. | Indian J Physiol Pharmacol
+- new | 2003 | 12678140 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Effect of bitter melon (Momordica charantia Linn) on level and function of natural killer cells in cervical cancer patients with radiotherapy. | J Med Assoc Thai
+- new | 2000 | 10997530 | Review | Alternative therapies: Part I. Depression, diabetes, obesity. | Am Fam Physician
+- new | 1999 | 10758656 | Clinical Trial/Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Effect of Momordica charantia (Karolla) extracts on fasting and postprandial serum glucose levels in NIDDM patients. | Bangladesh Med Res Counc Bull
+- new | 1982 | 6806502 |  | Trial of Momordica charantia Linn (Karela) powder in patients with maturity-onset diabetes. | J Pak Med Assoc
+- new | 1981 | 6786635 | Clinical Trial/Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Improvement in glucose tolerance due to Momordica charantia (karela). | Br Med J (Clin Res Ed)
+- new | 1977 | 20078273 | Clinical Trial | Clinical trial in patients with diabetes mellitus of an insulin-like compound obtained from plant source. | Ups J Med Sci
+
+### PubMed SR - 31 hits, 14 not already listed above, 14 new
+- new | 2026 | 42395245 | Review | Neuroprotective and Immunomodulatory Efficacy of Selected Caribbean Medicinal Plants: A Systematic Review. | Cureus
+- new | 2026 | 41709315 | Review | In vitro cytotoxicity of medicinal plants used in prostate cancer management in Africa: a systematic review. | Trop Med Health
+- new | 2026 | 43067361 |  | Appetite regulating and metabolic effects of bitter melon (Momordica charantia), gurmar (Gymnema sylvestre), hops (Humulus lupulus) and Caralluma (Caralluma fimbriata): A systemati | Appetite
+- new | 2025 | 41140836 |  | Multi-omics study uncovered key differences in taste and nutritional quality among three distinct bitter gourd (Momordica charantia L.) cultivars. | Food Chem (Oxf)
+- new | 2023 | 37432178 | Systematic Review | Mexican Plants Involved in Glucose Homeostasis and Body Weight Control: Systematic Review. | Nutrients
+- new | 2022 | 35723334 | Review | Evidence from a Systematic Review and Meta-Analysis Pointing to the Antidiabetic Effect of Polyphenol-Rich Plant Extracts from Gymnema montanum, Momordica charantia and Moringa ole | Curr Issues Mol Biol
+- new | 2022 | 35911428 | Review | Complementary and alternative medicine for glycemic control of diabetes mellitus: A systematic review. | J Public Health Res
+- new | 2022 | 35754481 | Systematic Review | Effectiveness and Safety of Ayurvedic Medicines in Type 2 Diabetes Mellitus Management: A Systematic Review and Meta-Analysis. | Front Pharmacol
+- new | 2021 | 32929814 | Meta-Analysis/Systematic Review | The safety and efficacy of Momordica charantia L. in animal models of type 2 diabetes mellitus: A systematic review and meta-analysis. | Phytother Res
+- new | 2021 | 33884948 | Systematic Review | Clinical trials with plants in diabetes mellitus therapy: a systematic review. | Expert Rev Clin Pharmacol
+- new | 2021 | 33475054 | Systematic Review | Ethnomedicinal Plants for the Management of Diabetes Worldwide: A Systematic Review. | Curr Med Chem
+- new | 2021 | 34691218 | Review | Systematic Review of Medicinal Plants Used for Treatment of Diabetes in Human Clinical Trials: An ASEAN Perspective. | Evid Based Complement Alternat Med
+- new | 2020 | 33041786 | Review | Involvement of TGF-β and Autophagy Pathways in Pathogenesis of Diabetes: A Comprehensive Review on Biological and Pharmacological Insights. | Front Pharmacol
+- new | 2009 | 19575486 | Systematic Review | A systematic review of the efficacy and safety of herbal medicines used in the treatment of obesity. | World J Gastroenterol
+
+### PubMed SAFE - 252 hits, 176 not already listed above, 173 new
+- new | 2026 | 42036952 |  | Heavy metals in basic vegetables of the Bagerhat district, Bangladesh. | Food Addit Contam Part B Surveill
+- new | 2026 | 41700226 | Case Reports | Herb-Induced Liver Injury (HILI) Associated With Asowosi (Momordica charantia): A Case Report. | Cureus
+- new | 2026 | 42678451 |  | Dietary exposure and health risks associated with selected vegetables from Pothohar Region of Punjab, Pakistan. | Environ Monit Assess
+- new | 2026 | 42564386 | Review | A traditional herbal remedy in liver diseases: Momordica charantia L. (kudret narı/bitter melon). | Hepatol Forum
+- new | 2026 | 42048162 | Review | A screening strategy for identifying the developmental and reproductive toxicity potential of botanicals. | Pharm Biol
+- new | 2026 | 42347293 |  | Green Synthesis of Magnesium Nitrate Nanoparticles Using Momordica charantia Peel Extract: Enhanced Antibacterial Activity and Antibiotic Potentiation Against Multidrug-Resistant B | Nanomaterials (Basel)
+- new | 2026 | 42652481 |  | Bioactivity and Molecular Responses of Bitter Gourd Leaf Extracts Against the Invasive Leafminer, Liriomyza trifolii (Diptera: Agromyzidae). | Insects
+- new | 2026 | 41970807 |  | Network pharmacology and molecular docking reveal PPARγ-directed antidiabetic phytochemical compounds of Momordica charantia. | In Silico Pharmacol
+- new | 2026 | 42574653 |  | Chemopreventive Effect of Bitter Melon (Momordica charantia) Juice on Pancreatic Carcinogenesis in LSL-Kras(G12D) (/+); p48(Cre/+) Mice. | Mol Carcinog
+- new | 2026 | 42072073 |  | Momordica charantia L. Confers Multifaceted Protection Against 5-Fluorouracil-Induced Intestinal Injury via Inhibition of Inflammation, Oxidative Stress, Epithelial-Mesenchymal Tra | Antioxidants (Basel)
+- new | 2026 | 40383985 |  | Evaluation and screening of polyherbal formulation for diabetes management: toxicity assessment on Albino Wistar rats. | Nat Prod Res
+- new | 2026 | 42005821 |  | Assessment of Heavy Metal Levels and Associated Health Risks Linked to Vegetables Grown in Noakhali Region of Bangladesh. | Environ Health Insights
+- new | 2025 | 40170075 |  | Oral administration of Momordica charantia-derived extracellular vesicles alleviates ulcerative colitis through comprehensive renovation of the intestinal microenvironment. | J Nanobiotechnology
+- new | 2025 | 39327918 |  | Pesticides in widely consumed vegetables in Bangladesh and its health risk. | Food Addit Contam Part B Surveill
+- new | 2025 | 40191975 | Review | Harnessing plant metabolic pathways for innovative diabetes management: unlocking the therapeutic potential of medicinal plants. | Plant Signal Behav
+- new | 2025 | 41287595 | Review | Persian Medicinal Plants as Antidiabetic Agents: Mechanisms and Evidence from Bench to Bedside . | Iran Biomed J
+- new | 2025 | 38500279 | Review | Herbal Nanoformulations for Diabetes: Mechanisms, Formulations, and Clinical Impact. | Curr Diabetes Rev
+- new | 2025 | 41302395 |  | Momordica charantia L. (Cucurbitaceae) Leaf Extract from Phytochemical Characterization and Toxicity Evaluation to Modulation of Pro-Inflammatory Cytokines and MAPK/NFκB Pathways. | Molecules
+- new | 2025 | 40568278 |  | Molecular Docking and In Silico Predictive Analysis of Potential Herb-Drug Interactions Between Momordica charantia and Miglitol. | Cureus
+- new | 2025 | 40849723 |  | In Vitro and In Vivo Evaluation of Rosuvastatin and Momordica charantia (Bitter Melon) Extract: Pharmacokinetic Interactions and Anticancer Potential. | Asian Pac J Cancer Prev
+- new | 2025 | 39612740 | Research Support, Non-U.S. Gov't | Pharmacoinformatics-based prediction of Checkpoint kinase-1 inhibitors from Momordica charantia Linn. for cancer. | Comput Biol Chem
+- new | 2025 | 40450790 |  | Integrated in silico and GC-MS analysis of Momordica charantia Linn. phytocomponents against DiNP phthalate and B[a]P toxicity: A focus on amyloid beta protein and acetylcholineste | Comput Biol Chem
+- new | 2025 | 40184394 |  | Restorative effects of Momordica charantia extract on cerebellar GFAP and NGF expression in pregnant diabetic rats and their offspring. | PLoS One
+- new | 2025 | 40732323 | Review | The Antidiabetic Activity of Wild-Growing and Cultivated Medicinal Plants Used in Romania for Diabetes Mellitus Management: A Phytochemical and Pharmacological Review. | Pharmaceuticals (Basel)
+- new | 2025 | 40750854 |  | Exploring the potential of signalling molecules hydrogen sulfide and nitric oxide in augmenting salt stress resilience in bitter gourd. | BMC Plant Biol
+- new | 2025 | 39803815 |  | Evaluation of the impact of Momordica Charantia on the testis of cisplatin-treated albino rats: Biochemical, histopathological, and ultrastructural study. | Histol Histopathol
+- new | 2025 | 40077553 |  | Preparation, Characterization, and Safety Evaluation of a Submicron Emulsion Processed Using High-Pressure Homogenization to Protect Bitter Melon Seed Oil. | Foods
+- new | 2024 | 38682220 | Review | Pharmacotherapeutic Potential of Bitter Gourd (Momordica charantia) in Age-related Neurological Diseases. | J Integr Neurosci
+- new | 2024 | 39408847 | Review | Therapeutic Potential of Momordicine I from Momordica charantia: Cardiovascular Benefits and Mechanisms. | Int J Mol Sci
+- new | 2024 | 38731433 |  | Splenic Elemental Composition of Breast Cancer-Suffering Rats Supplemented with Pomegranate Seed Oil and Bitter Melon Extract. | Molecules
+- new | 2024 | 38339233 |  | Exploring the Influence of the Selected Conjugated Fatty Acids Isomers and Cancerous Process on the Fatty Acids Profile of Spleen. | Cancers (Basel)
+- new | 2024 | 37897594 |  | Heavy Metals Accumulation in Vegetables and Its Consequences on Human Health in the Areas Influenced by Industrial Activities. | Biol Trace Elem Res
+- new | 2024 | 39759601 |  | Assessment of the Antimicrobial Effect of Momordica charantia (Bitter Gourd Oil) on Periodontal Pathogens: An In Vitro Study. | Cureus
+- new | 2024 | 37676311 | Research Support, Non-U.S. Gov't | Selected phytochemicals of Momordica charantia L. as potential anti-DENV-2 through the docking, DFT and molecular dynamic simulation. | J Biomol Struct Dyn
+- new | 2024 | 39632933 |  | Morphological and physiological responses of Momordica charantia to heavy metals and nutrient toxicity in contaminated water. | Sci Rep
+- new | 2024 | 39299556 |  | Molecular characterization, genetic divergence, expression of encapsidiation and synergism by a bipartite begomovirus; Tomato leaf curl Palampur virus (ToLCPMV) infecting bitter go | Microb Pathog
+- new | 2023 | 36479862 | Review | A comprehensive review on medicinal plants possessing antioxidant potential. | Clin Exp Pharmacol Physiol
+- new | 2023 | 36529899 |  | Cytotoxicity and maternal toxicity attributed to exposure to Momordica charantia L. (Cucurbitaceae) dry leaf extract. | J Toxicol Environ Health A
+- new | 2023 | 37745984 |  | In Vitro Cercaricidal Activity, Acute Toxicity, and GC/MS Analysis of Some Selected Ghanaian Medicinal Plants. | J Parasitol Res
+- new | 2023 | 37111272 | Review | Role of Fenugreek, Cinnamon, Curcuma longa, Berberine and Momordica charantia in Type 2 Diabetes Mellitus Treatment: A Review. | Pharmaceuticals (Basel)
+- new | 2023 | 36622522 |  | Deterministic and Probabilistic Health Risk Assessment of Toxic Metals in the Daily Diets of Residents in Industrial Regions of Northern Ningxia, China. | Biol Trace Elem Res
+- new | 2023 | 36980165 | Research Support, Non-U.S. Gov't | Anticancer Activity of Bitter Melon-Derived Vesicles Extract against Breast Cancer. | Cells
+- new | 2023 | 37211072 |  | Seedling nanopriming with selenium-chitosan nanoparticles mitigates the adverse effects of salt stress by inducing multiple defence pathways in bitter melon plants. | Int J Biol Macromol
+- new | 2023 | 37808602 | Case Reports | Positive Outcome in Catastrophic Momordica charantia-Associated Herb-Induced Liver Injury: A Tale of Two Cities - From Gonaives, Haiti to New York City. | Cureus
+- HELD REF-0412 | 2022 | 35656300 | Review | Momordica charantia L.-Diabetes-Related Bioactivities, Quality Control, and Safety Considerations. | Front Pharmacol
+- new | 2022 | 36776362 |  | Phytoradiotherapy to enhance cancer treatment outcomes with cannabidiol, bitter melon juice, and plant hemoglobin. | Front Oncol
+- new | 2022 | 34569860 | Case Reports | Dangerous interaction of bitter melon (Momordica charantia) with pazopanib: A case of acute pancreatitis. | J Oncol Pharm Pract
+- new | 2022 | 35163001 |  | Cytotoxic and Anti-Inflammatory Triterpenoids in the Vines and Leaves of Momordica charantia. | Int J Mol Sci
+- new | 2022 | 34808256 | Research Support, Non-U.S. Gov't | The effects of different herbals on the rat hippocampus exposed to electromagnetic field for one hour during the prenatal period. | J Chem Neuroanat
+- new | 2022 | 36518426 |  | Evaluation of acute and sub-chronic toxicity of bitter melon seed extract in Wistar rats. | Toxicol Rep
+- new | 2022 | 33103616 |  | Natural phyto, compounds as possible noncovalent inhibitors against SARS-CoV2 protease: computational approach. | J Biomol Struct Dyn
+- new | 2022 | 36414701 |  | Spectroscopic contribution to glyphosate toxicity profile and the remedial effects of Momordica charantia. | Sci Rep
+- new | 2022 | 35574607 |  | Exploring the antihyperglycemic potential of tetrapeptides devised from AdMc1 via different receptor proteins inhibition using in silico approaches. | Int J Immunopathol Pharmacol
+- new | 2022 | 35257554 |  | Momordica charantia L. improves airway hyperresponsiveness and suppresses inflammation in a murine model of allergic asthma. | Allergol Immunopathol (Madr)
+- new | 2022 | 36238266 |  | Anti-leukemic principle(s) from Momordica charantia seeds induce differentiation of HL-60 cells through ERK/MAPK signalling pathway. | Cytotechnology
+- new | 2022 | 36127072 |  | Molecular docking and spectral shift supported toxicity profile of metaldehyde mollucide and the toxicity-reducing effects of bitter melon extract. | Pestic Biochem Physiol
+- new | 2022 | 35083999 |  | A gastro-resistant peptide from Momordica charantia improves diabetic nephropathy in db/db mice via its novel reno-protective and anti-inflammatory activities. | Food Funct
+- new | 2022 | 34785415 | Comparative Study | Synergistic antidiabetic activity of Taraxacum officinale (L.) Weber ex F.H.Wigg and Momordica charantia L. polyherbal combination. | Biomed Pharmacother
+- new | 2022 | 35907823 |  | Exogenous melatonin increases salt tolerance in bitter melon by regulating ionic balance, antioxidant system and secondary metabolism-related genes. | BMC Plant Biol
+- new | 2022 | 35162612 | Research Support, Non-U.S. Gov't | Health Risks Due to Metal Concentrations in Soil and Vegetables from the Six Municipalities of the Island Province in the Philippines. | Int J Environ Res Public Health
+- new | 2022 | 36102373 |  | Distribution, host range and toxicity assessment of different insecticides on Bactrocera diversa Coquillett, 1904 (Diptera: Tephritidae). | Braz J Biol
+- new | 2021 | 33510802 | Review | The Effect of Momordica charantia in the Treatment of Diabetes Mellitus: A Review. | Evid Based Complement Alternat Med
+- new | 2021 | 34048925 | Review | Therapeutic potential of targeting intestinal bitter taste receptors in diabetes associated with dyslipidemia. | Pharmacol Res
+- new | 2021 | 33763471 |  | Investigation of Hypoglycemic Peptides Derived from Conserved Regions of adMc1 to Reveal Their Antidiabetic Activities. | Biomed Res Int
+- new | 2021 | 34642085 | Review | Angiotensin-converting enzyme inhibitors from plants: A review of their diversity, modes of action, prospects, and concerns in the management of diabetes-centric complications. | J Integr Med
+- new | 2021 | 34827690 | Review | Advanced Bioinformatics Tools in the Pharmacokinetic Profiles of Natural and Synthetic Compounds with Anti-Diabetic Activity. | Biomolecules
+- new | 2021 | 34589547 |  | Molecular Docking and Simulation Studies of Antidiabetic Agents Devised from Hypoglycemic Polypeptide-P of Momordica charantia. | Biomed Res Int
+- new | 2021 | 33995027 |  | Pharmacokinetic Profile and Oral Bioavailability of Diosgenin, Charantin, and Hydroxychalcone From a Polyherbal Formulation. | Front Pharmacol
+- new | 2021 | 34275705 |  | In vivo anticancer effects of Momordica charantia seed fat on hepatocellular carcinoma in a rat model. | J Ayurveda Integr Med
+- new | 2021 | 33818228 |  | Bioanalytical method development for momordicinin and its application to long-term pharmacokinetics in diabetic rats. | Drug Dev Ind Pharm
+- new | 2021 | 34232214 | Case Reports | Acute interstitial nephritis associated with ingesting a Momordica charantia extract: A case report. | Medicine (Baltimore)
+- new | 2021 | 34371875 |  | Momordica charantia L. Extract Protects Hippocampal Neuronal Cells against PAHs-Induced Neurotoxicity: Possible Active Constituents Include Stigmasterol and Vitamin E. | Nutrients
+- new | 2021 | 33515592 | Research Support, Non-U.S. Gov't | Oxysterols and lipidomic profile of myocardium of rats supplemented with pomegranate seed oil and/or bitter melon aqueous extract - Cardio-oncological animal model research. | Chem Phys Lipids
+- new | 2021 | 36303742 |  | Visualizing Phytochemical-Protein Interaction Networks: Momordica charantia and Cancer. | Front Bioinform
+- new | 2021 | 33769796 | Comparative Study/Research Support, Non-U.S. Gov't | Comparative Exposure Assessment of Potential Health Risks through the Consumption of Vegetables Irrigated by Freshwater/Wastewater: Gujranwala, Pakistan. | Chem Res Toxicol
+- new | 2021 | 33801016 |  | Momordicine-I, a Bitter Melon Bioactive Metabolite, Displays Anti-Tumor Activity in Head and Neck Cancer Involving c-Met and Downstream Signaling. | Cancers (Basel)
+- new | 2021 | 33045366 |  | Pomegranate seed oil and bitter melon extract supplemented in diet influence the lipid profile and intensity of peroxidation in livers of SPRD rats exposed to a chemical carcinogen | Prostaglandins Other Lipid Mediat
+- new | 2021 | 33753145 |  | Momordica charantia L. induces non-apoptotic cell death in human MDA-MB-436 breast and A549 lung cancer cells by disrupting energy metabolism and exacerbating reactive oxygen speci | J Ethnopharmacol
+- new | 2021 | 35008866 |  | Lipidomic Profile and Enzymes Activity in Hepatic Microsomes of Rats in Physiological and Pathological Conditions. | Int J Mol Sci
+- new | 2021 | 34881163 | Case Reports | Molecular investigations reveal bitter gourd crop is more susceptible to tomato leaf curl New Delhi virus infection in diverse crop cultivation practices. | 3 Biotech
+- new | 2020 | 32726914 | Review | Bitter Melon (Momordica Charantia), a Nutraceutical Approach for Cancer Prevention and Therapy. | Cancers (Basel)
+- new | 2020 | 32653369 |  | Atomic-resolution structures of type I ribosome inactivating protein alpha-momorcharin with different substrate analogs. | Int J Biol Macromol
+- new | 2020 | 31973615 |  | Can the biological mechanisms of ageing be corrected by food supplementation. The concept of health care over sick care. | Aging Male
+- new | 2020 | 33628736 |  | Phytoradiotherapy: An Integrative Approach to Cancer Treatment by Combining Radiotherapy With Phytomedicines. | Front Oncol
+- new | 2020 | 32042712 |  | Momordica charantia mitigates hepatic injury following adjuvant treatment with antiretroviral drugs in diabetic animal models. | Toxicol Res
+- new | 2020 | 32871589 |  | Antifungal resistance-modifying multiplexing action of Momordica charantia protein and phosphorylated derivatives on the basis of growth-dependent gene coregulation in Candida albi | Med Mycol
+- new | 2020 | 32422356 | Review | Phytomedicinal relevance of South African Cucurbitaceae species and their safety assessment: A review. | J Ethnopharmacol
+- new | 2020 | 31825145 | Review | A review on gentisic acid as a plant derived phenolic acid and metabolite of aspirin: Comprehensive pharmacology, toxicology, and some pharmaceutical aspects. | Phytother Res
+- new | 2020 | 33080896 |  | Effect of Cadmium-Tolerant Rhizobacteria on Growth Attributes and Chlorophyll Contents of Bitter Gourd under Cadmium Toxicity. | Plants (Basel)
+- new | 2020 | 33061223 |  | Methanol leaf extract of Momordica charantia protects alloxan-induced hepatopathy through modulation of caspase-9 and interleukin-1β signaling pathways in rats. | Vet World
+- new | 2019 | 30360709 | Review | Molecular Concept of Diabetic Wound Healing: Effective Role of Herbal Remedies. | Mini Rev Med Chem
+- new | 2019 | 31139079 | Review | Momordica charantia, a Nutraceutical Approach for Inflammatory Related Diseases. | Front Pharmacol
+- new | 2019 | 31880516 |  | Evaluation of vegetables and fish oils for the attenuation of diabetes complications. | Cell Mol Biol (Noisy-le-grand)
+- new | 2019 | 31340810 |  | Bitter gourd (Momordica charantia) possess developmental toxicity as revealed by screening the seeds and fruit extracts in zebrafish embryos. | BMC Complement Altern Med
+- new | 2019 | 31168440 | Case Reports | Genome of a known but distinct begomovirus associated with a novel satellite molecule infecting a new host bitter gourd (Momordica charantia). | 3 Biotech
+- new | 2019 | 31486747 | Review | Current Status and Future Perspective for Research on Medicinal Plants with Anticancerous Activity and Minimum Cytotoxic Value. | Curr Drug Targets
+- new | 2019 | 31516323 |  | Molecular and biochemical monitoring of the possible herb-drug interaction between Momordica charantia extract and glibenclamide in diabetic rats. | Saudi Pharm J
+- new | 2019 | 31186668 |  | Evaluation of the Effect of Aqueous Momordica charantia Linn. Extract on Zebrafish Embryo Model through Acute Toxicity Assay Assessment. | Evid Based Complement Alternat Med
+- new | 2019 | 30928411 | Research Support, Non-U.S. Gov't | Mammary cancer risk and serum lipid profile of rats supplemented with pomegranate seed oil and bitter melon extract. | Prostaglandins Other Lipid Mediat
+- new | 2019 | 31211640 |  | Orostachys japonicus A. Berger (Crassulaceae) Exerts Antidiabetic Activity by Improving Glucose and Lipid Levels in Type 2 Diabetic Mice. | J Med Food
+- new | 2019 | 31656227 | Research Support, Non-U.S. Gov't | Allylic hydroxylation of triterpenoids by a plant cytochrome P450 triggers key chemical transformations that produce a variety of bitter compounds. | J Biol Chem
+- new | 2019 | 31638999 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Inhibition of the key metabolic pathways, glycolysis and lipogenesis, of oral cancer by bitter melon extract. | Cell Commun Signal
+- new | 2018 | 29628890 | Review | Anti-gout Potential of Malaysian Medicinal Plants. | Front Pharmacol
+- new | 2018 | 30513908 |  | Administration of Momordica charantia Enhances the Neuroprotection and Reduces the Side Effects of LiCl in the Treatment of Alzheimer's Disease. | Nutrients
+- new | 2018 | 30587477 |  | Phenolic acid profiling and antiglycation studies of leaf and fruit extracts of tyrosine primed Momordica charantia seeds for possible treatment of diabetes mellitus. | Pak J Pharm Sci
+- new | 2018 | 30208938 | Research Support, N.I.H., Extramural | Potential adverse effects of botanical supplementation in high-fat-fed female mice. | Biol Sex Differ
+- new | 2018 | 29655677 |  | An in vitro and in vivo study of a 4-herb formula on the management of diet-induced metabolic syndrome. | Phytomedicine
+- new | 2018 | 29957359 | Research Support, Non-U.S. Gov't | Bitter melon seed oil increases mitochondrial content in gastrocnemius muscle and improves running endurance in sedentary C57BL/6J mice. | J Nutr Biochem
+- new | 2017 | 29182587 | Review | Recent Advances in Momordica charantia: Functional Components and Biological Activities. | Int J Mol Sci
+- new | 2017 | 28465362 |  | Bitter Melon Enhances Natural Killer-Mediated Toxicity against Head and Neck Cancer Cells. | Cancer Prev Res (Phila)
+- new | 2017 | 28389897 |  | Novel purification method and antibiotic activity of recombinant Momordica charantia MAP30. | 3 Biotech
+- new | 2017 | 28163963 |  | Evaluation of the potential effect of Allium sativum, Momordica charantia, Eugenia jambolana, Ocimum sanctum, and Psidium guajava on intestinal p-glycoprotein in rats. | J Intercult Ethnopharmacol
+- new | 2017 | 28747868 |  | Protective effect of Momordica charantia water extract against liver injury in restraint-stressed mice and the underlying mechanism. | Food Nutr Res
+- new | 2017 | 28623919 |  | Effects of Karela (Bitter Melon; Momordica charantia) on genes of lipids and carbohydrates metabolism in experimental hypercholesterolemia: biochemical, molecular and histopatholog | BMC Complement Altern Med
+- new | 2017 | 29217884 | Case Reports | How Harmful Can Herbal Remedies Be? A Case of Severe Acute Tubulointerstitial Nephritis. | Indian J Nephrol
+- new | 2017 | 28639112 |  | Kuguacin J isolated from bitter melon leaves modulates paclitaxel sensitivity in drug-resistant human ovarian cancer cells. | J Nat Med
+- new | 2017 | 28826695 | Review | Natural Health Products and Diabetes: A Practical Review. | Can J Diabetes
+- new | 2017 | 29978114 |  | Effect of Intrauterine Infusion of Momordica Charantia L. on Oxidative Stress and Pregnancy Rate in Infertile Cows. | J Vet Res
+- new | 2017 | 29090226 |  | Fifty Percent Ethanolic Extract of Momordica charantia Inhibits Adipogenesis and Promotes Adipolysis in 3T3-L1 Pre-Adipocyte Cells. | Rep Biochem Mol Biol
+- HELD REF-1215 | 2016 | 27452666 | Review/Research Support, N.I.H., Extramural | Promise of bitter melon (Momordica charantia) bioactives in cancer prevention and therapy. | Semin Cancer Biol
+- new | 2016 | 26764240 | Research Support, Non-U.S. Gov't/Review | Targeting AMPK signaling in combating ovarian cancers: opportunities and challenges. | Acta Biochim Biophys Sin (Shanghai)
+- new | 2016 | 28959571 |  | Safety assessment of McB-E60 (extract of a Momordica sp.): Subchronic toxicity study in rats. | Toxicol Rep
+- new | 2016 | 27628414 | Research Support, Non-U.S. Gov't | BG-4, a novel anticancer peptide from bitter gourd (Momordica charantia), promotes apoptosis in human colon cancer cells. | Sci Rep
+- new | 2016 | 27757267 |  | Evaluation of the synergistic effect of Allium sativum, Eugenia jambolana, Momordica charantia, Ocimum sanctum, and Psidium guajava on hepatic and intestinal drug metabolizing enzy | J Intercult Ethnopharmacol
+- new | 2016 | 24786488 | Research Support, Non-U.S. Gov't | PEGylation alleviates the non-specific toxicities of Alpha-Momorcharin and preserves its antitumor efficacy in vivo. | Drug Deliv
+- new | 2015 | 25542240 | Research Support, Non-U.S. Gov't | Momordica charantia seed lectin: toxicity, bacterial agglutination and antitumor properties. | Appl Biochem Biotechnol
+- new | 2015 | 25510970 | Research Support, Non-U.S. Gov't | Momordica charantia polysaccharides could protect against cerebral ischemia/reperfusion injury through inhibiting oxidative stress mediated c-Jun N-terminal kinase 3 signaling path | Neuropharmacology
+- new | 2014 | 25331834 | Review | The use of complementary and alternative medicines (CAMs) in the treatment of diabetes mellitus: is continued use safe and effective? | Nutr J
+- new | 2014 | 25469128 |  | Reproductive toxicity of Momordica charantia ethanol seed extracts in male rats. | Iran J Reprod Med
+- new | 2014 | 24664243 | Research Support, Non-U.S. Gov't | Wild bitter gourd protects against alcoholic fatty liver in mice by attenuating oxidative stress and inflammatory responses. | Food Funct
+- new | 2013 | 23322353 | Research Support, U.S. Gov't, Non-P.H.S./Review | Updates on chemical and biological research on botanical ingredients in dietary supplements. | Anal Bioanal Chem
+- new | 2013 | 27135489 |  | Identification of a Bioactive Compound against Adult T-cell Leukaemia from Bitter Gourd Seeds. | Plants (Basel)
+- new | 2013 | 24600149 |  | Outbreak investigation: Salmonella food poisoning. | Med J Armed Forces India
+- new | 2013 | 24059103 | Research Support, Non-U.S. Gov't | [Effect of PEGylation of alpha-Momorcharin against its hepatotoxicity in rats]. | Sichuan Da Xue Xue Bao Yi Xue Ban [chi]
+- new | 2013 | 24039822 | Research Support, Non-U.S. Gov't | Altered white adipose tissue protein profile in C57BL/6J mice displaying delipidative, inflammatory, and browning characteristics after bitter melon seed oil treatment. | PLoS One
+- new | 2012 | 37043592 | Review | Bitter Melon. | 
+- new | 2012 | 22344919 |  | Cucurbitane triterpenoids from the leaves of Momordica charantia, and their cancer chemopreventive effects and cytotoxicities. | Chem Biodivers
+- new | 2012 | 22439816 | Research Support, Non-U.S. Gov't | PEGylation is effective in reducing immunogenicity, immunotoxicity, and hepatotoxicity of α-momorcharin in vivo. | Immunopharmacol Immunotoxicol
+- new | 2012 | 23983370 |  | Medicinal plants used for treatment of diabetes by the Marakh sect of the Garo tribe living in Mymensingh district, Bangladesh. | Afr J Tradit Complement Altern Med
+- new | 2012 | 21414769 | Research Support, N.I.H., Intramural/Research Support, Non-U.S. Gov't | Kuguacin J isolated from Momordica charantia leaves inhibits P-glycoprotein (ABCB1)-mediated multidrug resistance. | J Nutr Biochem
+- new | 2011 | 21875286 | Research Support, Non-U.S. Gov't | Anticlastogenic and anticarcinogenic potential of Thai bitter gourd fruits. | Asian Pac J Cancer Prev
+- new | 2011 | 21995750 |  | Ethnobotany of the Monpa ethnic group at Arunachal Pradesh, India. | J Ethnobiol Ethnomed
+- new | 2010 | 20373086 | Case Reports/Letter | Hematemesis due to bitter melon (Momordica charantia) extract-induced gastric ulcerations. | Indian J Gastroenterol
+- new | 2010 | 20103967 | Case Reports/Letter | A case of atrial fibrillation due to Momordica charantia (bitter melon). | Ann Saudi Med
+- new | 2010 | 21139270 | Research Support, Non-U.S. Gov't | Cucurbitane triterpenoids from Momordica charantia and their cytoprotective activity in tert-butyl hydroperoxide-induced hepatotoxicity of HepG2 cells. | Chem Pharm Bull (Tokyo)
+- new | 2010 | 20198408 | Research Support, Non-U.S. Gov't/Review | Bitter melon: antagonist to cancer. | Pharm Res
+- new | 2009 | 19013225 |  | Inventory of antidiabetic plants in selected districts of Lagos State, Nigeria. | J Ethnopharmacol
+- new | 2009 | 21304609 |  | Teratogenic effect of the water extract of bitter gourd (Momordica charantia) on the Sprague Dawley rats. | Afr J Tradit Complement Altern Med
+- new | 2009 | 18983991 |  | Pharmacodynamic interaction of Momordica charantia with rosiglitazone in rats. | Chem Biol Interact
+- new | 2008 | 20046731 |  | Development and evaluation of hepatoprotective polyherbal formulation containing some indigenous medicinal plants. | Indian J Pharm Sci
+- new | 2008 | 18822337 | Research Support, Non-U.S. Gov't | Interactions between cytochromes P450, glutathione S-transferases and Ghanaian medicinal plants. | Food Chem Toxicol
+- new | 2007 | 18398493 |  | Indian herbs and herbal drugs used for the treatment of diabetes. | J Clin Biochem Nutr
+- new | 2007 | 17461486 | Letter | Bitter gourd (Momordica charantia): a potential mechanism in anti-carcinogenesis of colon. | World J Gastroenterol
+- new | 2007 | 17685651 | Research Support, Non-U.S. Gov't | Cucurbitane-type triterpenoids from the fruits of Momordica charantia and their cancer chemopreventive effects. | J Nat Prod
+- HELD REF-1221 | 2006 | 16910221 | Review | Bitter gourd (Momordica Charantia): A dietary approach to hyperglycemia. | Nutr Rev
+- new | 2004 | 15165418 | Review | Role of selected Indian plants in management of type 2 diabetes: a review. | J Altern Complement Med
+- new | 2004 | 15630255 | Research Support, Non-U.S. Gov't | A bitter melon extract inhibits the P-glycoprotein activity in intestinal Caco-2 cells: monoglyceride as an active compound. | Biofactors
+- new | 2004 | 15120448 | Research Support, Non-U.S. Gov't | The effects of bitter melon (Momordica charantia) on serum and liver triglyceride levels in rats. | J Ethnopharmacol
+- new | 2004 | 15182427 | Research Support, Non-U.S. Gov't | Pomegranate seed oil rich in conjugated linolenic acid suppresses chemically induced colon carcinogenesis in rats. | Cancer Sci
+- new | 2004 | 15351776 | Research Support, Non-U.S. Gov't | Inhibitory effect of a bitter melon extract on the P-glycoprotein activity in intestinal Caco-2 cells. | Br J Pharmacol
+- new | 2004 | 15248030 | Evaluation Study/Research Support, Non-U.S. Gov't | Inhibition of P-glycoprotein activity and reversal of cancer multidrug resistance by Momordica charantia extract. | Cancer Chemother Pharmacol
+- new | 2003 | 14669243 | Review | Antidiabetic herbal drugs officially approved in China. | Phytother Res
+- new | 2003 | 12616598 | Comparative Study | Natural dietary agents can protect against DMBA genotoxicity in lymphocytes as revealed by single cell gel electrophoresis assay. | Teratog Carcinog Mutagen
+- new | 2002 | 12230008 |  | Effects of bitter melon (Momordica charantia l.) or ginger rhizome (Zingiber offifinale rosc) on spontaneous mammary tumorigenesis in SHN mice. | Am J Chin Med
+- new | 2001 | 11286022 | Research Support, Non-U.S. Gov't | Inhibitory effects of bitter melon (Momordica charantia Linn.) on bacterial mutagenesis and aberrant crypt focus formation in the rat colon. | J Med Invest
+- new | 2000 | 10967491 |  | Effects of Momordica charantia powder on serum glucose levels and various lipid parameters in rats fed with cholesterol-free and cholesterol-enriched diets. | J Ethnopharmacol
+- new | 2000 | 12718665 |  | Oral Consumption of Bitter Gourd and Tomato Prevents Lipid Peroxidation in Liver Associated with DMBA Induced Skin Carcinogenesis in Mice. | Asian Pac J Cancer Prev
+- new | 1998 | 9818800 | Review | Herbal medicinals: selected clinical considerations focusing on known or potential drug-herb interactions. | Arch Intern Med
+- new | 1998 | 9544697 | Research Support, Non-U.S. Gov't | Momordica charantia (Bitter Gourd) peel, pulp, seed and whole fruit extract inhibits mouse skin papillomagenesis. | Toxicol Lett
+- new | 1998 | 9674955 |  | Effects of neem flowers, Thai and Chinese bitter gourd fruits and sweet basil leaves on hepatic monooxygenases and glutathione S-transferase activities, and in vitro metabolic acti | Food Chem Toxicol
+- new | 1996 | 8771452 |  | Screening of medicinal plants for induction of somatic segregation activity in Aspergillus nidulans. | J Ethnopharmacol
+- new | 1993 | 8510714 |  | Influence of bitter gourd (Momordica charantia) on growth and blood constituents in albino rats. | Nahrung
+- new | 1986 | 3816236 |  | Effects of momorcharins on the mouse embryo at the early organogenesis stage. | Contraception
+- new | 1984 | 6734206 | Comparative Study | The termination of early pregnancy in the mouse by beta-momorcharin. | Contraception
+- new | 1980 | 6110273 |  | Toxicity of Momordica charantia lectin and inhibitor for human normal and leukaemic lymphocytes. | Virchows Arch B Cell Pathol Incl Mol Pat
+- new | 1979 | 85186 | Case Reports/Letter | Interaction between curry ingredient (karela) and drug (chlorpropamide). | Lancet
+
+### PubMed OBS - 23 hits, 9 not already listed above, 9 new
+- new | 2026 | 42654229 | Observational Study | Glycemic and Lipid Outcomes Associated with Bitter Melon Blood-Sugar-Modulating Protein and Metformin Use: A Translational Preclinical and Retrospective Study. | Nutrients
+- new | 2025 | 40806023 |  | Use of Botanical Supplements Among Romanian Individuals with Diabetes: Results from an Online Study on Prevalence, Practices, and Glycemic Control. | Nutrients
+- new | 2023 | 36366978 | Research Support, Non-U.S. Gov't | Attitudes, knowledge and practices of traditional snakebite healers in Nepal: implications for prevention and control of snakebite. | Trans R Soc Trop Med Hyg
+- new | 2021 | 34607333 | Research Support, Non-U.S. Gov't | Acute gastroenteritis and the usage pattern of antibiotics and traditional herbal medications for its management in a Nigerian community. | PLoS One
+- new | 2015 | 26597081 |  | Knowledge and perceptions about diet and physical activity among Sri Lankan adults with diabetes mellitus: a qualitative study. | BMC Public Health
+- new | 2014 | 23937293 |  | PTC bitter taste genetic polymorphism, food choices, physical growth in body height and body fat related traits among adolescent girls from Kangra Valley, Himachal Pradesh (India). | Ann Hum Biol
+- new | 2011 | 21794176 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Strategies to improve palatability and increase consumption intentions for Momordica charantia (bitter melon): a vegetable commonly used for diabetes management. | Nutr J
+- new | 2010 | 20962724 |  | An acute gastroenteritis outbreak of Vibrio parahaemolyticus O4:K55 in Nursing College, Thailand. | Trop Biomed
+- new | 2007 | 17539264 | Research Support, Non-U.S. Gov't | Health risk assessment of villagers who live near a lead mining area: a case study of Klity village, Kanchanaburi Province, Thailand. | Southeast Asian J Trop Med Public Health
+
+### PubMed REV - 152 hits, 19 not already listed above, 17 new
+- new | 2024 | 37691189 | Review | Managing Diabetic Complications with Alternative Therapeutic Strategies. | Curr Diabetes Rev
+- HELD REF-0413 | 2023 | 37240430 | Review | The Management of Diabetes Mellitus Using Medicinal Plants and Vitamins. | Int J Mol Sci
+- new | 2021 | 34876973 | Review | Anthelmintic Potential of Medicinal Plants against Ancylostoma caninum. | Vet Med Int
+- new | 2021 | 34632898 | Review | AMPK activators for the prevention and treatment of neurodegenerative diseases. | Expert Opin Drug Metab Toxicol
+- new | 2020 | 32193575 | Review | New ribosome-inactivating proteins and other proteins with protein synthesis-inhibiting activities. | Appl Microbiol Biotechnol
+- new | 2016 | 26778479 | Review | Role of phytochemicals in the management of metabolic syndrome. | Phytomedicine
+- new | 2016 | 27076875 | Review | Novel nutraceutic therapies for the treatment of metabolic syndrome. | World J Diabetes
+- new | 2016 | 26968675 | Research Support, N.I.H., Extramural/Review | Bitter melon: a panacea for inflammation and cancer. | Chin J Nat Med
+- new | 2015 | 26498493 | Research Support, Non-U.S. Gov't/Review | A review of commercially important African medicinal plants. | J Ethnopharmacol
+- new | 2014 | 25203338 | Review | Involvement of liver in diabetes mellitus: herbal remedies. | Clin Ter
+- new | 2014 | 25164446 | Research Support, Non-U.S. Gov't/Review | Effectiveness of traditional Malaysian vegetables (ulam) in modulating blood glucose levels. | Asia Pac J Clin Nutr
+- new | 2014 | 23627983 | Review | Nutraceuticals for metabolic syndrome management: from laboratory to benchside. | Curr Vasc Pharmacol
+- HELD REF-1222 | 2011 | 21568930 | Review | Bitter gourd (Momordica charantia) is a cornucopia of health: a review of its credited antidiabetic, anti-HIV, and antitumor properties. | Curr Mol Med
+- new | 2011 | 21205111 | Research Support, Non-U.S. Gov't/Review | Diabetes is an inflammatory disease: evidence from traditional Chinese medicines. | Diabetes Obes Metab
+- new | 2008 | 18537696 | Research Support, N.I.H., Extramural/Review | Traditional chinese medicine in treatment of metabolic syndrome. | Endocr Metab Immune Disord Drug Targets
+- new | 2007 | 17484443 | Review | [Unconventional antidiabetic agents]. | Med Monatsschr Pharm [ger]
+- new | 2006 | 16719780 | Research Support, Non-U.S. Gov't/Review | Antidiabetic agents from medicinal plants. | Curr Med Chem
+- new | 2002 | 11926665 | Review | Natural products used for diabetes. | J Am Pharm Assoc (Wash)
+- new | 2002 | 12020931 | Review | Medicinal plants of India with anti-diabetic potential. | J Ethnopharmacol
+
+### ClinicalTrials.gov - 29 registered studies
+- NCT06522412 | ACTIVE_NOT_RECRUITING | results=False | NA | The Effects of Jing-Si Herbal Tea Liquid Packets and Jing-Si Herbal Tang Heng Power Drink | conds: Inflammatory Marker, Gut Microbiome, Trimethylamine N-oxide, HbA1c | intr: JING SI HERBAL TEA LIQUID PACKETS, JING SI HERBAL TANG HENG POWDER DRINK
+- NCT06224803 | COMPLETED | results=False | NA | Evaluation of Effects of Dibifree® on Regulation of Blood Sugar and HbA1c in Patients With Type II Diabetes | conds: Type II Diabetes | intr: Compound plant extracts, Indigestible dextrin
+- NCT01120873 | COMPLETED | results=False | PHASE3 | The Effect of Metamin 3D on the Lipid and Glucose in Subjects With Metabolic Syndrome | conds: Metabolic Syndrome | intr: Metamin 3D
+- NCT07279909 | ACTIVE_NOT_RECRUITING | results=False | PHASE3 | Phase-III Clinical Studies on Poly Herbal Anti-Diabetic Formulation | conds: Diabetes Type 2, Diabetes Mellitus, Experimental, HbA1c, Urinary Glucose | intr: DIAB-PHC1, Metformin
+- NCT04090788 | COMPLETED | results=False | NA | The Effect of Momordica Charantia Supplementation on Blood Glucose Levels | conds: Glucose Intolerance | intr: dried bitter-gourd supplements, dried cucumber supplements
+- NCT07504029 | RECRUITING | results=False | NA | Human Clinical Trial Evaluating the Blood Glucose-Regulating Effects of Momordica Charantia Peptides | conds: People With Prediabetic | intr: BmpP® Momordica charantia Peptide Capsules
+- NCT00823953 | WITHDRAWN | results=False | PHASE2 | Glycemic Response to Momordica Charantia in Type 2 Diabetes | conds: Type 2 Diabetes | intr: Momordica charantia, starch powder
+- NCT05631431 | TERMINATED | results=False | PHASE2 | Evaluation of Efficacy and Safety of Curalin As Add-On Therapy in Adults With Type 2 Diabetes Mellitus | conds: Type2 Diabetes | intr: Curalin
+- NCT07302178 | NOT_YET_RECRUITING | results=False | NA | Combined Bitter Melon Extract and Snakehead Fish Powder Supplementation for Glycemic Control in Type 2 Diabetes | conds: Type 2 Diabetes Mellitus (T2DM), Hyperglycemia | intr: Snakehead Fish Powder + Bitter Melon Extract, Placebo Capsule
+- NCT07303127 | COMPLETED | results=False | NA | Combination of Bitter Melon Extract and Snakehead Fish Powder to Reduce Glycaemia in Type 2 Diabetes Mellitus | conds: Type 2 Diabetes Mellitus (T2DM) | intr: Bitter Melon Extract and Snakehead Fish Powder Combination, Placebo Capsule
+- NCT04199455 | UNKNOWN | results=False | PHASE4 | Evidence-based Evaluation of TCM Key Syndrome Differentiation and Treatment for Acute Ischemic Stroke | conds: Ischemic Stroke | intr: Integrative Treatment (EPACH Recipe Granules + NQABC Recipe Granules), Placebo
+- NCT03785821 | COMPLETED | results=False | NA | Effect of Bitter Melon Seed Oil on Body Weight | conds: Weight Gain | intr: BMSO, OO
+- NCT02397447 | COMPLETED | results=True | PHASE2 | Effect of Momordica Charantia Administration on Type 2 Diabetes Mellitus, Insulin Sensitivity and Insulin Secretion | conds: Diabetes Mellitus Type 2 | intr: Momordica charantia, Placebo
+- NCT06970834 | NOT_YET_RECRUITING | results=False | NA | Explore the Effect of Bitter Melon Peptides on Glycemic Control and Metabolic Indicators in Diabetic Patients | conds: Diabetes | intr: bitter melon peptides
+- NCT07233460 | COMPLETED | results=False | NA | Effect of Using Bitter Melon, Blueberries and Cranberries on HbA1c and Diabetes Symptom Levels | conds: Type 2 Diabetes Mellitus, Symptoms and Signs, Patient | intr: Bitter Melon Group, Blueberry Group, Cranberry Group
+- NCT05829187 | COMPLETED | results=False | PHASE2 | Momordica Charantia and Dihydroartemisinin-piperaquined-primaquine for Uncomplicated Plasmodium Falciparum Malaria Patients in Southwest Sum | conds: Uncomplicated Plasmodium Falciparum | intr: Dihydroartemisinin, Piperaquine, Primaquine, Momordica Charantia Extract | pubs: ['26654101:RESULT (new)']
+- NCT06972524 | COMPLETED | results=False | NA | Effects of Probiotics and Plant Extracts Supplementation on Glycemic Control in Adults With Prediabetes: A Randomized, Double-Blind, Placebo | conds: Pre-biabetes | intr: probiotics and plant extracts supplementation, The placebo consisted of microcrystalline cellulose
+- NCT04268212 | COMPLETED | results=False | NA | An Alternative Approach to Improve Hyperglycemia Among Type 2 Diabetes Patients | conds: Type2 Diabetes | intr: Bitter melon juice (100 ml), Exercise
+- NCT05540405 | COMPLETED | results=False | NA | Effects of Bitter Melon on Cardiometabolic Health | conds: PreDiabetes | intr: Low-dose bitter melon, High-dose bitter melon, Placebo | pubs: ['39536276:DERIVED (new)']
+- NCT06036030 | COMPLETED | results=False | PHASE2 | Combination Momordica Charantia Extract and Primaquine Againts Plasmodium Falciparum Uncomplicated and Plasmodium Vivax Uncomplicated Treatm | conds: Malaria,Falciparum, Malaria, Vivax, Malaria, Infections | intr: Dihydroartemisinin, Piperaquine, Primaquine, Momordica Charantia Extract | pubs: ['26654101:RESULT (new)']
+- NCT04661267 | COMPLETED | results=False | NA | Randomized Trial of Regenexx Stem Cell Support Formula | conds: Knee Osteoarthritis | intr: Stem Cell Support Formula, Placebo
+- NCT07789223 | RECRUITING | results=False | NA | Weight and Metabolic Management Study | conds: Overweight, Obesity, Weight Maintenance | intr: elénzia CONTROL®, Placebo
+- NCT03151837 | COMPLETED | results=False | NA | Hypoglycemic Efficacy of Greenyn Momordica Charantia Extracts in Diabetic Subjects | conds: Diabetes Mellitus, Type 2 | intr: Greenyn Momordica charantia extracts, Placebo control
+- NCT05215210 | COMPLETED | results=False | NA | The Effect of Long-term Momordica Charantia Supplementation on Blood Glucose Levels | conds: Glucose, High Blood, Impaired Glucose Tolerance | intr: Bitter-gourd, Cucumber
+- NCT07240246 | COMPLETED | results=False | NA | Effect of a Dietary Supplement on Hormones Involved in Appetite Regulation in Overweight and Obese Adults | conds: GLP-1, Obesity &Amp; Overweight, Dietary Supplement | intr: Intervention: Dietary Supplement with Plant Extracts, Placebo
+- NCT06863766 | NOT_YET_RECRUITING | results=False | NA | Effects of Milk Powder Intervention on Blood Glucose Control and Fluctuation in Middle-aged and Elderly People With Pre-diabetes | conds: Pre-diabetes | intr: fortified formula milk powder group, regular milk powder group
+- NCT04916379 | UNKNOWN | results=False | NA | Effect of Momordica Charantia Administration on Anthropometric Indicators in Patients With Obesity | conds: Obesity | intr: Momordica charantia, Placebo | pubs: ['35507955:DERIVED (new)']
+- NCT05439473 | COMPLETED | results=False | PHASE2 | Evaluation of the Efficacy and Safety of Curalin as Add-On Therapy in Adults With Type 2 Diabetes Mellitus | conds: Type2 Diabetes | intr: Curalin
+- NCT07600281 | COMPLETED | results=False | NA | Ultra-Processed Foods, Palatability, Appetite, and Gastrointestinal Transit | conds: Appetite, Gastrointestinal Transit, Food Processing, Food Palatability | intr: Palatable Ultra-Processed Food Meal, Unpalatable Ultra-Processed Food Meal, Palatable Non-Ultra-Proc
+
+### OpenAlex no-PMID trial-worded - 4513 hits, 39 without PMID, 39 new
+- new | 2026 | 10.2196/preprints.108816 | preprint | Randomized controlled trial of Momordica charantia and Channa striata in type 2 diabetes mellitus: effects on AGEs, insulin, and glycemic profile (Preprint) | 
+- new | 2026 | 10.1002/ffj.70176 | article | Trigonella Foenum Graecum Seed Extract Attenuated the hs‐ CRP Level in Patients With Myocardial Infarction: A Randomized, Triple‐Blind, Placebo‐Controlled Clinical Trial | Flavour and Fragrance Journal
+- new | 2026 | 10.47430/ujmr.26112.020 | article | Phytochemical Composition and Antibacterial Activity of Cyperus rotundus and Momordica charantia on Oral Bacteria from Patients with Periodontitis | UMYU Journal of Microbiology Research (U
+- new | 2025 | 10.22159/ijap.2025.v17s2.17 | article | THE EFFECT OF BITTER MELON FRUIT EXTRACT (MOMORDICA CHARANTIA L.) SUPPLEMENTED WITH SNAKEHEAD FISH POWDER (CHANNA STRIATA) ON CLINICAL IMPROVEMENT OF DIABETIC ULCERS: A RANDOMIZED  | International Journal of Applied Pharmac
+- new | 2025 | 10.1155/jfbc/2921435 | review | The Effects of Bitter Melon (Mormordica charantia) on Weight Loss and Body Composition: A Systematic Review and Dose‐Response Meta‐Analysis of Randomized Controlled Trials | Journal of Food Biochemistry
+- new | 2025 | 10.64229/p5wq9942 | article | Hypoglycemic and Lipid-Lowering Effects of Bitter Melon (Momordica charantia) in Type 2 Diabetic Patients | Global Health Dynamics
+- new | 2024 | 10.1016/j.cdnut.2024.102881 | article | Investigation of the Hypoglycemic Effect of a Bitter Melon Extract in Subjects With Prediabetes: A Randomized, Placebo-Controlled, and Double-Blind Trial | Current Developments in Nutrition
+- new | 2024 | 10.13048/jkm.24059 | article | Double-blind Randomized placebo-controlled Trials on controlling blood glucose level using the extract from Opuntia ficus-indica var. saboten | 대한한의학회지
+- new | 2024 | 10.1016/j.jksus.2024.103580 | article | Antioxidant activities of seeds and sprouts of Momordica charantia and their antibacterial efficacies against pathogenic bacteria isolated from hospitalized patients | Journal of King Saud University - Scienc
+- new | 2023 | 10.1089/ict.2023.29107.oaj | article | The Effectiveness and Safety of Bitter Melon in the Management of Type 2 Diabetes Mellitus: A Review of Randomized Controlled Trials | Integrative and Complementary Therapies
+- new | 2022 | 10.1007/978-3-031-07753-1_28 | book-chapter | Momordica charantia L. | Springer eBooks
+- new | 2021 | 10.3329/bjms.v20i2.51536 | article | The Effect of Bitter Melon (Momordica charantia L.) Leaves Extractonon Glycated Albumin in Diabetic Foot Ulcers: Randomized Controlled Trial | Bangladesh Journal of Medical Science
+- new | 2021 | 10.5281/zenodo.5812657 | article | COMPARATIVE EVALUATION OF ANTI PLAQUE AND ANTI-INFLAMMATORY EFFICACY OF MOMORIDCA CHARANTIA AND 0.2% CHLORHEXIDINE GLUCONATE MOUTHWASHES IN PATIENTS WITH GINGIVITIS: A DOUBLE-BLIND | Zenodo (CERN European Organization for N
+- new | 2021 | 10.1016/j.hermed.2021.100453 | article | Momordica charantia L. for hyperlipidaemia: A randomised controlled assessment of the Ghanaian herbal medicinal product MCP-1 | Journal of Herbal Medicine
+- new | 2021 | 10.4108/eai.18-11-2020.2311791 | conference-paper | The Effects of Oral Supplementation of Bitter Melon (Momordica charantia L.) Leaves Extract on the VEGF Serum Level in Diabetic Foot Ulcers: Randomized Controlled Trial | Proceedings of the 2nd Borobudur Interna
+- new | 2021 | 10.18203/2319-2003.ijbcp20213747 | article | Assessment of safety and efficacy of a dietary supplement KaraLiv™ in supporting liver health: a double-blind, parallel, placebo-controlled randomized clinical trial | International Journal of Basic & Clinica
+- new | 2020 | 10.1080/10942912.2020.1833916 | review | Effects of Momordica charantia L on blood pressure: a systematic review and meta- analysis of randomized clinical trials | International Journal of Food Properties
+- new | 2020 | 10.1177/1934578x20918687 | article | Nutraceutical Improves Glycemic Control, Insulin Sensitivity, and Oxidative Stress in Hyperglycemic Subjects: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial | Natural Product Communications
+- new | 2019 | https://openalex.org/W3128399325 | dissertation | MUTU FISIK DAN PENERIMAAN VOLUNTEER SEDIAANHAND SANITIZER EKSTRAK DAUN PARE (Momordica charantia Linn.) | 
+- new | 2018 | 10.7860/jcdr/2018/36354.12036 | article | Therapeutic Effect of Momordica charantia on Blood Glucose, Lipid Profile and Oxidative Stress in Type 2 Diabetes Mellitus Patients: A Randomised Controlled Trial | JOURNAL OF CLINICAL AND DIAGNOSTIC RESEA
+- new | 2018 | 10.21048/10.21048/ijnd.2018.55.1.18165 | article | Hypoglycemic Effect of Bitter Gourd (Momordica charantia L) among Pre Diabetics in India: A Randomized Placebo Controlled Cross Over Study | The Indian Journal of Nutrition and Diet
+- new | 2018 | 10.4103/pm.pm_215_17 | review | Efficacy of Momordica charantia L. on blood glucose, blood lipid, and body weight: A meta-analysis of randomized controlled trials | Pharmacognosy Magazine
+- new | 2018 | 10.13005/bpj/1505 | article | The Effect of Bitter Melon (Momordica charantia L.) Leaves Extract on TNF-α Serum Levels and Diabetic Foot Ulcers Improvement : Randomized Controlled Trial | Biomedical & Pharmacology Journal
+- new | 2018 | 10.1080/10942912.2018.1446023 | article | Bitter melon (Momordica charantia): a natural healthy vegetable | International Journal of Food Properties
+- new | 2017 | https://openalex.org/W7217554991 | article | The Glucose-lowering Effects of the Powder of Momordica charantia L. Fruits on Type 2 Diabetic Patients. | Journal of Thai Traditional and Alternat
+- new | 2016 | 10.5603/dk.2016.0015 | article | Efficacy and safety of Glycebal (PDM011011) capsules as adjuvant therapy in subjects with type 2 diabetes mellitus: an open label, randomized, active controlled, phase II trial | Clinical Diabetology
+- new | 2015 | 10.4103/1687-4315.154728 | article | Preliminary clinical trials of karela, Momordica charantia, on non-insulin-dependent diabetes mellitus patients | Egyptian Pharmaceutical Journal
+- new | 2013 | 10.1016/j.jopr.2013.08.007 | article | Pilot study: Hypoglycemic and antiglycation activities of bitter melon (Momordica charantia L.) in type 2 diabetic patients | Journal of Pharmacy Research
+- new | 2013 | 10.1016/s2222-1808(13)60052-3 | article | Antidiabetic effects of Momordica charantia (bitter melon) and its medicinal potency | Asian Pacific Journal of Tropical Diseas
+- new | 2013 | https://openalex.org/W2189263671 | article | ANTIDIABETIC, HYPOLIPIDEMIC AND ANTIOXIDANT ACTIVITY OF MOMORDICA CHARANTIA ON TYPE-II DIABETIC PATIENT IN ALLAHABAD INDIA. | International Journal of Pharma and Bio 
+- new | 2013 | https://openalex.org/W2246048349 | article | Hepatoprotective Effect of Momordica charantia (karela) on with and without Type II Diabetic Patient in Allahabad India | Trends in Biosciences/Trends in bioscien
+- new | 2013 | 10.3844/ajptsp.2013.102.106 | article | INTERACTION OF MOMORDICA CHARANTIA WITH METFORMIN IN DIABETIC RATS | American Journal of Pharmacology and Tox
+- new | 2012 | 10.51415/10321/753 | dissertation | A comparison of the effectiveness of two homoeopathic dosage forms of Momordica charantia in the treatment of type 2 diabetes mellitus in patients on metformin | DUT Open Scholar (Durban University of T
+- new | 2009 | 10.1016/b978-0-12-374628-3.00035-9 | book-chapter | Health Benefits of Bitter Melon (Momordica charantia) | Elsevier eBooks
+- new | 2008 | https://openalex.org/W1547925581 | article | Antibacterial activity of antipsoriatic herbs: Cassia tora, Momordica charantia and Calendula officinalis | International journal of applied researc
+- new | 2004 | 10.1080/09670870310001619282 | article | Field trials with plant products to protect stored cowpea against insect damage | International Journal of Pest Management
+- new | 2004 | https://openalex.org/W2390271356 | article | Glycopenia coma caused by taking both dimethylbiguanide and Momordica charantia buccal tablet in one patient | Chinese Journal of New Drugs and Clinica
+- new | 1995 | https://openalex.org/W596937763 | article | A trial of chronic administration of Siamese Momordica charantia and Phyllanthus urinaria powders to streptozotocin-induced diabetic rats | Institutional Repositories DataBase (IRD
+- new | 1993 | 10.1002/ptr.2650070405 | article | Antidiabetic and adaptogenic properties of Momordica charantia extract: An experimental and clinical evaluation | Phytotherapy Research
+
+## morinda-citrifolia (Morinda citrifolia) - name clause: "Morinda citrifolia"[tiab] OR "noni"[tiab]
+
+### PubMed HT - 64 hits, 64 not already listed above, 61 new
+- new | 2026 | 41828216 | Review | Modifications of Resorbable Root Canal Filling Materials for Primary Teeth: A Systematic Review. | Materials (Basel)
+- HELD REF-3675 | 2026 | 42280334 | Randomized Controlled Trial | Fermented Noni Polysaccharides and Immune-Related Biomarkers in Adults with Recurrent URTIs: A Randomized, Double-Blind, Placebo-Controlled Trial. | Nutrients
+- new | 2026 | 42698468 | Clinical Trial | Evaluation of the plaque removal efficacy of chewable toothpaste tablets - a randomized controlled crossover trial. | Front Oral Health
+- new | 2026 | 42202482 |  | Randomized neural network with adaptive forward regularization for online task-free class incremental learning. | Neural Netw
+- new | 2026 | 41482393 |  | Differential Influence of Morinda citrifolia L. Fruit Juice on the Molecular Composition of Human Platelet Rich Fibrin. | In Vivo
+- new | 2026 | 42163992 | Review | Antihypertensive Plants Used by the Anak Dalam Tribe in Jambi, Indonesia: Ethnobotanical Insights and Pharmacological Potential as Alternatives to Conventional Medicine. | Drug Des Devel Ther
+- new | 2025 | 40627488 |  | Fed-HeLLo: Efficient Federated Foundation Model Fine-Tuning With Heterogeneous LoRA Allocation. | IEEE Trans Neural Netw Learn Syst
+- new | 2024 | 39516488 |  | Learning properties of quantum states without the IID assumption. | Nat Commun
+- new | 2024 | 39355186 |  | Comparison of Antimicrobial Efficacy of Morinda citrifolia, Triphala, and Camellia sinensis Extracts as Root Canal Irrigants in Primary Molars: A Randomized Clinical Trial. | Int J Clin Pediatr Dent
+- new | 2023 | 36808559 | Systematic Review | Can natural irrigants replace sodium hypochlorite? A systematic review. | Clin Oral Investig
+- new | 2023 | 38004017 |  | Effect of Plant-Based Mouthwash (Morinda citrifolia and Ocimum sanctum) on TNF-α, IL-α, IL-β, IL-2, and IL-6 in Gingival Crevicular Fluid and Plaque Scores of Patients Undergoing F | Medicina (Kaunas)
+- new | 2023 | 38047360 | Review/Research Support, Non-U.S. Gov't | The Importance of Traditional Chinese Medicine in the Intervention and Treatment of HIV while Considering its Safety and Efficacy. | Curr HIV Res
+- new | 2023 | 36727425 | Randomized Controlled Trial | Noni fruit extract ameliorates alcohol-induced hangover symptoms by reducing the concentrations of alcohol and acetaldehyde in a Sprague Dawley rat model and a human intervention s | Food Funct
+- new | 2023 | 37794521 |  | Chronic supplementation of noni in diabetic type 1-STZ rats: effects on glycemic levels, kidney toxicity and exercise performance. | Diabetol Metab Syndr
+- new | 2022 | 36041061 | Research Support, Non-U.S. Gov't/Systematic Review | D-mannose for preventing and treating urinary tract infections. | Cochrane Database Syst Rev
+- new | 2022 | 35684003 | Randomized Controlled Trial | Fermented Carica papaya and Morinda citrifolia as Perspective Food Supplements for the Treatment of Post-COVID Symptoms: Randomized Placebo-Controlled Clinical Laboratory Study. | Nutrients
+- new | 2022 | 35743929 |  | Anti-Inflammatory, Antioxidant, and Anti-Atherosclerotic Effects of Natural Supplements on Patients with FMF-Related AA Amyloidosis: A Non-Randomized 24-Week Open-Label Interventio | Life (Basel)
+- new | 2021 | 33888947 |  | Evaluation of Morinda citrifolia (noni) fruit extract as a bone regenerative material in the treatment of periodontal intrabony osseous defects: Clinical and cone-beam computed tom | J Indian Soc Periodontol
+- new | 2021 | 34190093 |  | Prevalence of malnutrition and its associated outcomes in pediatric patients with scoliosis undergoing elective posterior spinal fusion or spine growth modulation - a retrospective | Stud Health Technol Inform
+- new | 2020 | 32488098 | Clinical Trial/Research Support, Non-U.S. Gov't | The Effect of Corrected Inflammation, Oxidative Stress and Endothelial Dysfunction on Fmd Levels in Patients with Selected Chronic Diseases: A Quasi-Experimental Study. | Sci Rep
+- new | 2020 | 32434381 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Equivalence Trial | Randomized Comparison of the Polymer-Free Biolimus-Coated BioFreedom Stent With the Ultrathin Strut Biodegradable Polymer Sirolimus-Eluting Orsiro Stent in an All-Comers Population | Circulation
+- new | 2018 | 30158993 |  | The Effect of Morinda citrifolia L. Fruit Juice on the Blood Sugar Level and Other Serum Parameters in Patients with Diabetes Type 2. | Evid Based Complement Alternat Med
+- new | 2018 | 28088871 | Research Support, Non-U.S. Gov't | Herbal Medicine Practices of Patients With Liver Cancer in Peru: A Comprehensive Study Toward Integrative Cancer Management. | Integr Cancer Ther
+- new | 2017 | 27856497 | Clinical Trial, Phase II/Multicenter Study/Randomized Controlled Trial | Intravenous Allogeneic Mesenchymal Stem Cells for Nonischemic Cardiomyopathy: Safety and Efficacy Results of a Phase II-A Randomized Trial. | Circ Res
+- new | 2017 | 28403598 | Comparative Study/Randomized Controlled Trial | Prospective study to compare antibiosis versus the association of N-acetylcysteine, D-mannose and Morinda citrifolia fruit extract in preventing urinary tract infections in patient | Arch Ital Urol Androl
+- new | 2017 | 28928778 |  | Effectiveness of Morinda citrifolia juice as an intracanal irrigant in deciduous molars: An in vivo study. | Dent Res J (Isfahan)
+- new | 2015 | 26538926 |  | Antibacterial efficacy and effect of Morinda citrifolia L. mixed with irreversible hydrocolloid for dental impressions: A randomized controlled trial. | J Pharm Bioallied Sci
+- new | 2015 | 25541528 | Research Support, Non-U.S. Gov't | An infectious disease/fever screening radar system which stratifies higher-risk patients within ten seconds using a neural network and the fuzzy grouping method. | J Infect
+- new | 2015 | 26852530 | Multicenter Study | [Low calorie diet influence optimization on body composition at obese patients with secondary diastolic heart failure]. | Vopr Pitan [rus]
+- new | 2014 | 25798517 | Research Support, N.I.H., Extramural | Behavior problems in children transferred from a socioemotionally depriving institution to St. Petersburg (Russian Federation) families. | Infant Ment Health J
+- new | 2013 | 23431314 |  | Morinda citrifolia (Noni) as an Anti-Inflammatory Treatment in Women with Primary Dysmenorrhoea: A Randomised Double-Blind Placebo-Controlled Trial. | Obstet Gynecol Int
+- new | 2013 | 24804023 |  | Noni juice reduces lipid peroxidation-derived DNA adducts in heavy smokers. | Food Sci Nutr
+- new | 2013 | 23852230 | Comparative Study | Efficacy of passive ultrasonic irrigation with natural irrigants (Morinda citrifolia juice, Aloe Vera and Propolis) in comparison with 1% sodium hypochlorite for removal of E. faec | Indian J Dent Res
+- new | 2013 | 23078365 |  | Incision and drainage preceding definite surgery achieves lower 20-year long-term recurrence rate in 583 primary pilonidal sinus surgery patients. | J Dtsch Dermatol Ges
+- new | 2012 | 22474954 | Randomized Controlled Trial | A double-blind, randomized, clinical trial on the antileishmanial activity of a Morinda citrifolia (Noni) stem extract and its major constituents. | Nat Prod Commun
+- HELD REF-3676 | 2012 | 23097636 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Noni juice improves serum lipid profiles and other risk markers in cigarette smokers. | ScientificWorldJournal
+- new | 2012 | 22240782 | Clinical Trial, Phase III/Multicenter Study/Randomized Controlled Trial | Triplets versus doublets, with or without cisplatin, in the first-line treatment of stage IIIB-IV non-small cell lung cancer (NSCLC) patients: a multicenter randomised factorial tr | Br J Cancer
+- new | 2012 | 22906201 |  | Herbal medicine: a survey of use in Nigerian presurgical patients booked for ambulatory anaesthesia. | BMC Complement Altern Med
+- new | 2012 | 22580040 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Gastrokinetic activity of Morinda citrifolia aqueous fruit extract and its possible mechanism of action in human and rat models. | J Ethnopharmacol
+- new | 2011 | 21185719 | Research Support, N.I.H., Extramural/Review | Herbal therapy use by cancer patients: a literature review on case reports. | Eur J Cancer
+- new | 2011 | 22363077 |  | Noni-based nutritional supplementation and exercise interventions influence body composition. | N Am J Med Sci
+- new | 2011 | 20498650 | Multicenter Study/Research Support, Non-U.S. Gov't | Use of intrathecal chemoprophylaxis in children after SCT and the risk of central nervous system relapse. | Bone Marrow Transplant
+- HELD REF-3677 | 2010 | 21294416 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Morinda citrifolia Linn. for prevention of postoperative nausea and vomiting. | J Med Assoc Thai
+- new | 2009 | 19170155 | Research Support, Non-U.S. Gov't | In vitro inhibition of CYP3A4 by herbal remedies frequently used by cancer patients. | Phytother Res
+- new | 2009 | 20443518 | Research Support, Non-U.S. Gov't | A double-blind clinical safety study of noni fruit juice. | Pac Health Dialog
+- new | 2009 | 19174505 |  | Identification and exploration of herb-drug combinations used by cancer patients. | Integr Cancer Ther
+- new | 2009 | 22435516 | Clinical Trial, Phase I/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Using quality of life measures in a Phase I clinical trial of noni in patients with advanced cancer to select a Phase II dose. | J Diet Suppl
+- new | 2009 | 19807926 |  | Antioxidant activity of noni juice in heavy smokers. | Chem Cent J
+- new | 2009 | 19275712 | Research Support, Non-U.S. Gov't | Antioxidative activity, polyphenolic content and anti-glycation effect of some Thai medicinal plants traditionally used in diabetic patients. | Med Chem
+- new | 2008 | 19026877 | Comparative Study/Randomized Controlled Trial | The comparison of the effect of endodontic irrigation on cell adherence to root canal dentin. | J Endod
+- new | 2008 | 18654853 | Research Support, Non-U.S. Gov't | Hepatic protection by noni fruit juice against CCl(4)-induced chronic liver damage in female SD rats. | Plant Foods Hum Nutr
+- new | 2008 | 18570158 | Research Support, Non-U.S. Gov't | Inhibition of P-glycoprotein in Caco-2 cells: effects of herbal remedies frequently used by cancer patients. | Xenobiotica
+- new | 2008 | 22436097 | Clinical Trial, Phase I/Research Support, N.I.H., Extramural | Pharmacokinetic study of Noni fruit extract. | J Diet Suppl
+- new | 2008 | 18155496 | Comparative Study/Randomized Controlled Trial | Evaluation of Morinda citrifolia as an endodontic irrigant. | J Endod
+- new | 2005 | 16010646 | Review | Use of alternative medicine by patients with stage 5 chronic kidney disease. | Adv Chronic Kidney Dis
+- new | 2005 | 16138908 | Research Support, Non-U.S. Gov't | Molecular genetic analysis of SLC3A1 and SLC7A9 genes in Czech and Slovak cystinuric patients. | Ann Hum Genet
+- new | 2004 | 15650461 | Clinical Trial/Letter/Randomized Controlled Trial | Effects of Morinda citrifolia on quality of life and auditory function in postmenopausal women. | J Altern Complement Med
+- new | 2004 | 15298088 | Case Reports | Are immune responses pivotal to cancer patient's long term survival? Two clinical case-study reports on the effects of Morinda citrifolia (Noni). | Hawaii Med J
+- new | 2002 | 12239244 | Comparative Study/Research Support, Non-U.S. Gov't | Comparison between SLC3A1 and SLC7A9 cystinuria patients and carriers: a need for a new classification. | J Am Soc Nephrol
+- new | 2002 | 11980947 | Research Support, Non-U.S. Gov't | Detection, subgroup specificity, and genotype diversity of rotavirus strains in children with acute diarrhea in Paraguay. | J Clin Microbiol
+- new | 1998 | 9447641 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Reproductive choices among HIV-positive women. | Soc Sci Med
+- new | 1990 | 2162252 | Comparative Study/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Monoclonal antibody and F(ab')2 fragment delivery to tumor in patients with glioma: comparison of intracarotid and intravenous administration. | Cancer Res
+- new | 1988 | 3063324 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Intravenous immunoglobulin may lessen all forms of infection in patients receiving allogeneic bone marrow transplantation for acute lymphoblastic leukemia: a pediatric oncology gro | Bone Marrow Transplant
+- new | 1982 | 6132524 | Clinical Trial/Comparative Study/Randomized Controlled Trial | A comparison of two cardioselective beta-blockers with different ancillary properties in the treatment of hypertension. | Acta Med Scand Suppl
+
+### PubMed SR - 12 hits, 9 not already listed above, 8 new
+- new | 2025 | 41560756 | Systematic Review | Optimizing phenytoin therapy: a systematic review of clinically relevant food and herb interactions. | Front Pharmacol
+- new | 2025 | 40142793 | Review | The Comparison Between the Different Types of Storage Mediums on the Viability of Periodontal Cells Prior to the Replantation of Avulsed Teeth: A Systematic Review & Meta-Analysis. | J Clin Med
+- new | 2024 | 38358681 | Systematic Review | Anticancer and chemopreventive potential of Morinda citrifolia L. bioactive compounds: A comprehensive update. | Phytother Res
+- new | 2023 | 34693991 | Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S. | Noniterative adjustment to regression estimators with population-based auxiliary information for semiparametric models. | Biometrics
+- HELD REF-3674 | 2022 | 36448674 | Systematic Review | Efficacy and Safety of Morinda citrifolia L. (Noni) as a Potential Anticancer Agent. | Integr Cancer Ther
+- new | 2022 | 35815191 | Review | Systematic review of the effect of D-mannose with or without other drugs in the treatment of symptoms of urinary tract infections/cystitis (Review). | Biomed Rep
+- new | 2020 | 35370381 | Scoping Review | Azadirachta indica A. juss, Morinda citrifolia L. and Triphala as herbal endodontic irrigants: A scoping review. | Ayu
+- new | 2016 | 26822584 | Systematic Review | Effects of Plants on Osteogenic Differentiation and Mineralization of Periodontal Ligament Cells: A Systematic Review. | Phytother Res
+- new | 2006 | 16527653 | Research Support, Non-U.S. Gov't | Treatment of relapsers after combination therapy for chronic hepatitis C. | Infect Dis Clin North Am
+
+### PubMed SAFE - 136 hits, 113 not already listed above, 110 new
+- new | 2027 | 42681837 |  | Noni fruit phenolic-rich extract ameliorated non-alcoholic fatty liver disease through regulating gut microbiota and bile acids profiling by targeting FXR-FGF15 signaling. | J Sci Food Agric
+- new | 2026 | 41805431 | Case Reports | A Case Report: Drug-Induced Liver Injury from Prolonged Topical Application of Noni (Morinda citrifolia). | J Investig Med High Impact Case Rep
+- new | 2026 | 42732681 |  | Thai native chickens show improved growth performance and gut health following supplementation with Lactiplantibacillus plantarum-fermented noni juice. | Res Vet Sci
+- new | 2025 | 40154100 | Review | Molecular insights into anti-inflammatory activities of selected Indian herbs. | J Ayurveda Integr Med
+- new | 2025 | 40516329 |  | Fermented Morinda citrifolia extract improves late-onset hypogonadism in aged rats. | Biomed Pharmacother
+- new | 2025 | 40265854 | Review | Herbal Immunostimulants and Their Phytochemicals: Exploring Morinda citrifolia, Echinacea purpurea, and Phyllanthus niruri. | Plants (Basel)
+- new | 2025 | 41392560 |  | Impact of Morinda citrifolia Leaf Shoot Meal on Gastrointestinal Traits, Organ Histology and Blood Profiles in Quail. | Pak J Biol Sci
+- new | 2025 | 41614757 |  | Synergistic Anticancer Effects of Fermented Noni Extract Combined with 5-Fluorouracil, Doxorubicin, and Vincristine on A549, MCF-7, and SH-SY5Y Cell Models. | Curr Issues Mol Biol
+- new | 2025 | 40270859 | Case Reports | Diagnostic Enigma and Therapeutic Misadventure of Extraoral Draining Sinus: A Case Report on Oral Rehabilitation with the Role of Morinda citrifolia. | Contemp Clin Dent
+- new | 2025 | 41455855 |  | A therapeutic approach of LC-MS characterised MFER-Mc against alcohol and NDEA induced hepatocellular carcinoma activity through LXR-α, LXR-β and HMG-CoA pathway: an in-silico, in- | Med Oncol
+- new | 2025 | 41684719 |  | Ethanolic extract of Morinda citrifolia improves gut microbiota, intestinal morphology, and performance without adverse effects on hematological profiles in broiler chickens. | Front Vet Sci
+- new | 2024 | 38782144 |  | Morinda citrifolia protective effects on paclitaxel-induced testis parenchyma toxicity: An experimental study. | Reprod Toxicol
+- new | 2024 | 38640296 | Review | A comprehensive review on the hepatotoxicity of herbs used in the Indian (Ayush) systems of alternative medicine. | Medicine (Baltimore)
+- new | 2024 | 39312451 | Review/Research Support, N.I.H., Extramural | Discovery of Natural Products for Cancer Prevention. | Cancer J
+- new | 2024 | 39337965 |  | Network Pharmacology and Molecular Docking Analysis of Morinda citrifolia Fruit Metabolites Suggest Anxiety Modulation through Glutamatergic Pathways. | Life (Basel)
+- new | 2024 | 37711107 |  | Green Synthesis of Silver Nanoparticles using Morinda citrifolia Linn LeafExtract and its Antioxidant, Antibacterial and Anticancer Potential. | Pharm Nanotechnol
+- new | 2024 | 38571743 |  | Acute and Subchronic Toxicological Study of the Cocktail Extract from Curcuma xanthorrhiza Roxb, Phyllanthus niruri L. and Morinda citrifolia L. | J Toxicol
+- new | 2024 | 39683553 |  | Improvement of Late-Onset Hypogonadism Symptoms of Fermented Morinda citrifolia Extract in TM3 Leydig and TM4 Sertoli Cells. | Nutrients
+- new | 2024 | 39039810 |  | A simple and sensitive high-performance liquid chromatographic method combined with fluorescence detection for bioanalysis of scopoletin in rat plasma: Application to a pharmacokin | Biomed Chromatogr
+- new | 2024 | 38662247 |  | Noni enhances the anticancer activity of cyclophosphamide and suppresses myelotoxicity and hepatotoxicity in tumor-bearing mice. | J Cancer Res Clin Oncol
+- new | 2023 | 36619003 |  | Fair detection of poisoning attacks in federated learning on non-i.i.d. data. | Data Min Knowl Discov
+- new | 2023 | 37667314 |  | The anti-allergic potential of stingless bee honey from different botanical sources via modulation of mast cell degranulation. | BMC Complement Med Ther
+- new | 2023 | 35502509 |  | Toxicological effects of the Morinda citrifolia L. fruit extract on maternal reproduction and fetal development in rats. | Drug Chem Toxicol
+- new | 2023 | 37537774 | Review | Phenytoin's Pharmacological Interactions with Medicinal Herbs: A Review. | Pharmazie
+- new | 2023 | 37426193 |  | Characterizations of microRNAs involved in the molecular mechanisms underlying the therapeutic effects of noni (Morinda citrifolia L.) fruit juice on hyperuricemia in mice. | Front Nutr
+- new | 2022 | 35068274 |  | Studies related to the chemical composition, biological activities and toxicity of methanolic extracts of noni (Morinda citrifolia) fruits and leaves. | Nat Prod Res
+- new | 2022 | 35741971 |  | Genotoxicity Comparison between Morinda citrifolia Fruit and Seed Substances. | Foods
+- new | 2022 | 36518435 |  | Acute oral toxicity of damnacanthal and its anticancer activity against colorectal tumorigenesis. | Toxicol Rep
+- new | 2022 | 35645491 |  | Comparative Evaluation of Antimicrobial Efficacy of Zinc Oxide Eugenol with Zinc Oxide Mixed with Three Herbal Products to be Used as Root Canal Filling Material: An In Vitro Study | Int J Clin Pediatr Dent
+- new | 2022 | 36076420 | Research Support, Non-U.S. Gov't | Noni (Morinda citrifolia L.) fruit phenolic extract supplementation ameliorates NAFLD by modulating insulin resistance, oxidative stress, inflammation, liver metabolism and gut mic | Food Res Int
+- new | 2022 | 36518410 |  | Estrogenic activity and toxicity screening of Damnacanthal nanospheres and their metabolites assessed using an in vitro bioluminescent yeast assay. | Toxicol Rep
+- new | 2022 | 35998428 |  | Antimicrobial and anticancer activities of Hainan dry noni fruit alcoholic extracts and their novel compounds identification using UPLC-Q-Exactive Obitrap-MS/MS. | J Pharm Biomed Anal
+- new | 2021 | 35645066 |  | Evaluation of morinda citrifolia ethanolic extract versus morinda citrifolia fresh fruit juice for tissue response and systemic toxicity in animal model. | Indian J Dent Res
+- new | 2021 | 34661119 | Research Support, N.I.H., Extramural | Case Study of Noni Extract in Men with Very Low-Risk or Low-Risk Prostate Cancer. | Hawaii J Health Soc Welf
+- new | 2021 | 34070943 |  | Effects of Deacetylasperulosidic Acid on Atopic Dermatitis through Modulating Immune Balance and Skin Barrier Function in HaCaT, HMC-1, and EOL-1 Cells. | Molecules
+- new | 2021 | 34290264 | Research Support, Non-U.S. Gov't | Anticancer effects of the combined Thai noni juice ethanolic extracts and 5-fluorouracil against cholangiocarcinoma cells in vitro and in vivo. | Sci Rep
+- new | 2021 | 35008651 |  | Deacetylasperulosidic Acid Ameliorates Pruritus, Immune Imbalance, and Skin Barrier Dysfunction in 2,4-Dinitrochlorobenzene-Induced Atopic Dermatitis NC/Nga Mice. | Int J Mol Sci
+- new | 2020 | 32083868 |  | Isolation and Structural Characterization of Specific Bacterial β-Glucuronidase Inhibitors from Noni (Morinda citrifolia) Fruits. | J Nat Prod
+- new | 2020 | 33828362 |  | Exploring Medications for Hypertension Advertised Online: A Qualitative Study in Indonesia. | J Pharm Bioallied Sci
+- new | 2020 | 33062282 | Case Reports | Hiccups: You got to be kidney me! | SAGE Open Med Case Rep
+- new | 2020 | 31259639 |  | Administration of a Nutraceutical Mixture Composed by Aloe arborescens, Annona muricata, Morinda citrifolia, Beta rubra, Scutellaria baicalensis, and Vaccinium myrtillus Reduces Do | Nutr Cancer
+- HELD REF-1423 | 2020 | 31963703 |  | Fermented Morinda citrifolia (Noni) Alleviates DNCB-Induced Atopic Dermatitis in NC/Nga Mice through Modulating Immune Balance and Skin Barrier Function. | Nutrients
+- new | 2020 | 31988768 | Case Reports | A rare case of right-sided infective endocarditis caused by group B Streptococcus complicated with septic knee arthritis and subcutaneous abscess in the lower extremity. | Acute Med Surg
+- new | 2019 | 31191797 |  | Morinda citrifolia and Its Active Principle Scopoletin Mitigate Protein Aggregation and Neuronal Apoptosis through Augmenting the DJ-1/Nrf2/ARE Signaling Pathway. | Oxid Med Cell Longev
+- new | 2019 | 30977928 | Research Support, Non-U.S. Gov't | Derived esterase activity in Drosophila sechellia contributes to evolved octanoic acid resistance. | Insect Mol Biol
+- new | 2019 | 30445496 | Research Support, Non-U.S. Gov't | Detoxification Genes Differ Between Cactus-, Fruit-, and Flower-Feeding Drosophila. | J Hered
+- new | 2019 | 31102393 |  | An In Vitro Comparative Evaluation of Antimicrobial Efficacy of Propolis, Morinda Citrifolia Juice, Sodium Hypochlorite and Chlorhexidine on Enterococcus faecalis and Candida albic | J Contemp Dent Pract
+- new | 2019 | 30412453 |  | Effect of Morinda citrifolia and Annona muricata on Erhlich Tumor Cells in Swiss Albino Mice and In Vitro Fibroblast Cells. | J Med Food
+- new | 2018 | 29736381 | Review | Usage, biological activity, and safety of selected botanical dietary supplements consumed in the United States. | J Tradit Complement Med
+- new | 2018 | 30021621 |  | In vitro activity of Morinda citrifolia Linn. fruit juice against the axenic amastigote form of Leishmania amazonensis and its hydrogen peroxide induction capacity in BALB/c perito | BMC Res Notes
+- new | 2018 | 29993148 |  | Standardized Morinda citrifolia L. and Morinda elliptica L. leaf extracts alleviated fatigue by improving glycogen storage and lipid/carbohydrate metabolism. | Phytother Res
+- new | 2018 | 29374471 |  | Subchronic toxicity, immunoregulation and anti-breast tumor effect of Nordamnacantal, an anthraquinone extracted from the stems of Morinda citrifolia L. | BMC Complement Altern Med
+- new | 2017 | 27871867 |  | Chronic toxicity evaluation of Morinda citrifolia fruit and leaf in mice. | Regul Toxicol Pharmacol
+- new | 2017 | 28341591 | Letter/Comment | Report of Morinda citrifolia chronic toxicity not applicable to commercial noni juice. | Regul Toxicol Pharmacol
+- new | 2017 | 28703934 | Research Support, Non-U.S. Gov't | Analysis of cytochrome P450 contribution to evolved plant toxin resistance in Drosophila sechellia. | Insect Mol Biol
+- new | 2017 | 27959441 |  | Protective effects of Cambodian medicinal plants on tert‑butyl hydroperoxide‑induced hepatotoxicity via Nrf2‑mediated heme oxygenase‑1. | Mol Med Rep
+- new | 2017 | 27882828 |  | Morinda citrifolia mitigates rotenone-induced striatal neuronal loss in male Sprague-Dawley rats by preventing mitochondrial pathway of intrinsic apoptosis. | Redox Rep
+- new | 2016 | 27313649 |  | Ultrastructural Changes and Death of Leishmania infantum Promastigotes Induced by Morinda citrifolia Linn. Fruit (Noni) Juice Treatment. | Evid Based Complement Alternat Med
+- new | 2016 | 27488882 |  | Cell cycle arrest and mechanism of apoptosis induction in H400 oral cancer cells in response to Damnacanthal and Nordamnacanthal isolated from Morinda citrifolia. | Cytotechnology
+- new | 2016 | 26697948 | Research Support, Non-U.S. Gov't | Amelioration of apoptotic events in the skeletal muscle of intra-nigrally rotenone-infused Parkinsonian rats by Morinda citrifolia--up-regulation of Bcl-2 and blockage of cytochrom | Food Funct
+- new | 2015 | 25824932 | Case Reports/Letter | Acute liver failure in a patient consuming Herbalife products and Noni juice. | Rev Esp Enferm Dig
+- new | 2015 | 26669124 | Research Support, Non-U.S. Gov't/Review | Herbal Supplements and Hepatotoxicity: A Short Review. | Nat Prod Commun
+- new | 2015 | 26179835 | Case Reports | Potentially Unsafe Herb-drug Interactions Between a Commercial Product of Noni Juice and Phenytoin- A Case Report. | Acta Neurol Taiwan
+- new | 2015 | 26404212 | Research Support, N.I.H., Extramural/Review | Anti-Diabetic Potential of Noni: The Yin and the Yang. | Molecules
+- new | 2014 | 25139491 | Research Support, Non-U.S. Gov't | Damnacanthal inhibits the NF-κB/RIP-2/caspase-1 signal pathway by inhibiting p56lck tyrosine kinase. | Immunopharmacol Immunotoxicol
+- new | 2014 | 24045899 | Case Reports | Synergistic mutations in SLC3A1 and SLC7A9 leading to heterogeneous cystinuria phenotypes: pitfalls in the diagnostic workup. | Pediatr Nephrol
+- new | 2014 | 25002809 |  | Anti-allergic activity of the Morinda citrifolia extract and its constituents. | Pharmacognosy Res
+- new | 2013 | 23472485 | Research Support, Non-U.S. Gov't/Review | Adverse effects of herbal medicines: an overview of systematic reviews. | Clin Med (Lond)
+- new | 2013 | 23886123 | Review | Roles of plant extracts and constituents in cervical cancer therapy. | Asian Pac J Cancer Prev
+- new | 2013 | 23467452 | Case Reports | Drug-Induced Liver Injury Associated with Noni (Morinda citrifolia) Juice and Phenobarbital. | Case Rep Gastroenterol
+- new | 2013 | 24083710 |  | Morinda citrifolia (Noni) alters oxidative stress marker and antioxidant activity in cervical cancer cell lines. | Asian Pac J Cancer Prev
+- new | 2013 | 23828338 |  | Antimutagenic and antirecombinagenic activities of noni fruit juice in somatic cells of Drosophila melanogaster. | An Acad Bras Cienc
+- new | 2013 | 23534730 |  | Induction of mitochondrial-mediated apoptosis by Morinda citrifolia (Noni) in human cervical cancer cells. | Asian Pac J Cancer Prev
+- new | 2013 | 24347888 |  | Comparison of antimicrobial efficacy of propolis, Morinda citrifolia, Azadirachta indica (Neem) and 5% sodium hypochlorite on Candida albicans biofilm formed on tooth substrate: An | J Conserv Dent
+- new | 2013 | 24466723 | Case Reports | [Hepatoxic effect of a noni juice consumption--a case report]. | Przegl Lek [pol]
+- new | 2012 | 31643695 | Review | Noni. | 
+- HELD REF-1418 | 2012 | 22344842 | Review | Anticancer activity of Morinda citrifolia (Noni) fruit: a review. | Phytother Res
+- new | 2012 | 22619689 |  | Morinda citrifolia (Noni) Juice Augments Mammary Gland Differentiation and Reduces Mammary Tumor Growth in Mice Expressing the Unactivated c-erbB2 Transgene. | Evid Based Complement Alternat Med
+- new | 2012 | 23257938 | Case Reports | Euforia-induced acute hepatitis in a patient with scleroderma. | BMJ Case Rep
+- new | 2011 | 21119544 | Case Reports | Acute hepatotoxicity after ingestion of Morinda citrifolia (Noni Berry) juice in a 14-year-old boy. | J Pediatr Gastroenterol Nutr
+- new | 2011 | 21049395 | Review | Effects of herbal supplements on drug glucuronidation. Review of clinical, animal, and in vitro studies. | Planta Med
+- new | 2011 | 21734601 | Letter/Comment | Ingredients other than noni may be culprits in acute hepatotoxicity in 14-year-old boy. | J Pediatr Gastroenterol Nutr
+- new | 2011 | 21297344 | Letter/Research Support, Non-U.S. Gov't | A multigeneration reproductive and developmental safety evaluation of authentic Morinda citrifolia (noni) juice. | J Toxicol Sci
+- new | 2011 | 20951126 | Research Support, Non-U.S. Gov't | Activation of p38 MAPK by damnacanthal mediates apoptosis in SKHep 1 cells through the DR5/TRAIL and TNFR1/TNF-α and p53 pathways. | Eur J Pharmacol
+- new | 2010 | 20232121 | Comparative Study/Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S. | Multiple berry types prevent N-nitrosomethylbenzylamine-induced esophageal cancer in rats. | Pharm Res
+- new | 2010 | 19762199 | Research Support, Non-U.S. Gov't | Anticancer activity of fungal taxol derived from Botryodiplodia theobromae Pat., an endophytic fungus, against 7, 12 dimethyl benz(a)anthracene (DMBA)-induced mammary gland carcino | Biomed Pharmacother
+- new | 2010 | 20038450 | Research Support, Non-U.S. Gov't | Delayed ossification in Wistar rats induced by Morinda citrifolia L. exposure during pregnancy. | J Ethnopharmacol
+- new | 2009 | 19797868 | Letter | Hepatotoxicity and subchronic toxicity tests of Morinda citrifolia (noni) fruit. | J Toxicol Sci
+- new | 2009 | 19838937 | Research Support, Non-U.S. Gov't | Morinda citrifolia (noni) reduces cancer risk in current smokers by decreasing aromatic DNA adducts. | Nutr Cancer
+- new | 2008 | 18317933 | Research Support, Non-U.S. Gov't | Liver protective effects of Morinda citrifolia (Noni). | Plant Foods Hum Nutr
+- new | 2008 | 18337850 |  | [The health food product Noni--does marketing harmonize with the current status of research?]. | Tidsskr Nor Laegeforen [nor]
+- new | 2008 | 18844633 | Case Reports/Letter | Herbal does not at all mean innocuous: the sixth case of hepatotoxicity associated with morinda citrifolia (noni). | Am J Gastroenterol
+- new | 2008 | 19043286 | Letter | Prenatal toxicity test of Morinda citrifolia (noni) fruit. | J Toxicol Sci
+- new | 2007 | 18053321 | Research Support, Non-U.S. Gov't/Review | Review of the ethnobotany, chemistry, biological activity and safety of the botanical dietary supplement Morinda citrifolia (noni). | J Pharm Pharmacol
+- HELD REF-0197 | 2007 | 17286240 | Review | Morinda citrifolia (Noni) fruit--phytochemistry, pharmacology, safety. | Planta Med
+- new | 2007 | 20836165 |  | Safety tests and antinutrient analyses of noni (Morinda citrifolia L.) leaf. | J Sci Food Agric
+- new | 2007 | 18290705 | Letter | [Tahitian Noni juice is not hepatotoxic]. | Rev Esp Enferm Dig [spa]
+- new | 2007 | 17393917 | Research Support, Non-U.S. Gov't | Failure of juice or juice extract from the noni plant (Morinda citrifolia) to protect rats against oxygen toxicity. | Hawaii Med J
+- new | 2007 | 17516838 | Case Reports/Letter | [Hepatotoxicity caused by a Noni (Morinda citrifolia) preparation]. | Rev Esp Enferm Dig [spa]
+- new | 2007 | 17227089 | Research Support, Non-U.S. Gov't | Toxicological and analytical investigations of noni (Morinda citrifolia) fruit juice. | J Agric Food Chem
+- new | 2006 | 16773722 |  | Noni juice is not hepatotoxic. | World J Gastroenterol
+- new | 2006 | 16837801 | Case Reports | Hepatitis induced by Noni juice from Morinda citrifolia: a rare cause of hepatotoxicity or the tip of the iceberg? | Digestion
+- new | 2006 | 16909442 | Research Support, Non-U.S. Gov't | Evaluation of nitric oxide scavenging activity, in vitro and ex vivo, of selected medicinal plants traditionally used in inflammatory diseases. | Phytother Res
+- new | 2006 | 17068398 | Letter/Comment | Hepatotoxicity from interferon-beta, not noni juice. | Digestion
+- new | 2005 | 15756098 | Case Reports | Herbal hepatotoxicity: acute hepatitis caused by a Noni preparation (Morinda citrifolia). | Eur J Gastroenterol Hepatol
+- new | 2005 | 16094725 | Case Reports | Hepatotoxicity of NONI juice: report of two cases. | World J Gastroenterol
+- new | 2004 | 15307118 | Case Reports/Letter | Coumadin resistance and the vitamin supplement "Noni". | Am J Hematol
+- new | 2001 | 11795436 | Comparative Study/Research Support, Non-U.S. Gov't | Cancer preventive effect of Morinda citrifolia (Noni). | Ann N Y Acad Sci
+- new | 2000 | 10676732 | Case Reports | Noni juice (Morinda citrifolia): hidden potential for hyperkalemia? | Am J Kidney Dis
+- new | 1998 | 9739052 | Case Reports/Research Support, Non-U.S. Gov't | A two-amino acid insertion in the Cys146- Cys167 loop of the alphaIIb subunit is associated with a variant of Glanzmann thrombasthenia. Critical role of Asp163 in ligand binding. | J Clin Invest
+- new | 1994 | 8052193 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Chronic intravenous model for studies of drug (Ab)use in the pregnant and/or group-housed rat: an initial study with cocaine. | Neurotoxicol Teratol
+- new | 1982 | 6798116 | Case Reports/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | A monoclonal IgM lambda macroglobulin with specificity for lacto-N-tetraose in a patient with bronchogenic carcinoma. | J Immunol
+- new | 1980 | 6776771 | Case Reports | Nodular lymphoma eventuating into lymphoplasmocytic lymphoma with monoclonal IgM/lambda cold agglutinin and Bence-Jones proteinuria. | Acta Haematol
+
+### PubMed OBS - 15 hits, 8 not already listed above, 8 new
+- new | 2025 | 40773385 |  | On Structuring Hyperspherical Manifold for Probing Novel Biomedical Entities. | IEEE Trans Pattern Anal Mach Intell
+- new | 2024 | 39055297 |  | Antifungal Activity of Morinda citrifolia Methanolic Extract against Candida albicans: An In Vitro Study. | J Int Soc Prev Community Dent
+- new | 2022 | 34619374 |  | Characterization of an Iodinated Rectal Spacer for Prostate Photon and Proton Radiation Therapy. | Pract Radiat Oncol
+- new | 2016 | 25371118 | Research Support, N.I.H., Extramural | Temporal Patterns of Circulating Inflammation Biomarker Networks Differentiate Susceptibility to Nosocomial Infection Following Blunt Trauma in Humans. | Ann Surg
+- new | 2015 | 26734673 |  | Effect of Different Antioxidants on the Microtensile Bond Strength of an Adhesive System to Sodium Hypochlorite-treated Dentin. | J Adhes Dent
+- new | 2013 | 24119247 | Multicenter Study/Observational Study/Research Support, N.I.H., Extramural | Congenital transmission of Trypanosoma cruzi in Argentina, Honduras, and Mexico: study protocol. | Reprod Health
+- new | 2011 | 21444244 | Comparative Study/Research Support, Non-U.S. Gov't | Groin pain and hip range of motion is different in Indigenous compared to non-indigenous young Australian football players. | J Sci Med Sport
+- new | 1998 | 9517907 | Multicenter Study/Research Support, Non-U.S. Gov't | Early neuropsychological impairment in HIV-seropositive intravenous drug users: evidence from the Italian Multicentre Neuropsychological HIV Study. | Acta Psychiatr Scand
+
+### PubMed REV - 65 hits, 17 not already listed above, 16 new
+- new | 2025 | 41243483 | Review | Morinda citrifolia L. (noni) and its potential in the management of systemic metabolic disorder (SMD). | Food Funct
+- new | 2025 | 40902758 | Review | Morinda citrifolia (noni) polysaccharides: Extraction methods, molecular structures, and biological activities. | Int J Biol Macromol
+- new | 2025 | 41389093 | Review | Noni (Morinda citrifolia) and Neurodegeneration: Exploring its Role in Oxidative Stress, Neuroinflammation, and Cell Survival Pathways. | Mol Neurobiol
+- new | 2023 | 37313239 | Review | Resmetirom: An Orally Administered, Smallmolecule, Liver-directed, β-selective THR Agonist for the Treatment of Non-alcoholic Fatty Liver Disease and Non-alcoholic Steatohepatitis. | touchREV Endocrinol
+- new | 2023 | 36397724 | Review | A review on the gastrointestinal protective effects of tropical fruit polyphenols. | Crit Rev Food Sci Nutr
+- new | 2020 | 31840355 | Review | Indian Morinda species: A review. | Phytother Res
+- new | 2020 | 30633954 | Research Support, N.I.H., Extramural/Review | Current status and contemporary approaches to the discovery of antitumor agents from higher plants. | Biotechnol Adv
+- new | 2019 | 31109667 | Review | Host use and host shifts in Drosophila. | Curr Opin Insect Sci
+- new | 2019 | 31780035 | Review | Immunomodulatory actions of a Polynesian herb Noni (Morinda citrifolia) and its clinical applications. | Complement Ther Med
+- new | 2017 | 28587078 | Review | Morinda citrifolia Linn. (Noni) and Its Potential in Obesity-Related Metabolic Dysfunction. | Nutrients
+- new | 2017 | 27715358 | Review | Critical Review on Eliminating Endodontic Dental Infections Using Herbal Products. | J Diet Suppl
+- HELD REF-1419 | 2016 | 27328771 | Review/Research Support, Non-U.S. Gov't | Morinda citrifolia Linn. fruit (Noni) juice induces an increase in NO production and death of Leishmania amazonensis amastigotes in peritoneal macrophages from BALB/c. | Nitric Oxide
+- new | 2014 | 24164045 | Review | Damnacanthal: a promising compound as a medicinal anthraquinone. | Anticancer Agents Med Chem
+- new | 2007 | 17942298 | Research Support, Non-U.S. Gov't/Review | Structural basis for ligand recognition by integrins. | Curr Opin Cell Biol
+- new | 2006 | 17022928 | Review | Noni (Morinda citrifolia). | J Soc Integr Oncol
+- new | 2005 | 15881686 | Research Support, U.S. Gov't, Non-P.H.S./Review | The genetics of adaptation in Drosophila sechellia. | Genetica
+- new | 2002 | 12466051 | Research Support, Non-U.S. Gov't/Review | Morinda citrifolia (Noni): a literature review and recent advances in Noni research. | Acta Pharmacol Sin
+
+### ClinicalTrials.gov - 10 registered studies
+- NCT00033878 | COMPLETED | results=False | PHASE1 | Study of Noni in Cancer Patients | conds: Neoplasms, Neoplasm Metastasis | intr: Noni Extract
+- NCT01424748 | COMPLETED | results=False | PHASE1 | Clinical Trial of Tahitian Noni Juice Safety | conds: Healthy | intr: Tahitian Noni Juice, Placebo
+- NCT02648919 | TERMINATED | results=True | PHASE2 | Clinical Study of Noni Extract in Men With Very Low Risk or Low Risk Prostate Cancer | conds: Prostate Cancer | intr: Noni extract
+- NCT00588562 | RECRUITING | results=False |  | Rare Kidney Stone Consortium Patient Registry | conds: Primary Hyperoxaluria, Dent Disease, Cystinuria, APRT Deficiency | intr: 
+- NCT01677169 | COMPLETED | results=False | PHASE2 | Effect of Noni Juice on Lipid Peroxidation-derived DNA Adducts in Heavy Smokers | conds: DNA Damage | intr: Noni juice, Placebo
+- NCT00272675 | COMPLETED | results=False | PHASE2,PHASE3 | Prevention of Nosocomial Infection by Decontamination of the Naso- and Oropharynx With Chlorhexidine (NONI Trial) | conds: Nosocomial Infection, Respiratory Tract Infection, Surgical Site Infection | intr: Chlorhexidine gluconate (drug) vs placebo | pubs: ['18461895:DERIVED (new)', '17119142:DERIVED (new)']
+- NCT01070264 | COMPLETED | results=False | NA | A Pilot Observational Clinical Survey: Impacts of Tahitian Noni Juice on the Quality of Life of Patients With Osteoarthritis | conds: Osteoarthritis | intr: Noni Juice
+- NCT00875823 | WITHDRAWN | results=False |  | International Registry for Primary Hyperoxaluria | conds: Primary Hyperoxaluria, Nephrocalcinosis, Kidney Stones | intr:  | pubs: ['15961949:RESULT (new)']
+- NCT01597076 | COMPLETED | results=False | PHASE1 | Effect of an Iridoid Enriched Beverage on Skin Autofluorescence | conds: Oxidative Stress, Quality of Life, Metabolic Syndrome | intr: iridoid enriched mixed fruit beverage
+- NCT04337918 | COMPLETED | results=False | PHASE2 | Nitric Oxide Releasing Solutions to Prevent and Treat Mild/Moderate COVID-19 Infection | conds: Corona Virus Infection | intr: NORS (Nitric Oxide Releasing Solution), NORS (Nitric Oxide Releasing Solution)
+
+### OpenAlex no-PMID trial-worded - 2453 hits, 49 without PMID, 49 new
+- new | 2026 | 10.25258/ijddt.16.73s.24 | article | Comparative Evaluation of Morinda citrifolia (Noni) Mouthwash and Chlorhexidine Mouthwash on Gingival Inflammation, Dental Plaque, Tooth Staining and Colony Forming Units in Patien | International Journal of Drug Delivery T
+- new | 2026 | 10.3390/ijerph23091119 | article | Efficacy and Safety of Phikud Tri-Phon Herbal Decoction for Weight Management in Young Adult Thai Females: A Double-Blind, Randomized Controlled Trial | International Journal of Environmental R
+- new | 2025 | https://openalex.org/W7217474308 | article | A Randomized, Double Blind, Placebo Controlled, Single Centric, 2 Arm Clinical Trial to Assess the Efficacy and Safety of Amrith Noni D Plus in Patients with Type II Diabetes Melli | Journal of chemical health risks
+- new | 2025 | 10.18203/2319-2003.ijbcp20252574 | article | Efficacy and safety of Amrith Noni Arthoplus in osteoarthritis: a double-blinded, randomized clinical trial | International Journal of Basic & Clinica
+- new | 2025 | 10.26832/24566632.2025.1004021 | article | A review on phytochemistry,traditional uses, and pharmacological potential of Morinda citrifolia(Noni) | Archives of Agriculture and Environmenta
+- new | 2024 | 10.53346/wjapmr.2024.7.1.0040 | article | Antioxidant activities of an iridoid-rich beverage containing noni juice, cornelian cherries, and olive extract in vitro and in human volunteers | World Journal of Advanced Pharmaceutical
+- new | 2024 | 10.62885/abdisci.v2i1.534 | article | SOCIALIZATION OF COUNSELING ON THE BENEFITS OF NONI FRUIT FOR HYPERTENSION PATIENTS | Jurnal Abdisci
+- new | 2024 | 10.26714/magnamed.11.1.2024.83-96 | article | The Potential of Noni (Morinda citrifolia L.) as an Anti-Diabetic | MAGNA MEDICA Berkala Ilmiah Kedokteran d
+- new | 2024 | 10.47836/mjmhs.20.3.45 | article | Brief Review on the Phytochemistry and Pharmacological Activities of Morinda citrifolia L. | Malaysian Journal of Medicine and Health
+- new | 2024 | 10.53555/ajbr.v27i3s.2538 | article | Study the Efficacy of Morinda Citrifolia in Polycystic Ovarian Syndrome (PCOS) | African Journal of Biomedical Research
+- new | 2023 | 10.17126/joralres.2023.024 | article | Chlorhexidine and Morinda citrifolia mouthwash as a preprocedural mouthrinse during ultrasonic scaling – A randomised clinical trial | Journal Of Oral Research
+- new | 2023 | 10.5539/jfr.v12n2p29 | article | Antioxidant Activity of Noni Juice in Vitro and in Human Volunteers | Journal of Food Research
+- new | 2023 | 10.31083/j.ceog5005107 | article | Effect of Traditional Chinese Formula Dingkun Pill on Primary Dysmenorrhea: A Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial | Clinical and Experimental Obstetrics & G
+- new | 2023 | 10.31080/asmi.2023.06.1219 | article | A Review - Anticancer and Antidiabetic Activity of Morinda citrifolia (Noni) Fruit | ACTA SCIENTIFIC MICROBIOLOGY
+- new | 2022 | 10.4103/ijnpnd.ijnpnd_66_21 | article | Effect of Morinda citrifolia L. Mouthwash on Periodontal Health in Type 2 Diabetes Mellitus Patients − A Randomized Controlled Trial | International journal of Nutrition Pharm
+- new | 2021 | 10.9734/jpri/2021/v33i41a32326 | article | Comparative Efficacy of Four Fruit Extract Mouthrinses on Gingivitis in Orthodontic Patients : A Randomised Clinical Trial | Journal of Pharmaceutical Research Inter
+- new | 2021 | 10.25181/icoaas.v1i1.2004 | conference-paper | Noni (Morinda citrifolia L.) relationship analysis based on morphology character and random amplified polymorphic DNA (RAPD) | International Conference on Agriculture 
+- new | 2021 | 10.1136/annrheumdis-2021-eular.2144 | conference-abstract | ANTIINFLAMMATORY, ANTIOXIDANT AND ANTI-ATHEROSCLEROTIC EFFECTS OF A COMBINATION OF NATURAL SUPPLEMENTS ON PATIENTS WITH FMF RELATED AA AMYLOIDOSIS: A NON-RANDOMIZED 24 WEEKS OPEN L | Annals of the Rheumatic Diseases
+- new | 2021 | 10.1016/j.fbio.2021.101000 | article | A review on functional and nutritional properties of noni fruit seed (Morinda citrifolia L.) and its oil | Food Bioscience
+- new | 2020 | 10.3889/oamjms.2020.4693 | article | Controlled Clinical Trial Effect of Noni Fruit Extract (Morinda citrifolia) Toward Overactive Bladder Women through Observation of High-Sensitivity C-reactive Protein in Urine Leve | Open Access Macedonian Journal of Medica
+- new | 2019 | 10.5530/pj.2019.11.107 | article | The Effect of Noni Fruit Extract (Morinda citrifolia L.) in Gingivitis Patient | Pharmacognosy Journal
+- new | 2019 | 10.29244/jipthp.7.1.41-46 | article | Karakteristik Organoleptik dan Nilai pH Yoghurt dengan Penambahan Sari Buah Mengkudu (Morinda citrifolia L) | Jurnal Ilmu Produksi dan Teknologi Hasil
+- new | 2019 | 10.4236/jbm.2019.77003 | article | Morinda citrifolia (Noni) Fruit Juice Inhibits Endocannabinoid Degradation Enzymes | Journal of Biosciences and Medicines
+- new | 2018 | 10.4236/jbm.2018.69001 | article | The Influence of Morinda citrifolia (Noni) Fruit Juice on Collagen Deposition in the Skin: A Minireview | Journal of Biosciences and Medicines
+- new | 2017 | 10.1556/034.59.2017.3-4.8 | article | Comparative foliar micromorphological studies of in vitro and field transferred plants of Morinda citrifolia | Acta Botanica Hungarica
+- new | 2016 | 10.5530/pj.2016.4.4 | article | Health Benefits of Morinda citrifolia (Noni): A Review | Pharmacognosy Journal
+- new | 2016 | 10.32734/dentika.v19i2.409 | article | MORINDA CITRIFOLIA EXTRACT MOUTHWASH AS ANTIGINGIVITIS | Dentika Dental Journal
+- new | 2016 | 10.15436/2377-0619.16.1185 | article | PRELIMINARY STUDY: ROLE OF THE COMBINATION OF SPIRULINA AND MORINDA CITRIFOLIA IN THE CONTROL OF HYPERGLYCEMIA IN OMANI DIABETIC PATIENTS | International Journal of Food and Nutrit
+- new | 2016 | 10.1080/09712119.2016.1151794 | article | Biochemical and Antioxidant effects in crossbred calves fed with Morinda citrifolia | Journal of Applied Animal Research
+- new | 2016 | 10.18006/2016.4(3s).249.265 | review | Effect of Morinda citrifolia in growth, production and immunomodulatory properties in livestock and poultry: a review | Journal of Experimental Biology and Agri
+- new | 2016 | 10.5935/1806-6690.20160067 | article | The morphological characterization of the dry seeds and reserve mobilization during germination in Morinda citrifolia L. | Ciência Agronômica/Revista ciência agron
+- new | 2015 | 10.1016/j.arabjc.2015.06.018 | article | Morinda citrifolia (Noni): A comprehensive review on its industrial uses, pharmacological activities, and clinical trials | Arabian Journal of Chemistry
+- new | 2015 | 10.19026/ajfst.8.1597 | article | The Effect of a Phaseolus vulgaris and Dietary Fiber Based Supplement on Advanced Glycation End Products: An Open-label Trial | Advance Journal of Food Science and Tech
+- new | 2015 | 10.19053/01228420.4348 | article | Effect of dietary supplementation with Morinda citrifolia on productivity and egg quality of laying hens | Ciencia y agricultura
+- new | 2014 | 10.4314/tjpr.v13i8.17 | article | Effect of Morinda citrifolia Fruit Extract Capsule on Total Cholesterol Levels in Patients with Hypercholesterolemia | Tropical Journal of Pharmaceutical Resea
+- new | 2014 | https://openalex.org/W1501845269 | article | ANTIDIABETIC EFFECT OF MORINDA CITRIFOLIA L. AS A TREATMENT OF DIABETES MELLITUS | Jurnal Majority
+- new | 2013 | 10.4236/mri.2013.22003 | article | Effect of Morinda citrifolia L. fruit juice on gingivitis/periodontitis | Modern Research in Inflammation
+- new | 2013 | https://openalex.org/W278046985 | article | Evaluation of anticoagulant property of aqueous and Ethanolic Extracts of Morinda citrifolia | Universiti Putra Malaysia Institutional 
+- new | 2013 | 10.3923/ijp.2013.462.492 | review | Systematic Review on Anticancer Potential and other Health Beneficial Pharmacological Activities of Novel Medicinal Plant Morinda citrifolia (Noni) | International Journal of Pharmacology
+- new | 2012 | https://openalex.org/W1266580972 | report | Noni (Morinda citrifolia) | WestminsterResearch (University of Westm
+- new | 2012 | https://openalex.org/W2183042731 | article | Efficacy of a Morinda citrifolia Based Skin Care Regimen | 
+- new | 2012 | 10.31186/j.agroind.2.1.21-27 | article | THE EFFECT OF (Morinda citrifolia L.) MEAL IN DIET ON PERFORMANCE OF BROILER | Jurnal Agroindustri
+- new | 2012 | 10.14334/jitv.v12i1.556 | article | Supplementation of Morinda citrifolia waste as bioactive compound on the performances of broiler | Jurnal Ilmu Ternak dan Veteriner
+- new | 2011 | 10.31989/ffhd.v1i2.138 | article | Morinda citrifolia L. (noni) improves the Quality of Life in adults with Osteoarthritis | Functional Foods in Health and Disease
+- new | 2010 | https://openalex.org/W2341378120 | article | Experimental study on ninety days feeding experiment of Morinda citrifolia powder. | Xiandai yufang yixue
+- new | 2009 | 10.1055/s-0029-1234946 | article | Phytoestrogenic activity of Morinda citrifolia L. (Noni) leaf | Planta Medica
+- new | 2008 | 10.5897/jmpr.9000913 | article | Morinda citrifolia L. (noni) improves athlete endurance: Its mechanisms of action | Journal of Medicinal Plants Research
+- new | 2007 | 10.4314/njhbs.v5i2.11590 | article | Comparative study of the effect of Morinda citrifolia (Noni) with selected physiotherapy modalities in the management of patients with cervical spondylosis | Nigerian Journal of Health and Biomedica
+- new | 2005 | 10.1200/jco.2005.23.16_suppl.8217 | conference-abstract | Quality of life measures in a phase I trial of noni | Journal of Clinical Oncology

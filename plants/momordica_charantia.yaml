@@ -200,7 +200,8 @@ indications:
   - REF-0412
 - condition: metabolic-support
   note: Antidiabetic effects reviewed (reviews); a Cochrane review and a later systematic review found
-    no clear effect on metabolic markers
+    no clear effect on metabolic markers, and a 2024 meta-analysis of 10 randomized trials found no effect
+    on body weight, BMI, waist size or body fat
   reference_ids:
   - REF-0412
   - REF-0413
@@ -208,6 +209,7 @@ indications:
   null_result_ids:
   - REF-3396
   - REF-3672
+  - REF-5506
 - condition: high-cholesterol
   note: Bitter melon lowered total cholesterol and triglycerides in a meta-analysis of randomized trials
     (short trials)
@@ -235,6 +237,20 @@ contraindications:
   reference_ids:
   - REF-0414
   status: verified
+- note: 'Liver: a man who drank large amounts of "asowosi" (bitter melon) cleansing tea developed severe
+    liver injury rated highly probable on a causality scale, and another man had biopsy-supported herb-induced
+    liver injury after weeks of herbal remedies including asowosi; both recovered (case reports).'
+  severity: caution
+  reference_ids:
+  - REF-5507
+  - REF-5508
+  status: verified
+- note: 'Kidneys: a woman who took a pure bitter melon extract for 7 months developed biopsy-proven acute
+    interstitial nephritis, which improved after stopping it and steroid treatment (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5509
+  status: verified
 references:
 - REF-1213
 - REF-1214
@@ -258,6 +274,14 @@ drug_class_interactions:
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
+- drug_class: chemotherapy-agents
+  severity: caution
+  mechanism: A man on long-term pazopanib (a cancer drug) developed acute pancreatitis four days after
+    starting bitter melon extract; it settled after both were stopped, and pazopanib was later restarted
+    without recurrence, suggesting an interaction (case report).
+  reference_ids:
+  - REF-5510
+  status: draft
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -287,4 +311,14 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Fro
   | 2026-11-13: symptom-source audit deep re-sweep batch 11 - Deep re-sweep. Glycaemia MA REF-3671
   (positive, low quality) added; 2023 SR REF-3672 ("metabolic effect cannot be determined")
   no-effect alongside Cochrane REF-3396. New pair (owner rule): high-cholesterol (MA REF-3673).
-  Notes rewritten.'
+  Notes rewritten.
+  | 2026-11-26: symptom-source audit research-deepening batch 21 - Searched PubMed (Momordica
+  charantia / bitter melon / bitter gourd / karela tiab: 93 HT, 31 SR, 252 SAFE hits; many were
+  crop-science papers), Europe PMC, ClinicalTrials.gov (29) and OpenAlex. Blood sugar (8, with
+  nulls) and cholesterol (7) were not padded (2025 prediabetes RCT and 2018 Japanese lipid RCT not
+  added; the lipid MA already pools such trials). Added: 2024 anthropometric MA as a no-effect
+  study on metabolic-support; liver caution (2023 RUCAM highly probable asowosi case; 2026
+  biopsy-supported case); kidney caution (2021 pure-extract interstitial nephritis); DRAFT
+  chemotherapy-agents interaction (2022 pazopanib pancreatitis case). Not added: 2017 nephritis
+  case with Hyponidd (multi-herb tablet), red yeast rice and other combinations, in silico
+  interaction studies, 2022 obesity pilot (metabolic-support already has nulls).'

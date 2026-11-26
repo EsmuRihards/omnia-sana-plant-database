@@ -250,9 +250,12 @@ indications:
   - REF-0112
   - REF-0189
 - condition: bloating
-  note: Traditional use for minor stomach and gut complaints such as bloating (EU herbal monograph)
+  note: Chamomile drops reduced flatulence after laparoscopic gallbladder surgery compared with placebo
+    (randomized triple-blind trial); traditional use for minor stomach and gut complaints such as bloating
+    (EU herbal monograph)
   reference_ids:
   - REF-0079
+  - REF-5483
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0112
@@ -329,7 +332,9 @@ indications:
     in knee osteoarthritis in a randomized trial
 - condition: skin-irritation
   note: Traditional use for minor skin inflammation such as sunburn (EU herbal monograph); an extract
-    was no better than its base cream for UV skin redness in a randomized trial
+    was no better than its base cream for UV skin redness in a randomized trial, and adding chamomile
+    to a liposomal gel did not reduce radiation dermatitis in breast cancer radiotherapy (randomized double-blind
+    trial)
   reference_ids:
   - REF-0079
   status: needs-review
@@ -340,6 +345,7 @@ indications:
   - REF-0280
   null_result_ids:
   - REF-3527
+  - REF-5486
 - condition: wounds
   note: Traditional use for superficial wounds (EU herbal monograph); antimicrobial activity reported
     (review)
@@ -411,6 +417,19 @@ indications:
   reference_ids:
   - REF-3639
   status: verified
+- condition: headache
+  note: A chamomile ointment lowered the rate of headache after spinal anaesthesia (post-dural-puncture
+    headache) at 6 and 12 hours compared with placebo in women having a caesarean section (randomized
+    double-blind trial)
+  reference_ids:
+  - REF-5484
+  status: verified
+- condition: sinusitis
+  note: Chamomile extract nasal drops improved chronic rhinosinusitis symptoms, quality of life and nasal
+    examination findings more than placebo (randomized double-blind trial)
+  reference_ids:
+  - REF-5485
+  status: verified
 contraindications:
 - note: 'Generally considered very safe when used as tea or topical preparations.Allergy risk: People
     allergic to ragweed, daisies, or other Asteraceae plants may react (itching, rash).Blood thinners:
@@ -451,6 +470,7 @@ contraindications:
   - REF-0189
   - REF-0231
   - REF-0280
+  - REF-5488
   status: verified
 - note: 'Scented mayweed (Matricaria chamomilla) shares the same species as German chamomile (see German
     Chamomile entry above). Duke (2002) provides the same clinical support: Commission E approves it for
@@ -464,6 +484,25 @@ contraindications:
   - REF-0231
   - REF-0280
   - REF-0063
+  status: verified
+- note: 'Side effects: in a 2025 systematic review of 72 trials in which 2,896 people took chamomile,
+    side effects were uncommon and mild, mainly digestive upset and drowsiness. No allergic reactions
+    occurred in the trials, but case reports describe allergic reactions including anaphylaxis (for example
+    a man who reacted an hour after a cup of chamomile tea). Data on use in pregnancy and breastfeeding
+    are insufficient.'
+  severity: info
+  reference_ids:
+  - REF-5487
+  - REF-5488
+  status: verified
+- note: 'Blood clotting: in a randomized placebo-controlled crossover study in 12 healthy volunteers,
+    a week of chamomile tea (9 bags a day) or extract capsules did not change clotting tests; in another
+    small crossover study a single cup slightly lengthened prothrombin time (by 0.7 seconds, below a 10%
+    threshold for clinical relevance). The volunteers were not taking warfarin.'
+  severity: info
+  reference_ids:
+  - REF-5489
+  - REF-5490
   status: verified
 references:
 - REF-1153
@@ -580,4 +619,21 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-3633), migraine (RCT REF-3634), oral-health (RCTs REF-3635, REF-3636 + SR REF-3637),
   back-pain (RCT REF-3639). Not used: saffron+chamomile combination 37427624; ginger/chamomile
   CINV trial 27644672 (conclusion is about ginger).
-  | 2026-11-19 (monograph-source audit): preparations[2] said the RCT found topical chamomile oil ''effective for knee osteoarthritis pain''; REF-2349 found less paracetamol use but NO difference in WOMAC pain, stiffness or function. Corrected. Dropped: concentrated extract, infused oil, compress (not in the cited source).'
+  | 2026-11-19 (monograph-source audit): preparations[2] said the RCT found topical chamomile oil ''effective for knee osteoarthritis pain''; REF-2349 found less paracetamol use but NO difference in WOMAC pain, stiffness or function. Corrected. Dropped: concentrated extract, infused oil, compress (not in the cited source).
+  | 2026-11-26: symptom-source audit research-deepening batch 21 - Searched PubMed (Matricaria
+  chamomilla / recutita, Chamomilla recutita, German chamomile tiab; chamomile, camomile ti: 186
+  HT, 41 SR, 237 SAFE hits), Europe PMC, ClinicalTrials.gov (70) and OpenAlex. Strong pairs
+  (anxiety 9, oral health 9, insomnia 8, pain 8) were not padded. Added: 2023 triple-blind RCT
+  (post-surgery flatulence) to bloating; NEW headache pair (2024 double-blind RCT,
+  post-dural-puncture headache prevention); NEW sinusitis pair (2021 double-blind nasal-drop RCT
+  in chronic rhinosinusitis); 2025 liposomal-gel radiodermatitis RCT as a no-effect study on
+  skin-irritation; 2025 adverse-event SR and a 2009 anaphylaxis case; two randomized clotting
+  studies (2023, 2024) as an info note. The approved anticoagulant interaction (warfarin case) is
+  unchanged. Not added: 2024 post-ear-surgery nausea RCT (different only at 4 h), 2025
+  musculoskeletal-pain MA (pools the knee OA trial already cited), 2017 topical-oil enuresis RCT
+  (no vocab condition for bedwetting), mastalgia, carpal tunnel, PCOS, phlebitis and neutropenia
+  trials (no vocab condition), compound chamomile-lidocaine gels, Iberogast/STW 5 and other
+  combinations, vs-clotrimazole and vs-cabergoline trials (active comparators), 2020 oral
+  provocation study (no systemic dermatitis from chamomile tea; flare-ups equal on placebo),
+  ductus arteriosus letter and retracted dermatitis paper (no abstract / retracted), Roman
+  chamomile and globe chamomile reports (other species). Integrity hold: no flagged-group authors.'

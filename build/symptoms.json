@@ -4583,6 +4583,27 @@
      ]
     },
     {
+     "condition": "bloating",
+     "label": "Bloating",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0079",
+      "REF-5483"
+     ]
+    },
+    {
+     "condition": "headache",
+     "label": "Headache",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5484"
+     ]
+    },
+    {
      "condition": "hot-flashes",
      "label": "Hot flashes",
      "evidence": 5,
@@ -4613,6 +4634,16 @@
      ]
     },
     {
+     "condition": "sinusitis",
+     "label": "Sinusitis",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5485"
+     ]
+    },
+    {
      "condition": "wounds",
      "label": "Wounds",
      "evidence": 2,
@@ -4621,16 +4652,6 @@
      "references": [
       "REF-0079",
       "REF-0280"
-     ]
-    },
-    {
-     "condition": "bloating",
-     "label": "Bloating",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0079"
      ]
     },
     {
@@ -10521,6 +10542,46 @@
      ]
     },
     {
+     "condition": "blood-sugar",
+     "label": "Blood sugar / diabetes support",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5491"
+     ]
+    },
+    {
+     "condition": "low-libido",
+     "label": "Low libido",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5495"
+     ]
+    },
+    {
+     "condition": "menstrual-cramps",
+     "label": "Menstrual cramps",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-5493"
+     ]
+    },
+    {
+     "condition": "pms",
+     "label": "PMS / premenstrual syndrome",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5494"
+     ]
+    },
+    {
      "condition": "stress",
      "label": "Stress",
      "evidence": 5,
@@ -10570,14 +10631,6 @@
     {
      "condition": "inflammation",
      "label": "Inflammation (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
-     "condition": "menstrual-cramps",
-     "label": "Menstrual cramps",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -12861,6 +12914,28 @@
      ]
     },
     {
+     "condition": "menstrual-cramps",
+     "label": "Menstrual cramps",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-5498"
+     ]
+    },
+    {
+     "condition": "cognitive-function",
+     "label": "Cognitive function",
+     "evidence": 6,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3049",
+      "REF-5499",
+      "REF-5500"
+     ]
+    },
+    {
      "condition": "nausea",
      "label": "Nausea",
      "evidence": 6,
@@ -12880,16 +12955,6 @@
      "references": [
       "REF-1207",
       "REF-3666"
-     ]
-    },
-    {
-     "condition": "cognitive-function",
-     "label": "Cognitive function",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-3049"
      ]
     },
     {
@@ -12937,14 +13002,6 @@
     {
      "condition": "inflammation",
      "label": "Inflammation (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
-     "condition": "menstrual-cramps",
-     "label": "Menstrual cramps",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,

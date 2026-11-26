@@ -283,6 +283,34 @@ contraindications:
   - REF-0303
   - REF-0063
   status: verified
+- note: 'Liver: acute hepatitis has been reported in several people drinking noni juice, after three weeks
+    to a few months of use, some confirmed by biopsy; one man needed a liver transplant, a 14-year-old
+    boy was affected, and most recovered after stopping (case reports). Liver injury has also followed
+    months of a noni-containing skin cream. A 28-day double-blind safety study of a commercial noni juice
+    in 96 healthy volunteers found no adverse effects.'
+  severity: caution
+  reference_ids:
+  - REF-5511
+  - REF-5512
+  - REF-5513
+  - REF-5514
+  - REF-5515
+  - REF-5516
+  status: verified
+- note: 'Kidneys and potassium: noni juice contains about as much potassium as orange or tomato juice
+    (56 mmol/L); a man with chronic kidney disease developed high blood potassium while drinking it despite
+    a low-potassium diet (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5517
+  status: verified
+- note: 'Medicines: a noni fruit extract taken 30 minutes before ranitidine increased how much ranitidine
+    reached the blood in a randomized crossover study in 20 healthy volunteers, consistent with faster
+    stomach emptying.'
+  severity: info
+  reference_ids:
+  - REF-5518
+  status: verified
 references:
 - REF-0197
 - REF-1418
@@ -325,4 +353,30 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   study) kept only for immunomodulator. Preclinical cancer SR REF-3674 added.
   Fermented-polysaccharide URTI RCT REF-3675 (primary NK activity ns) no-effect for
   immune-support. New pairs (owner rule): high-cholesterol (smokers RCT REF-3676), nausea (PONV
-  RCT REF-3677).'
+  RCT REF-3677).
+  | 2026-11-26: symptom-source audit research-deepening batch 21 - Searched PubMed (Morinda
+  citrifolia / noni tiab: 64 HT, 12 SR, 136 SAFE hits; "noni" also matched "non-IID" machine
+  learning papers), Europe PMC, ClinicalTrials.gov (10) and OpenAlex. Added: liver caution (2005
+  biopsy-confirmed case, 2005 two cases incl. a transplant, 2011 boy, 2013 case with
+  phenobarbital, 2026 topical-cream case; balanced by the 2009 28-day double-blind safety study of
+  TAHITIAN NONI juice); potassium caution (2000 hyperkalaemia case in chronic kidney disease);
+  ranitidine absorption study as an info note; DRAFT anticonvulsants interaction (2015 phenytoin
+  case + 2025 SR). No-effect study recorded here only (no pair exists): the 2013 double-blind
+  placebo RCT of noni capsules in primary dysmenorrhoea found no reduction in pain or bleeding.
+  Not added: 2018 diabetes juice study (uncontrolled), dental irrigant and root-canal studies (no
+  vocab condition), 2006 Digestion case (disputed: interferon-beta also given), 2015 case with
+  Herbalife products (confounded), 2008 and 2007 hepatotoxicity letters and the 2004
+  warfarin-resistance letter (no abstract; the record''s general caution already mentions
+  warfarin), rebuttal articles (2006 "not hepatotoxic" review, 2017 letter), papaya and other
+  combinations.'
+drug_class_interactions:
+- drug_class: anticonvulsants
+  severity: caution
+  mechanism: A man on long-term phenytoin had persistently low, sometimes undetectable, phenytoin levels
+    and poor seizure control while drinking noni juice daily (case report; the authors suggest faster
+    breakdown by CYP2C9), and a 2025 systematic review of phenytoin food and herb interactions advises
+    avoiding the combination.
+  reference_ids:
+  - REF-5519
+  - REF-5520
+  status: draft

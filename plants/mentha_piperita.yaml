@@ -262,8 +262,10 @@ indications:
   reference_ids: []
   status: needs-review
 - condition: menstrual-cramps
-  note: inferred from antispasmodic action
-  reference_ids: []
+  note: Peppermint reduced period pain in a 2025 systematic review of five randomized trials in primary
+    dysmenorrhoea and premenstrual syndrome (two of the trials were judged low quality)
+  reference_ids:
+  - REF-5498
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0100
@@ -286,9 +288,14 @@ indications:
   - REF-1210
   - REF-3041
 - condition: cognitive-function
-  note: Peppermint extract inhibited acetylcholinesterase in vitro, a target in Alzheimer's disease (preclinical)
+  note: Peppermint essential oil capsules improved performance on demanding attention and arithmetic tasks
+    and reduced mental fatigue compared with placebo in healthy adults (placebo-controlled crossover study),
+    and a cup of peppermint tea improved cognitive test performance more than placebo (small randomized
+    single-blind trial); peppermint extract inhibited acetylcholinesterase in vitro (preclinical)
   reference_ids:
   - REF-3049
+  - REF-5499
+  - REF-5500
   status: needs-review
   mechanistic_exclude_ids:
   - REF-3046
@@ -309,11 +316,15 @@ indications:
   - REF-3664
   - REF-3665
 - condition: nausea
-  note: Inhaled peppermint oil reduced nausea and vomiting after surgery in randomized trials
+  note: Inhaled peppermint oil reduced nausea and vomiting after surgery in randomized trials; for nausea
+    and vomiting in pregnancy, peppermint oil inhalation was no better than placebo (single-blind randomized
+    trial)
   reference_ids:
   - REF-3669
   - REF-3670
   status: verified
+  null_result_ids:
+  - REF-5501
 contraindications:
 - note: Generally very safe. Essential oil should not be applied to the face or chest of infants or children
     - menthol can cause respiratory depression. Avoid enteric-coated capsules if taking antacids or acid-suppressing
@@ -334,6 +345,28 @@ contraindications:
   reference_ids:
   - REF-0100
   - REF-0063
+  status: verified
+- note: 'Allergy: peppermint oil caused allergic contact dermatitis in 0.6% of 28,128 patients patch-tested
+    in North America (2009-2020), mostly on the face and lips, from toothpaste and other oral-care products,
+    foods and lip products. Some peppermint oil capsules (for example Colpermin) contain peanut (arachis)
+    oil, which caused a whole-body rash in a woman with soya allergy (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5502
+  - REF-5503
+  status: verified
+- note: 'Liver: in a Berlin hospital surveillance study of 198 cases of liver injury (2002-2011), peppermint
+    was judged a possible cause in one.'
+  severity: info
+  reference_ids:
+  - REF-5504
+  status: verified
+- note: 'Medicines: six days of peppermint tea (2 g of leaf twice a day) slightly lowered the activity
+    of the drug-metabolising enzyme NAT2 in 9 healthy volunteers, with no significant effect on CYP1A2,
+    CYP2A6, xanthine oxidase or UGT1A1/1A6.'
+  severity: info
+  reference_ids:
+  - REF-5505
   status: verified
 references:
 - REF-1203
@@ -433,4 +466,18 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0004 (Akdogan 2004, mint
   teas and rat kidney tissue, PMID 15027812) now has its locator; it reports kidney damage in rats
   given mint tea and states none of the capsule, dose or caution claims it was attached to, so it
-  stays only in the references.'
+  stays only in the references.
+  | 2026-11-26: symptom-source audit research-deepening batch 21 - Searched PubMed (Mentha
+  piperita / Mentha x piperita / peppermint tiab: 390 HT, 93 SR, 420 SAFE hits), Europe PMC,
+  ClinicalTrials.gov (100) and OpenAlex. IBS (10) and pain (8) were not padded (incl. a 2026
+  paediatric IBS RCT). Added: 2025 SR of five RCTs to menstrual-cramps (replacing the inferred
+  note); 2018 placebo-controlled crossover (oil capsules; randomisation not stated, tagged
+  clinical) and 2025 randomized single-blind tea RCT to cognitive-function; 2018 single-blind
+  placebo RCT in pregnancy nausea as a no-effect study on nausea; allergy caution (NACDG
+  patch-test series; peanut-oil capsule case); Berlin HILI surveillance and 2017 peppermint-tea
+  enzyme study as info notes. Not added: functional dyspepsia (Menthacarin and other peppermint +
+  caraway combinations), 2016 chronic-pruritus oil study (randomisation not stated), 2018 Cochrane
+  PONV and 2024 cancer-nausea aromatherapy MAs (not peppermint-specific pooled; nausea already 6),
+  colonoscopy antispasmodic trials (procedural), vs-lidocaine migraine trial (active comparator),
+  lemon/ginger/lavender blends, menthol-only studies (not species-specific), 2025 hepatotoxicity
+  letter, 2005 chemical-burn report and cheilitis letters (no abstract).'

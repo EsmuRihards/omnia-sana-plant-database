@@ -1,0 +1,37 @@
+plant	condition	ref	op
+matricaria_chamomilla	bloating	REF-5483	add
+matricaria_chamomilla	bloating	-	note
+matricaria_chamomilla	headache	REF-5484	newpair
+matricaria_chamomilla	sinusitis	REF-5485	newpair
+matricaria_chamomilla	skin-irritation	REF-5486	nulladd
+matricaria_chamomilla	skin-irritation	-	note
+melissa_officinalis	blood-sugar	REF-5491	newpair
+melissa_officinalis	blood-sugar	REF-5492	nulladd
+melissa_officinalis	menstrual-cramps	REF-5493	add
+melissa_officinalis	menstrual-cramps	-	note
+melissa_officinalis	pms	REF-5494	newpair
+melissa_officinalis	low-libido	REF-5495	newpair
+mentha_piperita	menstrual-cramps	REF-5498	add
+mentha_piperita	menstrual-cramps	-	note
+mentha_piperita	cognitive-function	REF-5499	add
+mentha_piperita	cognitive-function	REF-5500	add
+mentha_piperita	cognitive-function	-	note
+mentha_piperita	nausea	REF-5501	nulladd
+mentha_piperita	nausea	-	note
+momordica_charantia	metabolic-support	REF-5506	nulladd
+momordica_charantia	metabolic-support	-	note
+matricaria_chamomilla	ciadd	Rare allergic reactions in individuals sensitive to the Asteraceae family	REF-5488
+matricaria_chamomilla	cinew	Side effects: in a 2025 systematic revie	REF-5487,REF-5488
+matricaria_chamomilla	cinew	Blood clotting: in a randomized placebo-	REF-5489,REF-5490
+melissa_officinalis	cinew	Stopping it: a 30-year-old developed res	REF-5496
+melissa_officinalis	cinew	Toxicology: in guideline tests an aqueou	REF-5497
+mentha_piperita	cinew	Allergy: peppermint oil caused allergic 	REF-5502,REF-5503
+mentha_piperita	cinew	Liver: in a Berlin hospital surveillance	REF-5504
+mentha_piperita	cinew	Medicines: six days of peppermint tea (2	REF-5505
+momordica_charantia	cinew	Liver: a man who drank large amounts of 	REF-5507,REF-5508
+momordica_charantia	cinew	Kidneys: a woman who took a pure bitter 	REF-5509
+momordica_charantia	dcinew	chemotherapy-agents	REF-5510
+morinda_citrifolia	cinew	Liver: acute hepatitis has been reported	REF-5511,REF-5512,REF-5513,REF-5514,REF-5515,REF-5516
+morinda_citrifolia	cinew	Kidneys and potassium: noni juice contai	REF-5517
+morinda_citrifolia	cinew	Medicines: a noni fruit extract taken 30	REF-5518
+morinda_citrifolia	dcinew	anticonvulsants	REF-5519,REF-5520

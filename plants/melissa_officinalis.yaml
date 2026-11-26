@@ -254,8 +254,10 @@ indications:
   null_result_ids:
   - REF-3657
 - condition: menstrual-cramps
-  note: inferred from antispasmodic action
-  reference_ids: []
+  note: Lemon balm capsules taken for 3 days from the start of bleeding eased period pain more than placebo
+    in students with primary dysmenorrhoea (randomized double-blind trial)
+  reference_ids:
+  - REF-5493
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0112
@@ -307,6 +309,28 @@ indications:
   status: verified
   null_result_ids:
   - REF-3657
+- condition: blood-sugar
+  note: A lemon balm extract (700 mg a day for 12 weeks) lowered fasting blood sugar and HbA1c compared
+    with placebo in type 2 diabetes (randomized double-blind trial); a lemon-balm-based product did not
+    change blood sugar compared with control in another randomized trial
+  reference_ids:
+  - REF-5491
+  status: verified
+  null_result_ids:
+  - REF-5492
+- condition: pms
+  note: Lemon balm capsules (1,200 mg a day over three menstrual cycles) improved psychosomatic symptoms,
+    anxiety, sleep problems and social functioning compared with placebo in teenage girls with premenstrual
+    syndrome (randomized trial)
+  reference_ids:
+  - REF-5494
+  status: verified
+- condition: low-libido
+  note: Lemon balm extract (500 mg twice a day for 4 weeks) improved sexual desire and overall sexual
+    function compared with placebo in women with low sexual desire (randomized double-blind trial)
+  reference_ids:
+  - REF-5495
+  status: verified
 contraindications:
 - note: Generally very safe for adults. Theoretically may interact with thyroid medications and sedatives.
     Avoid high therapeutic doses during pregnancy. Long-term safety data beyond a few months is limited.
@@ -322,6 +346,18 @@ contraindications:
   - REF-0112
   - REF-0134
   - REF-0063
+  status: verified
+- note: 'Stopping it: a 30-year-old developed restlessness, tremor, poor concentration and sweating after
+    stopping long-term lemon balm use, which the authors interpreted as possible withdrawal (case report).'
+  severity: info
+  reference_ids:
+  - REF-5496
+  status: verified
+- note: 'Toxicology: in guideline tests an aqueous lemon balm leaf extract was not genotoxic, and rats
+    fed it for 90 days showed no treatment-related adverse effects (lab and animal studies).'
+  severity: info
+  reference_ids:
+  - REF-5497
   status: verified
 references:
 - REF-1193
@@ -407,4 +443,20 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   compound that names neither lemon balm nor rosemary (only Boraginaceae, Nepetoideae and
   Coleus/Salvia officinalis cell cultures). A compound paper that names no species is not a source for
   it (DATA_PRINCIPLES invariant 10), so it is removed from every entry here and deleted from the
-  bibliography.'
+  bibliography.
+  | 2026-11-26: symptom-source audit research-deepening batch 21 - Searched PubMed (Melissa
+  officinalis / lemon balm / Cyracos tiab: 124 HT, 34 SR, 161 SAFE hits), Europe PMC,
+  ClinicalTrials.gov (25) and OpenAlex. INTEGRITY HOLD checked: no new reference is first- or
+  last-authored by the flagged Tehran psychopharmacology group. Anxiety (9), depression (9) and
+  cholesterol (9) were not padded. Added: NEW blood-sugar pair (2019 double-blind placebo RCT, FBS
+  and HbA1c) with a 2019 lemon-balm-product RCT recorded as no effect; 2017 double-blind
+  dysmenorrhoea RCT to menstrual-cramps (replacing the inferred note); NEW pms pair (2018 placebo
+  RCT in adolescents, GHQ outcomes) and NEW low-libido pair (2018 double-blind placebo RCT, FSFI);
+  a withdrawal case and 2024 guideline toxicology as info notes. GAP: cognitive function - the
+  2022 and 2020 Japanese rosmarinic-acid extract RCTs found no cognitive difference vs placebo,
+  and the 2026 Zensera acute RCT missed its primary calmness outcome. Not added: 2021
+  premature-beats tea RCT and 2015 palpitation RCT (no matching condition, as before); 2018
+  menstrual bleeding/systemic symptoms RCT (secondary outcomes only); 2026 Melissa phospholipid
+  sleep study (dose comparison; insomnia already 6); valerian, Nepeta, Echium, Ze 185 and other
+  combinations; vs-citalopram, vs-fluoxetine and vs-clonidine trials (active comparators);
+  AV-block case with a seven-ingredient product; homeopathic preparations.'

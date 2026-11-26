@@ -62,3 +62,4 @@ rebased onto `osdb/main` before each push, because another session edits the mai
 | 18 | chaga, elecampane, juniper, field scabious, wild lettuce | REF-5421..5425 (5) | 1,472 -> 1,472 | `batches/r18_report.md` |
 | 19 | white dead-nettle, bay laurel, lavender, shiitake, motherwort | REF-5426..5466 (41) | 1,472 -> 1,482 | `batches/r19_report.md` |
 | 20 | flaxseed, yellow loosestrife, Oregon grape, mallow, horehound | REF-5467..5482 (16) | 1,482 -> 1,484 | `batches/r20_report.md` |
+| 21 | chamomile, lemon balm, peppermint, bitter melon, noni | REF-5483..5520 (38) | 1,484 -> 1,489 | `batches/r21_report.md` |

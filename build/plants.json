@@ -37886,9 +37886,10 @@
     },
     {
      "condition": "bloating",
-     "note": "Traditional use for minor stomach and gut complaints such as bloating (EU herbal monograph)",
+     "note": "Chamomile drops reduced flatulence after laparoscopic gallbladder surgery compared with placebo (randomized triple-blind trial); traditional use for minor stomach and gut complaints such as bloating (EU herbal monograph)",
      "reference_ids": [
-      "REF-0079"
+      "REF-0079",
+      "REF-5483"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -37896,7 +37897,7 @@
       "REF-0189",
       "REF-0280"
      ],
-     "evidence": 1,
+     "evidence": 5,
      "label": "Bloating"
     },
     {
@@ -38002,7 +38003,7 @@
     },
     {
      "condition": "skin-irritation",
-     "note": "Traditional use for minor skin inflammation such as sunburn (EU herbal monograph); an extract was no better than its base cream for UV skin redness in a randomized trial",
+     "note": "Traditional use for minor skin inflammation such as sunburn (EU herbal monograph); an extract was no better than its base cream for UV skin redness in a randomized trial, and adding chamomile to a liposomal gel did not reduce radiation dermatitis in breast cancer radiotherapy (randomized double-blind trial)",
      "reference_ids": [
       "REF-0079"
      ],
@@ -38014,7 +38015,8 @@
       "REF-0280"
      ],
      "null_result_ids": [
-      "REF-3527"
+      "REF-3527",
+      "REF-5486"
      ],
      "evidence": 1,
      "label": "Skin irritation"
@@ -38133,6 +38135,26 @@
      "status": "verified",
      "evidence": 5,
      "label": "Back pain"
+    },
+    {
+     "condition": "headache",
+     "note": "A chamomile ointment lowered the rate of headache after spinal anaesthesia (post-dural-puncture headache) at 6 and 12 hours compared with placebo in women having a caesarean section (randomized double-blind trial)",
+     "reference_ids": [
+      "REF-5484"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Headache"
+    },
+    {
+     "condition": "sinusitis",
+     "note": "Chamomile extract nasal drops improved chronic rhinosinusitis symptoms, quality of life and nasal examination findings more than placebo (randomized double-blind trial)",
+     "reference_ids": [
+      "REF-5485"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Sinusitis"
     }
    ],
    "contraindications": [
@@ -38169,7 +38191,8 @@
       "REF-0112",
       "REF-0189",
       "REF-0231",
-      "REF-0280"
+      "REF-0280",
+      "REF-5488"
      ],
      "status": "verified"
     },
@@ -38183,6 +38206,24 @@
       "REF-0231",
       "REF-0280",
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Side effects: in a 2025 systematic review of 72 trials in which 2,896 people took chamomile, side effects were uncommon and mild, mainly digestive upset and drowsiness. No allergic reactions occurred in the trials, but case reports describe allergic reactions including anaphylaxis (for example a man who reacted an hour after a cup of chamomile tea). Data on use in pregnancy and breastfeeding are insufficient.",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5487",
+      "REF-5488"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Blood clotting: in a randomized placebo-controlled crossover study in 12 healthy volunteers, a week of chamomile tea (9 bags a day) or extract capsules did not change clotting tests; in another small crossover study a single cup slightly lengthened prothrombin time (by 0.7 seconds, below a 10% threshold for clinical relevance). The volunteers were not taking warfarin.",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5489",
+      "REF-5490"
      ],
      "status": "verified"
     }
@@ -38637,13 +38678,15 @@
     },
     {
      "condition": "menstrual-cramps",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [],
+     "note": "Lemon balm capsules taken for 3 days from the start of bleeding eased period pain more than placebo in students with primary dysmenorrhoea (randomized double-blind trial)",
+     "reference_ids": [
+      "REF-5493"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0112"
      ],
-     "evidence": 1,
+     "evidence": 5,
      "label": "Menstrual cramps"
     },
     {
@@ -38720,6 +38763,39 @@
      ],
      "evidence": 8,
      "label": "High blood pressure"
+    },
+    {
+     "condition": "blood-sugar",
+     "note": "A lemon balm extract (700 mg a day for 12 weeks) lowered fasting blood sugar and HbA1c compared with placebo in type 2 diabetes (randomized double-blind trial); a lemon-balm-based product did not change blood sugar compared with control in another randomized trial",
+     "reference_ids": [
+      "REF-5491"
+     ],
+     "status": "verified",
+     "null_result_ids": [
+      "REF-5492"
+     ],
+     "evidence": 5,
+     "label": "Blood sugar / diabetes support"
+    },
+    {
+     "condition": "pms",
+     "note": "Lemon balm capsules (1,200 mg a day over three menstrual cycles) improved psychosomatic symptoms, anxiety, sleep problems and social functioning compared with placebo in teenage girls with premenstrual syndrome (randomized trial)",
+     "reference_ids": [
+      "REF-5494"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "PMS / premenstrual syndrome"
+    },
+    {
+     "condition": "low-libido",
+     "note": "Lemon balm extract (500 mg twice a day for 4 weeks) improved sexual desire and overall sexual function compared with placebo in women with low sexual desire (randomized double-blind trial)",
+     "reference_ids": [
+      "REF-5495"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Low libido"
     }
    ],
    "contraindications": [
@@ -38739,6 +38815,22 @@
       "REF-0112",
       "REF-0134",
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Stopping it: a 30-year-old developed restlessness, tremor, poor concentration and sweating after stopping long-term lemon balm use, which the authors interpreted as possible withdrawal (case report).",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5496"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Toxicology: in guideline tests an aqueous lemon balm leaf extract was not genotoxic, and rats fed it for 90 days showed no treatment-related adverse effects (lab and animal studies).",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5497"
      ],
      "status": "verified"
     }
@@ -39162,13 +39254,15 @@
     },
     {
      "condition": "menstrual-cramps",
-     "note": "inferred from antispasmodic action",
-     "reference_ids": [],
+     "note": "Peppermint reduced period pain in a 2025 systematic review of five randomized trials in primary dysmenorrhoea and premenstrual syndrome (two of the trials were judged low quality)",
+     "reference_ids": [
+      "REF-5498"
+     ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0100"
      ],
-     "evidence": 1,
+     "evidence": 7,
      "label": "Menstrual cramps"
     },
     {
@@ -39204,9 +39298,11 @@
     },
     {
      "condition": "cognitive-function",
-     "note": "Peppermint extract inhibited acetylcholinesterase in vitro, a target in Alzheimer's disease (preclinical)",
+     "note": "Peppermint essential oil capsules improved performance on demanding attention and arithmetic tasks and reduced mental fatigue compared with placebo in healthy adults (placebo-controlled crossover study), and a cup of peppermint tea improved cognitive test performance more than placebo (small randomized single-blind trial); peppermint extract inhibited acetylcholinesterase in vitro (preclinical)",
      "reference_ids": [
-      "REF-3049"
+      "REF-3049",
+      "REF-5499",
+      "REF-5500"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
@@ -39214,7 +39310,7 @@
       "REF-3047",
       "REF-3050"
      ],
-     "evidence": 2,
+     "evidence": 6,
      "label": "Cognitive function"
     },
     {
@@ -39237,12 +39333,15 @@
     },
     {
      "condition": "nausea",
-     "note": "Inhaled peppermint oil reduced nausea and vomiting after surgery in randomized trials",
+     "note": "Inhaled peppermint oil reduced nausea and vomiting after surgery in randomized trials; for nausea and vomiting in pregnancy, peppermint oil inhalation was no better than placebo (single-blind randomized trial)",
      "reference_ids": [
       "REF-3669",
       "REF-3670"
      ],
      "status": "verified",
+     "null_result_ids": [
+      "REF-5501"
+     ],
      "evidence": 6,
      "label": "Nausea"
     }
@@ -39262,6 +39361,31 @@
      "reference_ids": [
       "REF-0100",
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Allergy: peppermint oil caused allergic contact dermatitis in 0.6% of 28,128 patients patch-tested in North America (2009-2020), mostly on the face and lips, from toothpaste and other oral-care products, foods and lip products. Some peppermint oil capsules (for example Colpermin) contain peanut (arachis) oil, which caused a whole-body rash in a woman with soya allergy (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5502",
+      "REF-5503"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Liver: in a Berlin hospital surveillance study of 198 cases of liver injury (2002-2011), peppermint was judged a possible cause in one.",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5504"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Medicines: six days of peppermint tea (2 g of leaf twice a day) slightly lowered the activity of the drug-metabolising enzyme NAT2 in 9 healthy volunteers, with no significant effect on CYP1A2, CYP2A6, xanthine oxidase or UGT1A1/1A6.",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5505"
      ],
      "status": "verified"
     }
@@ -39603,7 +39727,7 @@
     },
     {
      "condition": "metabolic-support",
-     "note": "Antidiabetic effects reviewed (reviews); a Cochrane review and a later systematic review found no clear effect on metabolic markers",
+     "note": "Antidiabetic effects reviewed (reviews); a Cochrane review and a later systematic review found no clear effect on metabolic markers, and a 2024 meta-analysis of 10 randomized trials found no effect on body weight, BMI, waist size or body fat",
      "reference_ids": [
       "REF-0412",
       "REF-0413"
@@ -39611,7 +39735,8 @@
      "status": "needs-review",
      "null_result_ids": [
       "REF-3396",
-      "REF-3672"
+      "REF-3672",
+      "REF-5506"
      ],
      "evidence": 2,
      "label": "Metabolic support"
@@ -39650,6 +39775,23 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0414"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Liver: a man who drank large amounts of \"asowosi\" (bitter melon) cleansing tea developed severe liver injury rated highly probable on a causality scale, and another man had biopsy-supported herb-induced liver injury after weeks of herbal remedies including asowosi; both recovered (case reports).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5507",
+      "REF-5508"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Kidneys: a woman who took a pure bitter melon extract for 7 months developed biopsy-proven acute interstitial nephritis, which improved after stopping it and steroid treatment (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5509"
      ],
      "status": "verified"
     }
@@ -40067,6 +40209,35 @@
       "REF-0063"
      ],
      "status": "verified"
+    },
+    {
+     "note": "Liver: acute hepatitis has been reported in several people drinking noni juice, after three weeks to a few months of use, some confirmed by biopsy; one man needed a liver transplant, a 14-year-old boy was affected, and most recovered after stopping (case reports). Liver injury has also followed months of a noni-containing skin cream. A 28-day double-blind safety study of a commercial noni juice in 96 healthy volunteers found no adverse effects.",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5511",
+      "REF-5512",
+      "REF-5513",
+      "REF-5514",
+      "REF-5515",
+      "REF-5516"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Kidneys and potassium: noni juice contains about as much potassium as orange or tomato juice (56 mmol/L); a man with chronic kidney disease developed high blood potassium while drinking it despite a low-potassium diet (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5517"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Medicines: a noni fruit extract taken 30 minutes before ranitidine increased how much ranitidine reached the blood in a randomized crossover study in 20 healthy volunteers, consistent with faster stomach emptying.",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5518"
+     ],
+     "status": "verified"
     }
    ],
    "references": [
@@ -40090,6 +40261,7 @@
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-08-15",
+   "drug_class_interactions": [],
    "common_slug": "noni"
   },
   {

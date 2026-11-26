@@ -279,6 +279,15 @@ contraindications:
   - REF-0272
   - REF-0063
   status: verified
+- note: 'Kidneys: chaga is extremely high in oxalate. People who took chaga powder daily for months developed
+    oxalate kidney damage, including kidney failure needing dialysis; one report measured very high oxalate
+    in the product itself (case reports).'
+  severity: warning
+  reference_ids:
+  - REF-5421
+  - REF-5422
+  - REF-5423
+  status: verified
 references:
 - REF-0848
 - REF-0849
@@ -361,4 +370,13 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   model, but the cited study (REF-2990) is scopolamine amnesia.
   | 2026-11-12: symptom-source audit deep re-sweep batch 9 - Deep re-sweep. Notes rewritten to
   their lab sources. REF-0849 retagged narrative-review. No human trials on PubMed. REF-2981 DOI
-  10.5897/jmpr.9000346 does not resolve (left; preclinical action ref only).'
+  10.5897/jmpr.9000346 does not resolve (left; preclinical action ref only).
+  | 2026-11-26: symptom-source audit research-deepening batch 18 - Searched PubMed (Inonotus
+  obliquus / chaga / Fuscoporia obliqua tiab: 8 HT, 0 SR, 49 SAFE hits; many "Chaga" hits were
+  Chagas disease), Europe PMC, ClinicalTrials.gov (4) and OpenAlex. Added: a kidney warning from
+  three oxalate nephropathy case reports (2014 dialysis, 2020 end-stage renal disease with
+  measured oxalate 14.2 g/100 g, 2022 nephrotic presentation). GAP: a 2008 study in type 2
+  diabetes found a single prior dose of Fuscoporia obliqua (a synonym of I. obliquus) lowered the
+  post-meal glucose peak and protected endothelial function, but the abstract does not state
+  randomisation or a placebo, so no blood-sugar pair was created. Not added: ex vivo DNA-damage
+  study in IBD lymphocytes, inotodiol and polysaccharide lab and animal studies.'

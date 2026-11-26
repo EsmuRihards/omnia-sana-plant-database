@@ -219,6 +219,7 @@ contraindications:
   severity: info
   reference_ids:
   - REF-0445
+  - REF-5424
   status: verified
 - note: Large doses can cause nausea, vomiting and diarrhoea; safety in pregnancy and breastfeeding is
     not established, so avoid medicinal doses.
@@ -280,4 +281,12 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Molecules antim
   ethnomedical use for respiratory ailments) wired to respiratory-support. Notes rewritten. Grieve
   elecampane page URL tried 2026-11-12 returned 404 - bronchitis/cough stay inferred from
   expectorant. Only PubMed trial is a multi-herb syrup (excluded).
-  | 2026-11-19 (monograph-source audit): botanical_description, habitat, harvesting and traditional_uses cited only REF-0445 (lab study). RE-SOURCED: Grieve Elecampane (REF-4005, new) + PFAF REF-3277. Dropped as unsupported: 1-2.5 m, flowering July-August only (PFAF says July-August, Grieve June-August; Grieve''s wider range kept), damp meadows and roadsides on rich soils, western Asia, naturalised in North America, dug when sesquiterpene lactone and inulin are highest, sliced, warming expectorant for productive cough, antimicrobial for skin and wound infections.'
+  | 2026-11-19 (monograph-source audit): botanical_description, habitat, harvesting and traditional_uses cited only REF-0445 (lab study). RE-SOURCED: Grieve Elecampane (REF-4005, new) + PFAF REF-3277. Dropped as unsupported: 1-2.5 m, flowering July-August only (PFAF says July-August, Grieve June-August; Grieve''s wider range kept), damp meadows and roadsides on rich soils, western Asia, naturalised in North America, dug when sesquiterpene lactone and inulin are highest, sliced, warming expectorant for productive cough, antimicrobial for skin and wound infections.
+  | 2026-11-26: symptom-source audit research-deepening batch 18 - Searched PubMed (Inula helenium
+  / elecampane tiab, alantolactone ti: 6 HT, 0 SR, 63 SAFE hits, mostly alantolactone lab work),
+  Europe PMC, ClinicalTrials.gov (3) and OpenAlex. No human trial of elecampane alone (KalobaTUSS
+  and other syrups are combinations). Added: a 2017 review naming elecampane among Compositae
+  plants suspected of causing systemic allergic dermatitis, to the skin-allergy note. Not added:
+  contact dermatitis letters with no abstract (1995 massage liniment, 1975), a liver-injury case
+  with a six-herb immunostimulant collection (combination), Inula species anticonvulsant and
+  cytotoxic lab studies.'

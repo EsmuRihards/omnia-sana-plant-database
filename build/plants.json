@@ -32381,6 +32381,16 @@
       "REF-0063"
      ],
      "status": "verified"
+    },
+    {
+     "note": "Kidneys: chaga is extremely high in oxalate. People who took chaga powder daily for months developed oxalate kidney damage, including kidney failure needing dialysis; one report measured very high oxalate in the product itself (case reports).",
+     "severity": "warning",
+     "reference_ids": [
+      "REF-5421",
+      "REF-5422",
+      "REF-5423"
+     ],
+     "status": "verified"
     }
    ],
    "references": [
@@ -32713,7 +32723,8 @@
      "note": "The sesquiterpene lactones (especially alantolactone) are known skin sensitisers and can cause allergic contact dermatitis; people sensitive to the daisy family (Asteraceae) should be cautious.",
      "severity": "info",
      "reference_ids": [
-      "REF-0445"
+      "REF-0445",
+      "REF-5424"
      ],
      "status": "verified"
     },
@@ -33622,6 +33633,14 @@
      "reference_ids": [
       "REF-0527",
       "REF-0526"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Never inject: three drug users who injected a home-made wild lettuce extract became acutely ill with fever, chills, abdominal and back pain and mild liver changes, and none had the opiate-like effect claimed for it (case series).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5425"
      ],
      "status": "verified"
     }

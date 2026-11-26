@@ -59,3 +59,4 @@ rebased onto `osdb/main` before each push, because another session edits the mai
 | 15 | gentian, water avens, ginkgo, licorice, gymnema | REF-5374..5390 (17) | 1,463 -> 1,467 | `batches/r15_report.md` |
 | 16 | witch hazel, devil's claw, ivy leaf, lion's mane, hibiscus | REF-5391..5403 (13) | 1,467 -> 1,468 | `batches/r16_report.md` |
 | 17 | sea buckthorn, hops, goldenseal, St John's wort, hyssop | REF-5404..5420 (17) | 1,468 -> 1,472 | `batches/r17_report.md` |
+| 18 | chaga, elecampane, juniper, field scabious, wild lettuce | REF-5421..5425 (5) | 1,472 -> 1,472 | `batches/r18_report.md` |

@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 4195,
+ "count": 4200,
  "citations": [
   {
    "ref_id": "REF-5100",
@@ -28209,6 +28209,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5423",
+   "key": "kwon2022chagaoxalatenephrotic",
+   "type": "article",
+   "title": "Chaga mushroom-induced oxalate nephropathy that clinically manifested as nephrotic syndrome: A case report",
+   "authors": "Kwon, O., Kim, Y., Paek, J.H., Park, W.Y., Han, S., Sin, H. and Jin, K.",
+   "journal": "Medicine",
+   "year": "2022",
+   "doi": "10.1097/MD.0000000000028997",
+   "url": "",
+   "link": "https://doi.org/10.1097/MD.0000000000028997",
+   "link_type": "doi",
+   "citation": "Kwon, O., Kim, Y., Paek, J.H., Park, W.Y., Han, S., Sin, H. and Jin, K (2022) 'Chaga mushroom-induced oxalate nephropathy that clinically manifested as nephrotic syndrome: A case report', Medicine, 101(10), pp. e28997. doi:10.1097/MD.0000000000028997",
+   "abstract": "RATIONALE: The Chaga mushroom (Hymenochaetaceae, Inonotus obliquus) is a fungus belonging to the Hymenochaetaceae family. It is parasitic on birch and other tree species. Chaga mushrooms are rich in various vitamins, minerals, and nutrients. Some people consider these mushrooms medicinal as they have been reported to suppress cancer progression through anti-inflammatory and antioxidant effects. However, recent studies have reported that excessive ingestion of Chaga mushrooms can cause acute oxalate nephropathy. PATIENT CONCERNS: A 69-year-old man who ingested Chaga mushroom powder (10-15 g per day) and vitamin C (500 mg per day) for the past 3 months developed acute kidney injury (AKI) with the clinical manifestations of nephrotic syndrome (NS). DIAGNOSIS: Pathological findings showed focal acute tubular injury and the deposition of calcium oxalate crystals in the tubules. Light microscopy showed interstitial fibrosis and tubular atrophy, and electron microscopy showed the effacement of the foot processes in podocytes. Based on these results, the diagnosis was acute oxalate nephropathy accompanied by minimal change disease (MCD). INTERVENTIONS: The patient's kidney function did not improve with supportive care, such as hydration and blood pressure control. Thus, we recommended hemodialysis and the administration of a high dose of steroids (intravenous hydrocortisone 500 mg twice a day for 3 days and oral prednisolone at 1 mg/kg). OUTCOMES: The patient's kidney function recovered just 1 month after the start of treatment, and the MCD was completely remitted. LESSONS: In cases of AKI with an unknown cause, it is important to closely observe the patient's medication history, and it is recommended to perform kidney biopsy. Furthermore, this study showed that active dialysis and high-dose steroid treatment can restore kidney function in patients with AKI caused by acute oxalate nephropathy with MCD.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Chaga mushroom-induced oxalate nephropathy that clinically manifested as nephrotic syndrome: A case report",
+   "plants": [
+    "Chaga",
+    "Chaga mushroom",
+    "birch conk",
+    "clinker polypore"
+   ],
+   "scientific": [
+    "Inonotus obliquus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1153",
    "key": "elmihyaoui2022chamomile",
    "type": "article",
@@ -48095,6 +48126,37 @@
    "actions": [
     "Antioxidant"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5422",
+   "key": "lee2020chagaendstagerenal",
+   "type": "article",
+   "title": "Development of End Stage Renal Disease after Long-Term Ingestion of Chaga Mushroom: Case Report and Review of Literature",
+   "authors": "Lee, S., Lee, H.Y., Park, Y., Ko, E.J., Ban, T.H., Chung, B.H., Lee, H.S. and Yang, C.W.",
+   "journal": "Journal of Korean Medical Science",
+   "year": "2020",
+   "doi": "10.3346/jkms.2020.35.e122",
+   "url": "",
+   "link": "https://doi.org/10.3346/jkms.2020.35.e122",
+   "link_type": "doi",
+   "citation": "Lee, S., Lee, H.Y., Park, Y., Ko, E.J., Ban, T.H., Chung, B.H., Lee, H.S. and Yang, C.W (2020) 'Development of End Stage Renal Disease after Long-Term Ingestion of Chaga Mushroom: Case Report and Review of Literature', Journal of Korean Medical Science, 35(19), pp. e122. doi:10.3346/jkms.2020.35.e122",
+   "abstract": "Chaga mushrooms are widely used in folk remedies and in alternative medicine. Contrary to many beneficial effects, its adverse effect is rarely reported. We here report a case of end-stage renal disease after long-term taking Chaga mushroom. A 49-year-old Korean man with end stage renal disease (ESRD) was transferred to our hospital. Review of kidney biopsy finding was consistent with chronic tubulointerstitial nephritis with oxalate crystal deposits and drug history revealed long-term exposure to Chaga mushroom powder due to intractable atopic dermatitis. We suspected the association between Chaga mushroom and oxalate nephropathy, and measured the oxalate content of remained Chaga mushroom. The Chaga mushroom had extremely high oxalate content (14.2/100 g). Estimated daily oxalate intake of our case was 2 times for four years and 5 times for one year higher than that of usual diet. Chaga mushroom is a potential risk factor of chronic kidney disease considering high oxalate content. Nephrologist should consider oxalate nephropathy in ESRD patients exposed to Chaga mushrooms.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Development of End Stage Renal Disease after Long-Term Ingestion of Chaga Mushroom: Case Report and Review of Literature",
+   "plants": [
+    "Chaga",
+    "Chaga mushroom",
+    "birch conk",
+    "clinker polypore"
+   ],
+   "scientific": [
+    "Inonotus obliquus"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -71249,6 +71311,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5424",
+   "key": "paulsen2017sesquiterpenelactonesystemicdermatitis",
+   "type": "article",
+   "title": "Systemic allergic dermatitis caused by sesquiterpene lactones",
+   "authors": "Paulsen, E.",
+   "journal": "Contact Dermatitis",
+   "year": "2017",
+   "doi": "10.1111/cod.12671",
+   "url": "",
+   "link": "https://doi.org/10.1111/cod.12671",
+   "link_type": "doi",
+   "citation": "Paulsen, E (2017) 'Systemic allergic dermatitis caused by sesquiterpene lactones', Contact Dermatitis, 76(1), pp. 1--10. doi:10.1111/cod.12671",
+   "abstract": "Patients with Compositae sensitization are routinely warned against the ingestion of vegetables, spices, teas and herbal remedies from this family of plants. The evidence for the occurrence of systemic allergic dermatitis caused by sesquiterpene lactone-containing plants is mostly anecdotal and based on statements from patients rather than scientific data. However, a few clinical reports on accidental sensitization and exposure and oral challenge prove the existence of this kind of reaction, most convincingly for strong contact allergens such as costunolide in bay leaves, and less so for weak allergens such as those of lettuce. Other Compositae species suspected of causing systemic reactions are artichoke, mugwort, yarrow, dandelion, feverfew, and elecampane. Some Compositae vegetables and teas, such as lettuce and chamomile tea, may induce systemic reactions through both humoral and cell-mediated mechanisms. It is difficult to disentangle the contribution of these reactions to both local and systemic symptoms of skin and mucous membranes in, for example, lettuce contact allergy. Further studies are needed to assess the prevalence of systemic allergic dermatitis caused by sesquiterpene lactones, and to clarify the pathogenesis for individual haptens.",
+   "tier": "narrative",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Systemic allergic dermatitis caused by sesquiterpene lactones",
+   "plants": [
+    "Elecampane",
+    "Elf dock",
+    "Horse-heal",
+    "Scabwort"
+   ],
+   "scientific": [
+    "Inula helenium"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2224",
    "key": "rafieian2017linum",
    "type": "article",
@@ -82926,6 +83019,37 @@
    "actions": [
     "Vulnerary (wound healing)"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5421",
+   "key": "kikuchi2014chagaoxalatenephropathy",
+   "type": "article",
+   "title": "Chaga mushroom-induced oxalate nephropathy",
+   "authors": "Kikuchi, Y., Seta, K., Ogawa, Y., Takayama, T., Nagata, M., Taguchi, T. and Yahata, K.",
+   "journal": "Clinical Nephrology",
+   "year": "2014",
+   "doi": "10.5414/CN107655",
+   "url": "",
+   "link": "https://doi.org/10.5414/CN107655",
+   "link_type": "doi",
+   "citation": "Kikuchi, Y., Seta, K., Ogawa, Y., Takayama, T., Nagata, M., Taguchi, T. and Yahata, K (2014) 'Chaga mushroom-induced oxalate nephropathy', Clinical Nephrology, 81(6), pp. 440--4. doi:10.5414/CN107655",
+   "abstract": "Chaga mushrooms have been used in folk and botanical medicine as a remedy for cancer, gastritis, ulcers, and tuberculosis of the bones. A 72-year-old Japanese female had been diagnosed with liver cancer 1 year prior to presenting at our department. She underwent hepatectomy of the left lobe 3 months later. Chaga mushroom powder (4 - 5 teaspoons per day) had been ingested for the past 6 months for liver cancer. Renal function decreased and hemodialysis was initiated. Renal biopsy specimens showed diffuse tubular atrophy and interstitial fibrosis. Oxalate crystals were detected in the tubular lumina and urinary sediment and oxalate nephropathy was diagnosed. Chaga mushrooms contain extremely high oxalate concentrations. This is the first report of a case of oxalate nephropathy associated with ingestion of Chaga mushrooms.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Chaga mushroom-induced oxalate nephropathy",
+   "plants": [
+    "Chaga",
+    "Chaga mushroom",
+    "birch conk",
+    "clinker polypore"
+   ],
+   "scientific": [
+    "Inonotus obliquus"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -119760,6 +119884,37 @@
    "actions": [
     "Hepatoprotective (liver support)"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5425",
+   "key": "mullins1998wildlettuceinjection",
+   "type": "article",
+   "title": "The case of the salad shooters: intravenous injection of wild lettuce extract",
+   "authors": "Mullins, M.E. and Horowitz, B.Z.",
+   "journal": "Veterinary and Human Toxicology",
+   "year": "1998",
+   "doi": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9778767/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/9778767/",
+   "link_type": "url",
+   "citation": "Mullins, M.E. and Horowitz, B.Z (1998) 'The case of the salad shooters: intravenous injection of wild lettuce extract', Veterinary and Human Toxicology, 40(5), pp. 290--1. Available at: https://pubmed.ncbi.nlm.nih.gov/9778767/",
+   "abstract": "Three young adult drug users obtained wild lettuce and valerian root, prepared a crude aqueous extract of the wild lettuce, and injected the extract i.v. One also injected an alcohol extract of the valerian root. All 3 rapidly became ill with fevers, chills, abdominal pain, flank and back pain, neck stiffness, headache, leucocytosis and mild liver function abnormalities, but recovered over the next 3 d. Various literature and internet sources claim that wild lettuce has opiate properties not demonstrated in this case.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The case of the salad shooters: intravenous injection of wild lettuce extract",
+   "plants": [
+    "Bitter lettuce",
+    "Lactucarium",
+    "Opium lettuce",
+    "Wild Lettuce"
+   ],
+   "scientific": [
+    "Lactuca virosa"
+   ],
+   "actions": [],
    "conditions": []
   },
   {

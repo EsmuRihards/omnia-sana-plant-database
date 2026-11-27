@@ -68,3 +68,4 @@ rebased onto `osdb/main` before each push, because another session edits the mai
 | 24 | Asian ginseng, passionflower, guarana, pelargonium, butterbur | REF-5548..5569 (22) | 1,499 -> 1,503 | `batches/r24_report.md` |
 | 25 | parsley, anise, Scots pine, kava, ribwort plantain | REF-5570..5597 (28) | 1,503 -> 1,511 | `batches/r25_report.md` |
 | 26 | greater plantain, oyster mushroom, tormentil, cowslip, selfheal | REF-5598..5611 (14) | 1,511 -> 1,516 | `batches/r26_report.md` |
+| 27 | pygeum, wild cherry, psilocybin mushroom, lungwort, Japanese knotweed | REF-5612..5626 (15) | 1,516 -> 1,516 | `batches/r27_report.md` |

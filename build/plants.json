@@ -50034,6 +50034,15 @@
       "REF-1508"
      ],
      "status": "verified"
+    },
+    {
+     "note": "Lab safety: in rats, a bark extract caused no harm at up to 1,000 mg/kg daily for 8 weeks, with liver, kidney and heart damage only at 3.3 g/kg; another month-long rat study at 50-100 mg/kg raised creatinine and LDH and named the kidney, skeletal muscle and heart as possible targets (animal studies).",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5612",
+      "REF-5613"
+     ],
+     "status": "verified"
     }
    ],
    "references": [
@@ -50481,14 +50490,15 @@
     },
     {
      "condition": "anxiety",
-     "note": "Psilocybin reduced anxiety in people with life-threatening cancer in a randomized trial (compound evidence); mushroom extracts reduced anxiety-like behaviour in rodents (preclinical)",
+     "note": "Psilocybin reduced anxiety in people with life-threatening cancer in a randomized trial, and a 2020 meta-analysis of clinical trials in life-threatening illness found lower anxiety scores with psilocybin than with control (compound evidence; purified psilocybin in supervised settings); mushroom extracts reduced anxiety-like behaviour in rodents (preclinical)",
      "reference_ids": [
       "REF-0099",
       "REF-1520",
-      "REF-1522"
+      "REF-1522",
+      "REF-5616"
      ],
      "status": "verified",
-     "evidence": 5,
+     "evidence": 8,
      "label": "Anxiety"
     }
    ],
@@ -50498,7 +50508,10 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0040",
-      "REF-0099"
+      "REF-0099",
+      "REF-5620",
+      "REF-5621",
+      "REF-5622"
      ],
      "status": "verified"
     },
@@ -50509,6 +50522,40 @@
       "REF-0040",
       "REF-0099",
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Kidneys: a 15-year-old developed acute kidney injury 36 hours after eating Psilocybe cubensis mushrooms confirmed to contain psilocin; kidney function recovered fully (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5617"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Heart and blood pressure: in supervised studies psilocybin raised blood pressure by about 19/9 mmHg on average, peaking 1 to 1.5 hours after dosing and settling within 4 to 6 hours; serious heart events were uncommon in screened participants, but risk depends on heart disease and interacting medicines. A man taking the stimulant lisdexamfetamine had ventricular fibrillation after using psilocybin mushrooms (narrative review; case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5618",
+      "REF-5619"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Mental health: a man with no psychiatric history developed catatonia, with six months of mutism and inability to feed himself, after taking psilocybin for the first time (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5623"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Supervised and regulated use: in a pooled analysis of three depression trials, clinically significant worsening occurred in about 10% of people given psilocybin, similar to escitalopram and less than on a waitlist. In 346 clients of Oregon's state-regulated psilocybin services, 4 (1.2%, all first-time users) had behavioural reactions needing medical attention, and about 2% described the experience as harmful (meta-analysis; cohort study).",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5624",
+      "REF-5625"
      ],
      "status": "verified"
     }
@@ -50558,6 +50605,7 @@
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-08-15",
+   "drug_class_interactions": [],
    "common_slug": "psilocybin-mushrooms"
   },
   {
@@ -51041,6 +51089,14 @@
       "REF-0063"
      ],
      "status": "verified"
+    },
+    {
+     "note": "Liver: a 72-year-old developed liver injury after 14 days of a herbal formula containing Japanese knotweed root (Huzhang); causality was rated probable, and the authors point to its emodin content, especially for older people and long-term users (case report and review).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5614"
+     ],
+     "status": "verified"
     }
    ],
    "references": [
@@ -51062,6 +51118,7 @@
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-08-15",
+   "drug_class_interactions": [],
    "common_slug": "japanese-knotweed"
   },
   {

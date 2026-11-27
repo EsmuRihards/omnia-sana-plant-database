@@ -1,0 +1,41 @@
+   prunus-africana HT 48
+   prunus-africana SR 12
+   prunus-africana SAFE 42
+   prunus-africana OBS 3
+   prunus-africana REV 41
+prunus-africana done
+   prunus-serotina HT 1
+   prunus-serotina SR 0
+   prunus-serotina SAFE 9
+   prunus-serotina OBS 2
+   prunus-serotina REV 3
+prunus-serotina done
+   psilocybe-cubensis HT 445
+   psilocybe-cubensis SR 116
+   psilocybe-cubensis SAFE 393
+   psilocybe-cubensis OBS 72
+   psilocybe-cubensis REV 222
+psilocybe-cubensis done
+   pulmonaria-officinalis HT 1
+   pulmonaria-officinalis SR 0
+   pulmonaria-officinalis SAFE 3
+   pulmonaria-officinalis OBS 0
+   pulmonaria-officinalis REV 1
+pulmonaria-officinalis done
+   reynoutria-japonica HT 34
+   reynoutria-japonica SR 11
+   reynoutria-japonica SAFE 92
+   reynoutria-japonica OBS 2
+   reynoutria-japonica REV 60
+reynoutria-japonica done
+
+PUBMED-DONE
+prunus-africana done
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22Prunus+serotina%22+OR+TITLE%3A%22Wild+Ch The read operation timed out
+prunus-serotina done
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22Psilocybe+cubensis%22+OR+TITLE%3A%22Psil The read operation timed out
+psilocybe-cubensis done
+pulmonaria-officinalis done
+reynoutria-japonica done
+# Research-deepening batch 27 - Europe PMC
+SEARCH-DONE

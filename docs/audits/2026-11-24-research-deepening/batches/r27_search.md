@@ -1,0 +1,1167 @@
+# Research-deepening batch 27 - search
+
+## prunus-africana (Prunus africana) - name clause: "Prunus africana"[tiab] OR "Pygeum africanum"[tiab] OR "pygeum"[tiab] OR "African cherry"[tiab] OR "Tadenan"[tiab]
+
+### PubMed HT - 48 hits, 48 not already listed above, 41 new
+- new | 2025 | 39911983 |  | Oral Supplementation with l-Cystine, Serenoa repens, Cucurbita pepo, and Pygeum africanum in Chronic Telogen Effluvium and Androgenetic Alopecia: A Double-Blind, Placebo-Controlled | Skin Appendage Disord
+- new | 2023 | 36902686 | Review | Role of Phytotherapy in the Management of BPH: A Summary of the Literature. | J Clin Med
+- HELD REF-1510 | 2022 | 35435166 | Observational Study | [Effectiveness of treatment with Pygeum africanum in patients with lower urinary tract symptoms and benign prostatic hyperplasia: a cross-sectional study in the real-world clinical | Arch Esp Urol [spa]
+- new | 2022 | 36593834 |  | Cognitive enhancing effects and anticholinesterase activity of stem bark and leaf extracts of Prunus africana. | Heliyon
+- HELD REF-0804 | 2019 | 31577095 | Review | Nutraceutical treatment and prevention of benign prostatic hyperplasia and prostate cancer. | Arch Ital Urol Androl
+- new | 2016 | 27180172 | Review | Phytotherapy for Benign Prostatic Hyperplasia. | Curr Urol Rep
+- new | 2015 | 25703069 | Research Support, Non-U.S. Gov't/Review | What do we know about phytotherapy of benign prostatic hyperplasia? | Life Sci
+- new | 2015 | 26492588 |  | Supplementary management of benign prostatic hypertrophy with Prostaquil. An 8-week registry. | Minerva Gastroenterol Dietol
+- HELD REF-1508 | 2015 | 26497340 | Review | Complementary and alternative medications for benign prostatic hyperplasia. | Can J Urol
+- new | 2015 | 26237812 | Randomized Controlled Trial | [INCIDENCE OF ACUTE URINARY RETENTION IN PATIENTS WITH PROSTATIC ADENOMA AND 8-YEAR LONG TAMSULOSIN THERAPY]. | Urologiia [rus]
+- HELD REF-0404 | 2013 | 23642948 | Clinical Trial, Phase II/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A phase II randomised double-blind placebo-controlled clinical trial investigating the efficacy and safety of ProstateEZE Max: a herbal medicine preparation for the management of s | Complement Ther Med
+- new | 2013 | 23058996 | Systematic Review | [Phytotherapy in urology. Current scientific evidence of its application in benign prostatic hyperplasia and prostate adenocarcinoma]. | Actas Urol Esp [spa]
+- new | 2012 | 26816707 | Review | Phytotherapy: emerging therapeutic option in urologic disease. | Transl Androl Urol
+- new | 2011 | 21563128 | Systematic Review | WITHDRAWN: Cernilton for benign prostatic hyperplasia. | Cochrane Database Syst Rev
+- HELD REF-1511 | 2010 | 20503393 | Research Support, Non-U.S. Gov't | Antiproliferative and apoptotic effects of the herbal agent Pygeum africanum on cultured prostate stromal cells from patients with benign prostatic hyperplasia (BPH). | Prostate
+- new | 2010 | 20944533 | Clinical Trial/Comparative Study/Multicenter Study | Serenoa repens in benign prostatic hypertrophy: analysis of 2 Italian studies. | Minerva Urol Nefrol
+- new | 2009 | 19526878 | Clinical Trial | [Tadenan treatment of prostatic adenoma]. | Urologiia [rus]
+- new | 2009 | 20007408 | Research Support, N.I.H., Extramural | Redesigning a large-scale clinical trial in response to negative external trial results: the CAMUS study of phytotherapy for benign prostatic hyperplasia. | Clin Trials
+- HELD REF-0548 | 2008 | 18423748 | Review | Phytotherapy for lower urinary tract symptoms secondary to benign prostatic hyperplasia. | J Urol
+- new | 2007 | 17397059 | Review | A critical review of the pharmacology of the plant extract of Pygeum africanum in the treatment of LUTS. | Neurourol Urodyn
+- new | 2005 | 15944522 | Research Support, Non-U.S. Gov't | [Treatment with non-steroidal anti-inflammatory drugs in patients with amicrobial chronic prostato-vesiculitis: transrectal ultrasound and seminal findings]. | Minerva Urol Nefrol [ita]
+- new | 2004 | 15540722 | Review | Is there a scientific basis for the therapeutic effects of serenoa repens in benign prostatic hyperplasia? Mechanisms of action. | J Urol
+- new | 2004 | 15560171 | Review | [Tadenan (Pygeum africanum extract) in the treatment of patients with benign prostatic hyperplasia]. | Urologiia [rus]
+- HELD REF-0547 | 2002 | 11869585 | Systematic Review | Pygeum africanum for benign prostatic hyperplasia. | Cochrane Database Syst Rev
+- new | 2002 | 12022711 | Review | The role of phytotherapy in treating lower urinary tract symptoms and benign prostatic hyperplasia. | World J Urol
+- new | 2002 | 12149159 | Review | Phytotherapy for benign prostatic hyperplasia. | Curr Urol Rep
+- new | 2002 | 12426861 | Evaluation Study/Review | [Phytotherapy of benign prostatic hyperplasia. Current evidence-based evaluation]. | Urologe A [ger]
+- new | 2002 | 15748367 |  | Evaluating the efficiency of a combination of Pygeum africanum and stinging nettle (Urtica dioica) extracts in treating benign prostatic hyperplasia (BPH): double-blind, randomized | Int Braz J Urol
+- new | 2000 | 12084323 | Review | Phytotherapeutic agents in the treatment of benign prostatic hyperplasia. | Curr Urol Rep
+- new | 2000 | 10796739 | Systematic Review | Cernilton for benign prostatic hyperplasia. | Cochrane Database Syst Rev
+- new | 2000 | 11276294 | Meta-Analysis | Phytotherapy for benign prostatic hyperplasia. | Public Health Nutr
+- new | 2000 | 10792162 | Systematic Review | A systematic review of Cernilton for the treatment of benign prostatic hyperplasia. | BJU Int
+- new | 2000 | 11099686 | Systematic Review | Pygeum africanum for the treatment of patients with benign prostatic hyperplasia: a systematic review and quantitative meta-analysis. | Am J Med
+- new | 1999 | 10475357 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Comparison of once and twice daily dosage forms of Pygeum africanum extract in patients with benign prostatic hyperplasia: a randomized, double-blind study, with long-term open lab | Urology
+- new | 1998 | 9787978 | Clinical Trial/Multicenter Study | Efficacy and acceptability of tadenan (Pygeum africanum extract) in the treatment of benign prostatic hyperplasia (BPH): a multicentre trial in central Europe. | Curr Med Res Opin
+- new | 1997 | 9218940 | Review | Clinical relevance of growth factor antagonists in the treatment of benign prostatic hyperplasia. | Eur Urol
+- new | 1996 | 8738619 | Clinical Trial/Controlled Clinical Trial | Usefulness of Cernilton in the treatment of benign prostatic hyperplasia. | Int Urol Nephrol
+- new | 1994 | 7528179 | Comparative Study | Quantitative-comparative histology of prostatic adenomas in medically and surgically treated patients. | Int Urol Nephrol
+- new | 1993 | 7509261 | Clinical Trial/Comparative Study/Multicenter Study/Randomized Controlled Trial | Combined extracts of Urtica dioica and Pygeum africanum in the treatment of benign prostatic hyperplasia: double-blind comparison of two doses. | Clin Ther
+- new | 1993 | 8381228 | Clinical Trial/Comparative Study/Controlled Clinical Trial | Comparison of finasteride (Proscar), a 5 alpha reductase inhibitor, and various commercial plant extracts in in vitro and in vivo 5 alpha reductase inhibition. | Prostate
+- new | 1990 | 1702916 | Clinical Trial/Multicenter Study/Randomized Controlled Trial | [Efficacy of Pygeum africanum extract in the medical therapy of urination disorders due to benign prostatic hyperplasia: evaluation of objective and subjective parameters. A placeb | Wien Klin Wochenschr [ger]
+- new | 1987 | 2441479 | Clinical Trial/Controlled Clinical Trial | [Standardized extract of Pygeum africanum in the treatment of benign prostatic hypertrophy. Controlled clinical study versus placebo]. | Minerva Urol Nefrol [ita]
+- new | 1984 | 6084978 | Clinical Trial/Randomized Controlled Trial | [Controlled study of the effects of Pygeum africanum extract on the functional symptoms of prostatic adenoma]. | Ann Urol (Paris) [fre]
+- new | 1980 | 7008706 | Clinical Trial | [Treatment of prostatic disorders with a combination of Prunus africana and benzidamine]. | Arch Esp Urol [spa]
+- new | 1979 | 90434 | Clinical Trial/Controlled Clinical Trial | [An urodynamic study of patients with benign prostatic hypertrophy treated conservatively with phytotherapy or testosterone (author's transl)]. | Wien Klin Wochenschr [ger]
+- new | 1978 | 76466 |  | [The role of mepartricin in the medical treatment of benign prostatic adenoma]. | Arch Sci Med (Torino) [ita]
+- new | 1977 | 71995 | Clinical Trial/Controlled Clinical Trial | A clinical and urodynamic study of tadenan in the treatment of benign prostatic hypertrophy. | Eur Urol
+- new | 1972 | 4141048 | Clinical Trial | [Tadenan in the treatment of prostatic adenoma. Anatomo-clinical study]. | Minerva Urol [ita]
+
+### PubMed SR - 12 hits, 2 not already listed above, 2 new
+- new | 2019 | 31451276 | Systematic Review | Benign prostate hyperplasia and nutrition. | Clin Nutr ESPEN
+- new | 2011 | 21871136 | Systematic Review | Benign prostatic hyperplasia and male lower urinary tract symptoms (LUTS). | BMJ Clin Evid
+
+### PubMed SAFE - 42 hits, 21 not already listed above, 18 new
+- new | 2026 | 41754167 |  | A Multi-Target Phytotherapeutic Approach to Benign Prostatic Hyperplasia: Preclinical Characterization of a PhytoBPH-Mix. | Nutrients
+- new | 2025 | 39297456 | Review | Utilizing Indigenous Flora in East Africa for Breast Cancer Treatment: An Overview. | Anticancer Agents Med Chem
+- new | 2024 | 38654751 | Review | A Comprehensive Review of Ethnomedicinal Uses, Phytochemistry, Pharmacology, and Toxicity of Prunus africana (Hook. F.) Kalkman from Africa. | Scientifica (Cairo)
+- new | 2023 | 37151166 | Review | Natural Compounds Used for Treating Hair Loss. | Curr Pharm Des
+- new | 2022 | 35487926 | Research Support, Non-U.S. Gov't | GC-MS and LC-TOF-MS profiles, toxicity, and macrophage-dependent in vitro anti-osteoporosis activity of Prunus africana (Hook f.) Kalkman Bark. | Sci Rep
+- new | 2019 | 30691591 |  | Kidney, skeletal muscle and myocardium as potential target sites of Pygeum africanum toxicity in Wistar rats. | Rev Int Androl
+- new | 2018 | 29309859 |  | Cytotoxic activity of medicinal plants of the Kakamega County (Kenya) against drug-sensitive and multidrug-resistant cancer cells. | J Ethnopharmacol
+- new | 2015 | 26337762 |  | Safety and efficacy of a novel Prunus domestica extract (Sitoprin, CR002) on testosterone-induced benign prostatic hyperplasia (BPH) in male Wistar rats. | Toxicol Mech Methods
+- new | 2014 | 25165780 | Review | Phytotherapy of benign prostatic hyperplasia. A minireview. | Phytother Res
+- new | 2013 | 24026362 |  | Role of complimentary therapy for male LUTS. | Curr Urol Rep
+- new | 2013 | 23165347 |  | Cytotoxicity of herbal extracts used for treatment of prostatic disease on head and neck carcinoma cell lines and non-malignant primary mucosal cells. | Oncol Rep
+- HELD REF-1509 | 2012 | 22883375 | Research Support, Non-U.S. Gov't/Review | Dietary supplements for benign prostatic hyperplasia: an overview of systematic reviews. | Maturitas
+- HELD REF-1334 | 2012 | 22512478 | Review | A review of animal and human studies for management of benign prostatic hyperplasia with natural products: perspective of new pharmacological agents. | Inflamm Allergy Drug Targets
+- new | 2010 | 20359149 |  | Under-hyped and over-hyped drug-dietary supplement interactions and issues. | Urol Nurs
+- new | 2004 | 14630059 | Comparative Study/Research Support, Non-U.S. Gov't | Investigation of the antimutagenic effects of selected South African medicinal plant extracts. | Toxicol In Vitro
+- HELD REF-1507 | 2002 | 12196065 | Review | Herbs for benign prostatic hyperplasia. | Ann Pharmacother
+- new | 2002 | 12515038 | Review | [Enzyme inhibition in the drug therapy of benign prostatic hyperplasia]. | Cas Lek Cesk [cze]
+- new | 2002 | 12164269 | Research Support, Non-U.S. Gov't | Toxicity of chloroform extract of prunus africana stem bark in rats: gross and histological lesions. | Phytother Res
+- new | 2000 | 11065249 | Case Reports | Occupational asthma due to exposure to African cherry (Makore) wood dust. | Intern Med
+- new | 1998 | 20654396 |  | In vitro genotoxicity and cytotoxicity of five new chemical compounds of plant origin by means of the human lymphocyte micronucleus assay. | Toxicol In Vitro
+- new | 1991 | 1723220 |  | [Urological and sexual evaluation of treatment of benign prostatic disease using Pygeum africanum at high doses]. | Arch Ital Urol Nefrol Androl [ita]
+
+### PubMed OBS - 3 hits, 1 not already listed above, 1 new
+- new | 2014 | 24602239 | Research Support, Non-U.S. Gov't | Genetic structuring of remnant forest patches in an endangered medicinal tree in North-western Ethiopia. | BMC Genet
+
+### PubMed REV - 41 hits, 10 not already listed above, 8 new
+- new | 2024 | 38445504 | Review | Review of Herbal Medicinal Plants Used in the Management of Cancers in the East Africa Region from 2019 to 2023. | Integr Cancer Ther
+- HELD REF-1515 | 2023 | 36535336 | Review | The African cherry: A review of the botany, traditional uses, phytochemistry, and biological activities of Prunus africana (Hook.f.) Kalkman. | J Ethnopharmacol
+- new | 2021 | 34885733 | Review | Treatment of Benign Prostatic Hyperplasia by Natural Drugs. | Molecules
+- HELD REF-1512 | 2020 | 31627963 | Review | Review of the experience and evidence of Pygeum africanum in urological practice. | Actas Urol Esp (Engl Ed) [eng,spa]
+- new | 2014 | 25225776 | Research Support, Non-U.S. Gov't/Review | Prunus africana (Hook.f.) Kalkman: the overexploitation of a medicinal plant species and its legal context. | J Altern Complement Med
+- new | 2003 | 14522426 | Review | The African cherry (Prunus africana): can lessons be learned from an over-exploited medicinal tree? | J Ethnopharmacol
+- new | 2002 | 12522584 | Review | Botanical medicines for the urinary tract. | World J Urol
+- new | 2001 | 11202534 | Review | Pygeum. | Am J Health Syst Pharm
+- new | 2000 | 10930709 | Review | Botanical derivatives for the prostate. | Fitoterapia
+- new | 2000 | 10929430 | Review | A scientific basis for the therapeutic effects of Pygeum africanum and Serenoa repens. | Urol Res
+
+### ClinicalTrials.gov - 4 registered studies
+- NCT07145034 | NOT_YET_RECRUITING | results=False | NA | Evaluation Of Efficacy And Safety Of Prosman™ (Prunus Domestica Extract) On Prostate Function, Serum Testosterone Levels And Quality Of Life | conds: Healthy | intr: Prosman, Placebo
+- NCT05222841 | COMPLETED | results=False | PHASE2,PHASE3 | The Effectiveness of Spermotrend Food Supplement in the Treatment of Male Infertility | conds: Male Infertility, Benign Prostatic Hyperplasia, Spermatogenesis and Semen Disorders | intr: Spermotrend
+- NCT06841458 | RECRUITING | results=False | NA | Six-Month Single-Blind, Placebo-Controlled Study of a Dietary Supplement Supplement on Hair Growth in 45 Volunteers | conds: Androgenetic Alopecia | intr: Oral Supplement
+- NCT07066735 | NOT_YET_RECRUITING | results=False | NA | Extracorporeal Shock-Wave Therapy (ESWT) vs Phytotherapy vs Combined in Treatment of Chronic Prostatitis | conds: Chronic Prostatitis (CP) | intr: ESWT, Phytotherapy that contains powder extract of (saw palmetto , tomato , uva ursi , pygeum and pu
+
+### OpenAlex no-PMID trial-worded - 340 hits, 75 without PMID, 75 new
+- new | 2026 | 10.5281/zenodo.23002054 | article | Pygeum (Prunus africana): the prostate evidence | Zenodo (CERN European Organization for N
+- new | 2026 | 10.22271/flora.2026.v14.i4a.1105 | article | Population structure and natural regeneration of the threatened medicinal tree Prunus africana (Hook.f.) Kalkman in an Afromontane forest reserve of Cameroon | International Journal of Herbal Medicine
+- new | 2026 | 10.65150/ep-jnsrr/v2e7/2026-02 | article | Integrating Forest Resources, Community Livelihoods and Local Governance for Sustainable Community Forest Management: Evidence from the Woteva Community Forest, Southwest-Cameroon | Journal of Natural Science Research and 
+- new | 2026 | 10.17605/osf.io/7qe8u | study-registration | Traditional Medicinal Plants Used for the Treatment of Cancer in East Africa: A Systematic Review of Ethnobotanical, Phytochemical and Pharmacological Evidence | Open Science Framework
+- new | 2026 | 10.1016/j.nexres.2026.102187 | article | African herbal medicines used in prostate cancer management: A scoping review of ethnobotanical knowledge and preclinical evidence | Next research.
+- new | 2026 | 10.33545/26647168.2026.v8.i1a.188 | article | Plant part substitution as a conservation strategy for medicinal plants: A framework for establishing phytochemical, pharmacological and safety equivalence | International Journal of Pharmacognosy a
+- new | 2026 | https://openalex.org/W7223540620 | dissertation | Random Forest Mapping of Forest Composition Change in Lithuania, 1985–2024: Associations with Climate and Disturbance | Lund University Publications Student Pap
+- new | 2025 | 10.9734/jpri/2025/v37i127787 | article | Comparative Effects of Mondia whitei and Prunus africana in Male Sexual Health: A Comprehensive Review | Journal of Pharmaceutical Research Inter
+- new | 2025 | 10.51227/ojafr.2025.33 | article | Evaluation of Prunus africana bark extract as an organic alternative to synthetic growth promoters in broiler production | Online Journal of Animal and Feed Resear
+- new | 2025 | 10.56093/aaz.v64i2.166411 | article | Evaluation of the Seed Germination Behavior of Prunus africana (Hook.f.) Kalkman (Rosaceae) under Different Pre-sowing Treatments in Ethiopia | Annals of Arid Zone
+- new | 2025 | 10.9734/jamb/2025/v25i3909 | article | In-vitro Antibacterial and Antifungal Activities of the Stem Bark Extract and Fractions of Warbugia. ugadensis, Prunus africana and Albizia gummifera from Mt Kenya and Elgon Region | Journal of Advances in Microbiology
+- new | 2025 | 10.1155/ijfr/7179184 | article | The Growth Performance of Three Selected Indigenous Tree Species at Boye Nursery Site, Southwestern Ethiopia | International Journal of Forestry Resear
+- new | 2025 | 10.1016/b978-0-443-40511-2.00003-6 | book-chapter | Ethnomedicinal plants used in cancer treatment | Elsevier eBooks
+- new | 2025 | 10.34172/ps.025.42320 | article | Evaluation of the Effect of the oral Formulation Prepared from the Extract of Pomegranate Peel for the Treatment of Benign Prostate Hyperplasia: A Triple-Blind Randomized Clinical  | Pharmaceutical Sciences
+- new | 2025 | 10.1201/9781003464938-19 | book-chapter | Natural Remedies for Benign Prostatic Hyperplasia, Male Impotence, and Premature Ejaculation | CRC Press eBooks
+- new | 2025 | 10.9734/jamps/2025/v27i1742 | article | Comparison of Patients’ Perceptions of Safety and Efficacy of Herbal and Conventional Type 2 Diabetes Treatments in Nairobi, Kenya | Journal of Advances in Medical and Pharm
+- new | 2025 | 10.24061/1727-4338.xxiii.4.90.2024.09 | article | THE ROLE OF COMBINED PHYTOPROSTATOPROTECTORS IN THE COMPREHENSIVE TREATMENT OF PATIENTS WITH CHRONIC PELVIC PAIN SYNDROME ON THE BACKGROUND OF CHRONIC CALCULAR PROSTATITIS | Clinical & experimental pathology
+- new | 2025 | 10.31989/ffhd.v15i2.1556 | article | A Clinical Investigation to Determine the Safety and Efficacy of a Novel, Patented Prunus Domestica Extract in Benign Prostatic Hyperplasia (BPH) | Functional Foods in Health and Disease
+- new | 2024 | 10.3892/ijfn.2024.42 | article | Efficacy of Prunus africana, Urtica dioica and Epilobium angustifolium in patients with benign prostatic hyperplasia | International Journal of Functional Nutr
+- new | 2024 | 10.1155/2024/1843379 | article | Distribution and Regeneration Status of Albizia gummifera and Prunus africana along Agroecology in Agroforestry: The Case of Gombora District, Southern Ethiopia | International Journal of Forestry Resear
+- new | 2024 | 10.3390/d16010064 | article | Plant Diversity and Conservation Role of Three Indigenous Agroforestry Systems of Southeastern Rift-Valley Landscapes, Ethiopia | Diversity
+- new | 2024 | 10.1016/j.envadv.2024.100503 | article | Ecological distribution, heavy metals profiling and human health risk assessment of medicinal plants used for tonsillitis and wounds treatment: A chemometric approach | Environmental Advances
+- new | 2024 | https://openalex.org/W7135255967 | dissertation | Investigating the utilization of indigenous forestry as a pathway for commercial forestry, community upliftment and land restoration. | ResearchSpace (University of KwaZulu-Nat
+- new | 2024 | 10.1007/s44279-024-00099-y | article | In vitro inhibition of Xanthomonas vasicola pv. musacearum, the causal agent of banana Xanthomonas Wilt, using medicinal plant extracts from North Kivu, Eastern Democratic Republic | Discover Agriculture
+- new | 2023 | 10.30841/2786-7323.2.2023.286432 | article | The Study of the Effectiveness of Modern Phytotherapy for Patients with Benign Prostatic Hyperplasia and Chronic Prostatitis | Health of Man
+- new | 2023 | 10.34172/jhp.2023.33 | article | Spatial memory-enhancing effects and antioxidant activities of leaf and stem bark methanol extracts of Prunus africana in scopolamine-treated mice | Journal of Herbmed Pharmacology
+- new | 2023 | 10.1016/j.hermed.2023.100808 | article | Ethnobotanical survey of medicinal plants used in the management of cancer in Uganda | Journal of Herbal Medicine
+- new | 2023 | 10.1080/21580103.2023.2237985 | article | Assisted natural regeneration of selected tree species through silviculture interventions as a tool for restoring degraded natural forests in northwestern Ethiopia | Forest Science and Technology
+- new | 2023 | 10.29303/jbt.v23i1.4339 | article | Antibacterial Activity of Extracts of Wild Mango (Mangifera spp.), Ruellia tuberosa L and Leucobryum sp. Causes of Gangrene in Patients with Diabetes Mellitus | JURNAL BIOLOGI TROPIS
+- new | 2023 | 10.5897/ijbc2023.1587 | article | Contributions of Mount Cameroon National Park (MCNP) activities to livelihood of the local people, South West Region Cameroon | International Journal of Biodiversity an
+- new | 2022 | 10.53430/ijsru.2022.3.1.0026 | article | Appropriate watering interval for Prunus africana nursery seedlings in Egerton University, Njoro, Kenya | International Journal of Scientific Rese
+- new | 2022 | 10.2139/ssrn.4250760 | preprint | Medicinal Plants Used by Traditional Medicine Practitioners in the Management of Patients with Cancer in Selected Districts of Uganda | SSRN Electronic Journal
+- new | 2022 | 10.1155/2022/9335428 | article | Intraspecific Morphological Variations among the Populations of Milicia excelsa, Pouteria adolfi-friedericii, and Prunus africana in Different Natural Forests of Southwest Ethiopia | International Journal of Forestry Resear
+- new | 2022 | 10.5281/zenodo.7611878 | article | Evaluation of Catchment Afforestation Potentials of Seedlings of Three Native Tree Species under Different Soil Moisture Conditions | Zenodo (CERN European Organization for N
+- new | 2022 | 10.1016/j.sciaf.2022.e01287 | article | Botanical aspects, chemical overview, and pharmacological activities of 14 plants used to formulate a Kenyan Multi-Herbal Composition (CareVid™) | Scientific African
+- new | 2022 | 10.30841/2307-5090.3.2022.270810 | article | Modern Phytotherapy in Patients with Benign Prostate Hyperplasia and Chronic Prostatitis | Health of Man
+- new | 2022 | 10.58256/rjah.v3i3.871 | article | Categorisation of Lubukusu conceptual metaphors of pain in doctor-patient consultation | Research Journal in Advanced Humanities
+- new | 2022 | 10.9734/jocamr/2022/v19i2385 | article | Comparative Glycemic Control in Adult Patients with Type 2 Diabetes on Herbal and Conventional Glucose-Lowering Agents in Nairobi County, Kenya | Journal of Complementary and Alternative
+- new | 2022 | 10.33545/surgery.2022.v6.i2a.876 | article | a | International Journal of Surgery Science
+- new | 2021 | 10.21203/rs.3.rs-143995/v1 | preprint | Physiochemical properties and antibacterial activity of silver nanoparticles green synthesized by Camellia sinensis and Prunus africana extracts | Research Square
+- new | 2021 | 10.1002/ppp3.10202 | article | Phylogeny reveals non‐random medicinal plant organ selection by local people in Benin | Plants People Planet
+- new | 2021 | 10.3389/fnano.2021.697303 | article | Green Strategy–Based Synthesis of Silver Nanoparticles for Antibacterial Applications | Frontiers in Nanotechnology
+- new | 2021 | 10.1016/j.phyplu.2021.100153 | review | A systematic review of herbal medicine in the clinical treatment of benign prostatic hyperplasia | Phytomedicine Plus
+- new | 2021 | 10.3390/rs13244970 | article | Machine Learning Classification of Endangered Tree Species in a Tropical Submontane Forest Using WorldView-2 Multispectral Satellite Imagery and Imbalanced Dataset | Remote Sensing
+- new | 2020 | 10.15406/mojes.2020.05.00188 | article | Population survey of Milicia excelsa, Pouteria adolfi-fridercii, Antiaris toxicaria and Prunus africana in south and south-western Ethiopia: implications for domesticating and esta | MOJ Ecology & Environmental Sciences
+- new | 2020 | 10.34172/jhp.2020.15 | article | A review of the most important natural antioxidants and effective medicinal plants in traditional medicine on prostate cancer and its disorders | Journal of Herbmed Pharmacology
+- new | 2019 | 10.33483/jfpau.459798 | article | EFFECTS OF PHYTOTERAPEUTICS ON BENIGN PROSTATE HYPERPLASIA | Ankara Universitesi Eczacilik Fakultesi 
+- new | 2018 | https://openalex.org/W2896162985 | dissertation | Effects of climate change on potential geographical distribution of Prunus africana (African cherry) in the Eastern Arc Mountain Forests of Tanzania | Lund University Publications Student Pap
+- new | 2018 | 10.20944/preprints201801.0174.v1 | preprint | Prunus Africana Provenances Growth and Survival Evaluation in the Highland of Awi zone, Amhara Region, North Western Ethiopia | Preprints.org
+- new | 2018 | 10.5281/zenodo.2536527 | article | Contribution of Non-Timber Forest Products (NTFPs) to Socioeconomic Wellbeing in Rural Cameroon | Agriculture and Forestry Journal
+- new | 2018 | 10.4314/jab.v123i1.4 | article | Bouturage de Cola acuminata (P. Beauv.) Schott & Endl.: Influence du substrat, de la longueur et de la surface foliaire sur l’enracinement de boutures à Kisangani, RD Congo | Journal of Applied Biosciences
+- new | 2016 | https://openalex.org/W2514438795 | article | Indigenous Knowledge, Uses and Conservation of Prunus africana (Hook. F.) Kalkman in Nandi Forests | 
+- new | 2016 | 10.11648/j.ajls.20160402.13 | article | RAPD Variation Within and Among Natural Populations of African Cherry (prunus Africana) From Ethiopia | American Journal of Life Sciences
+- new | 2016 | 10.5897/ijbc2016.1020 | article | Determination of informant consensus factor and fidelity level of ethnomedicinal plants used in Misha Woreda, Hadiya Zone, Southern Ethiopia | International Journal of Biodiversity an
+- new | 2015 | 10.4172/2168-9652.1000185 | article | Growth Performance of Domesticated Prunus africana Population in Muguga, Kiambu County, Kenya | Biochemistry & Physiology Open Access
+- new | 2015 | https://openalex.org/W1520825490 | article | Survey of Toxic Plants in Livestock at Horro Gudurru Wollega Zone, Western Ethiopia | Journal of Biology Agriculture and Healt
+- new | 2015 | 10.5897/jpbcs2015.0511 | article | Genetic diversity of Dacryodes edulis provenances used in controlled breeding trials | Journal of Plant Breeding and Crop Scien
+- new | 2015 | 10.1155/2015/286582 | article | Vegetative Propagation Trial of Prosopis africana (Guill. et Perr.) Taub. by Air Layering under Sudano-Sahelian Climate in the South-Central Niger | Journal of Botany
+- new | 2014 | 10.9734/bjast/2014/10854 | article | Evaluation of Seedlings of Three Woody Species under Four Soil Moisture Capacities | British Journal of Applied Science & Tec
+- new | 2013 | https://openalex.org/W2189273583 | article | Correlations between some phenotypic characters of Prunus africana and chemical characteristics of soils in Cameroon | 
+- new | 2013 | https://openalex.org/W17706145 | dissertation | Distribution, Utilization and Management of Prunus africana (Hook. f) in Gichugu Division, Kirinyaga District, Central Kenya | Kenyatta University Institutional Reposi
+- new | 2012 | 10.34725/dvn/tdubuw | dataset | Contribution to the Promotion of qualitative and quantitative production of agro forestry trees plants by the private nurseries. | World Agroforestry Centre - ICRAF Datave
+- new | 2012 | 10.7910/dvn/tdubuw | dataset | Contribution to the Promotion of qualitative and quantitative production of agro forestry trees plants by the private nurseries. | Harvard Dataverse
+- new | 2012 | https://openalex.org/W2186631272 | dissertation | DETERMINATION OF ESSENTIAL TRACE ELEMENTS IN SELECTED MEDICINAL PLANTS AND THEIR AQUEOUS EXTRACTS | Kenyatta University Institutional Reposi
+- new | 2010 | https://openalex.org/W7135914296 | dissertation | The Importance of Phytoterapy in the Treatment of Benign Prostatic | Digital Repository (National Repository 
+- new | 2008 | 10.1093/occmed/kqn144 | book-review | Oxford Handbook of Complementary Medicine | Occupational Medicine
+- new | 2006 | 10.1016/j.sajb.2006.01.003 | article | Genetic variation in the threatened medicinal tree Prunus africana in Cameroon and Kenya: Implications for current management and evolutionary history | South African Journal of Botany
+- new | 2006 | https://openalex.org/W314175959 | dissertation | Analysis of sterols and sterolins in hypoxis hemerocallidea and related herbal medicine | UpSpace Institutional Repository (Univer
+- new | 2006 | 10.4314/ecajps.v8i2.9720 | article | Traditional herbal medicine in national healthcare in Kenya | The East and Central African Journal of 
+- new | 2004 | 10.5897/ajb2004.000-2080 | article | Analysis of genetic structure in Melia volkensii (Gurke.) populations using random amplified polymorphic DNA | AFRICAN JOURNAL OF BIOTECHNOLOGY
+- new | 2003 | 10.18174/121484 | dissertation | Diversity makes a difference: Farmers managing inter- and intra-specific tree species diversity in Meru Kenya | 
+- new | 2001 | https://openalex.org/W2579435674 | dissertation | Genetic variation in the threatened medicinal tree prunnus africana (Hook. F.) in Kenya and Cameroon: implications for the genetic management of the species. | Kenyatta University Institutional Reposi
+- new | 2000 | 10.1076/phbi.38.5.374.5966 | article | Biochemical And Haematological Changes Mediated By A Chloroform Extract Of Prunus Africana Stem Bark In Rats | Pharmaceutical Biology
+- new | 1999 | 10.1046/j.1365-294x.1999.00518.x | article | Genetic variation in the Afromontane tree Prunus africana, an endangered medicinal species | Molecular Ecology
+- new | 1998 | 10.1016/s0146-0005(98)80024-4 | editorial | Introduction | Seminars in Perinatology
+
+## prunus-serotina (Prunus serotina) - name clause: "Prunus serotina"[tiab] OR "wild black cherry"[tiab] OR "wild cherry bark"[tiab] OR "black cherry bark"[tiab] OR "black cherry"[ti]
+
+### PubMed HT - 1 hits, 1 not already listed above, 1 new
+- new | 1991 | 15092135 |  | Black cherry growth response to ambient ozone and EDU. | Environ Pollut
+
+### PubMed SR - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SAFE - 9 hits, 9 not already listed above, 9 new
+- new | 2025 | 41314236 |  | [Dutch land goats in small-scale, extensive nature conservation grazing projects]. | Tierarztl Prax Ausg G Grosstiere Nutztie [ger]
+- new | 2019 | 30963415 | Case Reports | A case of acute kidney injury secondary to black cherry concentrate in a patient with chronic kidney disease secondary to type 2 diabetes mellitus. | CEN Case Rep
+- new | 2018 | 28925346 |  | The effect of winter length on duration of dormancy and survival of specialized herbivorous Rhagoletis fruit flies from high elevation environments with acyclic climatic variabilit | Bull Entomol Res
+- new | 2016 | 27190702 |  | Incorporation of an invasive plant into a native insect herbivore food web. | PeerJ
+- new | 2008 | 18281329 | Comparative Study | Larvae of the fall webworm, Hyphantria cunea, inhibit cyanogenesis in Prunus serotina. | J Exp Biol
+- new | 2005 | 15519989 | Research Support, U.S. Gov't, Non-P.H.S. | Element accumulation patterns of deciduous and evergreen tree seedlings on acid soils: implications for sensitivity to manganese toxicity. | Tree Physiol
+- new | 2004 | 15586581 | Case Reports | Prunus spp. intoxication in ruminants: a case in a goat and diagnosis by identification of leaf fragments in rumen contents. | J Vet Diagn Invest
+- new | 2000 | 10938872 |  | Computing factors of safety against wind-induced tree stem damage. | J Exp Bot
+- new | 1995 | 7859216 | Case Reports | Black cherry poisoning in an Angora goat. | Can Vet J
+
+### PubMed OBS - 2 hits, 2 not already listed above, 2 new
+- new | 2019 | 30937223 |  | Integrating herbarium specimen observations into global phenology data systems. | Appl Plant Sci
+- new | 2019 | 31217625 |  | Nitrogen deposition and climate change effects on tree species composition and ecosystem services for a forest cohort. | Ecol Monogr
+
+### PubMed REV - 3 hits, 3 not already listed above, 2 new
+- HELD REF-0999 | 2020 | 32630652 | Review | Phytopharmacological Possibilities of Bird Cherry Prunus padus L. and Prunus serotina L. Species and Their Bioactive Phytochemicals. | Nutrients
+- new | 2014 | 24530873 | Research Support, U.S. Gov't, Non-P.H.S./Review | Nonsteroidal anti-inflammatory drug activated gene-1 (NAG-1) modulators from natural products as anti-cancer agents. | Life Sci
+- new | 1988 | 3073063 | Research Support, U.S. Gov't, Non-P.H.S./Review | Localization and catabolism of cyanogenic glycosides. | Ciba Found Symp
+
+### ClinicalTrials.gov - 17 registered studies
+- NCT04837898 | COMPLETED | results=False | NA | Haskap and Endurance Running Performance | conds: Exercise Performance | intr: Haskapa, Placebo
+- NCT04128839 | COMPLETED | results=False | NA | Impacts of Aronia on Inflammation and the Gut Microbiome | conds: Metabolic Syndrome, Inflammation, Hypertriglyceridemia, Obesity | intr: Aronia berry juice, Sham comparator | pubs: ['34544430:DERIVED (new)']
+- NCT03490734 | COMPLETED | results=True | NA | Neurobehavioral Plasticity to Regular Sugar-Sweetened Beverage Intake: An fMRI Experiment | conds: Obesity, Weight Gain | intr: Black Cherry and Orange Flavored Beverage with added sugar, Strawberry Kiwi &Lemonade Flavored Bever
+- NCT04021342 | COMPLETED | results=False | NA | The Effect of Tart Cherry (Prunus Cerasus) Concentrate on Physiological and Cognitive Function | conds: Cardiometabolic Risk Factors, Cognitive Function, Exercise Capacity | intr: Montmorency tart cherry concentrate, Placebo
+- NCT01427907 | COMPLETED | results=True | PHASE4 | Equivalence of Calcium Acetate Oral Solution and Sevelamer Carbonate Tablets in Hemodialysis Patients | conds: Chronic Kidney Disease | intr: Calcium acetate oral solution (COS), Sevelamer carbonate | pubs: ['40576086:DERIVED (new)']
+- NCT05085327 | COMPLETED | results=True | NA | Clinical Study to Evaluate the Sun Protection Factor (SPF) of Sunscreen Products | conds: Sunscreening Agents | intr: ChapStick Lip Moisturizer Original, ChapStick Lip Moisturizer Mint, ChapStick Lip Moisturizer Black 
+- NCT05255718 | COMPLETED | results=False | NA | Impact of Aronia Berry Consumption on Inflammation, Metabolites, and the Gut Microbiome | conds: Inflammation, Metabolic Disorder, Hypertriglyceridemia | intr: Aronia juice, Placebo
+- NCT03964350 | COMPLETED | results=True | EARLY_PHASE1 | Behavior Brain Responses | conds: Alcohol Drinking, Drinking Behavior, Physiological Effects of Drugs, Central Nervous System Depression | intr: Ethanol, Placebo
+- NCT06084585 | UNKNOWN | results=False | NA | The Efficacy of Amway Uric Acid Lowering Product on Hyperuricemia | conds: Hyperuricemia | intr: Study Product A (High-dose 2X), Study Product B (Low-dose X), Placebo
+- NCT05995002 | COMPLETED | results=False | NA | Anthocyanin Intake on Cardiometabolic Biomarkers | conds: Coronary Artery Stenosis | intr: Anthocyanin-rich diet | pubs: ['42128766:DERIVED (new)']
+- NCT03615885 | COMPLETED | results=False | NA | Acute Cardio-metabolic Responses to Montmorency Tart Cherry Supplementation in Metabolic Syndrome Patients | conds: Metabolic Syndrome, Insulin Resistance, Hypertension | intr: Montmorency Tart Cherry Capsules, Montmorency Tart Cherry Juice, Placebo
+- NCT05890014 | UNKNOWN | results=False | NA | Effects of Diet on Perinatal Mood and Cognition | conds: Mood, Mothers, Healthy | intr: Flavonoid-rich diet
+- NCT03486145 | COMPLETED | results=False | NA | Effect of Nitrate-rich Fruit and Vegetable Supplement on Blood Pressure | conds: High Blood Pressure, Flow Mediated Dilation | intr: fruit and vegetable juice supplement, Placebo | pubs: ['30305961:DERIVED (new)']
+- NCT06505694 | COMPLETED | results=False | NA | A Clinical Trial to Assess the Impact of an Alcohol Alternative Herbal Tincture on Signs of Stress Anxiety and Sleep Quality. | conds: Anxiety, Stress | intr: Alcohol Alternative Herbal Tincture (Test Product), Placebo
+- NCT02999256 | COMPLETED | results=False | NA | Effect of Cherry Juice on Fat Oxidation and Cardio-metabolic Markers | conds: Healthy, Metabolic Syndrome | intr: Montmorency Tart Cherry Juice, Placebo
+- NCT06466408 | UNKNOWN | results=False | NA | Effect of Vegetable and Fruit Enzyme Supplementation on Muscle Activation, Aerobic Capacity, and Blood Biochemical Parameters After High-Int | conds: Overtraining Syndrome | intr: Supplementation Protocol, Blood Lactate Test, Training Impulse, Exergaming HIIE Test
+- NCT01568983 | COMPLETED | results=False | PHASE3 | The Effects of Polyphenol-rich Berry Juice on Blood Pressure in Hypertensive Subjects | conds: Pre-hypertension, Hypertension | intr: Placebo, Mana-juice, Optijuice
+
+### OpenAlex no-PMID trial-worded - 436 hits, 86 without PMID, 86 new
+- new | 2026 | 10.29312/remexca.v17i3.4327 | article | Adaptación de Prunus serotina para rehabilitar suelos degradados semiáridos | Revista Mexicana de Ciencias Agrícolas
+- new | 2026 | 10.5154/r.rchscfa.2025.07.025 | article | Scarification methods for enhancing germination of black cherry (Prunus serotina Ehrh.) seeds: A longitudinal and cross-sectional analysis | Revista Chapingo serie ciencias forestal
+- new | 2026 | 10.1007/s10682-025-10372-1 | article | The color of attraction: carotenoid-based coloration in the black Cherry (Prunus serotina) fruit ripening and its interaction with the gray silky-flycatcher (Ptiliogonys cinereus) | Evolutionary Ecology
+- new | 2026 | 10.3886/e248815 | dataset | Foliar metabolism and physiology of tulip poplar, black cherry, and sugar maple growing in three different soil series, each with different taxonomic characteristics and chemistry, | ICPSR Data Holdings
+- new | 2026 | 10.3886/e248872 | dataset | Effects of elevation on foliar and sapwood metabolites in sugar maple and yellow birch from two locations within the Neversink River Basin in the Catskill Mountains, NY | ICPSR Data Holdings
+- new | 2026 | 10.24061/2413-0737.30.1.117.2026.18 | article | SOME ASPECTS OF TREATMENT AND PREVENTION OF GENERALIZED PERIODONTITIS IN PATIENTS WITH COMORBID DISEASES. LITERATURE REVIEW | Bukovinian Medical Herald
+- new | 2026 | 10.3390/d18030154 | article | Plant Diversity and Structural Patterns in Stanului Forest, Gemărtălui Valley, Romania | Diversity
+- new | 2025 | 10.1016/j.foreco.2025.123179 | article | Moving up north: How do translocated seedlings perform in mixed-species plantings at the boreal-temperate interface? | Forest Ecology and Management
+- new | 2025 | 10.3390/nutraceuticals5020012 | article | Health Benefits of (Poly)phenols from Cherries: A Review of Clinical Trials | Nutraceuticals
+- new | 2025 | 10.1111/1365-2745.70165 | article | Combined volunteer and ecological network observations show broad‐scale temperature‐sensitivity patterns for deciduous plant flowering and leaf‐out times across the eastern USA | Journal of Ecology
+- new | 2025 | 10.3390/rs17111863 | article | Urban Tree Species Identification Based on Crown RGB Point Clouds Using Random Forest and PointNet | Remote Sensing
+- new | 2024 | 10.2737/rds-2024-0078 | dataset | Foliar metabolism and physiology of tulip poplar, black cherry, and sugar maple growing in three different soil series, each with different taxonomic characteristics and chemistry, | Forest Service Research Data Archive
+- new | 2024 | 10.2737/rds-2024-0013 | dataset | Effects of elevation on foliar and sapwood metabolites in sugar maple and yellow birch from two locations within the Neversink River Basin in the Catskill Mountains, NY | Forest Service Research Data Archive
+- new | 2023 | 10.54910/sabrao2023.55.2.25 | article | BIOLOGICALLY ACTIVE COMPOUNDS TRANSFORM DURING THE RIPENING STAGES IN GREENHOUSE TOMATOES | SABRAO Journal of Breeding and Genetics
+- new | 2022 | 10.56557/pcbmb/2022/v23i9-107489 | article | PERFORMANCE EVALUATION OF SELECTED CHERRY CULTIVARS UNDER CLIMATIC CONDITIONS OF MURREE HILLS | PLANT CELL BIOTECHNOLOGY AND MOLECULAR B
+- new | 2021 | 10.37099/mtu.dc.etdr/1209 | dissertation | EVALUATING LONG-TERM GROWTH AND YIELD IN UPPER GREAT LAKES REGION NORTHERN HARDWOODS CUTTING TRIALS | Digital Commons - Michigan Tech (Michiga
+- new | 2020 | 10.6084/m9.figshare.12126462 | dataset | CA-TP4 Soil Respiration Data 2008-2018 | Figshare
+- new | 2019 | 10.3897/neobiota.41.31908 | article | Functional traits of acquisitive invasive woody species differ from conservative invasive and native species | NeoBiota
+- new | 2019 | 10.3897/neobiota.53.38183 | article | A preliminary field trial to compare control techniques for invasive Berberis aquifolium in Belgian coastal dunes | NeoBiota
+- new | 2019 | 10.19136/era.a6n16.1947 | article | Antioxidant capacity of capulin (Prunus serotina subsp. capuli (Cav). McVaugh) fruit at different stages of ripening | Ecosistemas y Recursos Agropecuarios
+- new | 2018 | 10.1007/s10530-018-1706-3 | article | Drivers of invasive tree and shrub natural regeneration in temperate forests | Biological Invasions
+- new | 2017 | 10.3161/15052249pje2017.65.2.011 | article | Black Cherry (Prunus serotina) Invasion in a Scots Pine Forest: Relationships between Soil Properties and Vegetation | Polish Journal of Ecology
+- new | 2017 | 10.22543/0090-0222.1811 | article | Absence of Behavioral Induction in Oviposition Preference of Papilio Glaucus (Lepidoptera: Papilionidae) | The Great Lakes Entomologist
+- new | 2017 | 10.21000/jasmr17010034 | article | EVALUATION OF SMALL TREE AND SHRUB PLANTINGS ON RECLAIMED SURFACE MINES IN WEST VIRGINIA | Journal American Society of Mining and R
+- new | 2017 | 10.33915/etd.6818 | dissertation | The Response of Naturally Regenerating Hardwood Seedlings to Post-Harvest Weed Control and Fertilization | The Research Repository @ WVU (West Virg
+- new | 2017 | 10.12973/eurasia.2017.01246a | article | Using Transformative Learning Theory to Explore the Mechanisms of Citizen Participation for Environmental Education on the Removal of Invasive Species: The Case of Green Island, Ta | Eurasia Journal of Mathematics Science a
+- new | 2017 | 10.33915/etd.6250 | dissertation | Evaluation of Small Tree and Shrub Plantings on Reclaimed Surface Mines in West Virginia | The Research Repository @ WVU (West Virg
+- new | 2016 | 10.1016/j.foreco.2016.01.005 | article | Predicting the height growth of oak species (Quercus) reproduction over a 23-year period following clearcutting | Forest Ecology and Management
+- new | 2016 | 10.1016/j.agrformet.2016.04.004 | article | Evaluation of a random displacement model for predicting particle escape from canopies using a simple eddy diffusivity model | Agricultural and Forest Meteorology
+- new | 2015 | 10.1111/bij.12518 | article | The contribution of volunteer recorders to our understanding of biological invasions | Biological Journal of the Linnean Societ
+- new | 2015 | 10.6084/m9.figshare.1558379 | dataset | Data collection of black cherry plant in grassland using line transect method | Figshare
+- new | 2015 | 10.6084/m9.figshare.1560042 | dataset | Grassland Data Set 1 (V.2) | Figshare
+- new | 2015 | 10.6084/m9.figshare.1560036 | dataset | Grassland Data Set 1 | Figshare
+- new | 2014 | 10.1644/12-mamm-a-293.1 | article | White-footed mice (Peromyscus leucopus) select fruits of native species over invasive honeysuckle fruits | Journal of Mammalogy
+- new | 2014 | https://openalex.org/W240373742 | article | Ten-year response of competing vegetation after oak shelterwood treatments in West Virginia | 
+- new | 2014 | 10.12899/asr-777 | article | Thinning trials in lowland plantations in the Veneto Region (North-eastern Italy) | Annals of Silvicultural Research
+- new | 2013 | 10.1111/rec.12027 | article | Regeneration Potential of Floodplain Forests Under the Influence of Nonnative Tree Species: Soil Seed Bank Analysis in Northern Italy | Restoration Ecology
+- new | 2013 | 10.21000/jasmr13020032 | article | NATIVE TREE SURVIVAL AND HERBACEOUS ESTABLISHMENT ON AN EXPERIMENTALLY RECLAIMED APPALACHIAN COAL MINE | Journal American Society of Mining and R
+- new | 2013 | 10.1002/wsb.300 | article | Rest‐site selection by fishers (Martes pennanti) in the eastern deciduous forest | Wildlife Society Bulletin
+- new | 2013 | https://openalex.org/W131659465 | dissertation | Stand development and the competitive ability of oak ( Quercus spp.) following silvicultural clearcutting on the Hoosier National Forest | Purdue e-Pubs (Purdue University System)
+- new | 2012 | https://openalex.org/W2237912171 | dissertation | Estudio preliminar de la diversidad genética del capulí (Prunus serotina) en 5 Provincias de la Región Andina de Ecuador mediante el uso de marcadores moleculares microsatélites. | USFQ Digital Repository (Universidad San
+- new | 2012 | 10.1139/x2012-119 | article | Reconstructing the competitive dynamics of mixed-oak neighborhoods | Canadian Journal of Forest Research
+- new | 2012 | 10.3159/torrey-d-12-00001.1 | article | Evidence for Topographic Control of Tree Spatial Patterning in an Old-growth, Mixed Mesophytic Forest in Southeastern Ohio, USA1 | The Journal of the Torrey Botanical Soci
+- new | 2011 | 10.21000/jasmr11010090 | article | REFORESTATION GUIDELINES FOR UNUSED SURFACE MINED LANDS: DEVELOPMENT, APPLICATION AND ADOPTION | Journal American Society of Mining and R
+- new | 2011 | 10.15517/am.v22i2.11827 | article | Desarrollo de estacas de Prunus salicina injertadas in situ en diferentes sustratos con lombrihumus. | Agronomía Mesoamericana
+- new | 2010 | https://openalex.org/W2407589509 | article | An Analysis of Appalachian Hardwood Products in the Chinese Market | Wood and Fiber Science
+- new | 2009 | 10.1007/s10530-009-9599-9 | article | Impact of Prunus serotina invasion on understory functional diversity in a European temperate forest | Biological Invasions
+- new | 2008 | https://openalex.org/W1605562857 | dissertation | Adventitious shoot regeneration and genetic transformation of Prunus serotina for reproductive sterility | Purdue e-Pubs (Purdue University System)
+- new | 2008 | https://openalex.org/W130078489 | report | Female Malacosoma americanum selection of oviposition sites | Deep Blue (University of Michigan)
+- new | 2008 | https://openalex.org/W89146061 | report | Global climate change and phenological shifts | Deep Blue (University of Michigan)
+- new | 2008 | 10.3797/scipharm.0807-17 | article | Comparative Study of Femineral® and Floradix® in Women of Child-Bearing Age and Adolescent Girls with Iron Deficiency Anaemia | Scientia Pharmaceutica
+- new | 2007 | 10.1007/s10530-007-9164-3 | article | Impact of avian frugivores on dispersal and recruitment of the invasive Prunus serotina in an agricultural landscape | Biological Invasions
+- new | 2007 | 10.25675/3.022411 | article | Multi-site trial of woody plants: 2006 planting and evaluation of differences in drought tolerance of three Amelanchier species | Digital Collections of Colorado (Colorad
+- new | 2007 | https://openalex.org/W1485762106 | dissertation | The applications of herbicide use, native grass establishment, and invasive plant control to an integrated vegetation management research project in northwestern Indiana: Case stud | Purdue e-Pubs (Purdue University System)
+- new | 2007 | 10.37045/aslh-2007-0035 | article | Biological Sprout Control with Chondrostereum purpureum- Preliminary Results from Field Trials in Finland | Acta silvatica & lignaria Hungarica
+- new | 2006 | 10.71781/20353 | dissertation | Réhabilitation de fôrets par la plantation sous couvert : écologie des arbres plantés dans le sud-ouest du Québec | 
+- new | 2005 | 10.1111/j.0906-7590.2005.04054.x | article | Effects of landscape structure on the invasive spread of black cherry Prunus serotina in an agricultural landscape in Flanders, Belgium | Ecography
+- new | 2005 | 10.1007/s10980-005-7007-0 | article | Regeneration Strategies, Disturbance and Plant Interactions as Organizers of Vegetation Spatial Patterns in a Pine Forest | Landscape Ecology
+- new | 2004 | https://openalex.org/W109801532 | conference-paper | Spatial Patterns of Canopy and Sub-canopy in Managed and Unmanaged Oak Savanna | Lincoln (University of Nebraska)
+- new | 2004 | https://openalex.org/W1541747927 | article | Re-evaluating the Significance of the First-order Lateral Root Grading Criterion for Hardwood Seedlings | 
+- new | 2003 | 10.1890/1051-0761(2003)013[0098:wtdiot]2.0.co;2 | article | WHITE-TAILED DEER IMPACT ON THE VEGETATION DYNAMICS OF A NORTHERN HARDWOOD FOREST | Ecological Applications
+- new | 2003 | 10.1023/a:1023975026261 | article | Loss of oak dominance in dry-mesic deciduous forests predicted by gap capture methods | Plant Ecology
+- new | 2001 | https://openalex.org/W202681551 | report | Population study of Malacosoma americanum in Prunus serotina. | Deep Blue (University of Michigan)
+- new | 2001 | https://openalex.org/W180643421 | report | The distribution of Malacosoma americanum among Prunus serotina trees. | Deep Blue (University of Michigan)
+- new | 2000 | https://openalex.org/W107769820 | report | Induction of phenolics in black cherry in response to herbivory: does it occur and, if so, does it matter? | Deep Blue (University of Michigan)
+- new | 1999 | https://openalex.org/W2269334886 | dissertation | Inhibition of Canopy Tree Seedlings by Thickets of Rhododendron maximum L. (Ericaceae) in an Eastern Deciduous Forest | VTechWorks (Virginia Tech)
+- new | 1999 | https://openalex.org/W147757451 | article | An assessment of residual stand conditions following shelterwood-with-reserves cuts in Appalachian hardwoods | 
+- new | 1998 | 10.1080/09208118908944027 | article | Site factor effects on establishment of planted and volunteer trees and shrubs on graded cast overburden and replaced topsoil in southeastern Ohio | International Journal of Surface Mining 
+- new | 1997 | 10.21273/jashs.122.5.668 | article | Natural Pest Resistance of Prunus Taxa to Feeding by Adult Japanese Beetles: Role of Endogenous Allelochemicals in Host Plant Resistance | Journal of the American Society for Hort
+- new | 1997 | https://openalex.org/W214817415 | article | Stem quality of oak in 15-year-old stands: influence of species within harvesting treatment and fencing | 
+- new | 1996 | 10.1080/02723646.1996.10642574 | article | PATTERNS AND DETERMINANTS OF EDGE VEGETATION OF A MIDWESTERN FOREST PRESERVE | Physical Geography
+- new | 1994 | 10.2134/jeq1994.00472425002300060015x | article | Natural Revegetation of 15 Abandoned Mine Land Sites in West Virginia | Journal of Environmental Quality
+- new | 1993 | 10.21000/jasmr93010815 | article | EFFECTS OF TREE SPECIES ON SOIL DEVELOPMENT AND HUMUS COMPOSITION IN MINESOILS | Journal American Society of Mining and R
+- new | 1992 | 10.1139/x92-234 | article | Sensitivity of four hardwood species to ambient ozone in north central Pennsylvania | Canadian Journal of Forest Research
+- new | 1990 | 10.1139/b90-105 | article | Habitat relationships and survivorship of tree seedlings in hemlock-hardwood forest | Canadian Journal of Botany
+- new | 1989 | 10.1139/x89-041 | article | Effects of added nitrogen on growth of hardwood trees in southern New York | Canadian Journal of Forest Research
+- new | 1988 | 10.2307/2426047 | article | Effects of the Quaking Aspen Compounds Catechol, Salicin and Isoniazid on Two Subspecies of Tiger Swallowtails | The American Midland Naturalist
+- new | 1986 | https://openalex.org/W2794401461 | dissertation | Seasonal movements, habitat selection, and food habits of black bears (Urus americanus) in Shenandoah National Park, Virginia | VTechWorks (Virginia Tech)
+- new | 1984 | https://openalex.org/W864576839 | article | Invasion of volunteer tree species on stripmine plantations in east-central Ohio | The Knowledge Bank (The Ohio State Unive
+- new | 1983 | https://openalex.org/W2163615481 | article | Comparison of Food Resource Removal by Animals in Forest, Old-Field, and Ecotone Habitats | The Knowledge Bank (The Ohio State Unive
+- new | 1983 | 10.1139/x83-136 | article | Geographic variation in Prunusserotina | Canadian Journal of Forest Research
+- new | 1983 | 10.1111/j.1365-2311.1983.tb00496.x | article | Estimating the susceptibility of tree species to attack by the gypsy moth, Lymantria dispar | Ecological Entomology
+- new | 1981 | 10.1093/iat/6.1.161a | article | Chrysanthemum, Pramex Trials, 1980 | Arthropod management tests
+- new | 1975 | 10.2136/sssaj1975.03615995003900050048x | article | Possible Mutual Prediction Between Black Cherry and Sugar Maple Foliar Analysis Data | Soil Science Society of America Journal
+- new | 1967 | 10.2307/3798331 | article | Elm as Deer Browse | Journal of Wildlife Management
+- new | 1964 | 10.5962/bhl.title.68911 | book | Germination, survival and early growth of black cherry under various seedbed and supplemental treatments / | Biodiversity Heritage Library (Smithsoni
+
+## psilocybe-cubensis (Psilocybe cubensis) - name clause: "Psilocybe cubensis"[tiab] OR "psilocybin mushroom"[tiab] OR "psilocybin mushrooms"[tiab] OR "magic mushroom"[tiab] OR "magic mushrooms"[tiab] OR "psilocybin"[ti]
+
+### PubMed HT - 445 hits, 200 not already listed above, 193 new
+- new | 2026 | 41485073 |  | An open-label pilot study of psilocybin-assisted therapy for binge eating disorder. | J Eat Disord
+- new | 2026 | 42765891 | Clinical Trial, Phase II | An Open-Label, Dose-Escalation Trial of Psilocybin-Assisted Therapy for Bipolar II Depression. | J Clin Psychiatry
+- new | 2026 | 41848690 | Randomized Controlled Trial/Multicenter Study/Clinical Trial, Phase II | Efficacy and Safety of Psilocybin in Treatment-Resistant Major Depression: The EPISODE Randomized Clinical Trial. | JAMA Psychiatry
+- new | 2026 | 41825921 | Randomized Controlled Trial/Clinical Trial, Phase I | A randomized clinical trial of repeated doses of psilocybin for the treatment of obsessive-compulsive disorder. | J Psychopharmacol
+- new | 2026 | 41707717 | Clinical Trial | Psilocybin-assisted cognitive behavioral therapy for major depressive disorder: A pilot trial. | J Affect Disord
+- new | 2026 | 41741501 |  | Pilot study of psilocybin in patients with post-treatment lyme disease. | Sci Rep
+- new | 2026 | 40883964 | Multicenter Study/Clinical Trial, Phase II | Investigating the safety and tolerability of single-dose psilocybin for post-traumatic stress disorder: A nonrandomized open-label clinical trial. | J Psychopharmacol
+- new | 2026 | 42546985 | Clinical Trial, Phase II | Safety and Efficacy of Psilocybin During Anticancer Treatment: A Phase II Trial Secondary Analysis. | J Pain Symptom Manage
+- new | 2026 | 42698232 | Randomized Controlled Trial | Psilocybin-induced changes in electroencephalography link acute and long-term effects. | J Psychopharmacol
+- new | 2026 | 42533157 |  | Safety, feasibility, and preliminary clinical outcomes of psilocybin-assisted therapy for veterans with severe, treatment-resistant PTSD: an open-label pilot clinical trial. | Commun Med (Lond)
+- new | 2026 | 41184102 |  | Psilocybin-assisted therapy for demoralisation in hospice patients: feasibility, safety and preliminary efficacy. | BMJ Support Palliat Care
+- new | 2026 | 42442821 | Clinical Trial Protocol | Acceptability and safety of two sequential doses of psilocybin in bipolar II depression: protocol for an open-label single-arm feasibility study. | BMJ Open
+- new | 2026 | 42652632 | Review | Psilocybin-Assisted Therapy in Psychiatry: A Narrative Clinical Review of Mechanisms, Therapeutic Applications, and Emerging Evidence (2025-2026). | J Clin Med
+- new | 2026 | 42125778 | Published Erratum | Microdosing psilocybin for major depressive disorder: study protocol for a phase II double-blind placebo-controlled randomised partial crossover trial - CORRIGENDUM. | BJPsych Open
+- new | 2026 | 42433813 | Editorial | Psilocybin-assisted therapy in treatment-resistant depression: rapid remission, uncertain durability, and the next phase of clinical evidence. | Ann Med Surg (Lond)
+- new | 2026 | 41699449 | Systematic Review | Effects of LSD, DMT and psilocybin on cognitive and psychological functions: A systematic review of the literature. | J Psychopharmacol
+- new | 2026 | 41973961 |  | An Open-Label Study of Single-Dose Psilocybin for Borderline Personality Disorder With Co-Occurring Major Depressive Disorder. | Clin Neuropharmacol
+- new | 2026 | 42688116 | Systematic Review | The subtle science: a systematic review of psilocybin magic mushroom and truffle microdosing. | Front Psychiatry
+- new | 2026 | 42096204 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Psilocybin in the Treatment of Cocaine Use Disorder: A Randomized Clinical Trial. | JAMA Netw Open
+- new | 2026 | 41805956 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Psilocybin or Nicotine Patch for Smoking Cessation: A Pilot Randomized Clinical Trial. | JAMA Netw Open
+- new | 2026 | 42528601 | Preprint | Psilocybin-Assisted Early Palliative Care for Demoralization and Chronic Pain: An Open-Label Pilot Study. | medRxiv
+- new | 2026 | 41617652 | Multicenter Study/Clinical Trial | PSilocybin for psYCHological and existential distress in PALliative care (PSYCHED-PAL): A single arm unblinded clinical trial. | Palliat Med
+- new | 2026 | 42567236 |  | Feasibility and tolerability of psilocybin for phantom limb pain. | J Pain
+- new | 2026 | 42381187 |  | Modeled Long-Term Effects of Psilocybin on Dynamic Activity and Effective Connectivity of Fronto-Striatal-Thalamic Circuits. | Hum Brain Mapp
+- new | 2025 | 39627679 | Systematic Review/Meta-Analysis | Randomized Controlled Trials of Psilocybin-Assisted Therapy in the Treatment of Major Depressive Disorder: Systematic Review and Meta-Analysis. | Acta Psychiatr Scand
+- new | 2025 | 40245969 | Systematic Review | Efficacy and safety of psilocybin for the treatment of substance use disorders: A systematic review. | Neurosci Biobehav Rev
+- new | 2025 | 40974259 |  | Psilocybin-assisted psychotherapy for methamphetamine use disorder: A pilot open-label safety and feasibility study. | Addiction
+- new | 2025 | 41050149 |  | Psilocybin with psychotherapeutic support for treatment-resistant depression: a pilot clinical trial. | Ther Adv Psychopharmacol
+- new | 2025 | 39741440 | Clinical Trial, Phase II/Research Support, Non-U.S. Gov't | Single-Dose Psilocybin for Depression With Severe Treatment Resistance: An Open-Label Trial. | Am J Psychiatry
+- new | 2025 | 40205013 | Clinical Trial | Psilocybin therapy for mood dysfunction in Parkinson's disease: an open-label pilot trial. | Neuropsychopharmacology
+- new | 2025 | 39706482 |  | The role of the psychedelic experience in psilocybin treatment for treatment-resistant depression. | J Affect Disord
+- new | 2025 | 40858059 | Randomized Controlled Trial/Clinical Trial, Phase II | Psilocybin-assisted psychotherapy for depression and anxiety associated with life threatening illness: A phase 2b randomized controlled trial. | Gen Hosp Psychiatry
+- new | 2025 | 40144690 |  | Psilocybin-assisted therapy for relapse prevention in alcohol use disorder: a phase 2 randomized clinical trial. | EClinicalMedicine
+- new | 2025 | 40456393 | Systematic Review | Neurocognitive effects of psilocybin: A systematic and comprehensive review of neuroimaging studies in humans. | Neurosci Biobehav Rev
+- new | 2025 | 39973494 | Case Reports | Psilocybin-assisted psychotherapy for Parkinson's disease without depression: A case-report. | J Parkinsons Dis
+- new | 2025 | 39754904 | Systematic Review/Network Meta-Analysis | Efficacy and safety of psilocybin in the treatment of Major Depressive Disorder (MDD): A dose-response network meta-analysis of randomized placebo-controlled clinical trials. | Psychiatry Res
+- new | 2025 | 40266291 | Meta-Analysis/Systematic Review | Incremental efficacy systematic review and meta-analysis of psilocybin-for-depression RCTs. | Psychopharmacology (Berl)
+- new | 2025 | 41186141 | Clinical Trial Protocol | Psilocybin-assisted physiotherapy for refractory motor functional neurological disorder: protocol for a randomised dose-comparison pilot study. | Acta Neuropsychiatr
+- new | 2025 | 40018886 | Clinical Trial, Phase II | Single-dose psilocybin therapy for alcohol use disorder: Pharmacokinetics, feasibility, safety and efficacy in an open-label study. | J Psychopharmacol
+- new | 2025 | 40499827 | Clinical Trial | Long-term outcomes of single-dose psilocybin for U.S. military Veterans with severe treatment-resistant depression - 12-month data from an open-label pilot study. | J Affect Disord
+- new | 2025 | 40702912 |  | Psilocybin in alcohol use disorder and comorbid depressive symptoms: Results from a feasibility randomized clinical trial. | Addiction
+- new | 2025 | 40730892 | Systematic Review | Psilocybin in the treatment of eating disorders: a systematic review of the literature and registered clinical trials. | Eat Weight Disord
+- new | 2025 | 40518804 | Clinical Trial, Phase II | Long-term benefits of single-dose psilocybin in depressed patients with cancer. | Cancer
+- new | 2025 | 40413068 | Case Reports | [Psilocybin in the setting of treatment-resistant unipolar depression: A case report]. | Encephale [fre]
+- new | 2025 | 40554997 | Randomized Controlled Trial/Comparative Study | The effects of psilocybin therapy versus escitalopram on cognitive bias: A secondary analysis of a randomized controlled trial. | Eur Neuropsychopharmacol
+- new | 2025 | 41109203 |  | Set and setting in psilocybin-assisted therapy: A qualitative study of patients with cancer and depression. | Gen Hosp Psychiatry
+- new | 2025 | 40679122 | Published Erratum | Correction to "Acceptability of psilocybin-assisted group therapy in patients with cancer and major depressive disorder: Qualitative analysis". | Cancer
+- new | 2025 | 40047545 | Observational Study/Research Support, Non-U.S. Gov't | Results From a Long-Term Observational Follow-Up Study of a Single Dose of Psilocybin for a Treatment-Resistant Episode of Major Depressive Disorder. | J Clin Psychiatry
+- new | 2025 | 41178084 | Review | Reporting of side-effects in clinical trials of psilocybin-assisted psychotherapy for psychiatric conditions: systematic review. | BJPsych Open
+- new | 2025 | 39741446 | Clinical Trial, Phase II/Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Multidimensional Personality Changes Following Psilocybin-Assisted Therapy in Patients With Alcohol Use Disorder: Results From a Double-Blind, Placebo-Controlled Clinical Trial. | Am J Psychiatry
+- new | 2025 | 40473634 | Dataset/Research Support, Non-U.S. Gov't/Research Support, N.I.H., Extramural | Psilocybin's acute and persistent brain effects: a precision imaging drug trial. | Sci Data
+- new | 2025 | 40972137 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Psilocybin-assisted group psychotherapy and mindfulness-based stress reduction for frontline healthcare provider COVID-19-related depression and burnout: A randomized controlled tr | PLoS Med
+- new | 2025 | 40736734 | Meta-Analysis | Control Group Outcomes in Trials of Psilocybin, SSRIs, or Esketamine for Depression: A Meta-Analysis. | JAMA Netw Open
+- new | 2025 | 37606733 | Clinical Trial, Phase II/Randomized Controlled Trial | Psilocybin therapy for treatment resistant depression: prediction of clinical outcome by natural language processing. | Psychopharmacology (Berl)
+- new | 2025 | 39695323 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Psilocybin increases emotional empathy in patients with major depression. | Mol Psychiatry
+- new | 2025 | 40829966 |  | Avoiding Stigma and Sensationalism in Therapeutic Psilocybin Communications: Considerations for Reaching Older Patients. | Am J Geriatr Psychiatry
+- new | 2025 | 40129307 | Randomized Controlled Trial/Comparative Study | Comparing Antidepressant Effects of Psilocybin-Assisted Psychotherapy in Individuals That Were Unmedicated at Initial Screening Versus Individuals Discontinuing Medications for Stu | Can J Psychiatry
+- new | 2025 | 40007438 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Acute psilocybin and ketanserin effects on cerebral blood flow: 5-HT2AR neuromodulation in healthy humans. | J Cereb Blood Flow Metab
+- new | 2025 | 41152967 |  | Psilocybin-assisted Existential, Attachment and RelationaL (PEARL) therapy for patients with advanced cancer: protocol for a multi-method feasibility trial. | Pilot Feasibility Stud
+- new | 2025 | 40245934 |  | Regulatory Alignment of Psilocybin Clinical Trials in Major Depressive Disorder on ClinicalTrials.gov: A Cross-Sectional Analysis. | Pharmacopsychiatry
+- new | 2025 | 39775022 |  | Moderating factors in psilocybin-assisted treatment affecting mood and personality: A naturalistic, open-label investigation. | Psychopharmacology (Berl)
+- new | 2025 | 40933206 | Review | Overview and Specificity of Psilocybin Use in the Treatment of Mental Disorders: A Scientometric Analysis. | Psychedelic Med (New Rochelle)
+- new | 2025 | 40279353 | Network Meta-Analysis/Systematic Review | Psilocybin-assisted psychotherapy as a rapid-acting treatment for cancer-related depression and anxiety: Evidence from a network meta-analysis. | Int J Psychiatry Med
+- new | 2025 | 41869007 |  | Effects of Psilocybin on Religious and Spiritual Attitudes and Behaviors in Clergy from Various Major World Religions. | Psychedelic Med (New Rochelle)
+- new | 2025 | 40233965 | Clinical Trial Protocol | Psilocybin-Assisted suppoRtive psychoTherapy IN the treatment of prolonged Grief (PARTING) trial: protocol for an open-label pilot trial for cancer-related bereavement. | BMJ Open
+- new | 2025 | 40171515 |  | Preliminary safety and effectiveness of psilocybin-assisted therapy in adults with fibromyalgia: an open-label pilot clinical trial. | Front Pain Res (Lausanne)
+- new | 2025 | 39343309 | Clinical Trial, Phase II | Single-dose psilocybin for U.S. military Veterans with severe treatment-resistant depression - A first-in-kind open-label pilot study. | J Affect Disord
+- new | 2025 | 39847068 | Systematic Review/Meta-Analysis | Acute effects of psilocybin on attention and executive functioning in healthy volunteers: a systematic review and multilevel meta-analysis. | Psychopharmacology (Berl)
+- new | 2025 | 40329640 | Clinical Trial, Phase II/Comparative Study/Randomized Controlled Trial | Reduced Brain Responsiveness to Emotional Stimuli With Escitalopram But Not Psilocybin Therapy for Depression. | Am J Psychiatry
+- new | 2025 | 41392767 |  | Psilocybin-assisted psychotherapy for treatment-resistant obsessive-compulsive disorder: protocol for an open-label pilot study. | BJPsych Open
+- new | 2024 | 38359838 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Psilocybin-assisted psychotherapy for treatment resistant depression: A randomized clinical trial evaluating repeated doses of psilocybin. | Med
+- new | 2024 | 39354706 | Systematic Review | Impact of psilocybin on cognitive function: A systematic review. | Psychiatry Clin Neurosci
+- new | 2024 | 38598236 | Meta-Analysis/Systematic Review | Acute Adverse Effects of Therapeutic Doses of Psilocybin: A Systematic Review and Meta-Analysis. | JAMA Netw Open
+- new | 2024 | 39168500 | Systematic Review/Comparative Study/Network Meta-Analysis | Comparative oral monotherapy of psilocybin, lysergic acid diethylamide, 3,4-methylenedioxymethamphetamine, ayahuasca, and escitalopram for depressive symptoms: systematic review an | BMJ
+- HELD REF-2583 | 2024 | 38692686 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Efficacy of psilocybin for treating symptoms of depression: systematic review and meta-analysis. | BMJ
+- new | 2024 | 39260823 | Meta-Analysis/Systematic Review | Psychedelic-assisted therapy for treating anxiety, depression, and existential distress in people with life-threatening diseases. | Cochrane Database Syst Rev
+- new | 2024 | 38247407 | Review | Psilocybin, an Effective Treatment for Major Depressive Disorder in Adults - A Systematic Review. | Clin Psychopharmacol Neurosci
+- new | 2024 | 39764567 |  | Effect of psilocybin versus escitalopram on depression symptom severity in patients with moderate-to-severe major depressive disorder: observational 6-month follow-up of a phase 2, | EClinicalMedicine
+- new | 2024 | 38244804 | Systematic Review/Comparative Study | A comparison between psilocybin and esketamine in treatment-resistant depression using number needed to treat (NNT): A systematic review. | J Affect Disord
+- new | 2024 | 39376971 | Systematic Review | Psilocybin for major depressive disorder: a systematic review of randomized controlled studies. | Front Psychiatry
+- new | 2024 | 38019032 | Systematic Review | Psilocybin as a lead candidate molecule in preclinical therapeutic studies of psychiatric disorders: A systematic review. | J Neurochem
+- new | 2024 | 38423367 | Research Support, Non-U.S. Gov't | Predicting the outcome of psilocybin treatment for depression from baseline fMRI functional connectivity. | J Affect Disord
+- new | 2024 | 39628414 | Review | Psilocybin as a Disease-Modifying Drug—A Salutogenic Approach in Psychiatry. | Dtsch Arztebl Int
+- new | 2024 | 37357767 | Review | The development of psilocybin therapy for treatment-resistant depression: an update. | BJPsych Bull
+- new | 2024 | 39713770 | Case Reports | Psilocybin-assisted psychotherapy for methamphetamine dependence: a case report involving daily methamphetamine use. | Front Psychiatry
+- new | 2024 | 39669539 |  | Psilocybin and Motor Function: A Triple-Blind, Dose-Finding Study in Healthy Participants. | Psychiatr Res Clin Pract
+- new | 2024 | 38435972 | Published Erratum | Corrigendum: Safety, feasibility, tolerability, and clinical effects of repeated psilocybin dosing combined with non-directive support in the treatment of obsessive-compulsive diso | Front Psychiatry
+- new | 2024 | 38055270 | Clinical Trial/Research Support, Non-U.S. Gov't | Single-Dose Synthetic Psilocybin With Psychotherapy for Treatment-Resistant Bipolar Type II Major Depressive Episodes: A Nonrandomized Open-Label Trial. | JAMA Psychiatry
+- new | 2024 | 39636638 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Psilocybin Therapy for Clinicians With Symptoms of Depression From Frontline Care During the COVID-19 Pandemic: A Randomized Clinical Trial. | JAMA Netw Open
+- new | 2024 | 38883812 |  | The influence of psilocybin on subconscious and conscious emotional learning. | iScience
+- new | 2024 | 39641126 | Review | Comparative antidepressant effects and safety of intravenous racemic ketamine, psilocybin and theta burst stimulation for major depressive disorder: A systematic review and network | PCN Rep
+- new | 2024 | 39427449 | Randomized Controlled Trial/Clinical Trial, Phase II/Research Support, Non-U.S. Gov't | The impact of antidepressant discontinuation prior to treatment with psilocybin for treatment-resistant depression. | J Psychiatr Res
+- new | 2024 | 38359837 |  | New evidence for flexible psilocybin dosing in patients with treatment-resistant depression. | Med
+- new | 2024 | 38426002 | Systematic Review | Efficacy and acceptability of psilocybin for primary or secondary depression: A systematic review and meta-analysis of randomized controlled trials. | Front Psychiatry
+- new | 2024 | 38842300 | Systematic Review | The effects of psilocybin on cognition and emotional processing in healthy adults and adults with depression: a systematic literature review. | J Clin Exp Neuropsychol
+- new | 2024 | 38699449 |  | Palliative care patients' attitudes and openness towards psilocybin-assisted psychotherapy for existential distress. | Front Psychiatry
+- new | 2024 | 38238974 | Clinical Trial | CCH attack frequency reduction after psilocybin correlates with hypothalamic functional connectivity. | Headache
+- new | 2024 | 38988455 |  | Psilocybin Therapy for Females With Anorexia Nervosa: A Phase 1, Open-Label Feasibility Study. | Focus (Am Psychiatr Publ)
+- new | 2024 | 41969367 |  | Psilocybin-assisted psychotherapy improves psychiatric symptoms across multiple dimensions in patients with cancer. | Nat Ment Health
+- new | 2024 | 38105654 | Editorial/Research Support, Non-U.S. Gov't | Innovations in group-based psilocybin-assisted therapy of major depression in patients with cancer. | Cancer
+- new | 2024 | 38956594 | Clinical Trial Protocol | Engaging Mood Brain Circuits with Psilocybin (EMBRACE): a study protocol for a randomized, placebo-controlled and delayed-start, neuroimaging trial in depression. | Trials
+- new | 2024 | 38730654 | Review | Review of Psilocybin Use for Depression among Cancer Patients after Approval in Oregon. | Cancers (Basel)
+- new | 2024 | 38983371 |  | Study protocol for "Psilocybin in patients with fibromyalgia: brain biomarkers of action". | Front Psychiatry
+- new | 2024 | 38588855 | Randomized Controlled Trial | Dynamic Functional Hyperconnectivity After Psilocybin Intake Is Primarily Associated With Oceanic Boundlessness. | Biol Psychiatry Cogn Neurosci Neuroimagi
+- new | 2024 | 40656108 |  | Safety pharmacology of acute psilocybin administration in healthy participants. | Neurosci Appl
+- new | 2024 | 38520045 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of discontinuation of serotonergic antidepressants prior to psilocybin therapy versus escitalopram for major depression. | J Psychopharmacol
+- new | 2024 | 38979304 | Preprint | Striking Long Term Beneficial Effects of Single Dose Psilocybin and Psychedelic Mushroom Extract in the SAPAP3 Rodent Model of OCD-Like Excessive Self-Grooming. | bioRxiv
+- new | 2024 | 39135498 | Validation Study | Altered states of consciousness in Danish healthy volunteers and recreational users of psilocybin and the possible impact of setting and intention: Danish validation of the five-di | J Psychopharmacol
+- new | 2024 | 39529994 |  | Prospective Preference Assessment for the Psilocybin for Enhanced Analgesia in Chronic nEuropathic PAIN (PEACE-PAIN) Trial. | Can J Pain
+- new | 2024 | 38316896 | Randomized Controlled Trial | Patient perspectives and experiences with psilocybin treatment for treatment-resistant depression: a qualitative study. | Sci Rep
+- new | 2024 | 38632313 | Randomized Controlled Trial | Psychological flexibility as a mechanism of change in psilocybin-assisted therapy for major depression: results from an exploratory placebo-controlled trial. | Sci Rep
+- new | 2024 | 38627070 | Review | Current Understanding on Psilocybin for Major Depressive Disorder: A Review Focusing on Clinical Trials. | Clin Psychopharmacol Neurosci
+- HELD REF-2582 | 2023 | 37844352 | Meta-Analysis/Systematic Review/Research Support, Non-U.S. Gov't | Psilocybin-assisted therapy for depression: A systematic review and meta-analysis. | Psychiatry Res
+- new | 2023 | 37651119 | Research Support, Non-U.S. Gov't | Single-Dose Psilocybin Treatment for Major Depressive Disorder: A Randomized Clinical Trial. | JAMA
+- HELD REF-2585 | 2023 | 37557019 | Systematic Review/Meta-Analysis | Psilocybin-assisted therapy for depression: A systematic review and dose-response meta-analysis of human studies. | Eur Neuropsychopharmacol
+- new | 2023 | 36636296 |  | Single-dose psilocybin-assisted therapy in major depressive disorder: A placebo-controlled, double-blind, randomised clinical trial. | EClinicalMedicine
+- new | 2023 | 36938991 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Psilocybin-assisted therapy for major depressive disorder: An exploratory placebo-controlled, fixed-order trial. | J Psychopharmacol
+- new | 2023 | 36747965 | Published Erratum | Corrigendum to 'Single-dose psilocybin-assisted therapy in major depressive disorder: a placebo-controlled, double-blind, randomised clinical trial'. | EClinicalMedicine
+- new | 2023 | 36740140 | Randomized Controlled Trial/Clinical Trial, Phase II/Research Support, Non-U.S. Gov't | Single-dose psilocybin for a treatment-resistant episode of major depression: Impact on patient-reported depression severity, anxiety, function, and quality of life. | J Affect Disord
+- new | 2023 | 37004409 | Clinical Trial | Pilot study of single-dose psilocybin for serotonin reuptake inhibitor-resistant body dysmorphic disorder. | J Psychiatr Res
+- new | 2023 | 37817501 | Review | Potential use of psilocybin drugs in the treatment of depression. | Expert Opin Emerg Drugs
+- new | 2023 | 36846225 | Systematic Review | Therapeutic effect of psilocybin in addiction: A systematic review. | Front Psychiatry
+- new | 2023 | 37443386 | Clinical Trial, Phase II/Research Support, Non-U.S. Gov't | Psilocybin for treatment resistant depression in patients taking a concomitant SSRI medication. | Neuropsychopharmacology
+- new | 2023 | 35285280 | Systematic Review/Meta-Analysis | A systematic literature review and meta-analysis of the effect of psilocybin and methylenedioxymethamphetamine on mental, behavioural or developmental disorders. | Aust N Z J Psychiatry
+- new | 2023 | 37052904 | Research Support, Non-U.S. Gov't | Assessment of Psilocybin Therapy for Patients With Cancer and Major Depression Disorder. | JAMA Oncol
+- new | 2023 | 37489299 |  | Psilocybin for treatment-resistant depression without psychedelic effects: study protocol for a 4-week, double-blind, proof-of-concept randomised controlled trial. | BJPsych Open
+- new | 2023 | 38264632 |  | Safety, feasibility, tolerability, and clinical effects of repeated psilocybin dosing combined with non-directive support in the treatment of obsessive-compulsive disorder: protoco | Front Psychiatry
+- new | 2023 | 37689275 | Randomized Controlled Trial | Psilocybin induces acute and persisting alterations in immune status in healthy volunteers: An experimental, placebo-controlled study. | Brain Behav Immun
+- new | 2023 | 38152462 |  | Double-Blind Comparison of the Two Hallucinogens Dextromethorphan and Psilocybin: Experience-Dependent and Enduring Psychological Effects in Healthy Volunteers. | Psychedelic Med (New Rochelle)
+- new | 2023 | 36545240 |  | Subacute effects of a single dose of psilocybin on biomarkers of inflammation in healthy humans: An open-label preliminary investigation. | Compr Psychoneuroendocrinol
+- new | 2023 | 37181888 |  | Safety, tolerability, and clinical and neural effects of single-dose psilocybin in obsessive-compulsive disorder: protocol for a randomized, double-blind, placebo-controlled, non-c | Front Psychiatry
+- new | 2023 | 36507738 | Research Support, Non-U.S. Gov't | Pharmacokinetics and Pharmacodynamics of Oral Psilocybin Administration in Healthy Participants. | Clin Pharmacol Ther
+- new | 2023 | 38097569 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Psilocybin-induced default mode network hypoconnectivity is blunted in alcohol-dependent rats. | Transl Psychiatry
+- new | 2023 | 37795513 |  | Nature-themed video intervention may improve cardiovascular safety of psilocybin-assisted therapy for alcohol use disorder. | Front Psychiatry
+- new | 2023 | 37387703 | Review | The Impact of Psilocybin on Patients Experiencing Psychiatric Symptoms: A Systematic Review of Randomized Clinical Trials. | Innov Clin Neurosci
+- new | 2023 | 36433778 | Research Support, Non-U.S. Gov't | Changes in music-evoked emotion and ventral striatal functional connectivity after psilocybin therapy for depression. | J Psychopharmacol
+- new | 2023 | 37302533 | Research Support, Non-U.S. Gov't | HOPE: A Pilot Study of Psilocybin Enhanced Group Psychotherapy in Patients With Cancer. | J Pain Symptom Manage
+- new | 2023 | 37488291 | Clinical Trial, Phase I/Research Support, Non-U.S. Gov't | Psilocybin therapy for females with anorexia nervosa: a phase 1, open-label feasibility study. | Nat Med
+- HELD REF-2584 | 2022 | 36322843 | Clinical Trial, Phase II/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Single-Dose Psilocybin for a Treatment-Resistant Episode of Major Depression. | N Engl J Med
+- new | 2022 | 35711024 | Review | Psilocybin for Trauma-Related Disorders. | Curr Top Behav Neurosci
+- HELD REF-1519 | 2022 | 35918311 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Microdosing with psilocybin mushrooms: a double-blind placebo-controlled study. | Transl Psychiatry
+- new | 2022 | 35411074 | Clinical Trial, Phase II/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Increased global integration in the brain after psilocybin therapy for depression. | Nat Med
+- new | 2022 | 35166158 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Efficacy and safety of psilocybin-assisted treatment for major depressive disorder: Prospective 12-month follow-up. | J Psychopharmacol
+- new | 2022 | 36001306 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Percentage of Heavy Drinking Days Following Psilocybin-Assisted Psychotherapy vs Placebo in the Treatment of Adult Patients With Alcohol Use Disorder: A Randomized Clinical Trial. | JAMA Psychiatry
+- new | 2022 | 35273885 | Review | Analysis of Psilocybin-Assisted Therapy in Medicine: A Narrative Review. | Cureus
+- new | 2022 | 36569662 | Review | Psilocybin as a Treatment for Psychiatric Illness: A Meta-Analysis. | Cureus
+- new | 2022 | 36204170 | Case Reports | Self-administration of Psilocybin in the Setting of Treatment-resistant Depression. | Innov Clin Neurosci
+- new | 2022 | 34743319 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Acute Effects of Psilocybin After Escitalopram or Placebo Pretreatment in a Randomized, Double-Blind, Placebo-Controlled, Crossover Study in Healthy Subjects. | Clin Pharmacol Ther
+- new | 2022 | 35411079 |  | Psilocybin increases brain network integration in patients with depression. | Nat Med
+- new | 2022 | 35207210 | Review | Trajectory of Antidepressant Effects after Single- or Two-Dose Administration of Psilocybin: A Systematic Review and Multivariate Meta-Analysis. | J Clin Med
+- new | 2022 | 35253070 | Systematic Review | Drug-drug interactions between psychiatric medications and MDMA or psilocybin: a systematic review. | Psychopharmacology (Berl)
+- new | 2022 | 35873251 |  | Decreases in State and Trait Anxiety Post-psilocybin: A Naturalistic, Observational Study Among Retreat Attendees. | Front Psychiatry
+- new | 2022 | 36416492 | Randomized Controlled Trial | Exploratory investigation of a patient-informed low-dose psilocybin pulse regimen in the suppression of cluster headache: Results from a randomized, double-blind, placebo-controlle | Headache
+- new | 2022 | 35580433 | Review | The Effects of Psilocybin in Adults with Major Depressive Disorder and the General Population: Findings from Neuroimaging Studies. | Psychiatry Res
+- new | 2022 | 35138714 | Randomized Controlled Trial | [Psilocybin compared with escitalopram for depression]. | Ned Tijdschr Geneeskd [dut]
+- new | 2022 | 35483649 | Research Support, Non-U.S. Gov't | Serotonergic psychedelic drugs LSD and psilocybin reduce the hierarchical differentiation of unimodal and transmodal cortex. | Neuroimage
+- new | 2022 | 35426754 |  | Safety issues of psilocybin and LSD as potential rapid acting antidepressants and potential challenges. | Expert Opin Drug Saf
+- new | 2022 | 35076721 |  | Flashback phenomena after administration of LSD and psilocybin in controlled studies with healthy participants. | Psychopharmacology (Berl)
+- new | 2021 | 34063505 | Review | The Therapeutic Potential of Psilocybin. | Molecules
+- new | 2021 | 33146667 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Effects of Psilocybin-Assisted Therapy on Major Depressive Disorder: A Randomized Clinical Trial. | JAMA Psychiatry
+- new | 2021 | 33852780 | Clinical Trial, Phase II/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Trial of Psilocybin versus Escitalopram for Depression. | N Engl J Med
+- new | 2021 | 33560605 | Review | [Treatment with psilocybin: applications for patients with psychiatric disorders]. | Ned Tijdschr Geneeskd [dut]
+- new | 2021 | 34750350 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Psilocybin therapy increases cognitive and neural flexibility in patients with major depressive disorder. | Transl Psychiatry
+- new | 2021 | 33884324 | Review | What is the clinical evidence on psilocybin for the treatment of psychiatric disorders? A systematic review. | Porto Biomed J
+- new | 2021 | 33184743 | Clinical Trial | Exploratory Controlled Study of the Migraine-Suppressing Effects of Psilocybin. | Neurotherapeutics
+- new | 2021 | 33833225 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Spontaneous and deliberate creative cognition during and after psilocybin exposure. | Transl Psychiatry
+- new | 2021 | 34619818 |  | Psilocybin for End-of-Life Anxiety Symptoms: A Systematic Review and Meta-Analysis. | Psychiatry Investig
+- new | 2021 | 38235248 |  | Human Cortical Serotonin 2A Receptor Occupancy by Psilocybin Measured Using [(11)C]MDL 100,907 Dynamic PET and a Resting-State fMRI-Based Brain Parcellation. | Front Neuroergon
+- new | 2020 | 32296353 | Review | Depression, Mindfulness, and Psilocybin: Possible Complementary Effects of Mindfulness Meditation and Psilocybin in the Treatment of Depression. A Review. | Front Psychiatry
+- new | 2020 | 33150319 |  | Psilocybin-assisted group therapy for demoralized older long-term AIDS survivor men: An open-label safety and feasibility pilot study. | EClinicalMedicine
+- new | 2019 | 30290701 |  | Increased use of illicit drugs in a Dutch cluster headache population. | Cephalalgia
+- new | 2019 | 30685771 | Research Support, Non-U.S. Gov't | Psychedelic effects of psilocybin correlate with serotonin 2A receptor occupancy and plasma psilocin levels. | Neuropsychopharmacology
+- new | 2018 | 29119217 | Clinical Trial/Research Support, Non-U.S. Gov't | Psilocybin with psychological support for treatment-resistant depression: six-month follow-up. | Psychopharmacology (Berl)
+- new | 2018 | 29085980 | Research Support, Non-U.S. Gov't | Psilocybin with psychological support improves emotional face recognition in treatment-resistant depression. | Psychopharmacology (Berl)
+- new | 2018 | 30062577 | Randomized Controlled Trial | Double-blind comparison of the two hallucinogens psilocybin and dextromethorphan: effects on cognition. | Psychopharmacology (Berl)
+- new | 2018 | 29515439 |  | Clinical Interpretations of Patient Experience in a Trial of Psilocybin-Assisted Psychotherapy for Alcohol Use Disorder. | Front Pharmacol
+- new | 2018 | 29722608 | Systematic Review | Lysergic acid diethylamide and psilocybin for the management of patients with persistent pain: a potential role? | Pain Manag
+- new | 2018 | 30471683 | Research Support, Non-U.S. Gov't/Review | d-Lysergic acid diethylamide, psilocybin, and other classic hallucinogens: Mechanism of action and potential therapeutic applications in mood disorders. | Prog Brain Res
+- new | 2018 | 29116367 | Comparative Study/Research Support, N.I.H., Extramural | Double-blind comparison of the two hallucinogens psilocybin and dextromethorphan: similarities and differences in subjective experiences. | Psychopharmacology (Berl)
+- new | 2017 | 28481178 | Review | Psilocybin-Assisted Therapy: A Review of a Novel Treatment for Psychiatric Disorders. | J Psychoactive Drugs
+- new | 2017 | 29030624 | Clinical Trial/Research Support, Non-U.S. Gov't | Psilocybin for treatment-resistant depression: fMRI-measured brain mechanisms. | Sci Rep
+- new | 2017 | 28585222 | Review | Potential Therapeutic Effects of Psilocybin. | Neurotherapeutics
+- HELD REF-0040 | 2016 | 27210031 | Clinical Trial | Psilocybin with psychological support for treatment-resistant depression: an open-label feasibility study. | Lancet Psychiatry
+- HELD REF-0099 | 2016 | 27909165 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Psilocybin produces substantial and sustained decreases in depression and anxiety in patients with life-threatening cancer: A randomized double-blind trial. | J Psychopharmacol
+- new | 2016 | 27909164 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Rapid and sustained symptom reduction following psilocybin treatment for anxiety and depression in patients with life-threatening cancer: a randomized controlled trial. | J Psychopharmacol
+- new | 2016 | 27931907 | Review | Return of the psychedelics: Psilocybin for treatment resistant depression. | Asian J Psychiatr
+- new | 2016 | 26909323 | Research Support, Non-U.S. Gov't | The mixed serotonin receptor agonist psilocybin reduces threat-induced modulation of amygdala connectivity. | Neuroimage Clin
+- new | 2016 | 27354908 | Review | Antidepressive, anxiolytic, and antiaddictive effects of ayahuasca, psilocybin and lysergic acid diethylamide (LSD): a systematic review of clinical trials published in the last 25 | Ther Adv Psychopharmacol
+- new | 2016 | 27568263 | Letter/Comment | Psilocybin: panacea or placebo? | Lancet Psychiatry
+- new | 2016 | 27286599 |  | Magic mushroom compound is a potential treatment for patients with major depression. | Nurs Stand
+- new | 2016 | 27909175 | Comment | Psilocybin: promising results in double-blind trials require confirmation by real-world evidence. | J Psychopharmacol
+- new | 2015 | 25586396 | Clinical Trial/Research Support, N.I.H., Extramural | Psilocybin-assisted treatment for alcohol dependence: a proof-of-concept study. | J Psychopharmacol
+- new | 2014 | 25213996 | Clinical Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Pilot study of the 5-HT2AR agonist psilocybin in the treatment of tobacco addiction. | J Psychopharmacol
+- new | 2014 | 24989126 | Research Support, Non-U.S. Gov't | Enhanced repertoire of brain dynamical states during the psychedelic experience. | Hum Brain Mapp
+- new | 2014 | 25563443 | Clinical Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Psilocybin-occasioned mystical experiences in the treatment of tobacco addiction. | Curr Drug Abuse Rev
+- new | 2012 | 22308440 | Clinical Trial/Research Support, Non-U.S. Gov't | Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. | Proc Natl Acad Sci U S A
+- new | 2011 | 20819978 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Pilot study of psilocybin treatment for anxiety in patients with advanced-stage cancer. | Arch Gen Psychiatry
+- new | 2006 | 16826400 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Psilocybin can occasion mystical-type experiences having substantial and sustained personal meaning and spiritual significance. | Psychopharmacology (Berl)
+- new | 2006 | 17196053 | Clinical Trial/Research Support, Non-U.S. Gov't | Safety, tolerability, and efficacy of psilocybin in 9 patients with obsessive-compulsive disorder. | J Clin Psychiatry
+- new | 1998 | 9875725 | Clinical Trial/Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Psilocybin induces schizophrenia-like psychosis in humans via a serotonin-2 agonist action. | Neuroreport
+
+### PubMed SR - 116 hits, 62 not already listed above, 61 new
+- new | 2026 | 42609034 | Systematic Review | Psilocybin-assisted psychotherapy for substance use disorders as a complex intervention: A systematic review of efficacy, mechanisms and psychotherapeutic frameworks. | J Psychopharmacol
+- new | 2026 | 42769916 | Review | Qualitative Research on Psilocybin-Assisted Psychotherapy for the Treatment of Mental Disorders: A Scoping Review. | Psychedelic Med (New Rochelle)
+- new | 2026 | 41854988 | Review | Psilocybin effects on brain functional connectivity: a systematic review of fMRI studies. | Discov Ment Health
+- new | 2026 | 42794483 | Systematic Review | Multilevel Mechanisms and Clinical Efficacy of Psilocybin in Depression Treatment: A Systematic Review. | Int J Mol Sci
+- new | 2026 | 42562064 | Letter | Correspondence: "Breaking the chains of depression: A systematic review and meta-analysis of psilocybin therapy". | J Affect Disord
+- new | 2026 | 42900476 | Systematic Review | Clinical Evidence on Psilocybin and Its Representation in Media Reporting: A Systematic Review. | JAMA Netw Open
+- new | 2026 | 41502021 | Systematic Review/Research Support, Non-U.S. Gov't | Pharmacological Management of Anxiety in End-of-Life Care: A Systematic Review of Benzodiazepines, Opioids, and Psilocybin. | Hum Psychopharmacol
+- new | 2026 | 42538465 | Review | Cardiovascular safety of psilocybin in psychiatric practice: a narrative review. | Eur J Clin Pharmacol
+- new | 2026 | 39480198 | Systematic Review/Meta-Analysis | Psilocybin for major depressive disorder: An updated systematic review and meta-analysis of randomized clinical trials. | J Psychopharmacol
+- new | 2026 | 42850948 | Systematic Review/Meta-Analysis | Efficacy and safety of psilocybin-assisted therapy for alcohol use disorder: A systematic review and meta-analysis. | J Psychopharmacol
+- new | 2026 | 42662093 | Review | Therapeutic Effects of Low-Dose Psilocybin in Depression and Other Mental Disorders: A Systematic Review. | Psychedelic Med (New Rochelle)
+- new | 2026 | 42686072 | Letter | A response to the letter to editor: Breaking the chains of depression: A systematic review and meta-analysis of psilocybin therapy. | J Affect Disord
+- new | 2026 | 41410211 | Systematic Review | Psilocybin-assisted therapy for individuals with palliative care needs: A systematic review of safety and efficacy. | Palliat Med
+- new | 2025 | 39982684 | Published Erratum | Correction: Clinical Pharmacokinetics of Psilocin After Psilocybin Administration: A Systematic Review and Post‑Hoc Analysis. | Clin Pharmacokinet
+- new | 2025 | 39812743 | Systematic Review | Clinical Pharmacokinetics of Psilocin After Psilocybin Administration: A Systematic Review and Post-Hoc Analysis. | Clin Pharmacokinet
+- HELD REF-1516 | 2025 | 39257234 | Systematic Review/Research Support, Non-U.S. Gov't | Pharmacokinetics of Psilocybin, a Tryptamine Alkaloid in Magic Mushroom (Psilocybe cubensis): A Systematic Review. | J Psychoactive Drugs
+- new | 2025 | 40939192 | Scoping Review | Psilocybin Use in the Autism Spectrum Disorder: A Scoping Review. | Clin Neuropharmacol
+- new | 2025 | 40381005 | Published Erratum | Correction to: Incremental efficacy systematic review and meta-analysis of psilocybin-for-depression RCTs. | Psychopharmacology (Berl)
+- new | 2025 | 39788410 | Systematic Review/Research Support, Non-U.S. Gov't | Neurobiological mechanisms of antidepressant properties of psilocybin: A systematic review of blood biomarkers. | Prog Neuropsychopharmacol Biol Psychiatr
+- new | 2025 | 40684956 | Systematic Review | Mapping psilocybin therapy: A systematic review of therapeutic frameworks, adaptations, and standardization across contemporary clinical trials. | J Affect Disord
+- new | 2025 | 39929528 | Published Erratum | CORRECTION: Efficacy of psilocybin for treating symptoms of depression: systematic review and meta-analysis. | BMJ
+- new | 2025 | 39787428 | Scoping Review | Exploring Psychedelics Pharmacology: A Scoping Review Charting the Course of Psilocybin Pharmacokinetics. | Clin Neuropharmacol
+- new | 2025 | 40284409 | Review | Pharmacokinetics of Psilocybin: A Systematic Review. | Pharmaceutics
+- new | 2025 | 39357666 | Systematic Review/Comparative Study/Research Support, Non-U.S. Gov't | Comparing psilocybin to metformin as neuroprotective agents against Parkinson's dementia: A systematic review of evidence and efficacy. | Prog Neuropsychopharmacol Biol Psychiatr
+- new | 2025 | 40970030 | Review | Exploring the Therapeutic Potential of Ketamine and Psilocybin in Comparison to Current Treatment Regimens for Treatment-Resistant Depression, Mood Disorders, and Post-traumatic St | Cureus
+- new | 2025 | 41356122 | Letter | Comment on: Effect of psilocybin therapy on suicidal ideation, attempts, and deaths in people with psychiatric diagnoses: a systematic review and meta-analysis. | Ther Adv Psychopharmacol
+- new | 2025 | 40143157 | Review | Extraction Yields of Psilocybin and Psilocin: A Short Review of Current Methods and Their Implications. | Pharmaceuticals (Basel)
+- new | 2025 | 40782561 | Meta-Analysis/Systematic Review | A dose of therapy with psilocybin - A meta-analysis of the relationship between the amount of therapy hours and treatment outcomes in psychedelic-assisted therapy. | Gen Hosp Psychiatry
+- new | 2025 | 41138900 | Systematic Review/Research Support, Non-U.S. Gov't | Adverse event reporting and management in psilocybin therapy clinical trials: A systematic review to guide clinical and research protocol development. | Prog Neuropsychopharmacol Biol Psychiatr
+- new | 2025 | 40259688 | Systematic Review | Evaluating the effectiveness of psilocybin in alleviating distress among cancer patients: A systematic review. | Palliat Support Care
+- new | 2025 | 39106989 | Systematic Review | Psilocybin and chronic neuropathic pain: a systematic review. | Reg Anesth Pain Med
+- new | 2025 | 40899152 | Systematic Review | Therapeutic Use of Psilocybin in Depression: a Systematic Review of Clinical Evidence. | Acta Neuropsychiatr
+- new | 2024 | 39071471 |  | Investigating the therapeutic efficacy of psilocybin in advanced cancer patients: A comprehensive review and meta-analysis. | World J Clin Oncol
+- new | 2024 | 39141970 | Letter/Comment | Letter to editor regarding "Psilocybin-assisted therapy for depression: A systematic review and meta-analysis". | Psychiatry Res
+- new | 2024 | 38781672 | Systematic Review/Meta-Analysis/Letter/Research Support, Non-U.S. Gov't | Efficacy and safety of psilocybin on treatment-resistant depression: A systematic review and meta-analysis. | Psychiatry Res
+- new | 2024 | 38704154 | Expression of Concern | EXPRESSION OF CONCERN: Efficacy of psilocybin for treating symptoms of depression: systematic review and meta-analysis. | BMJ
+- new | 2024 | 37385217 | Systematic Review | Psilocybin's Potential Mechanisms in the Treatment of Depression: A Systematic Review. | J Psychoactive Drugs
+- new | 2024 | 37902038 | Systematic Review | The Tolerability and Safety of Psilocybin in Psychiatric and Substance-Dependence Conditions: A Systematic Review. | Ann Pharmacother
+- new | 2024 | 39369173 |  | Meta-correlation of the effect of ketamine and psilocybin induced subjective effects on therapeutic outcome. | Npj Ment Health Res
+- new | 2024 | 39199520 | Review | Comparison between Single-Dose and Two-Dose Psilocybin Administration in the Treatment of Major Depression: A Systematic Review and Meta-Analysis of Current Clinical Trials. | Brain Sci
+- new | 2024 | 38570038 | Systematic Review/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Spectral signatures of psilocybin, lysergic acid diethylamide (LSD) and ketamine in healthy volunteers and persons with major depressive disorder and treatment-resistant depression | J Affect Disord
+- new | 2024 | 39193583 | Systematic Review | The association between diverse psychological protocols and the efficacy of psilocybin-assisted therapy for clinical depressive symptoms: a Bayesian meta-analysis. | Front Psychiatry
+- new | 2024 | 39135496 | Scoping Review/Research Support, Non-U.S. Gov't | Psilocybin for clinical indications: A scoping review. | J Psychopharmacol
+- new | 2024 | 38850581 | Systematic Review/Research Support, Non-U.S. Gov't | Protocols and practices in psilocybin assisted psychotherapy for depression: A systematic review. | J Psychiatr Res
+- new | 2023 | 37395359 | Research Support, Non-U.S. Gov't/Scoping Review | Psilocybin's effects on cognition and creativity: A scoping review. | J Psychopharmacol
+- new | 2023 | 37102811 | Review | Psychotherapy with Psilocybin for Depression: Systematic Review. | Behav Sci (Basel)
+- new | 2023 | 37523886 | Systematic Review/Meta-Analysis/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Assessing the risk of symptom worsening in psilocybin-assisted therapy for depression: A systematic review and individual participant data meta-analysis. | Psychiatry Res
+- new | 2023 | 37230065 | Systematic Review | Neurobiological Correlates of Psilocybin Response in Depression. | Prim Care Companion CNS Disord
+- new | 2023 | 35225726 | Systematic Review | The Use of Psilocybin in the Treatment of Psychiatric Disorders with Attention to Relative Safety Profile: A Systematic Review. | J Psychoactive Drugs
+- new | 2022 | 34587546 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Dose effect of psilocybin on primary and secondary depression: a preliminary systematic review and meta-analysis. | J Affect Disord
+- new | 2022 | 36232748 | Systematic Review | Esketamine and Psilocybin-The Comparison of Two Mind-Altering Agents in Depression Treatment: Systematic Review. | Int J Mol Sci
+- new | 2022 | 34482761 | Scoping Review | The Role of Psilocybin-Assisted Psychotherapy to Support Patients With Cancer: A Critical Scoping Review of the Research. | J Holist Nurs
+- new | 2022 | 35679988 | Systematic Review | Don't be afraid, try to meditate- potential effects on neural activity and connectivity of psilocybin-assisted mindfulness-based intervention for social anxiety disorder: A systema | Neurosci Biobehav Rev
+- new | 2022 | 36040772 | Systematic Review | [The use of psilocybin for treatment-resistant depression]. | Laeknabladid [ice]
+- new | 2022 | 35225143 | Systematic Review | The therapeutic potential of psilocybin: a systematic review. | Expert Opin Drug Saf
+- new | 2022 | 36381758 | Review | Potential Therapeutic Effects of Psilocybin: A Systematic Review. | Cureus
+- new | 2021 | 34451890 | Review | Lysergic Acid Diethylamide, Psilocybin and Dimethyltryptamine in Depression Treatment: A Systematic Review. | Pharmaceuticals (Basel)
+- new | 2021 | 32931403 | Systematic Review/Research Support, U.S. Gov't, Non-P.H.S. | Efficacy of Psychoactive Drugs for the Treatment of Posttraumatic Stress Disorder: A Systematic Review of MDMA, Ketamine, LSD and Psilocybin. | J Psychoactive Drugs
+- new | 2021 | 33663259 | Meta-Analysis | Dose-response relationships of psilocybin-induced subjective experiences in humans. | J Psychopharmacol
+- new | 2020 | 31931272 | Meta-Analysis/Review | The experimental effects of psilocybin on symptoms of anxiety and depression: A meta-analysis. | Psychiatry Res
+- new | 2020 | 32899469 | Review | Psilocybin as a New Approach to Treat Depression and Anxiety in the Context of Life-Threatening Diseases-A Systematic Review and Meta-Analysis of Clinical Trials. | Biomedicines
+- new | 2015 | 26442957 | Meta-Analysis/Multicenter Study/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Validation Study | Validation of the revised Mystical Experience Questionnaire in experimental sessions with psilocybin. | J Psychopharmacol
+
+### PubMed SAFE - 393 hits, 115 not already listed above, 113 new
+- new | 2026 | 42721017 |  | What Is Psilocybin? | JAMA
+- new | 2026 | 42809289 |  | Adverse Health Outcomes of Psilocybin, LSD, MDMA, Ibogaine, and 5-MeO-DMT. | JAMA Netw Open
+- new | 2026 | 42711415 | News | Daily briefing: Psilocybin blocks side-effect of chemotherapy in mice. | Nature
+- new | 2026 | 41773421 |  | Synthesis and Characterization of Psilocybin Metabolites and Deuterated Analogs. | ACS Chem Neurosci
+- new | 2026 | 41493855 |  | The Effect of Magic Mushroom (Psilocybe azurescens) on Social Interaction, Anxiety- and Depressive-Like Behaviors in Male Rats; the Role of Neuroinflammation, Oxidative Stress, and | J Neurosci Res
+- new | 2026 | 42697966 | News | Magic-mushroom compound blocks a severe side effect of chemotherapy in mice. | Nature
+- new | 2026 | 42616497 | Research Support, Non-U.S. Gov't | Safety and Mental Health Outcomes of Oregon State-Regulated Psilocybin Services. | JAMA Netw Open
+- new | 2026 | 41777966 | Review | The Use of Psilocybin in the Treatment of Depressive Disorders: A Narrative Review. | Cureus
+- new | 2026 | 42577282 |  | Real-World Psilocybin Therapy for Treatment-Resistant Depression: A Retrospective Observational Study. | Lancet Reg Health Eur
+- new | 2026 | 41749057 | Review | Psilocybin for psychiatric disorders: History, clinical trials, neuroimaging, and regulations. | Psychiatry Clin Neurosci
+- new | 2026 | 42276399 | Letter | Pharmacokinetic and pharmacodynamic rational for expanding the therapeutic landscape of psilocybin beyond depression. | Pharmacol Res
+- new | 2026 | 42233004 |  | Inaugural year of regulated psilocybin services in Oregon: safety, motivations, and utilization. | Front Psychiatry
+- new | 2026 | 41191341 | Review | Psilocybin Outside the Clinic: Public Health Challenges of Increasing Publicity, Accessibility, and Use. | JAMA Psychiatry
+- new | 2026 | 42631663 |  | Adverse Effect-Related Language in Recreational Psychedelic and non-Psychedelic Substance Experience Reports. | J Stud Alcohol Drugs
+- new | 2026 | 42093782 | Case Reports | Catatonia Associated With First-Time Psilocybin Exposure: A Case Report. | Cureus
+- new | 2026 | 42292331 | Case Reports | Transient multidomain functional improvement in advanced Alzheimer's disease following high-dose psilocybin-containing mushroom administration: a case report. | Front Neurosci
+- new | 2026 | 41531985 | Editorial | Advances in Psychedelic Therapeutics: Multimodal Iboga Analogs, EEG-Guided Psilocybin Dosing, and Optimized Harmine-DMT Formulations. | ACS Med Chem Lett
+- new | 2026 | 40802522 |  | Toward Standardized Products Containing Biomass of Psilocybe Cubensis Fungi. | J AOAC Int
+- new | 2026 | 39773417 | Case Reports | A Psilocybin Experience Gone Wrong: The Importance of Psychedelic Assisted Psychotherapy. | J Psychoactive Drugs
+- new | 2025 | 39709547 | Review/Research Support, Non-U.S. Gov't | ALSUntangled #77: Psilocybin. | Amyotroph Lateral Scler Frontotemporal D
+- new | 2025 | 40514369 |  | Synergistic behavioral and neuroplastic effects of psilocybin-NMDAR modulator administration. | Transl Psychiatry
+- new | 2025 | 41256989 | Editorial | Stabilizing Psilocybin Pharmacology and Tuning Safety with Atypical Antipsychotic Cotherapy. | ACS Med Chem Lett
+- new | 2025 | 40197427 | Review | The compulsive eating paradigm: can psychedelics help in treating obesity? | J Eat Disord
+- HELD REF-1517 | 2025 | 40258947 |  | Development of a PBPK model of psilocybin/psilocin from Psilocybe cubensis (magic mushroom) in mice, rats, and humans. | Sci Rep
+- new | 2025 | 40894380 | Review | Neurobiology of psilocybin: a comprehensive overview and comparative analysis of experimental models. | Front Syst Neurosci
+- new | 2025 | 40966702 | Review | Reappraisal of the hype and hope offered by psilocybin treatment of depression. | N Z Med J
+- new | 2025 | 40177917 |  | De Novo Biosynthesis of Antidepressant Psilocybin in Escherichia coli. | Microb Biotechnol
+- new | 2025 | 41048717 |  | Multianalytical Investigation of Psilocybe cubensis Mushrooms: Physicochemical Characterization and Biological Evaluation of Psilocybin and Psilocin Compounds. | ACS Omega
+- new | 2025 | 39489287 |  | Psilocybin reduces grooming in the SAPAP3 knockout mouse model of compulsive behaviour. | Neuropharmacology
+- new | 2025 | 40283890 |  | LPS-Induced Liver Inflammation Is Inhibited by Psilocybin and Eugenol in Mice. | Pharmaceuticals (Basel)
+- new | 2025 | 40246053 | Research Support, Non-U.S. Gov't | Psilocybin has a narrow therapeutic window as an antidepressant treatment. | Prog Neuropsychopharmacol Biol Psychiatr
+- new | 2025 | 39264873 | Case Reports | Psilocybin-Assisted Therapy for Brain Cancer Related Existential Distress: A Case-Report. | J Palliat Med
+- new | 2025 | 38117395 | Review | Unveiling the Psychedelic Journey: An Appraisal of Psilocybin as a Profound Antidepressant Therapy. | Mol Biotechnol
+- new | 2025 | 41127918 | Case Reports | Home-based psilocybin-assisted therapy for a patient with advanced cancer: A case report. | Palliat Support Care
+- new | 2025 | 41320824 | Letter | Sudden Loss of Consciousness Following Psilocybin Ingestion. | Am J Psychiatry
+- new | 2025 | 40058407 | Systematic Review | Side effects of microdosing lysergic acid diethylamide and psilocybin: A systematic review of potential physiological and psychiatric outcomes. | Neuropharmacology
+- new | 2025 | 40440674 | Case Reports | Divergent Effects of Psilocybin for 2 Patients Participating in a Psilocybin-assisted Cognitive Behavioral Therapy Trial for Major Depressive Disorder. | J Psychiatr Pract
+- new | 2025 | 39823496 | Clinical Trial Protocol/Research Support, Non-U.S. Gov't | Psilocybin-assisted massed cognitive processing therapy for chronic posttraumatic stress disorder: Protocol for an open-label pilot feasibility trial. | PLoS One
+- new | 2025 | 40743107 |  | Synthesis of Psilocin, Psilocybin and 5-MeO-DMT Succinate, All Labelled With Carbon-14 at the Indole 2-Position. | J Labelled Comp Radiopharm
+- new | 2025 | 40351554 |  | A Field-Wide Review and Analysis of Study Materials Used in Psilocybin Trials: Assessment of Two Decades of Research. | Psychedelic Med (New Rochelle)
+- new | 2024 | 39050672 | Review | Psilocybin for the treatment of Alzheimer's disease. | Front Neurosci
+- new | 2024 | 39540010 | Review | A narrative exploration of psilocybin's potential in mental health. | Front Psychiatry
+- new | 2024 | 38700847 | News | Therapeutic Psilocybin's Adverse Effects Mostly Resolved Within 2 Days. | JAMA
+- new | 2024 | 38598225 | Letter | Treating Bipolar Depression Using Psilocybin-Validity Threats Regarding Efficacy and Safety-Reply. | JAMA Psychiatry
+- new | 2024 | 38598200 |  | Treating Bipolar Depression Using Psilocybin-Validity Threats Regarding Efficacy and Safety. | JAMA Psychiatry
+- new | 2024 | 38442973 | Case Reports | Neuroimaging features of psilocybin-induced toxic-metabolic encephalopathy in an adolescent. | BMJ Case Rep
+- new | 2024 | 39168642 | Review | Psilocybin-assisted psychotherapy for existential distress: practical considerations for therapeutic application-a review. | Ann Palliat Med
+- new | 2024 | 38945903 | Review | [Up-to-Date on clinical and preclinical studies of psilocybin therapy]. | Nihon Yakurigaku Zasshi [jpn]
+- new | 2024 | 38659049 | Review | Psilocybin therapy and anorexia nervosa: a narrative review of safety considerations for researchers and clinicians. | J Eat Disord
+- new | 2024 | 38140718 |  | Quantification of psilocin in human whole blood using liquid chromatography-tandem mass spectrometry (LC-MS/MS). | J Forensic Sci
+- new | 2024 | 39281029 | Case Reports | Refractory CRPS pain treated with psilocybin: A case report. | Clin Case Rep
+- new | 2024 | 37670693 | Case Reports | Potential Benefits of Psilocybin for Lupus Pain: A Case Report. | Curr Rheumatol Rev
+- new | 2024 | 38055240 | Research Support, Non-U.S. Gov't/Comment | Psilocybin in Bipolar II Study Provides Preliminary Data on Safety. | JAMA Psychiatry
+- HELD REF-1520 | 2024 | 37977425 |  | Antidepressant- and anxiolytic-like activities and acute toxicity evaluation of the Psilocybe cubensis mushroom in experimental models in mice. | J Ethnopharmacol
+- new | 2024 | 38813452 | Case Reports | Long-COVID symptoms improved after MDMA and psilocybin therapy: A case report. | Clin Case Rep
+- new | 2024 | 39420616 | Case Reports | A Case Report of Psilocybin-induced Psychosis in a Predisposed Patient. | Clin Psychopharmacol Neurosci
+- new | 2024 | 38741590 |  | In vitro and in vivo metabolism of psilocybin's active metabolite psilocin. | Front Pharmacol
+- new | 2024 | 38105655 | Clinical Trial, Phase II/Research Support, Non-U.S. Gov't | Psilocybin-assisted group therapy in patients with cancer diagnosed with a major depressive disorder. | Cancer
+- new | 2024 | 39024488 | Case Reports | [Psilocybin fungi microdose treatment in major depressive disorder: a case report]. | Vertex [spa]
+- new | 2024 | 39086732 | Case Reports | Serotoninergic antidepressants combination in psilocybin-assisted psychotherapy: a case report. | Front Psychiatry
+- new | 2024 | 38697188 | Review | At the Forefront: Social Workers' Role in Psilocybin Treatment for Depression and Substance Misuse. | Soc Work
+- new | 2024 | 38687360 |  | Content analysis of Reddit posts about coadministration of selective serotonin reuptake inhibitors and psilocybin mushrooms. | Psychopharmacology (Berl)
+- new | 2024 | 38981146 |  | Addressing a major interference in the quantification of psilocin in mouse plasma: Development of a validated liquid chromatography tandem mass spectrometry method. | J Chromatogr A
+- new | 2024 | 38815272 |  | Medical Uses and Adverse Effects of Psilocybin. | Prim Care Companion CNS Disord
+- new | 2024 | 38442068 |  | Psilocybin and the Development of Serotonin Toxicity. | Prim Care Companion CNS Disord
+- new | 2023 | 37291890 | Research Support, Non-U.S. Gov't | Attenuation of psilocybin mushroom effects during and after SSRI/SNRI antidepressant use. | J Psychopharmacol
+- new | 2023 | 37518950 | Research Support, Non-U.S. Gov't | Biosynthesis of kratom opioids. | New Phytol
+- new | 2023 | 36066961 |  | Microdosing psilocybin for chronic pain: a case series. | Pain
+- new | 2023 | 35811423 | Review | Psilocybin in neuropsychiatry: a review of its pharmacology, safety, and efficacy. | CNS Spectr
+- new | 2023 | 37650489 | Review | Psilocybin history, action and reaction: A narrative clinical review. | J Psychopharmacol
+- new | 2023 | 37288212 | Case Reports | Cardiac Arrest Associated With Psilocybin Use and Hereditary Hemochromatosis. | Cureus
+- new | 2023 | 42533876 |  | Studying classic psychedelics for the management of headache disorders: Considerations for Veterans. | J Mil Veteran Fam Health
+- new | 2023 | 36767188 | Research Support, Non-U.S. Gov't | Substance Use and Attendance Motives of Electronic Dance Music (EDM) Event Attendees: A Survey Study. | Int J Environ Res Public Health
+- new | 2023 | 37303932 | Review | Therapeutic role of psilocybin and 3,4-methylenedioxymethamphetamine in trauma: A literature review. | World J Psychiatry
+- new | 2023 | 36798946 | Review | Intoxication of dogs and cats with common stimulating, hallucinogenic and dissociative recreational drugs. | Vet Anim Sci
+- new | 2023 | 36990794 | Review | [Contribution of serotonin 5-HT(2A) receptor to antidepressant effect of serotonergic psychedelics]. | Nihon Yakurigaku Zasshi [jpn]
+- new | 2023 | 36830997 | Review | Indole Alkaloids from Psychoactive Mushrooms: Chemical and Pharmacological Potential as Psychotherapeutic Agents. | Biomedicines
+- new | 2023 | 37842360 |  | Predictors of Pharmacy Students' Attitudes About the Therapeutic Use of Psilocybin. | Cureus
+- new | 2023 | 37810598 | Case Reports | Manic episode following psilocybin use in a man with bipolar II disorder: a case report. | Front Psychiatry
+- new | 2023 | 37132539 | Letter/Comment | Marketing pitches of 'magic mushrooms' and 'psychedelics' mask that psychotomimetics use exposes those vulnerable to serious adverse effects. | J Psychopharmacol
+- new | 2023 | 37337917 | Research Support, Non-U.S. Gov't | "Biosynthesis of psilocybin and its nonnatural derivatives by a promiscuous psilocybin synthesis pathway in Escherichia coli". | Biotechnol Bioeng
+- new | 2023 | 37439350 | Letter/Comment | Reply to: Marketing pitches of 'magic mushrooms' and 'psychedelics' mask that psychotomimetics use exposes those vulnerable to serious adverse effects. | J Psychopharmacol
+- new | 2023 | 37409550 | Review | Addressing the Current Knowledge and Gaps in Research Surrounding Lysergic Acid Diethylamide (LSD), Psilocybin, and Psilocin in Rodent Models. | Curr Top Med Chem
+- new | 2023 | 36640755 | Research Support, Non-U.S. Gov't | On blinding and suicide risk in a recent trial of psilocybin-assisted therapy for treatment-resistant depression. | Med
+- new | 2023 | 37181969 |  | Predictors of Medical Students' Perceptions of Psilocybin-Assisted Therapy for Use in Medical Practice. | Cureus
+- new | 2022 | 35580942 | Case Reports | Psilocybin-induced takotsubo cardiomyopathy. | BMJ Case Rep
+- new | 2022 | 35568884 |  | Safety considerations in the evolving legal landscape of psychedelic-assisted psychotherapy. | Subst Abuse Treat Prev Policy
+- new | 2022 | 35900779 | Case Reports | From Mushrooms to Myolysis: A Case of Rhabdo in Psilocybin-Induced Mood and Psychotic Disorder. | J Nerv Ment Dis
+- new | 2022 | 34871422 | Research Support, Non-U.S. Gov't | Psilocybin Therapy of Psychiatric Disorders Is Not Hampered by hERG Potassium Channel-Mediated Cardiotoxicity. | Int J Neuropsychopharmacol
+- new | 2022 | 36532184 | Review | Therapeutic use of psilocybin: Practical considerations for dosing and administration. | Front Psychiatry
+- new | 2022 | 35743159 |  | Effect of Psilocybin and Ketamine on Brain Neurotransmitters, Glutamate Receptors, DNA and Rat Behavior. | Int J Mol Sci
+- new | 2022 | 35953638 | Review | Psilocybin Efficacy and Mechanisms of Action in Major Depressive Disorder: a Review. | Curr Psychiatry Rep
+- new | 2022 | 34979875 |  | Exploring the Credibility of Psilocybin-assisted Therapy and Cognitive-behavioral Therapy for Depression. | J Psychoactive Drugs
+- new | 2022 | 35664477 |  | Chronic Treatment With Psilocybin Decreases Changes in Body Weight in a Rodent Model of Obesity. | Front Psychiatry
+- new | 2022 | 34131812 |  | Psychedelic perceptions: mental health service user attitudes to psilocybin therapy. | Ir J Med Sci
+- new | 2022 | 40656230 |  | Methodological challenges in psychedelic drug trials: Efficacy and safety of psilocybin in treatment-resistant major depression (EPIsoDE) - Rationale and study design. | Neurosci Appl
+- new | 2022 | 36453037 | Case Reports | A Case of Prolonged Mania, Psychosis, and Severe Depression After Psilocybin Use: Implications of Increased Psychedelic Drug Availability. | Am J Psychiatry
+- new | 2022 | 35561790 | Research Support, Non-U.S. Gov't | Magic mushroom extracts in lipid membranes. | Biochim Biophys Acta Biomembr
+- new | 2021 | 34629291 | Review | Nephrotoxic Mushroom Poisoning: Global Epidemiology, Clinical Manifestations, and Management. | Wilderness Environ Med
+- new | 2021 | 33880270 | Case Reports | A Rare Presentation of Anticholinergic Toxicity in a Young Patient Due to Over-The-Counter Cold Medicines. | Cureus
+- new | 2021 | 33242285 | Case Reports | Persistent Tinnitus after Inhaled N,N-dimethyltryptamine (DMT). | J Psychoactive Drugs
+- new | 2020 | 31752499 |  | Psilocybin-assisted therapy for depression: How do we advance the field? | Aust N Z J Psychiatry
+- new | 2019 | 30627509 | Case Reports | Acute renal injury cause by confirmed Psilocybe cubensis mushroom ingestion. | Med Mycol Case Rep
+- new | 2019 | 30905276 |  | Sub-Acute Effects of Psilocybin on Empathy, Creative Thinking, and Subjective Well-Being. | J Psychoactive Drugs
+- new | 2019 | 31203401 |  | Replication and extension of a model predicting response to psilocybin. | Psychopharmacology (Berl)
+- new | 2019 | 30548541 | Case Reports/Review | Unpredictable Behavior Under the Influence of "Magic Mushrooms": A Case Report and Review of the Literature. | J Forensic Sci
+- new | 2018 | 29956917 | Historical Article/Research Support, Non-U.S. Gov't/Review | DARK Classics in Chemical Neuroscience: Psilocybin. | ACS Chem Neurosci
+- new | 2018 | 29753748 | Research Support, N.I.H., Extramural/Review | The abuse potential of medical psilocybin according to the 8 factors of the Controlled Substances Act. | Neuropharmacology
+- new | 2017 | 27720453 | Review | [New patterns of substance use and abuse among French adolescents, a knowledge synthesis]. | Encephale [fre]
+- new | 2016 | 27255023 | Case Reports | [Three cases of acute serotonin syndrome due to psilocybin mushroom poisoning]. | Chudoku Kenkyu [jpn]
+- new | 2015 | 26400885 | Review | [Psilocybin - public available psychodysleptic]. | Postepy Hig Med Dosw (Online) [pol]
+- new | 2014 | 25364991 | Case Reports | Psilocybin and Obsessive Compulsive Disorder. | J Psychoactive Drugs
+- new | 2009 | 18378018 | Case Reports/Letter | Apical regional wall motion abnormalities reminiscent to Tako-Tsubo cardiomyopathy following consumption of psychoactive fungi. | Int J Cardiol
+- new | 1988 | 3338231 |  | Hallucinogenic mushrooms. | Clin Pediatr (Phila)
+- new | 1980 | 7192167 | Case Reports/Letter | Psilocybin intoxication. | Br J Psychiatry
+
+### PubMed OBS - 72 hits, 40 not already listed above, 40 new
+- new | 2026 | 40443112 |  | Patients' Attitudes Toward Hallucinogenic and Non-Hallucinogenic Psilocybin for Mental Health Treatment. | J Psychoactive Drugs
+- new | 2026 | 42154482 |  | Implementing psilocybin-assisted therapy in palliative care settings: A survey of stakeholders. | Palliat Med
+- new | 2026 | 42715291 |  | Craving Reduction and Smoking Outcomes in Psilocybin-Assisted and Standard Cessation Care. | Braz J Psychiatry
+- new | 2026 | 42092643 |  | Prevalence and Reasons for Microdosing Cannabis, Psilocybin, LSD, and MDMA Among U.S. Adults. | Am J Prev Med
+- new | 2026 | 40084630 |  | Therapeutic Potential of Psilocybin for Treating Neuropsychiatric Long COVID Symptoms: A Reddit Investigation. | J Psychoactive Drugs
+- new | 2026 | 42168232 | Dataset | PsiConnect: Multimodal Neuroimaging of Context-Dependent Brain and Behaviour Dynamics under Psilocybin. | Sci Data
+- new | 2026 | 42845629 | Preprint | Real-world use, safety, and mental health efficacy of regulated psilocybin services in Oregon and Colorado. | medRxiv
+- new | 2026 | 41857461 |  | Psilocybin retail stores in Canada: Changes in availability, commercialization, and geographic distribution. | Can J Public Health
+- new | 2026 | 42094840 | Case Reports | Case Report: Repeated low doses of psilocybin reduce perceived symptom severity but fail to restore cognitive flexibility in a case of severe obsessive-compulsive disorder: an obse | Front Psychiatry
+- new | 2026 | 41581835 |  | Consistency of protocol and safety data reporting in clinical trial registrations and corresponding publications of interventions involving MDMA and psilocybin. | J Clin Epidemiol
+- new | 2026 | 43087296 |  | Substantial Treatment-Seeking Interest, Narrow Eligibility: Diagnostic Heterogeneity and External Validity in the PRIDE Psilocybin Trial-Relevance to Precision Psychiatry. | Behav Sci (Basel)
+- new | 2026 | 42772877 | Clinical Trial Protocol | Apomorphine and psilocybin to improve recovery from coma in the intensive care unit: protocol for a prospective, open-label, dose-escalation study. | BMJ Open
+- new | 2026 | 43060227 | Preprint | How Does Psilocybin Affect Daily Life Experience and Behavior? Protocol For a Multimethod Ambulatory Assessment Study Within a Clinical Trial of Psilocybin for Depression. | medRxiv
+- new | 2026 | 38885938 | Comparative Study/Observational Study | Comparing Cannabis Use Motivations and Dependence Across Regular Cannabis Users Who Have or Have Not Recently Used Psilocybin. | Cannabis Cannabinoid Res
+- new | 2025 | 40258279 |  | The Rise of Psilocybin Use in the United States: A Multisource Observational Study. | Ann Intern Med
+- new | 2025 | 41662127 |  | Knowledge, perceptions, and use of psychedelics for mental health among autistic adults: An online survey. | PLOS Ment Health
+- new | 2025 | 40096533 |  | Psilocybin Mushrooms and Public Health in Brazil: Insights from a Retrospective Analysis of Adverse Events and Their Implications for Regulatory Discussions. | Int J Med Mushrooms
+- new | 2025 | 39447981 |  | Examining differences in the effects and contexts of naturalistic psilocybin use for White participants vs. Participants of Color: A longitudinal online survey study. | J Affect Disord
+- new | 2025 | 40708053 |  | Psychedelic use in individuals living with eating disorders or disordered eating: findings from the international MED-FED survey. | J Eat Disord
+- new | 2024 | 39397094 |  | Latin American adults who regularly use macrodoses of psychedelics: a cross-sectional study. | Sci Rep
+- new | 2024 | 37525416 | Research Support, Non-U.S. Gov't | On the mushrooming reports of "quiet quitting": Employees' lifetime psilocybin use predicts their overtime hours worked. | J Psychoactive Drugs
+- new | 2024 | 39282928 | Review | Less is more? A review of psilocybin microdosing. | J Psychopharmacol
+- new | 2024 | 38658877 | Clinical Trial Protocol/Research Support, Non-U.S. Gov't | The 'PSILAUT' protocol: an experimental medicine study of autistic differences in the function of brain serotonin targets of psilocybin. | BMC Psychiatry
+- new | 2024 | 38618282 | Observational Study | The Promise of Therapeutic Psilocybin: An Evaluation of the 134 Clinical Trials, 54 Potential Indications, and 0 Marketing Approvals on ClinicalTrials.gov. | Drug Des Devel Ther
+- new | 2023 | 35001856 |  | Knowledge, Perceptions, and Use of Psychedelics among Individuals with Fibromyalgia. | J Psychoactive Drugs
+- new | 2023 | 38283836 | Review | Psychedelics, epilepsy, and seizures: a review. | Front Pharmacol
+- new | 2023 | 37692301 |  | Race and ethnicity moderate the associations between lifetime psilocybin use and crime arrests. | Front Psychiatry
+- new | 2023 | 37742528 | Research Support, Non-U.S. Gov't | Attention deficit hyperactivity disorder symptoms and lifetime use of psychoactive substances among French university students: A cross-sectional study. | Psychiatry Res
+- new | 2022 | 36239361 |  | Use of psychedelics in the Czech Republic: results of recent population surveys. | Cent Eur J Public Health
+- new | 2022 | 34189985 | Research Support, Non-U.S. Gov't | Lasting effects of a single psilocybin dose on resting-state functional connectivity in healthy individuals. | J Psychopharmacol
+- new | 2022 | 34915762 | Randomized Controlled Trial | Psilocybin microdosing does not affect emotion-related symptoms and processing: A preregistered field and lab-based study. | J Psychopharmacol
+- new | 2022 | 36686617 |  | Psilocybin use patterns and perception of risk among a cohort of Black individuals with Opioid Use Disorder. | J Psychedelic Stud
+- new | 2022 | 35773270 | Observational Study/Research Support, Non-U.S. Gov't | Psilocybin microdosers demonstrate greater observed improvements in mood and mental health at one month relative to non-microdosing controls. | Sci Rep
+- new | 2022 | 34983261 | Observational Study | Lifetime use of MDMA/ecstasy and psilocybin is associated with reduced odds of major depressive episodes. | J Psychopharmacol
+- new | 2021 | 34364200 | Research Support, Non-U.S. Gov't | Use of hallucinogens in Slovakia: Does it differ from global trends? | Int J Drug Policy
+- new | 2021 | 35046855 |  | Psychedelic Mushrooms in the USA: Knowledge, Patterns of Use, and Association With Health Outcomes. | Front Psychiatry
+- new | 2021 | 33427007 |  | Development of the Psychological Insight Questionnaire among a sample of people who have consumed psilocybin or LSD. | J Psychopharmacol
+- new | 2019 | 31934400 |  | Second and third year medical students' self-reported alcohol and substance use, smoking habits and academic performance at a South African medical school. | Health SA
+- new | 2017 | 28781400 |  | Neuroticism is associated with challenging experiences with psilocybin mushrooms. | Pers Individ Dif
+- new | 2012 | 22776465 | Research Support, Non-U.S. Gov't | Intelligence quotient in childhood and the risk of illegal drug use in middle-age: the 1958 National Child Development Survey. | Ann Epidemiol
+
+### PubMed REV - 222 hits, 16 not already listed above, 16 new
+- new | 2025 | 40957728 | Review/Research Support, Non-U.S. Gov't | Emerging mechanisms of psilocybin-induced neuroplasticity. | Trends Pharmacol Sci
+- new | 2025 | 39897712 | Review | Mushrooms, Microdosing, and Mental Illness: The Effect of Psilocybin on Neurotransmitters, Neuroinflammation, and Neuroplasticity. | Neuropsychiatr Dis Treat
+- new | 2024 | 37955822 | Review | Psilocybin and Other Classic Psychedelics in Depression. | Curr Top Behav Neurosci
+- new | 2024 | 39789676 | Review | Psilocybin and hallucinogenic mushrooms. | CNS Spectr
+- new | 2023 | 35729252 | Review/Research Support, Non-U.S. Gov't | Sustained effects of single doses of classical psychedelics in humans. | Neuropsychopharmacology
+- new | 2023 | 37678363 | Review | Psychedelics, With a Focus on Psilocybin: Issues for the Clinician. | J Psychiatr Pract
+- new | 2023 | 36998623 | Review | Exploring psilocybin-assisted psychotherapy in the treatment of methamphetamine use disorder. | Front Psychiatry
+- new | 2023 | 36779424 | Review | Experiences of psilocybin treatment for clinical conditions: A qualitative meta-synthesis. | Int J Ment Health Nurs
+- new | 2022 | 34791625 | Review | Molecular Mechanisms of Psilocybin and Implications for the Treatment of Depression. | CNS Drugs
+- new | 2022 | 35577136 | Review/Research Support, Non-U.S. Gov't | Special considerations for evaluating psilocybin-facilitated psychotherapy in vulnerable populations. | Neuropharmacology
+- new | 2021 | 33257322 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Review | Hallucinogens in Mental Health: Preclinical and Clinical Studies on LSD, Psilocybin, MDMA, and Ketamine. | J Neurosci
+- new | 2021 | 33237633 | Review/Research Support, Non-U.S. Gov't | Taking Different Roads: l-Tryptophan as the Origin of Psilocybe Natural Products. | Chempluschem
+- new | 2020 | 32398764 | Historical Article/Review | Psilocybin: from ancient magic to modern medicine. | J Antibiot (Tokyo)
+- new | 2017 | 28074670 | Review/Research Support, Non-U.S. Gov't | Metabolism of psilocybin and psilocin: clinical and forensic toxicological relevance. | Drug Metab Rev
+- new | 2002 | 14578010 | Review | The pharmacology of psilocybin. | Addict Biol
+- new | 1994 | 35952083 | Review | Psilocybin mushrooms (“Magic Mushrooms”). | 
+
+### ClinicalTrials.gov - 104 registered studies
+- NCT07449351 | NOT_YET_RECRUITING | results=False | EARLY_PHASE1 | Psilocybin Microdosing on Cognition, Mood and Quality of Life | conds: Psychedelic Microdosing Effects on Mood, Cognition, Subjective Well-being and MRI | intr: Psliocybin, Placebo
+- NCT06471959 | UNKNOWN | results=False | PHASE1,PHASE2 | Psychedelic-assisted Group Program for First Responders | conds: Psilocybin, Psychotherapy, Group | intr: Psilocybin
+- NCT05252598 | WITHDRAWN | results=False | EARLY_PHASE1 | Mood and Cognitive Effects of Psilocybin in Healthy Participants | conds: Mood Disturbance, Mood Change, Sleep Disturbance, Drug Effect | intr: Psilocybin, Inonotus Obliquus Whole Extract
+- NCT04718792 | UNKNOWN | results=False | PHASE2 | Psilocybin for Treatment of Alcohol Use Disorder: a Feasibility Study | conds: Alcohol Use Disorder (AUD) | intr: Psilocybin | pubs: ['40018886:DERIVED (new)']
+- NCT06898606 | RECRUITING | results=False | PHASE1,PHASE2 | Psilocybe Cubensis Mushrooms With or Without Fluoxetine for Refractory Depression | conds: Depressive Disorder | intr: Psilocybin and Psilocyn, Placebo, Psychotherapy-assisted session, Fluoxetine
+- NCT05160220 | COMPLETED | results=False | NA | Naturalistic Study of Microdosing With Psilocybin | conds: Cognitive Change, Creativity, Mood Change, Sleep | intr: Psilocybin, Placebo
+- NCT04882839 | RECRUITING | results=False | PHASE2 | Evaluating the Feasibility, Safety and Efficacy of Psychotherapy Assisted Psilocybin for Treatment of Severe OCD | conds: Obsessive-compulsive Disorder | intr: psychotherapy assisted psilocybin
+- NCT05029466 | COMPLETED | results=False | PHASE2 | Psilocybin for Treatment-Resistant Depression | conds: Treatment Resistant Depression | intr: Psilocybin | pubs: ['38359838:DERIVED (new)']
+- NCT05523401 | COMPLETED | results=False | PHASE1 | Acute Effects of 2C-B Compared With MDMA and Psilocybin in Healthy Subjects | conds: Healthy | intr: 4-bromo-2,5-dimethoxyphenethylamine (10 mg), 4-bromo-2,5-dimethoxyphenethylamine (20 mg), 4-bromo-2, | pubs: ['42049943:DERIVED (new)']
+- NCT07079852 | NOT_YET_RECRUITING | results=False | PHASE1,PHASE2 | The Acute Effects of Psilocybin on Cognition, Memory, and Brain Function | conds: Healthy | intr: Placebo, Psilocybin 15mg
+- NCT05259943 | COMPLETED | results=False | PHASE2 | Microdosing Psychedelics to Improve Mood | conds: Major Depressive Disorder | intr: Psilocybin first, Placebo first | pubs: ['41693474:DERIVED (new)']
+- NCT07306364 | NOT_YET_RECRUITING | results=False | PHASE2 | Psilocybin-Assisted Physical Therapy in Chronic Low Back Pain | conds: Chronic Low Back Pain (CLBP), Physical Therapy, Psilocybin | intr: Psilocybin 10 mg, Psilocybin 25 mg, Niacin 100 mg
+- NCT05163496 | COMPLETED | results=True | PHASE3 | Frontline Clinician Psilocybin Study | conds: Burnout, Caregiver, Burnout, Professional, COVID-19, Depression | intr: Psilocybin (Usona Institute), Active placebo | pubs: ['39636638:DERIVED (new)']
+- NCT03380442 | UNKNOWN | results=False | PHASE2 | Psilocybin and Depression | conds: Severe Depression | intr: Psilocybin, Ketamine (Ketalar)
+- NCT05866471 | RECRUITING | results=False | PHASE1 | The ENHANCE Study: taVNS and Psilocybin | conds: Healthy, Psychedelic Experiences, Vagus Nerve Stimulation | intr: Psilocybin, Transcutaneous auricular Vagus Nerve Stimulation (taVNS), Psychosocial Support Alone, Sh
+- NCT07406828 | NOT_YET_RECRUITING | results=False | PHASE1 | Psilocybin After Trauma Surgery for Pain | conds: Pain Management, Postoperative Pain | intr: Psilocybin (Usona Institute), Postoperative analgesia
+- NCT06206265 | ACTIVE_NOT_RECRUITING | results=False | PHASE2 | Assessment of Psilocybin (TRP-8802) in Concert With Psychotherapy in Patients With Irritable Bowel Syndrome (IBS) | conds: Irritable Bowel Syndrome | intr: TRYP-0082, Psychotherapy
+- NCT05876481 | UNKNOWN | results=False | PHASE2 | Evaluation of Psilocybin-assisted Psychotherapy (PaP) for the Treatment of Post-traumatic Stress Disorder (PTSD) in Military Veterans | conds: PTSD | intr: Psilocybin
+- NCT07499583 | NOT_YET_RECRUITING | results=False | PHASE1,PHASE2 | Psilocybin Assisted Psychotherapy for Treatment Resistant Depression and Co-occurring Substance Use Disorder | conds: Treatment Resistant Depression, Substance Use Disorders | intr: Psilocybin
+- NCT07721467 | RECRUITING | results=False | PHASE2 | Neuroplasticity Enhancement From Cognitive Training Reinforced by Psilocybin | conds: Alzheimer's Disease | intr: Psilocybin, Cognitive Training
+- NCT06303739 | ACTIVE_NOT_RECRUITING | results=False | PHASE3 | Psilocybin-Assisted Therapy in Treatment-Resistant Depression | conds: Refractory Depression, Treatment Resistant Depression | intr: psilocybin
+- NCT06768944 | RECRUITING | results=False | PHASE2 | Subjective Experience Following Psilocybin | conds: Investigating the Importance of the Subjective Psychedelic Experience | intr: Psilocybin high-dose, Psilocybin low-dose, Risperidone 1 MG, Placebo
+- NCT06992999 | NOT_YET_RECRUITING | results=False | PHASE1,PHASE2 | Psilocybin for Treatment of OCD-2 | conds: Obsessive - Compulsive Disorder | intr: Low Dose Psilocybin, High Dose Psilocybin
+- NCT06706232 | RECRUITING | results=False | PHASE2 | Acceptability & Safety of Two Sequential Doses of Psilocybin in Bipolar Disorder II Depression and Suicidality | conds: Bipolar II Disorder, Depression, Bipolar, Suicidality | intr: Psilocybin, Therapeutic Support | pubs: ['42442821:DERIVED (new)']
+- NCT07391332 | RECRUITING | results=False | PHASE2 | Psilocybin AsSisted pSychotherapy for the treatmENt of Gambling disordER : a Pilot Study | conds: Gambling Disorder | intr: Psychotherapy assisted by high-dose psilocybin (25mg or 40mg where appropriate), Psychotherapy assis
+- NCT06884514 | COMPLETED | results=False | PHASE1 | Acute Effects of MDMA Co-administration on the Response to Psilocybin in Healthy Subjects | conds: Healthy | intr: Psilocybin, 3,4-Methylenedioxymethamphetamine, Psilocybin placebo, 3,4-Methylenedioxymethamphetamine
+- NCT03866174 | COMPLETED | results=True | PHASE2 | A Study of Psilocybin for Major Depressive Disorder (MDD) | conds: Depressive Disorder, Major | intr: Psilocybin, Niacin, Set and Setting (SaS) Protocol | pubs: ['37651119:DERIVED (new)', '33993135:DERIVED (new)', '33902087:DERIVED (new)']
+- NCT06416085 | ACTIVE_NOT_RECRUITING | results=False | PHASE2 | Psilocybin-assisted Existential, Attachment and RelationaL (PEARL) Therapy for Patients With Advanced Cancer | conds: Advanced Cancer, Stage IV Solid Tumor Cancer, Stage IV Sarcoma of Bone, Stage IV Lymphoma | intr: Psilocybin | pubs: ['41152967:DERIVED (new)']
+- NCT06230757 | COMPLETED | results=False | PHASE2 | Psilocybin for Treatment-Resistant Depression | conds: Major Depressive Disorder, Anhedonia, Treatment Resistant Depression | intr: Psilocybin 25mg, Placebo (active placebo) | pubs: ['42962721:DERIVED (new)']
+- NCT04620759 | ACTIVE_NOT_RECRUITING | results=False | PHASE2 | Psilocybin Treatment of Major Depressive Disorder With Co-occurring Alcohol Use Disorder | conds: Major Depressive Disorder, Alcohol Use Disorder | intr: Psilocybin, Placebo
+- NCT06442423 | RECRUITING | results=False | PHASE1 | Open-Label Psilocybin Study in Transdiagnostic Population | conds: Transdiagnostic, Depression - Major Depressive Disorder, Anxiety, PTSD Symptoms | intr: Psilocybin
+- NCT06666010 | NOT_YET_RECRUITING | results=False | PHASE2 | PEX010-Assisted Therapy for Stimulant Use Disorder: A Safety, Feasibility and Efficacy Study | conds: Stimulant Use Disorder | intr: PEX010-Assisted Therapy, PEX010(01)
+- NCT07490353 | RECRUITING | results=False | PHASE1 | Elucidating the Relevance of the Psychedelic Experience to Psilocybin's Anti-Anhedonic Effects | conds: Depression - Major Depressive Disorder, Anhedonia | intr: Psilocybin (Usona Institute), Risperidone 1 MG, MRI
+- NCT05585229 | RECRUITING | results=False | PHASE2 | Standardized Natural Psilocybin-assisted Psychotherapy for Tapering of Opioid Medication | conds: Opioid Dependence, Chronic Pain | intr: Psilocybin-assisted Psychotherapy
+- NCT06818994 | RECRUITING | results=False | PHASE1 | Safety and Efficacy of Psilocybin-assisted Psychotherapy for Demoralization Syndrome in Patients Diagnosed With Advanced Stage Cancer | conds: Demoralization, Safety | intr: Psilocybin-assisted Psychotherapy
+- NCT05478278 | COMPLETED | results=False | PHASE1 | An Evaluation of Psilocybin's Effect on Cardiac Repolarization and the Effect of Food on Psilocybin's Pharmacokinetics | conds: QTc Interval, Pharmacokinetics | intr: Psilocybin, Moxifloxacin, Micro-Crystalline Cellulose
+- NCT06102434 | SUSPENDED | results=False | EARLY_PHASE1 | Safety Profile of Psilocybin for Cocaine Use Disorder | conds: Cocaine Use Disorder | intr: Psilocybin
+- NCT06899334 | RECRUITING | results=False | PHASE1 | Direct Comparison of Altered States of Consciousness Induced by LSD, Psilocybin, and DMT in Healthy Participants | conds: Healthy | intr: LSD, Psilocybin, DMT, Placebo
+- NCT06405607 | RECRUITING | results=False | PHASE2 | Psilocybin or Ketamine for Alcohol Use Disorder: An Active Comparator Trial | conds: Alcohol Use Disorder, Alcohol Dependence, Alcohol Abuse | intr: Psilocybin, Ketamine
+- NCT06564818 | COMPLETED | results=False | PHASE3 | "A Study of a Deuterated Psilocin Analog (CYB003) in Humans With Major Depressive Disorder" | conds: Major Depressive Disorder | intr: CYB003, Psychological Support, Placebo
+- NCT07895134 | NOT_YET_RECRUITING | results=False | PHASE2 | Psilocybin for Depression in Veterans | conds: Major Depression | intr: Psilocybin, modafinil, zolpidem, pimavanserin
+- NCT06731621 | ACTIVE_NOT_RECRUITING | results=False | PHASE1 | Psilocybin for Treatment-Resistant Depression in Autism | conds: Treatment Resistant Depression, Autism Spectrum Disorder | intr: Psilocybin
+- NCT07226232 | RECRUITING | results=False | PHASE3 | Psilocybin Intervention for Veterans Overcoming Treatment-Resistant Depression | conds: Major Depression | intr: Psilocybin, Psilocybin
+- NCT06798636 | RECRUITING | results=False | EARLY_PHASE1 | PsiloIMAGINE: A Psychedelic-augmented Mental Imagery-based Intervention for Young People With Self-harm | conds: Self Harm | intr: Psilocybin 5 mg with cognitive behavioural therapy intervention, Placebo with cognitive behavioural 
+- NCT07610135 | RECRUITING | results=False | PHASE1,PHASE2 | Psilocybin Efficacy With or Without Pimavanserin Pretreatment | conds: Mood (Psychological Function), Well Being, Mood, Healthy | intr: Psilocybin, Pimavanserin, Inactive Placebo
+- NCT06235411 | COMPLETED | results=False | NA | Psilocybin in Alcohol Use Disorder With Comorbid Depression | conds: Alcohol-Related Disorders, Depressive Disorder, Addiction | intr: Psilocybin therapy, Inactive Psilocybin therapy, Electroencephalogram, Blood samples for the analysi
+- NCT04932434 | COMPLETED | results=True | PHASE2 | Psilocybin Therapy for Depression and Anxiety in Parkinson's Disease | conds: Parkinson Disease, Depression, Anxiety | intr: Psilocybin therapy
+- NCT02950467 | COMPLETED | results=True | PHASE1 | Psilocybin-assisted Group Therapy for Demoralization in Long-term AIDS Survivors | conds: Distress, Depression, Grief | intr: Psilocybin, Modified brief Supportive Expressive Group Therapy | pubs: ['33150319:DERIVED (new)']
+- NCT07565493 | RECRUITING | results=False | EARLY_PHASE1 | Psilocybin Administration With 5-HT1a Blockade | conds: Psychedelic Effects in Healthy Volunteers | intr: Pindolol, Placebo, Psilocybin
+- NCT07332143 | RECRUITING | results=False | PHASE2 | Psilocybin-Assisted Therapy | conds: PTSD | intr: psilocybin, Supportive Therapy, Prolonged Exposure Therapy
+- NCT04661514 | COMPLETED | results=False | PHASE2 | Evaluation of Psilocybin in Anorexia Nervosa: Safety and Efficacy | conds: Anorexia Nervosa | intr: Psilocybin | pubs: ['38988455:DERIVED (new)', '37488291:DERIVED (new)']
+- NCT05557643 | COMPLETED | results=False | PHASE1 | PAPR: PAP + MBSR for Front-line Healthcare Provider COVID-19 Related Burnout | conds: Depression, Burnout, Professional | intr: Psilocybin, Mindfulness-Based Stress Reduction (MBSR) | pubs: ['40972137:DERIVED (new)', '37302533:DERIVED (new)']
+- NCT05265546 | RECRUITING | results=False | PHASE1 | Investigating the Mechanisms of the Effects of Psilocybin on Visual Perception and Visual Representations in the Brain | conds: Perception Disorders | intr: Psilocybin
+- NCT05995769 | RECRUITING | results=False | PHASE2 | Psilocybin-Assisted Psychotherapy for Alcohol Use Disorder | conds: Alcohol Use Disorder, Alcoholism | intr: Psilocybin
+- NCT07703722 | RECRUITING | results=False | PHASE3 | Effect of Psilocybin and Structured Integrated Reframing Therapy on Gut-Brain Axis Biomarkers and Depression in Major Depressive Disorder | conds: Major Depressive Disorder, Post-Traumatic Stress Disorder (PTSD) | intr: Psilocybin, Structured Integrated Reframing Therapy (SIRT), Selective Serotonin Reuptake Inhibitor (
+- NCT07610369 | RECRUITING | results=False | PHASE2 | The Efficacy of Psilocybin Therapy for Depression in Parkinson's Disease | conds: Depression, Parkinson's Disease (PD) | intr: Psilocybin (drug), Psilocybin (drug)
+- NCT03429075 | COMPLETED | results=True | PHASE2 | Psilocybin vs Escitalopram for Major Depressive Disorder: Comparative Mechanisms | conds: Depressive Disorder, Major | intr: Psilocybin + Placebo, Psilocybin + Escitalopram | pubs: ['33852780:RESULT (new)', '39764567:DERIVED (new)', '38605658:DERIVED (new)', '38247730:DERIVED (new)', '37337526:DERIVED (new)', '35431912:DERIVED (new)', '35411074:DERIVED (new)']
+- NCT00957359 | COMPLETED | results=True | EARLY_PHASE1 | Psilocybin Cancer Anxiety Study | conds: Cancer | intr: Psilocybin, Niacin | pubs: ['31916890:DERIVED (new)', '27909164:DERIVED (new)']
+- NCT06455293 | RECRUITING | results=False | PHASE2 | Psilocybin Therapy for Depression in Parkinson's Disease | conds: Parkinson Disease, Depression | intr: Psilocybin, Pimavanserin
+- NCT07565909 | NOT_YET_RECRUITING | results=False | PHASE2 | Group Retreat Psilocybin Therapy for Healthcare Clinicians With Loss of Meaning in Their Work and Symptoms of Depression | conds: Depression, Anxiety | intr: Psilocybin
+- NCT07737054 | RECRUITING | results=False | EARLY_PHASE1 | Trauma-informed Psilocybin Assisted Psychotherapy (TiPAP) for PTSD | conds: Post-Traumatic Stress Disorder, PTSD | intr: Psilocybin (drug), Trauma-Focused Psychotherapy
+- NCT05399498 | COMPLETED | results=True | PHASE2 | Psilocybin in Co-occuring Major Depressive Disorder and Borderline Personality Disorder | conds: Borderline Personality Disorder, Major Depressive Disorder | intr: Psilocybin
+- NCT06386003 | ACTIVE_NOT_RECRUITING | results=False | PHASE2 | Psilocybin-Assisted Cognitive Processing Therapy for Chronic PTSD | conds: Post Traumatic Stress Disorder, PTSD, Chronic PTSD | intr: Psilocybin | pubs: ['39823496:DERIVED (new)']
+- NCT05227742 | WITHDRAWN | results=False | EARLY_PHASE1 | Exploratory Study of Low Dose Psilocybin | conds: Demoralization | intr: Psilocybin, Placebo
+- NCT07852832 | NOT_YET_RECRUITING | results=False | PHASE2 | Effects of Psilocybin on Craving in Nicotine Dependence | conds: Nicotine Dependence | intr: Psilocybin (drug)
+- NCT06132178 | RECRUITING | results=False | PHASE2 | Psilocybin rTMS for Treatment Resistant Depression | conds: Treatment Resistant Depression, MDD, Major Depressive Disorder, Recurrent Depression | intr: Psilocybin, Accelerated intermittent theta burst (aiTBS) rTMS treatment, Low-dose psilocybin, Sham A
+- NCT07169747 | RECRUITING | results=False | PHASE2 | Safety, Therapeutic Potential, and Mechanisms of Two Psilocybin Doses, Administered With Psychological Support in Young Adults With Anorexia | conds: Anorexia Nervosa | intr: Psilocybin | pubs: ['42378255:DERIVED (new)']
+- NCT06368492 | RECRUITING | results=False | NA | The Impact of Psilocybin on Pain in Fibromyalgia Patients | conds: Fibromyalgia | intr: Psilocybin, Hypnosis script
+- NCT06560658 | WITHDRAWN | results=False | NA | Optimizing Microdosing and Meditation | conds: Meditation, Microdosing | intr: Psilocybin, Meditation
+- NCT07296328 | RECRUITING | results=False | PHASE2 | Effects of Psilocybin on Speech Fluency, Struggle, and Brain Activity in People Who Stutter | conds: Stuttering | intr: Psilocybin, Speech therapy
+- NCT06626139 | RECRUITING | results=False | PHASE2 | Investigating the Interaction of Psilocybin and Context of Its Administration in Healthy Volunteers | conds: Healthy Participants With Lower-than-average Mental Well-being | intr: Psilocybin, Context 1, Context 2, Placebo
+- NCT06988319 | RECRUITING | results=False | PHASE1 | Psilocybin for Chronic Pelvic Pain (CPP) in Women: A Pilot Feasibility Study | conds: Chronic Pelvic Pain | intr: Psilocybin (Usona Institute)
+- NCT05243329 | UNKNOWN | results=False | PHASE2 | Investigating the Therapeutic Effects of Psilocybin in Treatment-Resistant Post-Traumatic Stress Disorder | conds: Treatment Resistant Disorders, Post Traumatic Stress Disorder | intr: Psilocybin
+- NCT05581797 | COMPLETED | results=False | NA | Psilocybin-assisted Interpersonal Therapy for Depression | conds: Depressive Disorder, Treatment-Resistant | intr: Psilocybin-assisted psychotherapy
+- NCT05403086 | RECRUITING | results=False | PHASE2 | Pragmatic Trial of Psilocybin Therapy in Palliative Care | conds: Demoralization | intr: Psilocybin, Ketamine | pubs: ['39260823:DERIVED (new)']
+- NCT05847686 | COMPLETED | results=True | PHASE1,PHASE2 | Psilocybin-Assisted Therapy for the Treatment of Cancer-Related Anxiety in Patients With Metastatic Cancer | conds: Hematopoietic and Lymphatic System Neoplasm, Metastatic Malignant Solid Neoplasm | intr: Counseling, Psilocybin, Questionnaire Administration | pubs: ['40051480:DERIVED (new)']
+- NCT07732166 | RECRUITING | results=False | EARLY_PHASE1 | Changes in Self-awareness Induced by Psychoactive Substances: an Experimental Study With Psilocybin. | conds: Healthy Adults | intr: Psilocybin (Usona Institute), Niacin 100 mg
+- NCT07719088 | RECRUITING | results=False | PHASE1 | Psilocybin Effects on Healthy Aging Biomarkers and Purpose in Life | conds: Aging, Longevity, Biomarkers of Aging | intr: Psilocybin (Usona Institute)
+- NCT06349083 | RECRUITING | results=False | PHASE2 | Neurobehavioral Mechanisms of Psilocybin-assisted Treatment for AUD | conds: Alcohol Use Disorder | intr: Psilocybin, Inactive Placebo, Supportive therapy sessions
+- NCT05554094 | COMPLETED | results=False | PHASE2 | Psilocybin for the Treatment of Veterans With Post-Traumatic Stress Disorder | conds: PTSD, Stress Disorders, Traumatic, Stress Disorders, Post-Traumatic, Trauma and Stressor Related Disorders | intr: Psilocybin | pubs: ['42533157:DERIVED (new)', '37142308:DERIVED (new)']
+- NCT06319378 | RECRUITING | results=False | PHASE2 | Cancer Related Major Depression Treated With a Single Dose of Psilocybin | conds: MDD | intr: psilocybin 25 mg sod, psilocybin 1 mg sod | pubs: ['41952163:DERIVED (new)']
+- NCT06605105 | ENROLLING_BY_INVITATION | results=False | PHASE3 | Phase III Long-term Extension Trial to Assess Safety and Efficacy of CYB003 in MDD (EXTEND) | conds: Major Depressive Disorder | intr: CYB003
+- NCT05710237 | COMPLETED | results=False | PHASE2 | Does Psilocybin Require Psychedelic Effects to Treat Depression? | conds: Treatment-resistant Depression | intr: Psilocybin 25 mg, Risperidone 1 MG, Placebo
+- NCT03554174 | ACTIVE_NOT_RECRUITING | results=False | PHASE1 | Psilocybin - Induced Neuroplasticity in the Treatment of Major Depressive Disorder | conds: Major Depressive Disorder | intr: Low Dose Psilocybin, Placebo, Medium Dose Psilocybin
+- NCT07211438 | RECRUITING | results=False | PHASE2 | Evaluating the Role of Psilocybin Monitors in Psilocybin Therapy for Treatment Resistant Depression | conds: Treatment-Resistant Depression | intr: Psilocybin
+- NCT07506395 | RECRUITING | results=False | PHASE1 | Group Psilocybin-Assisted Therapy for Post-Traumatic Stress Disorder | conds: PTSD | intr: Psilocybin | pubs: ['42395285:DERIVED (new)']
+- NCT06464367 | RECRUITING | results=False | EARLY_PHASE1 | Mechanistic Studies of Psilocybin in Headache Disorders | conds: Migraine | intr: Psilocybin, Placebo
+- NCT03806985 | TERMINATED | results=False | PHASE1 | Effects of Psilocybin in Concussion Headache | conds: Post-Traumatic Headache | intr: Placebo oral capsule, Low Dose Psilocybin, High Dose Psilocybin
+- NCT05220410 | COMPLETED | results=False | PHASE2 | The Safety and Efficacy of Psilocybin in Patients With Treatment-resistant Depression and Chronic Suicidal Ideation | conds: Treatment Resistant Depression, Suicidal Ideation | intr: Psilocybin | pubs: ['42138588:DERIVED (new)']
+- NCT07053917 | RECRUITING | results=False | PHASE1 | Psychedelic Healing: Adjunct Therapy Harnessing Opened Malleability | conds: Stroke, Chronic Stroke, Intracerebral Haemorrhage, Intracerebral Haemorrhage (ICH) | intr: Psilocybin (Usona Institute)
+- NCT00979693 | WITHDRAWN | results=False | PHASE2 | Psilocybin-Assisted Psychotherapy for Anxiety in People With Stage IV Melanoma | conds: Anxiety, Stage IV Melanoma | intr: psilocybin, psilocybin
+- NCT04353921 | TERMINATED | results=False |  | PSIL201 Long-term Follow-up Study: Psilocybin or Niacin / Major Depressive Disorder | conds: Major Depressive Disorder | intr: No intervention will be administered as part of this study.
+- NCT02981173 | COMPLETED | results=False | PHASE1 | Psilocybin for the Treatment of Cluster Headache | conds: Cluster Headache | intr: 0.143 mg/kg Psilocybin or 10 mg Psilocybin, 0.0143 mg/kg Psilocybin or 1 mg Psilocybin, Placebo | pubs: ['38581739:DERIVED (new)']
+- NCT04842045 | COMPLETED | results=False | PHASE1 | Pilot RECAP Study in Healthy Volunteers | conds: Psychedelic Experiences, Amnesia | intr: Psilocybin and Midazolam
+- NCT06299319 | COMPLETED | results=False | PHASE1 | Feasibility, Clinical Effects, and Safety of Psilocybin-assisted Psychotherapy for Treatment-resistant OCD | conds: Obsessive-Compulsive Disorder | intr: Psilocybin
+- NCT04959253 | COMPLETED | results=False | PHASE2 | Psilocybin in Depression Resistant to Standard Treatments | conds: Treatment Resistant Depression | intr: Psilocybin assisted therapy, Placebo assisted therapy | pubs: ['34853114:DERIVED (new)']
+- NCT05646303 | UNKNOWN | results=False | PHASE2 | Psilocybin-Assisted Psychotherapy in Adults With Alcohol Use Disorder (AUD) | conds: Alcohol Use Disorder | intr: Psilocybin, Placebo
+- NCT05370911 | ACTIVE_NOT_RECRUITING | results=False | PHASE1 | Effects of Repeated Psilocybin Dosing in OCD | conds: Obsessive-Compulsive Disorder | intr: Psilocybin | pubs: ['38264632:DERIVED (new)']
+- NCT06760533 | NOT_YET_RECRUITING | results=False | EARLY_PHASE1 | Psilocybin-Assisted Psychotherapy in Treating Irritable Bowel Syndrome (IBS) | conds: IBS - Irritable Bowel Syndrome | intr: Psilocybin 25 mg, Psychotherapy Treatment Session, Niacin 100 mg
+- NCT05698511 | ACTIVE_NOT_RECRUITING | results=False | PHASE1 | Neural and Physiological Correlates of Psychedelic Sub-states | conds: Psychedelic Experiences, Neuroimaging, Healthy Volunteers | intr: Psilocybin
+- NCT02421263 | COMPLETED | results=False | PHASE1 | The Effects of Psilocybin-Facilitated Experience on the Psychology and Effectiveness of Religious Professionals | conds: Religious or Spiritual Problem | intr: Psilocybin
+- NCT07048743 | RECRUITING | results=False | PHASE2 | Psilocybin-assisted Existential, Attachment and RelationaL (PEARL) Therapy for Caregivers of Patients With Advanced Cancer | conds: Caregiver Distress | intr: Psilocybin
+- NCT06943573 | RECRUITING | results=False | PHASE2 | Psilocybin-Assisted Therapy for Treatment-Resistant Depression in Bipolar II Disorder | conds: Bipolar II Depression | intr: psilocybin (25 mg), psilocybin 1mg micro-dose
+- NCT03356483 | COMPLETED | results=True | PHASE1 | Efficacy of Psilocybin in OCD: a Double-Blind, Placebo-Controlled Study. | conds: Obsessive-Compulsive Disorder | intr: Psilocybin (0.25mg/kg), Niacin (250mg) | pubs: ['37181888:DERIVED (new)']
+
+### OpenAlex no-PMID trial-worded - 159 hits, 47 without PMID, 47 new
+- new | 2026 | 10.5281/zenodo.24250932 | report | Tryptamine content of cultivated Psilocybe cubensis and the share of variability due to strain | Zenodo (CERN European Organization for N
+- new | 2026 | 10.48797/sl.2026.492 | article | Impact of psilocybin and Psilocybe cubensis extract on gut microbiota in Wistar Han rats | Science Letters
+- new | 2026 | 10.48797/sl.2026.497 | article | Psilocybin and Psilocybe cubensis extract exhibit divergent behavioural and toxicological effects in rats | Science Letters
+- new | 2026 | 10.21203/rs.3.rs-8319478/v1 | preprint | Safety and Efficacy of Microdosing Psilocybin over 8 Weeks for Major Depressive Disorder: A Randomized Clinical Trial | Research Square
+- new | 2026 | 10.51126/revsalus.v8isupii.46826 | article | Pure psilocybin reduces reward-associated preference while mushroom extract shows transient exploratory effects in rats | RevSALUS - Revista Científica da Rede Ac
+- new | 2026 | 10.5281/zenodo.23484000 | preprint | From cytotoxicity to clinical safety: Product-specific evidence and justified extrapolation for Cannabis and Psilocybe preparations | Zenodo (CERN European Organization for N
+- new | 2026 | 10.21203/rs.3.rs-8544354/v1 | preprint | The mushrooming of the psychedelic renaissance: A scoping review identifying trends in ongoing clinical trials | Research Square
+- new | 2026 | 10.1556/2054.2026.00505 | article | Reporting practices in psilocybin-assisted therapy trials for depression: A descriptive review and temporal overview | Journal of Psychedelic Studies
+- new | 2026 | 10.26685/urncst.1027 | review | A Systematic Review of EEG Predictors and Correlates of Psilocybin’s Treatment in Depression | Undergraduate Research in Natural and Cl
+- new | 2026 | 10.18290/rpsych2025.0017 | review | Psychedelic-Induced Changes in Personality Traits: A Systematic Review | Roczniki Psychologiczne
+- new | 2026 | 10.56975/jaafr.v4i5.509087 | article | Role of Psychological support in sustaining Antidepressants effects in Psilocybin - Assisted Clinical | JOURNAL OF ADVANCE AND FUTURE RESEARCH
+- new | 2026 | 10.47307/gmc.2026.134.s2.32 | review | Psilocybin as an alternative to conventional treatments: A systematic review | Gaceta Médica de Caracas
+- new | 2026 | 10.1556/2054.2026.00507 | review | Effect of psilocybin-assisted psychotherapy on anxiety symptoms: A systematic review and meta-analysis | Journal of Psychedelic Studies
+- new | 2025 | https://openalex.org/W7217199488 | article | ความชุกของการใช้เห็ดขี้ควายในประเทศไทย | Community Health Development Quarterly K
+- new | 2025 | 10.32388/xcfsag.2 | preprint | Psilocybin in Alcohol Use Disorder Maintains Abstinence Efficacy: A Scoping Review | Qeios
+- new | 2025 | 10.36303/sapj.0982 | article | Psilocybin: revealing the enigmas of a revolutionary fungi | SA pharmaceutical journal.
+- new | 2025 | 10.54033/cadpedv22n12-345 | article | Use of psilocybin for chronic pain: a scoping review with current evidence and prospection of literature and technology for future applications | Caderno Pedagógico
+- new | 2025 | 10.37221/eaef.18.2_92 | article | Assessment of influence of indoor environmental conditions on the growth of Chamsong-I mushroom (Lentinula edodes) | Engineering in Agriculture Environment a
+- new | 2024 | 10.1556/2054.2024.00379 | article | “The mushroom was more alive and vibrant”: Patient reports of synthetic versus organic forms of psilocybin | Journal of Psychedelic Studies
+- new | 2024 | https://openalex.org/W7218167124 | article | THE USE OF PSILOCYBIN MICRODOSAGE IN THE TREATMENT OF MENTAL DISORDERS: Claudia Varella Moizinho, Gustavo Amaral Silva, Luciana Lopes Guimarães, Valter Garcia Santos | UNISANTA. BioScience
+- new | 2024 | 10.1192/j.eurpsy.2024.1694 | article | Sex perspective on mandatory admission in acute psychotic patients | European Psychiatry
+- new | 2024 | https://openalex.org/W7110533292 | article | Psilocybin’s Role in Major Depressive Disorder: A Scoping Review | Digital Commons - George Fox University 
+- new | 2024 | 10.1192/j.eurpsy.2024.1695 | conference-abstract | Current situation regarding psychedelics and magic mushroom in Korea | European Psychiatry
+- new | 2023 | 10.35755/jmedassocthai.2023.07.13864 | article | Efficacy of a Thai Herbal Remedy in Patients with Mild Chronic Plaque Psoriasis: An Observer-Blinded Randomized, Standard Treatment-Controlled Trial | Journal of the Medical Association of Th
+- new | 2023 | 10.1101/2023.04.12.23288325 | preprint | A Phase I trial to inform clinical protocols for the safe administration of psilocybin-assisted psychotherapy | medRxiv
+- new | 2023 | 10.47820/recima21.v4i11.4311 | article | PSICOTERAPIA ASSISTIDA POR PSILOCIBINA PARA TRATAMENTO DE DEPRESSÃO E ANSIEDADE EM PACIENTES COM CÂNCER EM RISCO DE VIDA: UMA REVISÃO DE LITERATURA | RECIMA21 - Revista Científica Multidisci
+- new | 2023 | 10.12775/jehs.2023.43.01.009 | article | use of psilocybin in the treatment of psychiatric disorders – review | Journal of Education Health and Sport
+- new | 2022 | 10.52076/eacad-v3i3.298 | article | O Renascimento da Medicina Psicodélica | E-Acadêmica
+- new | 2022 | 10.26686/wgtn.19579795 | dissertation | The Therapeutic Efficacy of Psilocybin in a Preclinical Model of Depressive- and Anxiety-Like Symptomology | Open Access Victoria University of Welli
+- new | 2022 | 10.1053/j.ajkd.2022.01.189 | article | Recurrent UTIs Among CKD Patients: What's Behind Frequent Recurrences. Clinical Experience of One Nephrologist | American Journal of Kidney Diseases
+- new | 2021 | 10.5281/zenodo.5745891 | preprint | Microevidence for microdosing with psilocybin mushrooms: a double-blind placebo-controlled study of subjective effects, behavior, creativity, perception, cognition, and brain activ | Zenodo (CERN European Organization for N
+- new | 2021 | 10.37275/amcr.v1i2.7 | article | Case Report: Magic Mushroom (Psilocybe Cubensis) Intoxication | Archives of The Medicine and Case Report
+- new | 2021 | 10.12688/f1000research.28133.1 | article | Development of a physiologically based pharmacokinetic (PBPK) model of psilocybin and psilocin from magic mushroom in rats and humans | F1000Research
+- new | 2021 | 10.1101/2021.02.01.429102 | preprint | Cannabinoids is a “No-Go” While a Cancer Patient is on Immunotherapy; but is It Safe to Use Psychedelics During Cancer Immunotherapy? | bioRxiv (Cold Spring Harbor Laboratory)
+- new | 2020 | 10.37275/amcr.v1i2.505 | article | Case Report: Magic Mushroom (Psilocybe Cubensis) Intoxication | Archives of The Medicine and Case Report
+- new | 2020 | https://openalex.org/W3043468905 | preprint | Psychedelics, Safety and Clinical Trial Design | QSpace (Queen's University Library)
+- new | 2020 | https://openalex.org/W7224053178 | dissertation | Internship Report and Monograph entitled "Psilocybin as a Treatment for Depression and Distress in Cancer Patients" | Portuguese National Funding Agency for S
+- new | 2019 | https://openalex.org/W3156721563 | dissertation | Efficacy and Safety of Dictyophora Indusiata Fisch, Psilocybe Cubensis (Earle) Sing. and Sesame Oil compare with 0.1% Triamcinolone Lotion in Treating Psoriasis Patients : Open Lab | 
+- new | 2019 | https://openalex.org/W7132560012 | dissertation | The prospective analysis of intoxicated patients who developed shock and/or organ failure. | Çukurova University Institutional Reposi
+- new | 2019 | 10.29252/jmp.2.70.110 | article | Epidemiological Survey of Poisoning by Plants and Mushrooms in Loghman–e- Hakim Hospital of Tehran, Iran, 2007 – 2013 | Journal of Medicinal Plants
+- new | 2018 | 10.1016/j.toxac.2018.07.039 | conference-abstract | La consommation de psilocybes, une expérience pas si magique | Annales de Toxicologie Analytique
+- new | 2017 | 10.1016/j.mycmed.2017.04.021 | conference-abstract | Macromycètes émergents | Journal de Mycologie Médicale
+- new | 2017 | https://openalex.org/W2965398452 | dissertation | Studies for the Development of Effective Lucid Dream Induction Techniques | Adelaide Research & Scholarship (AR&S) (
+- new | 2015 | https://openalex.org/W1758022391 | article | PENGARUH PEMBERIAN EKSTRAK JAMUR PSILOCYBE CUBENSIS DOSIS BERTINGKAT TERHADAP RASA INGIN TAHU MENCIT SWISS WEBSTER YANG DIUKUR DENGAN MANUAL HOLE BOARD | Jurnal Kedokteran Diponegoro (Diponegoro
+- new | 2013 | https://openalex.org/W1557475187 | article | DETEKSI PSILOCIN URIN PADA MENCIT SWISS WEBSTER TERHADAP PEMBERIAN JAMUR PSILOCYBE CUBENSIS DOSIS BERTINGKAT. | Jurnal Kedokteran Diponegoro (Diponegoro
+- new | 2013 | https://openalex.org/W1516529021 | article | PENGARUH PEMBERIAN EKSTRAK JAMUR PSILOCYBE CUBENSIS DOSIS BERTINGKAT TERHADAP AKTIVITAS MOTORIK MENCIT SWISS WEBSTER DENGAN METODE ROTAROD MANUAL | Jurnal Kedokteran Diponegoro (Diponegoro
+- new | 2013 | https://openalex.org/W111833125 | dissertation | PENGARUH PEMBERIAN EKSTRAK JAMUR PSILOCYBE CUBENSIS DOSIS BERTINGKAT TERHADAP KESEIMBANGANMOTORIK DAN KOORDINASI MENCIT SWISS WEBSTER DENGAN METODE BALANCE BEAM | 
+
+## pulmonaria-officinalis (Pulmonaria officinalis) - name clause: "Pulmonaria officinalis"[tiab] OR "Pulmonariae herba"[tiab] OR "common lungwort"[tiab] OR "lungwort"[ti]
+
+### PubMed HT - 1 hits, 1 not already listed above, 1 new
+- new | 2024 | 39266954 | Comparative Study | First insight into the genomes of the Pulmonaria officinalis group (Boraginaceae) provided by repeatome analysis and comparative karyotyping. | BMC Plant Biol
+
+### PubMed SR - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SAFE - 3 hits, 3 not already listed above, 1 new
+- HELD REF-1544 | 2025 | 41012471 |  | Assessment of Antioxidant Activity and Dose-Dependent Effect on Genotoxicity/Antigenotoxicity of Pulmonaria officinalis Ethanolic Extract. | Pharmaceutics
+- HELD REF-1551 | 2024 | 39064624 |  | Insulin-Mimetic Activity of Herbal Extracts Identified with Large-Scale Total Internal Reflection Fluorescence Microscopy. | Nutrients
+- new | 1992 | 1305431 |  | [The anticoagulant action of a factor from the nondialyzed fraction of the ammoniacal extract of the lungwort, Pulmonaria mollissima]. | Eksp Klin Farmakol [rus]
+
+### PubMed OBS - 0 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 1 hits, 1 not already listed above, 0 new
+- HELD REF-1548 | 2017 | 28866770 | Review | Anti-coagulant activity of plants: mini review. | J Thromb Thrombolysis
+
+### ClinicalTrials.gov - 0 registered studies
+
+### OpenAlex no-PMID trial-worded - 39 hits, 32 without PMID, 32 new
+- new | 2026 | 10.1186/s43088-026-00768-5 | article | Pharmacometabolomic study of butanol and ethyl acetate fractions of Pulmonaria officinalis L. revealing neuroprotective effects in LPS-induced alzheimer’s | Beni-Suef University Journal of Basic an
+- new | 2026 | 10.1055/s-0045-1815388 | conference-paper | Comparison of the extraction efficiency of phytochemicals from plants used to support respiratory system function | Planta Medica
+- new | 2026 | https://openalex.org/W7214514246 | dissertation | Guardians of nature: a study of environmental volunteers and human-nature connections | Lund University Publications Student Pap
+- new | 2026 | 10.15244/pjoes/240373 | article | Effects of Flowering Inter-Crops on Ground Beetle (Coleoptera: Carabidae) Assemblages in Organic Raspberry and Strawberry Cultivation | Polish Journal of Environmental Studies
+- new | 2025 | https://openalex.org/W7138826882 | dissertation | Le déremboursement de l’homéopathie : conséquences économiques et perception de la thérapeutique du patient | HAL
+- new | 2025 | 10.2478/ffp-2025-0021 | article | Health condition and features of growth of age-old oak forests of natural origin | Folia Forestalia Polonica
+- new | 2025 | https://openalex.org/W7132585811 | dissertation | Plantes medicinals per a tractar úlceres cròniques: Revisió bibliogràfica i proposta terapèutica | RIUVic
+- new | 2023 | 10.1007/s10681-023-03198-x | article | Morphological characteristics and molecular markers of distyly in Primula obconica | Euphytica
+- new | 2023 | 10.70675/c5a15e8bz09a4z4851z9dc3z4f3cfe5eb115 | dissertation | Capacités spécifiques des pathogènes émergents du genre Achromobacter au cours de la mucoviscidose | theses.fr (ABES)
+- new | 2023 | 10.32859/era.26.61.1-27 | article | Plant ethnomedicine in Bosnia and Herzegovina, past and present | Ethnobotany Research and Applications
+- new | 2022 | 10.3390/app12136678 | article | Biological Activities and Phytochemicals of Lungworts (Genus Pulmonaria) Focusing on Pulmonaria officinalis | Applied Sciences
+- new | 2022 | 10.2174/1573401318666220415085219 | article | Nutraceutical Approach to the Management of Cystic Fibrosis | Current Nutrition & Food Science
+- new | 2022 | 10.3166/phyto-2022-0327 | article | Plantes médicinales de Hongrie | Phytothérapie
+- new | 2021 | 10.51910/ijhdr.v20i2-3.1062 | article | Survey COVID-19 first peak 2020 - Viewpoint of Belgian Homeopathic Medical Doctors. A retrospective observational survey | International Journal of High Dilution R
+- new | 2021 | 10.2478/jlecol-2021-0001 | article | Comparison of Forest Species- Diversity and Composition Inside and Outside of the Holedná Game Reserve (The City of Brno, Czech Republic) | Journal of Landscape Ecology
+- new | 2021 | 10.1111/1365-2745.13726 | article | The role of plant–pollinator interactions in structuring nectar microbial communities | Journal of Ecology
+- new | 2020 | 10.1111/1365-2745.13488 | article | Landscape context and plant population size affect morph frequencies in heterostylous Primula veris —Results of a nationwide citizen‐science campaign | Journal of Ecology
+- new | 2020 | 10.2478/ceer-2020-0031 | article | Horticultural Therapy in Greenery Design. Example of the “Światło” Hospice in Toruń | Civil And Environmental Engineering Repo
+- new | 2019 | 10.1111/jvs.12763 | article | Assessing sampling coverage of species distribution in biodiversity databases | Journal of Vegetation Science
+- new | 2019 | 10.3264/fg.2019.1022 | article | The DNA weights per nucleus (genome size) of more than 2350 species of the Flora of The Netherlands, of which 1370 are new to science, including the pattern of their DNA peaks | Online Publication Service of Würzburg U
+- new | 2018 | 10.11628/ksppe.2018.21.2.139 | article | Planting Plan for Flower Border based on the Flowering Period and Plant Height of Perennial Herbaceous Garden Plants in the Middle Part of Korea | Journal of people, plants, and environme
+- new | 2018 | 10.18054/pb.v119i4.4483 | article | Prediction of the appearance of tree of heaven in forest communities in western Slovenia | Periodicum Biologorum
+- new | 2018 | 10.1186/s13020-018-0172-2 | conference-abstract | Abstracts from the 2nd International Symposium on Phytochemicals in Medicine and Food (2-ISPMF) | Chinese Medicine
+- new | 2016 | 10.1016/j.flora.2016.04.003 | article | Does flowering synchrony contribute to the sustainment of dry grassland biodiversity? | Flora
+- new | 2016 | 10.1093/jpe/rtw055 | article | Fitness-related selection on floral traits in the distylous plantPrimula poissonii(Primulaceae) | Journal of Plant Ecology
+- new | 2015 | 10.17707/agricultforest.61.3.21 | article | INFLUENCE OF MEDICAL PLANTS ON HUMAN HEALTH AND URBAN ENVIRONMENT | The Journal Agriculture and Forestry
+- new | 2013 | https://openalex.org/W3150257049 | dissertation | Vegetation dynamics and restoration trials in limestone quarries: the botticino case study (Brescia, Italy) | BOA (University of Milano-Bicocca)
+- new | 2009 | https://openalex.org/W2982525131 | dissertation | An investigation into the performance of species in ecologically based ornamental herbaceous vegetation, with particular reference to competition in productive environments. | White Rose eTheses Online (University of
+- new | 2000 | 10.1659/0276-4741(2000)020[0364:tpions]2.0.co;2 | article | The Partial Influence of Norway Spruce Stands on Understorey Vegetation in Montane Forests of the Bavarian Alps | Mountain Research and Development
+- new | 1986 | https://openalex.org/W31631362 | article | Lexington studies of Cf-252 brachytherapy for advanced cervical and uterine cancer | OSTI OAI (U.S. Department of Energy Offi
+- new | 1963 | 10.5962/p.249470 | article | Results of Trials in the Gound Cover Demonstration Plots | Arnoldia.
+- new | 1835 | 10.5962/bhl.title.24868 | book | Essay on the mineral waters of Carlsbad for physicians and patients / by John de Carro ; with observations on the microscopic animalcules about the hot springs of Carlsbad by A.J.C | Biodiversity Heritage Library (Smithsoni
+
+## reynoutria-japonica (Reynoutria japonica) - name clause: "Reynoutria japonica"[tiab] OR "Polygonum cuspidatum"[tiab] OR "Fallopia japonica"[tiab] OR "Japanese knotweed"[tiab] OR "Hu Zhang"[tiab] OR "Huzhang"[tiab] OR "Polygoni Cuspidati"[tiab]
+
+### PubMed HT - 34 hits, 34 not already listed above, 33 new
+- new | 2026 | 42022531 |  | Panax ginseng-Polygonum cuspidatum is beneficial for alleviating atherosclerosis in ApoE(-/-) mice by modulating the composition of gut microbiota and related metabolites. | Front Cardiovasc Med
+- new | 2026 | 42730685 | Randomized Controlled Trial/Video-Audio Media/Research Support, Non-U.S. Gov't | Effectiveness of Topical Huzhang Sanhuang with Standard Nursing for Chemotherapy-Induced Phlebitis: Randomized Controlled Study. | J Vis Exp
+- new | 2026 | 41642121 | Randomized Controlled Trial | Precision health targeting TMAO in postmenopausal women: polyphenol effects modulated by urolithin A and equol metabotypes in a randomised, placebo-controlled crossover trial. | Food Funct
+- new | 2025 | 39534953 | Clinical Trial | Does a Polyherbal Medicine Enhance Cognition in Healthy Older Adults? An Exploratory Open-Label Study. | J Integr Complement Med
+- new | 2024 | 39769807 |  | Optimization of Cellulose Derivative-, PVA-, and PVP-Based Films with Reynoutria japonica Extract to Improve Periodontal Disease Treatment. | Materials (Basel)
+- new | 2024 | 38553375 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Equivalence Trial | Efficacy and safety of Huzhang Granule, a compound Chinese herbal medicine, for acute gouty arthritis: A double-blind, randomized controlled trial. | J Integr Med
+- new | 2023 | 37692777 | Systematic Review | Effect of heat-clearing and dampness-eliminating Chinese medicine for high-risk cervical cancer papillomavirus infection: a systematic review and meta-analysis of randomized contro | Front Med (Lausanne)
+- HELD REF-0980 | 2022 | 35281919 | Review | Reynoutria japonica Houtt for Acute Respiratory Tract Infections in Adults and Children: A Systematic Review. | Front Pharmacol
+- new | 2022 | 35365187 | Clinical Trial Protocol | Oral Huzhang granules for the treatment of acute gouty arthritis: protocol for a double-blind, randomized, controlled trial. | Trials
+- new | 2022 | 35176933 |  | Outcomes of a complementary and alternative medicine based on vitamins, herbal products, and amino acid as a first line treatment in idiopathic overactive bladder syndrome in men a | Urologia
+- new | 2021 | 34416295 | Randomized Controlled Trial | Treating unstable angina with detoxifying and blood-activating formulae: A randomized controlled trial. | J Ethnopharmacol
+- new | 2021 | 33802381 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S. | A Placebo-Controlled, Pseudo-Randomized, Crossover Trial of Botanical Agents for Gulf War Illness: Resveratrol (Polygonum cuspidatum), Luteolin, and Fisetin (Rhus succedanea). | Int J Environ Res Public Health
+- new | 2019 | 30940217 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Consumption of plant extract supplement reduces platelet activating factor-induced platelet aggregation and increases platelet activating factor catabolism: a randomised, double-bl | Br J Nutr
+- new | 2019 | 30333377 |  | Polydatin Regulates the Apoptosis and Autophagy of Fibroblasts Obtained from Patients with Ankylosing Spondylitis. | Biol Pharm Bull
+- new | 2017 | 29473382 | Comparative Study/Multicenter Study/Randomized Controlled Trial | A randomized, multicenter, controlled study, comparing efficacy and safety of a new complementary and alternative medicine (CAM) versus Solifenacin Succinate in women with overacti | Arch Ital Urol Androl
+- new | 2017 | 28703838 | Randomized Controlled Trial | Can trans resveratrol plus d-chiro-inositol and myo-inositol improve maternal metabolic profile in overweight pregnant patients? | Clin Ter
+- new | 2016 | 27468543 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | [Effect of Astragali and Angelica particle on proteinuria in Chinese patients with primary glomerulonephritis]. | J Tradit Chin Med [chi]
+- new | 2015 | 26137233 |  | Topical application of a cleanser containing extracts of Diospyros kaki folium, Polygonum cuspidatum and Castanea crenata var. dulcis reduces skin oil content and pore size in huma | Biomed Rep
+- new | 2015 | 25977389 | Research Support, Non-U.S. Gov't | Polydatin administration improves serum biochemical parameters and oxidative stress markers during chronic alcoholism: a pilot study. | In Vivo
+- new | 2014 | 26357619 | Review | Traditional Chinese Medicine Induced Liver Injury. | J Clin Transl Hepatol
+- new | 2014 | 24956862 | Randomized Controlled Trial | [Clinical study on treatment of carotid atherosclerosis with extraction of polygoni cuspidati rhizoma et radix and crataegi fructus: a randomized controlled trial]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2013 | 24244343 | Clinical Trial/Research Support, Non-U.S. Gov't/Retracted Publication | Resveratrol inhibits invasion and metastasis of colorectal cancer cells via MALAT1 mediated Wnt/β-catenin signal pathway. | PLoS One
+- new | 2013 | 23717757 |  | Effects of polygonum cuspidatum containing resveratrol on inflammation in male professional basketball players. | Int J Prev Med
+- new | 2013 | 24517053 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | [Treatment of gouty arthritis in different phases by a series of tongfeng granule: an efficacy observation]. | Zhongguo Zhong Xi Yi Jie He Za Zhi [chi]
+- new | 2012 | 22432802 | Systematic Review | Resveratrol: potential as anticancer agent. | J Diet Suppl
+- new | 2012 | 22679721 | Randomized Controlled Trial/Research Support, U.S. Gov't, Non-P.H.S. | [Stage-based treatment of integrative medicine on the quality of life in patients with gout]. | Zhongguo Zhong Xi Yi Jie He Za Zhi [chi]
+- new | 2010 | 20232616 | Review | Antioxidants and antiinflammatory dietary supplements for osteoarthritis and rheumatoid arthritis. | Altern Ther Health Med
+- new | 2010 | 20534755 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | An antiinflammatory and reactive oxygen species suppressive effects of an extract of Polygonum cuspidatum containing resveratrol. | J Clin Endocrinol Metab
+- new | 2009 | 19828108 |  | [Inhibiting cyclooxygenase and 5-lipoxygenase activities is an anti-inflammatory mechanism of Huzhang Gout Granule]. | Zhong Xi Yi Jie He Xue Bao [chi]
+- new | 2009 | 19777850 | Research Support, Non-U.S. Gov't | [Effect of Huzhang on expression of lung fibroblasts' MMP-2/TIMP-1mRNA in pulmonary fibrosis rats]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2009 | 20214324 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | [Effects of serial gout granules on insulin-resistance in primary gout patients]. | Zhongguo Zhong Xi Yi Jie He Za Zhi [chi]
+- new | 2008 | 18559233 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | [Stage-based treatment of gouty arthritis by combination therapy of traditional Chinese and Western medicines: a randomized controlled trial]. | Zhong Xi Yi Jie He Xue Bao [chi]
+- new | 2001 | 11951581 |  | Benefits of resveratrol in women's health. | Drugs Exp Clin Res
+- new | 1998 | 10453617 | Clinical Trial | A clinical study on bing gan ling oral liquid for treatment of hepatitis C. | J Tradit Chin Med
+
+### PubMed SR - 11 hits, 7 not already listed above, 6 new
+- new | 2025 | 40979480 | Review | Polydatin: A natural compound with multifaceted anticancer properties. | J Tradit Complement Med
+- new | 2024 | 38729537 | Review | The role of polydatin in inhibiting oxidative stress through SIRT1 activation: A comprehensive review of molecular targets. | J Ethnopharmacol
+- new | 2023 | 37575330 | Systematic Review | Effects of resveratrol in an animal model of osteoporosis: a meta-analysis of preclinical evidence. | Front Nutr
+- new | 2023 | 36933375 | Systematic Review | Role of emodin in atherosclerosis and other cardiovascular diseases: Pharmacological effects, mechanisms, and potential therapeutic target as a phytochemical. | Biomed Pharmacother
+- new | 2022 | 35770098 | Systematic Review | The Invasive Species Reynoutria japonica Houtt. as a Promising Natural Agent for Cardiovascular and Digestive System Illness. | Front Pharmacol
+- new | 2018 | 30200269 | Systematic Review | Resveratrol and Depression in Animal Models: A Systematic Review of the Biological Mechanisms. | Molecules
+- HELD REF-0984 | 2013 | 23707210 | Systematic Review | Botany, phytochemistry, pharmacology, and potential application of Polygonum cuspidatum Sieb.et Zucc.: a review. | J Ethnopharmacol
+
+### PubMed SAFE - 92 hits, 76 not already listed above, 74 new
+- new | 2026 | 41769699 | Review | Polydatin in respiratory diseases: multi-target mechanisms and therapeutic potential. | Front Pharmacol
+- new | 2026 | 41698319 |  | Evaluation of natural products for anti-halitosis activity based on methyl mercaptan inhibition. | J Breath Res
+- new | 2026 | 42666318 |  | Anticancer potential of Reynoutria japonica Houtt. in vitro root extract on lymphoma cell lines. | Front Pharmacol
+- new | 2026 | 41878904 |  | Polydatin Attenuates Zearalenone-Induced Hepatic Oxidative Injury through Dual Inhibition of Xanthine Oxidase and Activation of Nrf2 Antioxidant Pathway. | J Agric Food Chem
+- new | 2026 | 42841056 | Research Support, Non-U.S. Gov't | Nebulized Polygonum cuspidatum-derived nanovesicles loaded with dexamethasone synergistically ameliorate acute lung injury via metabolic-immune reprogramming. | Front Immunol
+- new | 2026 | 41046083 |  | Mechanism of Reynoutria Japonica Houtt and its active component luteolin in treating acute lung injury by targeting AKT1 to inhibit macrophage apoptosis and mitochondrial damage. | J Ethnopharmacol
+- new | 2026 | 41630279 | Case Reports/Review | A case report and a literature review of drug-induced liver injury caused by Huzhang according to the updated RUCAM. | Medicine (Baltimore)
+- new | 2026 | 41568493 |  | Multi-Pathway and Multi-Gene Molecular Mechanisms of Huoxue San in Fracture Healing and Blood Stasis. | Comb Chem High Throughput Screen
+- new | 2026 | 42478196 |  | Juglone Attenuates CCl₄-Induced Hepatic Injury in Mice With Associated Modulation of Oxidative Stress and Inflammasome-Related mRNA Expression. | Biomed Res Int
+- new | 2025 | 41106787 | Review | Protective effects of Polygonum cuspidatum bioactive constituents against cholestatic liver injury: A mechanistic review. | Fitoterapia
+- new | 2025 | 40348260 | Review | A comprehensive review on the adsorption of dyes onto activated carbons derived from harmful invasive plants. | Environ Res
+- new | 2025 | 40143185 |  | Chromatographic Analysis and Enzyme Inhibition Potential of Reynoutria japonica Houtt.: Computational Docking, ADME, Pharmacokinetic, and Toxicokinetic Analyses of the Major Compou | Pharmaceuticals (Basel)
+- new | 2025 | 40280316 |  | Polydatin reactivates mitochondrial bioenergetics and mitophagy while preventing premature senescence by modulating microRNA-155 and its direct targets in human fibroblasts with tr | Free Radic Biol Med
+- new | 2025 | 41350894 |  | Polydatin upregulates ZDHHC19 to promote apoptosis of acute myeloid leukemia cells via mediating BID palmitoylation. | Cell Commun Signal
+- new | 2025 | 41304883 |  | Potential Modulation of Polygoni Cuspidati Rhizoma et Radix on Breast Cancer Resistance Protein and Marked Alteration on Methotrexate Pharmacokinetics. | Pharmaceuticals (Basel)
+- new | 2025 | 40466881 |  | Integrated metabolomics and network pharmacology to explore the mechanism of Huzhang Erjin Decoction against ANIT-induced cholestatic hepatitis. | J Ethnopharmacol
+- new | 2024 | 38477208 | Review | The Potential of Natural Products in the Management of Cardiovascular Disease. | Curr Pharm Des
+- new | 2024 | 39086397 | Review | Advances in the role of resveratrol and its mechanism of action in common gynecological tumors. | Front Pharmacol
+- new | 2024 | 38819784 |  | Screening anti-anaphylactoid components in Polygonum cuspidatum via cell membrane chromatography with LC-MS targeting Mas-related G protein-coupled receptor X2. | J Sep Sci
+- new | 2024 | 37086042 | Review | Exploiting exotic pathogens as mycoherbicides against invasive alien weeds: Japanese knotweed as a case study. | Pest Manag Sci
+- new | 2024 | 37557937 |  | Comparative pharmacokinetics and tissue distribution of polydatin, resveratrol, and emodin after oral administration of Huzhang and Huzhang-Guizhi herb-pair extracts to rats. | J Ethnopharmacol
+- new | 2024 | 38788600 |  | Reynoutria japonica consisted of emodin-8-β-D-glucoside ameliorates Dermatophagoides farinae extract-induced atopic dermatitis-like skin inflammation in mice by inhibiting JAK/STAT | Biomed Pharmacother
+- new | 2023 | 37193181 | Review | The potential of Chinese medicines in the treatment of hyperuricemia. | Am J Transl Res
+- new | 2023 | 37101730 | Review | A Comprehensive Review of Herbal Supplements Used for Persistent Symptoms Attributed to Lyme Disease. | Integr Med (Encinitas)
+- new | 2023 | 36985607 |  | Quorum Quenchers from Reynoutria japonica in the Battle against Methicillin-Resistant Staphylococcus aureus (MRSA). | Molecules
+- new | 2023 | 37383595 | Review | Effect of resveratrol in gestational diabetes mellitus and its complications. | World J Diabetes
+- new | 2023 | 36906289 | Research Support, Non-U.S. Gov't | Polydatin inhibits mitochondrial damage and mitochondrial ROS by promoting PINK1-Parkin-mediated mitophagy in allergic rhinitis. | FASEB J
+- new | 2023 | 36677795 |  | Preparation of Solid Dispersion of Polygonum Cuspidatum Extract by Hot Melt Extrusion to Enhance Oral Bioavailability of Resveratrol. | Molecules
+- new | 2023 | 38027005 | Review | Advances in the pharmacological effects and molecular mechanisms of emodin in the treatment of metabolic diseases. | Front Pharmacol
+- HELD REF-0981 | 2023 | 36620922 | Review | Advances for pharmacological activities of Polygonum cuspidatum - A review. | Pharm Biol
+- new | 2022 | 36618923 | Review | Emodin in cardiovascular disease: The role and therapeutic potential. | Front Pharmacol
+- new | 2022 | 36605575 |  | Discovery of pulmonary fibrosis inhibitor targeting TGF-β RI in Polygonum cuspidatum by high resolution mass spectrometry with in silico strategy. | J Pharm Anal
+- new | 2022 | 35684257 |  | The Prediction of Distribution of the Invasive Fallopia Taxa in Slovakia. | Plants (Basel)
+- new | 2022 | 35820615 |  | Effects of resveratrol on lipid metabolism in liver of red tilapia Oreochromis niloticus. | Comp Biochem Physiol C Toxicol Pharmacol
+- new | 2022 | 34011255 |  | Quantitative Determination of Quercitrin Levels in Rat Plasma Using UHPLC-MS/MS and its Application in a Pharmacokinetic Study after the Oral Administration of Polygoni cuspidati F | Curr Pharm Biotechnol
+- new | 2021 | 33549012 |  | Protective effects of resveratrol liposomes on mitochondria in substantia nigra cells of parkinsonized rats. | Ann Palliat Med
+- new | 2021 | 34224813 |  | Linh Phu Khang Tue Tinh inhibited prostate proliferation in rats induced benign prostatic hyperplasia by testosterone propionate. | J Ethnopharmacol
+- new | 2021 | 34175446 |  | Toxicological safety evaluation of Qiguiyin formula in rats at the treatment phase and recovery phase. | J Ethnopharmacol
+- new | 2021 | 33763384 | Research Support, Non-U.S. Gov't | Botanical Medicines Cryptolepis sanguinolenta, Artemisia annua, Scutellaria baicalensis, Polygonum cuspidatum, and Alchornea cordifolia Demonstrate Inhibitory Activity Against Babe | Front Cell Infect Microbiol
+- new | 2020 | 32480216 | Review | Polydatin for treating atherosclerotic diseases: A functional and mechanistic overview. | Biomed Pharmacother
+- new | 2020 | 33362577 |  | Transcriptome Analysis of Juvenile Tilapia (Oreochromis niloticus) Blood, Fed With Different Concentrations of Resveratrol. | Front Physiol
+- new | 2020 | 33255404 |  | POCU1b, the n-Butanol Soluble Fraction of Polygoni Cuspidati Rhizoma et Radix, Attenuates Obesity, Non-Alcoholic Fatty Liver, and Insulin Resistance via Inhibitions of Pancreatic L | Nutrients
+- new | 2019 | 32018341 |  | Polygonum cuspidatum stem extract (PSE) ameliorates dry eye disease by inhibiting inflammation and apoptosis. | J Exerc Nutrition Biochem
+- new | 2019 | 30897821 | Research Support, Non-U.S. Gov't | Inhibition of Mitochondrial Complex Function-The Hepatotoxicity Mechanism of Emodin Based on Quantitative Proteomic Analyses. | Cells
+- new | 2019 | 30668433 | Comparative Study | Anti-allergic actions of F-PASA, a novel herbal cocktail, in IgE/antigen-mediated allergic responses in RBL-2H3 cells and passive cutaneous anaphylaxis in mice. | Phytomedicine
+- new | 2019 | 30901659 |  | Pharmacokinetics, tissue distribution and excretion study of trans-resveratrol-3-O-glucoside and its two metabolites in rats. | Phytomedicine
+- new | 2018 | 29138819 |  | Beneficial effect of resveratrol on α‑naphthyl isothiocyanate‑induced cholestasis via regulation of the FXR pathway. | Mol Med Rep
+- new | 2018 | 30347752 |  | The Protective Effect of Polygonum cuspidatum (PCE) Aqueous Extract in a Dry Eye Model. | Nutrients
+- new | 2018 | 29695964 |  | Root Extract of Polygonum cuspidatum Siebold & Zucc. Ameliorates DSS-Induced Ulcerative Colitis by Affecting NF-kappaB Signaling Pathway in a Mouse Model via Synergistic Effects of | Front Pharmacol
+- new | 2018 | 30245287 |  | Polydatin alleviated alcoholic liver injury in zebrafish larvae through ameliorating lipid metabolism and oxidative stress. | J Pharmacol Sci
+- new | 2018 | 29989058 |  | Bioactive constituents from cinnamon, hemp seed and polygonum cuspidatum protect against H(2)O(2) but not rotenone toxicity in a cellular model of Parkinson's disease. | J Tradit Complement Med
+- HELD REF-0979 | 2016 | 27188216 | Review | Emodin: A Review of its Pharmacology, Toxicity and Pharmacokinetics. | Phytother Res
+- new | 2016 | 26647105 | Research Support, Non-U.S. Gov't | Effects of resveratrol on collagen type II protein in the superficial and middle zone chondrocytes of porcine articular cartilage. | J Ethnopharmacol
+- new | 2015 | 26629245 |  | Resveratrol induces apoptosis in K562 cells via the regulation of mitochondrial signaling pathways. | Int J Clin Exp Med
+- new | 2015 | 26346937 |  | Fallopia japonica, a Natural Modulator, Can Overcome Multidrug Resistance in Cancer Cells. | Evid Based Complement Alternat Med
+- new | 2014 | 25059399 |  | Amelioration of doxorubicin‑induced cardiotoxicity by resveratrol. | Mol Med Rep
+- new | 2013 | 24423652 | Research Support, Non-U.S. Gov't/Review | Traditional Chinese medicine and related active compounds: a review of their role on hepatitis B virus infection. | Drug Discov Ther
+- new | 2013 | 23862567 | Research Support, Non-U.S. Gov't/Review | Polydatin: a review of pharmacology and pharmacokinetics. | Pharm Biol
+- new | 2013 | 23943324 | Research Support, Non-U.S. Gov't | Piperine potentiates the antidepressant-like effect of trans-resveratrol: involvement of monoaminergic system. | Metab Brain Dis
+- new | 2012 | 22108298 | Research Support, Non-U.S. Gov't/Review | Biological activity of piceatannol: leaving the shadow of resveratrol. | Mutat Res
+- new | 2012 | 21688187 | Research Support, Non-U.S. Gov't/Review | Resveratrol in cardiovascular disease: what is known from current research? | Heart Fail Rev
+- new | 2012 | 22813711 | Research Support, Non-U.S. Gov't | A new herb-drug interaction of Polygonum cuspidatum, a resveratrol-rich nutraceutical, with carbamazepine in rats. | Toxicol Appl Pharmacol
+- new | 2012 | 23029551 | Research Support, Non-U.S. Gov't | Protective effects of polydatin from Polygonum cuspidatum against carbon tetrachloride-induced liver injury in mice. | PLoS One
+- new | 2012 | 23069945 | Research Support, Non-U.S. Gov't | Pharmacokinetics and tissue distribution of resveratrol, emodin and their metabolites after intake of Polygonum cuspidatum in rats. | J Ethnopharmacol
+- new | 2012 | 22561559 |  | [Trimethoxystilbene and its effects on the proliferation and apoptosis of PASMCs]. | Zhong Nan Da Xue Xue Bao Yi Xue Ban [chi]
+- new | 2012 | 22521276 | Comparative Study/Research Support, Non-U.S. Gov't | Pharmacokinetic behavior of argirein, derived from rhein, is characterized as slow release and prolonged T₁/₂ of rhein in rats. | Eur J Pharm Sci
+- new | 2011 | 21422673 | Research Support, Non-U.S. Gov't | CAR-mediated up-regulation of CYP3A4 expression in LS174T cells by Chinese herbal compounds. | Drug Metab Pharmacokinet
+- new | 2010 | 20113506 | Research Support, Non-U.S. Gov't | Factors influencing the production of stilbenes by the knotweed, Reynoutria x bohemica. | BMC Plant Biol
+- new | 2009 | 19106037 |  | Lipid-lowering effects of polydatin from Polygonum cuspidatum in hyperlipidemic hamsters. | Phytomedicine
+- new | 2009 | 18657948 |  | Effects of polydatin from Polygonum cuspidatum on lipid profile in hyperlipidemic rabbits. | Biomed Pharmacother
+- new | 2007 | 18040066 | Research Support, Non-U.S. Gov't | Polygoni cuspidati radix inhibits the activation of Syk kinase in mast cells for antiallergic activity. | Exp Biol Med (Maywood)
+- new | 2005 | 15596479 | Research Support, Non-U.S. Gov't | Seasonal change in the balance between capacities of RuBP carboxylation and RuBP regeneration affects CO2 response of photosynthesis in Polygonum cuspidatum. | J Exp Bot
+- new | 2002 | 11859461 |  | Induction of apoptosis by 3,4'-dimethoxy-5-hydroxystilbene in human promyeloid leukemic HL-60 cells. | Planta Med
+- new | 2002 | 12208745 |  | Suppression of 7,12-dimethylbenz(a)anthracene-induced mammary carcinogenesis in rats by resveratrol: role of nuclear factor-kappaB, cyclooxygenase 2, and matrix metalloprotease 9. | Cancer Res
+- new | 2000 | 10843709 | Research Support, Non-U.S. Gov't | Resveratrol suppresses TNF-induced activation of nuclear transcription factors NF-kappa B, activator protein-1, and apoptosis: potential role of reactive oxygen intermediates and l | J Immunol
+- new | 1995 | 7603502 | Research Support, Non-U.S. Gov't | Emodin inhibits the mutagenicity and DNA adducts induced by 1-nitropyrene. | Mutat Res
+
+### PubMed OBS - 2 hits, 2 not already listed above, 2 new
+- new | 2023 | 37803793 | Research Support, Non-U.S. Gov't | Unveiling metabotype clustering in resveratrol, daidzein, and ellagic acid metabolism: Prevalence, associated gut microbiomes, and their distinctive microbial networks. | Food Res Int
+- new | 2014 | 24662306 | Research Support, Non-U.S. Gov't | Piceatannol attenuates cardiac hypertrophy in an animal model through regulation of the expression and binding of the transcription factor GATA binding factor 6. | FEBS Lett
+
+### PubMed REV - 60 hits, 16 not already listed above, 15 new
+- new | 2025 | 41046325 | Review/Research Support, Non-U.S. Gov't | Advances in understanding the functions and regulatory factors of secondary metabolites in Reynoutria japonica. | Plant Signal Behav
+- new | 2024 | 39524792 | Review | Progress on the mechanism of action of emodin against breast cancer cells. | Heliyon
+- HELD REF-0983 | 2024 | 38513776 | Review | Polygonum cuspidatum polysaccharide: A review of its extraction and purification, structure analysis, and biological activity. | J Ethnopharmacol
+- new | 2023 | 37732372 | Review | Research Progress and New Perspectives of Anticancer Effects of Emodin. | Am J Chin Med
+- new | 2022 | 34466134 | Review | Which East Asian herbal medicines can decrease viral infections? | Phytochem Rev
+- new | 2022 | 34936712 | Review | Old dog, new tricks: Polydatin as a multitarget agent for current diseases. | Phytother Res
+- new | 2021 | 35009007 | Review | Allelopathy of Knotweeds as Invasive Plants. | Plants (Basel)
+- new | 2021 | 33901876 | Review | SIRT1 provides new pharmacological targets for polydatin through its role as a metabolic sensor. | Biomed Pharmacother
+- new | 2020 | 32503734 | Review | The pharmacology, toxicology and therapeutic potential of anthraquinone derivative emodin. | Chin J Nat Med
+- new | 2020 | 33041391 | Review | Coronaviruses and Nature's Pharmacy for the Relief of Coronavirus Disease 2019. | Rev Bras Farmacogn
+- new | 2020 | 33164364 | Review | [Chemical constituents and their biosynthesis mechanisms of Polygonum cuspidatum]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2020 | 31836186 | Research Support, Non-U.S. Gov't/Review | Protective effects of polydatin on multiple organ ischemia-reperfusion injury. | Bioorg Chem
+- new | 2020 | 32389832 | Review | Insights into pharmacological mechanisms of polydatin in targeting risk factors-mediated atherosclerosis. | Life Sci
+- new | 2019 | 31623691 | Research Support, Non-U.S. Gov't/Review | The application of resveratrol to mesenchymal stromal cell-based regenerative medicine. | Stem Cell Res Ther
+- new | 2019 | 31206893 | Review | Medicinal plants in traumatic brain injury: Neuroprotective mechanisms revisited. | Biofactors
+- new | 2016 | 26999089 | Research Support, Non-U.S. Gov't/Review | New Potential Pharmacological Functions of Chinese Herbal Medicines via Regulation of Autophagy. | Molecules
+
+### ClinicalTrials.gov - 1 registered studies
+- NCT04462666 | UNKNOWN | results=False | PHASE2 | Oral Huzhang Granules for Acute Gouty Arthritis | conds: Gouty Arthritis | intr: Huzhang granule, Etoricoxib, Huzhang granule Placebo, Etoricoxib Placebo | pubs: ['35365187:DERIVED (new)']
+
+### OpenAlex no-PMID trial-worded - 221 hits, 50 without PMID, 50 new
+- new | 2026 | 10.1002/njb.05040 | article | Sexual reproduction in invasive Japanese knotweed (Reynoutria japonica) in south Sweden | Nordic Journal of Botany
+- new | 2026 | 10.5061/dryad.79cnp5j9k | dataset | Data from: Sexual reproduction in invasive Japanese knotweed (Reynoutria japonica) in south Sweden | DRYAD
+- new | 2026 | 10.1016/j.prmcm.2026.100882 | article | Resveratrol and curcumin in obesity: Mechanistic convergence, synergy, and the traditional Chinese medicine context | Pharmacological Research - Modern Chines
+- new | 2026 | 10.33915/etd.13476 | dissertation | Technology-Driven Approaches for Invasive Species Detection and Management | The Research Repository @ WVU (West Virg
+- new | 2026 | https://openalex.org/W7216943260 | dissertation | Japanese Knotweed as an Invasive Alien Species in the Haabersti District of Tallinn: Distribution and Management Approaches from an Environmental Governance Perspective | EMU DSpace
+- new | 2026 | 10.3897/aca.9.e201788 | conference-abstract | Building reliable reference dataset for large-scale mapping of invasive Solidago spp.: insights from classification of UAV images acquired across Poland | ARPHA Conference Abstracts
+- new | 2026 | 10.18325/jkmr.2026.36.4.81 | review | Clinical Evidence for Korean Medicine Interventions after Surgery for Meniscal Injury: A Systematic Review | Journal of Korean Medicine Rehabilitatio
+- new | 2025 | 10.1016/j.apsoil.2025.106416 | article | Fungal-based soil food webs, not local plant nor abiotic properties, are most affected by rhizome-derived secondary metabolites of Japanese knotweed (Reynoutria japonica) | Applied Soil Ecology
+- new | 2025 | 10.1111/rec.70028 | article | Dimensions of effective volunteer restoration techniques in North America | Restoration Ecology
+- new | 2025 | https://openalex.org/W7113341329 | dissertation | The spread of Japanese knotweed in Scania: Invasion suitability prediction using species distribution modelling | Lund University Publications Student Pap
+- new | 2024 | 10.3724/aauj.2024042 | article | Effects of Chinese herbal medicine smoking on antioxidant enzymes，detoxification enzymes activity，and gene expression in western honeybee（Apis mellifera） | ACTA AGRICULTURAE UNIVERSITATIS JIANGXIE
+- new | 2024 | https://openalex.org/W7112258615 | dissertation | Kan Street View-teknologi förbättra tillförligheten av distributionsdata för övervakning av invasiva arter? | Digitala vetenskapliga arkivet (Diva) (K
+- new | 2024 | 10.59973/ipil.77 | letter | Reply to "Various issues around the $L_1$-norm distance" | IPI Letters
+- new | 2023 | https://openalex.org/W7112101221 | dissertation | Understanding Land Change, Resultant Invasive Species Distribution and Management Potential in a Small Coastal Rhode Island Community | Digital Access to Scholarship at Harvard
+- new | 2023 | 10.1080/15481603.2023.2190203 | article | Mapping invasive alien plant species with very high spatial resolution and multi-date satellite imagery using object-based and machine learning techniques: A comparative study | GIScience & Remote Sensing
+- new | 2022 | 10.3368/er.40.3.165 | article | Compost Treatment Trials forIn SituControl of Japanese Knotweed (Polygonum cuspidatum) | Ecological Restoration
+- new | 2022 | 10.1111/wre.12528 | article | Time to kill the beast – Importance of taxa, concentration and timing during application of glyphosate to knotweeds | Weed Research
+- new | 2022 | 10.1017/inp.2022.26 | article | Citizen science and land use data provide insight into the invasive riparian plant composition of the Hudson River Valley watershed | Invasive Plant Science and Management
+- new | 2022 | 10.3390/pr10061131 | article | An Overview of Herbal Medicines for Idiopathic Pulmonary Fibrosis | Processes
+- new | 2021 | 10.21203/rs.3.rs-1078201/v1 | preprint | Effect of Reynoutria Japonic and Resveratrol on Sirt1/SOD/MDA of Adriamycin-Induced Renal Injury: A Randomised Trial | Research Square
+- new | 2021 | 10.21203/rs.3.rs-611679/v1 | preprint | Effect of Reynoutria Japonica and its Extract on Sirt1 in Cisplatin-Induced Renal Injury | Research Square
+- new | 2021 | 10.3390/iecag2021-10008 | conference-paper | Diachronic Mapping of Invasive Plants Using Airborne RGB Imagery in a Central Pyrenees Landscape (South-West France) | International Electronic Conference on A
+- new | 2021 | 10.23889/suthesis.58777 | dissertation | Enhancing Japanese knotweed control and longterm habitat restoration post-treatment | Cronfa (Swansea University)
+- new | 2021 | 10.30841/2307-5090.3.2021.246209 | article | Analysis of the Effectiveness of Various Types of Conservative Therapy for Chronic Bacterial Prostatitis | Health of Man
+- new | 2021 | 10.1111/wbm.12239 | article | Japanese knotweed control with winter soil injection of chemicals targeting the rhizome system | Weed Biology and Management
+- new | 2020 | 10.1186/s13750-020-0186-y | review | Management of UK priority invasive alien plants: a systematic review protocol | Environmental Evidence
+- new | 2020 | 10.5424/sjar/2020181-15542 | article | Efficacy of invasive alien plants in controlling Arionidae slugs | Spanish Journal of Agricultural Research
+- new | 2020 | 10.5246/jcps.2020.01.001 | article | Emodin and shikonin (quinones): an overview of their chemistry, plant sources, pharmacology and cytotoxic activities against lung cancer | Journal of Chinese Pharmaceutical Scienc
+- new | 2019 | 10.14199/ppp-2019-001 | article | Occurrence, productivity and the possibility of Japanese knotweed and giant knotweed control | Progress in Plant Protection
+- new | 2019 | 10.1564/v30_oct_02 | article | Sustainable Control of Japanese Knotweed | Outlooks on Pest Management
+- new | 2019 | 10.1130/abs/2019ne-328112 | conference-abstract | IMPACTS OF JAPANESE KNOTWEED (FALLOPIA JAPONICA) AT KOCHER PARK, COLUMBIA COUNTY, PA | Abstracts with programs - Geological Soc
+- new | 2018 | 10.3390/rs10101662 | article | Using Single- and Multi-Date UAV and Satellite Imagery to Accurately Monitor Invasive Knotweed Species | Remote Sensing
+- new | 2017 | 10.3390/data2040035 | article | Earth Observation for Citizen Science Validation, or Citizen Science for Earth Observation Validation? The Role of Quality Assurance of Volunteered Observations | Data
+- new | 2017 | 10.1007/s11829-017-9589-2 | article | Multiple invasions in urbanized landscapes: interactions between the invasive garden ant Lasius neglectus and Japanese knotweeds (Fallopia spp.) | Arthropod-Plant Interactions
+- new | 2016 | 10.1002/rra.3024 | article | Drivers of Plant Invasion at Broad and Fine Scale in Short Temperate Streams | River Research and Applications
+- new | 2015 | 10.1016/j.jag.2015.06.014 | article | Mapping of riparian invasive species with supervised classification of Unmanned Aerial System (UAS) imagery | International Journal of Applied Earth O
+- new | 2015 | 10.1515/biorc-2015-0011 | article | Alien and invasive species in plant communities of the Vistula and Brennica rivers gravel bars (Western Carpathians, Poland) | Biodiversity Research and Conservation
+- new | 2014 | 10.25560/23232 | article | Post-release assessment of Aphalara itadori (Hemiptera: Psyllidae) as a classical biological control agent of Fallopia japonica (Polygonaceae) | 
+- new | 2012 | 10.1016/j.jag.2012.05.004 | article | Mapping invasive Fallopia japonica by combined spectral, spatial, and temporal analysis of digital orthophotos | International Journal of Applied Earth O
+- new | 2010 | 10.1021/cen-v088n012.p004 | article | LETTERS | Chemical & Engineering News
+- new | 2009 | 10.5311/josis.0.0.338 | article | Earth Observation for Citizen Science validation, or, Citizen Science for Earth Observation validation? Role of the Quality Assurance of Volunteered Observations | RePEc: Research Papers in Economics
+- new | 2009 | 10.1016/j.biocontrol.2009.12.005 | article | Potential impact and non-target effects of Gallerucida bifasciata (Coleoptera: Chrysomelidae), a candidate biological control agent for Fallopia japonica | Biological Control
+- new | 2006 | https://openalex.org/W2552157818 | article | Japanese Knotweed Management Trial in Coos County | 
+- new | 2006 | 10.1016/j.ecolmodel.2006.08.004 | article | A simulation model of rhizome networks for Fallopia japonica (Japanese knotweed) in the United Kingdom | Ecological Modelling
+- new | 2004 | 10.1111/j.1654-1103.2004.tb02288.x | article | How does Reynoutria invasion fit the various theories of invasibility? | Journal of Vegetation Science
+- new | 2003 | https://openalex.org/W291143009 | article | Adirondack Park GIS interactive non-native invasive plant species project | eScholarship (California Digital Library
+- new | 2000 | 10.1111/j.1095-8339.2000.tb01589.x | article | Evidence for massive clonal growth in the invasive weed Fallopia japonica (Japanese Knotweed) | Botanical Journal of the Linnean Society
+- new | 1998 | 10.1046/j.1365-294x.1998.00498.x | article | The use of molecular markers to study patterns of genotypic diversity in some invasive alien Fallopia spp. (Polygonaceae) | Molecular Ecology
+- new | 1992 | https://openalex.org/W343608656 | article | Regeneration of Japanese knotweed (Fallopia japonica) from rhizomes and stems: observation from greenhouse trials | 
+- new | 1989 | https://openalex.org/W292797751 | article | Japanese knotweed herbicide screening trial applied as a roadside spray. | 

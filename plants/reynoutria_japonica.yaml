@@ -191,6 +191,13 @@ contraindications:
   - REF-0236
   - REF-0063
   status: verified
+- note: 'Liver: a 72-year-old developed liver injury after 14 days of a herbal formula containing Japanese
+    knotweed root (Huzhang); causality was rated probable, and the authors point to its emodin content,
+    especially for older people and long-term users (case report and review).'
+  severity: caution
+  reference_ids:
+  - REF-5614
+  status: verified
 references:
 - REF-0979
 - REF-0980
@@ -227,4 +234,25 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   on Selected Medicinal Plants", 2007, no volume or page) - no WHO knotweed monograph could be
   located and WHO pages refuse automated access; purged and deleted as unverifiable. Herb-pair
   study REF-0985 purged and deleted (mixture). Mixture-only RTI SR REF-0980 removed from the
-  anti-inflammatory action (kept in references). Four reviews retagged narrative-review.'
+  anti-inflammatory action (kept in references). Four reviews retagged narrative-review.
+  | 2026-11-27: symptom-source audit research-deepening batch 27 - Searched PubMed (Reynoutria
+  japonica / Polygonum cuspidatum / Fallopia japonica / Japanese knotweed / Hu Zhang / Polygoni
+  Cuspidati tiab; "resveratrol" alone was not searched because most resveratrol comes from other
+  sources: 34 HT, 11 SR, 92 SAFE hits), Europe PMC, ClinicalTrials.gov (1) and OpenAlex. Added:
+  2026 RUCAM-assessed liver-injury case as a caution; 2025 rat methotrexate pharmacokinetic study
+  as a DRAFT immunosuppressants interaction (insufficient; needs owner approval). Not added:
+  Huzhang granule, Tongfeng and Huzhang Sanhuang formulas, knotweed + hawthorn for carotid plaque,
+  aloe + grape + knotweed platelet supplement, pomegranate + knotweed + red clover TMAO trial
+  (combinations); 2010 extract trial and 2013 basketball-player study (inflammatory markers only,
+  surrogate); 2021 Gulf War illness resveratrol crossover (pseudo-randomized; no vocabulary
+  condition); polydatin alcoholism pilot (compound, surrogate); resveratrol-only trials and
+  reviews (compound with many sources); a general review of TCM liver injury; lab and animal
+  studies.'
+drug_class_interactions:
+- drug_class: immunosuppressants
+  severity: insufficient
+  mechanism: In rats, knotweed root at 1-2 g/kg changed blood levels of methotrexate (lower early exposure,
+    longer persistence at the higher dose) by acting on the BCRP drug transporter (animal and lab study).
+  reference_ids:
+  - REF-5615
+  status: draft

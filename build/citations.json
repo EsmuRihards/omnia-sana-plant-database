@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 4386,
+ "count": 4401,
  "citations": [
   {
    "ref_id": "REF-5100",
@@ -65,6 +65,36 @@
    "conditions": [
     "Pain (general)"
    ]
+  },
+  {
+   "ref_id": "REF-5614",
+   "key": "liang2026huzhangliverinjury",
+   "type": "article",
+   "title": "A case report and a literature review of drug-induced liver injury caused by Huzhang according to the updated RUCAM",
+   "authors": "Liang, X., Yang, X., Luo, T. and Dun, W.",
+   "journal": "Medicine",
+   "year": "2026",
+   "doi": "10.1097/MD.0000000000047385",
+   "url": "",
+   "link": "https://doi.org/10.1097/MD.0000000000047385",
+   "link_type": "doi",
+   "citation": "Liang, X., Yang, X., Luo, T. and Dun, W (2026) 'A case report and a literature review of drug-induced liver injury caused by Huzhang according to the updated RUCAM', Medicine, 105(5), pp. e47385. doi:10.1097/MD.0000000000047385",
+   "abstract": "RATIONALE: Herbal medicine-induced hepatotoxicity is a significant contributing factor to drug-induced liver injury (DILI), but the mechanisms underlying herbal medicine-induced hepatotoxicity remain unclear. This study reports a well-documented probable case of DILI caused by Huzhang (Polygoni Cuspidati Rhizoma et Radix) to elucidate its clinical presentation and potential mechanisms. PATIENT CONCERNS: A 72-year-old patient developed hepatocyte-type damage after continuous administration of a Huzhang-containing formula for 14 days. DIAGNOSES: After ruling out other causes via comprehensive exams, we reviewed the literature, excluded other medications, and applied the updated Roussel Uclaf Causality Assessment Method, which gave a score of 6 for Huzhang-induced DILI. INTERVENTIONS: The patient was treated with N-acetylcysteine and other supportive medications. OUTCOMES: The patient's liver function returned to normal after treatment. LESSONS: The hepatotoxicity mechanism of emodin in Huzhang was explored, and it was suggested that traditional Chinese medicines containing emodin, such as Huzhang, should be cautious about hepatotoxicity risks, particularly in elderly patients, long-term users, and those with a history of surgery.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "A case report and a literature review of drug-induced liver injury caused by Huzhang according to the updated RUCAM",
+   "plants": [
+    "Asian knotweed",
+    "Hu Zhang",
+    "Japanese knotweed"
+   ],
+   "scientific": [
+    "Reynoutria japonica"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-5515",
@@ -635,6 +665,68 @@
    ],
    "scientific": [
     "Lysimachia vulgaris"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5618",
+   "key": "szarpak2026psilocybincardiovascular",
+   "type": "article",
+   "title": "Cardiovascular safety of psilocybin in psychiatric practice: a narrative review",
+   "authors": "Szarpak, L., Pruc, M., Swieczkowski, D., Rybczynski, B., Pieta, A. and Cubała, W.J.",
+   "journal": "European Journal of Clinical Pharmacology",
+   "year": "2026",
+   "doi": "10.1007/s00228-026-04151-2",
+   "url": "",
+   "link": "https://doi.org/10.1007/s00228-026-04151-2",
+   "link_type": "doi",
+   "citation": "Szarpak, L., Pruc, M., Swieczkowski, D., Rybczynski, B., Pieta, A. and Cubała, W.J (2026) 'Cardiovascular safety of psilocybin in psychiatric practice: a narrative review', European Journal of Clinical Pharmacology, 82(8). doi:10.1007/s00228-026-04151-2",
+   "abstract": "PURPOSE: Psilocybin-assisted interventions are moving from efficacy trials toward psychiatric implementation. Cardiovascular interpretation is central to this transition because trial participants are generally medically selected, receive standardized pharmaceutical-grade doses, and are monitored more intensively than many patients encountered in routine care. This review translates the cardiovascular evidence into a risk-stratified psychiatric decision framework. METHODS: We conducted a structured narrative review of clinical trials, systematic reviews, meta-analyses, cardiovascular pharmacology, drug-interaction studies, product-standardization literature, and implementation guidance. Searches were updated through July 10, 2026. Evidence was selected purposively to address acute hemodynamics, corrected QT interval (QTc), 5-hydroxytryptamine receptor-mediated effects, valvular biology, repeated exposure, naturally derived product variability, and practical screening and monitoring. RESULTS: In supervised studies, pooled estimates indicate mean increases of approximately 19.0 mmHg in systolic blood pressure and 8.7 mmHg in diastolic blood pressure. The largest and most consistent group differences occur about 60-90 min after dosing and generally resolve within 4-6 h; heart-rate effects are smaller and less consistent. Serious acute cardiovascular events remain uncommon in selected participants. Risk interpretation changes with cardiovascular comorbidity, interacting medications, repeated exposure, and non-standardized mushroom products, whose active-alkaloid content can vary by more than an order of magnitude. Mean QTc effects at standard exposure are small. A 5-HT2B-mediated valvular concern remains biologically plausible under chronic exposure, but assay results and exposure-margin estimates are heterogeneous and clinical valvular injury has not been established. CONCLUSION: Current evidence supports monitored, intermittent administration of standardized psilocybin in carefully selected populations, not general cardiovascular reassurance across all products, exposure patterns, or psychiatric settings. Product identity, medication review, risk-stratified cardiovascular assessment, session monitoring, and explicit escalation pathways should be integrated into treatment planning.",
+   "tier": "narrative",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Cardiovascular safety of psilocybin in psychiatric practice: a narrative review",
+   "plants": [
+    "Psilocybin mushroom",
+    "Psilocybin mushrooms",
+    "golden teacher",
+    "magic mushroom"
+   ],
+   "scientific": [
+    "Psilocybe cubensis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5623",
+   "key": "singh2026psilocybincatatonia",
+   "type": "article",
+   "title": "Catatonia Associated With First-Time Psilocybin Exposure: A Case Report",
+   "authors": "Singh, J. and Mruthyunjaya, P.",
+   "journal": "Cureus",
+   "year": "2026",
+   "doi": "10.7759/cureus.106474",
+   "url": "",
+   "link": "https://doi.org/10.7759/cureus.106474",
+   "link_type": "doi",
+   "citation": "Singh, J. and Mruthyunjaya, P (2026) 'Catatonia Associated With First-Time Psilocybin Exposure: A Case Report', Cureus, 18(4), pp. e106474. doi:10.7759/cureus.106474",
+   "abstract": "In this case report, we highlight a 28-year-old male patient with predominantly retarded type of catatonia following a single incidence of psilocybin ingestion. This patient presented with a history of six months of mutism and inability to feed himself after consuming psilocybin for the first time. He did not have any history of psychiatric illness or substance use. Imaging and laboratory results were unremarkable. The goal of this case report is to document one of the earliest records of psilocybin-induced catatonia.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Catatonia Associated With First-Time Psilocybin Exposure: A Case Report",
+   "plants": [
+    "Psilocybin mushroom",
+    "Psilocybin mushrooms",
+    "golden teacher",
+    "magic mushroom"
+   ],
+   "scientific": [
+    "Psilocybe cubensis"
    ],
    "actions": [],
    "conditions": []
@@ -2970,6 +3062,37 @@
    "conditions": [
     "Arthritis / joint pain"
    ]
+  },
+  {
+   "ref_id": "REF-5625",
+   "key": "korthuis2026oregonpsilocybinservices",
+   "type": "article",
+   "title": "Safety and Mental Health Outcomes of Oregon State-Regulated Psilocybin Services",
+   "authors": "Korthuis, P.T., Cook, R.R., Gregoire, D., Stauffer, C.S., Luoma, J.B., Pertl, K., Des Jarlais, D., McCarty, D., Levander, X.A., Hoffman, K.A. and Wilson-Poe, A.R.",
+   "journal": "JAMA Network Open",
+   "year": "2026",
+   "doi": "10.1001/jamanetworkopen.2026.30608",
+   "url": "",
+   "link": "https://doi.org/10.1001/jamanetworkopen.2026.30608",
+   "link_type": "doi",
+   "citation": "Korthuis, P.T., Cook, R.R., Gregoire, D., Stauffer, C.S., Luoma, J.B., Pertl, K., Des Jarlais, D., McCarty, D., Levander, X.A., Hoffman, K.A. and Wilson-Poe, A.R (2026) 'Safety and Mental Health Outcomes of Oregon State-Regulated Psilocybin Services', JAMA Network Open, 9(8), pp. e2630608. doi:10.1001/jamanetworkopen.2026.30608",
+   "abstract": "IMPORTANCE: Few data inform implementation of emerging state-regulated psilocybin programs. OBJECTIVE: The Open Psychedelic Evaluation Nexus (OPEN) aims to assess the safety and participant outcomes of Oregon's regulated psilocybin services. DESIGN, SETTING, AND PARTICIPANTS: This cohort study included psilocybin clients enrolled between November 2024 and March 2026, with follow-up through June 2026, at 24 of 26 Oregon psilocybin service centers with active licenses. Eligible participants were consenting Oregon psilocybin services clients supervised by 83 licensed psilocybin facilitators. OPEN's client-facing platform collects confidential data at baseline and at 1 week, 1 month, and 3 months after psilocybin sessions supported by licensed facilitators. EXPOSURE: Receipt of Oregon psilocybin services. MAIN OUTCOMES AND MEASURES: Facilitator-reported psilocybin dose (in milligrams) and safety events during psilocybin session. Participant-reported depression (measured by the Participant Health Questionnaire-9), anxiety (Hospital and Anxiety Depression Scale), and PTSD (6-item PTSD Checklist [PCL-6]) symptoms; mental well-being; life satisfaction; harms; overall benefit; meaning; and services satisfaction. RESULTS: A total 346 participants were included (mean [SD] age, 49.5 [13.4] years; 181 women [52.5%]; 15 Asian [4.3%], 300 White [86.7%], 12 multiple races [3.5%]); 19 participants (5.5%) identified as veterans, 262 (76.6%) completed college, and 89 (29.0%) had a household income above $200 000. Reported substance use in the past 30 days was 203 (58.7%) for alcohol, 38 (11.0%) for nicotine or tobacco, and 127 [36.7%] for cannabis use; 44.2% were psychedelic-naive and received a mean (SD) psilocybin dose of 31.9 (11.2) mg. Retention was 93.1% at 1 week (322 participants), 92.8% at 1 month (321 participants), and 90.2% at 3 months (312 participants). Four individuals (1.2%, all psychedelic-naive) experienced adverse behavioral reactions requiring medical attention. Few participants reported their psilocybin experience as harmful (5 of 305 [1.6%] at 1 week, 6 of 321 [1.9%] at 1 month, and 7 of 312 [2.3%] at 3 months). At 1 month, 92.2% (296 of 321 participants) felt they benefited, and 58.6% (188 of 321 participants) ranked the experience among the 10 most meaningful of their life. At 3 months, participants reported decreased moderate-to-severe symptoms of depression (relative risk [RR], 0.40; 95% CI, 0.32-0.50), anxiety (RR, 0.29; 95% CI, 0.22-0.38), and PTSD symptoms (RR, 0.35; 95% CI, 0.27-0.45), and improved mental well-being (mean difference in Short Warwick-Edinburgh Mental Well-being Scale = 3.21; 95% CI, 2.66-3.76), and life satisfaction (RR, 1.31; 95% CI, 1.19-1.44) compared with baseline. Serious adverse reactions were uncommon, although at rates that were statistically significant. CONCLUSIONS AND RELEVANCE: In this multisite cohort of participants receiving state-regulated psilocybin services in Oregon, serious adverse reactions were uncommon. Most participants reported improvements in mental health, wellness, and life satisfaction. Longitudinal findings support safety and potential benefits that can inform clinicians, policymakers, and the public as other state-regulated psychedelic services emerge.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Safety and Mental Health Outcomes of Oregon State-Regulated Psilocybin Services",
+   "plants": [
+    "Psilocybin mushroom",
+    "Psilocybin mushrooms",
+    "golden teacher",
+    "magic mushroom"
+   ],
+   "scientific": [
+    "Psilocybe cubensis"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-5345",
@@ -7939,6 +8062,36 @@
    ]
   },
   {
+   "ref_id": "REF-5615",
+   "key": "hou2025knotweedmethotrexate",
+   "type": "article",
+   "title": "Potential Modulation of Polygoni Cuspidati Rhizoma et Radix on Breast Cancer Resistance Protein and Marked Alteration on Methotrexate Pharmacokinetics",
+   "authors": "Hou, Y.C., Li, P.Y., Lin, S.P., Hsu, P.W., Wu, M.H. and Yu, C.P.",
+   "journal": "Pharmaceuticals",
+   "year": "2025",
+   "doi": "10.3390/ph18111636",
+   "url": "",
+   "link": "https://doi.org/10.3390/ph18111636",
+   "link_type": "doi",
+   "citation": "Hou, Y.C., Li, P.Y., Lin, S.P., Hsu, P.W., Wu, M.H. and Yu, C.P (2025) 'Potential Modulation of Polygoni Cuspidati Rhizoma et Radix on Breast Cancer Resistance Protein and Marked Alteration on Methotrexate Pharmacokinetics', Pharmaceuticals, 18(11). doi:10.3390/ph18111636",
+   "abstract": "Background/Objectives: Polygoni Cuspidati Rhizoma et Radix (PCRR) is an herb and a source of a resveratrol-containing dietary supplement. Breast cancer resistance protein (BCRP) is an ATP-binding cassette transporter involved in numerous drug-related pharmacokinetic interactions. This study used both in vivo and in vitro models to investigate the modulation effect of PCRR ingestion on BCRP. Methods: Three groups of rats were orally administered methotrexate (MTX), a probe substrate of BCRP, without and with PCRR at 1.0 g/kg and 2.0 g/kg in a parallel design, and the MTX pharmacokinetics were compared among three treatments. The modulation effects of PCRR and its serum metabolites (PCRRM) on BCRP were assayed by in vitro models. Results: PCRR at 1.0 g/kg and 2.0 g/kg significantly decreased the area under the serum level-time curve from 0 to 240 min (AUC0-240) of MTX by 31% and 58%, respectively; 2.0 g/kg of PCRR markedly increased the area under the serum level-time curve from 240 to 2880 min (AUC240-2880) and the mean residence time (MRT) of MTX by 39% and 74%, respectively. The results of in vitro assays indicated that PCRR enhanced the function of BCRP by 33~48%; on the contrary, PCRRM reduced the function of BCRP by 200~209%. Conclusions: PCRR activated BCRP, whereas PCRRM inhibited BCRP, thereby the coadministration of PCRR reduced both the absorption and excretion of MTX in rats. In clinical practice, the concurrent use of PCRR with critical BCRP substrate drugs should be avoided.",
+   "tier": "preclinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Potential Modulation of Polygoni Cuspidati Rhizoma et Radix on Breast Cancer Resistance Protein and Marked Alteration on Methotrexate Pharmacokinetics",
+   "plants": [
+    "Asian knotweed",
+    "Hu Zhang",
+    "Japanese knotweed"
+   ],
+   "scientific": [
+    "Reynoutria japonica"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0645",
    "key": "pellegrino2025hericiumgastritis",
    "type": "article",
@@ -9546,6 +9699,37 @@
    ],
    "scientific": [
     "Inonotus obliquus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5622",
+   "key": "morris2024psilocybinpsychosis",
+   "type": "article",
+   "title": "A Case Report of Psilocybin-induced Psychosis in a Predisposed Patient",
+   "authors": "Morris, S.L.",
+   "journal": "Clinical Psychopharmacology and Neuroscience",
+   "year": "2024",
+   "doi": "10.9758/cpn.24.1180",
+   "url": "",
+   "link": "https://doi.org/10.9758/cpn.24.1180",
+   "link_type": "doi",
+   "citation": "Morris, S.L (2024) 'A Case Report of Psilocybin-induced Psychosis in a Predisposed Patient', Clinical Psychopharmacology and Neuroscience, 22(4), pp. 684--687. doi:10.9758/cpn.24.1180",
+   "abstract": "Psilocybin is gaining popularity as research shows potential benefits to those with anxiety, depression, and other mental health conditions. Individuals with risk factors for psychosis are typically excluded from such studies, limiting the empiric research of the risks and benefits in vulnerable populations. In the real-world setting, many individuals who seek treatment with psilocybin will have comorbid psychiatric conditions and other factors that predispose them to psychosis. We report a case of a patient with multiple predisposing risk factors, including a history of depression, personality disorder traits, and cannabis use, who experienced a psychotic episode with catatonic features and suicidality after several months of heavy psilocybin use. A review of similar previously published case reports demonstrates a pattern of psilocybin-induced psychosis occurring primarily in individuals with predisposing factors who have consumed either high or repeated doses of the drug. This case report furthers this pattern, which serves as both a warning that psilocybin use is not without risks and reassurance for researchers using much lower doses to treat mental illness.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "A Case Report of Psilocybin-induced Psychosis in a Predisposed Patient",
+   "plants": [
+    "Psilocybin mushroom",
+    "Psilocybin mushrooms",
+    "golden teacher",
+    "magic mushroom"
+   ],
+   "scientific": [
+    "Psilocybe cubensis"
    ],
    "actions": [],
    "conditions": []
@@ -20633,6 +20817,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5624",
+   "key": "simonsson2023psilocybinworseningipd",
+   "type": "article",
+   "title": "Assessing the risk of symptom worsening in psilocybin-assisted therapy for depression: A systematic review and individual participant data meta-analysis",
+   "authors": "Simonsson, O., Carlbring, P., Carhart-Harris, R., Davis, A.K., Nutt, D.J., Griffiths, R.R., Erritzoe, D. and Goldberg, S.B.",
+   "journal": "Psychiatry Research",
+   "year": "2023",
+   "doi": "10.1016/j.psychres.2023.115349",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.psychres.2023.115349",
+   "link_type": "doi",
+   "citation": "Simonsson, O., Carlbring, P., Carhart-Harris, R., Davis, A.K., Nutt, D.J., Griffiths, R.R., Erritzoe, D. and Goldberg, S.B (2023) 'Assessing the risk of symptom worsening in psilocybin-assisted therapy for depression: A systematic review and individual participant data meta-analysis', Psychiatry Research, 327, pp. 115349. doi:10.1016/j.psychres.2023.115349",
+   "abstract": "We conducted a meta-analysis using individual participant data from three, two-dose psilocybin trials for depression (N = 102) with the aim of assessing the risk of symptom worsening. Clinically significant symptom worsening occurred for a minority of participants in the psilocybin and escitalopram conditions (∼10%) and for a majority of participants in the waitlist condition (63.6%). Using data from the two trials with control arms, the psilocybin arm showed a lower likelihood of symptom worsening versus waitlist, and no difference in the likelihood of symptom worsening versus escitalopram. The limitation of a relatively small sample size should be addressed in future studies.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Assessing the risk of symptom worsening in psilocybin-assisted therapy for depression: A systematic review and individual participant data meta-analysis",
+   "plants": [
+    "Psilocybin mushroom",
+    "Psilocybin mushrooms",
+    "golden teacher",
+    "magic mushroom"
+   ],
+   "scientific": [
+    "Psilocybe cubensis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0936",
    "key": "tiwari2023nepeta",
    "type": "article",
@@ -20662,6 +20877,37 @@
    "actions": [
     "Antimicrobial"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5626",
+   "key": "gukasyan2023psilocybinssriattenuation",
+   "type": "article",
+   "title": "Attenuation of psilocybin mushroom effects during and after SSRI/SNRI antidepressant use",
+   "authors": "Gukasyan, N., Griffiths, R.R., Yaden, D.B., Antoine, D.G. and Nayak, S.M.",
+   "journal": "Journal of Psychopharmacology",
+   "year": "2023",
+   "doi": "10.1177/02698811231179910",
+   "url": "",
+   "link": "https://doi.org/10.1177/02698811231179910",
+   "link_type": "doi",
+   "citation": "Gukasyan, N., Griffiths, R.R., Yaden, D.B., Antoine, D.G. and Nayak, S.M (2023) 'Attenuation of psilocybin mushroom effects during and after SSRI/SNRI antidepressant use', Journal of Psychopharmacology, 37(7), pp. 707--716. doi:10.1177/02698811231179910",
+   "abstract": "BACKGROUND: Psilocybin is being studied for depression, but little is known about how it interacts with common antidepressants. Limited data suggest that psilocybin's effects may be diminished by serotonergic antidepressants acutely and even after a medication washout period. AIMS: To learn the extent to which antidepressants may diminish the effects of psilocybin-containing mushrooms both concurrently and after discontinuation of antidepressants. METHODS: Online retrospective survey of individuals with use of psilocybin mushrooms (1) with an antidepressant and/or (2) within 2 years of discontinuing an antidepressant. Participants who took mushrooms with an antidepressant and either took the same dose pre-antidepressant or took the same dose with other people not on antidepressant reported the strength of drug effects relative to their expectation. Participants who took mushrooms following discontinuation of an antidepressant also reported the presence of weakened effects. RESULTS: In reports (n = 611) of taking mushrooms with an antidepressant, probabilities [95% CI] of weaker than expected drug effects were 0.47 [0.41-0.54] (selective serotonergic reuptake inhibitors, SSRIs), 0.55 [0.44-0.67] (serotonin norepinephrine reuptake inhibitors, SNRIs) and 0.29 [0.2-0.39] (bupropion). Following SSRI/SNRI discontinuation (n = 1,542 reports), the probability of reduced drug effects was not significantly different from the earliest post-discontinuation timepoint (within 1 week) until 3-6 months, probability = 0.3 [0.20-0.46], p = 0.001. A sensitivity analysis found that removing responses involving fluoxetine, which has an especially long half-life, did not significantly alter this result. CONCLUSIONS: SSRI/SNRIs appear to weaken psilocybin drug effects relative to a non-serotonergic antidepressant. This dampening effect may last as long as 3 months following antidepressant discontinuation.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Attenuation of psilocybin mushroom effects during and after SSRI/SNRI antidepressant use",
+   "plants": [
+    "Psilocybin mushroom",
+    "Psilocybin mushrooms",
+    "golden teacher",
+    "magic mushroom"
+   ],
+   "scientific": [
+    "Psilocybe cubensis"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -21222,6 +21468,37 @@
    ],
    "scientific": [
     "Elettaria cardamomum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5619",
+   "key": "bae2023psilocybincardiacarrest",
+   "type": "article",
+   "title": "Cardiac Arrest Associated With Psilocybin Use and Hereditary Hemochromatosis",
+   "authors": "Bae, S., Vaysblat, M., Bae, E., Dejanovic, I. and Pierce, M.",
+   "journal": "Cureus",
+   "year": "2023",
+   "doi": "10.7759/cureus.38669",
+   "url": "",
+   "link": "https://doi.org/10.7759/cureus.38669",
+   "link_type": "doi",
+   "citation": "Bae, S., Vaysblat, M., Bae, E., Dejanovic, I. and Pierce, M (2023) 'Cardiac Arrest Associated With Psilocybin Use and Hereditary Hemochromatosis', Cureus, 15(5), pp. e38669. doi:10.7759/cureus.38669",
+   "abstract": "Recreational drug use is a significant public health concern in various countries. It is well understood that usage of psychedelics/hallucinogens, such as lysergic acid diethylamide (LSD), ecstasy, phencyclidine (PCP), and psilocybin-containing mushrooms, has increased significantly over the last few decades, particularly in adolescents and young adults, yet the effects of these recreational drugs are poorly understood. Psilocybin has recently been studied as an alternative to traditional antidepressant therapies with potentially benign side effects. Here, we present the case of a 48-year-old male with a past medical history of attention-deficit/hyperactivity disorder on lisdexamfetamine who presented after a syncopal episode witnessed by his wife at home. He was found to be in ventricular fibrillation and subsequently had an extensive workup with cardiac magnetic resonance imaging (MRI), ischemic evaluation, and electrophysiology, which were unrevealing. He then received an automatic implantable cardiac defibrillator and was incidentally found to have hereditary hemochromatosis on outpatient follow-up. His polypharmacy may have potentially led to catecholamine release, leading to ventricular arrhythmia.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Cardiac Arrest Associated With Psilocybin Use and Hereditary Hemochromatosis",
+   "plants": [
+    "Psilocybin mushroom",
+    "Psilocybin mushrooms",
+    "golden teacher",
+    "magic mushroom"
+   ],
+   "scientific": [
+    "Psilocybe cubensis"
    ],
    "actions": [],
    "conditions": []
@@ -24835,6 +25112,37 @@
    ],
    "scientific": [
     "Curcuma longa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5621",
+   "key": "halim2023psilocybinmania",
+   "type": "article",
+   "title": "Manic episode following psilocybin use in a man with bipolar II disorder: a case report",
+   "authors": "Halim, H.J., Burk, B.G., Fargason, R.E. and Birur, B.",
+   "journal": "Frontiers in Psychiatry",
+   "year": "2023",
+   "doi": "10.3389/fpsyt.2023.1221131",
+   "url": "",
+   "link": "https://doi.org/10.3389/fpsyt.2023.1221131",
+   "link_type": "doi",
+   "citation": "Halim, H.J., Burk, B.G., Fargason, R.E. and Birur, B (2023) 'Manic episode following psilocybin use in a man with bipolar II disorder: a case report', Frontiers in Psychiatry, 14, pp. 1221131. doi:10.3389/fpsyt.2023.1221131",
+   "abstract": "There has been an increase in research on the topic of psychedelic substances and their effects as treatment options in neuropsychiatric conditions. Psilocybin is a psychedelic drug that has recently garnered increased interest as an effective treatment modality for treatment-resistant depression, depression associated with terminal conditions, certain substance use disorders, and obsessive-compulsive disorder. However, sparse data exist as to the effects that psilocybin might have on patients at risk for mania, in large part secondary to the exclusion of this patient population from studies due to the concern for inducing mania or worsening illness course. We describe a case of a 21-year-old male with a recent diagnosis of bipolar II disorder who developed a manic episode following the ingestion of psilocybin in the form of hallucinogenic mushrooms. Given the incidence of depression in those with bipolar disorder, impulsivity, and a tendency to abuse substances associated with the illness, further research is needed into the risks of psilocybin and other psychedelic use in those with bipolar disorder.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Manic episode following psilocybin use in a man with bipolar II disorder: a case report",
+   "plants": [
+    "Psilocybin mushroom",
+    "Psilocybin mushrooms",
+    "golden teacher",
+    "magic mushroom"
+   ],
+   "scientific": [
+    "Psilocybe cubensis"
    ],
    "actions": [],
    "conditions": []
@@ -40710,6 +41018,37 @@
    ]
   },
   {
+   "ref_id": "REF-5620",
+   "key": "nayak2021psychedeliclithiumseizures",
+   "type": "article",
+   "title": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
+   "authors": "Nayak, S.M., Gukasyan, N., Barrett, F.S., Erowid, E., Erowid, F. and Griffiths, R.R.",
+   "journal": "Pharmacopsychiatry",
+   "year": "2021",
+   "doi": "10.1055/a-1524-2794",
+   "url": "",
+   "link": "https://doi.org/10.1055/a-1524-2794",
+   "link_type": "doi",
+   "citation": "Nayak, S.M., Gukasyan, N., Barrett, F.S., Erowid, E., Erowid, F. and Griffiths, R.R (2021) 'Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports', Pharmacopsychiatry, 54(5), pp. 240--245. doi:10.1055/a-1524-2794",
+   "abstract": "INTRODUCTION: Psychedelics show promise in treating unipolar depression, though patients with bipolar disorder have been excluded from recent psychedelic trials. There is limited information on the use of classic psychedelics (e. g., LSD or psilocybin) in individuals using mood stabilizers to treat bipolar disorder. This is important to know, as individuals with bipolar depression may attempt to treat themselves with psychedelics while on a mood stabilizer, particularly given enthusiastic media reports of the efficacy of psilocybin for depression. METHODS: This study analyzed reports of classic psychedelics administered with mood stabilizers from 3 websites (Erowid.org, Shroomery.org, and Reddit.com). RESULTS: Strikingly, 47% of 62 lithium plus psychedelic reports involved seizures, and an additional 18% resulted in bad trips while none of 34 lamotrigine reports did. Further, 39% of lithium reports involved medical attention. Most of the lamotrigine reports (65%) but few (8%) of the lithium reports were judged to not affect the psychedelic experience. DISCUSSION: Although further research is needed, we provisionally conclude that psychedelic use may pose a significant seizure risk for patients on lithium.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Classic Psychedelic Coadministration with Lithium, but Not Lamotrigine, is Associated with Seizures: An Analysis of Online Psychedelic Experience Reports",
+   "plants": [
+    "Psilocybin mushroom",
+    "Psilocybin mushrooms",
+    "golden teacher",
+    "magic mushroom"
+   ],
+   "scientific": [
+    "Psilocybe cubensis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1761",
    "key": "ghiasian2021plantago",
    "type": "article",
@@ -55383,6 +55722,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5616",
+   "key": "vargas2020psilocybinanxietyma",
+   "type": "article",
+   "title": "Psilocybin as a New Approach to Treat Depression and Anxiety in the Context of Life-Threatening Diseases-A Systematic Review and Meta-Analysis of Clinical Trials",
+   "authors": "Vargas, A.S., Luís, Â., Barroso, M., Gallardo, E. and Pereira, L.",
+   "journal": "Biomedicines",
+   "year": "2020",
+   "doi": "10.3390/biomedicines8090331",
+   "url": "",
+   "link": "https://doi.org/10.3390/biomedicines8090331",
+   "link_type": "doi",
+   "citation": "Vargas, A.S., Luís, Â., Barroso, M., Gallardo, E. and Pereira, L (2020) 'Psilocybin as a New Approach to Treat Depression and Anxiety in the Context of Life-Threatening Diseases-A Systematic Review and Meta-Analysis of Clinical Trials', Biomedicines, 8(9). doi:10.3390/biomedicines8090331",
+   "abstract": "Psilocybin is a naturally occurring tryptamine known for its psychedelic properties. Recent research indicates that psilocybin may constitute a valid approach to treat depression and anxiety associated to life-threatening diseases. The aim of this work was to perform a systematic review with meta-analysis of clinical trials to assess the therapeutic effects and safety of psilocybin on those medical conditions. The Beck Depression Inventory (BDI) was used to measure the effects in depression and the State-Trait Anxiety Inventory (STAI) was used to measure the effects in anxiety. For BDI, 11 effect sizes were considered (92 patients) and the intervention group was significantly favored (WMD = -4.589; 95% CI = -4.207 to -0.971; p-value = 0.002). For STAI-Trait, 11 effect sizes were considered (92 patients), being the intervention group significantly favored when compared to the control group (WMD = -5.906; 95% CI = -7.852 to -3.960; p-value ˂ 0.001). For STAI-State, 9 effect sizes were considered (41 patients) and the intervention group was significantly favored (WMD = -6.032; 95% CI = -8.900 to -3.164; p-value ˂ 0.001). The obtained results are promising and emphasize the importance of psilocybin translational research in the management of symptoms of depression and anxiety, since the compound may be effective in reducing symptoms of depression and anxiety in conditions that are either resistant to conventional pharmacotherapy or for which pharmacologic treatment is not yet approved. Moreover, it may be also relevant for first-line treatment, given its safety.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Psilocybin as a New Approach to Treat Depression and Anxiety in the Context of Life-Threatening Diseases-A Systematic Review and Meta-Analysis of Clinical Trials",
+   "plants": [
+    "Psilocybin mushroom",
+    "Psilocybin mushrooms",
+    "golden teacher",
+    "magic mushroom"
+   ],
+   "scientific": [
+    "Psilocybe cubensis"
+   ],
+   "actions": [],
+   "conditions": [
+    "Anxiety"
+   ]
+  },
+  {
    "ref_id": "REF-1156",
    "key": "amsterdam2019chamomile",
    "type": "article",
@@ -58441,6 +58813,37 @@
    "conditions": [
     "Cardiovascular / heart health"
    ]
+  },
+  {
+   "ref_id": "REF-5617",
+   "key": "austin2019psilocybecubensisaki",
+   "type": "article",
+   "title": "Acute renal injury cause by confirmed Psilocybe cubensis mushroom ingestion",
+   "authors": "Austin, E., Myron, H.S., Summerbell, R.K. and Mackenzie, C.",
+   "journal": "Medical Mycology Case Reports",
+   "year": "2019",
+   "doi": "10.1016/j.mmcr.2018.12.007",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.mmcr.2018.12.007",
+   "link_type": "doi",
+   "citation": "Austin, E., Myron, H.S., Summerbell, R.K. and Mackenzie, C (2019) 'Acute renal injury cause by confirmed Psilocybe cubensis mushroom ingestion', Medical Mycology Case Reports, 23, pp. 55--57. doi:10.1016/j.mmcr.2018.12.007",
+   "abstract": "Psilocybe mushrooms are consumed for their hallucinogenic properties. Fortunately, there are relatively few adverse effects associated with their consumption. This is the first reported case of acute kidney injury (AKI) secondary to confirmed ingestion of Psilocybe cubensis mushroom. A 15-year-old male developed symptomatic AKI 36 h post-ingestion of Psilocybe cubensis mushrooms. He was admitted to hospital with hypertension, nausea and abdominal pain and a creatinine of 450 mmol/L. A sample of the crop of mushrooms was confirmed by mass spectrometry to contain psilocin. On day 5 post-admission, he was discharged home. Outpatient follow-up confirmed complete resolution of his renal function.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Acute renal injury cause by confirmed Psilocybe cubensis mushroom ingestion",
+   "plants": [
+    "Psilocybin mushroom",
+    "Psilocybin mushrooms",
+    "golden teacher",
+    "magic mushroom"
+   ],
+   "scientific": [
+    "Psilocybe cubensis"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-2261",
@@ -61800,6 +62203,37 @@
    "conditions": [
     "Cancer (anticancer research)"
    ]
+  },
+  {
+   "ref_id": "REF-5613",
+   "key": "duborijakovacevic2019pygeumrattargetorgans",
+   "type": "article",
+   "title": "Kidney, skeletal muscle and myocardium as potential target sites of Pygeum africanum toxicity in Wistar rats",
+   "authors": "Duborija-Kovacevic, N. and Tomic, Z.",
+   "journal": "Revista Internacional de Andrologia",
+   "year": "2019",
+   "doi": "10.1016/j.androl.2017.12.006",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.androl.2017.12.006",
+   "link_type": "doi",
+   "citation": "Duborija-Kovacevic, N. and Tomic, Z (2019) 'Kidney, skeletal muscle and myocardium as potential target sites of Pygeum africanum toxicity in Wistar rats', Revista Internacional de Andrologia, 17(1), pp. 8--14. doi:10.1016/j.androl.2017.12.006",
+   "abstract": "OBJECTIVE: Extract of Pygeum africanum (PAE) is commonly used herbal medication in the treatment of benign prostatic hyperplasia. In Montenegro and neighboring countries, PAE is primarily advertised as dietary supplement in the treatment of erectile dysfunction. The purpose of this study was to broaden the current cognition concerning its safety profile. MATERIAL AND METHODS: Twenty-four adult male Wistar rats were used. The first control group (O) received water and second control group (OO) received olive oil for 30 days. The third and fourth groups (PA5 and PA10) were treated with PAE dissolved in olive oil (50 and 100mg/kg p.o. daily). The behavior of animals was observed continuously, bodyweight gain (BWG) was calculated weekly and the weight of selected organs was measured at the end of experiment. Total protein and glutathione content of the liver were analyzed. Standard biochemical analyses were also performed. RESULTS: BWG was higher in PA5 compared to both controls at all measuring intervals. Liver weight/body weight ratio was significantly higher in PA10 in comparison with O. Prostate weight/body weight ratio was lower in both PA5 and PA10 compared to OO, achieving statistical significance in PA5. The value of creatinine was higher in PA5 and PA10 compared to both control groups, but achieving statistical significance in PA10 only. LDH was also increased in PA5 and PA10 compared to both controls. CONCLUSIONS: Both dosage regimens of PAE, particularly PA10, caused some toxicological effects in Wistar rats after one month of application. Kidney, skeletal muscle and/or myocardium are suspected as target sites of PA toxicity most likely. In order to provide more reliable conclusion it is necessary to conduct an additional research on the basis of these findings.",
+   "tier": "preclinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Kidney, skeletal muscle and myocardium as potential target sites of Pygeum africanum toxicity in Wistar rats",
+   "plants": [
+    "African cherry",
+    "African plum",
+    "Pygeum",
+    "Red stinkwood"
+   ],
+   "scientific": [
+    "Prunus africana"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-5450",
@@ -121808,6 +122242,37 @@
    "conditions": [
     "Indigestion"
    ]
+  },
+  {
+   "ref_id": "REF-5612",
+   "key": "gathumbi2002pygeumrattoxicity",
+   "type": "article",
+   "title": "Toxicity of chloroform extract of prunus africana stem bark in rats: gross and histological lesions",
+   "authors": "Gathumbi, P.K., Mwangi, J.W., Mugera, G.M. and Njiro, S.M.",
+   "journal": "Phytotherapy Research",
+   "year": "2002",
+   "doi": "10.1002/ptr.845",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.845",
+   "link_type": "doi",
+   "citation": "Gathumbi, P.K., Mwangi, J.W., Mugera, G.M. and Njiro, S.M (2002) 'Toxicity of chloroform extract of prunus africana stem bark in rats: gross and histological lesions', Phytotherapy Research, 16(3), pp. 244--7. doi:10.1002/ptr.845",
+   "abstract": "Chloroform extract of Prunus africana (Hook f. (Rosaceae) did not cause clinical signs or pathology in rats at daily oral doses of up to 1,000 mg/kg for 8 weeks. The extract caused marked clinical signs, organ damage and a 50% mortality rate at a dose of 3.3 g/kg for 6 days. The main lesions observed at this dose were marked centrilobular hepatocellular degeneration and necrosis, diffuse nephrosis, myocardial degeneration, lymphocytic necrosis and neuronal degeneration. The morphological damage in these tissues caused a corresponding rise in blood biochemical parameters namely, aspartate aminotransferase, alanine aminotransferase, alkaline phosphatase, lactate dehydrogenase, creatine kinase and blood urea nitrogen. The target organs of toxicity of this extract are the liver, kidney and heart. Overt toxicity occurred only after the administration of multiple doses of 3.3 g/kg body weight. These findings confirm the suitability of this extract for therapeutic use, since the doses used in the therapy of prostate gland are much lower than those used in this study and would therefore not be expected to cause pathological changes.",
+   "tier": "preclinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Toxicity of chloroform extract of prunus africana stem bark in rats: gross and histological lesions",
+   "plants": [
+    "African cherry",
+    "African plum",
+    "Pygeum",
+    "Red stinkwood"
+   ],
+   "scientific": [
+    "Prunus africana"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1112",

@@ -166,6 +166,14 @@ contraindications:
   reference_ids:
   - REF-1508
   status: verified
+- note: 'Lab safety: in rats, a bark extract caused no harm at up to 1,000 mg/kg daily for 8 weeks, with
+    liver, kidney and heart damage only at 3.3 g/kg; another month-long rat study at 50-100 mg/kg raised
+    creatinine and LDH and named the kidney, skeletal muscle and heart as possible targets (animal studies).'
+  severity: info
+  reference_ids:
+  - REF-5612
+  - REF-5613
+  status: verified
 references:
 - REF-1506
 - REF-1507
@@ -207,4 +215,14 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Canadian Journa
   from inflammation; retagged narrative-review. Cochrane 2002 (REF-0547) remains the current
   version.
   | 2026-11-10: symptom-source audit batch 13 - inflammation note rewritten to describe its direct
-  source (it said "inferred").'
+  source (it said "inferred").
+  | 2026-11-27: symptom-source audit research-deepening batch 27 - Searched PubMed (Prunus
+  africana / Pygeum africanum / pygeum / African cherry / Tadenan tiab: 48 HT, 12 SR, 42 SAFE
+  hits), Europe PMC, ClinicalTrials.gov (4) and OpenAlex. Prostate-support and urinary-support (9)
+  were not padded: the 2000 Am J Med meta-analysis and the older French and Italian placebo RCTs
+  are the trials the held Cochrane review pools. Added: two rat toxicity studies as an info note.
+  Not added: Pygeum + Urtica, Pygeum + benzydamine, L-cystine + saw palmetto + pumpkin seed +
+  pygeum hair-loss trial, Prostaquil (combinations), 1991 high-dose sexual-function series (18
+  patients, no control group), open Tadenan studies, the 2000 occupational asthma case from
+  "African cherry" (Makore) wood dust (Tieghemella heckelii, a different tree), East African
+  cancer reviews.'

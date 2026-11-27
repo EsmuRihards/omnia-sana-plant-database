@@ -218,6 +218,14 @@ indications:
   reference_ids:
   - REF-3778
   status: verified
+- condition: high-cholesterol
+  note: In a 2024 dose-response meta-analysis of 33 controlled trials (1,943 people), silymarin from milk
+    thistle lowered total cholesterol, LDL cholesterol and triglycerides; an earlier 2019 meta-analysis
+    found the cholesterol fall mainly when silymarin was combined with other treatments (compound evidence)
+  reference_ids:
+  - REF-5655
+  - REF-5656
+  status: verified
 contraindications:
 - note: Very well tolerated, even at high doses; the main effects are mild gastrointestinal upset (nausea,
     loose stools). As a member of the daisy family (Asteraceae), it can cause allergic reactions in sensitive
@@ -297,4 +305,19 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Phytotherapy Re
   an anti-TB DILI RCT REF-3772; Cochrane 2007 REF-3773 (alcoholic/viral hepatitis, benefit
   questioned) and the SyNCH HCV RCT REF-3774 recorded as no-effect. New pairs (owner rule):
   hot-flashes, menopause (placebo RCT), wounds (episiotomy RCT), skin-irritation (radiodermatitis
-  RCT). Gaps: OCD vs fluoxetine RCT, melasma, mucositis.'
+  RCT). Gaps: OCD vs fluoxetine RCT, melasma, mucositis.
+  | 2026-11-27: symptom-source audit research-deepening batch 31 - Searched PubMed (Silybum
+  marianum / milk thistle / Legalon tiab, "silymarin", "silibinin" and "silybin" in titles
+  (compound evidence): 434 HT (listing capped at 200), 79 SR, 1272 SAFE hits), Europe PMC,
+  ClinicalTrials.gov (135) and OpenAlex; lactation RCTs were also searched directly. Liver-support
+  (9) and blood-sugar (8) were not padded (2025-2026 cirrhosis, MASLD and insulin-resistance
+  meta-analyses). Added: NEW high-cholesterol pair (2024 dose-response meta-analysis of 33 trials;
+  2019 lipid meta-analysis alongside). GAPS: kidney-support - a 2025 meta-analysis of 7 trials
+  found lower serum creatinine, mostly in drug-induced acute kidney injury, with 93% heterogeneity
+  (creatinine only), so no pair; lactation-support - a 2008 placebo-controlled study of micronized
+  silymarin (BIO-C) reported more milk but does not state randomization, a 2015 double-blind RCT
+  in mothers of preterm infants did not show a clear benefit, and a 2016 trial combined silymarin
+  with galega, so no pair; high blood pressure - diastolic pressure fell by only 1.25 mmHg in the
+  2024 meta-analysis. Not added: silymarin OCD and depression trials and reviews (no OCD
+  condition; depression review mostly preclinical), network meta-analyses pooling curcumin,
+  resveratrol and berberine, radioprotection and cardiotoxicity reviews (mostly preclinical).'

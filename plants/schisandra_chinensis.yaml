@@ -236,6 +236,7 @@ contraindications:
   - REF-0506
   - REF-0505
   - REF-0583
+  - REF-5657
   status: verified
 - note: Traditionally avoided in pregnancy (uterine-stimulant reputation) and in epilepsy, peptic ulcer
     and raised intracranial pressure.
@@ -309,4 +310,14 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Antioxidants re
   (retagged systematic-review: PubMed SR/MA) removed from muscle-soreness. REF-0583 retagged
   narrative-review. Not used: muscle-strength RCTs 32260466/33710261 (strength, not soreness);
   Omija mixture RCT 35956334.
-  | 2026-11-19 (monograph-source audit): habitat and preparations[1] cited only REF-0506 (adaptogen history review). habitat RE-SOURCED to WHO Fructus Schisandrae vol. 3 (REF-3967, new) + PFAF REF-3336. preparations[1] was a decoction of dried berries often combined with other herbs; no source read states a decoction of the fruit (WHO lists dried fruits, tinctures, extracts, powders; PFAF''s decoction is of the BRANCHES), so it is now the dried-fruit entry WHO and the REF-0583 review support. Dropped: cool moist forests, climbing on trees along riverbanks, simmered, combined with other herbs.'
+  | 2026-11-19 (monograph-source audit): habitat and preparations[1] cited only REF-0506 (adaptogen history review). habitat RE-SOURCED to WHO Fructus Schisandrae vol. 3 (REF-3967, new) + PFAF REF-3336. preparations[1] was a decoction of dried berries often combined with other herbs; no source read states a decoction of the fruit (WHO lists dried fruits, tinctures, extracts, powders; PFAF''s decoction is of the BRANCHES), so it is now the dried-fruit entry WHO and the REF-0583 review support. Dropped: cool moist forests, climbing on trees along riverbanks, simmered, combined with other herbs.
+  | 2026-11-27: symptom-source audit research-deepening batch 31 - Searched PubMed (Schisandra
+  chinensis / Schizandra chinensis / Wu wei zi / Fructus Schisandrae tiab, "Schisandra" in titles;
+  Schisandra sphenanthera is a different species: 52 HT, 19 SR, 335 SAFE hits), Europe PMC,
+  ClinicalTrials.gov (27) and OpenAlex. Cognitive-function, fatigue and stress (7) were not
+  padded. Added: 2009 human talinolol study (schisandra raised talinolol exposure by 47%,
+  P-glycoprotein inhibition) to the drug-interaction info note. Not added: 2015 obese-women RCT
+  (no between-group differences; microbiota only; there is no metabolic pair), ADAPT-232,
+  Saengmaeksan, Shengmai, ImmunoGuard, schisandra + sesamin, ginseng-schisandra decoction and
+  other Chinese formulas (combinations), Chinese patent-medicine insomnia network meta-analyses
+  (formulas), preclinical liver and muscle meta-analyses.'

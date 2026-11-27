@@ -1,0 +1,1519 @@
+# Research-deepening batch 31 - search
+
+## schisandra-chinensis (Schisandra chinensis) - name clause: "Schisandra chinensis"[tiab] OR "Schizandra chinensis"[tiab] OR "Wu wei zi"[tiab] OR "Wuweizi"[tiab] OR "Fructus Schisandrae"[tiab] OR "Schisandrae chinensis"[tiab] OR "Schisandra"[ti]
+
+### PubMed HT - 52 hits, 52 not already listed above, 44 new
+- new | 2026 | 42869337 | Review | Schisandra chinensis in sepsis intervention through multi-target mechanisms and organ protection. | Fitoterapia
+- new | 2026 | 42284089 | Clinical Trial Protocol/Research Support, Non-U.S. Gov't | Evaluation of the TiaoShenZhiAi Regimen for Patients With Ovarian Cancer Experiencing a Psychoneurological Symptom Cluster: Protocol for a Multicenter, Double-Blind, Randomized Con | JMIR Res Protoc
+- new | 2026 | 41761792 |  | Synergistic immunomodulatory effects of Cistanche deserticola, Schisandra chinensis and Cornus officinalis on elderly patients with recurrent pneumonia: A retrospective clinical co | Pak J Pharm Sci
+- new | 2026 | 41901106 | Review | System-Level, Molecular and Cellular Mechanisms of Selected Plant Adaptogens-A Review. | Nutrients
+- new | 2026 | 41656269 | Randomized Controlled Trial | Effects of multi-herb and ashwagandha root formulas on stress modulation: a randomized, double-blind, placebo-controlled clinical study. | Trials
+- new | 2025 | 39701221 | Systematic Review/Comparative Study/Network Meta-Analysis | Comparative efficacy and safety of Chinese patent medicines for primary insomnia: A systematic review and network meta-analysis of 109 randomized trials. | J Ethnopharmacol
+- new | 2025 | 41426213 |  | Supplementation effects of feed additive containing eggshell, Schisandra chinensis by-products combined with multi-probiotics strains in laying hens. | J Anim Sci Technol
+- new | 2024 | 39038336 |  | Efficacy of Hepatoprotective Formula, Entecavir, and Continuous Nursing in Patients with Hepatitis B Cirrhosis. | Altern Ther Health Med
+- new | 2024 | 39398558 |  | Warming acupuncture-moxibustion combined with Bushen Qianggu Recipe effectively improves bone metabolism in osteoporosis patients. | Am J Transl Res
+- new | 2024 | 38650627 | Review | Sishen Pill and its active phytochemicals in treating inflammatory bowel disease and colon cancer: an overview. | Front Pharmacol
+- new | 2023 | 37432344 | Systematic Review | Changes in the Gut Microbiota after the Use of Herbal Medicines in Overweight and Obese Individuals: A Systematic Review. | Nutrients
+- new | 2023 | 37003405 |  | A herbal product inhibits carbon tetrachloride-induced liver fibrosis by suppressing the epidermal growth factor receptor signaling pathway. | J Ethnopharmacol
+- new | 2023 | 37425492 | Randomized Controlled Trial | Effect of Saengmaeksan on Fatigue, Liver Function, and Immunity Combined with High-Intensity Training. | J Immunol Res
+- new | 2023 | 37545453 |  | [Effects of Li-Dan-He-Ji on regulating oxidative stress and antagonising infantile cholestatic hepatic fibrosis]. | Zhonghua Wei Zhong Bing Ji Jiu Yi Xue [chi]
+- SEEN | 2022 | 35956334 | Randomized Controlled Trial | Efficacy and Safety of Omija (Schisandra chinensis) Extract Mixture on the Improvement of Hyperglycemia: A Randomized, Double-Blind, and Placebo-Controlled Clinical Trial. | Nutrients
+- new | 2021 | 34733682 | Published Erratum | Erratum to clinical observation of the effect of modified Ginseng-Schisandra decoction (MGSD) on trace elements and immune function in children with spleen deficiency syndrome afte | Transl Pediatr
+- new | 2021 | 34581060 | Network Meta-Analysis | [Network Meta-analysis of Chinese patent medicines of Ziziphi Spinosae Semen in treatment of primary insomnia]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2021 | 34295784 |  | Clinical observation of the effect of modified Ginseng-Schisandra decoction (MGSD) on trace elements and immune function in children with spleen deficiency syndrome after recurrent | Transl Pediatr
+- SEEN | 2021 | 33710261 | Randomized Controlled Trial | Effect of Schisandra chinensis Baillon extracts and regular low-intensity exercise on muscle strength and mass in older adults: a randomized, double-blind, placebo-controlled trial | Am J Clin Nutr
+- new | 2021 | 34738444 | Network Meta-Analysis | [Network Meta-analysis of efficacy and safety of Chinese patent medicines in treatment of insomnia]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2021 | 33838287 | Clinical Trial | Anti-inflammatory activity of the Tongmai Yangxin pill in the treatment of coronary heart disease is associated with estrogen receptor and NF-κB signaling pathway. | J Ethnopharmacol
+- new | 2020 | 32655670 | Review | Efficacy and Safety of Shengmai Injection for Chronic Heart Failure: A Systematic Review of Randomized Controlled Trials. | Evid Based Complement Alternat Med
+- SEEN | 2020 | 32260466 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of Schisandra Chinensis Extract Supplementation on Quadriceps Muscle Strength and Fatigue in Adult Women: A Randomized, Double-Blind, Placebo-Controlled Trial. | Int J Environ Res Public Health
+- new | 2018 | 30202758 |  | A Systematic Review and Meta-analysis on the Effect of Herbal Medicine to Manage Sleep Dysfunction in Peri- and Postmenopause. | J Menopausal Med
+- new | 2018 | 30031586 |  | Protective effects of Schisandrin on high glucose-induced changes of RhoA and eNOS activity in human umbilical vein endothelial cells. | Pathol Res Pract
+- new | 2018 | 29593545 |  | The Cytochrome P450-Mediated Metabolism Alternation of Four Effective Lignans From Schisandra chinensis in Carbon Tetrachloride-Intoxicated Rats and Patients With Advanced Hepatoce | Front Pharmacol
+- HELD REF-2480 | 2017 | 28864749 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Wuzhi Tablet (Schisandra sphenanthera Extract) is a Promising Tacrolimus-Sparing Agent for Renal Transplant Recipients Who are CYP3A5 Expressers: a Two-Phase Prospective Study. | Drug Metab Dispos
+- new | 2017 | 28698304 | Research Support, Non-U.S. Gov't | Prediction of Clinically Relevant Herb-Drug Clearance Interactions Using Sandwich-Cultured Human Hepatocytes: Schisandra spp. Case Study. | Drug Metab Dispos
+- HELD REF-0582 | 2016 | 27763802 | Randomized Controlled Trial | A randomized, double-blind, placebo-controlled trial of Schisandra chinensis for menopausal symptoms. | Climacteric
+- new | 2015 | 26048342 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Schisandra chinensis fruit modulates the gut microbiota composition in association with metabolic markers in obese women: a randomized, double-blind placebo-controlled study. | Nutr Res
+- new | 2014 | 25345125 | Research Support, Non-U.S. Gov't | [Molecular characters of Schisandra chinensis with white fruit by RAPD and ISSR makers]. | Zhong Yao Cai [chi]
+- new | 2013 | 22610748 | Randomized Controlled Trial | Improvement of liver function in humans using a mixture of schisandra fruit extract and sesamin. | Phytother Res
+- new | 2012 | 22686837 |  | A study about drug combination therapy of Schisandra sphenanthera extract and Rapamycin in healthy subjects. | Can J Physiol Pharmacol
+- new | 2012 | 22741474 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | [Clinical analysis of 106 cases on effect of supplementing qi and nourishing yin recipe in treating anovulatory dysfunctional uterine bleeding]. | Zhongguo Zhong Yao Za Zhi [chi]
+- HELD REF-2506 | 2011 | 21656210 | Clinical Trial/Controlled Clinical Trial/Letter | Effects of Schisandra sphenanthera extract on the blood concentration of tacrolimus in renal transplant recipients. | Eur J Clin Pharmacol
+- new | 2011 | 21359185 | Evaluation Study/Multicenter Study/Research Support, Non-U.S. Gov't | An epidemiological study of concomitant use of Chinese medicine and antipsychotics in schizophrenic patients: implication for herb-drug interaction. | PLoS One
+- new | 2010 | 20374974 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Double-blind, placebo-controlled, randomised study of single dose effects of ADAPT-232 on cognitive functions. | Phytomedicine
+- HELD REF-2505 | 2010 | 20197017 | Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Effect of Schisandra sphenanthera extract on the concentration of tacrolimus in the blood of liver transplant patients. | Int J Clin Pharmacol Ther
+- new | 2009 | 19552749 | Research Support, Non-U.S. Gov't | Effects of Schisandra sphenanthera extract on the pharmacokinetics of midazolam in healthy volunteers. | Br J Clin Pharmacol
+- new | 2009 | 19170145 | Randomized Controlled Trial | The influence of adaptogens on ultraweak biophoton emission: a pilot-experiment. | Phytother Res
+- new | 2009 | 19280523 | Research Support, Non-U.S. Gov't | Effect of Schisandra chinensis extract and Ginkgo biloba extract on the pharmacokinetics of talinolol in healthy volunteers. | Xenobiotica
+- HELD REF-1881 | 2008 | 18515024 | Review | Pharmacology of Schisandra chinensis Bail.: an overview of Russian research and uses in medicine. | J Ethnopharmacol
+- new | 2007 | 17506780 |  | Effects of Schisandra sphenanthera extract on the pharmacokinetics of tacrolimus in healthy volunteers. | Br J Clin Pharmacol
+- new | 2007 | 17913449 | Clinical Trial, Phase I | Fructus Schisandrae (Wuweizi) containing compound in modulating human lymphatic system - a Phase I minimization clinical trial. | Biomed Pharmacother
+- new | 2007 | 21901061 |  | The adaptogens rhodiola and schizandra modify the response to immobilization stress in rabbits by suppressing the increase of phosphorylated stress-activated protein kinase, nitric | Drug Target Insights
+- new | 2007 | 17684134 | Comparative Study/Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | A pilot and feasibility study on the effects of naturopathic botanical and dietary interventions on sex steroid hormone metabolism in premenopausal women. | Cancer Epidemiol Biomarkers Prev
+- new | 2006 | 16619374 |  | Effect of a combination of extract from several plants on cell-mediated and humoral immunity of patients with advanced ovarian cancer. | Phytother Res
+- new | 2005 | 16323290 | Clinical Trial, Phase III/Randomized Controlled Trial | Impact of Chisan (ADAPT-232) on the quality-of-life and its efficacy as an adjuvant in the treatment of acute non-specific pneumonia. | Phytomedicine
+- new | 2003 | 12809357 | Clinical Trial/Randomized Controlled Trial | Double-blind, placebo-controlled, randomized, pilot clinical trial of ImmunoGuard--a standardized fixed combination of Andrographis paniculata Nees, with Eleutherococcus senticosus | Phytomedicine
+- new | 1999 | 10228607 | Clinical Trial/Randomized Controlled Trial | Effects of heavy physical exercise and adaptogens on nitric oxide content in human saliva. | Phytomedicine
+- new | 1997 | 9174971 | Clinical Trial/Comparative Study/Randomized Controlled Trial | The effect of NaO Li Su on memory functions and blood chemistry in elderly people. | J Ethnopharmacol
+- new | 1996 | 23195076 |  | Reduction of serum hepatic transaminases and CPK in sport horses with poor performance treated with a standardized Schizandra chinensis fruit extract. | Phytomedicine
+
+### PubMed SR - 19 hits, 13 not already listed above, 12 new
+- new | 2026 | 41982662 | Systematic Review | Effects of schisandra extract on muscle atrophy: a systematic review and meta-analysis of preclinical studies. | Front Pharmacol
+- new | 2025 | 41446798 | Review | Cost-effectiveness analysis of commercial Chinese polyherbal preparations for primary insomnia: based on network meta-analysis. | Front Pharmacol
+- new | 2025 | 40832608 | Systematic Review | Efficacy of Schisandra chinensis in liver injury: a systematic review and preclinical meta-analysis. | Front Pharmacol
+- new | 2025 | 40527813 | Systematic Review/Meta-Analysis | Treatment of chronic urticaria with traditional Chinese medicine: A systematic review, meta-analysis, and medication regularity. | Medicine (Baltimore)
+- new | 2025 | 40265178 | Systematic Review | Exploring natural therapy for chronic heart failure: experience in traditional Chinese medicine treatment before 2022. | Front Med (Lausanne)
+- new | 2025 | 41261684 | Systematic Review | Mechanism, research progress and warning of the effects of acupuncture at Zusanli point (ST36) on pharmacokinetics: A review. | Medicine (Baltimore)
+- new | 2025 | 39921369 | Scoping Review | Treatments of psychosomatic symptoms in Alzheimer's disease: a scoping review of the potential therapeutic effects of essential oils. | Psychogeriatrics
+- new | 2024 | 38788881 | Systematic Review | Extraction, purification, structural characterization, and biological activity of polysaccharides from Schisandra chinensis: A review. | Int J Biol Macromol
+- new | 2023 | 36987052 | Review | Nootropic Herbs, Shrubs, and Trees as Potential Cognitive Enhancers. | Plants (Basel)
+- new | 2022 | 35631252 | Systematic Review | Medicinal Plants and Their Impact on the Gut Microbiome in Mental Health: A Systematic Review. | Nutrients
+- new | 2022 | 36191550 | Review | Shengmai san-derived compound prescriptions: A review on chemical constituents, pharmacokinetic studies, quality control, and pharmacological properties. | Phytomedicine
+- HELD REF-0506 | 2021 | 34445021 | Historical Article/Meta-Analysis/Systematic Review | Plant Adaptogens-History and Future Perspectives. | Nutrients
+- new | 2019 | 31872745 | Historical Article/Systematic Review | [Decipherment of herb medicine Nanwuweizi and Wuweizi in Chinese ancient literature]. | Zhongguo Zhong Yao Za Zhi [chi]
+
+### PubMed SAFE - 335 hits, 184 not already listed above, 181 new
+- new | 2026 | 42700804 |  | Schisantherin B mitigates cisplatin-induced ototoxicity by modulating the CNPY2-PERK/CHOP signaling axis. | Biochem Pharmacol
+- new | 2026 | 41685331 |  | The stem of Schisandra chinensis and Schisandrin B alleviated DNCB-induced atopic dermatitis in mice by inhibiting the NF-κB pathway. | Front Immunol
+- new | 2026 | 41362731 |  | Schisandrin B Targets PXR to Enhance Bile Acid Metabolism and Alleviate ANIT-Induced Cholestatic Liver Injury via Dual Pathways. | Int J Biol Sci
+- new | 2026 | 42190345 |  | Stereoselective neuroprotective activity and blood-brain barrier permeability of Schisandrin B enantiomers. | J Chromatogr A
+- new | 2026 | 41475466 |  | Schisandrin B alleviates sulfolane-induced liver injury via the APOA1/ROS/NF-κB signaling pathway. | J Nutr Biochem
+- new | 2026 | 42543301 | Comparative Study | [Comparative research on efficacy of high-pressure Schisandrae Chinensis Fructus decoction pieces and traditional decoction pieces on nonalcoholic fatty liver disease mice based on | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2026 | 42904383 | Review | Schisandrol A and Schisandrol B from Schisandra chinensis: drug metabolism, transporter interactions, and herb-drug interaction potential. | Drug Metab Rev
+- new | 2026 | 42624309 |  | Schisandrin B protects against oxaliplatin-induced liver injury by suppressing ferroptosis via the canonical KEAP1-Nrf2 and non-canonical microbiota-driven Lactobacillus reuteri-CL | Pharmacol Res
+- new | 2026 | 42207160 |  | Advanced Quality Control of Vinegar-Processed Schisandra: HPLC Fingerprint Coupled With QAMS for Hepatoprotective Marker Discovery. | Biomed Chromatogr
+- new | 2026 | 42815807 | Review | Gomisin A: a bioactive lignan from Schisandra chinensis with diverse pharmacological activities and therapeutic potential. | Fitoterapia
+- new | 2026 | 42070336 |  | Schisandrin B alleviates APAP-induced hepatocyte ferroptosis via the GPX4 axis: Insights from human iPSC-derived hepatic organoids and rat models. | Phytomedicine
+- new | 2025 | 41104882 | Review | Wuweizisu B for cancer treatment from multitarget mechanisms to precision delivery strategies (Review). | Int J Mol Med
+- new | 2025 | 40357339 |  | Osteo-F, a Newly Developed Herbal Formula, Ameliorates Osteoarthritis Through the NF-κB/IκB/JNK Pathway Based on Network Pharmacology. | Food Sci Nutr
+- new | 2025 | 40854389 | Review | Polymer-engineered delivery systems for Schisandra lignans: A review of advances in hepatic-targeted therapy. | Int J Biol Macromol
+- new | 2025 | 41351403 | Research Support, Non-U.S. Gov't | Combined Schisandrin B and Temozolomide Treatment Induces Mitochondrial Apoptosis in Glioma Cells. | Front Biosci (Landmark Ed)
+- new | 2025 | 40238208 | Review | Foods for Sleep Improvement: A Review of the Potential and Mechanisms Involved. | Foods
+- new | 2025 | 39809031 |  | Schisandrol B alleviates depression-like behavior in mice by regulating bile acid homeostasis in the brain-liver-gut axis via the pregnane X receptor. | Phytomedicine
+- new | 2025 | 39954842 | Review | Expanding the horizons of bicyclol in multiple diseases: Mechanisms, therapeutic implications and challenges. | Eur J Pharmacol
+- new | 2025 | 40250032 |  | Mechanism elucidation and biochemometric-based screening of substances in Schisandra chinensis leaves for alcoholic liver injury. | Phytomedicine
+- new | 2025 | 40482066 | Review | Insights Into Anticancer Mechanisms of Schisandrin B: Isolation, Pharmacokinetics, and Preclinical Evidence. | Chem Biodivers
+- new | 2025 | 41300272 |  | Heavy Metal Contamination in Adaptogenic Herbal Dietary Supplements: Experimental, Assessment and Regulatory Safety Perspectives. | Biology (Basel)
+- new | 2025 | 40205412 | Review | A comprehensive review of Schisandra chinensis lignans: pharmacokinetics, pharmacological mechanisms, and future prospects in disease prevention and treatment. | Chin Med
+- new | 2025 | 40976465 |  | Pharmacodynamic effects and mechanism of Pueraria lobata-Schisandra chinensis combination in the treatment of alcoholic liver disease. | Fitoterapia
+- new | 2025 | 40541750 |  | The protective effect of Schisandra lignans on the hepatotoxicity induced by the metabolic activation of dictamnine. | J Ethnopharmacol
+- new | 2025 | 39631293 |  | Effect of stem extract of Schisandra Chinensis on improving spermatogenesis disorder induced by Cisplatin in Vivo and in Vitro. | Phytomedicine
+- new | 2025 | 40243619 |  | Hepatoprotective effects of wine-steamed Schisandra sphenanthera fruit in alleviating APAP-induced liver injury via the gut-liver axis. | Food Funct
+- new | 2025 | 40484259 |  | Comprehensive two-dimensional primary hepatic stellate cell (HSC) membrane chromatography-based screening of anti-fibrotic components from Schisandra chinensis (Turcz.) Baill. and  | J Ethnopharmacol
+- new | 2024 | 37658213 | Review/Research Support, Non-U.S. Gov't | A comprehensive review on Schisandrin and its pharmacological features. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2024 | 39117695 |  | Schisandrin B alleviates testicular inflammation and Sertoli cell apoptosis via AR-JNK pathway. | Sci Rep
+- new | 2024 | 38539986 |  | Influence of Different Plant Extracts on CYP-Mediated Skatole and Indole Degradation in Pigs. | Animals (Basel)
+- new | 2024 | 37597677 |  | Effects of schisandra lignans on the absorption of protopanaxadiol-type ginsenosides mediated by P-glycoprotein and protopanaxatriol-type ginsenosides mediated by CYP3A4. | J Ethnopharmacol
+- new | 2024 | 38716620 | Review | Schisandrol A, the Major Active Constitute in Schisandra chinensis: A Review of Its Preparation, Biological Activities, and Pharmacokinetics Analysis. | Am J Chin Med
+- new | 2024 | 38675443 | Review | State-of-the-Art Review on Botanical Hybrid Preparations in Phytomedicine and Phytotherapy Research: Background and Perspectives. | Pharmaceuticals (Basel)
+- new | 2024 | 38914150 |  | The regulation of GSH/GPX4-mediated lipid accumulation confirms that schisandra polysaccharides should be valued equally as lignans. | J Ethnopharmacol
+- new | 2024 | 37873635 | Research Support, Non-U.S. Gov't | Protection of schisantherin A against dictamnine-induced hepatotoxicity: Pharmacokinetic insights. | J Appl Toxicol
+- new | 2024 | 38601870 |  | Safety and efficacy of a feed additive consisting of a tincture derived from the dried fruit of Schisandra chinensis (Turcz.) Baill. (omicha tincture) for poultry, horses, dogs and | EFSA J
+- new | 2024 | 38974120 |  | Schisandra chinensis Bee Pollen Extract Inhibits Proliferation and Migration of Hepatocellular Carcinoma HepG2 Cells via Ferroptosis-, Wnt-, and Focal Adhesion-Signaling Pathways. | Drug Des Devel Ther
+- new | 2024 | 38978983 |  | Evidence of synergistic mechanisms of hepatoprotective botanical herbal preparation of Pueraria montana var. lobata and Schisandra sphenanthera. | Front Pharmacol
+- new | 2024 | 39764462 |  | A supercritical oil extract of Schisandra chinensis seeds ameliorates Huntington's disease-like symptoms and neuropathology: the potential role of anti-oxidant and anti-inflammator | Front Pharmacol
+- new | 2024 | 38529184 |  | Establishment of a pharmacokinetics and pharmacodynamics model of Schisandra lignans against hippocampal neurotransmitters in AD rats based on microdi-alysis liquid chromatography- | Front Pharmacol
+- new | 2024 | 39686793 |  | Schisandrin a Ameliorates Cardiac Injury and Dysfunction Induced by Hemorrhagic Shock via Activating the Nrf2 Signaling Pathway. | Am J Chin Med
+- new | 2023 | 36650621 | Review | Herb-Drug Interactions and Their Impact on Pharmacokinetics: An Update. | Curr Drug Metab
+- new | 2023 | 37837583 |  | Potential toxicity of Schisandra chinensis to water environment: acute toxicity tests with water crustaceans. | Environ Sci Pollut Res Int
+- HELD REF-5199 | 2023 | 37829299 |  | Harder, better, faster, stronger? Retrospective chart review of adverse events of interactions between adaptogens and antidepressant drugs. | Front Pharmacol
+- new | 2023 | 36994532 | Review/Research Support, Non-U.S. Gov't | Wuzi Yanzong prescription from Traditional Chinese Medicine for male infertility: a narrative review. | J Tradit Chin Med
+- new | 2023 | 36223243 |  | Schisandra B, a representative lignan from Schisandra chinensis, improves cisplatin-induced toxicity: An in vitro study. | Phytother Res
+- new | 2023 | 37531820 |  | Schisandrol A, a bioactive constituent from Schisandrae Chinensis Fructus, alleviates drug-induced liver injury by autophagy activation via exosomes. | Bioorg Chem
+- new | 2023 | 37629132 |  | In Silico Analysis, Anticonvulsant Activity, and Toxicity Evaluation of Schisandrin B in Zebrafish Larvae and Mice. | Int J Mol Sci
+- new | 2023 | 37512164 |  | The Anti-Inflammatory and Skin Barrier Function Recovery Effects of Schisandra chinensis in Mice with Atopic Dermatitis. | Medicina (Kaunas)
+- new | 2023 | 36717898 |  | Screening of Q-markers for the wine-steamed Schisandra chinensis decoction pieces in improving allergic asthma. | Chin Med
+- new | 2023 | 37288106 |  | Schizandrin C regulates lipid metabolism and inflammation in liver fibrosis by NF-κB and p38/ERK MAPK signaling pathways. | Front Pharmacol
+- new | 2023 | 37627597 |  | Synergistic Protective Effect of Fermented Schizandrae Fructus Pomace and Hoveniae Semen cum Fructus Extracts Mixture in the Ethanol-Induced Hepatotoxicity. | Antioxidants (Basel)
+- new | 2023 | 37516152 | Review/Research Support, Non-U.S. Gov't | Dibenzocyclooctadiene lignans from the family Schisandraceae: A review of phytochemistry, structure-activity relationship, and hepatoprotective effects. | Pharmacol Res
+- new | 2023 | 37400851 |  | Schisandrin A regulates the Nrf2 signaling pathway and inhibits NLRP3 inflammasome activation to interfere with pyroptosis in a mouse model of COPD. | Eur J Med Res
+- new | 2022 | 35359848 | Review | A Comprehensive Review of the Main Lignan Components of Schisandra chinensis (North Wu Wei Zi) and Schisandra sphenanthera (South Wu Wei Zi) and the Lignan-Induced Drug-Drug Intera | Front Pharmacol
+- new | 2022 | 35337127 |  | α-Glucosidase and Bacterial β-Glucuronidase Inhibitors from the Stems of Schisandra sphaerandra Staph. | Pharmaceuticals (Basel)
+- new | 2022 | 36506553 | Review | The chemical components, action mechanisms, and clinical evidences of YiQiFuMai injection in the treatment of heart failure. | Front Pharmacol
+- new | 2022 | 35391592 | Evaluation Study | Schisandra chinensis Oil Attenuates Aristolochic Acid I-Induced Nephrotoxicity in vivo and in vitro. | Chin J Integr Med
+- new | 2022 | 35588406 |  | Schisandra chinensis essential oil attenuates acetaminophen-induced liver injury through alleviating oxidative stress and activating autophagy. | Pharm Biol
+- new | 2022 | 35321622 |  | Schisandrin A alleviates mycophenolic acid-induced intestinal toxicity by regulating cell apoptosis and oxidative damage. | Toxicol Mech Methods
+- new | 2022 | 35607596 |  | Effects of Ethanolic Extract of Schisandra sphenanthera on the Pharmacokinetics of Rosuvastatin in Rats. | Drug Des Devel Ther
+- new | 2022 | 35777609 |  | Interaction of the main active components in Shengmai formula mediated by organic anion transporter 1 (OAT1). | J Ethnopharmacol
+- new | 2022 | 36472037 |  | [Schisandrin C improves acetaminophen-induced liver injury in mice by regulating Nrf2 signaling pathway]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2022 | 35278605 |  | Inhibitory effect of α-cubebenoate on atopic dermatitis-like symptoms by regulating Th2/Th1/Th17 balance in vivo. | J Ethnopharmacol
+- new | 2022 | 35032581 |  | Study on alleviate effect of Wuzhi capsule (Schisandra sphenanthera Rehder & E.H. Wilson extract) against mycophenolate mofetil-induced intestinal injury. | J Ethnopharmacol
+- new | 2022 | 35384105 | Review | A review: Pharmacology and pharmacokinetics of Schisandrin A. | Phytother Res
+- new | 2022 | 36044818 |  | A multidimensional strategy for uncovering comprehensive quality markers of Schisandra chinensis (Turcz.) Baill based on pharmacodynamics and chemical properties. | Phytomedicine
+- new | 2022 | 35085518 |  | Schisandrin B promotes Foxp3(+) regulatory T cell expansion by activating heme oxygenase-1 in dendritic cells and exhibits immunomodulatory effects in Th2-mediated allergic asthma. | Eur J Pharmacol
+- new | 2021 | 34182907 | Review | A Review on Pharmacokinetic and Pharmacodynamic Drug Interactions of Adrenergic β-blockers with Clinically Relevant Drugs-An Overview. | Curr Drug Metab
+- new | 2021 | 31588792 |  | Schisandrae chinensis fructus extract protects against hepatorenal toxicity and changes metabolic ions in cyclosporine A rats. | Nat Prod Res
+- new | 2021 | 34161342 |  | Ameliorative effects of Schisandrin B on Schistosoma mansoni-induced hepatic fibrosis in vivo. | PLoS Negl Trop Dis
+- new | 2021 | 35152622 |  | Systematic analysis of the pharmacological function of Schisandra as a potential exercise supplement. | Phys Act Nutr
+- new | 2021 | 33421914 | Research Support, Non-U.S. Gov't | A network pharmacology-integrated metabolomics strategy for clarifying the action mechanisms of Schisandrae Chinensis Fructus for treating drug-induced liver injury by acetaminophe | Bioorg Med Chem
+- new | 2021 | 34274605 |  | Pharmacokinetic and metabolomics approach based on UHPLC-MS to evaluate therapeutic effect of lignans from S. Chinensis in alzheimer's disease. | J Chromatogr B Analyt Technol Biomed Lif
+- new | 2021 | 33802239 |  | Inhibitory Effects of Schisandra Lignans on Cytochrome P450s and Uridine 5'-Diphospho-Glucuronosyl Transferases in Human Liver Microsomes. | Pharmaceutics
+- new | 2021 | 33688367 |  | Evaluation of Beneficial and Adverse Effects of a Diet Supplemented with Schisandrae Fructus Seed Ethanol Extract on Lipid and Glucose Metabolism in Normal and Hypercholesterolemic | Evid Based Complement Alternat Med
+- new | 2021 | 33383448 | Review | Therapeutic potential of bicyclol in liver diseases: Lessons from a synthetic drug based on herbal derivative in traditional Chinese medicine. | Int Immunopharmacol
+- new | 2021 | 34567217 |  | Effects of Roasted Schisandra Chinensis (Turcz.) Baill and Lycium Chinense Mill. and Their Combinational Extracts on Antioxidant and Anti-Inflammatory Activities in RAW 264.7 Cells | Evid Based Complement Alternat Med
+- new | 2021 | 33691319 |  | Schisandrin Restores the Amyloid β-Induced Impairments on Mitochondrial Function, Energy Metabolism, Biogenesis, and Dynamics in Rat Primary Hippocampal Neurons. | Pharmacology
+- new | 2021 | 33787092 |  | [Research advances in chemical constituents and hepatoprotective effect of Schisandrae Sphenantherae Fructus and Schisandrae Chinensis Fructus]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2021 | 34342024 |  | Effects and safety evaluation of Wuzhi Capsules combined with tacrolimus for the treatment of kidney transplantation recipients. | J Clin Pharm Ther
+- new | 2021 | 34492285 |  | Study on the effect of active components of Schisandra chinensis on liver injury and its mechanisms in mice based on network pharmacology. | Eur J Pharmacol
+- new | 2021 | 34606559 |  | An integrated strategy using LC-MS/MS combined with in vivo microdialysis for the simultaneous determination of lignans of Schisandra chinensis (Turcz.) Baill. Fructus and endogeno | Food Funct
+- new | 2021 | 33662920 |  | Schisandrol B promotes liver enlargement via activation of PXR and YAP pathways in mice. | Phytomedicine
+- new | 2020 | 32893568 | Review | [Research progress in application and mechanism of Schisandrae Chinensis Fructus for prevention and treatment of liver diseases]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2020 | 32256947 | Review | A Comprehensive Review on Schisandrin B and Its Biological Properties. | Oxid Med Cell Longev
+- new | 2020 | 32912207 |  | Schisandra chinensis bee pollen's chemical profiles and protective effect against H(2)O(2)-induced apoptosis in H9c2 cardiomyocytes. | BMC Complement Med Ther
+- new | 2020 | 32039337 |  | Preclinical Pharmacokinetics of Lamivudine and Its Interaction with Schisandra chinensis Extract in Rats. | ACS Omega
+- new | 2020 | 32524635 | Research Support, Non-U.S. Gov't | Schisandra chinensis water extract protects ethanol-induced neurotoxicity in Caenorhabditis elegans. | J Food Biochem
+- new | 2020 | 32259665 |  | Lignans from Schisandra chinensis ameliorate alcohol and CCl(4)-induced long-term liver injury and reduce hepatocellular degeneration via blocking ETBR. | J Ethnopharmacol
+- new | 2020 | 31542420 | Comparative Study/Validation Study | Comparative pharmacokinetic study of the components in Alpinia oxyphylla Miq.-Schisandra chinensis (Turcz.) Baill. herb pair and its single herb between normal and Alzheimer's dise | J Pharm Biomed Anal
+- new | 2020 | 31978688 | Research Support, Non-U.S. Gov't | Network pharmacology based investigation into the bioactive compounds and molecular mechanisms of Schisandrae Chinensis Fructus against drug-induced liver injury. | Bioorg Chem
+- new | 2020 | 31666439 |  | Schizandrin B Mitigates Rifampicin-Induced Liver Injury by Inhibiting Endoplasmic Reticulum Stress. | Biol Pharm Bull
+- new | 2020 | 33371181 |  | Effects of Deacidification on Composition of Schisandra chinensis Ethanolic Extract and Studies on Acute Toxicity in Mice. | Molecules
+- new | 2020 | 32245591 |  | Targeted bile acids and gut microbiome profiles reveal the hepato-protective effect of WZ tablet (Schisandra sphenanthera extract) against LCA-induced cholestasis. | Chin J Nat Med
+- new | 2020 | 32719086 | Research Support, Non-U.S. Gov't | Multiomics Profiling Reveals Protective Function of Schisandra Lignans against Acetaminophen-Induced Hepatotoxicity. | Drug Metab Dispos
+- new | 2020 | 32250458 |  | Potential for pharmacokinetic interactions between Schisandra sphenanthera and bosutinib, but not imatinib: in vitro metabolism study combined with a physiologically-based pharmaco | Br J Clin Pharmacol
+- new | 2019 | 31004881 | Review | Schisandra fruits for the management of drug-induced liver injury in China: A review. | Phytomedicine
+- new | 2019 | 31400930 |  | Schisandra chinensis acidic polysaccharide partialy reverses acetaminophen-induced liver injury in mice. | J Pharmacol Sci
+- new | 2019 | 30965233 | Review | The effect and mechanisms of Fuzheng Huayu formula against chronic liver diseases. | Biomed Pharmacother
+- new | 2019 | 31066606 |  | Cyanidin 3-Rutinoside, an Anthocyanin Pigment of Schisandra chinensis Baill, Inhibits Allergic Inflammation. | J Med Food
+- new | 2019 | 30720717 | Review | Potential of Schisandra chinensis (Turcz.) Baill. in Human Health and Nutrition: A Review of Current Knowledge and Therapeutic Perspectives. | Nutrients
+- new | 2019 | 30978651 |  | The major effective components in Shengmai Formula interact with sodium taurocholate co-transporting polypeptide. | Phytomedicine
+- new | 2019 | 30821573 |  | Pharmacokinetics and liver uptake of three Schisandra lignans in rats after oral administration of liposome encapsulating β-cyclodextrin inclusion compound of Schisandra extract. | J Liposome Res
+- new | 2019 | 31336134 |  | Lignans from Schisandra sphenanthera protect against lithocholic acid-induced cholestasis by pregnane X receptor activation in mice. | J Ethnopharmacol
+- new | 2019 | 31427975 |  | Gomisin M2 Inhibits Mast Cell-Mediated Allergic Inflammation via Attenuation of FcεRI-Mediated Lyn and Fyn Activation and Intracellular Calcium Levels. | Front Pharmacol
+- new | 2019 | 30668398 |  | Systematically identifying the hepatoprotective ingredients of schisandra lignan extract from pharmacokinetic and pharmacodynamic perspectives. | Phytomedicine
+- new | 2019 | 30486721 | Video-Audio Media | Evaluation of the inhibition of human carboxylesterases (CESs) by the active ingredients from Schisandra chinensis. | Xenobiotica
+- new | 2019 | 31274380 |  | Protective Effect of Schisandra chinensis Polysaccharides Against the Immunological Liver Injury in Mice Based on Nrf2/ARE and TLR4/NF-κB Signaling Pathway. | J Med Food
+- new | 2019 | 31471773 | Review | Interactions between clopidogrel and traditional Chinese medicine. | J Thromb Thrombolysis
+- new | 2019 | 32009955 |  | Integrated Plasma and Bile Metabolomics Based on an UHPLC-Q/TOF-MS and Network Pharmacology Approach to Explore the Potential Mechanism of Schisandra chinensis-Protection From Acut | Front Pharmacol
+- new | 2019 | 30989990 |  | [Investigation on protective effect and efficacy difference of extract of Schisandrae Sphenantherae Fructus and Schisandrae Chinensis Fructus against acetaminophen-induced liver in | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2019 | 31150632 |  | Transcriptomic analyses reveal the molecular mechanisms of schisandrin B alleviates CCl(4)-induced liver fibrosis in rats by RNA-sequencing. | Chem Biol Interact
+- HELD REF-1877 | 2018 | 29902864 |  | Protective effect of acidic polysaccharide from Schisandra chinensis on acute ethanol-induced liver injury through reducing CYP2E1-dependent oxidative stress. | Biomed Pharmacother
+- new | 2018 | 30158992 | Review | Overcoming P-Glycoprotein-Mediated Multidrug Resistance in Colorectal Cancer: Potential Reversal Agents among Herbal Medicines. | Evid Based Complement Alternat Med
+- new | 2018 | 29047177 | Review | Selected hepatoprotective herbal medicines: Evidence from ethnomedicinal applications, animal models, and possible mechanism of actions. | Phytother Res
+- new | 2018 | 30384543 |  | [Metabonomics study on hepatoprotective effect of Schisandrae Chinensis Fructus based on UPLC-Q-TOF-MS]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2018 | 28821392 |  | Schisandra chinensis extract decreases chloroacetaldehyde production in rats and attenuates cyclophosphamide toxicity in liver, kidney and brain. | J Ethnopharmacol
+- new | 2018 | 29342955 |  | Pharmacokinetics of Schizandrin and Its Pharmaceutical Products Assessed Using a Validated LC-MS/MS Method. | Molecules
+- new | 2018 | 30269847 |  | Protective effects of extracts of Schisandra chinensis stems against acetaminophen-induced hepatotoxicity via regulation of MAPK and caspase-3 signaling pathways. | Chin J Nat Med
+- new | 2018 | 29421595 |  | Improvement of Cisplatin-induced renal dysfunction by Schisandra chinensis stems via anti-inflammation and anti-apoptosis effects. | J Ethnopharmacol
+- new | 2018 | 29806627 |  | Schisantherin A alleviated alcohol-induced liver injury by the regulation of alcohol metabolism and NF-kB pathway. | Exp Anim
+- new | 2018 | 30200508 |  | Gomisin N Alleviates Ethanol-Induced Liver Injury through Ameliorating Lipid Metabolism and Oxidative Stress. | Int J Mol Sci
+- new | 2017 | 28962082 | Comparative Study | Protective effect of Schisandra chinensis bee pollen extract on liver and kidney injury induced by cisplatin in rats. | Biomed Pharmacother
+- new | 2017 | 28647510 |  | Hepatoprotective effect of Gan Kang Yuan against chronic liver injury induced by alcohol. | J Ethnopharmacol
+- new | 2017 | 28167106 |  | The antioxidant action and mechanism of selenizing Schisandra chinensis polysaccharide in chicken embryo hepatocyte. | Int J Biol Macromol
+- new | 2017 | 28344076 |  | Inhibition of human CYP3A4 and CYP3A5 enzymes by gomisin C and gomisin G, two lignan analogs derived from Schisandra chinensis. | Fitoterapia
+- new | 2017 | 28081628 |  | Schisandra chinensis and Its Main Constituent Schizandrin Attenuate Allergic Reactions by Down-Regulating Caspase-1 in Ovalbumin-Sensitized Mice. | Am J Chin Med
+- new | 2017 | 28786954 |  | Time- and NADPH-Dependent Inhibition on CYP3A by Gomisin A and the Pharmacokinetic Interactions between Gomisin A and Cyclophosphamide in Rats. | Molecules
+- new | 2017 | 29033839 |  | Schisandra chinensis Stem Ameliorates 3-Nitropropionic Acid-Induced Striatal Toxicity via Activation of the Nrf2 Pathway and Inhibition of the MAPKs and NF-κB Pathways. | Front Pharmacol
+- new | 2017 | 28924552 |  | Schisandra sphenanthera extract (Wuzhi Tablet) protects against chronic-binge and acute alcohol-induced liver injury by regulating the NRF2-ARE pathway in mice. | Acta Pharm Sin B
+- new | 2017 | 28620420 |  | Pharmacokinetic Comparison of 20(R)- and 20(S)-Ginsenoside Rh1 and 20(R)- and 20(S)-Ginsenoside Rg3 in Rat Plasma following Oral Administration of Radix Ginseng Rubra and Sheng-Mai | Evid Based Complement Alternat Med
+- new | 2017 | 28827665 | Research Support, Non-U.S. Gov't | Schisandrin B reverses doxorubicin resistance through inhibiting P-glycoprotein and promoting proteasome-mediated degradation of survivin. | Sci Rep
+- new | 2017 | 28246539 |  | Schisandra Lignan Extract Protects against Carbon Tetrachloride-Induced Liver Injury in Mice by Inhibiting Oxidative Stress and Regulating the NF-κB and JNK Signaling Pathways. | Evid Based Complement Alternat Med
+- new | 2016 | 27329331 | Review | Network pharmacology of cancer: From understanding of complex interactomes to the design of multi-target specific therapeutics from nature. | Pharmacol Res
+- new | 2016 | 26884793 |  | The Protective Effects of Buzui on Acute Alcoholism in Mice. | Evid Based Complement Alternat Med
+- new | 2016 | 27459888 |  | Mechanistic understanding of the effect of Dengzhan Shengmai capsule on the pharmacokinetics of clopidogrel in rats. | J Ethnopharmacol
+- new | 2016 | 26640808 |  | The Effect of Tianmai Xiaoke Pian on Insulin Resistance through PI3-K/AKT Signal Pathway. | J Diabetes Res
+- new | 2016 | 27240333 |  | Pharmacokinetic Evaluation of Clozapine in Concomitant Use of Radix Rehmanniae, Fructus Schisandrae, Radix Bupleuri, or Fructus Gardeniae in Rats. | Molecules
+- new | 2016 | 26666731 | Research Support, Non-U.S. Gov't | The hepatoprotective effect of the combination use of Fructus Schisandrae with statin--A preclinical evaluation. | J Ethnopharmacol
+- new | 2016 | 27079003 |  | [Protective Effect of Schisandra Extract on Embryotoxicity and Reproductive Toxicity in Early Pregnant Rats Exposed to Benzo [a] pyrene]. | Zhongguo Zhong Xi Yi Jie He Za Zhi [chi]
+- new | 2016 | 29932608 |  | [Analysis of lignans and their metabolites derived from Schisandra chinensis and vinegar Schisandra chinensis in rats’ plasma, bile, urine and faeces based on UHPLC-QTOF/MS]. | Yao Xue Xue Bao [chi]
+- new | 2016 | 27367669 |  | A Homogeneous Polysaccharide from Fructus Schisandra chinensis (Turz.) Baill Induces Mitochondrial Apoptosis through the Hsp90/AKT Signalling Pathway in HepG2 Cells. | Int J Mol Sci
+- new | 2016 | 26932815 | Research Support, Non-U.S. Gov't | Schisandra sphenanthera Extract Facilitates Liver Regeneration after Partial Hepatectomy in Mice. | Drug Metab Dispos
+- new | 2015 | 26124807 |  | Drug-drug interation prediction between ketoconazole and anti-liver cancer drug Gomisin G. | Afr Health Sci
+- new | 2015 | 25709011 | Research Support, Non-U.S. Gov't | Prevention effects of Schisandra polysaccharide on radiation-induced immune system dysfunction. | Int J Biol Macromol
+- new | 2015 | 25712441 | Research Support, Non-U.S. Gov't | Effects of acupuncture at ST36 on pharmacokinetics of Schisandra lignans in rats. | Acupunct Med
+- new | 2015 | 25552902 | Research Support, Non-U.S. Gov't | Schisandra chinensis regulates drug metabolizing enzymes and drug transporters via activation of Nrf2-mediated signaling pathway. | Drug Des Devel Ther
+- new | 2015 | 25892286 | Research Support, Non-U.S. Gov't | Effects of Schisandra chinensis Turcz. fruit on contact dermatitis induced by dinitrofluorobenzene in mice. | Mol Med Rep
+- new | 2015 | 26355803 | Research Support, Non-U.S. Gov't | Pharmacokinetic and nephroprotective benefits of using Schisandra chinensis extracts in a cyclosporine A-based immune-suppressive regime. | Drug Des Devel Ther
+- new | 2015 | 25534769 | Research Support, Non-U.S. Gov't | Therapeutic efficacy of Wuzhi tablet (Schisandra sphenanthera Extract) on acetaminophen-induced hepatotoxicity through a mechanism distinct from N-acetylcysteine. | Drug Metab Dispos
+- new | 2014 | 25530784 |  | The Inhibition of the Components from Shengmai Injection towards UDP-Glucuronosyltransferase. | Evid Based Complement Alternat Med
+- new | 2014 | 24456360 | Research Support, Non-U.S. Gov't | Schisandra chinensis prevents alcohol-induced fatty liver disease in rats. | J Med Food
+- new | 2014 | 25247685 | Comparative Study/Research Support, Non-U.S. Gov't | Comparative studies on polyphenolic composition, antioxidant and antimicrobial activities of Schisandra chinensis leaves and fruits. | Molecules
+- new | 2014 | 24922060 | Research Support, Non-U.S. Gov't | Pharmacokinetic compatibility of ginsenosides and Schisandra Lignans in Shengmai-san: from the perspective of p-glycoprotein. | PLoS One
+- new | 2014 | 24475039 | Research Support, Non-U.S. Gov't | Schisandra chinensis peptidoglycan-assisted transmembrane transport of lignans uniquely altered the pharmacokinetic and pharmacodynamic mechanisms in human HepG2 cell model. | PLoS One
+- HELD REF-2481 | 2014 | 24462213 | Research Support, Non-U.S. Gov't | Effect of Tacrolimus on the pharmacokinetics of bioactive lignans of Wuzhi tablet (Schisandra sphenanthera extract) and the potential roles of CYP3A and P-gp. | Phytomedicine
+- new | 2013 | 23574283 | Review | New insights into dietary supplements used in sport: active substances, pharmacological and side effects. | Curr Drug Targets
+- new | 2012 | 21854164 | Research Support, Non-U.S. Gov't | Inhibitory effects of Schizandra chinensis extract on atopic dermatitis in NC/Nga mice. | Immunopharmacol Immunotoxicol
+- new | 2012 | 22745064 | Research Support, Non-U.S. Gov't | Protective effects of HV-P411 complex against D-galactosamine-induced hepatotoxicity in rats. | Am J Chin Med
+- new | 2012 | 22586497 |  | Suppressive effects of Schizandra chinensis Baillon water extract on allergy-related cytokine generation and degranulation in IgE-antigen complex-stimulated RBL-2H3 cells. | Nutr Res Pract
+- new | 2012 | 22565299 | Review | Pharmacokinetic herb-drug interactions (part 2): drug interactions involving popular botanical dietary supplements and their clinical relevance. | Planta Med
+- new | 2012 | 23019862 |  | [Experimental study on anaphylactoid reactions induced by different components of shengmai injection (new production process) on Beagle dogs]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2011 | 21524698 | Research Support, Non-U.S. Gov't | Identification of novel pregnane X receptor activators from traditional Chinese medicines. | J Ethnopharmacol
+- new | 2011 | 19592476 |  | Ethanol extract of fructus schisandrae decreases hepatic triglyceride level in mice fed with a high fat/cholesterol diet, with attention to acute toxicity. | Evid Based Complement Alternat Med
+- new | 2011 | 22500430 | Research Support, Non-U.S. Gov't | [Pharmacokinetics and tissue distribution of Schisandra chinensis extract in mice]. | Zhong Yao Cai [chi]
+- new | 2011 | 21204110 | Research Support, Non-U.S. Gov't/Review | Biological analysis of herbal medicines used for the treatment of liver diseases. | Biomed Chromatogr
+- new | 2010 | 20664957 | Research Support, Non-U.S. Gov't | Deoxyschisandrin inhibits H2O2-induced apoptotic cell death in intestinal epithelial cells through nuclear factor-kappaB. | Int J Mol Med
+- new | 2010 | 20849350 | Comparative Study/Research Support, Non-U.S. Gov't | Enhanced oral bioavailability of Wurenchun (Fructus Schisandrae Chinensis extracts) by self-emulsifying drug delivery systems. | Drug Dev Ind Pharm
+- new | 2009 | 19345075 | Evaluation Study | Synergistic hepatoprotective effect of Schisandrae lignans with Astragalus polysaccharides on chronic liver injury in rats. | Phytomedicine
+- new | 2008 | 18284817 | Research Support, U.S. Gov't, Non-P.H.S. | Transport of Schisandra chinensis extract and its biologically-active constituents across Caco-2 cell monolayers - an in-vitro model of intestinal transport. | J Pharm Pharmacol
+- new | 2008 | 18339588 |  | Simultaneous quantification of four active schisandra lignans from a traditional Chinese medicine Schisandra chinensis(Wuweizi) in rat plasma using liquid chromatography/mass spect | J Chromatogr B Analyt Technol Biomed Lif
+- new | 2007 | 17318783 | Research Support, N.I.H., Extramural | Schisandrol A from Schisandra chinensis reverses P-glycoprotein-mediated multidrug resistance by affecting Pgp-substrate complexes. | Planta Med
+- new | 2007 | 18186586 | Research Support, Non-U.S. Gov't | Protective effects of Ginkgo biloba, Panax ginseng, and Schizandra chinensis extract on liver injury in rats. | Am J Chin Med
+- new | 2006 | 17125405 | Research Support, N.I.H., Extramural/Review | Pregnane X receptor and natural products: beyond drug-drug interactions. | Expert Opin Drug Metab Toxicol
+- new | 2006 | 16889754 | Research Support, N.I.H., Extramural | Gomisin A alters substrate interaction and reverses P-glycoprotein-mediated multidrug resistance in HepG2-DR cells. | Biochem Pharmacol
+- new | 2006 | 16267138 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Traditional Chinese medicines Wu Wei Zi (Schisandra chinensis Baill) and Gan Cao (Glycyrrhiza uralensis Fisch) activate pregnane X receptor and increase warfarin clearance in rats. | J Pharmacol Exp Ther
+- new | 2005 | 16261511 | Review | Stimulating effect of adaptogens: an overview with particular reference to their efficacy following single dose administration. | Phytother Res
+- new | 2004 | 15079869 | Research Support, Non-U.S. Gov't | Dibenzocyclooctadiene lignans from Schisandra chinensis protect primary cultures of rat cortical cells from glutamate-induced toxicity. | J Neurosci Res
+- new | 2004 | 15342469 | Research Support, Non-U.S. Gov't | Identification and characterization of potent CYP3A4 inhibitors in Schisandra fruit extract. | Drug Metab Dispos
+- new | 2000 | 10939639 | Research Support, Non-U.S. Gov't | Schisandrin B protects against menadione-induced hepatotoxicity by enhancing DT-diaphorase activity. | Mol Cell Biochem
+- new | 1995 | 7753920 | Research Support, Non-U.S. Gov't | Effect of a lignan-enriched fructus schisandrae extract on hepatic glutathione status in rats: protection against carbon tetrachloride toxicity. | Planta Med
+- new | 1992 | 1542498 | Research Support, Non-U.S. Gov't | Gomisin A inhibits tumor promotion by 12-O-tetradecanoylphorbol-13-acetate in two-stage carcinogenesis in mouse skin. | Oncology
+- new | 1986 | 3096852 |  | Effects of dietary Schizandra chinensis, brussels sprouts and Illicium verum extracts on carcinogen metabolism systems in mouse liver. | Food Chem Toxicol
+
+### PubMed OBS - 4 hits, 1 not already listed above, 1 new
+- new | 2025 | 39958181 |  | Fermented red ginseng extract improves sarcopenia-related muscle atrophy in old mice through regulation of muscle protein metabolism. | Food Sci Biotechnol
+
+### PubMed REV - 101 hits, 15 not already listed above, 14 new
+- new | 2025 | 39241972 | Review | Emerging insights into traditional Chinese medicine associated with neurodegenerative diseases: A bibliometric analysis. | J Ethnopharmacol
+- new | 2023 | 37895122 | Review | Plant Extracts as Skin Care and Therapeutic Agents. | Int J Mol Sci
+- new | 2023 | 36771299 | Review | Cardioprotective Potential of Berries of Schisandra chinensis Turcz. (Baill.), Their Components and Food Products. | Nutrients
+- new | 2022 | 35190748 | Review | Research Progress on the Pharmacological Action of Schisantherin A. | Evid Based Complement Alternat Med
+- new | 2022 | 36355500 | Review | The Therapeutic Potential of Plant Polysaccharides in Metabolic Diseases. | Pharmaceuticals (Basel)
+- HELD REF-0505 | 2021 | 33919588 | Review | Antioxidant Effects of Schisandra chinensis Fruits and Their Active Constituents. | Antioxidants (Basel)
+- new | 2021 | 34559620 | Review | Schisandra sphenanthera: A Comprehensive Review of its Botany, Phytochemistry, Pharmacology, and Clinical Applications. | Am J Chin Med
+- new | 2020 | 32575730 | Review | A Review of the Potential Benefits of Plants Producing Berries in Skin Disorders. | Antioxidants (Basel)
+- new | 2018 | 29369521 | Review | Brief Challenges on Medicinal Plants: An Eye-Opening Look at Ageing-Related Disorders. | Basic Clin Pharmacol Toxicol
+- new | 2018 | 29751698 | Review | [Pharmacological effect of Schisandrae Chinensis Fructus and relative active components on cardiovascular and cerebrovascular diseases]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2018 | 29352909 | Review | A review of polysaccharides from Schisandra chinensis and Schisandra sphenanthera: Properties, functions and applications. | Carbohydr Polym
+- new | 2018 | 29986408 | Review | Schisandra chinensis Fructus and Its Active Ingredients as Promising Resources for the Treatment of Neurological Diseases. | Int J Mol Sci
+- new | 2016 | 27847552 | Review | Schisandrin B: A Double-Edged Sword in Nonalcoholic Fatty Liver Disease. | Oxid Med Cell Longev
+- new | 2012 | 22666518 | Review | Schisandrin B as a hormetic agent for preventing age-related neurodegenerative diseases. | Oxid Med Cell Longev
+- new | 2011 | 21205111 | Research Support, Non-U.S. Gov't/Review | Diabetes is an inflammatory disease: evidence from traditional Chinese medicines. | Diabetes Obes Metab
+
+### ClinicalTrials.gov - 27 registered studies
+- NCT06980636 | RECRUITING | results=False | PHASE4 | A Trial of Shengmai Liquid for Long COVID Fatigue. | conds: Long COVID Fatigue | intr: Shengmai Liquid, Placebo
+- NCT00676975 | COMPLETED | results=False | PHASE2 | The Efficacy of Tradition Chinese Medicine in Patients With Irritable Bowel Syndrome | conds: Irritable Bowel Syndrome | intr: Traditional Chinese Medicine, Traditional Chinese Medicine Placebo
+- NCT06214195 | RECRUITING | results=False | PHASE3 | The Use of Shengmai San to Prevent Anthracycline Sequential Trastuzumab Therapy Related Cardiac Toxicity | conds: Cardiotoxicity Induced by Drug Therapy for Breast Cancer | intr: Shengmai San (ingredients include ginseng, Ophiopogon japonicus, and Schisandra chinensis)
+- NCT03009136 | UNKNOWN | results=False | PHASE3 | Efficacy and Safety of So-Cheong-Ryong-Tang on Perennial Allergic Rhinitis | conds: Perennial Allergic Rhinitis | intr: SCRT, Placebos | pubs: ['28963290:DERIVED (new)']
+- NCT02250027 | COMPLETED | results=False | PHASE2 | A Multicenter, Randomized, Double-blind, Parallel Group Study to Determine the Optimal Dose of HL301 After 7 Days Oral Administration in Acu | conds: Acute Bronchitis, Acute Exacerbations of Chronic Bronchitis | intr: HL301 300mg capsule, Placebo
+- NCT06674252 | RECRUITING | results=False | NA | A Study on the Improvement of Postoperative Symptoms and Survival Benefits of Modified Bufei Decoction in Elderly Patients With Lung Cancer  | conds: Lung Cancers | intr: Jiawei Bufei Tang granules, Placebo
+- NCT07017426 | NOT_YET_RECRUITING | results=False | NA | Fuzheng Huayu Tablets Reduce the Occurrence of Re-Decompensation Events in Patients With First Decompensation of Hepatitis B-Related Liver C | conds: Decompensated Hepatitis B Cirrhosis | intr: Fuzheng Huayu tablets, Placebo Comparator | pubs: ['42465987:DERIVED (new)']
+- NCT03402308 | COMPLETED | results=False | NA | Effect of Schisandra Chinensis Extract on Musculoskeletal Biomakers in Relatively Sarcopenic Adults: a RCT | conds: Muscular Sarcoidosis | intr: Schisandra chinensis extract, Placebo | pubs: ['33710261:DERIVED (SEEN)']
+- NCT03850275 | COMPLETED | results=True | NA | The Effects of e+Shots Energy Beverage on Mental Energy | conds: Caffeine | intr: Intervention/treatment
+- NCT07657351 | NOT_YET_RECRUITING | results=False | NA | Effect of Chinese Herbal Medicine on Renal Function in Diabetic Kidney Disease | conds: Diabetic Kidney Disease | intr: Chinese herbal formula DKD-1
+- NCT03773315 | COMPLETED | results=False | NA | Ulmus Macrocarpa Hance Extract and Lipid Profile | conds: Dyslipidemias | intr: UMH extract, Placebo | pubs: ['36388925:DERIVED (new)']
+- NCT05333315 | COMPLETED | results=False | NA | Clinical Trials of Five Different Food Supplements With Restriction Diet in Adults | conds: Overweight and Obesity, Inflammation, Hypercholesterolemia, Hypertension | intr: IP1, IP2, IP3, IP4
+- NCT05497765 | COMPLETED | results=False | NA | An Intervention Study of Compound Silymarin in Patients With Non-alcoholic Fatty Liver Disease | conds: Nonalcoholic Fatty Liver Disease | intr: Silibinin extract, mixed power of pueraria, schisandra and salvia miltiorrhiza, Silibinin extract, P
+- NCT02185638 | COMPLETED | results=False | NA | Appetite Suppression Effects of an Herbal Combination of Yerba maté, Guarana, Damiana (YGD), and 12 Other Herbal Components, Versus YGD Supp | conds: Obesity | intr: Appetite suppressant properties of YGD and A20-50
+- NCT01006460 | COMPLETED | results=False | NA | A Study With Arctic Root Compared With the Extract When Combined With Schizandra and Russian Root (Adapt 232), Standardized Ginseng Extract  | conds: Depression, Stress | intr: Rhodiola rosea, L, Rhodiola rosea, L., Eleutherococcus senticosus, Schisandra chinensis, Panax ginse
+- NCT04667598 | UNKNOWN | results=False | PHASE2 | Clinical and Metabonomics Study on the Treatment of Heart Failure After Myocardial Infarction With Modified Wenxin Decoction | conds: Heart Failure, Myocardial Infarction | intr: Modified Wenxin Decoction | pubs: ['29386200:RESULT (new)', '17090774:RESULT (new)', '9462531:RESULT (new)', '21709062:RESULT (new)', '19118718:RESULT (new)']
+- NCT01472822 | COMPLETED | results=True | PHASE2,PHASE3 | Efficacy of Omija (Schisandra Chinensis) Extract in Subjects With Knee Osteoarthritis | conds: Mild Knee Osteoarthritis | intr: Omija extract., Placebo
+- NCT04795557 | COMPLETED | results=False | PHASE2,PHASE3 | Efficacy of Adaptogens in Patients With Long COVID-19 | conds: Covid19 | intr: ADAPT-232 oral solution, Placebo oral solution
+- NCT05008250 | COMPLETED | results=False | PHASE4 | Efficacy and Safety of Metoprolol Tartrate Tablets Combined With Chinese Traditional Medicine on Premature Ventricular Complex. | conds: Premature Ventricular Contraction | intr: Tongmai Yangxin Pill (TMYXP), metoprolol tartrate, placebo
+- NCT07396701 | NOT_YET_RECRUITING | results=False | PHASE4 | Chinese Adaptive Randomised Pneumonia Trial With Respiratory Failure | conds: Severe Pneumonia With Respiratory Failure | intr: Trendelenburg Position, Traditional Chinese Medicine Formulation
+- NCT05229029 | UNKNOWN | results=False | PHASE2 | RSYR for Fatigue Reduction in Cancer Fatigue Caused by Chemotherapy | conds: Cancer-related Problem/Condition | intr: TCM Formula, Placebo
+- NCT04598243 | UNKNOWN | results=False | EARLY_PHASE1 | Treatment of Fibromyalgia and CFS With Ribose, Ashwagandha, Rhodiola, Licorice, Schisandra and Green Tea Extract | conds: Fibromyalgia, CFS | intr: Smart Energy System
+- NCT02298426 | COMPLETED | results=False | NA | Body Constitution Classification Based Comprehensive Health Management Intervention on Obese Population | conds: Overweight, Obesity | intr: Health Management, General Management, Placebo, SCHSANDRA PLUS, YI RUI CAPSULE, Gest Aid Plus: INFIN
+- NCT02805699 | UNKNOWN | results=False | PHASE2 | A Clinical Evaluation of Baofeikang Granule in Combined Pulmonary Fibrosis and Emphysema Treatment | conds: Combined Pulmonary Fibrosis and Emphysema | intr: Baofeikang Granule, Placebo
+- NCT04544605 | UNKNOWN | results=False |  | Special Chinese Medicine Out-patient Programme for Discharged COVID-19 Patients | conds: Post COVID-19 | intr: Individualized-Chinese herbal medicine
+- NCT07768579 | RECRUITING | results=False |  | The Effect of Sequential Therapy on Alzheimer's Disease | conds: Mild Cognitive Impairment Due to Alzheimer Disease, Alzheimer Disease | intr: 
+- NCT07944157 | NOT_YET_RECRUITING | results=False | NA | Construction and Validation of a Clinical Cohort on the Pathogenesis Evolution and Syndrome-Differentiated Treatment of Chronic Obstructive  | conds: COPD (Chronic Obstructive Pulmonary Disease), Acute Exacerbation of Chronic Obstructive Pulmonary Disease | intr: Yuping Yifei herbal formula, standardized Western medical treatment, Liujun Fuzheng herbal formula, 
+
+### OpenAlex no-PMID trial-worded - 1632 hits, 30 without PMID, 30 new
+- new | 2026 | 10.5281/zenodo.23626800 | article | Schisandra (Schisandra chinensis): Trials and Interactions | Zenodo (CERN European Organization for N
+- new | 2026 | 10.1016/j.phanu.2026.100504 | article | Silymarin combined with edible traditional Chinese medicine alleviates chronic inflammation by modulating gut microbiota-mediated bile acid metabolism in patients with metabolic dy | PharmaNutrition
+- new | 2025 | 10.5812/hepatmon-157416 | article | Effects of Silymarin Combined with Herbal Medicine on Th17/Treg Cell Imbalance and Inflammatory Response in Patients with Nonalcoholic Fatty Liver Disease: A Randomized, Double-Bli | Hepatitis Monthly
+- new | 2025 | 10.47836/mjmhs.21.1.37 | article | Efficacy of Herbal Supplementation on Muscle Health Among Adults: A Scoping Review of Randomized Controlled Trials | Malaysian Journal of Medicine and Health
+- new | 2024 | 10.20944/preprints202407.1787.v2 | preprint | Metformin and Ganwei for Metabolic Dysfunction Associated Fatty Liver Disease: A Randomized, Placebo-Controlled Trial | Preprints.org
+- new | 2024 | 10.33696/pharmacol.6.052 | article | Schisandra chinensis in Liver Disease: Exploring the Mechanisms and Therapeutic Promise of an Ancient Chinese Botanical | Archives of Pharmacology and Therapeutic
+- new | 2023 | 10.22246/jikm.2023.44.6.1118 | review | Herbal Medicine for Sarcopenia: A Systematic Review of Randomized Controlled Trials | The Journal of Internal Korean Medicine
+- new | 2022 | 10.26565/2313-6693-2022-44-10 | article | Biological effects of schisandra chinensis medicines and prospects of their use in clinical medicine (literature review) | The Journal of V N Karazin Kharkiv Natio
+- new | 2021 | 10.1016/j.gocm.2021.10.001 | article | Royal jelly for genitourinary syndrome of menopause: A randomized controlled trial | Gynecology and Obstetrics Clinical Medic
+- new | 2021 | 10.21203/rs.3.rs-497678/v1 | preprint | Efficacy of Chinese Herbal Medicine Compared with Metformin for Glucose Regulation and Cardiovascular Risk Factors in Patients with Type 2 Diabetes with Dyslipidaemia: A Multicente | Research Square
+- new | 2020 | 10.34297/ajbsr.2020.07.001117 | article | Chinese Herbal Medicine to Alleviate Vasomotor Symptoms in Breast Cancer Survivors: A Study Protocol for a Randomised, Double Blind, Placebo Controlled, Multi Centre, Cross Over Tr | American Journal of Biomedical Science &
+- new | 2020 | 10.21203/rs.3.rs-17573/v1 | preprint | EST-SSR markers identification based on RNA-sequencing and application in Schisandra chinensis | Research Square
+- new | 2017 | 10.12783/dtbh/mshh2017/13431 | article | Study on the Modern Application of Schisandra Chinensis | DEStech Transactions on Biology and Heal
+- new | 2015 | https://openalex.org/W2383166338 | article | A Retrospective Analysis on Changes of Aminotransferase in 85 Patients Taking Huanglian(Coptis Chinensis Franch.) | 中医杂志：英文版
+- new | 2014 | 10.25903/vbtg-hx65 | dissertation | The efficacy of Garcinia mangostana L. (mangosteen) pericarp as an adjunctive to second-generation antipsychotics for the treatment of schizophrenia: a double blind, randomised, pl | ResearchOnline - JCU (James Cook Univers
+- new | 2013 | https://openalex.org/W2364693787 | article | Effects of Extract of Schisandra chinensis Baill on Clopidogrel Pharmacokinetic for Rats | Zhonghua zhongyiyao xuekan
+- new | 2012 | https://openalex.org/W2359232741 | article | Random Centroid Optimization of Polyphenol Extraction from Wuweizi(Schisandra chinensis) | Food Science
+- new | 2012 | https://openalex.org/W2359331461 | article | Study of lipid-lowering function of schisandra chinensis | Chinese Journal of Clinical Rational Dru
+- new | 2012 | https://openalex.org/W2356065331 | article | The Anti-Fatigue Effect of Schisandra Chinensis Bai11 Extract | Information on Traditional Chinese Medic
+- new | 2012 | https://openalex.org/W2366281296 | article | Effect of ABT on Seedlings of Schisandra chinensis(Turcz.) Baill. | Northern Horticulture
+- new | 2011 | 10.1007/s11240-011-9935-5 | article | Induction of somatic embryogenesis from female flower buds of elite Schisandra chinensis | Plant Cell Tissue and Organ Culture (PCT
+- new | 2011 | https://openalex.org/W2349275628 | article | Preventive Effects of Polysaccharides from Schisandra chinensis on Liver Fibrosis in Rats | Zhongguo yaofang
+- new | 2009 | https://openalex.org/W2383855197 | article | Influence of supercritical carbon dioxide extract of Schisandra chinensis on immunity of broilers | Dongbei Nongye Daxue xuebao
+- new | 2009 | https://openalex.org/W2359019175 | article | Effects of Ligustrum Lucidum,Schisandra chinensis and MOS on Immunization and Antioxidant Status of Broilers | Journal of Hebei Normal University of Sc
+- new | 2008 | https://openalex.org/W2364490856 | article | Effects of Schisandra Chinensis Baill Extract on Anti-hypoxia and Anti-fatigue in Mice | Journal of Inner Mongolia University for
+- new | 2007 | https://openalex.org/W2375551302 | article | An ISSR Analysis on Genetic Diversity of the Schisandra chinensis | Forestry Science and Technology
+- new | 2006 | https://openalex.org/W2392955686 | article | Individual Variation of Seed Features and Oil Content in Kernel of Schisandra chinensis Ball. Traits | Zhongnan Linye Keji Daxue xuebao
+- new | 2003 | 10.1021/bk-2003-0859.ch017 | conference-paper | Schisandra chinensis: Chemistry and Analysis | ACS symposium series
+- new | 2002 | https://openalex.org/W2348708959 | article | Identification of Schisandra chinensis (Turcz.) Baill. (Beiwuwei) and Schisandra sphenanthera Rehd. et Wils. (Nanwuwei) by random amplified polymorphic DNA | Traditional Chinese Drug Research and Cl
+- new | 1988 | 10.1016/0192-0561(88)90259-7 | other | Effects of Sho-Saiko-To on T-cell colony formation in peripheral blood of patients with decreased immunological function | International Journal of Immunopharmacol
+
+## scrophularia-nodosa (Scrophularia nodosa) - name clause: "Scrophularia nodosa"[tiab] OR "common figwort"[tiab] OR "woodland figwort"[tiab] OR "figwort"[ti]
+
+### PubMed HT - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SR - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SAFE - 0 hits, 0 not already listed above, 0 new
+
+### PubMed OBS - 0 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 0 hits, 0 not already listed above, 0 new
+
+### ClinicalTrials.gov - 0 registered studies
+
+### OpenAlex no-PMID trial-worded - 60 hits, 45 without PMID, 45 new
+- new | 2026 | 10.21203/rs.3.rs-10409348/v1 | preprint | Studying the effect of Scrophularia striata extract on the improvement of recurrent oral ulcers: A clinical trial study | Research Square
+- new | 2026 | 10.36129/jog.2026.266 | article | Menopausal vaginal syndrome (MVS): a new nonhormonal topical therapy | Italian Journal of Gynaecology and Obste
+- new | 2026 | 10.70604/learnint.v3i1.152 | article | DEVELOPMENT AND CHARACTERIZATION OF DIOSMIN LOADED PRONIOSOME GEL FOR VARICOSE VEINS | Learnovate-International
+- new | 2026 | 10.25258/ijddt.16.67s.171 | article | Development and Characterization of Punica granatum Fruit Gel with Anti-Acne Properties | International Journal of Drug Delivery T
+- new | 2025 | 10.33545/26164485.2025.v9.i4.x.2113 | article | Hypertension and homoeopathy: A comprehensive review | International Journal of Homoeopathic Sc
+- new | 2023 | 10.21802/artm.2023.2.26.51 | article | THE INFLUENCE OF MEDICINAL AND AROMATIC PLANTS EXTRACTS ON THE ANTIFUNGAL EFFECT OF FLUCONAZOLE REGARDING C. ALBICANS AND C. TROPICALIS ISOLATED FROM PATIENTS WITH DENTURE STOMATIT | Art of Medicine
+- new | 2023 | 10.51910/ijhdr.v22i2.1314 | article | Role of Homeopathy in Lumpy Skin Disease: Outcome of 37 Cases of Cows treated holistically with Homeopathy | International Journal of High Dilution R
+- new | 2023 | 10.33545/27067009.2023.v5.i1a.108 | article | Management of nerve injuries by utilization of nutraceuticals | International Journal of Pharmacognosy a
+- new | 2023 | 10.32707/ercivet.1332103 | article | Investigation of the Protective Effects of Diosmin Against Emamectin Benzoate Induced Oxidative Damage in Rats | Erciyes Üniversitesi Veteriner Fakültesi
+- new | 2023 | 10.2298/botserb2301145i | article | The alpine scrubs and dwarf heaths of the Balkan Peninsula - an exceptional center of floristic richness and endemism | Botanica Serbica
+- new | 2023 | 10.5772/intechopen.1002689 | book-chapter | Haemorrhoids: Aetiology to Management | IntechOpen eBooks
+- new | 2022 | 10.1086/719230 | article | “Use Me as Your Test!”: Patients, Practitioners, and the Commensurability of Virtue | Osiris
+- new | 2022 | 10.1016/j.jff.2022.105260 | article | Nutraceuticals: A source of benefaction for neuropathic pain and fibromyalgia | Journal of Functional Foods
+- new | 2022 | 10.3389/fevo.2022.832442 | article | Honey-Bearing Potential of Tilia cordata Mill. Forests in the Southern Urals | Frontiers in Ecology and Evolution
+- new | 2022 | 10.5812/gct-120772 | article | Scrophularia striata: Therapeutic and Healing Properties with an Emphasis on Oxidative Stress and Gastric Ulcer Treatment | Gene Cell and Tissue
+- new | 2022 | 10.3166/phyto-2022-0327 | article | Plantes médicinales de Hongrie | Phytothérapie
+- new | 2021 | 10.23958/ijirms/vol06-i10/1239 | article | Pharmacological Activity and Effectiveness of Electrohomoeopathy Medicine on Uterine Fibroids Individuals | International Journal of Innovative Rese
+- new | 2020 | 10.15674/0030-59872019459-63 | article | Treatment of anklejoint injuries from position of biological medicine | ORTHOPAEDICS TRAUMATOLOGY and PROSTHETIC
+- new | 2020 | 10.1109/access.2020.3015245 | article | Reinforcement Learning-Based Path Generation Using Sequential Pattern Reduction and Self-Directed Curriculum Learning | IEEE Access
+- new | 2020 | https://openalex.org/W7135330626 | dissertation | utilisation desremèdes non conventionnels dans le traitement traditionnel de la pthologie hémorröidaire à Tlemcen | Dépôt Institutionnel de lUniversité de T
+- new | 2019 | 10.1111/jvs.12763 | article | Assessing sampling coverage of species distribution in biodiversity databases | Journal of Vegetation Science
+- new | 2019 | 10.1007/s10021-019-00421-6 | article | Leaf Traits and Aboveground Biomass Variability of Forest Understory Herbaceous Plant Species | Ecosystems
+- new | 2019 | 10.33545/26164485.2019.v3.i3b.95 | article | Use of rare remedies in homoeopathic practice | International Journal of Homoeopathic Sc
+- new | 2019 | 10.1186/s12302-019-0273-2 | article | Validating the map of current semi-natural ecosystem types in Germany and their upscaling using the Kellerwald-Edersee National Park as an example | Environmental Sciences Europe
+- new | 2018 | 10.18054/pb.v119i4.4483 | article | Prediction of the appearance of tree of heaven in forest communities in western Slovenia | Periodicum Biologorum
+- new | 2016 | 10.24355/dbbs.084-201701040942-0 | article | Die spontane Flora der Straßen von Braunschweig: Hohe Artenzahl und unerwartete Florendynamik im lokalen Maßstab | Digitale Bibliothek Braunschweig (Verbun
+- new | 2016 | https://openalex.org/W2594131243 | dissertation | Effect of continuity, area, connectivity and surrounding landscape on forest specialist plant species in deciduous forest | DiVA (Stockholm University)
+- new | 2015 | 10.1016/j.smallrumres.2015.09.013 | article | Browsing ratio, species intake, and milk fatty acid composition of goats foraging on alpine open grassland and grazable forestland | Small Ruminant Research
+- new | 2014 | 10.1007/s11240-014-0620-3 | article | Shoot organogenesis, molecular analysis and secondary metabolite production of micropropagated Rehmannia glutinosa Libosch. | Plant Cell Tissue and Organ Culture (PCT
+- new | 2013 | 10.5209/rev_ricp.2013.v7.n2.41738 | article | Tratamiento biorregulador de la Tenosinovitis del Tibial Posterior. A propósito de un caso | Revista Internacional de Ciencias Podoló
+- new | 2013 | https://openalex.org/W595795232 | dissertation | Management of semi-natural grassland vegetation : long-term effects of grazing, mowing and different mowing techniques | DiVA (Linkoping University)
+- new | 2010 | 10.24355/dbbs.084-201002081423-0 | article | Analyse der Uferflora der Ilse (Harz/Harzvorland) unter besonderer Berücksichtigung von Nitrophyten und Neophyten / Yvonne Siedentopf & Dietmar Brandes | Digitale Bibliothek Braunschweig (Verbun
+- new | 2009 | 10.17221/111/2008-jfs | article | Plant community variability within potential natural vegetation units: a case study from the Bohemian Karst | Journal of Forest Science
+- new | 2007 | 10.1016/b978-0-323-02998-8.50024-x | book-chapter | Veterinary Herbal Medicine: A Systems-Based Approach | Elsevier eBooks
+- new | 2004 | 10.1111/j.0022-0477.2004.00892.x | article | Geranium robertianum L. | Journal of Ecology
+- new | 2003 | 10.3372/wi.33.33207 | article | Contribution to the knowledge of the vascular flora of NE Greece: Floristic composition of the beech (Fagus sylvaticaL.) forests in the Greek Rodopi | Willdenowia - Annals of the Botanic Gard
+- new | 2003 | https://openalex.org/W1578714040 | report | A. Kartlegging av truete vegetasjonstyper. Erfaringer fra Inderøy og Levanger | NVA (Nasjonalt vitenarkiv)
+- new | 2000 | 10.1659/0276-4741(2000)020[0364:tpions]2.0.co;2 | article | The Partial Influence of Norway Spruce Stands on Understorey Vegetation in Montane Forests of the Bavarian Alps | Mountain Research and Development
+- new | 1998 | 10.1515/znc-1998-11-1225 | article | Cytostatic Activity of Some Phenolic Acids of Scrophularia frutescens L. var. frutescens | Zeitschrift für Naturforschung C
+- new | 1996 | 10.24355/dbbs.084-200511080100-274 | article | Die Uferflora der Weser / Friedrich Wilhelm Oppermann | Digitale Bibliothek Braunschweig (Verbun
+- new | 1993 | https://openalex.org/W1612641420 | dissertation | Harvest index variability within and between field pea (Pisum sativum L.) crops | Lincoln University Research Archive (Lin
+- new | 1991 | https://openalex.org/W2576022003 | dissertation | Iron toxicity to wetland plants | White Rose eTheses Online (University of
+- new | 1963 | 10.1111/j.1438-8677.1963.tb00115.x | article | CHROMOSOME NUMBERS OF FLOWERING PLANTS IN THE NETHERLANDS | Acta Botanica Neerlandica
+- new | 1892 | 10.5962/bhl.title.64121 | book | The flora of Montreal Island | Biodiversity Heritage Library (Smithsoni
+- new | 1866 | 10.5962/bhl.title.12236 | book | Botanique [du département d'Eure-et-Loir] | Biodiversity Heritage Library (Smithsoni
+
+## scutellaria-lateriflora (Scutellaria lateriflora) - name clause: "Scutellaria lateriflora"[tiab] OR "American skullcap"[tiab] OR "blue skullcap"[tiab] OR "mad-dog skullcap"[tiab] OR "mad dog skullcap"[tiab]
+
+### PubMed HT - 4 hits, 4 not already listed above, 0 new
+- HELD REF-1562 | 2025 | 40362800 | Randomized Controlled Trial | Efficacy and Tolerability of a Chemically Characterized Scutellaria lateriflora L. Extract-Based Food Supplement for Sleep Management: A Single-Center, Controlled, Randomized, Cros | Nutrients
+- HELD REF-1564 | 2024 | 38542772 | Randomized Controlled Trial | Efficacy and Tolerability of a Scutellaria lateriflora L. and Cistus × incanus L.-Based Chewing Gum on the Symptoms of Gingivitis: A Monocentric, Randomized, Double-Blind, Placebo- | Nutrients
+- HELD REF-0551 | 2014 | 23878109 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | American Skullcap (Scutellaria lateriflora): a randomised, double-blind placebo-controlled crossover study of its effects on mood in healthy volunteers. | Phytother Res
+- HELD REF-1563 | 2003 | 12652886 | Clinical Trial/Randomized Controlled Trial | An investigation into the efficacy of Scutellaria lateriflora in healthy volunteers. | Altern Ther Health Med
+
+### PubMed SR - 2 hits, 2 not already listed above, 2 new
+- new | 2011 | 21601431 | Research Support, Non-U.S. Gov't/Systematic Review | Herbal medicine for depression, anxiety and insomnia: a review of psychopharmacology and clinical evidence. | Eur Neuropsychopharmacol
+- new | 2007 | 17562566 | Systematic Review | Herbal medicines in the treatment of psychiatric disorders: a systematic review. | Phytother Res
+
+### PubMed SAFE - 8 hits, 7 not already listed above, 5 new
+- new | 2026 | 42115395 | Review | Pharmacokinetics, pharmacodynamics and formulation strategies for enhanced bioavailability of baicalein: an update. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2016 | 26978333 | Research Support, Non-U.S. Gov't/Review | Role of Intestinal Microbiota in Baicalin-Induced Drug Interaction and Its Pharmacokinetics. | Molecules
+- new | 2014 | 25184892 | Research Support, Non-U.S. Gov't | Skullcap and germander: preventing potential toxicity through the application of hyperspectral imaging and multivariate image analysis as a novel quality control method. | Planta Med
+- HELD REF-1571 | 2011 | 21773734 | Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S. | A flow-injection mass spectrometry fingerprinting method for authentication and quality assessment of Scutellaria lateriflora-based dietary supplements. | Anal Bioanal Chem
+- new | 2010 | 20922946 | Research Support, N.I.H., Intramural/Research Support, U.S. Gov't, Non-P.H.S. | Mass spectroscopic fingerprinting method for differentiation between Scutellaria lateriflora and the germander (Teucrium canadense and T. chamaedrys) species. | J AOAC Int
+- HELD REF-2680 | 2009 | 19402188 | Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S. | Comparison of the phenolic component profiles of skullcap (Scutellaria lateriflora) and germander (Teucrium canadense and T. chamaedrys), a potentially hepatotoxic adulterant. | Phytochem Anal
+- new | 2009 | 19610368 |  | Detection of the potential adulterant Teucrium chamaedrys in Scutellaria baicalensis raw material and extract by high-performance thin-layer chromatography. | J AOAC Int
+
+### PubMed OBS - 0 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 5 hits, 3 not already listed above, 3 new
+- new | 2019 | 30772483 | Review | Do recent research studies validate the medicinal plants used in British Columbia, Canada for pet diseases and wild animals taken into temporary care? | J Ethnopharmacol
+- new | 2018 | 30424560 | Review | The Phytochemistry of Cherokee Aromatic Medicinal Plants. | Medicines (Basel)
+- new | 2013 | 23653088 | Research Support, Non-U.S. Gov't/Review | Plant-based medicines for anxiety disorders, part 2: a review of clinical studies with supporting preclinical evidence. | CNS Drugs
+
+### ClinicalTrials.gov - 2 registered studies
+- NCT02419235 | COMPLETED | results=False | PHASE2 | The Effect of a Homoeopathic Complex on Blood Pressure in Refractory Hypertension | conds: Essential Hypertension | intr: 20% ethanol, Homoeopathic complex
+- NCT04759040 | COMPLETED | results=False | NA | Improvement of Migraine Severity and Frequency With Migraineguard ™ | conds: Migraine, Headache | intr: Migraineguard
+
+### OpenAlex no-PMID trial-worded - 172 hits, 41 without PMID, 41 new
+- new | 2026 | 10.1002/9781394288076.ch9 | book-chapter | Herbal Medicines in the Management and Therapeutic Application for Psychological Disorders | Wiley eBooks
+- new | 2026 | https://openalex.org/W7133576059 | article | Anxiolytic potential of medicinal plants in the treatment of anxiety disorders: an alternative to psychotropic drugs | Revista cubana de medicina militar
+- new | 2026 | 10.25130/tjas.26.2.16 | article | Nano-Extract of Ascophyllum nodosum as A Novel Elicitor for Enhancing Callus Growth and Bioactive Compounds in Silybum marianum Under Light and Dark Conditions | Tikrit Journal for Agricultural Sciences
+- new | 2025 | 10.70082/gxzmbd18 | article | Herbal Medicine For Insomnia And Mental Stress/Anxiety An Expanded Evidence-Based Review Of Phytotherapeutic Interventions | The Review of Diabetic Studies
+- new | 2025 | 10.33545/26164485.2025.v9.i1a.1331 | article | Exploring homoeopathic remedies for insomnia: A review of therapeutic approaches | International Journal of Homoeopathic Sc
+- new | 2025 | 10.24917/25438832.10.13 | article | Analysis of Traditional Medical Sciences in Asia and the Middle East in phytotherapeutic aspects | Annales Universitatis Paedagogicae Craco
+- new | 2024 | 10.51415/10321/5399 | dissertation | A retrospective chart review on the homoeopathic management of concomitant ailments occurring in HIV positive patients, at a homoeopathic community health centre | DUT Open Scholar (Durban University of T
+- new | 2024 | 10.3390/ddc3040047 | article | Review of Case Study Results: Assessing the Effectiveness of Curcumin, St. John’s Wort, Valerian Root, Milk Thistle, and Ashwagandha in the Intervention for Obsessive-Compulsive Di | Drugs and Drug Candidates
+- new | 2024 | 10.36468/pharmaceutical-sciences.spl.975 | article | Therapeutic Potential of Chaihu-Shugan-San Formula in Bipolar Disorder: A Multifaceted Exploration from Clinical and Animal Study | Indian Journal of Pharmaceutical Science
+- new | 2024 | 10.51910/ijhdr.v23icf.1422 | article | Homeopathy for Hypertension: A Comprehensive Scoping Review of the Current Evidence | International Journal of High Dilution R
+- new | 2024 | 10.36676/jrps.v15.i1.1653 | article | The Role of Homeopathy in Addressing Mental Health Issues: An Evidence-Based Approach | International Journal for Research Publi
+- new | 2024 | 10.3390/targets2020007 | article | Potential of MMP-2 and MMP-9 Gelatinase Blockade as a Therapeutic Strategy in Fibrosarcoma Treatment: A Decadal Review | Targets
+- new | 2024 | 10.53022/oarjbp.2024.10.2.0013 | article | Triple Negative Breast Cancer (TNBC): Signalling pathways-Role of plant-based inhibitors | Open Access Research Journal of Biology 
+- new | 2022 | 10.14309/01.ajg.0000868508.46653.c2 | conference-abstract | Drug-Induced Autoimmune Hepatitis Post Acute Liver Injury From Skullcap Supplements: An Unfortunate Case of Herbal Toxicity | The American Journal of Gastroenterology
+- new | 2022 | 10.1016/j.hermed.2022.100547 | article | Experience of Western Herbal Medicine practitioners in supporting brain health in mid-life and older patients: A qualitative research study | Journal of Herbal Medicine
+- new | 2022 | 10.1016/j.phyplu.2022.100375 | review | Plants and phytochemicals potentials in tackling anxiety: A systematic review | Phytomedicine Plus
+- new | 2022 | 10.1016/b978-0-323-91172-6.00017-0 | book-chapter | Natural products as a therapy to combat against SARS-CoV-2 virus infection | Elsevier eBooks
+- new | 2022 | https://openalex.org/W7217304819 | article | ผลของสารกระตุ้นต่อการเจริญเติบโตและการเหนี่ยวนำการสร้างสารฟรุกแตนของแก่นตะวัน | Health Science Science and Technology Re
+- new | 2021 | 10.30574/wjbphs.2021.5.3.0023 | article | The anxiolytic effect of some plant extracts in clinical trials and animal models | World Journal of Biology Pharmacy and He
+- new | 2020 | 10.2174/2211556009999200723122833 | article | Overview on Phyto-based Treatment for Anxiety | Current Psychopharmacologye
+- new | 2020 | 10.1016/j.crbiot.2020.10.002 | article | Insights from nature: A review of natural compounds that target protein misfolding in vivo | Current Research in Biotechnology
+- new | 2018 | 10.56369/tsaes.2583 | article | ESSENTIAL OILS AS MODIFIERS OF HUMAN BEHAVIOR | Tropical and Subtropical Agroecosystems
+- new | 2018 | 10.5505/vtd.2018.77044 | article | Antiepileptic activity of four selected Skullcap (Scutellaria) species on mice | Van Medical Journal
+- new | 2017 | 10.7439/ijpp.v7i3.4264 | review | The use of medicinal plants in the treatment of mental disorders: An overview | International Journal of Phytopharmacy
+- new | 2017 | https://openalex.org/W2778608515 | dissertation | A Delphi study on herbs used to address Depression and Anxiety according to master herbalists | ThinkTech (Texas Tech University)
+- new | 2016 | 10.2135/cropsci2015.03.0186 | article | Shade, Irrigation, and Nutrients Affect Flavonoid Concentration and Yield in American Skullcap | Crop Science
+- new | 2016 | 10.5772/64468 | book-chapter | Toxic Effects as a Result of Herbal Medicine Intake | InTech eBooks
+- new | 2015 | 10.18869/acadpub.shefa.3.2.35 | article | The Effect of Equeous Datura Stramonium L Seed Extract on Chemical Kindling Induced by Intraperitoneal Injection of Pentylenetetrazole in Mice | The Neuroscience Journal of Shefaye Khat
+- new | 2014 | https://openalex.org/W2612119689 | dissertation | Efeitos da Passiflora incarnata e do midazolam no controle da ansiedade em pacientes submetidos à exodontia de terceiros molares inclusos | Americanae (AECID Library)
+- new | 2012 | 10.34737/8z40y | dissertation | American skullcap (Scutellaria lateriflora L):a study of its effects on mood in healthy volunteers | WestminsterResearch (University of Westm
+- new | 2012 | 10.1186/isrctn48078312 | study-registration | American skullcap (Scutellaria lateriflora): a study of its effects on mood in healthy volunteers | 
+- new | 2012 | 10.21273/hortsci.47.12.1705 | article | Partial Shade, Irrigation, and Added Nutrients Maximize Dry Matter Yield of American Skullcap (Scutellaria lateriflora L.) | HortScience
+- new | 2012 | 10.14200/jrm.2012.1.1007 | article | Supporting Adrenal Function with Adaptogenic Herbs | Journal of Restorative Medicine
+- new | 2012 | 10.2147/btat.s20593 | article | A systematic updated review of scientifically tested selected plants used for anxiety disorders | Botanics Targets and Therapy
+- new | 2008 | 10.1055/s-2008-1075201 | article | Shade, Irrigation and Fertility Effects on Biomass Production and Flavonoid Content in American skullcap | Planta Medica
+- new | 2008 | 10.1055/s-2008-1075156 | article | Controlled Environment Cultivation Increases Yield, Uniformity and Quality of Botanicals | Planta Medica
+- new | 2007 | 10.1016/b978-0-323-02998-8.50024-x | book-chapter | Veterinary Herbal Medicine: A Systems-Based Approach | Elsevier eBooks
+- new | 2002 | 10.51415/10321/1819 | dissertation | The efficacy of homoeopathic similimum compared to a homoeopathic complex in the treatment of problematic primary dental eruption | DUT Open Scholar (Durban University of T
+- new | 1998 | 10.51415/10321/2107 | dissertation | The efficacy of a homoeopathic complex (Chamomilla, Belladona and Scutellaria Lateriflora) in the treatment of problematic primary dental eruption | DUT Open Scholar (Durban University of T
+- new | 1990 | https://openalex.org/W2585634020 | article | Vascular plants of the UWM Field Station area | UWM Digital Commons (University of Wisco
+- new | 1892 | 10.5962/bhl.title.64121 | book | The flora of Montreal Island | Biodiversity Heritage Library (Smithsoni
+
+## serenoa-repens (Serenoa repens) - name clause: "Serenoa repens"[tiab] OR "saw palmetto"[tiab] OR "Sabal serrulata"[tiab] OR "Permixon"[tiab] OR "lipidosterolic extract"[tiab]
+
+### PubMed HT - 257 hits, 200 not already listed above, 184 new
+- new | 2026 | 42287322 |  | Serenoa Repens-Lycopene-Selenium and Epilobium-Palmitoylethanolamide-Calendula after transperineal prostate biopsy: a tertiary single center experience. | World J Urol
+- new | 2026 | 42751554 | Review | Effects of Serenoa repens extract on sexual function in patients with benign prostatic hyperplasia: a systematic review and meta-analysis. | Sex Med
+- new | 2026 | 41652806 | Randomized Controlled Trial | The Safety and Efficacy of a Novel Saw Palmetto (Serenoa repens) Extract for Promoting Hair Growth in Adults With Self-Perceived Thinning Hair: 180-Day Results. | J Cosmet Dermatol
+- new | 2026 | 42023747 | Review | Pharmacology, efficacy and safety of different extracts of Serenoa repens in patients with lower urinary tract symptoms and benign prostatic hyperplasia: a narrative review. | Minerva Urol Nephrol
+- new | 2026 | 42157952 | Review | Efficacy and safety of Serenoa repens in benign prostatic disorders: a systematic review of recent clinical evidence. | Drugs Context
+- new | 2026 | 41664556 | Published Erratum | Correction to "[Efficacy of Serenoa repens Extract Combined With Alfuzosin Versus Alfuzosin Alone in Men With Lower Urinary Tract Symptoms Due to Benign Prostatic Hyperplasia: A Mu | Prostate
+- new | 2026 | 42280395 | Randomized Controlled Trial/Comparative Study | Efficacy and Safety of Salvia miltiorrhiza Extract (SAGX) Compared with Saw Palmetto in Men with Lower Urinary Tract Symptoms: A 12-Week, Randomized, Double-Blind, Parallel-Group P | Nutrients
+- new | 2026 | 42980740 | Review | Gamma-sitosterol and male reproductive health: mechanistic insights, preclinical evidence, and clinical research gaps. | Mol Biol Rep
+- new | 2026 | 41098072 | Multicenter Study/Randomized Controlled Trial/Clinical Trial, Phase III | Efficacy of Serenoa repens Extract Combined With Alfuzosin Versus Alfuzosin Alone in Men With Lower Urinary Tract Symptoms Due to Benign Prostatic Hyperplasia: A Multicenter Random | Prostate
+- new | 2025 | 40654553 | Review | Topical Alternatives for Hair Loss: Beyond the Conventional. | Int J Trichology
+- new | 2025 | 41319217 | Randomized Controlled Trial | The Safety and Efficacy of a Proprietary Bioactive Fatty Acids Extract From Saw Palmetto (Serenoa repens) for Promoting Hair Growth and Reducing Hair Loss in Adults With Self-Perce | J Cosmet Dermatol
+- HELD REF-3766 | 2025 | 39042923 | Randomized Controlled Trial | Beneficial effects of saw palmetto (Serenoa repens) fruit extract on the urinary symptoms of healthy Japanese adults with possible lower urinary tract symptoms: A randomized, doubl | Nutr Health
+- new | 2025 | 39911983 |  | Oral Supplementation with l-Cystine, Serenoa repens, Cucurbita pepo, and Pygeum africanum in Chronic Telogen Effluvium and Androgenetic Alopecia: A Double-Blind, Placebo-Controlled | Skin Appendage Disord
+- new | 2025 | 40771449 | Review | Herbal Remedies for Hair Loss: A Review of Efficacy and Safety. | Skin Appendage Disord
+- new | 2025 | 41031781 |  | Efficacy of Serenoa repens lipido-sterolic extract alone or in combination with propolis polyphenols and Boswellia serrata extract suppositories on PSA level and symptoms in patien | Arch Ital Urol Androl
+- new | 2025 | 40536553 | Systematic Review/Research Support, Non-U.S. Gov't | Pathophysiology, conventional treatments, and evidence-based herbal remedies of hair loss with a systematic review of controlled clinical trials. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2025 | 40853071 | Randomized Controlled Trial/Multicenter Study | Impact of a Novel Dietary Supplement on Efficacy of Pharmacological Treatments for Androgenic Alopecia: A Real-Life, Multicenter, Randomized, Assessor-Blinded Trial on 225 Subjects | J Cosmet Dermatol
+- new | 2025 | 38411727 | Review | Natural Products in the Treatment of Lower Urinary Tract Dysfunction and Infection. | Handb Exp Pharmacol
+- new | 2025 | 41561175 | Systematic Review | Effects of dietary supplements on androgenetic alopecia: a systematic review and network meta-analysis. | Front Nutr
+- new | 2025 | 40248996 |  | Comparative Study of the Efficacy and Tolerability of Palmex® (Roystonea regia Lipid Extract), Saw Palmetto, Finasteride and Tamsulosin in Patients with Benign Prostatic Hyperplasi | Urol Res Pract
+- new | 2025 | 40475103 | Review | Do Non-Prescription Products Help in Managing Androgenic Alopecia? | Skin Appendage Disord
+- new | 2025 | 40731854 | Observational Study/Comparative Study | Quantification of the Role of Teupol(®) 25P and Graminex(®) G96 Compared to Hexanic Extract of Serenoa repens in Patients Affected by Lower Urinary Tract Symptoms During Treatment  | Medicina (Kaunas)
+- new | 2025 | 40777606 |  | Comparison of Serenoa repens, lycopene, and selenium versus dutasteride for the treatment of LUTS/BPH: an Italian multicenter case-control prospective study (COMP study). | Front Urol
+- new | 2025 | 41383467 | Review | Botanical drug preparations for alleviating hair loss in menopausal women: a global ethnopharmacological mini-review. | Front Pharmacol
+- new | 2024 | 39505516 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Multi-pharmacological treatment for young subfertile males with chronic prostatitis/chronic pelvic pain syndrome. | Investig Clin Urol
+- new | 2024 | 39675037 | Clinical Trial | Measuring the efficacy of Serenoa repens (USPlus) extract with mobile uroflowmetry. | Can J Urol
+- new | 2024 | 38391402 |  | Phytotherapy Might Have a Role in Reducing Unnecessary Prostate Biopsies: Results from an Exploratory, Randomized Controlled Trial of Two Different Phytotherapeutic Agents. | Clin Pract
+- new | 2023 | 36902686 | Review | Role of Phytotherapy in the Management of BPH: A Summary of the Literature. | J Clin Med
+- new | 2023 | 38021422 | Case Reports/Clinical Trial | Oral and Topical Administration of a Standardized Saw Palmetto Oil Reduces Hair Fall and Improves the Hair Growth in Androgenetic Alopecia Subjects - A 16-Week Randomized, Placebo- | Clin Cosmet Investig Dermatol
+- new | 2023 | 37276165 |  | Real-World, Open-Label Study of the Efficacy and Safety of a Novel Serum in Androgenetic Alopecia. | J Drugs Dermatol
+- HELD REF-1887 | 2023 | 37345871 | Research Support, Non-U.S. Gov't/Review | Serenoa repens for the treatment of lower urinary tract symptoms due to benign prostatic enlargement. | Cochrane Database Syst Rev
+- new | 2023 | 37649644 |  | Fire management effects on ruminal digestibility and in vitro methane emissions of subtropical rangeland plant species. | Transl Anim Sci
+- new | 2023 | 37292551 |  | A Comparative Study of Topical Procapil With Platelet-Rich Plasma Therapy Versus Topical Redensyl, Saw Palmetto, and Biotin With Platelet-Rich Plasma Therapy in the Treatment of An | Cureus
+- HELD REF-3767 | 2022 | 35334848 | Multicenter Study/Randomized Controlled Trial | Beneficial Effects of Saw Palmetto Fruit Extract on Urinary Symptoms in Japanese Female Subjects by a Multicenter, Randomized, Double-Blind, Placebo-Controlled Study. | Nutrients
+- new | 2022 | 35806900 |  | Efficacy and Tolerability of 6-Month Treatment with Tamsulosin Plus the Hexanic Extract of Serenoa repens versus Tamsulosin Plus 5-Alpha-Reductase Inhibitors for Moderate-to-Severe | J Clin Med
+- new | 2022 | 35207238 |  | Efficacy and Safety of the Hexanic Extract of Serenoa repens vs. Watchful Waiting in Men with Moderate to Severe LUTS-BPH: Results of a Paired Matched Clinical Study. | J Clin Med
+- new | 2022 | 35237936 | Review | Hexanic Extract of Serenoa repens (Permixon(®)): A Review in Symptomatic Benign Prostatic Hyperplasia. | Drugs Aging
+- new | 2022 | 35428430 | Review | Nutraceuticals and Phytotherapy in Men's Health: Antioxidants, Pro-oxidants, and a Novel Opportunity for Lifestyle Changes. | Urol Clin North Am
+- new | 2021 | 31952967 | Network Meta-Analysis/Systematic Review | Clinical Efficacy of Serenoa repens Versus Placebo Versus Alpha-blockers for the Treatment of Lower Urinary Tract Symptoms/Benign Prostatic Enlargement: A Systematic Review and Net | Eur Urol Focus
+- new | 2021 | 34933534 | Meta-Analysis/Systematic Review | Serenoa repens and its effects on male sexual function. A systematic review and meta-analysis of clinical trials. | Arch Ital Urol Androl
+- new | 2021 | 32418876 | Letter/Comment | Re: Giorgio Ivan Russo, Carmen Scandura, Marina Di Mauro, et al. Clinical Efficacy of Serenoa repens Versus Placebo Versus Alpha-blockers for the Treatment of Lower Urinary Tract S | Eur Urol Focus
+- HELD REF-1890 | 2021 | 34488251 | Meta-Analysis/Systematic Review | Serenoa repens for the treatment of lower urinary tract symptoms due to benign prostatic enlargement: A systematic review and meta-analysis. | Investig Clin Urol
+- new | 2021 | 32417122 | Letter/Comment | Reply to Cosimo De Nunzio, Giacomo Novara, Rocco Damiano, Riccardo Bartoletti, Andrea Tubaro, and Vincenzo Ficarra's Letter to the Editor re: Giorgio Ivan Russo, Carmen Scandura, M | Eur Urol Focus
+- new | 2021 | 33452912 | Clinical Trial, Phase IV/Multicenter Study/Randomized Controlled Trial | The efficacy and safety of Serenoa repens extract for the treatment of patients with chronic prostatitis/chronic pelvic pain syndrome: a multicenter, randomized, double-blind, plac | World J Urol
+- new | 2021 | 34588509 | Comparative Study/Research Support, Non-U.S. Gov't | Efficacy and tolerability of the hexanic extract of Serenoa repens compared to tamsulosin in moderate-severe LUTS-BPH patients. | Sci Rep
+- new | 2021 | 33818949 |  | [Iscussion on the use of hexane extract of Serenoa repens for combination therapy in patients with LUTS/BPH]. | Urologiia [rus]
+- new | 2020 | 32066284 | Review | A review of the treatment of male pattern hair loss. | Expert Opin Pharmacother
+- new | 2020 | 33313047 | Review | Natural Hair Supplement: Friend or Foe? Saw Palmetto, a Systematic Review in Alopecia. | Skin Appendage Disord
+- new | 2020 | 33003518 | Review | Dietary Factors and Supplements Influencing Prostate Specific-Antigen (PSA) Concentrations in Men with Prostate Cancer and Increased Cancer Risk: An Evidence Analysis Review Based  | Nutrients
+- new | 2020 | 32917008 |  | Clinical Benefit of Tamsulosin and the Hexanic Extract of Serenoa Repens, in Combination or as Monotherapy, in Patients with Moderate/Severe LUTS-BPH: A Subset Analysis of the QUAL | J Clin Med
+- new | 2020 | 32620155 | Comparative Study/Randomized Controlled Trial | A double blind, placebo-controlled randomized comparative study on the efficacy of phytosterol-enriched and conventional saw palmetto oil in mitigating benign prostate hyperplasia  | BMC Urol
+- HELD REF-3768 | 2020 | 32884683 |  | Effects of saw palmetto fruit extract intake on improving urination issues in Japanese men: A randomized, double-blind, parallel-group, placebo-controlled study. | Food Sci Nutr
+- new | 2020 | 32552493 | Comment | Re: 15 Years' Survey of Safety and Efficacy of Serenoa Repens Extract in Benign Prostatic Hyperplasia Patients with Risk of Progression. | J Urol
+- new | 2020 | 32235563 |  | The Clinical Impact of Hexanic Extract of Serenoa repens in Men with Prostatic Inflammation: A Post Hoc Analysis of a Randomized Biopsy Study. | J Clin Med
+- new | 2020 | 31805571 | Comparative Study | A Prospective, Open-Label Comparison of Tamsulosin plus Serenoa repens and Bovine Colostrum versus Tamsulosin Alone in the Treatment of Benign Prostatic Hyperplasia. | Urol Int
+- new | 2020 | 31680216 | Review | Herbal preparations for the treatment of hair loss. | Arch Dermatol Res
+- HELD REF-0804 | 2019 | 31577095 | Review | Nutraceutical treatment and prevention of benign prostatic hyperplasia and prostate cancer. | Arch Ital Urol Androl
+- new | 2019 | 32223093 | Meta-Analysis | [Efficacy and safety of Serenoa repens extract combined with α-receptor blocker in the treatment of benign prostatic hyperplasia]. | Zhonghua Nan Ke Xue [chi]
+- new | 2019 | 30027406 | Randomized Controlled Trial | The effect of hexanic extract of Serenoa repens on prostatic inflammation: results from a randomized biopsy study. | World J Urol
+- new | 2019 | 31184016 | Randomized Controlled Trial | [A comparative analysis of the effectiveness of serenoa repens and serenoa repens in combination with urtica dioiccus for lower urinary symptoms suggestive of benign prostatic hype | Urologiia [rus]
+- new | 2019 | 29741118 | Observational Study | 15 years' survey of safety and efficacy of Serenoa repens extract in benign prostatic hyperplasia patients with risk of progression. | Urologia
+- new | 2019 | 31527377 | Randomized Controlled Trial | The Use of a Combination of Vaccinium Macracarpon, Lycium barbarum L. and Probiotics (Bifiprost®) for the Prevention of Chronic Bacterial Prostatitis: A Double-Blind Randomized Stu | Urol Int
+- new | 2019 | 31356008 |  | [Prediction of the effectiveness of the therapy of LUTS/BPH by Serenoa repens extracts]. | Urologiia [rus]
+- new | 2019 | 31217822 |  | Efficacy and tolerability of Roystonea regia lipid extract (D-004) and terazosin in men with symptomatic benign prostatic hyperplasia: a 6-month study. | Ther Adv Urol
+- new | 2019 | 30880074 | Multicenter Study/Randomized Controlled Trial | Efficacy and Safety of Serenoa repens Extract Among Patients with Benign Prostatic Hyperplasia in China: A Multicenter, Randomized, Double-blind, Placebo-controlled Trial. | Urology
+- new | 2019 | 30488800 | Randomized Controlled Trial | Flower Pollen Extract in Association with Vitamins (Deprox 500®) Versus Serenoa repens in Chronic Prostatitis/Chronic Pelvic Pain Syndrome: A Comparative Analysis of Two Different  | Antiinflamm Antiallergy Agents Med Chem
+- new | 2018 | 28160499 | Clinical Study | Clinical Effects of Formulated Food of Peucedanum japonicum Extract and Saw Palmetto Extract in Male Patients with Lower Urinary Tract Symptoms. | Low Urin Tract Symptoms
+- HELD REF-0571 | 2018 | 29694707 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Efficacy and safety of a hexanic extract of Serenoa repens (Permixon(®) ) for the treatment of lower urinary tract symptoms associated with benign prostatic hyperplasia (LUTS/BPH): | BJU Int
+- new | 2018 | 30173449 | Randomized Controlled Trial | [Efficacy and safety of № I Empirical Prescription for Chronic Prostatitis in the treatment of type Ⅲ refractory chronic prostatitis]. | Zhonghua Nan Ke Xue [chi]
+- new | 2018 | 29569389 | Clinical Trial, Phase IV/Comparative Study/Equivalence Trial/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Serenoa repens + selenium + lycopene vs tadalafil 5 mg for the treatment of lower urinary tract symptoms secondary to benign prostatic obstruction: a Phase IV, non-inferiority, ope | BJU Int
+- HELD REF-1888 | 2017 | 28436684 | Review | Serenoa repens for Lower Urinary Tract Symptoms/Benign Prostatic Hyperplasia: Current Evidence and Its Clinical Implications in Naturopathic Medicine. | J Altern Complement Med
+- new | 2017 | 27900565 | Comparative Study | Randomized double-blind controlled clinical trials with herbal preparations of Serenoa repens fruits in treatment of lower urinary tract symptoms : An overview. | Wien Med Wochenschr
+- new | 2017 | 29717831 |  | [Saw palmetto fruit extract improves LUTS in type ⅢA prostatitis patients]. | Zhonghua Nan Ke Xue [chi]
+- new | 2017 | 28327526 |  | Survivin and NAIP in Human Benign Prostatic Hyperplasia: Protective Role of the Association of Serenoa repens, Lycopene and Selenium from the Randomized Clinical Study. | Int J Mol Sci
+- new | 2017 | 28053897 |  | Effects of a supplement combining Pycnogenol(®) and l-arginine aspartate on lower urinary dysfunction compared with saw palmetto extract. | J Tradit Complement Med
+- new | 2017 | 28403589 | Comparative Study/Randomized Controlled Trial | The efficacy of an association of palmitoylethanolamide and alpha-lipoic acid in patients with chronic prostatitis/chronic pelvic pain syndrome: A randomized clinical trial. | Arch Ital Urol Androl
+- HELD REF-0572 | 2016 | 28723522 | Review | Efficacy and Safety of Hexanic Lipidosterolic Extract of Serenoa repens (Permixon) in the Treatment of Lower Urinary Tract Symptoms Due to Benign Prostatic Hyperplasia: Systematic  | Eur Urol Focus
+- new | 2016 | 27272436 |  | Effect of Saw Palmetto Supplements on Androgen-Sensitive LNCaP Human Prostate Cancer Cell Number and Syrian Hamster Flank Organ Growth. | Evid Based Complement Alternat Med
+- new | 2016 | 26010505 | Comparative Study | Treatment of male androgenetic alopecia with topical products containing Serenoa repens extract. | Australas J Dermatol
+- new | 2016 | 27711089 | Clinical Trial, Phase III/Comparative Study/Randomized Controlled Trial | Serenoa repens associated with selenium and lycopene extract and bromelain and methylsulfonylmethane extract are able to improve the efficacy of levofloxacin in chronic bacterial p | Arch Ital Urol Androl
+- new | 2016 | 27479407 | Comment | Re: Comparison of Tamsulosin plus Serenoa repens with Tamsulosin in the Treatment of Benign Prostatic Hyperplasia in Korean Men: 1-Year Randomized Open Label Study. | J Urol
+- new | 2016 | 26891611 | Multicenter Study/Randomized Controlled Trial | Saw Palmetto for Symptom Management During Radiation Therapy for Prostate Cancer. | J Pain Symptom Manage
+- new | 2016 | 27741165 |  | The Use of Complementary and Alternative Medicine is Frequent in Patients With Pancreatic Disorders. | J Clin Gastroenterol
+- new | 2016 | 27208818 |  | The Effect of a Pure Anti-inflammatory Therapy on Reducing Prostate-specific Antigen Levels in Patients Diagnosed With a Histologic Prostatitis. | Urology
+- new | 2016 | 26810324 | Multicenter Study/Observational Study/Research Support, Non-U.S. Gov't | Quality of life in patients with lower urinary tract symptoms associated with BPH: change over time in real-life practice according to treatment--the QUALIPROST study. | Int Urol Nephrol
+- new | 2015 | 25703069 | Research Support, Non-U.S. Gov't/Review | What do we know about phytotherapy of benign prostatic hyperplasia? | Life Sci
+- new | 2015 | 25895783 | Editorial/Comment | Re: Treatment assignment guesses by study participants in a double-blind dose escalation clinical trial of saw palmetto. | J Urol
+- new | 2015 | 26492588 |  | Supplementary management of benign prostatic hypertrophy with Prostaquil. An 8-week registry. | Minerva Gastroenterol Dietol
+- new | 2015 | 25614155 | Comparative Study/Randomized Controlled Trial | Comparison of tamsulosin plus serenoa repens with tamsulosin in the treatment of benign prostatic hyperplasia in Korean men: 1-year randomized open label study. | Urol Int
+- new | 2015 | 26306400 | Clinical Trial, Phase IV/Multicenter Study/Randomized Controlled Trial | Effects of hexanic extract of Serenoa repens (Permixon® 160 mg) on inflammation biomarkers in the treatment of lower urinary tract symptoms related to benign prostatic hyperplasia. | Prostate
+- new | 2015 | 25667610 |  | Multimodal therapy for category III chronic prostatitis/chronic pelvic pain syndrome in UPOINTS phenotyped patients. | Exp Ther Med
+- new | 2014 | 25183955 |  | Evaluation of Resettin® on serum hormone levels in sedentary males. | J Int Soc Sports Nutr
+- new | 2014 | 24231216 | Randomized Controlled Trial | The efficacy and safety of duloxetine in a multidrug regimen for chronic prostatitis/chronic pelvic pain syndrome. | Urology
+- new | 2014 | 23383975 | Multicenter Study/Randomized Controlled Trial/Research Support, N.I.H., Extramural | Treatment assignment guesses by study participants in a double-blind dose escalation clinical trial of saw palmetto. | J Altern Complement Med
+- new | 2014 | 24938176 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Fixed-dose combination PRO 160/120 of sabal and urtica extracts improves nocturia in men with LUTS suggestive of BPH: re-evaluation of four controlled clinical studies. | World J Urol
+- new | 2014 | 25154739 | Multicenter Study/Randomized Controlled Trial | Serenoa repens, lycopene and selenium versus tamsulosin for the treatment of LUTS/BPH. An Italian multicenter double-blinded randomized study between single or combination therapy  | Prostate
+- new | 2014 | 25163818 | Clinical Trial/Research Support, Non-U.S. Gov't | Prospective trial of an herbal formula BYSH and Saw palmetto in patients with hormonal refractory prostate cancer: a pilot study. | Recent Pat Inflamm Allergy Drug Discov
+- new | 2014 | 25038794 | Randomized Controlled Trial | Chronic bacterial prostatitis: efficacy of short-lasting antibiotic therapy with prulifloxacin (Unidrox®) in association with saw palmetto extract, lactobacillus sporogens and arbu | BMC Urol
+- new | 2014 | 24606563 | Retracted Publication | Inhibitors of apoptosis proteins in experimental benign prostatic hyperplasia: effects of serenoa repens, selenium and lycopene. | J Biomed Sci
+- new | 2013 | 23063633 | Randomized Controlled Trial | Safety and toxicity of saw palmetto in the CAMUS trial. | J Urol
+- new | 2013 | 23202286 | Review | Nutrition and benign prostatic hyperplasia. | Curr Opin Urol
+- new | 2013 | 24159762 | Clinical Trial | [The results of the 10-year study of efficacy and safety of Serenoa repens extract in patients at risk of progression of benign prostatic hyperplasia]. | Urologiia [rus]
+- HELD REF-0404 | 2013 | 23642948 | Clinical Trial, Phase II/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A phase II randomised double-blind placebo-controlled clinical trial investigating the efficacy and safety of ProstateEZE Max: a herbal medicine preparation for the management of s | Complement Ther Med
+- new | 2013 | 24399120 | Observational Study | Serenoa repens extract additionally to quinolones in the treatment of chronic bacterial prostatitis. The preliminary results of a long term observational study. | Arch Ital Urol Androl
+- new | 2013 | 23058996 | Systematic Review | [Phytotherapy in urology. Current scientific evidence of its application in benign prostatic hyperplasia and prostate adenocarcinoma]. | Actas Urol Esp [spa]
+- new | 2013 | 23683667 | Multicenter Study/Randomized Controlled Trial | Effects of Serenoa repens, selenium and lycopene (Profluss®) on chronic inflammation associated with benign prostatic hyperplasia: results of "FLOG" (Flogosis and Profluss in Prost | Int Braz J Urol
+- new | 2013 | 22522969 | Clinical Trial/Multicenter Study/Research Support, Non-U.S. Gov't | Improving BPH symptoms and sexual dysfunctions with a saw palmetto preparation? Results from a pilot trial. | Phytother Res
+- new | 2013 | 24399119 | Clinical Trial, Phase III/Comparative Study/Historical Article/Multicenter Study/Randomized Controlled Trial | An improvement in sexual function is related to better quality of life, regardless of urinary function improvement: results from the IDIProst® Gold Study. | Arch Ital Urol Androl
+- new | 2013 | 23253958 | Multicenter Study/Randomized Controlled Trial/Research Support, N.I.H., Extramural | The effect of increasing doses of saw palmetto fruit extract on serum prostate specific antigen: analysis of the CAMUS randomized trial. | J Urol
+- new | 2012 | 23298508 | Comparative Study/Letter/Randomized Controlled Trial | Comparitive effectiveness of finasteride vs Serenoa repens in male androgenetic alopecia: a two-year study. | Int J Immunopathol Pharmacol
+- SEEN | 2012 | 23235581 | Meta-Analysis/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S./Systematic Review | Serenoa repens for benign prostatic hyperplasia. | Cochrane Database Syst Rev
+- new | 2012 | 23027164 | Case Reports | Hot flashes in a young girl: a wake-up call concerning Serenoa repens use in children. | Pediatrics
+- new | 2012 | 22908779 | Clinical Trial/Multicenter Study | Multicentre study on the efficacy and tolerability of an extract of Serenoa repens in patients with chronic benign prostate conditions associated with inflammation. | Arch Ital Urol Androl
+- new | 2012 | 23173650 | Clinical Trial/Retracted Publication | Observational study: daily treatment with a new compound "Tradamixina" plus serenoa repens for two months improved the lower urinary tract symptoms. | BMC Surg
+- SEEN | 2012 | 22551330 | Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S./Systematic Review | Serenoa repens monotherapy for benign prostatic hyperplasia (BPH): an updated Cochrane systematic review. | BJU Int
+- new | 2011 | 21798388 | Review | What do I tell patients about saw palmetto for benign prostatic hyperplasia? | Urol Clin North Am
+- new | 2011 | 21185719 | Research Support, N.I.H., Extramural/Review | Herbal therapy use by cancer patients: a literature review on case reports. | Eur J Cancer
+- new | 2011 | 21969849 |  | Serenoa repens extract in the treatment of benign prostatic hyperplasia. | Ther Adv Urol
+- new | 2011 | 21304222 |  | Long-term efficacy of Serenoa repens treatment in patients with mild and moderate symptomatic benign prostatic hyperplasia. | Urol Int
+- new | 2011 | 21901681 | Systematic Review | WITHDRAWN: Tamsulosin for benign prostatic hyperplasia. | Cochrane Database Syst Rev
+- new | 2010 | 20941857 | Review | Serenoa repens and benign prostatic hyperplasia: no more effective than placebo. | Prescrire Int
+- new | 2010 | 20931547 | Randomized Controlled Trial | Analysis of the results obtained with a new phytotherapeutic association for LUTS versus control. [corrected]. | Urologia
+- new | 2010 | 20332612 | Comparative Study/Multicenter Study/Randomized Controlled Trial | Treatment of chronic prostatitis/chronic pelvic pain syndrome category IIIA with Serenoa repens plus selenium and lycopene (Profluss) versus S. repens alone: an Italian randomized  | Urol Int
+- new | 2010 | 20890858 | Clinical Trial | [Associating Serenoa repens, Urtica dioica and Pinus pinaster. Safety and efficacy in the treatment of lower urinary tract symptoms. Prospective study on 320 patients]. | Urologia [ita]
+- new | 2010 | 20944533 | Clinical Trial/Comparative Study/Multicenter Study | Serenoa repens in benign prostatic hypertrophy: analysis of 2 Italian studies. | Minerva Urol Nefrol
+- new | 2010 | 21427997 | Randomized Controlled Trial | [Approaches to raising efficacy of treatment of patients with chronic prostatitis associated with intracellular infections]. | Urologiia [rus]
+- new | 2009 | 19591529 | Research Support, Non-U.S. Gov't/Systematic Review | Serenoa repens (saw palmetto): a systematic review of adverse events. | Drug Saf
+- new | 2009 | 19262550 | Review | Pharmacological effects of saw palmetto extract in the lower urinary tract. | Acta Pharmacol Sin
+- new | 2009 | 19192937 | Review | Chronic prostatitis: management strategies. | Drugs
+- new | 2009 | 20027354 | Randomized Controlled Trial | Clinical study of the efficiency and safety of afala in patients with benign prostatic hyperplasia. | Bull Exp Biol Med
+- new | 2009 | 19432240 | Review | [Safety of continuous (more than 1 year) intake of Serenoa repens extract by patients with prostatic adenoma]. | Urologiia [rus]
+- new | 2009 | 19181486 | Randomized Controlled Trial | Serenoa repens associated with Urtica dioica (ProstaMEV) and curcumin and quercitin (FlogMEV) extracts are able to improve the efficacy of prulifloxacin in bacterial prostatitis pa | Int J Antimicrob Agents
+- new | 2009 | 19394800 | Comment/Letter | Re: Serenoa repens associated with Urtica dioica (ProstaMEV) and curcumin and quercitin (FlogMEV) extracts are able to improve the efficacy of prulifloxacin in bacterial prostatiti | Int J Antimicrob Agents
+- new | 2009 | 20098586 |  | Effects of pumpkin seed oil and saw palmetto oil in Korean men with symptomatic benign prostatic hyperplasia. | Nutr Res Pract
+- new | 2009 | 19921983 | Comparative Study/Randomized Controlled Trial | Effects of short-term dutasteride and Serenoa repens on perioperative bleeding and microvessel density in patients undergoing transurethral resection of the prostate. | Scand J Urol Nephrol
+- new | 2009 | 20007408 | Research Support, N.I.H., Extramural | Redesigning a large-scale clinical trial in response to negative external trial results: the CAMUS study of phytotherapy for benign prostatic hyperplasia. | Clin Trials
+- new | 2008 | 18534327 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | A detailed safety assessment of a saw palmetto extract. | Complement Ther Med
+- new | 2008 | 18082217 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of saw palmetto soft gel capsule on lower urinary tract symptoms associated with benign prostatic hyperplasia: a randomized trial in Shanghai, China. | J Urol
+- HELD REF-0548 | 2008 | 18423748 | Review | Phytotherapy for lower urinary tract symptoms secondary to benign prostatic hyperplasia. | J Urol
+- new | 2008 | 18090484 | Review | Plant extracts: sense or nonsense? | Curr Opin Urol
+- new | 2008 | 24692784 |  | Effects of D-004, a lipid extract of the fruit of the Cuban royal palm (Roystonea regia) or the lipidosterolic extract of saw palmetto (Serenoa repens) on the sexual activity in ma | Curr Ther Res Clin Exp
+- new | 2008 | 18355417 |  | Initial experience with a group presentation of study results to research participants. | Trials
+- new | 2007 | 17203353 | Randomized Controlled Trial | A prospective study of the efficacy of Serenoa repens, tamsulosin, and Serenoa repens plus tamsulosin treatment for patients with benign prostate hyperplasia. | Int Urol Nephrol
+- new | 2007 | 18257155 | Clinical Trial/Multicenter Study | [Results of a multicenter trial of serenoa repens extract (permixon) in patients with chronic abacterial prostatitis]. | Urologiia [rus]
+- new | 2007 | 18090773 | Clinical Trial/Comparative Study/Review | The effect of herbal medicines on platelet function: an in vivo experiment and review of the literature. | Plast Reconstr Surg
+- new | 2007 | 17524128 | Clinical Trial | Clinical and instrumental study of the efficacy of a new sebum control cream. | J Cosmet Dermatol
+- new | 2006 | 16813360 | Comment | Saw palmetto did not differ from placebo for benign prostatic hyperplasia in men. | ACP J Club
+- new | 2005 | 16322807 |  | Complementary and alternative medicine for chronic prostatitis/chronic pelvic pain syndrome. | Evid Based Complement Alternat Med
+- new | 2005 | 15586030 | Review | Role of phytotherapy in men with lower urinary tract symptoms. | Curr Opin Urol
+- new | 2005 | 15726313 | Review | [Phytotherapy for BPS. Which products can still be prescribed?]. | Urologe A [ger]
+- new | 2005 | 16194636 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S./Review | Lack of herbal supplement characterization in published randomized controlled trials. | Am J Med
+- new | 2005 | 15939527 |  | Evaluation of male sexual function in patients with Lower Urinary Tract Symptoms (LUTS) associated with Benign Prostatic Hyperplasia (BPH) treated with a phytotherapeutic agent (Pe | Eur Urol
+- HELD REF-1894 | 2004 | 15049985 | Meta-Analysis/Research Support, Non-U.S. Gov't | Updated meta-analysis of clinical trials of Serenoa repens extract in the treatment of symptomatic benign prostatic hyperplasia. | BJU Int
+- new | 2004 | 15373174 | Clinical Trial/Comparative Study/Randomized Controlled Trial | [Evaluation of the clinical benefit of Permixon and tamsulosin in severe BPH patients--PERMAL study subset analysis]. | Prog Urol [fre]
+- new | 2004 | 15503544 | Review | [Potential risks, adverse effects and drug interactions associated with herbal medicine in dental patients]. | Refuat Hapeh Vehashinayim (1993) [heb]
+- new | 2004 | 14665895 | Clinical Trial/Comparative Study/Randomized Controlled Trial | A prospective, 1-year trial using saw palmetto versus finasteride in the treatment of category III prostatitis/chronic pelvic pain syndrome. | J Urol
+- HELD REF-5332 | 2004 | 15536458 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | In vivo assessment of botanical supplementation on human cytochrome P450 phenotypes: Citrus aurantium, Echinacea purpurea, milk thistle, and saw palmetto. | Clin Pharmacol Ther
+- new | 2004 | 15540722 | Review | Is there a scientific basis for the therapeutic effects of serenoa repens in benign prostatic hyperplasia? Mechanisms of action. | J Urol
+- new | 2003 | 12957195 | Comparative Study/Review | Lower urinary tract symptoms/benign prostatic hyperplasia: fast control of the patient's quality of life. | Urology
+- HELD REF-1895 | 2003 | 12887481 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Serenoa repens extract for benign prostate hyperplasia: a randomized controlled trial. | BJU Int
+- new | 2003 | 12535426 | Meta-Analysis/Systematic Review | Tamsulosin for benign prostatic hyperplasia. | Cochrane Database Syst Rev
+- new | 2002 | 11777363 | Meta-Analysis/Review | The risk-benefit profile of commonly used herbal therapies: Ginkgo, St. John's Wort, Ginseng, Echinacea, Saw Palmetto, and Kava. | Ann Intern Med
+- new | 2002 | 12189745 | Clinical Trial/Comparative Study/Multicenter Study/Randomized Controlled Trial | [Tamsulosin with or without Serenoa repens in benign prostatic hyperplasia: the OCOS trial]. | Prog Urol [fre]
+- new | 2002 | 12022711 | Review | The role of phytotherapy in treating lower urinary tract symptoms and benign prostatic hyperplasia. | World J Urol
+- new | 2002 | 12006122 | Clinical Trial/Randomized Controlled Trial | A randomized, double-blind, placebo-controlled trial to determine the effectiveness of botanically derived inhibitors of 5-alpha-reductase in the treatment of androgenetic alopecia | J Altern Complement Med
+- new | 2002 | 12665049 | Clinical Trial/Randomized Controlled Trial | The lipidosterolic extract of Serenoa repens in the treatment of benign prostatic hyperplasia: a comparison of two dosage regimens. | Adv Ther
+- new | 2002 | 12665050 | Clinical Trial/Multicenter Study | Long-term clinical and biologic effects of the lipidosterolic extract of Serenoa repens in patients with symptomatic benign prostatic hyperplasia. | Adv Ther
+- new | 2002 | 12149159 | Review | Phytotherapy for benign prostatic hyperplasia. | Curr Urol Rep
+- new | 2002 | 12426861 | Evaluation Study/Review | [Phytotherapy of benign prostatic hyperplasia. Current evidence-based evaluation]. | Urologe A [ger]
+- new | 2002 | 12074791 | Clinical Trial/Comparative Study/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Comparison of a phytotherapeutic agent (Permixon) with an alpha-blocker (Tamsulosin) in the treatment of benign prostatic hyperplasia: a 1-year randomized international study. | Eur Urol
+- new | 2001 | 11744467 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Randomized, double-blind, placebo-controlled trial of saw palmetto in men with lower urinary tract symptoms. | Urology
+- new | 2001 | 11601567 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Endocrine and lipid responses to chronic androstenediol-herbal supplementation in 30 to 58 year old men. | J Am Coll Nutr
+- new | 2001 | 11725694 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of androstenedione-herbal supplementation on serum sex hormone concentrations in 30- to 59-year-old men. | Int J Vitam Nutr Res
+- new | 2001 | 12092634 | Clinical Trial/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Randomized trial of a combination of natural products (cernitin, saw palmetto, B-sitosterol, vitamin E) on symptoms of benign prostatic hyperplasia (BPH). | Int Urol Nephrol
+- new | 2001 | 11170151 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Do saw palmetto extracts block human alpha1-adrenoceptor subtypes in vivo? | Prostate
+- new | 2001 | 11337315 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Tissue effects of saw palmetto and finasteride: use of biopsy cores for in situ quantification of prostatic androgens. | Urology
+- new | 2000 | 12084323 | Review | Phytotherapeutic agents in the treatment of benign prostatic hyperplasia. | Curr Urol Rep
+- new | 2000 | 10732392 | Clinical Trial/Randomized Controlled Trial/Review | Benign prostatic hyperplasia treated with saw palmetto: a literature search and an experimental case study. | J Am Osteopath Assoc
+- new | 2000 | 10751846 | Review | Saw palmetto for the treatment of men with lower urinary tract symptoms. | J Urol
+- new | 2000 | 11276294 | Meta-Analysis | Phytotherapy for benign prostatic hyperplasia. | Public Health Nutr
+- new | 2000 | 10971268 | Clinical Trial/Comparative Study/Multicenter Study/Randomized Controlled Trial | Combined sabal and urtica extract compared with finasteride in men with benign prostatic hyperplasia: analysis of prostate volume and therapeutic outcome. | BJU Int
+- new | 2000 | 10736497 | Meta-Analysis/Research Support, Non-U.S. Gov't | Meta-analysis of clinical trials of permixon in the treatment of symptomatic benign prostatic hyperplasia. | Urology
+- new | 2000 | 10751856 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of a saw palmetto herbal blend in men with symptomatic benign prostatic hyperplasia. | J Urol
+- new | 1999 | 10235693 | Review | Finasteride: an update of its use in the management of symptomatic benign prostatic hyperplasia. | Drugs
+- new | 1999 | 10897913 | Clinical Trial/Randomized Controlled Trial | [Saw palmetto fruit extract for treatment of benign prostatic hyperplasia. Results of a placebo-controlled double-blind study]. | MMW Fortschr Med [ger]
+- new | 1999 | 10915398 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Efficacy and tolerability of the lipidosterolic extract of Serenoa repens (Permixon) in benign prostatic hyperplasia: a double-blind comparison of two dosage regimens. | Adv Ther
+- new | 1998 | 9820264 | Meta-Analysis/Research Support, U.S. Gov't, Non-P.H.S./Systematic Review | Saw palmetto extracts for treatment of benign prostatic hyperplasia: a systematic review. | JAMA
+- new | 1998 | 9792137 | Editorial/Comment | Comment on the appropriateness of The Prostate publishing a trial comparing Permixon to finasteride without a placebo control group. | Prostate
+- new | 1998 | 9609640 | Clinical Trial/Research Support, Non-U.S. Gov't | Saw palmetto (Serenoa repens) in men with lower urinary tract symptoms: effects on urodynamic parameters and voiding symptoms. | Urology
+- new | 1997 | 9032543 | Clinical Trial/Randomized Controlled Trial | Enzyme activities in tissue of human benign prostatic hyperplasia after three months' treatment with the Sabal serrulata extract IDS 89 (Strogen) or placebo. | Eur Urol
+- new | 1996 | 8922564 | Review | Serenoa repens (Permixon). A review of its pharmacology and therapeutic efficacy in benign prostatic hyperplasia. | Drugs Aging
+- new | 1996 | 9089044 | Clinical Trial | Sabal serrulata extract (Strogen forte) in the treatment of symptomatic benign prostatic hyperplasia. | Int Urol Nephrol
+- new | 1996 | 8876706 | Clinical Trial/Comparative Study/Multicenter Study/Randomized Controlled Trial | Comparison of phytotherapy (Permixon) with finasteride in the treatment of benign prostate hyperplasia: a randomized international study of 1,098 patients. | Prostate
+- new | 1993 | 7689525 |  | [Benign prostatic hyperplasia--treatment with sabal fruit extract. A treatment study of 1,334 patients]. | Fortschr Med [ger]
+- new | 1993 | 7516378 | Clinical Trial/Randomized Controlled Trial/Review | [Pharmacological combinations in the treatment of benign prostatic hypertrophy]. | J Urol (Paris) [fre]
+- new | 1993 | 7513678 | Clinical Trial | Experience in treating benign prostatic hypertrophy with Sabal serrulata for one year. | Int Urol Nephrol
+- new | 1993 | 7517582 | Review | Plant extracts in BPH. | Minerva Urol Nefrol
+- new | 1992 | 1281103 | Clinical Trial/Randomized Controlled Trial | Evidence that Serenoa repens extract displays an antiestrogenic activity in prostatic tissue of benign prostatic hypertrophy patients. | Eur Urol
+- new | 1985 | 2413558 | Clinical Trial/Controlled Clinical Trial | [Treatment of obstructive symptomatology caused by prostatic adenoma with an extract of Serenoa repens. Double-blind clinical study vs. placebo]. | Minerva Urol Nefrol [ita]
+- new | 1984 | 6207850 | Clinical Trial | A double-blind trial of an extract of the plant Serenoa repens in benign prostatic hyperplasia. | Br J Clin Pharmacol
+
+### PubMed SR - 52 hits, 21 not already listed above, 18 new
+- new | 2026 | 42512824 | Systematic Review/Network Meta-Analysis | Beyond Minoxidil: Off-Label Therapies for Male Androgenetic Alopecia-A Systematic Review with Network Meta-Analyses. | Medicina (Kaunas)
+- new | 2025 | 41271371 | Practice Guideline | Non-interventional and medical management of lower urinary tract symptoms related to benign prostatic hyperplasia in men: Guidelines of the French LUTS Committee (CTMH). | Fr J Urol
+- HELD REF-1890 | 2024 | 38164033 |  | Serenoa repens for the Treatment of Lower Urinary Tract Symptoms Due to Benign Prostatic Enlargement: An Updated Cochrane Review. | World J Mens Health
+- new | 2022 | 35165019 | Letter/Meta-Analysis/Systematic Review | Is Serenoa repens effective for the treatment of chronic prostatitis/chronic pelvic pain syndrome (CP/CPPS)? A systematic review and meta-analysis. | Asian J Surg
+- HELD REF-1889 | 2020 | 32274957 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Comparison of Serenoa repens With Tamsulosin in the Treatment of Benign Prostatic Hyperplasia: A Systematic Review and Meta-Analysis. | Am J Mens Health
+- new | 2019 | 31451276 | Systematic Review | Benign prostate hyperplasia and nutrition. | Clin Nutr ESPEN
+- new | 2019 | 31002161 | Systematic Review | Non-hormonal treatment for male infertility: the potential role of Serenoa repens, selenium and lycopene. | Eur Rev Med Pharmacol Sci
+- new | 2017 | 29196903 | Systematic Review | Concurrent Use of Prescription Drugs and Herbal Medicinal Products in Older Adults: A Systematic Review. | Drugs Aging
+- new | 2011 | 21871136 | Systematic Review | Benign prostatic hyperplasia and male lower urinary tract symptoms (LUTS). | BMJ Clin Evid
+- HELD REF-2436 | 2009 | 19719333 | Systematic Review | Interactions between herbal medicines and prescribed drugs: an updated systematic review. | Drugs
+- new | 2009 | 20034398 | Meta-Analysis/Research Support, Non-U.S. Gov't/Review | American palm ethnomedicine: a meta-analysis. | J Ethnobiol Ethnomed
+- new | 2009 | 19370565 | Meta-Analysis/Systematic Review | Serenoa repens for benign prostatic hyperplasia. | Cochrane Database Syst Rev
+- new | 2006 | 17022925 | Systematic Review | Evidence-based systematic review of saw palmetto by the Natural Standard Research Collaboration. | J Soc Integr Oncol
+- new | 2006 | 16672075 | Lecture | Herbal medicine: the science of the art. | Proc Nutr Soc
+- new | 2002 | 12063819 |  | Saw palmetto for BPH: a review of a meta-analysis. | JAAPA
+- new | 2002 | 12137626 | Systematic Review | Serenoa repens for benign prostatic hyperplasia. | Cochrane Database Syst Rev
+- new | 2001 | 11772128 | Systematic Review | Interactions between herbal medicines and prescribed drugs: a systematic review. | Drugs
+- new | 2001 | 16985705 |  | Saw Palmetto Berry as a Treatment for BPH. | Rev Urol
+- new | 2000 | 10796790 | Systematic Review | Serenoa repens for benign prostatic hyperplasia. | Cochrane Database Syst Rev
+- new | 1999 | 10030529 | Meta-Analysis | Unsafe and potentially safe herbal therapies. | Am J Health Syst Pharm
+- new | 1999 | 10641953 | Meta-Analysis | Herbal medications for common ailments in the elderly. | Drugs Aging
+
+### PubMed SAFE - 222 hits, 106 not already listed above, 100 new
+- new | 2027 | 42480876 |  | Post-marketing safety profile and potential aspirin interaction of Serenoa repens extract: A real-world study using FAERS and network toxicology. | J Ethnopharmacol
+- new | 2026 | 41754167 |  | A Multi-Target Phytotherapeutic Approach to Benign Prostatic Hyperplasia: Preclinical Characterization of a PhytoBPH-Mix. | Nutrients
+- new | 2026 | 42812739 | Case Reports | A Case of Drug-Induced Liver Injury Associated With Saw Palmetto. | Cureus
+- new | 2026 | 42371524 |  | Dutasteride-loaded nanostructured lipid carrier for androgenic alopecia treatment - An in vivo study. | Bioimpacts
+- new | 2026 | 42801185 |  | Awareness and Use of Saw Palmetto and Other Alternative Medicines Used for Treating Prostate Diseases Among Men Visiting a Urology Clinic in Guyana. | Cureus
+- new | 2026 | 40928144 |  | The Over-The-Counter Finasteride Alternative: A Critical Review of Saw Palmetto's Efficacy, Safety, and Regulatory Concerns. | Int J Dermatol
+- new | 2026 | 41507085 |  | Can we identify a post-Serenoa syndrome (PSS)? A case series on sexual and psychiatric side effects of Serenoa repens. | Br J Clin Pharmacol
+- new | 2026 | 42575271 | Review | Analysis of androgen modulation by natural products. | Pharmacol Res
+- new | 2026 | 41414816 |  | Evidence-Based Treatment Ladder for Chronic Prostatitis/Chronic Pelvic Pain. | Prostate
+- new | 2025 | 40834765 |  | An in vitro evaluation of common botanical extracts on carboxylesterase 1 catalytic activity. | Drug Metab Dispos
+- new | 2025 | 40395369 |  | Computational drug discovery of potential 5α-reductase phytochemical inhibitors and hair growth promotion using in silico techniques. | Front Bioinform
+- new | 2025 | 39934554 | Case Reports | Insights into the peripheral nature of persistent sexual dysfunction associated with post-finasteride, post-SSRI and post-accutane syndromes: lessons learned from a case study. | Int Urol Nephrol
+- new | 2024 | 38174012 | Review | Complementary and alternative supplements: a review of dermatologic effectiveness for androgenetic alopecia. | Proc (Bayl Univ Med Cent)
+- new | 2024 | 38636573 | Review | Future aspects of plant derived bioactive metabolites as therapeutics to combat benign prostatic hyperplasia. | J Ethnopharmacol
+- new | 2024 | 38666717 | Review | Emerging and traditional 5-α reductase inhibitors and androgen receptor antagonists for male androgenetic alopecia. | Expert Opin Emerg Drugs
+- new | 2024 | 38715699 | Review | A Narrative Review of Herbal Remedies for Managing Hirsutism. | Int J Prev Med
+- new | 2024 | 38408073 | Research Support, Non-U.S. Gov't | Nutraceuticals known to promote hair growth do not interfere with the inhibitory action of tamoxifen in MCF7, T47D and BT483 breast cancer cell lines. | PLoS One
+- new | 2023 | 37151166 | Review | Natural Compounds Used for Treating Hair Loss. | Curr Pharm Des
+- new | 2023 | 36207246 | Observational Study | [Alpha-blockers or hexanic extract of Serenoa repens for 6 months: sub-analysis of the PERSAT study]. | Prog Urol [fre]
+- new | 2023 | 37463655 |  | Suspected adverse reactions to medications and food supplements containing Serenoa repens: A worldwide analysis of pharmacovigilance and phytovigilance spontaneous reports. | Phytother Res
+- new | 2023 | 36578583 |  | Skin, hair, and nail supplements advertised on Instagram. | Proc (Bayl Univ Med Cent)
+- new | 2023 | 38966030 |  | REVIEW OF ADVERSE DRUG REACTIONS OF MEDICINES USED FOR THE TREATMENT OF BENIGN PROSTATIC HYPERPLASIA REPORTED TO HALMED. | Acta Clin Croat
+- new | 2022 | 35044013 | Review | Natural products for male androgenetic alopecia. | Dermatol Ther
+- new | 2022 | 36145614 |  | Prostatic Therapeutic Efficacy of LENILUTS(®), a Novel Formulation with Multi-Active Principles. | Pharmaceutics
+- new | 2022 | 35915055 |  | Development and optimization of a tamsulosin nanostructured lipid carrier loaded with saw palmetto oil and pumpkin seed oil for treatment of benign prostatic hyperplasia. | Drug Deliv
+- new | 2022 | 35924049 | Review | Polycystic Ovary Syndrome: A Disorder of Reproductive Age, Its Pathogenesis, and a Discussion on the Emerging Role of Herbal Remedies. | Front Pharmacol
+- new | 2021 | 32533441 | Review | A glimpse into the efficacy of alternative therapies in the management of benign prostatic hyperplasia. | Wien Klin Wochenschr
+- new | 2020 | 33345482 | Review | [Clinical application of common botanical preparations in the treatment of benign prostatic hyperplasia]. | Zhonghua Nan Ke Xue [chi]
+- new | 2020 | 32860310 | Case Reports/Letter | Fixed drug eruption to Serenoa repens: First case report and consideration of the use of herbal medicine. | Dermatol Ther
+- new | 2020 | 37426613 | Case Reports | Postoperative Retroperitoneal Hematoma: A Case of Saw Palmetto and the Importance of Primary Care Intervention. | HCA Healthc J Med
+- new | 2019 | 30980598 | Review | An overview of herbal alternatives in androgenetic alopecia. | J Cosmet Dermatol
+- new | 2019 | 32216223 |  | [Effect of saw palmetto extract on the reproductive function of male rats with chronic prostatitis]. | Zhonghua Nan Ke Xue [chi]
+- new | 2019 | 30655633 |  | Multidisciplinary approach to prostatitis. | Arch Ital Urol Androl
+- new | 2018 | 30046855 | Review | [Influence of medical BPS treatment on sexual function]. | Urologe A [ger]
+- new | 2018 | 29916095 |  | Cross-reactivity by botanicals used in dietary supplements and spices using the multiplex xMAP food allergen detection assay (xMAP FADA). | Anal Bioanal Chem
+- new | 2018 | 28604133 | Randomized Controlled Trial | A preliminary study on topical cetirizine in the therapeutic management of androgenetic alopecia. | J Dermatolog Treat
+- new | 2017 | 28762712 | Review | Common Herbal Dietary Supplement-Drug Interactions. | Am Fam Physician
+- new | 2017 | 27583656 | Observational Study | Efficacy of a formulation containing Serenoa repens, Crocus sativus and Pinus massoniana extracts in men with concomitant LUTS and erectile dysfunction. | Minerva Urol Nefrol
+- new | 2016 | 27904805 |  | Hypothesis on Serenoa repens (Bartram) small extract inhibition of prostatic 5α-reductase through an in silico approach on 5β-reductase x-ray structure. | PeerJ
+- new | 2016 | 28629290 | Case Reports | Functional foods: How functional are they? A case report of supplement-induced psychosis. | Int J Psychiatry Med
+- new | 2016 | 27267961 | Observational Study | An observational study of the use of beclomethasone dipropionate suppositories in the treatment of lower urinary tract inflammation in men. | BMC Urol
+- new | 2015 | 26949700 |  | Commonly Used Dietary Supplements on Coagulation Function during Surgery. | Medicines (Basel)
+- new | 2015 | 26043832 | Case Reports | Serenoa repens as an Endocrine Disruptor in a 10-Year-Old Young Girl: A New Case Report. | Pharmacology
+- new | 2015 | 26817302 | Clinical Study/Multicenter Study | [Efficacy and safety of Saw Palmetto Extract Capsules in the treatment of benign prostatic hyperplasia]. | Zhonghua Nan Ke Xue [chi]
+- HELD REF-5214 | 2014 | 25233607 | Research Support, Non-U.S. Gov't/Review | Warfarin interactions with medicinal herbs. | Nat Prod Commun
+- new | 2014 | 26417310 | Review | Cytochrome P450 enzyme mediated herbal drug interactions (Part 2). | EXCLI J
+- new | 2014 | 24527031 | Review | Cyclosporine and herbal supplement interactions. | J Toxicol
+- new | 2014 | 24290486 | Review | Online sources of herbal product information. | Am J Med
+- new | 2014 | 24834705 |  | Effect of Epilobium angustifolium and Serenoa repens extracts on regulation of non-genomic signaling pathway of kinases. | Ginekol Pol
+- new | 2014 | 25165780 | Review | Phytotherapy of benign prostatic hyperplasia. A minireview. | Phytother Res
+- new | 2014 | 24392691 | Research Support, Non-U.S. Gov't | The effect of complementary and alternative medicines on CYP3A4-mediated metabolism of three different substrates: 7-benzyloxy-4-trifluoromethyl-coumarin, midazolam and docetaxel. | J Pharm Pharmacol
+- new | 2013 | 23472485 | Research Support, Non-U.S. Gov't/Review | Adverse effects of herbal medicines: an overview of systematic reviews. | Clin Med (Lond)
+- new | 2013 | 22015851 | Research Support, Non-U.S. Gov't | Homologous recombination induced by doxazosin mesylate and saw palmetto in the Drosophila wing-spot test. | J Appl Toxicol
+- new | 2013 | 22670731 | Review | Herb-drug interactions: an overview of systematic reviews. | Br J Clin Pharmacol
+- new | 2013 | 24026362 |  | Role of complimentary therapy for male LUTS. | Curr Urol Rep
+- new | 2012 | 31643699 | Review | Saw Palmetto. | 
+- HELD REF-1509 | 2012 | 22883375 | Research Support, Non-U.S. Gov't/Review | Dietary supplements for benign prostatic hyperplasia: an overview of systematic reviews. | Maturitas
+- HELD REF-1334 | 2012 | 22512478 | Review | A review of animal and human studies for management of benign prostatic hyperplasia with natural products: perspective of new pharmacological agents. | Inflamm Allergy Drug Targets
+- new | 2012 | 22876632 |  | [Treatment of chronic prostatitis in prophylaxis of prostatic adenoma]. | Urologiia [rus]
+- new | 2012 | 22257149 | Research Support, Non-U.S. Gov't/Review | Drug interactions with herbal medicines. | Clin Pharmacokinet
+- new | 2012 | 22236736 | Review | Interactions between herbs and conventional drugs: overview of the clinical data. | Med Princ Pract
+- new | 2012 | 26816707 | Review | Phytotherapy: emerging therapeutic option in urologic disease. | Transl Androl Urol
+- new | 2012 | 23210402 | Multicenter Study | Observational database serenoa repens (DOSSER): overview, analysis and results. A multicentric SIUrO (Italian Society of Oncological Urology) project. | Arch Ital Urol Androl
+- new | 2012 | 22768426 | Case Reports | [A case of rhabdomyolysis caused by saw palmetto of healthy foods]. | J UOEH [jpn]
+- new | 2012 | 22588833 | Review | Phenotyping studies to assess the effects of phytopharmaceuticals on in vivo activity of main human cytochrome p450 enzymes. | Planta Med
+- new | 2011 | 21867545 |  | Acute pancreatitis with saw palmetto use: a case report. | J Med Case Rep
+- new | 2011 | 22139685 | Review | Herb-drug interactions: focus on metabolic enzymes and transporters. | Arch Pharm Res
+- new | 2011 | 22195365 | Research Support, Non-U.S. Gov't | Tolerability and toxicity of lipidosterolic extract of American dwarf palm Serenoa repens in Wistar rats: well-known extract, new insight. | Eur Rev Med Pharmacol Sci
+- new | 2010 | 20573093 | Case Reports/Letter | Acute liver damage due to Serenoa repens: a case report. | Br J Clin Pharmacol
+- new | 2010 | 20399862 | Review | Herbal interactions on absorption of drugs: Mechanisms of action and clinical risk assessment. | Pharmacol Res
+- new | 2009 | 19154468 | Research Support, Non-U.S. Gov't | Serenoa repens extract targets mitochondria and activates the intrinsic apoptotic pathway in human prostate cancer cells. | BJU Int
+- new | 2009 | 21783933 |  | Saw palmetto extract induces nuclear heterogeneity in mice. | Environ Toxicol Pharmacol
+- new | 2008 | 19044302 | Comparative Study/Multicenter Study/Randomized Controlled Trial | [Economic evaluation of medical treatment of benign prostatic hyperplasia (BPH) in the specialised care setting in Spain. Application to the cost-effectiveness of two drugs frequen | Actas Urol Esp [spa]
+- new | 2007 | 16854576 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Hepatotoxicity potential of saw palmetto (Serenoa repens) in rats. | Phytomedicine
+- new | 2007 | 17466877 | Case Reports/Letter | Saw palmetto and intraoperative floppy-iris syndrome. | J Cataract Refract Surg
+- new | 2007 | 17671686 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Saw Palmetto induces growth arrest and apoptosis of androgen-dependent prostate cancer LNCaP cells via inactivation of STAT 3 and androgen receptor signaling. | Int J Oncol
+- new | 2006 | 16800417 | Case Reports | Saw palmetto-induced pancreatitis. | South Med J
+- new | 2006 | 16550824 | Controlled Clinical Trial | [Efficiency and safety of prostamol-Uno in patients with chronic abacterial prostatitis]. | Urologiia [rus]
+- HELD REF-3765 | 2006 | 16467543 | Clinical Trial, Phase III/Randomized Controlled Trial/Research Support, N.I.H., Extramural | Saw palmetto for benign prostatic hyperplasia. | N Engl J Med
+- new | 2005 | 16287339 | Research Support, Non-U.S. Gov't/Review | Herb-drug interactions. Interactions between saw palmetto and prescription medications. | Geriatrics
+- new | 2005 | 16127805 | Historical Article | Trends in ethnopharmocology. | J Ethnopharmacol
+- new | 2005 | 15992226 |  | Analysis of the inhibitory potential of Ginkgo biloba, Echinacea purpurea, and Serenoa repens on the metabolic activity of cytochrome P450 3A4, 2D6, and 2C9. | J Altern Complement Med
+- new | 2004 | 15344416 | Review | Saw palmetto and benign prostatic hyperplasia. | Am J Chin Med
+- new | 2004 | 15114742 | Clinical Trial/Multicenter Study | [The results of long-term permixon treatment in patients with symptoms of lower urinary tracts dysfunction due to benign prostatic hyperplasia]. | Urologiia [rus]
+- new | 2003 | 12674456 | Review | Saw palmetto for prostate disorders. | Am Fam Physician
+- new | 2003 | 12962139 | Comparative Study | Comparison of Saw Palmetto (extract and whole berry) and Cernitin on prostate growth in rats. | Mol Cell Biochem
+- new | 2003 | 14624907 | Research Support, Non-U.S. Gov't | Use of complementary/alternative medicine by men diagnosed with prostate cancer: prevalence and characteristics. | Urology
+- new | 2002 | 12126034 | Review | Managing benign prostatic hyperplasia. | Am Fam Physician
+- HELD REF-1507 | 2002 | 12196065 | Review | Herbs for benign prostatic hyperplasia. | Ann Pharmacother
+- new | 2002 | 12423443 | Case Reports | Sensitization to saw palmetto and minoxidil in separate topical extemporaneous treatments for androgenetic alopecia. | Australas J Dermatol
+- new | 2002 | 12515038 | Review | [Enzyme inhibition in the drug therapy of benign prostatic hyperplasia]. | Cas Lek Cesk [cze]
+- new | 2002 | 12572302 |  | [Herbal preparations have both effects and side effects. Widespread usage dictates knowledge among physicians]. | Lakartidningen [swe]
+- HELD REF-2458 | 2001 | 11489067 | Case Reports/Review | Intraoperative haemorrhage associated with the use of extract of Saw Palmetto herb: a case report and review of literature. | J Intern Med
+- new | 2000 | 12119629 | Review | Therapeutic use of selected herbs. | Holist Nurs Pract
+- new | 2000 | 10951976 | Research Support, Non-U.S. Gov't | Effects of an extract of Serenoa repens on dogs with hyperplasia of the prostate gland. | Am J Vet Res
+- new | 2000 | 11059508 | Case Reports/Research Support, U.S. Gov't, P.H.S. | Role of herbal compounds (PC-SPES) in hormone-refractory prostate cancer: two case reports. | J Altern Complement Med
+- new | 2000 | 11062386 |  | UsToo PC-SPES surveys: review of studies and update of previous survey results. | Mol Urol
+- new | 2000 | 12497097 |  | Early urodynamic effects of the lipido-sterolic extract of Serenoa repens (Permixon(R)) in patients with lower urinary tract symptoms due to benign prostatic hyperplasia. | Prostate Cancer Prostatic Dis
+- new | 1999 | 10431295 | Review | The clinical applications of Ginkgo biloba, St. John's wort, saw palmetto, and soy. | Nurse Pract
+- new | 1999 | 10068345 | Research Support, Non-U.S. Gov't | Saw palmetto extracts potently and noncompetitively inhibit human alpha1-adrenoceptors in vitro. | Prostate
+- new | 1999 | 10483690 | Review | [Is there a rational therapy for symptomatic treatment of benign prostatic hyperplasia with phytogenic drugs? Illustrated with the example of the prostate agent from Serenoa repens | Wien Med Wochenschr [ger]
+- new | 1998 | 9818800 | Review | Herbal medicinals: selected clinical considerations focusing on known or potential drug-herb interactions. | Arch Intern Med
+- new | 1997 | 9091843 |  | [Sabal serrulata extract in the management of symptoms of prostatic hypertrophy]. | Orv Hetil [hun]
+- new | 1995 | 7537488 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Comparative effects of alfuzosin versus Serenoa repens in the treatment of symptomatic benign prostatic hyperplasia. | Arch Esp Urol
+- new | 1995 | 12803719 |  | Plant extracts in the medical management of benign prostatic hyperplasia: fact or fiction? | Can J Urol
+- new | 1990 | 1702340 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Treatment of benign prostatic hyperplasia with phytosterols. | Br J Urol
+
+### PubMed OBS - 41 hits, 16 not already listed above, 16 new
+- new | 2026 | 42984946 |  | Six-Month Changes in BMI, Menstrual-Cycle Characteristics, and Ferriman-Gallwey Scores Associated With a Multi-ingredient Nutritional Supplement Blend in Women With PCOS: A Prospec | Cureus
+- new | 2024 | 39026947 |  | Pine trees structure plant biodiversity patterns in savannas. | Ecol Evol
+- new | 2021 | 34336245 |  | Antibiotic therapy effectiveness as an outcome predictor of complex treatment in chronic prostatitis/chronic pelvic pain syndrome. | Cent European J Urol
+- new | 2019 | 30182536 | Observational Study | Predictive variables of spontaneous micturition recovery after acute urinary retention in men with benign prostatic enlargement: An observational prospective study. | Low Urin Tract Symptoms
+- new | 2016 | 27121967 | Retraction Notice | Retraction Note: Observational study: daily treatment with a new compound "tradamixina" plus serenoa repens for two months improved the lower urinary tract symptoms. | BMC Surg
+- new | 2014 | 25026980 | Research Support, Non-U.S. Gov't | Alternative and antioxidant therapies used by a sample of infertile males in Jordan: a cross-sectional survey. | BMC Complement Altern Med
+- new | 2013 | 24450252 | Randomized Controlled Trial | Does the addition of Serenoa repens to tamsulosin improve its therapeutical efficacy in benign prostatic hyperplasia? | Vojnosanit Pregl
+- new | 2012 | 21821653 | Research Support, N.I.H., Extramural | Prevalence and correlates of vitamin and supplement usage among men with a family history of prostate cancer. | Integr Cancer Ther
+- new | 2012 | 23083656 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | Associations between improvements in lower urinary tract symptoms and sleep disturbance over time in the CAMUS trial. | J Urol
+- new | 2012 | 22644964 | Multicenter Study/Research Support, Non-U.S. Gov't | Real-world use of Permixon® in benign prostatic hyperplasia--determining appropriate monotherapy and combination treatment. | Adv Ther
+- new | 2011 | 21598177 | Research Support, N.I.H., Extramural | Specialty supplements and prostate cancer risk in the VITamins and Lifestyle (VITAL) cohort. | Nutr Cancer
+- new | 2011 | 21334017 | Research Support, N.I.H., Extramural | Long-term use of supplemental vitamins and minerals does not reduce the risk of urothelial cell carcinoma of the bladder in the VITamins And Lifestyle study. | J Urol
+- new | 2010 | 20410091 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Total mortality risk in relation to use of less-common dietary supplements. | Am J Clin Nutr
+- new | 2007 | 17958896 | Research Support, Non-U.S. Gov't | Usage patterns, health, and nutritional status of long-term multiple dietary supplement users: a cross-sectional study. | Nutr J
+- new | 2006 | 16965237 |  | Saw palmetto supplement use and prostate cancer risk. | Nutr Cancer
+- new | 2005 | 16360447 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Total and specific complementary and alternative medicine use in a large cohort of men with prostate cancer. | Urology
+
+### PubMed REV - 145 hits, 6 not already listed above, 5 new
+- new | 2025 | 40627570 | Review | Addressing the Root Causes of Female Hair Loss and Non-Pharmaceutical Interventions. | J Drugs Dermatol
+- new | 2024 | 39524109 | Review | An Overview of Commonly Used Natural Alternatives for the Treatment of Androgenetic Alopecia, with Special Emphasis on Rosemary Oil. | Clin Cosmet Investig Dermatol
+- new | 2024 | 38297421 | Review | [PHYTOTHERAPY AND NATURAL AGENTS IN SYMPTOMATIC BENIGN PROSTATIC HYPERPLASIA (BPH)]. | Harefuah [heb]
+- new | 2022 | 36304597 | Review | Dietary supplements and bleeding. | Proc (Bayl Univ Med Cent)
+- new | 2021 | 34885733 | Review | Treatment of Benign Prostatic Hyperplasia by Natural Drugs. | Molecules
+- HELD REF-1891 | 2019 | 31807332 | Review | Use of saw palmetto (Serenoa repens) extract for benign prostatic hyperplasia. | Food Sci Biotechnol
+
+### ClinicalTrials.gov - 7 registered studies
+- NCT06804083 | COMPLETED | results=False | PHASE4 | Bovine Colostrum Efficacy for the Treatment of Chronic Prostatitis Symptoms. | conds: Chronic Prostatitis (CP), Chronic Prostatitis With Chronic Pelvic Pain Syndrome, Chronic Prostatitis/ Pelvic Pain Syndrome | intr: oral combination of colostrum and Serenoa repens extracts (PROSTYM®) | pubs: ['19524353:RESULT (new)', '10411041:RESULT (new)', '23334883:RESULT (new)', '31937091:RESULT (new)']
+- NCT07665749 | COMPLETED | results=False |  | Efficacy and Tolerability of Treatment With Alfalitic Plus Serenoa Repens Compared to Alfalitic Plus Antimuscarinic for Moderate-severe Lowe | conds: Benign Prostate Hypertrophy(BPH) | intr: 
+- NCT02130713 | COMPLETED | results=False | PHASE4 | Treatment of Chronic Bacterial Prostatitis | conds: Chronic Bacterial Prostatitis | intr: Third generation fluoroquinolone, Nutritional supplement + third generation fluoroquinolone | pubs: ['25038794:DERIVED (new)']
+- NCT06181175 | UNKNOWN | results=False | NA | Treatment of BPH With CO2 Serenoa +PEA as Monotherapy or in Combination With Tamsulosin: ProSeRePEA Trial | conds: Benign Prostatic Hyperplasia, Urinary Obstruction, Lower Urinary Tract Symptoms | intr: PEAPROSTIL 600 + Tamsulosin 0.4 mg, Tamsulosin 0.4 mg, PEAPROSTIL 600 mg
+- NCT06920758 | ACTIVE_NOT_RECRUITING | results=False | NA | A 6-month, Randomized, Double-blind, Placebo Controlled Study Evaluating the Efficacy and Safety of USPlus DERM to Promote Hair Growth in Me | conds: Thinning Hair | intr: USPlus DERM Bioactive Fatty Acids 160 mg Softgels, Placebo softgel | pubs: ['41319217:DERIVED (new)']
+- NCT00603304 | COMPLETED | results=True | PHASE3 | Complementary and Alternative Medicine for Urological Symptoms(CAMUS) | conds: Urological | intr: Saw Palmetto - first 24 weeks, Placebo - first 24 weeks, Saw Palmetto - weeks 24 - 48, Placebo - wee | pubs: ['21741692:RESULT (new)', '21497839:RESULT (new)', '21954478:RESULT (HELD REF-3764)', '23083656:DERIVED (new)']
+- NCT01604811 | COMPLETED | results=False | PHASE4 | Exploratory Study of L.S.E.S.r. (LipidoSterolic Extract of Serenoa Repens)(PERMIXON® 160 mg Hard Capsule) Versus Tamsulosine LP Activity on  | conds: Benign Prostatic Hyperplasia (BPH) | intr: Permixon® 160 mg, Tamsulosine Arrow LP, Placebo matching Permixon® 160 mg, Placebo matching Tamsulos
+
+### OpenAlex no-PMID trial-worded - 1208 hits, 29 without PMID, 28 new
+- new | 2026 | 10.47552/ijam.v17i2.6514 | article | Randomized controlled trial to assess the efficacy and safety of Facia Men’s capsule for hair loss | International Journal of Ayurvedic Medic
+- new | 2026 | 10.1186/s13765-026-01156-4 | article | Effects of the Justicia procumbens extract on adults with mild-to-moderate hair damage: a randomized double-blind placebo-controlled trial | Applied Biological Chemistry
+- new | 2025 | 10.29011/2575-8268.100233 | article | Efficacy of Oral Supplementation with Serenoa Repens, Pumpkin Seed Extract and Cysteine Combined with Topical Minoxidil 5% Vs Topical Minoxidil 5% Alone in Androgenic Alopecia A Ra | Clinical & Experimental Dermatology and 
+- new | 2024 | 10.1016/j.jaad.2024.07.1076 | article | Oral supplementation with L-Cystine, Serenoa repens, Pumpkin seed oil and Pygeum africanum in Chronic Telogen Effluvium and Androgenetic Alopecia: A double-blind, placebo-controlle | Journal of the American Academy of Derma
+- new | 2024 | 10.61186/jmp.23.91.75 | article | The effect of a standardized polyherbal formulation for endometriosis-associated pain: A randomized double-blind placebo-controlled clinical trial | Armaghan.
+- new | 2023 | 10.1155/2023/3527895 | article | A Randomized, Double‐Blind, Placebo‐Controlled Clinical Trial to Assess the Efficacy of a Nutritional Supplement in Female Androgenic Alopecia | Dermatologic Therapy
+- new | 2020 | 10.1016/j.jsxm.2020.04.200 | review | Clinical Efficacy of Serenoa Repens vs. Placebo vs. Alpha-Blockers for the Treatment of LUTS/BPE: A Systematic Review and Network Meta-Analysis of Randomized Placebo-Controlled Cli | The Journal of Sexual Medicine
+- new | 2020 | 10.29188/2222-8543-2020-13-4-96-104 | article | Serenoa repens in the treatment of voiding dysfunction in patients with BPH: discussion of effectiveness and complex mechanism of action | Experimental and Сlinical Urology
+- new | 2017 | 10.4172/2471-9323.1000127 | article | Efficacy and Safety of a Food Supplement Containing L-cystine, Serenoa repens Extract and Biotin for Hair Loss in Healthy Males and Females. A Prospective, Randomized, Double-blind | Journal of Cosmetology & Trichology
+- new | 2016 | 10.5538/1887-5181.2016.25.5 | article | Efficacy and safety of a dietary supplement containing a lipid co-extract from Serenoa repens and Pygeum africanum for the treatment of androgenetic alopecia (AGA) in women. Result | Más dermatología
+- new | 2012 | https://openalex.org/W3096888071 | dissertation | New perspectives on saw palmetto (Serenoa repens) : a medico historical/analytical comparison of preparations derived from it and a clinical pilot trial in patients with benign pro | UCL Discovery (University College London
+- new | 2012 | 10.2165/00128415-201214220-00144 | other | Serenoa repens: Rhabdomyolysis (first report) in an elderly patient: case report | Reactions Weekly
+- new | 2010 | 10.2165/00128415-201013140-00121 | other | Serenoa repens: Pancreatitis in an elderly patient: case report | Reactions Weekly
+- new | 2010 | 10.2165/00128415-201013030-00103 | other | Serenoa repens: Haematuria and coagulopathy in an elderly patient: case report | Reactions Weekly
+- new | 2010 | https://openalex.org/W2224596069 | article | A prospective study of the efficacy of Tamsulosin, Serenoa repens and Tamsulosin plus Serenoa repens in the treatment of patients with benign prostatic hyperplasia | 
+- new | 2009 | 10.1016/s1569-9056(09)74795-5 | conference-abstract | Tamsulosin with or without serenoa repens in benign prostatic hyperplasia: The Comb TAMSR trial | European Urology Supplements
+- new | 2009 | https://openalex.org/W2517255100 | article | Serenoa repens Associated With Urtica dioica (ProstaMEV®) and Curcumin and Quercitin (FlogMEV®) Extracts are Able to Improve the Efficacy of Prulifloxacin in Bacterial Prostatitis  | 
+- new | 2009 | 10.1016/s1569-9056(09)60553-4 | conference-abstract | SERENOA REPENS ASSOCIATED WITH URTICA DIOICA (PROSTAMEV®), CURCUMIN AND QUERCITIN (FLOGMEV®) EXTRACTS ARE ABLE TO IMPROVE EFFICACY OF PRULIFLOXACIN IN BACTERIAL PROSTATITIS PATIENT | European Urology Supplements
+- new | 2009 | 10.1016/s1569-9056(09)75027-4 | conference-abstract | A retrospective study of the efficacy of tamsulosin, serenoa repens and serenoa repens plus tamsulosin treatment for patients with benign prosatic hyperplasia: The COMBTAMSR study | European Urology Supplements
+- new | 2009 | 10.1016/j.urology.2009.07.074 | article | The Prospective Study of the Efficacy of Tamsulosin, Serenoa Repens, and Serenoa Repens Plus Tamsulosin Treatment for Patients with Benign Prostatic Hyperplasia: CombTSR Study | Urology
+- new | 2008 | 10.1016/s0022-5347(08)60097-x | conference-abstract | TREATMENT OF CHRONIC PROSTATITIS/CHRONIC PELVIC PAIN SYNDROME (CP/CPPS) WITH SERENOA REPENS PLUS SELENIO AND LICOPENE (PROFLUSS®): A RANDOMIZED MULTICENTER PLACEBO-CONTROLLED STUDY | The Journal of Urology
+- new | 2008 | https://openalex.org/W7217824072 | article | “ Treatment of chronic prostatitis/chronic pelvic pain syndrom(CP/CPPS) with serenoa repens plus selenio and licopene (Profluss®): a randomized multicenter placebo-controlled study | UnissResearch (Università degli Studi di
+- HELD REF-1894 | 2005 | 10.1016/s0022-5347(05)60530-7 | review | Updated Meta-Analysis of Clinical Trials of Serenoa Repens Extract in the Treatment of Symptomatic Benign Prostatic Hyperplasia | The Journal of Urology
+- new | 2002 | 10.1016/s1098-3015(10)61535-5 | conference-abstract | PRK10 PATIENTS TREATED WITH SERENOA REPENS: EVOLUTION OF THE SCORES SPI AND SF12 | Value in Health
+- new | 2002 | 10.1016/s1098-3015(10)61534-3 | article | PRK9 PATIENTS TREATED WITH SERENOA REPENS: EVOLUTION OF THE IPSS SCORES IN TERMS OF IRRITATION AND OBSTRUCTION | Value in Health
+- new | 2000 | https://openalex.org/W241303474 | article | Efficacy and tolerability of the extract of Serenoa repens in a multicentric study in patients with symptomatic benign prostatic hyperplasia. | RBM. Revista brasileira de medicina
+- new | 1999 | https://openalex.org/W3191542562 | article | Randomized double-blind controlled clinical trial of serenoa repens versus placebo in the management of patients with symptomatic grade I to grade II benign prostatic hyperplasia ( | Indian Journal of Urology
+- new | 1994 | 10.1016/s0011-393x(05)80771-4 | article | The extract of Serenoa repens in the treatment of benign prostatic hyperplasia: A multicenter open study | Current Therapeutic Research
+- new | 1983 | 10.1177/039156038305000414 | article | Terapia Medica Dell'Adenoma Prostatico: Confronto Della Efficacia Dell'Estratto Di Serenoa Repens (Permixon®) versus L'Estratto Di Pigeum Africanum E Placebo: Valutazione in Doppio | Urologia Journal
+
+## silybum-marianum (Silybum marianum) - name clause: "Silybum marianum"[tiab] OR "milk thistle"[tiab] OR "Legalon"[tiab] OR "silymarin"[ti] OR "silibinin"[ti] OR "silybin"[ti]
+
+### PubMed HT - 434 hits, 200 not already listed above, 188 new
+- new | 2026 | 42196582 | Review | Silybum marianum-Derived Compounds in Prostate Cancer: Mechanisms of Action and Translational Potential. | Int J Mol Sci
+- new | 2026 | 41958938 | Review | Exploring the therapeutic potential of naturally occurring taxifolin, a dietary flavonoid: an updated comprehensive review. | Front Pharmacol
+- new | 2026 | 42359057 |  | A one-year exploratory randomized, controlled, multicentric pilot study evaluating the efficacy and tolerance of an anti-hair loss serum containing Silybum marianum extract, mangan | Front Med (Lausanne)
+- new | 2026 | 41912157 | Letter | Noninvasive Imaging Markers for Acne Treatment Response Monitoring: A Pilot Study During Use of a Topical Product Containing Silybum Marianum Fruit Extract. | Dermatol Pract Concept
+- new | 2026 | 40762702 | Randomized Controlled Trial | Promising efficacy of oral nano-silymarin formulation on prevention of vancomycin-induced nephrotoxicity: a randomized, triple-blinded, placebo-controlled clinical trial. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2025 | 39789561 | Randomized Controlled Trial/Clinical Trial, Phase II/Multicenter Study | The activity of a herbal medicinal product of Phyllanthus niruri and Silybum marianum powdered extracts (Heptex®) in patients with apparent risk factors for nonalcoholic steatohepa | BMC Complement Med Ther
+- new | 2025 | 39940310 | Scoping Review | Evaluating Bioactive-Substance-Based Interventions for Adults with MASLD: Results from a Systematic Scoping Review. | Nutrients
+- new | 2025 | 40872598 |  | Safety Considerations for Natural Products with Adaptogenic and Immunomodulating Activities. | Pharmaceuticals (Basel)
+- new | 2025 | 40564891 | Clinical Trial | Therapeutic Efficacy of Silymarin, Vitamin E, and Essential Phospholipid Combination Therapy on Hepatic Steatosis, Fibrosis, and Metabolic Parameters in MASLD Patients: A Prospecti | Int J Mol Sci
+- new | 2025 | 39692756 | Clinical Trial/Comparative Study | Silybum marianum Extract: A Highly Effective Natural Alternative to Retinoids to Prevent Skin Aging Without Side Effects. | J Cosmet Dermatol
+- new | 2025 | 40221681 | Meta-Analysis/Systematic Review | Are alterations needed in Silybum marianum (Silymarin) administration practices? A novel outlook and meta-analysis on randomized trials targeting liver injury. | BMC Complement Med Ther
+- new | 2025 | 40308825 | Letter | Combining nutraceuticals and a mediterranean diet for managing metabolic dysfunction associated with steatotic liver disease. | World J Hepatol
+- new | 2025 | 41072084 | Randomized Controlled Trial/Comparative Study | Efficacy of a traditional persian fruit infusion (Naqu Fawakeh) versus silymarin in reducing chemotherapy-induced hepatotoxicity in pediatric ALL: A triple-blind randomized clinica | Explore (NY)
+- new | 2025 | 41199840 | Systematic Review | Efficacy of various plant-derived interventions in the prevention of radiation dermatitis in breast cancer patients: a systematic review and network meta-analysis of randomised con | Front Oncol
+- new | 2025 | 41157197 |  | Therapeutic Potential of Quercetin, Silibinin, and Crocetin in a High-Fat Diet-Induced Mouse Model of MASLD: The Role of CD36 and PLIN3. | Life (Basel)
+- new | 2025 | 40738719 | Meta-Analysis | Efficacy of different interventions for nonalcoholic fatty liver disease: A meta-analysis of lifestyle modifications, silymarin, and medications. | Asia Pac J Clin Nutr
+- new | 2025 | 41659807 | Clinical Trial | Long-term safety and efficacy of a highly purified plant-based nutraceutical for improving clinical parameters of liver function in healthy participants: a randomized, double-blind | Front Nutr
+- new | 2025 | 40513108 |  | Therapeutic Effects of Curcuminoids and Silymarin, Individually and in Combination, in Patients With Hepatic Impairment. | Chem Biodivers
+- new | 2025 | 39871906 |  | Effect of alpha-lipoic acid and Silybum marianum supplementation with a Mediterranean diet on metabolic dysfunction-associated steatosis. | World J Hepatol
+- new | 2025 | 40733088 |  | Novel Micellar Formulation of Silymarin (Milk Thistle) with Enhanced Bioavailability in a Double-Blind, Randomized, Crossover Human Trial. | Pharmaceutics
+- new | 2025 | 39534953 | Clinical Trial | Does a Polyherbal Medicine Enhance Cognition in Healthy Older Adults? An Exploratory Open-Label Study. | J Integr Complement Med
+- new | 2025 | 41408065 |  | Effect of irrigation and bio-fertilizers on morphological and bio-chemical traits of milk thistle. | Sci Rep
+- new | 2025 | 40895670 |  | Treatment of Acne Vulgaris With a Topical Application of Retinaldehyde, Glycolic Acid, and Silybum marianum Fruit Extract: A Pilot Study. | Cureus
+- HELD REF-3769 | 2024 | 38579127 | Meta-Analysis/Systematic Review | Administration of silymarin in NAFLD/NASH: A systematic review and meta-analysis. | Ann Hepatol
+- new | 2024 | 39562594 |  | Surveillance and mapping of tribenuron-methyl-resistant weeds in wheat fields. | Sci Rep
+- new | 2024 | 39097726 | Randomized Controlled Trial | Silymarin decreases liver stiffness associated with gut microbiota in patients with metabolic dysfunction-associated steatotic liver disease: a randomized, double-blind, placebo-co | Lipids Health Dis
+- new | 2024 | 38897086 |  | Physiological and growth responses of milk thistle (Silybum marianum (L.) Gaertn.) to soil-applied herbicides. | J Environ Manage
+- new | 2024 | 39723101 | Review | The Effectiveness of Curcumin, Resveratrol, and Silymarin on MASLD: A Systematic Review and Meta-Analysis. | Food Sci Nutr
+- new | 2024 | 38808323 |  | Effect of Silybum Marianum on Reduction of Chemotherapy-Induced Peripheral Neurotoxicity with Cisplatin. | Adv Biomed Res
+- new | 2024 | 38475999 | Systematic Review/Meta-Analysis | Effects of silymarin supplementation on liver and kidney functions: A systematic review and dose-response meta-analysis. | Phytother Res
+- new | 2024 | 38929616 | Randomized Controlled Trial | Silymarin Supplementation in Active Rheumatoid Arthritis: Outcomes of a Pilot Randomized Controlled Clinical Study. | Medicina (Kaunas)
+- new | 2024 | 37942562 | Clinical Trial | Topical Silymarin Cream as a Novel Therapy Versus Salicylic Acid Peels in Acne Vulgaris: A Split-Face Clinical Trial. | J Cutan Med Surg
+- new | 2024 | 39139290 |  | Effects silymarin and rosuvastatin on amyloid-carriers level in dyslipidemic Alzheimer's patients: A double-blind placebo-controlled randomized clinical trial. | IBRO Neurosci Rep
+- new | 2024 | 38372848 | Meta-Analysis/Systematic Review | The effects of silymarin consumption on inflammation and oxidative stress in adults: a systematic review and meta-analysis. | Inflammopharmacology
+- new | 2024 | 39684564 | Randomized Controlled Trial | Effect of Silibinin on Human Pancreatic Lipase Inhibition and Gut Microbiota in Healthy Volunteers: A Randomized Controlled Trial. | Int J Mol Sci
+- new | 2024 | 38283627 |  | Effect of oral silymarin on liver function in pediatric acute lymphoblastic leukemia in the maintenance phase: a double-blind randomized clinical trial. | Front Pharmacol
+- new | 2024 | 38478366 | Randomized Controlled Trial | Silymarin (Milk Thistle) Treatment of Adults With Gambling Disorder: A Double-Blind, Placebo-Controlled Trial. | Clin Neuropharmacol
+- new | 2024 | 40066113 |  | Evaluation of Oral Nano-Silymarin Formulation Efficacy in the Prevention of Hand-Foot Syndrome and Neuropathy Induced by XELOX or m-FOLFOX6 Regimens in Metastatic Colorectal Cancer | Iran J Pharm Res
+- new | 2024 | 39221555 | Randomized Controlled Trial | Evaluation of efficacy of cholecalciferol and silymarin in improving lower urinary tract symptoms of benign prostatic hyperplasia: A double-blind, randomized, controlled trial. | Urologia
+- new | 2024 | 38239768 | Randomized Controlled Trial | Evaluation of the Effect of Cichorium intybus L. on the Liver Enzymes in Burn Patients: A Randomized Double-Blind Clinical Trial. | Int J Clin Pract
+- new | 2024 | 39161267 | Randomized Controlled Trial | Silymarin in combination with hair follicle transplantation as a potential treatment for refractory vitiligo: A double-blind randomized controlled trial. | J Cosmet Dermatol
+- new | 2024 | 38915456 |  | Effects of silymarin as adjuvant drug on serum levels of CTRP3, anti-cyclic citrullinated peptide (CCP), and high-sensitivity C-reactive protein (hs-CRP) in rheumatoid arthritis pa | Mol Biol Res Commun
+- new | 2024 | 37675655 |  | Evaluation of efficacy of Silybum marianum flower extract on the mitigating hair loss in vitro and in vivo. | J Cosmet Dermatol
+- new | 2024 | 38396727 |  | Silymarin Reduced Insulin Resistance in Non-Diabetic Women with Obesity. | Int J Mol Sci
+- new | 2024 | 38879879 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of Silybum marianum, Pueraria lobate, combined with Salvia miltiorrhiza tablets on non-alcoholic fatty liver disease in adults: A triple-blind, randomized, placebo-controll | Clin Nutr ESPEN
+- new | 2024 | 38818907 | Systematic Review | The Effects and Safety of Silymarin on β-thalassemia in Children and Adolescents: A Systematic Review based on Clinical Trial Studies. | Rev Recent Clin Trials
+- new | 2024 | 38750102 | Randomized Controlled Trial | Nutraceutical blends predict enhanced health via microbiota reshaping improving cytokines and life quality: a Brazilian double-blind randomized trial. | Sci Rep
+- new | 2024 | 38306552 | Meta-Analysis/Systematic Review | Efficacy of traditional Chinese medicine combined with Silibinin on nonalcoholic fatty liver disease: A meta-analysis and systematic review. | Medicine (Baltimore)
+- new | 2024 | 39232773 | Randomized Controlled Trial | The hepatorenal protective effects of silymarin in cancer patients receiving chemotherapy: a randomized, placebo-controlled trial. | BMC Complement Med Ther
+- new | 2024 | 39606909 |  | A Well-Tolerated Hair Serum Containing New Natural Active Ingredients Reduced Hair Loss and Improved Quality of Life in Women With Chronic Telogen Effluvium: A 16-Week Controlled S | J Cosmet Dermatol
+- new | 2024 | 39479680 |  | Impact of silymarin-supplemented cookies on liver enzyme and inflammatory markers in non-alcoholic fatty liver disease patients. | Food Sci Nutr
+- new | 2024 | 39850184 |  | Impact of Silymarin Supplementation on Liver Function and Enzyme Profiles in Diverse Chronic Liver Disease Etiologies. | Cureus
+- new | 2024 | 39012843 | Randomized Controlled Trial | Nutraceutical composition (yeast β-glucan, prebiotics, minerals, and silymarin) predicts improvement of sleep quality and metabolic parameters: A randomized pilot study. | Clin Nutr ESPEN
+- new | 2023 | 38021897 | Review | Impact of Silymarin Supplements on Liver Enzyme Levels: A Systematic Review. | Cureus
+- new | 2023 | 36802832 | Systematic Review | Pharmacological Interventions for Primary Psychodermatologic Disorders: An Evidence Mapping and Appraisal of Randomized Controlled Trials. | J Cutan Med Surg
+- new | 2023 | 37668769 |  | Effect of Field Trial on Silymarin Complex Composition and Antioxidant Assessment of Milk Thistle (Silybum marianum L. Gaertner). | Plant Foods Hum Nutr
+- new | 2023 | 38013576 |  | Women Suffering From Endometrioma-Related Symptoms May Benefit From Silymarin, An Antioxidant. | J Pak Med Assoc
+- new | 2023 | 36278948 | Research Support, Non-U.S. Gov't | An analysis of silybin meglumine tablets in the treatment of drug-induced liver injury as assessed for causality with the updated Roussel Uclaf Causality Assessment Method using a  | Br J Clin Pharmacol
+- new | 2023 | 36899430 | Clinical Trial Protocol | Efficacy of silymarin in patients with non-alcoholic fatty liver disease - the Siliver trial: a study protocol for a randomized controlled clinical trial. | Trials
+- new | 2023 | 38089157 |  | Effect of dietary supplementation with a new nutraceutical formulation on cardiometabolic risk factors: a double-blind, placebo-controlled, randomized clinical study. | Arch Med Sci Atheroscler Dis
+- new | 2023 | 36204969 |  | Efficacy and safety of silymarin containing antioxidant serum as an adjuvant treatment of mild-to-moderate acne vulgaris: A prospective, open-label pilot study. | J Cosmet Dermatol
+- new | 2023 | 37274201 | Review | Pharmaceutical prospects of Silymarin for the treatment of neurological patients: an updated insight. | Front Neurosci
+- HELD REF-3772 | 2023 | 37351038 |  | The Effectiveness of Silymarin in the Prevention of Anti-tuberculosis Drug-induced Hepatotoxicity: A Randomized Controlled Clinical Trial. | Int J Prev Med
+- new | 2023 | 37101713 |  | Development of an Effective Acne Treatment Based on CBD and Herbal Extracts: Preliminary In Vitro, Ex Vivo, and Clinical Evaluation. | Evid Based Complement Alternat Med
+- new | 2023 | 37123831 |  | Interplay of silymarin and clove fruit extract effectively enhances cadmium stress tolerance in wheat (Triticum aestivum). | Front Plant Sci
+- new | 2023 | 38318412 |  | Neurochemical Ameliorating of the Hippocampus in Dyslipidemic Alzheimer Patients Following Silymarin; a Double-Blind Placebo-Controlled Randomized Clinical Trial. | Med J Islam Repub Iran
+- new | 2023 | 37830722 |  | Highlighting the Use of the Hepatoprotective Nutritional Supplements among Patients with Chronic Diseases. | Healthcare (Basel)
+- new | 2023 | 37349650 |  | Hydrogel Containing Silibinin-Loaded Pomegranate Oil-Based Nanocapsules for Cutaneous Application: In Vitro Safety Investigation and Human Skin Biometry and Permeation Studies. | AAPS PharmSciTech
+- new | 2022 | 36468967 | Randomized Controlled Trial | A Randomized, Double-Blind, Split-Face Study of Topical Silymarin vs 2% Hydroquinone Cream in Melasmas. | J Drugs Dermatol
+- new | 2022 | 35623810 | Meta-Analysis/Systematic Review | Effects berberine-silymarin on liver enzymes: A systematic review and meta-analysis of randomized controlled trials. | Clin Nutr ESPEN
+- new | 2022 | 35186807 |  | Therapeutic Effects of Milk Thistle (Silybum marianum L.) and Artichoke (Cynara scolymus L.) on Nonalcoholic Fatty Liver Disease in Type 2 Diabetic Rats. | Can J Gastroenterol Hepatol
+- new | 2022 | 36552547 |  | Antioxidant and Hepatoprotective Effect of a Nutritional Supplement with Silymarin Phytosome, Choline Chloride, l-Cystine, Artichoke, and Vitamin E in Dogs. | Antioxidants (Basel)
+- new | 2022 | 36294575 |  | Combined Silymarin and Cotrimoxazole Therapy Attenuates Pulmonary Fibrosis in Experimental Paracoccidioidomycosis. | J Fungi (Basel)
+- new | 2022 | 36266431 | Randomized Controlled Trial | A randomized trial assessing the efficacy of Silymarin on endometrioma-related manifestations. | Sci Rep
+- new | 2022 | 35456341 |  | Inulin, Choline and Silymarin in the Treatment of Irritable Bowel Syndrome with Constipation-Randomized Case-Control Study. | J Clin Med
+- new | 2022 | 36222816 | Systematic Review | Silibinin: a toxicologist's herbal medicine? | Clin Toxicol (Phila)
+- new | 2022 | 33861657 | Randomized Controlled Trial | Oral silymarin formulation efficacy in management of AC-T protocol induced hepatotoxicity in breast cancer patients: A randomized, triple blind, placebo-controlled clinical trial. | J Oncol Pharm Pract
+- new | 2022 | 36675757 |  | Long-Term Use of Silybum marianum fruit extract Contributes to Homeostasis in Acne-Prone Skin-A 12-Month Follow-Up International "Real Life" Cohort Study. | J Pers Med
+- new | 2022 | 35859298 | Randomized Controlled Trial | Evaluation of the efficacy of oral nano-silymarin formulation in hospitalized patients with COVID-19: A double-blind placebo-controlled clinical trial. | Phytother Res
+- new | 2022 | 35614885 |  | Effect of herbal cream containing Fumaria officinalis and silymarin for treatment of eczema: A randomized double-blind controlled clinical trial. | Avicenna J Phytomed
+- new | 2022 | 35651885 |  | Effect of 8 Weeks milk thistle powder (silymarin extract) supplementation on fatty liver disease in patients candidates for bariatric surgery. | Metabol Open
+- new | 2022 | 36778595 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Novel nutraceutical supplements with yeast β-glucan, prebiotics, minerals, and Silybum marianum (silymarin) ameliorate obesity-related metabolic and clinical parameters: A double-b | Front Endocrinol (Lausanne)
+- new | 2022 | 35185575 |  | Beneficial Effects of Silybin Treatment After Viral Eradication in Patients With HCV-Related Advanced Chronic Liver Disease: A Pilot Study. | Front Pharmacol
+- new | 2022 | 35016260 | Meta-Analysis/Systematic Review | The effects of Silymarin on the features of cardiometabolic syndrome in adults: A systematic review and meta-analysis. | Phytother Res
+- new | 2022 | 36585884 |  | The Effect of Oral Administration of Silymarin on Serum Levels of Tumor Necrosis Factor-α and Interleukin-1ß in Patients with Rheumatoid Arthritis. | Iran J Immunol
+- new | 2022 | 33491528 |  | The Effects of Vitamin E, Silymarin and Carnitine on the Metabolic Abnormalities Associated with Nonalcoholic Liver Disease. | J Diet Suppl
+- new | 2021 | 34093183 | Review | Estrogenic Plants: to Prevent Neurodegeneration and Memory Loss and Other Symptoms in Women After Menopause. | Front Pharmacol
+- new | 2021 | 34486906 | Meta-Analysis/Systematic Review | Coadministration of silymarin with iron chelators in transfusion-dependent β-thalassemia patients: a systematic review and meta-analysis for effect on iron overload. | Expert Rev Clin Pharmacol
+- HELD REF-3777 | 2021 | 34620153 | Randomized Controlled Trial | Evaluation the effect of Silybum marianum ointment on episiotomy wound healing and pain intensity in primiparous women: a randomized triple blind clinical trial. | BMC Complement Med Ther
+- new | 2021 | 33418491 | Meta-Analysis/Systematic Review | Impact of Silymarin in individuals with nonalcoholic fatty liver disease: A systematic review and meta-analysis. | Nutrition
+- new | 2021 | 34172076 | Published Erratum | Correction to: Superior silybin bioavailability of silybin-phosphatidylcholine complex in oily-medium soft-gel capsules versus conventional silymarin tablets in healthy volunteers. | BMC Pharmacol Toxicol
+- new | 2021 | 34295981 |  | The effect of silymarin on liver enzymes and antioxidant status in trauma patients in the intensive care unit: a randomized double blinded placebo-controlled clinical trial. | Clin Exp Hepatol
+- new | 2021 | 33586558 |  | Monocytes from preeclamptic women previously treated with silibinin attenuate oxidative stress in human endothelial cells. | Hypertens Pregnancy
+- new | 2021 | 34925799 |  | The effects of Cynara scolymus and Silybum marianum on growth, carcass and organ characteristics, immunity, blood constitutes, liver enzymes, jejunum morphology, and fatty acid pro | Food Sci Nutr
+- new | 2021 | 33933848 | Clinical Trial, Phase III/Randomized Controlled Trial | Significant immunomodulatory and hepatoprotective impacts of Silymarin in MS patients: A double-blind placebo-controlled clinicaltrial. | Int Immunopharmacol
+- new | 2020 | 31784970 | Meta-Analysis/Systematic Review | The Effects of a Fixed Combination of Berberis aristata and Silybum marianum on Dyslipidaemia - A Meta-analysis and Systematic Review. | Planta Med
+- new | 2020 | 31327752 | Research Support, N.I.H., Extramural/Review | Diet and lifestyle considerations for patients with prostate cancer. | Urol Oncol
+- new | 2020 | 33029240 | Review | THE EFFECTS OF REALSIL (SILYBIN-PHOSPHOLIPID-VITAMIN E COMPLEX) ON LIVER ENZYMES IN PATIENTS WITH NON-ALCOHOLIC FATTY LIVER DISEASE (NAFLD) OR NON-ALCOHOLIC STEATO-HEPATITIS (NASH) | Acta Endocrinol (Buchar)
+- HELD REF-3776 | 2020 | 32762030 | Randomized Controlled Trial | Evaluation of the effect of Silybum marianum extract on menopausal symptoms: A randomized, double-blind placebo-controlled trial. | Phytother Res
+- new | 2020 | 32509676 |  | Investigating the impact of silymarin on liver oxidative injury. | J Family Med Prim Care
+- new | 2020 | 30935260 | Randomized Controlled Trial | Can we consider silymarin as a treatment option for vitiligo? A double-blind controlled randomized clinical trial of phototherapy plus oral Silybum marianum product versus photothe | J Dermatolog Treat
+- new | 2020 | 32793440 |  | The effects of concurrent treatment of silymarin and lactulose on memory changes in cirrhotic male rats. | Bioimpacts
+- new | 2020 | 33019400 | Meta-Analysis/Systematic Review | The therapeutic effects of silymarin for patients with glucose/lipid metabolic dysfunction: A meta-analysis. | Medicine (Baltimore)
+- new | 2020 | 33350748 |  | Efficacy and safety of milk thistle preventive treatment of anti-tuberculosis drug-induced liver injury: A protocol for systematic review and meta-analysis. | Medicine (Baltimore)
+- new | 2020 | 32322784 |  | Silymarin as a Promising Potential Therapeutic Agent for Treatment of Patients with Paraquat Poisoning: An Issue that Merits Further Research. | Adv J Emerg Med
+- new | 2019 | 31325613 | Review | An insight into the health-promoting effects of taxifolin (dihydroquercetin). | Phytochemistry
+- new | 2019 | 31600349 | Published Erratum | Correction: Silymarin in non-cirrhotics with non-alcoholic steatohepatitis: A randomized, double-blind, placebo controlled trial. | PLoS One
+- new | 2019 | 31050580 | Research Support, Non-U.S. Gov't | Silymarin-loaded nanostructured lipid carrier gel for the treatment of skin cancer. | Nanomedicine (Lond)
+- new | 2019 | 31750160 |  | Protective Effects of Silymarin Against Age-Related Hearing Loss in an Aging Rat Model. | Indian J Otolaryngol Head Neck Surg
+- new | 2019 | 30733935 | Meta-Analysis/Review | Prophylactic Therapy of Silymarin (Milk Thistle) on Antituberculosis Drug-Induced Liver Injury: A Meta-Analysis of Randomized Controlled Trials. | Can J Gastroenterol Hepatol
+- new | 2019 | 30694881 | Randomized Controlled Trial | Milk Thistle Treatment for Children and Adults with Trichotillomania: A Double-Blind, Placebo-Controlled, Crossover Negative Study. | J Clin Psychopharmacol
+- new | 2019 | 31238095 |  | Hydrogel containing silibinin nanocapsules presents effective anti-inflammatory action in a model of irritant contact dermatitis in mice. | Eur J Pharm Sci
+- new | 2019 | 30632209 | Meta-Analysis/Systematic Review | Metabolic effect of berberine-silymarin association: A meta-analysis of randomized, double-blind, placebo-controlled clinical trials. | Phytother Res
+- new | 2019 | 30232738 |  | Metabolic and vascular effects of silybin in hypertensive patients with high 1-h post-load plasma glucose. | Intern Emerg Med
+- new | 2019 | 31191838 |  | Evaluation of Silymarin for management of anti-tuberculosis drug induced liver injury: a randomized clinical trial. | Gastroenterol Hepatol Bed Bench
+- new | 2019 | 31079190 |  | A pilot study of the UVA-photoprotective potential of dehydrosilybin, isosilybin, silychristin, and silydianin on human dermal fibroblasts. | Arch Dermatol Res
+- new | 2019 | 31579978 | Comparative Study/Randomized Controlled Trial | Efficacy and safety of oral silymarin in comparison with oral doxycycline and their combination therapy in the treatment of acne vulgaris. | Dermatol Ther
+- new | 2019 | 31737175 | Randomized Controlled Trial | Evaluation of the Effect Derived from Silybin with Vitamin D and Vitamin E Administration on Clinical, Metabolic, Endothelial Dysfunction, Oxidative Stress Parameters, and Serologi | Oxid Med Cell Longev
+- new | 2019 | 30795809 | Published Erratum | Correction to: Superior silybin bioavailability of silybin-phosphatidylcholine complex in oily-medium soft-gel capsules versus conventional silymarin tablets in healthy volunteers. | BMC Pharmacol Toxicol
+- new | 2019 | 31010153 |  | Silibinin Downregulates the NF-κB Pathway and NLRP1/NLRP3 Inflammasomes in Monocytes from Pregnant Women with Preeclampsia. | Molecules
+- HELD REF-1896 | 2018 | 30080294 | Review | Milk thistle (Silybum marianum): A concise overview on its chemistry, pharmacological, and nutraceutical uses in liver diseases. | Phytother Res
+- new | 2018 | 28494649 |  | Herbicidal activity of pure compound isolated from rhizosphere inhabiting Aspergillus flavus. | Nat Prod Res
+- new | 2018 | 29775104 |  | The ability of Silybum marianum to phytoremediate cadmium and/or diesel oil from the soil. | Int J Phytoremediation
+- HELD REF-2490 | 2018 | 30477860 | Meta-Analysis/Systematic Review | The effects of silymarin supplementation on metabolic status and oxidative stress in patients with type 2 diabetes mellitus: A systematic review and meta-analysis of clinical trial | Complement Ther Med
+- new | 2018 | 29350661 |  | Retrospective analysis of the effects of a highly standardized mixture of Berberis aristata, Silybum marianum, and monacolins K and KA in diabetic patients with dyslipidemia. | Acta Biomed
+- new | 2018 | 29895491 | Clinical Trial, Phase II/Clinical Trial, Phase III/Randomized Controlled Trial | Lower glycemic indices and lipid profile among type 2 diabetes mellitus patients who received novel dose of Silybum marianum (L.) Gaertn. (silymarin) extract supplement: A Triple-b | Phytomedicine
+- new | 2018 | 30108644 |  | The Bioavailability and Pharmacokinetics of Silymarin SMEDDS Formulation Study in Healthy Thai Volunteers. | Evid Based Complement Alternat Med
+- new | 2017 | 28419855 | Randomized Controlled Trial | A Randomized Trial of Silymarin for the Treatment of Nonalcoholic Steatohepatitis. | Clin Gastroenterol Hepatol
+- new | 2017 | 29154074 |  | Knowledge and characteristics of herbal supplement usage among community pharmacy customers in a Malaysian population. | Complement Ther Med
+- new | 2017 | 28635153 | Randomized Controlled Trial | Topical Silymarin Administration for Prevention of Capecitabine-Induced Hand-Foot Syndrome: A Randomized, Double-Blinded, Placebo-Controlled Clinical Trial. | Phytother Res
+- new | 2017 | 28178209 | Randomized Controlled Trial | Effects of a Combination of Berberis aristata, Silybum marianum and Monacolin on Lipid Profile in Subjects at Low Cardiovascular Risk; A Double-Blind, Randomized, Placebo-Controlle | Int J Mol Sci
+- new | 2017 | 28601049 | Clinical Trial | Silymarin (Livergol®) Decreases Disease Activity Score in Patients with Rheumatoid Arthritis: A Non-randomized Single-arm Clinical Trial. | Iran J Allergy Asthma Immunol
+- new | 2017 | 28058034 |  | Retrospective analysis of the effects of a highly standardized mixture of Berberis aristata, Silybum marianum, and monacolins K and KA in patients with dyslipidemia. | Clin Pharmacol
+- new | 2017 | 28747959 |  | Effect of Prophylactic Use of Silymarin on Anti-tuberculosis Drugs Induced Hepatotoxicity. | Tuberc Respir Dis (Seoul)
+- HELD REF-3770 | 2017 | 29245314 | Meta-Analysis | The therapeutic effect of silymarin in the treatment of nonalcoholic fatty disease: A meta-analysis (PRISMA) of randomized control trials. | Medicine (Baltimore)
+- new | 2017 | 28785154 | Meta-Analysis/Systematic Review | Effect of silymarin on biochemical indicators in patients with liver disease: Systematic review with meta-analysis. | World J Gastroenterol
+- new | 2017 | 28214690 | Clinical Trial, Phase I | Safety and efficacy of a polyherbal formulation for the management of dyslipidemia and hyperglycemia in patients with advanced-stage of type-2 diabetes. | Biomed Pharmacother
+- new | 2017 | 28685558 | Randomized Controlled Trial | Bioimpedance analysis, metabolic effects and safety of the association Berberis aristata/Bilybum marianum: a 52-week double-blind, placebo-controlled study in obese patients with t | J Biol Regul Homeost Agents
+- new | 2017 | 28603098 | Comparative Study/Randomized Controlled Trial | Comparison of efficacy of folic acid and silymarin in the management of antiepileptic drug induced liver injury: a randomized clinical trial. | Hepatobiliary Pancreat Dis Int
+- new | 2017 | 28948420 | Randomized Controlled Trial | Addition of silymarin to renin-angiotensin system blockers in normotensive patients with type 2 diabetes mellitus and proteinuria: a prospective randomized trial. | Int Urol Nephrol
+- HELD REF-0841 | 2016 | 27677719 | Review | Botanicals and Their Bioactive Phytochemicals for Women's Health. | Pharmacol Rev
+- HELD REF-0559 | 2016 | 27340676 | Meta-Analysis/Systematic Review | Silymarin in Type 2 Diabetes Mellitus: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | J Diabetes Res
+- new | 2016 | 26941924 |  | Silymarin for the Prevention of Contrast-Induced Nephropathy: A Placebo-Controlled Clinical Trial. | Int J Prev Med
+- new | 2016 | 27555604 | Randomized Controlled Trial | Effect of Oral Silymarin Administration on Prevention of Radiotherapy Induced Mucositis: A Randomized, Double-Blinded, Placebo-Controlled Clinical Trial. | Phytother Res
+- new | 2016 | 26985440 |  | Silymarin therapy and improvement of cardiac outcome in patients with β-thalassemia major. | J Res Pharm Pract
+- new | 2016 | 27610165 |  | Evaluation of Hepatoprotective Effect of Silymarin Among Under Treatment Tuberculosis Patients: A Randomized Clinical Trial. | Iran J Pharm Res
+- new | 2016 | 27446338 |  | Instrumental evaluation of anti-aging effects of cosmetic formulations containing palmitoyl peptides, Silybum marianum seed oil, vitamin E and other functional ingredients on aged  | Exp Ther Med
+- new | 2016 | 26997953 | Review | Potential Effects of Silymarin and Its Flavonolignan Components in Patients with β-Thalassemia Major: A Comprehensive Review in 2015. | Adv Pharmacol Sci
+- new | 2016 | 26526990 | Clinical Trial | A Presurgical Study of Oral Silybin-Phosphatidylcholine in Patients with Early Breast Cancer. | Cancer Prev Res (Phila)
+- new | 2016 | 27040041 |  | Effects of silymarin on biochemical and oxidative stress markers in end-stage renal disease patients undergoing peritoneal dialysis. | Hemodial Int
+- new | 2015 | 25643967 | Review | Evaluating the safety and efficacy of silymarin in β-thalassemia patients: a review. | Hemoglobin
+- new | 2015 | 26904384 |  | Quantitative prediction and clinical evaluation of an unexplored herb-drug interaction mechanism in healthy volunteers. | CPT Pharmacometrics Syst Pharmacol
+- new | 2015 | 22528757 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A randomized, double blinded, placebo-controlled clinical trial of silymarin in ulcerative colitis. | Chin J Integr Med
+- new | 2015 | 26064348 |  | An open-label, randomized and multi-center clinical trial to evaluate the efficacy of Silibinin in preventing drug-induced liver injury. | Int J Clin Exp Med
+- new | 2015 | 25577665 | Randomized Controlled Trial | Berberis aristata combined with Silybum marianum on lipid profile in patients not tolerating statins at high doses. | Atherosclerosis
+- new | 2015 | 25765827 | Randomized Controlled Trial | Berberis aristata/Silybum marianum fixed combination (Berberol(®)) effects on lipid profile in dyslipidemic patients intolerant to statins at high dosages: a randomized, placebo-co | Phytomedicine
+- new | 2015 | 26400476 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A double-blinded randomized controlled trial of silymarin for the prevention of antituberculosis drug-induced liver injury. | BMC Complement Altern Med
+- new | 2015 | 25678808 |  | Clinical role of a fixed combination of standardized Berberis aristata and Silybum marianum extracts in diabetic and hypercholesterolemic patients intolerant to statins. | Diabetes Metab Syndr Obes
+- new | 2015 | 26642669 |  | RATIONALIZED AND COMPLEMENTARY FINDINGS OF SILYMARIN (MILK THISTLE) IN PAKISTANI HEALTHY VOLUNTEERS. | Acta Pol Pharm
+- new | 2014 | 25514914 | Research Support, Non-U.S. Gov't/Review | Phytotherapy and NAFLD--from goals and challenges to clinical practice. | Rev Recent Clin Trials
+- new | 2014 | 25028567 | Clinical Trial/Research Support, N.I.H., Extramural | The effects of milk thistle (Silybum marianum) on human cytochrome P450 activity. | Drug Metab Dispos
+- new | 2014 | 25247194 | Meta-Analysis/Research Support, Non-U.S. Gov't/Review | Effects and tolerance of silymarin (milk thistle) in chronic hepatitis C virus infection patients: a meta-analysis of randomized controlled trials. | Biomed Res Int
+- new | 2014 | 24490006 |  | Silymarin in treatment of non-alcoholic steatohepatitis: A randomized clinical trial. | Caspian J Intern Med
+- new | 2013 | 24498803 | Research Support, Non-U.S. Gov't/Systematic Review | Iranian medicinal plants for diabetes mellitus: a systematic review. | Pak J Biol Sci
+- new | 2013 | 23394826 | Research Support, Non-U.S. Gov't/Review | Relevance of in vitro and clinical data for predicting CYP3A4-mediated herb-drug interactions in cancer patients. | Cancer Treat Rev
+- new | 2013 | 23247631 | Meta-Analysis/Research Support, Non-U.S. Gov't/Review | Meta-analysis: silymarin and its combination therapy for the treatment of chronic hepatitis B. | Eur J Clin Microbiol Infect Dis
+- new | 2013 | 23971720 | Comparative Study/Randomized Controlled Trial | Berberis aristata/Silybum marianum fixed combination on lipid profile and insulin secretion in dyslipidemic patients. | Expert Opin Biol Ther
+- new | 2013 | 23885143 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Phytoestrogens/insoluble fibers and colonic estrogen receptor β: randomized, double-blind, placebo-controlled study. | World J Gastroenterol
+- new | 2013 | 24555302 | Research Support, Non-U.S. Gov't/Review | New therapeutic potentials of milk thistle (Silybum marianum). | Nat Prod Commun
+- new | 2013 | 24152839 | Randomized Controlled Trial | Effects of Berberis aristata/Silybum marianum association on metabolic parameters and adipocytokines in overweight dyslipidemic patients. | J Biol Regul Homeost Agents
+- new | 2012 | 23072776 | Clinical Trial | Absorption and metabolism of milk thistle flavanolignans in humans. | Phytomedicine
+- new | 2012 | 22352731 | Review | Legalon® SIL: the antidote of choice in patients with acute hepatotoxicity from amatoxin poisoning. | Curr Pharm Biotechnol
+- new | 2011 | 21843614 | Meta-Analysis/Systematic Review | Meta-analysis of the effect of herbal supplement on glycemic control in type 2 diabetes. | J Ethnopharmacol
+- new | 2011 | 22071637 | Systematic Review | Antidiabetic plants of Iran. | Acta Med Iran
+- new | 2011 | 22091246 |  | Effects of silybum marianum on patients with chronic hepatitis C. | J Res Med Sci
+- new | 2010 | 19451826 | Case Reports | Complementary and alternative medicine in epistaxis: a point worth considering during the patient's history. | Eur J Emerg Med
+- new | 2010 | 20014183 | Multicenter Study/Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | A randomized, controlled, double-blind, pilot study of milk thistle for the treatment of hepatotoxicity in childhood acute lymphoblastic leukemia (ALL). | Cancer
+- new | 2009 | 19275687 | Systematic Review | A systematic review of the potential herbal sources of future drugs effective in oxidant-related diseases. | Inflamm Allergy Drug Targets
+- new | 2008 | 19048676 | Newspaper Article/Randomized Controlled Trial | Milk thistle may help improve liver health in people with HIV and hepatitis C. | Proj Inf Perspect
+- new | 2007 | 17548793 | Review | Review of clinical trials evaluating safety and efficacy of milk thistle (Silybum marianum [L.] Gaertn.). | Integr Cancer Ther
+- new | 2007 | 17548795 | Research Support, Non-U.S. Gov't/Review | Future directions for research on Silybum marianum for cancer patients. | Integr Cancer Ther
+- HELD REF-3773 | 2007 | 17943794 | Meta-Analysis/Systematic Review | Milk thistle for alcoholic and/or hepatitis B or C virus liver diseases. | Cochrane Database Syst Rev
+- new | 2007 | 17410454 |  | The effect of a silybin-vitamin e-phospholipid complex on nonalcoholic fatty liver disease: a pilot study. | Dig Dis Sci
+- HELD REF-5050 | 2006 | 16221754 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | Effect of milk thistle (Silybum marianum) and black cohosh (Cimicifuga racemosa) supplementation on digoxin pharmacokinetics in humans. | Drug Metab Dispos
+- HELD REF-3773 | 2005 | 15846671 | Meta-Analysis/Systematic Review | Milk thistle for alcoholic and/or hepatitis B or C virus liver diseases. | Cochrane Database Syst Rev
+- new | 2005 | 15916450 | Review | Herb-drug interactions: a literature review. | Drugs
+- new | 2005 | 16187178 | Review | Herbal medicines for liver diseases. | Dig Dis Sci
+- new | 2005 | 16279916 | Meta-Analysis/Research Support, Non-U.S. Gov't/Review | Milk thistle for alcoholic and/or hepatitis B or C liver diseases--a systematic cochrane hepato-biliary group review with meta-analyses of randomized clinical trials. | Am J Gastroenterol
+- new | 2005 | 15666173 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Milk thistle and indinavir: a randomized controlled pharmacokinetics study and meta-analysis. | Eur J Clin Pharmacol
+- new | 2005 | 15975544 | Letter/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Two-year results of a randomised double-blinded trial evaluating silymarin for chronic hepatitis C. | Dig Liver Dis
+- new | 2004 | 15771078 |  | [Detoxic, protein-synthesizing function and resistance of hepatocytes in patients with chronic diffuse liver diseases during the treatment with legalon]. | Lik Sprava [ukr]
+- new | 2003 | 12816629 | Review | Milk thistle: is there a role for its use as an adjunct therapy in patients with cancer? | J Altern Complement Med
+- new | 2003 | 12885100 | Clinical Trial/Comparative Study/Research Support, U.S. Gov't, P.H.S. | Coadministration of milk thistle and indinavir in healthy subjects. | Pharmacotherapy
+- new | 2002 | 12427501 | Meta-Analysis/Systematic Review | Milk thistle for the treatment of liver disease: a systematic review and meta-analysis. | Am J Med
+- new | 2001 | 11735632 | Research Support, Non-U.S. Gov't/Review | The use of silymarin in the treatment of liver diseases. | Drugs
+- new | 1990 | 2195425 | Clinical Trial/Controlled Clinical Trial/Review | [Immunomodulator effect of silymarin therapy in chronic alcoholic liver diseases]. | Orv Hetil [hun]
+- new | 1988 | 3073356 | Clinical Trial/Comparative Study/Controlled Clinical Trial | Protective effect of Legalon in workers exposed to organic solvents. | Acta Med Hung
+- new | 1988 | 3072661 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Use of the Romanian product Silimarina in the treatment of chronic liver diseases. | Med Interne
+- new | 1982 | 6753109 | Clinical Trial/Randomized Controlled Trial | Effect of silymarin on chemical, functional, and morphological alterations of the liver. A double-blind controlled study. | Scand J Gastroenterol
+- new | 1980 | 7004762 | Clinical Trial/Comparative Study | [Milk thistle (Silybum marianum) derivatives in the therapy of chronic hepatopathies]. | Clin Ter [ita]
+
+### PubMed SR - 79 hits, 38 not already listed above, 36 new
+- new | 2026 | 43042196 | Review | The effect of silymarin (milk thistle) on cirrhosis: A systematic review and meta-analysis of clinical trials. | Hepatol Forum
+- new | 2026 | 42437897 | Systematic Review/Meta-Analysis | Therapeutic effects of silibinin in preclinical animal models of gastrointestinal cancers: a systematic review and meta‑analysis. | BMC Cancer
+- new | 2026 | 41764614 | Review | Herbal Medicines and Drugs Interactions: Cytochrome P450 Responsibility. | Curr Med Chem
+- new | 2026 | 43030311 | Meta-Analysis/Systematic Review | Silymarin-Based Therapies in Chronic Liver Disease: A Systematic Review of Biochemical, Cardiometabolic, Steatosis, and Fibrosis-Related Outcomes. | Nutrients
+- new | 2026 | 42312292 | Review | Bioactive plant metabolites with antihyperglycemic properties: prospects for the prevention and treatment of diabetes mellitus. | 3 Biotech
+- new | 2025 | 40886393 | Systematic Review/Meta-Analysis | Nephroprotective Effects of Silymarin: A Systematic Review and Meta-Analysis. | Biochemistry (Mosc)
+- new | 2025 | 40656619 | Review | A systematic review of silymarin and silibinin mechanisms for attenuating cerebral ischemia-reperfusion injuries. | Avicenna J Phytomed
+- new | 2025 | 39855603 | Systematic Review/Meta-Analysis | Effects of silymarin on insulin resistance and sensitivity: A systematic review and meta-analysis of randomized controlled trials. | Diabetes Res Clin Pract
+- new | 2025 | 39968181 | Systematic Review | Evidence construction of Silibinin capsules against alcoholic liver disease based on a meta-analysis and systematic review. | Front Pharmacol
+- HELD REF-3771 | 2025 | 40552569 | Meta-Analysis/Systematic Review | Silymarin for adults with metabolic dysfunction-associated steatotic liver disease. | Cochrane Database Syst Rev
+- new | 2025 | 40439602 | Systematic Review/Network Meta-Analysis | Clinical Efficacy of Curcumin, Resveratrol, Silymarin, and Berberine on Cardio-Metabolic Risk Factors Among Patients With Type 2 Diabetes Mellitus: A Systemic Review and Bayesian N | Phytother Res
+- new | 2024 | 37921180 | Systematic Review | The Radiosensitizing Potentials of Silymarin/Silibinin in Cancer: A Systematic Review. | Curr Med Chem
+- new | 2024 | 38486611 |  | Cost-effectiveness of dietary supplement ingredients versus generic statins for LDL reduction. | Explor Res Clin Soc Pharm
+- HELD REF-1906 | 2024 | 38314596 | Systematic Review | Efficacy and Mechanisms of Silybum Marianum, Silymarin, and Silibinin on Rheumatoid Arthritis and Osteoarthritis Symptoms: A Systematic Review. | Curr Rheumatol Rev
+- new | 2024 | 38671838 | Review | Impacts of Supplementation with Silymarin on Cardiovascular Risk Factors: A Systematic Review and Dose-Response Meta-Analysis. | Antioxidants (Basel)
+- new | 2024 | 38801454 | Research Support, Non-U.S. Gov't/Systematic Review | Silibinin as a major component of milk thistle seed provides promising influences against diabetes and its complications: a systematic review. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2024 | 38505782 |  | Effects of silymarin use on liver enzymes and metabolic factors in metabolic dysfunction-associated steatotic liver disease: a systematic review and meta-analysis. | Can Liver J
+- new | 2023 | 37165384 | Review | A systematic review of the protective effects of silymarin/silibinin against doxorubicin-induced cardiotoxicity. | Cancer Cell Int
+- new | 2023 | 35081820 | Review | The effects of dietary supplements and natural products targeting glucose levels: an overview. | Crit Rev Food Sci Nutr
+- new | 2023 | 37612866 | Systematic Review | The Therapeutic Effect of Silymarin and Silibinin on Depression and Anxiety Disorders and Possible Mechanism in the Brain: A Systematic Review. | Cent Nerv Syst Agents Med Chem
+- new | 2023 | 36424777 | Systematic Review | The Radioprotective Potentials of Silymarin/Silibinin Against Radiotherapy- Induced Toxicities: A Systematic Review of Clinical and Experimental Studies. | Curr Med Chem
+- new | 2022 | 35911428 | Review | Complementary and alternative medicine for glycemic control of diabetes mellitus: A systematic review. | J Public Health Res
+- new | 2022 | 35577653 | Letter/Comment | May Silymarin be selectively considered for nonalcoholic fatty liver disease without elevated transaminases? Comment re. "Impact of Silymarin in individuals with nonalcoholic fatty | Nutrition
+- new | 2021 | 33587317 | Research Support, Non-U.S. Gov't/Systematic Review | Systematic review of pharmacokinetics and potential pharmacokinetic interactions of flavonolignans from silymarin. | Med Res Rev
+- new | 2020 | 32065376 | Research Support, Non-U.S. Gov't/Systematic Review | Silymarin as Supportive Treatment in Liver Diseases: A Narrative Review. | Adv Ther
+- new | 2020 | 32920285 | Systematic Review | Silymarin and neurodegenerative diseases: Therapeutic potential and basic molecular mechanisms. | Phytomedicine
+- new | 2020 | 30488719 |  | Linear regression analysis of silychristin A, silybin A and silybin B contents in Silybum marianum. | Nat Prod Res
+- new | 2020 | 32124509 | Systematic Review | Herbal medicines and phytochemicals for obsessive-compulsive disorder. | Phytother Res
+- new | 2019 | 30834633 | Meta-Analysis/Systematic Review | Effects of silymarin supplementation on blood lipids: A systematic review and meta-analysis of clinical trials. | Phytother Res
+- new | 2017 | 27655839 | Systematic Review | Dietary supplement interactions with antiretrovirals: a systematic review. | Int J STD AIDS
+- new | 2013 | 23468043 | Systematic Review | Systematic review of the efficacy of herbal galactogogues. | J Hum Lact
+- new | 2012 | 22855269 | Systematic Review | Clinical evidence of herbal drugs as perpetrators of pharmacokinetic drug interactions. | Planta Med
+- new | 2012 | 21620478 | Research Support, Non-U.S. Gov't/Systematic Review | Complementary medicine, self-help, and lifestyle interventions for obsessive compulsive disorder (OCD) and the OCD spectrum: a systematic review. | J Affect Disord
+- new | 2010 | 20858178 | Systematic Review | The efficacy and safety of herbal medicines used in the treatment of hyperlipidemia; a systematic review. | Curr Pharm Des
+- new | 2008 | 18334810 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | An updated systematic review with meta-analysis for the clinical evidence of silymarin. | Forsch Komplementmed
+- new | 2007 | 17464157 | Research Support, Non-U.S. Gov't/Systematic Review | An updated systematic review of the pharmacology of silymarin. | Forsch Komplementmed
+- new | 2005 | 16255756 | Research Support, Non-U.S. Gov't/Systematic Review | Silymarin treatment of viral hepatitis: a systematic review. | J Viral Hepat
+- new | 2005 | 15829016 | Research Support, Non-U.S. Gov't/Systematic Review | Natural health product-HIV drug interactions: a systematic review. | Int J STD AIDS
+
+### PubMed SAFE - 1272 hits, 182 not already listed above, 179 new
+- new | 2026 | 42785882 |  | Novel pyrimidine nucleoside - chitosan - silybin micelles for improving the oral absorption of doxorubicin via intestinal nucleoside transporter. | Carbohydr Polym
+- new | 2025 | 40878355 | Review | Analgesia and silymarin: What are the opportunities and challenges? | Mol Pain
+- new | 2025 | 41156530 | Review | Hepatoprotective Effect of Silymarin Herb in Prevention of Liver Dysfunction Using Pig as Animal Model. | Nutrients
+- new | 2025 | 41471139 | Review | Silymarin and Silybin: Rejuvenating Traditional Remedies with Modern Delivery Strategies. | Pharmaceutics
+- new | 2025 | 40453847 |  | Silymarin alleviates diclofenac-induced hepatotoxicity in male Wistar rats: Histopathological investigation. | Open Vet J
+- new | 2025 | 41071712 |  | Protective Role of Silymarin Against Methotrexate Induced Nephropathy in Rabbits. | J Biochem Mol Toxicol
+- new | 2025 | 40569711 |  | Explaining Uncertain Hepatoprotective Effects: When Silibinin Co-Administered with Other Drugs. | Medeni Med J
+- new | 2025 | 40952602 |  | Effects of silymarin on liver function, antioxidant and immune factors of broilers under immune stress. | Vet Res Commun
+- new | 2025 | 41394134 | Review | Silymarin as a phytopharmaceutical agent: advances in mechanistic insights, formulation strategies, and pre-clinical applications. | Front Pharmacol
+- new | 2025 | 39706553 |  | Protective potentials of extracted compound SILIBININ from milk thistle on type-2 diabetes mellitus and diesel exhaust particle (DEP) toxicity in experimental rats. | J Nutr Biochem
+- new | 2025 | 39960637 |  | Effects of silymarin supplementation in late pregnancy and lactation on reproductive performance, colostrum quality, blood biochemistry and inflammation levels of sows. | Trop Anim Health Prod
+- new | 2025 | 40620952 |  | In Vitro Leishmanicidal Effect of Silibinin: Disrupting Redox Balance via Trypanothione Reductase Inhibition. | ACS Omega
+- new | 2024 | 39507256 | Review | The clinical anti-inflammatory effects and underlying mechanisms of silymarin. | iScience
+- new | 2024 | 38726410 | Review | Silymarin: Unveiling its pharmacological spectrum and therapeutic potential in liver diseases-A comprehensive narrative review. | Food Sci Nutr
+- new | 2024 | 39286715 | Review | Silymarin as an Antioxidant Therapy in Chronic Liver Diseases: A Comprehensive Review. | Cureus
+- new | 2024 | 38332944 | Review | Chronic liver disease and management with silymarin: an introductory review of a clinical case collection. | Drugs Context
+- new | 2024 | 38675395 |  | Silibinin's Effects against Methotrexate-Induced Hepatotoxicity in Adjuvant-Induced Arthritis Rat Model. | Pharmaceuticals (Basel)
+- new | 2024 | 38675181 |  | Cardioprotective and Hepatoprotective Potential of Silymarin in Paracetamol-Induced Oxidative Stress. | Pharmaceutics
+- new | 2024 | 39217820 |  | Silymarin mitigates toxic effects of cyclophosphamide on testicular tissue and sperm parameters in mice. | Reprod Biol
+- new | 2024 | 38546352 |  | Nephroprotective effects of silymarin and its fabricated nanoparticles against aluminum-induced oxidative stress, hyperlipidemia, and genotoxicity. | Environ Toxicol
+- new | 2024 | 38794280 |  | Evaluation of Silybin Nanoparticles against Liver Damage in Murine Schistosomiasis mansoni Infection. | Pharmaceutics
+- new | 2024 | 39241932 |  | Dual-targeting galactose-functionalized hyaluronic acid modified lipid nanoparticles delivering silybin for alleviating alcoholic liver injury. | Int J Pharm
+- new | 2024 | 39370820 | Research Support, Non-U.S. Gov't | The Pharmacokinetics and Liver-Targeting Evaluation of Silybin Liposomes Mediated by the NTCP/OCTN2 Dual Receptors. | Mol Pharm
+- new | 2024 | 38338016 |  | The Antioxidant and Hepatoprotective Potential of Berberine and Silymarin on Acetaminophen Induced Toxicity in Cyprinus carpio L. | Animals (Basel)
+- new | 2024 | 39533932 |  | Histological and Biochemical Evaluation of Silibinin in Treatment of Periodontitis Induced in Rats with Liver Cirrhosis. | J Contemp Dent Pract
+- new | 2024 | 38529622 | Research Support, N.I.H., Extramural | Rifampin- and Silymarin-Mediated Pharmacokinetic Interactions of Exogenous and Endogenous Substrates in a Transgenic OATP1B Mouse Model. | Mol Pharm
+- new | 2024 | 39289432 |  | Ameliorative effects of silymarin on aflatoxin B1 toxicity in weaned rabbits: impact on growth, blood profile, and oxidative stress. | Sci Rep
+- new | 2024 | 39741570 |  | Comparative Evaluation of the Preventive Effects of Citral, Silymarin, Thymoquinone, and Curcumin on 5-Fluorouracil-Induced Cardiac and Pulmonary Toxicity in Rats. | J Pharmacopuncture
+- new | 2024 | 38590886 |  | Mitigation of haemato-genotoxic and stress response effects in Cyprinus carpio via silymarin dietary supplementation following deltamethrin exposure. | Heliyon
+- new | 2024 | 38227082 |  | Co-treatment of silymarin and cisplatin inhibited cell proliferation, induced apoptosis in ovarian cancer. | Mol Biol Rep
+- new | 2024 | 38953496 |  | Codelivery of methotrexate and silibinin by niosome nanoparticles for enhanced chemotherapy of CT26 colon cancer cells. | Biomed Mater
+- new | 2023 | 36717999 | Review | The Protective Effects of Silymarin on the Reproductive Toxicity: A Comprehensive Review. | Curr Med Chem
+- new | 2023 | 36753973 | Review | The interplay of arsenic, silymarin, and NF-ĸB pathway in male reproductive toxicity: A review. | Ecotoxicol Environ Saf
+- new | 2023 | 37313039 | Case Reports | Silymarin and management of liver function in non-alcoholic steatohepatitis: a case report. | Drugs Context
+- new | 2023 | 37401502 |  | Amelioration of silymarin against cadmium-induced toxicity in pregnant rats and their fetuses. | Birth Defects Res
+- new | 2023 | 37335224 |  | The therapeutic effect of silibinin against 5-fluorouracil-induced ovarian toxicity in rats. | J Biochem Mol Toxicol
+- new | 2023 | 37313040 | Case Reports | Hepatoprotective effects of silymarin in management of liver injury caused by tuberculosis treatment. | Drugs Context
+- new | 2023 | 37448841 |  | The protective effects of silymarin nanoemulsion on 5-fluorouracil-induced gastrointestinal toxicity in rats. | Saudi Pharm J
+- new | 2023 | 38144097 |  | Designing a Silymarin Nanopercolating System Using CME@ZIF-8: An Approach to Hepatic Injuries. | ACS Omega
+- new | 2023 | 38139990 |  | Bovine Serum Albumin Nanoparticles Enhanced the Intranasal Bioavailability of Silybin in Rats. | Pharmaceutics
+- new | 2023 | 37672872 |  | Liposomal silymarin anti-oxidative and anti-apoptotic features in lung cells: An implication in cadmium toxicity. | J Trace Elem Med Biol
+- new | 2023 | 37459721 |  | Silymarin, an antioxidant flavonoid, protects the liver from the toxicity of the anticancer drug paclitaxel. | Tissue Cell
+- new | 2023 | 37236224 |  | In vitro Assessment of the Effects of Silybin on CYP2B6-mediated Metabolism. | Planta Med
+- new | 2023 | 37821005 |  | Abamectin induced brain and liver toxicity in carp: The healing potential of silybin and potential molecular mechanisms. | Fish Shellfish Immunol
+- new | 2023 | 37859669 |  | Predicting molecular mechanism of silymarin-potentiated diclofenac toxicity: Insight from in silico molecular docking. | Toxicol Rep
+- new | 2023 | 37895836 |  | Vitamin E and Silymarin Reduce Oxidative Tissue Damage during Gentamycin-Induced Nephrotoxicity. | Pharmaceuticals (Basel)
+- new | 2023 | 35705686 |  | Silybin regulates P450s activity by attenuating endoplasmic reticulum stress in mouse nonalcoholic fatty liver disease. | Acta Pharmacol Sin
+- new | 2023 | 38075778 |  | In Vivo and in Vitro Regulatory Effect of Silibinin on Some Metabolic Enzyme Activities against Cobalt Induced Toxicity in Rats: A Biochemical Approach. | ACS Omega
+- new | 2023 | 36771180 |  | Silymarin Encapsulated Liposomal Formulation: An Effective Treatment Modality against Copper Toxicity Associated Liver Dysfunction and Neurobehavioral Abnormalities in Wistar Rats. | Molecules
+- new | 2022 | 39131840 | Review | Silymarin for Treating Toxic Liver Disease: International Consensus Recommendations. | Gastro Hep Adv
+- new | 2022 | 36514062 |  | Protective effect of silymarin on tacrolimus-induced kidney and liver toxicity. | BMC Complement Med Ther
+- new | 2022 | 35595033 |  | Silibinin inhibits ethanol- or acetaldehyde-induced ferroptosis in liver cell lines. | Toxicol In Vitro
+- new | 2022 | 35510639 | Review/Research Support, Non-U.S. Gov't | Silybin and its congeners: from traditional medicine to molecular effects. | Nat Prod Rep
+- new | 2022 | 35018864 | Review | Role of Silymarin in Cancer Treatment: Facts, Hypotheses, and Questions. | J Evid Based Integr Med
+- new | 2022 | 35278428 | Research Support, Non-U.S. Gov't | Box-Behnken design optimized silibinin loaded glycerylmonooleate nanoliquid crystal for brain targeting. | Chem Phys Lipids
+- new | 2022 | 35401195 |  | Silibinin Therapy Improves Cholangiocarcinoma Outcomes by Regulating ERK/Mitochondrial Pathway. | Front Pharmacol
+- new | 2022 | 35106163 | Case Reports | Therapeutic potential of silymarin as a natural iron-chelating agent in β-thalassemia intermedia. | Clin Case Rep
+- new | 2022 | 36341068 |  | Hepatoprotective and renoprotective effects of silymarin against salinomycin-induced toxicity in adult rabbits. | Vet World
+- new | 2022 | 35061161 |  | Prediction of CYP-mediated silybin A-losartan pharmacokinetic interactions using physiological based pharmacokinetic modeling. | J Pharmacokinet Pharmacodyn
+- new | 2022 | 35257789 | Comparative Study | Comparative effects of estrogen and silibinin on cardiovascular risk biomarkers in ovariectomized rats. | Gene
+- new | 2022 | 35470762 |  | Design and optimization of silymarin loaded in lyophilized fast melt tablets to attenuate lung toxicity induced via HgCl(2) in rats. | Drug Deliv
+- new | 2022 | 36178580 |  | Enhanced bioavailability and hepatoprotective effect of silymarin by preparing silymarin-loaded solid dispersion formulation using freeze-drying method. | Arch Pharm Res
+- new | 2022 | 35752206 | Comparative Study/Research Support, Non-U.S. Gov't | Comparative efficacy of silibinin and nano-silibinin on lead poisoning in Male Wistar rats. | Toxicology
+- new | 2022 | 35753048 |  | Silymarin abrogates acrylamide-induced oxidative stress-mediated testicular toxicity via modulation of antioxidant mechanism, DNA damage, endocrine deficit and sperm quality in rat | Andrologia
+- new | 2022 | 36077379 |  | Silibinin Suppresses the Hyperlipidemic Effects of the ALK-Tyrosine Kinase Inhibitor Lorlatinib in Hepatic Cells. | Int J Mol Sci
+- new | 2022 | 35631363 | Review | A Comprehensive Review of the Cardiovascular Protective Properties of Silibinin/Silymarin: A New Kid on the Block. | Pharmaceuticals (Basel)
+- new | 2022 | 35504510 |  | Silibinin ameliorates abrin induced hepatotoxicity by attenuating oxidative stress, inflammation and inhibiting Fas pathway. | Environ Toxicol Pharmacol
+- new | 2022 | 35752255 | Research Support, Non-U.S. Gov't | Prebiotic-like cyclodextrin assisted silybin on NAFLD through restoring liver and gut homeostasis. | J Control Release
+- new | 2022 | 36365170 |  | Novel Pullulan/Gellan Gum Bilayer Film as a Vehicle for Silibinin-Loaded Nanocapsules in the Topical Treatment of Atopic Dermatitis. | Pharmaceutics
+- new | 2022 | 34761358 |  | In Vivo Attenuation of Alcohol- and Cadmium Chloride-Induced Testicular Toxicity Modulated by Silymarin in Male Wistar Rat. | Biol Trace Elem Res
+- new | 2022 | 35460909 | Research Support, Non-U.S. Gov't | Preclinical validation of silibinin/albumin nanoparticles as an applicable system against acute liver injury. | Acta Biomater
+- HELD REF-0484 | 2021 | 34399200 | Review | Silymarin (milk thistle extract) as a therapeutic agent in gastrointestinal cancer. | Biomed Pharmacother
+- new | 2021 | 34318464 | Review | Recapitulation of Evidence of Phytochemical, Pharmacokinetic and Biomedical Application of Silybin. | Drug Res (Stuttg)
+- new | 2021 | 31691591 |  | Silymarin from Silybum marianum by Naviglio's extractor: a new and very efficient approach. | Nat Prod Res
+- new | 2021 | 34100211 |  | Antioxidant and anti-apoptotic prophylactic effect of silymarin against lead-induced hepatorenal toxicity in rats. | Environ Sci Pollut Res Int
+- new | 2021 | 31165636 |  | Hepatoprotective effects of silymarin against diclofenac-induced liver toxicity in male rats based on biochemical parameters and histological study. | Arch Physiol Biochem
+- new | 2021 | 33246779 |  | Mucoadhesive nanocrystal-in-microspheres with high drug loading capacity for bioavailability enhancement of silybin. | Colloids Surf B Biointerfaces
+- new | 2021 | 33925336 |  | Dehydroflavonolignans from Silymarin Potentiate Transition Metal Toxicity In Vitro but Are Protective for Isolated Erythrocytes Ex Vivo. | Antioxidants (Basel)
+- new | 2021 | 34959790 |  | Silymarin Dehydroflavonolignans Chelate Zinc and Partially Inhibit Alcohol Dehydrogenase. | Nutrients
+- new | 2021 | 34630852 |  | Tackling of Renal Carcinogenesis in Wistar Rats by Silybum marianum Total Extract, Silymarin, and Silibinin via Modulation of Oxidative Stress, Apoptosis, Nrf2, PPARγ, NF-κB, and P | Oxid Med Cell Longev
+- new | 2021 | 33587330 |  | Hepatic organic anion transporting polypeptides mediate disposition of milk thistle flavonolignans and pharmacokinetic silymarin-drug interactions. | Phytother Res
+- new | 2021 | 33706132 |  | Interaction of silymarin components and their sulfate metabolites with human serum albumin and cytochrome P450 (2C9, 2C19, 2D6, and 3A4) enzymes. | Biomed Pharmacother
+- new | 2021 | 33388017 |  | Synthesis of Silymarin-Gold Nanoparticle Conjugate and Analysis of its Liver-Protecting Activity. | Curr Pharm Biotechnol
+- new | 2021 | 33257158 |  | Amorphous silibinin nanoparticles loaded into porous starch to enhance remarkably its solubility and bioavailability in vivo. | Colloids Surf B Biointerfaces
+- new | 2021 | 33616078 | Research Support, Non-U.S. Gov't | Improving silymarin oral bioavailability using silica-installed redox nanoparticle to suppress inflammatory bowel disease. | J Control Release
+- new | 2020 | 33447529 | Review | Chronic Liver Disease and Silymarin: A Biochemical and Clinical Review. | J Clin Transl Hepatol
+- new | 2020 | 32599260 | Comparative Study | Assessment of α-amanitin toxicity and effects of silibinin and penicillin in different in vitro models. | Toxicol In Vitro
+- new | 2020 | 32829504 |  | Impact of silymarin on cadmium-induced apoptosis in human spermatozoa. | Andrologia
+- new | 2020 | 31923602 |  | Phytosome-nanosuspensions for silybin-phospholipid complex with increased bioavailability and hepatoprotection efficacy. | Eur J Pharm Sci
+- new | 2020 | 32016841 |  | Silymarin suppresses HepG2 hepatocarcinoma cell progression through downregulation of Slit-2/Robo-1 pathway. | Pharmacol Rep
+- new | 2020 | 33520810 |  | Lifestyle and silymarin: a fight against liver damage in NAFLD associated - prediabetic disease. | J Diabetes Metab Disord
+- new | 2020 | 31727359 |  | Identification of UDP-glucuronosyltransferases involved in the metabolism of silymarin flavonolignans. | J Pharm Biomed Anal
+- new | 2020 | 33616990 |  | Impact of aluminium toxicity on vital human sperm parameters-Protective effects of silymarin. | Andrologia
+- new | 2020 | 32748473 | Randomized Controlled Trial, Veterinary | Effects of silymarin supplementation during transition and lactation on reproductive performance, milk composition and haematological parameters in sows. | J Anim Physiol Anim Nutr (Berl)
+- new | 2020 | 32711410 |  | Silibinin Triggers the Mitochondrial Pathway of Apoptosis in Human Oral Squamous Carcinoma Cells. | Asian Pac J Cancer Prev
+- HELD REF-0483 | 2019 | 31069872 | Review | Safety and toxicity of silymarin, the major constituent of milk thistle extract: An updated review. | Phytother Res
+- new | 2019 | 31340181 | Review | Nanotherapeutic silibinin: An insight of phytomedicine in healthcare reformation. | Nanomedicine
+- new | 2019 | 30766782 |  | Supersaturated polymeric micelles for oral silybin delivery: the role of the Soluplus-PVPVA complex. | Acta Pharm Sin B
+- new | 2019 | 30526167 |  | Effects of silymarin-loaded amphiphilic chitosan polymeric micelles on the renal toxicity and anticancer activity of cisplatin. | Pharm Dev Technol
+- new | 2019 | 30146802 | Comparative Study | Topical silymarin versus hydroquinone in the treatment of melasma: A comparative study. | J Cosmet Dermatol
+- new | 2019 | 30753481 | Research Support, Non-U.S. Gov't | Silibinin Retards Colitis-associated Carcinogenesis by Repression of Cdc25C in Mouse Model. | Inflamm Bowel Dis
+- new | 2019 | 31615114 | Review | Metabolism, Transport and Drug-Drug Interactions of Silymarin. | Molecules
+- new | 2019 | 31035343 |  | Effects of Silymarin on the In Vivo Pharmacokinetics of Simvastatin and Its Active Metabolite in Rats. | Molecules
+- new | 2019 | 30643408 |  | Co-delivery doxorubicin and silybin for anti-hepatoma via enhanced oral hepatic-targeted efficiency. | Int J Nanomedicine
+- new | 2019 | 30489204 | Video-Audio Media | Characterization of glutathione conjugates derived from reactive metabolites of seven silymarin isomers. | Xenobiotica
+- new | 2019 | 31956630 | Review | Clinical Role of Silymarin in Oxidative Stress and Infertility: A Short Review for Pharmacy Practitioners. | J Res Pharm Pract
+- new | 2019 | 30668351 |  | Contribution of human UDP-glucuronosyltransferases to the antioxidant effects of propolis, artichoke and silymarin. | Phytomedicine
+- new | 2019 | 30635055 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Superior silybin bioavailability of silybin-phosphatidylcholine complex in oily-medium soft-gel capsules versus conventional silymarin tablets in healthy volunteers. | BMC Pharmacol Toxicol
+- HELD REF-1905 | 2018 | 30015401 | Review | Silybum marianum (milk thistle) and its main constituent, silymarin, as a potential therapeutic plant in metabolic syndrome: A review. | Phytother Res
+- new | 2018 | 29755356 | Review | Anti-Parkinson Potential of Silymarin: Mechanistic Insight and Therapeutic Standing. | Front Pharmacol
+- new | 2018 | 30166747 |  | In vivo anticlastogenic effect of silymarin from milk thistle Silybum marianum L. | Indian J Pharmacol
+- new | 2018 | 29057459 |  | Phone calls to an Australian pregnancy and lactation counselling service regarding use of galactagogues during lactation - the MotherSafe experience. | Aust N Z J Obstet Gynaecol
+- new | 2018 | 30119245 | Comparative Study | A comparison of the effects of thymoquinone, silymarin and N-acetylcysteine in an experimental hepatotoxicity. | Biomed Pharmacother
+- new | 2018 | 28503949 |  | Silymarin nanoemulsion against human hepatocellular carcinoma: development and optimization. | Artif Cells Nanomed Biotechnol
+- new | 2018 | 29710546 |  | Pharmacokinetic interaction of diosmetin and silibinin with other drugs: Inhibition of CYP2C9-mediated biotransformation and displacement from serum albumin. | Biomed Pharmacother
+- new | 2018 | 29901126 |  | Synergistic apoptotic effects of silibinin in enhancing paclitaxel toxicity in human gastric cancer cell lines. | Mol Med Rep
+- new | 2018 | 29115625 |  | Protective effects of silymarin on triptolide-induced acute hepatotoxicity in rats. | Mol Med Rep
+- new | 2018 | 30370304 |  | Protective Effects of Silymarin and Silibinin against DNA Damage in Human Blood Cells. | Biomed Res Int
+- new | 2018 | 30137478 | Research Support, Non-U.S. Gov't | Dietary Silymarin Supplementation Alleviates Zearalenone-Induced Hepatotoxicity and Reproductive Toxicity in Rats. | J Nutr
+- new | 2018 | 30308184 | Review | Silibinin to improve cancer therapeutic, as an apoptotic inducer, autophagy modulator, cell cycle inhibitor, and microRNAs regulator. | Life Sci
+- new | 2018 | 30248539 |  | Effect of silibinin on CFLAR-JNK pathway in oleic acid-treated HepG2 cells. | Biomed Pharmacother
+- new | 2017 | 28124457 | Review | Effects of Silymarin on Diabetes Mellitus Complications: A Review. | Phytother Res
+- new | 2017 | 28516410 |  | Silymarin-Loaded Eudragit Nanoparticles: Formulation, Characterization, and Hepatoprotective and Toxicity Evaluation. | AAPS PharmSciTech
+- new | 2017 | 28450905 |  | Protective effects of silymarin against bisphenol A-induced hepatotoxicity in mouse liver. | Exp Ther Med
+- new | 2017 | 29068700 |  | Silibinin Reduces the Impact of Obesity on Invasive Liver Cancer. | Nutr Cancer
+- new | 2017 | 28201965 |  | Preparation and Characterization of Silymarin Synchronized and Sustained Release Dropping Pill. | Curr Drug Deliv
+- new | 2017 | 28229968 |  | Cytotoxic and toxicogenomic effects of silibinin in bladder cancer cells with different TP53 status. | J Biosci
+- new | 2017 | 28496945 |  | Gestational Exposure to Silymarin Increases Susceptibility of BALB/c Mice Fetuses to Apoptosis. | Avicenna J Med Biotechnol
+- new | 2017 | 28824426 |  | HM015k, a Novel Silybin Derivative, Multi-Targets Metastatic Ovarian Cancer Cells and Is Safe in Zebrafish Toxicity Studies. | Front Pharmacol
+- new | 2017 | 28071527 |  | Protective role of silymarin and D-penicillamine against lead-induced liver toxicity and oxidative stress. | Toxicol Ind Health
+- new | 2017 | 28401485 |  | Silymarin and its active component silibinin act as novel therapeutic alternatives for salivary gland cancer by targeting the ERK1/2-Bim signaling cascade. | Cell Oncol (Dordr)
+- new | 2017 | 28222401 |  | Combination of Sitagliptin and Silymarin ameliorates liver fibrosis induced by carbon tetrachloride in rats. | Biomed Pharmacother
+- new | 2017 | 28619387 |  | Evaluation of ameliorative ability of Silibinin against zidovudine and isoniazid-induced hepatotoxicity and hyperlipidaemia in rats: Role of Silibinin in Phase I and II drug metabo | Chem Biol Interact
+- new | 2016 | 27639679 |  | Silibinin triggers yeast apoptosis related to mitochondrial Ca(2+) influx in Candida albicans. | Int J Biochem Cell Biol
+- new | 2016 | 27326543 | Review | Mustard vesicating agent-induced toxicity in the skin tissue and silibinin as a potential countermeasure. | Ann N Y Acad Sci
+- new | 2016 | 27517806 | Review | Modulatory effects of silibinin in various cell signaling pathways against liver disorders and cancer - A comprehensive review. | Eur J Med Chem
+- new | 2016 | 27441792 |  | Beneficial Effects of Silymarin After the Discontinuation of CCl4-Induced Liver Fibrosis. | J Med Food
+- new | 2016 | 27022248 |  | Formulation and clinical evaluation of silymarin pluronic-lecithin organogels for treatment of atopic dermatitis. | Drug Des Devel Ther
+- new | 2016 | 24193058 |  | Protective effects of silymarin against acetaminophen-induced hepatotoxicity and nephrotoxicity in mice. | Toxicol Ind Health
+- new | 2016 | 27497728 |  | Zidovudine and isoniazid induced liver toxicity and oxidative stress: Evaluation of mitigating properties of silibinin. | Environ Toxicol Pharmacol
+- new | 2016 | 26669888 |  | In Vitro Release and Bioavailability of Silybin from Micelle-Templated Porous Calcium Phosphate Microparticles. | AAPS PharmSciTech
+- new | 2016 | 27685914 |  | Inhibitory effects of Silibinin combined with doxorubicin in hepatocellular carcinoma; an in vivo study. | J BUON
+- new | 2016 | 27094923 |  | Hepatoprotective effect of flavonoids from Cirsium japonicum DC on hepatotoxicity in comparison with silymarin. | Food Funct
+- new | 2016 | 26997594 |  | Study of Silymarin and Vitamin E Protective Effects on Silver Nanoparticle Toxicity on Mice Liver Primary Cell Culture. | Acta Med Iran
+- new | 2016 | 32309577 |  | Studies on radiation sensitization efficacy by silymarin in colon carcinoma cells. | Discoveries (Craiova)
+- new | 2016 | 27648206 |  | Protective Role of Silymarin on Hepatic and Renal Toxicity Induced by MTX Based Chemotherapy in Children with Acute Lymphoblastic Leukemia. | Mediterr J Hematol Infect Dis
+- new | 2015 | 26152876 |  | Preparation and performance evaluation of emulsomes as a drug delivery system for silybin. | Arch Pharm Res
+- new | 2015 | 25821491 |  | Hepatoprotective Effect of Silymarin (Silybum marianum) on Hepatotoxicity Induced by Acetaminophen in Spontaneously Hypertensive Rats. | Evid Based Complement Alternat Med
+- new | 2015 | 26770331 |  | Pharmacokinetics of silybin nanoparticles in mice bearing SKOV-3 human ovarian carcinoma xenocraft. | Int J Clin Exp Med
+- new | 2015 | 26202095 | Research Support, Non-U.S. Gov't | The Effect of Silibinin on the Pharmacokinetics of Ivabradine and N-Desmethylivabradine in Rats. | Pharmacology
+- new | 2015 | 25395192 |  | Evaluation of the protective effect of silibinin in rats with liver damage caused by itraconazole. | Cell Biochem Biophys
+- new | 2015 | 24495272 | Comparative Study/Research Support, Non-U.S. Gov't | In vivo absorption comparison of nanotechnology-based silybin tablets with its water-soluble derivative. | Drug Dev Ind Pharm
+- new | 2015 | 25932204 |  | The effect of silymarin on hepatic regeneration after partial hepatectomy: is silymarin effective in hepatic regeneration? | Int J Clin Exp Med
+- new | 2014 | 24991800 | Research Support, Non-U.S. Gov't | Engineered silybin nanoparticles educe efficient control in experimental diabetes. | PLoS One
+- new | 2014 | 25426436 |  | Targeting silymarin for improved hepatoprotective activity through chitosan nanoparticles. | Int J Pharm Investig
+- new | 2014 | 24346850 |  | Effects of silymarin on the pharmacokinetics of atorvastatin in diabetic rats. | Eur J Drug Metab Pharmacokinet
+- new | 2014 | 24795768 |  | Hepatoprotective Effects of Silybum marianum (Silymarin) and Glycyrrhiza glabra (Glycyrrhizin) in Combination: A Possible Synergy. | Evid Based Complement Alternat Med
+- new | 2013 | 23674609 | Research Support, Non-U.S. Gov't | Milk thistle's active components silybin and isosilybin: novel inhibitors of PXR-mediated CYP3A4 induction. | Drug Metab Dispos
+- new | 2013 | 23810508 | Research Support, Non-U.S. Gov't | Silibinin as a potential therapeutic for sulfur mustard injuries. | Chem Biol Interact
+- new | 2013 | 24244810 |  | Silymarin's Protective Effects and Possible Mechanisms on Alcoholic Fatty Liver for Rats. | Biomol Ther (Seoul)
+- new | 2012 | 23031632 | Randomized Controlled Trial | The treatment of melasma by silymarin cream. | BMC Dermatol
+- new | 2011 | 21633595 | Review | Silybin and the liver: from basic research to clinical practice. | World J Gastroenterol
+- new | 2010 | 20510009 | Randomized Controlled Trial | [Protective effect of silibinin on liver injury induced by antituberculosis drugs]. | Zhonghua Gan Zang Bing Za Zhi [chi]
+- new | 2010 | 20372777 | Research Support, U.S. Gov't, Non-P.H.S./Research Support, U.S. Gov't, P.H.S./Review | Molecular mechanisms of inhibition of photocarcinogenesis by silymarin, a phytochemical from milk thistle (Silybum marianum L. Gaertn.) (Review). | Int J Oncol
+- new | 2010 | 23105905 |  | Effect of Lecithin and silymarin on D-galactosamine induced toxicity in isolated hepatocytes and rats. | Indian J Clin Biochem
+- new | 2010 | 21170247 |  | Acetaminophen-induced Hepato- and Nephrotoxicity and Amelioration by Silymarin and Terminalia chebula in Rats. | Toxicol Int
+- new | 2010 | 19945544 |  | Radioprotection of plasmid and cellular DNA and Swiss mice by silibinin. | Mutat Res
+- new | 2009 | 19041708 | Research Support, Non-U.S. Gov't/Review | Drug-drug interactions of silymarin on the perspective of pharmacokinetics. | J Ethnopharmacol
+- new | 2009 | 19765569 | Research Support, Non-U.S. Gov't | Herb-drug interaction of silymarin or silibinin on the pharmacokinetics of trazodone in rats. | Chem Biol Interact
+- new | 2007 | 17723180 | Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S./Review | Combinatorial strategies for cancer eradication by silibinin and cytotoxic agents: efficacy and mechanisms. | Acta Pharmacol Sin
+- new | 2007 | 17548792 | Evaluation Study/Research Support, N.I.H., Extramural/Review | Chemopreventive efficacy of silymarin in skin and prostate cancer. | Integr Cancer Ther
+- new | 2006 | 17213517 | Review | Hepatoprotective herbal drug, silymarin from experimental pharmacology to clinical medicine. | Indian J Med Res
+- new | 2006 | 17201169 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S./Review | Anticancer potential of silymarin: from bench to bed side. | Anticancer Res
+- new | 2005 | 15586237 | Research Support, U.S. Gov't, P.H.S./Review | Silymarin and skin cancer prevention: anti-inflammatory, antioxidant and immunomodulatory effects (Review). | Int J Oncol
+- new | 2005 | 16084079 | Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, P.H.S./Review | Mechanisms and preclinical efficacy of silibinin in preventing skin cancer. | Eur J Cancer
+- new | 2002 | 12410543 | Research Support, Non-U.S. Gov't | Effect of silybin and its congeners on human liver microsomal cytochrome P450 activities. | Phytother Res
+- new | 2001 | 11520257 | Review | Silymarin: a review of its clinical properties in the management of hepatic disorders. | BioDrugs
+- new | 1997 | 9008269 |  | Effect of portal vein ligation and silymarin treatment on aspirin metabolism and disposition in rats. | Biopharm Drug Dispos
+- new | 1994 | 7924893 |  | Pharmacokinetics of silybin following oral administration of silipide in patients with extrahepatic biliary obstruction. | Drugs Exp Clin Res
+- new | 1989 | 2507194 | Research Support, Non-U.S. Gov't | Effect of silybin dihemisuccinate on the ethanol metabolizing systems of the rat liver. | Cell Biochem Funct
+- new | 1985 | 3972111 | Research Support, Non-U.S. Gov't | Protective effect of the flavonoid silybin dihemisuccinate on the toxicity of phenylhydrazine on rat liver. | FEBS Lett
+- new | 1984 | 6719456 |  | Protection by silibinin against Amanita phalloides intoxication in beagles. | Toxicol Appl Pharmacol
+
+### PubMed OBS - 41 hits, 30 not already listed above, 30 new
+- new | 2026 | 41378447 | Observational Study | Effect of oral silymarin in patients with acute hepatotoxic mushroom poisoning: an analysis of poison center data. | Clin Toxicol (Phila)
+- new | 2026 | 41993723 |  | Effectiveness of silymarin with lifestyle intervention in NAFLD and metabolic syndrome: a prospective single-arm study. | Drugs Context
+- new | 2026 | 40708304 | Multicenter Study | A Real-World Retrospective Cohort Study on the Clinical Effect of Silymarin (Legalon) on Liver Damage and Diseases Using a Domestic Multicenter Common Data Model. | Gut Liver
+- new | 2026 | 42448736 |  | Association between silymarin and age-related macular degeneration in patients with liver dysfunction: a nationwide cohort study. | Sci Rep
+- new | 2026 | 40911500 |  | Angiopausin® and Angiopoietin: Unveiling New Mechanisms in Rosacea Treatment through Kinetic Erythema Analysis with the AAREA® Algorithm. | Dermatology
+- new | 2026 | 42739699 |  | Short-Term Silymarin Supplementation After Kidney Transplantation Is Associated with Reduced Early Albuminuria: A Prospective Cohort Study. | J Clin Med
+- new | 2025 | 41441207 |  | Brain Metastatic Lung Cancer Patients: A Multitarget Therapeutic-Supportive Strategy with Anti-STAT3 Silibinin. | NeuroSci
+- new | 2025 | 40843062 |  | Reappraisal of Alternative Treatments for Non-melanoma Skin Cancers on YouTube: A Cross-Sectional Analysis. | Cureus
+- new | 2024 | 38542062 | Multicenter Study | Silymarin Synergizes with Antiviral Therapy in Hepatitis B Virus-Related Liver Cirrhosis: A Propensity Score Matching Multi-Institutional Study. | Int J Mol Sci
+- new | 2023 | 36973603 | Observational Study/Multicenter Study | Tolerability and effectiveness of a dermocosmetic product containing Silybum marianum fruit extract in adolescents and young adults with acne-prone skin: An international, phase IV | J Cosmet Dermatol
+- new | 2023 | 36851435 |  | Antioxidant Effect of a Dietary Supplement Containing Fermentative S-Acetyl-Glutathione and Silybin in Dogs with Liver Disease. | Vet Sci
+- new | 2022 | 35645334 |  | Exploring Muslims' Health-Related Behaviours in Portugal: Any Impact on Quotidian Community Pharmacy Practice? | Pharmacy (Basel)
+- new | 2022 | 35096269 |  | Silibinin Alleviates Muscle Atrophy Caused by Oxidative Stress Induced by Cisplatin through ERK/FoxO and JNK/FoxO Pathways. | Oxid Med Cell Longev
+- new | 2021 | 34439322 |  | Silibinin Suppresses Tumor Cell-Intrinsic Resistance to Nintedanib and Enhances Its Clinical Activity in Lung Cancer. | Cancers (Basel)
+- new | 2020 | 32595273 |  | Identifying Herbal Adverse Events From Spontaneous Reporting Systems Using Taxonomic Name Resolution Approach. | Bioinform Biol Insights
+- new | 2020 | 31663806 | Clinical Trial | Efficacy of Nutraceutical Combination of Monacolin K, Berberine, and Silymarin on Lipid Profile and PCSK9 Plasma Level in a Cohort of Hypercholesterolemic Patients. | J Med Food
+- new | 2020 | 32678829 | Research Support, Non-U.S. Gov't | Downregulation of Jumonji-C domain-containing protein 5 inhibits proliferation by silibinin in the oral cancer PDTX model. | PLoS One
+- new | 2018 | 30212956 | Observational Study | Evaluation of nephroprotection of silymarin on contrast-induced nephropathy in liver cirrhosis patients: A population-based cohort study. | Medicine (Baltimore)
+- new | 2018 | 30032630 |  | Role of the PNPLA3 polymorphism rs738409 on silymarin + vitamin E response in subjects with non-alcoholic fatty liver disease. | Rev Esp Enferm Dig
+- new | 2017 | 28978118 |  | Regorafenib in combination with silybin as a novel potential strategy for the treatment of metastatic colorectal cancer. | Oncotarget
+- new | 2014 | 25253186 | Comparative Study/Observational Study | [Silymarin/galega administration in term and preterm mothers to sustain breast feeding: an observational study]. | Minerva Pediatr [ita]
+- new | 2013 | 24283381 | Research Support, N.I.H., Extramural | The use of dietary supplements and their association with blood pressure in a large Midwestern cohort. | BMC Complement Altern Med
+- new | 2011 | 21786113 | Comparative Study/Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Topical use of a silymarin-based preparation to prevent radiodermatitis : results of a prospective study in breast cancer patients. | Strahlenther Onkol
+- new | 2009 | 19966941 |  | Silibinin suppresses CD44 expression in prostate cancer cells. | Am J Transl Res
+- new | 2008 | 18157835 | Controlled Clinical Trial/Multicenter Study/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Herbal product use by persons enrolled in the hepatitis C Antiviral Long-Term Treatment Against Cirrhosis (HALT-C) Trial. | Hepatology
+- new | 2008 | 18481869 | Research Support, Non-U.S. Gov't | Selection of bioavailability markers for herbal extracts based on in silico descriptors and their correlation to in vitro permeability. | Mol Pharm
+- new | 2008 | 18566043 | Clinical Trial/Research Support, N.I.H., Extramural | The pharmacokinetics of silymarin is altered in patients with hepatitis C virus and nonalcoholic Fatty liver disease and correlates with plasma caspase-3/7 activity. | Drug Metab Dispos
+- new | 2004 | 15232366 |  | Prevalence and predictors of herbal medication use in veterans with chronic hepatitis C. | J Clin Gastroenterol
+- new | 2001 | 11702957 | Comparative Study | Prevalence of complementary and alternative medicine use in cancer patients. | Oncology (Williston Park)
+- new | 1977 | 840125 | Clinical Trial/Controlled Clinical Trial | [Silymarin for the treatment of acute viral hepatitis? Report of a controlled trial (author's transl)]. | Med Klin [ger]
+
+### PubMed REV - 355 hits, 18 not already listed above, 17 new
+- new | 2025 | 40329723 | Review | Milk Thistle (Silybum marianum): Potential Role in Cancer Prevention. | Curr Med Chem
+- new | 2022 | 36304597 | Review | Dietary supplements and bleeding. | Proc (Bayl Univ Med Cent)
+- new | 2022 | 36014565 | Review | Mechanistic Insights into the Pharmacological Significance of Silymarin. | Molecules
+- new | 2022 | 36311193 | Review | A review of therapeutic potentials of milk thistle (Silybum marianum L.) and its main constituent, silymarin, on cancer, and their related patents. | Iran J Basic Med Sci
+- new | 2020 | 31976848 | Research Support, Non-U.S. Gov't/Review | Flavonolignans: One Step Further in the Broad-Spectrum Approach of Cancer. | Anticancer Agents Med Chem
+- HELD REF-1898 | 2020 | 33045827 | Review | Health Benefits of Silybum marianum: Phytochemistry, Pharmacology, and Applications. | J Agric Food Chem
+- new | 2019 | 31850232 | Review | Herbal Interaction With Chemotherapeutic Drugs-A Focus on Clinically Significant Findings. | Front Oncol
+- new | 2017 | 28762712 | Review | Common Herbal Dietary Supplement-Drug Interactions. | Am Fam Physician
+- new | 2017 | 28125040 | Review | Silymarin/Silybin and Chronic Liver Disease: A Marriage of Many Years. | Molecules
+- new | 2017 | 29125572 | Review | Silybin, a Major Bioactive Component of Milk Thistle (Silybum marianum L. Gaernt.)-Chemistry, Bioavailability, and Metabolism. | Molecules
+- new | 2015 | 26448818 | Review | Anti-Aging Potential of Phytoextract Loaded-Pharmaceutical Creams for Human Skin Cell Longetivity. | Oxid Med Cell Longev
+- new | 2014 | 24977260 | Research Support, Non-U.S. Gov't/Review | Chemistry of silybin. | Nat Prod Rep
+- new | 2013 | 23472485 | Research Support, Non-U.S. Gov't/Review | Adverse effects of herbal medicines: an overview of systematic reviews. | Clin Med (Lond)
+- new | 2012 | 31644124 | Review | Milk Thistle. | 
+- new | 2010 | 20564545 | Review | Milk thistle in liver diseases: past, present, future. | Phytother Res
+- new | 2006 | 30000867 | Review | Chamomile. | 
+- new | 2006 | 30000830 | Review | Milk Thistle. | 
+- new | 2005 | 16225032 | Review | Milk thistle. | Am Fam Physician
+
+### ClinicalTrials.gov - 135 registered studies
+- NCT01001845 | COMPLETED | results=False | PHASE2 | Comparative Effects of Milk Thistle Extract With Vitamin-E in Hemodialysis Patients | conds: Hemodialysis, End Stage Renal Disease | intr: Milk Thistle extract, vit E, vit E + Milk Thistle extract
+- NCT01265563 | COMPLETED | results=True | PHASE2 | N-Acetylcysteine and Milk Thistle for Treatment of Diabetic Nephropathy | conds: Diabetic Nephropathy, Proteinuria, Oxidative Stress | intr: N-acetylcysteine placebo and silibin placebo, N-acetylcysteine active and silibin placebo, N-acetylc | pubs: ['23333585:RESULT (new)', '25899538:RESULT (new)', '26235932:RESULT (new)', '26896310:RESULT (new)', '23804455:RESULT (new)']
+- NCT05069298 | UNKNOWN | results=False | NA | Effect of Silibinin(A) as a Potential Anti-obesity Agent | conds: Overweight and Obesity, Hypercholesterolemia, Hypertriglyceridemia | intr: Silibinin A
+- NCT00246363 | COMPLETED | results=False | PHASE1,PHASE2 | A Clinical Research Study Designed To Determine If Treatment of Hepatitis C With Milk Thistle is More Effective Than No Treatment In Patient | conds: HIV Infections, Hepatitis C | intr: Silymarin, Placebo
+- NCT03547895 | COMPLETED | results=False | NA | Management of Decompensated HCV Cirrhotic Patients | conds: Decompensated Cirrhosis | intr: Sofosbuvir 400mg (Sovaldi) + Daclatasvir 60 mg (Daklinza) + Ribavirin 200 mg (Rebetol), vitamin K (P | pubs: ['30758786:DERIVED (new)']
+- NCT07215351 | COMPLETED | results=False | NA | Impact of the Inno Cleanse Dietary Supplement on Gut Health and Associated Variables in Healthy Men and Women | conds: Constipation, Bloating | intr: Dietary supplement for digestive health, placebo capsule
+- NCT03174561 | UNKNOWN | results=False | NA | Inuline Supplement in Patients With Irritable Bowel Syndrome | conds: Irritable Bowel Syndrome | intr: Inuline, Choline and Silymarin, diet restriction
+- NCT01049178 | WITHDRAWN | results=False | PHASE2,PHASE3 | Randomized Controlled Trial of Silymarin in Asthma | conds: Atopic Asthma | intr: Oral Silymarin, Oral Silymarin, maintenance dose, Placebo
+- NCT06882681 | COMPLETED | results=False | NA | Silymarin Bioavailability Study | conds: Bioavailability and Pharmacokinetics | intr: LipoMicel Milk Thistle, Unformulated Milk Thistle Extract
+- NCT07871370 | COMPLETED | results=False | NA | Silymarin Effects on Fatty Liver in Type 2 Diabetics | conds: Type 2 Diabetes, Fatty Liver | intr: Silymarin (Silybum marianum)
+- NCT02337634 | COMPLETED | results=True | PHASE2 | Milk Thistle in Pathological Gambling | conds: Pathological Gambling, Gambling Disorder | intr: Placebo, Milk Thistle | pubs: ['38478366:DERIVED (new)', '36130734:DERIVED (new)']
+- NCT00200798 | COMPLETED | results=False |  | An Assessment of Milk Thistle Pharmacokinetics and Drug Interactions | conds: Healthy | intr: 
+- NCT04717726 | COMPLETED | results=False | PHASE3 | Exercise, Milk Thistle, and Lactobacillus to Influence Plasma Bilirubin | conds: Obesity | intr: Milk Thistle (MT), Lactobacillus Gasseri (LAC), Exercise (EX), Control (CON)
+- NCT02775448 | TERMINATED | results=False | PHASE2 | Dose-response Study of Carduus Marianus in Centesimal Scale for Dyslipidemia in Climacteric Overweighed or Obese Women. | conds: Dyslipidemia, Menopause, Obesity | intr: Carduus marianus 6cH, Carduus marianus 12cH, Carduus marianus 30cH, Placebo
+- NCT02669641 | UNKNOWN | results=False | PHASE4 | Complex Imaging Assessment of Steatosis | conds: Fatty Liver | intr: Combination Silimarin, Phyllanthus niruri and Choline
+- NCT07295327 | RECRUITING | results=False | NA | Effect of Two Food Supplements on Lipid Profile in Patients With Mild Hypercholesterolemia | conds: Hypercholesterolemia | intr: Cynacol, Metacol
+- NCT06429059 | COMPLETED | results=True | PHASE2 | ROAR-DIGAP: A Widely Inclusive, Largely Virtual Pilot Trial Utilizing DIGAP (Deep Integrated Genomics Analysis Platform) To Personalize Trea | conds: Amyotrophic Lateral Sclerosis ALS | intr: Astaxanthin, Protandim, Melatonin, MitoQ
+- NCT06798948 | RECRUITING | results=False | PHASE2 | Effect of the Combined Application of Cynara Scolymus, Silybum Marianum, Curcuma Longa, and Glycyrrhiza Glabra in Improving Metabolic Associ | conds: Metabolic-associated Fatty Liver Disease (MAFLD) | intr: Combination of cynara scolymus, silybum marianum, curcuma longa, and glycyrrhiza glabra, Placebo mal | pubs: ['38879879:RESULT (new)', '38674860:RESULT (new)', '36508737:RESULT (new)', '36082508:RESULT (new)']
+- NCT06277635 | UNKNOWN | results=False | NA | Effect of Silymarin Against Methotrexate-induced Liver Injury in Rheumatic Diseases | conds: Rheumatoid Arthritis, Psoriatic Arthritis, Psoriasis | intr: Silymarin, Placebo
+- NCT06018168 | COMPLETED | results=False | NA | An RCT Evaluating the Efficacy of a Skincare Routine and Acne Supplement on Improving Acne and Other Symptoms of PMS | conds: Acne, Premenstrual Syndrome | intr: Skincare Routine, MINDBODYSKIN Supplement
+- NCT00443079 | COMPLETED | results=True | PHASE2 | A Study of Siliphos in Adults With Non-alcoholic Steatohepatitis (NASH) | conds: Fatty Liver | intr: IdB 1016 (Siliphos), Matched placebo
+- NCT05343780 | COMPLETED | results=False | PHASE2 | Clinical Trial to Investigate the Anti-oxidant Activity of Heptex in Patients With Apparent Risk Factors of NASH | conds: Nonalcoholic Steatohepatitis | intr: Heptex, Rice bran | pubs: ['39789561:DERIVED (new)']
+- NCT07833514 | NOT_YET_RECRUITING | results=False | PHASE3 | Misocholic Tablets for Non-Viral Elevated Liver Enzymes | conds: Alcohol-Related Liver Disease, Drug-Induced Liver Injury, Non-alcoholic Fatty Liver Disease | intr: Misocholic Tab, Placebo, Silymarin (Silybum marianum)
+- NCT04183842 | COMPLETED | results=False | NA | Evaluation of a Fixed Combination of Herbal Extracts to Prevent Symptoms Alcohol-induced Hangovers | conds: Headache, Nausea, Dizziness, Sleepiness | intr: LACIME Anti-hangover, Placebo
+- NCT00680342 | COMPLETED | results=False | PHASE2 | Phase II Trial of Silymarin for Patients With Chronic Hepatitis C Who Have Failed Conventional Antiviral Treatment | conds: Chronic Hepatitis C | intr: Silymarin, Silymarin, Placebo | pubs: ['22797645:RESULT (HELD REF-3774)']
+- NCT01829178 | COMPLETED | results=False | PHASE2,PHASE3 | Evaluation of Effects of Silymarin on Cisplatin Induced Nephrotoxicity in Upper Gastrointestinal Adenocarcinoma | conds: Upper GI Cancer, Cisplatin Adverse Reaction | intr: Silymarin, Placebo, chemotherapy
+- NCT05333315 | COMPLETED | results=False | NA | Clinical Trials of Five Different Food Supplements With Restriction Diet in Adults | conds: Overweight and Obesity, Inflammation, Hypercholesterolemia, Hypertension | intr: IP1, IP2, IP3, IP4
+- NCT05076058 | UNKNOWN | results=False | NA | Effects of Tablets of Silybum Marianum, Pueraria Lobate and Salvia Miltiorrhiza on Fatty Liver | conds: Fatty Liver Disease | intr: Tablet of silybum marianum, Pueraria lobate and salvia miltiorrhiza, Placebo tablet | pubs: ['38879879:DERIVED (new)']
+- NCT00915681 | TERMINATED | results=True | PHASE2 | Intravenous Milk Thistle (Silibinin-Legalon) for Hepatic Failure Induced by Amatoxin/Amanita Mushroom Poisoning | conds: Amatoxin Poisoning, Amanita Poisoning, Mushroom Poisoning, Liver Failure | intr: Silibinin
+- NCT02529605 | COMPLETED | results=False | NA | Relative Bioavailability of Two Different Milk Thistle Formulations | conds: Healthy | intr: Product B® IsaGenesis®, IsaGenesis® | pubs: ['29273470:DERIVED (new)']
+- NCT07195994 | RECRUITING | results=False | NA | A Clinical Trial to Examine the Efficacy and Safety of an Investigational Product With and Without Use of Semaglutide on Glycemic Response i | conds: Prediabetes / Type 2 Diabetes | intr: AMPK Charge+®, AMPK Charge+® with semaglutide
+- NCT00487721 | COMPLETED | results=True | PHASE2 | The Effect of High-dose Silybin-phytosome in Men With Prostate Cancer | conds: Prostate Cancer | intr: Silibin-Phytosome | pubs: ['20127732:DERIVED (new)']
+- NCT04810572 | COMPLETED | results=False | NA | Nutraceutical Composition Containing Natural Products Derivatives on the Modulation of the Endocrine Neuroimmune Axis | conds: Insulin Resistance, Inflammatory Bowel Diseases, Overweight and Obesity, Healthy | intr: Composition with Silymarin, Low-mineral composition without Silymarin | pubs: ['39981988:DERIVED (new)', '39012843:DERIVED (new)', '38750102:DERIVED (new)', '36778595:DERIVED (new)']
+- NCT00065741 | COMPLETED | results=False | PHASE1 | Botanical/Drug Interactions in HIV: Glucuronidation | conds: HIV Seronegativity | intr: silymarin
+- NCT02404701 | COMPLETED | results=False | NA | Effect of Over-the-counter Dietary Supplements on Kidney Stone Risk | conds: Hyperoxaluria | intr: Aloe vera with cactus, Cranberry, Green tea extract, Bilberry
+- NCT02006498 | COMPLETED | results=False | PHASE2 | Silymarin for the Treatment of Non-Alcoholic Fatty Liver Disease (NAFLD) | conds: Non-alcoholic Fatty Liver Disease | intr: Sillymarin, Placebo | pubs: ['28419855:DERIVED (new)']
+- NCT02233439 | UNKNOWN | results=False | NA | Double-blind, Placebocontrolled A Randomized Trial on the Efficacy of Herbal Galactogogues | conds: Breastfeeding | intr: Herbal galactagogue, Placebo | pubs: ['32421208:DERIVED (new)']
+- NCT00680407 | COMPLETED | results=True | PHASE2 | Phase II Trial of Silymarin for Non-Cirrhotic Patients With Non-Alcoholic Steatohepatitis | conds: Non-alcoholic Steatohepatitis | intr: Placebo, Silymarin 700 mg, Silymarin 420 mg | pubs: ['31536511:DERIVED (new)']
+- NCT05913986 | UNKNOWN | results=False | NA | Supplementation With Alpha-lipoic Acid and Silybum Marianum(LUDLEV®) for the Improvement of Fatty Liver Disease | conds: Metabolic Associated Fatty Liver Disease | intr: LUDLEV®300 mg/46.2 mg, Placebo
+- NCT03982849 | COMPLETED | results=False | PHASE2 | Comparison of Topical Silymarin With Hydroquinone in the Treatment of Melasma | conds: Melasma | intr: Hydroquinone 4% Cream, silymarin 0.7% cream
+- NCT01402648 | COMPLETED | results=False | PHASE1,PHASE2 | Estrogen Receptor Beta Agonists (Eviendep) and Polyp Recurrence | conds: Adenocarcinoma of Colon Recurrent | intr: Eviendep (CM&D Pharma Limited, UK), Maltodextrins
+- NCT01003236 | COMPLETED | results=False | PHASE2 | Evaluating the Renoprotective Effect of Milk Thistle Extract on Patients With Type II Diabetic Nephropathy | conds: Diabetic Nephropathy | intr: placebo, Milk Thistle extract | pubs: ['37916745:DERIVED (new)', '22770926:DERIVED (new)']
+- NCT02172625 | COMPLETED | results=True | NA | The Effect of Protandim Supplementation on Oxidative Damage and Athletic Performance | conds: Oxidative Stress | intr: Protandim Dietary Supplement, Placebo Group | pubs: ['27513339:RESULT (new)']
+- NCT03577587 | COMPLETED | results=False | NA | Efficacy of Herbal Galactagogue Silitidil After Preterm Birth | conds: Breast Milk Production, Human Milk Feeding, Hypogalactia, Preterm Infant Nutrition | intr: Silitidil for 21 days, Placebo for 21 days
+- NCT00055718 | COMPLETED | results=False | PHASE2 | Silymarin (Milk Thistle Extract) in Treating Patients With Acute Lymphoblastic Leukemia Who Are Receiving Chemotherapy | conds: Drug/Agent Toxicity by Tissue/Organ, Leukemia | intr: silymarin | pubs: ['20014183:RESULT (new)']
+- NCT06763809 | COMPLETED | results=False | NA | A Randomized Placebo-Controlled Study to Evaluate the Effects of a Gummy and Capsule Supplement on Symptoms of Premenstrual Syndrome | conds: PMS, Menstrual Cramp, Mood Change | intr: PMS Capsule, Capsule Placebo, PMS Gummy, Gummy Placebo
+- NCT01018615 | COMPLETED | results=False | PHASE1 | Safety, Metabolism, and Antioxidant Activity of Silymarin and Green Tea Extract in Patients With Chronic Hepatitis C | conds: Chronic Hepatitis C, Oxidative Stress | intr: silymarin, green tea extract (EGCG)
+- NCT03420976 | WITHDRAWN | results=False | EARLY_PHASE1 | Novel Supplement-based Therapy for the Treatment of Small Intestinal Bacterial Overgrowth | conds: Small Intestinal Bacterial Overgrowth | intr: Novel Supplement Based Therapy
+- NCT00412763 | COMPLETED | results=False | PHASE4 | Efficacy of Silymarin for Acute Hepatitis | conds: Hepatitis | intr: Silymarin (Silybum marianum)
+- NCT01239095 | TERMINATED | results=False | PHASE1 | Oral Green Tea Extract and Milk Thistle Extract to Colorectal Cancer Patients Undergoing Resection | conds: Colon Cancer | intr: Green Tea and Milk Thistle Supplements
+- NCT00030030 | COMPLETED | results=False | PHASE2 | Evaluating Silymarin for Chronic Hepatitis C | conds: Hepatitis C, Chronic | intr: Silymarin (milk thistle)
+- NCT06213857 | RECRUITING | results=False | PHASE2 | Beneficial Effect of Silymarin in Ulcerative Colitis | conds: Ulcerative Colitis | intr: Silymarin, Mesalamine, Azathioprine
+- NCT00915200 | COMPLETED | results=False | PHASE2 | N-Acetylcysteine and Milk Thistle for Treatment of Diabetic Nephropathy | conds: Diabetic Nephropathies, Proteinuria, Oxidative Stress | intr: N-acetylcysteine, silibin, high-dose silibin, N-acetylcysteine placebo | pubs: ['37916745:DERIVED (new)']
+- NCT06477146 | RECRUITING | results=False | PHASE2 | Milk Thistle Clinical Trial in Pediatric NAFLD | conds: Non-Alcoholic Fatty Liver Disease (NAFLD) | intr: Milk thistle (MT), Placebo, Lifestyle Modification, Fibroscan
+- NCT01129570 | COMPLETED | results=False | PHASE1 | Siliphos in Advanced Hepatocellular Carcinoma | conds: Advanced Hepatocellular Carcinoma | intr: Silybin
+- NCT01125501 | WITHDRAWN | results=False | NA | Protandim and the Metabolic Syndrome | conds: Metabolic Syndrome | intr: Protandim
+- NCT02473913 | COMPLETED | results=True | PHASE2 | Milk Thistle in Trichotillomania in Children and Adults | conds: Trichotillomania, Hair Pulling Disorder | intr: Milk Thistle, Placebo
+- NCT07585825 | COMPLETED | results=False | NA | A Crossover Exploratory Study of NatureU Cheers Friends Curcumin on Acute Alcohol Hangover Symptoms | conds: Alcohol Hangover | intr: NatureU Cheers Friends Curcumin, Herbsense Hangover Relief Tablet
+- NCT00755950 | TERMINATED | results=False | PHASE2,PHASE3 | Randomized Placebo-controlled Trial Evaluating the Safety and Efficacy of Silymarin Treatment in Patients With Acute Viral Hepatitis | conds: Acute Hepatitis A, Acute Hepatitis B, Acute Hepatitis C, Acute Hepatitis E | intr: Silymarin, Silymarin, Lactose monohydrate
+- NCT00011635 | COMPLETED | results=False | PHASE1 | The Effect of Milk Thistle on the Pharmacokinetics of Indinavir | conds: HIV Infection, Healthy | intr: Silymarin (milk thistle)
+- NCT01049373 | COMPLETED | results=True | PHASE3 | Efficacy and Safety of Lymphdiaral Basistropfen (HDC) in the Treatment of Chronic Low-back Pain | conds: Low Back Pain | intr: HDC, Placebo solution
+- NCT06425705 | COMPLETED | results=False | PHASE2 | Impact of Silymarin Adjunct Therapy on Proteinuria in Type 2 Diabetic Patients on RAS Inhibitors | conds: Type 2 Diabetes Mellitus | intr: Silymarin, Placebo
+- NCT01292161 | COMPLETED | results=False | PHASE2 | Effects of Silybum Marianum on Treatment of Patients With Chronic Hepatitis C | conds: Hepatitis C | intr: Silymarin
+- NCT02843451 | WITHDRAWN | results=False | PHASE2 | Milk Thistle in Body Dysmorphic Disorder | conds: Body Dysmorphic Disorder | intr: Milk Thistle, Placebo
+- NCT06922669 | RECRUITING | results=False | NA | Glucocorticoids for Acute Drug Induced Liver Injury With Hyperbilirubinemia | conds: Drug Induced Liver Injury | intr: Methylprednisolone, Magnesium isoglycyrrhizinate, Glutathione, Silymarin | pubs: ['22806342:RESULT (new)', '27426618:RESULT (new)', '39183394:RESULT (new)', '38402364:RESULT (new)', '42080196:DERIVED (new)']
+- NCT03687073 | COMPLETED | results=False | PHASE1 | Trial of Indole-3-Carbinol and Silibinin | conds: Smoking | intr: Indole-3-Carbinol, Silibinin, Silibin
+- NCT02369536 | COMPLETED | results=True | NA | Efficacy of a Natural Components Mixture in the Treatment of Non Alcoholic Fatty Liver Disease (NAFLD) | conds: Non-alcoholic Fatty Liver Disease | intr: nutraceutical mixture, placebo
+- NCT06964815 | WITHDRAWN | results=False | NA | Silibinin in Association With Concomitant Chemoradiotherapy and Maintenance Temozolomide in STAT3 Positive IDH Wild-type, Newly Diagnosed Gl | conds: Glioblastoma, IDH Wild-type and STAT3-positive Glioblastoma | intr: Silibinin as STAT3 inhibitor, Placebo
+- NCT03130634 | COMPLETED | results=False | PHASE4 | The Efficacy of Silymarin as Adjuvant Therapy on Colorectal Cancer Patients Undergoing FOLFIRI Treatment | conds: Metastatic Colorectal Cancer | intr: Silymarin
+- NCT06724952 | NOT_YET_RECRUITING | results=False | PHASE4 | Effect of Silymarin in Rheumatoid Arthritis Patients Treated With Methotrexate | conds: Rheumatoid Arthritis (RA) | intr: MTX S.C or IM and Silymarin 140 mg tab, MTX S.C or IM | pubs: ['27648206:RESULT (new)', '3883172:RESULT (new)', '33038868:RESULT (new)', '23492971:RESULT (new)', '19286903:RESULT (new)', '29473041:RESULT (new)', '26729950:RESULT (new)', '25090948:RESULT (new)', '20589684:RESULT (new)', '28367205:RESULT (new)', '22802154:RESULT (new)', '8200971:RESULT (new)', '29736302:RESULT (new)', '22150039:RESULT (new)']
+- NCT05626881 | UNKNOWN | results=False | NA | Efficacy of Intralesional PRP +/- Topical Silymarin in the Treatment of Melasma | conds: Melasma | intr: PRP, sylimarin cream
+- NCT04816682 | COMPLETED | results=False | PHASE4 | Silymarin in COVID-19 Patients Admitted to Hospital With Elevated Liver Enzymes | conds: Covid19, Liver Diseases | intr: Silymarin | pubs: ['32517353:RESULT (new)']
+- NCT01800487 | COMPLETED | results=False | NA | The Efficacy of Silymarin on the Prevention of Hepatotoxicity From Antituberculosis Drugs | conds: Tuberculosis | intr: silymarin, Placebo | pubs: ['26400476:DERIVED (new)']
+- NCT07123922 | ENROLLING_BY_INVITATION | results=False | NA | Effect of Silymarin as Add on Therapy on Oxidative Stress, Pulmonary Function and Quality of Life in Stable COPD Patients. | conds: COPD (Chronic Obstructive Pulmonary Disease) | intr: Silymarin, Placebo
+- NCT04490967 | UNKNOWN | results=False | PHASE4 | Silymarin Cream Versus Salicylic Acid in Treatment of Acne Vulgaris | conds: Acne Vulgaris | intr: Silymarin, Salicylic acid
+- NCT02973295 | WITHDRAWN | results=False | PHASE4 | Silymarin in NAFLD | conds: Non-Alcoholic Fatty Liver Disease | intr: Silymarin, Placebo Oral Capsule
+- NCT01258686 | COMPLETED | results=False | PHASE3 | Clinical Study With Silymarin in the Patients With Chronic Hepatitis C Infection Who Failed Conventional Antiviral Therapy | conds: Hepatitis C | intr: Silymarin, Placebo
+- NCT06801886 | ENROLLING_BY_INVITATION | results=False | PHASE3 | Silymarin's Advantage on Graft Effectiveness | conds: Posttransplant Diabetes Mellitus, Acute Graft Rejection, Biopsy Proven Acute Rejection, Antibody Mediated Rejection of Kidney Transplant | intr: Silymarine supplementation, Placebo Supplementation
+- NCT01511523 | UNKNOWN | results=False | NA | Study to Evaluate the Effect of RGMA001 on Patients With Non Alcoholic Fatty Liver Disease (NAFLD) | conds: Non Alcoholic Fatty Liver Disease | intr: RGMA001, Sugar Pill
+- NCT03659058 | COMPLETED | results=False | NA | Impact of Ursodeoxycholic Acid, Silymarin, Antioxidants and Colchicine on Fibrosis Regression in HCV After SVR | conds: Fibrosis, Liver | intr: silymarin, Ursodeoxycholic Acid, Antioxidants, Colchicine
+- NCT07058090 | NOT_YET_RECRUITING | results=False | PHASE1 | Comparison of the Outcome of Treatment With Silymarin or N-Aceylcysteine in Patients Taking Anti-Tuberculous Drugs for Tuberculosis at a Ter | conds: Drug Induced Liver Injury, Tuberculosis (TB) | intr: Silymarin 420 mg, N Acetyl Cysteine, Rifampicin (RMP) Ethambutol (E) Isoniazid (H) Pyrazinamid (Z) | pubs: ['26400476:RESULT (new)']
+- NCT03749070 | UNKNOWN | results=False | NA | Efficacy of Silymarin in Patients With Non-alcoholic Fatty Liver Disease - The SILIVER Trial | conds: Non-Alcoholic Fatty Liver Disease | intr: Silymarin | pubs: ['36899430:DERIVED (new)']
+- NCT05737030 | COMPLETED | results=False | PHASE4 | Effect of L-ornithine-L-aspertate (LOLA) on the Gut Microbiome | conds: Cirrhosis | intr: L-ornithine L-aspartate | pubs: ['41406626:DERIVED (new)']
+- NCT05793489 | ACTIVE_NOT_RECRUITING | results=False | NA | Prospective Double Arm Randomized Trial: WBRT Alone and WBRT Plus Silibinin | conds: Brain Metastases, Adult | intr: Silibinin
+- NCT03216668 | UNKNOWN | results=False | PHASE3 | TONKA Versus Legalon for Lowering Hepatic Enzymes in Liver Function Disorder Patients. | conds: Liver Function Failure | intr: TONKA, LEGALON
+- NCT01871662 | WITHDRAWN | results=False | PHASE2,PHASE3 | Randomized Study for the Assessment of Silibinin (Legalon® SIL) in the Treatment of naïve Genotype 4 Patients With Chronic Hepatitis C | conds: Hepatitis C, Chronic | intr: Legalon® SIL (Silibinin), Pegylated interferon alfa2b, Ribavirin
+- NCT07572552 | NOT_YET_RECRUITING | results=False | PHASE2 | Clinical Study Evaluating the Efficacy and Safety of Fenofibrates Versus Silymarin in Adult Patients With Sepsis | conds: Sepsis | intr: Fenofibrate, Silymarin
+- NCT01935817 | COMPLETED | results=False | PHASE3 | Silybin - Vitamin E- Phospholipids Complex Reduces Liver Fibrosis in Patients With Chronic Hepatitis C Treated With Peg-IFN-a and RBV | conds: Liver Fibrosis | intr: Silybin 94 mg + vitamin E 90 mg + phospholipids 194 mg complex, Placebo
+- NCT05666765 | UNKNOWN | results=False | PHASE4 | Comparison Between Isotretinoin, Silymarin and Both in the Treatment of Acne Vulgaris | conds: Acne Vulgaris | intr: Isotretinoin ,silymarin
+- NCT04394208 | UNKNOWN | results=False | PHASE3 | Silymarin in COVID-19 Pneumonia | conds: COVID-19, Viral Pneumonia Human Coronavirus | intr: Silymarin, Placebo
+- NCT01957319 | COMPLETED | results=False | PHASE3 | Silybin Supplementation During HCV Therapy With Pegylated Interferon-α2b Plus Ribavirin Reduces Depression and Increases Work Ability | conds: Work Ability, Depression | intr: Silybin 94 mg + vitamin E 90 mg + phospholipids 194 mg, sugar pill | pubs: ['27842532:DERIVED (new)']
+- NCT05849558 | UNKNOWN | results=False | PHASE4 | Study to Compare the Efficacy & Safety of Ursoplus Capsules vs. UDCA vs. Placebo Among Chronic Liver Disease Patients | conds: Chronic Liver Disease | intr: Ursoplus, UDCA 250mg, Placebo
+- NCT05497765 | COMPLETED | results=False | NA | An Intervention Study of Compound Silymarin in Patients With Non-alcoholic Fatty Liver Disease | conds: Nonalcoholic Fatty Liver Disease | intr: Silibinin extract, mixed power of pueraria, schisandra and salvia miltiorrhiza, Silibinin extract, P
+- NCT05099601 | UNKNOWN | results=False | PHASE4 | Silymarin Cream Versus Combined Silymarin Cream and Microneedling in Treatment of Melasma | conds: Melasma | intr: Silymarin, Microneedling
+- NCT07001150 | COMPLETED | results=False | PHASE2 | Role of Silymarin in Neuroprotection and Symptom Management in Parkinson's Disease | conds: Parkinson Disease | intr: levodopa-carbidopa, Silymarin
+- NCT05595109 | UNKNOWN | results=False | PHASE2,PHASE3 | Role of Silymarin in Chemotherapy Toxicity and Cognition Improvement in Breast Cancer Patients | conds: Breast Cancer, Peripheral Neuropathy, Cardiac Toxicities, Hepatic Toxicity | intr: Silymarin, Placebo
+- NCT02878863 | WITHDRAWN | results=False | PHASE3 | Paeoniflorin Combination of Hepatoprotective Drugs Versus Hepatoprotective Drugs Only for Auto-immune Hepatitis | conds: Hepatitis, Autoimmune | intr: Paeoniflorin + phosphatidylcholine or silymarin, Phosphatidylcholine or silymarin
+- NCT07410156 | RECRUITING | results=False | NA | Clinical Evaluation of Microneedling Technique With Topical Application of Silymarin on Gingival Hyperpigmentation in Comparison With Diode  | conds: Gingival Pigmentation, Gingival Hyperpigmentaion | intr: Gingival Depigmentation with Conventional Method, Gingival Depigmentation with Diode Laser, Gingival
+- NCT01752153 | COMPLETED | results=False | PHASE1 | Immunomodulatory Effects of Silymarin in Patients With Beta-Thalassemia Major | conds: Immune Abnormalities | intr: Desferrioxamine, Legalon® (Silymarin), Silymarin (Legalon)
+- NCT07724067 | COMPLETED | results=False | NA | GLUT-F Improves MASLD Liver Function | conds: MASLD (Metabolic Dysfunction-Associated Steatotic Liver Disease) | intr: GLUTatios FOrte, Placebo
+- NCT03538327 | COMPLETED | results=False | PHASE4 | Effects of Silybin in Hypertensive Patients | conds: Hypertension | intr: Silybin
+- NCT02633696 | COMPLETED | results=False | PHASE1 | Study to Investigate the Absolute Bioavailability of Oral Sylibin | conds: Healthy Volunteers | intr: silybin phosphatidylcholine, Legalón SIL
+- NCT00999349 | UNKNOWN | results=False | PHASE2,PHASE3 | Therapeutic Effects of Silymarin in Patients With B-thalassemia Major | conds: Beta-thalassemia Major, Iron Overload | intr: Silymarin (LEGALON), Placebo
+- NCT07863648 | NOT_YET_RECRUITING | results=False | PHASE3 | Vitamin E Versus Silymarin in Non Diabetic MASLD Patients | conds: Metabolic Dysfunction-Associated Steatoic Liver Disease | intr: Vitamin E 800 IU/d, Silymarin 420 mg, Placebo
+- NCT05631041 | UNKNOWN | results=False | PHASE3 | Effect of Silymarin in Metastatic Colorectal Cancer Patients | conds: Metastatic Colorectal Cancer | intr: Silymarin
+- NCT05144217 | COMPLETED | results=False | PHASE2,PHASE3 | Impact of Silymarin Dosages to Decrease Drug-induced Elevated Liver Enzymes Compared to Placebo | conds: Drug-induced Liver Injury | intr: Placebo, 2x 140 mg per day, 3x 280 mg per day, 1x 1120 mg
+- NCT05689619 | RECRUITING | results=False | NA | SILibinin in NSCLC and BC Patients With Single Brain METastasis (SILMET) | conds: Brain Metastases, Adult, Non Small Cell Lung Cancer, Breast Cancer | intr: Silibinin, Placebo
+- NCT05042245 | COMPLETED | results=False | PHASE4 | The Efficacy and Safety of Ornithine Aspartic Acid Granules in NAFLD Against Silymarin Capsules | conds: Non-alcoholic Fatty Liver Disease | intr: Ornithine aspartate granule, Silymarin capsule, Silymarin capsule simulant, Ornithine aspartate gran
+- NCT02347319 | COMPLETED | results=False | PHASE4 | To Evaluate the Efficacy of DDB/Garlic Oil in Patients With Elevated Transaminase Chronic Liver Disease | conds: Chronic Liver Disease | intr: Pennel, Legalon, Placebo
+- NCT07875322 | NOT_YET_RECRUITING | results=False | EARLY_PHASE1 | Silymarin Versus N-Acetylcysteine as Protective Effect Against Anti-tuberculosis Drugs Induced Liver Injury. | conds: Drug-Induced Acute Liver Injury, Tuberculosis (TB) | intr: Antituberculosis drugs Group
+- NCT07293767 | RECRUITING | results=False | NA | Silymarin vs Hesperidin/Diosmin in Fibromyalgia | conds: Fibromyalgia (FM) | intr: Silymarin (LEGALON), Diosmin / Hesperidin (Daflon), no intervention (control group)
+- NCT01091324 | UNKNOWN | results=False | PHASE3 | Dextromethorphan and Silymarin in Chronic Kidney Disease (CKD) Patients | conds: Proteinuria | intr: Dextromethorphan, Silymarin, sugar pill
+- NCT03440164 | COMPLETED | results=False |  | Superior Silybin Bioavailability in Healthy Volunteers | conds: Liver Diseases, Chronic Liver Disease | intr: Sylimarin and Sylibin | pubs: ['30635055:DERIVED (new)']
+- NCT01535092 | TERMINATED | results=False | PHASE2 | Legalon SIL for the Treatment of HCV Recurrence in Liver Transplanted Patients | conds: HCV Recurrence After Liver Transplantation | intr: Silibinin, Placebo
+- NCT05051527 | COMPLETED | results=False |  | Study to Evaluate the Effectiveness of Legalon® | conds: Non-alcoholic Fatty Liver Disease (NAFLD) | intr: Legalon® 140 mg | pubs: ['41993723:DERIVED (new)']
+- NCT00684268 | COMPLETED | results=False | PHASE2 | Intravenous Silibinin in Combination With Peg-interferon and Ribavirin in Nonresponders | conds: Hepatitis C | intr: Silibinin, Silibinin | pubs: ['18771667:RESULT (new)', '20709593:RESULT (new)', '22155914:RESULT (new)']
+- NCT01518933 | TERMINATED | results=False | PHASE2 | Effect of LEGALON SIL on Hepatitis C Virus Recurrence in Stable Liver Transplanted Patients | conds: Hepatitis C Virus Recurrence | intr: Silibinin (Legalon-SIL), Saline | pubs: ['24673819:DERIVED (new)']
+- NCT00389376 | COMPLETED | results=False | PHASE1 | Phase I Trial of Silymarin for Chronic Liver Diseases | conds: Hepatitis C, Non-Alcoholic Fatty Liver Disease | intr: Placebo, Silymarin, Silymarin, Silymarin | pubs: ['21865319:DERIVED (new)']
+- NCT04434404 | COMPLETED | results=False | PHASE4 | Evaluation of the Cardioprotective Effect of L-carnitine and Silymarin in Patients Receiving Anthracycline Chemotherapy | conds: Breast Cancer | intr: L-Carnitine 500Mg Oral Tablet
+- NCT06376110 | UNKNOWN | results=False | NA | Single-Blind Study Assessing the Use of a Topical Antioxidant With A Series of Laser Procedures to Reduce Sebum Production | conds: Acne | intr: Topical Antioxidant Serum, AviClear Laser
+- NCT06114719 | COMPLETED | results=False | PHASE3 | Silymarin for the Prevention of Atrial Fibrillation After Cardiac Surgery | conds: Atrial Fibrillation New Onset | intr: Silymarin
+- NCT01436929 | UNKNOWN | results=False | NA | Effect of Prophylactic Use of Silymarin on Hepatotoxicity Induced by Anti-tuberculosis Drugs | conds: Tuberculosis | intr: Silymarin, Placebo
+- NCT07561892 | RECRUITING | results=False | PHASE4 | Study of the Effectiveness and Safety of Daunorubicin /Idarubicin ± Silibinin in Treating Newly Diagnosed AML (Non-M3). | conds: Acute Myeloid Leukemia, Newly Diagnosed, Chemotherapy Effect | intr: daunomycin/Idarubicin+ Silybinin, daunomycin/Idarubicin
+- NCT00181662 | COMPLETED | results=False | NA | Pharmacokinetics of Curcumin in Healthy Volunteers | conds: Healthy | intr: Curcumin
+- NCT01816490 | COMPLETED | results=False | PHASE2 | THISTLE - The HIV-HCV Silibinin Trial | conds: HIV, Hepatitis C | intr: Intravenous Silibinin (iSIL) | pubs: ['26176696:DERIVED (new)']
+- NCT05523648 | COMPLETED | results=False | EARLY_PHASE1 | Clinical Effects of Ganshuang Combined TDF to Treat CHB and NAFLD | conds: Chronic Hepatitis B, Nonalcoholic Fatty Liver Disease | intr: Chronic Hepatitis B | pubs: ['36588741:DERIVED (new)']
+- NCT02534129 | TERMINATED | results=True | PHASE1,PHASE2 | Topical Use of Difinsa53™ to Prevent Radiation Dermatitis | conds: Radiodermatitis | intr: Difinsa53, Aquaphor
+- NCT04640324 | COMPLETED | results=False | NA | Effect of PNPLA3, TM6SF2 and MBOAT7 Genetic Variants on Non-alcoholic Fatty Liver Disease Therapeutic Outcome. | conds: Non-Alcoholic Fatty Liver Disease, Insulin Resistance | intr: Nutraceutical therapy | pubs: ['34692725:DERIVED (new)']
+- NCT07024966 | RECRUITING | results=False | NA | Effect of the Combination of Pterostilbene Cocrystal With Silybin and Nicotinamide Riboside on Exercise-Induced Oxidative Stress | conds: Oxidative Stress, Physical Activity, Antioxidant Effect | intr: Pterostilbene-silybin-nicotinamide riboside, Control Group
+- NCT02961413 | RECRUITING | results=False |  | A Prospective Cohort Study on Drug-induced Liver Injury in China（DILI-P） | conds: Drug-induced Liver Injury | intr: 
+- NCT07789223 | RECRUITING | results=False | NA | Weight and Metabolic Management Study | conds: Overweight, Obesity, Weight Maintenance | intr: elénzia CONTROL®, Placebo
+- NCT02146118 | UNKNOWN | results=False | PHASE2 | A Phase II Study to Assess Efficacy of Combined Treatment With Erlotinib (Tarceva) and Silybin-phytosome (Siliphos) in Patients With EGFR Mu | conds: Carcinoma, Non-Small-Cell Lung | intr: Erlotinib, Silybin-phytosome
+- NCT00055445 | COMPLETED | results=False | PHASE1,PHASE2 | IdB 1016 Treatment for Hepatitis C Disease | conds: Hepatitis C, Chronic | intr: IdB 1016
+- NCT05886673 | UNKNOWN | results=False | NA | Development of a Protective Cream Against Radiodermatitis Caused by Radiotherapy. | conds: Radiodermatitis | intr: experimental cream, standard of care
+- NCT06187220 | COMPLETED | results=False |  | Plasma Exchange for Amanita Toxin-induced Acute Liver Failure | conds: Acute Liver Failure | intr: Therapeutic Plasma Exchange (PEX) | pubs: ['31348553:RESULT (new)', '37178148:RESULT (new)', '32583446:RESULT (new)', '42954103:DERIVED (new)']
+
+### OpenAlex no-PMID trial-worded - 3478 hits, 24 without PMID, 24 new
+- new | 2025 | 10.1155/ijcp/3985207 | review | The Impact of Silymarin on Inflammation and Oxidative Stress: A Systematic Review and Meta‐Analysis of Randomized Controlled Trials | International Journal of Clinical Practi
+- new | 2025 | 10.34172/biomedrb.9071 | article | The Efficacy of a Combination of Cinnamomum zeylanicum, Tribulus terrestris, Silybum marianum, and Trigonella foenum-graecum as the Treatment of Type II Diabetes Mellitus: A Double | Biomedical Research Bulletin
+- new | 2024 | 10.22541/au.170665649.95208729/v1 | preprint | Effects berberine–silymarin on liver enzymes: A systematic review and meta-analysis of randomized controlled trials | Authorea
+- new | 2024 | 10.1186/s43094-024-00603-7 | review | Efficacy evaluation of Berberis aristata and Silybum marianum fixed dose combination on glycaemic and insulin resistance parameters in adult population: a systematic review and met | Future Journal of Pharmaceutical Science
+- new | 2023 | 10.2174/1574885518666230710122712 | article | Silymarin Improves Thyroid Function in Lithium-treated Bipolar Patients: A Randomized, Double-blind, Placebo-controlled Pilot Study | Current Drug Therapy
+- new | 2023 | https://openalex.org/W7119262693 | article | Novel nutraceutical supplements with yeast β-glucan, prebiotics, minerals, and Silybum marianum (silymarin) ameliorate obesity-related metabolic and clinical parameters: a double-b | LA Referencia (Red Federada de Repositor
+- new | 2022 | 10.1590/s2175-97902022e18825 | article | Efficacy of an herbal compound in decreasing steatosis and transaminase activities in non-alcoholic fatty liver disease: A randomized clinical trial | Brazilian Journal of Pharmaceutical Scie
+- new | 2022 | 10.6084/m9.figshare.20307047 | dataset | Efficacy of an herbal compound in decreasing steatosis and transaminase activities in non-alcoholic fatty liver disease: A randomized clinical trial | Figshare
+- new | 2021 | 10.29328/journal.acgh.1001028 | article | AsdamarinTM relieves functional dyspepsia in healthy adults in only 7 days: A randomized, double-blind, placebo-controlled pilot study | Annals of Clinical Gastroenterology and 
+- new | 2021 | 10.1016/b978-0-12-819547-5.00043-2 | book-chapter | Silybum marianum, antioxidant activity, and cancer patients | Elsevier eBooks
+- new | 2020 | 10.34172/ipp.2021.16 | article | New therapy for chemotherapy-induced hepatic failure in leukemia; a randomized double-blind clinical trial study | Immunopathologia Persa
+- new | 2019 | https://openalex.org/W3211526626 | review | Clinical effect of Silybum marianum preparation in the prophylactic treatment of antitubercular agent-induced liver injury: A Meta-analysis of randomized controlled trials | Linchuang gandanbing zazhi
+- new | 2018 | 10.1093/annonc/mdy426.004 | article | Topical silymarin administration for prevention of radiodermatitis in breast cancer patients: A randomized, double-blind, placebo-controlled clinical trial | Annals of Oncology
+- new | 2015 | 10.1007/s13749-015-0052-7 | article | Metabolic effects of the association Berberis aristata/Silybum marianum: a preliminary double-blind, placebo-controlled study in obese patients with type 2 diabetes | Nutrafoods
+- new | 2014 | 10.4172/2332-0877.1000168 | article | Effects of Silymarin on Treatment Naïve Patients with Chronic Hepatitis B Infection-A Randomized Controlled Trial | Journal of Infectious Diseases and Thera
+- new | 2013 | 10.17334/jps.19078 | article | The efficacy of silymarin in the treatment of physiological neonatal jaundice: A randomized, double-blind, placebo-controlled, clinical trial | Journal of Pediatric Sciences
+- new | 2013 | 10.3760/cma.j.issn.1007-8118.2013.01.007 | article | Protective effect of bicyclol on liver function in patients after liver resection: a randomized control trial | Zhonghua gan-dan waike zazhi
+- new | 2013 | 10.2217/clp.13.26 | article | Phytotherapy for diabetic dyslipidemia: evidence from clinical trials | Clinical Lipidology
+- new | 2012 | 10.7123/01.epj.0000421667.70605.8a | article | The efficacy of Silybum marianum (L.) Gaertn. (Silymarin) in the treatment of physiological neonatal jaundice ( a randomized, double-blind, placebo-controlled, clinical trial) | Egyptian Pharmaceutical Journal
+- new | 2012 | 10.3410/f.717953172.793458744 | peer-review | Faculty Opinions recommendation of Effect of silymarin (milk thistle) on liver disease in patients with chronic hepatitis C unsuccessfully treated with interferon therapy: a random | Faculty Opinions – Post-Publication Peer
+- new | 2004 | https://openalex.org/W2298787386 | article | THE CLINICAL TRIAL OF SILYBUM MARIANUM SEED EXTRACT (SILYMARIN)ON TYPE II DIABETIC PATIENTS WITH HYPERLIPIDEMIA. | Journal of Diabetes & Metabolic Disorder
+- new | 2004 | https://openalex.org/W150760607 | article | THE CLINICAL TRIAL OF SILYBUM MARIANUM SEED EXTRACT (SILYMARIN) | مجله دیابت و متابولیسم ایران
+- new | 2003 | https://openalex.org/W2262287915 | article | CULTIVATION TRIALS OF MILK THISTLE (SILYBUM MARIANUM GAERTN.) INTO THE SEMIARID MEDITERRANEAN ENVIRONMENT | 
+- new | 2001 | 10.17221/6585-cjfs | article | Extract from Silybum marianum as a nutraceutical: a double-blind placebo-controlled study in healthy young men | Czech Journal of Food Sciences

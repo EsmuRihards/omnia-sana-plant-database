@@ -78,7 +78,53 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-1508
+  - REF-5662
+  - REF-5659
   status: needs-review
+- note: 'Liver: a 70-year-old man developed biopsy-confirmed cholestatic drug-induced liver injury after
+    about four months of saw palmetto, which improved after stopping it (case report), and FDA adverse-event
+    reports show a disproportionate number of liver and bile-duct problems with saw palmetto (pharmacovigilance
+    study).'
+  severity: caution
+  reference_ids:
+  - REF-5658
+  - REF-5659
+  status: verified
+- note: 'Sexual and mental health: an Italian case series described persistent sexual, psychiatric and
+    physical symptoms after saw palmetto, resembling post-finasteride syndrome, lasting years in most
+    people; causality was rated probable in 54% (case series).'
+  severity: caution
+  reference_ids:
+  - REF-5660
+  status: verified
+- note: 'Rare serious reactions: acute pancreatitis (case report, possibly due to saw palmetto) and rhabdomyolysis
+    with kidney failure in an 82-year-old taking several health foods, in whom a lymphocyte test pointed
+    to saw palmetto (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5663
+  - REF-5664
+  status: verified
+- note: 'Children: a 10-year-old girl taking a saw palmetto supplement for excess hair developed hot flushes
+    that stopped when it was stopped and returned on re-challenge, and reached menarche about 4 months
+    later; the authors suggest hormonal effects (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5665
+  status: verified
+- note: 'Reporting data: in 1,810 worldwide reports of suspected reactions to saw palmetto products, 44%
+    were serious; serious reactions were more likely with dietary supplements, with several products taken
+    together and with use for more than 14 days (pharmacovigilance study).'
+  severity: info
+  reference_ids:
+  - REF-5661
+  status: verified
+- note: 'Liver enzymes: in 12 healthy volunteers, saw palmetto 320 mg daily for 14 days did not change
+    the activity of the drug-metabolising enzymes CYP2D6 or CYP3A4 (pharmacokinetic study).'
+  severity: info
+  reference_ids:
+  - REF-5666
+  status: verified
 references:
 - REF-0571
 - REF-0572
@@ -98,6 +144,8 @@ drug_class_interactions:
     may add to bleeding risk, so stop it before surgery.
   reference_ids:
   - REF-2458
+  - REF-5659
+  - REF-5662
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
@@ -136,7 +184,21 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane system
   no-effect. Lycopene/selenium combination review REF-1893 removed. Three Japanese placebo RCTs on
   mild urinary symptoms added to urinary-support. Gap: hair-loss RCTs (no hair-loss condition in
   the vocabulary).
-  | 2026-11-19 (monograph-source audit): preparations[0] (''the most-studied commercial form, e.g. Permixon'') cited REF-0571/REF-0572, Permixon meta-analyses that support the form but not ''most-studied''. Rewritten to what they report (320 mg/day, 12 RCTs, less nocturia, better flow) plus WHO Fructus Serenoae Repentis vol. 2 (REF-3991, new).'
+  | 2026-11-19 (monograph-source audit): preparations[0] (''the most-studied commercial form, e.g. Permixon'') cited REF-0571/REF-0572, Permixon meta-analyses that support the form but not ''most-studied''. Rewritten to what they report (320 mg/day, 12 RCTs, less nocturia, better flow) plus WHO Fructus Serenoae Repentis vol. 2 (REF-3991, new).
+  | 2026-11-27: symptom-source audit research-deepening batch 31 - Searched PubMed (Serenoa repens
+  / saw palmetto / Sabal serrulata / Permixon / lipidosterolic extract tiab: 257 HT (listing
+  capped at 200), 52 SR, 222 SAFE hits), Europe PMC, ClinicalTrials.gov (7) and OpenAlex.
+  Prostate-support (9) and urinary-support (10) were not changed: the record already cites the
+  null 2023 Cochrane review and large US trials as no-effect studies (owner flag: the computed
+  score does not fall when null results are recorded). Added: liver (2026 DILI case + 2027 FAERS
+  analysis), post-Serenoa syndrome, rare pancreatitis/rhabdomyolysis and paediatric endocrine
+  cautions; worldwide pharmacovigilance info note; 2003 CYP2D6/CYP3A4 volunteer study (no change;
+  found via Europe PMC) as an info note; the 2020 post-surgical haematoma case and FAERS
+  haemorrhage-with-aspirin signal to the bleeding caution and the approved anticoagulants
+  interaction. Not added: chronic prostatitis/CPPS meta-analysis letter, hair-loss network
+  meta-analysis (no vocabulary condition), male infertility review (combination with selenium and
+  lycopene), fixed drug eruption letter, supplement-psychosis case (multi-ingredient), older
+  Cochrane versions (superseded by 2023).'
 botanical_description:
   text: Low, clump-forming fan-palm shrub (Arecaceae), usually with a creeping or short, often prostrate
     trunk. Leaves are fan-shaped (palmate) on long, spiny-edged stalks. Small, creamy-white flowers are

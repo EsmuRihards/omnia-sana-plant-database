@@ -56420,7 +56420,8 @@
      "reference_ids": [
       "REF-0506",
       "REF-0505",
-      "REF-0583"
+      "REF-0583",
+      "REF-5657"
      ],
      "status": "verified"
     },
@@ -57216,9 +57217,61 @@
      "note": "Has mild anti-androgen and antiplatelet effects, so use caution with anticoagulant medicines and before surgery; avoid in pregnancy (hormonal activity).",
      "severity": "caution",
      "reference_ids": [
-      "REF-1508"
+      "REF-1508",
+      "REF-5662",
+      "REF-5659"
      ],
      "status": "needs-review"
+    },
+    {
+     "note": "Liver: a 70-year-old man developed biopsy-confirmed cholestatic drug-induced liver injury after about four months of saw palmetto, which improved after stopping it (case report), and FDA adverse-event reports show a disproportionate number of liver and bile-duct problems with saw palmetto (pharmacovigilance study).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5658",
+      "REF-5659"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Sexual and mental health: an Italian case series described persistent sexual, psychiatric and physical symptoms after saw palmetto, resembling post-finasteride syndrome, lasting years in most people; causality was rated probable in 54% (case series).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5660"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Rare serious reactions: acute pancreatitis (case report, possibly due to saw palmetto) and rhabdomyolysis with kidney failure in an 82-year-old taking several health foods, in whom a lymphocyte test pointed to saw palmetto (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5663",
+      "REF-5664"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Children: a 10-year-old girl taking a saw palmetto supplement for excess hair developed hot flushes that stopped when it was stopped and returned on re-challenge, and reached menarche about 4 months later; the authors suggest hormonal effects (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5665"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Reporting data: in 1,810 worldwide reports of suspected reactions to saw palmetto products, 44% were serious; serious reactions were more likely with dietary supplements, with several products taken together and with use for more than 14 days (pharmacovigilance study).",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5661"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Liver enzymes: in 12 healthy volunteers, saw palmetto 320 mg daily for 14 days did not change the activity of the drug-metabolising enzymes CYP2D6 or CYP3A4 (pharmacokinetic study).",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5666"
+     ],
+     "status": "verified"
     }
    ],
    "references": [
@@ -57239,7 +57292,9 @@
      "severity": "caution",
      "mechanism": "Saw palmetto has been linked to prolonged bleeding time, and a case of severe intraoperative haemorrhage was reported in a patient taking it; combining it with anticoagulant or antiplatelet drugs may add to bleeding risk, so stop it before surgery.",
      "reference_ids": [
-      "REF-2458"
+      "REF-2458",
+      "REF-5659",
+      "REF-5662"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
@@ -57636,6 +57691,17 @@
      "status": "verified",
      "evidence": 5,
      "label": "Skin irritation"
+    },
+    {
+     "condition": "high-cholesterol",
+     "note": "In a 2024 dose-response meta-analysis of 33 controlled trials (1,943 people), silymarin from milk thistle lowered total cholesterol, LDL cholesterol and triglycerides; an earlier 2019 meta-analysis found the cholesterol fall mainly when silymarin was combined with other treatments (compound evidence)",
+     "reference_ids": [
+      "REF-5655",
+      "REF-5656"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "High cholesterol"
     }
    ],
    "contraindications": [

@@ -59119,7 +59119,6 @@
       "REF-3787"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [],
      "evidence": 2,
      "label": "Inflammation (general)"
     },
@@ -59155,6 +59154,14 @@
       "REF-0048",
       "REF-0245",
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Skin: a gardener with 13 years of recurrent erythema multiforme after weeding had eczema-like patch-test reactions to fresh chickweed leaves (and to dandelion, sow thistle and white clover), worsened by light (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5667"
      ],
      "status": "verified"
     }
@@ -59524,6 +59531,22 @@
       "REF-0246",
       "REF-0281",
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Foraging: a 55-year-old woman died of heart-rhythm failure after drinking tea made from foxglove leaves she had mistaken for comfrey, despite antidote treatment (case report); see the foxglove lookalike entry for how to tell them apart.",
+     "severity": "warning",
+     "reference_ids": [
+      "REF-5668"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Skin absorption: in lab tests on human skin, only 0.04-0.22% of lycopsamine, a main pyrrolizidine alkaloid of comfrey, passed through the epidermis from a comfrey ointment within 24 hours (lab study); internal use remains unsafe.",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5669"
      ],
      "status": "verified"
     }

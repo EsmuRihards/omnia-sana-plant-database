@@ -73,3 +73,4 @@ rebased onto `osdb/main` before each push, because another session edits the mai
 | 29 | blackberry, raspberry leaf, sorrel, butcher's broom, white willow | REF-5636..5643 (8) | 1,519 -> 1,519 | `batches/r29_report.md` |
 | 30 | chia, sage, rosemary, elder, soapwort | REF-5644..5654 (11) | 1,519 -> 1,522 | `batches/r30_report.md` |
 | 31 | schisandra, figwort, American skullcap, saw palmetto, milk thistle | REF-5655..5666 (12) | 1,522 -> 1,523 | `batches/r31_report.md` |
+| 32 | Canadian goldenrod, European goldenrod, wood betony, chickweed, comfrey | REF-5667..5669 (3) | 1,523 -> 1,523 | `batches/r32_report.md` |

@@ -171,7 +171,6 @@ indications:
   - REF-0906
   - REF-3787
   status: needs-review
-  mechanistic_exclude_ids: []
 - condition: skin-irritation
   note: Traditionally applied to itching, redness and skin complaints as an ointment or wash (Grieve,
     A Modern Herbal)
@@ -205,6 +204,13 @@ contraindications:
   - REF-0048
   - REF-0245
   - REF-0063
+  status: verified
+- note: 'Skin: a gardener with 13 years of recurrent erythema multiforme after weeding had eczema-like
+    patch-test reactions to fresh chickweed leaves (and to dandelion, sow thistle and white clover), worsened
+    by light (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5667
   status: verified
 references:
 - REF-0900
@@ -308,4 +314,10 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): generic Grieve REF-0098
   removed (Grieve''s Chickweed entry REF-3787 is already on the plant); REF-3787 added to the
   emollient action (demulcent, cooling ointment) and the poultice/salve preparation (fresh-leaf
-  poultice for inflammation; ointment boiled in lard for sores and skin complaints).'
+  poultice for inflammation; ointment boiled in lard for sores and skin complaints).
+  | 2026-11-27: symptom-source audit research-deepening batch 32 - Searched PubMed (Stellaria
+  media / common chickweed tiab, "chickweed" in titles; mouse-ear chickweed, Cerastium, is a
+  different plant: 1 HT, 0 SR, 6 SAFE hits), Europe PMC, ClinicalTrials.gov (0) and OpenAlex.
+  Added: 2003 erythema multiforme / contact allergy case as a skin caution. Not added: a 2012
+  anti-obesity study (animal), heavy-metal surveys of wild greens, sesquiterpene-lactone patch
+  testing (Asteraceae, not chickweed). No human efficacy trial found. Settled.'

@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 4441,
+ "count": 4444,
  "citations": [
   {
    "ref_id": "REF-5100",
@@ -74570,6 +74570,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5668",
+   "key": "wu2017foxglovecomfreyfatal",
+   "type": "article",
+   "title": "Fatal cardiac glycoside poisoning due to mistaking foxglove for comfrey",
+   "authors": "Wu, I.L., Yu, J.H., Lin, C.C., Seak, C.J., Olson, K.R. and Chen, H.Y.",
+   "journal": "Clinical Toxicology",
+   "year": "2017",
+   "doi": "10.1080/15563650.2017.1317350",
+   "url": "",
+   "link": "https://doi.org/10.1080/15563650.2017.1317350",
+   "link_type": "doi",
+   "citation": "Wu, I.L., Yu, J.H., Lin, C.C., Seak, C.J., Olson, K.R. and Chen, H.Y (2017) 'Fatal cardiac glycoside poisoning due to mistaking foxglove for comfrey', Clinical Toxicology, 55(7), pp. 670--673. doi:10.1080/15563650.2017.1317350",
+   "abstract": "CONTEXT: Accidental ingestion of foxglove (Digitalis purpurea) can cause significant cardiac toxicity. We report a patient who ingested foxglove mistaking it for comfrey and developed refractory ventricular arrhythmias. The patient died despite treatment with digoxin-specific antibody fragments (DSFab) and veno-arterial extracorporeal membrane oxygenation (VA-ECMO). CASE DETAILS: A 55-year-old woman presented to the emergency department with nausea, vomiting and generalized weakness eight hours after drinking \"comfrey\" tea. She had bradycardia (54 beats/min) and hyperkalemia (7.6 mEq/L). Electrocardiogram revealed a first-degree atrioventricular conduction block with premature atrial contractions, followed by polymorphic ventricular tachycardia three hours after arrival. A serum digoxin level was 151.2 ng/mL. The patient developed ventricular fibrillation while waiting for Digibind infusion. Resuscitation was performed and an emergent VA-ECMO was set up. A total of eight vials of Digibind were given over the next 16 hours. She temporarily regained consciousness, but remained hemodynamically unstable and subsequently developed lower limb ischemia and multiple organ failure, and she expired on hospital day seven. A botanist confirmed that the plant was foxglove. CONCLUSIONS: The diagnosis of cardiac glycoside plant poisoning can be difficult in the absence of an accurate exposure history. In facilities where DSFab is unavailable or insufficient, early VA-ECMO might be considered in severely cardiotoxic patients unresponsive to conventional therapy.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Fatal cardiac glycoside poisoning due to mistaking foxglove for comfrey",
+   "plants": [
+    "Comfrey",
+    "Common Comfrey",
+    "boneset",
+    "bruisewort",
+    "knitbone"
+   ],
+   "scientific": [
+    "Symphytum officinale"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1646",
    "key": "crescente2017fennel",
    "type": "article",
@@ -75515,6 +75547,38 @@
     "Immunomodulator / immune support",
     "Neuroprotective / cognition support"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-5669",
+   "key": "jedlinszki2017comfreylycopsamineskin",
+   "type": "article",
+   "title": "Penetration of lycopsamine from a comfrey ointment through human epidermis",
+   "authors": "Jedlinszki, N., Balázs, B., Csányi, E. and Csupor, D.",
+   "journal": "Regulatory Toxicology and Pharmacology",
+   "year": "2017",
+   "doi": "10.1016/j.yrtph.2016.11.015",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.yrtph.2016.11.015",
+   "link_type": "doi",
+   "citation": "Jedlinszki, N., Balázs, B., Csányi, E. and Csupor, D (2017) 'Penetration of lycopsamine from a comfrey ointment through human epidermis', Regulatory Toxicology and Pharmacology, 83, pp. 1--4. doi:10.1016/j.yrtph.2016.11.015",
+   "abstract": "Mutagenic and teratogenic pyrrolizidine alkaloids (PAs) have been identified in several plant species. The industrially most important PA-containing plant is Symphytum officinale (common comfrey). The application of its root is restricted in several countries due to its PA content. In medicines, the daily alkaloid quantity and duration of treatment may be limited even in case of topical application. Due to the confirmed good absorption of PAs from the gastrointestinal tract, the prohibition of oral use is justified, however the limitation of external application is not supported by relevant data. Penetration experiments on human skin are not available to be a rational basis for limitation. The aim of our work was to carry out pharmacokinetic studies on the diffusion and penetration of lycopsamine (a main PA of comfrey) from a Symphytum product through a synthetic membrane and human skin. Investigations were carried out on vertical Franz diffusion cell and lycopsamine was quantified by a validated LC-MS method. The amount of lycopsamine diffused through a synthetic membrane varied between 0.11% and 0.72% (within 24 h). On human epidermis, the rate of penetration was lower (0.04-0.22%). Our results may contribute to the more realistic toxicological assessment of externally applied PA-containing products.",
+   "tier": "preclinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Penetration of lycopsamine from a comfrey ointment through human epidermis",
+   "plants": [
+    "Comfrey",
+    "Common Comfrey",
+    "boneset",
+    "bruisewort",
+    "knitbone"
+   ],
+   "scientific": [
+    "Symphytum officinale"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -120038,6 +120102,37 @@
    "conditions": [
     "Asthma"
    ]
+  },
+  {
+   "ref_id": "REF-5667",
+   "key": "jovanovic2003chickweederythemamultiforme",
+   "type": "article",
+   "title": "Erythema multiforme due to contact with weeds: a recurrence after patch testing",
+   "authors": "Jovanović, M., Mimica-Dukić, N., Poljacki, M. and Boza, P.",
+   "journal": "Contact Dermatitis",
+   "year": "2003",
+   "doi": "10.1034/j.1600-0536.2003.480104.x",
+   "url": "",
+   "link": "https://doi.org/10.1034/j.1600-0536.2003.480104.x",
+   "link_type": "doi",
+   "citation": "Jovanović, M., Mimica-Dukić, N., Poljacki, M. and Boza, P (2003) 'Erythema multiforme due to contact with weeds: a recurrence after patch testing', Contact Dermatitis, 48(1), pp. 17--25. doi:10.1034/j.1600-0536.2003.480104.x",
+   "abstract": "Erythema multiforme (EM) as a complication of patch testing (PT) is rare. A 52-year-old woman with a 13-year history of episodes of EM, after contact with weeds during home gardening, had had no recent history of herpes simplex, other infection, drug ingestion or vaccination. On examination, EM lesions were distributed on the exposed skin. 5 weeks after complete resolution, PT and photopatch testing (PPT) were done with fresh plants she brought in. She was PT with a standard series and the Hermal-Trolab plants, woods, tars, balsams and flavors series. Intradermal testing, with a 3 + reaction to mixed weed pollens, was done 3 weeks later. Specific IgE to weed pollens class 1 (CAP-Pharmacia) was detected. Eczematous PT reactions were obtained with fresh leaves: common chickweed (Stellaria media Caryophyllaceae), dandelion (Taraxacum officinale Compositae), field-milk thistle (Sonchus arvensis Compositae) and white clover (Trifolium repens Leguminosae). Photoaggravation was seen to common chickweed and dandelion. Positive PT was also seen with alantolactone. By the 4-day reading, a typical EM had commenced, coming up to quite the same extent as seen on admission. There was no photosensitivity (UV skin tester, K. Waldmann). In the essential oil obtained from common chickweed, thin layer chromatography (TLC) revealed the well-known contact allergens borneol, menthol, linalool, 1,8-cineole, and other terpenes such as epoxy-dehydro-caryophyllene, monoterpene alcohol-ester and caryophyllene. Up to now, no data on essential oil in Stellaria media (common chickweed) have been reported. It can be concluded that EM developed due to contact with weeds, and recurred after patch testing. Neither blistering nor eczematous lesions have been seen on her skin, making this case very unusual. As far as the world literature is concerned, this is only the 4th report of EM developing in association with patch testing.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Erythema multiforme due to contact with weeds: a recurrence after patch testing",
+   "plants": [
+    "Chickweed",
+    "Common chickweed",
+    "chickenwort",
+    "starweed"
+   ],
+   "scientific": [
+    "Stellaria media"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1458",

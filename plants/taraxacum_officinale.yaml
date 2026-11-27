@@ -390,7 +390,9 @@ indications:
   - REF-2968
 - condition: urinary-support
   note: Traditional diuretic for kidney gravel and stones (Grieve, A Modern Herbal; Herbal Reality); a
-    leaf extract raised urine frequency in a small pilot study in people
+    leaf extract raised urine frequency in a small pilot study, but in a 2026 open-label crossover in
+    14 active young adults, about 2 g of dandelion root powder with 1 L of water did not increase urine
+    output more than water alone
   reference_ids:
   - REF-0321
   - REF-0326
@@ -399,6 +401,7 @@ indications:
   status: needs-review
   null_result_ids:
   - REF-2968
+  - REF-5678
 - condition: uti
   note: Dandelion extract was active against urinary-tract bacteria in the lab (preclinical)
   reference_ids:
@@ -533,4 +536,12 @@ internal_notes: 'Worked example. Curated from the omniasana.bio Materia Medica p
   Grieve REF-3812 added (liver, gravel, dropsy, dyspepsia, appetite, constipation, eczema).
   Genus-level review REF-0333 removed from pairs and actions; wounds dropped. Diuretic screen
   REF-2968 (no increase in urine volume) moved from the diuretic action to no-effect. REF-0321
-  retagged clinical (single-arm pilot, not an RCT).'
+  retagged clinical (single-arm pilot, not an RCT).
+  | 2026-11-27: symptom-source audit research-deepening batch 33 - Searched PubMed (Taraxacum
+  officinale / dandelion / Taraxaci radix or herba tiab: 44 HT, 6 SR, 183 SAFE hits), Europe PMC,
+  ClinicalTrials.gov (7) and OpenAlex. Added: 2026 dandelion-root diuresis crossover as a NULL
+  result on urinary-support. Not added: dandelion + borneol after jaw surgery, D-mannose-based and
+  other multi-ingredient supplements, BNO 1030, ayurvedic and plant-based liver nutraceuticals
+  (combinations), breast-milk microbiome mastitis study (surrogate), 2017 dandelion allergen paper
+  (no abstract), allergen-sensitization surveys (pollen), Taraxacum kok-saghyz rubber studies
+  (other species), lab and animal studies.'

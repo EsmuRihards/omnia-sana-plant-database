@@ -208,6 +208,14 @@ indications:
   - REF-3793
   - REF-3794
   status: verified
+- condition: blood-sugar
+  note: In a 2022 meta-analysis of 12 randomized trials in type 2 diabetes, long-term cocoa products lowered
+    blood glucose (by about 9 mg/dL); a 2026 meta-analysis of 13 RCTs in metabolic syndrome and related
+    conditions also suggested lower glycaemic measures
+  reference_ids:
+  - REF-5670
+  - REF-5671
+  status: verified
 contraindications:
 - note: '• Stimulant effect (most common issue): cacao naturally contains theobromine (and some caffeine).
     In larger amounts it can feel like a “gentle coffee”: faster heartbeat, restlessness, trouble sleeping.
@@ -238,6 +246,27 @@ contraindications:
   - REF-0131
   - REF-0249
   - REF-0063
+  status: verified
+- note: 'Allergy: a person with tree-nut allergy had anaphylaxis after eating a piece of chocolate; skin
+    tests showed cocoa sensitization with cross-reactivity to tree nuts (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5673
+  status: verified
+- note: 'Migraine: about 14% of people with migraine report chocolate as a trigger (meta-analysis of self-report
+    studies); effects vary between individuals, so a headache diary is more useful than routine avoidance.'
+  severity: info
+  reference_ids:
+  - REF-5672
+  status: verified
+- note: 'Heavy metals: in 155 chocolates on the US market, cadmium and lead were higher in dark chocolate
+    (50% cacao or more), and highest in cacao from Central and South America; in 155 Serbian chocolates,
+    weekly cadmium intake stayed below the tolerable limit but reached about 60% of it for children (product
+    analyses).'
+  severity: info
+  reference_ids:
+  - REF-5674
+  - REF-5675
   status: verified
 references:
 - REF-1084
@@ -275,4 +304,19 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   COSMOS REF-1085 (primary endpoint null) moved to no-effect. Cochrane BP review REF-3793 added.
   New pair (owner rule): high-blood-pressure (Cochrane + 2026 MA). Chocolate-cognition MA REF-3795
   added. REF-0131 retagged narrative-review.
-  | 2026-11-19 (monograph-source audit): botanical_description, habitat, harvesting, traditional_uses, preparations[2] and constituents[1] cited REF-1084 (health-effects systematic review); preparations[3], dosage[0] and constituents[1] REF-1085 (COSMOS RCT). RE-SOURCED: Useful Tropical Plants (REF-3973, new) and Wikipedia (REF-3974, new) for the tree, range, curing and history; REF-0131 and REF-1090 for flavanols and dark chocolate; REF-1085 kept for what COSMOS reports (500 mg flavanols/day, primary endpoint not significant, CVD death -27%). Dropped as unsupported: 4-8 m, glossy leaves, pink-white flowers, red-purple pods, root system, year-round flowering and harvest, within 20 degrees of the equator, West Africa and Southeast Asia named, stimulant tonic, neuroprotective benefits, minimally processed, more flavanols than milk chocolate, capsule, the pregnancy and heart-rhythm caution (no source read states it).'
+  | 2026-11-19 (monograph-source audit): botanical_description, habitat, harvesting, traditional_uses, preparations[2] and constituents[1] cited REF-1084 (health-effects systematic review); preparations[3], dosage[0] and constituents[1] REF-1085 (COSMOS RCT). RE-SOURCED: Useful Tropical Plants (REF-3973, new) and Wikipedia (REF-3974, new) for the tree, range, curing and history; REF-0131 and REF-1090 for flavanols and dark chocolate; REF-1085 kept for what COSMOS reports (500 mg flavanols/day, primary endpoint not significant, CVD death -27%). Dropped as unsupported: 4-8 m, glossy leaves, pink-white flowers, red-purple pods, root system, year-round flowering and harvest, within 20 degrees of the equator, West Africa and Southeast Asia named, stimulant tonic, neuroprotective benefits, minimally processed, more flavanols than milk chocolate, capsule, the pregnancy and heart-rhythm caution (no source read states it).
+  | 2026-11-27: symptom-source audit research-deepening batch 33 - Searched PubMed (Theobroma
+  cacao / cocoa flavanol(s) / cocoa extract or powder / cacao tiab, "cocoa" and "chocolate" in
+  titles: 751 HT (listing capped at 200), 120 SR, 433 SAFE hits), Europe PMC, ClinicalTrials.gov
+  (122) and OpenAlex. High-blood-pressure (8), cardiovascular-support, cognitive-function and
+  memory (7) were not padded. Added: NEW blood-sugar pair (2022 T2D and 2026 metabolic-syndrome
+  meta-analyses); allergy caution; migraine-trigger and heavy-metal info notes. GAPS:
+  high-cholesterol - the 2022 T2D meta-analysis found lower LDL, but a 2025 dose-response
+  meta-analysis in T2D found only triglycerides changed (low certainty) and the 2026
+  metabolic-syndrome meta-analysis found cholesterol lower only in subgroups, so no pair;
+  depression/anxiety - a 2022 meta-analysis of 9 studies found lower depressive and anxiety
+  scores, but 5 were single-dose and only 2 lasted over a week, mostly in healthy people (owner
+  flag), so no pair. Not added: observational chocolate-and-disease cohort meta-analyses,
+  oxidative-stress, CRP, flow-mediated dilation and arterial-stiffness meta-analyses (surrogates),
+  sport performance, chocolate milk recovery, Mexican-ancestral-foods meta-analysis
+  (combinations), COCOA birth-cohort studies (acronym, not cocoa).'

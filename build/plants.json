@@ -60245,7 +60245,8 @@
      "note": "As a member of the daisy family (Asteraceae), it can cause allergic reactions in people sensitive to ragweed and related plants. Chewing fresh leaves commonly causes mouth ulcers and oral soreness.",
      "severity": "info",
      "reference_ids": [
-      "REF-0450"
+      "REF-0450",
+      "REF-5677"
      ],
      "status": "verified"
     },
@@ -60254,6 +60255,14 @@
      "severity": "caution",
      "reference_ids": [
       "REF-0450"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Bleeding: a 36-year-old woman who had taken feverfew 800 mg three times daily for 9 months for migraine developed vaginal bleeding, longer periods and abnormal clotting tests; causality was rated probable (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5676"
      ],
      "status": "verified"
     }
@@ -60274,7 +60283,8 @@
      "severity": "caution",
      "mechanism": "Feverfew and its component parthenolide inhibit platelet aggregation and serotonin release, so combining it with anticoagulant or antiplatelet drugs may increase bleeding risk.",
      "reference_ids": [
-      "REF-2444"
+      "REF-2444",
+      "REF-5676"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
@@ -61173,7 +61183,7 @@
     },
     {
      "condition": "urinary-support",
-     "note": "Traditional diuretic for kidney gravel and stones (Grieve, A Modern Herbal; Herbal Reality); a leaf extract raised urine frequency in a small pilot study in people",
+     "note": "Traditional diuretic for kidney gravel and stones (Grieve, A Modern Herbal; Herbal Reality); a leaf extract raised urine frequency in a small pilot study, but in a 2026 open-label crossover in 14 active young adults, about 2 g of dandelion root powder with 1 L of water did not increase urine output more than water alone",
      "reference_ids": [
       "REF-0321",
       "REF-0326",
@@ -61182,7 +61192,8 @@
      ],
      "status": "needs-review",
      "null_result_ids": [
-      "REF-2968"
+      "REF-2968",
+      "REF-5678"
      ],
      "evidence": 3,
      "label": "Urinary support"
@@ -61584,6 +61595,17 @@
      "status": "verified",
      "evidence": 8,
      "label": "High blood pressure"
+    },
+    {
+     "condition": "blood-sugar",
+     "note": "In a 2022 meta-analysis of 12 randomized trials in type 2 diabetes, long-term cocoa products lowered blood glucose (by about 9 mg/dL); a 2026 meta-analysis of 13 RCTs in metabolic syndrome and related conditions also suggested lower glycaemic measures",
+     "reference_ids": [
+      "REF-5670",
+      "REF-5671"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "Blood sugar / diabetes support"
     }
    ],
    "contraindications": [
@@ -61603,6 +61625,31 @@
       "REF-0131",
       "REF-0249",
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Allergy: a person with tree-nut allergy had anaphylaxis after eating a piece of chocolate; skin tests showed cocoa sensitization with cross-reactivity to tree nuts (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5673"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Migraine: about 14% of people with migraine report chocolate as a trigger (meta-analysis of self-report studies); effects vary between individuals, so a headache diary is more useful than routine avoidance.",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5672"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Heavy metals: in 155 chocolates on the US market, cadmium and lead were higher in dark chocolate (50% cacao or more), and highest in cacao from Central and South America; in 155 Serbian chocolates, weekly cadmium intake stayed below the tolerable limit but reached about 60% of it for children (product analyses).",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5674",
+      "REF-5675"
      ],
      "status": "verified"
     }

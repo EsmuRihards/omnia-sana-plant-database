@@ -1,0 +1,1755 @@
+# Research-deepening batch 33 - search
+
+## syzygium-aromaticum (Syzygium aromaticum) - name clause: "Syzygium aromaticum"[tiab] OR "Eugenia caryophyllata"[tiab] OR "Eugenia aromatica"[tiab] OR "clove oil"[tiab] OR "clove bud"[tiab] OR "clove buds"[tiab] OR "clove extract"[tiab] OR "clove gel"[tiab] OR "clove"[ti] OR "cloves"[ti]
+
+### PubMed HT - 71 hits, 71 not already listed above, 70 new
+- new | 2026 | 41849068 |  | Transvenous biopsy of body cistyc lesions in a 32-year-old man with cloves syndrome and thrombocytopenia: a safe option for high bleeding risk patients. | CVIR Endovasc
+- new | 2026 | 42109379 |  | Effectiveness of garlic clove (Allium Sativum) on blood pressure reduction among hypertensive patients. | Bioinformation
+- new | 2026 | 42291518 |  | Effects of clove extract and hydrolyzed whey peptides supplementation on health, performance and blood parameters of suckling dairy calves. | Vet Anim Sci
+- new | 2026 | 42582221 |  | Comparative Evaluation of Pain Perception Following Topical Application of Clove Oil, EMLA 5%, and Lignocaine Hydrochloride Gel 2% as a Pre-anesthetic Agent in Children Aged 7-10 Y | Int J Clin Pediatr Dent
+- new | 2026 | 42549247 |  | Propolis-Based Solution Application in Extraction Socket Healing: A 3D Split-Mouth Clinical Pilot Study. | Cureus
+- new | 2026 | 42856830 |  | Therapeutic efficacy and dermal safety of topical clove essential oil spray against bacterial, yeast, and fungal skin infections in rat models: A pilot non-inferiority study. | Vet World
+- new | 2026 | 42601071 | Review | Comparing Oral Care Interventions for the Management of Ventilator-Associated Pneumonia in Adult Patients in Intensive Care Units: A Systematic Review. | Int J Dent Hyg
+- new | 2026 | 43046976 |  | The Skin and Oral Hydration Benefits of Caryophyllene Through Aquaporins 3 and 5 Type Modulation in Keratinocytes: in silico and in Vitro Research. | J Cosmet Dermatol
+- new | 2025 | 41322706 | Review | Analgesic Efficacy of Phytotherapeutic Agents in Dental Pain Management: A Systematic Review. | Int J Dent
+- new | 2025 | 41403734 |  | Evaluating the Efficacy of a Semi-Solid Formulation with Clove Oil and Curcumin versus Clindamycin in the Treatment of Acne Vulgaris: A Comprehensive Study of Preclinical and Clini | Adv Pharm Bull
+- new | 2025 | 40012817 |  | The Effects of Aromatherapy With Clove and Lavender on Headache Caused by Spinal Anesthesia in Patients Undergoing Urological Surgery: A Randomized Clinical Trial Study. | Health Sci Rep
+- new | 2025 | 41623768 |  | Assessing anti-plaque efficiency of a herbal dentifrice. | Bioinformation
+- new | 2025 | 40041716 |  | Effects of a botanical feed additive blend of capsicum oleoresin, clove and garlic essential oils on growth performance and fecal dry matter in nursery pigs. | Transl Anim Sci
+- new | 2024 | 39867111 |  | An In Vivo Comparative Analysis of Pain Perception in Children Following Lidocaine Gel, Clove Oil, and Precooling for Intraoral Injections: A Pilot Study. | Int J Clin Pediatr Dent
+- new | 2024 | 39430772 |  | Augmentation of antifungal activity of fluconazole using a clove oil nanoemulgel formulation optimized by factorial randomized D-optimal design. | 3 Biotech
+- new | 2024 | 38702165 | Systematic Review | Effect of Nonpharmacological Methods on Pruritus in Patients with Liver Disease and Liver Cirrhosis: Systematic Review. | Altern Ther Health Med
+- new | 2024 | 38322572 |  | Minocycline hydrochloride ointment combined with Vitapex paste is effective for middle-aged and elderly patients with combined periodontal-endodontic lesions. | Am J Transl Res
+- new | 2023 | 37123831 |  | Interplay of silymarin and clove fruit extract effectively enhances cadmium stress tolerance in wheat (Triticum aestivum). | Front Plant Sci
+- new | 2023 | 36961592 | Randomized Controlled Trial | Effect of clove mouthwash on the incidence of ventilator-associated pneumonia in intensive care unit patients: a comparative randomized triple-blind clinical trial. | Clin Oral Investig
+- new | 2023 | 37419646 | Clinical Trial Protocol/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Study protocol: randomised controlled trial of conditioned open-label placebo (COLP) for perioperative pain management in patients with head and neck cancer. | BMJ Open
+- new | 2022 | 36120261 | Review | The Effectiveness of Herbal Versus Non-Herbal Mouthwash for Periodontal Health: A Literature Review. | Cureus
+- new | 2022 | 35565627 |  | Supplementing a Phytogenic Feed Additive Modulates the Risk of Subacute Rumen Acidosis, Rumen Fermentation and Systemic Inflammation in Cattle Fed Acidogenic Diets. | Animals (Basel)
+- new | 2022 | 35341944 | Randomized Controlled Trial | Aromatherapy blend of thyme, orange, clove bud, and frankincense boosts energy levels in post-COVID-19 female patients: A randomized, double-blinded, placebo controlled clinical tr | Complement Ther Med
+- new | 2022 | 35791468 |  | Activity of plant essential oils against antibiotic resistant Enterococcus faecalis isolated from diarrheic children. | Pak J Pharm Sci
+- new | 2022 | 36431050 |  | Effects of Supplementing Quails' (Coturnix japonica) Diets with a Blend of Clove (Syzygium aromaticum) and Black Cumin (Nigella sativa) Oils on Growth Performance and Health Aspect | Life (Basel)
+- new | 2022 | 34972259 | Systematic Review/Research Support, Non-U.S. Gov't | The efficacy and tolerability of pharmacologically active interventions for alcohol-induced hangover symptomatology: a systematic review of the evidence from randomised placebo-con | Addiction
+- new | 2022 | 35478694 |  | Pilot Study of Trace Elements in the Infusion of Medicinal Plants Used for Diabetes Treatment. | Int J Anal Chem
+- new | 2022 | 35370482 |  | Duration of of Low-Temperature Storage, Clove Topping and Gibberellic Acid on Emergence, Yield and Yield Components of Garlic. | ScientificWorldJournal
+- new | 2022 | 35631704 |  | Evaluation of Bacterial Perpetuation Assays and Plant Biomolecules Antimicrobial Activity against Cotton Blight Bacterium Xanthomonas citri subsp. malvacearum; An Alternative Sourc | Plants (Basel)
+- new | 2022 | 35813417 | Retracted Publication | Effect of Vitapex Combined with AH-Plus Paste on Inflammation in Middle-Aged and Elderly Patients with Periodontal-Endodontic Disease. | Comput Math Methods Med
+- new | 2021 | 33064207 | Randomized Controlled Trial | The effects of a novel herbal toothpaste on salivary lactate dehydrogenase as a measure of cellular integrity. | Clin Oral Investig
+- new | 2021 | 33521350 |  | Utilization of environmentally friendly essential oils on enhancing the postharvest characteristics of Chrysanthemum morifolium Ramat cut flowers. | Heliyon
+- new | 2021 | 34776795 |  | Growth and Bulb Yield of Garlic as Influenced by Clove Size. | ScientificWorldJournal
+- new | 2021 | 34395900 |  | Comparative evaluation of pain perception following topical application of clove oil, betel leaf extract, lignocaine gel, and ice prior to intraoral injection in children aged 6-10 | J Dent Anesth Pain Med
+- new | 2021 | 33807493 |  | Peroral Clove Essential Oil Treatment Ameliorates Acute Campylobacteriosis-Results from a Preclinical Murine Intervention Study. | Microorganisms
+- new | 2021 | 34305428 |  | Previously published ethno-pharmacological reports reveal the potentiality of plants and plant-derived products used as traditional home remedies by Bangladeshi COVID-19 patients t | Saudi J Biol Sci
+- new | 2021 | 34385668 | Clinical Trial, Phase I/Clinical Trial, Phase II/Multicenter Study/Research Support, Non-U.S. Gov't | Safety and efficacy of low-dose PI3K inhibitor taselisib in adult patients with CLOVES and Klippel-Trenaunay syndrome (KTS): the TOTEM trial, a phase 1/2 multicenter, open-label, s | Genet Med
+- new | 2021 | 34615779 | Randomized Controlled Trial | A Comparative Study to Evaluate the Efficacy of Curcumin Lozenges (TurmNova(®)) and Intralesional Corticosteroids with Hyaluronidase in Management of Oral Submucous Fibrosis. | J Contemp Dent Pract
+- new | 2020 | 31598652 | Research Support, Non-U.S. Gov't | Sestrin2 as Serum Protein Marker and Potential Therapeutic Target for Parkinson's Disease. | J Gerontol A Biol Sci Med Sci
+- new | 2020 | 32611866 |  | A comparative evaluation of pain perception following topical application of benzocaine gel, clove-papaya based anesthetic gel and precooling of the injection site before intraoral | J Indian Soc Pedod Prev Dent
+- new | 2019 | 30957134 |  | Prevalence of herbal medicines in patients with chronic allergic disorders in Western Saudi Arabia. | Saudi Med J
+- new | 2019 | 31877814 |  | Bactericidal Effect of Clove Oil against Multidrug-Resistant Streptococcus suis Isolated from Human Patients and Slaughtered Pigs. | Pathogens
+- new | 2019 | 31064377 | Clinical Trial | Water-soluble polyphenol-rich clove extract lowers pre- and post-prandial blood glucose levels in healthy and prediabetic volunteers: an open label pilot study. | BMC Complement Altern Med
+- new | 2018 | 29285889 |  | Evaluation of topical liposome incorporated clove oil in the treatment of idiopathic palmar hyperhidrosis: Single-blinded placebo-controlled study. | J Cosmet Dermatol
+- new | 2018 | 30234415 | Randomized Controlled Trial | Clove Bud Polyphenols Alleviate Alterations in Inflammation and Oxidative Stress Markers Associated with Binge Drinking: A Randomized Double-Blinded Placebo-Controlled Crossover St | J Med Food
+- new | 2018 | 30345229 |  | Anti-virulence potential of eugenol-rich fraction of Syzygium aromaticum against multidrug resistant uropathogens isolated from catheterized patients. | Avicenna J Phytomed
+- new | 2017 | 28382655 |  | Effectiveness of topical clove oil on symptomatic treatment of chronic pruritus. | J Cosmet Dermatol
+- new | 2017 | 28627003 | Case Reports | Sonographic screening for Wilms tumor in children with CLOVES syndrome. | Pediatr Blood Cancer
+- new | 2017 | 29231494 | Clinical Trial | [Optimization of acupoint application scheme in the treatment of bronchial asthma based on the orthogonal design method]. | Zhongguo Zhen Jiu [chi]
+- new | 2017 | 29231606 | Randomized Controlled Trial | [Clinical study of medicinal-cake-separated moxibustion for senile osteoporosis]. | Zhongguo Zhen Jiu [chi]
+- new | 2016 | 27524909 |  | The effect of clove-based herbal mouthwash on radiation-induced oral mucositis in patients with head and neck cancer: a single-blind randomized preliminary study. | Onco Targets Ther
+- new | 2016 | 26827295 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Androstadienone's influence on the perception of facial and vocal attractiveness is not sex specific. | Psychoneuroendocrinology
+- new | 2015 | 25553684 | Clinical Trial | Clinical efficacy of polyherbal formulation Eezpain spray for muscular pain relief. | Pak J Pharm Sci
+- new | 2015 | 25393573 | Case Reports | Surgical Treatment of Spinal Deformity in Patients With CLOVES Syndrome: A Report of 4 Cases. | J Pediatr Orthop
+- new | 2015 | 26778391 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effects of an Ayurvedic medicinal toothpaste on clinical, microbiological and oral hygiene parameters in patients with chronic gingivitis: a double-blind, randomised, placebo-c | Ceylon Med J
+- new | 2014 | 25024544 |  | A comparative study of antiplaque and antigingivitis effects of herbal mouthrinse containing tea tree oil, clove, and basil with commercially available essential oil mouthrinse. | J Indian Soc Periodontol
+- new | 2014 | 23274083 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Investigation of the effectiveness of Syzygium aromaticum, Lavandula angustifolia and Geranium robertianum essential oils in the treatment of acute external otitis: a comparative t | J Microbiol Immunol Infect
+- new | 2012 | 22336789 | Meta-Analysis/Systematic Review | Non surgical therapy for anal fissure. | Cochrane Database Syst Rev
+- new | 2012 | 22107835 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of Chinese herbal cataplasm Xiaozhang Tie on cirrhotic ascites. | J Ethnopharmacol
+- new | 2012 | 22913022 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Androstadienone in motor reactions of men and women toward angry faces. | Percept Mot Skills
+- new | 2011 | 21310861 | Case Reports | Complex spinal-paraspinal fast-flow lesions in CLOVES syndrome: analysis of clinical and imaging findings in 6 patients. | AJNR Am J Neuroradiol
+- new | 2011 | 21542426 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A randomised double-blind placebo-controlled study on the effects of a herbal toothpaste on gingival bleeding, oral hygiene and microbial variables. | Ceylon Med J
+- new | 2011 | 22368358 |  | Comparison of the effectiveness of a commercially available herbal mouthrinse with chlorhexidine gluconate at the clinical and patient level. | J Indian Soc Periodontol
+- new | 2007 | 17963221 | Case Reports/Research Support, N.I.H., Intramural | Newly delineated syndrome of congenital lipomatous overgrowth, vascular malformations, and epidermal nevi (CLOVE syndrome) in seven patients. | Am J Med Genet A
+- new | 2007 | 17573751 | Comparative Study/Randomized Controlled Trial | Clove oil cream: a new effective treatment for chronic anal fissure. | Colorectal Dis
+- HELD REF-3784 | 2006 | 16530911 | Randomized Controlled Trial | The effect of clove and benzocaine versus placebo as topical anesthetics. | J Dent
+- new | 2005 | 16041723 | Clinical Trial/Comparative Study/Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Comparative repellency of 38 essential oils against mosquito bites. | Phytother Res
+- new | 2003 | 22557103 |  | Evaluation of a combination of a unani pharmacopeal preparation (itrifal ustukhudoos) with cloves (qaranfal) in allergic rhinitis - a preliminary clinical study. | Anc Sci Life
+- new | 2002 | 12460587 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Psychological effects of musky compounds: comparison of androstadienone with androstenol and muscone. | Horm Behav
+- new | 2001 | 11564447 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Context-dependent effects of steroid chemosignals on human physiology and mood. | Physiol Behav
+- new | 2000 | 10712859 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Psychological state and mood effects of steroidal chemosignals in women and men. | Horm Behav
+
+### PubMed SR - 18 hits, 13 not already listed above, 13 new
+- new | 2026 | 42314810 | Review | Eugenia caryophyllata Thunb.: A comprehensive review of the traditional uses, phytochemistry, pharmacology, and quality control. | J Ethnopharmacol
+- new | 2026 | 41625587 | Review | Phytochemical composition and anti-Alzheimer potential of medicinal plants from Central and West Africa: Systematic review. | Toxicol Rep
+- new | 2026 | 42027672 | Review | Prospection of plant-based bio-insecticides for mosquito vector control in Tanzania: A comprehensive review. | Parasite Epidemiol Control
+- new | 2025 | 40647967 | Review | Antioxidant Application of Clove (Syzygium aromaticum) Essential Oil in Meat and Meat Products: A Systematic Review. | Plants (Basel)
+- new | 2025 | 40426560 | Review | Antimicrobial Activity of Clove (Syzygium aromaticum) Essential Oil in Meat and Meat Products: A Systematic Review. | Antibiotics (Basel)
+- new | 2024 | 39949693 | Review | Anti-biofilm effect of clove oil against Candida albicans: A systematic review. | J Oral Maxillofac Pathol
+- new | 2023 | 37039741 | Systematic Review | Systematic review on the anxiolytic and hypnotic effects of flower extracts in in vivo pre-clinical studies published from 2010 to 2020. | Phytother Res
+- new | 2023 | 36981191 |  | Meta-Analysis of In Vitro Antimicrobial Capacity of Extracts and Essential Oils of Syzygium aromaticum, Citrus L. and Origanum L.: Contrasting the Results of Different Antimicrobia | Foods
+- new | 2022 | 35971813 | Research Support, Non-U.S. Gov't/Scoping Review | Where should I start? A scoping review about the publications on clove cigarettes. | Crit Rev Toxicol
+- new | 2022 | 36152592 | Systematic Review | A comprehensive and systematic review on potential anticancer activities of eugenol: From pre-clinical evidence to molecular mechanisms of action. | Phytomedicine
+- new | 2021 | 33497803 | Meta-Analysis/Research Support, Non-U.S. Gov't/Review | Effect of eugenol treatment in hyperglycemic murine models: A meta-analysis. | Pharmacol Res
+- new | 2021 | 34929875 | Systematic Review | Essential oil as a new tool for larvicidal Aedes aegypti: A systematic review. | Gac Sanit
+- new | 2015 | 25911964 | Research Support, Non-U.S. Gov't/Systematic Review | Antibacterial Activity of Essential Oils and Their Isolated Constituents against Cariogenic Bacteria: A Systematic Review. | Molecules
+
+### PubMed SAFE - 328 hits, 186 not already listed above, 182 new
+- new | 2026 | 40770474 | Review | Natural Oil and Polycystic Ovary Syndrome: A Comprehensive Review of Therapeutic Benefits. | Curr Top Med Chem
+- new | 2026 | 42609189 | Case Reports | Case Report: When benign overgrowth turns fatal in CLOVES syndrome: underestimated perioperative risk. | Front Med (Lausanne)
+- new | 2026 | 42724643 |  | Synthesis and Evaluation of Clove Oil-Loaded Solid Lipid Nanoparticles on Echinococcus granulosus Protoscoleces. | J Parasitol Res
+- new | 2026 | 42334730 | Case Reports | Renal vein thrombosis as a reversible vascular renal complication of CLOVES syndrome: a case report. | CEN Case Rep
+- new | 2026 | 42638871 |  | The safety and efficacy of topical clove oil for the treatment of naturally occurring Sarcoptes scabiei var. canis infestation in dogs. | Front Vet Sci
+- new | 2026 | 41800036 | Case Reports | Case Report: Whole-genome sequencing of urothelial carcinoma in an adult patient with CLOVES syndrome reveals a lack of PIK3CA mutation and a genomic landscape consistent with urot | Front Oncol
+- new | 2025 | 41163998 | Review | Syzygium aromaticum (clove buds) as a natural antibacterial agent: a promising alternative to combat multidrug-resistant bacteria. | Front Microbiol
+- new | 2025 | 40861611 | Case Reports | Exploring Prenatal Signs of Congenital Lipomatous Overgrowth, Vascular Malformations, Epidermal Nevi, and Skeletal Anomalies (CLOVES) Syndrome: A Case Report and Literature Review. | Cureus
+- new | 2025 | 40074996 | Review | Pharmacological modes of plant-derived compounds for targeting inflammation in rheumatoid arthritis: A comprehensive review on immunomodulatory perspective. | Inflammopharmacology
+- new | 2025 | 41479418 |  | Development and evaluation of clove oil nanoemulsion-based topical cream for anti-inflammatory activity in mice. | Front Vet Sci
+- new | 2025 | 41141768 |  | The Efficacy of Clove Oil Against Aspergillus flavus and the Production of Aflatoxin B1 in Organic Peanuts in Georgia. | ACS Omega
+- new | 2025 | 39795390 |  | Chemical Composition, In Vivo, and In Silico Molecular Docking Studies of the Effect of Syzygium aromaticum (Clove) Essential Oil on Ochratoxin A-Induced Acute Neurotoxicity. | Plants (Basel)
+- new | 2025 | 39602658 |  | Assessing Syzygium Aromaticum: From Chemical Profiling to Antioxidant, Antistaphylococcal, and Biocompatibility Attributes. | Chem Biodivers
+- new | 2025 | 40352188 |  | Effect of clove flower extract ( Syzygium aromaticum ) administration timing on skeletal muscle damage induced by eccentric exercise: An in vivo study. | Narra J
+- new | 2025 | 40180306 | Review | RIFM Natural Complex Substance (NCS) fragrance ingredient safety assessment, clove bud absolute, CAS Registry Number 8000-34-8, RIFM ID 583-F2.1. | Food Chem Toxicol
+- new | 2025 | 40733568 |  | Syzygium aromaticum Phytoconstituents Target SARS-CoV-2: Integrating Molecular Docking, Dynamics, Pharmacokinetics, and miR-21 rs1292037 Genotyping. | Viruses
+- new | 2025 | 40603548 |  | Antibacterial Activity of Essential Oils from Clove and Elsholtzia Plants Against Common Pathogens of Bovine Mastitis, Antioxidant Activity, and Toxicity to Bovine Mammary Epitheli | Curr Microbiol
+- new | 2025 | 40942116 |  | Chemical Characterization, Sensory Evaluation, and Biological Activity in Neuronal Cells of Essential Oils (Rose, Eucalyptus, Lemon, and Clove) Used for Olfactory Training. | Molecules
+- new | 2025 | 41517179 |  | Antimicrobial Effect of Clove Against Foodborne Pathogens in Ground Buffalo Meat During Refrigerated Storage. | Foods
+- new | 2025 | 40045745 |  | Investigating the Cytoprotective Effect of Syzygium aromaticum and Elettaria cardamomum in Arsenic-Induced Toxicity in the HCT-116 Cell Model: A Luminesce-Based Study. | Luminescence
+- new | 2025 | 41097295 | Review | Clinical Potential of Essential Oils: Cytotoxicity, Selectivity Index, and Efficacy for Combating Gram-Positive ESKAPE Pathogens. | Molecules
+- new | 2025 | 39861156 |  | Therapeutic Potential of Clove Oil in Mitigating Cadmium-Induced Hepatorenal Toxicity Through Antioxidant, Anti-Inflammatory, and Antiapoptotic Mechanisms. | Pharmaceuticals (Basel)
+- new | 2025 | 40362137 |  | Evaluation of Tricaine (MS-222) and Eugenol for Sedation of Peruvian Grunt Anisotremus scapularis. | Animals (Basel)
+- new | 2025 | 41372343 |  | Essential oils enriched Dant-Kanti-Gandush (oil-pulling) inhibits inter-kingdom biofilm formation on orthodontic fixtures and ameliorates cariogenic virulence factors of oral patho | Sci Rep
+- new | 2025 | 39752039 |  | Exploration of molecular interactions responsible for anti-inflammatory attributes of GI friendly micro-sized formulation of flurbiprofen and clove oil. | Inflammopharmacology
+- new | 2025 | 40733133 |  | Clove Oil-Based Nanoemulsion Containing Amphotericin B as a Therapeutic Approach to Combat Fungal Infections. | Pharmaceutics
+- new | 2025 | 39984853 |  | Synergistic effects of clove fruit extract and nano-silicon to enhance drought resilience and productivity of soybean through improved plant defense mechanisms. | BMC Plant Biol
+- new | 2025 | 39701543 |  | Assessment of molluscicidal activity of Syzygium aromaticum essential oil against Eobania vermiculata under laboratory and field conditions. | Toxicon
+- new | 2025 | 40959382 |  | In-silico novel thioredoxin-interacting protein inhibitors from Syzygium aromaticum and Terminalia chebula and their validations to combat arsenic-Induced toxicity in Vero cells. | Toxicol Rep
+- new | 2024 | 39684253 |  | Syzygium aromaticum Extract Mitigates Doxorubicin-Induced Hepatotoxicity in Male Rats. | Int J Mol Sci
+- new | 2024 | 38536526 | Review | Pharmacological and immunomodulatory modes of action of medically important phytochemicals against arthritis: A molecular insight. | Mol Biol Rep
+- new | 2024 | 38500592 | Case Reports | Combined surgery and sclerotherapy for 13 years: a case report of a patient with CLOVES. | Front Pediatr
+- new | 2024 | 38191032 | Review | Pharmacodynamic, pharmacokinetic, toxicity, and recent advances in Eugenol's potential benefits against natural and chemical noxious agents: A mechanistic review. | Toxicon
+- new | 2024 | 40056060 |  | Assessment of Antimicrobial Activity Against Candida albicans, Streptococcus mutans, Enterococcus faecalis and Staphylococcus aureus and Cytotoxic Effect of the Mouthwash Prepared  | Indian J Dent Res
+- new | 2024 | 38586722 |  | Green Synthesis of Selenium Nanoparticles From Clove and Their Toxicity Effect and Anti-angiogenic, Antibacterial and Antioxidant Potential. | Cureus
+- new | 2024 | 38839861 | Published Erratum | Author Correction: Modulation efficiency of clove oil nano-emulsion against genotoxic, oxidative stress, and histological injuries induced via titanium dioxide nanoparticles in mic | Sci Rep
+- new | 2024 | 38502545 |  | Fabrication, evaluation, and enhanced penetration of vinyl and cellulose-engineered transdermal patch of nifedipine using essential oil as penetration enhancer. | J Biomater Sci Polym Ed
+- new | 2024 | 38756347 |  | Safety and efficacy of a feed additive consisting of a tincture derived from the flowers of Syzygium aromaticum (L.) Merr. & L.M. Perry (clove tincture) for all animal species (FEF | EFSA J
+- new | 2024 | 39204432 |  | Design and Evaluation of Clove Oil-Based Self-Emulsifying Drug Delivery Systems for Improving the Oral Bioavailability of Neratinib Maleate. | Pharmaceutics
+- new | 2024 | 39074098 |  | Phytochemicals-linked food safety and human health protective benefits of the selected food-based botanicals. | PLoS One
+- new | 2024 | 39881801 |  | Syzygium aromaticum extract mediated, sustainable silver nanoparticle synergetic with heterocyclic antibiotic clarithromycin and their antimicrobial activities. | Front Chem
+- new | 2024 | 38889118 | Research Support, U.S. Gov't, P.H.S./Research Support, N.I.H., Extramural | Syzygium aromaticum essential oil and its major constituents: Assessment of activity against Candida spp. and toxicity. | PLoS One
+- new | 2024 | 38500909 |  | Formulation and Development of a Herbal Antifungal Gel Containing Origanum vulgare and Syzygium aromaticum Essential Oils Against Oral Candida albicans. | Cureus
+- new | 2024 | 38565575 |  | Modulation efficiency of clove oil nano-emulsion against genotoxic, oxidative stress, and histological injuries induced via titanium dioxide nanoparticles in mice. | Sci Rep
+- new | 2024 | 39084793 |  | The contact toxicity and toxic mechanism of essential oils from Pimenta racemosa and Eugenia caryophyllata against Haemaphysalis longicornis (Acari: Ixodidae). | Pestic Biochem Physiol
+- new | 2024 | 39343782 |  | Impact of oil type on the development and oral bioavailability of self-nanoemulsifying drug delivery systems containing simvastatin. | Sci Rep
+- new | 2024 | 39796096 |  | Clove Essential Oil as a Source of Antitumoral Compounds Capable of Crossing the Blood-Brain Barrier: A Focus on the Effects of β-Caryophyllene and Eugenol in a Glioblastoma Cell L | Int J Mol Sci
+- new | 2024 | 38163218 |  | Development of a functional cake with probiotics and micro-encapsulated essential oils: Evaluation of nutritional properties, liver protection, and immune boosting. | Heliyon
+- new | 2023 | 38144634 | Case Reports | Clove stalk aspiration: An unusual cause of chronic cough. | Med J Armed Forces India
+- new | 2023 | 36843754 | Case Reports | Ultrasound-Guided Percutaneous Intercostal Cryoneurolysis for Acute-on-Chronic Pain in CLOVES Syndrome. | Cureus
+- new | 2023 | 37564358 |  | Effects of Escherichia coli strain Nissle 1917 on arsenic-challenged goldfish (Carassius auratus): histological evidence. | Vet Res Forum
+- new | 2023 | 37111672 | Review | An Overview of Nanoemulgels for Bioavailability Enhancement in Inflammatory Conditions via Topical Delivery. | Pharmaceutics
+- new | 2023 | 36975657 |  | Permeability-Enhanced Liposomal Emulgel Formulation of 5-Fluorouracil for the Treatment of Skin Cancer. | Gels
+- new | 2023 | 37180463 | Case Reports | Gastrointestinal Manifestations of CLOVES Syndrome. | ACG Case Rep J
+- new | 2023 | 36804444 | Case Reports | Bilateral Wilms Tumor in CLOVES Syndrome. | Urology
+- new | 2023 | 38229701 | Case Reports | Case report: a step-by-step body contouring approach in a case of young patient with CLOVES syndrome. | Case Reports Plast Surg Hand Surg
+- new | 2023 | 36970296 | Case Reports | Cough remedy leading to chronic cough: An unusual airway foreign body-Clove. | Respirol Case Rep
+- new | 2023 | 37087271 | Research Support, Non-U.S. Gov't | Herbal smoke fumigation for controlling Penicillium crustosum in fresh walnuts. | Food Res Int
+- new | 2023 | 37600394 |  | Toxicity, repellency, and anti-cholinesterase activities of bioactive molecules from clove buds Syzygium aromaticum L. as an ecological alternative in the search for control Hyalom | Heliyon
+- new | 2023 | 37522096 |  | Safety and efficacy of feed additives consisting of essential oils derived from the flower buds or the leaves of Syzygium aromaticum (L.) Merr. & L.M. Perry (clove bud oil and clov | EFSA J
+- new | 2023 | 37161659 |  | The Effect of Herbal Penetration Enhancers on the Skin Permeability of Mefenamic Acid Through Rat Skin. | Turk J Pharm Sci
+- HELD REF-1079 | 2023 | 36985392 |  | In Vitro Antiviral Potential, Antioxidant, and Chemical Composition of Clove (Syzygium aromaticum) Essential Oil. | Molecules
+- new | 2023 | 35706070 |  | Identification and prioritization of promising lead molecules from Syzygium aromaticum against Sortase C from Streptococcus pyogenes: an in silico investigation. | J Biomol Struct Dyn
+- new | 2023 | 37088629 | Case Reports/Letter | [Best macular dystrophy complicated by macular neovascularization: Case report of a young woman with CLOVES syndrome]. | J Fr Ophtalmol [fre]
+- new | 2023 | 37175851 |  | Multi-Targeting Neuroprotective Effects of Syzygium aromaticum Bud Extracts and Their Key Phytocompounds against Neurodegenerative Diseases. | Int J Mol Sci
+- new | 2023 | 37505536 |  | Benchmark Dose Approach to DNA and Liver Damage by Chlorpyrifos and Imidacloprid in Male Rats: The Protective Effect of a Clove-Oil-Based Nanoemulsion Loaded with Pomegranate Peel  | Toxics
+- new | 2023 | 37451327 |  | Chitosan coated clove oil-based nanoemulsion: An attractive option for oral delivery of leflunomide in rheumatoid arthritis. | Int J Pharm
+- new | 2023 | 37105634 |  | Bio-molluscicidal potential and biochemical mechanisms of clove oil and its main component eugenol against the land snail, Theba pisana. | Pestic Biochem Physiol
+- new | 2023 | 36829079 |  | Effect of eugenol on lipid profile, oxidative stress, sex hormone, liver injury, ovarian failure, and expression of COX-2 and PPAR-α genes in a rat model of diabetes. | Mol Biol Rep
+- new | 2023 | 37228784 |  | Comparison of in vitro Killing Effect of Thai Herbal Essential Oils, Tea Tree Oil, and Metronidazole 0.75% versus Ivermectin 1% on Demodex folliculorum. | Clin Cosmet Investig Dermatol
+- new | 2023 | 37898844 |  | The Antifungal Activities of Syzygium aromaticum and Alpinia purpurata Extracts Against Candida krusei: Bioactivity Tests, Molecular Modeling, and Toxicity Tests. | Asian Pac J Cancer Prev
+- new | 2023 | 36695659 | Research Support, Non-U.S. Gov't | HPLC/MS characterization of Syzygium aromaticum L. and evaluation of its effects on peritoneal adhesion: Investigating the role of inflammatory cytokines, oxidative factors, and fi | Physiol Rep
+- new | 2022 | 35146800 | Case Reports | Alpelisib to treat CLOVES syndrome, a member of the PIK3CA-related overgrowth syndrome spectrum. | Br J Clin Pharmacol
+- new | 2022 | 36292866 |  | Exploration of Clove Bud (Syzygium aromaticum) Essential Oil as a Novel Attractant against Bactrocera dorsalis (Hendel) and Its Safety Evaluation. | Insects
+- new | 2022 | 35759370 | Research Support, Non-U.S. Gov't | Anesthesia Overdose Versus Rapid Cooling for Euthanasia of Adult Zebrafish. | Zebrafish
+- new | 2022 | 36438833 | Review | From kitchen to clinic: Pharmacotherapeutic potential of common spices in Indian cooking in age-related neurological disorders. | Front Pharmacol
+- new | 2022 | 35801429 | Case Reports | Use of intercostal nerve block for chest wall pain in a patient with CLOVES syndrome. | Pain Manag
+- new | 2022 | 36969529 | Case Reports | Ultrasound diagnosis of syndromic cases with vascular malformations and soft tissue overgrowth: A rare case of CLOVES syndrome. | Ultrasound
+- new | 2022 | 33930572 | Research Support, Non-U.S. Gov't | Facile green synthesis of ZnO-RGO nanocomposites with enhanced anticancer efficacy. | Methods
+- new | 2022 | 36106174 |  | Clove Flower Extract (Syzygium aromaticum) Has Anticancer Potential Effect Analyzed by Molecular Docking and Brine Shrimp Lethality Test (BSLT). | Vet Med Int
+- new | 2022 | 36431883 |  | Regulation of the Gut Microbiota and Inflammation by β-Caryophyllene Extracted from Cloves in a Dextran Sulfate Sodium-Induced Colitis Mouse Model. | Molecules
+- new | 2022 | 36362906 |  | Chemical Characterization of Clove, Basil and Peppermint Essential Oils; Evaluating Their Toxicity on the Development Stages of Two-Spotted Spider Mites Grown on Cucumber Leaves. | Life (Basel)
+- new | 2022 | 36185660 | Review | A comprehensive review on clove (Caryophyllus aromaticus L.) essential oil and its significance in the formulation of edible coatings for potential food applications. | Front Nutr
+- new | 2022 | 36660448 |  | Protective Effect of Hydroalcoholic Extract of Clove on Thioacetamide-Induced Hepatotoxicity Animal Model: Effects Hydroalcoholic Extract of Clove Against Hepatotoxicity. | Galen Med J
+- new | 2022 | 35907649 |  | Inhibition of Escherichia coli nitroreductase by the constituents in Syzygium aromaticum. | Chin J Nat Med
+- new | 2022 | 35988883 |  | Oral microbiota associated with gingiva of healthy, gingivitis and periodontitis cases. | Microb Pathog
+- new | 2022 | 35049568 |  | Development and Evaluation of Clove and Cinnamon Supercritical Fluid Extracts-Loaded Emulgel for Antifungal Activity in Denture Stomatitis. | Gels
+- new | 2022 | 35836934 |  | Evaluation of Clove Phytochemicals as Potential Antiviral Drug Candidates Targeting SARS-CoV-2 Main Protease: Computational Docking, Molecular Dynamics Simulation, and Pharmacokine | Front Mol Biosci
+- new | 2022 | 36167142 |  | The genotoxic, cytotoxic and growth regulatory effects of plant secondary metabolite β-caryophyllene on polyphagous pest Spodoptera litura (Fabricius) (Lepidoptera: Noctuidae). | Toxicon
+- new | 2021 | 33262231 | Case Reports | Teaching NeuroImages: CLOVES Syndrome. | Neurology
+- new | 2021 | 33905855 | Case Reports | CLOVES Syndrome Diagnosis and Treatment in an Adult Patient. | Ann Vasc Surg
+- new | 2021 | 34135684 |  | Toxicity nanoinsecticide based on clove essential oil against Tribolium castaneum (Herbst). | J Pestic Sci
+- new | 2021 | 34746580 |  | Development of Eugenol-Embedded Calcium Citrate Nanoparticles as a Local Anesthetic Agent. | ACS Omega
+- new | 2021 | 33900878 | Case Reports | Case 289: PIK3CA-related Overgrowth Spectrum (PROS): CLOVES Syndrome and Coexisting Fibroadipose Vascular Anomaly. | Radiology
+- new | 2021 | 34074347 | Case Reports | Somatic frameshift mutation in PIK3CA causes CLOVES syndrome by provoking PI3K/AKT/mTOR pathway. | Hereditas
+- new | 2021 | 33927860 | Case Reports | CLOVES syndrome and cervical arteriovenous fistula: a unique association managed by combined microsurgical and endovascular therapy. | J Surg Case Rep
+- new | 2021 | 34885992 | Review | Anticancer Properties of Eugenol: A Review. | Molecules
+- new | 2021 | 33568035 |  | Synthesis, Antibacterial, and Cytotoxicity Evaluation of Oleanolic Acid-4-aminoquinoline Based Hybrid Compounds. | Recent Adv Antiinfect Drug Discov
+- new | 2021 | 34438621 | Review | Twenty Years of Research in Seabass and Seabream Welfare during Slaughter. | Animals (Basel)
+- HELD REF-0554 | 2021 | 32619207 |  | Radical Scavenging and Antiacetylcholinesterase Activities of Ethanolic Extracts of Carob, Clove, and Linden. | Altern Ther Health Med
+- new | 2021 | 33518049 |  | Elucidation of antifungal and aflatoxin B(1) inhibitory mode of action of Eugenia caryophyllata L. essential oil loaded chitosan nanomatrix against Aspergillus flavus. | Pestic Biochem Physiol
+- new | 2021 | 33517791 |  | Development, optimization and characterization of nanoemulsion loaded with clove oil-naftifine antifungal for the management of tinea. | Drug Deliv
+- new | 2021 | 33632196 |  | Essential oils from Syzygium aromaticum and Zingiber officinale, administered alone or in combination with benznidazole, reduce the parasite load in mice orally inoculated with Try | BMC Complement Med Ther
+- new | 2021 | 33838305 | Research Support, Non-U.S. Gov't | Identification of gallic acid as a active ingredient of Syzygium aromaticum against tacrolimus-induced damage in renal epithelial LLC-PK1 cells and rat kidney. | Bioorg Med Chem Lett
+- HELD REF-1075 | 2020 | 32019140 | Review | Syzygium aromaticum L. (Myrtaceae): Traditional Uses, Bioactive Chemical Constituents, Pharmacological and Toxicological Activities. | Biomolecules
+- new | 2020 | 33190013 | Case Reports/Letter | Molecular analysis of a uterine broad ligament leiomyoma in a patient with CLOVES syndrome. | Pathol Res Pract
+- new | 2020 | 32209108 |  | Identification of essential oils with activity against stationary phase Staphylococcus aureus. | BMC Complement Med Ther
+- new | 2020 | 32775850 | Case Reports | Mechanochemical and surgical ablation of an anomalous upper extremity marginal vein in CLOVES syndrome identifies PIK3CA as the culprit gene mutation. | J Vasc Surg Cases Innov Tech
+- new | 2020 | 32702506 |  | FEMA GRAS assessment of natural flavor complexes: Clove, cinnamon leaf and West Indian bay leaf-derived flavoring ingredients. | Food Chem Toxicol
+- new | 2019 | 31334068 | Case Reports | Cloves Syndrome: A Rare Disorder of Overgrowth with Unusual Features - An Uncommon Phenotype? | Indian Dermatol Online J
+- new | 2019 | 32186590 | Case Reports | CLOVES syndrome: Treatment with oral Rapamycin. Report of two cases. | Rev Chil Pediatr [eng,spa]
+- new | 2019 | 31069572 |  | Toxicity and effects of essential oils and their components on Dermanyssus gallinae (Acari: Dermanyssidae). | Exp Appl Acarol
+- new | 2019 | 30064281 |  | Syzygium Aromaticum Alleviates Cerium Chloride-Induced Neurotoxic Effect In The Adult Mice. | Toxicol Mech Methods
+- new | 2019 | 30737653 |  | Eugenol Attenuates Scopolamine-Induced Hippocampal Cholinergic, Glutamatergic, and Mitochondrial Toxicity in Experimental Rats. | Neurotox Res
+- new | 2019 | 30707845 |  | Syzygium aromaticum aqueous extract inhibits human neutrophils myeloperoxidase and protects mice from LPS-induced lung inflammation. | Pharm Biol
+- new | 2019 | 32024615 |  | Clove oil based co-surfactant free microemulsion of flurbiprofen: Improved solubility with ameliorated drug-induced gastritis. | Pak J Pharm Sci
+- new | 2019 | 31330249 | Case Reports | Alpelisib Treatment for Genital Vascular Malformation in a Patient with Congenital Lipomatous Overgrowth, Vascular Malformations, Epidermal Nevi, and Spinal/Skeletal Anomalies and/ | J Pediatr Adolesc Gynecol
+- new | 2019 | 31200591 | Review | Essential Oils as a Feed Additives: Pharmacokinetics and Potential Toxicity in Monogastric Animals. | Animals (Basel)
+- new | 2019 | 31723531 | Case Reports | CLOVES Syndrome in a Nine-month-old Infant. | Cureus
+- new | 2019 | 31684176 |  | Eugenol Exerts Apoptotic Effect and Modulates the Sensitivity of HeLa Cells to Cisplatin and Radiation. | Molecules
+- new | 2019 | 31444661 |  | Preparation, Optimization, and Evaluation of Hyaluronic Acid-Based Hydrogel Loaded with Miconazole Self-Nanoemulsion for the Treatment of Oral Thrush. | AAPS PharmSciTech
+- new | 2019 | 31811262 |  | Eugenol prevents fMLF-induced superoxide anion production in human neutrophils by inhibiting ERK1/2 signaling pathway and p47phox phosphorylation. | Sci Rep
+- new | 2019 | 31130870 |  | Transport and Recovery of Gilthead Sea Bream (Sparus aurata L.) Sedated With Clove Oil and MS222: Effects on Oxidative Stress Status. | Front Physiol
+- new | 2018 | 28752282 | Case Reports | CLOVE Syndrome. | Indian J Pediatr
+- new | 2018 | 30095430 |  | Effects of surface sterilisation with green synthesised silver nanoparticles on Lamiaceae seeds. | IET Nanobiotechnol
+- new | 2018 | 30012400 | Case Reports | Garlic clove applied as vaginal suppository - A case report. | Complement Ther Med
+- new | 2018 | 29902886 |  | [The network pharmacological mechanisms of four anti-vitiligo Uyghur medicines based on Phlegmatic temperament theory]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2018 | 29169218 |  | Laccase Fermentation of Clove Extract Increases Content of Dehydrodieugenol, Which Has Neuroprotective Activity against Glutamate Toxicity in HT22 Cells. | J Microbiol Biotechnol
+- new | 2018 | 29601442 | Case Reports | Early Administration of N-acetylcysteine in the Treatment of Clove Oil Ingestion. | J Pediatr Gastroenterol Nutr
+- new | 2018 | 29634373 |  | Potential Alternative Treatment of Ocular Bacterial Infections by Oil Derived from Syzygium aromaticum Flower (Clove). | Curr Eye Res
+- new | 2018 | 30444910 | Research Support, Non-U.S. Gov't | Toxicity to, oviposition and population growth impairments of Callosobruchus maculatus exposed to clove and cinnamon essential oils. | PLoS One
+- new | 2018 | 29882992 | Case Reports | Macrodactyly with a complex glomuvenous malformation in congenital lipomatous overgrowth with vascular malformations, epidermal naevi and skeletal anomalies (CLOVES) syndrome. | Histopathology
+- new | 2018 | 29854468 |  | Amelioration of Single Clove Black Garlic Aqueous Extract on Dyslipidemia and Hepatitis in Chronic Carbon Tetrachloride Intoxicated Swiss Albino Mice. | Int J Hepatol
+- new | 2017 | 27382998 |  | Toxicity of clove essential oil and its ester eugenyl acetate against Artemia salina. | Braz J Biol
+- new | 2017 | 28524540 |  | Antineoplastic effects of clove buds (Syzygium aromaticum L.) in the model of breast carcinoma. | J Cell Mol Med
+- new | 2017 | 28543097 | Review | Contact dermatitis as an adverse reaction to some topically used European herbal medicinal products - part 4: Solidago virgaurea-Vitis vinifera. | Contact Dermatitis
+- new | 2017 | 32454614 | Review | Pharmacological and Toxicological Properties of Eugenol. | Turk J Pharm Sci
+- new | 2017 | 29258206 | Review | The Dual Antioxidant/Prooxidant Effect of Eugenol and Its Action in Cancer Development and Treatment. | Nutrients
+- new | 2017 | 29029151 | Evaluation Study | Combined Toxicity of Three Essential Oils Against Aedes aegypti (Diptera: Culicidae) Larvae. | J Med Entomol
+- new | 2017 | 28071592 |  | Development and evaluation of zinc phthalocyanine nanoemulsions for use in photodynamic therapy for Leishmania spp. | Nanotechnology
+- new | 2017 | 28802239 |  | Synergistic antinociceptive interaction of Syzygium aromaticum or Rosmarinus officinalis coadministered with ketorolac in rats. | Biomed Pharmacother
+- new | 2017 | 29333132 |  | Detection of aflatoxin-producing fungi isolated from Nile tilapia and fish feed. | EXCLI J
+- new | 2017 | 28818066 |  | Hepatoprotective and antioxidant effects of single clove garlic against CCl(4)-induced hepatic damage in rabbits. | BMC Complement Altern Med
+- new | 2017 | 28869798 |  | Antimicrobial activity of plant extracts against the honeybee pathogens, Paenibacillus larvae and Ascosphaera apis and their topical toxicity to Apis mellifera adults. | J Appl Microbiol
+- new | 2017 | 28655703 |  | In vitro antioxidant, hepatoprotective potential and chemical profiling of Syzygium aromaticum using HPLC and GC-MS. | Pak J Pharm Sci
+- new | 2017 | 28573726 | Comparative Study | Effect of curry leaf and clove bud essential oils on textural and oxidative stability of chill stored sutchi catfish fillets. | J Texture Stud
+- new | 2016 | 28209019 |  | Efficacy of Specific Plant Products on Microorganisms Causing Dental Caries. | J Clin Diagn Res
+- new | 2016 | 26840772 |  | Biphasic effect of Syzygium aromaticum flower bud on reproductive physiology of male mice. | Andrologia
+- new | 2016 | 26440388 |  | Hepatoprotective effect of cold-pressed Syzygium aromaticum oil against carbon tetrachloride (CCl4)-induced hepatotoxicity in rats. | Pharm Biol
+- new | 2016 | 30475513 |  | Essential Oils and Their Vapors as Potential Antibacterial Agents against Respiratory Tract Pathogens. | Nat Prod Commun
+- new | 2016 | 28959566 |  | Safety assessment of a standardized polyphenolic extract of clove buds: Subchronic toxicity and mutagenicity studies. | Toxicol Rep
+- new | 2015 | 26539382 | Review | Essential oils, their therapeutic properties, and implication in dentistry: A review. | J Int Soc Prev Community Dent
+- new | 2015 | 25455450 |  | The involvement of mitochondrial apoptotic pathway in eugenol-induced cell death in human glioblastoma cells. | Toxicol Lett
+- new | 2015 | 26253114 |  | [Diagnostic workup of fragrance allergy]. | Hautarzt [ger]
+- new | 2015 | 25709171 | Case Reports | A rare newly described overgrowth syndrome with vascular malformations-Cloves syndrome. | Indian J Radiol Imaging
+- new | 2015 | 42169862 |  | Scientific Opinion on the safety and efficacy of Liderfeed® (eugenol) for chickens for fattening. | EFSA J
+- new | 2015 | 26109856 |  | Utilization of nanotechnology to enhance percutaneous absorption of acyclovir in the treatment of herpes simplex viral infections. | Int J Nanomedicine
+- new | 2015 | 25605463 | Comparative Study/Research Support, Non-U.S. Gov't | Safety and anti-ulcerogenic activity of a novel polyphenol-rich extract of clove buds (Syzygium aromaticum L). | Food Funct
+- new | 2015 | 26316707 | Research Support, Non-U.S. Gov't | Enhancement of absorption and bioavailability of echinacoside by verapamil or clove oil. | Drug Des Devel Ther
+- new | 2014 | 25182278 | Review | Clove (Syzygium aromaticum): a precious spice. | Asian Pac J Trop Biomed
+- new | 2014 | 25044986 | Case Reports | Prenatal diagnosis of CLOVES syndrome confirmed by detection of a mosaic PIK3CA mutation in cultured amniocytes. | Am J Med Genet A
+- new | 2014 | 25445572 | Research Support, Non-U.S. Gov't | Antioxidant effects of clove bud (Syzygium aromaticum) extract used with different extenders on ram spermatozoa during cryopreservation. | Cryobiology
+- new | 2014 | 25365848 | Case Reports | Cloves syndrome: a case report and perinatal diagnostic findings. | Genet Couns
+- new | 2014 | 25209813 | Case Reports | [CLOVES syndrome: a malformational syndrome closely resembling Proteus syndrome]. | Ann Dermatol Venereol [fre]
+- new | 2013 | 23448024 | Research Support, Non-U.S. Gov't | Toxicity and repellency of compounds from clove (Syzygium aromaticum) to red imported fire ants Solenopsis invicta (Hymenoptera: Formicidae). | J Econ Entomol
+- new | 2013 | 23930041 |  | Reproductive effects of lipid soluble components of Syzygium aromaticum flower bud in male mice. | J Ayurveda Integr Med
+- new | 2012 | 31869191 | Review | Eugenol (Clove Oil). | 
+- new | 2010 | 20924970 | Research Support, Non-U.S. Gov't | Allicin purified from fresh garlic cloves induces apoptosis in colon cancer cells via Nrf2. | Nutr Cancer
+- new | 2010 | 20184039 | Research Support, Non-U.S. Gov't | Effects of essential oils on the growth of Giardia lamblia trophozoites. | Nat Prod Commun
+- new | 2010 | 20946456 | Multicenter Study | Contact allergy to essential oils: current patch test results (2000-2008) from the Information Network of Departments of Dermatology (IVDK). | Contact Dermatitis
+- new | 2010 | 21217882 |  | Various aspects of piscine toxicology. | Interdiscip Toxicol
+- new | 2008 | 18765266 | Research Support, Non-U.S. Gov't | Safety assessment of Syzygium aromaticum flower bud (clove) extract with respect to testicular function in mice. | Food Chem Toxicol
+- new | 2006 | 16846463 |  | Pharmacokinetics and anesthetic activity of eugenol in male Sprague-Dawley rats. | J Vet Pharmacol Ther
+- new | 2006 | 16595588 |  | Genotoxicity and endoreduplication inducing activity of the food flavouring eugenol. | Mutagenesis
+- HELD REF-1083 | 2006 | 16501250 | Research Support, Non-U.S. Gov't | Clove (Syzygium aromaticum L.), a potential chemopreventive agent for lung cancer. | Carcinogenesis
+- new | 2005 | 15895251 | Case Reports | Essential oil poisoning: N-acetylcysteine for eugenol-induced hepatic failure and analysis of a national database. | Eur J Pediatr
+- new | 2003 | 12757841 | Research Support, Non-U.S. Gov't | Eugenol suppresses cyclooxygenase-2 expression in lipopolysaccharide-stimulated mouse macrophage RAW264.7 cells. | Life Sci
+- new | 2000 | 10736000 | Research Support, Non-U.S. Gov't | Antimicrobial agents from plants: antibacterial activity of plant volatile oils. | J Appl Microbiol
+- new | 2000 | 11190208 |  | [Analysis of contact dermatitis by cytokines 4--Skin sensitization of biphenyl compounds]. | Yakugaku Zasshi [jpn]
+- new | 1999 | 10325547 | Research Support, Non-U.S. Gov't | The ocular pharmacokinetics of topical diclofenac is affected by ocular inflammation. | Ophthalmic Res
+- new | 1998 | 9582002 | Research Support, Non-U.S. Gov't | Effect of Syzygium aromaticum extract on immediate hypersensitivity in rats. | J Ethnopharmacol
+- new | 1992 | 1402962 | Research Support, U.S. Gov't, P.H.S. | Sesquiterpenes from clove (Eugenia caryophyllata) as potential anticarcinogenic agents. | J Nat Prod
+- new | 1989 | 2773482 | Case Reports/Research Support, Non-U.S. Gov't | Clove cigarettes. The basis for concern regarding health effects. | West J Med
+- new | 1983 | 6220861 |  | Dermatitis from propolis. | Contact Dermatitis
+- new | 1983 | 6132216 | Case Reports/Letter | Permanent local anaesthesia and anhidrosis after clove oil spillage. | Lancet
+- new | 1963 | 14056115 |  | SKIN BREVITIES: DERMATITIS OF THE HANDS FROM OIL OF CLOVES. | Skin (Los Angeles)
+
+### PubMed OBS - 16 hits, 11 not already listed above, 11 new
+- new | 2026 | 41697424 |  | Checkerboard and Isobologram Analysis of the Interaction between Black Cumin and Clove Essential Oils against Multidrug-Resistant Nosocomial Pathogens. | Curr Microbiol
+- new | 2026 | 43020463 |  | Truncal Marginal Veins in CLOVES and PIK3CA-Related Overgrowth Spectrum: Anatomic Patterns and Potential Clinical Insights for Diagnosis and Endovascular Treatments. | J Vasc Interv Radiol
+- new | 2026 | 42366758 |  | Assessment of Oral Health Status, Oral Health Beliefs, and Tobacco Habits Among the Katkari Tribe in Goa, India: A Cross-Sectional Study. | Spec Care Dentist
+- new | 2024 | 38827648 |  | Attitude and Practice of Pharmacy Students Toward Traditional Herbal Medicines, Sudan. | Integr Pharm Res Pract
+- new | 2024 | 39020465 | Research Support, Non-U.S. Gov't | Characterizing HIV Acquisition Risk, Treatment Gaps, and Populations Reached Through Venue-Based Outreach and Clinical Services in Blantyre, Malawi: Findings From a District-wide C | J Acquir Immune Defic Syndr
+- new | 2022 | 36262294 |  | Oral healthcare-seeking behavior during the COVID-19 lockdown period: A cross-sectional study from Eastern Saudi Arabia. | Heliyon
+- new | 2021 | 34112235 | Research Support, Non-U.S. Gov't | Non-hotspot PIK3CA mutations are more frequent in CLOVES than in common or combined lymphatic malformations. | Orphanet J Rare Dis
+- new | 2017 | 28571234 |  | CLOVES Syndrome: Severe Neonatal Presentation. | J Clin Diagn Res
+- new | 2013 | 24161472 | Review | CLOVES syndrome. | J Hand Surg Am
+- new | 2009 | 19011570 |  | Characterization of a distinct syndrome that associates complex truncal overgrowth, vascular, and acral anomalies: a descriptive study of 18 cases of CLOVES syndrome. | Clin Dysmorphol
+- new | 1999 | 10207202 |  | The relationship between habitual clove cigarette smoking and a specific pattern of dental decay in male bus drivers in Jakarta, Indonesia. | Caries Res
+
+### PubMed REV - 98 hits, 14 not already listed above, 12 new
+- new | 2024 | 36748791 | Review | Family Myrtaceae: The treasure hidden in the complex/diverse composition. | Crit Rev Food Sci Nutr
+- new | 2024 | 38163240 | Review | Bioactive properties of clove (Syzygium aromaticum) essential oil nanoemulsion: A comprehensive review. | Heliyon
+- new | 2024 | 38085446 | Review | Targeting cardiovascular risk factors with eugenol: an anti-inflammatory perspective. | Inflammopharmacology
+- new | 2024 | 38474510 | Review | Antimicrobial Activity of Syzygium aromaticum Essential Oil in Human Health Treatment. | Molecules
+- new | 2024 | 38671935 | Review | Clove Essential Oil: Chemical Profile, Biological Activities, Encapsulation Strategies, and Food Applications. | Antioxidants (Basel)
+- new | 2023 | 37040058 | Review/Research Support, Non-U.S. Gov't | The Effects of Clove and Its Constituents on Reproductive System: a Comprehensive Review. | Reprod Sci
+- new | 2022 | 35444443 | Review | A Review on Cutaneous and Musculoskeletal Manifestations of CLOVES Syndrome. | Clin Cosmet Investig Dermatol
+- HELD REF-1074 | 2021 | 34770801 | Review | Clove Essential Oil (Syzygium aromaticum L. Myrtaceae): Extraction, Chemical Composition, Food Applications, and Essential Bioactivity for Human Health. | Molecules
+- new | 2021 | 33916044 | Review | Biological Properties and Prospects for the Application of Eugenol-A Review. | Int J Mol Sci
+- HELD REF-1076 | 2021 | 33810416 | Review | Molecular Basis of the Therapeutical Potential of Clove (Syzygium aromaticum L.) and Clues to Its Anti-COVID-19 Utility. | Molecules
+- new | 2020 | 33128525 | Review | Herbal approach for the management of C0VID-19: an overview. | Drug Metab Pers Ther
+- new | 2017 | 28346030 | Review | Antimicrobial activity of eugenol and essential oils containing eugenol: A mechanistic viewpoint. | Crit Rev Microbiol
+- new | 2017 | 27426476 | Review | CLOVES syndrome: review of a PIK3CA-related overgrowth spectrum (PROS). | Clin Genet
+- new | 2007 | 17517698 | Review | Invited review: Essential oils as modifiers of rumen microbial fermentation. | J Dairy Sci
+
+### ClinicalTrials.gov - 66 registered studies
+- NCT00874666 | UNKNOWN | results=False | EARLY_PHASE1 | Allicin Bioavailability From Garlic Supplements and Garlic Foods | conds: Healthy | intr: crushed garlic clove, garlic powder tablet
+- NCT07122037 | ACTIVE_NOT_RECRUITING | results=False | NA | Mechanical and Sensorial Training in the Olfactive Rehabilitation of Patients With Total Laryngectomy | conds: Cognitive Aging, Hyposmia, Total Laryngectomy | intr: DosMedical Smell Training Set, Nasal Airflow Inducing Maneuver
+- NCT05467631 | COMPLETED | results=False | NA | Topical Phytoterpenes for Plantar Fasciitis | conds: Plantar Fasciitis | intr: Topical oil application | pubs: ['39085322:DERIVED (new)']
+- NCT03738657 | UNKNOWN | results=False |  | Gustatory Function Following Radiotherapy to the Head and Neck | conds: Head and Neck Cancer | intr: Olfactory screening, Quantative Gustatory Testing using Taste Strips
+- NCT07599930 | RECRUITING | results=False | NA | Impact of a Novel Functional Snack on Perimenopausal Symptoms and Well-being | conds: Perimenopause, Perimenopause-Related Depression, Mood, Sleep | intr: Functional Snacks, Placebo Snacks
+- NCT05912881 | COMPLETED | results=False | NA | Chemosensory Dysfunction and Recovery in Endoscopic Endonasal Skull Base Surgery | conds: Anosmia, Skull Base Neoplasms | intr: Olfactory training, Placebo training
+- NCT06911437 | ENROLLING_BY_INVITATION | results=False |  | Clinical Study on the Combination of Xiaoyu Zhitong Formula and Lymphatic Drainage Technique to Improve the Symptoms of Knee Pain and Swelli | conds: Knee Osteoarthritis (OA) | intr: treatment group, control group
+- NCT03372109 | COMPLETED | results=False | NA | Evaluate the Effects of Repeated Periods of Modified Fasting to Support Healthy Natural Weight Management and Prevention of Weight Gain | conds: Body Weight Changes | intr: Meal replacement shake, Multivitamin and mineral capsules, Fish oil with sesame lignans and olive ex | pubs: ['23638291:RESULT (new)', '33512717:DERIVED (new)']
+- NCT04390256 | COMPLETED | results=False | NA | Remineralization of Early Carious Lesion Using Natural Agents Versus Bioadhesive Polymers | conds: Dental Caries | intr: Clove water extract, Carbopol, Carboxymethyle cellulose
+- NCT05016999 | COMPLETED | results=False | NA | Allium Extracts on the Intestinal Microbiota in Healthy Resident Volunteers. | conds: Intestinal Bacteria Flora Disturbance | intr: Garlic and onion concentrate
+- NCT03049358 | TERMINATED | results=False | NA | Olfactory Training in Improving Sense of Smell After Radiation Therapy in Patients With Paranasal Sinus or Nasopharyngeal Cancer | conds: Stage 0 Nasopharyngeal Carcinoma, Stage 0 Paranasal Sinus Cancer, Stage I Nasopharyngeal Carcinoma, Stage I Paranasal Sinus Cancer | intr: Physiologic Testing, Quality-of-Life Assessment, Sham Intervention, Therapeutic Procedure
+- NCT07665814 | COMPLETED | results=False | PHASE1,PHASE2 | Propolis-Based Solution Application in Extraction Socket Healing | conds: Healthy | intr: Propolis-based topical solution (52% propolis extract, clove oil [Eugenia caryophyllus], and white w
+- NCT07368374 | NOT_YET_RECRUITING | results=False | NA | EFFECTS OF CİTRUS AND CLOVE OİL AROMATHERAPY İN OLDER ADULTS | conds: Aromatherapy | intr: Intervention Group 1, Intervention Group 2, Placebo Control Group
+- NCT05518019 | COMPLETED | results=False | NA | An Exploratory Investigation of a CBD Supplement's Impact on Sleep, Stress, and Focus | conds: Anxiety, Fear, Stress, Low Mood | intr: The Daily Supplement
+- NCT04598763 | UNKNOWN | results=False | NA | Evaluation of Two Methods of Olfactory Rehabilitation in Post-viral Loss of Smell: Classic and Intensive | conds: Olfaction Disorders | intr: smell the odors of the olfactory rehabilitation kit according to the classic or intensive method
+- NCT05908318 | UNKNOWN | results=False | NA | Effect of Preoperative Olfactory Training on Postoperative Delirium in the Elderly Undergoing Orthopedic Surgeries | conds: Preoperative Olfactory Training, Postoperative Delirium | intr: olfactory training
+- NCT06327633 | COMPLETED | results=False | NA | Effects of Olfactory Training on the Brain Function in T2DM Patients With Mild Cognitive Impairment | conds: Type 2 Diabetes Mellitus, Mild Cognitive Impairment | intr: Olfactory Training | pubs: ['29500313:RESULT (new)', '31221697:RESULT (new)']
+- NCT06295822 | UNKNOWN | results=False | NA | The Effectiveness of Chinese Medicine Nuan-gong-ye on Primary Dysmenorrhea | conds: Chinese Medicine, Primary Dysmenorrhea | intr: Nuan-gong-ye, Placebo
+- NCT07221123 | RECRUITING | results=False | PHASE2 | Boosting Olfactory and Sensory Training Study (BOOST) | conds: HIV (Human Immunodeficiency Virus) | intr: Conventional Smell Training Group, Scented Marker Group | pubs: ['36406043:RESULT (new)', '16863045:RESULT (new)', '36725781:RESULT (new)', '31259847:RESULT (new)', '30676359:RESULT (new)']
+- NCT05539560 | UNKNOWN | results=False | NA | The Effect of Olfactory Training in Patients With COVID-19 Induced Olfactory Dysfunction | conds: COVID-19 | intr: Olfactory training with essential oils, Olfactory training with fragrance-free oils | pubs: ['40371997:DERIVED (new)']
+- NCT06382701 | COMPLETED | results=False | NA | Effect of Aromatherapy on Pain, Anxiety and Satisfaction in Cannulation | conds: Hemodialysis Patients | intr: aromatherapy, placebo
+- NCT06107595 | RECRUITING | results=False | NA | Conditioned Open Label Placebo for Postoperative Pain Management | conds: Pain, Postoperative | intr: Placebo
+- NCT06829706 | RECRUITING | results=False | NA | The Efficacy of Modified Olfactory Training Method for Patients With Post-viral Olfactory Dysfunction | conds: Olfactory Dysfunction, Post Viral Olfactory Dysfunction (PVOD) | intr: Conventional olfactory training device, Modified olfactory training device, Conventional olfactory t | pubs: ['41436263:DERIVED (new)']
+- NCT07778849 | COMPLETED | results=False | NA | Chinese Herbal Sachet Inhalation for Primary Dysmenorrhea in Female College Students | conds: Primary Dysmenorrhea | intr: Traditional Chinese herbal sachet (aromatic inhalation), Placebo sachets
+- NCT04646382 | COMPLETED | results=False | NA | Effect of a Mixture of Allium Extracts on LDL Cholesterol Levels Volunteers With Elevated LDL Cholesterol Levels | conds: Cardiovascular Health | intr: Garlic and onion concentrate, Control
+- NCT07189637 | RECRUITING | results=False | NA | The Combined Effect of the Mediterranean Diet and Intermittent Fasting on Hypertension | conds: Hypertension | intr: Face-to-face nutrition education, Intermittent Fasting Diet, Mediterranean Diet
+- NCT01898091 | COMPLETED | results=True | PHASE2 | Herbal Mouthrinse for Oral Mucositis Study | conds: Oral Mucositis | intr: Neem Mouthrinse, Placebo Mouthrinse | pubs: ['18973181:RESULT (new)']
+- NCT06837051 | NOT_YET_RECRUITING | results=False | NA | The Effect of Modified Olfactory Training on Postoperative Olfactory Dysfunction in Patients With CRS | conds: Olfactory Dysfunction, Chronic Rhinosinusitis | intr: Conventional olfactory training device, Modified olfactory training device, Budesonide irrigation | pubs: ['40819876:DERIVED (new)']
+- NCT06488807 | RECRUITING | results=False | NA | Treatment of Perioperative Neurocognitive Disorders With Olfactory Enrichment | conds: Perioperative Neurocognitive Disorder | intr: Olfactory Enrichment, Sham | pubs: ['41013688:DERIVED (new)']
+- NCT07190911 | COMPLETED | results=False | NA | Efficacy of Olfactive Training on Loss of Smell and Taste Caused by SARS CoV2 COVID-19 (Covid-Smell) | conds: COVID - 19 | intr: Olfactory rehabilitation consists of smelling a series of spices every day for 2 months
+- NCT03795636 | COMPLETED | results=False | NA | Allium Sativum Extract as an Irrigant | conds: Infected Root Canals of Primary Molars | intr: Garlic extract, NaOCl (COLTENE®) | pubs: ['31452953:DERIVED (new)']
+- NCT07151703 | RECRUITING | results=False | PHASE3 | Topical Versus Injection PRP for Olfactory Dysfunction | conds: Olfactory Dysfunction, Anosmia, Hyposmia | intr: Intranasal Injection of Autologous PRP, Carrier-Assisted Topical Application of Autologous PRP, plat
+- NCT06902532 | NOT_YET_RECRUITING | results=False | NA | Effectiveness of Coconut Oil Pulling With Clove Oil, Coconut Oil Pulling and Fluoride Mouthwash on Streptococcus Mutans Count in Children | conds: Dental Caries | intr: coconut oil pulling with clove oil, coconut oil pulling, Fluoride Mouthwash
+- NCT05054023 | COMPLETED | results=False | PHASE2,PHASE3 | Topical Piroxicam vs Soulagel in the Treatment of Acute Extremity Pain After Emergency Department Discharge | conds: Acute Pain | intr: Soulagel®, Arthrosyl®
+- NCT04647071 | COMPLETED | results=False | NA | Allium Extracts on the Incidence of Respiratory Infection Symptoms in Healthy Elderly Volunteers | conds: Immunity | intr: Garlic and onion concentrate, Control
+- NCT06821828 | NOT_YET_RECRUITING | results=False | NA | The Efficacy of Modified Olfactory Training for MCI High-Risk Individuals | conds: Subjective Cognitive Decline (SCD), Olfactory Dysfunction, Mild Cognitive Impairment (MCI), ELDERLY PEOPLE | intr: Modified olfactory training device, Conventional olfactory training device | pubs: ['40812823:DERIVED (new)']
+- NCT02865980 | UNKNOWN | results=False | NA | Effect of Washing With Clove Extract on Inflammation and Infection Place Logging Shaldon Needle | conds: Renal Failure | intr: clove extract, Betadine | pubs: ['22430697:RESULT (new)']
+- NCT04764981 | UNKNOWN | results=False | NA | Olfactory Training for Olfactory Dysfunction After Coronavirus Disease - 19 (COVID-19) | conds: Covid19, SARS-CoV Infection, Olfactory Disorder, Anosmia | intr: Essence oils
+- NCT03441074 | COMPLETED | results=False | NA | Olfactory Function and Delayed Neurocognitive Recovery | conds: Delayed Neurocognitive Recovery | intr: Odor Enrichment
+- NCT03105960 | UNKNOWN | results=False | NA | Garlic With Lime Juice and Chlorhexidine Mouthwash | conds: Gingival Bleeding | intr: garlic with lime mouth wash, chlorhexidine
+- NCT01385891 | COMPLETED | results=False | PHASE2,PHASE3 | Clove In The Treatment Of Relapsed Or Resistant Acute Leukemia In Children | conds: Acute Leukemia | intr: Clofarabine VP 16 ciclophospahamide
+- NCT07848984 | NOT_YET_RECRUITING | results=False | PHASE2 | Chinese Herbal Acupoint Application Combined With Triple Antiemetic Therapy for Prevention of Chemotherapy-Induced Nausea and Vomiting in Br | conds: Breast Neoplasms | intr: Chinese Herbal Acupoint Application, Sham Acupoint Application, Standard Triple Antiemetic Therapy
+- NCT04374474 | WITHDRAWN | results=False | PHASE4 | Anosmia Rehabilitation in Patients Post Coronavirus Disease (COVID 19) | conds: Olfactory Disorder | intr: Olfactory retraining, corticosteroid nasal irrigation, smell household Items, Nasal Irrigation
+- NCT05507359 | UNKNOWN | results=False | NA | Effect of Topical Application of Clove Gel Versus Benzocaine Gel on Pain Reduction During Application of Simple Dental Procedures in Childre | conds: Pain | intr: clove gel, Benzocaine gel | pubs: [':RESULT (-)']
+- NCT07285005 | RECRUITING | results=False | PHASE3 | A Study to Investigate Efficacy and Safety of KP-001 Compared With Placebo in Patients Aged ≥2 Years With Common VM, Common LM, or KTS/CLOVE | conds: Venous Malformations, Lymphatic Malformations, Klippel-Trenaunay Syndrome, CLOVES Syndrome | intr: KP-001, Placebo
+- NCT07429227 | RECRUITING | results=False | NA | Evaluation Through Innovative Examinations of Intestinal Dysbiosis Status in Patients Diagnosed With Cardiovascular Diseases and Evaluation  | conds: Acute Coronary Syndromes (ACS) | intr: Tea tree (Melaleuca alternifolia), Cinnamon (Cynnamomum zeylanicum) bark, Clove carnation (Eugenia c
+- NCT06254209 | COMPLETED | results=False | NA | Study to Evaluate the Physiological Effects on the Skin of 3 Food Supplements Versus Placebo in 40-60 Years Old Female Subjects | conds: Healthy Volunteers | intr: Botanicals extracts, Placebo
+- NCT05199623 | COMPLETED | results=False | NA | The Effect of Chinese Herbal Medicine as an Adjuvant Therapy in the Treatment of Traumatic Anosmia | conds: Traumatic Anosmia | intr: tailored Guizhi decoction, Olfactory training (OT)
+- NCT03420976 | WITHDRAWN | results=False | EARLY_PHASE1 | Novel Supplement-based Therapy for the Treatment of Small Intestinal Bacterial Overgrowth | conds: Small Intestinal Bacterial Overgrowth | intr: Novel Supplement Based Therapy
+- NCT05130957 | COMPLETED | results=False | NA | The Effect of Clove Oil on Labor Pain | conds: Labor Pain | intr: Massage Application with clove oil, Massage Application without any oil
+- NCT03553628 | COMPLETED | results=False | NA | Using a Mouthwash Containing Propolis, Clove Oil and Chlorhexidine to Improve the Caries Risk of High Risk Patients | conds: Caries, Dental, Risk Reduction | intr: Chlorhexidine, Propolis and Clove Oil mouthwash, Chlorhexidine mouthwash
+- NCT00954902 | COMPLETED | results=False | NA | Effects of Antioxidants on Cardiovascular Risk Measures (Spice Study) | conds: Cardiovascular, Psychological Stress | intr: High Antioxidant Spice Blend, Trier Psychological Stressor, Placebo antioxidant concentrate | pubs: ['25592751:DERIVED (new)']
+- NCT04973748 | COMPLETED | results=False | NA | Conditioned Open-label Placebo (COLP) for Peri-operative Pain Management in Patients With Head and Neck Cancer | conds: Postoperative Pain, Opioid Use | intr: Conditioned open-label placebo (COLP), Surveys about pain, opioid use and depression symptoms | pubs: ['37419646:DERIVED (new)']
+- NCT02599272 | COMPLETED | results=False | NA | Effects of Mixed Spices on Cardiometabolic Function - the PolySPice (PSP) Study | conds: Cardiometabolic Risk | intr: Rice with tomatoes and peeled aubergine (no spice), Rice with vegetables and low spice, Rice with ve | pubs: ['30687117:DERIVED (new)']
+- NCT04710394 | COMPLETED | results=False | NA | Visual-OLfactory Training in Participants With COVID-19 Resultant Loss of Smell | conds: Anosmia, Covid19, Ageusia, Hyposmia | intr: Smell Training | pubs: ['36580304:DERIVED (new)']
+- NCT03287011 | UNKNOWN | results=False | NA | Efficacy of a Plaque Disclosing Toothpaste on Home Oral Hygiene Procedures | conds: Chronic Gingivitis, Plaque Induced | intr: Shoplaq toothpaste, Colgate toothpaste
+- NCT05082350 | UNKNOWN | results=False | NA | Nutritional Intervention With Black Garlic | conds: Hypercholesterolemia, Hypertension, Hyperlipidemias, Inflammation | intr: black garlic
+- NCT04606680 | UNKNOWN | results=False | NA | Herb-partitioned Moxibustion Plus Lifestyle Modification Treatment for Simple Obesity | conds: Obesity | intr: Heat application at acupoints, Medicated plaster at acupoints, Herb-partitioned moxibustion at acupo | pubs: ['33545941:DERIVED (new)']
+- NCT06383754 | COMPLETED | results=False | NA | Clareon Intraocular Lens Stability in Vitrectomy Patients: CLOVE Study | conds: Senile Cataract, Epiretinal Membrane, Vitreous Hemorrhage | intr: Clareon, Tecnis 1
+- NCT07386860 | NOT_YET_RECRUITING | results=False | NA | The Effectiveness of Steroid Nasal Drops in the Olfactory Cleft Combined With Olfactory Training for Patients With PIOD | conds: Smell Dysfunction | intr: Steroid nasal drops combined with olfactory training, Placebo nasal drops combined with olfactory tr
+- NCT04952389 | COMPLETED | results=True | NA | Acupuncture Therapy for COVID-Related Olfactory Loss | conds: Olfactory Dysfunction, COVID-19 | intr: Acupuncture Therapy, Budesonide, Olfactory Training
+- NCT05744752 | UNKNOWN | results=False | NA | Effects of Allium Sativum and Moringa Oleifera Extract on Dental Enamel | conds: Lead Poisoning | intr: Lead Acetate, Moringa oleifera Extract, Allium sativum Extract, Placebo | pubs: ['17546858:RESULT (new)']
+- NCT07828171 | ACTIVE_NOT_RECRUITING | results=False | NA | Evaluation of Efficacy of Antibacterial Activity of Licorice, Clove, and Chlorohexidine Mouthwashes on Salivary Streptococcus Mutans in a Gr | conds: Dental Caries, Streptococcal Infections, Mouthwashes | intr: Mouth wash
+- NCT06290219 | UNKNOWN | results=False | PHASE3 | The Effect of Platelet-rich Plasma Nasal Injection in the Treatment of Traumatic Olfactory Dysfunction | conds: Traumatic Olfactory Nerve Injury With Anosmia (Diagnosis), Effect of Drug | intr: platelet-rich plasma combined with hyaluronic acid, Zinc Gluconate 10 MG Oral Tablet, 4 bottles of p
+- NCT06811051 | UNKNOWN | results=False | EARLY_PHASE1 | Effect of Clove Oil and Menthol Lozenges on Post-extubation Sore Throat | conds: Sore Throat | intr: Menthol lozenge, Clove lozenge, None-placebo
+- NCT05815654 | UNKNOWN | results=False | NA | Research and Development of WPAPS Based on the Modern Technology of Traditional Chinese Medicine | conds: Dysmenorrhea | intr: Warm Palace Analgesic Point Sticker
+
+### OpenAlex no-PMID trial-worded - 3496 hits, 55 without PMID, 55 new
+- new | 2026 | 10.65605/a-jmrhs.2026.v04.i01.pp253-259 | article | A STUDY PROTOCOL FOR A DOUBLE-ARM RANDOMISED CONTROLLED TRIAL TO EVALUATE THE ANAESTHETIC EFFICACY OF A NOVEL TOPICAL AYURVEDIC EMULGEL DURING NEONATAL VENIPUNCTURE | Asian Journal of Medical Research & Heal
+- new | 2026 | 10.21608/mid.2026.460058.3646 | article | Syzygium aromaticum, and Punica granatum Mediated Silver Nanoparticles Combat MDR Bacterial in ICU Patients: Antibacterial, Antibiofilm, and Virulence-Downregulating Effects | Microbes and Infectious Diseases /Microb
+- new | 2026 | 10.1016/j.ijgc.2025.103761 | article | Clove (syzygium aromaticum) aqueous extract inhibits proliferation and induces mitochondrial dysfunction and ATF-2 activation in patient-derived ovarian cancer cells | International Journal of Gynecological C
+- new | 2026 | 10.70082/83w5ft52 | article | Efficacy of Syzygium aromaticum (Clove) Infusion as Adjunctive Therapy for Glycemic Control and COVID-19 Complication Mitigation in Diabetic Patients: A Pilot Clinical Study at Ibn | The Review of Diabetic Studies
+- new | 2026 | 10.2174/0126669390425078260205113815 | review | Syzygium aromaticum: A Systematic Review of its Phytochemistry and Pharmacological Applications | Letters in Functional Foods
+- new | 2025 | 10.47832/2717-8234.7.4.28 | article | ANTIBACTERIAL ACTIVITY OF SYZYGIUM AROMATICUM CLOVES AGAINST DIARRHEA OF PATIENTS OF BABYLON PROVINCE | MINAR International Journal of Applied S
+- new | 2025 | 10.47832/2717-8234.25.20 | article | DETECTED OF TINEA AXILLORIS BY METAGENOMIC ANALYSIS AND EVALUATION OF SYZYGIUM AROMATICUM EXTRACTION ON PATIENT | MINAR International Journal of Applied S
+- new | 2025 | 10.13057/biodiv/d260141 | article | Evaluation of the effects of Glycyrrhiza glabra and Syzygium aromaticum extracts on gene expression of Streptococcus mutans in patients with dental caries | Biodiversitas Journal of Biological Dive
+- new | 2025 | 10.1016/j.sciaf.2025.e02764 | article | Antimicrobial Activity of Chromolaena Odorata and Syzygium Aromaticum against multi-drug resistant clinical isolates from diabetic foot ulcer patients: A cross-sectional study | Scientific African
+- new | 2025 | 10.55905/revconv.18n.8-031 | review | Effectiveness of herbal medicines to treat oral mucositis in cancer patients: a systematic review | Contribuciones a las Ciencias Sociales
+- new | 2025 | https://openalex.org/W7218330823 | article | GUT MICROBIOTA OF BROILER CHICKENS FED VARYING LEVELS OF Syzygium aromaticum | Nigerian Journal of Animal Production
+- new | 2025 | 10.46889/jdhor.2025/6219 | article | A Natural Approach to Managing Tooth Hypersensitivity: A Randomized Clinical Trial | Journal of Dental Health and Oral Resear
+- new | 2024 | 10.22271/flora.2024.v12.i4a.938 | article | A clinical study on subclinical hypothyroidism and its management with an extract of Jawarish e Bisbasa formulation: A randomized double-blind placebo-controlled clinical trial | International Journal of Herbal Medicine
+- new | 2024 | 10.4103/jiaphd.jiaphd_98_23 | article | Antibacterial Effect of Mouth Rinsing with a Solution Containing 1.6% Syzygium aromaticum Extract against Streptococcus mutans: An In vivo Randomized Controlled Trial | Journal of Indian Association of Public 
+- new | 2024 | 10.37897/rjid.2024.1.1 | article | Phyto-activity of Syzygium aromaticum extract against pathogenic bacteria isolated from chronic tonsilitis patients | Romanian Journal of Infectious Diseases
+- new | 2024 | 10.1177/1934578x241283188 | article | Characterization of Muffins Prepared With Clove (Syzygium Aromaticum) Extract and its Effect on Hyperlipidemic Adult Patients | Natural Product Communications
+- new | 2024 | 10.1109/iciptm59628.2024.10563563 | conference-paper | Hybrid CNN & Random Forest Model for Effective Clove Leaf Disease Dignosis | International Conference on Innovative P
+- new | 2024 | 10.30574/gscbps.2024.27.2.0171 | article | Comparison the effect of plant extracts and antibiotics on gram negative bacteria isolated from patients with urinary tract infection in Tikrit city | GSC Biological and Pharmaceutical Scienc
+- new | 2024 | 10.38124/ijisrt/ijisrt24jul1887 | article | Effectiveness of Mouthwash Containing Cloves (Syzygium Aromaticum) in Treating Gingivitis in Adolescents | International Journal of Innovative Scie
+- new | 2024 | 10.62877/26-ijcbs-24-25-19-26 | article | Antifungal activity of clove (Syzygium aromaticum) essential oil | International Journal of Chemical and Bi
+- new | 2024 | 10.62354/ijoa.v2i1.9 | article | Effectiveness of Combination of Local Point Acupuncture Therapy with Topical Clove Oil (Syzygium aromaticum) Method on Pain Scale in Knee Pain Patients in Ngrambe Village, Ngawi Re | Indonesian Journal of Acupuncture
+- new | 2023 | 10.13188/2334-2846.1000059 | article | Validation of Incorporating Standardized Formula with Phytoconstituents in Knee Osteoarthritis: A Randomized, Placebo-Controlled Study | Journal of Orthopedics & Rheumatology
+- new | 2023 | 10.1088/1755-1315/1246/1/012002 | conference-paper | Effect of Paclobutrazol on Leaf and Clove (Syzygium aromaticum) Flowering | IOP Conference Series Earth and Environm
+- new | 2023 | 10.24925/turjaf.v11i10.1892-1904.6185 | article | Clinical Effect of Poly Herbal Unani Formulation on Dyslipidemia- A Randomized Trial | Turkish Journal of Agriculture - Food Sc
+- new | 2022 | 10.26444/jpccr/150090 | article | A randomized controlled trial evaluating the efficacy and safety of a MYCOFUNGI CREAM in patients with skin mycoses | Journal of Pre-Clinical and Clinical Res
+- new | 2022 | 10.1016/j.jff.2022.105273 | article | Clove bud (Syzygium aromaticum L.) polyphenol helps to mitigate metabolic syndrome by establishing intracellular redox homeostasis and glucose metabolism: A randomized, double-blin | Journal of Functional Foods
+- new | 2022 | 10.4067/s0718-58392022000100088 | article | Effect of selected essential oils on the efficacy of volunteer oilseed rape control and phytotoxicity in maize plants | Chilean journal of agricultural research
+- new | 2022 | 10.30699/jambs.30.139.101 | article | Infusion Versus Bolus Esmolol on Hemodynamic Responses to Intubation in Patients Undergoing Coronary Artery Bypasses Grafting: a Randomized Clinical Trial | Journal of Advances in Medical and Biome
+- new | 2021 | 10.18502/tim.v6i3.7312 | article | Effect of Topical Clove (Syzygium aromaticum (L.) Merr. & L.M.Perry) Gel on Premature Ejaculation: A Pilot Randomized Double-Blind Placebo-Controlled Clinical Trial | Traditional and Integrative Medicine
+- new | 2021 | 10.21203/rs.3.rs-1318760/v1 | preprint | Efficacy and Safety of A Novel Antiviral Preparation in ICU-Admitted Patients with COVID-19: A Phase III Randomized Controlled Trial | Research Square
+- new | 2021 | 10.9734/jpri/2021/v33i39b32180 | article | Efficacy of Herbal Mouthwash with Extracts of Coriandrum Sativum, Mint and Clove in the Treatment of Chronic Gingivitis- A Randomized Controlled Clinical Trial | Journal of Pharmaceutical Research Inter
+- new | 2021 | 10.36295/asro.2021.24222 | article | Effects of Syzygium aromaticum in over weight and obese female patients withPolycystic Ovary Syndrome | Annals of Tropical Medicine and Public H
+- new | 2021 | 10.37275/ehi.v2i2.18 | article | Antibacterial and Antifungal Activity of Clove Extract (Syzygium Aromaticum): Review | Eureka Herba Indonesia
+- new | 2020 | 10.22038/ijogi.2020.16000 | article | Effect of hydro-alcoholic extract of clove on intensity of episiotomy pain in women: randomized clinical trial | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2020 | 10.47552/ijam.v11i3.1560 | article | Efficacy of Prakriti specific Herbal Tea in Diabetes A Randomized controlled trial | International Journal of Ayurvedic Medic
+- new | 2020 | 10.9734/jocamr/2020/v11i130178 | article | Evaluation of Anti-diabetic, Hepatoprotective and Antilipidemic Potentials of Syzygium aromaticum (Clove) on Albino Rats | Journal of Complementary and Alternative
+- new | 2020 | 10.51791/njap.v45i4.560 | article | Hormone inducive effects of Syzygium aromaticum (Clove) extract on the reproductive performance of Bucks | Nigerian Journal of Animal Production
+- new | 2020 | 10.31080/asds.2020.05.1006 | article | Using A Mouthwash Containing Propolis, Clove Oil and Chlorhexidine to Improve the Caries Risk of High-risk Patients: Randomized Clinical Trial | Acta Scientific Dental Scienecs
+- new | 2019 | 10.1055/s-0039-3400142 | conference-paper | Investigations on Ayurvedic medicinal plants towards Inhibition of quorum sensing and biofilm produced by periodontal bacteria isolated from diabetic patients | Planta Medica
+- new | 2019 | 10.5539/jas.v11n8p295 | article | Syzygium aromaticum Essential Oil to the Control of Tenuipalpus heveae | Journal of Agricultural Science
+- new | 2019 | https://openalex.org/W7216934530 | article | A COMPREHENSIVE AYURVEDIC REVIEW ON LAVANGA (SYZYGIUM AROMATICUM) | AYUSHDHARA
+- new | 2019 | 10.1088/1742-6596/1232/1/012022 | conference-paper | Effect of Ectomycorrhizal Fungi and Trichoderma harzianum on the Clove (Syzygium aromaticum L.) Seedlings Performances | Journal of Physics Conference Series
+- new | 2019 | 10.29244/jtcs.6.02.105-111 | article | Morphological Traits of Maluku Native Forest Clove (Syzygium aromaticum L. Merr & Perry) | Journal of Tropical Crop Science
+- new | 2018 | 10.24237/djps.1403.423c | article | Inhibitory Effect of Myrtus communis L. and Syzygium aromaticum L. Extracts on the Growth of Staphylococcus aureus Isolated from Foot Ulcers of Diabetic Patients | Diyala Journal for Pure Science
+- new | 2018 | https://openalex.org/W3082803649 | article | Quality assessment of Syzygium aromaticum: A pharmacognostic and phytochemical approach | Journal of Pharmacognosy and Phytochemis
+- new | 2017 | 10.56093/ijans.v87i8.73453 | article | In vitro anthelmintic activity of Syzygium aromaticum and Melia dubia against Haemonchus contortus of sheep | The Indian Journal of Animal Sciences
+- new | 2017 | 10.36326/kjvs/2017/v8i24124 | article | Analgesic and Anti- Inflammatory Effects of Hydro Alcoholic Extract of (Syzygium aromaticum) in Albino Mice | Kufa Journal For Veterinary Medical Scie
+- new | 2017 | 10.35790/eg.5.1.2017.15547 | article | Uji daya hambat ekstrak daun cengkih (Syzygium aromaticum (L.) ) terhadap bakteri Enterococcus faecalis | e-GIGI
+- new | 2016 | https://openalex.org/W2223056510 | article | Comparison of the effect of topical application of Eugenia caryophylata extract and topical diclofenac in primary knee osteoarthritis: a clinical trial study | Advanced herbal medicine
+- new | 2015 | 10.1016/j.hermed.2015.06.001 | article | A randomized double-blind study evaluating the safety and effectiveness of a Ghanaian polyherbal product for the management of superficial mycoses | Journal of Herbal Medicine
+- new | 2011 | 10.15373/2249555x/feb2013/96 | article | Antimicrobial Effect of chewing Tamboolam (betal leaves and its combinations) by testing saliva of volunteers | Indian Journal Of Applied Research
+- new | 2011 | 10.21608/ejar.2011.176660 | article | FIELD TRIAL FOR CONTROLLING THE FOULBROOD DISEASES IN HONEYBEE COLONIES | Egyptian Journal of Agricultural Researc
+- new | 2009 | https://openalex.org/W2182314856 | article | The effects of Syzygium aromaticum (clove) on learning and memory in mice | 亚洲传统医药
+- new | 2005 | https://openalex.org/W2372867828 | article | Trial on Weed Control by 30% "Feida" Roundup Soluble Powder in Nursery | Journal of Gansu Forestry Science and Te
+- new | 1946 | 10.1080/03670074.1946.11664544 | article | Preliminary Trials on the Rooting of Clove Cuttings | The East African Agricultural Journal
+
+## tanacetum-parthenium (Tanacetum parthenium) - name clause: "Tanacetum parthenium"[tiab] OR "feverfew"[tiab] OR "Chrysanthemum parthenium"[tiab] OR "MIG-99"[tiab]
+
+### PubMed HT - 44 hits, 44 not already listed above, 34 new
+- new | 2026 | 42601183 |  | Ginger for the treatment and prevention of migraine headaches: a systematic review and meta-analysis of randomised controlled trials. | BMJ Evid Based Med
+- new | 2026 | 42393553 |  | Exploring the impact of light spectra on growth: unveiling the role of LED light in modulating phytochemical responses of feverfew (Tanacetum parthenium L.). | BMC Plant Biol
+- new | 2025 | 41422534 | Review | Systematic review and meta-analysis of Tanacetum parthenium: evaluating its efficacy in migraine relief. | Nat Prod Res
+- HELD REF-1575 | 2020 | 32310327 | Systematic Review | Herbal treatments for migraine: A systematic review of randomised-controlled studies. | Phytother Res
+- new | 2020 | 32585459 |  | Deciphering morpho-physiological and phytochemical attributes of Tanacetum parthenium L. plants exposed to C60 fullerene and salicylic acid. | Chemosphere
+- new | 2020 | 33375459 |  | Open Label Prospective Experience of Supplementation with a Fixed Combination of Magnesium, Vitamin B2, Feverfew, Andrographis Paniculata and Coenzyme Q10 for Episodic Migraine Pro | J Clin Med
+- new | 2019 | 30790138 | Review | Complementary and Integrative Medicine for Episodic Migraine: an Update of Evidence from the Last 3 Years. | Curr Pain Headache Rep
+- new | 2019 | 30627973 | Review | Phytomedicines in the Treatment of Migraine. | CNS Drugs
+- new | 2019 | 31687058 | Clinical Trial | Comparison of the Effect of Tanacethum Parthenium, 5-Hydroxy Tryptophan, and Magnesium (Aurastop) versus Magnesium Alone on Aura Phenomenon and Its Evolution. | Pain Res Manag
+- new | 2017 | 28527085 |  | The use of nutraceutics in children's and adolescent's headache. | Neurol Sci
+- new | 2017 | 27717727 |  | Efficacy of parthenolide on lung histopathology in a murine model of asthma. | Allergol Immunopathol (Madr)
+- new | 2017 | 28527067 | Review | Usefulness of nutraceuticals in migraine prophylaxis. | Neurol Sci
+- new | 2016 | 26923604 |  | Nutraceuticals in Acute and Prophylactic Treatment of Migraine. | Curr Treat Options Neurol
+- HELD REF-0450 | 2015 | 25892430 |  | Feverfew for preventing migraine. | Cochrane Database Syst Rev
+- new | 2012 | 22961605 | Randomized Controlled Trial | The combined effect of acupuncture and Tanacetum parthenium on quality of life in women with headache: randomised study. | Acupunct Med
+- new | 2011 | 21631494 | Multicenter Study/Randomized Controlled Trial | A double-blind placebo-controlled pilot study of sublingual feverfew and ginger (LipiGesic™ M) in the treatment of migraine. | Headache
+- new | 2010 | 20464605 | Review | Non-pharmacological approach to migraine prophylaxis: part II. | Neurol Sci
+- new | 2010 | 20690937 |  | Patch test reactivity to feverfew-containing creams in feverfew-allergic patients. | Contact Dermatitis
+- new | 2009 | 22435410 | Systematic Review | Feverfew for migraine prophylaxis: a systematic review. | J Diet Suppl
+- HELD REF-1578 | 2009 | 19112586 | Randomized Controlled Trial | Anti-inflammatory activity of parthenolide-depleted Feverfew (Tanacetum parthenium). | Inflammopharmacology
+- new | 2008 | 18071724 |  | Parthenolide-depleted Feverfew (Tanacetum parthenium) protects skin from UV irradiation and external aggression. | Arch Dermatol Res
+- new | 2008 | 18325296 |  | Update on the prophylaxis of migraine. | Curr Treat Options Neurol
+- new | 2008 | 18765145 | Review | Complementary and alternative treatments for childhood headaches. | Curr Pain Headache Rep
+- SEEN | 2006 | 17163262 | Clinical Trial/Meta-Analysis/Research Support, Non-U.S. Gov't | Tanacetum parthenium and Salix alba (Mig-RL) combination in migraine prophylaxis: a prospective, open-label study. | Clin Drug Investig
+- HELD REF-3791 | 2005 | 16232154 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy and safety of 6.25 mg t.i.d. feverfew CO2-extract (MIG-99) in migraine prevention--a randomized, double-blind, multicentre, placebo-controlled study. | Cephalalgia
+- new | 2005 | 16127373 | Clinical Trial/Research Support, Non-U.S. Gov't | Gelstat Migraine (sublingually administered feverfew and ginger compound) for acute treatment of migraine when administered during the mild pain phase. | Med Sci Monit
+- HELD REF-0450 | 2004 | 14973986 | Systematic Review | Feverfew for preventing migraine. | Cochrane Database Syst Rev
+- new | 2004 | 15447697 | Clinical Trial/Comparative Study/Randomized Controlled Trial | A combination of riboflavin, magnesium, and feverfew for migraine prophylaxis: a randomized trial. | Headache
+- new | 2004 | 15503788 |  | Contact allergy to Compositae plants in patients with atopic dermatitis. | Med Pregl [eng,srp]
+- new | 2004 | 15122077 | Clinical Trial/Clinical Trial, Phase I/Research Support, Non-U.S. Gov't | Phase I dose escalation trial of feverfew with standardized doses of parthenolide in patients with cancer. | Invest New Drugs
+- new | 2002 | 24682554 |  | Gibt es Evidenz für die Wirksamkeit komplementärmedizinischer Therapien für die Migräneprophylaxe? | Bundesgesundheitsblatt Gesundheitsforsch [ger]
+- HELD REF-1576 | 2002 | 12230594 | Clinical Trial/Comparative Study/Multicenter Study/Randomized Controlled Trial | The efficacy and safety of Tanacetum parthenium (feverfew) in migraine prophylaxis--a double-blind, multicentre, randomized placebo-controlled dose-response study. | Cephalalgia
+- new | 2001 | 11683829 |  | Sensitization and cross-reaction patterns in Danish Compositae-allergic patients. | Contact Dermatitis
+- HELD REF-0450 | 2000 | 10908545 | Systematic Review | Feverfew for preventing migraine. | Cochrane Database Syst Rev
+- HELD REF-1572 | 2000 | 11276299 | Systematic Review | The efficacy and safety of feverfew (Tanacetum parthenium L.): an update of a systematic review. | Public Health Nutr
+- new | 1999 | 10719691 | Clinical Trial | [Feverfew as a prophylactic treatment of migraine]. | Neurol Neurochir Pol [pol]
+- new | 1998 | 9950629 | Systematic Review | Feverfew as a preventive treatment for migraine: a systematic review. | Cephalalgia
+- new | 1996 | 23195074 |  | Herbal medicines in migraine prevention Randomized double-blind placebo-controlled crossover trial of a feverfew preparation. | Phytomedicine
+- HELD REF-3792 | 1989 | 2673080 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Feverfew in rheumatoid arthritis: a double blind, placebo controlled study. | Ann Rheum Dis
+- new | 1988 | 2899663 | Clinical Trial/Randomized Controlled Trial | Randomised double-blind placebo-controlled trial of feverfew in migraine prevention. | Lancet
+- new | 1988 | 2967795 | Comparative Study | Chromosomal aberrations and sister chromatid exchanges in lymphocytes and urine mutagenicity of migraine patients: a comparison of chronic feverfew users and matched non-users. | Hum Toxicol
+- new | 1987 | 3692501 | Research Support, Non-U.S. Gov't | Investigation of possible genetoxic effects of feverfew in migraine patients. | Hum Toxicol
+- new | 1985 | 3929876 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy of feverfew as prophylactic treatment of migraine. | Br Med J (Clin Res Ed)
+- new | 1982 | 6125851 | Letter | Platelet aggregation in patients using feverfew for migraine. | Lancet
+
+### PubMed SR - 13 hits, 4 not already listed above, 3 new
+- new | 2022 | 36016807 |  | Gastrointestinal, metabolic, and nutritional disorders: A plant-based ethnoveterinary meta-analysis in the Catalan linguistic area. | Front Vet Sci
+- new | 2016 | 26887532 | Meta-Analysis/Systematic Review | A Critical Approach to Evaluating Clinical Efficacy, Adverse Events and Drug Interactions of Herbal Remedies. | Phytother Res
+- HELD REF-1574 | 2011 | 22096324 |  | Feverfew (Tanacetum parthenium L.): A systematic review. | Pharmacogn Rev
+- new | 1999 | 10030529 | Meta-Analysis | Unsafe and potentially safe herbal therapies. | Am J Health Syst Pharm
+
+### PubMed SAFE - 106 hits, 87 not already listed above, 82 new
+- new | 2027 | 42971420 |  | Case studies on the safety assessment strategy for botanical extracts in cosmetic products. | Regul Toxicol Pharmacol
+- new | 2026 | 41982760 | Review | Parthenolide and Its Derivatives in the Treatment of Respiratory Tract Diseases: Therapeutic Effects and Molecular Mechanisms. | Drug Des Devel Ther
+- new | 2025 | 40378325 | Review | Migraine Headache Prophylaxis. | Am Fam Physician
+- new | 2025 | 39853578 | Review | Nutraceuticals and Headache 2024: Riboflavin, Coenzyme Q10, Feverfew, Magnesium, Melatonin, and Butterbur. | Curr Pain Headache Rep
+- new | 2025 | 40488110 |  | Engineering the cytochrome P450 to enhance parthenolide production in Saccharomyces cerevisiae. | Synth Syst Biotechnol
+- new | 2025 | 39746781 | Research Support, Non-U.S. Gov't | Food Safety Evaluation of Recombinant Humanized Type III Collagen Produced by Komagataella phaffii SMD1168-2COL3. | J Appl Toxicol
+- new | 2025 | 39506320 |  | Epoxymicheliolide Reduces Radiation-Induced Senescence and Extracellular Matrix Formation by Disrupting NF-κB and TGF-β/SMAD Pathways in Lung Cancer. | Phytother Res
+- new | 2024 | 38307641 | Review | Nutraceuticals in migraine. | Handb Clin Neurol
+- HELD REF-1998 | 2024 | 38718639 |  | Cnicin promotes functional nerve regeneration. | Phytomedicine
+- new | 2024 | 39457613 | Review | Exploring the Phytochemistry, Signaling Pathways, and Mechanisms of Action of Tanacetum parthenium (L.) Sch.Bip.: A Comprehensive Literature Review. | Biomedicines
+- new | 2023 | 37446568 |  | A Study of the Chemical Composition, Acute and Subacute Toxicity of Bulgarian Tanacetum parthenium Essential Oil. | Molecules
+- new | 2022 | 34060380 | Review | Leukemia Chemoprevention and Therapeutic Potentials: Selected Medicinal Plants with Anti-Leukemic Activities. | Nutr Cancer
+- new | 2021 | 33401551 | Review | Complementary and Integrative Medicines as Prophylactic Agents for Pediatric Migraine: A Narrative Literature Review. | J Clin Med
+- new | 2021 | 33972917 | Review | The Efficacy of Herbal Supplements and Nutraceuticals for Prevention of Migraine: Can They Help? | Cureus
+- new | 2021 | 33562487 | Research Support, Non-U.S. Gov't/Review | Non-Pharmacological Approaches to Headaches: Non-Invasive Neuromodulation, Nutraceuticals, and Behavioral Approaches. | Int J Environ Res Public Health
+- new | 2021 | 34434419 | Case Reports | Alteration of Coagulation Test Results and Vaginal Bleeding Associated With the Use of Feverfew (Tanacetum parthenium). | J Med Cases
+- new | 2020 | 32012936 | Review | The Use of Antioxidants in the Treatment of Migraine. | Antioxidants (Basel)
+- new | 2020 | 31697983 | Research Support, Non-U.S. Gov't | The parthenolide derivative ACT001 synergizes with low doses of L-DOPA to improve MPTP-induced Parkinson's disease in mice. | Behav Brain Res
+- new | 2020 | 32472655 | Letter | Cytokine storm in COVID-19 and parthenolide: Preclinical evidence. | Phytother Res
+- new | 2019 | 30600979 |  | Migraine Headache Prophylaxis. | Am Fam Physician
+- new | 2019 | 30582184 | Case Reports | Occupational contact dermatitis caused by Eucalyptus species and Tanacetum parthenium. | Contact Dermatitis
+- new | 2019 | 32952998 |  | Derivatisation of parthenolide to address chemoresistant chronic lymphocytic leukaemia. | Medchemcomm
+- new | 2019 | 31491430 |  | Multiple pharmacological and toxicological investigations on Tanacetum parthenium and Salix alba extracts: Focus on potential application as anti-migraine agents. | Food Chem Toxicol
+- new | 2019 | 30668436 |  | Evaluation of anti-HSV-1 activity and toxicity of hydroethanolic extract of Tanacetum parthenium (L.) Sch.Bip. (Asteraceae). | Phytomedicine
+- new | 2018 | 28960341 | Research Support, Non-U.S. Gov't | Distinct epitope structures of defensin-like proteins linked to proline-rich regions give rise to differences in their allergenic activity. | Allergy
+- new | 2018 | 30405138 | Research Support, Non-U.S. Gov't | Kauniolide synthase is a P450 with unusual hydroxylation and cyclization-elimination activity. | Nat Commun
+- new | 2017 | 28543097 | Review | Contact dermatitis as an adverse reaction to some topically used European herbal medicinal products - part 4: Solidago virgaurea-Vitis vinifera. | Contact Dermatitis
+- new | 2017 | 28729676 | Research Support, Non-U.S. Gov't | Proteomic profiling of the weed feverfew, a neglected pollen allergen source. | Sci Rep
+- HELD REF-5424 | 2017 | 27568784 | Review | Systemic allergic dermatitis caused by sesquiterpene lactones. | Contact Dermatitis
+- new | 2017 | 28924222 | Research Support, Non-U.S. Gov't | Conjugation of wildtype and hypoallergenic mugwort allergen Art v 1 to flagellin induces IL-10-DC and suppresses allergen-specific TH2-responses in vivo. | Sci Rep
+- new | 2016 | 27450490 |  | Magnesium and manganese interactively modulate parthenolide accumulation and the antioxidant defense system in the leaves of Tanacetum parthenium. | J Plant Physiol
+- new | 2015 | 26626238 | Comparative Study/Research Support, Non-U.S. Gov't | Development of a highly reproducible system to evaluate inhibition of cytochrome P450 3A4 activity by natural medicines. | J Pharm Pharm Sci
+- HELD REF-5214 | 2014 | 25233607 | Research Support, Non-U.S. Gov't/Review | Warfarin interactions with medicinal herbs. | Nat Prod Commun
+- new | 2014 | 24810433 | Research Support, Non-U.S. Gov't | In vitro and in vivo antileishmania activity of sesquiterpene lactone-rich dichloromethane fraction obtained from Tanacetum parthenium (L.) Schultz-Bip. | Exp Parasitol
+- new | 2014 | 24125916 | Research Support, Non-U.S. Gov't | St. John's Wort seed and feverfew flower extracts relieve painful diabetic neuropathy in a rat model of diabetes. | Fitoterapia
+- HELD REF-1581 | 2013 | 25775817 | Review | [Studies on the antimigraine action of Feverfew (Tanacetum parthenium (L.) Sch. Bip.)]. | Wiad Lek [pol]
+- new | 2013 | 24106675 |  | Quantification of Sesquiterpene Lactones in Asteraceae Plant Extracts: Evaluation of their Allergenic Potential. | Sci Pharm
+- new | 2013 | 24002161 |  | Natural ingredients in atopic dermatitis and other inflammatory skin disease. | J Drugs Dermatol
+- new | 2013 | 23792430 | Research Support, Non-U.S. Gov't | Parthenolide reverses doxorubicin resistance in human lung carcinoma A549 cells by attenuating NF-κB activation and HSP70 up-regulation. | Toxicol Lett
+- new | 2012 | 23030536 | Review | Herbal treatment of headache. | Headache
+- new | 2012 | 21603970 | Review | Parthenolide, a sesquiterpene lactone, expresses multiple anti-cancer and anti-inflammatory activities. | Inflammation
+- new | 2012 | 22868542 | Case Reports/Review | Nonmedication, alternative, and complementary treatments for migraine. | Continuum (Minneap Minn)
+- new | 2011 | 21886554 |  | Parthenolide Blocks Cocaine's Effect on Spontaneous Firing Activity of Dopaminergic Neurons in the Ventral Tegmental Area. | Curr Neuropharmacol
+- new | 2011 | 21156214 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Nitroglycerin alters matrix remodeling proteins in THP-1 human macrophages and plasma metalloproteinase activity in rats. | Nitric Oxide
+- new | 2009 | 19454881 | Review | Foods and supplements in the management of migraine headaches. | Clin J Pain
+- new | 2007 | 18021597 | Review | Parthenium dermatitis. | Dermatitis
+- new | 2007 | 17300241 | Research Support, Non-U.S. Gov't | Compositae dermatitis from airborne parthenolide. | Br J Dermatol
+- new | 2007 | 18021604 | Case Reports | Two cases of compositae dermatitis exacerbated by moisturizer containing feverfew. | Dermatitis
+- new | 2006 | 30000867 | Review | Chamomile. | 
+- new | 2006 | 16417067 | Review | Medications for migraine prophylaxis. | Am Fam Physician
+- new | 2006 | 16468289 | Review | Treatment of rosacea with herbal ingredients. | J Drugs Dermatol
+- new | 2005 | 15942912 | Review | Herbal medications commonly used in the practice of rheumatology: mechanisms of action, efficacy, and side effects. | Semin Arthritis Rheum
+- new | 2004 | 15283880 | Research Support, Non-U.S. Gov't/Review | Biology of weed pollen allergens. | Curr Allergy Asthma Rep
+- new | 2004 | 15264611 | Review | Evidenced-based use of botanicals, minerals, and vitamins in the prophylactic treatment of migraines. | J Am Acad Nurse Pract
+- new | 2004 | 15219941 | Research Support, Non-U.S. Gov't | Involvement of proapoptotic Bcl-2 family members in parthenolide-induced mitochondrial dysfunction and apoptosis. | Cancer Lett
+- new | 2004 | 15384148 | Comparative Study/Evaluation Study/Research Support, Non-U.S. Gov't/Validation Study | Simultaneous determination of the inhibitory potency of herbal extracts on the activity of six major cytochrome P450 enzymes using liquid chromatography/mass spectrometry and autom | Rapid Commun Mass Spectrom
+- HELD REF-1301 | 2003 | 12793186 | Review | [Compositae dermatitis]. | Med Pregl [hrv]
+- new | 2003 | 12704968 | Review | An overview of herbal supplement utilization with particular emphasis on possible interactions with dental drugs and oral manifestations. | J Dent Hyg
+- new | 2003 | 14735438 | Research Support, U.S. Gov't, Non-P.H.S. | Transport of parthenolide across human intestinal cells (Caco-2). | Planta Med
+- new | 2002 | 12472978 | Review | Herbal medication: potential for adverse interactions with analgesic drugs. | J Clin Pharm Ther
+- new | 2002 | 12225407 | Case Reports | Do monoterpenes released from feverfew (Tanacetum parthenium) plants cause airborne Compositae dermatitis? | Contact Dermatitis
+- new | 2001 | 11368667 | Review | Herbal therapy: what every facial plastic surgeon must know. | Arch Facial Plast Surg
+- new | 2001 | 11694643 | Review | Herbals, cancer prevention and health. | J Nutr
+- new | 2001 | 11493302 | Review | The impact of herbal medicines on dermatologic surgery. | Dermatol Surg
+- new | 2001 | 11206893 | Case Reports | Gingko biloba: a case report of herbal medicine and bleeding postoperatively from a laparoscopic cholecystectomy. | Am Surg
+- new | 2001 | 15990509 |  | Herbs and nutrients in the treatment of depression, anxiety, insomnia, migraine, and obesity. | J Psychiatr Pract
+- new | 1999 | 10482013 | Research Support, Non-U.S. Gov't | Airborne Compositae dermatitis: monoterpenes and no parthenolide are released from flowering Tanacetum parthenium (feverfew) plants. | Arch Dermatol Res
+- new | 1999 | 10583117 | Case Reports | T-lymphocyte cytokine profiles in compositae airborne dermatitis. | Br J Dermatol
+- new | 1998 | 9787279 | Review | Herbal 'health' products: what family physicians need to know. | Am Fam Physician
+- new | 1998 | 9818800 | Review | Herbal medicinals: selected clinical considerations focusing on known or potential drug-herb interactions. | Arch Intern Med
+- new | 1998 | 9504241 | Research Support, Non-U.S. Gov't | Occupational dermatitis in Danish gardeners and greenhouse workers (II). Etiological factors. | Contact Dermatitis
+- new | 1998 | 9747365 |  | Patch testing for Compositae allergy. | Br J Dermatol
+- new | 1998 | 9536405 | Research Support, Non-U.S. Gov't | Occupational dermatitis in Danish gardeners and greenhouse workers (III). Compositae-related symptoms. | Contact Dermatitis
+- new | 1996 | 8807225 |  | Occupational allergic contact dermatitis caused by decorative plants. | Contact Dermatitis
+- new | 1995 | 7620370 | Research Support, Non-U.S. Gov't | Immunochemical characterization of rapid and slowly released allergens from the pollen of Parthenium hysterophorus. | Int Arch Allergy Immunol
+- new | 1993 | 8441776 |  | Feverfew and vascular smooth muscle: extracts from fresh and dried plants show opposing pharmacological profiles, dependent upon sesquiterpene lactone content. | Planta Med
+- new | 1993 | 8365167 |  | Compositae dermatitis in a Danish dermatology department in one year (I). Results of routine patch testing with the sesquiterpene lactone mix supplemented with aimed patch testing  | Contact Dermatitis
+- new | 1993 | 8428168 | Research Support, Non-U.S. Gov't | Allergenic cross-reactivity between Parthenium and ragweed pollen allergens. | Int Arch Allergy Immunol
+- new | 1987 | 3827282 | Case Reports | Compositae dermatitis in childhood. | Arch Dermatol
+- new | 1987 | 3653998 | Research Support, U.S. Gov't, P.H.S. | Allergic reactivity of Parthenium hysterophorus (Santa Maria feverfew) pollen: an unrecognized allergen. | Int Arch Allergy Appl Immunol
+- new | 1985 | 4044250 | Case Reports | [Airborne contact dermatitis]. | Hautarzt [ger]
+- new | 1985 | 4064647 |  | Chrysanthemum dermatitis in South Wales; diagnosis by patch testing with feverfew (Tanacetum parthenium) extract. | Contact Dermatitis
+- new | 1984 | 6488783 |  | Contact dermatitis from Frullania, Compositae and other plants. | Contact Dermatitis
+- new | 1983 | 6195862 | Case Reports/Research Support, Non-U.S. Gov't | Contact allergy to parthenolide in Tanacetum parthenium (L.) Schulz-Bip. (feverfew, Asteraceae) and cross-reactions to related sesquiterpene lactone containing Compositae species. | Acta Derm Venereol
+- new | 1981 | 6452257 | Case Reports | [Occupational contact allergy to feverfew Tanacetum parthenium (L.) Schultz-Bip.; Asteraceae]. | Derm Beruf Umwelt [ger]
+- new | 1980 | 7438747 | Case Reports | Compositae dermatitis in South Australia: contact dermatitis from Chrysanthemum parthenium. | Contact Dermatitis
+- new | 1947 | 20268340 |  | Feverfew dermatitis. | Br J Dermatol Syph
+
+### PubMed OBS - 3 hits, 3 not already listed above, 3 new
+- new | 2024 | 38204302 | Observational Study/Research Support, Non-U.S. Gov't | Effects of nonprescription therapies on vestibular migraine: a questionnaire-based observational study. | Intern Med J
+- new | 2019 | 30871574 | Comparative Study/Multicenter Study/Observational Study | An observational study of fixed-dose Tanacetum parthenium nutraceutical preparation for prophylaxis of pediatric headache. | Ital J Pediatr
+- new | 2017 | 28854909 | Observational Study | A combination of coenzyme Q10, feverfew and magnesium for migraine prophylaxis: a prospective observational study. | BMC Complement Altern Med
+
+### PubMed REV - 77 hits, 8 not already listed above, 8 new
+- new | 2020 | 31763637 | Research Support, Non-U.S. Gov't/Review | Advances in chemistry and bioactivity of parthenolide. | Nat Prod Rep
+- new | 2014 | 24867850 | Review | Herbal therapy in migraine. | Neurol Sci
+- new | 2014 | 25226001 | Review | Cosmetic benefits of natural ingredients. | J Drugs Dermatol
+- new | 2012 | 22761185 | Review | Herbal medicines for immunosuppression. | Iran J Allergy Asthma Immunol
+- new | 2007 | 18045358 | Review | Less-known botanical cosmeceuticals. | Dermatol Ther
+- new | 2007 | 17336250 | Review | The leukemic stem cell. | Best Pract Res Clin Haematol
+- new | 2007 | 18277662 | Review | Natural advances in eczema care. | Cutis
+- new | 2006 | 30000921 | Review | Feverfew. | 
+
+### ClinicalTrials.gov - 3 registered studies
+- NCT02901756 | COMPLETED | results=False |  | A Combination of Coenzyme Q10, Feverfew and Magnesium for Migraine Prophylaxis : a Prospective Observational Study | conds: Migraine | intr: Antemig | pubs: ['28854909:DERIVED (new)']
+- NCT04463875 | COMPLETED | results=False |  | Magnesium, Vitamin B2, Feverfew, Andrographis Paniculata and Coenzyme Q10 for Episodic Migraine Prophylaxis | conds: Migraine | intr: magnesium, vitamin B2, feverfew, andrographis paniculata and coenzyme Q10
+- NCT04759040 | COMPLETED | results=False | NA | Improvement of Migraine Severity and Frequency With Migraineguard ™ | conds: Migraine, Headache | intr: Migraineguard
+
+### OpenAlex no-PMID trial-worded - 758 hits, 51 without PMID, 51 new
+- new | 2026 | 10.1016/j.jaad.2026.04.215 | article | Antioxidant Serum as a Dual-Action Antioxidant for UV-Induced Skin Protection Compared to Placebo | Journal of the American Academy of Derma
+- new | 2026 | 10.5281/zenodo.19230544 | article | Formulation and Evaluation of Tanacetum parthenium Chewable Tablets for Anti-Migraine Activity | Zenodo (CERN European Organization for N
+- new | 2026 | https://openalex.org/W7153687218 | conference-paper | Traditional Medicine in Management of Headache Pain. Systematic Review | Lithuanian University of Health Sciences
+- new | 2026 | 10.1201/9781003760719-11 | book-chapter | Feverfew | CRC Press eBooks
+- new | 2025 | 10.46956/ijihd.v10i1.674 | article | Review on tanacetum parthenium | International Journal of Indigenous Herb
+- new | 2025 | 10.61919/azrhd968 | article | Evaluating the Effectiveness of Pterocarpus santalinus (Sandalwood) Bark Extract in Managing Tension-Type Headaches: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial | Journal of Health Wellness and Community
+- new | 2025 | 10.6084/m9.figshare.30929423 | review | Systematic review and meta-analysis of Tanacetum parthenium: evaluating its efficacy in migraine relief | Figshare
+- new | 2025 | 10.1007/s12668-024-01790-6 | article | Changes in Chemical Composition of Tanacetum parthenium L. Essential Oil Under the Influence of Zinc Oxide Nanoparticle Concentration | BioNanoScience
+- new | 2025 | 10.1007/s00289-025-05791-7 | article | Nanoniosomal formulation of Tanacetum parthenium phenolic compounds: a novel approach for hepatoprotection in L-asparaginase-induced hepatotoxicity | Polymer Bulletin
+- new | 2025 | 10.1016/j.eti.2025.104063 | article | Metabolite distribution, relationships of phytochemical compositions and anticancer compound tracking in organs of Tanacetum parthenium L. as a sustainable pharmaceutical manufactu | Environmental Technology & Innovation
+- new | 2025 | 10.22067/jhs.2024.89514.1372 | article | Physico-Chemical Response and Seedling Growth of Three Aromatic Plants, Tanacetum parthenium, Achillea millefolium, and Zygophyllum eurypterum to Salinity Stress | Majallah-i ̒ulum-i bāghbānī
+- new | 2025 | 10.18502/ssu.v33i2.18518 | article | Effect of Hydroalcoholic Extract of Tanacetum Parthenium L. Extract on Treatment of Kidney Stones Induced by Ethylene Glycol in Adult Male Rats | ماهنامه علمی پ‍ژوهشی دانشگاه علوم پزشکی 
+- new | 2024 | 10.1684/phyto.2024.0423 | article | Tanacetum parthenium L. (Asteraceae) | Phytothérapie
+- new | 2024 | 10.18502/jpc.v12i1.16028 | article | The Effects of Combination Herbal Medicine Tablet on Migraine Headache: A Randomized, Double-blind, Placebo, Controlled Study | Journal of Pharmaceutical Care
+- new | 2024 | 10.32598/pbr.10.2.562.4 | article | Effects of Tanacetum parthenium on Chromatin Quality, Sperm Parameters and Oxidative Stress in Mice | Pharmaceutical and Biomedical Research
+- new | 2024 | 10.37988/1811-153x_2024_1_12 | article | The effectiveness of the Mucosept for the treatment of radiotherapy-induced oral mucositis in head and neck cancer patients: A multicenter randomized controlled trial | Clinical Dentistry (Russia)
+- new | 2023 | 10.1055/s-0043-1760910 | article | Meta- und Responder-Analyse zweier Placebo-kontrollierter Studien: Efeublätter-Trockenextrakt EA575 in der Behandlung von akutem Husten | Pneumologie
+- new | 2023 | 10.52142/omujecm.40.1.7 | article | The effect of chamomile on nausea and vomiting after laparoscopic cholecystectomy: A triple-blind randomized clinical trial | Journal of Experimental and Clinical Med
+- new | 2022 | 10.1016/j.hermed.2022.100613 | article | Evaluation of anticoagulant and inflammatory effects of Tanacetum parthenium (L.) in a randomized controlled clinical trial | Journal of Herbal Medicine
+- new | 2022 | 10.5812/jjnpp-120449 | article | The Effect of Ginger (Zingiber officinale Rosc.) Consumption in Headache Prophylaxis in Patients with Migraine: A Randomized Placebo-Controlled Clinical Trial | Jundishapur Journal of Natural Pharmaceu
+- new | 2022 | 10.54495/rev.cientifica.v31i1.290 | article | Etnofarmacología de plantas utilizadas por pacientes diabéticos tz’utujiles en Santiago Atitlán, Sololá, Guatemala | Revista Científica
+- new | 2022 | 10.1016/j.phyplu.2022.100375 | review | Plants and phytochemicals potentials in tackling anxiety: A systematic review | Phytomedicine Plus
+- new | 2021 | 10.31579/2578-8868/192 | article | Mig-RL: a Natural Preventive Treatment Against Migraine. Outcomes of a Randomized, Double-Blind Clinical Trial | Neuroscience and Neurological Surgery
+- new | 2021 | 10.22092/jmpb.2021.352950.1308 | article | Effect of Priming on Improvement of Deteriorated Seed of Tanacetum parthenium | Journal of Medicinal plants and By-produ
+- new | 2021 | 10.25303/1612rjbt3037 | article | Amelioration of Radiation-Induced DNA Damage and Immunosuppression by Tanacetum parthenium leaf extract and synthetic parthenolide in Swiss Albino Mice | Research Journal of Biotechnology
+- new | 2021 | 10.5336/jtracom.2020-76209 | article | Investigation of the Use of Traditional and Complementary Medicine in Patients with Head and Neck Cancer | Journal of Traditional Medical Complemen
+- new | 2020 | https://openalex.org/W7220297862 | article | Feverfew (Tanacetum parthenium) for Migraine Prophylaxis: A Systematic Review | The American Journal of Natural Medicine
+- new | 2020 | 10.21608/jpp.2020.149808 | article | Effect of Planting Dates, Compost and Foliar Spraying with some Amino Acids on Growth, Chemical Composition of feverfew (Tanacetum parthenium L.) Plants | Journal of Plant Production
+- new | 2019 | 10.1136/archdischild-2019-epa.843 | conference-abstract | Tanacetum parthenium, griffonia simplicifolia and magnesium as symptomatic and prophylactic treatment for headache in paediatric patients | Abstracts
+- new | 2019 | https://openalex.org/W7132273978 | conference-paper | Evaluation of biological activity of different extracts from Tanacetum parthenium L. to glioblastoma multiforme C6 culture cells | Lithuanian University of Health Sciences
+- new | 2018 | 10.4236/oalib.1104765 | article | Efficacy of a Combination of Tanacetum parthenium, 5-Hydroxy Tryptophan and Magnesium (Aurastop) in Episodic Migraine Prevention: A Multicentric Observational Study | OALib
+- new | 2018 | 10.4236/oalib.1104939 | article | Efficacy of a Combination of Tanacetum parthenium, 5-Hydroxy Tryptophan and Magnesium (Aurastop？) in the Prevention of High Frequency Migraine with Aura | OALib
+- new | 2018 | https://openalex.org/W2992179895 | article | Impact of Foliar Spray of Spherical Nano-carbon and Salicylic Acid on Physiological Traits and Parthenolide Content in two Feverfew Cultivars (Tanacetum parthenium Linn. cv. Pharma | Journal of Medicinal Plants
+- new | 2018 | https://openalex.org/W7233528019 | conference-paper | Evaluation of biological activity of different extracts from feverfew (Tanacetum parthenium L.) to glioblastoma multiforme C6 culture cells | Vytautas Magnus University
+- new | 2015 | 10.17795/jjnpp-29275 | article | The Effect of Feverfew Cultivated in Iran for the Prophylactic Treatment of Migraine: A Randomized Placebo-controlled Clinical Trial | Jundishapur Journal of Natural Pharmaceu
+- new | 2013 | https://openalex.org/W2266999649 | article | The Analgesic Effect of Ethanolic Extract of Tanacetum Parthenium in Acetic Acid Model | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2013 | 10.1055/s-0033-1348617 | article | Comparison of Parthenolide Levels in Aquaponically vs. Conventionally Grown Tanacetum parthenium (feverfew) | Planta Medica
+- new | 2013 | 10.1016/j.clinthera.2013.07.300 | article | PP272—Migraine and parthenolide inhibition of transient receptor potential ankyrin 1 | Clinical Therapeutics
+- new | 2010 | https://openalex.org/W2554012394 | review | Methods for exploring heterogeneity in systematic reviews of randomized controlled trials. | TSpace (University of Toronto)
+- new | 2010 | 10.22037/ijpr.2010.493 | article | Effect of N- fertilizer and plant density on growth, development, herb yield and active substance of feverfew (Tanacetum parthenium Cv.Zardband) medicinal plant | Iranian journal of pharmaceutical resear
+- new | 2009 | 10.1080/10496470902787527 | article | The Quest for the Anti-Migraine Principle(s) of Feverfew, Tanacetum parthenium (L.) Schultz Bip. | Journal of Herbs Spices & Medicinal Plan
+- new | 2008 | https://openalex.org/W2302167346 | dissertation | Determinación del efecto sedante de la tanacetum parthenium L sch bip, Santa María | Repositorio Institucional (Universidad d
+- new | 2008 | 10.1016/j.jaad.2007.10.085 | article | Facial tolerance of a feverfew-PFE–containing daily moisturizer regimen in mild to moderate rosacea patients | Journal of the American Academy of Derma
+- new | 2007 | https://openalex.org/W2285526307 | article | EFFECT OF TANACETUM PARTHENIUM IN TREATMENT OF MIGRAINE HEADACHE COMPARING TO PLACEBO | 
+- new | 2007 | 10.1080/0972060x.2007.10643572 | article | The Effect of Phosphorus and Irrigation Treatments on the Essential Oil Content and Composition of Feverfew (Tanacetum parthenium(L.) cv. Zardband) | Journal of Essential Oil Bearing Plants
+- new | 2005 | 10.1080/0972060x.2005.10662138 | article | Effect of Nitrogen Fertilizer and Plant Density on the Essential Oil Content and Composition ofTanacetum PartheniumCV. Zardband | Journal of Essential Oil Bearing Plants
+- new | 1998 | 10.1016/s0965-2299(98)80095-2 | other | Murphy JJ, Heptinstall S, Mitchell JR. Randomized double-blind placebo-controlled trial of feverfew in migraine prevention | Complementary Therapies in Medicine
+- new | 1998 | 10.1016/s1096-2190(98)00020-1 | article | Prescribing Therapeutic Feverfew (Tanacetum parthenium (L.) Schultz Bip., syn. Chrysanthemum parthenium (L.) Bernh.) | Integrative medicine
+- new | 1998 | 10.1016/s0965-2299(98)80096-4 | article | Pattrick M, Heptinstall S, Doherty M. Feverfew in rheumatoid arthritis: a double blind, placebo controlled study | Complementary Therapies in Medicine
+- new | 1998 | 10.1021/bk-1998-0691.ch013 | conference-paper | Feverfew: A Review of Its History, Its Biological and Medicinal Properties, and the Status of Commercial Preparations of the Herb | ACS symposium series
+- new | 1997 | 10.1002/(sici)1099-1573(199711)11:7<508::aid-ptr153>3.0.co;2-h | article | Feverfew (Tanacetum parthenium as a prophylactic treatment for migraine: a double‐blind placebo‐controlled study | Phytotherapy Research
+
+## tanacetum-vulgare (Tanacetum vulgare) - name clause: "Tanacetum vulgare"[tiab] OR "common tansy"[tiab] OR "tansy"[ti]
+
+### PubMed HT - 5 hits, 5 not already listed above, 4 new
+- SEEN | 2023 | 36268807 | Randomized Controlled Trial | Therapeutic effects of Rosa canina, Urtica dioica and Tanacetum vulgare herbal combination in treatment of tinnitus symptoms: A double-blind randomised clinical trial. | Clin Otolaryngol
+- new | 2020 | 31905207 | Research Support, Non-U.S. Gov't | Antimicrobial activity of Asteraceae species against bacterial pathogens isolated from postmenopausal women. | PLoS One
+- new | 2012 | 22568040 |  | Cytotoxic effect of some medicinal plants from Asteraceae family on J-45.01 leukemic cell line--pilot study. | Acta Pol Pharm
+- new | 2004 | 15503788 |  | Contact allergy to Compositae plants in patients with atopic dermatitis. | Med Pregl [eng,srp]
+- new | 1993 | 27759300 |  | Effects of Vegetation Disturbances on Insect Biological Control of Tansy Ragwort, Senecio Jacobaea. | Ecol Appl
+
+### PubMed SR - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SAFE - 37 hits, 36 not already listed above, 34 new
+- new | 2026 | 40526806 |  | Efficacy and toxicity of Tanacetum vulgare and Rosmarinus officinalis essential oils novel biocontrol agents for sustainable management of Phthorimaea operculella, the potato moth. | Nat Prod Res
+- new | 2025 | 40699614 |  | Anticancer Activity of Ethyl Acetate/Water Fraction from Tanacetum vulgare L. Leaf and Flower Extract. | Curr Issues Mol Biol
+- new | 2025 | 40926855 |  | Evaluation of lyophilized Tanacetum vulgare extract in intraruminal bolus and granule forms for gastrointestinal nematode control in sheep: An in vivo clinical study. | Vet World
+- new | 2024 | 38959287 |  | Dose-response study on the transfer of pyrrolizidine alkaloids from a tansy ragwort extract (Jacobaea vulgaris Gaertn.) to bovine milk. | Food Addit Contam Part A Chem Anal Contr
+- new | 2024 | 39409806 |  | Changes in Selected Biochemical Markers of Honey Bees Exposed to Fermented Common Tansy Solution (Tanacetum vulgare L.). | Animals (Basel)
+- new | 2023 | 37842997 |  | Short-term exposure of dairy cows to pyrrolizidine alkaloids from tansy ragwort (Jacobaea vulgaris Gaertn.): effects on health and performance. | Arch Anim Nutr
+- new | 2023 | 37630407 |  | A Study of the Chemical Composition, Antioxidant Potential, and Acute Toxicity of Bulgarian Tanacetum vulgare L. Essential Oil. | Molecules
+- new | 2022 | 35049800 |  | Toxicity Evaluation of Selected Plant Water Extracts on a Honey Bee (Apis mellifera L.) Larvae Model. | Animals (Basel)
+- HELD REF-1297 | 2021 | 33847089 |  | Parasiticidal effects of Tanacetum vulgare extract against Ichthyophthirius multifiliis. | Pol J Vet Sci
+- new | 2020 | 32443886 |  | Examining Safety of Biocolourants from Fungal and Plant Sources-Examples from Cortinarius and Tapinella, Salix and Tanacetum spp. and Dyed Woollen Fabrics. | Antibiotics (Basel)
+- new | 2019 | 31451678 |  | Antifungal and Synergistic Effects of the Ethyl Acetate Extract of Tanacetum vulgare (L.) Against Candida albicans. | Med Sci Monit Basic Res
+- new | 2018 | 29923204 |  | Parthenolide in Danish biodynamic and organic milk: A new source of exposure to an allergenic sesquiterpene lactone. | Contact Dermatitis
+- new | 2017 | 29089653 | Case Reports | Presumptive chronic pyrrolizidine alkaloid poisoning in 2 pygmy goats due to ingestion of tansy ragwort (Jacobaea vulgaris) in southwestern British Columbia. | Can Vet J
+- new | 2013 | 24106675 |  | Quantification of Sesquiterpene Lactones in Asteraceae Plant Extracts: Evaluation of their Allergenic Potential. | Sci Pharm
+- new | 2012 | 22353002 | Review | Safety and efficacy of Setarud (IMOD TM ) among people living with HIV/AIDS: a review. | Recent Pat Antiinfect Drug Discov
+- new | 2010 | 20184036 | Comparative Study/Research Support, Non-U.S. Gov't | Misidentification of tansy, Tanacetum macrophyllum, as yarrow, Achillea grandifolia: a health risk or benefit? | Nat Prod Commun
+- new | 2008 | 18378415 |  | Acute and chronic toxicity of a lyophilised aqueous extract of Tanacetum vulgare leaves in rodents. | J Ethnopharmacol
+- new | 2007 | 18021604 | Case Reports | Two cases of compositae dermatitis exacerbated by moisturizer containing feverfew. | Dermatitis
+- new | 2007 | 17824160 | Case Reports | Beef herd poisoning due to ingestion of tansy ragwort in southwestern Ontario. | Can Vet J
+- new | 2007 | 17113735 | Comparative Study | Diuretic activity of the aqueous extracts of Carum carvi and Tanacetum vulgare in normal rats. | J Ethnopharmacol
+- HELD REF-1301 | 2003 | 12793186 | Review | [Compositae dermatitis]. | Med Pregl [hrv]
+- new | 2000 | 10816838 | Case Reports | Tansy ragwort poisoning in a horse in southern Ontario. | Can Vet J
+- new | 1999 | 9923784 | Case Reports | Allergic contact and photoallergic contact dermatitis to plant and pesticide allergens. | Arch Dermatol
+- new | 1987 | 3827282 | Case Reports | Compositae dermatitis in childhood. | Arch Dermatol
+- new | 1984 | 6703450 | Comparative Study/Research Support, Non-U.S. Gov't | Effects of dietary copper and molybdenum on tansy ragwort (Senecio jacobaea) toxicity in sheep. | Am J Vet Res
+- new | 1982 | 7091827 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Toxicity of tansy ragwort (Senecio jacobaea) to goats. | Am J Vet Res
+- new | 1980 | 7222027 | Comparative Study/Research Support, U.S. Gov't, P.H.S. | Toxicity of Senecio jacobaea (tansy ragwort) in rats. | Toxicol Appl Pharmacol
+- new | 1977 | 835011 | Research Support, U.S. Gov't, P.H.S. | Pyrrolizidine alkaloids: their occurrence in honey from tansy ragwort (Senecio jacobaea L.). | Science
+- new | 1977 | 559240 | Case Reports | Clinical manifestations of tansy ragwort poisoning. | Mod Vet Pract
+- new | 1974 | 4826121 |  | An investigation into the possibility of tansy ragwort poisoning of black-tailed deer. | J Wildl Dis
+- new | 1948 | 18876649 |  | [Poisoning from Tanacetum vulgare]. | Pharmazie [ger]
+- new | 1901 | 36019088 |  | Carbolic Acid and Tansy Poisoning. | Atlanta J Rec Med
+- new | 1867 | 36664793 |  | A Case of Poisoning by Oil of Tansy. | Buffalo Med Surg J
+- new | 1852 | 38210582 |  | A Case of Poisoning with Oil of Tansy. | West J Med Surg
+- new | 1852 | 35375368 |  | A Case of Poisoning with Oil of Tansy. | Buffalo Med J Mon Rev Med Surg Sci
+- new | 1852 | 35375359 |  | Poisoning by Oil of Tansy. | Buffalo Med J Mon Rev Med Surg Sci
+
+### PubMed OBS - 0 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 2 hits, 0 not already listed above, 0 new
+
+### ClinicalTrials.gov - 0 registered studies
+
+### OpenAlex no-PMID trial-worded - 300 hits, 55 without PMID, 55 new
+- new | 2026 | 10.1134/s1070363226030047 | article | Prospects for the Use of Volatile Plant Compounds for the Ecological Control of Western Flower Thrips in Greenhouse Production Systems | Russian Journal of General Chemistry
+- new | 2026 | 10.5281/zenodo.23916971 | dataset | THE ROLE OF CHOLERETIC HERBAL COLLECTIONS IN ELIMINATING ASTHENOVEGETATIVE SYNDROME DURING THE RECONVALESCENCE PERIOD OF ACUTE VIRAL HEPATITIS A | Zenodo (CERN European Organization for N
+- new | 2026 | https://openalex.org/W7223503200 | article | Биологически активный комплекс с сорбционными свойствами на основе растительного сырья и низкоэтерифицированного пектина | Food Industry
+- new | 2026 | 10.24144/1998-6475.2026.1.(71).23-28 | article | ФАРМАКОЛОГІЧНІ АСПЕКТИ РОСЛИННИХ ПРЕПАРАТІВ У ЛІКУВАННІ ФУНКЦІОНАЛЬНИХ РОЗЛАДІВ ШЛУНКОВО-КИШКОВОГО ТРАКТУ ТА ЇХ РОЛЬ У ПЕДІАТРИЧНІЙ ПРАКТИЦІ | Проблеми клінічної педіатрії
+- new | 2026 | https://openalex.org/W7237396219 | article | Quality of Life of Veterans Experiencing Tinnitus with History of Barotrauma | Scholarship & Creative Works - Digital U
+- new | 2026 | https://openalex.org/W7223485084 | article | Potencialidades de diferentes concentraciones de Artemisia absinthium L. sobre Sitophilus oryzae L | Revista UGC
+- new | 2025 | 10.1002/adsu.202501001 | article | Bioenergy Potential of Europe's Perennial and Biennial Wildflowers: A Combustion Performance Benchmark | Advanced Sustainable Systems
+- new | 2025 | 10.2478/macvetrev-2025-0018 | article | Therapeutic Effect of Herbal-Based Drug on Severe Sepsis in Calves: An Innovative Immunomodulatory and antiinflammatory Strategy in Herd Medicine | Macedonian Veterinary Review
+- new | 2025 | 10.29141/2500-1922-2026-11-3-11 | article | A biologically active complex with sorption properties based on plant raw materials and low-esterified pectin | Food Industry
+- new | 2025 | 10.15168/11572_450035 | other | Improving Dairy Supply Chain: From the Characterization and Authentication of Traditional Alpine Productions to Projecting New Dairy Functional Foods | 
+- new | 2024 | 10.3390/agronomy14102213 | article | Common Tansy (Tanacetum vulgare L.) Growth on Sandy Soil—Insights from a Pot Experiment | Agronomy
+- new | 2024 | 10.1007/s42452-024-06071-1 | article | Effectiveness of setarud (IMOD™) in attenuating gentamicin-induced nephrotoxicity in male rats | Discover Applied Sciences
+- new | 2024 | 10.52783/jes.6772 | article | Development and the Study of the New Plant-Based Enterosorbent Tablets | Journal of Electrical Systems
+- new | 2024 | 10.1201/9781003573227 | book | Breeding Research on Aromatic and Medicinal Plants | CRC Press eBooks
+- new | 2024 | 10.1007/s11101-024-09980-6 | article | Comprehensive review of Urtica dioica L. (Urticaceae) phytochemistry and anti-inflammatory properties | Phytochemistry Reviews
+- new | 2023 | 10.11648/j.aje.20230703.12 | article | Insecticidal Effect of Different Plants Extracts Against Wheat Weevil, Sitophilus granarius (L., 1985) (Coleoptera: Curculionidae) | American Journal of Entomology
+- new | 2023 | 10.21802/artm.2023.2.26.51 | article | THE INFLUENCE OF MEDICINAL AND AROMATIC PLANTS EXTRACTS ON THE ANTIFUNGAL EFFECT OF FLUCONAZOLE REGARDING C. ALBICANS AND C. TROPICALIS ISOLATED FROM PATIENTS WITH DENTURE STOMATIT | Art of Medicine
+- new | 2023 | 10.17221/158/2022-jfs | article | The beneficial role of arbuscular mycorrhizal fungi on population rates of aboveground herbivory: Zyginella pulchra (Hemiptera, Cicadellidae) in plane trees | Journal of Forest Science
+- new | 2022 | 10.1016/j.rser.2022.112814 | article | Improving combustion quality of Miscanthus by adding biomass from perennial flower-rich wild plant species | Renewable and Sustainable Energy Reviews
+- new | 2022 | 10.11648/j.ijde.20220701.11 | article | Effect of Exercise and Non-exercise Interventions on Cardiac Angiogenesis in Diabetes Mellitus Patients: A Review | International Journal of Diabetes and En
+- new | 2022 | 10.18174/571147 | report | Tiny Forests: groene mini-oases in de stad : Monitoring van biodiversiteit en bijdragen aan CO2-opslag, wateropvang en tegengaan hittestress in elf Tiny Forests | 
+- new | 2021 | 10.22194/jgias/9.933 | article | LARVACIDAL EFFECT OF SOME PLANT EXTRACTS AGAINST TOMATO LEAF MINER (TUTA ABSOLUTA MEYRICK; LEPIDOPTERA: GELEHIIDAE) | Journal of Global Innovations in Agricul
+- new | 2021 | 10.29296/25877313-2021-04-02 | article | Assessment of bile activity of multicomponent plant extract «PENTAFIT» | Problems of Biological Medical and Pharm
+- new | 2020 | https://openalex.org/W7120565371 | dissertation | Influence of subgingival irrigation with Matricaria recutita and Plantago major on the treatment of experimental periodontal disease in rats. Microbiological, histochemical and imm | LA Referencia (Red Federada de Repositor
+- new | 2020 | 10.5296/jas.v8i4.17314 | article | Characterization of Thyme and Tansy Extracts Used as Basic Substances in Zucchini Crop Protection | Journal of Agricultural Studies
+- new | 2018 | 10.1016/j.agee.2018.04.014 | article | Effects of herbicide and nitrogen fertilizer on non-target plant reproduction and indirect effects on pollination in Tanacetum vulgare (Asteraceae) | Agriculture Ecosystems & Environment
+- new | 2018 | 10.5958/0974-360x.2018.00803.x | article | A Screening Study of Hepatoprotective Activity of Liquid Extract from Common Tansy Tanacetum vulgare L. Herb in the setting of Subchronic Hepatitis in Rats | Research Journal of Pharmacy and Technol
+- new | 2018 | https://openalex.org/W3170993181 | article | Effect of Water Deficit Stress and Seed Biopriming on the Physiological Indices and Antioxidant Activity of Tansey (Tanacetum persicum (Boiss.) Mozaff) | اکوفیزیولوژی گیاهان زراعی
+- new | 2018 | 10.22034/ijsst.2017.108031.1017 | article | اثر سرمادهی مرطوب بر خصوصیات جوانهزنی بذر هفت گونه از جنسهای Anthemis و Tanacetum | علوم و فناوری بذر ایران
+- new | 2018 | https://openalex.org/W7220267829 | article | НАПРЯМОК СУКЦЕСІЙНИХ ПРОЦЕСІВ НА ТЕРИТОРІЯХ ВІДВАЛІВ ВУГІЛЬНИХ ШАХТ м. КРАСНОДОНА ЛУГАНСЬКОЇ ОБЛАСТІ | Біорізноманіття екологія та експеримента
+- new | 2017 | 10.3199/iscb.11.72 | article | Taxonomic rank of Tanacetum boreale Fisch. ex DC. (Asteraceae) | Chromosome Botany
+- new | 2017 | 10.25148/etd.fidc004043 | dissertation | The Investigation of Human Scent from Epileptic Patients for the Identification of a Biomarker for Epileptic Seizures | FIU - Digital Commons (Florida Internati
+- new | 2017 | 10.21521/mw.5801 | article | Efficiency of various systems of antiparasitic prophylaxis in a flock of sheep | Medycyna Weterynaryjna
+- new | 2016 | 10.5812/ircmj.21577 | article | Contovir - A New Adjuvant Therapy in Recurrent Respiratory Papillomatosis: A Case Study | Iranian Red Crescent Medical Journal
+- new | 2016 | 10.5937/medpodm1601044j | article | Antifungal activity of essential oils of lemon balm, manuka and tansy to the causative agents of otomycosis | Medicinski podmladak
+- new | 2016 | 10.1515/helmin-2016-0008 | article | Assessing the usefulness of mineral licks containing herbal extracts with anti-parasitic properties for the control of gastrointestinal helminths in grazing sheep – a field trial | Helminthologia
+- new | 2015 | https://openalex.org/W1131549757 | article | The Application of Succession-Based Management Techniques to Invasive-Dominated Prairie Areas | 
+- new | 2015 | 10.1055/s-0035-1565324 | article | Controlling gastro-intestinal nematodes of goats with plant extracts | Planta Medica
+- new | 2014 | 10.1016/j.jmhi.2014.02.001 | article | Combination of IMOD™ and Arbidol to increase their immunomodulatory effects as a novel medicine to prevent and cure influenza and some other infectious diseases | Journal of Medical Hypotheses and Ideas
+- new | 2012 | 10.4172/2155-6113.1000180 | article | Treatment with IMODTM as a Novel Immune Modulator in HIV Positive Patients | Journal of AIDS & Clinical Research
+- new | 2011 | 10.1111/j.1654-109x.2010.01119.x | article | Managing open habitats by wild ungulate browsing and grazing: A case-study in North-Eastern Germany | Applied Vegetation Science
+- new | 2011 | 10.4236/ojst.2011.12003 | article | Efficacy of IMOD in the treatment of oral lichen planus—Efficacy of IMOD in oral lichen planus | Open Journal of Stomatology
+- new | 2010 | https://openalex.org/W1804530164 | article | Can Sheep and Cattle Rumen Microorganisms be Conditioned to Invasive Weeds? 1 | 
+- new | 2007 | 10.1055/s-2007-986905 | article | Tanacetum vulgare: anti-herpes virus activity of crude extract and the purified compound parthenolide | Planta Medica
+- new | 2006 | 10.2754/avb200675020283 | article | Effects of Different Plant Products against Pig Mange Mites | Acta Veterinaria Brno
+- new | 2004 | 10.1111/j.0105-1873.2004.0309go.x | conference-abstract | Patch test results to plant extracts and chemicals | Contact Dermatitis
+- new | 2000 | https://openalex.org/W7206875863 | article | Patch testing with the compositae mix. Results of a study of the German Contact Dermatitis Research Group (DKG) and the Information Network of Departments of Dermatology (IVDK) | GRO
+- new | 1998 | https://openalex.org/W7139558680 | article | Taxonomy of Sphaeromeria, Artemisia, and Tanacetum (Compositae, Anthemideae) based on randomly amplified polymorphic DNA (RAPD) | ScholarsArchive  (Brigham Young Universi
+- new | 1996 | 10.1097/01206501-199606000-00005 | article | A 6-Year Experience With Compositae Mix | Dermatitis
+- new | 1992 | 10.1093/ee/21.4.837 | article | Antifeedant and Oviposition Deterrent Activity of an Aqueous Extract of Tanacetum vulgare L. on Two Cabbage Pests | Environmental Entomology
+- new | 1992 | 10.1097/01634989-199212000-00010 | article | Protective Effect of Both a Barrier Cream and a Polyethylene Laminate Glove Against Epoxy Resin, Glyceryl Monothioglycolate, Frullania, and Tansy | Dermatitis
+- new | 1992 | 10.1053/ajcd.1992.2432 | article | Protective Effect of Both a Barrier Cream and a Polyethylene Laminate Glove Against Epoxy Resin, Glyceryl Monothioglycolate, Frullania, and Tansy | American Journal of Contact Dermatitis
+- new | 1965 | 10.5962/bhl.title.70318 | book | Herbaceous perennials for the central Great Plains / | Biodiversity Heritage Library (Smithsoni
+- new | 1963 | 10.1111/j.1438-8677.1963.tb00115.x | article | CHROMOSOME NUMBERS OF FLOWERING PLANTS IN THE NETHERLANDS | Acta Botanica Neerlandica
+- new | 1892 | 10.5962/bhl.title.64121 | book | The flora of Montreal Island | Biodiversity Heritage Library (Smithsoni
+
+## taraxacum-officinale (Taraxacum officinale) - name clause: "Taraxacum officinale"[tiab] OR "dandelion"[tiab] OR "Taraxaci radix"[tiab] OR "Taraxaci herba"[tiab]
+
+### PubMed HT - 44 hits, 44 not already listed above, 42 new
+- new | 2026 | 41909037 |  | Effectiveness and safety of an ayurvedic nutraceutical for improving clinical parameters of liver function in participants with metabolic dysfunction-associated steatotic liver dis | Front Nutr
+- new | 2026 | 43048154 |  | Evaluation of a Single Daily Dose of a Plant-Based Nutraceutical for Subclinical Changes in Liver Function in Healthy Adults: An Exploratory, Randomized, Double-Blind, Placebo-Cont | Glob Adv Integr Med Health
+- new | 2026 | 42398668 |  | Co-Ingestion of a Commercially Available Dandelion Root Powder Elicited No Additional Diuretic Effect Over 4 Hr Compared to Ingestion of Water Alone in Physically Active Young Adul | Int J Sport Nutr Exerc Metab
+- new | 2025 | 41357500 |  | Shenhuang Granules for patients with sepsis: study protocol of a multicenter, randomized, double-blind, placebo-controlled clinical trial. | Front Med (Lausanne)
+- new | 2025 | 41086186 | Comparative Study | Synergistic effects of sesame oil, extra virgin olive oil, psyllium extract, and dandelion extract on cholesterol gallstone dissolution: An in vitro comparative study against Rowac | PLoS One
+- new | 2025 | 41659807 | Clinical Trial | Long-term safety and efficacy of a highly purified plant-based nutraceutical for improving clinical parameters of liver function in healthy participants: a randomized, double-blind | Front Nutr
+- new | 2025 | 41295685 |  | Effects of Akebia and Dandelion on Growth Performance, Inflammation, and Gut Microbiota in Weaned Rabbits. | Vet Sci
+- new | 2025 | 40964240 |  | Application of Magnetic Particle Chemiluminescence Technology to Detect Sensitization in Patients in Guangzhou, China: A Study Based on Real-World Medical Data. | J Asthma Allergy
+- new | 2024 | 39212512 |  | Pharmacopuncture Improves the Lipid Profile in Patients under Statins: Retrospective Study at a Korean Medicine Clinic. | Altern Ther Health Med
+- new | 2024 | 38731087 |  | Efficacy and Safety of WCFA19 (Weissella confusa WIKIM51) in Reducing Body Fat in Overweight and Obese Adults. | J Clin Med
+- new | 2023 | 36621376 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A Randomized Controlled Trial Comparing a New D-Mannose-based Dietary Supplement to Placebo for the Treatment of Uncomplicated Escherichia coli Urinary Tract Infections. | Eur Urol Focus
+- new | 2023 | 37743295 |  | [Study on sIgE distribution characteristics and the sensitization pattern of allergen in 1 161 patients with allergic diseases of respiratory tract in northwest China]. | Zhonghua Yu Fang Yi Xue Za Zhi [chi]
+- new | 2023 | 38029215 |  | Breastmilk microbiome changes associated with lactational mastitis and treatment with dandelion extract. | Front Microbiol
+- new | 2023 | 37746960 | Randomized Controlled Trial | External application of dandelion combined with borneol effectively reduced pain and facial swelling after jaw surgery. | Medicine (Baltimore)
+- new | 2022 | 35809378 |  | Aqueous extract from Equisetum arvense stimulates the secretion of Tamm-Horsfall protein in human urine after oral intake. | Phytomedicine
+- new | 2022 | 37023241 | Review |  | 
+- new | 2021 | 34034401 |  | [Analysis of serum allergen-specific IgE in children with respiratory allergic disease in Guangdong]. | Zhonghua Yu Fang Yi Xue Za Zhi [chi]
+- new | 2020 | 32703209 |  | Analysis of 4 imaging features in patients with COVID-19. | BMC Med Imaging
+- new | 2020 | 32624612 |  | Nutrient selection and optimization to formulate a nutrient bar stable on storage and specific to women at risk of osteoporosis. | J Food Sci Technol
+- new | 2020 | 32542786 |  | Compositae sensitization in Danish children and adolescents. | Contact Dermatitis
+- new | 2019 | 30554882 | Comparative Study/Multicenter Study/Randomized Controlled Trial | A randomized, open-label, multicenter, comparative study of therapeutic efficacy, safety and tolerability of BNO 1030 extract, containing marshmallow root, chamomile flowers, horse | Am J Otolaryngol
+- new | 2018 | 30271713 |  | Study of the effect of the herbal composition SR2004 on hemoglobin A1c, fasting blood glucose, and lipids in patients with type 2 diabetes mellitus. | Integr Med Res
+- new | 2018 | 29798208 |  | [Minimum battery of test inhalant allergens needed in screeningallergic rhinitis patients in Beijing]. | Lin Chuang Er Bi Yan Hou Tou Jing Wai Ke [chi]
+- new | 2017 | 28169854 |  | Dandelion: An Important Allergen in Atopic Children. | Dermatitis
+- new | 2016 | 27682493 | Clinical Trial | [Clinical effect of compound monoammonium glycyrrhizinate combined with dandelion in treatment of acute paraquat poisoning]. | Zhonghua Lao Dong Wei Sheng Zhi Ye Bing  [chi]
+- new | 2016 | 26125671 | Research Support, Non-U.S. Gov't | Weeds ability to phytoremediate cadmium-contaminated soil. | Int J Phytoremediation
+- new | 2015 | 26052873 |  | The Use of Complementary and Alternative Medicine in Hospitalized Patients with Type 2 Diabetes Mellitus in Israel. | J Altern Complement Med
+- new | 2013 | 23601063 | Comparative Study | Sensitization patterns in Compositae-allergic patients with current or past atopic dermatitis. | Contact Dermatitis
+- new | 2012 | 22419300 | Research Support, Non-U.S. Gov't/Systematic Review | Chinese medicinal herbs for sore throat. | Cochrane Database Syst Rev
+- new | 2012 | 25049500 |  | Evaluation of Houttuynia cordata and Taraxacum officinale on Growth Performance, Nutrient Digestibility, Blood Characteristics, and Fecal Microbial Shedding in Diet for Weaning Pig | Asian-Australas J Anim Sci
+- new | 2012 | 22844289 |  | The Effect of Taraxacum officinale Hydroalcoholic Extract on Blood Cells in Mice. | Adv Hematol
+- new | 2012 | 23469598 |  | [Clinical observation of treating 62 patients with severe aplastic anemia failing in immunosuppressive therapy by integrative medicine]. | Zhongguo Zhong Xi Yi Jie He Za Zhi [chi]
+- new | 2011 | 22335978 | Research Support, Non-U.S. Gov't | [Prevalence of sensitization to aeroallergens in 10 030 patients with allergic rhinitis]. | Zhonghua Er Bi Yan Hou Tou Jing Wai Ke Z [chi]
+- new | 2010 | 20485248 | Clinical Trial/Comparative Study/Multicenter Study | [Phytotherapy with a mixture of dry extracts with hepato-protective effects containing artichoke leaves in the management of functional dyspepsia symptoms]. | Minerva Gastroenterol Dietol [ita]
+- new | 2010 | 21195885 |  | Role of pollen allergy in Taiwanese patients with allergic rhinitis. | J Formos Med Assoc
+- HELD REF-0321 | 2009 | 19678785 | Clinical Trial/Research Support, N.I.H., Extramural | The diuretic effect in human subjects of an extract of Taraxacum officinale folium over a single day. | J Altern Complement Med
+- HELD REF-0332 | 2008 | 18037151 | Review | Risks and benefits of commonly used herbal medicines in Mexico. | Toxicol Appl Pharmacol
+- new | 2006 | 16689094 |  | [Efficiency of specific immunotherapy in treatment of patients with seasonal allergic rhinitis]. | Lik Sprava [ukr]
+- new | 2006 | 16704090 |  | [Antifugal susceptibility testing and antifugal traditional Chinese medicines screening of oral Candida isolated from head and neck cancer patients treated with radiotherapy or che | Hua Xi Kou Qiang Yi Xue Za Zhi [chi]
+- new | 2006 | 16329162 | Research Support, Non-U.S. Gov't | Herbal products: behaviors and beliefs among Italian women. | Pharmacoepidemiol Drug Saf
+- new | 2004 | 15666575 | Review | What do herbalists suggest to diabetic patients in order to improve glycemic control? Evaluation of scientific evidence and potential risks. | Acta Diabetol
+- new | 2004 | 15479198 | Research Support, Non-U.S. Gov't | Sesquiterpene lactone mix patch testing supplemented with dandelion extract in patients with allergic contact dermatitis, atopic dermatitis and non-allergic chronic inflammatory sk | Contact Dermatitis
+- new | 2001 | 11683829 |  | Sensitization and cross-reaction patterns in Danish Compositae-allergic patients. | Contact Dermatitis
+- new | 1977 | 852905 |  | Diagnosis of reaginic allergy with house dust, animal dander and pollen allergens in adult patients. IV. An evaluation of the clinical value of skin test, radioallergosorbent test, | Int Arch Allergy Appl Immunol
+
+### PubMed SR - 6 hits, 3 not already listed above, 3 new
+- new | 2026 | 42312292 | Review | Bioactive plant metabolites with antihyperglycemic properties: prospects for the prevention and treatment of diabetes mellitus. | 3 Biotech
+- new | 2026 | 41554454 | Systematic Review | Unveiling the genus Taraxacum: From folk medicine to chemodiversity-driven pharmacological and toxicological outcomes-A systematic review. | J Ethnopharmacol
+- new | 2005 | 16093238 | Systematic Review | Evidence-based systematic review of dandelion (Taraxacum officinale) by natural standard research collaboration. | J Herb Pharmacother
+
+### PubMed SAFE - 183 hits, 156 not already listed above, 146 new
+- new | 2027 | 42805353 |  | Shenhuang Granules regulate the NLRP3/Caspase-1/GSDMD pathway to alleviate pyroptosis of pulmonary microvascular endothelial cells. | J Ethnopharmacol
+- new | 2026 | 40162684 |  | Liver Cleansing Imposters: An Analysis of Popular Online Liver Supplements. | Am J Gastroenterol
+- new | 2026 | 42883333 |  | Analysis of Mercury Content in Medicinal Plants Popular in Poland. | Molecules
+- new | 2026 | 41897716 | Review | The Wild Plants from the Family Asteraceae That Are Traditionally Used for Food in Sicily and Bulgaria and Their Health Benefits. | Foods
+- new | 2026 | 42005319 |  | A Herbal Pair of Taraxacum officinale F.H.Wigg. and Lonicera japonica Thunb. Ameliorates Obesity and Modulates AMPK Signaling. | Food Sci Nutr
+- new | 2026 | 41139379 |  | Health Risk Assessment and Bioactive Potential in Wild Food Plants from Deosai: A High-Altitude Ecosystem in Northern Pakistan. | Biol Trace Elem Res
+- new | 2026 | 42675452 | Review | Integrative Approaches in Cardiovascular Disease: The Role of Nutraceuticals in Heart Failure, Atrial Fibrillation, and Related Conditions. | Phytother Res
+- new | 2026 | 41656914 |  | Phytol Suppresses Androgen Receptor Nuclear Localization and Doubles Survival in Nude Mice Bearing Castration-Resistant Prostate Cancer Xenografts. | Phytother Res
+- new | 2026 | 42564019 |  | Ultrasound-engineered chitosan nanocarriers improve the anticancer activity of dandelion phytochemicals in hepatocellular carcinoma cells. | Front Pharmacol
+- new | 2026 | 41419042 |  | Taraxasterol from dandelion improves glycolipid metabolism dysfunction in diet-induced metabolic dysfunction-associated steatotic liver disease by modulating hepatic FXR. | J Ethnopharmacol
+- new | 2026 | 42925973 | Review | Medicinal plants and functional foods with diuretic effects: a nutraceutical approach to cardiovascular health. | Fitoterapia
+- new | 2025 | 41101186 |  | Efficacy of plant-based remedies for Varroa destructor control in honey bee colonies: A preliminary study. | Vet Parasitol
+- new | 2025 | 41374059 | Review | Tracking Evidences of Dandelion for the Treatment of Cancer: From Chemical Composition, Bioactivity, Signaling Pathways in Cancer Cells to Perspective Study. | Nutrients
+- HELD REF-2962 | 2025 | 41573227 | Review | Taraxacum officinale L. in leukemia and lymphoma: current knowledge and prospects for horticulture. | Front Plant Sci
+- new | 2025 | 40149616 |  | Synergistic Effects of Green Nanoparticles on Antitumor Drug Efficacy in Hepatocellular Cancer. | Biomedicines
+- new | 2025 | 40491504 |  | Hepatoprotective mechanisms of ginkgo-Biloba and dandelion extracts: antioxidant activity and modulation of TNF-α and P53 pathways in Thioacetamide-induced liver injury. | Toxicol Res (Camb)
+- new | 2025 | 40404059 |  | Hepatoprotective effects of dandelion against AFB(1)-induced liver injury are associated with activation of bile acid-FXR signaling in chicks. | Toxicon
+- new | 2025 | 40725269 |  | Harnessing Plant-Based Nanoparticles for Targeted Therapy: A Green Approach to Cancer and Bacterial Infections. | Int J Mol Sci
+- new | 2025 | 41360405 |  | Neuroprotetive potential of Taraxacum officinale leaf extract against cisplatin neuropathy via antioxidative modulation. | Arq Neuropsiquiatr
+- new | 2025 | 40139302 |  | Toxicity of environmentally relevant concentration of esfenvalerate and Taraxacum officinale application to overcome toxicity: A multi-bioindicator in-vivo study. | Environ Pollut
+- new | 2025 | 40253847 |  | Integration of network pharmacology, molecular docking and pharmacokinetic investigations of dandelion in rats for the treatment of diabetes mellitus. | J Chromatogr B Analyt Technol Biomed Lif
+- new | 2025 | 40807535 |  | Evaluation of the Biological Properties and Antibacterial Activities of the Natural Food Supplement "Epavin" for Liver Detoxification and Protection. | Foods
+- new | 2025 | 41373965 | Review | Medicinal Plants in Food Supplements for Gastrointestinal Disorders: Critical Assessment of Health Claims on Gastric Acid Regulation. | Nutrients
+- new | 2025 | 40806698 |  | Simultaneous Determination of Reducing Sugars in Honey by Capillary Zone Electrophoresis with LIF Detection Using Low-Toxicity 2-Picoline Borane and APTS for Pre-Capillary Derivati | Int J Mol Sci
+- new | 2025 | 40699848 |  | Preliminary Analysis of the Salt-Tolerance Mechanisms of Different Varieties of Dandelion (Taraxacum mongolicum Hand.-Mazz.) Under Salt Stress. | Curr Issues Mol Biol
+- new | 2025 | 39642711 | Research Support, Non-U.S. Gov't | Unveiling the therapeutic mechanisms of taraxasterol from dandelion in endometriosis: Network pharmacology and cellular insights. | Biochem Biophys Res Commun
+- new | 2024 | 37559241 | Review | Medicinal Plant-derived Phytochemicals in Detoxification. | Curr Pharm Des
+- new | 2024 | 38794144 | Review | Potential Anti-Tumorigenic Properties of Diverse Medicinal Plants against the Majority of Common Types of Cancer. | Pharmaceuticals (Basel)
+- new | 2024 | 38592867 |  | Potential of Plant-Based Extracts to Alleviate Sorbitol-Induced Osmotic Stress in Cabbage Seedlings. | Plants (Basel)
+- new | 2024 | 38381516 |  | Middle Eastern Plants with Potent Cytotoxic Effect Against Lung Cancer Cells. | J Med Food
+- new | 2024 | 39116283 | Research Support, Non-U.S. Gov't | Structurally Oriented Carbon Dots as ROS Nanomodulators for Dynamic Chronic Inflammation and Infection Elimination. | ACS Nano
+- HELD REF-2903 | 2024 | 39192720 |  | Bioactive potential of Mentha arvensis L. essential oil. | J Environ Sci Health B
+- new | 2024 | 38776992 |  | Effect of cadmium and polystyrene nanoplastics on the growth, antioxidant content, ionome, and metabolism of dandelion seedlings. | Environ Pollut
+- new | 2024 | 39034002 |  | Transcriptome mechanisms of dandelion under stress of polystyrene and dibutyl phthalate and quantitative tracing of nanoplastics. | Sci Total Environ
+- new | 2024 | 39101095 |  | An investigation of antioxidative and anti-inflammatory effects of Taraxacum coreanum (white dandelion) in lactating Holstein dairy cows. | J Adv Vet Anim Res
+- new | 2024 | 39266792 | Case Reports | The Taping Game for the Complex G8 Glissonean Approach Is the Most Effective Technique for Laparoscopic Anatomic S8 Resection of Dandelion-Patterned Hepatic Pedicles. | Ann Surg Oncol
+- new | 2024 | 39872609 |  | Joint exploration of network pharmacology and metabolomics on the effects of traditional Chinese medicine compounds in weaned yaks. | Front Vet Sci
+- new | 2024 | 39927118 |  | Targeting NANOS1 in triple-negative breast cancer: synergistic effects of digoxin and PD-1 inhibitors in modulating the tumor immune microenvironment. | Front Oncol
+- new | 2023 | 37325288 | Review | Scalp Seborrheic Dermatitis: What We Know So Far. | Skin Appendage Disord
+- new | 2023 | 38024536 | Review | Pharmacological and Clinical Studies of Medicinal Plants That Inhibit Dipeptidyl Peptidase-IV. | Drug Des Devel Ther
+- new | 2023 | 36872404 |  | Enrichment and health risks associated with trace elements in medicine food homology teas. | Environ Sci Pollut Res Int
+- new | 2023 | 37209606 |  | Protection of taraxasterol against acetaminophen-induced liver injury elucidated through network pharmacology and in vitro and in vivo experiments. | Phytomedicine
+- new | 2023 | 35940823 |  | Ameliorative effect of dandelion (Taraxacum officinale) peptides on benzo(a)pyrene-induced oxidative stress and inflammation in human umbilical vein endothelial cells. | J Pept Sci
+- new | 2023 | 36987022 |  | Potential Allergenicity of Plants Used in Allergological Communication: An Untapped Tool for Prevention. | Plants (Basel)
+- new | 2023 | 36108692 |  | Effects of dandelion (Taraxacum sp.,) supplements on lactation performance, antioxidative activity, and plasma metabolome in primiparous dairy cows. | Anim Biosci
+- new | 2023 | 36270525 |  | Effects of polystyrene nanoplastics with different functional groups on the accumulation and toxicity of Pb on dandelion. | Chemosphere
+- new | 2023 | 36746273 | Research Support, Non-U.S. Gov't | A dandelion-like nanomedicine via hierarchical self-assembly for synergistic chemotherapy and photo-dynamic cancer therapy. | Nanomedicine
+- new | 2022 | 35067863 |  | Dandelion (Taraxacum officinale) Improves the Therapeutic Efficiency of Praziquantel in Experimental Schistosomiasis. | Acta Parasitol
+- new | 2022 | 35487467 |  | Effects of polystyrene nanoplastics on lead toxicity in dandelion seedlings. | Environ Pollut
+- new | 2022 | 34816363 |  | Protective Effect of Fresh/Dry Dandelion Extracts on APAP-Overdose-Induced Acute Liver Injury. | Chin J Integr Med
+- new | 2022 | 36207736 | Review | Sesquiterpenoid lactones as potential anti-cancer agents: an update on molecular mechanisms and recent studies. | Cancer Cell Int
+- new | 2022 | 35991893 | Review | The phytochemical and pharmacological profile of taraxasterol. | Front Pharmacol
+- new | 2022 | 36440749 |  | Taraxasterol inhibits inflammation in osteoarthritis rat model by regulating miRNAs and NF-κB signaling pathway. | Acta Biochim Pol
+- new | 2022 | 35405963 | Review | New Perspectives on the Effect of Dandelion, Its Food Products and Other Preparations on the Cardiovascular System and Its Diseases. | Nutrients
+- new | 2022 | 36205775 |  | Effect of co-toxicity of lead and nanoplastics on the flavonoid biosynthetic pathway in dandelion (Taraxacum asiaticum Dahlst). | Planta
+- new | 2022 | 36029509 |  | Protective Effect of Dandelion Leaf Water Extracts on APAP-Induced Liver Injury in Rats and Its Mechanism. | Cell Mol Biol (Noisy-le-grand)
+- new | 2022 | 34785415 | Comparative Study | Synergistic antidiabetic activity of Taraxacum officinale (L.) Weber ex F.H.Wigg and Momordica charantia L. polyherbal combination. | Biomed Pharmacother
+- new | 2022 | 36210509 |  | Protective role of the dandelion extract against the blood-liver axis, cell membranes, and anemia disorder in sodium benzoate-exposed rats. | Cell Biochem Funct
+- new | 2022 | 36072392 |  | Effects of dietary supplement with a Chinese herbal mixture on growth performance, antioxidant capacity, and gut microbiota in weaned pigs. | Front Vet Sci
+- new | 2022 | 35760022 |  | Induction of P-glycoprotein expression by dandelion in tumor and heart tissues: Impact on the anti-tumor activity and cardiotoxicity of doxorubicin. | Phytomedicine
+- HELD REF-5167 | 2022 | 36636365 | Case Reports | Drug-Induced Liver Injury from Herbal Liver Detoxification Tea. | Case Rep Gastroenterol
+- new | 2021 | 34360480 | Research Support, Non-U.S. Gov't | Rocks, Dandelions or Steel Springs: Understanding Resilience from a Public Health Perspective. | Int J Environ Res Public Health
+- HELD REF-2950 | 2021 | 33804908 |  | Protective Effects of Taraxacum officinale L. (Dandelion) Root Extract in Experimental Acute on Chronic Liver Failure. | Antioxidants (Basel)
+- new | 2021 | 33964908 |  | A plant-based medicinal food inhibits the growth of human gastric carcinoma by reversing epithelial-mesenchymal transition via the canonical Wnt/β-catenin signaling pathway. | BMC Complement Med Ther
+- new | 2021 | 33415586 |  | Evaluation of consumer safety of Polish honey-the content of Cd and Pb in multifloral, monofloral and honeydew honeys. | Biol Trace Elem Res
+- new | 2021 | 33562751 |  | Potential Ecological and Human Health Risks of Heavy Metals in Soils in Selected Copper Mining Areas-A Case Study: The Bor Area. | Int J Environ Res Public Health
+- new | 2021 | 34632981 | Research Support, Non-U.S. Gov't | A beta-glucosidase of an insect herbivore determines both toxicity and deterrence of a dandelion defense metabolite. | Elife
+- new | 2020 | 33114490 |  | Anti-Obesity Attributes; UHPLC-QTOF-MS/MS-Based Metabolite Profiling and Molecular Docking Insights of Taraxacum officinale. | Molecules
+- new | 2020 | 32595273 |  | Identifying Herbal Adverse Events From Spontaneous Reporting Systems Using Taxonomic Name Resolution Approach. | Bioinform Biol Insights
+- new | 2020 | 33133515 |  | Dandelion extract relaxes mouse airway smooth muscle by blocking VDLCC and NSCC channels. | Cell Biosci
+- new | 2020 | 32752301 | Research Support, Non-U.S. Gov't | Dandelion Extract Alleviated Lipopolysaccharide-Induced Oxidative Stress through the Nrf2 Pathway in Bovine Mammary Epithelial Cells. | Toxins (Basel)
+- new | 2020 | 32456051 |  | Inhibitory Effects of AF-343, a Mixture of Cassia tora L., Ulmus pumila L., and Taraxacum officinale, on Compound 48/80-Mediated Allergic Responses in RBL-2H3 Cells. | Molecules
+- new | 2020 | 32005795 |  | Bauerane Induces S-Phase Cell Cycle Arrest, Apoptosis, and Inhibition of Proliferation of A549 Human Lung Cancer Cells Through the Phosphoinositide 3-Kinase (PI3K)/AKT and Signal T | Med Sci Monit
+- new | 2020 | 32497278 | Research Support, Non-U.S. Gov't | Lemon balm and dandelion leaf extract synergistically alleviate ethanol-induced hepatotoxicity by enhancing antioxidant and anti-inflammatory activity. | J Food Biochem
+- new | 2020 | 33152257 | Comparative Study | Bee pollens originating from different species have unique effects on ovarian cell functions. | Pharm Biol
+- new | 2020 | 32172946 |  | Dandelion polyphenols protect against acetaminophen-induced hepatotoxicity in mice via activation of the Nrf-2/HO-1 pathway and inhibition of the JNK signaling pathway. | Chin J Nat Med
+- new | 2019 | 31081770 |  | Phytochemical screening and antipyretic effects of hydroalcoholic extracts of selected medicinal plants of Rawalakot, Azad Jammu and Kashmir in albino rats. | Pak J Pharm Sci
+- new | 2019 | 31376170 |  | UPLC-MS/MS study of the effect of dandelion root extract on the plasma levels of the selected irreversible tyrosine kinase inhibitors dasatinib, imatinib and nilotinib in rats: Pot | Biomed Chromatogr
+- new | 2019 | 31559252 |  | Seborrheic Dermatitis: Three Novel Trichoscopic Signs and Its Correlation to Malassezia sp. Colonization. | Skin Appendage Disord
+- new | 2019 | 35185411 |  | Insights Into Protective Mechanisms of Dandelion Leaf Extract Against Cisplatin-Induced Nephrotoxicity in Rats: Role of Inhibitory Effect on Inflammatory and Apoptotic Pathways. | Dose Response
+- HELD REF-2961 | 2019 | 31391857 |  | Dandelion Root and Lemongrass Extracts Induce Apoptosis, Enhance Chemotherapeutic Efficacy, and Reduce Tumour Xenograft Growth In Vivo in Prostate Cancer. | Evid Based Complement Alternat Med
+- new | 2019 | 31567464 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Review | Practical Application of "About Herbs" Website: Herbs and Dietary Supplement Use in Oncology Settings. | Cancer J
+- new | 2019 | 31777307 |  | Development of dual-targeted nano-dandelion based on an oligomeric hyaluronic acid polymer targeting tumor-associated macrophages for combination therapy of non-small cell lung can | Drug Deliv
+- new | 2019 | 31395878 | Research Support, Non-U.S. Gov't | Highly efficient dandelion-like near-infrared light photoinitiator for free radical and thiol-ene photopolymerizations. | Nat Commun
+- new | 2018 | 29906338 | Randomized Controlled Trial, Veterinary | A nutraceutical diet based on Lespedeza spp., Vaccinium macrocarpon and Taraxacum officinale improves spontaneous feline chronic kidney disease. | Physiol Rep
+- new | 2018 | 30662779 | Case Reports | The Use of Natural Health Products Especially Papaya Leaf Extract and Dandelion Root Extract in Previously Untreated Chronic Myelomonocytic Leukemia. | Case Rep Hematol
+- new | 2018 | 30425928 |  | Consolidating probiotic with dandelion, coriander and date palm seeds extracts against mercury neurotoxicity and for maintaining normal testosterone levels in male rats. | Toxicol Rep
+- new | 2018 | 29580525 | Comparative Study/Research Support, Non-U.S. Gov't | Assessment of effects of phenolic fractions from leaves and petals of dandelion in selected components of hemostasis. | Food Res Int
+- new | 2017 | 28543097 | Review | Contact dermatitis as an adverse reaction to some topically used European herbal medicinal products - part 4: Solidago virgaurea-Vitis vinifera. | Contact Dermatitis
+- new | 2017 | 28839248 | Research Support, Non-U.S. Gov't | Sensitization patterns and minimum screening panels for aeroallergens in self-reported allergic rhinitis in China. | Sci Rep
+- new | 2017 | 29485642 |  | Modulatory Role of Rutin Supplement on Open Space Forced Swim Test Murine Model of Depression. | Niger J Physiol Sci
+- HELD REF-5424 | 2017 | 27568784 | Review | Systemic allergic dermatitis caused by sesquiterpene lactones. | Contact Dermatitis
+- new | 2017 | 28841174 |  | Purification, Preliminary Characterization and Hepatoprotective Effects of Polysaccharides from Dandelion Root. | Molecules
+- new | 2017 | 27775872 |  | ATP/pH Dual Responsive Nanoparticle with d-[des-Arg(10) ]Kallidin Mediated Efficient In Vivo Targeting Drug Delivery. | Small
+- new | 2017 | 28364786 |  | Dandelion-enriched diet of mothers alleviates lead-induced damages in liver of newborn rats. | Cell Mol Biol (Noisy-le-grand)
+- new | 2017 | 29187173 |  | Anti-inflammatory evaluation of the methanolic extract of Taraxacum officinale in LPS-stimulated human umbilical vein endothelial cells. | BMC Complement Altern Med
+- new | 2016 | 25270677 | Research Support, Non-U.S. Gov't | Hepatoprotective effect of Taraxacum officinale leaf extract on sodium dichromate-induced liver injury in rats. | Environ Toxicol
+- new | 2016 | 27513212 |  | Therapeutic potential of Taraxacum officinale against HCV NS5B polymerase: In-vitro and In silico study. | Biomed Pharmacother
+- new | 2016 | 26853058 | Comparative Study | Evaluation of genotoxic variations in plant model systems in a case of metal stressors. | J Environ Sci Health B
+- new | 2016 | 29461791 |  | [Concentrations of alkaloids, cyanogenic glycosides, polyphenols and saponins in selected medicinal plants from Ecuador and their relationship with acute toxicity against Artemia s | Rev Biol Trop [spa]
+- new | 2015 | 26869866 | Review | Plants with potential use on obesity and its complications. | EXCLI J
+- new | 2015 | 26685395 |  | [Survey on the prevalence of childhood allergic rhinitis in Yinchuan]. | Lin Chuang Er Bi Yan Hou Tou Jing Wai Ke [chi]
+- new | 2015 | 25749764 |  | Bee Pollen-Induced Anaphylaxis: A Case Report and Literature Review. | Allergy Asthma Immunol Res
+- new | 2015 | 25873241 | Research Support, Non-U.S. Gov't/Validation Study | Quantification of taraxasterol in rat plasma by LC/MS/MS: application to a pharmacokinetic study. | Biomed Chromatogr
+- new | 2014 | 24824478 | Research Support, Non-U.S. Gov't | Herbal tea extracts inhibit Cytochrome P450 3A4 in vitro. | J Pharm Pharmacol
+- new | 2014 | 25015447 |  | Effect of leaf extracts of Taraxacum officinale on CCl4 induced hepatotoxicity in rats, in vivo study. | Pak J Pharm Sci
+- new | 2014 | 23876154 |  | Exploring insights for virulent gene inhibition of multidrug resistant Salmonella typhi, Vibrio cholerae, and Staphylococcus areus by potential phytoligands via in silico screening | J Biomol Struct Dyn
+- new | 2014 | 25376340 |  | Internet claims on dietary and herbal supplements in advanced nephropathy: truth or myth. | Am J Nephrol
+- new | 2013 | 23472485 | Research Support, Non-U.S. Gov't/Review | Adverse effects of herbal medicines: an overview of systematic reviews. | Clin Med (Lond)
+- new | 2013 | 23727181 | Research Support, Non-U.S. Gov't | Effects of taraxasterol on ovalbumin-induced allergic asthma in mice. | J Ethnopharmacol
+- new | 2013 | 23448203 | Case Reports/Letter | Digital necrosis from dandelion tea. | Br J Dermatol
+- new | 2013 | 23256442 | Research Support, Non-U.S. Gov't | Dandelion leaf extract protects against liver injury induced by methionine- and choline-deficient diet in mice. | J Med Food
+- new | 2012 | 22745064 | Research Support, Non-U.S. Gov't | Protective effects of HV-P411 complex against D-galactosamine-induced hepatotoxicity in rats. | Am J Chin Med
+- new | 2012 | 21964980 | Case Reports/Research Support, Non-U.S. Gov't | Surveillance of suspected adverse reactions to herbal products used as laxatives. | Eur J Clin Pharmacol
+- new | 2012 | 23311161 | Research Support, Non-U.S. Gov't | [Effect of aconiti lateralis radix praeparata and taraxaci herba on Chinese medicine signs and symptoms of urethane-induced lung cancer in mice]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2012 | 22504531 |  | Spirulina or dandelion-enriched diet of mothers alleviates lead-induced damages in brain and cerebellum of newborn rats. | Food Chem Toxicol
+- new | 2012 | 22424457 | Research Support, Non-U.S. Gov't | Antioxidant properties of Taraxacum officinale leaf extract are involved in the protective effect against hepatoxicity induced by acetaminophen in mice. | J Med Food
+- new | 2011 | 21801144 |  | Relevance of drug metabolizing enzyme activity modulation by tea polyphenols in the inhibition of esophageal tumorigenesis. | Med Chem
+- new | 2011 | 22078030 | Research Support, Non-U.S. Gov't | Inhibitory effect of aqueous Dandelion extract on HIV-1 replication and reverse transcriptase activity. | BMC Complement Altern Med
+- new | 2011 | 22069962 |  | Hepatoprotective activity of a phytotherapeutic formula on thioacetamide--induced liver fibrosis model. | Acta Biomed
+- new | 2010 | 20006217 | Case Reports | First report of hypoglycemia secondary to dandelion (Taraxacum officinale) ingestion. | Am J Emerg Med
+- new | 2010 | 20347918 | Research Support, Non-U.S. Gov't | In vitro and in vivo hepatoprotective effects of the aqueous extract from Taraxacum officinale (dandelion) root against alcohol-induced oxidative stress. | Food Chem Toxicol
+- new | 2010 | 20813013 | Research Support, Non-U.S. Gov't | Platanus pollen allergen, Pla a 1: quantification in the atmosphere and influence on a sensitizing population. | Clin Exp Allergy
+- new | 2010 | 20812277 | Research Support, Non-U.S. Gov't | Amelioration of oxidative stress by dandelion extract through CYP2E1 suppression against acute liver injury induced by carbon tetrachloride in Sprague-Dawley rats. | Phytother Res
+- new | 2010 | 20519172 |  | Hepatocurative potential of sesquiterpene lactones of Taraxacum officinale on carbon tetrachloride induced liver toxicity in mice. | Acta Biol Hung
+- new | 2009 | 19432748 | Research Support, Non-U.S. Gov't | The identification of ingested dandelion juice in gastric contents of a deceased person by direct sequencing and GC-MS methods. | J Forensic Sci
+- HELD REF-2948 | 2008 | 18425335 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Evaluation of aqueous extracts of Taraxacum officinale on growth and invasion of breast and prostate cancer cells. | Int J Oncol
+- HELD REF-2955 | 2008 | 20016719 |  | Pancreatic lipase inhibitory activity of taraxacum officinale in vitro and in vivo. | Nutr Res Pract
+- new | 2007 | 18219834 | Research Support, Non-U.S. Gov't | Cross-allergenicity of pollens from the Compositae family: Artemisia vulgaris, Dendranthema grandiflorum, and Taraxacum officinale. | Ann Allergy Asthma Immunol
+- new | 2006 | 16650094 | Research Support, Non-U.S. Gov't | Contact allergy to herbal teas derived from Asteraceae plants. | Contact Dermatitis
+- new | 2006 | 16328317 |  | Safety implications regarding use of phytomedicines. | Eur J Clin Pharmacol
+- new | 2006 | 17274522 | Case Reports | Anaphylaxis to honey in pollinosis to mugwort: a case report. | Eur Ann Allergy Clin Immunol
+- new | 2005 | 16526208 |  | [Is Vojvodina a risk area for contact weed allergies?]. | Med Pregl [srp]
+- HELD REF-1301 | 2003 | 12793186 | Review | [Compositae dermatitis]. | Med Pregl [hrv]
+- HELD REF-5667 | 2003 | 12641574 | Case Reports/Research Support, Non-U.S. Gov't | Erythema multiforme due to contact with weeds: a recurrence after patch testing. | Contact Dermatitis
+- new | 2003 | 12857840 |  | Altered gene expression in three plant species in response to treatment with Nep1, a fungal protein that causes necrosis. | Plant Physiol
+- new | 2002 | 12819384 |  | Allergens causing atopic diseases in canine. | J Vet Sci
+- new | 2001 | 11697539 | Research Support, Non-U.S. Gov't | Effect of herbal teas on hepatic drug metabolizing enzymes in rats. | J Pharm Pharmacol
+- new | 2000 | 10902595 | Case Reports | Seasonal allergic contact dermatitis from Taraxacum officinale (dandelion) in an Israeli florist. | Contact Dermatitis
+- new | 1999 | 9923784 | Case Reports | Allergic contact and photoallergic contact dermatitis to plant and pesticide allergens. | Arch Dermatol
+- new | 1999 | 10350500 |  | Effects of taraxacum mongolicum on the bioavailability and disposition of ciprofloxacin in rats. | J Pharm Sci
+- new | 1998 | 9542306 | Case Reports | [Human fascioliasis with atypical severe presentation. Treatment with triclabendazole]. | Enferm Infecc Microbiol Clin [spa]
+- new | 1998 | 9747365 |  | Patch testing for Compositae allergy. | Br J Dermatol
+- new | 1997 | 9292084 | Case Reports | Compositae sensitivity and chronic hand dermatitis in a seven-year-old boy. | Br J Dermatol
+- new | 1996 | 8917835 |  | Daisy, dandelion and thistle contact allergy in the photosensitivity dermatitis and actinic reticuloid syndrome. | Contact Dermatitis
+- new | 1992 | 1590566 |  | Allergy to honey: relation to pollen and honey bee allergy. | Allergy
+- new | 1991 | 1838315 | Case Reports | Dandelion dermatitis. | Contact Dermatitis
+- new | 1987 | 3827282 | Case Reports | Compositae dermatitis in childhood. | Arch Dermatol
+- new | 1986 | 2941233 | Case Reports | Contact allergy to yarrow and dandelion. | Contact Dermatitis
+- new | 1982 | 6211344 | Case Reports/Research Support, Non-U.S. Gov't | [Taraxinic acid 1'-O-beta-D-glucopyranoside, the contact sensitizer of dandelion (Taraxacum officinale Wiggers) (author's transl)]. | Derm Beruf Umwelt [ger]
+- new | 1979 | 479479 | Case Reports/Research Support, U.S. Gov't, P.H.S. | Acute allergic reaction after composite pollen ingestion. | J Allergy Clin Immunol
+- new | 1978 | 158510 | Case Reports | [Allergic contact dermatitis caused by dandelions (Taraxacum officinale Wiggers)]. | Derm Beruf Umwelt [ger]
+- new | 1978 | 707947 | Case Reports | [Contact dermatitis caused by dandelion, laurel oil and frullania by cross-allergy]. | Ann Dermatol Venereol [fre]
+- new | 1978 | 722187 |  | Safety examination of some edible plants, Part 2. | J Environ Pathol Toxicol
+- new | 1966 | 5934501 | Case Reports | Dandelion green bezoar following antrectomy and vagotomy--case report. | J Kans Med Soc
+- new | 1943 | 19871274 |  | ALLERGENIC RELATIONSHIP OF THE POLLENS OF DWARF AND GIANT RAGWEED TO SEVERAL OF THEIR BOTANIC RELATIVES. | J Exp Med
+
+### PubMed OBS - 8 hits, 2 not already listed above, 2 new
+- new | 2026 | 43086049 |  | [Anatomy-oriented resection versus indocyanine green fluorescence-guided laparoscopic anatomical segment 8 hepatectomy for hepatocellular carcinoma: a multicenter retrospective coh | Zhonghua Wai Ke Za Zhi [chi]
+- new | 2023 | 38093362 |  | Plant diversity and ethnobotanical importance of home gardens in Ghana's middle belt: a cross-sectional survey of the Sunyani municipality. | J Ethnobiol Ethnomed
+
+### PubMed REV - 83 hits, 19 not already listed above, 16 new
+- new | 2024 | 38178677 | Review | Pharmacological Action and Research Progress of Taraxasterol. | Curr Pharm Biotechnol
+- new | 2024 | 39795344 | Review | Multilateral Use of Dandelion in Folk Medicine of Central-Eastern Europe. | Plants (Basel)
+- new | 2024 | 38305867 | Review/Research Support, Non-U.S. Gov't | Sonchus oleraceus L.: ethnomedical, phytochemical and pharmacological aspects. | Naunyn Schmiedebergs Arch Pharmacol
+- HELD REF-0338 | 2024 | 39338278 | Review | Botany, Traditional Use, Phytochemistry, Pharmacology and Quality Control of Taraxaci herba: Comprehensive Review. | Pharmaceuticals (Basel)
+- new | 2024 | 39180794 | Review | The phytochemical and pharmacological profile of dandelion. | Biomed Pharmacother
+- new | 2024 | 38999065 | Review | Physiological Mechanisms by Which the Functional Ingredients in Beer Impact Human Health. | Molecules
+- new | 2023 | 37446683 | Review | Dandelion (Taraxacum Genus): A Review of Chemical Constituents and Pharmacological Effects. | Molecules
+- new | 2023 | 36768462 | Review | Immunopharmacological Activities of Luteolin in Chronic Diseases. | Int J Mol Sci
+- new | 2022 | 35405251 | Review | The potential of dandelion in the fight against gastrointestinal diseases: A review. | J Ethnopharmacol
+- new | 2021 | 33809763 | Research Support, Non-U.S. Gov't/Review | Plant Prebiotics and Their Role in the Amelioration of Diseases. | Biomolecules
+- new | 2021 | 33683253 | Review | Traditional plants from Asteraceae family as potential candidates for functional food industry. | Food Funct
+- new | 2021 | 33809449 | Review | The Plants of the Asteraceae Family as Agents in the Protection of Human Health. | Int J Mol Sci
+- HELD REF-2392 | 2016 | 28012278 | Review | The Physiological Effects of Dandelion (Taraxacum Officinale) in Type 2 Diabetes. | Rev Diabet Stud
+- HELD REF-2954 | 2012 | 22946853 | Research Support, Non-U.S. Gov't/Review | Diverse biological activities of dandelion. | Nutr Rev
+- new | 2012 | 22010973 | Review | Functional foods with digestion-enhancing properties. | Int J Food Sci Nutr
+- new | 2006 | 30000932 | Review | Dandelion. | 
+- new | 2006 | 30000888 | Review | Arnica. | 
+- new | 2005 | 16213813 | Review | Evolution: a study in bad taste? | Curr Biol
+- new | 1988 | 3055647 | Review | Pruritus in rabbits, rodents, and ferrets. | Vet Clin North Am Small Anim Pract
+
+### ClinicalTrials.gov - 7 registered studies
+- NCT04054284 | COMPLETED | results=False | NA | Safety and Efficacy of Herbal Tea in Type 2 Diabetics | conds: Type 2 Diabetes, Herbal Medicine Adverse Reaction | intr: Antidiabetic Herbal Tea, Herbal Tea
+- NCT06018168 | COMPLETED | results=False | NA | An RCT Evaluating the Efficacy of a Skincare Routine and Acne Supplement on Improving Acne and Other Symptoms of PMS | conds: Acne, Premenstrual Syndrome | intr: Skincare Routine, MINDBODYSKIN Supplement
+- NCT06625736 | COMPLETED | results=False | NA | Anti-obesity Effects of Dandelion (Taraxacum Officinale L.) | conds: Obese Women, Perimenopause | intr: Xenical, The dandelion extract
+- NCT06972134 | COMPLETED | results=False | NA | Synergistic Effects of Natural Oils and Herbal Extracts on Cholesterol Gallstone Dissolution: In Vitro Comparison With Rowachol® | conds: Cholesterol Gallstone Dissolution | intr: Sesame Oil (SO) at 100 mg/mL in dissolving fluid., Extra Virgin Olive Oil (EVOO) at 100 mg/mL in dis
+- NCT05879406 | COMPLETED | results=False | NA | A Study to Evaluate the Efficacy and Safety of Clear Skin Formula on Mitigating Mild to Moderate Non-cystic Acne | conds: Non-Cystic Acne | intr: VitaMedica® Clear Skin Formula capsules, Placebo Capsules | pubs: ['39758223:DERIVED (new)']
+- NCT07240246 | COMPLETED | results=False | NA | Effect of a Dietary Supplement on Hormones Involved in Appetite Regulation in Overweight and Obese Adults | conds: GLP-1, Obesity &Amp; Overweight, Dietary Supplement | intr: Intervention: Dietary Supplement with Plant Extracts, Placebo
+- NCT01049373 | COMPLETED | results=True | PHASE3 | Efficacy and Safety of Lymphdiaral Basistropfen (HDC) in the Treatment of Chronic Low-back Pain | conds: Low Back Pain | intr: HDC, Placebo solution
+
+### OpenAlex no-PMID trial-worded - 1701 hits, 62 without PMID, 62 new
+- new | 2026 | 10.2174/0115748855419340251113172731 | article | The Investigation of the Effect of a Dandelion Herbal Capsule (GHASEDAK Capsule) on Fibrosis and Liver Function in NAFLD: A Randomized, Double Blind, Placebo-controlled, Single-cen | Current Drug Therapy
+- new | 2026 | 10.1016/j.nexres.2026.102224 | article | Male fertility potentials of Taraxacum officinale (dandelion): Phytochemical basis and mechanistic insights | Next research.
+- new | 2026 | 10.1007/s42535-026-01870-w | article | Enhancing seed germination in Taraxacum officinale (L.) Weber: role of plant growth regulators | Vegetos
+- new | 2026 | 10.25004/ijpsdr.2026.180304 | article | Taraxacum officinale (Dandelion root extract) in oncology: Uncovering its potential as a natural anticancer agent | International Journal of Pharmaceutical 
+- new | 2026 | 10.1080/1828051x.2026.2667674 | article | Taraxacum officinale extract mitigates heat stress-induced oxidative, inflammatory and immune dysfunctions in rabbits | Italian Journal of Animal Science
+- new | 2026 | 10.6084/m9.figshare.32557844 | dataset | Taraxacum officinale extract mitigates heat stress-induced oxidative, inflammatory and immune dysfunctions in rabbits | Figshare
+- new | 2026 | 10.30574/gscbps.2026.35.3.0243 | article | Protective Effects of Taraxacum officinale (L.) Weber on CCl₄-Induced Liver Toxicity in Male Rats | GSC Biological and Pharmaceutical Scienc
+- new | 2026 | 10.4238/17e48f49 | article | IN VIVO ANTITOXIC ACTIVITY OF SAPONIN ISOLATED FROM TARAXACUM OFFICINALE L. AGAINST CCL₄-INDUCED RENAL TOXICITY IN RATS | Genetics and Molecular Research
+- new | 2026 | 10.5281/zenodo.23874079 | preprint | Comprehensive Analysis of Taraxacum officinale (Dandelion) Root Extract in Colorectal Oncology: Molecular Mechanisms, Preclinical Efficacy, and Translational Trajectories | Zenodo (CERN European Organization for N
+- new | 2025 | 10.1016/j.fbio.2025.106708 | article | Hepatoprotective activity of taraxacum officinale extract against CCl4-induced liver injury in rats | Food Bioscience
+- new | 2025 | 10.64252/a6w0zc05 | article | Impact Of Taraxacum Officinale Silver Nanoparticle On Lipid Profile In Hyperlipidemia Rats | International Journal of Environmental S
+- new | 2025 | 10.22124/cjes.2025.8910 | article | Gonadoprotective potential of Taraxacum officinale on testicular tissue damage induced by cadmium chloride | Caspian journal of environmental science
+- new | 2025 | 10.21608/ejvs.2025.374952.2778 | article | Taraxacum officinale Flower Aqueous Extract Suppresses Oxidative Stress and Induces Apoptosis in HCT116 Colorectal Cancer Cells | Egyptian Journal of Veterinary Science
+- new | 2025 | 10.1007/s42452-024-06419-7 | article | Antioxidant and antimicrobial activities of Dandelion root extract (Taraxacum officinale) and its cytotoxic effect on MDA-MB-231 breast cancer cells | Discover Applied Sciences
+- new | 2025 | 10.5958/2349-297x.2025.00026.6 | article | Evaluation of the Taraxacum officinale (Dandelion) powder as an anti-oxidant source to enhance the storage stability of chicken meat loaves | SKUAST JOURNAL OF RESEARCH
+- new | 2025 | 10.18805/ijar.bf-1956 | article | Ameliorative Effects of Dandelion Root Extract (Taraxacum officinale) against Silver Nanoparticles-stimulated Hepatotoxicity in Male Albino Rats | Indian Journal of Animal Research
+- new | 2025 | 10.9734/ajrimps/2025/v14i4350 | article | Protective Potentials of Taraxacum officinale Ethanol Leaf Extract on Testosterone Propionate-induced Benign Prostatic Hyperplasia in Wistar Male Rats | Asian Journal of Research in Medical and
+- new | 2024 | 10.32743/unichem.2024.116.2.16756 | article | VITAMINS OF A Taraxacum officinale Wigg. S.L, GROWING IN THE FERGHANA VALLEY | Universum Chemistry & biology
+- new | 2024 | 10.7324/japs.2024.165907 | article | The efficacy of Makiang tea drinking on serum lipid profile in the treatment of dyslipidaemia: A randomized controlled trial | Journal of Applied Pharmaceutical Scienc
+- new | 2024 | 10.66068/mjaabu.v3i1.41 | article | The effect of Taraxacum officinale extract on the sodium valproate induced model of autism and assessment of oxidative stress | Medical Journal of Ahl al-Bayt Universit
+- new | 2024 | 10.1177/09731296231226067 | article | Taraxacum officinale Extracts Alleviate Anhedonia and Depression by Inhibiting UPR mt and Mitophagy in the Hippocampi of T2DM Rats | Pharmacognosy Magazine
+- new | 2023 | 10.24086/cuesj.v7n1y2023.pp39-47 | article | The Protective Rolls of Taraxacum officinale against Carbone Tetrachloride Infarction in the Liver | Cihan University-Erbil Scientific Journa
+- new | 2023 | 10.1111/wre.12609 | article | Improved control of Taraxacum officinale with 2,4‐D in the field from ammonium sulphate additions | Weed Research
+- new | 2023 | 10.18103/mra.v11i8.4373 | article | Comparison of homeopathic medicines composed of Taraxacum officinale and Lycopodium clavatum for treating cellular hepatocarcinoma | Medical Research Archives
+- new | 2023 | 10.25165/j.ijabe.20231605.7886 | article | Detection and classification of pesticide residues in dandelion (Taraxacum officinale L.) by electronic nose combined with chemometric approaches | International journal of agricultural an
+- new | 2023 | 10.18805/ijar.bf-1662 | article | Effects of Dandelion (Taraxacum officinale) Supplementation on Productive Performance, Egg Quality Traits, Serum Biochemical Parameters and Liver Fat Rate in Laying Hens | Indian Journal of Animal Research
+- new | 2022 | 10.17582/journal.pjz/20201108141125 | article | Antibacterial Activity of Taraxacum officinale against Foodborne Pathogens | Pakistan Journal of Zoology
+- new | 2022 | 10.2754/avb202291010077 | article | Anti-tumour effect of combinations of three acids isolated from Taraxacum officinale | Acta Veterinaria Brno
+- new | 2022 | 10.30574/gscbps.2022.21.1.0385 | article | Effect of Taraxacum officinale L. ethanol extract against kidney injuries induced by paracetamol in rats | GSC Biological and Pharmaceutical Scienc
+- new | 2022 | 10.32113/wcrj_20227_2361 | article | Anti-invasion and anti-metastasis effects of Dandelion (Taraxacum officinale) hydroalcoholic extract on glioblastoma multiforme cell line model | World Cancer Research Journal
+- new | 2022 | 10.35741/issn.0258-2724.57.1.53 | article | PHYTOEXTRACTION POTENTIAL OF LEAD BY THREE PLANT SPECIES (TARAXACUM OFFICINALE, ARABIDOPSIS THALIANA, AND HELIANTHUS ANNUUS) WITH AN ECOLOGICALLY FRIENDLY ORGANIC AMENDMENT | Journal of Southwest Jiaotong University
+- new | 2021 | 10.1088/1755-1315/913/1/012089 | conference-paper | Efficacy of hepatoprotector jamu formula (combination of Curcuma longa, Curcuma xanthorrhiza, and Taraxacum officinale) compared to Fructus schizandrae extract in mild liver injury | IOP Conference Series Earth and Environm
+- new | 2021 | 10.37506/ijphrd.v12i2.14158 | article | Ameliorative Effect of Taraxacum officinale Leaves on Hormonal Status of Hyperglycemic Rats | Indian Journal of Public Health Research
+- new | 2021 | 10.1088/1755-1315/722/1/012002 | conference-paper | The effect of feeding different levels of dandelion leaf powder (Taraxacum officinale) in the diet on the productive and physiological performance of broiler chickens, strain Ross- | IOP Conference Series Earth and Environm
+- new | 2021 | 10.1016/j.aquaculture.2021.737296 | article | Amelioration of growth performance, physio-metabolic responses, and antioxidant defense system in rainbow trout, Oncorhynchus mykiss, using dietary dandelion, Taraxacum officinale, | Aquaculture
+- new | 2020 | 10.15407/ubj92.04.077 | article | Anti-inflammatory and hepatoprotective effects of polyherbal composition in patients with chronic cholecystitis | The Ukrainian Biochemical Journal
+- new | 2020 | https://openalex.org/W3180016497 | article | Биоэкологические свойства одуванчика лекарственного Taraxacum officinale Wigg | Journal of science and education
+- new | 2020 | 10.29244/jintp.18.1.19-23 | article | Penggunaan Dandelion (Taraxacum officinale) dalam Pakan Terhadap Performa Kalkun (Meleagris gallopavo) | Jurnal Ilmu Nutrisi dan Teknologi Pakan
+- new | 2020 | 10.17140/phoj-5-145 | article | Targeting Bacterial Biofilms Using Probiotics and Medicinal Plant Taraxacum officinale (Dandelion) Extract: A Comparative Study | Public Health - Open Journal
+- new | 2020 | 10.29369/ijrbat.2020.02.i.0005 | article | NUTRITIVE AND MEDICINAL PROPERTIES OF DANDELION (TARAXICUM OFFICINALE): A REVIEW | International Journal of Researches in B
+- new | 2019 | 10.1016/j.bcab.2019.101154 | article | Biogenic synthesis and characterization of cobalt oxide nanoparticles for catalytic reduction of direct yellow-142 and methyl orange dyes | Biocatalysis and Agricultural Biotechnol
+- new | 2018 | 10.46466/idj.v40i1.135 | article | The Effect of Gargling with Aqueous Extract of Dandelion (Taraxacum officinale) on the Oral Hygiene Status of Patients Wearing Fixed Orthodontic Appliance: A Clinical Study | Iraqi Dental Journal
+- new | 2017 | 10.36326/kjvs/2017/v8i14323 | article | Effect of Taraxacum officinale and Saccharomyces cerevisiae or their Mixture on some Productive Parameters of Turkey | Kufa Journal For Veterinary Medical Scie
+- new | 2017 | 10.1055/s-0037-1608450 | conference-paper | Taraxacum officinale leaves aqueous extract-mediated glucose lowering effect in STZ-induced diabetic rats. | Planta Medica International Open
+- new | 2016 | 10.1166/jnef.2016.1128 | article | The Effect of Dandelion Leaves and Roots on Blood Glucose in Type 2 Diabetic Patients | Journal of Nutritional Ecology and Food 
+- new | 2015 | 10.6084/m9.figshare.1557899 | dataset | Random Sampling of Plants Using a Transect | Figshare
+- new | 2015 | 10.1108/nfs-01-2015-0001 | article | Anti-diabetic effect of dandelion leaves and roots in type two diabetic patients: A systematic review | Nutrition & Food Science
+- new | 2013 | https://openalex.org/W7217578714 | article | การศึกษาความเป็นพิษต่อเซลล์ของสารสกัด Taraxacum officinale ในเซลล์มะเร็ง | Isan Journal of Pharmaceutical Sciences,
+- new | 2013 | 10.7853/kjvs.2013.36.4.233 | article | Hepatoprotective effects of the aqueous extract from Taraxacum officinale (Dandelion) against Thioacetamide-induced hepatotoxicity in rats | Korean Journal of Veterinary Service
+- new | 2012 | https://openalex.org/W2299436971 | article | The Effect of Taraxacum Officinale Hydro Alcoholic Extract on the Blood Cell Counts in Mice | Armaghane Danesh
+- new | 2011 | 10.1016/j.livsci.2011.05.017 | article | The effects of dietary Houttuynia cordata and Taraxacum officinale extract powder on growth performance, nutrient digestibility, blood characteristics and meat quality in finishing | Livestock Science
+- new | 2010 | 10.1016/j.pedobi.2010.08.007 | article | Effects of Medicago sativa, Taraxacum officinale and Bromus sterilis on the density and diversity of Collembola in grassy arable fallows of different ages | Pedobiologia
+- new | 2008 | 10.3923/ijps.2008.1182.1184 | article | Effect of Probiotic (Aspergillus niger) and Prebiotic (Taraxacum officinale) on Blood Picture and Biochemical Properties of Broiler Chicks | International Journal of Poultry Science
+- new | 2007 | 10.33762/bvetr.2007.55773 | article | EFFECTS OF ETHANOLIC EXTRACT OF TARAXACUM OFFICINALE LEAVES ON SOME PHYSIOLOGICAL AND REPRODUCTIVE PARAMETERS OF LOCAL ADULT MALE RABBITS | Basrah Journal of veterinary Research
+- new | 2006 | https://openalex.org/W2553587492 | article | Action of cholecystectomy and the alcoholic extract of Taraxacum officinale leaves on plasma lipid profile in rabbits | Journal of Basrah Researches (Sciences)
+- new | 2006 | https://openalex.org/W3212135172 | dissertation | The cross-allergenecity of pollens from Compositae family : Dendranthema grandiflorum, Artemisia vulgaris and Taraxacum officinale | YUHSpace (Yonsei University Medical Libr
+- new | 2004 | 10.24275/uami.4t64gn88f | dissertation | Efecto de la mezcla de Crataegus monogyna, Equisetum hyemale y Taraxacum officinale, en variables cardiovasculares de personas sanas | 
+- new | 1999 | 10.1080/01448765.1999.9754821 | article | Laboratory Food Choice Trials to Explore the Potential of Common Weeds to Reduce Slug Feeding on Oilseed Rape | Biological Agriculture & Horticulture
+- new | 1992 | 10.2307/2390053 | article | Effects of Nutrients and Light on Quantitative Variation in rDNA and cpDNA in Asexual Taraxacum officinale | Functional Ecology
+- new | 1988 | https://openalex.org/W149029800 | article | Trial cheese prepared with dandelion (Taraxacum officinale) extract. | 
+- new | 1987 | https://openalex.org/W2372438851 | article | Nan-Kong pei in 85 patients with chronic bacterial prostatitis | Chinese Journal of New Drugs and Clinica
+- new | 1979 | 10.1139/b79-221 | article | The regenerative capacity of root cuttings of Taraxacum officinale under natural conditions | Canadian Journal of Botany
+
+## theobroma-cacao (Theobroma cacao) - name clause: "Theobroma cacao"[tiab] OR "cocoa flavanol"[tiab] OR "cocoa flavanols"[tiab] OR "cocoa extract"[tiab] OR "cocoa powder"[tiab] OR "cacao"[tiab] OR "cocoa"[ti] OR "chocolate"[ti]
+
+### PubMed HT - 751 hits, 200 not already listed above, 199 new
+- new | 2026 | 41803341 | Randomized Controlled Trial | Effects of daily multivitamin-multimineral and cocoa extract supplementation on epigenetic aging clocks in the COSMOS randomized clinical trial. | Nat Med
+- new | 2026 | 41527842 | Randomized Controlled Trial | Cocoa flavanols protect endothelial function during prolonged sitting in healthy older adults. | Food Funct
+- new | 2026 | 42149390 |  | Combining external placebo-arm data in a prevention trial: effects of cocoa extract supplementation on cardiovascular disease. | Eur J Epidemiol
+- new | 2026 | 41955305 |  | Longitudinal trajectories of allergen sensitization in children with different transcriptome profiles from COCOA study. | Allergol Int
+- new | 2026 | 42637036 | Letter | Comment on "Associations of almond, dark chocolate, and cocoa consumption with stool microbial diversity and composition among adults with overweight or obesity: An analysis of sec | Clin Nutr ESPEN
+- new | 2026 | 40898420 |  | Short-Term Effects of Dark Chocolate on Choroidal Parameters in Myopic Patients During Near Work. | Curr Eye Res
+- new | 2026 | 42266618 |  | Pediatric oncology patients prefer cocoa over oral nutritional supplements in a double-blinded feeding-trial. | Front Nutr
+- new | 2026 | 42634155 |  | Explaining rehabilitation as an intervention to students, patients, and the public: the "rehabilitation chocolate cake". | J Rehabil Med
+- new | 2026 | 41587736 | Randomized Controlled Trial | Effects of Randomized Multivitamin Supplementation on Carotenoids and α-Tocopherol in the COcoa Supplement and Multivitamin Outcomes Study. | J Acad Nutr Diet
+- new | 2026 | 41855131 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Research Support, N.I.H., Extramural | Acute cocoa ingestion decreases spontaneous cardiac baroreflex sensitivity in healthy older adults. | Am J Physiol Regul Integr Comp Physiol
+- new | 2026 | 41849087 | Randomized Controlled Trial | Cocoa flavanol supplementation and prevention of cardiovascular disease: a novel analysis of the COSMOS randomized trial using "win ratio". | Eur J Epidemiol
+- new | 2026 | 42878033 |  | No evidence of acute effects of cocoa flavanols on overt and covert attention: a randomised, double-blind crossover trial. | Br J Nutr
+- new | 2025 | 40614481 | Randomized Controlled Trial | Acute effects of cocoa flavanols on cognitive control and response inhibition. | Nutrition
+- new | 2025 | 40554105 |  | Exposome study for allergic diseases in children: Rationale and design of ECHO-COCOA study. | Ecotoxicol Environ Saf
+- new | 2025 | 41083049 |  | Snacks and urinary oxalate: Which wins, almonds or chocolate? | Fr J Urol
+- new | 2025 | 39693929 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Dark chocolate's impact on low-grade endotoxemia in metabolic dysfunction-associated steatohepatitis. | Nutrition
+- new | 2025 | 40647204 | Randomized Controlled Trial | The Impact of Cocoa Flavanols in Modulating Resting Cerebral Blood Flow During Prolonged Sitting in Healthy Young and Older Adults. | Nutrients
+- new | 2025 | 40024389 | Randomized Controlled Trial | The Acute Effect of Dark Chocolate on Blood Pressure and Renal Hemodynamics as Assessed With Doppler Ultrasound in Healthy Volunteers. | J Ren Nutr
+- new | 2025 | 40869354 | Randomized Controlled Trial | Effect of Cocoa Supplementation on the Biochemical and Clinical Profile and the Somatosensory Processing of Diabetic Peripheral and Autonomic Neuropathy: A Randomized Clinical Tria | Int J Mol Sci
+- new | 2025 | 40190744 |  | Dark Chocolate Elevates Resting Energy Expenditure in Postmenopausal Women. | Int J Exerc Sci
+- new | 2025 | 39874464 | Randomized Controlled Trial/Multicenter Study/Research Support, Non-U.S. Gov't | The efficacy and safety of Fluticasone Furoate/Umeclidinium/vilanterol (FF/UMEC/VI) on cough symptoms in adult patients with asthma, a randomized double-blind, placebo-controlled,  | J Asthma
+- new | 2025 | 40636155 |  | Ingestion of dark chocolate improves constipation and alters the intestinal microbiota in Japanese women. | Biosci Microbiota Food Health
+- new | 2025 | 40832703 | Randomized Controlled Trial | Long-Term Effect of Cocoa Extract Supplementation on Incident Hypertension. | Hypertension
+- new | 2025 | 37314243 | Randomized Controlled Trial/Comparative Study/Multicenter Study | Chocolate Touch Versus Lutonix Drug-Coated Balloon for Femoropopliteal Lesions in Diabetes: The Chocolate Touch Study. | J Endovasc Ther
+- new | 2025 | 40543867 | Randomized Controlled Trial | Effects of web-based behavioral intervention on fine particulate matter, pulmonary function, and airway inflammation in children: The COCOA randomized controlled trial. | Environ Res
+- new | 2025 | 41228389 | Randomized Controlled Trial | Effects of Dark Chocolate on Physiological and Anaerobic Performance Among Healthy Female and Male Adults. | Nutrients
+- new | 2025 | 40020766 | Clinical Trial/Multicenter Study | Short Report: Influence of Dark Chocolate Intake on Magnesium Status in Hemodialysis Patients. | J Ren Nutr
+- new | 2024 | 38931273 | Meta-Analysis/Systematic Review | Effects of Cocoa Consumption on Cardiometabolic Risk Markers: Meta-Analysis of Randomized Controlled Trials. | Nutrients
+- new | 2024 | 39631943 |  | Chocolate intake and risk of type 2 diabetes: prospective cohort studies. | BMJ
+- new | 2024 | 39397049 | Randomized Controlled Trial | A clinical trial of the effects of cocoa rich chocolate on depression and sleep quality in menopausal women. | Sci Rep
+- new | 2024 | 38613003 |  | Dietary Cocoa Flavanols Do Not Alter Brain Excitability in Young Healthy Adults. | Nutrients
+- new | 2024 | 38285609 | Review | Effects of flavanols and procyanidins-rich cocoa consumption on metabolic syndrome: an update review (2013-2023). | Biosci Biotechnol Biochem
+- new | 2024 | 39204444 |  | The Development of a Chocolate-Based Chewable Tablet of Prednisolone-Enhancing the Palatability of Steroids for Pediatric Use. | Pharmaceutics
+- new | 2024 | 39607519 | Randomized Controlled Trial | Concurrent consumption of cocoa flavanols and caffeine does not acutely modulate working memory and attention. | Eur J Nutr
+- new | 2024 | 38150009 | Randomized Controlled Trial | Short-term cocoa bioflavanol supplementation does not improve cold-induced vasodilation in young healthy adults. | Eur J Appl Physiol
+- new | 2024 | 39215063 | Randomized Controlled Trial | Benefits of dark chocolate intake on retinal vessels functionality: a randomized, blind, crossover clinical trial. | Sci Rep
+- new | 2024 | 38998499 |  | The Relationship between Chocolate Consumption and the Severity of Acne Lesions-A Crossover Study. | Foods
+- new | 2024 | 39776521 | Randomized Controlled Trial | Effects of short-term, high-dose cocoa-derived flavanol supplementation on gut microbiota composition: secondary findings from a randomized, double-blind, placebo-controlled crosso | J Nutr Sci
+- new | 2024 | 38390670 |  | Child labour in cocoa growing regions of Ghana and Côte d'Ivoire: an analysis of academic attainment in children engaged in hazardous labour. | Glob Public Health
+- new | 2024 | 39132547 |  | Probiotic Chocolate Containing Lactobacillus plantarum Dad-13 Alters the Gut Microbiota Composition of Undernourished Children in Lombok: A Randomized Double-Blind Trial. | Int J Food Sci
+- new | 2024 | 39429210 |  | Topical Antioxidant Cocoa Polyphenol Skin Penetration. | J Cosmet Dermatol
+- new | 2024 | 38070683 | Clinical Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Effect of cocoa extract supplementation on cognitive function: results from the clinic subcohort of the COSMOS trial. | Am J Clin Nutr
+- new | 2024 | 38674244 |  | Dietary Supplementation of Myo-Inositol, Cocoa Polyphenols, and Soy Isoflavones Improves Vasomotor Symptoms and Metabolic Profile in Menopausal Women with Metabolic Syndrome: A Ret | Medicina (Kaunas)
+- new | 2024 | 38864465 | Systematic Review | A systematic review of randomized controlled trials on the health effects of chocolate enriched/fortified/supplemented with functional components. | Food Funct
+- new | 2023 | 36102337 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Pragmatic Clinical Trial | Effects of cocoa extract and a multivitamin on cognitive function: A randomized clinical trial. | Alzheimers Dement
+- new | 2023 | 37816167 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | Cocoa Extract Supplementation and Risk of Type 2 Diabetes: The Cocoa Supplement and Multivitamin Outcomes Study (COSMOS) Randomized Clinical Trial. | Diabetes Care
+- new | 2023 | 37224109 | Randomized Controlled Trial | Chocolate intake and muscle pain sensation: A randomized experimental study. | PLoS One
+- new | 2023 | 37128985 | Randomized Controlled Trial | Cocoa flavanol supplementation preserves early and late radial artery function after transradial catheterization. | Food Funct
+- new | 2023 | 37560640 |  | Successful grafting elite cocoa clones (Theobroma cacao L.) as a function of the age of rootstock. | Heliyon
+- new | 2023 | 37680066 |  | Development of a nutritionally balanced, melt-in-the-mouth chocolate for patients with epidermolysis bullosa. | J Dermatol
+- new | 2023 | 36657913 | Clinical Trial/Research Support, Non-U.S. Gov't | Dark chocolate (70% cocoa) attenuates the inflammatory marker TNF-α in patients on hemodialysis. | Clin Nutr ESPEN
+- new | 2023 | 37471213 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Cocoa flavanols protect cognitive function, cerebral oxygenation, and mental fatigue during severe hypoxia. | J Appl Physiol (1985)
+- new | 2023 | 37160104 | Randomized Controlled Trial | A single dose of microencapsulated cocoa supplementation attenuated eccentric exercise-induced endothelial dysfunction. | Int J Food Sci Nutr
+- new | 2023 | 36621596 | Research Support, N.I.H., Extramural | Rationale and design of an ancillary study evaluating the effects of the cocoa flavanol and/or multivitamin interventions on falls and physical performance outcomes in the COcoa Su | Contemp Clin Trials
+- new | 2023 | 36549566 | Observational Study/Research Support, N.I.H., Extramural | Chocolate Consumption in Relation to All-Cause and Cause-Specific Mortality in Women: The Women's Health Initiative. | J Acad Nutr Diet
+- new | 2023 | 37836487 | Randomized Controlled Trial | Dark Chocolate Intake Positively Modulates Gut Permeability in Elite Football Athletes: A Randomized Controlled Study. | Nutrients
+- new | 2023 | 37777571 | Randomized Controlled Trial | Concomitant dual-site tDCS and dark chocolate improve cognitive and endurance performance following cognitive effort under hypoxia: a randomized controlled trial. | Sci Rep
+- new | 2023 | 37020779 |  | Characterization of Cocoa Bean Husk Extract Particles and its Comparison as a Mouthrinse with Different Vehicles in Children aged 7-12 Years. | Int J Clin Pediatr Dent
+- new | 2022 | 34530112 | Randomized Controlled Trial/Research Support, U.S. Gov't, Non-P.H.S. | Consumption of 85% cocoa dark chocolate improves mood in association with gut microbial changes in healthy adults: a randomized controlled trial. | J Nutr Biochem
+- HELD REF-1085 | 2022 | 35294962 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | Effect of cocoa flavanol supplementation for the prevention of cardiovascular disease events: the COcoa Supplement and Multivitamin Outcomes Study (COSMOS) randomized clinical tria | Am J Clin Nutr
+- new | 2022 | 35910672 |  | The Coaching for Cognition in Alzheimer's (COCOA) trial: Study design. | Alzheimers Dement (N Y)
+- new | 2022 | 35031887 | Randomized Controlled Trial | Acute effects of cocoa flavanols on visual working memory: maintenance and updating. | Eur J Nutr
+- new | 2022 | 36164983 | Randomized Controlled Trial | Cocoa flavanol consumption improves lower extremity endothelial function in healthy individuals and people with type 2 diabetes. | Food Funct
+- new | 2022 | 35860885 | Randomized Controlled Trial | The Relationships Between Chocolate Consumption and Endothelial Dysfunction in Patients with Heart Failure. | Turk Kardiyol Dern Ars
+- new | 2022 | 33190575 | Randomized Controlled Trial | Effects of cocoa-rich chocolate on cognitive performance in postmenopausal women. A randomised clinical trial. | Nutr Neurosci
+- new | 2022 | 34980096 | Randomized Controlled Trial | Effect of chocolate on older patients with cancer in palliative care: a randomised controlled study. | BMC Palliat Care
+- new | 2022 | 35377157 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Randomized Trial of Chocolate Touch Compared With Lutonix Drug-Coated Balloon in Femoropopliteal Lesions (Chocolate Touch Study). | Circulation
+- new | 2022 | 35051192 |  | Field evaluation of the impact of cocoa swollen shoot virus disease infection on yield traits of different cocoa (Theobroma cacao L.) clones in Ghana. | PLoS One
+- new | 2022 | 36304830 | Randomized Controlled Trial | Short-term effects of sugar-free apricot jam, cocoa powder and dried cranberry cereal bar on glycaemic responses in healthy adults: a randomised clinical trial. | J Nutr Sci
+- new | 2022 | 35329361 | Randomized Controlled Trial | Short-Term Effects of Low-Fat Chocolate Milk on Delayed Onset Muscle Soreness and Performance in Players on a Women's University Badminton Team. | Int J Environ Res Public Health
+- new | 2022 | 35769385 |  | Assessing Variability in Vascular Response to Cocoa With Personal Devices: A Series of Double-Blind Randomized Crossover n-of-1 Trials. | Front Nutr
+- new | 2021 | 34055151 |  | Dark Chocolate Supplementation Elevates Resting Energy Expenditure in Exercise Trained Females. | Int J Exerc Sci
+- new | 2021 | 35010877 | Randomized Controlled Trial | Neurocognitive Effects of Cocoa and Red-Berries Consumption in Healthy Adults. | Nutrients
+- new | 2021 | 33905790 | Randomized Controlled Trial | The effect of visualisation and mindfulness-based decentering on chocolate craving. | Appetite
+- new | 2021 | 33801767 | Randomized Controlled Trial | Cocoa Flavanols Improve Vascular Responses to Acute Mental Stress in Young Healthy Adults. | Nutrients
+- new | 2021 | 32746952 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Cocoa-rich chocolate and body composition in postmenopausal women: a randomised clinical trial. | Br J Nutr
+- new | 2021 | 34089280 | Meta-Analysis/Review | The effect of cocoa/dark chocolate consumption on lipid profile, glycemia, and blood pressure in diabetic patients: A meta-analysis of observational studies. | Phytother Res
+- new | 2021 | 33545542 | Randomized Controlled Trial | Effect of cacao polyphenol-rich chocolate on postprandial glycemia, insulin, and incretin secretion in healthy participants. | Nutrition
+- new | 2021 | 32718711 | Research Support, Non-U.S. Gov't/Review | The sweet side of dark chocolate for chronic kidney disease patients. | Clin Nutr
+- new | 2021 | 32019434 | Randomized Controlled Trial | Cocoa and unripe banana flour beverages improve anthropometric and biochemical markers in overweight women: A randomised double-blind study. | Int J Vitam Nutr Res
+- new | 2021 | 33970327 | Randomized Controlled Trial | Cocoa-flavanols enhance moderate-intensity pulmonary V˙O2 kinetics but not exercise tolerance in sedentary middle-aged adults. | Eur J Appl Physiol
+- new | 2021 | 34010747 |  | Chocolate enriched by extra virgin olive oil improves endothelial function and oxidative stress in patients with diabetes. | Nutrition
+- new | 2020 | 33265948 | Systematic Review | Effect of Cocoa and Cocoa Products on Cognitive Performance in Young Adults. | Nutrients
+- new | 2020 | 32110888 | Review | To Eat or Not to Eat: A Review of the Relationship between Chocolate and Migraines. | Nutrients
+- new | 2020 | 32078440 | Editorial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Comment | Eating Chocolate to Improve Muscle Health and Walking Ability in Patients With Peripheral Artery Disease. | Circ Res
+- new | 2020 | 32236212 | Randomized Controlled Trial | Chronic flavanol-rich cocoa powder supplementation reduces body fat mass in endurance athletes by modifying the follistatin/myostatin ratio and leptin levels. | Food Funct
+- new | 2020 | 31982982 | Evaluation Study | Consumption of cocoa-containing foods and risk of hypertension in French women. | Eur J Epidemiol
+- new | 2020 | 31294557 | Clinical Trial | Cocoa Flavanols Improve Endothelial Functional Integrity in Healthy Young and Elderly Subjects. | J Agric Food Chem
+- new | 2020 | 31933112 | Systematic Review | Effects of Cocoa-Derived Polyphenols on Cognitive Function in Humans. Systematic Review and Analysis of Methodological Aspects. | Plant Foods Hum Nutr
+- new | 2020 | 32927668 | Randomized Controlled Trial | Cocoa-Rich Chocolate and Quality of Life in Postmenopausal Women: A Randomized Clinical Trial. | Nutrients
+- new | 2020 | 32906813 |  | Addition of Anionic Polysaccharide Stabilizers Modulates In Vitro Digestive Proteolysis of a Chocolate Milk Drink in Adults and Children. | Foods
+- new | 2020 | 32627052 | Randomized Controlled Trial | The influence of different concentrations of flavanol chocolate bars under acute supplement conditions on exercise and performance. | Eur J Appl Physiol
+- new | 2020 | 33125403 |  | Patients with skin smear positive leprosy in Bangladesh are the main risk factor for leprosy development: 21-year follow-up in the household contact study (COCOA). | PLoS Negl Trop Dis
+- new | 2020 | 32663386 | Randomized Controlled Trial | Acute Consumption of Varied Doses of Cocoa Flavanols Does Not Influence Exercise-Induced Muscle Damage. | Int J Sport Nutr Exerc Metab
+- new | 2020 | 32545478 | Randomized Controlled Trial | Effects of Cocoa-Rich Chocolate on Blood Pressure, Cardiovascular Risk Factors, and Arterial Stiffness in Postmenopausal Women: A Randomized Clinical Trial. | Nutrients
+- new | 2019 | 29534636 | Systematic Review | Maternal and fetal effects of chocolate consumption during pregnancy: a systematic review. | J Matern Fetal Neonatal Med
+- new | 2019 | 29553824 | Meta-Analysis/Systematic Review | Does cocoa/dark chocolate supplementation have favorable effect on body weight, body mass index and waist circumference? A systematic review, meta-analysis and dose-response of ran | Crit Rev Food Sci Nutr
+- new | 2019 | 31247980 | Comparative Study/Randomized Controlled Trial | Flavanol Bioavailability in Two Cocoa Products with Different Phenolic Content. A Comparative Study in Humans. | Nutrients
+- new | 2019 | 29948216 | Randomized Controlled Trial | Gene expression changes by high-polyphenols cocoa powder intake: a randomized crossover clinical study. | Eur J Nutr
+- new | 2019 | 30813439 |  | Relationship between Cocoa Intake and Healthy Status: A Pilot Study in University Students. | Molecules
+- new | 2019 | 30755234 | Randomized Controlled Trial | Chocolate Milk versus carbohydrate supplements in adolescent athletes: a field based study. | J Int Soc Sports Nutr
+- new | 2019 | 30529883 | Randomized Controlled Trial | Effects of regular high-cocoa chocolate intake on arterial stiffness and metabolic characteristics during exercise. | Nutrition
+- new | 2019 | 31029045 | Randomized Controlled Trial | Randomized study of the effects of cocoa-rich chocolate on the ventricle-arterial coupling and vascular function of young, healthy adults. | Nutrition
+- new | 2019 | 30663066 | Clinical Trial | Cutaneous Photoprotective Activity of a Short-term Ingestion of High-Flavanol Cocoa: A Nutritional Intervention Study. | Photochem Photobiol
+- new | 2019 | 30912735 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of cocoa on the brain and gut in healthy subjects: a randomised controlled trial. | Br J Nutr
+- new | 2019 | 31271875 | Clinical Trial Protocol/Research Support, N.I.H., Extramural | Design and baseline characteristics of the cocoa supplement and multivitamin outcomes study for the Mind: COSMOS-Mind. | Contemp Clin Trials
+- new | 2019 | 31337446 | Research Support, Non-U.S. Gov't | Chocolate consumption and risk of gestational diabetes mellitus: the Japan Environment and Children's Study. | Br J Nutr
+- new | 2018 | 30297544 | Multicenter Study/Randomized Controlled Trial/Equivalence Trial | Laparoscopic cholecystectomy versus percutaneous catheter drainage for acute cholecystitis in high risk patients (CHOCOLATE): multicentre randomised clinical trial. | BMJ
+- new | 2018 | 29502273 | Randomized Controlled Trial | The acute effects of cocoa flavanols on temporal and spatial attention. | Psychopharmacology (Berl)
+- new | 2018 | 30030699 |  | Hazelnut and cocoa spread improves flow-mediated dilatation in smokers. | Intern Emerg Med
+- new | 2018 | 29487174 | Published Erratum | Correction: Habitual chocolate consumption and risk of cardiovascular disease among healthy men and women. | Heart
+- new | 2018 | 28691541 | Comparative Study/Randomized Controlled Trial | Effects of hazelnuts and cocoa on vascular reactivity in healthy subjects: a randomised study. | Int J Food Sci Nutr
+- new | 2018 | 29658370 | Randomized Controlled Trial | Changes in endothelial function, arterial stiffness and blood pressure in pregnant women after consumption of high-flavanol and high-theobromine chocolate: a double blind randomize | Hypertens Pregnancy
+- new | 2018 | 29290363 | Research Support, Non-U.S. Gov't | Flavanol-rich cocoa consumption enhances exercise-induced executive function improvements in humans. | Nutrition
+- new | 2018 | 29299877 | Systematic Review | Cocoa Flavanol Supplementation and Exercise: A Systematic Review. | Sports Med
+- new | 2018 | 30450169 |  | Dark Chocolate Effect on Serum Adiponectin, Biochemical and Inflammatory Parameters in Diabetic Patients: A Randomized Clinical Trial. | Int J Prev Med
+- new | 2018 | 29931040 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Chocolate intake and heart disease and stroke in the Women's Health Initiative: a prospective analysis. | Am J Clin Nutr
+- new | 2018 | 29951768 |  | Acute cocoa flavanols intake improves cerebral hemodynamics while maintaining brain activity and cognitive performance in moderate hypoxia. | Psychopharmacology (Berl)
+- new | 2018 | 30171915 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | Got chocolate? Bilateral prefrontal cortex stimulation augments chocolate consumption. | Appetite
+- new | 2018 | 28612673 | Clinical Trial | Can flavonoid-rich chocolate modulate arterial elasticity and pathological uterine artery Doppler blood flow in pregnant women? A pilot study. | J Matern Fetal Neonatal Med
+- new | 2017 | 28649251 | Review | Cocoa and Dark Chocolate Polyphenols: From Biology to Clinical Applications. | Front Immunol
+- new | 2017 | 29181133 | Review | Use of dark chocolate for diabetic patients: a review of the literature and current evidence. | J Community Hosp Intern Med Perspect
+- new | 2017 | 28402326 |  | Chocolate intake and diabetes risk in postmenopausal American women. | Eur J Clin Nutr
+- new | 2017 | 27973974 | Clinical Trial | Short-term effect of dark chocolate consumption on routine haemostasis testing. | Int J Food Sci Nutr
+- new | 2017 | 28560212 | Review | Enhancing Human Cognition with Cocoa Flavonoids. | Front Nutr
+- new | 2017 | 27642035 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The sweet life: The effect of mindful chocolate consumption on mood. | Appetite
+- new | 2017 | 27784634 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | "Smooth operator": Music modulates the perceived creaminess, sweetness, and bitterness of chocolate. | Appetite
+- new | 2017 | 28572069 |  | Consumption of dark chocolate attenuates subsequent food intake compared with milk and white chocolate in postmenopausal women. | Appetite
+- new | 2017 | 28585834 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Acute Consumption of Flavan-3-ol-Enriched Dark Chocolate Affects Human Endogenous Metabolism. | J Proteome Res
+- new | 2017 | 28513635 | Randomized Controlled Trial | The impact of dark chocolate intake on arterial elasticity in individuals with HIV/AIDS undergoing ART: a randomized, double-blind, crossover trial. | Food Funct
+- new | 2017 | 28824916 | Review | Cocoa, Blood Pressure, and Vascular Function. | Front Nutr
+- new | 2016 | 27683874 | Meta-Analysis/Systematic Review | Cocoa Flavanol Intake and Biomarkers for Cardiometabolic Health: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | J Nutr
+- new | 2016 | 27240397 | Review | Impact of Cocoa Consumption on Inflammation Processes-A Critical Review of Randomized Controlled Trials. | Nutrients
+- new | 2016 | 27052923 | Meta-Analysis/Systematic Review | Habitual chocolate consumption and the risk of incident heart failure among healthy men and women. | Nutr Metab Cardiovasc Dis
+- new | 2016 | 27510533 | Comparative Study/Randomized Controlled Trial | Epicatechin, procyanidins, cocoa, and appetite: a randomized controlled trial. | Am J Clin Nutr
+- new | 2016 | 27563291 | Review | Chocolate, Air Pollution and Children's Neuroprotection: What Cognition Tools should be at Hand to Evaluate Interventions? | Front Pharmacol
+- new | 2016 | 27317522 | Letter/Randomized Controlled Trial | The impact of chocolate consumption on acne vulgaris in college students: A randomized crossover study. | J Am Acad Dermatol
+- new | 2016 | 27849355 | Comparative Study/Randomized Controlled Trial | Acute cocoa flavanol improves cerebral oxygenation without enhancing executive function at rest or after exercise. | Appl Physiol Nutr Metab
+- new | 2016 | 26581682 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Cocoa Flavanol Supplementation Influences Skin Conditions of Photo-Aged Women: A 24-Week Double-Blind, Randomized, Controlled Trial. | J Nutr
+- new | 2016 | 26681132 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Vasculoprotective Effects of Dietary Cocoa Flavanols in Patients on Hemodialysis: A Double-Blind, Randomized, Placebo-Controlled Trial. | Clin J Am Soc Nephrol
+- new | 2016 | 27223302 | Comparative Study/Randomized Controlled Trial | Effect of Chocolate and Yerba Mate Phenolic Compounds on Inflammatory and Oxidative Biomarkers in HIV/AIDS Individuals. | Nutrients
+- new | 2016 | 26375357 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Bias modification training can alter approach bias and chocolate consumption. | Appetite
+- new | 2016 | 27120342 |  | Impact of replacing regular chocolate milk with the reduced-sugar option on milk consumption in elementary schools in Saskatoon, Canada. | Appl Physiol Nutr Metab
+- new | 2016 | 27347464 |  | Chocolate scents and product sales: a randomized controlled trial in a Canadian bookstore and café. | Springerplus
+- new | 2016 | 30787725 |  | Effects of Chocolate Intake on Oxidative Stress/Oxidant-antioxidant Balance in Medical Students: A Controlled Clinical Trial. | Saudi J Med Med Sci
+- new | 2016 | 27588209 |  | Cocoa flavanols reduce N-terminal pro-B-type natriuretic peptide in patients with chronic heart failure. | ESC Heart Fail
+- new | 2016 | 25847473 | Randomized Controlled Trial | Anti-influenza virus effects of cocoa. | J Sci Food Agric
+- new | 2015 | 26040467 | Systematic Review | Effect of cocoa products and flavanols on platelet aggregation in humans: a systematic review. | Food Funct
+- new | 2015 | 25620414 | Letter/Comment | Dark chocolate consumption and lower HbA1c in children with diabetes: Direct cause or pure happiness? | Clin Nutr
+- new | 2015 | 25286886 |  | The effectiveness of chocolate milk as a post-climbing recovery aid. | J Sports Med Phys Fitness
+- new | 2015 | 26089927 |  | High-cocoa polyphenol-rich chocolate improves blood pressure in patients with diabetes and hypertension. | ARYA Atheroscler
+- new | 2015 | 26076934 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Habitual chocolate consumption and risk of cardiovascular disease among healthy men and women. | Heart
+- new | 2015 | 26674253 | Comparative Study/Randomized Controlled Trial | Dark chocolate supplementation reduces the oxygen cost of moderate intensity cycling. | J Int Soc Sports Nutr
+- new | 2015 | 26076989 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | Chocolate Consumption and Risk of Atrial Fibrillation (from the Physicians' Health Study). | Am J Cardiol
+- new | 2015 | 25644711 | Research Support, N.I.H., Extramural | Chocolate-candy consumption and 3-year weight gain among postmenopausal U.S. women. | Obesity (Silver Spring)
+- new | 2015 | 25551798 | Research Support, Non-U.S. Gov't/Review | Flavan-3-ols, theobromine, and the effects of cocoa and chocolate on cardiometabolic risk factors. | Curr Opin Lipidol
+- new | 2015 | 24531123 | Randomized Controlled Trial | Dark chocolate and vascular function in patients with peripheral artery disease: a randomized, controlled cross-over trial. | Clin Hemorheol Microcirc
+- new | 2015 | 25775252 | Review | Diabetes and chocolate: friend or foe? | J Agric Food Chem
+- new | 2015 | 25869509 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of high flavanol dark chocolate on cardiovascular function and platelet aggregation. | Vascul Pharmacol
+- new | 2015 | 26537937 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Safety and efficacy of cocoa flavanol intake in healthy adults: a randomized, controlled, double-masked trial. | Am J Clin Nutr
+- new | 2014 | 25567457 | Review | Chocolate and migraine: the history of an ambiguous association. | Acta Biomed
+- new | 2014 | 24966441 |  | Rheological of chocolate-flavored, reduced-calories coating as a function of conching process. | J Food Sci Technol
+- new | 2014 | 24740451 | Research Support, U.S. Gov't, Non-P.H.S. | Chocolate milk consequences: a pilot study evaluating the consequences of banning chocolate milk in school cafeterias. | PLoS One
+- new | 2014 | 25251294 | Randomized Controlled Trial | β-Glucan and dark chocolate: a randomized crossover study on short-term satiety and energy intake. | Nutrients
+- new | 2014 | 24503333 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effects of three mindfulness skills on chocolate cravings. | Appetite
+- new | 2014 | 25429467 |  | Short term effects of cocoa consumption on blood pressure. | West Indian Med J
+- new | 2014 | 25311633 | Clinical Trial/Randomized Controlled Trial/Research Support, N.I.H., Extramural | Chocolate consumption and risk of heart failure in the Physicians' Health Study. | Eur J Heart Fail
+- new | 2013 | 24360219 | Systematic Review | Consumption of chocolate in pregnant women and risk of preeclampsia: a systematic review. | Syst Rev
+- new | 2013 | 23642227 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Perturbations in skeletal muscle sarcomere structure in patients with heart failure and type 2 diabetes: restorative effects of (-)-epicatechin-rich cocoa. | Clin Sci (Lond)
+- new | 2012 | 22153525 | Review | Consumption of cocoa, tea and coffee and risk of cardiovascular disease. | Eur J Intern Med
+- new | 2012 | 22301923 | Meta-Analysis/Systematic Review | Effects of chocolate, cocoa, and flavan-3-ols on cardiovascular health: a systematic review and meta-analysis of randomized trials. | Am J Clin Nutr
+- new | 2012 | 22173910 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Cardiovascular effects of flavanol-rich chocolate in patients with heart failure. | Eur Heart J
+- new | 2012 | 22821786 | Review | Effects of dark chocolate on blood pressure in patients with hypertension. | Am J Health Syst Pharm
+- new | 2012 | 22066819 | Randomized Controlled Trial | Dark chocolate inhibits platelet isoprostanes via NOX2 down-regulation in smokers. | J Thromb Haemost
+- new | 2011 | 21875885 | Meta-Analysis/Systematic Review | Chocolate consumption and cardiometabolic disorders: systematic review and meta-analysis. | BMJ
+- new | 2011 | 21324330 | Randomized Controlled Trial | Consumption of cocoa flavanols results in an acute improvement in visual and cognitive functions. | Physiol Behav
+- new | 2011 | 21559039 | Meta-Analysis/Review | Effects of cocoa products/dark chocolate on serum lipids: a meta-analysis. | Eur J Clin Nutr
+- new | 2011 | 22080318 |  | The effects of low fat chocolate milk on postexercise recovery in collegiate athletes. | J Strength Cond Res
+- new | 2010 | 20307600 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The selective impact of chocolate craving on visuospatial working memory. | Appetite
+- new | 2010 | 20876416 | Comment/Letter | Chocolate intake, depression, and clinical progression in HIV-HCV coinfected patients: still more questions than answers. | Arch Intern Med
+- new | 2010 | 20102728 | Randomized Controlled Trial | Appetite suppression through smelling of dark chocolate correlates with changes in ghrelin in young women. | Regul Pept
+- new | 2010 | 21059981 | Comparative Study/Letter/Research Support, Non-U.S. Gov't | Habitual chocolate intake and vascular disease: a prospective study of clinical outcomes in older women. | Arch Intern Med
+- new | 2009 | 19583878 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Dark chocolate or tomato extract for prehypertension: a randomised controlled trial. | BMC Complement Altern Med
+- new | 2009 | 19234590 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Improved endurance capacity following chocolate milk consumption compared with 2 commercially available sport drinks. | Appl Physiol Nutr Metab
+- new | 2009 | 19735513 | Randomized Controlled Trial | Eating chocolate can significantly protect the skin from UV light. | J Cosmet Dermatol
+- new | 2007 | 17420419 | Meta-Analysis | Effect of cocoa and tea intake on blood pressure: a meta-analysis. | Arch Intern Med
+- new | 2007 | 17597253 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Immediate effects of chocolate on experimentally induced mood states. | Appetite
+- new | 2006 | 16676705 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Chocolate milk as a post-exercise recovery aid. | Int J Sport Nutr Exerc Metab
+- new | 2005 | 16198843 | Randomized Controlled Trial | Acute consumption of flavanol-rich cocoa and the reversal of endothelial dysfunction in smokers. | J Am Coll Cardiol
+- new | 2005 | 15712596 | Clinical Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Influence of cocoa flavanols and procyanidins on free radical-induced human erythrocyte hemolysis. | Clin Dev Immunol
+- new | 2005 | 15640495 | Research Support, Non-U.S. Gov't/Review | Cocoa polyphenols and inflammatory mediators. | Am J Clin Nutr
+- new | 2004 | 15223075 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Flavanol-rich cocoa drink lowers plasma F(2)-isoprostane concentrations in humans. | Free Radic Biol Med
+- new | 2003 | 12944955 | Clinical Trial | Plasma antioxidants from chocolate. | Nature
+- new | 2003 | 12791625 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Dietary flavanols and procyanidin oligomers from cocoa (Theobroma cacao) inhibit platelet function. | Am J Clin Nutr
+- new | 2002 | 12399286 | Research Support, Non-U.S. Gov't | Cocoa procyanidins are stable during gastric transit in humans. | Am J Clin Nutr
+- new | 2000 | 10917933 |  | Cocoa and wine polyphenols modulate platelet activation and function. | J Nutr
+- new | 1997 | 9453274 | Clinical Trial/Controlled Clinical Trial/Research Support, Non-U.S. Gov't | A double-blind provocative study of chocolate as a trigger of headache. | Cephalalgia
+- new | 1994 | 7972390 | Clinical Trial/Comparative Study/Controlled Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Pharmacological versus sensory factors in the satiation of chocolate craving. | Physiol Behav
+- new | 1971 | 5545287 | Clinical Trial/Controlled Clinical Trial | Chocolate allergy: a double-blind study. | Conn Med
+- new | 1970 | 5412818 |  | Barium-impregnated chocolate fudge for the study of chewing mechanism in children. | Radiology
+
+### PubMed SR - 120 hits, 80 not already listed above, 77 new
+- new | 2026 | 42707668 | Review | From Macronutrients to Functional Foods: Nutritional Strategies for Recovery Following High-Intensity Exercise. | Food Sci Nutr
+- new | 2026 | 42662243 | Review | Assessment of Chocolate, Cheese, and Caffeine as Migraine Triggers: A Systematic Review and Meta-Analysis of Patient-Reported Trigger Rates. | J Nutr Metab
+- new | 2026 | 42836311 |  | Individual effects of a nutritional supplementation blend on sleep in professional under-17 footballers: a replicate crossover trial. | Sci Med Footb
+- new | 2026 | 41858752 | Review | The effects of cocoa products in individuals with metabolic syndrome and related diseases: a systematic review and meta-analysis. | J Diabetes Metab Disord
+- new | 2025 | 41373414 | Systematic Review | Crude Plant Extracts and Their Anti-Inflammatory Potential in Oral Inflammatory Cell Models: A Systematic Review of In Vitro Studies. | Int J Mol Sci
+- new | 2025 | 39719763 | Systematic Review | Current status of toxicological research on stingless bees (Apidae, Meliponini): Important pollinators neglected by pesticides' regulations. | Sci Total Environ
+- new | 2025 | 40000922 | Meta-Analysis/Systematic Review | Response of VO(2max) to dark chocolate consumption in healthy subjects: A systematic review and meta-analysis of randomized controlled trials. | Physiol Rep
+- new | 2025 | 41395480 | Review | Ecology and functions of Trichoderma in coffee and cocoa agroecosystems: bibliometric and systematic insights for sustainable agriculture. | Front Microbiol
+- new | 2025 | 40886195 | Systematic Review/Meta-Analysis | Serum lipids changes following cocoa intake in type 2 diabetes patients: a graded dose-response systematic review and meta-analysis of clinical trials. | Acta Diabetol
+- new | 2024 | 38244989 | Meta-Analysis/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Effect of multivitamin-mineral supplementation versus placebo on cognitive function: results from the clinic subcohort of the COcoa Supplement and Multivitamin Outcomes Study (COSM | Am J Clin Nutr
+- new | 2024 | 37697053 | Systematic Review | Do "testosterone boosters" really increase serum total testosterone? A systematic review. | Int J Impot Res
+- new | 2024 | 38925412 | Meta-Analysis/Systematic Review | Effect of dark chocolate/ cocoa consumption on oxidative stress and inflammation in adults: A GRADE-assessed systematic review and dose-response meta-analysis of controlled trials. | Complement Ther Med
+- new | 2024 | 38285510 | Systematic Review | Nontyphoidal Salmonella Outbreaks Associated With Chocolate Consumption: A Systematic Review. | Pediatr Infect Dis J
+- new | 2024 | 38488746 | Systematic Review | Sensory attributes of fine flavor cocoa beans and chocolate: A systematic literature review. | J Food Sci
+- new | 2024 | 38987932 | Systematic Review/Meta-Analysis | Theobromine for Remineralization of White Spot Lesions on Dental Enamel: A Systematic Review and Meta-analysis. | Oper Dent
+- new | 2024 | 39273592 | Systematic Review | Peptides Evaluated In Silico, In Vitro, and In Vivo as Therapeutic Tools for Obesity: A Systematic Review. | Int J Mol Sci
+- new | 2024 | 38540905 | Review | Applications of Life Cycle Assessment in the Chocolate Industry: A State-of-the-Art Analysis Based on Systematic Review. | Foods
+- new | 2024 | 39250491 |  | Effects of cocoa consumption on cardiometabolic risk markers: Protocol for a systematic review and meta-analysis of randomized controlled trials. | PLoS One
+- new | 2024 | 39330164 | Review | Oleogel Systems for Chocolate Production: A Systematic Review. | Gels
+- new | 2023 | 37375069 | Review | Genomic and Pathogenicity Mechanisms of the Main Theobroma cacao L. Eukaryotic Pathogens: A Systematic Review. | Microorganisms
+- new | 2023 | 37878562 | Systematic Review/Research Support, Non-U.S. Gov't | Honey contamination from plant protection products approved for cocoa (Theobroma cacao) cultivation: A systematic review of existing research and methods. | PLoS One
+- new | 2023 | 36981103 | Review | Mexican Ancestral Foods (Theobroma cacao, Opuntia ficus indica, Persea americana and Phaseolus vulgaris) Supplementation on Anthropometric, Lipid and Glycemic Control Variables in  | Foods
+- HELD REF-3795 | 2023 | 37211619 | Meta-Analysis/Systematic Review | Effects of chocolate on cognitive function in healthy adults: A systematic review and meta-analysis on clinical trials. | Phytother Res
+- new | 2023 | 36982760 | Systematic Review | State of the Art of the Molecular Biology of the Interaction between Cocoa and Witches' Broom Disease: A Systematic Review. | Int J Mol Sci
+- new | 2023 | 37317146 | Review | Interactions of Different Species of Phytophthora with Cacao Induce Genetic, Biochemical, and Morphological Plant Alterations. | Microorganisms
+- new | 2023 | 37027832 |  | Dietary pattern, food, and nutritional supplement effects on cognitive outcomes in mild cognitive impairment: a systematic review of previous reviews. | Nutr Rev
+- new | 2022 | 35883844 | Review | Chocolate and Cocoa-Derived Biomolecules for Brain Cognition during Ageing. | Antioxidants (Basel)
+- new | 2022 | 35460393 | Meta-Analysis/Systematic Review | Relationship between chocolate consumption and overall and cause-specific mortality, systematic review and updated meta-analysis. | Eur J Epidemiol
+- new | 2022 | 33970709 | Meta-Analysis/Systematic Review | The effect of cocoa-rich products on depression, anxiety, and mood: A systematic review and meta-analysis. | Crit Rev Food Sci Nutr
+- new | 2022 | 34061388 | Meta-Analysis | Impact of cocoa agricultural intensification on bird diversity and community composition. | Conserv Biol
+- new | 2022 | 36417112 | Letter/Comment | Authors' Reply: Relationship between chocolate consumption and overall and cause-specific mortality, systematic review and updated meta-analysis. | Eur J Epidemiol
+- new | 2022 | 36417113 | Letter/Comment | Re: Zhao et al. Relationship between chocolate consumption and overall and cause-specific mortality, systematic review and updated meta-analysis. | Eur J Epidemiol
+- new | 2022 | 35804776 | Review | Effect of Cocoa Beverage and Dark Chocolate Consumption on Blood Pressure in Those with Normal and Elevated Blood Pressure: A Systematic Review and Meta-Analysis. | Foods
+- new | 2022 | 36119372 |  | Microbes associated with spontaneous cacao fermentations - A systematic review and meta-analysis. | Curr Res Food Sci
+- new | 2022 | 36452001 | Review | The action of phytochemicals present in cocoa in the prevention of vascular dysfunction and atherosclerosis. | J Clin Transl Res
+- new | 2022 | 35253583 | Meta-Analysis/Systematic Review | Effects of cocoa products intake on cardiometabolic biomarkers of type 2 diabetes patients: a systematic review and meta-analysis based on both long-term and short-term randomised  | Int J Food Sci Nutr
+- new | 2022 | 36364762 | Systematic Review | Effect of an (-)-Epicatechin Intake on Cardiometabolic Parameters-A Systematic Review of Randomized Controlled Trials. | Nutrients
+- new | 2022 | 35108270 | Systematic Review | Drivers of cadmium accumulation in Theobroma cacao L. beans: A quantitative synthesis of soil-plant relationships across the Cacao Belt. | PLoS One
+- new | 2022 | 35956290 | Scoping Review | Cyrcadian Rhythm, Mood, and Temporal Patterns of Eating Chocolate: A Scoping Review of Physiology, Findings, and Future Directions. | Nutrients
+- HELD REF-5477 | 2022 | 36380973 | Systematic Review/Research Support, Non-U.S. Gov't | Platelet Aggregation Inhibition: An Evidence-Based Systematic Review on the Role of Herbs for Primary Prevention Based on Randomized Controlled Trials. | Iran J Med Sci
+- HELD REF-1084 | 2021 | 34578786 | Systematic Review | The Health Effects of Chocolate and Cocoa: A Systematic Review. | Nutrients
+- new | 2021 | 33900344 | Comparative Study | Evolution of cocoa flavanol analytics: impact on reporting and cross-study comparison. | Food Funct
+- new | 2021 | 34647587 | Letter/Meta-Analysis/Systematic Review | Association between chocolate consumption and risk of coronary artery disease: a systematic review and meta-analysis. | Eur J Prev Cardiol
+- new | 2021 | 32126803 | Meta-Analysis/Systematic Review | Chronic and acute effects of cocoa products intake on arterial stiffness and platelet count and function: A systematic review and dose-response Meta-analysis of randomized clinical | Crit Rev Food Sci Nutr
+- new | 2021 | 34265040 | Research Support, Non-U.S. Gov't/Systematic Review | Activation of Brown Adipose Tissue and Promotion of White Adipose Tissue Browning by Plant-based Dietary Components in Rodents: A Systematic Review. | Adv Nutr
+- new | 2021 | 34959821 | Meta-Analysis/Review | Cardiovascular Effects of Chocolate and Wine-Narrative Review. | Nutrients
+- new | 2021 | 32836913 | Review | Fair trade and staple foods: A systematic review. | J Clean Prod
+- new | 2020 | 30805697 | Meta-Analysis/Systematic Review | Chocolate and risk of chronic disease: a systematic review and dose-response meta-analysis. | Eur J Nutr
+- new | 2020 | 31907636 | Meta-Analysis | Cocoa Consumption and Blood Pressure in Middle-Aged and Elderly Subjects: a Meta-Analysis. | Curr Hypertens Rep
+- new | 2020 | 33266002 | Scoping Review | Effects of Cocoa Polyphenols and Dark Chocolate on Obese Adults: A Scoping Review. | Nutrients
+- new | 2020 | 31987247 | Meta-Analysis/Systematic Review | The effect of cocoa consumption on markers of oxidative stress: A systematic review and meta-analysis of interventional studies. | Complement Ther Med
+- new | 2020 | 32126864 | Meta-Analysis/Systematic Review | The effect of chocolate-based products on some appetite-related hormones: a systematic review. | Int J Food Sci Nutr
+- new | 2020 | 32220363 | Meta-Analysis/Systematic Review | Effect of dark chocolate on flow-mediated dilatation: Systematic review, meta-analysis, and dose-response analysis of randomized controlled trials. | Clin Nutr ESPEN
+- new | 2020 | 32974762 | Letter/Comment | Letter to the Editor Re: Meta-Analysis of Cocoa Consumption and Blood Pressure in Middle-Aged and Elderly Subjects: Methodological Issue by Sadegh Jafarnejad, Mina Salek, Cain C. T | Curr Hypertens Rep
+- new | 2019 | 29921963 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | Chocolate milk for recovery from exercise: a systematic review and meta-analysis of controlled clinical trials. | Eur J Clin Nutr
+- new | 2019 | 30061161 | Meta-Analysis/Research Support, Non-U.S. Gov't | Chocolate consumption and risk of cardiovascular diseases: a meta-analysis of prospective studies. | Heart
+- new | 2019 | 31524216 | Meta-Analysis/Systematic Review | Dose-response relationship between cocoa flavanols and human endothelial function: a systematic review and meta-analysis of randomized trials. | Food Funct
+- new | 2019 | 29903472 | Research Support, Non-U.S. Gov't/Systematic Review | Is chocolate consumption associated with health outcomes? An umbrella review of systematic reviews and meta-analyses. | Clin Nutr
+- new | 2018 | 29289576 | Systematic Review | Botanicals and phytochemicals active on cognitive decline: The clinical evidence. | Pharmacol Res
+- new | 2018 | 29290347 | Meta-Analysis/Systematic Review | Can chocolate consumption reduce cardio-cerebrovascular risk? A systematic review and meta-analysis. | Nutrition
+- new | 2018 | 30065791 | Review | Biomarkers of food intake for cocoa and liquorice (products): a systematic review. | Genes Nutr
+- new | 2018 | 29224650 | Meta-Analysis/Review | Chocolate consumption and risk of atrial fibrillation: Two cohort studies and a meta-analysis. | Am Heart J
+- new | 2017 | 27916427 | Systematic Review | Tea, cocoa, coffee, and affective disorders: vicious or virtuous cycle? | J Affect Disord
+- new | 2017 | 28425931 | Meta-Analysis | Chocolate Consumption and Risk of Heart Failure: A Meta-Analysis of Prospective Studies. | Nutrients
+- new | 2017 | 28671591 | Meta-Analysis | Chocolate Consumption and Risk of Coronary Heart Disease, Stroke, and Diabetes: A Meta-Analysis of Prospective Studies. | Nutrients
+- new | 2017 | 28792459 | Comment | Comment on: Chocolate Consumption and Risk of Coronary Heart Disease, Stroke, and Diabetes: A Meta-analysis of prospective Studies, Nutrients 2017, 9, 688. | Nutrients
+- new | 2017 | 28461607 | Letter/Comment | Inappropriate Inclusion of 3 Trials Leads to Misleading Results in Meta-Analysis of Cocoa Flavanol Intake and Cardiometabolic Health. | J Nutr
+- new | 2016 | 26936339 | Meta-Analysis/Multicenter Study/Research Support, Non-U.S. Gov't | Chocolate consumption and risk of myocardial infarction: a prospective study and meta-analysis. | Heart
+- new | 2014 | 25469389 |  | The science of cocoa flavanols: bioavailability, emerging evidence, and proposed mechanisms. | Adv Nutr
+- new | 2013 | 23295039 | Letter/Meta-Analysis | Chocolate intake reduces risk of cardiovascular disease: evidence from 10 observational studies. | Int J Cardiol
+- new | 2013 | 24117885 | Research Support, Non-U.S. Gov't/Systematic Review | Effects of chocolate on cognitive function and mood: a systematic review. | Nutr Rev
+- new | 2013 | 23509051 | Editorial/Comment | Chocolate consumption and risk of stroke: A prospective cohort of men and meta-analysis. | Neurology
+- new | 2012 | 23534597 | Systematic Review | [Chocolate craving]. | Acta Med Port [por]
+- new | 2012 | 22933736 | Meta-Analysis/Research Support, Non-U.S. Gov't | Chocolate consumption and risk of stroke: a prospective cohort of men and meta-analysis. | Neurology
+- new | 2012 | 22552030 |  | Epicatechin ingested via cocoa products reduces blood pressure in humans: a nonlinear regression model with a Bayesian approach. | Am J Clin Nutr
+- new | 2011 | 21956956 | Meta-Analysis/Systematic Review | Flavonoid-rich cocoa consumption affects multiple cardiovascular risk factors in a meta-analysis of short-term studies. | J Nutr
+- new | 2010 | 20494650 | Review | Blood pressure and cardiovascular risk: what about cocoa and chocolate? | Arch Biochem Biophys
+- new | 2010 | 19910929 | Meta-Analysis/Systematic Review | Effect of cocoa products on blood pressure: systematic review and meta-analysis. | Am J Hypertens
+- new | 2010 | 20504978 | Meta-Analysis/Research Support, Non-U.S. Gov't | Short-term effect of cocoa product consumption on lipid profile: a meta-analysis of randomized controlled trials. | Am J Clin Nutr
+- new | 2005 | 16410851 | Systematic Review | Does caffeine consumption during pregnancy increase the risk of fetal mortality? A literature review. | Cad Saude Publica
+
+### PubMed SAFE - 433 hits, 179 not already listed above, 177 new
+- new | 2026 | 41976190 |  | Amino-Acid-Derived Toxins and Pyrazines in Chocolates and Cocoa-Free Chocolate Surrogates. | Molecules
+- new | 2026 | 41663791 | Review | Antiobesity Potential of Selected Latin American Edible Plants: A Review. | Plant Foods Hum Nutr
+- new | 2026 | 42119423 |  | Trade-off between chemical safety and bioactivity during cocoa roasting revealed by multivariate modeling. | Food Chem
+- new | 2026 | 41978955 |  | First report of the invasive mealybug Ferrisia dasylirii (Hemiptera: Coccomorpha: Pseudococcidae) from China based on integrated taxonomy. | Bull Entomol Res
+- new | 2026 | 42660291 |  | Cross-reactivity between cacao and tree nuts in a pediatric allergic patient. | Ann Allergy Asthma Immunol
+- new | 2026 | 41555723 | Letter | Multi-Omics-Based Biological Mechanisms for Childhood Allergen Sensitization Trajectories: COCOA Study. | Allergy
+- new | 2026 | 41819727 |  | Environmental safety assessment of cocoa pod husk-derived biochar: Atmospheric control of PAH formation and zebrafish-based ecotoxicological evaluation. | Ecotoxicol Environ Saf
+- new | 2026 | 42885944 |  | Cocoa seed extract induces antiproliferative and pro-apoptotic effects in HT-29 colorectal cancer cells. | J Toxicol Environ Health A
+- new | 2026 | 41692061 |  | Occurrence and exposure assessment of aflatoxins in cocoa-derived products marketed in Spain. | Food Chem Toxicol
+- new | 2026 | 41408864 | Review | Cocoa neo-formed contaminants: forming mechanism, processing effects on nutritional and impacts on human neurological system. | Crit Rev Food Sci Nutr
+- new | 2025 | 39894480 | Review | [Legal Regulation and Analytical Method for Mycotoxin in Japan]. | Yakugaku Zasshi [jpn]
+- new | 2025 | 38418667 | Review | Natural Products in the Clinical Management of Metabolic Syndrome. | Handb Exp Pharmacol
+- new | 2025 | 40632435 | Case Reports | Typical "brainstem chocolate chip sign" in heterozygous HTRA1-related cerebral small vessel disease. | Neurol Sci
+- new | 2025 | 41083315 | Clinical Trial Protocol | Safety and effectiveness of the Chocolate balloon catheter in the treatment of peripheral artery disease with percutaneous transluminal angioplasty: a multicentre, prospective, obs | BMJ Open
+- new | 2025 | 39776384 |  | Safety and efficacy of chocolate balloon in the treatment of infrapopliteal artery disease. | CVIR Endovasc
+- new | 2025 | 41085243 |  | Dibutyl phthalate induces atopic dermatitis via semaphorin-plexin signaling and IL-5: ECHO-COCOA study. | Pediatr Allergy Immunol
+- new | 2025 | 40223331 | Comparative Study | Combined chocolate drug-coatedballoon treatment of femoropopliteal artery lesions in patients with Rutherford Grade 3-6. | Vasa
+- new | 2025 | 40891151 | Randomized Controlled Trial | Safety, tolerability, and preliminary effects of cricket chitin for adults with IBS: a double-blind randomized crossover pilot trial. | Food Funct
+- new | 2025 | 40079155 | Randomized Controlled Trial/Multicenter Study/Clinical Trial, Phase IV | Treat-And-Extend Versus Pro Re Nata Regimen of Intravitreal Conbercept Injection for Neovascular Age-Related Macular Degeneration: Results from COCOA, a Prospective, Open-Label, Mu | Semin Ophthalmol
+- new | 2025 | 41030422 | Case Reports | Severe hypernatremia in a dog following activated charcoal treatment for chocolate ingestion. | Can Vet J
+- new | 2024 | 39796308 |  | Impact of Chocolate Cadmium on Vulnerable Populations in Serbia. | Foods
+- new | 2024 | 38883222 | Case Reports | Allergy to Theobroma Cacao. | Clin Case Rep
+- new | 2024 | 38694556 | Review | Coffee, tea, and cocoa in obesity prevention: Mechanisms of action and future prospects. | Curr Res Food Sci
+- new | 2024 | 39525389 |  | Targeting protein aggregation using a cocoa-bean shell extract to reduce α-synuclein toxicity in models of Parkinson's disease. | Curr Res Food Sci
+- new | 2024 | 38763644 |  | Occurrence of heavy metals coupled with elevated levels of essential elements in chocolates: Health risk assessment. | Food Res Int
+- new | 2024 | 38790837 |  | Effect of Pod Storage and Drying Temperature on Fermentation Dynamics and Final Bean Quality of Cacao Nacional in Ecuador. | Foods
+- new | 2024 | 39097116 |  | Formulation and clinical evaluation of carbidopa/levodopa oral solution for the treatment of sepiapterin reductase deficiency. | Eur J Pharm Biopharm
+- new | 2024 | 39590811 |  | Antiprotozoal Natural Products from Endophytic Fungi Associated with Cacao and Coffee. | Metabolites
+- new | 2024 | 38873440 |  | Preparation and evaluation of functional cocoa-free spread alternatives from different sources. | Food Sci Nutr
+- new | 2024 | 39596082 | Review | Caffeine: A Multifunctional Efficacious Molecule with Diverse Health Implications and Emerging Delivery Systems. | Int J Mol Sci
+- new | 2024 | 38808883 |  | Occurrence and Synthesis Pathways of (Suspected) Genotoxic α,β-Unsaturated Carbonyls in Chocolate and Other Commercial Sweet Snacks. | J Agric Food Chem
+- new | 2024 | 39187638 |  | Removal of Rhodamine-B dye from Aqueous Solutions Using Alkaline-Modified Activated Carbon from Cocoa Pod Husk. | Bull Environ Contam Toxicol
+- new | 2024 | 36395480 |  | Probabilistic health risk assessment of heavy metals (Cd, Pb, and As) in Cocoa powder (Theobroma cacao) in Tehran, Iran market. | Int J Environ Health Res
+- new | 2024 | 39594518 | Review | Exploring the Therapeutic Potential of Theobroma cacao L.: Insights from In Vitro, In Vivo, and Nanoparticle Studies on Anti-Inflammatory and Anticancer Effects. | Antioxidants (Basel)
+- new | 2024 | 38846000 |  | Assessment of pesticide knowledge, Safety Practices and postharvest handling among cocoa farmers in South Western Nigeria. | Heliyon
+- new | 2024 | 37752021 | Review | Insights from the COCOA birth cohort: The origins of childhood allergic diseases and future perspectives. | Allergol Int
+- new | 2024 | 37989467 |  | In Vitro and In Vivo Evaluation of Dark Chocolate as Age-appropriate Oral Matrix. | Eur J Pharm Sci
+- new | 2024 | 39035124 | Published Erratum | Correction to "Allergy to Theobroma Cacao ". | Clin Case Rep
+- new | 2024 | 39635663 |  | Acute, Subchronic, and Genetic Toxicity Assessments of a Composition of Citrus aurantifolia Fruit Rind and Theobroma cacao Seed Extracts. | J Toxicol
+- new | 2024 | 38189132 | Randomized Controlled Trial/Clinical Trial, Phase II/Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S. | Cocoa flavanols, Nrf2 activation, and oxidative stress in peripheral artery disease: mechanistic findings in muscle based on outcomes from a randomized trial. | Am J Physiol Cell Physiol
+- new | 2024 | 37615691 |  | In-house validation of an LC-MS method for the multiplexed quantitative determination of total allergenic food in chocolate. | Anal Bioanal Chem
+- new | 2023 | 36883544 |  | [Polyphenols as promising bioactive compounds]. | Vopr Pitan [rus]
+- new | 2023 | 37317516 | Case Reports | Chocolate-Colored Pseudochylothorax in a Woman with a History of Pleuropulmonary Tuberculosis. | Am J Case Rep
+- new | 2023 | 36454188 | Research Support, Non-U.S. Gov't | Isolation, purification and biochemical characterization of Conopomorpha cramerella farnesol dehydrogenase. | Insect Mol Biol
+- new | 2023 | 36791534 |  | Transcriptomic, osmoregulatory and translocation changes modulates Ni toxicity in Theobroma cacao. | Plant Physiol Biochem
+- new | 2023 | 36941961 |  | Investigation of cocoa and cinnamon effect on acrylamide formation in cakes production using GC/MS method: A risk assessment study. | Food Chem X
+- new | 2023 | 37722279 |  | Leaf proteomic profiles in cacao scion-rootstock combinations tolerant and intolerant to cadmium toxicity. | Plant Physiol Biochem
+- new | 2023 | 36377752 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Pesticide Safety Behavior among Cocoa Farmers in Nigeria: Current Trends and Determinants. | J Agromedicine
+- new | 2023 | 37394405 | Case Reports/Letter | A case of pseudohermaphroditism in a female with a giant pelvic chocolate cyst and absence of the right ovary. | Eur J Obstet Gynecol Reprod Biol
+- new | 2023 | 37366957 |  | Mach-Zehnder Interferometric Immunosensor for Detection of Aflatoxin M1 in Milk, Chocolate Milk, and Yogurt. | Biosensors (Basel)
+- new | 2023 | 36836749 |  | Physiological and Anatomical Responses of Faba Bean Plants Infected with Chocolate Spot Disease to Chemical Inducers. | Life (Basel)
+- new | 2023 | 37324470 |  | Computational and experimental pharmacology to decode the efficacy of Theobroma cacao L. against doxorubicin-induced organ toxicity in EAC-mediated solid tumor-induced mice. | Front Pharmacol
+- new | 2023 | 36606570 |  | Effect of microencapsulated inoculum of Pichia kudriavzevii on the fermentation and sensory quality of cacao CCN51 genotype. | J Sci Food Agric
+- new | 2023 | 37884715 |  | The damage caused by Cd toxicity to photosynthesis, cellular ultrastructure, antioxidant metabolism, and gene expression in young cacao plants are mitigated by high Mn doses in soi | Environ Sci Pollut Res Int
+- new | 2023 | 37119688 |  | Phosphate-driven H(2)O(2) decomposition on DNA-bound bio-inspired activated carbon-based sensing platform for biological and food samples. | Food Chem
+- new | 2023 | 38047136 |  | Threat or treat: Exposure assessment and risk characterisation of chemical contaminants in soft drinks and chocolate bars in various Polish population age groups. | EFSA J
+- new | 2022 | 36009556 |  | Cocoa Extract Provides Protection against 6-OHDA Toxicity in SH-SY5Y Dopaminergic Neurons by Targeting PERK. | Biomedicines
+- new | 2022 | 35458133 |  | The Risk of Undeclared Allergens on Food Labels for Pediatric Patients in the European Union. | Nutrients
+- new | 2022 | 36083481 |  | Protective efficacy of dark chocolate in letrozole-induced ovary toxicity model rats: hormonal, biochemical, and histopathological investigation. | J Tradit Chin Med
+- new | 2022 | 35201367 |  | Development of incurred chocolate bars and broth powder with six fully characterised food allergens as test materials for food allergen analysis. | Anal Bioanal Chem
+- new | 2022 | 34923401 |  | Potential benefits of structured lipids in bulk compound chocolate: Insights on bioavailability and effect on serum lipids. | Food Chem
+- new | 2022 | 36006133 |  | Determinants of Cocoa Farmers' Compliance with Agrochemical Safety Precautions in Ogun and Osun States, Nigeria. | Toxics
+- new | 2022 | 35936106 | Case Reports | Ultrasound of Lipomatosis of Nerve Associated with Macrodactyly: 'Spaghetti and Chocolate Cookie' Appearance. | J Belg Soc Radiol
+- new | 2022 | 35739991 |  | Effect of Theobroma cacao L. on the Efficacy and Toxicity of Doxorubicin in Mice Bearing Ehrlich Ascites Carcinoma. | Antioxidants (Basel)
+- new | 2022 | 36501173 |  | Maternal Supplementation with a Cocoa Extract during Lactation Deeply Modulates Dams' Metabolism, Increases Adiponectin Circulating Levels and Improves the Inflammatory Profile in  | Nutrients
+- new | 2022 | 35051057 |  | Lowering the Toxicity of Cd to Theobroma cacao Using Soil Amendments Based on Commercial Charcoal and Lime. | Toxics
+- new | 2022 | 35267276 |  | Detection of Peanut Traces in Food by an Official Food Safety Laboratory. | Foods
+- new | 2022 | 34962144 | Case Reports | Death by Chocolate: The Palliative Management of Dysphagia. | J Palliat Med
+- new | 2022 | 36100318 | Clinical Trial/Research Support, Non-U.S. Gov't | Effect of cocoa (Theobroma cacao L.) on platelet function testing profiles in patients with coronary artery disease: ECLAIR pilot study. | Open Heart
+- new | 2022 | 35571381 |  | Toxicological Assessments of a Proprietary Blend of Punica granatum Fruit Rind and Theobroma cacao Seed Extracts: Acute, Subchronic, and Genetic Toxicity Studies. | J Toxicol
+- new | 2021 | 33788297 |  | Chocolate ingestion in dogs: 156 events (2015-2019). | J Small Anim Pract
+- new | 2021 | 33978084 |  | Antiproliferative, genotoxic and mutagenic potential of synthetic chocolate food flavoring. | Braz J Biol
+- new | 2021 | 34691390 |  | Prenatal PM(2.5) affects atopic dermatitis depending on maternal anxiety and gender: COCOA study. | Clin Transl Allergy
+- new | 2021 | 33519930 |  | Reproductive Toxicity of Theobroma cacao: Increase in Survival Index, Nongenotoxic, and Proimplantation Potential. | J Toxicol
+- new | 2021 | 34335802 |  | Antimalarial Property and Acute Toxicity of the Leaves of Theobroma cacao L. | Evid Based Complement Alternat Med
+- new | 2021 | 33673085 |  | Protective Effect of Cocoa Bean Shell against Intestinal Damage: An Example of Byproduct Valorization. | Antioxidants (Basel)
+- new | 2021 | 34159149 |  | Potential anti-alopecia constituents from Theobroma cacao: An in silico study. | J Adv Pharm Technol Res
+- new | 2021 | 33183874 |  | Discovery based high resolution MS/MS analysis for selection of allergen markers in chocolate and broth powder matrices. | Food Chem
+- new | 2021 | 32696851 |  | Decrease of the DXR-induced genotoxicity and nongenotoxic effects of Theobroma cacao revealed by micronucleus assay. | Braz J Biol
+- new | 2021 | 34070789 |  | Cacao Pod Husk Flour as an Ingredient for Reformulating Frankfurters: Effects on Quality Properties. | Foods
+- new | 2020 | 32938218 | Research Support, Non-U.S. Gov't/Review | Skeletal Muscle Pathology in Peripheral Artery Disease: A Brief Review. | Arterioscler Thromb Vasc Biol
+- new | 2020 | 32424525 |  | Overexpression of a novel cytochrome P450 monooxygenase gene, CYP704B1, from Panax ginseng increase biomass of reproductive tissues in transgenic Arabidopsis. | Mol Biol Rep
+- new | 2020 | 32992701 |  | Cocoa (Theobroma cacao L.) Seed Proteins' Anti-Obesity Potential through Lipase Inhibition Using In Silico, In Vitro and In Vivo Models. | Foods
+- new | 2020 | 33117649 | Case Reports | A chocolate effusion - An unusual cause of elevated adenosine deaminase in the pleural fluid. | Respir Med Case Rep
+- new | 2020 | 32286894 | Randomized Controlled Trial | Effects of Cacao By-Products and a Modest Weight Loss Intervention on the Concentration of Serum Triglycerides in Overweight Subjects: Proof of Concept. | J Med Food
+- new | 2020 | 32008980 |  | Association between chocolate consumption frequency and heart rate variability indices. | Explore (NY)
+- new | 2020 | 32751867 |  | Attenuating Effect of Peruvian Cocoa Populations on the Acute Asthmatic Response in Brown Norway Rats. | Nutrients
+- new | 2020 | 32006726 | Research Support, Non-U.S. Gov't | Prenatal particulate matter exposure with skin barrier dysfunction affects offspring's atopic dermatitis: COCOA study. | J Allergy Clin Immunol Pract
+- new | 2020 | 32142828 | Case Reports | Chocolate cysts found on cystoscopy. | Am J Obstet Gynecol
+- new | 2020 | 33132175 |  | Pectin of cacao pod husk, an efficient immunostimulant for white shrimp, Litopenaeus vannamei. | Fish Shellfish Immunol
+- new | 2019 | 30324543 |  | Bioactive Compounds from Theobroma cacao: Effect of Isolation and Safety Evaluation. | Plant Foods Hum Nutr
+- new | 2019 | 30844416 |  | Factors effecting the induction of rat forestomach hyperplasia induced by Swedish oral smokeless tobacco (snus). | Regul Toxicol Pharmacol
+- new | 2019 | 30236681 |  | Physicochemical properties and toxicity of cocoa powder-like product from roasted seeds of fermented rambutan (Nephelium lappaceum L.) fruit. | Food Chem
+- new | 2019 | 31317981 |  | Low doses of cocoa extract supplementation ameliorate diet-induced obesity and insulin resistance in rats. | Food Funct
+- new | 2019 | 31763414 |  | Dataset on cocoa farmers' agrochemical handling practices and safety compliance in Ahafo Ano North district, Ashanti region, Ghana. | Data Brief
+- new | 2019 | 31921472 |  | Prenatal Exposure to Lead and Chromium is Associated with IL-13 Levels in Umbilical Cord Blood and Severity of Atopic Dermatitis: COCOA Study. | Immune Netw
+- new | 2019 | 30721703 |  | Cytotoxic and multidrug resistance reversal activity of phenothiazine derivative is strongly enhanced by theobromine, a phytochemical from cocoa. | Eur J Pharmacol
+- new | 2018 | 30622947 |  | (-)-Epicatechin Supplementation Inhibits Aerobic Adaptations to Cycling Exercise in Humans. | Front Nutr
+- new | 2018 | 29438643 | Case Reports | Encephalopathy after chocolate consumption. | Med J Aust
+- new | 2018 | 29740333 | Review | Flavonoids in Kidney Health and Disease. | Front Physiol
+- HELD REF-1089 | 2018 | 29141542 | Review | Cocoa Polyphenols: Evidence from Epidemiological Studies. | Curr Pharm Des
+- new | 2018 | 30402291 |  | Potential of Cocoa Pod Husk Pectin-Based Modified Release Capsules as a Carrier for Chronodelivery of Hydrocortisone in Sprague-Dawley Rats. | J Drug Deliv
+- new | 2018 | 29126791 |  | The cardioprotective effects of (-)-Epicatechin are mediated through arginase activity inhibition in a murine model of ischemia/reperfusion. | Eur J Pharmacol
+- new | 2018 | 30263852 |  | Monitoring of acrylamide carcinogen in selected heat-treated foods from Saudi Arabia. | Food Sci Biotechnol
+- new | 2018 | 30564355 | Case Reports | Recanalization of bilateral axillaris/brachialis artery occlusion in a patient with Takayashu arteritis: First case report on using a novel drug-coated nitinol "chocolate" balloon  | Clin Case Rep
+- new | 2018 | 28930576 | Review | Impact of chocolate on the cardiovascular health. | Front Biosci (Landmark Ed)
+- new | 2018 | 29955438 |  | Cocoa Pod Husk Pectin Intended as a Pharmaceutical Excipient Has No Adverse Effects on Haematological Parameters in Sprague Dawley Rats. | J Pharm (Cairo)
+- new | 2018 | 29530637 |  | Colonic metabolites from flavanols stimulate nitric oxide production in human endothelial cells and protect against oxidative stress-induced toxicity and endothelial dysfunction. | Food Chem Toxicol
+- new | 2018 | 30092428 | Case Reports | Unexpected Complication of a Nitinol-Constrained Balloon Angioplasty (Chocolate) in Rutherford Class 3 Patient Presenting Challenging Aorto-Iliac Anatomy. | Ann Vasc Surg
+- new | 2018 | 30200398 | Randomized Controlled Trial | Daily Consumption of Chocolate Rich in Flavonoids Decreases Cellular Genotoxicity and Improves Biochemical Parameters of Lipid and Glucose Metabolism. | Molecules
+- new | 2018 | 28913824 |  | A randomised controlled trial of consumption of dark chocolate in pregnancy to reduce pre-eclampsia: Difficulties in recruitment, allocation and adherence. | Aust N Z J Obstet Gynaecol
+- new | 2018 | 29457516 | Randomized Controlled Trial | Effects of chocolate-based products intake on blood glucose, insulin and ghrelin levels and on satiety in young people: a cross-over experimental study. | Int J Food Sci Nutr
+- new | 2018 | 28865146 | Research Support, Non-U.S. Gov't | Cocoa agroforestry is less resilient to sub-optimal and extreme climate than cocoa in full sun. | Glob Chang Biol
+- HELD REF-1091 | 2017 | 27596387 |  | Theobroma cacao extract attenuates the development of Dermatophagoides farinae-induced atopic dermatitis-like symptoms in NC/Nga mice. | Food Chem
+- new | 2017 | 28994638 | Review | Dendrimers, Carotenoids, and Monoclonal Antibodies. | Monoclon Antib Immunodiagn Immunother
+- new | 2017 | 29263290 | Research Support, Non-U.S. Gov't | Heightened risk of canine chocolate exposure at Christmas and Easter. | Vet Rec
+- new | 2017 | 28084783 |  | Morphophysiological, ultrastructural, and nutritional changes induced by Cu toxicity in young Erythrina fusca plants. | Int J Phytoremediation
+- new | 2016 | 28933386 | Review | Preventive Effects of Cocoa and Cocoa Antioxidants in Colon Cancer. | Diseases
+- new | 2016 | 26815660 | Case Reports | What is this chocolate milk in my circuit? A cause of acute clotting of a continuous renal replacement circuit: Questions. | Pediatr Nephrol
+- new | 2016 | 27610134 |  | Macro- and Microelemental Composition and Toxicity of Unsweetened Natural Cocoa Powder in Sprague-Dawley Rats. | J Toxicol
+- new | 2016 | 26421621 | Research Support, Non-U.S. Gov't | Organophosphate pesticide method development and presence of chlorpyrifos in the feet of nearctic-neotropical migratory songbirds from Canada that over-winter in Central America ag | Chemosphere
+- new | 2016 | 27493672 |  | Unsweetened Natural Cocoa Powder Has the Potential to Attenuate High Dose Artemether-Lumefantrine-Induced Hepatotoxicity in Non-Malarious Guinea Pigs. | Evid Based Complement Alternat Med
+- new | 2016 | 27279694 |  | Effect of Procyanidin-rich Extract from Natural Cocoa Powder on Cellular Viability, Cell Cycle Progression, and Chemoresistance in Human Epithelial Ovarian Carcinoma Cell Lines. | Pharmacogn Mag
+- new | 2016 | 27184162 | Research Support, N.I.H., Extramural | Airway epithelial cell exposure to distinct e-cigarette liquid flavorings reveals toxicity thresholds and activation of CFTR by the chocolate flavoring 2,5-dimethypyrazine. | Respir Res
+- new | 2016 | 27599802 |  | A dietary strategy for the management of artemether-lumefantrine-induced cardiovascular and renal toxicity. | BMC Complement Altern Med
+- new | 2015 | 26218965 | Review | Chocolate and other cocoa products: effects on human reproduction and pregnancy. | J Agric Food Chem
+- new | 2015 | 25529404 |  | Easter egg hunt dermatitis: systemic allergic contact dermatitis associated with chocolate ingestion. | Pediatr Dermatol
+- new | 2015 | 25711140 | Research Support, Non-U.S. Gov't/Review | Factors Affecting the Absorption, Metabolism, and Excretion of Cocoa Flavanols in Humans. | J Agric Food Chem
+- new | 2015 | 25648784 | Case Reports/Review | Dietary guidelines for caffeine and chocolate after digital replantation. | J Hand Surg Am
+- new | 2015 | 26292305 | Case Reports | Isolation on Chocolate Agar Culture of Legionella pneumophila Isolates from Subcutaneous Abscesses in an Immunocompromised Patient. | J Clin Microbiol
+- new | 2015 | 26240109 | Case Reports | An epibulbar chocolate cyst: a rare complication of silicone-based scleral buckle. | BMJ Case Rep
+- new | 2015 | 25977052 | Comparative Study/Research Support, Non-U.S. Gov't | Tracing tree nut allergens in chocolate: A comparison of DNA extraction protocols. | Food Chem
+- new | 2015 | 25996516 | Research Support, Non-U.S. Gov't | Carbon tetrachloride-induced hepatic and renal damages in rat: inhibitory effects of cacao polyphenol. | Biosci Biotechnol Biochem
+- new | 2015 | 25172751 |  | Effects of processing on the recovery of food allergens from a model dark chocolate matrix. | Food Chem
+- new | 2014 | 24970388 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Chocolate flavanols and skin photoprotection: a parallel, double-blind, randomized clinical trial. | Nutr J
+- new | 2014 | 24491839 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Effects of (-)-epicatechin on a diet-induced rat model of cardiometabolic risk factors. | Eur J Pharmacol
+- new | 2014 | 25566077 |  | Deleterious effects of maternal ingestion of cocoa upon fetal ductus arteriosus in late pregnancy. | Front Pharmacol
+- new | 2013 | 23622490 | Case Reports | Dental fracture and chocolate candies: case report. | J Forensic Leg Med
+- new | 2013 | 23675471 | Research Support, Non-U.S. Gov't | A cocoa peptide protects Caenorhabditis elegans from oxidative stress and β-amyloid peptide toxicity. | PLoS One
+- new | 2013 | 23565841 | Randomized Controlled Trial | Blood pressure and endothelial function in healthy, pregnant women after acute and daily consumption of flavanol-rich chocolate: a pilot, randomized controlled trial. | Nutr J
+- new | 2012 | 22119904 | Review | Dietary agents in the prevention of alcohol-induced hepatotoxicty: preclinical observations. | Food Funct
+- new | 2012 | 23356070 |  | Developing detection and monitoring strategies for Planococcus minor (Hemiptera: Pseudococcidae). | J Econ Entomol
+- new | 2012 | 22675703 |  | Guarana: Paullinia cupana, P. sorbilis; also known as Brazilian cocoa and 'zoom'. | J Prim Health Care
+- new | 2012 | 22342543 | Research Support, Non-U.S. Gov't | A diet enriched with cocoa prevents IgE synthesis in a rat allergy model. | Pharmacol Res
+- new | 2012 | 22537244 | Randomized Controlled Trial | Potential effects of chocolate on human pregnancy: a randomized controlled trial. | J Matern Fetal Neonatal Med
+- new | 2012 | 22443281 | Research Support, Non-U.S. Gov't | The hemibiotrophic cacao pathogen Moniliophthora perniciosa depends on a mitochondrial alternative oxidase for biotrophic development. | New Phytol
+- new | 2011 | 21695634 | Review | Phosphodiesterase inhibitors: history of pharmacology. | Handb Exp Pharmacol
+- new | 2011 | 20467292 | Case Reports | Chocolate-colored blood with normal artery oxygen: methemoglobinemia related to phenazopyridine. | Am J Med Sci
+- new | 2010 | 20492310 | Review | Caffeine (1, 3, 7-trimethylxanthine) in foods: a comprehensive review on consumption, functionality, safety, and regulatory matters. | J Food Sci
+- new | 2010 | 20966884 |  | Creation of a databank for content of antioxidants in food products by an amperometric method. | Molecules
+- new | 2010 | 21213435 |  | [Chocolate intoxication in dogs]. | Tijdschr Diergeneeskd [dut]
+- new | 2009 | 19838930 | Review | Cancer protective properties of cocoa: a review of the epidemiologic evidence. | Nutr Cancer
+- new | 2008 | 18519570 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Cocoa procyanidins suppress transformation by inhibiting mitogen-activated protein kinase kinase. | J Biol Chem
+- new | 2008 | 19000380 |  | Antidepressant-like effects of a cocoa polyphenolic extract in Wistar-Unilever rats. | Nutr Neurosci
+- new | 2008 | 18090911 |  | Protective effect of Acticoa powder, a cocoa polyphenolic extract, on prostate carcinogenesis in Wistar-Unilever rats. | Eur J Cancer Prev
+- new | 2008 | 18532933 | Case Reports | Case 1: Chocolate-coloured blood in infant with shock (case presentation). Diagnosis: Acquired methemoglobinemia. | Acta Paediatr
+- new | 2007 | 17534419 | Case Reports/Research Support, Non-U.S. Gov't | Death by chocolate: a fatal problem for an inquisitive wild parrot. | N Z Vet J
+- new | 2006 | 16641831 | Case Reports | Delirium following ingestion of marijuana present in chocolate cookies. | CNS Spectr
+- new | 2004 | 14968903 | Case Reports | Cocoa powder aspiration. | Clin Pediatr (Phila)
+- new | 2004 | 14757265 | Research Support, Non-U.S. Gov't | Sweet babies: chocolate consumption during pregnancy and infant temperament at six months. | Early Hum Dev
+- new | 2003 | 14572419 | Case Reports | Auriculotemporal nerve syndrome. | Allergol Immunopathol (Madr)
+- new | 2002 | 12234488 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Cocoa extract protects against early alcohol-induced liver injury in the rat. | Arch Biochem Biophys
+- new | 2001 | 11696402 |  | Anticlastogenic activity of cacao: inhibitory effect of cacao liquor polyphenols against mitomycin C-induced DNA damage. | Food Chem Toxicol
+- new | 2000 | 10876983 | Case Reports | Cannabinoid mimics in chocolate utilized as an argument in court. | Int J Legal Med
+- new | 1999 | 10589017 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Identification and cloning of a complementary DNA encoding a vicilin-like proprotein, jug r 2, from english walnut kernel (Juglans regia), a major food allergen. | J Allergy Clin Immunol
+- new | 1998 | 9842982 | Clinical Trial | Pharmacokinetics of progesterone in postmenopausal women: 1. Pharmacokinetics following intravaginal administration. | Eur J Drug Metab Pharmacokinet
+- new | 1992 | 1521008 |  | Reproductive toxicity of theobromine and cocoa extract in male rats. | Reprod Toxicol
+- new | 1991 | 1899643 | Case Reports | [Acute lead poisoning]. | Dtsch Med Wochenschr [ger]
+- new | 1986 | 3512994 | Comparative Study/Research Support, Non-U.S. Gov't | Genotoxicity of cocoa in a series of short-term assays. | Mutat Res
+- new | 1984 | 6381265 |  | Primary mutagenicity screening of food additives currently used in Japan. | Food Chem Toxicol
+- new | 1984 | 6718300 |  | Toxicity of jimson weed seed and cocoa shell meal to broilers. | Poult Sci
+- new | 1982 | 6765610 | Review | The toxicology of cocoa and methylxanthines: a review of the literature. | Crit Rev Toxicol
+- new | 1982 | 7045646 |  | Genotoxicity of cocoa examined by microbial and mammalian systems. | Mutat Res
+- new | 1981 | 7289587 |  | Short-term toxicity study of irradiated cocoa beans in rats. | J Sci Food Agric
+- new | 1981 | 7295998 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Tobacco, cocoa, coffee, and ragweed: cross-reacting allergens that activate factor-XII-dependent pathways. | Blood
+- new | 1978 | 152075 | Review | Chocolate: a review of published reports of allergic and other deleterious effects, real or presumed. | Ann Allergy
+- new | 1976 | 20312781 |  | Allergy to chocolate. | Can Med Assoc J
+- new | 1976 | 1043861 | Case Reports | Chocolate buttons. | Health Visit
+- new | 1975 | 239592 | Research Support, U.S. Gov't, Non-P.H.S. | The adverse effect of chocolate on lower esophageal sphincter pressure. | Am J Dig Dis
+
+### PubMed OBS - 177 hits, 29 not already listed above, 29 new
+- new | 2026 | 42047151 | Review | Cocoa and Cardiac Rhythm: an Arrhythmogenic Trigger in Dietetic Chocolate Abuse? | Clin Ter
+- new | 2026 | 42884756 |  | Weather Extreme Events, Farm Management, and Cocoa Yield in Ecuador. | Plants (Basel)
+- new | 2025 | 40866829 |  | Diagnostic performance of "pons chocolate chip sign" in heterozygous HTRA1-related cerebral small vessel disease. | BMC Neurol
+- new | 2025 | 40011928 |  | Diversity and natural infection of phlebotomine sand flies (Diptera, Psychodidae) in an endemic area of American tegumentary leishmaniasis in southeastern Bahia, Brazil. | Parasit Vectors
+- new | 2024 | 39728884 |  | The Effect of Dark Chocolate Consumption on Arterial Function in Endurance Male Runners: Prospective Cohort Study. | Sports (Basel)
+- new | 2024 | 38281089 | Research Support, Non-U.S. Gov't | Oral anticoagulant safety in family practice: prognostic accuracy of Bleeding Risk Scores (from the CACAO study). | Fam Pract
+- new | 2023 | 36610473 |  | The contribution of cacao consumption to the bioaccessible dietary cadmium exposure in the Belgian population. | Food Chem Toxicol
+- new | 2023 | 35939558 | Research Support, N.I.H., Extramural | CoCoA: conditional correlation models with association size. | Biostatistics
+- new | 2023 | 40496793 |  | Investigation of a monophasic Salmonella Typhimurium outbreak linked to chocolate products as part of wider international outbreak: A matched case-control study, Ireland, 2022. | Public Health Chall
+- new | 2023 | 36771267 | Observational Study | Added Sugar Consumption in Spanish Children (7-12 y) and Nutrient Density of Foods Contributing to Such Consumption: An Observational Study. | Nutrients
+- new | 2022 | 35873437 |  | Flavonoid Intake From Cocoa-Based Products and Adiposity Parameters in Adolescents in Spain. | Front Nutr
+- new | 2021 | 33643752 |  | Chocolate Consumption and Sex-Interest. | Cureus
+- new | 2021 | 34329196 | Multicenter Study/Randomized Controlled Trial | Chocolate consumption and all-cause and cause-specific mortality in a US population: a post hoc analysis of the PLCO cancer screening trial. | Aging (Albany NY)
+- new | 2020 | 32526956 | Research Support, Non-U.S. Gov't | Novel Brown Coat Color (Cocoa) in French Bulldogs Results from a Nonsense Variant in HPS3. | Genes (Basel)
+- new | 2020 | 32067980 |  | Chocolate Consumption and Indicators of Adiposity in US Adults. | Am J Med
+- new | 2020 | 32843525 | Research Support, Non-U.S. Gov't | Factors influencing undernutrition among children under 5 years from cocoa-growing communities in Bougainville. | BMJ Glob Health
+- new | 2019 | 31370836 | Research Support, Non-U.S. Gov't | Examination of dietary habits among the indigenous Kuna Indians of Panama. | Nutr J
+- new | 2019 | 29795238 | Multicenter Study/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Intake of cocoa products and risk of type-2 diabetes: the multiethnic cohort. | Eur J Clin Nutr
+- new | 2017 | 29329924 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of dark chocolate on endothelial function in patients with non-alcoholic steatohepatitis. | Nutr Metab Cardiovasc Dis
+- new | 2017 | 29095007 |  | [Influence of habitual chocolate consumption over the Mini-Mental State Examination in Spanish older adults]. | Nutr Hosp [spa]
+- new | 2017 | 28893620 | Review | Protective effects of tea, red wine and cocoa in diabetes. Evidences from human studies. | Food Chem Toxicol
+- new | 2017 | 28536115 | Multicenter Study/Research Support, Non-U.S. Gov't/Research Support, N.I.H., Extramural | Chocolate intake and risk of clinically apparent atrial fibrillation: the Danish Diet, Cancer, and Health Study. | Heart
+- new | 2016 | 27163823 | Research Support, Non-U.S. Gov't | Chocolate Consumption is Associated with a Lower Risk of Cognitive Decline. | J Alzheimers Dis
+- new | 2015 | 26290297 | Research Support, Non-U.S. Gov't/Review | Impact of beverage intake on metabolic and cardiovascular health. | Nutr Rev
+- new | 2015 | 25901348 | Clinical Trial/Research Support, Non-U.S. Gov't | Chocolate and health-related quality of life: a prospective study. | PLoS One
+- new | 2015 | 26333704 |  | Prenatal Particulate Matter/Tobacco Smoke Increases Infants' Respiratory Infections: COCOA Study. | Allergy Asthma Immunol Res
+- new | 2013 | 23810791 | Research Support, Non-U.S. Gov't/Review | Chocolate and the brain: neurobiological impact of cocoa flavanols on cognition and behavior. | Neurosci Biobehav Rev
+- new | 2013 | 23497050 | Research Support, Non-U.S. Gov't | Deforestation, agriculture and farm jobs: a good recipe for Plasmodium vivax in French Guiana. | Malar J
+- new | 2007 | 17609490 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of low habitual cocoa intake on blood pressure and bioactive nitric oxide: a randomized controlled trial. | JAMA
+
+### PubMed REV - 401 hits, 20 not already listed above, 20 new
+- new | 2023 | 37049969 | Review | Analytical Methods for Oxalate Quantification: The Ubiquitous Organic Anion. | Molecules
+- new | 2022 | 35345441 | Review | The roles of catechins in regulation of systemic inflammation. | Food Sci Biotechnol
+- new | 2022 | 36553708 | Review | Theobroma cacao and Theobroma grandiflorum: Botany, Composition and Pharmacological Activities of Pods and Seeds. | Foods
+- new | 2022 | 36430843 | Review | From Cocoa to Chocolate: Effect of Processing on Flavanols and Methylxanthines and Their Mechanisms of Action. | Int J Mol Sci
+- new | 2022 | 34569131 | Review | Biotechnology of virus eradication and plant vaccination in phytobiome context. | Plant Biol (Stuttg)
+- new | 2020 | 32916858 | Review | Phytophthora palmivora-Cocoa Interaction. | J Fungi (Basel)
+- new | 2019 | 31521398 | Review | Mediterranean diet: The role of long-chain ω-3 fatty acids in fish; polyphenols in fruits, vegetables, cereals, coffee, tea, cacao and wine; probiotics and vitamins in prevention o | Rev Neurol (Paris)
+- new | 2019 | 31029926 | Review | Chocolate and chocolate constituents influence bone health and osteoporosis risk. | Nutrition
+- new | 2019 | 31200790 | Review | Dark Chocolate: To Eat or Not to Eat? A Review. | J AOAC Int
+- new | 2019 | 31115251 | Review | Chocolate Under Threat from Old and New Cacao Diseases. | Phytopathology
+- new | 2018 | 29119920 | Review | Polyphenols: Inflammation. | Curr Pharm Des
+- new | 2018 | 29539647 | Review | Mood Components in Cocoa and Chocolate: The Mood Pyramid. | Planta Med
+- new | 2018 | 29548794 | Research Support, Non-U.S. Gov't/Review | Potential mechanisms underlying cardiovascular protection by polyphenols: Role of the endothelium. | Free Radic Biol Med
+- new | 2017 | 29221803 | Review | Optimizing Non-Pharmacologic Management of Hypertriglyceridemia. | Arch Med Res
+- new | 2016 | 27491435 | Review | Fungal and Oomycete Diseases of Tropical Tree Fruit Crops. | Annu Rev Phytopathol
+- new | 2012 | 23075563 | Review | Chocolate milk: a post-exercise recovery beverage for endurance sports. | Med Sport Sci
+- new | 2006 | 30372004 | Review | Chocolate. | 
+- new | 2004 | 15462126 | Research Support, Non-U.S. Gov't/Review | The microbiology of cocoa fermentation and its role in chocolate quality. | Crit Rev Food Sci Nutr
+- new | 2004 | 15252456 | Review | Stopping the rot. | PLoS Biol
+- new | 1987 | 3328483 | Review | Chocolate. | Adv Food Res
+
+### ClinicalTrials.gov - 122 registered studies
+- NCT01651793 | COMPLETED | results=True | NA | Effect of Phytochemicals From Theobroma Cacao on Mental Energy | conds: Mental Fatigue | intr: Caffeinated cocoa, Cocoa, Caffeine, Placebo
+- NCT07592013 | ENROLLING_BY_INVITATION | results=False | NA | Effect of Ancestry Supplementation in Subjects With Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) | conds: MASLD | intr: Ancestry, Placebo
+- NCT03034291 | COMPLETED | results=False | NA | Cacao Consumption in Patients With Insulin Resistance | conds: Insulin Resistance | intr: Cacao 70%, White chocolate
+- NCT00835887 | WITHDRAWN | results=False | PHASE2 | Relevance of Flavanols for Cardiovascular Function in End-Stage Renal Disease | conds: End Stage Renal Disease | intr: low and high dose flavanoids
+- NCT01347450 | COMPLETED | results=False | NA | Protective Effects of Cocoa Ingestion Over Healthy Males Plasma Lipids Subjected to Peroxidative Conditions | conds: Lipid Peroxidation | intr: Cocoa powder berverage, dark chocolate bar, Placebo | pubs: ['29908675:DERIVED (new)']
+- NCT02376777 | COMPLETED | results=False |  | Comparison of Accidents and Their Circumstances With Oral Anticoagulants | conds: Cardiovascular Complications, Hemorrhagic Disorders, Embolism and Thrombosis | intr: Follow up | pubs: ['39446561:DERIVED (new)', '38281089:DERIVED (new)', '32152017:DERIVED (new)', '28384199:DERIVED (new)']
+- NCT03194620 | COMPLETED | results=False | NA | Absorption, Metabolism and Excretion of Dietary Polyphenolic Bioactives in Humans | conds: Healthy | intr: Thearubigins, Theaflavins, Procyanidin Dimer B2 (DB2), (-)-Epigallocatechin-3-O-gallate (EGCG)
+- NCT02275884 | UNKNOWN | results=False | NA | Pharmacologically Active Constituents of Chocolate and Their Symptomatic Effects in Patients With Idiopathic Parkinson's Disease | conds: Parkinson Disease | intr: Dark chocolate (85% cocoa), White chocolate (0% cocoa)
+- NCT06294938 | COMPLETED | results=False | NA | Glycemic Index of Cacao Fruit Pulp in Healthy, Human Subjects | conds: Blood Sugar; High, Blood Sugar; Low | intr: Cacao fruit pulp, Dextrose
+- NCT03195465 | TERMINATED | results=True | NA | The Effect of High Antioxidant Cacao on Behaviors in Children With Autism Spectrum Disorder | conds: Autism Spectrum Disorder | intr: Dark Chocolate
+- NCT03512600 | COMPLETED | results=False | NA | Study of the Effects of the Consumption of Different Products Cocoa Derivatives at the Risk of Crystallization of Uric Acid in Urine of Volu | conds: Lithiasis, Urinary | intr: Intervention 0, Intervention 1, Intervention 2, Intervention 3
+- NCT02185638 | COMPLETED | results=False | NA | Appetite Suppression Effects of an Herbal Combination of Yerba maté, Guarana, Damiana (YGD), and 12 Other Herbal Components, Versus YGD Supp | conds: Obesity | intr: Appetite suppressant properties of YGD and A20-50
+- NCT03203824 | COMPLETED | results=False | NA | The Effects of Dark Chocolate (70% Cacao) on EEG Brain Waves in Vigorously Active Individuals | conds: Healthy | intr: dark chocolate, non dark chocolate
+- NCT05290012 | COMPLETED | results=False | NA | The Effect of Dark Chocolate Consumption on Blood Parameters in Healthy Adult Individuals | conds: Cardiovascular Diseases | intr: Dark Chocolate
+- NCT05900024 | COMPLETED | results=False | NA | A Study to Evaluate the Effect of Funk It Cycle Bites on PMS | conds: Premenstrual Syndrome | intr: Funk It Cycle Bites
+- NCT01659060 | COMPLETED | results=False | PHASE2 | Chocolate Consumption in Healthy Pregnant Women Trial | conds: Hypertension Pregnancy-induced | intr: Flavanol-rich dark chocolate, Placebo Chocolate | pubs: ['23565841:DERIVED (new)']
+- NCT07584460 | COMPLETED | results=False | NA | Juçara (Euterpe Edulis Martius) Supplementation Effect in Muscle Protection, Performance and Soreness in Lower Limbs After Exercise-Induced  | conds: Juçara Supplementatios After Muscle Damage | intr: Juçara, Placebo group
+- NCT01890070 | UNKNOWN | results=False | NA | Study of the Nutraceutical Properties and Health Benefits of Traditional Components of the Mediterranean Diet | conds: Obesity | intr: Hazelnuts, Chocolate, Red wine, Olive Oil | pubs: ['41470854:DERIVED (new)', '39339676:DERIVED (new)', '36672947:DERIVED (new)', '36203988:DERIVED (new)', '31593559:DERIVED (new)', '30419927:DERIVED (new)', '29147070:DERIVED (new)', '28855976:DERIVED (new)', '28601084:DERIVED (new)', '28537652:DERIVED (new)', '28429343:DERIVED (new)', '27709360:DERIVED (new)', '26347355:DERIVED (new)', '25432492:DERIVED (new)', '24876915:DERIVED (new)']
+- NCT03483532 | COMPLETED | results=False |  | Study of the Crystallization Inhibition Capacity of the Uric Acid in Urine in a Group of Lithiasic Patients After Intake of a Food Supplemen | conds: Lithiasis | intr: Lit Control pH Up, dry cocoa extract
+- NCT03326934 | COMPLETED | results=False | NA | Impact of Dark Chocolate on Visual Performance | conds: Dietary Supplementation | intr: Dark chocolate, Milk Chocolate | pubs: ['29710322:DERIVED (new)']
+- NCT03585868 | COMPLETED | results=False | NA | Effects of COcoa Supplement in FRail Elderly Subjects (COFRE) | conds: Sarcopenia, Frail Elderly Syndrome | intr: Placebo, Flavonoids, No Flavonoids | pubs: ['31056655:DERIVED (new)']
+- NCT02203240 | COMPLETED | results=False | NA | Cocoa and Metabolic Health in Prediabetes | conds: Prediabetes | intr: Cocoa, Placebo
+- NCT04732754 | UNKNOWN | results=False | NA | Effect of Cocoa Supplementation and Aerobic Exercise on Pressure Parameters | conds: Sedentary Behavior | intr: Aerobic exercise + Theobroma cocoa (AETC), Control Group (CG), Aerobic Exercise (AE), Theobroma Coco
+- NCT02996578 | COMPLETED | results=False | NA | Effect of Polyphenol-rich Cocoa Products on Cognitive Function | conds: Healthy Ageing | intr: polyphenol rich chocolate bar, polyphenol rich cocoa powder, low polyphenol content chocolate bar, l
+- NCT04634682 | COMPLETED | results=False | NA | Effect of MYODM on Quality of Life, Fatigue and Hypersomnia in Patients With Myotonic Dystrophy Type 1 | conds: Myotonic Dystrophy 1 | intr: MYODM
+- NCT06064838 | COMPLETED | results=False | NA | Effects of Cacao Flavonoids in Long COVID-19 Patients (FLALOC) | conds: Long Covid19, Fatigue Syndrome, Chronic | intr: Flavonoids
+- NCT00279942 | COMPLETED | results=False | NA | Effect of Revival Soy on Fibromyalgia Pain | conds: Fibromyalgia | intr: Soy, Placebo | pubs: ['18990724:RESULT (new)']
+- NCT06835062 | COMPLETED | results=False | NA | Clinical Pilates' Impact on Fitness, Symptoms & Kinesiophobia in PMS | conds: Premenstrual Syndrome, Pilates Exercise | intr: Recommendations for Enhancing General Well-Being, Clinical Pilates
+- NCT02935829 | COMPLETED | results=False | NA | Short-term Effects of a Carob Snack on Postprandial Glycemic Responses and Energy Intake and Satiety | conds: Potential Abnormality of Glucose Tolerance, Appetite; Lack or Loss, Nonorganic Origin | intr: Glucose as reference food, White bread as reference food, Carob snack as test food, Chocolate cookie
+- NCT03342469 | COMPLETED | results=True | NA | Food Additives Effects on EEG Profiles in College Students With ADHD | conds: Attention Deficit Hyperactivity Disorder | intr: Artificial Food Coloring, Placebo
+- NCT01823744 | COMPLETED | results=False | NA | Harmonized Micronutrient Project | conds: Genomic | intr: micronutrient supplementation
+- NCT05473884 | UNKNOWN | results=False |  | Lesion Preparation in Femoropopliteal Artery Occlusion Disease | conds: Femoropopliteal Artery Occlusion, Atherosclerosis Obliterans, Lesion; Vascular, In-stent Restenosis | intr: lesion preparation devices, conventional balloon
+- NCT03135314 | COMPLETED | results=False | NA | Cocoa Flavanol Intake and Exercise in Hypoxia | conds: Hypoxia, Altitude | intr: cocoa flavanol, placebo | pubs: ['29543135:DERIVED (new)']
+- NCT05185973 | UNKNOWN | results=False | NA | Effects of "For-Baby" Supplementation on Young Children's Physical Growth and Diarrhea Episodes | conds: Children, Malnutrition | intr: "For Baby "supplements provided as powder, Micronutrient powder provided as powder
+- NCT01654172 | COMPLETED | results=False | NA | Effect of Flavanol-rich Cocoa on Peripheral and Cerebral Blood Flow in Type 2 Diabetes | conds: Diabetes | intr: High Flavanol Cocoa, Low Flavanol Cocoa
+- NCT04301583 | COMPLETED | results=False | NA | Procyanidin B2 Enriched Cocoa Effects on Mitochondrial Biogenesis | conds: Athletes | intr: procyanidin B2 enriched cocoa
+- NCT07790796 | ACTIVE_NOT_RECRUITING | results=False | NA | Evaluation of Post-operative Pain and Bacterial Load Reduction After Application of Three Intra-canal Medications (Cocoa Husk Versus Calcium | conds: Pulp Necrosis, Postoperative Pain | intr: Root canal treatment with intracanal medication by calcium hydroxide for one week., Root canal treat
+- NCT00125866 | COMPLETED | results=False | NA | The Effect of Cocoa Flavonoids on Blood Pressure | conds: Hypertension | intr: Flavonoid rich or flavonoid depleted chocolate drink
+- NCT05168098 | COMPLETED | results=False | NA | Impact of the Olfactory Stimulation on the People With Mild Dementia Via the Horticultural Therapy | conds: Dementia | intr: board game comparison, olfactory stimulation intervention | pubs: ['36204759:DERIVED (new)']
+- NCT06933992 | ENROLLING_BY_INVITATION | results=False |  | Safety and Efficacy of Chocolate Balloon Catheter in Peripheral Arterial Disease (CHOCO-PAD) | conds: Peripheral Arterial Disease | intr: Chocolate PTA Balloon Catheter | pubs: ['26490645:RESULT (new)', '25775681:RESULT (new)', '7895353:RESULT (new)', '18206630:RESULT (new)', '18254670:RESULT (new)', '14656730:RESULT (new)', '24402839:RESULT (new)', '1617791:RESULT (new)', '9740344:RESULT (new)', '20484101:RESULT (new)', '19859954:RESULT (new)', '16672699:RESULT (new)', '28251562:RESULT (new)', '17140820:RESULT (new)', '21963765:RESULT (new)', '21873417:RESULT (new)', '28128018:RESULT (new)', '17848483:RESULT (new)', '2673321:RESULT (new)', '2647761:RESULT (new)', '23915883:RESULT (new)', '25432124:RESULT (new)', '14709362:RESULT (new)', '10073955:RESULT (new)', '41083315:DERIVED (new)']
+- NCT07855744 | COMPLETED | results=False | NA | Effects of Chocolates With Different Cocoa Content on Postprandial Blood Glucose in Healthy Adults | conds: Postprandial Glycemic Response | intr: 55% Cocoa Chocolate, 60% Cocoa Chocolate, 72% Cocoa Chocolate, 80% Cocoa Chocolate
+- NCT02343328 | TERMINATED | results=False | PHASE1 | Placebo Controlled Study of Fecal Microbiota Transplant (FMT) for a First or Second Episode of C. Difficile Infection in Adults Using a Froz | conds: Clostridium Difficile | intr: Fecal Microbiota Transplant, Placebo
+- NCT06967376 | COMPLETED | results=False | EARLY_PHASE1 | The Role of Adjuvant Corneal Crosslinking in the Management of Infective Keratitis | conds: Infective Keratitis | intr: Corneal Collagen Cross-Linking Solutions, Topical Antimicrobial/Antifungal Medications | pubs: ['42250077:DERIVED (new)']
+- NCT02062710 | COMPLETED | results=True | PHASE4 | Antitussive Effect of a Naturally Flavored Syrup Containing Diphenhydramine, Compared With Dextromethorphan and Placebo | conds: Cough Reflex Sensitivity | intr: diphenhydramine/phenylephrine/cocoa; dextromethorophan; placebo, diphenhydramine/phenylephrine/cocoa | pubs: ['25673148:DERIVED (new)']
+- NCT03492983 | COMPLETED | results=False | NA | Effect of High Cocoa Content Chocolate on Health in Postmenopausal Women. | conds: Postmenopausal Women | intr: Intervention group | pubs: ['33190575:DERIVED (new)', '30552275:DERIVED (new)']
+- NCT02447783 | COMPLETED | results=False | NA | Effect of Long Term Cocoa Flavanol Intake on Blood Pressure and Platelet Function in Healthy Adults, Part 2 | conds: Healthy | intr: Control Capsules, Mars Cocoa Extract Capsules | pubs: ['26537937:DERIVED (new)']
+- NCT01173042 | COMPLETED | results=False | PHASE1 | Effects of Peanut Consumption on Postprandial Inflammation, Glucose and Triglycerides | conds: Cardiovascular Disease | intr: Peanuts, Glucose and whipping cream, Oil Blend
+- NCT01617603 | COMPLETED | results=True | NA | A Comparison Chocolate With and Without High Cocoa Solids in Patients With Type 2 Diabetes in a Randomised Clinical Trial | conds: Diabetes Type 2 | intr: Cocoa Polyphenols
+- NCT03644836 | COMPLETED | results=False | NA | Interest of Branched Chain Amino Acids Associated With a Respiratory Rehabilitation Program in Patients Broncho Chronic Obstructive Pulmonar | conds: Broncho Chronic Obstructive Pulmonary Disease | intr: Amino Acids, Placebos
+- NCT03272295 | COMPLETED | results=False | NA | A Nicotine Pharmacokinetics and Smoking Behaviour Study Examining Cigarette Ingredients | conds: Healthy Volunteers, Smoking | intr: Reference cigarette, Cigarette with carob bean extract, Cigarette with cocoa powder, Cigarette with 
+- NCT03013803 | COMPLETED | results=False | NA | Acceptability Study on Nutricomp® Drink Plus Fibre in Adults | conds: Adult Patients in Need of High-energy Oral Nutritional Supplementation | intr: Nutricomp Drink Plus Fibre
+- NCT07453784 | RECRUITING | results=False | PHASE1 | Study to Evaluate Pharmacokinetics, Relative Bioavailability, Palatability of Obefazimod Minitablet Formulation | conds: Healthy | intr: Obefazimod 50 mg Capsule, Obefazimod Minitablet 50 mg
+- NCT01557738 | COMPLETED | results=False | NA | Role of Flavanols in Exercise and Aging | conds: Aging | intr: High Flavanol Trial, Low Flavanol Trial, High Flavanol Trial; long-term, Low Flavanol Trial; long-te
+- NCT00511420 | COMPLETED | results=False | PHASE3 | Effects of Cocoa Products on Cardiovascular Disease Risk Factors | conds: Cardiovascular Diseases | intr: Cocoa product type 1, Cocoa product type 2, Cocoa product type 3, Cocoa product type 4 | pubs: ['23840361:DERIVED (new)', '22383996:DERIVED (new)']
+- NCT01405300 | COMPLETED | results=False | PHASE1 | The Effects of Peanuts and Peanut Products on Glucose Control and Vascular Function | conds: Cardiovascular Disease | intr: Control, Peanut | pubs: ['28356431:DERIVED (new)']
+- NCT03356509 | COMPLETED | results=False | NA | Effect of Exercise on Chocolate Addiction | conds: Acute Exercise and Addictive Behavior | intr: Exercise
+- NCT01193764 | TERMINATED | results=False | NA | Study Assessing the Effect of Chocolate Consumption in Subjects With A History of Acne Vulgaris | conds: Acne | intr: 100% cocoa powder, gelatin (Gelita)
+- NCT07471087 | NOT_YET_RECRUITING | results=False | NA | Chocolate Balloon vs Standard Balloon Angioplasty Before Drug-Coated Balloon Treatment for Femoropopliteal Artery Narrowing or Blockage | conds: Peripheral Artery Disease (PAD), Femoropopliteal Artery Disease, Vascular Lesion Preparation, Critical Limb-Threatening Ischemia | intr: Chocolate PTA Balloon, Standard Balloon Angioplasty (POBA)
+- NCT02980120 | UNKNOWN | results=False |  | Personality Pathology and Cerebral Processing in Eating Disorders | conds: Eating Disorders | intr: SCID-I, EAT, EDI-2, SCID-II | pubs: ['36879292:DERIVED (new)']
+- NCT01754662 | COMPLETED | results=False | NA | Effects of Combining Cocoa and Soy in Type 2 Diabetes | conds: Type 2 Diabetes, Dietary Intervention | intr: Soy protein, Isoflavones, Cocoa, Placebo
+- NCT07599930 | RECRUITING | results=False | NA | Impact of a Novel Functional Snack on Perimenopausal Symptoms and Well-being | conds: Perimenopause, Perimenopause-Related Depression, Mood, Sleep | intr: Functional Snacks, Placebo Snacks
+- NCT06916936 | RECRUITING | results=False | NA | Effect of Peanut Butter on Gut and Metabolic Health | conds: Dysbiosis | intr: Creamy Richards 100% Peanuts! Creamy Natural Peanut Butter, Cadbury Milk Chocolate Spread
+- NCT03288623 | COMPLETED | results=False | NA | The Effects of Dark Chocolate Implementation in Elite Athletes | conds: Oxidative Stress, Athletes Heart, Physical Activity | intr: Dark Chocolate (85% cocoa), White/Milk chocolate (<35% cocoa) | pubs: ['30584461:RESULT (new)']
+- NCT05158283 | UNKNOWN | results=False | NA | Clinical Of Chocolate Balloon Dilatation Versus Plain Balloon Dilatation to Treat Arteriosclerosis Occlusive Disease of Lower Extremity | conds: Atherosclerosis, Ischemia | intr: chocolate balloon, plain balloon
+- NCT07646990 | NOT_YET_RECRUITING | results=False | NA | Carbohydrate or Protein Drinks Before Exercise in the Heat | conds: Heat Stress, Diet Induced Thermogenesis, Protein Consumption | intr: Protein shake, Carbohydrate shake
+- NCT01671514 | COMPLETED | results=False | NA | Effects of Dark Chocolate on Exercise Capacity, and Mitochondrial Structure and Function | conds: Heart Failure, Type 2 Diabetes | intr: Epicatechin-enriched dark chocolate, Low-epicatechin dark chocolate
+- NCT03301311 | COMPLETED | results=False | NA | Personalized Research on Diet in Ulcerative Colitis and Crohn's Disease | conds: Inflammatory Bowel Diseases, Crohn Disease, Ulcerative Colitis, Indeterminate Colitis | intr: Specific Carbohydrate Diet (SCD), Modified Specific Carbohydrate Diet (MSCD) | pubs: ['35442220:RESULT (new)']
+- NCT05384431 | COMPLETED | results=False | PHASE3 | Can We Achieve 'high-quality' Weight Loss Through Supplementation and Exercise? the TRIM MUSCLE Study | conds: Overweight, Obesity | intr: Muscle5 and TRIM7, Mixed exercise
+- NCT05782218 | COMPLETED | results=False | NA | Healthy Unique Lipids From Almonds | conds: Nutrition, Healthy | intr: Almonds, Coconut
+- NCT05508919 | UNKNOWN | results=False | NA | Effect of Biofeedback Training to Reduce Anxiety | conds: Anxiety | intr: Biofeedback, Writing Sessions | pubs: ['28527121:RESULT (new)', '22811932:RESULT (new)', '28761991:RESULT (new)', '27573093:RESULT (new)', '23742666:RESULT (new)', '24806535:RESULT (new)', '23763019:RESULT (new)']
+- NCT05255367 | COMPLETED | results=False | NA | Effect of (Poly)Phenolic on Cardiometabolic Risk of Postmenopausal Women | conds: Post-menopausal Women, Overweight and Obesity | intr: (poly)phenols rich foods
+- NCT05517005 | COMPLETED | results=False | NA | An Exploratory Investigation of a B12 Vitamin to Increase Energy and Focus | conds: B12 Deficiency Vitamin, Energy Supply; Deficiency, Mood | intr: Hype Bites Supplement
+- NCT04114045 | COMPLETED | results=False | NA | Effects of Post-exercise Protein Supplementation in Young Athletes | conds: Fatigue, Inflammation, Bone Resorption | intr: Experimental:Whey protein, Active Comparator: Isoenergetic control - Carbohydrate, Placebo | pubs: ['33114186:RESULT (new)', '32293471:RESULT (new)', '33271764:RESULT (new)']
+- NCT05894460 | UNKNOWN | results=False |  | Constrained Balloon Combined With Drug-coated Balloon Angioplasty for Femoropopliteal Lesion | conds: Peripheral Arterial Disease | intr: Chocolate balloon
+- NCT05273840 | UNKNOWN | results=False | NA | Effect of Nutritional Supplements on Clinical Outcomes in Patients With Prediabetes and Obesity | conds: PreDiabetes, Obesity | intr: Ivital Control, lifestyle intervention | pubs: ['42639295:DERIVED (new)']
+- NCT05521243 | COMPLETED | results=False | NA | An Exploratory Investigation of a Supplement to Enhance Sleep Quality and Quantity | conds: Sleep, Sleep Disturbance, Sleep Hygiene | intr: Beam Organics Dream Powder, Beam Organics Dream Powder Extra Strength, Placebo
+- NCT05626309 | UNKNOWN | results=False | NA | Clinical Trial of Qizhu Yuling Prescription in the Prevention and Treatment of Esophagus Cancer | conds: Esophagus Cancer | intr: Qizhu Yuling Prescription, Placebo | pubs: ['40206581:DERIVED (new)']
+- NCT06555393 | RECRUITING | results=False | PHASE1 | Understanding the Health Effect of a Bioactive Peptide From Egg: A Pilot Study | conds: High Blood Sugar, High Blood Pressure, Overweight and Obesity | intr: Egg White Powder
+- NCT03561571 | COMPLETED | results=False | NA | Triglyceride Rich Lipoproteins and Platelet Activation in Type 2 Diabetes | conds: Type2 Diabetes | intr: butter based breakfast, Chocolate spread based breakfast | pubs: ['32844550:RESULT (new)']
+- NCT05174663 | COMPLETED | results=False | NA | Investigating the Dose Response of an Almond-enriched Diet on Optimizing HDL-C in a Population With Hypercholesterolemia | conds: HDL-C, Hypercholesterolemia | intr: Almond-enriched diet - 1.5 oz, Almond-enriched diet - 2.5 oz, Control snack
+- NCT06769035 | ACTIVE_NOT_RECRUITING | results=False | NA | Effect of a Food Supplement with Natural Extracts of Cocoa, Amaranth Seed and Ginger in Overweight or Obese Patients | conds: Oxidative Stress, Inflammation Biomarkers, Obesity and Overweight | intr: Cocoa, amaranth seed and ginger, Amaranth seed, Cocoa, Placebo
+- NCT01589042 | COMPLETED | results=False |  | Chocolate Balloon Angioplasty Registry | conds: Peripheral Arterial Disease | intr: 
+- NCT06368271 | COMPLETED | results=False | NA | Acute Effects of Dietary Medium-chain Fatty Acids on Lipid Profile | conds: Healthy Nutrition, Diet, Healthy | intr: Lipidomics
+- NCT07375836 | NOT_YET_RECRUITING | results=False | NA | The Effect of Chocolate Consumption During Labor on Second Stage Duration | conds: Labor, Second Stage of Labor, Pregnancy | intr: 50 g of milk chocolate cocoa content 25-30%
+- NCT04374409 | COMPLETED | results=False | NA | Effects of Acute Intake of Flavanols on Cerebral Oxygenation and Cognition in Young Male Adults | conds: Healthy | intr: High-flavanol cocoa powder, Low-flavanol cocoa powder
+- NCT03035201 | COMPLETED | results=True |  | COcoa Supplement and Multivitamin Outcomes Study for the Mind | conds: Cognitive Impairment, Dementia, Aging | intr:  | pubs: ['38244989:DERIVED (new)', '31271875:DERIVED (new)']
+- NCT03897114 | COMPLETED | results=False | NA | Cocoa Intake for Health Promotion in Athletes | conds: Healthy Subjects | intr: Cocoa group, Placebo group
+- NCT07506187 | COMPLETED | results=False | NA | The Role of Arginine in Oral Nutritional Supplementation in Preventing or Reducing Complications Following Colorectal Surgery in Patients Wh | conds: Colorectal Cancer, Malnutrition or Risk of Malnutrition, Colorectal Surgery | intr: Diaba plus®: A high-protein, high-calorie ONS with no generic equivalent, Atémpero®: An ONS enriched
+- NCT02128516 | COMPLETED | results=False | NA | NUTRALYS® Pea Protein Oral Supplementation Effects on Muscle Mass | conds: Healthy | intr: oral powder in sachet | pubs: ['25628520:DERIVED (new)']
+- NCT03214133 | COMPLETED | results=False | NA | Effects of Epicatechin-rich Cocoa on Collagen Synthesis | conds: Collagen Synthesis | intr: Epicatechin-rich cocoa dose response, Epicatechin-rich cocoa vs placebo on performance
+- NCT03846401 | UNKNOWN | results=False |  | Bronchoscopy in Lower Respiratory Tract Infection in Respiratory Intensive Care Unit | conds: Lower Respiratory Tract Infection | intr: fiberoptic bronchoscopy
+- NCT07454265 | COMPLETED | results=False | NA | Short-Term Broccoli Supplementation and Acute Oxidative Stress Recovery | conds: Healthy Adult Male | intr: Broccoli powder, Placebo (no broccoli-derived bioactives)
+- NCT01644539 | COMPLETED | results=False | NA | Brain Activity and Hormonal Changes During Food Administration | conds: Appetite Regulation | intr: Water with guar gum - Non Caloric, Chocolate milk - Oral Caloric, Chocolate milk - Intra Gastric Cal | pubs: ['24614074:DERIVED (new)']
+- NCT02507167 | COMPLETED | results=False | PHASE1 | Impact of Two Genetic Variants of OATP1B3 or MRP2 or Rifampin on Systemic Disposition and Biological Efficacy of CCK-8 | conds: Gastrointestinal Hormones | intr: mixed meal, Rifampin
+- NCT04372836 | UNKNOWN | results=False | NA | Vasopressin Injection Technique to Preserve Ovarian Reserve in Surgery for Unilateral Ovarian Endometriomas | conds: Unilateral Ovarian Endometrioma | intr: Vasopressin injection
+- NCT04895800 | COMPLETED | results=False | NA | An Evaluation of the Effects of a Non-Caffeinated Energy Dietary Supplement | conds: Health Behavior | intr: Phytovive, Placebo, Caffeine
+- NCT05046106 | NOT_YET_RECRUITING | results=False | PHASE2,PHASE3 | MLC1501 Study Assessing Efficacy in STROke Recovery | conds: Stroke, Stroke, Ischemic, Strokes Thrombotic, Stroke Sequelae | intr: MLC1501, Placebo
+- NCT01674049 | COMPLETED | results=False | NA | Nutrient Timing Following Resistance Exercise | conds: Type 2 Diabetes | intr: Immediate Nutrition, Nutrition 3 hours Post-Bout, Resistance Exercise
+- NCT02003950 | COMPLETED | results=False | NA | Pre- and Post-restriction Chocolate Candy Consumption | conds: Investigate the Maladaptive Eating Behaviors of Normal Healthy Adults | intr: Snack Condition Specification
+- NCT02530385 | COMPLETED | results=True | PHASE1,PHASE2 | Fecal Microbiota Transplant for Improvement of Metabolism | conds: Obesity | intr: Placebo Capsules, FMT Capsules | pubs: ['32150549:DERIVED (new)']
+- NCT05855369 | RECRUITING | results=False | PHASE2,PHASE3 | Study of Chemosensory Enhancement Through Neuromodulation Training (SCENT for Long COVID) | conds: Smell Dysfunction, Olfactory Disorder, Long COVID | intr: Trigeminal Nerve Stimulation (TNS), Active Smell Training (ST), Placebo Smell Training (PBO)
+- NCT02160873 | COMPLETED | results=True | NA | Nighttime Feeding and Morning Endurance Performance | conds: Poor Performance Status | intr: chocolate milk, flavor-matched placebo
+- NCT06140602 | UNKNOWN | results=False | NA | Postprandial Urolithin Patterns Following Pecan Consumption | conds: Change in Plasma Urolithins and Vitamin E | intr: Intervention shake
+- NCT01344551 | COMPLETED | results=False | NA | Effects of Cocoa Flavanols on Human Cognitive Function | conds: Neural Degeneration | intr: Cocoa Drink
+- NCT05400694 | COMPLETED | results=False | NA | Functional and Value-Added Dairy Products and Blood Glucose Control | conds: Blood Glucose, High, Metabolic Disease, Overweight and Obesity | intr: Food
+- NCT02237066 | WITHDRAWN | results=False | NA | Understanding Angioplasty by the Chocolate PTA Balloon Catheter Compared to Conventional PTA Balloons Via OCT Imaging | conds: Infrainguinal Peripheral Arterial Disease | intr: Chocolate PTA Balloon Angioplasty, Standard PTA Balloon Angioplasty
+- NCT03205202 | UNKNOWN | results=False | PHASE4 | Cataract and AMD in a Trial of a Multivitamin and Cocoa Extract | conds: Cataract, Age Related Macular Degeneration | intr: Cocoa extract, Multivitamin, Cocoa extract placebo, Multivitamin placebo | pubs: ['40146119:DERIVED (new)']
+- NCT00654862 | COMPLETED | results=False | PHASE1 | Acute Hemodynamic Effects of Cocoa Polyphenols in Subjects With Hypertension and Optimal Blood Pressure | conds: Hypertension | intr: cocoa polyphenols, cocoa polyphenols
+- NCT00492713 | COMPLETED | results=False | NA | Polyphenol Bioavailability From Chocolate | conds: Healthy | intr: dark chocolate, Milk chocolate 1, Milk chocolate 2
+- NCT03784404 | UNKNOWN | results=False | PHASE4 | Trans-vaginal Aspiration of Small Ovarian Endometrioma. Comparison of Two Different Techniques Before ICSI | conds: Ovarian Endometrioma | intr: Transvaginal aspiration, transvaginal aspiration and surgicel injection, Intracytoplasmic sperm inje
+- NCT04303481 | COMPLETED | results=False | NA | The Effect of Consuming Enzymes and Prebiotics on Body Composition and Blood Biochemical Index | conds: Gut Microbiota | intr: normal diet, weight loss program kit, weight loss program kit with A. muciniphila prebiotics
+- NCT06616077 | COMPLETED | results=False | EARLY_PHASE1 | Endometrial Transcript Profile with Progesterone After Post-ovulatory Mifepristone | conds: Endometrial Endocrine Regulation, Progesterone Supplementation in Women After Mifepristone | intr: Micronized Progesterone 600 mg, mifepristone 200 mg, Oral Placebo Tablet, Placebo Vaginal
+- NCT05306106 | COMPLETED | results=False | NA | Glycemic Index of Pastry | conds: Healthy Volunteers | intr: Glucose, truffle match, hazelnut chocolate cookie, Paris Brest style eclair
+- NCT06444698 | COMPLETED | results=False | NA | The Effect of Quinoa on Strength, VO2max and Athletic Performance | conds: Sports Nutrition | intr: cookies that contain 50 grams of quinoa, cookies without quinoa
+- NCT04367493 | COMPLETED | results=False | NA | Effects of Chocolate Consumption in Elderly Patients With Cancer in Palliative Care | conds: Nutrition Related Cancer, Aging | intr: Chocolate | pubs: ['34980096:DERIVED (new)']
+- NCT02728466 | COMPLETED | results=False | NA | Effects of Cocoa Procyanidins on Vascular Function | conds: Healthy | intr: Flavanol and procyanidin supplement, Procyanidin-containing supplement, control supplement deprived  | pubs: ['30358831:DERIVED (new)']
+- NCT02802904 | COMPLETED | results=False | NA | Multicountry Studies on the Effect of Positional Distribution of Fatty Acids at Triglyceride Backbone on Serum Lipids, Lipoprotein(a) and LD | conds: Cardiovascular Risk Factor | intr: Diet: Palm olein IV64, Diet: Cocoa butter, Diet: Virgin olive oil
+- NCT03419052 | COMPLETED | results=True | NA | MINDSpeed Food and Brain Training RCT | conds: Low Education, Cognition, Cognitive Training, Polyphenols | intr: Speed of processing training, MIND foods, Cognitive training control, Control foods | pubs: ['40442881:DERIVED (new)']
+- NCT00677599 | COMPLETED | results=False | NA | The FLAVO Trial: Dietary Flavonoids and Cardiovascular Disease Risk Reduction in Postmenopausal Women With Type 2 Diabetes | conds: Cardiovascular Disease, Diabetes | intr: Flavonoid enrichment (cocoa / soy compounds), Flavonoid enrichment (cocoa / soy compounds) | pubs: ['23553151:DERIVED (new)', '22250063:DERIVED (new)']
+- NCT03680066 | TERMINATED | results=False | NA | Study to Assess Tolerance of Traces in Peanut/Tree Nut Allergic Children. | conds: Food Allergy, Peanut Allergy, Tree Nut Allergy | intr: Oral food challenge to foods with traces
+- NCT01947712 | COMPLETED | results=False | PHASE1,PHASE2 | Effect of Polyphenols on Peripheral Vascular Disease. | conds: Peripheral Arterial Disease | intr: dark chocolate with crossover to milk chocolate, milk chocolate with crossover to dark chocolate | pubs: ['24990275:DERIVED (new)']
+- NCT01902589 | COMPLETED | results=False |  | Resistance of Helicobacter Pylori to Antibiotics in Children | conds: Abdominal Pain, Children, Bacterial Infection Due to Helicobacter Pylori (H. Pylori), Antibiotic Resistant Strain | intr: Helicobacter Pylori Culture
+
+### OpenAlex no-PMID trial-worded - 5951 hits, 39 without PMID, 39 new
+- new | 2025 | 10.22201/fm.sapiosex.2025.31.1 | article | Afrodisíacos: ¿Reales o placebos? | 
+- new | 2024 | 10.1016/j.cdnut.2024.103601 | article | Evaluating the Impact of Omega-3 Fatty Acid Supplementation on Lipid Profiles in Adults With PPARG Polymorphisms: A Randomized, Double-Blind, Placebo-Controlled Trial | Current Developments in Nutrition
+- new | 2024 | 10.1007/s11295-024-01677-3 | article | Evaluation of spatial models in the estimation of genetic parameters for incidence of frosty pod rot and production in Theobroma cacao full-sib family trials | Tree Genetics & Genomes
+- new | 2023 | 10.1109/elticom61905.2023.10443201 | conference-paper | Random Forest Classification in Cocoa Pods Desease | International Conference on Electrical, 
+- new | 2022 | 10.15835/nbha50312847 | article | Effect of Pectimorf on the rooting ability, and morpho-physiological trials of national cocoa (Theobroma cacao L.) under different substrates | Notulae Botanicae Horti Agrobotanici Clu
+- new | 2019 | 10.1007/978-3-030-23265-8_12 | book-chapter | Cacao (Theobroma cacao L.) Breeding | Springer eBooks
+- new | 2018 | https://openalex.org/W2803902449 | dataset | Pure epicatechin and inflammatory gene expression profiles in circulating immune cells in (pre) hypertensive adults; a randomized double-blind, placebo-controlled, crossover trial | Wageningen University & Research Publica
+- new | 2017 | 10.1186/s40795-016-0117-z | article | Acute effects of brewed cocoa consumption on attention, motivation to perform cognitive work and feelings of anxiety, energy and fatigue: a randomized, placebo-controlled crossover | BMC Nutrition
+- new | 2017 | 10.1200/jco.2017.35.15_suppl.10103 | conference-abstract | A double blind, randomised placebo controlled trial evaluating the effect of a pholyphenolic rich plant based nail bed balm on the severity of chemotherapy-induced onycholysis. | Journal of Clinical Oncology
+- new | 2017 | 10.1111/jfbc.12372 | article | Clinical application of a cocoa and unripe banana flour beverage for overweight women with abdominal obesity: Prospective, double-blinded and randomized clinical trial | Journal of Food Biochemistry
+- new | 2016 | 10.1016/j.ctrsc.2016.11.001 | article | Dose and response to cocoa (DARC): A randomized double-blind controlled trial | Clinical Trials and Regulatory Science i
+- new | 2016 | 10.1017/s0014479716000417 | article | COCOA AND TOTAL SYSTEM YIELDS OF ORGANIC AND CONVENTIONAL AGROFORESTRY VS. MONOCULTURE SYSTEMS IN A LONG-TERM FIELD TRIAL IN BOLIVIA | Experimental Agriculture
+- new | 2015 | https://openalex.org/W7120501557 | dissertation | Effect of chocolate and yerba mate phenolic compounds on inflammatory and oxidative biomarkers in HIV/AIDS individuals: a randomized, double-blind, placebo controlled trial | LA Referencia (Red Federada de Repositor
+- new | 2014 | 10.15446/agron.colomb.v32n3.46879 | article | Molecular characterization of 93 genotypes of cocoa (Theobroma cacao L.) with random amplified microsatellites RAMs | Agronomía Colombiana
+- new | 2013 | 10.5539/sar.v2n4p117 | article | An Analysis of Yield Gap and Some Factors of Cocoa (Theobroma cacao) Yields in Ghana | Sustainable Agriculture Research
+- new | 2012 | 10.1186/isrctn03090939 | study-registration | A comparison of high cocoa solid with absent cocoa solid chocolate in patients with chronic fatigue syndrome in a double blind randomised controlled trial | 
+- new | 2012 | 10.1007/978-1-61779-803-0_40 | book-chapter | Cocoa and Chocolate in Humans: The Rationale for Clinical Studies on Healthy Volunteers | Humana Press eBooks
+- new | 2012 | 10.1007/978-88-470-2038-2_7 | book-chapter | Acute Vascular Effects of Chocolate in Healthy Human Volunteers | Springer eBooks
+- new | 2011 | https://openalex.org/W1530179593 | article | Efecto de una bebida lactea a base de cocoa sobre la presión arterial y la función endotelial en pacientes con insuficiencia cardiaca: ensayo clínico aleatorizado, a doble ciego, c | Revista Cubana de Cardiología y Cirugía 
+- new | 2011 | https://openalex.org/W2229816820 | book-chapter | Selection of new cocoa (Theobroma cacao L.) varieties in on-station and on-farm trials in Nigeria | Agritrop (Cirad)
+- new | 2011 | 10.1016/j.ycar.2011.01.094 | article | Effects on Peripheral and Central Blood Pressure of Cocoa With Natural or High-Dose Theobromine: A Randomized, Double-Blind Crossover Trial | Yearbook of Cardiology
+- new | 2010 | 10.1007/s10457-010-9364-1 | article | Productivity of Theobroma cacao agroforestry systems with timber or legume service shade trees | Agroforestry Systems
+- new | 2008 | 10.1161/circ.118.suppl_18.s_1123 | conference-abstract | Abstract 3277: Sustained Benefits in Vascular Function through Flavanol-Containing Cocoa in Medicated Diabetic Patients: A Double-Masked, Randomized, Controlled Trial | Circulation
+- new | 2008 | 10.1016/j.biocontrol.2008.01.012 | article | Endophytic fungi as biocontrol agents of Theobroma cacao pathogens | Biological Control
+- new | 2005 | https://openalex.org/W2742003076 | conference-paper | Exploring the plant-pathogen interaction Theobroma cacao - Crinipellis perniciosa using random sequencing and sage analyse | Agritrop (Cirad)
+- new | 2003 | 10.1016/s0261-2194(02)00244-2 | article | Evaluation of resistance of Theobroma cacao L. to mirids in Côte d’Ivoire: results of comparative progeny trials | Crop Protection
+- new | 2002 | 10.1023/a:1020669526647 | article | Competition effects in cocoa (Theobroma cacao L.) hybrid trials | Euphytica
+- new | 2000 | https://openalex.org/W2269328319 | conference-paper | Implementation of selection trials and data collection : Analysis of trial data | Agritrop (Cirad)
+- new | 2000 | https://openalex.org/W2247486789 | conference-paper | Implementation of selection trials and data collection : Layout of project trials | Agritrop (Cirad)
+- new | 1999 | 10.1016/s0924-977x(99)80578-1 | other | The effects of acute doses of standardised Ginkgo Biloba Extract on memory and psychomotor performance in healthy volunteers | European Neuropsychopharmacology
+- new | 1995 | 10.21273/jashs.120.4.681 | article | Inheritance of Random Amplified Polymorphic DNA (RAPD) Markers in Theobroma cacao L. | Journal of the American Society for Hort
+- new | 1994 | 10.1111/j.1365-3059.1994.tb01651.x | article | Random amplified polymorphic DNA (RAPD) analysis of Crinipellis perniciosa isolates from different hosts | Plant Pathology
+- new | 1992 | 10.21273/jashs.117.4.673 | article | Genome Size and DNA Polymorphism in Theobroma cacao | Journal of the American Society for Hort
+- new | 1987 | 10.1017/s0014479700003380 | article | Twenty Years' Results from a Shade and Fertilizer Trial on Amazon Cocoa (Theobroma cacao) in Ghana | Experimental Agriculture
+- new | 1986 | https://openalex.org/W2338392926 | article | Intercropping cocoa and oil palm - eleven years of trial results [Theobroma cacao; Elaeis guineensis; Malaysia] | 
+- new | 1984 | https://openalex.org/W1471136522 | article | A method for the evaluation of fresh bean production applicable to completely randomized trials | Café, cacao, thé/Café, cacao, thé
+- new | 1970 | 10.1007/bf01902946 | article | Yield variation in the early productive years in trials with cacao (Theobroma cacao L.) | Euphytica
+- new | 1963 | 10.1111/j.1744-7348.1963.tb03770.x | article | Studies on the chemical control of Phytophthora palmivora (Butl.) Butl. on Theobroma cacao L. in Nigeria: IV. Further laboratory and field trials of fungicides | Annals of Applied Biology
+- new | 1962 | 10.1111/j.1744-7348.1962.tb05988.x | article | Studies on the chemical control of Phytophthora palmivora (Butl.) Butl. on Theobroma cacao L. in Nigeria: III. Field trials | Annals of Applied Biology

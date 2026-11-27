@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 4444,
+ "count": 4453,
  "citations": [
   {
    "ref_id": "REF-5100",
@@ -564,6 +564,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5672",
+   "key": "alzahrani2026chocolatemigrainetrigger",
+   "type": "article",
+   "title": "Assessment of Chocolate, Cheese, and Caffeine as Migraine Triggers: A Systematic Review and Meta-Analysis of Patient-Reported Trigger Rates",
+   "authors": "Alzahrani, H.",
+   "journal": "Journal of Nutrition and Metabolism",
+   "year": "2026",
+   "doi": "10.1155/jnme/4693275",
+   "url": "",
+   "link": "https://doi.org/10.1155/jnme/4693275",
+   "link_type": "doi",
+   "citation": "Alzahrani, H (2026) 'Assessment of Chocolate, Cheese, and Caffeine as Migraine Triggers: A Systematic Review and Meta-Analysis of Patient-Reported Trigger Rates', Journal of Nutrition and Metabolism, 2026, pp. 4693275. doi:10.1155/jnme/4693275",
+   "abstract": "BACKGROUND: Migraine is a common neurological disorder affecting approximately 14%-15% of the global population and is a leading cause of years lived with disability. Dietary factors, including chocolate, caffeine, and cheese, are frequently reported as migraine triggers; however, their prevalence and contribution to migraine attacks remain inconsistent across studies. This systematic review and meta-analysis aimed to estimate the pooled prevalence of chocolate, caffeine, and cheese as patient-reported migraine triggers. METHODS: This systematic review and meta-analysis was conducted in accordance with the Cochrane Handbook for Systematic Reviews of Interventions and reported following the PRISMA 2020 Statement and MOOSE guidelines. A systematic search of PubMed, MEDLINE (via Ovid), Ovid, and Scopus was conducted from database inception to November 11, 2024. Observational studies reporting quantitative data on chocolate, caffeine, or cheese as migraine triggers were included. Data were synthesized using a random-effects meta-analysis of proportions in Jamovi (Version 2.3). RESULTS: Eight studies included, but seven only contributed to the quantitative meta-analysis. The pooled prevalence of patient-reported migraine triggers was 13.9% for chocolate (95% CI: 7.0%-21.0%), 8.0% for cheese (95% CI: 3.0%-12.0%), and 12.0% for caffeine (95% CI: 6.0%-19.0%) (all p < 0.001). Substantial heterogeneity was observed across all analyses (I2 > 95%). Four studies were rated as good quality and four as fair quality using the NHLBI Quality Assessment Tool. CONCLUSIONS: Chocolate, caffeine, and cheese are commonly reported migraine triggers; however, their effects vary considerably among individuals. Given the substantial heterogeneity and reliance on observational, self-reported data, routine avoidance of these foods cannot be universally recommended. Instead, individualized trigger identification, supported by headache diaries, should guide dietary management. Further well-designed prospective studies are needed to clarify causal relationships.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Assessment of Chocolate, Cheese, and Caffeine as Migraine Triggers: A Systematic Review and Meta-Analysis of Patient-Reported Trigger Rates",
+   "plants": [
+    "Cacao",
+    "Chocolate tree",
+    "Cocoa",
+    "Cocoa bean"
+   ],
+   "scientific": [
+    "Theobroma cacao"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-3454",
    "key": "villanova2026astragalusresistance",
    "type": "article",
@@ -948,6 +979,43 @@
    "conditions": [
     "Inflammation (general)"
    ]
+  },
+  {
+   "ref_id": "REF-5678",
+   "key": "gavin2026dandelionrootdiuresis",
+   "type": "article",
+   "title": "Co-Ingestion of a Commercially Available Dandelion Root Powder Elicited No Additional Diuretic Effect Over 4 Hr Compared to Ingestion of Water Alone in Physically Active Young Adults",
+   "authors": "Gavin, J., Caulfield, C. and Egan, B.",
+   "journal": "International Journal of Sport Nutrition and Exercise Metabolism",
+   "year": "2026",
+   "doi": "10.1123/ijsnem.2026-0001",
+   "url": "",
+   "link": "https://doi.org/10.1123/ijsnem.2026-0001",
+   "link_type": "doi",
+   "citation": "Gavin, J., Caulfield, C. and Egan, B (2026) 'Co-Ingestion of a Commercially Available Dandelion Root Powder Elicited No Additional Diuretic Effect Over 4 Hr Compared to Ingestion of Water Alone in Physically Active Young Adults', International Journal of Sport Nutrition and Exercise Metabolism, 36(5), pp. 523--531. doi:10.1123/ijsnem.2026-0001",
+   "abstract": "Athletes in weight category sports frequently practice short-term weight loss to make weight, which often involves manipulating total body water. In Eastern medicine and phytotherapy, dandelion has long been considered to have a diuretic effect, yet empirical investigations of this effect are scarce. This study investigated whether the ingestion of a commercially available dandelion root powder with a large bolus of water acutely elicited a diuretic effect beyond the effect on urine output elicited by the bolus of water alone. In an open-label counterbalanced, crossover design with two separate laboratory visits, physically active young adults (n = 14; M/F, 12/2; age, 25.5 ± 4.7 years) ingested 1 L of still water with (DAND) or without (CON) four capsules providing a total of ∼2.1 g of a commercially available dandelion root powder. The primary outcome was cumulative urine output over the 4 hr following ingestion. Cumulative urine output was 1,164 ± 244 g in CON and 1,268 ± 213 g in DAND, with the mean difference (95% confidence interval) of 105 (-35 to 244) g (p = .13; g = 0.45). Under the experimental protocol employed, the commercially available form of dandelion ingested, the dosing strategy used, and the cohort investigated, cumulative urine output was similar regardless of whether dandelion root powder was co-ingested with a large bolus of water. These results indicate a lack of support for the purported diuretic effect of dandelion. Future studies should investigate different time courses, dosing strategies, and sources of dandelion, as well as study designs with greater ecological validity for weight category sports, before definitive conclusions can be made.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Co-Ingestion of a Commercially Available Dandelion Root Powder Elicited No Additional Diuretic Effect Over 4 Hr Compared to Ingestion of Water Alone in Physically Active Young Adults",
+   "plants": [
+    "Blowball",
+    "Common dandelion",
+    "Dandelion",
+    "Irish daisy",
+    "Lion's tooth",
+    "Monk's head",
+    "Pissenlit",
+    "Priest's crown",
+    "Puffball",
+    "Wet-the-bed"
+   ],
+   "scientific": [
+    "Taraxacum officinale"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-5349",
@@ -3603,6 +3671,39 @@
    "conditions": [
     "Hot flashes",
     "Menopause"
+   ]
+  },
+  {
+   "ref_id": "REF-5671",
+   "key": "gomeschagas2026cocoametabolicsyndromema",
+   "type": "article",
+   "title": "The effects of cocoa products in individuals with metabolic syndrome and related diseases: a systematic review and meta-analysis",
+   "authors": "Gomes Chagas, A., Camilotti, B.G., Gonçalves, G.N., de Macedo, L.R. and Silva, M.",
+   "journal": "Journal of Diabetes and Metabolic Disorders",
+   "year": "2026",
+   "doi": "10.1007/s40200-026-01914-7",
+   "url": "",
+   "link": "https://doi.org/10.1007/s40200-026-01914-7",
+   "link_type": "doi",
+   "citation": "Gomes Chagas, A., Camilotti, B.G., Gonçalves, G.N., de Macedo, L.R. and Silva, M (2026) 'The effects of cocoa products in individuals with metabolic syndrome and related diseases: a systematic review and meta-analysis', Journal of Diabetes and Metabolic Disorders, 25(1), pp. 116. doi:10.1007/s40200-026-01914-7",
+   "abstract": "Cocoa supplementation has been shown to improve parameters related to metabolic syndrome, although results have been contradictory. We conducted a systematic review and meta-analysis to examine the effect of cocoa products on lipid and glycemic profiles, blood pressure levels, and anthropometric measurements in individuals with metabolic syndrome and related diseases. A search of PubMed, Web of Science, Embase, and Scopus was performed to identify randomized clinical trials (RCTs). To compare the effects of the cocoa product with placebo, mean differences with 95% confidence intervals (CIs) were pooled using a random-effects model. Subgroup analyses and meta-regression were performed to identify the source of heterogeneity, and study quality assessment was conducted using the GRADE approach. A total of 13 RCTs, including 16 arms, that investigated the effects of cocoa on parameters related to metabolic syndrome were included. The meta-analysis showed a significant effect of cocoa supplementation on triacylglycerol levels (-0.21 mmol/L, 95% CI: -0.40, -0.02; p = 0.0333), and subgroup analysis suggested that cholesterol levels were reduced with cocoa supplementation in patients with dyslipidemia and diabetes. Furthermore, the meta-regression analysis suggested a decrease in glycemic and lipid profiles, as well as anthropometric parameters, in studies with longer durations of cocoa supplementation. Our study suggests that cocoa intake has limited evidence of benefit, mainly for triglycerides, furthermore, effects and that the duration, type, and clinical status of patients were important determinants for favorable effects on biomarkers related to metabolic syndrome. SUPPLEMENTARY INFORMATION: The online version contains supplementary material available at 10.1007/s40200-026-01914-7.",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "The effects of cocoa products in individuals with metabolic syndrome and related diseases: a systematic review and meta-analysis",
+   "plants": [
+    "Cacao",
+    "Chocolate tree",
+    "Cocoa",
+    "Cocoa bean"
+   ],
+   "scientific": [
+    "Theobroma cacao"
+   ],
+   "actions": [],
+   "conditions": [
+    "Blood sugar / diabetes support"
    ]
   },
   {
@@ -10512,6 +10613,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5673",
+   "key": "ninvalencia2024cacaoallergycase",
+   "type": "article",
+   "title": "Allergy to Theobroma Cacao",
+   "authors": "Nin Valencia, A., Retes, L.S., Bartolomé-Zavala, B., Perdomo Gutiérrez, G. and Bigorra, T.",
+   "journal": "Clinical Case Reports",
+   "year": "2024",
+   "doi": "10.1002/ccr3.8803",
+   "url": "",
+   "link": "https://doi.org/10.1002/ccr3.8803",
+   "link_type": "doi",
+   "citation": "Nin Valencia, A., Retes, L.S., Bartolomé-Zavala, B., Perdomo Gutiérrez, G. and Bigorra, T (2024) 'Allergy to Theobroma Cacao', Clinical Case Reports, 12(6), pp. e8803. doi:10.1002/ccr3.8803",
+   "abstract": "We present the case of a patient with antecedent of tree nuts allergy who developed an anaphylactic reaction after ingesting a piece chocolate. An allergy study detected sensitization to cocoa in skin tests as well as cross-reactivity with tree nuts in the SDS-PAGE immunoblotting-inhibition.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Allergy to Theobroma Cacao",
+   "plants": [
+    "Cacao",
+    "Chocolate tree",
+    "Cocoa",
+    "Cocoa bean"
+   ],
+   "scientific": [
+    "Theobroma cacao"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2236",
    "key": "catalano2024aloe",
    "type": "article",
@@ -15299,6 +15431,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-5675",
+   "key": "nesic2024chocolatecadmiumserbia",
+   "type": "article",
+   "title": "Impact of Chocolate Cadmium on Vulnerable Populations in Serbia",
+   "authors": "Nešić, A., Lučić, M., Vesković, J., Mandić, L.J., Momčilović, M., Miletić, A. and Onjia, A.",
+   "journal": "Foods",
+   "year": "2024",
+   "doi": "10.3390/foods14010018",
+   "url": "",
+   "link": "https://doi.org/10.3390/foods14010018",
+   "link_type": "doi",
+   "citation": "Nešić, A., Lučić, M., Vesković, J., Mandić, L.J., Momčilović, M., Miletić, A. and Onjia, A (2024) 'Impact of Chocolate Cadmium on Vulnerable Populations in Serbia', Foods, 14(1). doi:10.3390/foods14010018",
+   "abstract": "Chocolate is one of the most popular and widely consumed confectionery products. However, elevated cadmium (Cd) content in this commodity threatens food safety and human health. It is crucial to monitor the presence of Cd in chocolate and to evaluate its associated health risks. This study assessed the Cd levels in milk and dark chocolates from the Serbian market (n = 155). Cadmium concentrations varied between 0.010 and 0.29 mg/kg. The obtained values were used to evaluate the hazard quotient (HQ) and cancer risk (CR). The estimated weekly intakes (EWIs) were below the tolerable limits for all samples. However, in some samples, the EWI reached 60.9% and 63.5% of the tolerable limit for toddlers and other children, respectively. No health risk was found based on the HQ. On the other hand, based on CR values, all chocolate products can be classified as posing a moderate risk. The Monte Carlo simulation indicated that toddlers and other children were more exposed to non-carcinogenic risk, whereas vegetarians, adults, pregnant women, and other children were more exposed to cancer risk. Sensitivity analysis indicates that body weight, exposure frequency, and ingestion rate are the most influential factors for non-cancer and cancer health risks.",
+   "tier": "preclinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Impact of Chocolate Cadmium on Vulnerable Populations in Serbia",
+   "plants": [
+    "Cacao",
+    "Chocolate tree",
+    "Cocoa",
+    "Cocoa bean"
+   ],
+   "scientific": [
+    "Theobroma cacao"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-5467",
    "key": "ahmed2024flaxseednafldmeta",
    "type": "article",
@@ -16392,6 +16555,37 @@
    "conditions": [
     "Infection (general)"
    ]
+  },
+  {
+   "ref_id": "REF-5674",
+   "key": "godebo2024chocolateheavymetals",
+   "type": "article",
+   "title": "Occurrence of heavy metals coupled with elevated levels of essential elements in chocolates: Health risk assessment",
+   "authors": "Godebo, T.R., Stoner, H., Kodsup, P., Bases, B., Marzoni, S., Weil, J., Frey, M., Daley, P., Earnhart, A., Ellias, G., Friedman, T., Rajan, S., Murphy, N. and Miller, S.",
+   "journal": "Food Research International",
+   "year": "2024",
+   "doi": "10.1016/j.foodres.2024.114360",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.foodres.2024.114360",
+   "link_type": "doi",
+   "citation": "Godebo, T.R., Stoner, H., Kodsup, P., Bases, B., Marzoni, S., Weil, J., Frey, M., Daley, P., Earnhart, A., Ellias, G., Friedman, T., Rajan, S., Murphy, N. and Miller, S (2024) 'Occurrence of heavy metals coupled with elevated levels of essential elements in chocolates: Health risk assessment', Food Research International, 187, pp. 114360. doi:10.1016/j.foodres.2024.114360",
+   "abstract": "The presence of contaminants in cacao-derived products, especially in chocolates, has raised concerns regarding food safety and human health. The study assessed the concentration variation of 16 elements in 155 chocolate samples from the US market by cacao content and country of geographic origin. The study further examined the potential health risks posed by toxic metals and determined the contribution of essential elements to the Daily Recommended Intake (DRI), estimated based on an ounce (∼28.4 g) of daily chocolate consumption. Dark chocolates with ≥50 % cacao exhibited consecutively increasing mean levels from 1.2 to 391 µg/kg for U, Tl, Th, As, Pb, Se, Cd, and Co. Similarly, Ni, Sr, Cu, Mn, Zn, Fe, Ca, and Mg had mean concentrations from 4.0 to 1890 mg/kg. Dark chocolates sourced from Central and South America exhibited the highest mean levels of Cd, and South America samples also contained elevated Pb, whereas those from West Africa and Asia had low Cd and Pb, respectively. Cacao contents showed increasingly strong association with Cd, Co, Mn, Sr, Ni, Cu, Zn, and Mg (r = 0.60-0.84), and moderately with Se, Fe, As, and Tl (r = 0.35-0.49), indicating these elements are primarily derived from cacao beans. Weak association of cacao contents with Pb, Th, and U levels (r < 0.25), indicates post-harvest contaminations. Hazard Quotient (HQ) > 1 was found only for Cd in 4 dark chocolates, and Hazard Index (HI) > 1 for cumulative risk of Cd, Pb, Ni, As, and U was found in 33 dark chocolates, indicating potential non-carcinogenic risks for 15 kg children but none for 70 kg adults. Dark chocolate also substantially contributed to 47-95 % of the DRI of Cu for children and 50 % for adults. Dark chocolates also provided notable Fe, Mn, Mg, and Zn contributions to the DRI. These essential elements are recognized to reduce the bioavailability of toxic metals such as Cd, Pb, or Ni, thereby potentially lowering associated health risks. This study informs consumers, food industries, and regulatory agencies to target cacao origins or chocolate brands with lower toxic metal contents for food safety and minimizing adverse health effects.",
+   "tier": "preclinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Occurrence of heavy metals coupled with elevated levels of essential elements in chocolates: Health risk assessment",
+   "plants": [
+    "Cacao",
+    "Chocolate tree",
+    "Cocoa",
+    "Cocoa bean"
+   ],
+   "scientific": [
+    "Theobroma cacao"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1435",
@@ -32519,6 +32713,39 @@
    ]
   },
   {
+   "ref_id": "REF-5670",
+   "key": "chen2022cocoat2dcardiometabolicma",
+   "type": "article",
+   "title": "Effects of cocoa products intake on cardiometabolic biomarkers of type 2 diabetes patients: a systematic review and meta-analysis based on both long-term and short-term randomised controlled trials",
+   "authors": "Chen, X., Guan, X., Tang, Y., Deng, J. and Zhang, X.",
+   "journal": "International Journal of Food Sciences and Nutrition",
+   "year": "2022",
+   "doi": "10.1080/09637486.2022.2046711",
+   "url": "",
+   "link": "https://doi.org/10.1080/09637486.2022.2046711",
+   "link_type": "doi",
+   "citation": "Chen, X., Guan, X., Tang, Y., Deng, J. and Zhang, X (2022) 'Effects of cocoa products intake on cardiometabolic biomarkers of type 2 diabetes patients: a systematic review and meta-analysis based on both long-term and short-term randomised controlled trials', International Journal of Food Sciences and Nutrition, 73(5), pp. 571--587. doi:10.1080/09637486.2022.2046711",
+   "abstract": "Cocoa consumption as a diet has been shown to improve cardiometabolic biomarkers for T2D, but results were inconsistent. A comprehensive search from PubMed, Web of Science, Embase, and The Cochrane Library to identify the randomised controlled trials investigating the impacts of cocoa products consumption on cardiometabolic biomarkers in T2D was performed up to December 2020. Twelve trials involving 9 long-term and 3 short-term studies were included. The cocoa products significantly decreased low density lipoprotein-cholesterol (WMD: -9.955 mg/dL, 95% CI: -17.408, -2.501, p = 0.009), triglyceride (WMD: -15.364 mg/dL, 95% CI: -23.383, -7.346, p < 0.001), blood glucose (WMD: -9.105 mg/dL, 95% CI: -15.022, -3.189, p = 0.003), and C-reactive protein (WMD: -0.978 mg/L, 95% CI: -1.687, -0.269, p = 0.007) in long-term. The results indicated the beneficial long-term effects of cocoa products intake on cardiometabolic biomarkers for T2D, especially on blood glucose, lipid metabolism (LDL-C and TG), and inflammation (CRP).",
+   "tier": "review",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Effects of cocoa products intake on cardiometabolic biomarkers of type 2 diabetes patients: a systematic review and meta-analysis based on both long-term and short-term randomised controlled trials",
+   "plants": [
+    "Cacao",
+    "Chocolate tree",
+    "Cocoa",
+    "Cocoa bean"
+   ],
+   "scientific": [
+    "Theobroma cacao"
+   ],
+   "actions": [],
+   "conditions": [
+    "Blood sugar / diabetes support"
+   ]
+  },
+  {
    "ref_id": "REF-3621",
    "key": "sadatmasjedi2022flaxlipids2022",
    "type": "article",
@@ -39883,6 +40110,37 @@
    "conditions": [
     "Cancer (anticancer research)"
    ]
+  },
+  {
+   "ref_id": "REF-5676",
+   "key": "alenzi2021feverfewbleeding",
+   "type": "article",
+   "title": "Alteration of Coagulation Test Results and Vaginal Bleeding Associated With the Use of Feverfew (Tanacetum parthenium)",
+   "authors": "Alenzi, K.A., Alharbi, F.H., Tawhari, F.M. and Fradees, G.S.",
+   "journal": "Journal of Medical Cases",
+   "year": "2021",
+   "doi": "10.14740/jmc3601",
+   "url": "",
+   "link": "https://doi.org/10.14740/jmc3601",
+   "link_type": "doi",
+   "citation": "Alenzi, K.A., Alharbi, F.H., Tawhari, F.M. and Fradees, G.S (2021) 'Alteration of Coagulation Test Results and Vaginal Bleeding Associated With the Use of Feverfew (Tanacetum parthenium)', Journal of Medical Cases, 12(1), pp. 9--12. doi:10.14740/jmc3601",
+   "abstract": "Tanacetum parthenium (feverfew) is a member of the daisy family; it is used to prevent and treat migraine and rheumatoid arthritis. It has a long history of use as a traditional and folk medicine in Chinese, Greek, Indian and Arabic medicine, having been used for hundreds of years. The term feverfew comes from the Latin word febrifugia and means fever reducer. However, Short term use of feverfew (up to 4 months) is considered safe in adults. According to a few clinical trials, Tanacetum parthenium was not associated with serious adverse events but rather with mild and reversible events. Adverse events leading to withdrawals were mainly of a gastrointestinal nature. There is no major safety issue. Nevertheless, we report one case of a 36-year-old woman with known migraine who visited the obstetrics and gynecology clinic upon developing vaginal bleeding, prolonged duration of the menstrual cycle, and reddish skin without bruising. The patient suffered from these symptoms over a period of 3 months prior to the clinic visit. Based on history, the patient began taking 800 mg capsules of feverfew three times per day 9 months ago. We applied the Naranjo scale in our case, and it indicated that a probable relationship exists between feverfew and vaginal bleeding. Feverfew should be used cautiously by patients planning elective surgery, having coagulant disorders or taking antithrombotic drugs.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Alteration of Coagulation Test Results and Vaginal Bleeding Associated With the Use of Feverfew (Tanacetum parthenium)",
+   "plants": [
+    "Bachelor's buttons",
+    "Featherfew",
+    "Feverfew",
+    "Midsummer daisy"
+   ],
+   "scientific": [
+    "Tanacetum parthenium"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1133",
@@ -113312,6 +113570,37 @@
    "conditions": [
     "Inflammatory bowel disease (IBD)"
    ]
+  },
+  {
+   "ref_id": "REF-5677",
+   "key": "killoran2007feverfewmoisturizerdermatitis",
+   "type": "article",
+   "title": "Two cases of compositae dermatitis exacerbated by moisturizer containing feverfew",
+   "authors": "Killoran, C.E., Crawford, G.H. and Pedvis-Leftick, A.",
+   "journal": "Dermatitis",
+   "year": "2007",
+   "doi": "10.2310/6620.2007.06063",
+   "url": "",
+   "link": "https://doi.org/10.2310/6620.2007.06063",
+   "link_type": "doi",
+   "citation": "Killoran, C.E., Crawford, G.H. and Pedvis-Leftick, A (2007) 'Two cases of compositae dermatitis exacerbated by moisturizer containing feverfew', Dermatitis, 18(4), pp. 225--9. doi:10.2310/6620.2007.06063",
+   "abstract": "A 45-year-old woman presented in October 2005 with a history of an eruption involving her scalp and face, including her eyelids and behind her ears. The eruption began at the end of August. It flared after she used a calming moisturizer containing feverfew (Tanacetum parthenium). A second patient, a 25-year-old woman, presented complaining of a 1-month history of an eruption around the eyes that started after she began using a moisturizer containing feverfew. Both patients were patch-tested with the North American Contact Dermatitis Group series, cosmetic and plant series, and their own skin care products. Patient 1 had a + reaction to sesquiterpene lactone mix, a + reaction to Compositae mix, a + reaction to parthenolide, a + reaction to Tanacetum vulgare, and a + reaction to the calming moisturizer. Patient 2 had + reactions to sesquiterpene lactone, Compositae mix, and the same calming moisturizer. It is thought that both of these eruptions are a result of contact dermatitis from the Compositae plant family.",
+   "tier": "clinical",
+   "corpus": [
+    "clinical"
+   ],
+   "display": "Two cases of compositae dermatitis exacerbated by moisturizer containing feverfew",
+   "plants": [
+    "Bachelor's buttons",
+    "Featherfew",
+    "Feverfew",
+    "Midsummer daisy"
+   ],
+   "scientific": [
+    "Tanacetum parthenium"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-3595",

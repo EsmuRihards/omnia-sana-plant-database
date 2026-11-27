@@ -3789,6 +3789,17 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "blood-sugar",
+     "label": "Blood sugar / diabetes support",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5670",
+      "REF-5671"
+     ]
+    },
+    {
      "condition": "high-blood-pressure",
      "label": "High blood pressure",
      "evidence": 8,

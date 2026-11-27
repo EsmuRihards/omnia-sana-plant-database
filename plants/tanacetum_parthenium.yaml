@@ -195,6 +195,7 @@ contraindications:
   severity: info
   reference_ids:
   - REF-0450
+  - REF-5677
   status: verified
 - note: Stopping feverfew abruptly after prolonged use can cause a 'post-feverfew' rebound of headache,
     anxiety and muscle/joint stiffness. Avoid in pregnancy (uterine-stimulant) and breastfeeding, and
@@ -202,6 +203,13 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0450
+  status: verified
+- note: 'Bleeding: a 36-year-old woman who had taken feverfew 800 mg three times daily for 9 months for
+    migraine developed vaginal bleeding, longer periods and abnormal clotting tests; causality was rated
+    probable (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5676
   status: verified
 references:
 - REF-1572
@@ -219,6 +227,7 @@ drug_class_interactions:
     so combining it with anticoagulant or antiplatelet drugs may increase bleeding risk.
   reference_ids:
   - REF-2444
+  - REF-5676
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
@@ -265,4 +274,12 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane system
   recorded as no-effect. Cochrane REF-0450 removed from pain (never names it) and the
   anti-inflammatory action; review REF-1574 (retagged narrative-review) names toothache/stomach
   ache. REF-0552 retagged preclinical (rat migraine model).
-  | 2026-11-19 (monograph-source audit): habitat, traditional_uses, constituents[1] and preparations[1] cited only REF-0450 (Cochrane migraine review); botanical_description and harvesting only REF-0553 (lab study). RE-SOURCED: WHO Herba Tanaceti Parthenii vol. 2 (REF-3968, new; description, distribution, constituents, uses, posology) + PFAF REF-3347 (habitat, flowering July-August, gathered as it comes into flower, folk uses); REF-0450 kept only for what it found (mixed, low-quality evidence; 0.6 fewer attacks a month). Dropped as unsupported: 20-60 cm, strongly scented leaves, downy stems, fibrous rootstock, flowering June-September, name from febrifuge, parthenolide as the key compound inhibiting migraine pathways, essential oil, antioxidant role, freeze-dried extract, the form used in most trials.'
+  | 2026-11-19 (monograph-source audit): habitat, traditional_uses, constituents[1] and preparations[1] cited only REF-0450 (Cochrane migraine review); botanical_description and harvesting only REF-0553 (lab study). RE-SOURCED: WHO Herba Tanaceti Parthenii vol. 2 (REF-3968, new; description, distribution, constituents, uses, posology) + PFAF REF-3347 (habitat, flowering July-August, gathered as it comes into flower, folk uses); REF-0450 kept only for what it found (mixed, low-quality evidence; 0.6 fewer attacks a month). Dropped as unsupported: 20-60 cm, strongly scented leaves, downy stems, fibrous rootstock, flowering June-September, name from febrifuge, parthenolide as the key compound inhibiting migraine pathways, essential oil, antioxidant role, freeze-dried extract, the form used in most trials.
+  | 2026-11-27: symptom-source audit research-deepening batch 33 - Searched PubMed (Tanacetum
+  parthenium / feverfew / Chrysanthemum parthenium / MIG-99 tiab: 44 HT, 13 SR, 106 SAFE hits),
+  Europe PMC, ClinicalTrials.gov (3) and OpenAlex. Migraine (9) and headache (8) were not padded.
+  Added: 2021 bleeding / abnormal-coagulation case (Naranjo probable) as a caution and to the
+  approved anticoagulants interaction; 2007 moisturizer contact-dermatitis cases to the Asteraceae
+  allergy note. Not added: feverfew + willow and other combinations, IMOD and Septimeb (multi-herb
+  products), pollen-allergen proteomics, 2019 occupational dermatitis letter (no abstract),
+  essential-oil toxicity in rodents.'

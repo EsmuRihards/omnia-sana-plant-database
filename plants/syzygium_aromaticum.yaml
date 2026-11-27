@@ -329,4 +329,17 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   antioxidant activity) and removed from the Duke dose, the bloating pair and the cautions, which it
   does not state.
   | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0309 (generic WHO vol.
-  2) had no citations left after the swap and was deleted as an orphan.'
+  2) had no citations left after the swap and was deleted as an orphan.
+  | 2026-11-27: symptom-source audit research-deepening batch 33 - Searched PubMed (Syzygium
+  aromaticum / Eugenia caryophyllata / clove oil, bud, extract or gel tiab, "clove(s)" in titles;
+  eugenol alone was not searched because it is mostly dental-cement literature; many hits were
+  CLOVES syndrome or garlic cloves: 71 HT, 18 SR, 328 SAFE hits), Europe PMC, ClinicalTrials.gov
+  (66) and OpenAlex. Oral-health and pain (5) were not changed. Not added: topical clove oil
+  before dental injections compared with EMLA, lignocaine or benzocaine (active comparators), 2017
+  chronic pruritus trial (between-group difference not significant), 2025 clove + lavender
+  aromatherapy for post-spinal headache (not significant vs control), 2016 "clove-based herbal"
+  mouthwash for radiation mucositis (14 patients, composition not stated), a comparative clove
+  mouthwash trial for ventilator pneumonia (not assessed as placebo-controlled), 2019 clove
+  polyphenol glucose study (open-label), binge-drinking inflammatory markers (surrogate), 2025
+  dental-pain systematic review (qualitative, many agents), hyperhidrosis study (no vocabulary
+  condition), fragrance safety assessments.'

@@ -1,0 +1,1469 @@
+# Research-deepening batch 25 - search
+
+## petroselinum-crispum (Petroselinum crispum) - name clause: "Petroselinum crispum"[tiab] OR "Petroselinum sativum"[tiab] OR "parsley"[tiab]
+
+### PubMed HT - 30 hits, 30 not already listed above, 29 new
+- new | 2026 | 41970270 |  | Biochar as a protective adsorbent against cadmium and lead stress in parsley (Petroselinum crispum): a study on growth, nutrient uptake, and antioxidant enzyme activities. | PeerJ
+- new | 2026 | 42456498 | Systematic Review | Efficacy of natural products in the treatment of melasma: A systematic review. | Biomed Pharmacother
+- new | 2024 | 38220388 | Clinical Trial/Research Support, Non-U.S. Gov't | Efficacy of parsley seed-supplemented bread in improving serum osteopontin level and renal health in obese women: A nutritional intervention study. | Clin Nutr ESPEN
+- new | 2023 | 37310415 | Randomized Controlled Trial | Characterization and Pharmacokinetic Profile of Herbs and Spices' Phytochemicals over 24 h after Consumption in Overweight/Obese Adults. | Mol Nutr Food Res
+- new | 2023 | 37823067 |  | Experimental dataset of the impact assessment of vegetable intercropping on agroeconomic performances, pests and beneficials, and soil resources. | Data Brief
+- new | 2022 | 35452808 | Clinical Trial/Research Support, Non-U.S. Gov't | Absorption, distribution, metabolism and excretion of apigenin and its glycosides in healthy male adults. | Free Radic Biol Med
+- new | 2022 | 35139489 |  | Hemodialysis Patients' Knowledge of, Beliefs about, and Practices in Using Complementary and Alternative Medicine: An Exploratory Study. | Altern Ther Health Med
+- new | 2022 | 35273988 | Case Reports | Endothelial Function and Postprandial Glucose Control in Response to Test-Meals Containing Herbs and Spices in Adults With Overweight/Obesity. | Front Nutr
+- new | 2020 | 32099440 |  | Complementary and Alternative Medicine Practice Among Saudi Patients with Chronic Kidney Disease: A Cross-Sectional Study. | Int J Nephrol Renovasc Dis
+- new | 2020 | 32211803 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Spices in a High-Saturated-Fat, High-Carbohydrate Meal Reduce Postprandial Proinflammatory Cytokine Secretion in Men with Overweight or Obesity: A 3-Period, Crossover, Randomized C | J Nutr
+- new | 2019 | 31741361 | Systematic Review | Topical Treatments for Melasma: A Systematic Review of Randomized Controlled Trials. | J Drugs Dermatol
+- new | 2018 | 30052332 |  | Complementary and Alternative Medicine Used by Infertile Women in Turkey. | Afr J Reprod Health
+- new | 2017 | 27902522 | Randomized Controlled Trial | The Effect of Topical Use of Petroselinum Crispum (Parsley) Versus That of Hydroquinone Cream on Reduction of Epidermal Melasma: A Randomized Clinical Trial. | Holist Nurs Pract
+- new | 2014 | 25587284 |  | Efficient and cost-effective alternative treatment for recurrent urinary tract infections and interstitial cystitis in women: a two-case report. | Case Rep Med
+- new | 2013 | 23975579 |  | Effect of anatase nanoparticles (TiO2) on parsley seed germination (Petroselinum crispum) in vitro. | Biol Trace Elem Res
+- new | 2012 | 22309421 |  | Pretransplant nutritional habits and clinical outcome in children undergoing hematopoietic stem cell transplant. | Exp Clin Transplant
+- new | 2012 | 23286723 | Clinical Trial | [Effect of fried bacon and parsley sauce on gastrointestinal symptoms in healthy old boys footballer]. | Ugeskr Laeger [dan]
+- new | 2011 | 21566309 |  | Effect of drinking parsley leaf tea on urinary composition and urinary stones' risk factors. | Saudi J Kidney Dis Transpl
+- new | 2009 | 19274702 | Clinical Trial/Letter | Asparagus P(R) cannot compete with first-line diuretics in lowering the blood pressure in treatment-requiring antihypertensives. | Phytother Res
+- HELD REF-3542 | 2008 | 18450126 | Randomized Controlled Trial/Research Support, U.S. Gov't, P.H.S. | Effects of echinacea on the frequency of upper respiratory tract symptoms: a randomized, double-blind, placebo-controlled trial. | Ann Allergy Asthma Immunol
+- new | 2006 | 16407641 | Research Support, Non-U.S. Gov't | Bioavailability of apigenin from apiin-rich parsley in humans. | Ann Nutr Metab
+- new | 2004 | 15460985 |  | [Use of the syrup prepared on the basis of wild-growing grasses of the Far East, in preventive maintenance of respiratory diseases and microelementoza at children]. | Vopr Pitan [rus]
+- new | 2002 | 12206280 | Review | Phencyclidine (PCP): a dangerous drug, but useful in schizophrenia research. | J Psychol
+- new | 1999 | 10615220 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of parsley (Petroselinum crispum) intake on urinary apigenin excretion, blood antioxidant enzymes and biomarkers for oxidative stress in human subjects. | Br J Nutr
+- new | 1999 | 10399355 | Clinical Trial/Research Support, Non-U.S. Gov't | Flavonols and flavones of parsley cell suspension culture change the antioxidative capacity of plasma in rats. | Nahrung
+- new | 1998 | 9459373 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of the flavonoids quercetin and apigenin on hemostasis in healthy volunteers: results from an in vitro and a dietary supplement study. | Am J Clin Nutr
+- new | 1998 | 9746253 | Clinical Trial/Research Support, Non-U.S. Gov't | Column-switching high-performance liquid chromatographic assay for determination of apigenin and acacetin in human urine with ultraviolet absorbance detection. | J Chromatogr B Biomed Sci Appl
+- new | 1993 | 7973400 |  | [Values of nitrates and nitrites in selected vegetables given to hospitalized children]. | Rocz Panstw Zakl Hig [pol]
+- new | 1988 | 3227864 | Research Support, Non-U.S. Gov't | Aluminium, calcium and magnesium content of Hungarian foods and dietary intakes by children aged 3.9 and 14 years. | Acta Physiol Hung
+- new | 1981 | 6101140 | Research Support, U.S. Gov't, P.H.S. | Quantification of phencyclidine in mainstream smoke and identification of phenylcyclohex-1-ene as pyrolysis product. | J Pharm Sci
+
+### PubMed SR - 10 hits, 7 not already listed above, 7 new
+- new | 2025 | 39710951 | Scoping Review | Clinical Trials Conducted on Herbal Remedies for the Treatment of Melasma: A Scoping Review. | J Cosmet Dermatol
+- new | 2024 | 38435393 | Review | Essential oils: a systematic review on revolutionizing health, nutrition, and omics for optimal well-being. | Front Med (Lausanne)
+- new | 2024 | 38542668 | Meta-Analysis/Systematic Review | Effect of Aromatic Herbs and Spices Present in the Mediterranean Diet on the Glycemic Profile in Type 2 Diabetes Subjects: A Systematic Review and Meta-Analysis. | Nutrients
+- new | 2024 | 39735703 | Review | Renal health benefits and therapeutic effects of parsley (Petroselinum crispum): a review. | Front Med (Lausanne)
+- new | 2023 | 38068725 | Scoping Review | A Scoping Review of the Clinical Evidence for the Health Benefits of Culinary Doses of Herbs and Spices for the Prevention and Treatment of Metabolic Syndrome. | Nutrients
+- new | 2021 | 33168379 | Meta-Analysis/Review | Phytotoxicity and bioconcentration of microcystins in agricultural plants: Meta-analysis and risk assessment. | Environ Pollut
+- new | 2019 | 31143299 | Review | Herbs and Spices- Biomarkers of Intake Based on Human Intervention Studies - A Systematic Review. | Genes Nutr
+
+### PubMed SAFE - 179 hits, 171 not already listed above, 165 new
+- new | 2026 | 40325814 |  | Bioactive Flavonoids and Phenolic Acids of Petroselinum crispum as a Potential Inhibitor of α-amylase: An In silico Evaluation. | Curr Drug Discov Technol
+- new | 2026 | 43077314 |  | Apigenin and Hypertension: A Review of Natural Sources, Pharmacodynamic and Pharmacokinetic Evidence. | Pharmacology
+- new | 2026 | 41643253 | Case Reports | Conium Maculatum, one plant, four presentations: A case series. | Am J Emerg Med
+- new | 2026 | 41750865 |  | Optimizing Antibacterial Essential Oil Blends from Helichrysum plicatum, Petroselinum crispum, and Origanum vulgare for Dairy Preservation: Mixture Design and In Silico Analysis. | Foods
+- new | 2026 | 42378851 |  | Antioxidant, anti-inflammatory, and anti-apoptotic mechanisms of garlic and parsley against cardiac toxicity induced by cyclophosphamide. | Tissue Cell
+- new | 2026 | 41431714 | Review | Apigenin as a multifunctional flavone against liver fibrosis: mechanistic insights into its modulation of key fibrogenic signalling pathways. | 3 Biotech
+- new | 2026 | 42321328 | Research Support, Non-U.S. Gov't | Contamination levels and health risk assessment of heavy metals in edible leafy vegetables distributed in Rafsanjan, southeast Iran. | Sci Rep
+- new | 2026 | 42571875 |  | Dietary parsley seed powder attenuates acrylamide-waterborne toxicity hazards on growth, redox status, immunity and gene regulations in Oreochromis niloticus. | J Fish Biol
+- new | 2026 | 42712914 |  | Trace metal contamination from water and soil to vegetables and associated human health risks. | RSC Adv
+- new | 2026 | 43083264 |  | ICP-MS Profiling and Probabilistic Dietary Risk Assessment of Potentially Toxic Elements in Root, Tuber, and Bulb Vegetables. | J Xenobiot
+- new | 2025 | 40213687 | Review | Luteolin: a natural product with multiple mechanisms for atherosclerosis. | Front Pharmacol
+- new | 2025 | 40873445 |  | Quantitative screening of geranylgeranoic acid in selected plant-based foods using LC/MS/MS. | Front Nutr
+- new | 2025 | 39968968 |  | Potential protective role of parsley on induced tongue carcinogenesis in albino rats. | Dent Med Probl
+- new | 2025 | 40586498 |  | Heavy metals in soils and selected root vegetables from allotment gardens in Warsaw, Poland - health risk assessment. | Ann Agric Environ Med
+- new | 2025 | 41268159 | Review | Exploring the therapeutic potential of phytochemicals apigenin and ellagic acid in managing polycystic ovarian syndrome and its comorbidities: a comprehensive review. | Front Endocrinol (Lausanne)
+- new | 2025 | 41020006 |  | Petroselinum sativum (Parsley) extract suppresses oxidative stress and inflammatory responses in human keratinocytes and reduces atopic dermatitis symptoms in mouse skin. | Front Pharmacol
+- new | 2025 | 40833319 |  | Multitarget 8-methoxypsoralens against Alzheimer's disease: extraction, synthesis, in vitro and in silico studies. | Future Med Chem
+- new | 2025 | 40093583 |  | In silico docking and ADMET studies on clinical targets for type 2 diabetes correlated to in vitro inhibition of pancreatic alpha-amylase and alpha-glucosidase by rutin, caffeic ac | In Silico Pharmacol
+- new | 2025 | 39945995 |  | The effects of anti-galactagogue (sage, parsley extract) and anti-inflammatory (echinacea extract) feed supplements on prolactin levels and fertility in the re-pregnancy of lactati | Trop Anim Health Prod
+- new | 2025 | 41403697 |  | Green-synthesized silver nanoparticles from edible plant extracts ameliorate cadmium chloride-induced hepatorenal and testicular toxicity in rats. | Front Cell Dev Biol
+- new | 2025 | 39974258 | Case Reports | Rash and Fever: Identifying Animal or Plant Origins. | Cureus
+- new | 2024 | 38258783 | Review | Therapeutic Potential and Clinical Effectiveness of Quercetin: A Dietary Supplement. | Recent Adv Food Nutr Agric
+- HELD REF-1495 | 2024 | 38338356 |  | Exploring the Therapeutic Efficacy of Parsley (Petroselinum crispum Mill.) as a Functional Food: Implications in Immunological Tolerability, Reduction of Muscle Cramps, and Treatme | Molecules
+- new | 2024 | 39286161 |  | Hepato-renal protective impact of nanocapsulated Petroselinum crispum and Anethum graveolens essential oils added in fermented milk against some food additives via antioxidant and  | Heliyon
+- new | 2024 | 38887758 |  | Biomonitoring polycyclic aromatic hydrocarbon levels in domestic kitchens using commonly grown culinary herbs. | J Environ Health Sci Eng
+- new | 2024 | 38730457 |  | Sirtfood intake in relation to the 10-year risk of major adverse cardiovascular events: a population-based cohort study. | Nutr Metab (Lond)
+- new | 2024 | 38660278 |  | Petroselinum crispum L., essential oil as promising source of bioactive compounds, antioxidant, antimicrobial activities: In vitro and in silico predictions. | Heliyon
+- new | 2024 | 39191149 | Research Support, Non-U.S. Gov't | Apiole, an important constituent of parsley, is a mixed-type inhibitor of the CYP1A subfamily. | Mutat Res
+- new | 2024 | 38330709 | Review | Effects of apigenin on gastric cancer cells. | Biomed Pharmacother
+- new | 2024 | 38471591 |  | Effect of cadmium on polystyrene transport in parsley roots planted in a split-root system and assessment of the combined toxic effects. | Sci Total Environ
+- new | 2024 | 38614435 |  | Protective effect of Petroselinum crispum methanolic extract against acrylamide-induced reproductive toxicity in male rats through NF-ĸB, kinesin, steroidogenesis pathways. | Reprod Toxicol
+- new | 2024 | 37227612 |  | Health Risk Assessment of Lead, Cadmium, and Arsenic in Leafy Vegetables in Tehran, Iran: the Concentration Data Study. | Biol Trace Elem Res
+- HELD REF-1488 | 2023 | 36379859 |  | Hepatoprotective effects of parsley (Petroselinum Crispum) extract in rats with bile duct ligation. | Arab J Gastroenterol
+- new | 2023 | 36771635 |  | Determination of Polycyclic Aromatic Hydrocarbon Content in Garden Herbal Plants Using Liquid Chromatographic Analysis (HPLC-FL). | Plants (Basel)
+- new | 2023 | 37948767 |  | Anthriscus sylvestris Deoxypodophyllotoxin Synthase Involved in the Podophyllotoxin Biosynthesis. | Plant Cell Physiol
+- new | 2023 | 37893532 |  | The Protective Potential of Petroselinum crispum (Mill.) Fuss. on Paracetamol-Induced Hepatio-Renal Toxicity and Antiproteinuric Effect: A Biochemical, Hematological, and Histopath | Medicina (Kaunas)
+- new | 2023 | 38067454 |  | Cytotoxic Natural Products Isolated from Cryptogramma crispa (L.) R. Br. | Molecules
+- new | 2023 | 36900550 |  | Quantification of 363 Pesticides in Leafy Vegetables (Dill, Rocket and Parsley) in the Turkey Market by Using QuEChERS with LC-MS/MS and GC-MS/MS. | Foods
+- HELD REF-1487 | 2023 | 37811911 |  | Petroselinum crispum Extract Prevents Scopolamine-Induced Lens Damage in Rats. | Chem Biodivers
+- new | 2023 | 36833679 | Research Support, Non-U.S. Gov't | Heavy Metal Contamination in Leafy Vegetables Grown in Jazan Region of Saudi Arabia: Assessment of Possible Human Health Hazards. | Int J Environ Res Public Health
+- new | 2023 | 36620492 |  | Safety and efficacy of a feed additive consisting of a tincture derived from the fruit of Petroselinum crispum (Mill.) Fuss (parsley tincture) for use in all animal species (FEFANA | EFSA J
+- new | 2023 | 37802751 | Case Reports | Sap and Sun: A Case of Phytophotodermatitis. | Wilderness Environ Med
+- new | 2023 | 36903854 |  | Characterization, Antioxidant Potential, and Pharmacokinetics Properties of Phenolic Compounds from Native Australian Herbs and Fruits. | Plants (Basel)
+- new | 2023 | 37872543 |  | Integrated traditional herbal medicine in the treatment of gastrointestinal disorder: the pattern of use and the knowledge of safety among the Eastern Region Saudi population. | BMC Complement Med Ther
+- new | 2023 | 36804339 |  | FEMA GRAS assessment of derivatives of basil, nutmeg, parsley, tarragon and related allylalkoxybenzene-containing natural flavor complexes. | Food Chem Toxicol
+- new | 2022 | 35278608 | Review | Ethnobotanical, pharmacological, phytochemical, and clinical investigations on Moroccan medicinal plants traditionally used for the management of renal dysfunctions. | J Ethnopharmacol
+- new | 2022 | 35504407 |  | Evaluation of orellanine-induced toxicity from the mushroom Cortinarius orellanus and the antagonistic effect of Petroselinum crispum. | Toxicon
+- new | 2022 | 34997605 | Research Support, Non-U.S. Gov't/Review | Reactive oxygen species: Key players in the anticancer effects of apigenin? | J Food Biochem
+- new | 2022 | 36530331 |  | Use of Cheminformatics to Determine Potential Drug Interactions between Popular Barbadian Botanical Medicines and Antihypertensive Drugs. | ACS Omega
+- new | 2022 | 34687751 |  | Arsenic and trace metal concentrations in different vegetable types and assessment of health risks from their consumption. | Environ Res
+- new | 2022 | 35356479 |  | Modification of the existing maximum residue level for apricots and setting of import tolerances for cyantraniliprole in various crops. | EFSA J
+- new | 2022 | 35740080 |  | Dietary Parsley Seed Mitigates Methomyl-Induced Impaired Growth Performance, Hemato-Immune Suppression, Oxidative Stress, Hepato-Renal Damage, and Pseudomonas aeruginosa Susceptibi | Antioxidants (Basel)
+- new | 2021 | 34579318 |  | Roots of Apium graveolens and Petroselinum crispum-Insight into Phenolic Status against Toxicity Level of Trace Elements. | Plants (Basel)
+- new | 2021 | 33211380 |  | Microbiological quality and safety of minimally processed parsley (Petroselinum crispum) sold in food markets, southeastern Brazil. | J Appl Microbiol
+- new | 2021 | 34069400 |  | Characterization of the CYP3A4 Enzyme Inhibition Potential of Selected Flavonoids. | Molecules
+- new | 2021 | 33341507 |  | Neurobehavioral, physiological and inflammatory impairments in response to bifenthrin intoxication in Oreochromis niloticus fish: Role of dietary supplementation with Petroselinum  | Aquat Toxicol
+- new | 2021 | 34072709 |  | Potential Toxicity of Medicinal Plants Inventoried in Northeastern Morocco: An Ethnobotanical Approach. | Plants (Basel)
+- new | 2021 | 33953901 | Case Reports | Petroselinum crispum, a commonly consumed food, affects sirolimus level in a renal transplant recipient: a case report. | Ther Adv Drug Saf
+- new | 2021 | 33848734 |  | Immune response and susceptibility of Nile tilapia fish to Aeromonas hydrophila infection following the exposure to Bifenthrin and/or supplementation with Petroselinum crispum esse | Ecotoxicol Environ Saf
+- new | 2021 | 32841696 | Comparative Study | Assessment of in vivo estrogenic and anti-inflammatory activities of the hydro-ethanolic extract and polyphenolic fraction of parsley (Petroselinum sativum Hoffm.). | J Ethnopharmacol
+- new | 2021 | 33570125 | Research Support, Non-U.S. Gov't | Enhancement of Temephos and Deltamethrin Toxicity by Petroselinum crispum Oil and its Main Constituents Against Aedes aegypti (Diptera: Culicidae). | J Med Entomol
+- new | 2021 | 33916097 |  | The Potential of Parsley Polyphenols and Their Antioxidant Capacity to Help in the Treatment of Depression and Anxiety: An In Vivo Subacute Study. | Molecules
+- new | 2021 | 33562751 |  | Potential Ecological and Human Health Risks of Heavy Metals in Soils in Selected Copper Mining Areas-A Case Study: The Bor Area. | Int J Environ Res Public Health
+- new | 2021 | 32557099 |  | Environment-Based Impairment in Mineral Nutrient Status and Heavy Metal Contents of Commonly Consumed Leafy Vegetables Marketed in Kyrgyzstan: a Case Study for Health Risk Assessme | Biol Trace Elem Res
+- new | 2021 | 33435419 |  | Forty-One Plant Extracts Screened for Dual Antidiabetic and Antioxidant Functions: Evaluating the Types of Correlation between -Amylase Inhibition and Free Radical Scavenging. | Molecules
+- new | 2020 | 32630150 | Review | The War against Tuberculosis: A Review of Natural Compounds and Their Derivatives. | Molecules
+- new | 2020 | 32209108 |  | Identification of essential oils with activity against stationary phase Staphylococcus aureus. | BMC Complement Med Ther
+- new | 2020 | 32566527 |  | Improvement of Petroselinum crispum on Morphine Toxicity in Prefrontal Cortex in Rats. | Int J Appl Basic Med Res
+- new | 2020 | 33121066 |  | Assessing the Influence of Compost and Biochar Amendments on the Mobility and Uptake of Heavy Metals by Green Leafy Vegetables. | Int J Environ Res Public Health
+- new | 2020 | 32539046 |  | Three poisonous plants (Oenanthe, Cicuta and Anamirta) that antagonise the effect of γ-aminobutyric acid in human brain. | J R Coll Physicians Edinb
+- new | 2020 | 31917821 |  | The nitrate content of fresh and cooked vegetables and their health-related risks. | PLoS One
+- new | 2020 | 32647454 |  | Impact of salicylic acid on the growth and physiological activities of parsley plants under lead toxicity. | Physiol Mol Biol Plants
+- new | 2020 | 32733590 |  | Increment of Lysosomal Biogenesis by Combined Extracts of Gum Arabic, Parsley, and Corn Silk: A Reparative Mechanism in Mice Renal Cells. | Evid Based Complement Alternat Med
+- new | 2019 | 31238921 |  | In vitro anti-nephrotoxic potential of Ammi visnaga, Petroselinum crispum, Hordeum vulgare, and Cymbopogon schoenanthus seed or leaf extracts by suppressing the necrotic mediators, | BMC Complement Altern Med
+- new | 2018 | 30229507 | Review | The significant impact of apigenin on different aspects of autoimmune disease. | Inflammopharmacology
+- new | 2017 | 27766890 | Review | Pharmacokinetic properties and drug interactions of apigenin, a natural flavone. | Expert Opin Drug Metab Toxicol
+- new | 2017 | 28538283 | Case Reports/Letter | Beans, Cilantro and Parsley; 3 Unadvertised Though Relevant Calcium Food Sources. | J Clin Rheumatol
+- new | 2017 | 28745361 |  | In silico genotoxicity of coumarins: application of the Phenol-Explorer food database to functional food science. | Food Funct
+- new | 2017 | 30187738 |  | Possible Protective Role of Parsley Extract on the Diabetic Pregnant Rats and Their Fetuses. | Pak J Biol Sci
+- new | 2016 | 27706237 |  | Inducible Expression of the De-Novo Designed Antimicrobial Peptide SP1-1 in Tomato Confers Resistance to Xanthomonas campestris pv. vesicatoria. | PLoS One
+- new | 2016 | 27255519 |  | Antiosteoporotic effect of Petroselinum crispum, Ocimum basilicum and Cichorium intybus L. in glucocorticoid-induced osteoporosis in rats. | BMC Complement Altern Med
+- HELD REF-1494 | 2016 | 26846273 | Research Support, Non-U.S. Gov't | Effect of parsley (Petroselinum crispum, Apiaceae) juice against cadmium neurotoxicity in albino mice (Mus musculus). | Behav Brain Funct
+- new | 2016 | 25941212 |  | Development of a convenience and safety chilled sous vide fish dish: Diversification of aquacultural products. | Food Sci Technol Int
+- new | 2016 | 26966507 | Research Support, Non-U.S. Gov't | Protective Effect of Parsley Juice (Petroselinum crispum, Apiaceae) against Cadmium Deleterious Changes in the Developed Albino Mice Newborns (Mus musculus) Brain. | Oxid Med Cell Longev
+- new | 2016 | 27322374 |  | Bioactivity-Guided Identification of Botanical Inhibitors of Ketohexokinase. | PLoS One
+- new | 2016 | 26555283 | Case Reports | Pigmented purpuric dermatosis after taking a dietary supplement. | Cutan Ocul Toxicol
+- new | 2016 | 27019854 | Research Support, Non-U.S. Gov't | Antidiabetic and Antioxidant Impacts of Desert Date (Balanites aegyptiaca) and Parsley (Petroselinum sativum) Aqueous Extracts: Lessons from Experimental Rats. | J Diabetes Res
+- new | 2016 | 26970256 | Research Support, Non-U.S. Gov't | Apigenin Reduces Survival of Choriocarcinoma Cells by Inducing Apoptosis via the PI3K/AKT and ERK1/2 MAPK Pathways. | J Cell Physiol
+- new | 2016 | 26826679 | Research Support, Non-U.S. Gov't | Mode of action based risk assessment of the botanical food-borne alkenylbenzene apiol from parsley using physiologically based kinetic (PBK) modelling and read-across from safrole. | Food Chem Toxicol
+- new | 2015 | 27904380 |  | Improved Properties and Microbiological Safety of Novel Cottage Cheese Containing Spices. | Food Technol Biotechnol
+- new | 2015 | 26091900 | Research Support, Non-U.S. Gov't | Identification and characterization of reactive metabolites in myristicin-mediated mechanism-based inhibition of CYP1A2. | Chem Biol Interact
+- new | 2015 | 25382560 | Research Support, Non-U.S. Gov't | Microbial safety and quality of fresh herbs from Los Angeles, Orange County and Seattle farmers' markets. | J Sci Food Agric
+- new | 2014 | 24385198 | Research Support, Non-U.S. Gov't | Carbonic anhydrase: a key regulatory and detoxifying enzyme for Karst plants. | Planta
+- new | 2014 | 24269959 | Research Support, Non-U.S. Gov't | Dietary polyacetylenes of the falcarinol type are inhibitors of breast cancer resistance protein (BCRP/ABCG2). | Eur J Pharmacol
+- new | 2014 | 25648063 | Case Reports | A Cases of Near-fatal Anaphylaxis: Parsley "Over-use" as an Herbal Remedy. | Med Arch
+- new | 2014 | 25376340 |  | Internet claims on dietary and herbal supplements in advanced nephropathy: truth or myth. | Am J Nephrol
+- new | 2013 | 23557241 |  | Biochemical and haematological assessment of toxic effects of the leaf ethanol extract of Petroselinum crispum (Mill) Nyman ex A.W. Hill (Parsley) in rats. | BMC Complement Altern Med
+- new | 2012 | 22506664 |  | Short photoirradiation induces flavonoid synthesis and increases its production in postharvest vegetables. | J Agric Food Chem
+- new | 2011 | 21461271 | Case Reports | A case of biliary Fascioliasis by Fasciola gigantica in Turkey. | Korean J Parasitol
+- new | 2011 | 24250417 |  | Effects of Parsley (Petroselinum crispum) and its Flavonol Constituents, Kaempferol and Quercetin, on Serum Uric Acid Levels, Biomarkers of Oxidative Stress and Liver Xanthine Oxid | Iran J Pharm Res
+- new | 2011 | 21782929 | Research Support, Non-U.S. Gov't | Luteolin protects osteoblastic MC3T3-E1 cells from antimycin A-induced cytotoxicity through the improved mitochondrial function and activation of PI3K/Akt/CREB. | Toxicol In Vitro
+- new | 2011 | 21803916 | Comparative Study/Evaluation Study/Research Support, U.S. Gov't, P.H.S. | Comparison of real-time PCR, reverse transcriptase real-time PCR, loop-mediated isothermal amplification, and the FDA conventional microbiological method for the detection of Salmo | Appl Environ Microbiol
+- new | 2011 | 21530883 | Case Reports/Letter | Contact urticaria to raw arugula and parsley. | Ann Allergy Asthma Immunol
+- new | 2010 | 19770019 | Research Support, Non-U.S. Gov't | Limettin and furocoumarins in beverages containing citrus juices or extracts. | Food Chem Toxicol
+- new | 2010 | 20206138 | Research Support, Non-U.S. Gov't | Falcarinol is a covalent cannabinoid CB1 receptor antagonist and induces pro-allergic effects in skin. | Biochem Pharmacol
+- new | 2010 | 20033866 | Research Support, Non-U.S. Gov't | Prevention of peritoneal carcinomatosis in mice by combining hyperthermal intraperitoneal chemotherapy with the water extract from Burr parsley (Caucalis platycarpos L.). | Planta Med
+- new | 2010 | 20877216 | Research Support, Non-U.S. Gov't | Antioxidant activities of celery and parsley juices in rats treated with doxorubicin. | Molecules
+- new | 2009 | 19785799 | Case Reports | [Intoxication with Monkshood (Aconitum napellus)]. | Ned Tijdschr Geneeskd [dut]
+- new | 2008 | 17981702 | Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S./Review | Cell cycle control as a basis for cancer chemoprevention through dietary agents. | Front Biosci
+- new | 2007 | 17143534 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Review | Apigenin and cancer chemoprevention: progress, potential and promise (review). | Int J Oncol
+- new | 2007 | 17948277 | Research Support, N.I.H., Extramural | DNA adducts from alkoxyallylbenzene herb and spice constituents in cultured human (HepG2) cells. | Environ Mol Mutagen
+- new | 2007 | 17583110 | Case Reports | Exotic food allergy: anaphylactic reaction to lychee. | J Investig Allergol Clin Immunol
+- new | 2007 | 17969624 | Research Support, Non-U.S. Gov't | uspA of Shigella sonnei. | J Food Prot
+- new | 2007 | 17694708 | Case Reports | Detection of a 12-kilodalton lipid transfer protein allergen in parsley. | J Investig Allergol Clin Immunol
+- new | 2006 | 30000940 | Review | Parsley. | 
+- HELD REF-1490 | 2006 | 16223573 | Comparative Study/Research Support, Non-U.S. Gov't | Effects of parsley (Petroselinum crispum) extract versus glibornuride on the liver of streptozotocin-induced diabetic rats. | J Ethnopharmacol
+- new | 2006 | 16762476 | Research Support, N.I.H., Extramural | Apiaceous vegetable constituents inhibit human cytochrome P-450 1A2 (hCYP1A2) activity and hCYP1A2-mediated mutagenicity of aflatoxin B1. | Food Chem Toxicol
+- new | 2004 | 14585099 | Research Support, Non-U.S. Gov't | The parsley plastocyanin-turnip cytochrome f complex: a structurally distorted but kinetically functional acidic patch. | Biochem J
+- new | 2003 | 12943761 | Comparative Study/Research Support, Non-U.S. Gov't | Functional expression of cinnamate 4-hydroxylase from Ammi majus L. | Phytochemistry
+- new | 2002 | 12184670 | Case Reports | Berloque dermatitis induced by "Florida water". | Cutis
+- new | 2002 | 12365194 | Comparative Study | The effect of celery and parsley juices on pharmacodynamic activity of drugs involving cytochrome P450 in their metabolism. | Eur J Drug Metab Pharmacokinet
+- new | 2002 | 12438004 | Research Support, Non-U.S. Gov't | Protection by beverages, fruits, vegetables, herbs, and flavonoids against genotoxicity of 2-acetylaminofluorene and 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) in metab | Mutat Res
+- new | 2000 | 10674694 | Case Reports | Phytophotodermatitis in pigs exposed to parsley (Petroselinum crispum). | Vet Rec
+- new | 2000 | 12526565 | Research Support, Non-U.S. Gov't | The CrIIL reduction of [2Fe-2S] ferredoxins and site of attachment of CrIII using 1H NMR and site-directed mutagenesis. | Inorg Chem
+- new | 1999 | 9880345 |  | Regulation and functional expression of cinnamate 4-hydroxylase from parsley. | Plant Physiol
+- new | 1999 | 10435479 | Case Reports | Anaphylactic reaction to young garlic. | Allergy
+- new | 1997 | 9393965 | Research Support, Non-U.S. Gov't | Molecular cloning, expression and characterization of Pru a 1, the major cherry allergen. | Mol Immunol
+- new | 1997 | 9245741 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Preferential overexpression of a class MU glutathione S-transferase subunit in mouse liver by myristicin. | Biochem Biophys Res Commun
+- new | 1997 | 9405720 |  | Differentially regulated NADPH:cytochrome P450 oxidoreductases in parsley. | Proc Natl Acad Sci U S A
+- new | 1996 | 8771801 |  | The major birch pollen allergen, Bet v 1, shows ribonuclease activity. | Planta
+- new | 1996 | 8923020 | Review | Vegetables, fruit and phytoestrogens as preventive agents. | IARC Sci Publ
+- new | 1996 | 8914687 | Case Reports | Significant mercury deposits in internal organs following the removal of dental amalgam, & development of pre-cancer on the gingiva and the sides of the tongue and their represente | Acupunct Electrother Res
+- HELD REF-2616 | 1995 | 8540985 | Case Reports | Burns induced by plants. | Burns
+- new | 1995 | 7741963 | Case Reports | [A very significant case of allergy to celery cross-reacting with ragweed]. | Allerg Immunol (Paris) [fre]
+- new | 1995 | 8607564 |  | Diagnostic work-up for food-dependent, exercise-induced anaphylaxis. | Allergy
+- new | 1995 | 8562120 | Comparative Study/Research Support, Non-U.S. Gov't | Dietary effect on mixed function P450 1A2 activity assayed by estimation of caffeine metabolism in man. | Hum Exp Toxicol
+- new | 1995 | 8686573 | Case Reports/Research Support, Non-U.S. Gov't | Role of mercury (Hg) in resistant infections & effective treatment of Chlamydia trachomatis and Herpes family viral infections (and potential treatment for cancer) by removing loca | Acupunct Electrother Res
+- new | 1995 | 7588792 | Research Support, Non-U.S. Gov't | Molecular characterization of Api g 1, the major allergen of celery (Apium graveolens), and its immunological and structural relationships to a group of 17-kDa tree pollen allergen | Eur J Biochem
+- new | 1994 | 8204598 | Research Support, Non-U.S. Gov't | High-resolution solution structure of reduced parsley plastocyanin. | Biochemistry
+- new | 1993 | 8419109 | Case Reports | Phytophotodermatitis: a visit to Margaritaville. | Cutis
+- new | 1993 | 28314013 |  | Furanocoumarin metabolism in Papilio polyxenes: biochemistry, genetic variability, and ecological significance. | Oecologia
+- new | 1992 | 1423855 | Research Support, U.S. Gov't, P.H.S. | Inhibition of benzo[a]pyrene-induced tumorigenesis by myristicin, a volatile aroma constituent of parsley leaf oil. | Carcinogenesis
+- new | 1992 | 1571051 | Case Reports | [Etiology of hypersensitivity reactions following Chinese or Indonesian meals]. | Ned Tijdschr Geneeskd [dut]
+- new | 1990 | 2404325 | Review | Natural pesticides and bioactive components in foods. | Rev Environ Contam Toxicol
+- new | 1990 | 2373647 |  | [Pollinosis and oral allergy syndrome]. | HNO [ger]
+- new | 1990 | 2274036 | Research Support, Non-U.S. Gov't | Bean pathogenesis-related (PR) proteins deduced from elicitor-induced transcripts are members of a ubiquitous new class of conserved PR proteins including pollen allergens. | Mol Gen Genet
+- new | 1989 | 24272422 |  | Induction of cytochrome P450-mediated detoxification of xanthotoxin in the black swallowtail. | J Chem Ecol
+- new | 1987 | 3454174 |  | [Rules concerning allergy to celery (and other Umbellifera)]. | Allerg Immunol (Paris) [fre]
+- new | 1986 | 3023094 | Research Support, Non-U.S. Gov't | Differential response of cultured parsley cells to elicitors from two non-pathogenic strains of fungi. Microsomal conversion of (+)marmesin into psoralen. | Eur J Biochem
+- new | 1985 | 4037798 | Research Support, Non-U.S. Gov't | Elicitor induction of a microsomal 5-O-(4-coumaroyl)shikimate 3'-hydroxylase in parsley cell suspension cultures. | Arch Biochem Biophys
+- new | 1985 | 3856750 |  | Keats, Socrates and fool's parsley--water hemlock poisoning. | N C Med J
+- new | 1984 | 6734454 |  | [Food allergy: the celery-mugwort-spice syndrome. Association with mango allergy?]. | Dtsch Med Wochenschr [ger]
+- new | 1984 | 6499112 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | 32P-post-labelling analysis of DNA adducts formed in the livers of animals treated with safrole, estragole and other naturally-occurring alkenylbenzenes. I. Adult female CD-1 mice. | Carcinogenesis
+- new | 1984 | 6499113 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | 32P-post-labelling analysis of DNA adducts formed in the livers of animals treated with safrole, estragole and other naturally-occurring alkenylbenzenes. II. Newborn male B6C3F1 mi | Carcinogenesis
+- new | 1983 | 6304038 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Interaction of cytochrome c with the blue copper proteins, plastocyanin and azurin. | J Biol Chem
+- new | 1983 | 6884346 | Research Support, Non-U.S. Gov't | Induction and characterization of a microsomal flavonoid 3'-hydroxylase from parsley cell cultures. | Eur J Biochem
+- new | 1983 | 6825084 | Research Support, U.S. Gov't, P.H.S. | Structure-activity studies of the carcinogenicities in the mouse and rat of some naturally occurring and synthetic alkenylbenzene derivatives related to safrole and estragole. | Cancer Res
+- new | 1982 | 7115525 |  | [Contact dermatitis due to parsley]. | Vestn Dermatol Venerol [rus]
+- new | 1980 | 7389345 |  | Contact dermatitis from parsley (Petroselinum). | Contact Dermatitis
+- new | 1980 | 7451411 | Research Support, Non-U.S. Gov't | Electron transfer reactions of cytochrome f from Brassica komatsuna with hexacyanoferrate. | J Biochem
+- new | 1979 | 24318340 |  | Soluble and microsomal glutatione S-transferase activities in pea seedlings (Pisum sativum L.). | Planta
+- new | 1978 | 620667 |  | Purification and properties of monomeric cytochrome f from charlock, Sinapis arvensis L. | Eur J Biochem
+- new | 1977 | 190006 |  | The roles of c-type cytochromes in algal photosynthesis. Extraction from algae of a cytochrome similar to higher plant cytochrome f. | Eur J Biochem
+- new | 1975 | 1210329 |  | Phencyclidine--states of acute intoxication and fatalities. | West J Med
+- new | 1975 | 1162689 |  | [Fool's parsley poisoning in goats. (author's transl)]. | Tijdschr Diergeneeskd [dut]
+- new | 1970 | 4258457 |  | [Epidemiological studies of morbidity in a rural community. 3. An occupational dermatitis in gardeners caused by celery and parsley]. | Ig Mod [ita]
+- new | 1968 | 5706515 |  | [On poisoning with parsley used as an abortifacient]. | Folia Med (Napoli) [ita]
+- new | 1966 | 5903467 | Case Reports | Plant poisoning Umbelliferae (parsley family). | J Maine Med Assoc
+- new | 1965 | 5864028 |  | Purification and properties of cytochrome f from parsley leaves. | Biochim Biophys Acta
+- new | 1964 | 14145564 |  | [ALLERGY TO MARKET GARDEN PLANTS: ARTICHOKE, CELERY, PARSLEY]. | Concours Med [fre]
+- new | 1844 | 38122525 |  | Case of Death by Poisoning with the Leaves of Aconite or Monkshood, Passed off in Jest for Parsley. | Med Exam (Phila)
+
+### PubMed OBS - 24 hits, 15 not already listed above, 15 new
+- new | 2026 | 42520996 |  | Radiographic Factors Associated With Tibial Metaphyseal Sleeve Survivorship in Revision Total Knee Arthroplasty: A Matched Cohort Study. | J Arthroplasty
+- new | 2025 | 38625020 |  | Fresh Leafy Vegetables and Parasitic Contamination: Practical Solutions. | Foodborne Pathog Dis
+- new | 2024 | 38363587 |  | Predictive Criterion Validity of the Parsley Symptom Index Against the Patient-Reported Outcomes Measurement Information System-10 in a Chronic Disease Cohort: Retrospective Cohort | JMIR Form Res
+- new | 2024 | 38818429 |  | Utilization of barley and parsley for the management of urolithiasis among the Saudi Arabian population. | Urol Ann
+- new | 2024 | 39569258 |  | Prevention and Management of Urolithiasis With Parsley and Barley Among the Hail Population, Saudi Arabia: Is It Fact or Not? | Cureus
+- new | 2023 | 37597227 |  | [The gastric regenerative effect of consumption of Petroselinum sativum L. (parsley) in rats with gastritis induced by ethanol]. | Rev Gastroenterol Peru [spa]
+- new | 2023 | 37323295 |  | Investigating the Occurrence of Soil-Transmitted Parasites Contaminating Soil, Vegetables, and Green Fodder in the East of Nile Delta, Egypt. | J Parasitol Res
+- new | 2022 | 36326802 |  | Validity of the Parsley Symptom Index-an Electronic Patient-Reported Outcomes Measure Designed for Telehealth: Prospective Cohort Study. | JMIR Form Res
+- new | 2021 | 33548746 |  | Complementary and alternative medicine for urinary tract illnesses: A cross-sectional survey in Jordan. | Complement Ther Clin Pract
+- new | 2021 | 33999007 |  | The Development of a Digital Patient-Reported Outcome Measurement for Adults With Chronic Disease (The Parsley Symptom Index): Prospective Cohort Study. | JMIR Form Res
+- new | 2020 | 32928721 |  | The Prevalence of Parasitic Contamination of Fresh Vegetables in Tehran, Iran. | Turkiye Parazitol Derg
+- new | 2016 | 27302434 |  | Investigation of Parasitic Contaminations of Vegetables Sold in Markets in the City of Tabriz in 2014. | Glob J Health Sci
+- new | 2013 | 23726190 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Absence of direct association between coliforms and Escherichia coli in irrigation water and on produce. | J Food Prot
+- new | 2012 | 24688941 |  | Nitrate Determination of Vegetables in Varzeghan City, North-western Iran. | Health Promot Perspect
+- new | 2007 | 18622950 |  | Dietary intake of carotenoid isomers in Israel. | Int J Vitam Nutr Res
+
+### PubMed REV - 81 hits, 17 not already listed above, 15 new
+- HELD REF-0489 | 2024 | 38189231 | Review | Petroselinum crispum (Mill.) Fuss (Parsley): An Updated Review of the Traditional Uses, Phytochemistry, and Pharmacology. | J Agric Food Chem
+- new | 2024 | 39770706 | Review | Antibacterial, Antifungal, Antiviral Activity, and Mechanisms of Action of Plant Polyphenols. | Microorganisms
+- new | 2023 | 37518999 | Review | Phytochemical, Geographical, and Pharmacological Retrospect of Genus Torilis. | Curr Top Med Chem
+- new | 2022 | 35215476 | Review | Lutein and Zeaxanthin and Their Roles in Age-Related Macular Degeneration-Neurodegenerative Disease. | Nutrients
+- new | 2022 | 34580794 | Review | Excited State Complexes of Coumarin Derivatives. | J Fluoresc
+- new | 2022 | 36497603 | Review | Root Vegetables-Composition, Health Effects, and Contaminants. | Int J Environ Res Public Health
+- new | 2021 | 32815582 | Review | Treatment of melasma: a review of less commonly used antioxidants. | Int J Dermatol
+- new | 2020 | 31287738 | Review | The Role of Polyphenol (Flavonoids) Compounds in the Treatment of Cancer Cells. | Nutr Cancer
+- new | 2019 | 31244145 | Review | Antioxidant Activity of Natural Allylpolyalkoxybenzene Plant Essential Oil Constituents. | J Nat Prod
+- new | 2017 | 29211364 | Review | Insights into novel anticancer applications for apigenin. | Adv Clin Exp Med
+- new | 2015 | 25738871 | Review | Apigenin and Breast Cancers: From Chemistry to Medicine. | Anticancer Agents Med Chem
+- new | 2014 | 25203338 | Review | Involvement of liver in diabetes mellitus: herbal remedies. | Clin Ter
+- HELD REF-0546 | 2014 | 24374449 | Review | Critique of medicinal conspicuousness of Parsley(Petroselinum crispum): a culinary herb of Mediterranean region. | Pak J Pharm Sci
+- new | 2014 | 24492469 | Review | WRKY transcription factors: Jack of many trades in plants. | Plant Signal Behav
+- new | 2013 | 23197449 | Research Support, Non-U.S. Gov't/Review | Apigenin and its impact on gastrointestinal cancers. | Mol Nutr Food Res
+- new | 2006 | 16520011 | Research Support, Non-U.S. Gov't/Review | Bioactive polyacetylenes in food plants of the Apiaceae family: occurrence, bioactivity and analysis. | J Pharm Biomed Anal
+- new | 2002 | 12522584 | Review | Botanical medicines for the urinary tract. | World J Urol
+
+### ClinicalTrials.gov - 14 registered studies
+- NCT07228975 | COMPLETED | results=False | NA | Pilot Study on a Dietary Supplement With EndoGen™ as Adjunct Therapy in Women With Endometriosis | conds: Endometriosis | intr: MetrioFen Gocce
+- NCT05175391 | COMPLETED | results=False | NA | Improving Protein Intake in Older Adults | conds: Food Preferences | intr: Meat based protein with added spice; Plant based protein with added spice
+- NCT01142037 | COMPLETED | results=False | NA | Development of a Biomarker for Dietary Furanocoumarins | conds: Cancer, Healthy | intr: Cooked parsnips with parsley
+- NCT05594329 | COMPLETED | results=False | NA | Neurological, Inflammatory and Metabolic Effects of Acute Mushroom Intervention in Older Adults | conds: Cognitive Change, Mood, Metabolism, Inflammatory Response | intr: Instant noodle soup containing containing the equivalent of 2 servings (18.78g) of powdered Pleurotu
+- NCT06184906 | NOT_YET_RECRUITING | results=False | PHASE3 | Preventing Celiac Disease by Weaning With Mediterranean Diet | conds: Weaning Failure | intr: Weaning by Mediterranean Diet
+- NCT03468361 | WITHDRAWN | results=False | NA | Diuretic Effect Evaluation of Petroselinum Crispum (Parsley) in Hypertensive Patients | conds: Diurnal Enuresis, Hypertension | intr: Natural Product Petroselinum crispum (Parsley), Placebo
+- NCT03526081 | COMPLETED | results=False | NA | Absorption, Metabolism and Excretion of Apigenin and Apigenin Glycosides | conds: Healthy | intr: Chamomile Tea, Parsley based drink, Parsley Yogurt, Apigenin | pubs: ['35452808:DERIVED (new)']
+- NCT03064958 | COMPLETED | results=False | NA | The Acute Effect of Spices on Vascular Health | conds: Oxidative Stress | intr: Herbs and spices, High fat meal | pubs: ['32211803:DERIVED (new)']
+- NCT06516744 | COMPLETED | results=False | NA | A Single Group Study to Evaluate the Efficacy of Bye Bye Bloat Capsules in Relieving Bloating and Promoting Healthy Digestion. | conds: Digestive Health, Digestion | intr: Bye Bye Bloat Capsules
+- NCT06466408 | UNKNOWN | results=False | NA | Effect of Vegetable and Fruit Enzyme Supplementation on Muscle Activation, Aerobic Capacity, and Blood Biochemical Parameters After High-Int | conds: Overtraining Syndrome | intr: Supplementation Protocol, Blood Lactate Test, Training Impulse, Exergaming HIIE Test
+- NCT05848336 | COMPLETED | results=False | NA | The Gluten-Casein-free Diet in Children With Autism: A Clinical Results of the Ophthalmic and Behavioral Manifestations | conds: Autism Spectrum Disorder, Ophthalmic Abnormalities | intr: Gluten Free Casein Free Diet
+- NCT04882423 | TERMINATED | results=False | NA | Vegetable Intake Effect on Heterocyclic Amine Metabolism | conds: Colon Cancer | intr: grilled hamburger (7 oz) with no vegetables, grilled hamburger (7 oz) with steamed broccoli and Brus
+- NCT06610812 | COMPLETED | results=False | NA | "KETOGENIC MEDITERRANEAN VERSUS HYPOCALORIC BALANCED DIET ON POLYCYSTIC OVARIAN ADOLESCENTS" | conds: Polycystic Ovary Disease | intr: KETOGENIC MEDITERRANEAN diet, hypo-caloric diet:, moderate aerobic exercises
+- NCT00778648 | COMPLETED | results=True | NA | Encapsulated Juice Powder Concentrate for Preventing Common Cold Symptoms | conds: Common Cold | intr: Juice Plus, Placebo
+
+### OpenAlex no-PMID trial-worded - 963 hits, 68 without PMID, 68 new
+- new | 2026 | 10.9734/aprj/2026/v14i1357 | article | Phytotherapy in Cancer Patients: Survey Conducted in Two Hospitals in Dakar (Senegal) | Asian Plant Research Journal
+- new | 2026 | 10.1016/j.ctmp.2026.200273 | article | Therapeutic relevance of Petroselinum crispum: Phytochemical insights, pharmacological evidence, formulation approaches and clinical perspectives | Clinical Traditional Medicine and Pharma
+- new | 2026 | 10.1016/j.jnrt.2026.100326 | article | Neuroprotective effects of Petroselinum crispum extract on brain damage caused by stress: Behavioral, biochemical and histological restoration | Journal of Neurorestoratology
+- new | 2026 | 10.1016/j.jarmap.2026.100713 | article | Impact of varying nitrogen fertilization regimes on growth dynamics, phytochemical accumulation, and functional bioactivities of parsley (Petroselinum crispum (Mill.) Fuss) cultiva | Journal of Applied Research on Medicinal
+- new | 2025 | 10.1007/s42535-025-01253-7 | article | Medicinal plants for urolithiasis: a patient-based ethnobotanical survey in northwest algeria | Vegetos
+- new | 2025 | 10.3390/cosmetics12060285 | article | Photoprotective Effects of Oral Coriander (Coriandrum sativum L.) Seed Oil Supplementation Against UV-Induced Skin Damage: Evidence from Two Randomized, Double-Blind, Placebo-Contr | Cosmetics
+- new | 2025 | 10.36899/japs.2025.1.0013 | article | AQUEOUS AND ALCOHOLIC PARSLEY (Petroselinum crispum) EXTRACTS SUPPLEMENTED INTO DRINKING WATER AND STOCKING DENSITY AFFECT PRODUCTIVE PERFORMANCE AND ANTIOXIDANT STATUS OF BROILERS | The Journal of Animal and Plant Sciences
+- new | 2025 | 10.1016/j.jarmap.2025.100623 | article | Mechanical intra-row weed control at early growth stages in medicinal and aromatic plants using the example of parsley (Petroselinum crispum (Mill.) Fuss) and lemon balm (Melissa o | Journal of Applied Research on Medicinal
+- new | 2024 | 10.62225/2583049x.2024.4.5.3230 | article | Response of Parsley (Petroselinum Crispum) to Different Types of Bio-Inoculants | International Journal of Advanced Multid
+- new | 2024 | 10.1016/j.pmpp.2024.102477 | article | Effect of viral-inoculation on the morphology, physiology, and phytochemistry of parsley (Petroselinum crispum) | Physiological and Molecular Plant Pathol
+- new | 2024 | 10.31559/vmph2024.5.2.19 | article | Evaluation Study of Petroselinum Crispum Extract Toward Pathogenic Isolates of candida | Veterinary Medicine and Public Health Jo
+- new | 2024 | https://openalex.org/W7216735303 | article | Characterization of Bioactive Metabolites Released from Proteus mirabilis isolated from UTI patients and Evaluation of Antibacterial activity Using Trigonella foenum-graecum, Petro | Current Clinical and Medical Education
+- new | 2024 | 10.21273/hortsci18240-24 | article | Apigenin Accumulation in Matricaria chamomilla and Petroselinum crispum Produced in a Vertical Hydroponic System | HortScience
+- new | 2024 | 10.1016/j.phyplu.2024.100524 | article | Medicinal plants for gallstones: A cross-sectional survey of Moroccan patients | Phytomedicine Plus
+- new | 2024 | 10.1016/j.hermed.2024.100892 | article | Herbal products versus antibiotics for urinary tract infections-analysis of patient attitudes | Journal of Herbal Medicine
+- new | 2023 | https://openalex.org/W7215564337 | article | Contribution of Biological Activity of Some Secondary Metabolites of Petroselinum Crispum (Mill.) Fuss, Against Bacteria Isolated From Patients' Urinary Tract Infections | Scholastic: Journal of Natural and Medic
+- new | 2023 | 10.9734/ibrr/2023/v14i3310 | article | Evaluation of Haemostatic Effects of Petroselinum crispum (Parsley) in Wistar Rats | International Blood Research & Reviews
+- new | 2023 | 10.61186/yujs.10.1.1 | article | The effect of biopriming and gibberellin on the quality and germination properties of parsley seed (Petroselinum crispum) | Journal of Seed Research
+- new | 2023 | 10.30659/sainsmed.v14i2.23678 | article | Traditional herbal medicine for hyperuricemia: A review of randomized clinical trials | Sains Medika Jurnal Kedokteran dan Keseh
+- new | 2023 | 10.21608/jfds.2023.216670.1116 | article | Preparation Cupcake Samples Fortified with some Herbs for Kidney Patients. | Journal of Food and Dairy Sciences
+- new | 2022 | 10.26444/jpccr/150090 | article | A randomized controlled trial evaluating the efficacy and safety of a MYCOFUNGI CREAM in patients with skin mycoses | Journal of Pre-Clinical and Clinical Res
+- new | 2022 | 10.18047/poljo.28.2.1 | article | The effect of nitrogen, magnesium and iron applications on the nutrient content of parsley (Petroselinum crispum) | Poljoprivreda
+- new | 2022 | 10.1002/ndr2.12059 | article | First report of Apium virus Y infecting Petroselinum crispum in Turkey | New Disease Reports
+- new | 2022 | 10.34172/fnp.2022.05 | article | Efficacy of hydroalcoholic Petroselinum crispum L. leaf extract on pentylenetetrazole-induced seizure in rats | Future natural products.
+- new | 2022 | 10.21608/sjsep.2022.274793 | article | Effects of vitamin D injection and natural products on Blood Glucose Level of Diabetic Patient With Vitamin D Deficiency | Al-Mağallah Al-ՙilmiyyaẗ Li ʿulūm Al-Tar
+- new | 2021 | 10.21608/jappmu.2021.206288 | article | Utilization of Parsley (Petroselinum crispum) as Feed Additive for Broiler Chickens Performance | Journal of Animal and Poultry Production
+- new | 2021 | 10.21608/jcbr.2020.45551.1077 | article | Protective efficiency of parsley (Petroselinum crispum) against oxidative stress, DNA damage and nephrotoxicity induced with anti- tuberculosis drugs | International Journal of Cancer and Biom
+- new | 2021 | 10.22059/ijvm.2021.312948.1005139 | article | Effects of Parsley (Petroselinum Crispum) Hydroalcoholic Extract on Spermatogenesis and Pituitary- Gonadal Axis in Streptozotocin-Induced Diabetic Male Rat | Iranian Journal of Veterinary Medicine
+- new | 2021 | 10.9775/kvfd.2021.26163 | article | Kurşun Toksikasyonu Oluşturulan Ratlarda Maydanoz Yapraklarının (Petroselinum crispum) Sulu-Alkollü Ekstraktı Karaciğer Hasarını Hafifletir | Kafkas Universitesi Veteriner Fakultesi 
+- new | 2021 | https://openalex.org/W4226443553 | article | Enhancing Productivity and Quality of Parsley (Petroselinum crispum (Mill.) Nyman ex A. W. Hill) by Plant Growth Regulator Application | DergiPark
+- new | 2021 | 10.5937/ffr48-34625 | article | Arsenic content and phenolic compounds in parsley ('Petroselinum' crispum (mill.) fuss) and celery ('Apium graveolens' L.) cultivated in Vojvodina region, Serbia | Food and Feed Research
+- new | 2021 | 10.24018/ejfood.2021.3.1.220 | article | Research and Comparison of Different Levels of Fertilizer Nano Zinc Chelates and Zinc Sulfate and Its Effect on the Growth Parameters of Parsley (Petroselinum crispum L.) | European Journal of Agriculture and Food
+- new | 2021 | 10.24843/jbeta.2022.v10.i01.p10 | article | Pengaruh Ketebalan Plastik Polietilen Densitas Rendah sebagai Bahan Pengemas terhadap Mutu Peterseli (Petroselinum crispum L.) selama Penyimpanan Suhu Dingin | Jurnal BETA (Biosistem dan Teknik Pertan
+- new | 2020 | 10.4103/epj.epj_58_19 | article | Coronary angiogenesis diabetic rats during consumption of Petroselinum crispum | Egyptian Pharmaceutical Journal
+- new | 2020 | 10.3923/pjn.2020.80.85 | article | Antioxidant Activities of Parsley (Petroselinum crispum) on the Induced Biochemical and Histopathological Changes of Potassium Bromate-Fed Rats | Pakistan Journal of Nutrition
+- new | 2019 | 10.29252/sjku.24.1.11 | article | The effects of Petroselinum crispum extract on milk production parameters in female rats | Scientific Journal of Kurdistan Universi
+- new | 2019 | 10.5539/jas.v11n4p493 | article | Growth Promotion of Parsley (Petroselinum crispum L.) Using Commercial Strains of Trichoderma spp. | Journal of Agricultural Science
+- new | 2018 | 10.1007/s13596-018-0353-7 | article | Parsley (Petroselinum crispum) supplementation attenuates serum uric acid level and improves liver and kidney structures in oxonate-induced hyperuricemic rats | Oriental Pharmacy and Experimental Medic
+- new | 2018 | 10.9734/jeai/2017/37891 | article | The Effect of Different Doses of Calcium Nitrate Applications on Some Phytonutrient Element Contents of Leafy Parsley (Petroselinum crispum (Mill.)) Plant | Journal of Experimental Agriculture Inte
+- new | 2018 | 10.22259/2637-5362.0201002 | article | Hepatoprotective Effect of Some Medicinal Plants and Herbs against Hepatic Disorders Induced by Hepatotoxic Agents | Journal of Biotechnology and Bioengineer
+- new | 2018 | https://openalex.org/W2895371157 | article | The Effect of Parsley in the Treatment of UTI in Iraqi Patients | International Journal of Medical Researc
+- new | 2017 | 10.37855/jah.2017.v19i02.20 | article | Response of parsley (Petroselinum crispum) to different application rates of organic fertilizer | Journal of Applied Horticulture
+- new | 2017 | https://openalex.org/W2795127920 | article | Effect of terpenoid extract of Petroselinum crispum seed in some fertility parameters and blood parameters in white male rats. | Al-Qadisiyah Journal Of Pure Science
+- new | 2017 | 10.9734/jaeri/2017/36578 | article | Percentage Germination and Seedling Evaluation Parameters of Parsley (Petroselinum crispum) Seeds as Affected by Different Priming Treatments and Durations | Journal of Agriculture and Ecology Resea
+- new | 2017 | 10.22456/1679-9216.86175 | article | Utilização de creme de papaína e extrato liofilizado das raízes de salsa (Petroselinum crispum) contra Escherichia coli multirresistente em abscesso em equino | ACTA SCIENTIAE VETERINARIAE
+- new | 2016 | 10.1080/10412905.2016.1222315 | article | Volatile oil features of a naturalized population of parsley [Petroselinum crispum(Mill) Nyman] suitable for breeding | Journal of Essential Oil Research
+- new | 2016 | https://openalex.org/W2928087025 | article | EFFECT OF PARSLEY SEEDS (Petroselinum crispum) AS FEED ADDITIVE ON PRODUCTIVE PERFORMANCE IN JAPANESE LAYING QUAILS | Diyala Agricultural Sciences Journal
+- new | 2016 | 10.48347/imist.prsm/ajmap-v2i2.6692 | article | Phytochemical screening of Petroselinum crispum (Mill.) Fuss and in vitro evaluation of its antimicrobial activity against some uropathogens | Arabian Journal of Medicinal and Aromati
+- new | 2016 | 10.5073/jka.2016.453.020 | conference-paper | Ex-situ evaluation of morphological, agronomic and qualitative traits of a naturalized population of parsley (Petroselinum crispum (Mill) Nyman]) | Federal Research Centre for Cultivated P
+- new | 2015 | https://openalex.org/W2183367214 | article | The role of nitric oxide and opioid receptors in antispasmodic activity of Petroselinum crispum (parsley) seed extract on rat ileum | KAUMS Journal
+- new | 2014 | 10.2478/jppr-2014-0044 | article | Fumigant Toxicity of Petroselinum Crispum L. (Apiaceae) Essential Oil on Trialeurodes Vaporariorum (Westwood) (Hemiptera: Aleyrodidae) Adults Under Greenhouse Conditions | Journal of Plant Protection Research
+- new | 2013 | https://openalex.org/W2146833264 | article | Medicinal plants grown in soil amended with struvite recovered from anaerobically pretreated poultry manure wastewater. | Yildiz Technical University - AVESIS
+- new | 2012 | 10.1007/s11164-012-0874-5 | article | Antibacterial activity of an aqueous extract of Petroselinum crispum leaves against pathogenic bacteria isolated from patients with burns infections in Al-najaf Governorate, Iraq | Research on Chemical Intermediates
+- new | 2012 | https://openalex.org/W2915340009 | article | Inhibitory Effect of Parsley (Petroselinum Crispum) Juice Against Some Urinary Pathogens in Vitro | Iraqi postgraduate Medical Journal
+- new | 2012 | 10.5897/ajb11.4169 | article | Effects of a certified organic fertilizer on the yield and market quality of root parsley (Petroselinum crispum (Mill) Nym. ex A.W. Hill ssp. tuberosum (Bernh.) Crov.) | AFRICAN JOURNAL OF BIOTECHNOLOGY
+- new | 2011 | https://openalex.org/W2379450029 | article | Experimental Study on Protective Effect of Petroselinum crispum Root Extration against D-galactosami Induced Acute Liver Injury | Zhongguo yaofang
+- new | 2010 | 10.1055/s-0030-1264897 | article | Effect of parsley (Petroselinum crispum) extract on intra-abdominal fat deposition in mice | Planta Medica
+- new | 2009 | 10.1016/j.scienta.2008.11.038 | article | Improvement of soil properties using compost for optimum parsley production in sandy soils | Scientia Horticulturae
+- new | 2009 | 10.1002/ejlt.200800178 | article | Triacylglycerols of Apiaceae seed oils: Composition and regiodistribution of fatty acids | European Journal of Lipid Science and Te
+- new | 2008 | 10.22067/gsc.v6i2.2436 | article | تأثیر غلظت های مختلف نیکل بر خصوصیات مورفوفیزیولوژیکی گیاه جعفری (Petroselinum crispum) | پژوهشهای زراعی ایران
+- new | 2008 | https://openalex.org/W2753931155 | article | Rendimiento y calidad de semillas de perejil (Petroselinum crispum L.). Efecto de diferentes dosis de nitrógeno | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2007 | 10.3923/pjn.2007.310.312 | article | Use of Herbs by the Patients with Diabetes in Kayseri, Turkey | Pakistan Journal of Nutrition
+- new | 2002 | 10.1016/s0261-2194(02)00066-2 | article | Tolerance of parsley varieties to Orobanche | Crop Protection
+- new | 1999 | 10.70151/kgns6215 | article | Qualidade Pós-Colheita de Achillea millefolium L., Origanum vulgare L. e Petroselinum crispum (Miller) A.W. Hill em Três Embalagens | Revista Brasileira de Plantas Medicinais
+- new | 1999 | https://openalex.org/W815955288 | article | 1998 Muck Crop Cultivar Trials: Dry Onions, Green Onions, Leeks, Lettuce, Parsley, Radishes | The Knowledge Bank (The Ohio State Unive
+- new | 1985 | 10.21273/hortsci.20.3.449 | article | Training Volunteer Fieldmen to Conduct Trials for Minor Crop Herbicide Registrations | HortScience
+- new | 1980 | 10.1515/znc-1980-9-1010 | article | Randomization of the Flavonoid A Ring during Biosynthesis of Kaempferol from [1,2 -13C2] Acetate in Cell Suspension Cultures of Parsley | Zeitschrift für Naturforschung C
+- new | 1980 | https://openalex.org/W1149375612 | article | Trials on storing spinach, French beans, parsley and leeks by vacuum pre-cooling combined with modified atmospheres and cold. | 
+
+## pimpinella-anisum (Pimpinella anisum) - name clause: "Pimpinella anisum"[tiab] OR "aniseed"[tiab] OR "anise seed"[tiab] OR "anise"[tiab]
+
+### PubMed HT - 79 hits, 79 not already listed above, 76 new
+- new | 2026 | 42089389 | Systematic Review/Meta-Analysis | Olfactory stimulation for promoting development and preventing morbidity in preterm infants. | Cochrane Database Syst Rev
+- new | 2026 | 42572206 | Systematic Review/Meta-Analysis | Systematic Review and Meta-Analysis: Plant-Based Therapy for Irritable Bowel Syndrome. | Phytother Res
+- new | 2026 | 42935088 | Randomized Controlled Trial | Efficacy and Safety of Ushaq Capsule as Adjunctive Therapy in Patients With Lumbar Radiculopathy: A Double-Blind, Randomized, Placebo-Controlled Clinical Trial at Imam Khomeini Hos | Musculoskeletal Care
+- new | 2026 | 42152642 | Randomized Controlled Trial | Efficacy of Pimpinella anisum L. in Menopausal Women with Psychological Symptoms: A Randomized Controlled Study Integrated with Machine Learning Analysis. | Curr Pharm Des
+- SEEN | 2026 | 41653970 | Systematic Review/Meta-Analysis | Efficacy of herbaceous Apiaceae plants in primary dysmenorrhea: A systematic review and meta-analysis of RCTs. | Ann Pharm Fr
+- new | 2026 | 42802916 |  | Health Claims, Labeling Practices, and Consumer Information Characteristics of Herbal Lactation Teas Marketed to Breastfeeding Women in Türkiye: A Cross-Sectional Digital Marketpla | Breastfeed Med
+- new | 2026 | 42855851 |  | Ensemble-Based Machine Learning Models for Classifying Intervention-Related Psychological Outcome Patterns in Menopausal Women Treated With Pimpinella anisum. | Brain Behav
+- new | 2026 | 41350450 | Systematic Review | Herbal galactagogues to improve breastmilk production and lactation in mothers of preterm babies: a systematic review of clinical trials. | Eur J Clin Nutr
+- new | 2026 | 42470701 | Systematic Review | From Visceral Pain to Emotional Distress: Comparative Effectiveness of Antispasmodics and Antidepressants in Irritable Bowel Syndrome - Systematic Review and Network Meta-analysis. | J Gastrointestin Liver Dis
+- HELD REF-0026 | 2025 | 41306764 | Review | Spices, herbs and allergic reactions in children: myth or reality - a narrative review with scoping elements. | Front Allergy
+- new | 2025 | 39514279 | Randomized Controlled Trial | Exploring the Effects of a Calming Herbal Tea Blend on Perioperative Anxiety: A Randomized Clinical Trial. | J Med Food
+- new | 2025 | 40014560 |  | Exploring the impact of herbaceous Apiaceae family plants on primary dysmenorrhea: a systematic review protocol. | J Complement Integr Med
+- new | 2025 | 40045608 |  | Effects of dietary star anise (Illicium verum) supplementation during late gestation and lactation on the performance of multiparous sows and their progeny until 21 days post-weani | Anim Biosci
+- new | 2025 | 40282000 |  | The Effect of a Phytobiotic, Probiotic, and Their Combination as Feed Additives on Growth Performance of Weaned Holstein Male Dairy Calves. | Animals (Basel)
+- new | 2024 | 39104271 |  | [Adaptation for use In Russia of the extended odor identification Sniffin' Sticks test]. | Vestn Otorinolaringol [rus]
+- new | 2024 | 38937193 | Randomized Controlled Trial | Effects of a traditional herbal formula containing Melissa officinalis, Pimpinella anisum, and Rosa damascena on anxiety and depression in patients with constipation-predominant ir | Explore (NY)
+- new | 2024 | 39457263 |  | Investigating Pregnant Women's Attitudes toward Herbal Remedies: A Cross-Sectional Study. | Int J Environ Res Public Health
+- new | 2024 | 38292939 |  | Efficacy and safety of aniseed powder for treating gastrointestinal symptoms of COVID-19: a randomized, placebo-controlled trial. | Front Pharmacol
+- new | 2024 | 39533447 |  | The use of complementary and alternative medicine among surgical patients: a cross-sectional study. | Perioper Med (Lond)
+- new | 2024 | 39446725 | Observational Study/Research Support, Non-U.S. Gov't | Exploring galactagogue use among breastfeeding women: Insights from an observational study. | PLoS One
+- new | 2024 | 38518237 |  | Study of the spread of medicinal herbs use among patients suffering from chronic diseases in Iraq. | Pol Merkur Lekarski
+- new | 2024 | 37477659 | Research Support, Non-U.S. Gov't | Perceptions of medicinal herbal products during the COVID-19 pandemic period among Saudi patients: a cross-sectional study. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2024 | 39104272 | Validation Study | [Development and validation of Russian olfactory test]. | Vestn Otorinolaringol [rus]
+- new | 2023 | 37909586 |  | Volatile organic compounds (VOCs) of essential oils for the control of Fusarium oxysporum in cherry tomato seeds. | Braz J Biol
+- new | 2023 | 37942378 |  | Public Use of Complementary Medicine for Children in Saudi Arabia: A Questionnaire-Based Cross-Sectional Study. | Cureus
+- new | 2023 | 36670030 | Observational Study | Persistent olfactory dysfunction in mild COVID-19 patients: A descriptive study of the characteristics and association with other symptoms. | Med Clin (Barc) [eng,spa]
+- new | 2023 | 36777676 |  | Tributyrin and anise mixture supplementation improves growth performance, nutrient digestibility, jejunal villus height, and fecal microbiota in weaned pigs. | Front Vet Sci
+- new | 2023 | 40756665 |  | Anise and grape seed oils as a feed additive to improve the performance, immune response, and antioxidant activity and reduce caecal pathogenic microbes of quail. | Arch Anim Breed
+- new | 2023 | 37128500 | Case Reports | Persistent olfactory dysfunction in mild COVID-19 patients: A descriptive study of the characteristics and association with other symptoms. | Med Clin (Engl Ed)
+- new | 2023 | 38116546 |  | Effects of Komouni Formulation (Herbal Product of Persian Medicine) With a Low-Calorie Diet on Cardiometabolic Risk Factors in Overweight and Obese Women: A Triple-Blinded Randomiz | Iran J Pharm Res
+- new | 2023 | 37323050 | Systematic Review/Research Support, Non-U.S. Gov't | Non-Chinese herbal medicines for functional dyspepsia. | Cochrane Database Syst Rev
+- new | 2023 | 36681821 | Randomized Controlled Trial | The effect of Pimpinella Anisum herbal tea on human milk volume and weight gain in the preterm infant: a randomized controlled clinical trial. | BMC Complement Med Ther
+- new | 2022 | 35326185 |  | The Protective Effect of Anethole against Renal Ischemia/Reperfusion: The Role of the TLR2,4/MYD88/NFκB Pathway. | Antioxidants (Basel)
+- new | 2022 | 36589129 |  | Use of stability statistics in the selection of Clausena heptaphylla (Roxb.) Wight & Arn for novel anethole rich strain (Jor Lab CH-2). | Front Plant Sci
+- new | 2022 | 35937352 |  | Efficacy of biological agents and fillers seed coating in improving drought stress in anise. | Front Plant Sci
+- new | 2021 | 34366223 | Published Erratum | Corrigendum to "Efficacy of Anise (Pimpinella anisum L.) oil for migraine headache: A pilot randomized placebo-controlled clinical trial" [J. Ethnopharmacol. 236 (2019) 155-160]. | J Ethnopharmacol
+- new | 2021 | 33412511 |  | TCM use in pregnant women and nursing mothers: A study from Turkey. | Complement Ther Clin Pract
+- new | 2021 | 34195261 | Randomized Controlled Trial | Crossover Analysis of the Astringent, Antimicrobial, and Anti-inflammatory Effects of Illicium verum/Star Anise in the Oral Cavity. | Biomed Res Int
+- new | 2021 | 34064950 | Research Support, Non-U.S. Gov't | Patients' Behavior Regarding Dietary or Herbal Supplements before and during COVID-19 in Saudi Arabia. | Int J Environ Res Public Health
+- new | 2021 | 34917428 |  | Pattern and Factors Associated With the Utilization of Herbs As Medications Among Patients in a Tertiary Care Hospital in Western Saudi Arabia. | Cureus
+- new | 2020 | 31987249 | Meta-Analysis/Systematic Review | Western herbal medicines in the treatment of irritable bowel syndrome: A systematic review and meta-analysis. | Complement Ther Med
+- new | 2020 | 32850202 | Review | Pharmacological and Non-pharmacological Treatments of Irritable Bowel Syndrome and Their Impact on the Quality of Life: A Literature Review. | Cureus
+- new | 2020 | 32692701 |  | Could Anise decrease the intensity of premenstrual syndrome symptoms in comparison to placebo? A double-blind randomized clinical trial. | J Complement Integr Med
+- new | 2019 | 30853645 | Randomized Controlled Trial | Efficacy of Anise (Pimpinella anisum L.) oil for migraine headache: A pilot randomized placebo-controlled clinical trial. | J Ethnopharmacol
+- new | 2019 | 30482029 | Systematic Review | Complementary and Alternative Medicine in Chronic Rhinosinusitis: A Systematic Review and Qualitative Analysis. | Am J Rhinol Allergy
+- new | 2019 | 30957134 |  | Prevalence of herbal medicines in patients with chronic allergic disorders in Western Saudi Arabia. | Saudi Med J
+- new | 2019 | 30005170 | Randomized Controlled Trial | The Safety of Mother's Milk® Tea: Results of a Randomized Double-Blind, Controlled Study in Fully Breastfeeding Mothers and Their Infants. | J Hum Lact
+- new | 2019 | 30982867 | Research Support, U.S. Gov't, Non-P.H.S./Systematic Review | Influence of maternal diet on flavor transfer to amniotic fluid and breast milk and children's responses: a systematic review. | Am J Clin Nutr
+- new | 2019 | 31763211 |  | Effect of an herbal capsule on chronic constipation among menopausal women: A randomized controlled clinical trial. | Avicenna J Phytomed
+- new | 2018 | 29119319 | Randomized Controlled Trial | Olfactory stimulation may promote oral feeding in immature newborn: a randomized controlled trial. | Eur Arch Otorhinolaryngol
+- new | 2017 | 29137614 | Systematic Review | Safety classification of herbal medicines used among pregnant women in Asian countries: a systematic review. | BMC Complement Altern Med
+- new | 2017 | 26873392 | Randomized Controlled Trial | Effectiveness of Anise Oil for Treatment of Mild to Moderate Depression in Patients With Irritable Bowel Syndrome: A Randomized Active and Placebo-Controlled Clinical Trial. | J Evid Based Complementary Altern Med
+- new | 2016 | 27294213 | Review | The efficacy of Iranian herbal medicines in alleviating hot flashes: A systematic review. | Int J Reprod Biomed
+- new | 2016 | 27656655 |  | Hypothyroidism Affects Olfactory Evoked Potentials. | Biomed Res Int
+- new | 2016 | 27400742 |  | Use of complementary and alternative medicines in haemodialysis patients: a cross-sectional study from Palestine. | BMC Complement Altern Med
+- new | 2016 | 27218285 | Randomized Controlled Trial | Evaluation of a novel natural drop for treatment of chronic rhinosinusitis without nasal polyps: a single blind randomized trial. | Int Forum Allergy Rhinol
+- new | 2016 | 27815079 | Randomized Controlled Trial | Efficacy and safety of enteric coated capsules of anise oil to treat irritable bowel syndrome. | J Ethnopharmacol
+- new | 2015 | 25767516 |  | Pimpinella anisum in the treatment of functional dyspepsia: A double-blind, randomized clinical trial. | J Res Med Sci
+- new | 2015 | 26162600 |  | Evaluation of potential drug- herb interactions among a group of Palestinian patients with chronic diseases. | BMC Complement Altern Med
+- new | 2015 | 25637811 | Randomized Controlled Trial/Research Support, U.S. Gov't, Non-P.H.S. | Oxytocin administration selectively improves olfactory detection thresholds for lyral in patients with schizophrenia. | Psychoneuroendocrinology
+- new | 2014 | 25709650 |  | Pimpinella anisum in modifying the quality of life in patients with functional dyspepsia: A double-blind randomized clinical trial. | J Res Med Sci
+- new | 2013 | 26784340 |  | Determination of Radical Scavenging Activity and Total Phenols of Wine and Spices: A Randomized Study. | Antioxidants (Basel)
+- new | 2013 | 23933314 |  | Use of herbal medicines during pregnancy in a group of Palestinian women. | J Ethnopharmacol
+- new | 2012 | 24250540 |  | The Study on the Effects of Pimpinella anisum on Relief and Recurrence of Menopausal Hot Flashes. | Iran J Pharm Res
+- new | 2010 | 20433751 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Randomized clinical trial of a phytotherapic compound containing Pimpinella anisum, Foeniculum vulgare, Sambucus nigra, and Cassia augustifolia for chronic constipation. | BMC Complement Altern Med
+- new | 2010 | 19343362 | Comparative Study/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Clinical trial showing superiority of a coconut and anise spray over permethrin 0.43% lotion for head louse infestation, ISRCTN96469780. | Eur J Pediatr
+- new | 2010 | 20640288 |  | [Use of complementary therapies by mothers in their children: study at an university hospital]. | Cien Saude Colet [por]
+- new | 2009 | 19720342 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effect of an Iranian herbal drug on primary dysmenorrhea: a clinical controlled trial. | J Midwifery Womens Health
+- new | 2008 | 18630390 |  | Herbal remedies for dyspepsia: peppermint seems effective. | Prescrire Int
+- new | 2006 | 16821538 | Clinical Trial | [Estimation of smell sense rehabilitation in patients after total laryngectomy]. | Otolaryngol Pol [pol]
+- new | 2005 | 16391481 | Clinical Trial/Research Support, Non-U.S. Gov't | Open trial to assess aspects of safety and efficacy of a combined herbal cough syrup with ivy and thyme. | Forsch Komplementarmed Klass Naturheilkd
+- new | 2003 | 15277119 |  | The effect of a herbal water-extract on histamine release from mast cells and on allergic asthma. | J Herb Pharmacother
+- new | 2002 | 12389342 | Clinical Trial/Comparative Study/Randomized Controlled Trial | The in vivo pediculicidal efficacy of a natural remedy. | Isr Med Assoc J
+- new | 2002 | 12027075 | Case Reports | Occupational rhinoconjunctivitis and food allergy because of aniseed sensitization. | Ann Allergy Asthma Immunol
+- new | 1998 | 9844306 | Clinical Trial/Controlled Clinical Trial | Olfactory disorders induced by cadmium exposure: a clinical study. | Int J Occup Med Environ Health
+- HELD REF-5362 | 1991 | 1957997 | Research Support, Non-U.S. Gov't | Spice allergy in celery-sensitive patients. | Allergy
+- new | 1988 | 3366415 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Influence of dose size on the disposition of trans-[methoxy-14C]anethole in human volunteers. | Food Chem Toxicol
+- new | 1986 | 3950255 | Research Support, Non-U.S. Gov't | Food skin testing in patients with idiopathic anaphylaxis. | J Allergy Clin Immunol
+- new | 1984 | 6526226 | Case Reports | [Pseudohyperaldosteronism induced by alcohol-free aniseed aperitif in alcoholic cirrhotic patients]. | Gastroenterol Clin Biol [fre]
+
+### PubMed SR - 19 hits, 7 not already listed above, 7 new
+- new | 2026 | 40608001 | Review | Aspartame and Its Potential Neurocognitive Effects in Humans. | Nutr Rev
+- new | 2025 | 40916307 | Scoping Review | A Scoping Review of Chemical, Pharmacological and Toxicological Properties and Clinical Applications of Australian Indigenous Medicine. | Biomed Pharmacother
+- new | 2025 | 39659255 | Systematic Review | The Effect of Olfactory Stimulation on Growth Parameters in Newborn Infants: A Systematic Review. | Breastfeed Med
+- new | 2021 | 32525777 | Systematic Review | Persian Herbal Medicine in Functional Dyspepsia: A Systematic Review. | Curr Drug Discov Technol
+- new | 2020 | 32498276 |  | Effects of Essential Oils on Escherichia coli Inactivation in Cheese as Described by Meta-Regression Modelling. | Foods
+- new | 2019 | 31143299 | Review | Herbs and Spices- Biomarkers of Intake Based on Human Intervention Studies - A Systematic Review. | Genes Nutr
+- new | 2006 | 30000835 | Review | Anise. | 
+
+### PubMed SAFE - 171 hits, 136 not already listed above, 132 new
+- new | 2026 | 40770474 | Review | Natural Oil and Polycystic Ovary Syndrome: A Comprehensive Review of Therapeutic Benefits. | Curr Top Med Chem
+- new | 2026 | 41842832 |  | Essential and toxic metal contamination in Algerian spices and consumer health risk assessment. | Int J Environ Health Res
+- new | 2026 | 42675451 |  | Biogenic Silver Nanoparticles Mediated by Phytoconstituents of the Edible Spice Pimpinella anisum: Characterization and In Vitro, In Vivo, and In Silico Biological Evaluation. | J Food Sci
+- HELD REF-0156 | 2026 | 40341008 | Review | Allergic reactions to spices: a review of sensitivities to pepper, cumin, oregano, anise, mustard and other spices. | Eur Ann Allergy Clin Immunol
+- new | 2026 | 42042454 |  | Synergistic Adulticidal Activity of Lemongrass (Cymbopogon citratus), Star Anise (Illicium verum), Nutmeg (Myristica fragrans) Essential Oil and Their Components Against the Housef | Insects
+- new | 2026 | 41513712 |  | Exploring the use of complementary and alternative medicine for influenza management: a cross-sectional study from Palestine. | Sci Rep
+- new | 2026 | 42666442 |  | Phytochemical Profiling and Antibacterial Activity of Moroccan Monofloral Honeys Against Multidrug-Resistant Uropathogens: In Vitro, ADMET, Molecular Docking, and Molecular Dynamic | Food Sci Nutr
+- new | 2025 | 39316255 |  | Anise essential oil immobilized in chitosan microparticles: a novel bactericidal material for food protection. | Int Microbiol
+- new | 2025 | 40069955 |  | Metabolic Activation of trans-Anethole Plays a Role in Hepatic Cytotoxicity in Mice. | J Agric Food Chem
+- new | 2025 | 40852254 |  | Pharmacokinetic Profile and Evaluation of Acute and Subchronic Oral Toxicity of Shikimic Acid in Mice. | ACS Omega
+- new | 2025 | 40454886 |  | Effects of Dietary Anise (Pimpinella anisum L.) Oil on Growth Performance, Blood Parameters and Muscle Nutrient Content of Nile Tilapia (Oreochromis niloticus). | Vet Med Sci
+- new | 2025 | 40774550 |  | Evaluation of anti-CyHV-2 effects of star anise (Illicium verum) aqueous extract. | Fish Shellfish Immunol
+- new | 2025 | 40559560 |  | Detection and Inhibition of Clostridium perfringens by Cocktail of Star Anise and Thymus Extracts in Chicken Meat Products. | Pathogens
+- new | 2025 | 40542210 | Research Support, Non-U.S. Gov't | Computer-aided molecular and biological-immune modeling of illicium verum bioactive compounds employing the Egyptian Nile snail Biomphalaria alexandrina as a paradigm. | J Comput Aided Mol Des
+- new | 2025 | 41052229 |  | Essential oils as potential insecticides and behavior-modifying agents against Bactrocera tryoni (Diptera: Tephritidae). | J Insect Sci
+- new | 2025 | 40446999 |  | Multifunctional fucoidan and folic acid-functionalized yttrium oxide nanoparticles: A novel approach for anti-cancer, antibacterial, larvicidal and environmental remediation. | Int J Biol Macromol
+- new | 2024 | 39326099 | Review | Anethole in cancer therapy: Mechanisms, synergistic potential, and clinical challenges. | Biomed Pharmacother
+- new | 2024 | 38702604 |  | Impact of silver nanoparticles on secondary metabolite composition and toxicity in anise (Pimpinella anisum L.) callus culture. | BMC Plant Biol
+- new | 2024 | 38535405 |  | Combinations of Lemongrass and Star Anise Essential Oils and Their Main Constituent: Synergistic Housefly Repellency and Safety against Non-Target Organisms. | Insects
+- new | 2024 | 39057214 |  | Ovicidal Toxicity and Morphological Changes in Housefly Eggs Induced by the Essential Oils of Star Anise and Lemongrass and Their Main Constituents. | Insects
+- new | 2024 | 39266976 |  | Case series: star anise toxicity presenting to the emergency department in Eastern Regional Referral Hospital in Bhutan. | Int J Emerg Med
+- new | 2024 | 38724994 |  | Characterization and pharmacokinetics of cinnamon and star anise compound essential oil pellets prepared via centrifugal granulation technology. | BMC Vet Res
+- new | 2024 | 38409705 | Review | The Power of the Underutilized and Neglected Medicinal Plants and Herbs of the Middle East. | Rev Recent Clin Trials
+- new | 2024 | 39397190 |  | High-risk pregnancy and risk of breastfeeding failure. | J Egypt Public Health Assoc
+- new | 2023 | 36760188 | Case Reports | Neurotoxicity in a child after ingestion of star anise. | Ugeskr Laeger [dan]
+- new | 2023 | 38067422 |  | Illicium verum L. (Star Anise) Essential Oil: GC/MS Profile, Molecular Docking Study, In Silico ADME Profiling, Quorum Sensing, and Biofilm-Inhibiting Effect on Foodborne Bacteria. | Molecules
+- new | 2023 | 37869251 |  | Safety and efficacy of a feed additive consisting of a fraction of the essential oil from the fruit and leaves of Illicium verum Hook.f. (star anise terpenes) for use in all animal | EFSA J
+- new | 2023 | 37377663 |  | Safety and efficacy of a feed additive consisting of a preparation of essential oils of thyme and star anise, and quillaja bark powder (BIOSTRONG® 510 all natural) for all poultry  | EFSA J
+- new | 2023 | 36971216 |  | Efficacy and toxicity of anise oil as a potential topical wound healer: a cell culture study. | Eur Rev Med Pharmacol Sci
+- new | 2023 | 37089173 |  | Safety and efficacy of feed additives obtained from the fruit of Pimpinella anisum L.: anise oil for use in poultry and horses and anise tincture for use in poultry, dogs, cats and | EFSA J
+- new | 2023 | 36629639 |  | Antioxidant associated chemoprophylaxis effect of natural spice and green vegetable on hepatotoxicity. | Braz J Biol
+- new | 2023 | 35708064 | Review | Dissecting dietary and semisynthetic volatile phenylpropenes: A compile of their distribution, food properties, health effects, metabolism and toxicities. | Crit Rev Food Sci Nutr
+- new | 2023 | 37077302 |  | Safety and efficacy of a feed additive consisting of a tincture derived from the fruit of Pimpinella anisum L. (anise tincture) for use in all animal species (FEFANA asbl). | EFSA J
+- new | 2023 | 36739890 |  | FEMA GRAS assessment of natural flavor complexes: Allspice, anise, fennel-derived and related flavoring ingredients. | Food Chem Toxicol
+- new | 2023 | 36219334 | Review | Critical Review on Nutritional, Bioactive, and Medicinal Potential of Spices and Herbs and Their Application in Food Fortification and Nanotechnology. | Appl Biochem Biotechnol
+- new | 2023 | 37529619 |  | Safety and efficacy of a feed additive consisting of an essential oil derived from the fruit of Illicium verum Hook.f. (star anise oil) for use in all animal species (FEFANA asbl). | EFSA J
+- new | 2023 | 37872543 |  | Integrated traditional herbal medicine in the treatment of gastrointestinal disorder: the pattern of use and the knowledge of safety among the Eastern Region Saudi population. | BMC Complement Med Ther
+- new | 2022 | 35167688 |  | Pre-Clinical Safety and Efficacy Evaluation of a Herbal Nanoemulsion-Based Formulation for Treating Inflammatory Bowel Disease. | J AOAC Int
+- new | 2022 | 35705583 | Research Support, Non-U.S. Gov't | Anethole rich Clausena heptaphylla (Roxb.) Wight & Arn., essential oil pharmacology and genotoxic efficiencies. | Sci Rep
+- new | 2022 | 36540777 |  | Safety and efficacy of a feed additive consisting of a tincture derived from the fruit of Illicium verum Hook f. (star anise tincture) for use in all animal species (FEFANA asbl). | EFSA J
+- new | 2022 | 35586683 | Review | Anisi Stellati Fructus, a Significant Traditional Chinese Medicine (TCM) Herb and Its Bioactivity against Gastric Cancer. | Evid Based Complement Alternat Med
+- new | 2022 | 35783492 |  | The Effect of Pimpinella Anisum and Origanum Vulgare Extracts Against Streptococcus Sanguinis, Streptococcus Mutans, and Streptococcus Salivarius. | J Dent (Shiraz)
+- new | 2022 | 34453252 |  | Amelioration of oxidative stress by trans-Anethole via modulating phase I and phase II enzymes against hepatic damage induced by CCl(4) in male Wistar rats. | Environ Sci Pollut Res Int
+- new | 2022 | 36034491 |  | Awareness, knowledge, attitude, perception, and utilization of complementary and alternative medicines (CAMs) in the common population of Dammam, Saudi Arabia. | J Pharm Bioallied Sci
+- new | 2022 | 36612355 | Research Support, Non-U.S. Gov't | Higher Risk for Sensitization to Commonly Consumed Herbs among Adults and Youngsters Suffering from Birch, Mugwort or Grass Pollinosis. | Int J Environ Res Public Health
+- new | 2021 | 33794888 |  | The use of complementary and alternative medicine during pregnancy: a cross-sectional study from Palestine. | BMC Complement Med Ther
+- new | 2021 | 34758756 |  | Complementary and alternative medicine use among pediatrics in Palestine: a cross-sectional study. | BMC Pediatr
+- new | 2021 | 34493326 |  | The extract of black cumin, licorice, anise, and black tea alleviates OVA-induced allergic rhinitis in mouse via balancing activity of helper T cells in lung. | Allergy Asthma Clin Immunol
+- new | 2021 | 34829017 |  | Simultaneous Rapid Detection of Aflatoxin B(1) and Ochratoxin A in Spices Using Lateral Flow Immuno-Chromatographic Assay. | Foods
+- new | 2021 | 34686003 |  | Potential of Essential Oils from Anise, Dill and Fennel Seeds for the Gypsy Moth Control. | Plants (Basel)
+- new | 2021 | 33538314 |  | Use of complementary and alternative therapies in infants under 3 months in Jordan. | East Mediterr Health J
+- new | 2021 | 34015424 |  | Bioactivation of estragole and anethole leads to common adducts in DNA and hemoglobin. | Food Chem Toxicol
+- new | 2021 | 33450288 |  | Global survey of medicinal plants during lactation and postpartum recovery: Evolutionary perspectives and contemporary health implications. | J Ethnopharmacol
+- new | 2021 | 34071244 | Research Support, Non-U.S. Gov't/Review | Analytical Separation of Carcinogenic and Genotoxic Alkenylbenzenes in Foods and Related Products (2010-2020). | Toxins (Basel)
+- new | 2021 | 34834740 |  | Apiaceae Essential Oils: Boosters of Terbinafine Activity against Dermatophytes and Potent Anti-Inflammatory Effectors. | Plants (Basel)
+- new | 2021 | 33067717 |  | A Descriptive Study of Pain Relief Practices Among Student-Athletes in Palestine: Focus on Non-Steroidal Anti-Inflammatory Drugs, and Complementary Medicine and Alternative Medicin | J Community Health
+- new | 2021 | 34475714 |  | Effects of medicinal plants mixture on growth performance, nutrient digestibility, blood profiles, and fecal microbiota in growing pigs. | Vet World
+- new | 2021 | 34582506 | Case Reports | Neonate with Seizures After Consuming Star Anise Tea. | R I Med J (2013)
+- new | 2020 | 33437175 |  | New allergens from spices in the Apiaceae family: anise Pimpinella anisum L. and caraway Carum carvi L. | Cent Eur J Immunol
+- new | 2020 | 31963690 |  | Fumigant Toxicity in Myzus persicae Sulzer (Hemiptera: Aphididae): Controlled Release of (E)-anethole from Microspheres. | Plants (Basel)
+- new | 2020 | 32631747 | Case Reports | [Hypokalemia with pseudo-hyperaldosteronism: Is it Lidl® syndrome?]. | Nephrol Ther [fre]
+- new | 2020 | 32116721 |  | Public Knowledge, Attitude, and Practice on Herbal Remedies Used During Pregnancy and Lactation in West Bank Palestine. | Front Pharmacol
+- HELD REF-1412 | 2020 | 32145331 |  | Pimpinella anisum extract attenuates spontaneous and agonist-induced uterine contraction in term-pregnant rats. | J Ethnopharmacol
+- new | 2020 | 33163379 |  | Safrole-induced expression of proinflammatory responses is associated with phosphorylation of mitogen-activated protein kinase family and the nuclear factor-κB/inhibitor of κB path | Tzu Chi Med J
+- new | 2020 | 33092276 |  | Pimpinella anisum Essential Oil Nanoemulsion Toxicity against Tribolium castaneum? Shedding Light on Its Interactions with Aspartate Aminotransferase and Alanine Aminotransferase b | Molecules
+- new | 2019 | 28712844 | Case Reports/Letter | New cases of star anise poisoning: Are we providing enough information? | Neurologia (Engl Ed) [eng,spa]
+- new | 2019 | 31376347 |  | Effects of dietary perilla seed oil supplementation on lipid metabolism, meat quality, and fatty acid profiles in Yellow-feathered chickens. | Poult Sci
+- new | 2018 | 29916095 |  | Cross-reactivity by botanicals used in dietary supplements and spices using the multiplex xMAP food allergen detection assay (xMAP FADA). | Anal Bioanal Chem
+- new | 2018 | 29623832 | Review | Herbs with Potential Nephrotoxic Effects According to the Traditional Persian Medicine: Review and Assessment of Scientific Evidence. | Curr Drug Metab
+- new | 2018 | 29139305 |  | Development of optimized self-nanoemulsifying lyophilized tablets (SNELTs) to improve finasteride clinical pharmacokinetic behavior. | Drug Dev Ind Pharm
+- new | 2018 | 29629668 |  | Using DNA Barcoding to Detect Adulteration in Different Herbal Plant- Based Products in the United Arab Emirates: Proof of Concept and Validation. | Recent Pat Food Nutr Agric
+- new | 2018 | 29191726 |  | Essential oils of culinary herbs and spices display agonist and antagonist activities at human aryl hydrocarbon receptor AhR. | Food Chem Toxicol
+- new | 2018 | 30410550 | Case Reports | Anaphylactic reaction in patient allergic to mango. | Allergy Asthma Clin Immunol
+- new | 2017 | 29403626 | Review | A review of effective herbal medicines in controlling menopausal symptoms. | Electron Physician
+- new | 2017 | 28212313 |  | Chemoprevention of Rat Mammary Carcinogenesis by Apiaceae Spices. | Int J Mol Sci
+- new | 2016 | 26563681 | Review | Contact dermatitis as an adverse reaction to some topically used European herbal medicinal products - Part 3: Mentha × piperita - Solanum dulcamara. | Contact Dermatitis
+- new | 2016 | 26875753 | Case Reports | Liver failure secondary to poisoning by a homemade product made of star and green anise in a 4-month-old infant. | Rev Esp Enferm Dig
+- new | 2016 | 27660438 |  | Green synthesis of silver nanoparticles using Pimpinella anisum seeds: antimicrobial activity and cytotoxicity on human neonatal skin stromal cells and colon cancer cells. | Int J Nanomedicine
+- HELD REF-1407 | 2016 | 26619825 | Research Support, Non-U.S. Gov't | Pharmacokinetic Herb-Drug Interaction between Essential Oil of Aniseed (Pimpinella anisum L., Apiaceae) and Acetaminophen and Caffeine: A Potential Risk for Clinical Practice. | Phytother Res
+- new | 2016 | 26745557 |  | The Protective Role of Anise Oil in Oxidative Stress and Genotoxicity Produced in Favism. | J Diet Suppl
+- new | 2015 | 26366255 | Review | Herbal Medicines Use During Pregnancy: A Review from the Middle East. | Oman Med J
+- new | 2015 | 26475071 |  | Inclusion of phytogenic blends in different nutrient density diets of meat-type ducks. | Poult Sci
+- new | 2015 | 25825639 |  | An in vivo and in vitro investigation on hepatoprotective effects of Pimpinella anisum seed essential oil and extracts against carbon tetrachloride-induced toxicity. | Iran J Basic Med Sci
+- new | 2015 | 25900613 |  | Plants used during pregnancy, childbirth, postpartum and infant healthcare in Palestine. | Complement Ther Clin Pract
+- new | 2015 | 25438815 |  | Effects of dietary star anise (Illicium verum Hook f) supplementation during gestation and lactation on the performance of lactating multiparous sows and nursing piglets. | Anim Sci J
+- new | 2014 | 25166453 | Review | Interactions between preparations containing female sex hormones and dietary supplements. | Adv Clin Exp Med
+- new | 2014 | 26084091 | Evaluation Study | TOXIC ACTIVITY AND DELAYED EFFECTS OF FIVE BOTANICAL OILS ON THE FOLLOWING GENERATIONS OF AGROTIS IPSILON (HUFNAGEL) (INSECTA: LEPIDOPTERA: NOCTUIDAE) AFTER PARENTS TREATMENT. | Commun Agric Appl Biol Sci
+- new | 2013 | 23936834 | Research Support, Non-U.S. Gov't/Review | Efficacy of Iranian traditional medicine in the treatment of epilepsy. | Biomed Res Int
+- new | 2013 | 23802692 | Validation Study | Analysis of the neurotoxin anisatin in star anise by LC-MS/MS. | Food Addit Contam Part A Chem Anal Contr
+- new | 2013 | 23932223 |  | Rapid and simple neurotoxin-based distinction of Chinese and Japanese star anise by direct plant spray mass spectrometry. | J Chromatogr A
+- new | 2013 | 23277152 | Research Support, Non-U.S. Gov't | Hyperspectral imaging in the quality control of herbal medicines - the case of neurotoxic Japanese star anise. | J Pharm Biomed Anal
+- new | 2013 | 23054333 | Research Support, Non-U.S. Gov't | Antihypernociceptive activity of anethole in experimental inflammatory pain. | Inflammopharmacology
+- new | 2012 | 22928313 | Comparative Study/Evaluation Study/Research Support, Non-U.S. Gov't | Fumigant toxicity of plant essential oils against Camptomyia corticalis (Diptera: Cecidomyiidae). | J Econ Entomol
+- new | 2012 | 21591240 | Research Support, Non-U.S. Gov't | Safrole induces cell death in human tongue squamous cancer SCC-4 cells through mitochondria-dependent caspase activation cascade apoptotic signaling pathways. | Environ Toxicol
+- HELD REF-1409 | 2012 | 22926042 | Research Support, Non-U.S. Gov't | The influence of essential oil of aniseed (Pimpinella anisum, L.) on drug effects on the central nervous system. | Fitoterapia
+- new | 2012 | 22391927 | Case Reports | A case of infantile star anise toxicity. | Pediatr Emerg Care
+- new | 2011 | 21652187 |  | [Apparent life-threatening event in infants: think about star anise intoxication!]. | Arch Pediatr [fre]
+- new | 2011 | 21445103 |  | NTP 3-month toxicity studies of estragole (CAS No. 140-67-0) administered by gavage to F344/N rats and B6C3F1 mice. | Toxic Rep Ser
+- new | 2010 | 20642029 | Letter | Use of star anise tea in swine flue prevention and safety concerns. | Complement Ther Clin Pract
+- new | 2010 | 23964176 |  | Effects of some commonly used Saudi folk herbal medications on the metabolic activity of CYP2C9 in human liver microsomes. | Saudi Pharm J
+- new | 2009 | 19805010 | Case Reports/Letter | [Star anise poisoning]. | An Pediatr (Barc) [spa]
+- new | 2008 | 19028335 |  | Self-therapy practices among university students in Palestine: focus on herbal remedies. | Complement Ther Med
+- new | 2008 | 18186817 | Case Reports | Anaphylaxis after Oseltamivir (Tamiflu) therapy in a patient with sensitization to star anise and celery-carrot-mugwort-spice syndrome. | Allergy
+- new | 2007 | 18088024 | Case Reports | Aniseed-induced nocturnal tongue angioedema. | J Investig Allergol Clin Immunol
+- new | 2007 | 17479778 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Pilot study investigating the ability of an herbal composite to alleviate clinical signs of respiratory dysfunction in horses with recurrent airway obstruction. | Can J Vet Res
+- new | 2007 | 17658503 |  | Chemo-preventive effect of Star anise in N-nitrosodiethylamine initiated and phenobarbital promoted hepato-carcinogenesis. | Chem Biol Interact
+- new | 2007 | 19086522 |  | Recovering effects of aqueous extracts of some selected medical plants on the teratogenic effects during the development of D. melanogaster. | Pak J Biol Sci
+- new | 2005 | 16287550 | Case Reports | Occupational asthma due to carrot in a cook. | Allergol Immunopathol (Madr)
+- new | 2004 | 15537303 | Research Support, Non-U.S. Gov't | Greek plant extracts exhibit selective estrogen receptor modulator (SERM)-like properties. | J Agric Food Chem
+- new | 2004 | 15492355 | Case Reports | Neurotoxicities in infants seen with the consumption of star anise tea. | Pediatrics
+- new | 2004 | 15244513 | Comparative Study | Indian food ingredients and cancer prevention - an experimental evaluation of anticarcinogenic effects of garlic in rat colon. | Asian Pac J Cancer Prev
+- new | 2003 | 12907070 | Case Reports/Research Support, Non-U.S. Gov't | [Star anise poisoning in infants]. | Arch Pediatr [fre]
+- new | 2003 | 12617067 | Case Reports/Letter | [An inaugural generalized tonic-clonic convulsive crisis following ingestion of Japanese star anise]. | Presse Med [fre]
+- new | 2002 | 11918598 | Case Reports | Occupational protein contact dermatitis from spices in a butcher: a new presentation of the mugwort-spice syndrome. | Contact Dermatitis
+- new | 2002 | 12014242 | Case Reports | [An epidemic of epileptic seizures after consumption of herbal tea]. | Ned Tijdschr Geneeskd [dut]
+- new | 2002 | 12392673 | Case Reports | [Convulsive status secondary to star anise poisoning in a neonate]. | An Esp Pediatr [spa]
+- new | 2002 | 12014240 | Case Reports/Comment | [Epileptic seizure after a cup of tea: intoxication with Japanese star anise]. | Ned Tijdschr Geneeskd [dut]
+- new | 2001 | 11791397 | Case Reports/Letter | [Cardiorespiratory arrest after consumption of an alcohol-free anise-flavored beverage]. | Presse Med [fre]
+- new | 2000 | 11114151 | Research Support, Non-U.S. Gov't | Human foetuses learn odours from their pregnant mother's diet. | Chem Senses
+- new | 2000 | 10871845 | Research Support, Non-U.S. Gov't | Anethole blocks both early and late cellular responses transduced by tumor necrosis factor: effect on NF-kappaB, AP-1, JNK, MAPKK and apoptosis. | Oncogene
+- new | 1999 | 10354014 | Multicenter Study/Review | [Round Table: Immunological urticaria mediated by IgE]. | Allergol Immunopathol (Madr) [spa]
+- new | 1997 | 9254120 | Case Reports | [Bioclinical interest in the assay of leukotrienes in four cases of sensitization to trophallergens]. | Allerg Immunol (Paris) [fre]
+- new | 1997 | 9420134 | Comparative Study/Research Support, Non-U.S. Gov't | Characterization of allergens in Apiaceae spices: anise, fennel, coriander and cumin. | Clin Exp Allergy
+- new | 1996 | 8641659 | Research Support, Non-U.S. Gov't | Lack of influence of modulators of epoxide metabolism on the genotoxicity of trans-anethole in freshly isolated rat hepatocytes assessed with the unscheduled DNA synthesis assay. | Food Chem Toxicol
+- new | 1996 | 8836339 | Case Reports | Occupational asthma induced by aniseed. | Allergy
+- new | 1994 | 7962861 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Dietary preferences in early lactation cows as affected by primary tastes and some common feed flavors. | J Dairy Sci
+- new | 1991 | 24258800 |  | Fumigant toxicity of essential oils against four major stored-product insects. | J Chem Ecol
+- new | 1990 | 2093572 |  | [Poisoning by star anise (Illicium verum) tea]. | Gac Med Mex [spa]
+- new | 1985 | 4037446 | Case Reports | [Fatal poisoning by alcohol-free aniseed aperitif]. | Ann Fr Anesth Reanim [fre]
+- new | 1985 | 3983587 |  | [The celery-carrot-mugwort-condiment syndrome: skin test and RAST results]. | Schweiz Med Wochenschr [ger]
+- new | 1984 | 6734454 |  | [Food allergy: the celery-mugwort-spice syndrome. Association with mango allergy?]. | Dtsch Med Wochenschr [ger]
+- new | 1984 | 6476667 | Case Reports | [Major hypokalemia with rhabdomyolysis secondary to the intake of a nonalcoholic aniseed aperitif]. | Ann Med Interne (Paris) [fre]
+- new | 1983 | 6221288 | Case Reports/Letter | [Malignant arterial hypertension induced by the ingestion of "alcohol-free aniseed drink"]. | Presse Med [fre]
+- new | 1983 | 6221314 | Case Reports/Letter | [Exogenous hypermineralocorticism, responsible for severe hypokalemia. Complications of the consumption of an alcohol-free anise aperitif]. | Presse Med [fre]
+- new | 1983 | 6623028 | Case Reports | [Pseudo-Conn's syndrome due to intoxication with nonalcoholic pastis]. | Schweiz Med Wochenschr [fre]
+- new | 1978 | 749830 |  | New contact allergens and allergen sources. | Arch Immunol Ther Exp (Warsz)
+
+### PubMed OBS - 41 hits, 12 not already listed above, 12 new
+- new | 2025 | 41180492 | Observational Study/Research Support, Non-U.S. Gov't | Sniffin' sticks smell identification test: exploring measurement properties in an adult Brazilian healthcare professionals sample. | PeerJ
+- new | 2025 | 40005012 |  | Unraveling Infant Feeding Practices Among Syrian Refugees in Türkiye: A Cross-Sectional Study. | Nutrients
+- new | 2025 | 40312334 |  | Traditional care practices known and/or used by different ethnic groups for newborns during the postpartum period. | BMC Public Health
+- new | 2024 | 38716111 |  | The use of complementary and alternative medicine for functional gastrointestinal disorders among the saudi population. | Saudi Pharm J
+- new | 2021 | 33627500 | Research Support, Non-U.S. Gov't | Olfactory Testing in Parkinson Disease and REM Behavior Disorder: A Machine Learning Approach. | Neurology
+- new | 2019 | 31780029 |  | Herbal supplement products used by mothers to cope with the common health problems in childhood. | Complement Ther Med
+- new | 2015 | 24065742 |  | Relationships between consumption of alcoholic beverages and healthy foods: the French supermarket cohort of 196,000 subjects. | Eur J Prev Cardiol
+- new | 2006 | 16602226 |  | Use of herbs and herbal products by Hispanics in south Florida. | J Am Pharm Assoc (2003)
+- new | 2002 | 12392661 |  | [Cases of neurological symptoms associated with star anise consumption used as a carminative]. | An Esp Pediatr [spa]
+- new | 1997 | 9185689 | Multicenter Study | Oesophageal cancer in France: potential importance of hot alcoholic drinks. | Int J Cancer
+- new | 1995 | 8555953 |  | Young teenagers and access to alcohol in a Swiss canton: evidence from observational testing and from a telephone survey. | Addiction
+- new | 1987 | 3653176 |  | Type of alcoholic beverage and cancer of the upper respiratory and digestive tract. | Eur J Cancer Clin Oncol
+
+### PubMed REV - 59 hits, 16 not already listed above, 16 new
+- new | 2022 | 33825313 | Review | Shikimic acid in the light of current knowledge. | J Cosmet Dermatol
+- new | 2022 | 35163914 | Review | Illicium verum (Star Anise) and Trans-Anethole as Valuable Raw Materials for Medicinal and Cosmetic Applications. | Molecules
+- new | 2020 | 31997473 | Review | Star anise (Illicium verum): Chemical compounds, antiviral properties, and clinical relevance. | Phytother Res
+- new | 2020 | 33071794 | Review | COVID-19: Is There Evidence for the Use of Herbal Medicines as Adjuvant Symptomatic Therapy? | Front Pharmacol
+- new | 2019 | 31527294 | Review | A review on the management of asthma in the Avicenna's Canon of Medicine. | J Complement Integr Med
+- new | 2018 | 28006900 | Review | Phenylpropenes: Occurrence, Distribution, and Biosynthesis in Fruit. | J Agric Food Chem
+- new | 2017 | 28750276 | Review | Phylogenetic trends in the evolution of inflorescence odours in Amorphophallus. | Phytochemistry
+- new | 2016 | 27427817 | Review | Essential Oils, Part III: Chemical Composition. | Dermatitis
+- new | 2016 | 27771928 | Review | Anethole and Its Role in Chronic Diseases. | Adv Exp Med Biol
+- new | 2012 | 22445787 | Review | Production of shikimic acid. | Biotechnol Adv
+- new | 2012 | 22010973 | Review | Functional foods with digestion-enhancing properties. | Int J Food Sci Nutr
+- new | 2012 | 22149093 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Review | Cancer cell signaling pathways targeted by spice-derived nutraceuticals. | Nutr Cancer
+- new | 2007 | 17504837 | Review | Complementary and alternative medicine use among Hispanics in the United States. | Ann Pharmacother
+- new | 2007 | 17517698 | Review | Invited review: Essential oils as modifiers of rumen microbial fermentation. | J Dairy Sci
+- new | 2006 | 30000852 | Review | Fennel. | 
+- new | 2004 | 15659827 | Review | Suppression of the nuclear factor-kappaB activation pathway by spice-derived phytochemicals: reasoning for seasoning. | Ann N Y Acad Sci
+
+### ClinicalTrials.gov - 15 registered studies
+- NCT05300750 | COMPLETED | results=False | NA | The Effect of Post Cesarean Section Protocol of Care on Early and Follow up Outcomes | conds: Cesarean Section | intr: Oral fluids, Chewing gum
+- NCT04994262 | COMPLETED | results=False | NA | The Effect on Thirst, Nausea-Vomiting and Comfort Levels of Menthol Lozenge Applied After Extubation | conds: Nausea, Vomiting, Thirst | intr: Menthol Lozenge
+- NCT02364830 | COMPLETED | results=False | PHASE3 | Clinical Effectiveness of Enteric Coated(E.C.) Anise-oil on Irritable Bowel Syndrome | conds: Irritable Bowel Syndrome | intr: Anise-oil EC Capsule, Placebo, Colpermin®
+- NCT01855269 | COMPLETED | results=False | NA | Lactobacillus Reuteri Versus Herbal Drop in the Treatment of Infantile Colic: a Prospective Study | conds: Crying | intr: Lactobacillus reuteri, Herbal drop, placebo sterile water | pubs: ['17200238:RESULT (new)']
+- NCT05333315 | COMPLETED | results=False | NA | Clinical Trials of Five Different Food Supplements With Restriction Diet in Adults | conds: Overweight and Obesity, Inflammation, Hypercholesterolemia, Hypertension | intr: IP1, IP2, IP3, IP4
+- NCT01898091 | COMPLETED | results=True | PHASE2 | Herbal Mouthrinse for Oral Mucositis Study | conds: Oral Mucositis | intr: Neem Mouthrinse, Placebo Mouthrinse | pubs: ['18973181:RESULT (new)']
+- NCT07771322 | RECRUITING | results=False | NA | Digital Mental Health for Asian Americans | conds: Mental Health, Cultural Adaptation, Psychotherapy, Mood Disorders | intr: Culturally-attuned digital tools
+- NCT04553705 | COMPLETED | results=False | PHASE2,PHASE3 | Omega-3, Nigella Sativa, Indian Costus, Quinine, Anise Seed, Deglycyrrhizinated Licorice, Artemisinin, Febrifugine on Immunity of Patients W | conds: Covid19, Immunodeficiency | intr: Omega 3/Nigella Sativa Oil, Omega 3/Nigella Sativa Oil/Indian Costus, Omega 3/Nigella Sativa Oil/Qui
+- NCT06058312 | COMPLETED | results=False | NA | Individual Food Preferences for the Mediterranean Diet in Cancer Patients | conds: Neoplasms | intr: Self-questionnaire, Self-questionnaire, Self-questionnaire, Self-questionnaire | pubs: ['42576055:RESULT (new)']
+- NCT07653815 | NOT_YET_RECRUITING | results=False | NA | Essential Oil-Based Product System for Digestive Support | conds: Healthy | intr: essential oil supplement, Essential Oil, Placebo supplement, placebo essential oil
+- NCT05383677 | UNKNOWN | results=False | PHASE2 | Anifrolumab Treatment for 24 Weeks in Patients With Primary Sjögren's Syndrome | conds: Sjogren's Syndrome | intr: Anifrolumab, Placebo
+- NCT05623605 | UNKNOWN | results=False | PHASE4 | Evaluation of New Different Herbal Mouthwashes Against Caries Forming Bacteria, RCT | conds: Dental Caries in Children | intr: Moringa mouthwash, star anise mouthwash, Indian costus mouth wash
+- NCT02732223 | COMPLETED | results=False | NA | Combined Bioactive Therapy Effects Over Cardiovascular Markers in Statin Treated Patients | conds: Cardiovascular Diseases | intr: Functional treatment, Control treatment | pubs: ['29503145:DERIVED (new)']
+- NCT06610812 | COMPLETED | results=False | NA | "KETOGENIC MEDITERRANEAN VERSUS HYPOCALORIC BALANCED DIET ON POLYCYSTIC OVARIAN ADOLESCENTS" | conds: Polycystic Ovary Disease | intr: KETOGENIC MEDITERRANEAN diet, hypo-caloric diet:, moderate aerobic exercises
+- NCT04093128 | UNKNOWN | results=False | NA | Investigate Beneficial Effect of Herbal Tea in Jordanian Adults | conds: Diet, Healthy | intr: herbal tea intervention
+
+### OpenAlex no-PMID trial-worded - 1181 hits, 64 without PMID, 63 new
+- new | 2026 | 10.1016/j.aimed.2026.100712 | article | Effect of anisoon (Pimpinella anisum linn) in the postmenopausal women with hot flashes: A double blind randomized controlled study | Advances in Integrative Medicine
+- new | 2026 | 10.22317/jcms.v12i3.2190 | article | Preclinical Evaluation of the Anxiolytic Effects of Pimpinella anisum Seed Extract in a Rat Model of Anxiety | Journal of Contemporary Medical Sciences
+- new | 2026 | 10.47758/ijnsn.v7i1.301 | article | Efficiency of inter-simple sequence repeat (ISSR) markers in differentiating anise (Pimpinella anisum L.) cultivars | Iraqi Journal of Natural Sciences and Na
+- new | 2026 | 10.32598/cjns.12.45.591.1 | article | Anise (Pimpinella anisum L.) as a Potential Therapeutic Agent for Neurological and Psychological Disorders: A Systematic Scoping Review | Caspian Journal of Neurological Sciences
+- new | 2025 | 10.5812/jjnpp-159021 | article | Investigation of the Efficacy and Safety of a Syrup Composed of 11 Herbal Medicines in Improving Chronic and Subacute Cough in Patients: A Preclinical Study and a Randomized, Doubl | Jundishapur Journal of Natural Pharmaceu
+- new | 2025 | 10.61919/azrhd968 | article | Evaluating the Effectiveness of Pterocarpus santalinus (Sandalwood) Bark Extract in Managing Tension-Type Headaches: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial | Journal of Health Wellness and Community
+- new | 2025 | 10.64252/ww19es43 | article | Effect of Gibberellic Acid and Potassium on Phenotypic and Floral Characteristics of Star Anise (Pimpinella anisum L.) | International Journal of Environmental S
+- new | 2025 | 10.1007/s10340-024-01842-6 | article | Pimpinella anisum essential oil and trans-anethole activity against key insect pests and non-target ants | Journal of Pest Science
+- new | 2024 | 10.1016/j.aimed.2024.12.006 | article | Efficacy of Melissa officinalis, Pimpinella anisum, and Rosa damascena formula in irritable bowel syndrome: A double-blind, randomized trial | Advances in Integrative Medicine
+- new | 2024 | 10.2174/0122150838313003240821091757 | article | Effects of the Herbal Soft Gel Capsule Containing Pimpinella Anisum, Oenothera Biennis, and Salvia Sclarea Oils on Premenstrual Syndrome: A Triple-blinded Randomized Controlled Tri | Current Traditional Medicine
+- new | 2024 | 10.5812/jjnpp-148163 | article | The Efficacy of a Traditional Herbal Medicine Compound for Functional Dyspepsia: A Randomized, Double-Blind, Placebo-Controlled Trial | Jundishapur Journal of Natural Pharmaceu
+- new | 2024 | 10.51642/ppmj.v35i03.693 | article | Title UNVEILING THE ARTISTRY OF TRITICUM AESTIVUM SPROUTS (TAS): EXPLORING THE POTENTIAL OF TAS EXTRACT IN MIGRAINE PREVENTION AND CONTROL - A PRAGMATIC, RANDOMIZED, DOUBLE-BLIND,  | Pakistan Postgraduate Medical Journal
+- new | 2024 | 10.33545/2616454x.2024.v8.i3b.305 | article | Therapeutic potential of Pimpinella anisum L. (Anisoon): A comprehensive review of potent herbal drug in traditional medicine | International Journal of Unani and Integ
+- new | 2024 | 10.24996/ijs.2024.65.4.7 | article | Effect of Anise Seeds (Pimpinella anisum) Oil Extract on Some Fertility Parameters in Albino Male Mice | Iraqi Journal of Science
+- new | 2024 | 10.1088/1755-1315/1371/7/072033 | conference-paper | The Effect of Adding Different Levels of Anise Seeds and Oil Pimpinella anisum L. on some Production of Lohman Chicken Eggs | IOP Conference Series Earth and Environm
+- new | 2023 | 10.11594/jaab.04.02.10 | article | Pimpinella anisum essential oil: A natural approach to amplifying fertility and reproductive well-being in the Saida Region | Journal of Agriculture and Applied Biolo
+- new | 2022 | 10.5812/semj-117385 | article | The Effect of Pimpinella anisum on Treatment and Recurrence of Menopausal Hot Flashes: A Randomized, Controlled, Multicenter, Double-Blind, Parallel-Group Clinical Trial | Shiraz E-Medical Journal
+- new | 2022 | 10.31185/jwsm.288 | article | Effect of Pimpinella anisum and Hibiscus sabdariffa to the diets of Coturnix Japonica in the productivity | Journal of Wasit for Science and Medicin
+- new | 2022 | 10.47062/1190.0303.05 | article | CHEMICAL CONSTITUENTS AND PHARMACOLOGICAL PROPERTIES OF ANISE SEEDS (PIMPINELLA ANISUM L.) | International Journal of Environment and
+- new | 2020 | https://openalex.org/W3198261420 | article | Comparing the Efficacy of Cumin Sofouf With Mebeverine on Irritable Bowel Syndrome Severity and Quality of Life: A Double-blind Randomized Clinical Trial | Crescent Journal of Medical and Biologic
+- new | 2020 | 10.1007/978-3-030-16807-0_146 | book-chapter | Pimpinella anisum L. (Apiaceae/Umbelliferae) | Springer eBooks
+- new | 2020 | 10.52547/pgr.7.1.6 | article | Investigation of Drought Stress Tolerance and Adaptation in Iranian Endemic Anise (Pimpinella anisum L.) Genotypes | Plant Genetic Researches
+- new | 2020 | 10.46309/biodicon.2020.769561 | article | Effect of Different Row Spaces on Yield and Quality of Anise (Pimpinella anisum) under Eskisehir Ecological Conditions | Biological Diversity and Conservation
+- new | 2020 | 10.1007/s11694-020-00660-5 | erratum | Correction to: Antioxidant activity, polyphenolic contents and essential oil composition of aniseed (Pimpinella anisum L.) as influenced by 5-aminolevulinic acid | Journal of Food Measurement & Characteri
+- new | 2019 | 10.1007/s10722-019-00861-y | article | Investigation of the genetic variation of anise (Pimpinella anisum L.) using RAPD and ISSR markers | Genetic Resources and Crop Evolution
+- new | 2019 | 10.23884/mejs.2019.5.1.09 | article | THE EFFECTS OF PRETREATMENT FACTORS ON SEED GERMINATION AND SEEDLING GROWTH OF ANISE (PIMPINELLA ANISUM L.) | Middle East Journal of Science
+- new | 2019 | 10.21608/ejhm.2019.29114 | article | Effect of Anise (Pimpinella Anisum L.) as Phytoestrogen on Some Sex Hormones and Biochemical Parameters | The Egyptian Journal of Hospital Medicin
+- new | 2019 | 10.21608/ejnf.2019.79442 | article | USING ANISE LEAVES (PIMPINELLA ANISUM L.) FOR IMPROVING OF PERFORMANCE NEW ZEALAND RABBITS. | Egyptian Journal of Nutrition and Feeds
+- new | 2019 | 10.30954/2277-940x.06.2019.20 | article | Effect of Dietary Incorporation of Aniseed (Pimpinella anisum) and Ginger (Zingiber officinale) Rhizome Powder as Feed Additive on Growth Performance and Nutrient Utilization in Br | Journal of animal research
+- new | 2018 | 10.4103/jhs.jhs_157_17 | article | Herbal medicine use by Saudi patients with chronic diseases: A cross-sectional study (experience from Southern Region of Saudi Arabia) | Journal of health specialties
+- new | 2018 | 10.22034/ijpp.2018.543275 | article | Iron and zinc interaction on leaf nutrients and the essential oil of Pimpinella anisum L. | PLANT PHYSIOLOGY
+- new | 2018 | 10.17557/tjfc.467468 | article | EFFECT OF PHOSPHORUS FERTILIZER ON SOME YIELD COMPONENTS AND QUALITY OF DIFFERENT ANISE (Pimpinella anisum L.) POPULATIONS | Turkish Journal of Field Crops
+- new | 2018 | 10.19080/jcmah.2018.05.555656 | article | Antioxidant, Anti-Diabetic and Hypolipidemic Effects of Aniseeds (Pimpinella anisum L.): In vitro and in vivo Studies | Journal of Complementary Medicine & Alte
+- new | 2017 | 10.7897/2277-4343.083150 | article | MEDICINAL BENEFITS OF ANISE SEEDS (PIMPINELLA ANISUM) AND THYMUS VULGARIS IN A SAMPLE OF HEALTHY VOLUNTEERS | International Journal of Research in Ayu
+- new | 2017 | 10.1590/1806-9061-2016-0331 | article | Effect of Various Concentrations of an Anise Seed Powder (Pimpinella Anisum L.) Supplement on Selected Hematological and Biochemical Parameters of Broiler Chickens | Brazilian Journal of Poultry Science
+- new | 2017 | https://openalex.org/W2596013846 | article | Ethanolic extract of anise (Pimpinella anisum L.) attenuates morphine physical dependence in mice | Journal of Herbmed Pharmacology
+- new | 2017 | 10.31661/gmj.v6i2.772 | article | Effects of Iranian Traditional Medicine Remedies (Apium Graveolence and Trachyspermum Copticum) on Modifying the Quality of Life in Patients with Functional Dyspepsia: A Double-Bli | Galen Medical Journal
+- new | 2017 | 10.29252/yujs.4.1.103 | article | Effect of Salt and Drought Stresses on Germination, Seedling Growth and Cell Membrane Stability of Anise (Pimpinella anisum) and Fennel (Foeniculum vulgare) | Iranian Journal of Seed Research
+- new | 2016 | 10.22067/jhorts4.v0i0.48438 | article | Effect of Fe and Zn Micro Nutrients on Yield and Yield Components of Pimpinella anisum L. | Majallah-i ̒ulum-i bāghbānī
+- new | 2015 | https://openalex.org/W1837196614 | article | Effect of hydro-alcholic extract of Pimpinella anisum seed on anxiety in male rat | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2015 | 10.3906/tar-1411-143 | article | Yield, quality, and growing degree days of anise (Pimpinella anisum L.)under different agronomic practices | TURKISH JOURNAL OF AGRICULTURE AND FORES
+- new | 2015 | 10.1016/j.hermed.2015.01.004 | article | The combination of “Pimpinella anisum, Apium graveolens and Crocus sativus (PAC)” is more effective than “mefenamic acid” on postpartum after-pain | Journal of Herbal Medicine
+- new | 2015 | 10.1590/1983-084x/14_036 | article | The insecticidal potential of Foeniculum vulgareMill., Pimpinella anisum L. and Caryophillus aromaticus L. to control aphid on kale plants | Revista Brasileira de Plantas Medicinais
+- new | 2015 | 10.22102/20.4.56 | article | Effect of hydroalcholic extract of Pimpinella anisum seed on anxiety in gonadectomized male rat | 
+- new | 2015 | https://openalex.org/W2178212856 | article | In Vitro Activity of Mentha longifolia Leaves and Pimpinella anisum Seeds Against a Clinical Strain of Trichomonas Vaginalis | International journal of molecular and c
+- new | 2015 | https://openalex.org/W2346429842 | article | Effects of mycorrhizal fungi on quantitative and qualitative characteristics of Anise plant (Pimpinella anisum) under salt stress | Journal of Medicinal Plants
+- new | 2014 | 10.1016/s2222-1808(14)60604-6 | article | Anise seed (Pimpinella anisum L.) as an alternative to antibiotic growth promoters on performance, carcass traits and immune responses in broiler chicks | Asian Pacific Journal of Tropical Diseas
+- new | 2014 | 10.1201/b17368-15 | book-chapter | EFFECTS OF FERTILIZER AND PLANT DENSITY ON YIELD AND QUALITY OF ANISE (PIMPINELLA ANISUM L.) | Apple Academic Press eBooks
+- new | 2013 | 10.2298/jas1303209f | article | Effects of fertilizer and plant density on yield and quality of anise (Pimpinella anisum L.) | Journal of Agricultural Sciences Belgrad
+- new | 2013 | 10.5897/jmpr12.1204 | article | Evaluation of anise (Pimpinella anisum L.) accessions with regard to morphological characteristics, fruit yield, oil contents and composition | Journal of Medicinal Plants Research
+- new | 2013 | https://openalex.org/W2998680038 | article | The effects different levels of aniseed (Pimpinella anisum L.) medicinal plant on laying hens performance | Journal of Medicinal Plants Research
+- new | 2012 | https://openalex.org/W2188401192 | article | The effect of Fertilizers and biological nitrogen a nd planting density on yield quality and quantity Pimpinella anisum L. | European Journal of Experimental Biology
+- new | 2012 | https://openalex.org/W2178499166 | article | Effect of water based infusion of Aloe barbedensis, Pimpinella anisum, Berberis lycium, Trigonella foenum graecum and Allium sativum on the performance of broiler chicks. | Pakistan Veterinary Journal
+- new | 2012 | 10.3923/pjn.2012.1081.1086 | article | Role of Anise Seeds Powder (Pimpinella anisum) on Some Blood Aspects and Growth Parameters of Common Carp Fingerlings (Cyprinus carpio L.) | Pakistan Journal of Nutrition
+- new | 2012 | https://openalex.org/W2993180835 | article | ÓLEO ESSENCIAL DE ANIS NA INCIDÊNCIA E CONTROLE DE PATÓGENOS EM SEMENTES DE ERVA-DOCE (Foeniculum vulgare mill.) | Americanae (AECID Library)
+- new | 2009 | 10.1017/s0014479708006959 | article | ANISE (PIMPINELLA ANISUM): CHANGES IN YIELDS AND COMPONENT COMPOSITION ON HARVESTING AT DIFFERENT STAGES OF PLANT MATURITY | Experimental Agriculture
+- new | 2009 | https://openalex.org/W1823672393 | article | In vitro evaluation of antibacterial activity of hydroalcoholic extract of Salvia officinalis and Pimpinella anisum against cariogenic bacteria | Majallah-i dandānpizishkī-i dānishgāh-i 
+- new | 2008 | 10.24126/jobrc.2008.2.1.28 | article | Study the effect of aqueous extracts of Pimpinella anisum , Foeniculum vulgara and agroup of different medical herbs on growth of bacteria ( Staphylococcus aureus) isolated from Sp | Journal of Biotechnology Research Center
+- new | 2008 | 10.22059/ijvm.2008.19832 | article | Effect of Rosmarinus officinalis and Pimpinella anisum on improving microbial flora in gastrointestinal tract of broiler chicks | Iranian Journal of Veterinary Medicine
+- new | 2005 | 10.3923/ijps.2005.851.855 | article | The Effect of Anise Oil (Pimpinella anisum L.) On Broiler Performance | International Journal of Poultry Science
+- new | 2005 | 10.1016/j.ijat.2005.10.012 | article | The palliation of nausea in hospice and palliative care patients with essential oils of (aniseed), var. (sweet fennel), (Roman chamomile) and (peppermint) | International Journal of Aromatherapy
+- new | 2004 | 10.1501/tarimbil_0000000894 | article | A Study on the Adaptation of Some Anise (Pimpinella anisum L.) Population to Ankara Conditions | Tarım Bilimleri Dergisi
+- new | 1999 | 10.21566/tbmaed.89847 | article | A RESEARCH ON YIELD AND YIELD COMPONENTS OF DIFFERENT ORIGINATED ANISE ( Pimpinella anisum L.) POPULATIONS | Tarla Bitkileri Merkez Araştırma Enstitü
+- HELD REF-5362 | 1991 | 10.1111/j.1398-9995.1991.tb04365.x | article | Spice allergy in celery‐sensitive patients | Allergy
+
+## pinus-sylvestris (Pinus sylvestris) - name clause: "Pinus sylvestris"[tiab] OR "Scots pine"[tiab] OR "Scotch pine"[tiab]
+
+### PubMed HT - 5 hits, 5 not already listed above, 5 new
+- new | 2023 | 37141519 |  | [Impact of essential oil vapors inhalation on blood pressure in patients with hypertension]. | Vopr Kurortol Fizioter Lech Fiz Kult [rus]
+- new | 2016 | 28003849 |  | Conifer Green Needle Complex in Patients with Precancerous Gastric Lesions: An Observational Pilot Study. | Evid Based Complement Alternat Med
+- new | 2007 | 17277941 | Research Support, Non-U.S. Gov't | Afforestation of abandoned farmland with conifer seedlings inoculated with three ectomycorrhizal fungi - impact on plant performance and ectomycorrhizal community. | Mycorrhiza
+- new | 2002 | 28547308 |  | Nitrogen mineralization and phenol accumulation along a fire chronosequence in northern Sweden. | Oecologia
+- new | 1996 | 8882114 | Clinical Trial/Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Acute effects of exposure to air contaminants in a sawmill on healthy volunteers. | Occup Environ Med
+
+### PubMed SR - 3 hits, 3 not already listed above, 3 new
+- new | 2024 | 38724027 |  | ToTE: A global database on trees of the treeline ecotone. | Ecology
+- new | 2024 | 38273504 | Meta-Analysis/Research Support, Non-U.S. Gov't | Nutritional changes in trees during drought-induced mortality: A comprehensive meta-analysis and a field study. | Glob Chang Biol
+- new | 2007 | 17453248 | Meta-Analysis/Research Support, Non-U.S. Gov't | Plasticity in hydraulic architecture of Scots pine across Eurasia. | Oecologia
+
+### PubMed SAFE - 57 hits, 57 not already listed above, 56 new
+- new | 2026 | 42214600 |  | Responses of microbial community structure and substrate quality in coal gangue piles to stand age of Pinus sylvestris var. mongolica. | Environ Res
+- new | 2026 | 41770396 |  | Quantitative source-oriented, bioaccumulation and toxicity of organic pollutants in a formerly mining area. | Environ Geochem Health
+- new | 2026 | 41800138 |  | Study on the colonization changes with different dark septate endophytes and their regulation of the growth and physiological mechanisms of Pinus sylvestris var. mongolica under dr | PeerJ
+- new | 2026 | 41597688 |  | Quantitative Analysis of Polyphenols and In Vitro Antioxidant, Antimicrobial and Toxicity Assessments in Needles of Five Pinus Species from Montenegro. | Microorganisms
+- new | 2025 | 40691195 |  | Bioprospecting endophytic fungi of forest plants for bioactive metabolites with anticancer potentials. | Sci Rep
+- new | 2025 | 39756290 |  | How does forest fertilization influence tree productivity of boreal forests? An analysis of data from commercial forestry across Sweden. | J Environ Manage
+- new | 2025 | 40609515 |  | Non-target and suspect screening of volatile organic compounds from Scots pine and Norway spruce building materials. | Chemosphere
+- new | 2025 | 39990518 |  | First finding of Bursaphelenchus xylophilus in pine plantations of the Republic of Armenia. | J Nematol
+- new | 2025 | 40725296 |  | First Record of Dioryctria simplicella (Lepidoptera: Pyralidae) in China: Morphology, Molecular Identification, and Phylogenetic Position. | Insects
+- new | 2025 | 40425087 |  | Cytochrome P450s from the fungal symbiont of Sirex noctilio, Amylostereum areolatum: characterization, sequence analysis and their response to host terpenoids. | Gene
+- new | 2025 | 39754034 |  | Beneficial mutualistic fungus Suillus luteus provided excellent buffering insurance in Scots pine defense responses under pathogen challenge at transcriptome level. | BMC Plant Biol
+- new | 2024 | 39204663 |  | Recovery of Scots Pine Seedlings from Long-Term Zinc Toxicity. | Plants (Basel)
+- new | 2024 | 38671396 |  | Transcriptome profiles reveal response mechanisms and key role of PsNAC1 in Pinus sylvestris var. mongolica to drought stress. | BMC Plant Biol
+- new | 2024 | 38283266 | Case Reports | Scotch pine-induced liver injury: A case report. | Hepatol Forum
+- new | 2023 | 37502016 |  | Safety and efficacy of a feed additive consisting of a tincture derived from the buds of Pinus sylvestris L. (pine tincture) for use in all animal species (FEFANA abl). | EFSA J
+- new | 2021 | 33854828 |  | Expression analysis of genes related to cold tolerance in Dendroctonus valens. | PeerJ
+- new | 2021 | 33200348 |  | Phosphate availability and ectomycorrhizal symbiosis with Pinus sylvestris have independent effects on the Paxillus involutus transcriptome. | Mycorrhiza
+- new | 2021 | 33939214 | Research Support, Non-U.S. Gov't | The effects of paints and moisture content on the indoor air emissions from pinewood (Pinus sylvestris) boards. | Indoor Air
+- new | 2021 | 34264562 |  | [Evaluation of the chemopreventive potential of polyprenols from the needles of Picea abies L. and Pinus sylvestris L. using the model of prostate carcinogenesis in male Wistar rat | Vopr Pitan [rus]
+- new | 2021 | 34117609 |  | Ecological criteria for assessing the content of petroleum hydrocarbons in the main soils of coniferous-deciduous forests and forest steppe. | Environ Geochem Health
+- new | 2021 | 33831636 |  | Vegetation structure parameters determine high burn severity likelihood in different ecosystem types: A case study in a burned Mediterranean landscape. | J Environ Manage
+- new | 2020 | 32240505 |  | The possibility of using Scots pine needles as biomonitor in determination of heavy metal accumulation. | Environ Sci Pollut Res Int
+- new | 2020 | 32521558 |  | Bioactive Properties of the Aqueous Extracts of Endophytic Fungi Associated with Scots Pine (Pinus sylvestris) Roots. | Planta Med
+- new | 2019 | 31305802 |  | No evidence of a protective or cumulative negative effect of UV-B on growth inhibition induced by gamma radiation in Scots pine (Pinus sylvestris) seedlings. | Photochem Photobiol Sci
+- new | 2019 | 30561048 |  | Improved in vivo measurement of alternative oxidase respiration in field-collected pine roots. | Physiol Plant
+- new | 2019 | 31372744 | Comparative Study | Comparative sensitivity to gamma radiation at the organismal, cell and DNA level in young plants of Norway spruce, Scots pine and Arabidopsis thaliana. | Planta
+- new | 2018 | 29770943 |  | Contamination of Scots pine forests with polycyclic aromatic hydrocarbons on the territory of industrial city of Siberia, Russia. | Environ Sci Pollut Res Int
+- HELD REF-1241 | 2018 | 29724221 |  | Use of Pinus sylvestris L. (Pinaceae), Origanum vulgare L. (Lamiaceae), and Thymus vulgaris L. (Lamiaceae) essential oils and their main components to enhance itraconazole activity | BMC Complement Altern Med
+- new | 2018 | 29040799 | Research Support, Non-U.S. Gov't | Winter survival of Scots pine seedlings under different snow conditions. | Tree Physiol
+- new | 2018 | 30053847 |  | Antibacterial activity evaluation of selected essential oils in liquid and vapor phase on respiratory tract pathogens. | BMC Complement Altern Med
+- new | 2017 | 29611658 |  | Antimicrobial activity of some plant extracts against bacterial pathogens isolated from faeces of red deer (Cervus elaphus). | Pol J Vet Sci
+- new | 2017 | 28587253 |  | Identification of Proteases and Protease Inhibitors in Allergenic and Non-Allergenic Pollen. | Int J Mol Sci
+- new | 2016 | 30475513 |  | Essential Oils and Their Vapors as Potential Antibacterial Agents against Respiratory Tract Pathogens. | Nat Prod Commun
+- new | 2016 | 27393196 | Comparative Study | Interspecific differences in foliar 1 PAHs load between Scots pine, birch, and wild rosemary from three polish peat bogs. | Environ Monit Assess
+- new | 2016 | 27225009 |  | Effects of copper deficiency and copper toxicity on organogenesis and some physiological and biochemical responses of Scots pine (Pinus sylvestris L.) seedlings grown in hydrocultu | Environ Sci Pollut Res Int
+- new | 2015 | 26041541 | Research Support, Non-U.S. Gov't | Pollensomes as Natural Vehicles for Pollen Allergens. | J Immunol
+- new | 2014 | 24920231 | Review | Estonian folk traditional experiences on natural anticancer remedies: from past to the future. | Pharm Biol
+- new | 2012 | 24260654 |  | Cytogenetic response of Scots pine (Pinus sylvestris Linnaeus, 1753) (Pinaceae) to heavy metals. | Comp Cytogenet
+- new | 2012 | 22707804 |  | Scots Pine (Pinus sylvestris L.) Growth Suppression and Adverse Effects on Human Health Due to Air Pollution in the Upper Silesian Industrial District (USID), Southern Poland. | Water Air Soil Pollut
+- new | 2011 | 21717168 | Research Support, Non-U.S. Gov't | Size-exclusion chromatographic study of ECF and TCF softwood kraft pulp bleaching liquors. | Environ Sci Pollut Res Int
+- new | 2010 | 21966908 | Research Support, Non-U.S. Gov't | Zn pollution counteracts Cd toxicity in metal-tolerant ectomycorrhizal fungi and their host plant, Pinus sylvestris. | Environ Microbiol
+- new | 2010 | 20968049 |  | [The assessment of no adverse effect doses for plant populations chronically exposed to radionuclides of uranium and thorium decay series]. | Radiats Biol Radioecol [rus]
+- new | 2009 | 19269680 | Research Support, Non-U.S. Gov't | Artificial recharge of groundwater through sprinkling infiltration: impacts on forest soil and the nutrient status and growth of Scots pine. | Sci Total Environ
+- new | 2009 | 19573163 | Multicenter Study/Research Support, Non-U.S. Gov't | Allergenicity and cross-reactivity of pine pollen. | Clin Exp Allergy
+- new | 2006 | 17066687 | Research Support, Non-U.S. Gov't | [Rhizosphere effects of Pinus sylvestris var. mongolica on soil phosphorus transformation]. | Ying Yong Sheng Tai Xue Bao [chi]
+- new | 2005 | 15866466 | Research Support, Non-U.S. Gov't | Bio-monitoring the genotoxicity of populations of Scots pine in the vicinity of a radioactive waste storage facility. | Mutat Res
+- new | 2004 | 12942357 | Research Support, Non-U.S. Gov't | Abundance, diversity, and vitality of mycorrhizae of Scots pine (Pinus sylvestris L.) in lignite recultivation sites. | Mycorrhiza
+- new | 2003 | 12590076 | Comparative Study | Bioindication of the anthropogenic effects on micropopulations of Pinus sylvestris, L. in the vicinity of a plant for the storage and processing of radioactive waste and in the Che | J Environ Radioact
+- new | 2003 | 12742063 | Comparative Study/Research Support, Non-U.S. Gov't | Expressed sequences from the basidiomycetous tree pathogen Heterobasidion annosum during early infection of scots pine. | Fungal Genet Biol
+- new | 2003 | 12852739 |  | Exposure to airborne Gram-negative bacteria, dust and endotoxin in paper factories. | Ann Agric Environ Med
+- new | 2002 | 12487309 | Research Support, Non-U.S. Gov't | Low nitrogen losses with a new source of nitrogen for cultivation of conifer seedlings. | Environ Sci Technol
+- new | 2001 | 11306946 | Research Support, Non-U.S. Gov't | Secretion of proinflammatory eicosanoid-like substances precedes allergen release from pollen grains in the initiation of allergic sensitization. | Int Arch Allergy Immunol
+- new | 2001 | 10978737 | Comparative Study | Coevolutionary toxicity as suggested by differential coniferyl alcohol inhibition of ceratocystis species growth. | Toxicon
+- new | 2001 | 11381752 | Research Support, Non-U.S. Gov't | Toxicity of chromated copper arsenate (CCA)-treated wood to non-target marine fouling communities in Langstone Harbour, Portsmouth, UK. | Mar Pollut Bull
+- new | 2001 | 11313115 |  | Genotoxicity of dill (Anethum graveolens L.), peppermint (Menthaxpiperita L.) and pine (Pinus sylvestris L.) essential oils in human lymphocytes and Drosophila melanogaster. | Food Chem Toxicol
+- new | 2000 | 10967209 |  | Adhesion and development of the root rot fungus (Heterobasidion annosum) on conifer tissues: effects of spore and host surface constituents. | FEMS Microbiol Ecol
+- new | 1999 | 12651582 |  | Nutrient uptake by intact mycorrhizal Pinus sylvestris seedlings: a diagnostic tool to detect copper toxicity. | Tree Physiol
+
+### PubMed OBS - 19 hits, 18 not already listed above, 18 new
+- new | 2026 | 42946645 |  | Canopy-scale VPD reduction in a mature forest alters stomatal response to soil drought in Pinus sylvestris L. | New Phytol
+- new | 2026 | 42884818 |  | Comparative Study on Photoinhibition Characteristics and Adaptation Mechanisms of New Current-Year Needles of Pinus densiflora var. zhangwuensis and Pinus sylvestris var. mongolica | Plants (Basel)
+- new | 2025 | 40274991 |  | Coping with five mismatches between policy and practice in hemiboreal forest stands and landscapes. | Sci Rep
+- new | 2024 | 38183574 |  | Anatomical and morphological changes in Pinus sylvestris and Larix sibirica needles under impact of emissions from a large aluminum enterprise. | Ecotoxicology
+- new | 2024 | 38571810 |  | Verified hypotheses on the "nurse" and "burial" effects on introduced Quercus rubra regeneration in a mesic Scots pine forest. | Ecol Evol
+- new | 2021 | 33453534 |  | Long-term stabilization of (15)N-labeled experimental NH(4)(+) deposition in a temperate forest under high N deposition. | Sci Total Environ
+- new | 2021 | 33630380 | Research Support, Non-U.S. Gov't | Assessing model performance via the most limiting environmental driver in two differently stressed pine stands. | Ecol Appl
+- new | 2019 | 31070766 | Research Support, Non-U.S. Gov't | Electrical resistivity tomography: patterns in Betula pendula, Fagus sylvatica, Picea abies and Pinus sylvestris. | Tree Physiol
+- new | 2017 | 28135616 |  | Regeneration of three pine species in a Mediterranean forest: A study to test predictions from species distribution models under changing climates. | Sci Total Environ
+- new | 2016 | 26834830 |  | Assessing early fitness consequences of exotic gene flow in the wild: a field study with Iberian pine relicts. | Evol Appl
+- new | 2015 | 26635842 |  | Assessing Conifer Ray Parenchyma for Ecological Studies: Pitfalls and Guidelines. | Front Plant Sci
+- new | 2009 | 19425431 | Research Support, Non-U.S. Gov't | Thinning affects nutrient resorption and nutrient-use efficiency in two Pinus sylvestris stands in the Pyrenees. | Ecol Appl
+- new | 2007 | 17545132 | Research Support, Non-U.S. Gov't | Elevated temperature and CO(2) concentration effects on xylem anatomy of Scots pine. | Tree Physiol
+- new | 2005 | 15870050 | Research Support, Non-U.S. Gov't | Estimating foliage biomass in Scots pine (Pinus sylvestris) and Norway spruce (Picea abies) plots. | Tree Physiol
+- new | 2005 | 15805092 | Comparative Study/Evaluation Study/Research Support, Non-U.S. Gov't | Allometry and evaluation of in situ optical LAI determination in Scots pine: a case study in Belgium. | Tree Physiol
+- new | 2003 | 12533307 | Research Support, Non-U.S. Gov't | Shoot growth and crown development: effect of crown position in three-dimensional simulations. | Tree Physiol
+- new | 2001 | 11560815 |  | The ratio of NPP to GPP: evidence of change over the course of stand development. | Tree Physiol
+- new | 1995 | 14966005 |  | Climate influences the leaf area/sapwood area ratio in Scots pine. | Tree Physiol
+
+### PubMed REV - 21 hits, 18 not already listed above, 18 new
+- new | 2025 | 41405564 | Review | Conifer Essential Oils Modulate Oxidative Stress and Erythrocyte Stability in Human Blood in Vitro. | Cell Physiol Biochem
+- new | 2024 | 39524426 | Review | Lignin biosynthesis pathway repressors in gymnosperms: differential repressor domains as compared to angiosperms. | For Res (Fayettev)
+- new | 2023 | 37373550 | Review | Genetic and Epigenetic Mechanisms of Longevity in Forest Trees. | Int J Mol Sci
+- new | 2022 | 35736692 | Review | Natural Sources and Pharmacological Properties of Pinosylvin. | Plants (Basel)
+- new | 2021 | 33727730 | Review | From allozymes to NGS: population genetics of forest trees in Slovakia in the past 40 years. | Biologia (Bratisl)
+- new | 2020 | 31988655 | Review | 275 years of forestry meets genomics in Pinus sylvestris. | Evol Appl
+- new | 2020 | 31552644 | Review | The tree species matters: Biodiversity and ecosystem service implications of replacing Scots pine production stands with Norway spruce. | Ambio
+- new | 2019 | 30776550 | Review | Paleoecological and historical data as an important tool in ecosystem management. | J Environ Manage
+- new | 2014 | 25898638 | Review | [Characteristics of carbon storage of Inner Mongolia forests: a review]. | Ying Yong Sheng Tai Xue Bao [chi]
+- new | 2013 | 22483340 | Research Support, Non-U.S. Gov't/Review | Effects of long-term chronic exposure to radionuclides in plant populations. | J Environ Radioact
+- new | 2009 | 20175438 | Review | Northern plants and ozone. | Ambio
+- new | 2007 | 17886659 | Research Support, Non-U.S. Gov't/Review | [Research advances in mathematical model of coniferous trees cold hardiness]. | Ying Yong Sheng Tai Xue Bao [chi]
+- new | 2005 | 15692174 | Research Support, Non-U.S. Gov't/Review | [Electrical impedance spectroscopy method for measuring cold hardiness of plants]. | Zhi Wu Sheng Li Yu Fen Zi Sheng Wu Xue X [chi]
+- new | 2005 | 16005759 | Research Support, Non-U.S. Gov't/Review | Ozone-induced changes in the chloroplast structure of conifer needles, and their use in ozone diagnostics. | Environ Pollut
+- new | 2004 | 15341318 | Research Support, Non-U.S. Gov't/Review | Dendroremediation of trinitrotoluene (TNT). Part 1: Literature overview and research concept. | Environ Sci Pollut Res Int
+- new | 2002 | 12079062 | Review | Trichloroacetic acid in the environment. | Chemosphere
+- new | 2000 | 33862908 | Review | Piceirhiza bicolorata- the ectomycorrhizal expression of the Hymenoscyphus ericae aggregate? | New Phytol
+- new | 2000 | 33862911 | Review | Symbiotic germination and development of myco-heterotrophic plants in nature: transfer of carbon from ectomycorrhizal Salix repens and Betula pendula to the orchid Corallorhiza tri | New Phytol
+
+### ClinicalTrials.gov - 1 registered studies
+- NCT03016221 | COMPLETED | results=True | NA | Local Changes of Skin Characteristics After an Application of a Topical Product With a Warming or Cooling Effect | conds: Healthy | intr: Axanova hot gel, Axanova activ gel, Perskindol Dolo Gel, Perskindol Classic Gel | pubs: ['38706945:RESULT (new)']
+
+### OpenAlex no-PMID trial-worded - 4711 hits, 88 without PMID, 88 new
+- new | 2026 | 10.15414/afz.2026.29.01.81-86 | article | How Actinometric Processes Impact Geographical Trial Plantations? | Acta fytotechnica et zootechnica/Acta fy
+- new | 2026 | 10.1016/j.foreco.2026.123822 | article | Provenance without effect? Climate–growth relationships and drought tolerance in a Scots pine (Pinus sylvestris L.) provenance trial in northeastern Germany | Forest Ecology and Management
+- new | 2026 | https://openalex.org/W7161358920 | dissertation | Evaluation of radial increment differences among distant scots pine (pinus sylvestris l.) populations in progeny trial | Vytautas Magnus University
+- new | 2026 | https://openalex.org/W7210070676 | article | Variability of radial growth of Scots pine (Pinus sylvestris L.) populations and its relationship with climatic factors in progeny trial | Vytautas Magnus University
+- new | 2026 | 10.1038/s41597-026-08434-2 | data-paper | A decade of disease survey data in a progeny-provenance trial: Dothistroma needle blight in Scots pine | Scientific Data
+- new | 2025 | 10.3390/f16121859 | article | Phyllosphere Fungal Diversity and Community in Pinus sylvestris Progeny Trials and Its Heritability Among Plus Tree Families | Forests
+- new | 2025 | 10.1186/s13595-025-01283-w | article | LiDAR-estimated height in a young Scots pine (Pinus sylvestris L.) genetic trial supports high-accuracy early selection for height | Annals of Forest Science
+- new | 2025 | 10.17076/eco2075 | article | Genetic-selection assessment of Scots pine plus trees in a progeny trial | Proceedings of the Karelian Research Cen
+- new | 2024 | 10.3832/ifor4359-016 | article | The growth dynamics of East European Scots pine (Pinus sylvestris L.) populations - a Lithuanian field trial | iForest - Biogeosciences and Forestry
+- new | 2023 | 10.37482/0536-1036-2023-3-84-98 | article | Intraspecific Diversity of Pinus sylvestris L. in Provenance Trials of the Central Russian Forest-Steppe Area | Lesnoy Zhurnal (Forestry Journal)
+- new | 2023 | 10.1134/s1995425523050050 | article | Growth Regularities of Scots Pine Climatypes in the Provenance Trial under Different Soil Conditions | Contemporary Problems of Ecology
+- new | 2023 | 10.21266/2079-4304.2023.242.43-59 | article | Comparative analysis of preservation and tree stand parameters of Scots pine (Pinus sylvestris L.) in provenance trials carried out in the Leningrad region | Известия СПбЛТА
+- new | 2022 | 10.18182/tjf.1129967 | article | Göller yöresi sarıçam (Pinus sylvestris L.) orijin denemesinde bazı morfolojik özellikler bakımından orijinler arası farklılıklar | Turkish Journal of Forestry | Türkiye Or
+- new | 2022 | 10.4067/s0718-58392022000100088 | article | Effect of selected essential oils on the efficacy of volunteer oilseed rape control and phytotoxicity in maize plants | Chilean journal of agricultural research
+- new | 2022 | 10.18182/tjf.112967 | article | Differences between provenances in terms of some morphological characteristicsin the scotch pine (Pinus sylvestris L.) provenance trial of the Lakes region | Isparta University of Applied Sciences -
+- new | 2021 | 10.18698/2542-1468-2021-3-24-33 | article | Scots pine (Pinus sylvestris L.) cones phenotypic variation growing in provenance trials of Arkhangelsk region | Лесной вестник / Forestry bulletin
+- new | 2020 | 10.1016/j.foreco.2020.118601 | article | A random forest model for basal area increment predictions from national forest inventory data | Forest Ecology and Management
+- new | 2020 | 10.1139/cjfr-2019-0366 | article | How random are predictions of forest growth? The importance of weather variability | Canadian Journal of Forest Research
+- new | 2020 | 10.15372/sjfs20200601 | article | FOREST SEED REGIONS OF SCOTS PINE BASED ON GROWTH ASSESSEMENT IN THE PROVENANCE TRIAL IN SIBERIA | Сибирский лесной журнал
+- new | 2020 | 10.18698/2542-1468-2020-6-34-43 | article | Study results of pine and larch provenance trial in Serebryanoborsky experimental forest district | Лесной вестник / Forestry bulletin
+- new | 2019 | 10.1016/j.dendro.2019.01.001 | article | Using tree rings to reconstruct changes in soil P availability – Results from forest fertilization trials | Dendrochronologia
+- new | 2018 | 10.5558/tfc2018-024 | article | Damage caused by Lophodermium needle cast in open-pollinated and control-crossed progeny trials of Scots pine (Pinus sylvestris L.) | The Forestry Chronicle
+- new | 2017 | https://openalex.org/W7217409972 | dissertation | Height Growth and Assessment of Needle and Shoot Diseases in Scots Pine (Pinus sylvestris L.) Progeny Trials | EMU DSpace
+- new | 2016 | 10.1016/j.foreco.2016.09.019 | article | A review of Nordic trials studying effects of biomass harvest intensity on subsequent forest production | Forest Ecology and Management
+- new | 2015 | 10.2298/abs150319100a | article | Genetic diversity and differentiation of Pinus sylvestris L. from the IUFRO 1982 provenance trial revealed by AFLP analysis | Archives of Biological Sciences
+- new | 2014 | 10.1007/s11270-014-1992-z | article | Random Forests Analysis: a Useful Tool for Defining the Relative Importance of Environmental Conditions on Crown Defoliation | Water Air & Soil Pollution
+- new | 2013 | 10.12657/denbio.071.003 | article | Genetic variability of Pinus sylvestris populations from IUFRO 1982 provenance trial | Dendrobiology
+- new | 2013 | 10.1016/j.foreco.2013.06.053 | article | Impact of climate and drought events on the growth of Scots pine (Pinus sylvestris L.) provenances | Forest Ecology and Management
+- new | 2013 | 10.1007/s11295-012-0588-2 | article | Genetic information from progeny trials: a comparison between progenies generated by open pollination and by controlled crosses | Tree Genetics & Genomes
+- new | 2012 | 10.3390/rs4092661 | article | Tree Species Classification with Random Forest Using Very High Spatial Resolution 8-Band WorldView-2 Satellite Data | Remote Sensing
+- new | 2011 | 10.2478/v10111-011-0020-y | article | Random amplified polymorphic DNA markers linked to quantitaive traits loci in Scots pine (Pinus sylvestris L.) | Forest Research Papers
+- new | 2011 | 10.1016/j.indcrop.2011.10.035 | article | Chemical characterization of barks from Picea abies and Pinus sylvestris after fractioning into different particle sizes | Industrial Crops and Products
+- new | 2010 | https://openalex.org/W2390438461 | article | Introduction trials during seedlings period and early evaluation of young Pinus sylvestris in the cold area | China Forestry Science and Technology
+- new | 2010 | 10.1080/02827581.2010.509330 | article | Relationships between early assessments of stem and branch properties and sawn timber traits in aPinus sylvestrisprogeny trial | Scandinavian Journal of Forest Research
+- new | 2009 | 10.1007/s10342-009-0330-2 | article | Using cattle for conservation objectives in a Scots pine Pinus sylvestris forest: results of two trials | European Journal of Forest Research
+- new | 2009 | 10.2478/v10132-011-0070-1 | article | Growth Differences in the Progeny Trials of the Scots Pine (Pinus sylvestris L.) | Forestry Studies / Metsanduslikud Uurimu
+- new | 2009 | https://openalex.org/W1827553710 | article | Variability of Scots pine (Pinus sylvestris L.) in the Provenance Trial Glasinac - Sokolac (Bosnia and Herzegovina). | Šumarski list
+- new | 2009 | 10.2478/v10132-011-0078-6 | article | The influence of seed origin on stand variables of Scots pine (Pinus sylvestris L.) provenance trial in Ahunapalu | Forestry Studies / Metsanduslikud Uurimu
+- new | 2009 | 10.1139/x09-111 | article | Genetic analysis of longitudinal height data using random regression | Canadian Journal of Forest Research
+- new | 2009 | 10.1016/j.ibiod.2009.10.005 | article | Microbial attack of acetylated wood in field soil trials | International Biodeterioration & Biodegr
+- new | 2009 | 10.3906/tar-0902-28 | article | Variation in resistance to marine borers in commercial timbers from Turkey, as assessed by marine trial and laboratory screening | TURKISH JOURNAL OF AGRICULTURE AND FORES
+- new | 2008 | https://openalex.org/W75200544 | article | Intraspecific Response of Scots pine (Pinus sylvestris L.) to Pathogens in a Provenance Trial in Middle Siberia | Eurasian journal of forest research
+- new | 2008 | 10.2478/v10132-011-0057-y | article | About the heritability influence to the growth performance in Scots pine (Pinus sylvestris L.) progeny trials | Forestry Studies / Metsanduslikud Uurimu
+- new | 2008 | https://openalex.org/W84083072 | article | Height Increments and Survival of Pinus sylvestris Climatypes in Provenance Trials in the Western Trans-Baikal Region | Eurasian journal of forest research
+- new | 2008 | 10.1080/02827580802512416 | article | Comparison of growth and stem form characters ofPinus sylvestrisclones and seedlings of the same origin in a 10-year field trial | Scandinavian Journal of Forest Research
+- new | 2006 | 10.1016/j.ecolmodel.2006.03.015 | article | Predicting habitat suitability with machine learning models: The potential area of Pinus sylvestris L. in the Iberian Peninsula | Ecological Modelling
+- new | 2004 | 10.14214/sf.404 | article | Survival and early seedling growth of conifers with different shade tolerance in a Sitka spruce spacing trial and relationship to understorey light climate | Silva Fennica
+- new | 2004 | 10.56617/tl.4579 | article | Erdeifenyvesek természetes felújítási lehetőségeinek áttekintése és hosszú távú kísérlet felállítása az Őrségi Nemzeti Parkban | Tájökológiai Lapok
+- new | 2003 | 10.22092/ijfpr.2003.109370 | article | PRELIMINARY RESULTS OF ELIMINATION TRIAL WITH NEED-LELEAVED SPECIES IN MAZANDARAN FORESTS (VANAMAK) | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2003 | 10.22092/ijfpr.2002.109688 | article | PRELIMINARY RESULTS OF SPECIES TRIALS AT ASALEM FORESTS THE WORLD MOST IMPORTANT SPECIES OF CONIFEROUS | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2002 | 10.1080/02827580260138080 | article | Models for Predicting Wood Properties in Stems of Picea abies and Pinus sylvestris in Sweden | Scandinavian Journal of Forest Research
+- new | 2001 | 10.21825/sg.v66i0.820 | article | Results of a forest species trial in an arboretum of North Greece | Silva Gandavensis
+- new | 2000 | https://openalex.org/W828685499 | article | A provenance experiment on variation in Scots pine (Pinus sylvestris L.) in the IUFRO 1982 series trials in the Supraśl Forest District. | Sylwan
+- new | 2000 | 10.1080/028275800750014966 | article | Genetic Correlations Among Wood, Growth Capacity and Stem Traits in Pinus sylvestris | Scandinavian Journal of Forest Research
+- new | 1999 | 10.14214/sf.663 | article | Variation in knot size of Pinus sylvestris in two initial spacing trials | Silva Fennica
+- new | 1999 | 10.1046/j.1365-294x.1999.00532.x | article | Comparison of homology and linkage of random amplified polymorphic DNA (RAPD) markers between individual trees of Scots pine (Pinus sylvestris L.) | Molecular Ecology
+- new | 1998 | 10.1111/j.1439-0329.1998.tb01190.x | article | Genetic variation of the resin top fungus in Finland as determined by random amplified microsatellites (RAMS) | European Journal of Forest Pathology
+- new | 1998 | 10.1139/x98-124 | article | Age-age correlations for tracheid length and wood density in Pinus sylvestris | Canadian Journal of Forest Research
+- new | 1998 | https://openalex.org/W2922368734 | article | Genetic st ructure of Pinus sylvestris L.populations from IUFRO-82 provenance trial exposed to industrial polution from Copper Smelter in Glogow | Acta Physiologiae Plantarum
+- new | 1997 | 10.1139/x96-222 | article | Distinguishing between the effects of changes in temperature and light climate using provenance trials with Pinus sylvestris in Sweden | Canadian Journal of Forest Research
+- new | 1997 | 10.1016/s0378-1127(97)00063-7 | article | Height-diameter curves with random intercepts and slopes for trees growing on drained peatlands | Forest Ecology and Management
+- new | 1997 | 10.14214/sf.a8506 | article | Progeny trial estimates of genetic parameters for growth and quality traits in Scots pine. | Silva Fennica
+- new | 1997 | https://openalex.org/W2288305624 | article | Effects of different thinning and fertilization regimes on the development of Scots pine (Pinus sylvestris (L.)) and Norway spruce (Picea abies (L.) Karst.) stands in long-term sil | 
+- new | 1996 | 10.1038/hdy.1996.59 | article | Empirical assessment of allozyme and RAPD variation in Pinus sylvestris (L.) using haploid tissue analysis | Heredity
+- new | 1995 | https://openalex.org/W1201244812 | article | Genomic mapping of Pinus sylvestris (L.) using random amplified polymorphic DNA markers. | 
+- new | 1995 | 10.1016/0378-1127(95)03557-q | article | Wood quality of Pinus sylvestris progenies at various spacings | Forest Ecology and Management
+- new | 1995 | 10.14214/sf.a9214 | article | A method for using random parameters in analyzing permanent sample plots. | Silva Fennica
+- new | 1994 | 10.2307/1941724 | article | Growth Variation in a Naturally Established Population of Pinus Sylvestris | Ecology
+- new | 1994 | 10.1007/bf00196640 | article | Non-random needle orientation in 1-year-old Scots pine (Pinus sylvestris L.) seedlings when adjacent to non-shading vegetation | Trees
+- new | 1993 | 10.1080/02827589309382779 | article | Genetic relationships between growth and quality traits in an 8‐year‐old half‐sib progeny trial ofPinus sylvestris | Scandinavian Journal of Forest Research
+- new | 1993 | 10.1038/hdy.1993.186 | article | Variation and inheritance of ribosomal DNA in Pinus sylvestris L. (Scots pine) | Heredity
+- new | 1991 | 10.1093/forestscience/37.3.781 | article | Calibration of Height and Volume Equations with Random Parameters | Forest Science
+- new | 1991 | 10.1007/bf01048612 | article | Results and experience from amelioration trials in Scots pine (Pinus sylvestris L.) forests of Northeastern Bavaria | Nutrient Cycling in Agroecosystems
+- new | 1991 | 10.1093/forestscience/37.1.123 | article | Estimating Annual Increment Response to Forest Fertilization: A Comparison of Methods by Uniformity Trials | Forest Science
+- new | 1988 | https://openalex.org/W59700936 | report | Wood quality and volume production in four 24-year-old provenance trials with Pinus contorta | Epsilon Open Archive (Sveriges lantbruks
+- new | 1988 | 10.1080/02827588809382492 | article | Genetic expression for monoterpenes in clones of Pinus sylvestris grown on different sites | Scandinavian Journal of Forest Research
+- new | 1987 | 10.1080/02827588709382465 | article | Inbreeding depression in two field trials of young pinus sylvestris (L.) | Scandinavian Journal of Forest Research
+- new | 1987 | 10.1080/02827588709382467 | article | Within‐ and Between‐population Variation of Growth and Stem Quality in a 30‐year‐old Pinus sylvestris Trial | Scandinavian Journal of Forest Research
+- new | 1986 | https://openalex.org/W7197970557 | conference-paper | Marine trials with water-borne salts and organotin compound | Minerva Access (University of Melbourne)
+- new | 1983 | 10.1016/0002-1571(83)90004-3 | article | Effect of grouping of foliage on the within-stand and within-crown light regime: Comparison of random and grouping canopy models | Agricultural Meteorology
+- new | 1982 | https://openalex.org/W7197946527 | conference-paper | Collaborative field trial out-of-ground contact | Minerva Access (University of Melbourne)
+- new | 1982 | https://openalex.org/W2529666259 | article | Investigation by the Swedish Forest Service of industrial plantations - development of single and multiple plants [potted plants, Pinus sylvestris, field trials] | 
+- new | 1979 | https://openalex.org/W2201783997 | article | Studies on the progeny of high-montane Pinus sylvestris, Pinus mugo and their natural hybrids in trial plantations. | 
+- new | 1976 | https://openalex.org/W58008372 | report | Variation between and within populations in a provenance trial of Pinus sylvestris at Nordanås, lat. 64 19', long. 18 09', alt. 400 m | Epsilon Open Archive (Sveriges lantbruks
+- new | 1973 | https://openalex.org/W85622760 | article | Preliminary results of a trial of chemical control of insects damaging cones of Pinus sylvestris. | 
+- new | 1971 | https://openalex.org/W65746975 | report | Coastal and inland provenance trials in Pinus sylvestris L. | Epsilon Open Archive (Sveriges lantbruks
+- new | 1960 | https://openalex.org/W225506923 | article | Scots Pine provenance trials. I. The large-scale trial in the S. Wurttemberg forest district of Schussenried. II. The trials established in Wurttemberg from 1927 to 1936. III. Tria | Allgemeine Forst- und Jagdzeitung
+- new | 1938 | 10.1080/00049158.1938.10675120 | article | TRIALS IN NYASALAND OF INTRODUCED PINES | Australian Forestry
+
+## piper-methysticum (Piper methysticum) - name clause: "Piper methysticum"[tiab] OR "kava"[tiab] OR "kava-kava"[tiab] OR "kavalactones"[tiab] OR "WS 1490"[tiab]
+
+### PubMed HT - 116 hits, 116 not already listed above, 103 new
+- new | 2026 | 42865185 |  | Medicinal Plants in the Management of Anxiety Disorders: Clinical Evidence, Mechanisms, and Safety Considerations. | Curr Pharm Des
+- new | 2026 | 43004839 |  | Feasibility and safety of a 4-week AB-free kava intervention among adults who smoke cigarettes and its effects on reducing lung cancer risk biomarkers: a pilot trial. | Cancer Prev Res (Phila)
+- new | 2026 | 42609591 |  | Computational analysis of therapeutic potential for simplified Piper spp.- derived medicinal mixtures in anxiety, sleep, pain and seizure. | Front Pharmacol
+- new | 2025 | 40497110 | Review | Innovating through tradition: kava-talanoa as a culturally aligned medico-behavioral therapeutic approach to amelioration of PTSD symptoms. | Front Psychol
+- new | 2024 | 39010683 | Randomized Controlled Trial | Kavalactones support motivation to move during intensive training in males preparing for military special operations forces. | J Int Soc Sports Nutr
+- new | 2024 | 39807458 |  | The Safety of Multiple-Dose Liquid Blend Containing Kava and Kratom in Healthy Adults. | Cureus
+- new | 2024 | 39709468 | Clinical Trial Protocol | The potential of AB-free kava in enabling tobacco cessation via management of abstinence-related stress and insomnia: study protocol for a randomized clinical trial. | BMC Complement Med Ther
+- new | 2024 | 39001862 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | One-Week Kava Dietary Supplementation Increases Both Urinary N- and O-Glucuronides of NNAL, a Lung Carcinogen Major Metabolite, among Smokers. | Chem Res Toxicol
+- new | 2023 | 37767766 | Randomized Controlled Trial | Effect of kava (Piper methysticum) on peripheral gene expression among individuals with generalized anxiety disorder: A post hoc analysis of a randomized controlled trial. | Phytother Res
+- new | 2023 | 37960239 | Randomized Controlled Trial | Neuroimaging Insights: Kava's (Piper methysticum) Effect on Dorsal Anterior Cingulate Cortex GABA in Generalized Anxiety Disorder. | Nutrients
+- new | 2023 | 36653872 | Clinical Trial Protocol | Reducing tobacco-associated lung cancer risk: a study protocol for a randomized clinical trial of AB-free kava. | Trials
+- new | 2022 | 35311615 | Meta-Analysis/Research Support, Non-U.S. Gov't | Clinician guidelines for the treatment of psychiatric disorders with nutraceuticals and phytoceuticals: The World Federation of Societies of Biological Psychiatry (WFSBP) and Canad | World J Biol Psychiatry
+- new | 2022 | 36176875 | Review | The Impact of Complementary and Alternative Medicine on Insomnia: A Systematic Review. | Cureus
+- HELD REF-2546 | 2022 | 35378276 | Systematic Review/Research Support, Non-U.S. Gov't/Network Meta-Analysis | Medicinal herbs for the treatment of anxiety: A systematic review and network meta-analysis. | Pharmacol Res
+- new | 2022 | 35777607 |  | Clinical pharmacokinetics of kavalactones after oral dosing of standardized kava extract in healthy volunteers. | J Ethnopharmacol
+- new | 2022 | 34959246 |  | An Attempt to Estimate the Noises in Homeopathic Pathogenetic Trials by Employing the Jaccard Similarity Index and Noise Index. | Homeopathy
+- new | 2022 | 34969612 |  | Direct Vision, Transfascial (DVT) Approach to Submuscular Reservoir Placement in Patients Undergoing Multicomponent Penile Implant Surgery Following Prior Pelvic Surgery or Radiati | J Sex Med
+- new | 2021 | 33596697 | Research Support, Non-U.S. Gov't/Review | Plant-based Medicines (Phytoceuticals) in the Treatment of Psychiatric Disorders: A Meta-review of Meta-analyses of Randomized Controlled Trials: Les médicaments à base de plantes  | Can J Psychiatry
+- new | 2020 | 33424664 | Review | Pharmacotherapy of Anxiety Disorders: Current and Emerging Treatment Options. | Front Psychiatry
+- new | 2020 | 32064691 | Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Kava drinking in traditional settings: Towards understanding effects on cognitive function. | Hum Psychopharmacol
+- new | 2020 | 32520732 | Systematic Review | Therapeutic Interventions for Adjustment Disorder: A Systematic Review. | Am J Ther
+- new | 2020 | 33027883 | Review | Kava as a Clinical Nutrient: Promises and Challenges. | Nutrients
+- HELD REF-3397 | 2020 | 31813230 | Clinical Trial, Phase III/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Kava for generalised anxiety disorder: A 16-week double-blind, randomised, placebo-controlled study. | Aust N Z J Psychiatry
+- new | 2019 | 30770075 |  | Trans-Fascial Placement of a High, Sub Muscular Reservoir in Patients Following Radical Cystectomy: Safety, Efficacy, and Predictability of Final Reservoir Location Verified With A | J Sex Med
+- new | 2018 | 30056792 | Review | Pharmacotherapy for generalized anxiety disorder in adult and pediatric patients: an evidence-based treatment review. | Expert Opin Pharmacother
+- HELD REF-2545 | 2018 | 30396607 | Systematic Review | The effectiveness and safety of Kava Kava for treating anxiety symptoms: A systematic review and analysis of randomized clinical trials. | Complement Ther Clin Pract
+- new | 2018 | 29641222 | Meta-Analysis/Systematic Review | Kava for Generalized Anxiety Disorder: A Review of Current Evidence. | J Altern Complement Med
+- new | 2018 | 29508154 | Systematic Review | Complementary and Alternative Medicine Treatments for Generalized Anxiety Disorder: Systematic Review and Meta-analysis of Randomized Controlled Trials. | Adv Ther
+- new | 2018 | 29791008 | Review | The Pharmacology, Pharmacokinetics, Efficacy, and Adverse Events Associated With Kava. | J Clin Pharmacol
+- new | 2017 | 29354615 |  | Effect of Phytoestrogen on Depression and Anxiety in Menopausal Women: A Systematic Review. | J Menopausal Med
+- new | 2015 | 25644982 | Meta-Analysis/Systematic Review | Herbal medicine for insomnia: A systematic review and meta-analysis. | Sleep Med Rev
+- new | 2015 | 26298863 | Editorial/Comment | Genetic polymorphisms in the UDP-glucuronosyltransferase UGT1A7 gene in patients with acute liver failure after kava-kava consumption. | Arch Toxicol
+- new | 2015 | 26475488 | Letter/Comment | Response to Aghdassi et al., Letter to the editor "Genetic polymorphisms in the UDP-glucuronosyltransferase UGT1A7 gene in patients with acute liver failure after kava-kava consump | Arch Toxicol
+- new | 2015 | 26527536 | Clinical Trial, Phase III/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Kava for the treatment of generalised anxiety disorder (K-GAD): study protocol for a randomised controlled trial. | Trials
+- new | 2014 | 24885057 | Research Support, Non-U.S. Gov't | Tuberculosis patients' knowledge and beliefs about tuberculosis: a mixed methods study from the Pacific Island nation of Vanuatu. | BMC Public Health
+- new | 2014 | 25746933 |  | [Factors related to smoking and consumption of alcohol and kava in children attending the upper grades of primary schools in Vanuatu]. | Nihon Koshu Eisei Zasshi [jpn]
+- new | 2013 | 23259514 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Does a medicinal dose of kava impair driving? A randomized, placebo-controlled, double-blind study. | Traffic Inj Prev
+- HELD REF-3398 | 2013 | 23635869 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Kava in the treatment of generalized anxiety disorder: a double-blind, randomized, placebo-controlled study. | J Clin Psychopharmacol
+- new | 2013 | 23348842 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Kava for the treatment of generalized anxiety disorder RCT: analysis of adverse reactions, liver function, addiction, and sexual effects. | Phytother Res
+- new | 2012 | 22572210 | Historical Article/Research Support, N.I.H., Extramural | Steppingstone and gateway ideas: a discussion of origins, research challenges, and promising lines of research for the future. | Drug Alcohol Depend
+- new | 2012 | 22311378 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The acute effects of kava and oxazepam on anxiety, mood, neurocognition; and genetic correlates: a randomized, placebo-controlled, double-blind study. | Hum Psychopharmacol
+- new | 2011 | 21827936 | Systematic Review | Complementary medicines (herbal and nutritional products) in the treatment of Attention Deficit Hyperactivity Disorder (ADHD): a systematic review of the evidence. | Complement Ther Med
+- new | 2011 | 20814850 | Research Support, Non-U.S. Gov't | Re-introduction of kava (Piper methysticum) to the EU: is there a way forward? | Planta Med
+- new | 2010 | 20493333 | Review | Complementary and alternative medicine usage for behavioral health indications. | Prim Care
+- new | 2010 | 20929532 | Systematic Review | Nutritional and herbal supplements for anxiety and anxiety-related disorders: systematic review. | Nutr J
+- new | 2010 | 20833608 | Review | Evaluating the evidence for over-the-counter alternatives for relief of hot flashes in menopausal women. | J Am Pharm Assoc (2003)
+- new | 2010 | 21308265 | Meta-Analysis/Review | [Medicinal plants for the treatment of generalized anxiety disorder: a review of controlled clinical studies]. | Braz J Psychiatry [por]
+- new | 2010 | 20879703 |  | Counseling patients about hormone therapy and alternatives for menopausal symptoms. | Am Fam Physician
+- new | 2009 | 19398072 | Randomized Controlled Trial | Kava Anxiety Depression Spectrum Study (KADSS): a mixed methods RCT using an aqueous extract of Piper methysticum. | Complement Ther Med
+- new | 2009 | 19090505 | Randomized Controlled Trial | St. John's wort and Kava in treating major depressive disorder with comorbid anxiety: a randomised double-blind placebo-controlled pilot trial. | Hum Psychopharmacol
+- HELD REF-2463 | 2009 | 19430766 | Randomized Controlled Trial | The Kava Anxiety Depression Spectrum Study (KADSS): a randomized, placebo-controlled crossover trial using an aqueous extract of Piper methysticum. | Psychopharmacology (Berl)
+- new | 2008 | 18756649 | Comment/Letter | Safety of kava for patients with mild anxiety disorders. | Am Fam Physician
+- HELD REF-1855 | 2008 | 17495878 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | Supplementation with goldenseal (Hydrastis canadensis), but not kava kava (Piper methysticum), inhibits human CYP3A activity in vivo. | Clin Pharmacol Ther
+- new | 2008 | 18520739 | Review | Complementary medicine for psychiatric disorders in children and adolescents. | Curr Opin Psychiatry
+- HELD REF-5051 | 2008 | 18214849 | Research Support, N.I.H., Extramural | Clinical assessment of CYP2D6-mediated herb-drug interactions in humans: effects of milk thistle, black cohosh, goldenseal, kava kava, St. John's wort, and Echinacea. | Mol Nutr Food Res
+- new | 2007 | 17984162 | Meta-Analysis | An effect-size analysis of pharmacologic treatments for generalized anxiety disorder. | J Psychopharmacol
+- new | 2007 | 17194961 | Research Support, N.I.H., Extramural/Review | Botanical and dietary supplements for mood and anxiety in menopausal women. | Menopause
+- HELD REF-5416 | 2007 | 17079360 | Randomized Controlled Trial/Research Support, N.I.H., Extramural | Effect of goldenseal (Hydrastis canadensis) and kava kava (Piper methysticum) supplementation on digoxin pharmacokinetics in humans. | Drug Metab Dispos
+- new | 2007 | 17331820 | Review | Herbal medicine in the treatment of liver diseases. | Dig Liver Dis
+- new | 2006 | 16856115 | Meta-Analysis/Systematic Review | Azapirones for generalized anxiety disorder. | Cochrane Database Syst Rev
+- new | 2006 | 16945616 | Research Support, Non-U.S. Gov't/Review | Quality of reporting of randomized controlled trials of herbal medicine interventions. | Am J Med
+- new | 2006 | 16428031 | Systematic Review | Herbal remedies for anxiety - a systematic review of controlled clinical trials. | Phytomedicine
+- new | 2006 | 16877894 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Kava in generalized anxiety disorder: three placebo-controlled trials. | Int Clin Psychopharmacol
+- new | 2005 | 17561634 | Review | Oral nonprescription treatment for insomnia: an evaluation of products with limited evidence. | J Clin Sleep Med
+- new | 2005 | 15916450 | Review | Herb-drug interactions: a literature review. | Drugs
+- new | 2005 | 15934028 | Meta-Analysis | Meta-analysis of the efficacy of the acetonic kava-kava extract WS1490 in patients with non-psychotic anxiety disorders. | Phytother Res
+- HELD REF-1356 | 2005 | 16010204 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | An internet-based randomized, placebo-controlled trial of kava and valerian for anxiety and insomnia. | Medicine (Baltimore)
+- new | 2005 | 15982998 | Review | Medicinal plants for insomnia: a review of their pharmacology, efficacy and tolerability. | J Psychopharmacol
+- new | 2005 | 16060202 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Classical and new proving methodology: provings of Plumbum metallicum and Piper methysticum and comparison with a classical proving of Plumbum metallicum. | Homeopathy
+- HELD REF-2503 | 2005 | 15900287 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | In vivo effects of goldenseal, kava kava, black cohosh, and valerian on human cytochrome P450 1A2, 2D6, 2E1, and 3A4/5 phenotypes. | Clin Pharmacol Ther
+- new | 2005 | 16252352 | News | Kava, valerian no more effective than placebo. | Health News
+- new | 2004 | 15523813 | Review | [Weighing the efficacy and safety of herbal medicine: the case of Kava-Kava]. | Harefuah [heb]
+- new | 2004 | 14706720 | Clinical Trial/Multicenter Study/Randomized Controlled Trial | Clinical efficacy of kava extract WS 1490 in sleep disturbances associated with anxiety disorders. Results of a multicenter, randomized, placebo-controlled, double-blind clinical t | J Affect Disord
+- new | 2004 | 15181652 | Clinical Trial/Randomized Controlled Trial | Enhanced cognitive performance and cheerful mood by standardized extracts of Piper methysticum (Kava-kava). | Hum Psychopharmacol
+- new | 2004 | 15503544 | Review | [Potential risks, adverse effects and drug interactions associated with herbal medicine in dental patients]. | Refuat Hapeh Vehashinayim (1993) [heb]
+- new | 2004 | 15253862 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Explanatory attributions of anxiety and recovery in a study of kava. | J Altern Complement Med
+- new | 2004 | 14735185 | Research Support, Non-U.S. Gov't | Potential health risks of complementary alternative medicines in cancer patients. | Br J Cancer
+- new | 2004 | 15162364 | Clinical Trial/Randomized Controlled Trial | Kava treatment in patients with anxiety. | Phytother Res
+- new | 2003 | 14501609 | Research Support, Non-U.S. Gov't/Systematic Review | A systematic review of herbal medicinal products for the treatment of menopausal symptoms. | Menopause
+- HELD REF-2462 | 2003 | 12535473 | Meta-Analysis/Systematic Review | Kava extract for treating anxiety. | Cochrane Database Syst Rev
+- new | 2003 | 14692723 | Clinical Trial/Multicenter Study/Randomized Controlled Trial | Treatment of anxiety, tension and restlessness states with Kava special extract WS 1490 in general practice: a randomized placebo-controlled double-blind multicenter trial. | Phytomedicine
+- new | 2003 | 12807341 | Clinical Trial/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Kava-Kava extract LI 150 is as effective as Opipramol and Buspirone in Generalised Anxiety Disorder--an 8-week randomized, double-blind multi-centre clinical trial in 129 out-patie | Phytomedicine
+- new | 2003 | 12816628 | Research Support, Non-U.S. Gov't | Morning/evening menopausal formula relieves menopausal symptoms: a pilot study. | J Altern Complement Med
+- new | 2003 | 12590005 | Clinical Trial/Randomized Controlled Trial | Kava-Kava administration reduces anxiety in perimenopausal women. | Maturitas
+- new | 2003 | 12544679 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Botanical dietary supplement use in peri- and postmenopausal women. | Menopause
+- new | 2002 | 12131602 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A placebo-controlled study of Kava kava in generalized anxiety disorder. | Int Clin Psychopharmacol
+- HELD REF-2462 | 2002 | 12076477 | Systematic Review | Kava extract for treating anxiety. | Cochrane Database Syst Rev
+- new | 2002 | 11777363 | Meta-Analysis/Review | The risk-benefit profile of commonly used herbal therapies: Ginkgo, St. John's Wort, Ginseng, Echinacea, Saw Palmetto, and Kava. | Ann Intern Med
+- new | 2002 | 11807960 | Clinical Trial | Effect of kava and valerian on human physiological and psychological responses to mental stress assessed under laboratory conditions. | Phytother Res
+- new | 2001 | 11514117 | Clinical Trial/Evaluation Study/Randomized Controlled Trial | Evaluation of combining kava extract with hormone replacement therapy in the treatment of postmenopausal anxiety. | Maturitas
+- new | 2001 | 11536390 | Clinical Trial | Kava and valerian in the treatment of stress-induced insomnia. | Phytother Res
+- new | 2001 | 11769822 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of kava extract on vagal cardiac control in generalized anxiety disorder: preliminary findings. | J Psychopharmacol
+- new | 2001 | 11245510 | Review | A primer of complementary and alternative medicine commonly used by cancer patients. | Med J Aust
+- new | 2001 | 12404572 |  | Stress-induced insomnia treated with kava and valerian: singly and in combination. | Hum Psychopharmacol
+- new | 2001 | 15334034 |  | Adverse-effect profile of kava. | CNS Spectr
+- HELD REF-2462 | 2001 | 11687196 | Systematic Review | Kava extract for treating anxiety. | Cochrane Database Syst Rev
+- new | 2001 | 11605083 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy of kava-kava in the treatment of non-psychotic anxiety, following pretreatment with benzodiazepines. | Psychopharmacology (Berl)
+- new | 2001 | 15334040 |  | The self-assessment of resilience and anxiety: psychometric properties. | CNS Spectr
+- new | 2001 | 12180513 | Comparative Study | Kava as an anticraving agent: preliminary data. | Pac Health Dialog
+- new | 2000 | 10970915 | Review | A review of herbal medicines for psychiatric disorders. | Psychiatr Serv
+- new | 2000 | 10653213 | Meta-Analysis/Systematic Review | Efficacy of kava extract for treating anxiety: systematic review and meta-analysis. | J Clin Psychopharmacol
+- new | 2000 | 11085051 | Clinical Trial/Comparative Study/Randomized Controlled Trial | [Assessment of the association of Kava-Kava extract and hormone replacement therapy in the treatment of postmenopause anxiety]. | Minerva Ginecol [ita]
+- new | 1999 | 10511018 | Review | Dietary supplements and natural products as psychotherapeutic agents. | Psychosom Med
+- new | 1999 | 10711131 | Review | Dietary supplements used in the treatment of depression, anxiety, and sleep disorders. | Lippincotts Prim Care Pract
+- new | 1998 | 23196028 |  | The quantitative EEG as a screening instrument to identify sedative effects of single doses of plant extracts in comparison with diazepam. | Phytomedicine
+- new | 1997 | 9065962 | Clinical Trial/Multicenter Study/Randomized Controlled Trial | Kava-kava extract WS 1490 versus placebo in anxiety disorders--a randomized placebo-controlled 25-week outpatient trial. | Pharmacopsychiatry
+- new | 1997 | 23195591 |  | Clinical trials with Phyto-Psychopharmacological agents. | Phytomedicine
+- new | 1996 | 23194958 |  | Efficacy of a special Kava extract (Piper methysticum) in patients with states of anxiety, tension and excitedness of non-mental origin - A double-blind placebo-controlled study of | Phytomedicine
+- new | 1995 | 7893278 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Studies on the efficacy of unconventional therapies. Problems and designs. | Arzneimittelforschung
+- new | 1994 | 7870743 | Clinical Trial/Randomized Controlled Trial | Pharmacopsychological effects of oxazepam and kava-extract in a visual search paradigm assessed with event-related potentials. | Pharmacopsychiatry
+- new | 1993 | 8481222 | Clinical Trial/Randomized Controlled Trial | [Effect of Kava-Special Extract WS 1490 combined with ethyl alcohol on safety-relevant performance parameters]. | Blutalkohol [ger]
+- new | 1993 | 8515824 | Clinical Trial/Controlled Clinical Trial | Effects of oxazepam and an extract of kava roots (Piper methysticum) on event-related potentials in a word recognition task. | Neuropsychobiology
+- new | 1991 | 2029982 | Clinical Trial/Randomized Controlled Trial | [Psychosomatic dysfunctions in the female climacteric. Clinical effectiveness and tolerance of Kava Extract WS 1490]. | Fortschr Med [ger]
+- new | 1991 | 1930344 | Clinical Trial/Randomized Controlled Trial | [Effect of a special kava extract in patients with anxiety-, tension-, and excitation states of non-psychotic genesis. Double blind study with placebos over 4 weeks]. | Arzneimittelforschung [ger]
+- new | 1990 | 1972218 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Kava-induced dermopathy: a niacin deficiency? | Lancet
+- new | 1967 | 5615543 |  | Effect of kava in normal subjects and patients. | Psychopharmacol Bull
+
+### PubMed SR - 48 hits, 24 not already listed above, 21 new
+- new | 2025 | 40560778 | Systematic Review/Research Support, Non-U.S. Gov't | Global Perspectives on Kava: A Narrative Systematic Review of the Health Effects, Economic and Social Impacts and Policy Considerations. | Drug Alcohol Rev
+- new | 2025 | 39350596 | Scoping Review | What over the counter (OTC) products have been evaluated for anxiety in adults aged 18-60? A scoping review. | J Ment Health
+- new | 2024 | 38829029 | Case Reports/Systematic Review | Kava Withdrawal Treated With Phenobarbital-A Case Report and Literature Review. | J Addict Med
+- new | 2023 | 37397764 | Research Support, Non-U.S. Gov't/Systematic Review | Identifying complementary and alternative medicine recommendations for insomnia treatment and care: a systematic review and critical assessment of comprehensive clinical practice g | Front Public Health
+- new | 2022 | 35763396 |  | Calm Down With Kava: What Clinicians Need to Know. | J Psychosoc Nurs Ment Health Serv
+- new | 2022 | 35887801 | Review | An Updated Review on the Psychoactive, Toxic and Anticancer Properties of Kava. | J Clin Med
+- new | 2021 | 34307603 |  | Herb-induced liver injury: Systematic review and meta-analysis. | World J Clin Cases
+- HELD REF-3063 | 2021 | 34471418 | Review | Biological Activity, Hepatotoxicity, and Structure-Activity Relationship of Kavalactones and Flavokavins, the Two Main Bioactive Components in Kava (Piper methysticum). | Evid Based Complement Alternat Med
+- new | 2019 | 31172600 | Systematic Review | The protective effects of Kava (Piper Methysticum) constituents in cancers: A systematic review. | J Oral Pathol Med
+- HELD REF-2547 | 2018 | 29575228 | Systematic Review | Herbal medicines in the treatment of psychiatric disorders: 10-year updated review. | Phytother Res
+- new | 2018 | 29168225 | Systematic Review | GABA-modulating phytomedicines for anxiety: A systematic review of preclinical and clinical evidence. | Phytother Res
+- new | 2015 | 26337520 | Systematic Review | Is driving under the influence of kava associated with motor vehicle crashes? A systematic review of the epidemiological literature. | Aust N Z J Public Health
+- new | 2012 | 22472025 | Review | Nutraceuticals in psychiatric practice. | Recent Pat CNS Drug Discov
+- new | 2011 | 21437989 | Research Support, Non-U.S. Gov't/Systematic Review | Neurocognitive effects of kava (Piper methysticum): a systematic review. | Hum Psychopharmacol
+- new | 2011 | 21601431 | Research Support, Non-U.S. Gov't/Systematic Review | Herbal medicine for depression, anxiety and insomnia: a review of psychopharmacology and clinical evidence. | Eur Neuropsychopharmacol
+- HELD REF-2436 | 2009 | 19719333 | Systematic Review | Interactions between herbal medicines and prescribed drugs: an updated systematic review. | Drugs
+- new | 2009 | 19614563 | Systematic Review | Kava and St. John's Wort: current evidence for use in mood and anxiety disorders. | J Altern Complement Med
+- new | 2007 | 19450347 | Systematic Review | Generalised anxiety disorder. | BMJ Clin Evid
+- new | 2007 | 17562566 | Systematic Review | Herbal medicines in the treatment of psychiatric disorders: a systematic review. | Phytother Res
+- new | 2005 | 16011454 | Systematic Review | Safety review of kava (Piper methysticum) by the Natural Standard Research Collaboration. | Expert Opin Drug Saf
+- new | 2002 | 11994028 | Meta-Analysis/Research Support, Non-U.S. Gov't/Systematic Review | A systematic review of the safety of kava extract in the treatment of anxiety. | Drug Saf
+- new | 2001 | 11772128 | Systematic Review | Interactions between herbal medicines and prescribed drugs: a systematic review. | Drugs
+- new | 2001 | 11122556 | Research Support, Non-U.S. Gov't/Systematic Review | Herbal-drug therapy interactions: a focus on dementia. | Curr Opin Clin Nutr Metab Care
+- new | 2001 | 11570299 | Meta-Analysis | Is kava extract effective for treating anxiety? | Can Fam Physician
+
+### PubMed SAFE - 395 hits, 163 not already listed above, 160 new
+- new | 2026 | 41084181 |  | Tianeptine Products: Public Health Threat or Niche Substance use? | J Psychoactive Drugs
+- new | 2026 | 41730102 |  | Kava consumption and the rise of sociopolitical complexity in Oceania. | Proc Natl Acad Sci U S A
+- new | 2026 | 41930811 | Review | Kavain for health promotion and disease mitigation: Pharmacological promise and therapeutic perspectives. | Phytomedicine
+- new | 2026 | 42431523 |  | Kavalactone profiling of Piper methysticum root and rhizome extracts and the modulation of CYP450 activity in vitro. | Chem Biol Interact
+- new | 2026 | 41486963 | Case Reports | Diagnosing Acute Kava Dermopathy: A Case Report of a Characteristic Cutaneous Eruption. | Med J Aust
+- new | 2026 | 41366683 | Review | Herbal Remedies in Global Health Care: Classification, Toxicology, and Clinical Management. | Ther Drug Monit
+- new | 2026 | 41955162 |  | Severe Illness Associated with Eating Mushroom-Containing Chocolate Products - United States, January-October 2024. | MMWR Morb Mortal Wkly Rep
+- new | 2026 | 42396968 |  | Taumafa Kava: a Pacific framework to guide DOHaD-related research in Pacific communities. | J Dev Orig Health Dis
+- new | 2026 | 41500152 |  | Inhibition of cytochrome P450 2B6 activity by dihydromethysticin: Structural and mechanistic insights. | Drug Metab Dispos
+- new | 2026 | 41885052 |  | Kava-potentiated Withdrawal in Persons Using Multiple Substances: A Case Series of Kava and Kratom Co-ingestion. | J Addict Med
+- new | 2026 | 43031266 |  | Acute Cutaneous Kava Toxicity: A Multicentre Case Series From South Australia. | Australas J Dermatol
+- new | 2026 | 41916270 | Case Reports | An Outbreak of Neuroangiostrongyliasis (Rat Lungworm Disease) in Hawai'i: Evidence Supporting the Early Use of Albendazole-Corticosteroid Co-Therapy. | Am J Trop Med Hyg
+- new | 2025 | 41477654 |  | Kava Herb-Induced Liver Injury as Verified by the Updated RUCAM. | Case Rep Gastrointest Med
+- new | 2025 | 40757984 | Case Reports | Acute Kava (Piper Methysticum) Dermatitis With Drug Reaction With Eosinophilia and Systemic Symptoms-Like Features and Sebotropic Inflammation: A Case Series. | Am J Dermatopathol
+- new | 2025 | 40343400 | Case Reports | Case Report: Something Is Brewing. | Nephrology (Carlton)
+- new | 2025 | 40378629 | Letter | Kava (Piper methysticum) induced acute skin toxicity. | Med Clin (Barc) [eng,spa]
+- new | 2025 | 40541460 | Case Reports | Severe kava withdrawal managed with phenobarbital. | Am J Emerg Med
+- new | 2025 | 40243614 |  | Physicochemical Characterization, Skin Penetration, Anti-Melanogenesis and Safety Assessment of Flavokawain C Nanofibers. | Int J Mol Sci
+- new | 2025 | 40510098 | Case Reports | Prolonged Serotonergic Symptoms in a Pediatric Patient: Suspected Interaction Between Prescription Medications and Kava Supplement. | Cureus
+- new | 2024 | 39086164 |  | Herbal and Natural Supplements for Improving Sleep: A Literature Review. | Psychiatry Investig
+- new | 2024 | 39013429 |  | Evaluation of the Effects of Extracts Containing Valeriana officinalis and Piper methysticum on the Activities of Cytochrome P450 3A and P-Glycoprotein. | Planta Med
+- new | 2024 | 38941032 | Review | Herbal and Non-Herbal Dietary Supplements for Psychiatric Indications: Considerations in Liver Transplantation. | Curr Psychiatry Rep
+- new | 2024 | 38764392 | Case Reports | Kava-induced dermatitis: A detailed histopathological analysis. | Australas J Dermatol
+- new | 2024 | 39718086 | Review | What is more common in fatal caffeine intoxication - suicide or unintentional overdose? | Arh Hig Rada Toksikol
+- new | 2024 | 38979295 | Preprint | AB-free kava enhances resilience against the adverse health effects of tobacco smoke in mice. | bioRxiv
+- new | 2024 | 39539272 |  | Flavokavains A- and B-Free Kava Enhances Resilience against the Adverse Health Effects of Tobacco Smoke in Mice. | ACS Pharmacol Transl Sci
+- new | 2024 | 38402203 |  | Multienzymatic biotransformation of flavokawain B by entomopathogenic filamentous fungi: structural modifications and pharmacological predictions. | Microb Cell Fact
+- new | 2024 | 38460052 |  | Flavokawain C inhibits proliferation and migration of liver cancer cells through FAK/PI3K/AKT signaling pathway. | J Cancer Res Clin Oncol
+- new | 2024 | 38135504 | Research Support, N.I.H., Extramural | Natural Products Inhibition of Cytochrome P450 2B6 Activity and Methadone Metabolism. | Drug Metab Dispos
+- new | 2024 | 37390877 | Review | The genus Scorzonera L. (Asteraceae): A comprehensive review on traditional uses, phytochemistry, pharmacology, toxicology, chemotaxonomy, and other applications. | J Ethnopharmacol
+- new | 2024 | 38839731 | Case Reports | Neonatal and Maternal Ichthyosiform Dermopathy in Association with Kava Use during Pregnancy. | J Med Toxicol
+- new | 2023 | 37516898 |  | Drugs for anxiety disorders. | Med Lett Drugs Ther
+- new | 2023 | 37298489 | Review | Opportunities and Challenges of Kava in Lung Cancer Prevention. | Int J Mol Sci
+- new | 2023 | 36410029 | Research Support, N.I.H., Intramural | Kava (Piper methysticum) in the United States: the quiet rise of a substance with often subtle effects. | Am J Drug Alcohol Abuse
+- new | 2023 | 35506235 |  | The sub-acute toxicity of kavalactone in rats: a study of the effect of oral doses and the mechanism of toxicity in combination with ethanol. | Drug Chem Toxicol
+- new | 2023 | 38035313 | Review | Narrative Review: The FDA's Perfunctory Approach of Dietary Supplement Regulations Giving Rise to Copious Reports of Adverse Events. | Innov Pharm
+- new | 2022 | 34491148 |  | Acute oral toxicity, antinociceptive and antimicrobial activities of kava dried extracts and synthetic kavain. | Nat Prod Res
+- new | 2022 | 34370637 | Review | Herb-drug Interactions in Neuropsychiatric Pharmacotherapy - A Review of Clinically Relevant Findings. | Curr Neuropharmacol
+- new | 2022 | 35389321 |  | Exploring the self-reported motivations of kratom (Mitragyna speciosa Korth.) use: a cross-sectional investigation. | Am J Drug Alcohol Abuse
+- new | 2022 | 35912174 |  | Flavokawain A Reduces Tumor-Initiating Properties and Stemness of Prostate Cancer. | Front Oncol
+- new | 2022 | 36515339 | Case Reports/Review | LIVER INJURY INDUCED BY HERBAL AND DIETARY SUPPLEMENTS: A POOLED ANALYSIS OF CASE REPORTS. | Arq Gastroenterol
+- new | 2022 | 35278473 |  | In vitro inhibition of carboxylesterase 1 by Kava (Piper methysticum) Kavalactones. | Chem Biol Interact
+- new | 2022 | 35319401 |  | Powerful Stress Relieving Medicinal Plants for Anger, Anxiety, Depression, and Stress During Global Pandemic. | Recent Pat Biotechnol
+- new | 2022 | 35716919 |  | Biopharmaceutical evaluation of kavain in Piper methysticum G. Forst dried extract: Equilibrium solubility and intestinal permeability in Caco-2 cell model. | J Ethnopharmacol
+- new | 2022 | 35689602 |  | Characterization and identification of the metabolites of dihydromethysticin by ultra-high-performance liquid chromatography orbitrap high-resolution mass spectrometry. | J Sep Sci
+- new | 2022 | 35353881 | Research Support, Non-U.S. Gov't/Research Support, N.I.H., Extramural | Suppressing the activation of protein kinase A as a DNA damage-independent mechanistic lead for dihydromethysticin prophylaxis of NNK-induced lung carcinogenesis. | Carcinogenesis
+- new | 2022 | 35583123 | Research Support, Non-U.S. Gov't | Methysticin Acts as a Mechanism-Based Inactivator of Cytochrome P450 2C9. | Chem Res Toxicol
+- new | 2022 | 36358813 | Review | Recreational Drugs and the Risk of Hepatocellular Carcinoma. | Cancers (Basel)
+- new | 2022 | 34839465 |  | Characterization of Different Forms of Kava (Piper methysticum) Products by UPLC-MS/MS. | Planta Med
+- new | 2022 | 35151837 |  | The impact of traditional kava (Piper methysticum) use on cognition: Implications for driver fitness. | J Ethnopharmacol
+- new | 2021 | 33951745 |  | Simultaneous determination of both kavalactone and flavokawain constituents by different single-marker methods in kava. | J Sep Sci
+- new | 2020 | 31709587 | Case Reports | Acute cutaneous toxicity with kava: an inflammatory sebotropic reaction and urticaria. | Clin Exp Dermatol
+- new | 2020 | 33066617 | Review | Pharmacology of Herbal Sexual Enhancers: A Review of Psychiatric and Neurological Adverse Effects. | Pharmaceuticals (Basel)
+- new | 2020 | 32847100 | Review | Flavonoids and Related Members of the Aromatic Polyketide Group in Human Health and Disease: Do They Really Work? | Molecules
+- new | 2020 | 31897150 |  | Activity and mechanism of flavokawain A in inhibiting P-glycoprotein expression in paclitaxel resistance of lung cancer. | Oncol Lett
+- new | 2020 | 32827561 |  | The integrated use of in silico methods for the hepatotoxicity potential of Piper methysticum. | Food Chem Toxicol
+- new | 2020 | 30686246 | Review | Natural Products and their (Semi-)Synthetic Forms in the Treatment of Migraine: History and Current Status. | Curr Med Chem
+- new | 2020 | 31877429 |  | Liquid chromatography-tandem mass spectrometry bioanalytical method for the determination of kavain in mice plasma: Application to a pharmacokinetic study. | J Chromatogr B Analyt Technol Biomed Lif
+- new | 2020 | 31711251 |  | Kava and its Kavalactones Inhibit Norepinephrine-induced Intracellular Calcium Influx in Lung Cancer Cells. | Planta Med
+- new | 2019 | 30668342 | Case Reports | Liver transplantation and the use of KAVA: Case report. | Phytomedicine
+- new | 2019 | 31227086 |  | Teaching non-FDA approved nonprescription products: Educating students about potential risks and liability. | Curr Pharm Teach Learn
+- new | 2018 | 30456280 |  | Kava-induced acute cutaneous toxicity: An increasingly recognized characteristic clinicohistologic pattern. | JAAD Case Rep
+- new | 2018 | 30377951 | Research Support, N.I.H., Extramural/Review | Pharmacologic Treatment of Opioid Use Disorder: a Review of Pharmacotherapy, Adjuncts, and Toxicity. | J Med Toxicol
+- new | 2018 | 29427579 |  | Protective effects of yangonin from an edible botanical Kava against lithocholic acid-induced cholestasis and hepatotoxicity. | Eur J Pharmacol
+- new | 2018 | 29086684 | Review | Herb-Drug Interactions in Neurological Disorders: A Critical Appraisal. | Curr Drug Metab
+- new | 2017 | 28762712 | Review | Common Herbal Dietary Supplement-Drug Interactions. | Am Fam Physician
+- new | 2017 | 28293192 |  | Indole Alkaloids from Plants as Potential Leads for Antidepressant Drugs: A Mini Review. | Front Pharmacol
+- new | 2017 | 27402097 | Review | Liver toxicity related to herbs and dietary supplements: Online table of case reports. Part 2 of 5 series. | Food Chem Toxicol
+- new | 2016 | 27230502 |  | Chemical Exacerbation of Light-induced Retinal Degeneration in F344/N Rats in National Toxicology Program Rodent Bioassays. | Toxicol Pathol
+- new | 2016 | 27092496 | Review | Hepatotoxicity Induced by "the 3Ks": Kava, Kratom and Khat. | Int J Mol Sci
+- new | 2016 | 27871602 | Case Reports | Hepatotoxicity due to red bush tea consumption: a case report. | J Clin Anesth
+- new | 2016 | 26789234 | Comparative Study | Flavokawains A and B from kava (Piper methysticum) activate heat shock and antioxidant responses and protect against hydrogen peroxide-induced cell death in HepG2 hepatocytes. | Pharm Biol
+- new | 2016 | 26857892 |  | What products are considered psychoactive under New Zealand's legal market for new psychoactive substances (NPS, 'legal highs')? Implications for law enforcement and penalties. | Drug Test Anal
+- new | 2016 | 27318274 |  | Flavokawain A inhibits Cytochrome P450 in in vitro metabolic and inhibitory investigations. | J Ethnopharmacol
+- new | 2015 | 26949700 |  | Commonly Used Dietary Supplements on Coagulation Function during Surgery. | Medicines (Basel)
+- new | 2015 | 25512112 | Review | A decades-long investigation of acute metabolism-based hepatotoxicity by herbal constituents: a case study of pennyroyal oil. | Drug Metab Rev
+- new | 2015 | 26695707 |  | German Kava Ban Lifted by Court: The Alleged Hepatotoxicity of Kava (Piper methysticum) as a Case of Ill-Defined Herbal Drug Identity, Lacking Quality Control, and Misguided Regula | Planta Med
+- new | 2015 | 26526838 | Research Support, U.S. Gov't, Non-P.H.S./Review | Clinically Relevant Pharmacokinetic Herb-drug Interactions in Antiretroviral Therapy. | Curr Drug Metab
+- new | 2015 | 23438725 |  | Non-Antidepressant Treatment of Generalized Anxiety Disorder. | Curr Clin Pharmacol
+- new | 2015 | 25680499 | Review | Hepatotoxicity of herbal and dietary supplements: an update. | Arch Toxicol
+- new | 2014 | 26417310 | Review | Cytochrome P450 enzyme mediated herbal drug interactions (Part 2). | EXCLI J
+- new | 2014 | 24315480 |  | Herbal hepatotoxicity: analysis of cases with initially reported positive re-exposure tests. | Dig Liver Dis
+- new | 2014 | 24290486 | Review | Online sources of herbal product information. | Am J Med
+- new | 2014 | 25365244 | Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S. | Measuring the chemical and cytotoxic variability of commercially available kava (Piper methysticum G. Forster). | PLoS One
+- new | 2014 | 24851093 |  | Herbal Insomnia Medications that Target GABAergic Systems: A Review of the Psychopharmacological Evidence. | Curr Neuropharmacol
+- new | 2014 | 25685527 |  | Enhanced efficacy and reduced side effects of diazepam by kava combination. | J Adv Res
+- new | 2014 | 25069767 |  | Kava dermopathy in Fiji: an acquired ichthyosis? | Int J Dermatol
+- new | 2014 | 25214405 | Case Reports | Sebotropic eruption associated with use of oral kava kava supplement. | Clin Exp Dermatol
+- new | 2014 | 24588864 | Review | Allergy to illicit drugs and narcotics. | Clin Exp Allergy
+- new | 2013 | 23472485 | Research Support, Non-U.S. Gov't/Review | Adverse effects of herbal medicines: an overview of systematic reviews. | Clin Med (Lond)
+- new | 2013 | 23271525 | Review | Pharmaceutical and herbal products that may contribute to dry eyes. | Plast Reconstr Surg
+- new | 2013 | 23262639 | Research Support, N.I.H., Intramural/Review | The toxicity and pathology of selected dietary herbal medicines. | Toxicol Pathol
+- new | 2013 | 23121117 | Review | Review article: herbal and dietary supplement hepatotoxicity. | Aliment Pharmacol Ther
+- new | 2013 | 23510966 | Review | Herbal hepatotoxicity: suspected cases assessed for alternative causes. | Eur J Gastroenterol Hepatol
+- new | 2012 | 31643949 | Review | Kava Kava. | 
+- new | 2012 | 22257149 | Research Support, Non-U.S. Gov't/Review | Drug interactions with herbal medicines. | Clin Pharmacokinet
+- new | 2012 | 21801196 |  | Kava hepatotoxicity in traditional and modern use: the presumed Pacific kava paradox hypothesis revisited. | Br J Clin Pharmacol
+- new | 2012 | 22928722 | Review | Herbal hepatotoxicity: a tabular compilation of reported cases. | Liver Int
+- new | 2011 | 20970412 | Research Support, N.I.H., Extramural/Review | Biological reactive intermediates (BRIs) formed from botanical dietary supplements. | Chem Biol Interact
+- new | 2011 | 21073405 | Research Support, Non-U.S. Gov't/Review | Kava: a comprehensive review of efficacy, safety, and psychopharmacology. | Aust N Z J Psychiatry
+- new | 2011 | 21506562 | Review | Constituents in kava extracts potentially involved in hepatotoxicity: a review. | Chem Res Toxicol
+- new | 2011 | 22062945 | Review | Herbs in epilepsy: evidence for efficacy, toxicity, and interactions. | Semin Pediatr Neurol
+- new | 2011 | 20734326 |  | Kavalactones Yangonin and Methysticin induce apoptosis in human hepatocytes (HepG2) in vitro. | Phytother Res
+- new | 2011 | 21541070 |  | Toxicokinetics of kava. | Adv Pharmacol Sci
+- new | 2011 | 20854865 | Review | Regulatory causality evaluation methods applied in kava hepatotoxicity: are they appropriate? | Regul Toxicol Pharmacol
+- new | 2011 | 21879526 |  | Tradition and toxicity: evidential cultures in the kava safety debate. | Soc Stud Sci
+- new | 2011 | 21756963 | Review | Proposal for a kava quality standardization code. | Food Chem Toxicol
+- new | 2011 | 21871523 | Research Support, N.I.H., Intramural | Liver toxicity and carcinogenicity in F344/N rats and B6C3F1 mice exposed to Kava Kava. | Food Chem Toxicol
+- new | 2011 | 21397479 | Research Support, U.S. Gov't, Non-P.H.S. | Kava extract, an herbal alternative for anxiety relief, potentiates acetaminophen-induced cytotoxicity in rat hepatic cells. | Phytomedicine
+- new | 2011 | 21284704 |  | Kava, the anxiolytic herb: back to basics to prevent liver injury? | Br J Clin Pharmacol
+- new | 2011 | 22136095 | Review | Relaxation drinks and their use in adolescents. | J Child Adolesc Psychopharmacol
+- HELD REF-2464 | 2011 | 21442674 | Review | Kava and kava hepatotoxicity: requirements for novel experimental, ethnobotanical and clinical studies based on a review of the evidence. | Phytother Res
+- new | 2010 | 20720265 | Review | Kava hepatotoxicity--a clinical review. | Ann Hepatol
+- new | 2010 | 19943335 | Review | Role of ethanol in kava hepatotoxicity. | Phytother Res
+- new | 2009 | 19815591 | Research Support, N.I.H., Extramural/Review | Drug-botanical interactions: a review of the laboratory, animal, and human data for 8 common botanicals. | Integr Cancer Ther
+- new | 2009 | 19966149 | Research Support, Non-U.S. Gov't | Final report on the safety assessment of Piper methysticum leaf/root/stem extract and Piper methysticum root extract. | Int J Toxicol
+- new | 2009 | 19538508 | Research Support, N.I.H., Extramural | Identification and characterization of kava-derived compounds mediating TNF-alpha suppression. | Chem Biol Drug Des
+- new | 2008 | 18322868 | Review | Toxicity of kava kava. | J Environ Sci Health C Environ Carcinog 
+- new | 2008 | 18841189 | Review | Kava hepatotoxicity: a European view. | N Z Med J
+- new | 2007 | 17329236 | Comparative Study/Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S. | Effects of kava alkaloid, pipermethystine, and kavalactones on oxidative stress and cytochrome P450 in F-344 rats. | Toxicol Sci
+- new | 2007 | 17691916 | Research Support, Non-U.S. Gov't/Review | Metabolic activation of herbal and dietary constituents and its clinical and toxicological implications: an update. | Curr Drug Metab
+- new | 2006 | 17125405 | Research Support, N.I.H., Extramural/Review | Pregnane X receptor and natural products: beyond drug-drug interactions. | Expert Opin Drug Metab Toxicol
+- new | 2006 | 16880233 | Review | Herb-drug interactions in oncology: focus on mechanisms of induction. | Oncologist
+- new | 2006 | 16721710 | Case Reports | [Acute hepatitis due to kava-kava and St John's Wort: an immune-mediated mechanism?]. | Dtsch Med Wochenschr [ger]
+- new | 2005 | 16153141 | Research Support, Non-U.S. Gov't/Review | Herb-drug interactions: interactions between kava and prescription medications. | Geriatrics
+- new | 2005 | 16243159 | Case Reports/Letter | Kava-induced urticaria. | J Am Acad Dermatol
+- new | 2005 | 15998927 |  | Dietary supplement-related adverse events reported to the California Poison Control System. | Am J Health Syst Pharm
+- new | 2005 | 16051732 | Comparative Study/Research Support, Non-U.S. Gov't | Extracts and kavalactones of Piper methysticum G. Forst (kava-kava) inhibit P-glycoprotein in vitro. | Drug Metab Dispos
+- new | 2004 | 15114493 | Review | Kava Hepatotoxicity: Are we any closer to the truth? | Planta Med
+- new | 2004 | 16281702 | Review | The poisoning of 'awa: the non-traditional use of an ancient remedy. | Pac Health Dialog
+- HELD REF-3062 | 2004 | 15234747 | Review | Pharmacokinetic and pharmacodynamic drug interactions with Kava (Piper methysticum Forst. f.). | J Ethnopharmacol
+- new | 2004 | 15072439 | Research Support, Non-U.S. Gov't/Review | Herbal modulation of P-glycoprotein. | Drug Metab Rev
+- new | 2004 | 15068826 | Review | Kava kava: examining new reports of toxicity. | Toxicol Lett
+- new | 2004 | 15185840 | Research Support, U.S. Gov't, P.H.S. | Effects of kava (Kava-kava, 'Awa, Yaqona, Piper methysticum) on c-DNA-expressed cytochrome P450 enzymes and human cryopreserved hepatocytes. | Phytomedicine
+- new | 2004 | 14737001 | Comparative Study/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | In vitro toxicity of kava alkaloid, pipermethystine, in HepG2 cells compared to kavalactones. | Toxicol Sci
+- new | 2004 | 15330011 | Research Support, U.S. Gov't, P.H.S./Review | Complementary and alternative interventions in asthma, allergy, and immunology. | Ann Allergy Asthma Immunol
+- new | 2004 | 15197212 | Review | Herbal remedies in the United States: potential adverse interactions with anticancer agents. | J Clin Oncol
+- new | 2004 | 15009783 | Research Support, Non-U.S. Gov't | Impact of federal safety advisories on health food store advice. | J Gen Intern Med
+- new | 2003 | 12807347 | Review | Toxicity of kava pyrones, drug safety and precautions--a case study. | Phytomedicine
+- new | 2003 | 12633134 | Case Reports/Letter | Acute liver failure after administration of herbal tranquilizer kava-kava (Piper methysticum). | J Clin Psychiatry
+- new | 2003 | 12639079 | Comparative Study/Research Support, U.S. Gov't, Non-P.H.S./Research Support, U.S. Gov't, P.H.S. | The relative safety of ephedra compared with other herbal products. | Ann Intern Med
+- new | 2003 | 12807356 | Research Support, U.S. Gov't, P.H.S. | Identification of novel electrophilic metabolites of piper methysticum Forst (Kava). | Chem Res Toxicol
+- new | 2003 | 12772052 | Review | [Kava, kavapyrones and toxic liver injury]. | Z Gastroenterol [ger]
+- new | 2002 | 12494328 | Research Support, Non-U.S. Gov't | Inhibition of cytochrome P450 3A4 by extracts and kavalactones of Piper methysticum (Kava-Kava). | Planta Med
+- new | 2002 | 12049436 | Case Reports/Letter | Kava-induced fulminant hepatic failure. | J Am Acad Child Adolesc Psychiatry
+- new | 2002 | 12069710 | Case Reports/Comparative Study/Letter | [Kava-induced acute icteric hepatitis]. | Gastroenterol Hepatol [spa]
+- new | 2002 | 12190754 | Review | The peri-operative implications of herbal medicines. | Anaesthesia
+- new | 2002 | 12244883 | Review | [Piper methysticum (kava) under discussion: observations on quality, effectiveness and safety]. | Wien Med Wochenschr [ger]
+- new | 2002 | 12383029 | Review | Therapeutic potential of kava in the treatment of anxiety disorders. | CNS Drugs
+- new | 2002 | 12472978 | Review | Herbal medication: potential for adverse interactions with analgesic drugs. | J Clin Pharm Ther
+- new | 2002 | 11991792 | Review | The importance of pharmacological synergy in psychoactive herbal medicines. | Altern Med Rev
+- new | 2002 | 12298422 | Research Support, U.S. Gov't, P.H.S./Review | An evaluation of selected herbal reference texts and comparison to published reports of adverse herbal events. | Adverse Drug React Toxicol Rev
+- new | 2001 | 11434754 | Case Reports/Letter | Kava hepatotoxicity. | Ann Intern Med
+- HELD REF-2457 | 2001 | 11448284 | Research Support, Non-U.S. Gov't/Review | Herbal medicines and perioperative care. | JAMA
+- new | 2001 | 11746854 | Case Reports/Letter | Kava kava in the treatment of generalized anxiety disorder, simple phobia and specific social phobia. | Phytother Res
+- new | 2001 | 11159570 | Case Reports | Hepatitis associated with Kava, a herbal remedy for anxiety. | BMJ
+- new | 1999 | 10504142 |  | Phytomedicine research in Germany. | Environ Health Perspect
+- new | 1998 | 9818800 | Review | Herbal medicinals: selected clinical considerations focusing on known or potential drug-herb interactions. | Arch Intern Med
+- new | 1998 | 9448214 | Case Reports | Sebotropic drug reaction resulting from kava-kava extract therapy: a new entity? | J Am Acad Dermatol
+- new | 1997 | 9432751 | Review | [Pharmacotherapy]. | Ther Umsch [ger]
+- new | 1995 | 7745421 | Case Reports/Letter | Kava and dopamine antagonism. | J Neurol Neurosurg Psychiatry
+- new | 1994 | 8021378 |  | Kava dermopathy. | J Am Acad Dermatol
+- new | 1986 | 3460587 | Case Reports | Parameters of kava used as a challenge to alcohol. | Aust N Z J Psychiatry
+
+### PubMed OBS - 30 hits, 23 not already listed above, 21 new
+- new | 2025 | 40225344 |  | Strategies for preventing and controlling overweight and obesity among high school students in Kiribati. | Front Nutr
+- HELD REF-3061 | 2021 | 33207379 | Multicenter Study/Observational Study | Kava (Piper methysticum) Extract for the Treatment of Nervous Anxiety, Tension and Restlessness. | Drug Res (Stuttg)
+- new | 2018 | 29879174 |  | Re-emergence of thiamine deficiency disease in the Pacific islands (2014-15): A case-control study. | PLoS One
+- new | 2016 | 26930404 | Research Support, Non-U.S. Gov't | Driving following Kava Use and Road Traffic Injuries: A Population-Based Case-Control Study in Fiji (TRIP 14). | PLoS One
+- new | 2011 | 21973249 | Research Support, Non-U.S. Gov't | Kava drinking associated with suicidal behaviour among young Kanaks using kava in New Caledonia. | Aust N Z J Public Health
+- new | 2009 | 19575271 | Comparative Study | Herbal supplement use and blood lead levels of United States adults. | J Gen Intern Med
+- new | 2009 | 19585734 | Comparative Study/Research Support, Non-U.S. Gov't | 'From Kava to Lager'--alcohol consumption and drinking patterns for older adults of Pacific ethnic groups, and Europeans in the Diabetes Heart and Health Study (DHAHS) 2002-2003, A | Pac Health Dialog
+- new | 2008 | 18328304 |  | Potential for interactions between dietary supplements and prescription medications. | Am J Med
+- new | 2008 | 18481869 | Research Support, Non-U.S. Gov't | Selection of bioavailability markers for herbal extracts based on in silico descriptors and their correlation to in vitro permeability. | Mol Pharm
+- new | 2004 | 14729896 | Research Support, Non-U.S. Gov't | Case-control study of the association between kava use and ischaemic heart disease in Aboriginal communities in eastern Arnhem Land (Northern Territory) Australia. | J Epidemiol Community Health
+- new | 2004 | 15638068 |  | Attenuation of neuroleptic-induced extrapyramidal side effects by Kava special extract WS 1490. | Wien Med Wochenschr
+- HELD REF-2460 | 2004 | 15165499 | Review | Safety and efficacy of herbal sedatives in cancer care. | Integr Cancer Ther
+- new | 2004 | 15763742 | Research Support, Non-U.S. Gov't | Emerging patterns of cannabis and other substance use in Aboriginal communities in Arnhem Land, Northern Territory: a study of two communities. | Drug Alcohol Rev
+- new | 2003 | 12895162 | Research Support, Non-U.S. Gov't | Health effects of kava use in an eastern Arnhem Land Aboriginal community. | Intern Med J
+- new | 2003 | 12948361 | Research Support, Non-U.S. Gov't | Case-control study of the association between kava use and pneumonia in eastern Arnhem and Aboriginal communities (Northern Territory, Australia). | Epidemiol Infect
+- new | 2003 | 12745358 |  | Enough! or too much. What is 'excessive' kava use in Arnhem Land? | Drug Alcohol Rev
+- new | 2003 | 14677792 | Research Support, Non-U.S. Gov't | Liver function test abnormalities in users of aqueous kava extracts. | J Toxicol Clin Toxicol
+- new | 2002 | 12490346 | Review | Over-the-counter sleeping pills: a survey of use in Hong Kong and a review of their constituents. | Gen Hosp Psychiatry
+- new | 2002 | 12537704 | Comparative Study | Diversity of substance use in eastern Arnhem Land (Australia): patterns and recent changes. | Drug Alcohol Rev
+- new | 2002 | 11895027 | Comparative Study/Validation Study | Validity and utility of community health workers' estimation of kava use. | Aust N Z J Public Health
+- new | 2000 | 11049780 | Research Support, Non-U.S. Gov't/Review | Endemic melioidosis in tropical northern Australia: a 10-year prospective study and review of the literature. | Clin Infect Dis
+- new | 1999 | 10541965 | Editorial/Research Support, Non-U.S. Gov't | Two stages of cancer prevention with green tea. | J Cancer Res Clin Oncol
+- new | 1998 | 10186945 | Multicenter Study | Kava-kava extract in anxiety disorders: an outpatient observational study. | Adv Ther
+
+### PubMed REV - 189 hits, 10 not already listed above, 9 new
+- new | 2023 | 36641978 | Review | Phytotherapy of mood disorders in the light of microbiota-gut-brain axis. | Phytomedicine
+- HELD REF-1787 | 2022 | 33480339 | Review | Anti-anxiety Properties of Selected Medicinal Plants. | Curr Pharm Biotechnol
+- new | 2022 | 34157753 | Review | Medicinal Plants in the Treatment of Depression. II: Evidence from Clinical Trials. | Planta Med
+- new | 2022 | 36048322 | Review | Nip it in the Bud: Botanicals for Anxiety - a Practical Prescriber's Guide. | Curr Psychiatry Rep
+- new | 2021 | 33475068 | Review | Nutraceuticals for Sleep Disorders. | Comb Chem High Throughput Screen
+- new | 2021 | 33434941 | Review | Medicinal Plants in the Treatment of Depression: Evidence from Preclinical Studies. | Planta Med
+- new | 2015 | 25464054 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S./Review | Contemporary Pacific and Western perspectives on `awa (Piper methysticum) toxicology. | Fitoterapia
+- new | 2008 | 19029875 | Review | Herbal drug treatment. | Neuro Endocrinol Lett
+- new | 2002 | 12391713 | Review | Gynecology: select topics. | Prim Care
+- new | 1988 | 2899241 | Review | Kava. | Lancet
+
+### ClinicalTrials.gov - 18 registered studies
+- NCT05229354 | ACTIVE_NOT_RECRUITING | results=False | PHASE2 | Dengue Controlled Human Infection Model in Dhaka, Bangladesh | conds: Dengue | intr: TV005, rDEN2Δ30-7169 attenuated virus strain
+- NCT07583407 | ACTIVE_NOT_RECRUITING | results=False | NA | Pharmacokinetics of Kava and Kratom Alone and in Combination | conds: Herb-Herb Interaction, Pharmacokinetics | intr: Kava and Kratom Herbal Supplement, Kava Herbal Supplement, Kratom Herbal Supplement
+- NCT02500472 | COMPLETED | results=False | NA | Investigation of Kava Effects on NNK Metabolism | conds: Tobacco Smoking | intr: Kava | pubs: ['30412681:DERIVED (new)']
+- NCT05081882 | TERMINATED | results=True | PHASE2 | Reducing Tobacco-associated Lung Cancer Risk: A Randomized Clinical Trial of AB-free Kava | conds: Smoking | intr: Kava, Placebo | pubs: ['42142878:DERIVED (new)', '36653872:DERIVED (new)']
+- NCT02219880 | COMPLETED | results=False | PHASE4 | Kava for the Treatment of Generalised Anxiety Disorder: A Double-Blind Randomised Placebo-Controlled Trial | conds: Generalized Anxiety Disorder | intr: Kava (240mg of kavalactones per day), Placebo | pubs: ['37960239:DERIVED (new)', '31813230:DERIVED (HELD REF-3397)', '26527536:DERIVED (new)']
+- NCT05381025 | COMPLETED | results=False | NA | Kavalactones on Sleep and Cortisol in Healthy Special Forces Trainees | conds: Sleep | intr: Kava (Piper methysticum) extract
+- NCT07469527 | RECRUITING | results=False | NA | Effects of Feel Free® Classic Tonic on Stress and Pharmacokinetics in Healthy Adults | conds: Anxiety, Physiological Stress, Stress | intr: Placebo, Kava and Kratom Herbal Supplement, Kava and Kratom Herbal Supplement
+- NCT06177535 | ACTIVE_NOT_RECRUITING | results=False | NA | A Study of Oral Kavalactones Effect on Nurses | conds: Stress | intr: Kavalactones, Placebo
+- NCT00451516 | COMPLETED | results=False | PHASE2 | St. John's Wort And Kava In The Treatment Of Major Depressive Disorder With Comorbid Anxiety | conds: Depressive Disorder, Major, Anxiety Disorders | intr: Herbal medicine (St. John's wort and Kava)
+- NCT05814055 | RECRUITING | results=False | PHASE2 | The Potential of Kava in Enabling Tobacco Cessation - Its Holistic Effects in Managing Stress and Insomnia Associated With Abstinence | conds: Smoking | intr: Placebo, AB-free kava | pubs: ['39709468:DERIVED (new)']
+- NCT00083980 | TERMINATED | results=False | PHASE2 | Kava Kava for the Treatment of Generalized Anxiety Disorder (GAD) | conds: Anxiety Disorders | intr: Venlafaxine ER, Sugar pill, Kava
+- NCT03606655 | WITHDRAWN | results=False | PHASE1 | Exploring the Impact of Two-week Kava on the Metabolism of Nicotine and NNK | conds: Kava on the Metabolism of Nicotine and NNK | intr: Kava
+- NCT07706686 | RECRUITING | results=False | PHASE1 | Phase 1 Challenge Study Using rDEN2delta30-7169 to Evaluate Host-Pathogen Interactions in Primary, Homotypic, and Heterotypic Dengue Virus I | conds: Healthy Volunteers, Dengue, Human Challenge Trial | intr: rDEN2delta30-7169
+- NCT07219186 | NOT_YET_RECRUITING | results=False | EARLY_PHASE1 | Kava Aging and Mobility Study | conds: Old Adults, Sleep Quality, Kava, Mobility Impairment | intr: AB-free kava, Placebo
+- NCT06213298 | WITHDRAWN | results=False | EARLY_PHASE1 | Effect of Kava on Anxiety and Stress in Cancer Survivors | conds: Kava, Anxiety, Stress, Cancer | intr: Kava, Placebo
+- NCT04565145 | COMPLETED | results=True | PHASE2 | Biomarker Changes and Anxiolytic Effects-Phase 2 | conds: Pharmacokinetics | intr: Kava Dietary Supplement, Placebo
+- NCT00009542 | COMPLETED | results=False | PHASE4 | Effects of Kava on the Body's Elimination of Caffeine and Dextromethorphan | conds: Healthy | intr: kava (Piper methysticum)
+- NCT03843502 | COMPLETED | results=True | PHASE1 | A Phased Clinical Trial of Dietary Supplemental Kava: Kava Pharmacokinetics | conds: Pharmacokinetics | intr: Kava Dietary Supplement
+
+### OpenAlex no-PMID trial-worded - 887 hits, 25 without PMID, 25 new
+- new | 2026 | 10.5281/zenodo.22839795 | preprint | Hybrid Aeroponic Propagation of Tissue Culture-Derived Soft-Stem Micro-Cuttings of Piper methysticum: A Three-Trial Protocol Evaluation with Air-Pruning-Mediated Root Architecture  | Zenodo (CERN European Organization for N
+- new | 2026 | 10.5281/zenodo.23304209 | article | Kava (Piper methysticum): Australian rules, safety, evidence | Zenodo (CERN European Organization for N
+- new | 2026 | 10.5281/zenodo.22838842 | preprint | Outdoor Nursery Propagation of Kava (Piper methysticum) by Air Layering | Zenodo (CERN European Organization for N
+- new | 2026 | 10.5281/zenodo.20759921 | article | A Pharmacological and Clinical Reappraisal of Piper methysticum (Kava) for Anxiety: Balancing Traditional Efficacy with Modern Safety | Zenodo (CERN European Organization for N
+- new | 2025 | 10.59680/ventilator.v3i1.1737 | article | Efek Kava (Piper Methysticum) Sebagai Anestesi | Jurnal Ventilator
+- new | 2025 | 10.14309/01.ajg.0001149788.67569.22 | conference-abstract | From Pacific Isles to Liver Trials: Unraveling the Toxic Tale of Kava | The American Journal of Gastroenterology
+- new | 2025 | 10.9734/jocamr/2025/v26i9711 | article | Neuroprotective Effects of Piper methysticum against Phenytoin-Induced Cognitive Impairment in Mice | Journal of Complementary and Alternative
+- new | 2025 | 10.17615/11e7-q119 | article | Prolonged Serotonergic Symptoms in a Pediatric Patient: Suspected Interaction Between Prescription Medications and Kava Supplement | UNC Libraries
+- new | 2025 | 10.33003/fjs-2025-0901-3438 | article | PROXIMATE AND PHYTOCHEMICAL COMPOSITION OF PIPER METHYSTICUM G. FORST. LEAVES EXPOSED TO ALPHA-SPIN NANOPARTICLE | FUDMA Journal of Sciences
+- new | 2023 | 10.51910/ijhdr.v22i2.1327 | article | An attempt to estimate the noises in Homeopathic Pathogenetic Trials by employing the Jaccard Similarity Index and Noise Index. | International Journal of High Dilution R
+- new | 2023 | 10.30574/wjarr.2023.19.3.1808 | article | Complementary and alternative medicine in patients with irritable bowel syndrome: A Pilot Study | World Journal of Advanced Research and R
+- new | 2018 | 10.35724/maef-j.v1i1.1611 | article | Aplications of Liquid Organic Fertilizer From Agricultural Waste in Wati Plants (Piper methysticum Forst). | Musamus AE Featuring Journal
+- new | 2017 | 10.1002/tkm2.1079 | article | Randomized, dose‐controlled double‐blind trial: Efficacy of an ethanolic kava ( Piper methysticum rhizome) extract for the treatment of anxiety in elderly patients | Traditional & Kampo Medicine
+- new | 2014 | https://openalex.org/W1893559686 | article | Potensi Ekstrak Piper methysticum (Piperaceae) sebagai Insektisida Botani untuk Pengendalian Hama Plutella xylostella | Sains dan matematika
+- new | 2012 | https://openalex.org/W1039179479 | article | Is Kava (Piper Methysticum) Safe and Effective for Reducing Anxiety in Adult Patients 18-65? | Digital Commons - PCOM (Philadelphia Col
+- new | 2010 | https://openalex.org/W2137567302 | article | An Explorative Qualitative Analysis of Participants' Experience of Using Kava versus Placebo in an RCT | Australian journal of medical herbalism
+- new | 2010 | 10.1211/fact.15.1.0013 | article | Positive effects of Piper methysticum (kava) in patients with anxiety and depression | Focus on Alternative and Complementary T
+- new | 2010 | https://openalex.org/W2554012394 | review | Methods for exploring heterogeneity in systematic reviews of randomized controlled trials. | TSpace (University of Toronto)
+- new | 2010 | https://openalex.org/W2245987697 | article | CAM for Your Anxious Patient: What the Evidence Says | Current psychiatry
+- new | 2009 | https://openalex.org/W1729089122 | article | Toxicology: 'Piper Methysticum', Kava Kava | Australian journal of medical herbalism
+- new | 2007 | 10.1192/apt.bp.105.001735 | article | Herbal remedies for depression and anxiety | Advances in Psychiatric Treatment
+- new | 2004 | 10.1211/fact.2004.00091 | article | Results of two new trials on Piper methysticum (kava) in the treatment of anxiety support the existing evidence base | Focus on Alternative and Complementary T
+- new | 2002 | 10.1097/00005768-200205001-01778 | article | Effects of a Sports Bar on Concentration, Focus, and Mental Acuity as These Factors Apply to Precision-Related Sports Performance: A Double Blind, Placebo-Controlled Pilot Study | Medicine & Science in Sports & Exercise
+- new | 2000 | 10.31525/ct1-nct03843502 | article | A Phased Clinical Trial of Dietary Supplemental Kava: Kava Pharmacokinetics | Case Medical Research
+- new | 1989 | https://openalex.org/W2274967935 | article | The origin and distribution of kava piper methysticum forst. f. piperaceae a phytochemical approach | Agritrop (Cirad)
+
+## plantago-lanceolata (Plantago lanceolata) - name clause: "Plantago lanceolata"[tiab] OR "ribwort plantain"[tiab] OR "ribwort"[tiab] OR "narrowleaf plantain"[tiab] OR "English plantain"[tiab]
+
+### PubMed HT - 24 hits, 24 not already listed above, 24 new
+- new | 2026 | 43090675 | Review | Anti-Inflammatory and Cough-Modulating Effects of Plantago lanceolata and Sisymbrium officinale in Upper Airway Infections: A Narrative Review. | Life (Basel)
+- new | 2026 | 40884204 | Research Support, Non-U.S. Gov't | Molecular IgE Sensitization Profiling With Micro-Arrayed Allergen Molecules in Adult Patients With Asthma From the LEAD Cohort: A Precision Medicine Approach. | Allergy
+- new | 2025 | 40512457 |  | Natural antitussive products for children and adolescents: darkness and shadow. | Minerva Pediatr (Torino)
+- new | 2025 | 39965375 |  | Competition moderates impact of anthelmintic-contaminated soil on growth and fitness of temperate grassland species. | Sci Total Environ
+- new | 2024 | 38323572 | Randomized Controlled Trial/Multicenter Study/Research Support, Non-U.S. Gov't | Efficacy and tolerability of SEDIFLÙ in treating dry or productive cough in the pediatric population (SEPEDIA): A pilot, randomized, double-blind, placebo-controlled, multicenter c | Clin Pediatr (Phila)
+- new | 2024 | 38781930 |  | Optimizing Identification of Allergic Sensitization to Seasonal Inhalant Allergens in the USA: Implications for Constructing Optimal Panels to Evaluate Patients with Allergy. | Int Arch Allergy Immunol
+- new | 2023 | 36766415 |  | Dairy Cows Grazing Plantain-Based Pastures Have Increased Urine Patches and Reduced Urine N Concentration That Potentially Decreases N Leaching from a Pastoral System. | Animals (Basel)
+- new | 2020 | 33123680 |  | Plantain (Plantago lanceolata) reduces the environmental impact of farmed red deer (Cervus elaphus). | Transl Anim Sci
+- new | 2020 | 33287456 |  | Selection by Lambs Grazing Plantain (Plantago lanceolata L.), Chicory (Cichorium intybus L.), White Clover (Trifolium repens L.), Red Clover (Trifolium pratense L.) and Perennial R | Animals (Basel)
+- new | 2020 | 32147041 | Systematic Review | Complementary and alternative medicine in the treatment of acute bronchitis in children: A systematic review. | Complement Ther Med
+- new | 2019 | 31191341 |  | Efficacy of an All-Natural Polyherbal Mouthwash in Patients With Periodontitis: A Single-Blind Randomized Controlled Trial. | Front Physiol
+- new | 2019 | 31068762 |  | Sensitization profile in patients with respiratory allergic diseases: differences between conventional and molecular diagnosis (a cross-sectional study). | Clin Mol Allergy
+- new | 2018 | 29936506 |  | Do Plantago lanceolata Skin Prick Test-Positive Patients Display IgE to Genuine Plantain Pollen Allergens? Investigation of Pollen Allergic Patients from the North-East of France. | Int Arch Allergy Immunol
+- new | 2016 | 27366027 | Review | Favorable results from the use of herbal and plant products in inflammatory bowel disease: evidence from experimental animal studies. | Ann Gastroenterol
+- new | 2015 | 25767805 | Randomized Controlled Trial | Determination of the in vitro and in vivo antimicrobial activity on salivary Streptococci and Lactobacilli and chemical characterisation of the phenolic content of a Plantago lance | Biomed Res Int
+- new | 2013 | 23396359 |  | Pollen aero allergens and the climate in Mediterranean region and allergen sensitivity in allergic rhinoconjunctivitis and allergic asthma patients. | Med Sci Monit
+- new | 2010 | 21195885 |  | Role of pollen allergy in Taiwanese patients with allergic rhinitis. | J Formos Med Assoc
+- new | 2009 | 20128417 |  | Contribution of molecular diagnosis of allergy to the management of pediatric patients with allergy to pollen. | J Investig Allergol Clin Immunol
+- new | 2003 | 12968397 |  | Characteristics of pollinosis caused by Betula in patients from Ourense (Galicia, Spain). | J Investig Allergol Clin Immunol
+- new | 1999 | 10337158 | Comparative Study | [Antigen specific immunoglobulin E to grass and weed pollens in the plasma of patients with seasonal allergic rhinitis]. | Otolaryngol Pol [pol]
+- new | 1994 | 33874534 |  | Interactions between arbuscular mycorrhizal fungi and foliar-feeding insects in Plantago lanceolata L. | New Phytol
+- new | 1993 | 8160562 | Clinical Trial/Comparative Study/Randomized Controlled Trial | [Comparative study between 10 and 20 mg of cetirizine in the symptomatic treatment of seasonal allergic rhinoconjunctivitis]. | Allergol Immunopathol (Madr) [spa]
+- new | 1987 | 3688374 |  | Selection of patients for biological standardization as exemplified by standardization of mugwort, goosefoot and English plantain pollen allergen extracts/preparations. | Allergy
+- new | 1981 | 7212169 | Research Support, Non-U.S. Gov't | Wheezing bronchitis in children on a South Pacific Island. | Am J Trop Med Hyg
+
+### PubMed SR - 3 hits, 2 not already listed above, 2 new
+- new | 2026 | 42488837 | Review | Plantago mechanisms for enhanced wound healing: A review on bioactive phytoconstituents. | Chin Herb Med
+- new | 2023 | 36273594 | Systematic Review | Identifying candidates for the phytoremediation of copper in viticultural soils: A systematic review. | Environ Res
+
+### PubMed SAFE - 69 hits, 58 not already listed above, 57 new
+- new | 2025 | 38419536 |  | Milk production and nitrogen excretion of grazed dairy cows in response to plantain (Plantago lanceolata) content and lactation season. | Anim Biosci
+- new | 2023 | 38130436 |  | Reactions to environmental allergens in cats with feline lower airway disease. | Front Vet Sci
+- new | 2023 | 38171916 |  | An updated perspective on diagnostics and treatment of idiopathic granulomatous mastitis. | Ceska Gynekol
+- new | 2023 | 37658998 |  | How does pollen production of allergenic species differ between urban and rural environments? | Int J Biometeorol
+- new | 2023 | 37106969 |  | A Forage Allowance by Forage Type Interaction Impacts the Daily Milk Yield of Early Lactation Dairy Cows. | Animals (Basel)
+- new | 2022 | 36186925 | Review | Review of Ethnobotanical and Ethnopharmacological Evidence of Some Ethiopian Medicinal Plants Traditionally Used for Peptic Ulcer Disease Treatment. | Clin Exp Gastroenterol
+- new | 2022 | 36409735 |  | Temperature moderates impact of formulated moxidectin on seed germination of three temperate grassland species. | PLoS One
+- new | 2022 | 36632135 |  | Complex plant quality-microbiota-population interactions modulate the response of a specialist herbivore to the defence of its host plant. | Funct Ecol
+- new | 2021 | 33839729 |  | Relevance of Major Allergens in Weed Pollen Allergy. | Int Arch Allergy Immunol
+- new | 2021 | 33734033 | Research Support, U.S. Gov't, Non-P.H.S. | Peronospora kuewa, sp. nov., a new downy mildew species infecting the endangered Hawaiian plant Plantago princeps var. princeps. | Mycologia
+- new | 2020 | 33276390 |  | [Prevalance of immunoglobulin E against cross-reactive carbohydrate determinants (CCD) and impact of a blocker in seasonal allergy tests]. | Tierarztl Prax Ausg K Kleintiere Heimtie [ger]
+- new | 2020 | 31805564 |  | Allergic Rhinitis to Weed Pollen in Germany: Dominance by Plantain, Rising Prevalence, and Polysensitization Rates over 20 Years. | Int Arch Allergy Immunol
+- new | 2020 | 32438574 |  | Pollen Proteases Play Multiple Roles in Allergic Disorders. | Int J Mol Sci
+- new | 2020 | 31927735 |  | Cadmium and chromium levels in water and edible herbs in a risk assessment study of rural residents living in Eastern Iran. | Environ Sci Pollut Res Int
+- new | 2020 | 32534770 |  | A Comparison of Multiple Allergen Simultaneous Tests Using Allergen-Specific IgE Concentration and Intradermal Skin Tests in Atopic Horses With Pollen Allergy. | J Equine Vet Sci
+- new | 2018 | 28942136 | Review | Traditional wound-healing plants used in the Balkan region (Southeast Europe). | J Ethnopharmacol
+- new | 2017 | 28976884 |  | Accumulation of heavy metals from soil in medicinal plants. | Arh Hig Rada Toksikol
+- new | 2017 | 29249137 | Case Reports | Occupational allergy to Spagulax(®)(Plantago ovata seed). | Eur Ann Allergy Clin Immunol
+- new | 2017 | 28327509 |  | Stability Study and a 14-Day Oral Dose Toxicity in Rats of Plantain Leaf Extract (Plantago lanceolata L.) Syrup. | Sci Pharm
+- new | 2014 | 26120538 | Review | Marker allergens of weed pollen - basic considerations and diagnostic benefits in the clinical routine: Part 16 of the Series Molecular Allergology. | Allergo J Int
+- HELD REF-0963 | 2014 | 25011355 | Research Support, Non-U.S. Gov't | Identification of Plantago lanceolata pollen allergens using an immunoproteomic approach. | J Investig Allergol Clin Immunol
+- new | 2014 | 24776729 | Observational Study | Phytodermatitis in eastern Turkey: a retrospective, observational study. | Dermatitis
+- new | 2012 | 22579431 | Research Support, Non-U.S. Gov't | Prevalence and use of herbal products in the Czech Republic: over-the-counter survey among adult pharmacies clients. | Complement Ther Med
+- new | 2012 | 22309280 | Case Reports | Development of phytophotodermatitis in two cases related to Plantago lanceolata. | Cutan Ocul Toxicol
+- new | 2010 | 20813013 | Research Support, Non-U.S. Gov't | Platanus pollen allergen, Pla a 1: quantification in the atmosphere and influence on a sensitizing population. | Clin Exp Allergy
+- new | 2009 | 19140938 | Research Support, Non-U.S. Gov't | Temperature dependence of respiration in roots colonized by arbuscular mycorrhizal fungi. | New Phytol
+- new | 2008 | 18564629 |  | Allergy to laxative compound (Plantago ovata seed) among health care professionals. | J Investig Allergol Clin Immunol
+- new | 2008 | 18204277 | Research Support, Non-U.S. Gov't | Immunogold electron microscopic localization of the 2 EF-hand calcium-binding pollen allergen Phl p 7 and its homologues in pollens of grasses, weeds and trees. | Int Arch Allergy Immunol
+- new | 2007 | 18050571 | Research Support, Non-U.S. Gov't | Pla 1 1 and Ole e 1 pollen allergens share common epitopes and similar ultrastructural localization. | J Investig Allergol Clin Immunol
+- new | 2005 | 16018386 |  | [The frequency of pollen allergy at the population of Sarajevo region during the 2002 year]. | Med Arh [bos]
+- new | 2005 | 16045856 |  | Aeroallergens sensitization in an allergic paediatric population of Cova da Beira, Portugal. | Allergol Immunopathol (Madr)
+- new | 2005 | 16176404 | Case Reports | Lupine inhalation induced asthma in a child. | Pediatr Allergy Immunol
+- new | 2005 | 15885951 | Case Reports | Plantago lanceolata (English plantain) pollinosis in Japan. | Auris Nasus Larynx
+- new | 2003 | 12646046 | Comparative Study/Research Support, Non-U.S. Gov't | Cloning and expression of biologically active Plantago lanceolata pollen allergen Pla l 1 in the yeast Pichia pastoris. | Biochem J
+- new | 2003 | 15493372 | Comparative Study/Research Support, Non-U.S. Gov't | Hydroalcoholic plant extracts with anti-inflammatory activity. | Roum Arch Microbiol Immunol
+- new | 2003 | 12901088 |  | Preliminary evidence for the metabolism of benzo(a) pyrene by Plantago lanceolata. | Environ Geochem Health
+- new | 2002 | 12569985 | Research Support, Non-U.S. Gov't | Studies on the carbohydrate moiety of Pla l 1 allergen. identification of a major N-glycan and significance for the immunoglobulin E-binding activity. | Clin Exp Allergy
+- new | 2001 | 11251634 |  | Purification and characterization of the main allergen of Plantago lanceolata pollen, Pla l 1. | Clin Exp Allergy
+- new | 2001 | 11350307 | Research Support, Non-U.S. Gov't/Validation Study | Monoclonal antibodies against the major allergen of Plantago lanceolata pollen, Pla l 1: affinity chromatography purification of the allergen and development of an ELISA method for | Allergy
+- new | 2000 | 11025147 | Research Support, Non-U.S. Gov't | Hepatoprotective effects of Turkish folk remedies on experimental liver injury. | J Ethnopharmacol
+- new | 2000 | 10920777 |  | Aero-allergens in canine atopic dermatitis in southeastern Australia based on 1000 intradermal skin tests. | Aust Vet J
+- new | 2000 | 10629485 | Comparative Study/Research Support, Non-U.S. Gov't | ImmunoCAP and HY*TEC enzyme immunoassays in the detection of allergen-specific IgE compared with serial skin end-point titration by receiver operating characteristic analysis. | Otolaryngol Head Neck Surg
+- new | 2000 | 11097317 | Research Support, Non-U.S. Gov't | Detection of allergens in plantain (Plantago lanceolata) pollen. | Allergy
+- new | 1996 | 8771452 |  | Screening of medicinal plants for induction of somatic segregation activity in Aspergillus nidulans. | J Ethnopharmacol
+- new | 1996 | 8765869 |  | [Correlation between exposure to allergenic pollens and allergic manifestations]. | Harefuah [heb]
+- new | 1995 | 7583853 | Research Support, Non-U.S. Gov't | English plantain and psyllium: lack of cross-allergenicity by crossed immunoelectrophoresis. | Ann Allergy Asthma Immunol
+- new | 1994 | 8187028 | Comparative Study | Comparison of skin-prick test assay and reverse enzyme immunoassay competition (REINA-C) for biological activity of allergens. | Clin Exp Allergy
+- new | 1993 | 8237721 | Comparative Study | Plantain allergy (Plantago lanceolata): assessment of diagnostic tests. | Allergol Immunopathol (Madr)
+- new | 1991 | 1804793 |  | IgE-mediated sensitization to English plantain pollen in seasonal respiratory allergy: identification and partial characterisation of its allergenic components. | Int Arch Allergy Appl Immunol
+- new | 1988 | 3337397 | Comparative Study | Improved diagnosis and treatment of allergic rhinitis by the use of nasal provocation tests. | Ann Allergy
+- new | 1988 | 2830502 | Research Support, Non-U.S. Gov't | Cytochrome c allergens isolated from the pollens of the dicotyledons English plantain (Plantago lanceolata) and Paterson's curse (Echium plantagineum). | Mol Immunol
+- new | 1985 | 3156543 | Case Reports/Research Support, U.S. Gov't, P.H.S. | Workplace allergenicity of a psyllium-containing bulk laxative. | Allergy
+- new | 1984 | 16663710 |  | Inhibition and stimulation of root respiration in pisum and plantago by hydroxamate : its consequences for the assessment of alternative path activity. | Plant Physiol
+- new | 1984 | 6372431 | Comparative Study/Research Support, Non-U.S. Gov't | A computerized micro-ELISA assay for allergen-specific IgE antibodies. | Am J Clin Pathol
+- new | 1982 | 6212549 | Research Support, Non-U.S. Gov't | Allergens from plantain (plantago lanceolata). Studies with pollen and plant extracts. | Int Arch Allergy Appl Immunol
+- new | 1982 | 7081783 | Case Reports/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Serum IgE antibodies to psyllium in individuals allergic to psyllium and English plantain. | Ann Allergy
+- new | 1981 | 6943460 | Comparative Study/Research Support, Non-U.S. Gov't | Variation in potency of extracts used for allergy skin tests. | N Z Med J
+- new | 1972 | 4679994 | Case Reports | [Cardiotoxic effect of glycoside-containing medicinal herbs (poisoning with Plantago lanceolata, fam. Plantaginaceae)]. | Vutr Boles [bul]
+
+### PubMed OBS - 14 hits, 8 not already listed above, 8 new
+- new | 2023 | 36830252 | Review | Parasiticides: Weapons for Controlling Microbial Vector-Borne Diseases in Veterinary Medicine; The Potential of Ethnobotanic/Phytoparasiticides: An Asset to One Health. | Antibiotics (Basel)
+- new | 2021 | 34143715 | Review | Plantago spp. as Models for Studying the Ecology and Evolution of Species Interactions across Environmental Gradients. | Am Nat
+- new | 2021 | 34355467 | Letter | Phenotypic plasticity masks range-wide genetic differentiation for vegetative but not reproductive traits in a short-lived plant. | Ecol Lett
+- new | 2019 | 30943750 |  | Idiopathic Granulomatous Mastitis - a new approach in diagnostics and treatment. | Neoplasma
+- new | 2012 | 22690630 | Research Support, N.I.H., Extramural | The triple helix of Plantago lanceolata: genetics and the environment interact to determine population dynamics. | Ecology
+- new | 2010 | 20392009 | Research Support, N.I.H., Extramural | Longitudinal analysis of Plantago: adaptive benefits of iteroparity in a short-lived, herbaceous perennial. | Ecology
+- new | 2009 | 19569355 | Research Support, N.I.H., Extramural | Longitudinal analysis of Plantago: age-by-environment interactions reveal aging. | Ecology
+- new | 2001 | 11295508 | Research Support, U.S. Gov't, P.H.S. | Environmental effects on age-dependent mortality: a test with a perennial plant species under natural and protected conditions. | Exp Gerontol
+
+### PubMed REV - 18 hits, 10 not already listed above, 8 new
+- new | 2026 | 42335729 | Review | Pasture species selection for free-range egg production systems: Implications for laying performance, egg quality, hen welfare, and soil functioning. | Poult Sci
+- new | 2025 | 40451580 | Review | Invited review: Cows grazing pastures containing narrow-leaved plantain have lower urine N concentrations-Implications for nitrate leaching. | J Dairy Sci
+- new | 2024 | 39339451 | Review | Bioactive Compounds Produced by Endophytic Bacteria and Their Plant Hosts-An Insight into the World of Chosen Herbaceous Ruderal Plants in Central Europe. | Molecules
+- new | 2023 | 38002180 | Review | Polyphenols in Agricultural Grassland Crops and Their Health-Promoting Activities-A Review. | Foods
+- new | 2022 | 35741026 | Review | Medicinal Herbs in the Relief of Neurological, Cardiovascular, and Respiratory Symptoms after COVID-19 Infection A Literature Review. | Cells
+- HELD REF-3895 | 2020 | 33243238 | Review | Traditional medicinal plants in South Tyrol (northern Italy, southern Alps): biodiversity and use. | J Ethnobiol Ethnomed
+- HELD REF-0969 | 2019 | 30465244 | Review | Trace elements in Plantago lanceolata L., a plant used for herbal and food preparations: new data and literature review. | Environ Sci Pollut Res Int
+- new | 2000 | 33862913 | Review | An arbuscular mycorrhizal inoculum enhances root proliferation in, but not nitrogen capture from, nutrient-rich patches in soil. | New Phytol
+- new | 2000 | 10905611 | Review | Symbiotic fungal associations in 'lower' land plants. | Philos Trans R Soc Lond B Biol Sci
+- new | 1999 | 10483683 | Review | [Plantain (Plantago lanceolata L.): anti-inflammatory action in upper respiratory tract infections]. | Wien Med Wochenschr [ger]
+
+### ClinicalTrials.gov - 3 registered studies
+- NCT01968434 | COMPLETED | results=True | PHASE4 | Comparison of Efficacy and Tolerability of Two Cough Syrups in Cough Due to Cold in Children. | conds: Cough, Upper Respiratory Tract Infection | intr: protective cough syrup, carbocisteine cough syrup
+- NCT02486835 | COMPLETED | results=False | NA | Efficacy & Tolerability of a Specific Plantain,Thyme and Honey Cough Syrup vs Placebo in Child Cough Due to Common Cold | conds: Cough | intr: Cough syrup for adults and children, Placebo
+- NCT03218696 | UNKNOWN | results=False | NA | Comparison of a Protective Cough Syrup Against Placebo on Night Cough in Children 1-5 Years Coughing Since 1- 2 Days Due to Common Cold | conds: Cough, Acute Upper Respiratory Tract Infection | intr: Cough Syrup for adults and children, Placebo
+
+### OpenAlex no-PMID trial-worded - 1254 hits, 63 without PMID, 63 new
+- new | 2026 | 10.6084/m9.figshare.32118340 | dataset | More species trial | Figshare
+- new | 2026 | 10.24451/arbor.14260 | article | Assessing agronomic performance and bioactive compounds in Plantago lanceolata ecotypes | BFH: ARBOR
+- new | 2026 | 10.1038/s41598-026-69291-y | article | Effects of Plantago lanceolata on rumen microbiota, blood parameters, and mineral status in lambs | Scientific Reports
+- new | 2026 | 10.32322/jhsm.1970339 | article | Clinical characteristics of Plantago lanceolata-sensitized children with allergic rhinitis according to asthma status | Journal of Health Sciences and Medicine
+- new | 2026 | 10.18311/jnr/2026/56100 | review | Preventive Potential and Safety Considerations of Plantago lanceolata: A Narrative Review of Ethnopharmacological and Preclinical Evidence | Journal of Natural Remedies
+- new | 2026 | 10.3390/life16111854 | review | Anti-Inflammatory and Cough-Modulating Effects of Plantago lanceolata and Sisymbrium officinale in Upper Airway Infections: A Narrative Review | Life
+- new | 2026 | 10.51271/ajh.114 | article | Acute Bullous Irritant Contact Dermatitis Following Topical Application of Potentilla erecta and Plantago lanceolata | Academic Journal of Health
+- new | 2026 | 10.29057/icap.v13iespecial.17375 | article | Uso de bioinsumos vegetales en sistemas agrícolas: efecto de Plantago lanceolata sobre el establecimiento de cultivos básicos | Boletín de Ciencias Agropecuarias del IC
+- new | 2026 | 10.1002/jpln.70102 | article | Soil Mineral Nitrogen Concentrations Do Not Affect the Ability of Plantain (Plantago lanceolata L.) to Reduce Nitrous Oxide Emissions From Cattle Urine Patches | Journal of Plant Nutrition and Soil Scie
+- new | 2026 | 10.1017/s0021859626100690 | article | Calibration of a rising plate metre for herbage mass estimation in ryegrass-white clover mixed swards containing different proportions of plantain (Plantago lanceolata L.) | The Journal of Agricultural Science
+- new | 2025 | 10.37766/inplasy2025.3.0134 | study-registration | The safety of herbal medicine in pediatric randomized controlled trials | 
+- new | 2025 | 10.1080/00288233.2024.2373218 | article | Tolerance of plantain (Plantago lanceolata) to translocated herbicides wiped on flower stems | New Zealand Journal of Agricultural Rese
+- new | 2025 | 10.37766/inplasy2025.3.0130 | study-registration | Herbal Medicine in Pediatrics: A Systematic Review of Randomized Controlled Trials | 
+- new | 2025 | 10.1016/j.agee.2025.110074 | article | Effect of Plantago lanceolata L. cultivar on nitrous oxide emissions from simulated cattle urine patches | Agriculture Ecosystems & Environment
+- new | 2025 | https://openalex.org/W7112713743 | dissertation | Mitigation of drought stress in plantain (Plantago lanceolata L.) and perennial ryegrass (Lolium perenne L.) using plant growth promoting rhizobacteria | Lincoln University Research Archive (Lin
+- new | 2024 | 10.3390/agronomy14050977 | article | Reduced Translocation Confers Paraquat Resistance in Plantago lanceolata | Agronomy
+- new | 2024 | 10.36602/jsba.2025.18.26 | article | Antibacterial activity of Plantago lanceolata and Helichrysum stoechas extracts on Escherichia coli and Pseudomonas aeruginosa | مجلة العلوم الاساسية و التطبيقية
+- new | 2023 | 10.1071/an22300 | article | Effects of dietary Sanguisorba minor, Plantago lanceolata, and Lotus corniculatus on urinary N excretion of dairy cows | Animal Production Science
+- new | 2022 | 10.21203/rs.3.rs-1637465/v1 | preprint | Antibacterial Activity of Herbal Plantago major and Plantago lanceolata extracts on Pseudomonas aeruginosa with emphasis on Exotoxin A gene expression and Bioinformatics approach | Research Square
+- new | 2021 | 10.5152/ejra.2021.20047 | article | Results of Allergic Prick Tests in Patients with Allergic Rhinitis in Edirne | European Journal of Rhinology and Allerg
+- new | 2021 | 10.1051/e3sconf/202130601039 | conference-paper | Effect of maturity and storage duration on plantain (Plantago lanceolata) silage quality | E3S Web of Conferences
+- new | 2021 | 10.37506/ijphrd.v12i3.16105 | article | Effect of Propolis and Pomegranate Extract Mouthwashes on Taste Alteration, Salivary pH and Antibacterial Activity in High Caries Risk Patients: A Randomized Control Trial | Indian Journal of Public Health Research
+- new | 2021 | 10.1080/1828051x.2021.1952114 | article | Dose titration of plantain herb (Plantago lanceolata L.) supplementation on growth performance, serum antioxidants status, liver enzymatic activity and meat quality in broiler chic | Italian Journal of Animal Science
+- new | 2021 | 10.37506/ijfmt.v15i2.14579 | article | In Vivo Treatment of Giardia lamblia by Plantago lanceolata L. extract and Investigation some Serological Parameters and Histopathological Changes | Indian Journal of Forensic Medicine & To
+- new | 2021 | 10.4236/as.2021.1211084 | article | Inhibitory Activities of Sole Cow Urine and Combined Cow Dung/Cow Urine against the Blight Disease of Ribwort (Plantago lanceolata) at the Cistercian Monastery in Mbengwi, Cameroon | Agricultural Sciences
+- new | 2020 | 10.1016/j.livsci.2020.104093 | article | Substituting a pasture-based diet with plantain (Plantago lanceolata) reduces nitrogen excreted in urine from dairy cows in late lactation. | Livestock Science
+- new | 2020 | https://openalex.org/W3110166032 | article | A pilot study of efficacy and safety of Plantago lanceolata and Primula veris, in the treatment of the common cold | Archives of Pharmacy Practice
+- new | 2019 | 10.1080/00288233.2019.1645704 | article | Efficacy of aucubin as a nitrification inhibitor assessed in two Canterbury field trials | New Zealand Journal of Agricultural Rese
+- new | 2019 | 10.1080/00288233.2019.1626743 | article | Ruminant urine patch nitrification and N 2 O flux: effects of urine aucubin rate in a laboratory trial | New Zealand Journal of Agricultural Rese
+- new | 2019 | 10.33584/jnzg.2019.81.402 | article | Meta-analyses comparing the nutritional composition of perennial ryegrass (Lolium perenne) and plantain (Plantago lanceolata) pastures | Journal of New Zealand Grasslands
+- new | 2019 | 10.1016/j.livsci.2019.01.018 | article | Milk fatty acid profile and nitrogen utilization of dairy cows fed ryegrass-red clover silage containing plantain (Plantago lanceolata L.) | Livestock Science
+- new | 2018 | 10.6084/m9.figshare.6652790 | supplementary-materials | Supplementary Material for: Do Plantago lanceolata Skin Prick Test-Positive Patients Display IgE to Genuine Plantain Pollen Allergens? Investigation of Pollen Allergic Patients fro | Figshare
+- new | 2018 | 10.3390/soils2010009 | article | Influence of Soil Moisture Status on Soil Cadmium Phytoavailability and Accumulation in Plantain (Plantago lanceolata) | Soil Systems
+- new | 2017 | https://openalex.org/W2786500859 | dissertation | An investigation into the effect of sodium content in plantain (Plantago lanceolata) on urine production in sheep | Lincoln University Research Archive (Lin
+- new | 2017 | https://openalex.org/W2780481117 | article | Efecto de Plantago lanceolata sobre el nivel de Nemátodos Gastrointestinalesen Ovinos | Veterinaria (Montevideo)
+- new | 2017 | https://openalex.org/W2769938336 | dissertation | Effect of plantain (Plantago lanceolata L.) proportion in the diet on nitrogen use, milk production and behaviour of lactating dairy cows | Lincoln University Research Archive (Lin
+- new | 2016 | https://openalex.org/W2583276526 | dissertation | An investigation of the effects of plantain (Plantago lanceolata) ingestion on kidney function in sheep | Lincoln University Research Archive (Lin
+- new | 2015 | 10.1007/s10453-015-9415-1 | article | Effects of ozone in Plantago lanceolata and Salix atrocinerea pollen | Aerobiologia
+- new | 2014 | https://openalex.org/W3082152175 | book-chapter | Variabilidade morfológica de populações Ibéricas de "Plantago lanceolata" | Dialnet (Universidad de la Rioja)
+- new | 2014 | 10.1186/2045-7022-4-s2-p15 | article | Production of non-glycosylated recombinant Pla l 1, the main allergen of Plantago lanceolata | Clinical and Translational Allergy
+- new | 2013 | 10.3329/bjas.v42i2.18492 | article | Comparison of broiler performance using Plantain (Plantago lanceolata L.), Bio-Sel-E and commercial diet | Bangladesh Journal of Animal Science
+- new | 2013 | 10.1071/an13205 | article | Plantain (Plantago lanceolata L.) and perennial ryegrass (Lolium perenne L.) as pregnancy and lactation feed for ewes joined at 8 months of age | Animal Production Science
+- new | 2012 | 10.5897/jmpr11.516 | article | Histological evaluation of Plantago lanceolata L. extract in accelerating wound healing | Journal of Medicinal Plants Research
+- new | 2012 | 10.33584/jnzg.2012.74.2873 | article | Understanding Plantain (Plantago lanceolata L.) responses to defoliation in Uruguay | Proceedings of the New Zealand Grassland
+- new | 2012 | 10.1007/s00580-012-1512-8 | article | A histopathological study of the healing potential of Plantago lanceolata ointment on collagenase-induced tendonitis in rats | Comparative Clinical Pathology
+- new | 2011 | 10.33584/rps.15.2011.3222 | article | Effect of defoliation strategies on the productivity, population and morphology of plantain (Plantago lanceolata) | NZGA Research and Practice Series
+- new | 2011 | https://openalex.org/W15424188 | article | Effect of the feeding of Plantago lanceolata with meadows hay on milk efficiency of goats | Slovak Journal of Animal Science
+- new | 2011 | https://openalex.org/W7135641610 | dissertation | The influence of potentially effective herbs from grazing herbage on forage intake and its preservation. | Digital Repository (National Repository 
+- new | 2010 | 10.5511/plantbiotechnology.27.297 | article | Evaluation of genetic relationships in Plantago species using Random Amplified Polymorphic DNA (RAPD) markers | Plant Biotechnology
+- new | 2009 | 10.33584/jnzg.2009.71.2749 | article | Evaluation of 'Ceres Tonic' plantain (Plantago lanceolata) as a lactation feed for twin-bearing ewes | Proceedings of the New Zealand Grassland
+- new | 2006 | 10.4067/s0301-732x2006000300006 | article | Efecto de la alimentación suplementaria con Plantago lanceolata sobre la oviposición de parásitos gastrointestinales en terneros | Archivos de medicina veterinaria
+- new | 2004 | 10.1111/j.1365-3164.2004.00414_48.x | conference-abstract | P‐48 Treatment of localized lesions of canine atopic dermatitis with tacrolimus ointment: a blinded, randomized, controlled trial | Veterinary Dermatology
+- new | 2001 | 10.3923/pjbs.2002.12.18 | article | Genetic Differentiation and Phenotypic Plasticity I. Responses in Three Plantago lanceolata L. Populations upon Changes in Mineral Supply | Pakistan Journal of Biological Sciences
+- new | 1999 | 10.1023/a:1020894729188 | article | Effects of Sequestered Iridoid Glycosides on Prey Choice of the Prairie Wolf Spider, Lycosa carolinensis | Journal of Chemical Ecology
+- new | 1997 | 10.1080/00288233.1997.9513258 | article | ‘Grasslands Lancelot’ plantain (Plantago lanceolata L.) | New Zealand Journal of Agricultural Rese
+- new | 1996 | 10.33584/jnzg.1996.58.2221 | article | Plantain (Plantago lanceolata) - a potential pasture species | Proceedings of the New Zealand Grassland
+- new | 1996 | https://openalex.org/W2187449607 | article | Plantain (Plantago lanceolata) - a potential pasture species | 
+- new | 1996 | 10.2307/2404682 | article | The Effects of Nitrogen, Potassium and Phosphorus Addition on the Vegetation of a Somerset Peat Moor Under Cutting Management | Journal of Applied Ecology
+- new | 1992 | 10.1086/285338 | article | Norms of Reaction of Seed Traits to Maternal Environments in Plantago lanceolata | The American Naturalist
+- new | 1990 | 10.33584/jnzg.1990.52.1963 | article | Plantain seed production in a radial trial | Proceedings of the New Zealand Grassland
+- new | 1988 | 10.2307/2260614 | article | The Contrasting Dynamics of Two Populations of Plantago Lanceolata Classified by Age and Size | Journal of Ecology
+- new | 1983 | https://openalex.org/W2582128511 | other | Invloed van vegetatiestruktuur op kieming en vestiging van Plantago lanceolata en P. major ssp Major | Data Archiving and Networked Services (D
+- new | 1979 | 10.18174/njas.v27i3.17057 | article | Phytotoxicity of zinc, nickel, cadmium, lead, copper and chromium in three pasture plant species supplied with graduated amounts from the soil. | Netherlands Journal of Agricultural Scie

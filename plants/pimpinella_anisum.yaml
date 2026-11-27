@@ -146,6 +146,50 @@ indications:
   status: needs-review
   mechanistic_exclude_ids:
   - REF-1414
+- condition: ibs
+  note: In a 2016 randomized double-blind trial in 120 people with IBS, enteric-coated anise oil capsules
+    for 4 weeks left 75% free of IBS symptoms, versus 35% on placebo and 52.5% on peppermint oil (Colpermin)
+  reference_ids:
+  - REF-5574
+  status: verified
+- condition: depression
+  note: In the same randomized double-blind trial in people with IBS and mild to moderate depression,
+    anise oil lowered depression scores more than placebo or peppermint oil at 4 and 6 weeks
+  reference_ids:
+  - REF-5575
+  status: verified
+- condition: indigestion
+  note: In a 2015 randomized double-blind trial in 107 people with functional dyspepsia (postprandial
+    distress), anise powder 3 g after meals for 4 weeks reduced symptom severity far more than a cornstarch
+    placebo, with the benefit lasting to week 12
+  reference_ids:
+  - REF-5576
+  status: verified
+- condition: pms
+  note: In a 2020 randomized double-blind trial in 67 students with premenstrual syndrome, anise reduced
+    symptom severity more than placebo over two menstrual cycles
+  reference_ids:
+  - REF-5577
+  status: verified
+- condition: hot-flashes
+  note: In a 2012 randomized double-blind trial in 72 postmenopausal women, anise capsules (330 mg three
+    times daily) for 4 weeks cut hot flush frequency compared with placebo, and the effect lasted through
+    4 weeks of follow-up; results for severity were mixed
+  reference_ids:
+  - REF-5578
+  status: verified
+- condition: diarrhea
+  note: In a 2024 randomized double-blind add-on trial in 225 adults with COVID-19 and digestive symptoms,
+    aniseed powder for 2 weeks improved diarrhoea more often than placebo
+  reference_ids:
+  - REF-5579
+  status: verified
+- condition: appetite-loss
+  note: In the same 2024 randomized double-blind trial in adults with COVID-19, aniseed powder improved
+    loss of appetite more often than placebo
+  reference_ids:
+  - REF-5579
+  status: verified
 contraindications:
 - note: Generally safe when consumed in food amounts. Doses up to 20g daily considered safe for adults.
     May cause allergic reactions in some people. Caution advised during pregnancy and breastfeeding -
@@ -162,6 +206,24 @@ contraindications:
   severity: info
   reference_ids:
   - REF-0063
+  status: verified
+- note: 'Allergy: aniseed can cause IgE-mediated allergy, including tongue swelling after an aniseed liqueur,
+    asthma and rhinoconjunctivitis from handling aniseed dust, and food allergy confirmed by a blinded
+    oral challenge. People allergic to birch or mugwort pollen, celery, or other parsley-family spices
+    (fennel, caraway, coriander, cumin, dill) may cross-react (case reports and lab studies).'
+  severity: caution
+  reference_ids:
+  - REF-5580
+  - REF-5581
+  - REF-5582
+  - REF-5583
+  status: verified
+- note: 'Infants: a 4-month-old given a daily homemade tea of star anise and anise for two months developed
+    liver failure, low blood sugar and seizures; do not give homemade herbal teas to infants (case report;
+    star anise was also in the tea).'
+  severity: caution
+  reference_ids:
+  - REF-5584
   status: verified
 references:
 - REF-1407
@@ -230,4 +292,28 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-10: symptom-source audit batch 13 - REF-1408 (wound healing in diabetic rats) names no
   skin irritation - removed; skin-irritation pair dropped. Claim notes on wounds/infection/cancer
   rewritten to describe their direct sources (they said "inferred"). Gap for owner: the EU anise
-  monograph uses (bloating, flatulence, cough with cold) have no pairs.'
+  monograph uses (bloating, flatulence, cough with cold) have no pairs.
+  | 2026-11-27: symptom-source audit research-deepening batch 25 - Searched PubMed (Pimpinella
+  anisum / aniseed / anise seed / anise tiab: 79 HT, 19 SR, 171 SAFE hits), Europe PMC,
+  ClinicalTrials.gov (15) and OpenAlex. Research-integrity check: no new reference is first- or
+  last-authored by the flagged Tehran psychopharmacology group (author lists checked). Added NEW
+  pairs (each from one randomized placebo-controlled trial): ibs and depression (2016 Shiraz
+  enteric-coated anise oil trial and its depression report, same 120 patients), indigestion (2015
+  functional dyspepsia trial; its separate SF-36 quality-of-life report, PMID 25709650, is the
+  same trial and was not cited twice), pms (2020), hot-flashes (2012; randomization and the
+  between-group frequency difference confirmed in the PMC full text, severity mixed), diarrhea and
+  appetite-loss (2024 COVID-19 add-on trial; aniseed was mixed with rock-candy powder as the
+  vehicle; the paper reports risk ratios below 1 while describing more improvement on aniseed, so
+  the direction is taken from the authors'' text). Added cautions: aniseed allergy (3 cases plus a
+  cross-reactivity lab study) and an infant liver-failure case after star anise + anise tea. GAPS:
+  lactation-support - a 2023 RCT found more pumped milk with anise tea in mothers of preterm
+  infants, but the record cautions against medicinal use in breastfeeding (inv. 12d), so no pair;
+  migraine - the 2019 topical anise oil pilot RCT (PMID 30853645) has its abstract replaced by the
+  author-contribution statement in PubMed, Europe PMC and OpenAlex, and the full text is closed,
+  so the result could not be verified; menopause - a 2026 RCT reported Kupperman-index gains only
+  within the anise group, and its between-group result is a DASS-21 composite score. Not added:
+  2026 Apiaceae dysmenorrhoea meta-analysis (pools anise with fennel and dill), IBS meta-analyses
+  (only the one anise trial, already cited), six-herb dyspepsia formula, Thai multi-herb remedies
+  (Sahastara, Thatbunjob), Menstrugole (combination), star anise (Illicium) poisoning cases and
+  studies (other species), alcohol-free aniseed aperitif pseudohyperaldosteronism cases (caused by
+  liquorice in the drink), feed-additive and insecticide studies.'

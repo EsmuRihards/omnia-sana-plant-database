@@ -1515,6 +1515,76 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "diarrhea",
+     "label": "Diarrhoea",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5579"
+     ]
+    },
+    {
+     "condition": "hot-flashes",
+     "label": "Hot flashes",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5578"
+     ]
+    },
+    {
+     "condition": "indigestion",
+     "label": "Indigestion",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5576"
+     ]
+    },
+    {
+     "condition": "ibs",
+     "label": "Irritable bowel syndrome (IBS)",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5574"
+     ]
+    },
+    {
+     "condition": "appetite-loss",
+     "label": "Loss of appetite",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5579"
+     ]
+    },
+    {
+     "condition": "depression",
+     "label": "Low mood / depression",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5575"
+     ]
+    },
+    {
+     "condition": "pms",
+     "label": "PMS / premenstrual syndrome",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5577"
+     ]
+    },
+    {
      "condition": "cancer",
      "label": "Cancer (anticancer research)",
      "evidence": 2,
@@ -10251,6 +10321,16 @@
       "REF-2547",
       "REF-3061",
       "REF-3398"
+     ]
+    },
+    {
+     "condition": "insomnia",
+     "label": "Insomnia / sleeplessness",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5585"
      ]
     },
     {

@@ -226,12 +226,16 @@ indications:
   - REF-1488
   status: needs-review
 - condition: urinary-support
-  note: Parsley increased urine output in rats; traditional diuretic (reviews)
+  note: Parsley increased urine output in rats and is a traditional diuretic (reviews); in a small 2011
+    crossover study in 20 healthy volunteers, drinking 1.2 L of parsley leaf tea daily for 2 weeks did
+    not change urine volume or composition compared with bottled water
   reference_ids:
   - REF-0489
   - REF-0545
   - REF-0546
   status: needs-review
+  null_result_ids:
+  - REF-5570
 contraindications:
 - note: Culinary amounts are safe, but medicinal/seed doses and the essential oil (apiole, myristicin)
     can be toxic and stimulate the uterus - AVOID medicinal doses of parsley in pregnancy.
@@ -246,6 +250,12 @@ contraindications:
   - REF-0489
   - REF-0546
   status: needs-review
+- note: 'Allergy: a woman who used large amounts of parsley as a home remedy had near-fatal anaphylaxis
+    (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5571
+  status: verified
 references:
 - REF-1486
 - REF-1487
@@ -329,4 +339,22 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (J Agric Food Ch
   diuretic) and REF-0546 (review) removed from swelling/UTI/detox (diuresis is not swelling or
   infection evidence - birch precedent).
   | 2026-11-13: symptom-source audit deep re-sweep batch 12 - Deep re-sweep. Notes rewritten to
-  their (preclinical/review) sources. No clinical trials found.'
+  their (preclinical/review) sources. No clinical trials found.
+  | 2026-11-27: symptom-source audit research-deepening batch 25 - Searched PubMed (Petroselinum
+  crispum / P. sativum / parsley tiab: 30 HT, 10 SR, 179 SAFE hits; most were food, agriculture
+  and lab studies), Europe PMC, ClinicalTrials.gov (14) and OpenAlex. Added: 2011 crossover of
+  parsley leaf tea in healthy volunteers as a NULL result on urinary-support (no change in urine
+  volume or composition); 2014 near-fatal anaphylaxis case as an allergy caution; 2021 sirolimus
+  case as a DRAFT immunosuppressants interaction (needs owner approval). Not added: melasma cream
+  trial (compared only with hydroquinone, an active comparator), parsley-seed bread study (kidney
+  biomarkers only, surrogate), Mediterranean-diet and multi-herb trials (combinations),
+  questionnaire surveys of herb use in pregnancy (no outcome).'
+drug_class_interactions:
+- drug_class: immunosuppressants
+  severity: caution
+  mechanism: A kidney transplant recipient who ate excessive amounts of parsley had a sirolimus blood
+    level above the target range; the authors report it as a possible herb-drug interaction (first case
+    report). Sirolimus has a narrow therapeutic window and is affected by CYP3A4 and P-glycoprotein.
+  reference_ids:
+  - REF-5572
+  status: draft

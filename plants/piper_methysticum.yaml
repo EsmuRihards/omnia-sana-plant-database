@@ -172,6 +172,16 @@ indications:
   status: verified
   mechanistic_exclude_ids:
   - REF-2462
+- condition: insomnia
+  note: In a 2004 randomized double-blind multicentre trial in 61 people with sleep problems linked to
+    anxiety, kava extract WS 1490 (200 mg daily) for 4 weeks improved sleep quality and feeling refreshed
+    after sleep more than placebo; a 2015 meta-analysis of herbal medicines for insomnia (including kava)
+    found no herb better than placebo
+  reference_ids:
+  - REF-5585
+  status: verified
+  null_result_ids:
+  - REF-5586
 contraindications:
 - note: Rare but serious drug-induced liver injury (hepatitis, cirrhosis, liver failure) has been reported
     with kava; it is contraindicated in people with liver disease and should not be combined with alcohol
@@ -185,9 +195,9 @@ contraindications:
   - REF-2545
   - REF-3063
   status: verified
-- note: Kavalactones inhibit several cytochrome P450 enzymes (CYP1A2, 2C9, 2C19, 2D6 and 3A4), which
-    metabolise a large share of prescription medicines. Kava may therefore raise blood levels of such
-    drugs; check with a pharmacist or doctor before combining kava with any regular medication.
+- note: Kavalactones inhibit several cytochrome P450 enzymes (CYP1A2, 2C9, 2C19, 2D6 and 3A4), which metabolise
+    a large share of prescription medicines. Kava may therefore raise blood levels of such drugs; check
+    with a pharmacist or doctor before combining kava with any regular medication.
   severity: caution
   reference_ids:
   - REF-3062
@@ -199,6 +209,42 @@ contraindications:
   reference_ids:
   - REF-2460
   - REF-2462
+  status: verified
+- note: 'Skin: regular heavy kava drinking commonly causes kava dermopathy, a dry, scaly, ichthyosis-like
+    skin condition (survey of more than 1,000 people in Fiji). Since kava products became widely available,
+    acute skin reactions soon after starting kava have also been reported, some resembling a severe drug
+    reaction (DRESS), and a baby born to a mother who took a kava and kratom product throughout pregnancy
+    had a similar rash (case series and case report).'
+  severity: caution
+  reference_ids:
+  - REF-5587
+  - REF-5588
+  - REF-5589
+  - REF-5590
+  status: verified
+- note: 'Dependence and withdrawal: after heavy daily use, stopping kava has caused severe withdrawal
+    resembling sedative withdrawal, with delirium, hallucinations and muscle jerking, treated in hospital
+    with phenobarbital (case reports; several people also took kratom).'
+  severity: caution
+  reference_ids:
+  - REF-5591
+  - REF-5592
+  - REF-5593
+  status: verified
+- note: 'Driving: in a 2013 randomized double-blind crossover trial, a single medicinal dose of kava did
+    not impair simulated driving, unlike oxazepam. A 2015 systematic review found no studies of real crashes,
+    weak evidence of slower reaction time, and impaired simulated driving when kava was taken with alcohol.'
+  severity: info
+  reference_ids:
+  - REF-5594
+  - REF-5595
+  status: verified
+- note: 'Trial safety data: in a 6-week randomized placebo-controlled trial of kava for generalised anxiety
+    disorder, liver tests, withdrawal and addiction measures did not differ from placebo. This does not
+    rule out the rare serious liver injury described above.'
+  severity: info
+  reference_ids:
+  - REF-5596
   status: verified
 drug_class_interactions:
 - drug_class: sedatives-cns-depressants
@@ -270,4 +316,21 @@ internal_notes: '2026-07-03: new record created for the safety-data campaign (ka
   REF-2460 (herbal sedatives in cancer care: kava raised "disturbing toxicity concerns") removed
   from insomnia - pair dropped.
   | 2026-11-19 (monograph-source audit): traditional_uses and preparations[0-1] cited only REF-2462 (Cochrane anxiety review), constituents[1] only REF-3063 (study_type review). RE-SOURCED: Useful Tropical Plants REF-3313 (the drink and how it is made), WHO Rhizoma Piperis Methystici vol. 2 (REF-3980, new; uses, 60-210 mg kava pyrones/day), REF-3063 rewritten to what its abstract says, REF-2462 kept for its finding. Dropped as unsupported: centuries-long, peeled root, water-based extract as the safer choice, standardised capsules, chalcone wording, noble cultivars. FOLLOW-UP: REF-3063 is tagged bare ''review'' (scores like a systematic review); its abstract calls itself a systematic review but describes no search method - check against invariant 8.
-  | 2026-11-20 (owner-approved): REF-3063 (Wang 2021) re-tagged from bare ''review'' to ''narrative-review'': its full text (PMC8405297) has no methods, search strategy or inclusion criteria despite calling itself a systematic review (invariant 8). It cites no indication, so no evidence score changes; only its source-card tier label. Its abstract, whose binomial PubMed had stripped, was replaced by a summary; pmid and url added.'
+  | 2026-11-20 (owner-approved): REF-3063 (Wang 2021) re-tagged from bare ''review'' to ''narrative-review'': its full text (PMC8405297) has no methods, search strategy or inclusion criteria despite calling itself a systematic review (invariant 8). It cites no indication, so no evidence score changes; only its source-card tier label. Its abstract, whose binomial PubMed had stripped, was replaced by a summary; pmid and url added.
+  | 2026-11-27: symptom-source audit research-deepening batch 25 - Searched PubMed (Piper
+  methysticum / kava / kava-kava / kavalactones / WS 1490 tiab: 116 HT, 48 SR, 395 SAFE hits),
+  Europe PMC, ClinicalTrials.gov (18) and OpenAlex. Anxiety (10) and nervous-tension were not
+  padded (the placebo RCTs and WS 1490 meta-analysis pool trials the record already cites). Added:
+  NEW insomnia pair (2004 WS 1490 RCT in anxiety-related sleep problems) with the 2015
+  herbal-insomnia meta-analysis recorded as a NULL result; skin caution (kava dermopathy and acute
+  cutaneous toxicity); dependence/withdrawal caution; driving and trial-safety info notes. GAPS:
+  menopause - in the 1991 WS 1490 climacteric RCT the target was anxiety, and the Kupperman-index
+  result is not reported as a between-group difference; in the 2003 perimenopausal trial only
+  anxiety fell more than in controls. Depression - KADSS 2009 here is the design paper; the St
+  John''s wort + kava pilot is a combination. Not added: acute single-dose cognition/mood studies
+  in healthy volunteers, lab stress study (not randomized, within-group), kavalactone motivation
+  study in military trainees, AB-free kava smoking-biomarker pilot, kava + kratom blend safety
+  study, kava + HRT trials (combination), 1995 dopamine-antagonism letter (no abstract), 2025
+  suspected serotonin-syndrome case with duloxetine/venlafaxine (single suspected case; the CYP
+  caution already covers raised drug levels), liver-injury case reports and reviews already
+  represented by the serious liver caution.'

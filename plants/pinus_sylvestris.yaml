@@ -239,6 +239,18 @@ contraindications:
   reference_ids:
   - REF-0063
   status: verified
+- note: 'Liver: a person who used Scots pine to treat asthma developed herb-induced liver injury, the
+    first such case reported (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5573
+  status: verified
+- note: 'Lab safety: pine-needle essential oil caused dose-dependent chromosome damage in human white
+    blood cells in the lab and raised mutation rates in fruit flies (lab and insect study).'
+  severity: info
+  reference_ids:
+  - REF-5597
+  status: verified
 references:
 - REF-1233
 - REF-1234
@@ -324,4 +336,14 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (Pinus pinaster bark, a different species, and not findable as cited) removed and deleted. Same tier
   on every pair (traditional), so no score change. Dropped as unsourced: vitamin-C needle tea, bark
   stripped from felled trees, twigs year-round for distillation, ''most widely distributed pine'',
-  allergy to pine pollen.'
+  allergy to pine pollen.
+  | 2026-11-27: symptom-source audit research-deepening batch 25 - Searched PubMed (Pinus
+  sylvestris / Scots pine / Scotch pine tiab: 5 HT, 3 SR, 57 SAFE hits), Europe PMC,
+  ClinicalTrials.gov (1) and OpenAlex (almost all forestry, ecology and provenance trials). Added:
+  2024 liver-injury case as a caution; 2001 needle-oil genotoxicity study (human lymphocytes in
+  vitro, Drosophila) as an info note. GAP: blood pressure - in a 2023 study of 849 women with
+  hypertension inhaling single essential oils during relaxation sessions (randomization not
+  stated), Scotch pine oil had no blood-pressure-lowering effect; there is no pine blood-pressure
+  pair to attach it to. Not added: blended essential-oil throat spray (combination), essential-oil
+  vapour antibacterial lab studies, pollen studies (not related to use), wood, pulp and
+  air-pollution studies. Settled for human efficacy evidence.'

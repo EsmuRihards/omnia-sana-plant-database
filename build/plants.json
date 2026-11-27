@@ -46159,13 +46159,16 @@
     },
     {
      "condition": "urinary-support",
-     "note": "Parsley increased urine output in rats; traditional diuretic (reviews)",
+     "note": "Parsley increased urine output in rats and is a traditional diuretic (reviews); in a small 2011 crossover study in 20 healthy volunteers, drinking 1.2 L of parsley leaf tea daily for 2 weeks did not change urine volume or composition compared with bottled water",
      "reference_ids": [
       "REF-0489",
       "REF-0545",
       "REF-0546"
      ],
      "status": "needs-review",
+     "null_result_ids": [
+      "REF-5570"
+     ],
      "evidence": 2,
      "label": "Urinary support"
     }
@@ -46187,6 +46190,14 @@
       "REF-0546"
      ],
      "status": "needs-review"
+    },
+    {
+     "note": "Allergy: a woman who used large amounts of parsley as a home remedy had near-fatal anaphylaxis (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5571"
+     ],
+     "status": "verified"
     }
    ],
    "references": [
@@ -46249,6 +46260,7 @@
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
    "last_updated": "2026-08-15",
+   "drug_class_interactions": [],
    "common_slug": "parsley"
   },
   {
@@ -46436,6 +46448,76 @@
      ],
      "evidence": 2,
      "label": "Wounds"
+    },
+    {
+     "condition": "ibs",
+     "note": "In a 2016 randomized double-blind trial in 120 people with IBS, enteric-coated anise oil capsules for 4 weeks left 75% free of IBS symptoms, versus 35% on placebo and 52.5% on peppermint oil (Colpermin)",
+     "reference_ids": [
+      "REF-5574"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Irritable bowel syndrome (IBS)"
+    },
+    {
+     "condition": "depression",
+     "note": "In the same randomized double-blind trial in people with IBS and mild to moderate depression, anise oil lowered depression scores more than placebo or peppermint oil at 4 and 6 weeks",
+     "reference_ids": [
+      "REF-5575"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Low mood / depression"
+    },
+    {
+     "condition": "indigestion",
+     "note": "In a 2015 randomized double-blind trial in 107 people with functional dyspepsia (postprandial distress), anise powder 3 g after meals for 4 weeks reduced symptom severity far more than a cornstarch placebo, with the benefit lasting to week 12",
+     "reference_ids": [
+      "REF-5576"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Indigestion"
+    },
+    {
+     "condition": "pms",
+     "note": "In a 2020 randomized double-blind trial in 67 students with premenstrual syndrome, anise reduced symptom severity more than placebo over two menstrual cycles",
+     "reference_ids": [
+      "REF-5577"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "PMS / premenstrual syndrome"
+    },
+    {
+     "condition": "hot-flashes",
+     "note": "In a 2012 randomized double-blind trial in 72 postmenopausal women, anise capsules (330 mg three times daily) for 4 weeks cut hot flush frequency compared with placebo, and the effect lasted through 4 weeks of follow-up; results for severity were mixed",
+     "reference_ids": [
+      "REF-5578"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Hot flashes"
+    },
+    {
+     "condition": "diarrhea",
+     "note": "In a 2024 randomized double-blind add-on trial in 225 adults with COVID-19 and digestive symptoms, aniseed powder for 2 weeks improved diarrhoea more often than placebo",
+     "reference_ids": [
+      "REF-5579"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Diarrhoea"
+    },
+    {
+     "condition": "appetite-loss",
+     "note": "In the same 2024 randomized double-blind trial in adults with COVID-19, aniseed powder improved loss of appetite more often than placebo",
+     "reference_ids": [
+      "REF-5579"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Loss of appetite"
     }
    ],
    "contraindications": [
@@ -46450,6 +46532,25 @@
      "severity": "info",
      "reference_ids": [
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Allergy: aniseed can cause IgE-mediated allergy, including tongue swelling after an aniseed liqueur, asthma and rhinoconjunctivitis from handling aniseed dust, and food allergy confirmed by a blinded oral challenge. People allergic to birch or mugwort pollen, celery, or other parsley-family spices (fennel, caraway, coriander, cumin, dill) may cross-react (case reports and lab studies).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5580",
+      "REF-5581",
+      "REF-5582",
+      "REF-5583"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Infants: a 4-month-old given a daily homemade tea of star anise and anise for two months developed liver failure, low blood sugar and seizures; do not give homemade herbal teas to infants (case report; star anise was also in the tea).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5584"
      ],
      "status": "verified"
     }
@@ -46814,6 +46915,22 @@
       "REF-0063"
      ],
      "status": "verified"
+    },
+    {
+     "note": "Liver: a person who used Scots pine to treat asthma developed herb-induced liver injury, the first such case reported (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5573"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Lab safety: pine-needle essential oil caused dose-dependent chromosome damage in human white blood cells in the lab and raised mutation rates in fruit flies (lab and insect study).",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5597"
+     ],
+     "status": "verified"
     }
    ],
    "references": [
@@ -47072,6 +47189,19 @@
      ],
      "evidence": 3,
      "label": "Nervous tension"
+    },
+    {
+     "condition": "insomnia",
+     "note": "In a 2004 randomized double-blind multicentre trial in 61 people with sleep problems linked to anxiety, kava extract WS 1490 (200 mg daily) for 4 weeks improved sleep quality and feeling refreshed after sleep more than placebo; a 2015 meta-analysis of herbal medicines for insomnia (including kava) found no herb better than placebo",
+     "reference_ids": [
+      "REF-5585"
+     ],
+     "status": "verified",
+     "null_result_ids": [
+      "REF-5586"
+     ],
+     "evidence": 5,
+     "label": "Insomnia / sleeplessness"
     }
    ],
    "contraindications": [
@@ -47099,6 +47229,44 @@
      "reference_ids": [
       "REF-2460",
       "REF-2462"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Skin: regular heavy kava drinking commonly causes kava dermopathy, a dry, scaly, ichthyosis-like skin condition (survey of more than 1,000 people in Fiji). Since kava products became widely available, acute skin reactions soon after starting kava have also been reported, some resembling a severe drug reaction (DRESS), and a baby born to a mother who took a kava and kratom product throughout pregnancy had a similar rash (case series and case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5587",
+      "REF-5588",
+      "REF-5589",
+      "REF-5590"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Dependence and withdrawal: after heavy daily use, stopping kava has caused severe withdrawal resembling sedative withdrawal, with delirium, hallucinations and muscle jerking, treated in hospital with phenobarbital (case reports; several people also took kratom).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5591",
+      "REF-5592",
+      "REF-5593"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Driving: in a 2013 randomized double-blind crossover trial, a single medicinal dose of kava did not impair simulated driving, unlike oxazepam. A 2015 systematic review found no studies of real crashes, weak evidence of slower reaction time, and impaired simulated driving when kava was taken with alcohol.",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5594",
+      "REF-5595"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Trial safety data: in a 6-week randomized placebo-controlled trial of kava for generalised anxiety disorder, liver tests, withdrawal and addiction measures did not differ from placebo. This does not rule out the rare serious liver injury described above.",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5596"
      ],
      "status": "verified"
     }

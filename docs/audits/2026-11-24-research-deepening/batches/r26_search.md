@@ -1,0 +1,863 @@
+# Research-deepening batch 26 - search
+
+## plantago-major (Plantago major) - name clause: "Plantago major"[tiab] OR "greater plantain"[tiab] OR "broadleaf plantain"[tiab] OR "broad-leaved plantain"[tiab] OR "common plantain"[tiab]
+
+### PubMed HT - 20 hits, 20 not already listed above, 17 new
+- new | 2026 | 42011347 | Review | Possible therapeutic effects of Plantago major in women with high menstrual bleeding: A systematic review of randomized clinical trials. | Avicenna J Phytomed
+- new | 2026 | 41891190 |  | The preventive effects of plantago major, mallow and Honey on radiation-induced dermatitis in patients with breast cancer: A double-blind clinical trial. | J Oncol Pharm Pract
+- new | 2025 | 41234347 | Review | The efficacy of herbal medicine in the management of oral stomatitis in head and neck cancer patients undergoing radiotherapy: A systematic review. | J Adv Pharm Technol Res
+- new | 2025 | 39859130 | Randomized Controlled Trial | The Role of Butirprost(®) as an Adjuvant in Enhancing the Effect of Antibiotics in Patients Affected by Chronic Bacterial Prostatitis: A Randomized Prospective Trial. | Medicina (Kaunas)
+- new | 2024 | 39359439 |  | Effect of Plantago major on cough severity in acute bronchitis: A double-blind randomized clinical trial. | Caspian J Intern Med
+- new | 2024 | 38797623 | Randomized Controlled Trial | Efficacy and safety of Plantago major seeds in patients with diabetic nephropathy: A randomized open-labeled controlled clinical trial. | Explore (NY)
+- HELD REF-1760 | 2024 | 35044254 | Randomized Controlled Trial | The Effect of Plantago major Hydroalcoholic Extract on the Healing of Diabetic Foot and Pressure Ulcers: A Randomized Open-Label Controlled Clinical Trial. | Int J Low Extrem Wounds
+- new | 2023 | 37209466 | Systematic Review | Effectiveness of natural-based products for radiation-induced oral mucositis therapy: A systematic review. | Cancer Treat Res Commun
+- new | 2023 | 36812084 | Scoping Review | Topical Intervention of Natural Products Applied in Patients with Pressure Injuries: A Scoping Review. | Adv Skin Wound Care
+- HELD REF-1761 | 2021 | 33548748 | Randomized Controlled Trial | Clinical and phytochemical studies of Plantago major in pressure ulcer treatment: A randomized controlled trial. | Complement Ther Clin Pract
+- new | 2021 | 33854559 |  | The Efficacy of Plantago major Seed on Liver Enzymes in Nonalcoholic Fatty Liver Disease: A Randomized Double-Blind Clinical Trial. | Evid Based Complement Alternat Med
+- new | 2021 | 33430841 | Randomized Controlled Trial | Efficacy and safety of the syrup "KalobaTUSS®" as a treatment for cough in children: a randomized, double blind, placebo-controlled clinical trial. | BMC Pediatr
+- new | 2021 | 33502416 | Randomized Controlled Trial | The effect of Plantago major supplementation on leptin and VEGF-A serum levels, endothelial dysfunction and angiogenesis in obese women - a randomised trial. | Food Funct
+- new | 2021 | 34265576 | Randomized Controlled Trial | Efficacy of Plantago major seed in management of ulcerative colitis symptoms: A randomized, placebo controlled, clinical trial. | Complement Ther Clin Pract
+- new | 2020 | 32507421 | Randomized Controlled Trial | Efficacy of the plantago major L. syrup on radiation induced oral mucositis in head and neck cancer patients: A randomized, double blind, placebo-controlled clinical trial. | Complement Ther Med
+- new | 2020 | 32204715 | Historical Article/Review | Historical ethnobotanical review of medicinal plants used to treat children diseases in Romania (1860s-1970s). | J Ethnobiol Ethnomed
+- new | 2020 | 31486196 | Randomized Controlled Trial | The effect of plantain syrup on heavy menstrual bleeding: A randomized triple blind clinical trial. | Phytother Res
+- new | 2019 | 29336265 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy of Aloe vera/ Plantago Major Gel in Diabetic Foot Ulcer: A Randomized Double-Blind Clinical Trial. | Curr Drug Discov Technol
+- HELD REF-1762 | 2018 | 29353631 | Clinical Trial, Phase III/Comparative Study/Randomized Controlled Trial | Efficacy of Plantago major, chlorhexidine 0.12% and sodium bicarbonate 5% solution in the treatment of oral mucositis in cancer patients with solid tumour: A feasibility randomised | Eur J Oncol Nurs
+- new | 1992 | 1434681 | Clinical Trial/Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Studies on the individual and combined diuretic effects of four Vietnamese traditional herbal remedies (Zea mays, Imperata cylindrica, Plantago major and Orthosiphon stamineus). | J Ethnopharmacol
+
+### PubMed SR - 11 hits, 7 not already listed above, 5 new
+- new | 2026 | 42488837 | Review | Plantago mechanisms for enhanced wound healing: A review on bioactive phytoconstituents. | Chin Herb Med
+- new | 2023 | 37314054 | Systematic Review | Update on the treatment of chemotherapy and radiotherapy-induced buccal mucositis: a systematic review. | Acta Odontol Latinoam
+- new | 2023 | 37153928 | Review | Role of Medicinal Herbs in Periodontal Therapy: A Systematic Review. | J Int Soc Prev Community Dent
+- new | 2023 | 37388781 |  | Acknowledging the use of botanicals to treat diabetic foot ulcer during the 21(st) century: A systematic review. | World J Clin Cases
+- HELD REF-1759 | 2021 | 33448940 | Systematic Review | The Effect of Plantago major on Wound Healing in Preclinical Studies: A Systematic Review. | Wound Manag Prev
+- new | 2021 | 33049342 | Systematic Review | A systematic review on the ethnoveterinary uses of mediterranean salt-tolerant plants: Exploring its potential use as fodder, nutraceuticals or phytotherapeutics in ruminant produc | J Ethnopharmacol
+- HELD REF-3007 | 2019 | 31870431 |  | A protocol for systematic review of Plantago major L. effectiveness in accelerating wound-healing in animal models. | Syst Rev
+
+### PubMed SAFE - 39 hits, 31 not already listed above, 28 new
+- new | 2026 | 41538511 | Research Support, Non-U.S. Gov't | Antimicrobial effect of plantago major extract against streptococcus mutans in dental caries formation. | Braz Dent J
+- new | 2026 | 40601286 |  | Assessment of Trace and Macro Elements in Medicinal Plants: Implications for Safety and Phytoremediation. | Biol Trace Elem Res
+- new | 2026 | 41055220 |  | Enhancing deltamethrin phytoremediation and its metabolism in polluted soil through the interaction of Plantago major and different agents: toxicokinetic study, biochemical analysi | Int J Phytoremediation
+- new | 2026 | 41925973 |  | Efficacy and safety of Moroccan and Turkish essential oils against Varroa destructor: varroacidal potency, locomotor activity impact, and mechanistic insights via molecular docking | Exp Appl Acarol
+- new | 2026 | 42375984 | Research Support, Non-U.S. Gov't | The laxative efficacy of a mixed extract of Cassia alata with Plantago major in rats. | Open Vet J
+- new | 2025 | 40807461 | Review | Medicinal Plants for Skin Disorders: Phytochemistry and Pharmacological Insights. | Molecules
+- new | 2025 | 40068925 |  | Anticancer effects of Plantago major extract on colorectal and gastric cancer cell lines: an in vitro study and molecular docking analysis. | J Complement Integr Med
+- HELD REF-3011 | 2023 | 37631007 | Review | Antimicrobial and Other Biomedical Properties of Extracts from Plantago major, Plantaginaceae. | Pharmaceuticals (Basel)
+- new | 2021 | 32954451 |  | Transcriptome analysis of Plantago major as a phytoremediator to identify some genes related to cypermethrin detoxification. | Environ Sci Pollut Res Int
+- new | 2020 | 33308280 |  | Extracts of medicinal plants with natural deep eutectic solvents: enhanced antimicrobial activity and low genotoxicity. | BMC Chem
+- new | 2020 | 32653933 |  | Comparative study of antimicrobial activity between some medicine plants and recombinant Lactoferrin peptide against some pathogens of cultivated button mushroom. | Arch Microbiol
+- HELD REF-5479 | 2019 | 30585511 |  | Phytodermatitis in East and southeast of Turkey: A prospective study. | Cutan Ocul Toxicol
+- new | 2018 | 28942136 | Review | Traditional wound-healing plants used in the Balkan region (Southeast Europe). | J Ethnopharmacol
+- new | 2018 | 29507272 | Comparative Study | Protection Against Doxorubicin-induced Nephropathy by Plantago major in Rat. | Iran J Kidney Dis
+- new | 2017 | 32454617 |  | Cytotoxic Activities of Certain Medicinal Plants on Different Cancer Cell Lines. | Turk J Pharm Sci
+- new | 2015 | 28255395 |  | The investigation of antibacterial activity of selected native plants from North of Iran. | J Med Life
+- new | 2015 | 26300946 |  | Anti-Inflammatory Property of Plantago major Leaf Extract Reduces the Inflammatory Reaction in Experimental Acetaminophen-Induced Liver Injury. | Evid Based Complement Alternat Med
+- new | 2012 | 21996710 | Research Support, Non-U.S. Gov't | The effect of Plantago major Linnaeus on serum total sialic acid, lipid-bound sialic acid, some trace elements and minerals after administration of 7,12-dimethylbenz(a)anthracene i | Toxicol Ind Health
+- new | 2012 | 23354396 | Research Support, Non-U.S. Gov't | Evaluation of healing wound and genotoxicity potentials from extracts hydroalcoholic of Plantago major and Siparuna guianensis. | Exp Biol Med (Maywood)
+- new | 2012 | 22775221 | Research Support, Non-U.S. Gov't | Hydroxyl scavenging activity accounts for differential antioxidant protection of Plantago major against oxidative toxicity in isolated rat liver mitochondria. | J Pharm Pharmacol
+- HELD REF-1764 | 2009 | 20442819 |  | Hepatoprotective and anti-inflammatory activities of Plantago major L. | Indian J Pharmacol
+- new | 2009 | 19338603 | Case Reports | Acute irritant contact dermatitis caused by Plantago major. | Contact Dermatitis
+- new | 2005 | 15612001 | Research Support, Non-U.S. Gov't | Genotoxicity testing of Plantago major extracts in somatic cells of Drosophila melanogaster. | Environ Mol Mutagen
+- new | 2003 | 15162770 |  | [Sub-chronic toxicity and test of eye irritability of leaf aqueous extract from Plantago major (plantaginaceae)]. | Rev Biol Trop [spa]
+- new | 2001 | 11695884 | Comparative Study | Comparative study of the assay of Artemia salina L. and the estimate of the medium lethal dose (LD50 value) in mice, to determine oral acute toxicity of plant extracts. | Phytomedicine
+- new | 2000 | 33862931 | Review | Tansley Review No. 115: Impact of ozone on the reproductive development of plants. | New Phytol
+- new | 1996 | 8771452 |  | Screening of medicinal plants for induction of somatic segregation activity in Aspergillus nidulans. | J Ethnopharmacol
+- new | 1996 | 8875742 |  | An investigation of some Turkish herbal medicines in Salmonella typhimurium and in the COMET assay in human lymphocytes. | Teratog Carcinog Mutagen
+- new | 1994 | 8000426 | Research Support, Non-U.S. Gov't | A phloem-specific sucrose-H+ symporter from Plantago major L. supports the model of apoplastic phloem loading. | Plant J
+- new | 1989 | 2806533 |  | [Inhibiting effect of the polyphenolic complex from Plantago major (plantastine) on the carcinogenic effect of endogenously synthesized nitrosodimethylamine]. | Farmakol Toksikol [rus]
+- new | 1984 | 16663710 |  | Inhibition and stimulation of root respiration in pisum and plantago by hydroxamate : its consequences for the assessment of alternative path activity. | Plant Physiol
+
+### PubMed OBS - 4 hits, 3 not already listed above, 3 new
+- new | 2025 | 40043967 |  | Development and characterization of Plantago major L. seeds mucilage - polyvinyl alcohol nano-biocomposite films incorporating Satureja sahendica Bornm. essential oil nanoemulsion  | Int J Biol Macromol
+- new | 2022 | 35966146 |  | Therapeutic Efficacy of Great Plantain (Plantago major L.) in the Treatment of Second-Degree Burn Wounds: A Case-Control Study. | Int J Clin Pract
+- new | 2021 | 34143715 | Review | Plantago spp. as Models for Studying the Ecology and Evolution of Species Interactions across Environmental Gradients. | Am Nat
+
+### PubMed REV - 21 hits, 10 not already listed above, 6 new
+- new | 2025 | 40663154 | Review | The therapeutic effects of Plantago major and its main constituents on respiratory diseases: a narrative review. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2022 | 35865952 | Review | Medicinal Plants Used Traditionally for Skin Related Problems in the South Balkan and East Mediterranean Region-A Review. | Front Pharmacol
+- new | 2022 | 36013466 | Review | A Review with Updated Perspectives on the Antiviral Potentials of Traditional Medicinal Plants and Their Prospects in Antiviral Therapy. | Life (Basel)
+- new | 2019 | 30772483 | Review | Do recent research studies validate the medicinal plants used in British Columbia, Canada for pet diseases and wild animals taken into temporary care? | J Ethnopharmacol
+- HELD REF-1758 | 2018 | 29629064 | Review | Plantago major in Traditional Persian Medicine and modern phytotherapy: a narrative review. | Electron Physician
+- HELD REF-0354 | 2017 | 29028587 | Review | Chemical constituents and medical benefits of Plantago major. | Biomed Pharmacother
+- HELD REF-2994 | 2014 | 25280022 | Editorial/Review | Review on medicinal uses, pharmacological, phytochemistry and immunomodulatory activity of plants. | Int J Immunopathol Pharmacol
+- new | 2010 | 20857519 | Editorial/Review | A review of the efficacy of traditional Iranian medicine for inflammatory bowel disease. | World J Gastroenterol
+- HELD REF-0364 | 2000 | 10904143 | Review | The traditional uses, chemical constituents and biological activities of Plantago major L. A review. | J Ethnopharmacol
+- new | 2000 | 33862909 | Review | Patterns of molecular genetic variation in Plantago major and P. intermedia in relation to ozone resistance. | New Phytol
+
+### ClinicalTrials.gov - 2 registered studies
+- NCT06684626 | COMPLETED | results=False | PHASE3 | The Role of Butirprost® in Combination With Antibiotics in Chronic Bacterial Prostatitis (CBP) Treatment | conds: Prostate Inflammation, Prostate Disease, Chronic Bacterial Prostatitis | intr: Sodium Hyaluronate, Levofloxacin 500mg
+- NCT03439540 | COMPLETED | results=False | NA | Influence of Plantago Major on Mineral Metabolism and Selected Biochemical Parameters in Obese Women | conds: Obesity | intr: Plantago major, Placebo
+
+### OpenAlex no-PMID trial-worded - 1052 hits, 45 without PMID, 44 new
+- new | 2026 | 10.33545/26164485.2026.v10.i4.a.2560 | article | Efficacy of plantago major mother tincture in aqueous solution for the management of gingivitis: A pilot study | International Journal of Homoeopathic Sc
+- new | 2026 | 10.1038/s41598-026-62811-w | article | The effect of Zataria multiflora mouthwash on the severity of chemotherapy-induced oral mucositis: a randomized controlled clinical trial | Scientific Reports
+- new | 2026 | 10.52973/rcfcv-e3631007 | article | An investigation of the effects of Plantago major on the cecal microflora and histology of rats administered alcohol | Revista Científica de la Facultad de Cie
+- new | 2024 | 10.25163/angiotherapy.829362 | article | A Double-blind, Randomized Clinical Trial Study of Plantago major l. Syrup on Menorrhagia | Journal of Angiotherapy
+- new | 2024 | 10.4103/jiaphd.jiaphd_63_24 | article | Efficacy of Plantago major Homoeopathic Mother Tincture as Mouth Wash in Comparison with Chlorhexidine Gluconate (0.2%) Mouthwash in Management of Oral Hygiene among Students: A Do | Journal of Indian Association of Public 
+- new | 2024 | 10.59324/ejmhr.2024.2(3).12 | article | Plantago major as a Beneficial Medicinal Plant | European Journal of Medical and Health R
+- new | 2024 | 10.5812/jnms-148547 | article | The Effect of Aloe Vera and Honey Dressings on Preventing Pressure Injuries in High-Risk Elderly ICU Patients: A Randomized Clinical Trial | Journal of Nursing and Midwifery Science
+- new | 2024 | 10.37988/1811-153x_2024_1_12 | article | The effectiveness of the Mucosept for the treatment of radiotherapy-induced oral mucositis in head and neck cancer patients: A multicenter randomized controlled trial | Clinical Dentistry (Russia)
+- new | 2023 | 10.1016/j.eujim.2023.102284 | article | Efficacy of Plantago major leaf extract cream compared to placebo in preventing acute radiodermatitis in breast cancer patients: A randomized clinical trial | European Journal of Integrative Medicine
+- new | 2023 | 10.48048/tis.2023.6331 | article | Evaluation of The Hepatoprotective Effect of Plantago major Extract in A Rifampicin-Isoniazid Induced Hepatitis Rat Model | Trends in Sciences
+- new | 2023 | https://openalex.org/W7113537090 | review | Efficacy of natural products on oral mucositis caused by cancer treatment: A network meta-analysis of randomized controlled trials | Taipei Medical University Repository
+- new | 2022 | 10.22038/ijogi.2022.21139 | article | The Effect of Medicinal Plants on Gynecological and Obstetric Hemorrhages: A Systematic Review of Clinical Trials | مجله زنان، مامایی و  نازایی ایران
+- new | 2022 | 10.22038/ijogi.2022.21369 | article | The effect of Plantago major cream on intensity of pain and episiotomy wound healing in nulliparous women | مجله زنان، مامایی و  نازایی ایران
+- new | 2022 | 10.31407/ijees12.302 | article | CONTROL OF PROTEINURIA IN PATIENTS WITH DIABETIC NEPHROPATHY ACCORDING TO TRADITIONAL PERSIAN MEDICINE, THE EFFECT OF PLANTAGO SEEDS: A LITERATURE REVIEW | International Journal of Ecosystems and 
+- new | 2022 | 10.53388/aging202204019 | article | Determining the effect of Plantago major L. and Rosa damascene herbal ointment for bedsore healing | Aging Communications
+- new | 2022 | 10.17582/journal.aavs/2022/10.7.1444.1450 | article | Comparative Effects of Phyllanthus niruri and Plantago major in Carbon Tetrachloride Intoxicated Rats | Advances in Animal and Veterinary Scienc
+- new | 2022 | 10.21608/scvmj.2022.249304 | article | Clinicobiochemical Effects of Phyllanthus niruri and Plantago major on CCl4 Intoxicated Rat Model | Suez Canal Veterinary Medicine Journal S
+- new | 2021 | 10.1016/j.hermed.2021.100526 | article | The effects of rectal suppositories of Plantago major and Anetheum Graveolens on postpartum hemorrhage: A randomized triple blinded clinical trial | Journal of Herbal Medicine
+- new | 2021 | 10.1016/j.sajce.2021.06.008 | article | Scale-up of green synthesis and characterization of silver nanoparticles using ethanol extract of Plantago major L. leaf and its antibacterial potential | South African Journal of Chemical Engine
+- new | 2021 | 10.1016/j.aimed.2021.03.001 | article | Therapeutic effect of Plantago major on active severe pancolitis: A case report | Advances in Integrative Medicine
+- new | 2020 | 10.1007/978-3-030-16807-0_150 | book-chapter | Plantago major L. (Plantaginaceae) | Springer eBooks
+- new | 2020 | 10.21475/ajcs.20.14.12.2968.pdf | article | The effects of paclobutrazol on enhancing tolerance of Plantago major L. to cadmium stress in vitro | Australian Journal of Crop Science
+- new | 2019 | 10.22038/ijogi.2019.13819 | article | The effect of plantago major rectal suppository on postpartum hemorrhage rate in women at the risk of bleeding: A single-blind clinical trial | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2019 | 10.1055/s-0039-1700532 | article | A Prospective Observational Study on the Therapeutic Effect of Plantago Major in Reducing Craving for Tobacco | Homœopathic Links
+- new | 2018 | 10.18821/1028-9984-2018-23-3-6-158-163 | article | THE EFFECT OF HERBAL MEDICINE ON THE IMMEDIATE INDICATORS OF HOMEOSTASIS IN PATIENTS WITH LOCALLY ADVANCED CERVICAL CANCER WHO RECEIVED SPECIAL TREATMENT | Russian Journal of Oncology
+- new | 2017 | 10.1136/archdischild-2017-313273.261 | conference-abstract | P173 Homeopathic treatment of children with painful teething: results of a randomised open controlled clinical trial | 
+- new | 2017 | https://openalex.org/W2970364039 | conference-paper | Wound healing activity of Plantago major extract on hyperglicaemic rat | Ubaya Repository (University of Surabaya
+- new | 2017 | 10.22034/ijsst.2017.113288 | article | دماهای کاردینال جوانهزنی بذر شش اکوتیپ بارهنگ کبیر(Plantago major) | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2017 | https://openalex.org/W2804009660 | dissertation | Efecto antinflamatorio del gel a base de Plantago major en pacientes con gingivitis | renati
+- new | 2016 | https://openalex.org/W2606452405 | review | A review study of pharmacological properties of plantago major l | Der pharma chemica
+- new | 2015 | 10.3126/ijls.v9i5.12708 | article | Comparison of the Plant Plantago Major and the Drug Colofac on Clinical Symptoms in IBS Patients | International Journal of Life Sciences
+- new | 2015 | 10.6084/m9.figshare.1556181 | dataset | Plantago Major distribution in YorkU grasslands | Figshare
+- new | 2015 | 10.6084/m9.figshare.1558047 | dataset | Quantitative Observation on Plantago major in Dandy Grasslands | Figshare
+- new | 2015 | 10.1016/j.apjtb.2015.06.013 | article | Plantago major treatment enhanced innate antioxidant activity in experimental acetaminophen toxicity | Asian Pacific Journal of Tropical Biomed
+- new | 2015 | 10.6084/m9.figshare.1558026 | dataset | The Abundance of Plantago major Plants and Density of Neighbouring Species at York University Grasslands | Figshare
+- new | 2015 | 10.6084/m9.figshare.1590995 | dataset | Crowdedness and Exposure to Sunlight Affecting the Size of Leaves of Plantago major Plants at York University | Figshare
+- new | 2015 | 10.22034/ijpp.2015.539647 | article | The Effect of Zinc excess on antioxidant enzymes, proline and soluble carbohydrates in Plantago major L. | PLANT PHYSIOLOGY
+- new | 2014 | https://openalex.org/W2183689627 | article | A Comparison of the Efficacy of Plantago major Aqueous Extract with Cetirizine in Treatment of Acute Urticaria: a Double-blind, Randomized Controlled Trial | European Journal of Experimental Biology
+- new | 2014 | 10.31661/gmj.v3i2.244 | article | A Hypothesis on the Possible Potential of Plantago Major in the Treatment of Urticaria | Galen Medical Journal
+- new | 2012 | 10.1016/j.scienta.2012.01.002 | article | Detection of genetic and phytochemical differences between and within populations of Plantago major L. (plantain) | Scientia Horticulturae
+- new | 2011 | 10.5897/jmpr.9000535 | article | Effects of Plantago major L. seeds extract on endurance exercise capacity in mice | Journal of Medicinal Plants Research
+- HELD REF-3004 | 2010 | 10.1080/09712119.2010.9707093 | article | Effect ofPlantago majoron Burn Wound Healing in Rat | Journal of Applied Animal Research
+- new | 1999 | 10.1046/j.1365-294x.1999.00665.x | article | Genetic structure and differentiation of Plantago major reveals a pair of sympatric sister species | Molecular Ecology
+- new | 1998 | 10.70151/y6tnxw57 | article | Efeitos do digluconato de clorexidina, Plantago major e placebo sobre placa dental e gengivite: Uma comparação clínica da eficácia de colutórios | Revista Brasileira de Plantas Medicinais
+- new | 1982 | 10.1139/b82-344 | article | Population variation in Plantago major from southern Ontario | Canadian Journal of Botany
+
+## pleurotus-ostreatus (Pleurotus ostreatus) - name clause: "Pleurotus ostreatus"[tiab] OR "oyster mushroom"[tiab] OR "oyster mushrooms"[tiab]
+
+### PubMed HT - 53 hits, 53 not already listed above, 49 new
+- new | 2026 | 42299921 | Randomized Controlled Trial | A randomised controlled study to investigate the cognitive, mood, metabolic and anti-inflammatory effects of chronic oyster mushroom intervention in healthy older adults. | Food Funct
+- new | 2026 | 42513910 |  | Improving Annatto Residue Bioconversion for Pleurotus ostreatus var. Florida Cultivation via Supplementation Strategies. | Microorganisms
+- new | 2026 | 42418131 |  | Solid-state fermentation of tropical agro-industrial wastes using Pleurotus ostreatus for fungal protein production. | AMB Express
+- new | 2026 | 42071226 |  | Effects of regular consumption of a β-glucan-rich oyster mushroom powder on cholesterol metabolism in adults with moderately elevated LDL-cholesterol concentrations: a double-blind | Nutr Metab (Lond)
+- new | 2026 | 42481117 |  | Synergistic bacterial co-inoculation boosts yield, physiology, and nutritional quality of king oyster mushroom (Pleurotuseryngii). | Fungal Biol
+- new | 2026 | 42329969 | Video-Audio Media/Research Support, Non-U.S. Gov't | Green CuO/ZnO Nanoparticles: Reducing AFB1 Translocation and Accumulation in Maize. | J Vis Exp
+- new | 2026 | 41251784 |  | Quantitative Screening of Vitamins, Minerals, and Proximate Compositions of the Elm Oyster Mushroom Hysizygus ulmarius (Agaricomycetes) Cultivated in Nigeria. | Int J Med Mushrooms
+- new | 2026 | 41416984 | Randomized Controlled Trial | A randomised controlled study to investigate the cognitive, mood, metabolic and anti-inflammatory effects of acute oyster mushroom intervention in healthy older adults. | Food Funct
+- new | 2025 | 40969753 |  | Gut mycobiota dysbiosis and systemic immune dysfunction in Chinese schizophrenia patients with metabolic syndrome. | Front Immunol
+- new | 2025 | 40021713 | Randomized Controlled Trial/Multicenter Study | Beneficial effects of pleuran on asthma control and respiratory tract-infection frequency in children with perennial asthma. | Sci Rep
+- new | 2025 | 41085920 | Randomized Controlled Trial/Multicenter Study | Novel Chewable Pleuran-Based Supplement Decreases Respiratory Tract Infections in Children: A Randomised Controlled Trial. | Adv Ther
+- new | 2025 | 40583417 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | GLP-1 Responses to a Single Meal Fortified With Oyster Mushroom Powder in Adults With Impaired Glucose Tolerance Depend on the Gut Microbiota Composition Before the Meal. | Mol Nutr Food Res
+- new | 2025 | 40160261 |  | Effect of a Pleuran-Based Supplement on Salivary IgA Secretion in Children With Recurrent Respiratory Infections. | Curr Ther Res Clin Exp
+- new | 2024 | 38317964 |  | Postharvest of fresh white shimeji mushroom subjected to UV-C radiation. | Heliyon
+- new | 2024 | 39123511 |  | Effects of Consuming White Button and Oyster Mushrooms within a Healthy Mediterranean-Style Dietary Pattern on Changes in Subjective Indexes of Brain Health or Cognitive Function i | Foods
+- new | 2024 | 38935369 | Research Support, Non-U.S. Gov't | Effect of Pleurotus ostreatus Water Extract Consumption on Blood Parameters and Cytokine Values in Healthy Volunteers. | J Am Nutr Assoc
+- new | 2024 | 38135005 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Consuming Mushrooms When Adopting a Healthy Mediterranean-Style Dietary Pattern Does Not Influence Short-Term Changes of Most Cardiometabolic Disease Risk Factors in Healthy Middle | J Nutr
+- new | 2023 | 37103576 |  | Reducing the learning curve of interlaminar full-endoscopic discectomy: mushroom model-simulation training. | Eur Spine J
+- new | 2023 | 37436252 |  | Possible effects of different types of agricultural wastes on food security and mushroom (Pleurotus ostreatus) production. | Braz J Biol
+- new | 2023 | 37636434 |  | Performance of oyster mushroom (Pleurotus ostreatus) on paddy straw, water hyacinth and their combinations. | Heliyon
+- new | 2023 | 36838379 |  | In Vitro Fermentation of Edible Mushrooms: Effects on Faecal Microbiota Characteristics of Autistic and Neurotypical Children. | Microorganisms
+- new | 2023 | 37256902 | Research Support, Non-U.S. Gov't | Production of 17 strains of edible mushroom grown on corn stover and its effect on the chemical composition and ruminal in vitro digestibility of the residual substrate. | PLoS One
+- new | 2022 | 35340439 |  | Evaluation of Oyster Mushroom (Pleurotus ostreatus) Production Using Water Hyacinth (Eichhornia crassipes) Biomass Supplemented with Agricultural Wastes. | Int J Food Sci
+- new | 2022 | 34505919 | Randomized Controlled Trial | Fortifying a meal with oyster mushroom powder beneficially affects postprandial glucagon-like peptide-1, non-esterified free fatty acids and hunger sensation in adults with impaire | Eur J Nutr
+- HELD REF-2596 | 2022 | 34784798 | Research Support, Non-U.S. Gov't | Immunomodulation with β-glucan from Pleurotus ostreatus in patients with endocrine-dependent breast cancer. | Immunotherapy
+- new | 2022 | 36004709 | Randomized Controlled Trial | Dietary Supplementation with Oyster Culinary-Medicinal Mushroom, Pleurotus ostreatus (Agaricomycetes), Reduces Visceral Fat and Hyperlipidemia in Inhabitants of a Rural Community i | Int J Med Mushrooms
+- new | 2022 | 36324817 |  | Beta-(1,3/1,6)-D-glucan from Pleurotus ostreatus in the prevention of recurrent respiratory tract infections: An international, multicentre, open-label, prospective study. | Front Pediatr
+- new | 2022 | 35702293 |  | Influence of substrate formulation on some morphometric characters and biological efficiency of Pleurotus ostreatus EM-1 (Ex. Fr) Kummer grown on rice wastes and "wawa" (Triplochit | Food Sci Nutr
+- new | 2022 | 36351926 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Primordial initiation, yield and yield component traits of two genotypes of oyster mushroom (Pleurotus spp.) as affected by various rates of lime. | Sci Rep
+- HELD REF-1496 | 2021 | 33276307 | Review | Mushrooms and immunity. | J Autoimmun
+- new | 2021 | 33876798 | Systematic Review | Effects of fungal beta-glucans on health - a systematic review of randomized controlled trials. | Food Funct
+- new | 2021 | 33521800 |  | Fermentation of Pleurotus ostreatus and Ganoderma lucidum mushrooms and their extracts by the gut microbiota of healthy and osteopenic women: potential prebiotic effect and impact  | Food Funct
+- new | 2021 | 34559813 |  | Combined effect of olive pruning residues and spent coffee grounds on Pleurotus ostreatus production, composition, and nutritional value. | PLoS One
+- new | 2020 | 32916239 |  | Effect of Pleurotus ostreatus and Trametes versicolor on triclosan biodegradation and activity of laccase and manganese peroxidase enzymes. | Microb Pathog
+- new | 2020 | 32759726 |  | Genoprotective Properties and Metabolites of β-Glucan-Rich Edible Mushrooms Following Their In Vitro Fermentation by Human Faecal Microbiota. | Molecules
+- new | 2020 | 31944082 |  | Effect of Different Culture Media, Grain Sources and Alternate Substrates on the Mycelial Growth of Pleurotus eryngii and Pleurotus ostreatus. | Pak J Biol Sci
+- new | 2020 | 32419831 |  | Efficacy of Pleuran (β-Glucan from Pleurotus ostreatus) in the Management of Herpes Simplex Virus Type 1 Infection. | Evid Based Complement Alternat Med
+- new | 2020 | 32570735 | Clinical Trial | Effects of Rich in Β-Glucans Edible Mushrooms on Aging Gut Microbiota Characteristics: An In Vitro Study. | Molecules
+- new | 2017 | 29362614 |  | Effects of Pleuran (Β-Glucan from Pleurotus Ostreatus) Supplementation on Incidence and Duration of COPD Exacerbations. | Open Access Maced J Med Sci
+- new | 2016 | 26654776 | Clinical Trial/Multicenter Study | β-Glucan-based cream (containing pleuran isolated from pleurotus ostreatus) in supportive treatment of mild-to-moderate atopic dermatitis. | J Dermatolog Treat
+- new | 2016 | 27774430 |  | Enhancement of the Th1-phenotype immune system by the intake of Oyster mushroom (Tamogitake) extract in a double-blind, placebo-controlled study. | J Tradit Complement Med
+- new | 2015 | 25382404 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Hypoglycaemic activity of culinary Pleurotus ostreatus and P. cystidiosus mushrooms in healthy volunteers and type 2 diabetic patients on diet control and the possible mechanisms o | Phytother Res
+- new | 2014 | 24356469 | Comparative Study/Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S. | Comparison of the interleukin-1β-inducing potency of allergenic spores from higher fungi (basidiomycetes) in a cryopreserved human whole blood system. | Int Arch Allergy Immunol
+- new | 2014 | 23744488 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Anti-allergic effect of Pleuran (β-glucan from Pleurotus ostreatus) in children with recurrent respiratory tract infections. | Phytother Res
+- HELD REF-3401 | 2013 | 23261366 | Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Immunomodulatory effect of pleuran (β-glucan from Pleurotus ostreatus) in children with recurrent respiratory tract infections. | Int Immunopharmacol
+- new | 2011 | 21831304 | Clinical Trial, Phase I/Clinical Trial, Phase II/Research Support, N.I.H., Extramural | Antihyperlipidemic effects of Pleurotus ostreatus (oyster mushrooms) in HIV-infected individuals taking antiretroviral therapy. | BMC Complement Altern Med
+- HELD REF-3400 | 2011 | 21249381 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Pleuran (β-glucan from Pleurotus ostreatus) supplementation, cellular immune response and respiratory tract infections in athletes. | Eur J Appl Physiol
+- new | 2010 | 21164546 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of Pleuran (β-glucan from Pleurotus ostreatus) supplementation on cellular immune response after intensive exercise in elite athletes. | Appl Physiol Nutr Metab
+- new | 2009 | 19409775 | Research Support, Non-U.S. Gov't | Spent mushroom substrates as component of growing media for germination and growth of horticultural plants. | Bioresour Technol
+- new | 2008 | 19260229 | Research Support, Non-U.S. Gov't | Pilot study of bioaccumulation and distribution of cesium, potassium, sodium and calcium in king oyster mushroom (Pleurotus eryngii) grown under controlled conditions. | Int J Phytoremediation
+- new | 2007 | 19090170 |  | Effect of substrate quantity and shelf position on yield of oyster mushroom (Pleurotus sajor caju). | Pak J Biol Sci
+- new | 2007 | 19070114 | Research Support, Non-U.S. Gov't | The effect of Pleurotus spp. fungi on chemical composition and in vitro digestibility of rice straw. | Pak J Biol Sci
+- new | 2004 | 15157092 | Research Support, Non-U.S. Gov't | Key elements for protein foldability revealed by a combinatorial approach among similarly folded but distantly related proteins. | Biochemistry
+
+### PubMed SR - 4 hits, 3 not already listed above, 1 new
+- HELD REF-2598 | 2023 | 37373268 | Review | Anti-Cancer Potential of Edible/Medicinal Mushrooms in Breast Cancer. | Int J Mol Sci
+- new | 2023 | 36904079 | Systematic Review | An Assessment of Mushroom Consumption on Cardiometabolic Disease Risk Factors and Morbidities in Humans: A Systematic Review. | Nutrients
+- HELD REF-3399 | 2020 | 32316680 | Systematic Review | Effect of the Intake of Oyster Mushrooms (Pleurotus ostreatus) on Cardiometabolic Parameters-A Systematic Review of Clinical Trials. | Nutrients
+
+### PubMed SAFE - 180 hits, 168 not already listed above, 166 new
+- new | 2026 | 42083015 |  | Pleurotus ostreatus L-asparaginase's use in food safety and biotechnology: from processing assistance to bioactive agent. | Microb Cell Fact
+- new | 2026 | 42651909 |  | The Effects of Oyster Mushroom Stem Waste Dietary Supplementation on Growth Performance, Meat Quality Parameters, and Antioxidant Capacity in Lambs. | Animals (Basel)
+- new | 2026 | 42043773 |  | Bioaccumulation and nutritional impact of fluoride in Pleurotus ostreatus and Pleurotus djamor with human health risk assessment. | Biometals
+- new | 2026 | 43035972 |  | De novo transcriptome and immunoinformatic analyses identify putative allergen-associated proteins in Oyster mushrooms. | J Sci Food Agric
+- new | 2026 | 42438778 |  | Integrated in silico pharmacology of Pleurotus ostreatus-derived bioactive compounds targeting EGFR using network pharmacology and molecular. | In Silico Pharmacol
+- new | 2026 | 42636662 |  | A P450-mediated trade-off: Terpenoid metabolism comes at the cost of pest resistance in Pleurotus ostreatus. | Microbiol Res
+- new | 2026 | 42386149 |  | Occupational respiratory allergy caused by oyster mushroom (Pleurotusostreatus). | J Allergy Clin Immunol Pract
+- new | 2025 | 40581949 |  | Optimization and Hepatoprotective Potential of Sulfated Polysaccharide From Pleurotus ostreatus. | Chem Biodivers
+- new | 2025 | 40508113 | Review | Medicinal Mushrooms in Colon Cancer Therapy: Mechanisms of Action of Bioactive Compounds and Therapeutic Potential. | Int J Mol Sci
+- new | 2025 | 40159754 |  | In silico identification and structural insight of allergens in Pleurotus ostreatus. | J Sci Food Agric
+- new | 2025 | 40676268 |  | Bioremediation of methotrexate by Pleurotus ostreatus pellets: effects on morphology and biotransformation insights. | Biodegradation
+- new | 2025 | 41507491 |  | The Effect of β-D-Glucans of Pleurotus ostreatus (Oyster Mushroom) on the Development of Myelosuppression and Colitis Induced by 5-Fluorouracil in Mice. | Bull Exp Biol Med
+- new | 2025 | 40704812 |  | Discovery and Characterization of Two Novel Sesquiterpene Synthases Producing Pleostene in Oyster and Honey Mushrooms. | J Agric Food Chem
+- new | 2025 | 41003502 |  | Biocatalytic Detoxification of Ochratoxins A/B by a Fungal Dye-Decolorizing Peroxidase: Mechanistic Insights and Toxicity Assessment. | Toxins (Basel)
+- new | 2025 | 41109020 | Research Support, Non-U.S. Gov't | Integrated enzymatic, transcriptomic, and metabolite identification insights into the degradation of diverse endocrine-disrupting compounds by Pleurotus ostreatus GEMB-PO1. | J Hazard Mater
+- new | 2025 | 39852363 |  | In Vivo Effectiveness of Pleurotus ostreatus in Degradation of Toxic Metabolites of Filamentous Fungi Such as Aflatoxin B1 and Zearalenone. | Metabolites
+- new | 2025 | 39906062 |  | Molecular Docking Appraisal of Pleurotus ostreatus Phytochemicals as Potential Inhibitors of PI3K/Akt Pathway for Breast Cancer Treatment. | Bioinform Biol Insights
+- new | 2025 | 41353445 |  | Exploring natural AMPK activators from bioactive compounds in fenugreek and oyster mushroom for management of type 2 diabetes. | Sci Rep
+- new | 2024 | 39265738 |  | Laccase surface-display for environmental tetracycline removal: From structure to function. | Chemosphere
+- new | 2024 | 39678632 | Review | Role of white rot fungi in sustainable remediation of heavy metals from the contaminated environment. | Mycology
+- new | 2024 | 39429921 |  | GastronOmics: Edibility and safety of mycelium of the oyster mushroom Pleurotus ostreatus. | Curr Res Food Sci
+- new | 2024 | 38440672 |  | Microbiological quality and safety of fresh mushroom products at retail level in Korea. | Food Sci Biotechnol
+- new | 2024 | 39828361 |  | [Elucidation of Coloring Molecule Using a Simple Identification Method with a Color Reaction for Omphalotus japonicus]. | Shokuhin Eiseigaku Zasshi [jpn]
+- new | 2024 | 37952667 |  | Effective degradation of zearalenone by dye-decolorizing peroxidases from Pleurotus ostreatus and its metabolic pathway and toxicity analysis. | Sci Total Environ
+- new | 2024 | 38676752 |  | Biodegradation of Trichloroethylene by Trametes versicolor and its Physiological Response to Contaminant Stress. | Bull Environ Contam Toxicol
+- new | 2024 | 39032890 | Review | Is Laccase derived from Pleurotus ostreatus effective in microplastic degradation? A critical review of current progress, challenges, and future prospects. | Int J Biol Macromol
+- new | 2024 | 38794150 |  | (1)H-NMR Metabolomic Study of the Mushroom Pleurotus djamor for the Identification of Nematocidal Compounds. | Pharmaceuticals (Basel)
+- new | 2024 | 39057469 |  | Development and Characterization of Hybrid Meat Analogs from Whey Protein-Mushroom Composite Hydrogels. | Gels
+- new | 2024 | 38962136 |  | Contrasting effects of NADPH oxidases on the fungal hyphae growth and immune responses in Pleurotus ostreatus. | Front Microbiol
+- new | 2024 | 38421692 |  | Crude Polysaccharides from Mushrooms Elicit an Anti-Allergic Effect Against Type 1 Allergy In Vitro. | Int J Med Mushrooms
+- new | 2024 | 39137875 |  | Laccase mediated transformation of fluoroquinolone antibiotics: Analyzing degradation pathways and assessing algal toxicity. | Environ Pollut
+- new | 2024 | 39326745 |  | Removal of the cytostatic drugs bleomycin and vincristine by white-rot fungi under various conditions, and determination of enzymes involved, degradation by-products, and toxicity. | Sci Total Environ
+- new | 2024 | 39131188 |  | In silico evaluation of potential breast cancer receptor antagonists from GC-MS and HPLC identified compounds in Pleurotus ostreatus extracts. | RSC Adv
+- new | 2024 | 39340970 |  | The influence of dietary supplementation with oyster mushroom waste on laying hens' performance, egg quality and immune parameters. | Poult Sci
+- new | 2024 | 39384289 |  | Green mould contamination of Pleurotus pulmonarius cultivation in Malaysia: Unravelling causal agents and water source as critical factors. | Fungal Biol
+- new | 2024 | 37700682 |  | Assessment of redox homeostasis via genotoxicity, cytotoxicity, apoptosis and NRF-2 in colorectal cancer cell lines after treatment with Ganoderma lucidum extract. | Drug Chem Toxicol
+- new | 2023 | 38203637 | Review | Statins-From Fungi to Pharmacy. | Int J Mol Sci
+- new | 2023 | 37866166 |  | Assessing the toxicity of aegerolysin-based bioinsecticidal complexes using the sea urchin Paracentrotus lividus as model organism. | Aquat Toxicol
+- new | 2023 | 37780800 | Case Reports | Trehalose phosphorylase as a novel potential allergen in a case of allergic reaction due to oyster mushroom (Pleurotus ostreatus) ingestion. | J Allergy Clin Immunol Glob
+- new | 2023 | 37107359 |  | Developments of Plant-Based Emulsion-Type Sausage by Using Grey Oyster Mushrooms and Chickpeas. | Foods
+- new | 2023 | 36651878 |  | Cauliflower-shaped Pleurotus ostreatus cultivated in an atmosphere with high environmental carbon dioxide concentration. | Mycologia
+- new | 2023 | 37153916 |  | Lead detoxification of edible fungi Auricularia auricula and Pleurotus ostreatus: the purification of the chelation substances and their effects on rats. | Front Nutr
+- new | 2023 | 36668885 | Research Support, Non-U.S. Gov't | Inhibition of Tolaasin Cytotoxicity Causing Brown Blotch Disease in Cultivated Mushrooms Using Tolaasin Inhibitory Factors. | Toxins (Basel)
+- new | 2022 | 35278969 | Research Support, Non-U.S. Gov't | Toxicity evaluation of decabromodiphenyl ethane (DBDPE) to Pleurotus ostreatus: Oxidative stress, morphology and transcriptomics. | J Hazard Mater
+- new | 2022 | 36155225 |  | Integration of transcriptomic and proteomic reveals the toxicological molecular mechanisms of decabromodiphenyl ethane (DBDPE) on Pleurotus ostreatus. | Environ Pollut
+- new | 2022 | 35270364 | Research Support, Non-U.S. Gov't | Fluoxetine Removal from Aqueous Solutions Using a Lignocellulosic Substrate Colonized by the White-Rot Fungus Pleurotus ostreatus. | Int J Environ Res Public Health
+- new | 2021 | 34208927 | Research Support, Non-U.S. Gov't | Effects of Bioinsecticidal Aegerolysin-Based Cytolytic Complexes on Non-Target Organisms. | Toxins (Basel)
+- new | 2021 | 34738014 |  | Immobilization of Antibodies by Genetic Fusion to a Fungal Self-Assembling Adhesive Protein. | Front Mol Biosci
+- new | 2021 | 33630827 | Case Reports | A case of anaphylactic reaction following oyster mushroom (Pleurotus ostreatus) inhalation. | Int J Occup Med Environ Health
+- HELD REF-1498 | 2021 | 34022311 | Review | Promising anticancer activity of polysaccharides and other macromolecules derived from oyster mushroom (Pleurotus sp.): An updated review. | Int J Biol Macromol
+- new | 2021 | 32798284 | Research Support, Non-U.S. Gov't | Comparative secretome of white-rot fungi reveals co-regulated carbohydrate-active enzymes associated with selective ligninolysis of ramie stalks. | Microb Biotechnol
+- new | 2021 | 33850658 |  | Ligninolytic activity of the Penicillium chrysogenum and Pleurotus ostreatus fungi involved in the biotransformation of synthetic multi-walled carbon nanotubes modify its toxicity. | PeerJ
+- new | 2021 | 33962296 | Review | A crucial review on polycyclic aromatic Hydrocarbons - Environmental occurrence and strategies for microbial degradation. | Chemosphere
+- new | 2021 | 33918846 |  | Microbiological Safety and Sensory Quality of Cultivated Mushrooms (Pleurotus eryngii, Pleurotus ostreatus and Lentinula edodes) at Retail Level and Post-Retail Storage. | Foods
+- new | 2021 | 34855004 |  | Anti-tumor effect of polysaccharide from Pleurotus ostreatus on H22 mouse Hepatoma ascites in-vivo and hepatocellular carcinoma in-vitro model. | AMB Express
+- new | 2021 | 36605716 |  | Relative profiling of L-tryptophan derivatives from selected edible mushrooms as psychoactive nutraceuticals to inhibit P-glycoprotein: a paradigm to contest blood-brain barrier. | BioTechnologia (Pozn)
+- new | 2021 | 33025433 |  | An assessment of Pleurotus ostreatus to remove sulfonamides, and its role as a biofilter based on its own spent mushroom substrate. | Environ Sci Pollut Res Int
+- new | 2021 | 33394203 |  | Pink oyster mushroom Pleurotus flabellatus mycelium produced by an airlift bioreactor-the evidence of potent in vitro biological activities. | World J Microbiol Biotechnol
+- new | 2021 | 33957313 | Research Support, Non-U.S. Gov't | Tandem mass tag-based proteomics for studying the effects of a biotechnologically produced oyster mushroom against hepatic steatosis in obese Zucker rats. | J Proteomics
+- new | 2020 | 32428092 |  | Nephroprotective effect of Pleurotus ostreatus extract against cadmium chloride toxicity in rats. | An Acad Bras Cienc
+- new | 2020 | 33241128 |  | Exopolysaccharide-peptide complex from oyster mushroom (Pleurotus ostreatus) protects against hepatotoxicity in rats. | Biochem Biophys Rep
+- new | 2020 | 32565302 |  | Structural characterization of phosphorylated Pleurotus ostreatus polysaccharide and its hepatoprotective effect on carbon tetrachloride-induced liver injury in mice. | Int J Biol Macromol
+- new | 2020 | 32479004 |  | Antioxidant and Genotoxic Effects of Aqueous and Methanol Extracts from Two Edible Mushrooms from Turkey in Human Peripheral Lymphocytes. | Int J Med Mushrooms
+- new | 2020 | 32960618 |  | In-vivo assessment of the protection of β-glucans of Pleurotus ostreatus against oxidative stress caused by acrylamide intake (part II). | Nutr Hosp
+- new | 2020 | 31820379 |  | Anthraquinone from Edible Fungi Pleurotus ostreatus Protects Human SH-SY5Y Neuroblastoma Cells Against 6-Hydroxydopamine-Induced Cell Death-Preclinical Validation of Gene Knockout  | Appl Biochem Biotechnol
+- new | 2020 | 32621000 |  | Identification of Cyt2Ba from a New Strain of Bacillus thuringiensis and Its Toxicity in Bradysia difformis. | Curr Microbiol
+- new | 2020 | 32222923 |  | Experimental simulation of somatic and germ cell genotoxicity in male Mus musculus fed extracts of lead contaminated Pleurotus ostreatus (white rot fungi). | Environ Sci Pollut Res Int
+- new | 2020 | 32686446 |  | In vivo assessment of the protection conferred by β-glucans from Pleurotus ostreatus against the harmful effects of acrylamide intake (Part I). | Nutr Hosp
+- new | 2019 | 30708004 |  | Characterization and anti-hyperlipidemia effects of enzymatic residue polysaccharides from Pleurotus ostreatus. | Int J Biol Macromol
+- new | 2019 | 30986440 |  | Food flavonoid ligand structure/estrogen receptor-α affinity relationships - toxicity or food functionality? | Food Chem Toxicol
+- new | 2019 | 30359899 |  | Carbaryl biodegradation by Xylaria sp. BNL1 and its metabolic pathway. | Ecotoxicol Environ Saf
+- new | 2019 | 30922966 |  | Mushroom ethanolic extracts as cosmeceuticals ingredients: Safety and ex vivo skin permeation studies. | Food Chem Toxicol
+- new | 2019 | 30851331 |  | The hepatoprotective effect of polysaccharides from Pleurotus ostreatus on carbon tetrachloride-induced acute liver injury rats. | Int J Biol Macromol
+- new | 2019 | 30875503 |  | Removal and tolerance mechanism of Pb by a filamentous fungus: A case study. | Chemosphere
+- new | 2019 | 31293538 |  | Aflatoxin B(1)-Adsorbing Capability of Pleurotus eryngii Mycelium: Efficiency and Modeling of the Process. | Front Microbiol
+- new | 2019 | 31152927 |  | An edible fungi Pleurotus ostreatus inhibits adipogenesis via suppressing expression of PPAR γ and C/EBP α in 3T3-L1 cells: In vitro validation of gene knock out of RNAs in PPAR γ  | Biomed Pharmacother
+- new | 2019 | 30577003 |  | Fungal biodegradation of the N-nitrosodimethylamine precursors venlafaxine and O-desmethylvenlafaxine in water. | Environ Pollut
+- new | 2019 | 30552631 |  | Transcriptome analysis of differential gene expression in Dichomitus squalens during interspecific mycelial interactions and the potential link with laccase induction. | J Microbiol
+- new | 2019 | 31026702 |  | Transformation of lamotrigine by white-rot fungus Pleurotus ostreatus. | Environ Pollut
+- new | 2018 | 29740229 |  | Enzymatic extract containing lignin peroxidase immobilized on carbon nanotubes: Potential biocatalyst in dye decolourization. | Saudi J Biol Sci
+- new | 2018 | 29127762 |  | Anti-invasive and antiproliferative effects of Pleurotus ostreatus extract on acute leukemia cell lines. | J Basic Clin Physiol Pharmacol
+- new | 2018 | 30806299 |  | Proximal Composition, Nutraceutical Properties, and Acute Toxicity Study of Culinary-Medicinal Oyster Mushroom Powder, Pleurotus ostreatus (Agaricomycetes). | Int J Med Mushrooms
+- new | 2018 | 29169218 |  | Laccase Fermentation of Clove Extract Increases Content of Dehydrodieugenol, Which Has Neuroprotective Activity against Glutamate Toxicity in HT22 Cells. | J Microbiol Biotechnol
+- new | 2018 | 29387377 |  | Mycofloral profile and the radiation sensitivity (D(10) values) of solar dried and gamma irradiated Pleurotus ostreatus (Jacq.Ex. Fr.) Kummer fruitbodies stored in two different pa | Food Sci Nutr
+- new | 2018 | 30123665 |  | Comparative study of genome-wide plant biomass-degrading CAZymes in white rot, brown rot and soft rot fungi. | Mycology
+- new | 2017 | 28904776 |  | Escaping introns in COI through cDNA barcoding of mushrooms: Pleurotus as a test case. | Ecol Evol
+- new | 2017 | 29122174 |  | Differential gene expression profiling analysis in Pleurotus ostreatus during interspecific antagonistic interactions with Dichomitus squalens and Trametes versicolor. | Fungal Biol
+- new | 2017 | 28273567 | Evaluation Study | Transformation and toxicity evaluation of tetracycline in humic acid solution by laccase coupled with 1-hydroxybenzotriazole. | J Hazard Mater
+- new | 2017 | 28345827 |  | Polycyclic Aromatic Hydrocarbons In Edible Mushrooms from Niger Delta, Nigeria: Carcinogenic and Non-Carcinogenic Health Risk Assessment. | Asian Pac J Cancer Prev
+- new | 2017 | 28653347 | Research Support, Non-U.S. Gov't | Preliminary evaluation of Pleurotus ostreatus for the removal of selected pharmaceuticals from hospital wastewater. | Biotechnol Prog
+- new | 2017 | 27874973 |  | Degradation of benzo[a]pyrene by Pleurotus ostreatus PO-3 in the presence of defined fungal and bacterial co-cultures. | J Basic Microbiol
+- new | 2017 | 28582971 |  | Degradation of aflatoxin B(1) from naturally contaminated maize using the edible fungus Pleurotus ostreatus. | AMB Express
+- new | 2016 | 27481084 | Case Reports | A patient with mushroom allergy; a new etiological agent of Kounis syndrome. | Tuberk Toraks
+- new | 2016 | 27649725 |  | Mushroom Extracts Decrease Bone Resorption and Improve Bone Formation. | Int J Med Mushrooms
+- new | 2016 | 27797216 | Review | Inhibition of Oxidative Stress and Enhancement of Cellular Activity by Mushroom Lectins in Arsenic Induced Carcinogenesis. | Asian Pac J Cancer Prev
+- new | 2016 | 27134772 |  | Food-derived hydrophilic antioxidant ergothioneine is distributed to the brain and exerts antidepressant effect in mice. | Brain Behav
+- new | 2016 | 27072268 | Research Support, Non-U.S. Gov't | Modulatory effect of Pleurotus ostreatus on oxidant/antioxidant status in 7, 12-dimethylbenz (a) anthracene induced mammary carcinoma in experimental rats--A dose-response study. | J Cancer Res Ther
+- new | 2016 | 27015024 | Case Reports | Occupational asthma in a fruit and vegetables vendor. | Med Lav
+- new | 2015 | 28324293 |  | Aflatoxin B1 degradation during co-cultivation of Aspergillus flavus and Pleurotus ostreatus strains on rice straw. | 3 Biotech
+- new | 2015 | 25662752 | Research Support, Non-U.S. Gov't | Immune augmentation and Dalton's Lymphoma tumor inhibition by glucans/glycans isolated from the mycelia and fruit body of Pleurotus ostreatus. | Int Immunopharmacol
+- new | 2015 | 26499817 |  | Can consumption of antioxidant rich mushrooms extend longevity?: antioxidant activity of Pleurotus spp. and its effects on Mexican fruit flies' (Anastrepha ludens) longevity. | Age (Dordr)
+- new | 2015 | 26154240 | Research Support, Non-U.S. Gov't | Benzoic acid derivatives with improved antifungal activity: Design, synthesis, structure-activity relationship (SAR) and CYP53 docking studies. | Bioorg Med Chem
+- new | 2014 | 24314266 | Research Support, Non-U.S. Gov't | Antifungal activity of cinnamic acid derivatives involves inhibition of benzoate 4-hydroxylase (CYP53). | J Appl Microbiol
+- new | 2014 | 24770873 |  | Biodegradation of aflatoxin B1 in contaminated rice straw by Pleurotus ostreatus MTCC 142 and Pleurotus ostreatus GHBBF10 in the presence of metal salts and surfactants. | World J Microbiol Biotechnol
+- new | 2014 | 24863354 | Comparative Study/Research Support, Non-U.S. Gov't | Comparative evaluation of polysaccharides isolated from Astragalus, oyster mushroom, and yacon as inhibitors of α-glucosidase. | Chin J Nat Med
+- new | 2014 | 28324451 |  | Mycoremediation of Benzo[a]pyrene by Pleurotus ostreatus in the presence of heavy metals and mediators. | 3 Biotech
+- new | 2014 | 25271859 |  | Hepato- and nephroprotective activities of a Nigerian local king tuber oyster mushroom, Pleurotus tuberregium (higher Basidiomycetes), in chemically induced organ toxicities in rat | Int J Med Mushrooms
+- new | 2014 | 25178300 |  | Evaluation of the Efficacy of Fermented By-product of Mushroom, Pleurotus ostreatus, as a Fish Meal Replacer in Juvenile Amur Catfish, Silurus asotus: Effects on Growth, Serologica | Asian-Australas J Anim Sci
+- HELD REF-2628 | 2014 | 25465051 | Research Support, Non-U.S. Gov't | A-WINGS: an integrated genome database for Pleurocybella porrigens (Angel's wing oyster mushroom, Sugihiratake). | BMC Res Notes
+- new | 2013 | 23796223 | Research Support, Non-U.S. Gov't | Preliminary results on antigenotoxic effects of dried mycelia of two medicinal mushrooms in Drosophila melanogaster somatic mutation and recombination test. | Int J Med Mushrooms
+- new | 2013 | 24041844 |  | The effect of oyster mushroom β-1.3/1.6-D-glucan and oxytetracycline antibiotic on biometrical, haematological, biochemical, and immunological indices, and histopathological change | Fish Shellfish Immunol
+- new | 2013 | 23665417 | Research Support, Non-U.S. Gov't | Toxicity of organic and inorganic nanoparticles to four species of white-rot fungi. | Sci Total Environ
+- new | 2013 | 23687394 |  | Effectiveness of Dyes Removal by Mixed Fungal Cultures and Toxicity of Their Metabolites. | Water Air Soil Pollut
+- new | 2012 | 22593606 |  | Biological Removal of Azo and Triphenylmethane Dyes and Toxicity of Process By-Products. | Water Air Soil Pollut
+- new | 2012 | 23150991 | Research Support, Non-U.S. Gov't | Mechanistic study of 17α-ethinylestradiol biodegradation by Pleurotus ostreatus: tracking of extracelullar and intracelullar degradation mechanisms. | Environ Sci Technol
+- new | 2012 | 23353851 | Research Support, Non-U.S. Gov't | Effect of β-1.3/1.6-D-glucan derived from oyster mushroom Pleurotus ostreatus on biometrical, haematological, biochemical, and immunological indices in rainbow trout (Oncorhynchus  | Neuro Endocrinol Lett
+- new | 2012 | 22830035 |  | Involvement of the ligninolytic system of white-rot and litter-decomposing fungi in the degradation of polycyclic aromatic hydrocarbons. | Biotechnol Res Int
+- new | 2012 | 22339705 | Research Support, Non-U.S. Gov't | Hypolipidemic and antiatherogenesis effect of culinary-medicinal pink oyster mushroom, Pleurotus salmoneostramineus L. Vass. (higher Basidiomycetes), in hypercholesterolemic rats. | Int J Med Mushrooms
+- new | 2012 | 22560036 | Comparative Study | Raw and fungal-treated olive-mill wastewater effects on selected parameters of lettuce (Lactuca sativa L.) growth--the role of proline. | J Environ Sci Health B
+- new | 2012 | 22546633 | Research Support, Non-U.S. Gov't | Biodegradation of PCBs by ligninolytic fungi and characterization of the degradation products. | Chemosphere
+- new | 2011 | 21506892 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Skin test reactivity of allergic subjects to basidiomycetes' crude extracts in a tropical environment. | Med Mycol
+- new | 2011 | 23961153 |  | Dietary effect of Pleurotus eryngii on biochemical function and histology in hypercholesterolemic rats. | Saudi J Biol Sci
+- new | 2011 | 22078736 | Research Support, Non-U.S. Gov't | Pleurotus ostreatus heme peroxidases: an in silico analysis from the genome sequence to the enzyme molecular structure. | C R Biol
+- new | 2011 | 22783072 |  | Hypolipidemic Activities of Dietary Pleurotus ostreatus in Hypercholesterolemic Rats. | Mycobiology
+- new | 2011 | 21744850 | Research Support, Non-U.S. Gov't | Transformation of the recalcitrant pharmaceutical compound carbamazepine by Pleurotus ostreatus: role of cytochrome P450 monooxygenase and manganese peroxidase. | Environ Sci Technol
+- new | 2010 | 20602933 | Research Support, Non-U.S. Gov't | Electrostatically self-assembled azides on zinc sulfide nanoparticles as multifunctional nanoprobes for peptide and protein analysis in MALDI-TOF MS. | Talanta
+- new | 2010 | 20878085 | Research Support, N.I.H., Extramural | Pleurotus ostreatus inhibits colitis-related colon carcinogenesis in mice. | Int J Mol Med
+- new | 2009 | 19442441 | Review | Biodegradation aspects of polycyclic aromatic hydrocarbons (PAHs): a review. | J Hazard Mater
+- new | 2009 | 18976689 | Research Support, Non-U.S. Gov't | Myo- and hepatotoxic effects of cultivated mushrooms in mice. | Food Chem Toxicol
+- new | 2009 | 23983505 |  | Comparative effects of oyster mushrooms on lipid profile, liver and kidney function in hypercholesterolemic rats. | Mycobiology
+- new | 2009 | 19745584 |  | [Determination of illudin S in Omphalotus guepiniformis and foods that caused food poisoning by liquid chromatography with tandem mass spectrometry]. | Shokuhin Eiseigaku Zasshi [jpn]
+- new | 2008 | 18785792 |  | [Determination of Pleurotus ostreatus, Pleurotus pulmonarius and Paxillus involutus toxicity over Artemia salina]. | Rev Iberoam Micol [spa]
+- new | 2008 | 18330128 |  | Toxicity of plant essential oils and their components against Lycoriella ingenua (Diptera: Sciaridae). | J Econ Entomol
+- new | 2007 | 18251415 | Case Reports/Research Support, Non-U.S. Gov't | Psittacine circovirus infection in parakeets of the genus Eunymphicus and treatment with beta-(1,3/1,6)-D-glucan. | Avian Dis
+- new | 2007 | 17509851 | Research Support, Non-U.S. Gov't | The protective effect of selenium inorganic forms against cadmium and silver toxicity in mycelia of Pleurotus ostreatus. | Mycol Res
+- new | 2007 | 17365648 | Research Support, Non-U.S. Gov't | Effect of ostreolysin, an Asp-hemolysin isoform, on human chondrocytes and osteoblasts, and possible role of Asp-hemolysin in pathogenesis. | Med Mycol
+- new | 2007 | 17298434 | Case Reports | Occupational asthma due to spores of Pleurotus ostreatus. | Allergy
+- new | 2006 | 16914248 | Research Support, Non-U.S. Gov't | Antioxidant activity of the oyster mushroom, Pleurotus ostreatus, on CCl(4)-induced liver injury in rats. | Food Chem Toxicol
+- new | 2006 | 16672080 | Research Support, Non-U.S. Gov't/Review | Wild-gathered fungi for health and rural livelihoods. | Proc Nutr Soc
+- new | 2006 | 16413114 | Research Support, Non-U.S. Gov't | An aqueous polysaccharide extract from the edible mushroom Pleurotus ostreatus induces anti-proliferative and pro-apoptotic effects on HT-29 colon cancer cells. | Cancer Lett
+- new | 2006 | 16860832 | Research Support, Non-U.S. Gov't | Toxic and lethal effects of ostreolysin, a cytolytic protein from edible oyster mushroom (Pleurotus ostreatus), in rodents. | Toxicon
+- new | 2005 | 15899417 |  | Isolation of genes differentially expressed during the fruit body development of Pleurotus ostreatus by differential display of RAPD. | FEMS Microbiol Lett
+- new | 2005 | 16095952 | Comparative Study | Novel antimutagenic factors derived from the edible mushroom Agrocybe cylindracea. | Mutat Res
+- new | 2003 | 14669870 | Research Support, Non-U.S. Gov't | Microsomal transformation of organophosphorus pesticides by white rot fungi. | Biodegradation
+- new | 2000 | 11030382 | Case Reports | Allergic asthma to shiitake and oyster mushroom. | Allergy
+- new | 1998 | 10024747 | Case Reports | Mushroom worker's lung resulting from indoor cultivation of Pleurotus osteatus. | Occup Med (Lond)
+- new | 1998 | 9538185 |  | Effect of oyster mushroom (Pleurotus ostreatus) on pathological changes in dimethylhydrazine-induced rat colon cancer. | Oncol Rep
+- new | 1997 | 9130004 |  | Effects of Lentinus edodes, Grifola frondosa and Pleurotus ostreatus administration on cancer outbreak, and activities of macrophages and lymphocytes in mice treated with a carcino | Immunopharmacol Immunotoxicol
+- new | 1997 | 9216672 | Research Support, Non-U.S. Gov't | Role of apoptosis, proliferating cell nuclear antigen and p53 protein in chemically induced colon cancer in rats fed corncob fiber treated with the fungus Pleurotus ostreatus. | Anticancer Res
+- new | 1997 | 16535634 |  | Enzymatic Mechanisms Involved in Phenanthrene Degradation by the White Rot Fungus Pleurotus ostreatus. | Appl Environ Microbiol
+- new | 1996 | 8779594 | Research Support, Non-U.S. Gov't | Metabolism of phenanthrene by the white rot fungus Pleurotus ostreatus. | Appl Environ Microbiol
+- new | 1996 | 16535361 |  | Initial Oxidation Products in the Metabolism of Pyrene, Anthracene, Fluorene, and Dibenzothiophene by the White Rot Fungus Pleurotus ostreatus. | Appl Environ Microbiol
+- new | 1996 | 8621708 | Comparative Study/Research Support, Non-U.S. Gov't | A heme-containing ascorbate oxidase from Pleurotus ostreatus. | J Biol Chem
+- new | 1994 | 8016603 | Review | [Current aspects of fungal spores allergy]. | Schweiz Med Wochenschr [ger]
+- new | 1994 | 8074266 | Research Support, U.S. Gov't, P.H.S. | Prevalence of basidiomycete allergy in the USA and Europe and its relationship to allergic respiratory symptoms. | Allergy
+- new | 1993 | 8349941 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Basidiospore allergen release: elution from intact spores. | J Allergy Clin Immunol
+- new | 1993 | 8224832 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Protease activity in cockroach and basidiomycete allergen extracts. | Allergy Proc
+- new | 1991 | 2030812 |  | Provocation tests in extrinsic allergic alveolitis in mushroom workers. | Neth J Med
+- new | 1990 | 2253084 | Research Support, U.S. Gov't, P.H.S. | Evaluation of Basidiomycete and Deuteromycete (Fungi Imperfecti) extracts for shared allergenic determinants. | Clin Exp Allergy
+- new | 1990 | 2196301 | Research Support, U.S. Gov't, P.H.S. | Evidence for cross-reactive allergens among basidiomycetes: immunoprint-inhibition studies. | J Allergy Clin Immunol
+- new | 1988 | 3204256 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Characterization of allergens from spores of the oyster mushroom, Pleurotus ostreatus. | J Allergy Clin Immunol
+- new | 1988 | 3169217 | Case Reports | Extrinsic allergic alveolitis caused by spores of the oyster mushroom Pleurotus ostreatus. | Eur Respir J
+- new | 1988 | 2448249 | Research Support, U.S. Gov't, P.H.S. | Basidiospore extracts: evidence for common antigenic/allergenic determinants. | Int Arch Allergy Appl Immunol
+- new | 1988 | 3234295 |  | Bioaccumulation of Hg in the mushroom Pleurotus ostreatus. | Ecotoxicol Environ Saf
+- new | 1987 | 3623711 | Research Support, U.S. Gov't, P.H.S. | Antigenic/allergenic analysis of basidiomycete cap, mycelia, and spore extracts. | Int Arch Allergy Appl Immunol
+- new | 1987 | 3608137 | Research Support, U.S. Gov't, P.H.S. | Basidiospore allergens: determination of optimal extraction methods. | Clin Allergy
+- new | 1985 | 4008070 | Research Support, U.S. Gov't, P.H.S. | Basidiomycete allergy: what is the best source of antigen? | Int Arch Allergy Appl Immunol
+- new | 1976 | 820538 | Case Reports | [Mushroom worker's lung caused by inhalation of spores of the edible fungus pleurotus Florida ("oyster mushroom") (author's transl)]. | Dtsch Med Wochenschr [ger]
+
+### PubMed OBS - 3 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 93 hits, 21 not already listed above, 21 new
+- new | 2026 | 42412997 | Review | Nematode-Killing Fungi: Model Systems for Fungal-Animal Interactions. | Annu Rev Microbiol
+- new | 2025 | 40661813 | Review | Mushroom Bioactive Molecules as Anticancerous Agents: An Overview. | Food Sci Nutr
+- new | 2024 | 38541460 | Review | Advances in the Applications of Clinoptilolite-Rich Tuffs. | Materials (Basel)
+- new | 2024 | 38372792 | Review | Pleurotus ostreatus as a model mushroom in genetics, cell biology, and material sciences. | Appl Microbiol Biotechnol
+- new | 2024 | 38790763 | Review | Pre- and Postharvest Strategies for Pleurotus ostreatus Mushroom in a Circular Economy Approach. | Foods
+- new | 2023 | 35364694 | Review | Farming of Medicinal Mushrooms. | Adv Biochem Eng Biotechnol
+- new | 2023 | 37303782 | Review | Application progress of CRISPR/Cas9 genome-editing technology in edible fungi. | Front Microbiol
+- new | 2023 | 37031727 | Review/Research Support, Non-U.S. Gov't | Fungi as a source of bioactive molecules for the development of longevity medicines. | Ageing Res Rev
+- new | 2022 | 35668282 | Review | Diversity of mycoviruses in edible fungi. | Virus Genes
+- new | 2022 | 35889098 | Review | Mycelium vs. Fruiting Bodies of Edible Fungi-A Comparison of Metabolites. | Microorganisms
+- new | 2022 | 36686330 | Review | A concise review of mushrooms antiviral and immunomodulatory properties that may combat against COVID-19. | Food Chem Adv
+- new | 2020 | 32265881 | Review | Seeking the Roles for Fungal Small-Secreted Proteins in Affecting Saprophytic Lifestyles. | Front Microbiol
+- new | 2020 | 33317038 | Review | Pleurotus Macrofungi-Assisted Nanoparticle Synthesis and Its Potential Applications: A Review. | J Fungi (Basel)
+- new | 2020 | 31759001 | Review | Extraction, structure and bioactivities of the polysaccharides from Pleurotus eryngii: A review. | Int J Biol Macromol
+- new | 2019 | 31554069 | Research Support, Non-U.S. Gov't/Review | Edible mushrooms as a ubiquitous source of essential fatty acids. | Food Res Int
+- new | 2019 | 31048986 | Review | Factors affecting mushroom Pleurotus spp. | Saudi J Biol Sci
+- new | 2019 | 29969321 | Review | Role of Mushroom as Dietary Supplement on Performance of Poultry. | J Diet Suppl
+- new | 2019 | 31406644 | Review | Genetic improvement in Pleurotus (oyster mushroom): a review. | 3 Biotech
+- new | 2019 | 31827811 | Review | On mycohuman performances: fungi in current artistic research. | Fungal Biol Biotechnol
+- new | 2017 | 27696508 | Review | Analysis of synonymous codon usage patterns in the edible fungus Volvariella volvacea. | Biotechnol Appl Biochem
+- new | 2015 | 25652005 | Research Support, Non-U.S. Gov't/Review | Hydrodynamics, Fungal Physiology, and Morphology. | Adv Biochem Eng Biotechnol
+
+### ClinicalTrials.gov - 13 registered studies
+- NCT07960485 | NOT_YET_RECRUITING | results=False | NA | TRIAL EVALUATING THE EFFICACY OF A FOOD INGREDIENT FROM OYSTER MUSHROOM MYCELIUM AND CHLORELLA MICROALGAE ON GASTROINTESTINAL SYMPTOMS, MOOD | conds: Mental Well-being, Cognitive Function Assessment, Microbiome Composition, Gastrointestinal Discomfort | intr: Co-fermentation food ingredient of Chlorella vulgaris microalgae and oyster mushroom mycelium (Pleur
+- NCT04444219 | COMPLETED | results=False | NA | Postprandial Glucose, Insulin Responses and Appetite Hormones to Dried Mushrooms | conds: Metabolic Syndrome | intr: Breakfast meals
+- NCT06974747 | COMPLETED | results=False | NA | Immunomodulatory Effect of Pleuran in Children With Recurrent Respiratory Tract Infections | conds: Respiratory Tract Infection | intr: Imunoglukan P4H® chewable tablets, Placebo chewable tablets | pubs: ['41085920:DERIVED (new)']
+- NCT04821258 | COMPLETED | results=False | NA | Effect of the Nutraceutical "MICODIGEST 2.0" on the Complications After Surgery for Colorectal Cancer | conds: Colorectal Cancer, Surgery--Complications | intr: MICODIGEST 2.0 supplement, Placebo supplement | pubs: ['35576566:DERIVED (new)']
+- NCT07775833 | RECRUITING | results=False | NA | Study Protocol: The Efficacy of Mushroom to Reduce Cognitive Decline in At-Risk Middle-aged Adults and Young-olds Living in the Community | conds: Dementia, Cognitive Assessment | intr: Golden oyster mushroom powder
+- NCT07479004 | COMPLETED | results=False | NA | Effect of Cream Paste Containg Pleuran on Selected Skin Dermatoses (Neonatal Pustulosis, Diaper Dermatitis, Perioral Dermatitis). | conds: Diaper Dermatitis, Perioral Dermatitis, Neonatal Pustulosis, Periorificial Dermatitis | intr: Cosmetic product: Imunoglukan P4H® ACUTE! cream-paste
+- NCT05594329 | COMPLETED | results=False | NA | Neurological, Inflammatory and Metabolic Effects of Acute Mushroom Intervention in Older Adults | conds: Cognitive Change, Mood, Metabolism, Inflammatory Response | intr: Instant noodle soup containing containing the equivalent of 2 servings (18.78g) of powdered Pleurotu
+- NCT04989972 | WITHDRAWN | results=False | PHASE2 | Assessing the Efficacy of Micro-dosed Psilocybin on Reducing Anxiety & Depression Levels in Adults | conds: Anxiety and Depression | intr: PSIL428, Oyster mushroom, PSIL428
+- NCT04259229 | COMPLETED | results=False | NA | Mediterranean Diet and Mushrooms | conds: Diet, Healthy | intr: Mediterranean Diet -- Mushrooms, Mediterranean Diet -- Control | pubs: ['38135005:DERIVED (new)']
+- NCT07407777 | RECRUITING | results=False | NA | Evaluation of Gut-Related Well-Being and Mood Effects of a Daily Nutritional Food Ingredient From the Co-Fermentation of Fungal Mycelium (Pl | conds: Gastrointestinal Discomfort, Digestive Well Being, Gut-related Symptoms | intr: Food ingredient of oyster mushroom mycelium (Pleurotus pulmonarius) and microalgae (Chlorella vulgar
+- NCT00069524 | COMPLETED | results=False | PHASE1,PHASE2 | Antihyperlipidemic Effects of Oyster Mushrooms | conds: HIV Infections, Hyperlipidemia | intr: oyster mushroom | pubs: ['21831304:DERIVED (new)']
+- NCT06846827 | COMPLETED | results=False | NA | Cognitive, Mood, Anti-Inflammatory and Metabolic Effects of Chronic Oyster Mushroom Intervention in Older Adults | conds: Cognitive Change, Mood, Metabolism, Inflammatory Response | intr: Oyster mushroom, Maltodextrin
+- NCT07806279 | NOT_YET_RECRUITING | results=False | PHASE3 | Lifestyle Changes, Mushroom Supplementation, and Bupropion to Reduce Adiposity and Cardiometabolic Risk | conds: Cardiometabolic Syndrome, Obesity and Cardiovascular Risk, Overweight , Obesity | intr: Bupropion 150 mg, Lyophilized powder from edible mushrooms, Lifestyle Management
+
+### OpenAlex no-PMID trial-worded - 3251 hits, 59 without PMID, 59 new
+- new | 2026 | 10.18502/jnfs.v11i4.23073 | article | Effect of Uv-C Enrıched Food Consumptıon on Bıochemıcal Parameters in Adults wıth Vıtamın D Defıcıency: A Randomızed Controlled Trıal | Journal of Nutrition and Food Security
+- new | 2026 | 10.6084/m9.figshare.c.8462313 | supplementary-materials | Effects of regular consumption of a β-glucan-rich oyster mushroom powder on cholesterol metabolism in adults with moderately elevated LDL-cholesterol concentrations: a double-blind | Figshare
+- new | 2026 | https://openalex.org/W7130498600 | dissertation | Effects of β-glucan-rich oyster mushroom powder on ad libitum energy intake and LDL-cholesterol concentrations considering mechanisms modulating food intake and cholesterol metabol | bonndoc (University of Bonn)
+- new | 2026 | 10.9734/bji/2026/v30i6934 | article | Trial Production of Spawn of Three Edible Mushroom Species (Pleurotus eous, Pleurotus ostreatus and Volvariella volvacea) on Cereal Grains in Daloa (Central-Western Côte d’Ivoire) | Biotechnology Journal International
+- new | 2025 | 10.1016/j.jff.2025.106907 | article | Effects of fortifying a meal with oyster mushroom powder on subsequent ad libitum energy intake, gastric emptying, selected gastrointestinal hormones and appetite sensations in adu | Journal of Functional Foods
+- new | 2025 | https://openalex.org/W7215229865 | article | ผลของการใช้ข้าวเปลือกงอกที่เพาะด้วยเชื้อ Pleurotus ostreatus ต่อสมรรถนะการให้ผลผลิตในไก่เนื้อโคราช | Rajabhat Agriculture Journal
+- new | 2024 | https://openalex.org/W7217506650 | article | Genetic Diversity of Pleurotus Ostreatus Using Random Amplification Polymorphisms DNA Technique | International Journal of Scientific Rese
+- new | 2024 | 10.9734/jeai/2024/v46i123122 | article | Cultivation Trial of Pleurotus eous and Pleurotus ostreatus Mushrooms on Rice Straw (Oryza sativa L.) in Daloa, Côte d'Ivoire | Journal of Experimental Agriculture Inte
+- new | 2024 | 10.33545/26631067.2024.v6.i1a.181 | article | Potential application of biochar as a growth supplement for mushroom cultivation (Pleurotus ostreatus) | International Journal of Horticulture an
+- new | 2022 | 10.15562/jdmfs.v7i2.1345 | article | Effectiveness of gargle with extract oyster mushroom (pleurotus spp) to forming plaque in ecc patients (early childhood caries) | Journal of Dentomaxillofacial Science
+- new | 2021 | 10.13057/biodiv/d220658 | article | Genetic diversity of Pleurotus ostreatus (Jacq.) P. Kumm. strains in Java based on random amplified polymorphic DNA markers | Biodiversitas Journal of Biological Dive
+- new | 2021 | 10.1155/2021/1465597 | article | Cultivation of Pleurotus ostreatus on Agricultural Wastes and Their Combination | International Journal of Agronomy
+- new | 2021 | 10.3126/janr.v4i1.33370 | article | Performance of oyster mushroom (Pleurotus ostreatus) grown on different fingermillet husk substrates | Journal of Agriculture and Natural Resou
+- new | 2021 | 10.5586/am.568 | article | Pruning Wastes From Fruit Trees as a Substrate for Pleurotus ostreatus | Acta Mycologica
+- new | 2021 | 10.15159/jas.21.03 | article | Effect of different substrate sterilization methods on performance of oyster mushroom (Pleurotus ostreatus) | Agraarteadus
+- new | 2020 | 10.1017/s0029665120004772 | article | β-(1→3,1→6)-D-glucans in disease prevention and health promotion - a systematic review of randomized controlled trials | Proceedings of The Nutrition Society
+- new | 2020 | 10.1007/s42452-020-03720-z | article | Use of lignocellulosic corn and rice wastes as substrates for oyster mushroom (Pleurotus ostreatus Jacq.) cultivation | SN Applied Sciences
+- new | 2020 | https://openalex.org/W3127553529 | article | ANTIOXIDANT AND ANTIMICROBIAL ACTIVITY OF Pleurotus ostreatus | Journal of biology and nature
+- new | 2020 | 10.38112/agw.2020.v08i01.001 | article | Growth and yield performance of oyster mushroom (Pleurotus ostreatus) on different substrates | Agriways
+- new | 2019 | 10.26226/morressier.5d5e5187bedcf39b766393c3 | other | P3-25-01 - β-(1→3,1→6)-D-glucans in disease prevention and health promotion - a systematic review of randomized controlled trials | 
+- new | 2019 | 10.1088/1755-1315/260/1/012076 | conference-paper | Productivity of oyster mushrooms (Pleurotus ostreatus) on media corncobs mixed with sawdust | IOP Conference Series Earth and Environm
+- new | 2019 | 10.22487/j24428744.2019.v5.i2.13149 | article | Formulasi dan Analisis Nilai Gizi Bakso Kotak dari Jamur Tiram Putih (Pleurotus Ostreatus) | Jurnal Farmasi Galenika (Galenika Journa
+- new | 2017 | 10.29050/harranziraat.321116 | article | Pleurotus ostreatus Mantarının Cips Üretiminde Kullanımı | Harran Tarım ve Gıda Bilimleri Dergisi
+- new | 2017 | 10.15294/biosaintifika.v9i3.11660 | article | Growth and Protein Content Establishment of Pleurotus ostreatus on Liquid and Solid Medium | Biosaintifika Journal of Biology & Biolo
+- new | 2016 | 10.4172/2155-6199.1000327 | article | Co-Substrating of Peanut Shells with Cornstalks Enhances Biodegradation by Pleurotus ostreatus | Journal of Bioremediation & Biodegradati
+- new | 2016 | 10.5897/ajb2015.15130 | article | Effect of substrate on the growth, nutritional and bioactive components of Pleurotus ostreatus and Pleurotus florida | AFRICAN JOURNAL OF BIOTECHNOLOGY
+- new | 2016 | 10.5539/jas.v8n4p43 | article | Comparison of Antibacterial Activity of the Spent Substrate of Pleurotus ostreatus and Lentinula edodes | Journal of Agricultural Science
+- new | 2015 | 10.3329/imcj.v8i1.22982 | article | Effect of edible mushroom (Pleurotus ostreatus) on type-2 diabetics | Ibrahim Medical College Journal
+- new | 2015 | 10.17352/2455-2283.000002 | article | Beta-(1,3/1,6)-D-glucan Helps to Decrease Opportunistic Infections in Crohn's Disease Patients Treated with Biological Therapy | Archives of Clinical Gastroenterology
+- new | 2015 | 10.1016/j.aquaculture.2015.12.010 | article | Effects of oyster mushroom (Pleurotus ostreatus) and nettle (Urtica dioica) methanolic extracts on immune responses and resistance to Aeromonas hydrophila in rainbow trout (Oncorhy | Aquaculture
+- new | 2015 | https://openalex.org/W2786687304 | article | Cultivation of mushroom (Pleurotus ostreatus) and the microorganisms associated with the substrate used | 
+- new | 2014 | https://openalex.org/W2546240307 | article | EFFECT OF CULINARY MEDICINAL MUSHROOMS, PLEUROTUS OSTREATUS AND P. CYSTIDIOSUS ON FASTING AND POSTPRANDIAL GLYCAEMIA IN HEALTHY VOLUNTEERS | 
+- new | 2014 | 10.3329/bjar.v38i4.18946 | article | Yield performance of oyster mushroom (Pleurotus ostreatus) on different substrates | Bangladesh Journal of Agricultural Resea
+- new | 2013 | 10.3329/bjmb.v6i1.13280 | article | Effects of Pleurotus ostreatus on Blood Pressure and Glycemic Status of Hypertensive Diabetic Male Volunteers | Bangladesh Journal of Medical Biochemist
+- new | 2013 | 10.5897/ajar2013.7160 | article | Molecular characterization of Pleurotus ostreatus commercial strains by random amplified polymorphic DNA (RAPD) | Americanae (AECID Library)
+- new | 2013 | 10.5897/ajmr12.895 | article | Evaluation of locally available substrates for cultivation of oyster mushroom (Pleurotus ostreatus) in Jimma, Ethiopia | African Journal of Microbiology Research
+- new | 2013 | 10.14480/jm.2013.11.4.244 | article | Characteristics of a new cultivar 'Hwaseong 5ho' in Pleurotus ostreatus | Journal of Mushrooms
+- new | 2012 | 10.3329/jdnmch.v17i2.12220 | article | Evaluation of Pleurotus ostreatus as an Ifter Item on Serum Alanine Transaminase (ALT) and Aspartate Transaminase (AST) during Ramadan Fast of Healthy Female Volunteers of Banglade | Journal of Dhaka National Medical Colleg
+- new | 2012 | 10.4236/fns.2012.36100 | article | A Double-Blind, Randomized, Placebo-Controlled Nutritional Study Using an Insoluble Yeast Beta-Glucan to Improve the Immune Defense System | Food and Nutrition Sciences
+- new | 2012 | 10.2141/jpsa.011068 | article | Evaluation of Oyster Mushroom (Pleurotus Ostreatus) as a Biological Growth Promoter on Performance, Humoral Immunity, and Blood Characteristics of Broiler Chicks | The Journal of Poultry Science
+- new | 2011 | 10.5897/ijnam.9000032 | article | Oyster mushroom ameliorates liver function during ramadan fast reflected by reducing the serum level of alanine aminotransferase and aspartate aminotransferase of male volunteers | International Journal of Nutrition and M
+- new | 2011 | 10.21107/agrovigor.v4i2.297 | article | EFEKTIVITAS PEMBERIAN AIR LERI TERHADAP PERTUMBUHAN DAN HASIL JAMUR TIRAM PUTIH (Pleurotus ostreatus) | 
+- new | 2011 | 10.24002/biota.v16i2.97 | article | Variasi Genetik Berdasarkan Penanda Molekular Random Amplified Polymorphic DNA Pada Jamur Shiitake (Lentinula edodes) | Journal of Biota
+- new | 2011 | 10.4489/kjm.2011.39.1.031 | article | Development of Suhan Strain-specific SCAR Marker in Pleurotus ostreatus | The Korean Journal of Mycology
+- new | 2010 | 10.1016/j.jff.2010.11.004 | article | Lipid lowering effects of oyster mushroom (Pleurotus ostreatus) in humans | Journal of Functional Foods
+- new | 2010 | 10.3923/biotech.2010.338.342 | article | The Growth and Yield Performance of Oyster Mushroom (Pleurotus ostreatus) on Different Substrates | Biotechnology(Faisalabad)
+- new | 2010 | 10.56093/ijans.v80i8.356 | article | Influence of Pleurotus ostreatus spent corn straw on performance and carcass characteristics of feedlot Pelibuey lambs | The Indian Journal of Animal Sciences
+- new | 2009 | 10.4038/cjsbs.v37i2.505 | article | Cultivation of Oyster Mushroom (Pleurotus ostreatus) on Sawdust | Ceylon Journal of Science (Biological Sc
+- new | 2009 | 10.3923/ajps.2009.510.514 | article | Suitability of Locally Available Substrates for Oyster Mushroom (Pleurotus ostreatus) Cultivation in Kenya | Asian Journal of Plant Sciences
+- new | 2006 | 10.1556/aalim.35.2006.1.8 | article | Biodegradation of water hyacinth by growing Pleurotus ostreatus and P. sajor-caju and trial for using in production of mushroom spawn | Acta Alimentaria
+- new | 2005 | 10.1615/intjmedmushr.v7.i3.40 | article | GENERAL LECTURES Antihyperlipidemic Effect of Pleurotus ostreatus (Jacq.:Fr.) P.Kumm. in HIV: Results of a Pilot Proof-of-Principle Clinical Trial | International journal of medicinal mushr
+- new | 2005 | 10.1556/aalim.34.2005.4.11 | article | Mineral composition of the cultivated mushrooms Agaricus bisporus, Pleurotus ostreatus and Lentinula edodes | Acta Alimentaria
+- new | 2004 | https://openalex.org/W2389639364 | article | Extraction Technology of Polysaccharide of Pleurotus ostreatus | Zhanjiang Haiyang Daxue xuebao
+- new | 2003 | 10.1590/s0103-90162003000300018 | article | Morphomolecular characterization of Pleurotus ostreatus (Jacq. Fr.) kummer strains in relation to luminosity and temperature of frutification | Scientia Agricola
+- new | 1998 | 10.1016/s0377-8401(97)00150-8 | article | The biodegradation of wheat straw by Pleurotus ostreatus mushrooms and its use in cattle feeding | Animal Feed Science and Technology
+- new | 1996 | https://openalex.org/W857154083 | article | Genetic Variability of Pleurotus ostreatus Monospore Isolates by Random Amplified Polymorphic DNA Analysis | The Korean Journal of Mycology
+- new | 1995 | https://openalex.org/W2776049683 | article | Cultivation trials of Pleurotus ostreatus Kummer, on lime water pretreated coirwaste and paddy straw | Mushroom Research
+- new | 1993 | 10.21608/ejar.1993.462463 | article | CHEMICAL COMPOSITION AND PROCESSING POTENTIAL OF OYSTER MUSHROOM, PLEUROTUS OSTREATUS | Egyptian Journal of Agricultural Researc
+- new | 1980 | https://openalex.org/W303541029 | article | Trial at growing Pleurotus ostreatus as a 'plantation' crop. | Lesnoe hozâjstvo
+
+## potentilla-erecta (Potentilla erecta) - name clause: "Potentilla erecta"[tiab] OR "Potentilla tormentilla"[tiab] OR "tormentil"[tiab] OR "Tormentillae rhizoma"[tiab]
+
+### PubMed HT - 10 hits, 10 not already listed above, 6 new
+- HELD REF-0970 | 2023 | 37896170 |  | Therapeutic Effects of Oral Application of Menthol and Extracts from Tormentil (Potentilla erecta), Raspberry Leaves (Rubus idaeus), and Loosestrife (Lythrum salicaria) during Acut | Pharmaceutics
+- new | 2017 | 28562281 | Systematic Review | Herbal Medicines for Gastrointestinal Disorders in Children and Adolescents: A Systematic Review. | Pediatrics
+- HELD REF-0978 | 2017 | 28400287 | Randomized Controlled Trial | Anti-inflammatory and vasoconstrictive properties of Potentilla erecta - A traditional medicinal plant from the northern hemisphere. | J Ethnopharmacol
+- new | 2016 | 27366027 | Review | Favorable results from the use of herbal and plant products in inflammatory bowel disease: evidence from experimental animal studies. | Ann Gastroenterol
+- new | 2016 | 27322232 |  | Anti-Inflammatory Effects of Agrimoniin-Enriched Fractions of Potentilla erecta. | Molecules
+- new | 2015 | 25518050 | Research Support, Non-U.S. Gov't/Systematic Review | Systematic review of complementary and alternative medicine treatments in inflammatory bowel diseases. | J Crohns Colitis
+- new | 2015 | 25830661 | Review | Herbal and plant therapy in patients with inflammatory bowel disease. | Ann Gastroenterol
+- HELD REF-3402 | 2007 | 17881930 | Clinical Trial, Phase I/Research Support, Non-U.S. Gov't | Tormentil for active ulcerative colitis: an open-label, dose-escalating study. | J Clin Gastroenterol
+- HELD REF-0602 | 2003 | 12913771 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Effect of oral administration of tormentil root extract (Potentilla tormentilla) on rotavirus diarrhea in children: a randomized, double blind, controlled trial. | Pediatr Infect Dis J
+- new | 2002 | 11860402 |  | Antioxidant effects of herbal therapies used by patients with inflammatory bowel disease: an in vitro study. | Aliment Pharmacol Ther
+
+### PubMed SR - 3 hits, 1 not already listed above, 1 new
+- new | 2021 | 32987127 | Systematic Review | Recent phytochemical and pharmacological advances in the genus Potentilla L. sensu lato - An update covering the period from 2009 to 2020. | J Ethnopharmacol
+
+### PubMed SAFE - 8 hits, 5 not already listed above, 3 new
+- new | 2026 | 42505299 |  | Unlocking Potential of Potentilla erecta: Development and Efficacy Evaluation of Oral Mucoadhesive Gel for Oral Ulcers. | Gels
+- new | 2025 | 40188806 |  | [Vom Spezifischen zum Systemischen - am Beispiel Tormentill/Blutwurz, der Heilpflanze des Jahres 2024]. | Complement Med Res [ger]
+- new | 2017 | 28918484 | Review | Drug-Herb Interactions in the Elderly Patient with IBD: a Growing Concern. | Curr Treat Options Gastroenterol
+- HELD REF-0977 | 2014 | 25339799 | Research Support, Non-U.S. Gov't/Review | Advances in treatment of ulcerative colitis with herbs: from bench to bedside. | World J Gastroenterol
+- HELD REF-2593 | 2009 | 19857087 |  | Determination of acute toxicity of the aqueous extract of Potentilla erecta (Tormentil) rhizomes in rats and mice. | J Med Food
+
+### PubMed OBS - 0 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 8 hits, 4 not already listed above, 2 new
+- new | 2022 | 36615352 | Review | Therapeutic Potential of Flavonoids and Tannins in Management of Oral Infectious Diseases-A Review. | Molecules
+- HELD REF-0973 | 2020 | 32155655 | Review | Tormentillae rhizoma - Review for an Underestimated European Herbal Drug. | Planta Med
+- HELD REF-0975 | 2020 | 32046246 | Review | New Herbal Biomedicines for the Topical Treatment of Dermatological Disorders. | Biomedicines
+- new | 2009 | 19162156 | Review | Potentilla--a review of its phytochemical and pharmacological profile. | J Ethnopharmacol
+
+### ClinicalTrials.gov - 0 registered studies
+
+### OpenAlex no-PMID trial-worded - 128 hits, 62 without PMID, 62 new
+- new | 2026 | 10.51271/ajh.114 | article | Acute Bullous Irritant Contact Dermatitis Following Topical Application of Potentilla erecta and Plantago lanceolata | Academic Journal of Health
+- new | 2026 | 10.34660/inf.2026.54.41.171 | conference-paper | INDICATORS OF RESPIRATORY MECHANICS IN PATIENTS WITH SEVERE COMMUNITY-ACQUIRED VIRAL-BACTERIAL AND PNEUMOCYSTIS PNEUMONIA AGAINST THE BACKGROUND OF SURFACTANT APPLICATION AND THE L | 
+- new | 2026 | 10.22271/plants.2026.v14.i1c.2039 | article | Most promising medicinal plants for hemorrhoids treatment: A critical evaluation of tradition, science, and safety | Journal of Medicinal Plants Studies
+- new | 2026 | 10.6084/m9.figshare.31926888 | dataset | Impact of Great skuas on terrestrial ecosystem functioning and biodiversity in Shetland | Figshare
+- new | 2026 | 10.1016/j.cscee.2026.101470 | article | Cleaner valorization of Ocimum basilicum residues from microwave-assisted extraction as bio-based corrosion inhibitors for aluminium in acidic media: A case study using response su | Case Studies in Chemical and Environment
+- new | 2025 | 10.1101/2025.03.26.25324709 | preprint | Efficacy and Safety of Substance-Based Therapies in Anthroposophical Medicine: A Systematic Review | medRxiv
+- new | 2025 | 10.24961/j.tek.ind.pert.2025.35.3.271 | review | THE MECHANICAL AND PHYSICAL PROPERTIES OF LEATHER TANNED BY VEGETABLE TANNIN: A META-ANALYSIS STUDY | Jurnal Teknologi Industri Pertanian
+- new | 2025 | 10.3390/textiles5040046 | article | Innovative Wound Healing Utilizing Bioactive Fabrics Functionalized with Tormentillae rhizoma Extract: An In Vivo Study on Wistar Albino Rats | Textiles
+- new | 2025 | 10.56042/ijeb.v63i07.17466 | article | Comparison of two non-caloric sweeteners in experimental study: Diabetic wound healing perspective | Indian Journal of Experimental Biology
+- new | 2025 | 10.30841/2786-720x.4.2025.349490 | article | Functional Dyspepsia Control: Practical Solutions for the Modern Physician | Family medicine European practices
+- new | 2024 | 10.31857/s0044459624020015 | article | Leaf functional traits and ecological strategies are important for the formation of subalpine fens and tall-herb plant communities | Журнал общей биологии
+- new | 2024 | https://openalex.org/W7111525034 | dissertation | Häckvicker – Odla eller ogräs? : upptäcka en inhemsk baljväxt för svenska vallar | Epsilon Archive for Student Projects (Sw
+- new | 2024 | 10.3390/d16100639 | article | Prevalence and Diversity of Plant Parasitic Nematodes in Irish Peatlands | Diversity
+- new | 2024 | 10.12912/27197050/190038 | article | Ecological Monitoring of Medicinal Plants Populations under Different Ecological-Cenotic and Anthropogenic Environmental Conditions | Ecological Engineering & Environmental T
+- new | 2023 | 10.55905/oelv21n9-059 | article | Eficácia do uso de produtos derivados de plantas em doenças infecciosas e biofilmes bucais: uma revisão integrativa | OBSERVATÓRIO DE LA ECONOMÍA LATINOAMERIC
+- new | 2023 | 10.17930/ans2023112 | article | EFFECT OF OREGANO ESSENTIAL OIL ON THE PERFORMANCE AND MICROBIOLOGICAL STATUS OF SUCKLING PIGLETS | Scientific Papers Series D Animal Scienc
+- new | 2023 | 10.55355/snv2023121105 | article | Vegetation restoration after a fire on the territory of the Barguzin Nature Reserve | Samara Journal of Science
+- new | 2023 | 10.61186/jmp.22.88.65 | article | Effect of Terminalia chebula Retz extract on blood coagulation parameters of mouse | Armaghan.
+- new | 2022 | 10.33380/2305-2066-2022-11-4-20-27 | article | Antimicrobial Activity of Water-alcoholic Extracts of Representatives of the Genus Potentilla L. | Drug development & registration
+- new | 2022 | 10.18470/1992-1098-2022-4-16-29 | article | Flora and syntaxonomy of communities including Juniperus oblonga M. Bieb. on the Gunib Plateau | South of Russia ecology development
+- new | 2022 | 10.5937/leksir2242060g | article | Medicinal plants in dermatological complaints and disorders | Lekovite sirovine
+- new | 2022 | 10.21570/edgg.pg.52.28-43 | article | Phytosociology, ecology and plant species diversity of grasslands within nature protection sites near Zurich (Switzerland) | Palaearctic Grasslands - Journal of the 
+- new | 2022 | 10.3166/phyto-2022-0327 | article | Plantes médicinales de Hongrie | Phytothérapie
+- new | 2021 | 10.1111/rec.13450 | article | Addition of composted green waste and ericoid mycorrhizal fungi fails to facilitate establishment of Atlantic heathland species | Restoration Ecology
+- new | 2021 | 10.1002/2688-8319.12113 | article | Diversification of Molinia‐ dominated blanket bogs using Sphagnum propagules | Ecological Solutions and Evidence
+- new | 2021 | 10.18185/erzifbed.845095 | article | Does Low Dose N-Acetylcysteine Administration Enhance Diabetic Wound Healing? | Erzincan Üniversitesi Fen Bilimleri Enst
+- new | 2021 | https://openalex.org/W3136079310 | dissertation | Relatório de Estágio e Monografia Intitulada "Plantas Medicinais No Tratamento Da Dermatite Atópica" | Portuguese National Funding Agency for S
+- new | 2020 | https://openalex.org/W3110166032 | article | A pilot study of efficacy and safety of Plantago lanceolata and Primula veris, in the treatment of the common cold | Archives of Pharmacy Practice
+- new | 2020 | 10.1016/j.ecoinf.2020.101155 | article | Model-based ordination of pin-point cover data: Effect of management on dry heathland | Ecological Informatics
+- new | 2020 | 10.22920/pnie.2020.1.1.22 | article | Effects of Long-Term Removal of Sheep Grazing on the Seedbanks of High-Level Grasslands and Blanket Bogs | NERC Open Research Archive (Natural Envi
+- new | 2020 | 10.24382/1050 | dissertation | Heathland Restoration after Mineral Extraction | PEARL (University of Plymouth)
+- new | 2019 | 10.15407/biotech12.05.072 | article | ANTIMICROBIAL, ANTIBIOFILM-FORMING AND SOME BIOCHEMICAL PROPERTIES OF Potentilla erecta RHIZOME EXTRACT | Biotechnologia Acta
+- new | 2019 | https://openalex.org/W7151674210 | dissertation | Experimental Measures Of Additional Treatment Used By Patients With Ulcerative Colitis | Lithuanian University of Health Sciences
+- new | 2019 | 10.26021/9570 | dissertation | The challenges in regulating traditional plant medicines in the era of contemporary evidence-based health policy | UC Research Repository  (University of C
+- new | 2019 | 10.5812/ijcm.88405 | article | An Investigation into the Prevalence and Treatment of Oral Mucositis After Cancer Treatment | International Journal of Cancer Manageme
+- new | 2019 | 10.1111/jvs.12763 | article | Assessing sampling coverage of species distribution in biodiversity databases | Journal of Vegetation Science
+- new | 2018 | 10.2478/jlecol-2018-0015 | article | The Ecology of British Upland Landscapes. I. Composition of Landscapes, Habitats, Vegetation and Species | Journal of Landscape Ecology
+- new | 2017 | 10.5586/asbp.3561 | article | A performance comparison of sampling methods in the assessment of species composition patterns and environment–vegetation relationships in species-rich grasslands | Acta Societatis Botanicorum Poloniae
+- new | 2015 | 10.1515/eko-2015-0005 | article | Herbaceous Plants for Climate Adaptation and Intensely Developed Urban Sites In Northern Europe: A Case Study From the Eastern Romanian Steppe | Ochrana prírody Slovenska/Ekológia
+- new | 2014 | 10.1002/14651858.cd011223 | article | Herbal medicines for the treatment of inflammatory bowel disease | Cochrane Database of Systematic Reviews
+- new | 2014 | 10.1111/avsc.12106 | article | Life after fire: smoke and ash as germination cues in ericads, herbs and graminoids of northern heathlands | Applied Vegetation Science
+- new | 2013 | https://openalex.org/W632749703 | dissertation | Brygder och besvärjelser : En arkeobotanisk studie av medicinalväxter och den medeltida staden Nya Lödöse | DiVA at Umeå University (Umeå University
+- new | 2013 | https://openalex.org/W595795232 | dissertation | Management of semi-natural grassland vegetation : long-term effects of grazing, mowing and different mowing techniques | DiVA (Linkoping University)
+- new | 2012 | 10.1111/j.1654-1103.2012.01433.x | article | Disturbance drives phylogenetic community structure in coastal dune vegetation | Journal of Vegetation Science
+- new | 2010 | 10.1016/j.agee.2010.01.017 | article | Resilience of acid subalpine grassland to short-term liming and fertilisation | Agriculture Ecosystems & Environment
+- new | 2009 | 10.5253/078.097.0114 | article | Nest Site Selection of Montagu's HarrierCircus pygargusBreeding in Natural Habitats in Eastern Poland | Ardea
+- new | 2009 | 10.1016/j.baae.2009.03.009 | article | Influence of livestock grazing on meadow pipit foraging behaviour in upland grassland | Basic and Applied Ecology
+- new | 2009 | https://openalex.org/W778117799 | dissertation | Effects of Management on Heathland Vegetation in Western Norway | NVA (Nasjonalt vitenarkiv)
+- new | 2009 | 10.1111/j.1654-109x.2009.01011.x | article | Changes in vegetation types and Ellenberg indicator values after 65 years of fertilizer application in the Rengen Grassland Experiment, Germany | Applied Vegetation Science
+- new | 2008 | https://openalex.org/W353543377 | dissertation | Förändringar i vegetationens sammansättning efter en våtmarksrestaurering : Changes in the vegetation composition after a wetlandrestoration | Digitala vetenskapliga arkivet (Diva) (K
+- new | 2007 | https://openalex.org/W2107252987 | book | Proceedings of the First International Symposium on Carbon in Peatlands | Wageningen University & Research Publica
+- new | 2006 | 10.1111/j.1365-2664.2006.01158.x | article | To graze or not to graze? Sheep, voles, forestry and nature conservation in the British uplands | Journal of Applied Ecology
+- new | 2003 | https://openalex.org/W2567276354 | dissertation | Geographic patterns in the distribution, productivity and population genetic structure of Cirsium species across their UK geographic range. | White Rose eTheses Online (University of
+- new | 2002 | https://openalex.org/W95793282 | article | Effects of different plant protection treatments regulating late blight (Phytophthora infestans) in organic potato production | Organic Eprints (International Centre fo
+- new | 2000 | 10.1046/j.1365-2745.2000.00495.x | article | Climatic control of blanket mire development at Kentra Moss, north‐west Scotland | Journal of Ecology
+- new | 1998 | 10.1080/00063659809461077 | article | Nest site selection by Hen Harriers in Scotland | Bird Study
+- new | 1989 | 10.2478/som-1989-0001 | article | A phytoecological study of the mire Northern Kisselbergmosen, SE. Norway. I. Introduction, flora, vegetation and ecological conditions. | Sommerfeltia
+- new | 1982 | https://openalex.org/W2969069234 | dissertation | Factors affecting the improvement of hill land dominated by bracken (Pteridium aquilinum (L.) Kuhn) | Enlighten: Theses (The University of Gla
+- new | 1980 | 10.1007/bf00121024 | article | A numerical study of successions in an abandoned, damp calcareous meadow in S Sweden | Vegetatio
+- new | 1976 | 10.1038/hdy.1976.62 | article | Rapid population differentiation in a mosaic environment: IV. Populations of Anthoxanthum odoratum at sharp boundaries | Heredity
+- new | 1963 | 10.1093/oxfordjournals.aob.a083869 | article | Plasticity and Establishment in Euphrasia | Annals of Botany
+- new | 1963 | 10.1111/j.1438-8677.1963.tb00115.x | article | CHROMOSOME NUMBERS OF FLOWERING PLANTS IN THE NETHERLANDS | Acta Botanica Neerlandica
+
+## primula-veris (Primula veris) - name clause: "Primula veris"[tiab] OR "Primula officinalis"[tiab] OR "Primulae radix"[tiab] OR "cowslip"[tiab]
+
+### PubMed HT - 3 hits, 3 not already listed above, 3 new
+- new | 2013 | 24200823 | Clinical Trial | [Administration of Cardiodoron® in patients with functional cardiovascular disorders and/or sleep disorders--results of a prospective, non-interventional study]. | Forsch Komplementmed [ger]
+- new | 2000 | 10858869 | Clinical Trial/Randomized Controlled Trial | Evaluation of modulations in heart rate variability caused by a composition of herbal extracts. | Arzneimittelforschung
+- new | 1994 | 23195935 |  | Placebo-controlled, randomized double-blind clinical trial with Sinupret® sugar coated tablets on the basis of a therapy with antibiotics and decongestant nasal drops in acute sinu | Phytomedicine
+
+### PubMed SR - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SAFE - 3 hits, 3 not already listed above, 2 new
+- HELD REF-0872 | 2023 | 37128197 |  | Solid herbal extract of Primula veris L. improves morphofunctional condition of rats' myocardium in chronic alcohol intoxication. | J Tradit Complement Med
+- new | 2017 | 28960556 |  | Incidence of Pyrrolizidine Alkaloids in Herbal Medicines from German Retail Markets: Risk Assessments and Implications to Consumers. | Phytother Res
+- new | 1999 | 10903116 |  | Induction of steroidal hydroxylase activity by plant defence compounds in the filamentous fungus Cochliobolus lunatus. | Chemosphere
+
+### PubMed OBS - 0 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 3 hits, 3 not already listed above, 2 new
+- HELD REF-0870 | 2023 | 37765014 | Review | Mechanistic Evidence of Andrographis paniculata (Burm. f.) Wall. ex Nees, Pelargonium sidoides DC., Echinacea Species and a Combination of Hedera helix L., Primula veris L./Primula | Pharmaceuticals (Basel)
+- new | 2016 | 28214817 | Review | [Treatment of cough in respiratory tract infections - the effect of combining the natural active compounds with thymol]. | Wiad Lek [pol]
+- new | 2014 | 25632601 | Review | [Herbal medicines against respiratory diseases--traditional empiricism or pharmacological evidence?]. | Med Monatsschr Pharm [ger]
+
+### ClinicalTrials.gov - 0 registered studies
+
+### OpenAlex no-PMID trial-worded - 160 hits, 63 without PMID, 63 new
+- new | 2026 | https://openalex.org/W7214514246 | dissertation | Guardians of nature: a study of environmental volunteers and human-nature connections | Lund University Publications Student Pap
+- new | 2026 | 10.1002/pan3.70248 | article | Engaging the public in plant science: Communication facilitators and barriers of scaling up a citizen science campaign | People and Nature
+- new | 2026 | 10.1016/j.jafr.2026.103260 | article | Physiological and spectral responses of Centella asiatica (L.) to drought stress: Implications for growth, yield, stress monitoring, and modeling | Journal of Agriculture and Food Research
+- new | 2026 | 10.3390/app16010481 | article | Psychotropic Medicinal Plant Use in Oncology: A Dual-Cohort Analysis and Its Implications for Anesthesia and Perioperative Care | Applied Sciences
+- new | 2026 | 10.2478/aoas-2025-0086 | article | A Review of Recent Developments in Essential Oil-Based Alternatives in Mastitis Treatment in Dairy Cows | Annals of Animal Science
+- new | 2024 | 10.2478/rjr-2024-0017 | article | Cough: A protective reflex and herbal therapies | Romanian Journal of Rhinology
+- new | 2024 | 10.1002/9781394238071.ch16 | book-chapter | Flavonoid Associated Preclinical and Clinical Trials Involved in Insulin Resistance/Hyperglycemia, Obesity, Liver Intoxication, Aging, and Cardiovascular Diseases | Wiley eBooks
+- new | 2024 | 10.1016/j.ecoleng.2024.107353 | article | Ten year re-assessment after introduction of forb communities into species poor temperate grassland | Ecological Engineering
+- new | 2024 | 10.21518/ms2024-282 | article | Experience of using a combination of herbal preparations in the treatment of acute rhinosinusitis in children | Meditsinskiy sovet = Medical Council
+- new | 2023 | 10.51699/cajmns.v4i4.1676 | article | Clinical and Diagnostic Significance of Signs of Systemic Inflammatory Response Syndrome and Cytokine Levels in Patients with Purulent Rhinosinusitis | CENTRAL ASIAN JOURNAL OF MEDICAL AND NAT
+- new | 2023 | 10.37208/tgn28109 | article | Holmhills Wood Community Park Local Nature Reserve, Cambuslang, Scotland: biodiversity on the doorstep | The Glasgow Naturalist
+- new | 2023 | 10.22034/lssj.2023.89 | article | Herbs in the Time of Crisis: A Comprehensive Review on COVID-19 and Herbal Therapies | Life Sciences Student Journal
+- new | 2023 | 10.1007/s10681-023-03198-x | article | Morphological characteristics and molecular markers of distyly in Primula obconica | Euphytica
+- new | 2023 | 10.21518/ms2023-005 | article | Experience in the use of phytotherapy in the treatment of bronchitis in children | Meditsinskiy sovet = Medical Council
+- new | 2022 | 10.1016/j.ecolind.2022.109446 | article | Prediction of forest nutrient and moisture regimes from understory vegetation with random forest classification models | Ecological Indicators
+- new | 2022 | 10.1071/bt21146 | article | How important is fire-induced disturbance in the maintenance of a threatened perennial forb, Solanum papaverifolium? | Australian Journal of Botany
+- new | 2021 | 10.1101/2021.05.12.442254 | preprint | The effect of recent habitat change on genetic diversity at putatively adaptive and neutral loci in Primula veris in semi-natural grasslands | bioRxiv (Cold Spring Harbor Laboratory)
+- new | 2021 | 10.1007/978-3-030-58278-4_15 | book-chapter | Learning in Citizen Science | Springer eBooks
+- new | 2021 | 10.21518/2079-701x-2021-6-12-19 | article | Rhinitis, rhinosinusutus and phytotherapy | Meditsinskiy sovet = Medical Council
+- new | 2021 | 10.3390/su132212575 | article | Impact of Secondary Succession in the Xerothermic Grassland on the Population of the Eastern Pasque Flower (Pulsatilla patens)—Preliminary Studies | Sustainability
+- new | 2021 | 10.2478/asn-2021-0016 | article | Application of medicinal plants for decorative purposes by the local populatuion on the North Black Sea coast (Bulgaria) | Acta Scientifica Naturalis
+- new | 2020 | https://openalex.org/W3110166032 | article | A pilot study of efficacy and safety of Plantago lanceolata and Primula veris, in the treatment of the common cold | Archives of Pharmacy Practice
+- new | 2020 | 10.1111/1365-2745.13488 | article | Landscape context and plant population size affect morph frequencies in heterostylous Primula veris —Results of a nationwide citizen‐science campaign | Journal of Ecology
+- new | 2020 | 10.21518/2079-701x-2020-6-7-13 | article | Rational approach to the treatment of acute rhinosinusitis in comorbides with dysosmia | Meditsinskiy sovet = Medical Council
+- new | 2020 | 10.33096/agrotekmas.v1i1.107 | article | IDENTIFIKASI GULMA DI LAHAN PERTANAMAN JAGUNG (Zea mays L.) PADA FASE VEGETATIF DAN GENERATIF DI KABUPATEN MAROS DAN GOWA | AGrotekMAS Jurnal Indonesia: Jurnal Ilmu
+- new | 2019 | 10.21518/2079-701x-2019-11-82-88 | article | Modern combined plant remedies in pulmonologist’s practice | Meditsinskiy sovet = Medical Council
+- new | 2019 | 10.3897/pharmacia.66.e37954 | article | Phytotherapeutic approaches to treatment and prophylaxis in pediatric practice | Pharmacia
+- new | 2019 | 10.1007/s10841-019-00180-8 | article | The best wildflowers for wild bees | Journal of Insect Conservation
+- new | 2019 | 10.21273/jashs04652-19 | article | Development and Identification of Expressed Sequence Tag-based SSR Markers Associated with the Heterostyly Trait in Primula forbesii | Journal of the American Society for Hort
+- new | 2018 | 10.5772/intechopen.72110 | book-chapter | Are Herbal Products an Alternative to Antibiotics? | InTech eBooks
+- new | 2018 | https://openalex.org/W7217036173 | article | Assessment of elevation influence and associated plant species on the bilberry population (Vaccinium myrtillus L.) fruit yield, in northern part of Albania | Balkan journal of interdisciplinary rese
+- new | 2017 | https://openalex.org/W2993135397 | article | SAĞLIĞIMIZ İÇİN TIBBİ BİTKİLER ve BİTKİSEL İLAÇLAR | Bilimsel Tamamlayıcı Tıp Regülasyon ve N
+- new | 2016 | 10.5849/forsci.15-062 | article | Comparing Tree Selection as Performed by Different Professional Figures | Forest Science
+- new | 2016 | 10.1111/rec.12403 | article | Evaluation of topsoil inversion in U.K. habitat creation and restoration schemes | Restoration Ecology
+- new | 2015 | https://openalex.org/W7218275055 | article | Use of non-conventional medicines by cancer patients | European journal of oncology
+- new | 2015 | 10.1626/pps.18.514 | article | Germination Characteristics of SC701 Maize Hybrid According to Size and Shape at Different Temperature Regimes | Plant Production Science
+- new | 2014 | 10.9755/ejfa.v26i7.18200 | article | Ethnobotanical records of not yet documented therapeutic effects of some popular Bulgarian medicinal plants | Emirates Journal of Food and Agriculture
+- new | 2014 | 10.1007/s10531-014-0835-y | article | Plant species occurrence in a fragmented grassland landscape: the importance of species traits | Biodiversity and Conservation
+- new | 2013 | https://openalex.org/W3027120205 | dissertation | Enquête nationale auprès des audioprothésistes sur la prise en charge des patients acouphéniques | HAL
+- new | 2013 | https://openalex.org/W3125591509 | article | A RESEARCH ON DETERMINATION OF OUTDOOR PLANTS PREFERENCE OF THE MALATYA URBAN COMMUNITY | Yildiz Technical University - AVESIS
+- new | 2011 | 10.1055/s-0031-1282392 | article | The use of wild medicinal plants in the traditional therapy of respiratory diseases in high mountain region of W. Balkan | Planta Medica
+- new | 2011 | 10.1017/s0030605310001122 | article | Distribution, status and conservation of a Critically Endangered, extremely narrow endemic: Lamyropsis microcephala (Asteraceae) in Sardinia | Oryx
+- new | 2010 | 10.1111/j.1365-2745.2009.01627.x | article | Life table response experiment analysis of the stochastic growth rate | Journal of Ecology
+- new | 2009 | 10.1017/s0960258509990201 | article | Small-scale seed-bank patterns in a forest soil | Seed Science Research
+- new | 2009 | 10.17221/111/2008-jfs | article | Plant community variability within potential natural vegetation units: a case study from the Bohemian Karst | Journal of Forest Science
+- new | 2008 | 10.1055/s-2008-1064940 | article | Umckaloabo® und die Sicherheit von Phytopharmaka | Zeitschrift für Phytotherapie
+- new | 2008 | 10.3170/2007-8-18344 | article | Scale‐dependence of vegetation‐environment relationships in semi‐natural grasslands | Journal of Vegetation Science
+- new | 2007 | https://openalex.org/W330350634 | dissertation | In vitro - Identifizierung fettassimilationsinhibierender Bioaktivität | MACAU: Open Access Repository of Kiel Un
+- new | 2006 | 10.14746/biorc.2006.3-4.28 | article | The ladybells Adenophora liliifolia (L.) Besser in forests near Kisielany (Siedlce Upland, E Poland) | Biodiversity Research and Conservation
+- new | 2005 | 10.1016/j.ppees.2005.09.004 | article | Within-population genetic variation in the distylous Primula veris: Does floral morph anisoplethy matter in fragmented habitats? | Perspectives in Plant Ecology Evolution 
+- new | 2004 | 10.1111/j.1442-1984.2004.00113.x | article | Genetic population structure of the wind‐pollinated, dioecious shrub Juniperus communis in fragmented Dutch heathlands | Plant Species Biology
+- new | 2003 | 10.1078/1439-1791-00142 | article | Demographic stochasticity in population fragments of the declining distylous perennial Primula veris (Primulaceae) | Basic and Applied Ecology
+- new | 2003 | https://openalex.org/W1711007745 | article | Self – medication among cardiovascular patients of Bu-Ali hospital | The Journal of Qazvin University of Medi
+- new | 2003 | https://openalex.org/W1578714040 | report | A. Kartlegging av truete vegetasjonstyper. Erfaringer fra Inderøy og Levanger | NVA (Nasjonalt vitenarkiv)
+- new | 2002 | 10.1046/j.1365-2664.2002.00715.x | article | Soil seed banks and the effects of meadow management on vegetation change in a 10‐year meadow field trial | Journal of Applied Ecology
+- new | 2000 | 10.1046/j.1365-2664.2000.00566.x | article | The interactive effects of management on the productivity and plant community structure of an upland meadow: an 8‐year field trial | Journal of Applied Ecology
+- new | 1994 | https://openalex.org/W1953517412 | article | Field bioassays for side-effects of pesticides : final report | Leiden Repository (Leiden University)
+- new | 1985 | 10.1038/hdy.1985.9 | article | Genetic neighbourhood sizes in Primula vulgaris | Heredity
+- new | 1983 | 10.1093/iat/8.1.76b | article | Phytotoxicity Trials on Bedding Plants, California, 1982: | Arthropod management tests
+- new | 1983 | 10.1093/iat/8.1.76 | article | Phytotoxicity Trials on Nursery Stock, California, 1982 | Arthropod management tests
+- new | 1939 | 10.5962/bhl.title.80281 | book | Lilly's trial ground tested seeds | Biodiversity Heritage Library (Smithsoni
+- new | 1931 | 10.5962/bhl.title.150558 | book | Reliable seeds for summer and fall sowing : 1931 / | Biodiversity Heritage Library (Smithsoni
+- new | 1930 | 10.5962/bhl.title.77768 | book | Wholesale catalogue for market growers and florists | Biodiversity Heritage Library (Smithsoni
+
+## prunella-vulgaris (Prunella vulgaris) - name clause: "Prunella vulgaris"[tiab] OR "self-heal"[tiab] OR "selfheal"[tiab] OR "heal-all"[tiab] OR "Spica Prunellae"[tiab] OR "Prunellae Spica"[tiab] OR "Xiakucao"[tiab] OR "Xia Ku Cao"[tiab]
+
+### PubMed HT - 36 hits, 0 not already listed above, 0 new
+
+### PubMed SR - 15 hits, 15 not already listed above, 14 new
+- new | 2027 | 42526549 | Systematic Review/Meta-Analysis | Prunella Oral Liquid in combination with Western medical treatment for Graves' disease: A systematic review and meta-analysis. | J Ethnopharmacol
+- new | 2026 | 41956233 | Meta-Analysis/Systematic Review | Efficacy and safety evaluation of traditional Chinese medicine formulations in treating graves' disease by improving immune function: A systematic review and meta-analysis. | J Ethnopharmacol
+- new | 2025 | 40083379 | Systematic Review | Efficacy and safety of Prunella vulgaris L. combined with antithyroid drugs for hyperthyroidism: a systematic review and meta-analysis. | Front Pharmacol
+- new | 2024 | 38374102 | Meta-Analysis/Systematic Review | Effectiveness and safety of dermal matrix used for diabetic foot ulcer: a systematic review and meta-analysis of randomized controlled trials. | BMC Endocr Disord
+- new | 2024 | 38363369 | Meta-Analysis/Systematic Review | Efficacy of acellular fish skin graft in the management of chronic ulcer: a systematic review and meta-analysis. | Langenbecks Arch Surg
+- new | 2024 | 38461443 | Meta-Analysis/Systematic Review | Effect of a multidisciplinary team approach in patients with diabetic foot ulcers on major adverse limb events (MALEs): systematic review and meta-analysis for the development of t | Acta Diabetol
+- new | 2024 | 39239642 | Systematic Review | Effect of traditional Chinese medicine on Graves' disease: a network meta-analysis. | Front Pharmacol
+- new | 2022 | 35850854 | Meta-Analysis | [Pharmacoeconomic evaluation of Xiangju Capsules in treatment of chronic rhinosinusitis]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2022 | 36475286 | Review | Interventions for osteoarthritis pain: A systematic review with network meta-analysis of existing Cochrane reviews. | Osteoarthr Cartil Open
+- HELD REF-2880 | 2021 | 34731129 | Meta-Analysis/Review | Safety and efficacy of Prunella vulgaris preparation in adjuvant treatment of thyroid nodules: A meta-analysis. | Medicine (Baltimore)
+- new | 2021 | 34220307 | Meta-Analysis | Multi-biomarker is an early-stage predictor for progression of Coronavirus disease 2019 (COVID-19) infection. | Int J Med Sci
+- new | 2020 | 33496119 | Meta-Analysis/Systematic Review | [Systematic review and trail sequential analysis of preparation of Xiakucao for Hashimoto's thyroiditis]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2019 | 31288616 | Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S./Systematic Review | A Systematic Review and Guide to Mechanical Testing for Articular Cartilage Tissue Engineering. | Tissue Eng Part C Methods
+- new | 2018 | 30347927 | Systematic Review/Network Meta-Analysis | [Chinese patent medicines with function of resolving hard lump for cyclomastopathy: network Meta-analysis]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2007 | 17972592 | Meta-Analysis/Research Support, Non-U.S. Gov't | [Analysis on clinical treatment in hypertension by traditional Chinese medicine for 10 years in Beijing]. | Zhongguo Zhong Yao Za Zhi [chi]
+
+### PubMed SAFE - 85 hits, 77 not already listed above, 72 new
+- new | 2026 | 41241207 |  | Total flavonoids of Prunella vulgaris exert anti-hepatocellular carcinoma effects through autophagy suppression mediated by activation of the PI3K/AKT/mTOR pathway. | J Ethnopharmacol
+- new | 2026 | 42898186 |  | Spica Prunellae attenuates ER stress via GRP78/IRE1α/JNK pathway in CCL(4)-induced acute liver injury in mice. | Front Pharmacol
+- new | 2026 | 42943343 |  | Antimicrobial, Anti-Inflammatory, General Toxicity and Antioxidant Activities of Ultrasound-Assisted Extracts from Prunella vulgaris L. | Pharmaceuticals (Basel)
+- new | 2026 | 42499073 |  | The research hotspot and trend for traditional Chinese medicine treatment of lung adenocarcinoma: Based on bibliometric analysis. | Medicine (Baltimore)
+- new | 2026 | 41047360 |  | Efficacy of Prunella vulgaris on Male Lower Urinary Tract Symptoms: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial. | World J Mens Health
+- new | 2026 | 42259413 |  | A novel pectic polysaccharide from Prunella vulgaris L. and its therapeutic potential in alleviating alcoholic liver injury by regulating lipid metabolism and inflammation. | Int J Biol Macromol
+- HELD REF-2884 | 2025 | 40215815 |  | Prunella vulgaris polyphenols alleviate liver injury-uveitis comorbidity by regulating acylcarnitine via the S100A9-PP2A-AMPK pathway. | Phytomedicine
+- new | 2025 | 39303963 | Clinical Trial, Phase III/Multicenter Study/Randomized Controlled Trial/Equivalence Trial | Efficacy and safety of SKCPT in patients with knee osteoarthritis: A multicenter, randomized, double-blinded, active-controlled phase III clinical trial. | J Ethnopharmacol
+- new | 2025 | 40265862 |  | Selenium Improves Yield and Quality in Prunella vulgaris by Regulating Antioxidant Defense, Photosynthesis, Growth, Secondary Metabolites, and Gene Expression Under Acid Stress. | Plants (Basel)
+- new | 2025 | 40143175 |  | Ameliorative Effects of Prunella vulgaris on Lower Urinary Tract Symptoms Induced by Benign Prostatic Hyperplasia in SD Rats via Nitric Oxide and Potassium Channels. | Pharmaceuticals (Basel)
+- new | 2025 | 40303917 |  | Acute and subacute toxicity evaluation of ZhenzhuXiaoji decoction in preclinical models: implications for safe clinical use. | Front Pharmacol
+- new | 2024 | 39338392 |  | Syn-COM: A Multi-Level Predictive Synergy Framework for Innovative Drug Combinations. | Pharmaceuticals (Basel)
+- HELD REF-2879 | 2024 | 38675663 | Review | Anti-Tumor Effects and Toxicity Reduction Mechanisms of Prunella vulgaris: A Comprehensive Review. | Molecules
+- new | 2024 | 37769885 |  | Prunella vulgaris L. attenuates gut dysbiosis and endotoxin leakage against alcoholic liver disease. | J Ethnopharmacol
+- new | 2024 | 38268963 | Case Reports | Drug-related: A case of idiopathic mesenteric phlebosclerosis combined with calcification of the esophageal veins. | JGH Open
+- new | 2024 | 38986753 |  | Mechanism of action of the Banxia-Xiakucao herb pair in sleep deprivation: New comprehensive evidence from network pharmacology, transcriptomics and molecular biology experiments. | J Ethnopharmacol
+- new | 2024 | 38922974 |  | Development and validation of a liquid chromatography-tandem mass spectrometry method for simultaneous quantification of eight Xiakucao Oral liquid-related compounds in rat plasma  | Biomed Chromatogr
+- new | 2024 | 39319344 |  | Heavy metals and probabilistic risk assessment via Prunella vulgaris (food and medicine homology) consumption in Guangdong Province, China. | Toxicol Res (Camb)
+- new | 2024 | 39047773 |  | Extracts of Prunella vulgaris Enhanced Pentobarbital-Induced Sleeping Behavior in Mice Potentially via Adenosine A2A Receptor Activity. | Planta Med
+- new | 2024 | 38226777 | Research Support, Non-U.S. Gov't | Chromosome-level genome assembly of Prunella vulgaris L. provides insights into pentacyclic triterpenoid biosynthesis. | Plant J
+- new | 2023 | 36670101 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Uncovering a miltiradiene biosynthetic gene cluster in the Lamiaceae reveals a dynamic evolutionary trajectory. | Nat Commun
+- new | 2023 | 37834419 |  | Effects of SKCPT on Osteoarthritis in Beagle Meniscectomy and Cranial Cruciate Ligament Transection Models. | Int J Mol Sci
+- new | 2023 | 37056249 |  | Supramolecular hybrid hydrogels as rapidly on-demand dissoluble, self-healing, and biocompatible burn dressings. | Bioact Mater
+- new | 2023 | 36722702 | Case Reports/Research Support, Non-U.S. Gov't | Long-Term Complete Remission of a Patient With Double-Hit Diffuse Large B-Cell Lymphoma Treated by Chemoimmunotherapy and Chinese Herbal Medicine. | Integr Cancer Ther
+- new | 2023 | 38077406 | Research Support, N.I.H., Extramural | Cancer chemoprevention with PV-1, a novel Prunella vulgaris-containing herbal mixture that remodels the tumor immune microenvironment in mice. | Front Immunol
+- new | 2022 | 35814215 | Review | Phytochemistry, Pharmacology and Quality Control of Xiasangju: A Traditional Chinese Medicine Formula. | Front Pharmacol
+- new | 2022 | 36189365 | Case Reports | Metagenomic next-generation sequencing may assist diagnosis of cat-scratch disease. | Front Cell Infect Microbiol
+- new | 2022 | 35444541 |  | Water-Extracted Prunella vulgaris Alleviates Endometriosis by Reducing Aerobic Glycolysis. | Front Pharmacol
+- HELD REF-2883 | 2022 | 35678758 |  | Vulgarisin-type diterpenoids from self-heal (Prunella vulgaris) and their neuroprotective effects against ischemia/reperfusion (I/R) via a mitochondria-related pathway. | Food Funct
+- new | 2022 | 36405198 |  | Does time heal all wounds? How is children's exposure to intimate partner violence related to their current internalizing symptoms? | Front Psychol
+- new | 2022 | 35903568 | Case Reports | Time Does Not Heal All Ills: The Late Occurrence of Hemolytic Anemia After Prosthetic Mitral Valve Replacement. | Cureus
+- HELD REF-2887 | 2022 | 34979369 | Research Support, Non-U.S. Gov't | Prunella vulgaris can improve the pregnancy outcomes of experimental autoimmune thyroiditis rats by inhibiting Th1/Th17 immune responses. | J Reprod Immunol
+- new | 2021 | 33109498 | Case Reports/Review | Successful intervention with Chinese herbal medicine for hyperthyroidism: Two case reports and a literature review. | Explore (NY)
+- new | 2021 | 33440461 |  | An aqueous extract of Prunella vulgaris L. inhibits the growth of papillary thyroid carcinoma by inducing autophagy in vivo and in vitro. | Phytother Res
+- HELD REF-2911 | 2021 | 34089294 |  | The therapeutic effects of Prunella vulgaris against fluoride-induced oxidative damage by using the metabolomics method. | Environ Toxicol
+- new | 2021 | 33982486 |  | [Metabolic mechanism of Prunella vulgaris in treatment of ethanol-induced oxidative stress in rats based on metabonomics]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2021 | 34383500 | Research Support, Non-U.S. Gov't | Bioassay-Guided Isolation of an Abetiane-Type Diterpenoid from Prunella vulgaris That Protects against Concanavalin A-Induced Autoimmune Hepatitis. | J Nat Prod
+- new | 2020 | 32752105 | Review | Hydrogel as a Biomaterial for Bone Tissue Engineering: A Review. | Nanomaterials (Basel)
+- new | 2020 | 31926375 |  | Network pharmacology-based preventive effect of XZF on cutaneous toxicities induced by EGFR inhibitor. | Biomed Pharmacother
+- new | 2020 | 33235305 | Research Support, Non-U.S. Gov't | Uncovering the pharmacological mechanism of the effects of the Banxia-Xiakucao Chinese Herb Pair on sleep disorder by a systems pharmacology approach. | Sci Rep
+- new | 2020 | 32182802 |  | Prunellae Spica Extract Suppresses Teratoma Formation of Pluripotent Stem Cells through p53-Mediated Apoptosis. | Nutrients
+- new | 2020 | 33273957 |  | Analysis of the Molecular Mechanisms of the Effects of Prunella vulgaris against Subacute Thyroiditis Based on Network Pharmacology. | Evid Based Complement Alternat Med
+- new | 2020 | 32241633 |  | Invivo hepatoprotective potential of extracts obtained from floral spikes of Prunella vulgaris L. | J Ayurveda Integr Med
+- new | 2020 | 31499428 | Validation Study | Quantitative determination of characteristic components from compound of Lysionotus pauciflorus Maxim. by LC-MS/MS and its application to a pharmacokinetic study. | J Pharm Biomed Anal
+- new | 2020 | 32169782 |  | 7-Hydroxycoumarin protects against cisplatin-induced acute kidney injury by inhibiting necroptosis and promoting Sox9-mediated tubular epithelial cell proliferation. | Phytomedicine
+- new | 2019 | 30609054 | Case Reports | Congenital self-healing reticulohistiocytosis with BRAF V600E mutation in an infant. | Clin Exp Dermatol
+- new | 2019 | 31616288 | Review | Chinese Medicines for Preventing and Treating Radiation-Induced Pulmonary Injury: Still a Long Way to Go. | Front Pharmacol
+- new | 2019 | 31662984 |  | Spica Prunellae Extract Enhances Fluorouracil Sensitivity of 5-Fluorouracil-Resistant Human Colon Carcinoma HCT-8/5-FU Cells via TOP2α and miR-494. | Biomed Res Int
+- new | 2019 | 31469370 |  | Challenges of traditional herbal teas: plant infusions and their mixtures with bioactive properties. | Food Funct
+- new | 2019 | 31128004 |  | Root extract of Prunella vulgaris inhibits in vitro and in vivo carcinogenesis in MCF-5 human breast carcinoma via suppression of angiogenesis, induction of apoptosis, cell cycle a | J BUON
+- new | 2019 | 30906749 |  | Initial treatment combined with Prunella vulgaris reduced prednisolone consumption for patients with subacute thyroiditis. | Ann Transl Med
+- new | 2018 | 29655233 |  | A sensitive LC-MS/MS-based bioanalytical method for quantification of salviaflaside and rosmarinic acid in rat plasma and its application in a pharmacokinetic study. | Biomed Chromatogr
+- new | 2018 | 29258916 | Research Support, Non-U.S. Gov't/Review | Potential of selected Lamiaceae plants in anti(retro)viral therapy. | Pharmacol Res
+- new | 2018 | 30123125 |  | Oral Administration of Prunella vulgaris L Improves the Effect of Taxane on Preventing the Progression of Breast Cancer and Reduces Its Side Effects. | Front Pharmacol
+- new | 2018 | 29207134 |  | Novel herbal medicine LA16001 ameliorates cisplatin-induced anorexia. | Mol Med Rep
+- new | 2017 | 28472734 | Comparative Study | Comparative in silico analyses of Cannabis sativa, Prunella vulgaris and Withania somnifera compounds elucidating the medicinal properties against rheumatoid arthritis. | J Mol Graph Model
+- new | 2017 | 28901459 |  | Effect of hyperoside on the apoptosis of A549 human non‑small cell lung cancer cells and the underlying mechanism. | Mol Med Rep
+- new | 2016 | 27422165 |  | Spica prunellae and its marker compound rosmarinic acid induced the expression of efflux transporters through activation of Nrf2-mediated signaling pathway in HepG2 cells. | J Ethnopharmacol
+- new | 2016 | 26460672 | Research Support, Non-U.S. Gov't | Antihepatofibrotic Effects of Aqueous Extract of Prunella vulgaris on Carbon Tetrachloride-Induced Hepatic Fibrosis in Rats. | Planta Med
+- new | 2016 | 27623362 |  | Use of structured decision-making to explicitly incorporate environmental process understanding in management of coastal restoration projects: Case study on barrier islands of the  | J Environ Manage
+- new | 2016 | 26996013 | Research Support, Non-U.S. Gov't | Anti-allergic Inflammatory Triterpenoids Isolated from the Spikes of Prunella vulgaris. | Nat Prod Commun
+- new | 2015 | 25848354 | Case Reports | Korean medicine therapy as a substitute for chemotherapy for metastatic breast cancer: a case report. | Case Rep Oncol
+- new | 2015 | 25624914 |  | Extracts of endophytic fungus xkc-s03 from Prunella vulgaris L. spica inhibit gastric cancer in vitro and in vivo. | Oncol Lett
+- new | 2014 | 24012227 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Time does not heal all wounds: older adults who experienced childhood adversities have higher odds of mood, anxiety, and personality disorders. | Am J Geriatr Psychiatry
+- new | 2013 | 22086836 |  | Chemopreventive effect of a mixture of Chinese Herbs (antitumor B) on chemically induced oral carcinogenesis. | Mol Carcinog
+- new | 2013 | 23034199 | Case Reports/Research Support, Non-U.S. Gov't/Video-Audio Media | Time does not heal all wounds: very late stent thrombosis eight years after implantation of a sirolimus-eluting stent due to positive remodelling, saccular evaginations and marked  | EuroIntervention
+- new | 2012 | 23155785 | Case Reports | [Burden and capability of damaged parents--how refugee children can grow in exile]. | Prax Kinderpsychol Kinderpsychiatr [ger]
+- new | 2012 | 23983383 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Prevalence and predictors of traditional medicine utilization among persons living with AIDS (PLWA) on antiretroviral (ARV) and prophylaxis treatment in both rural and urban areas  | Afr J Tradit Complement Altern Med
+- new | 2011 | 21473903 | Research Support, Non-U.S. Gov't | Apoptogenic activity of 2α,3α-dihydroxyurs-12-ene-28-oic acid from Prunella vulgaris var. lilacina is mediated via mitochondria-dependent activation of caspase cascade regulated by | J Ethnopharmacol
+- new | 2010 | 21058888 | Case Reports | Is Traditional Chinese medicine effective for reducing hyperthyroidism? | J Altern Complement Med
+- new | 2007 | 17609508 | Research Support, Non-U.S. Gov't | Effects of Prunella vulgaris on mast cell-mediated allergic reaction and inflammatory cytokine production. | Exp Biol Med (Maywood)
+- new | 2007 | 17697905 | Clinical Trial, Phase III/Comparative Study/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Assessment of comparative pain relief and tolerability of SKI306X compared with celecoxib in patients with rheumatoid arthritis: a 6-week, multicenter, randomized, double-blind, do | Clin Ther
+- new | 2002 | 12151056 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Identification of inhibitors of the HIV-1 gp41 six-helix bundle formation from extracts of Chinese medicinal herbs Prunella vulgaris and Rhizoma cibotte. | Life Sci
+- new | 2001 | 11789591 | Clinical Trial/Randomized Controlled Trial | Effect of SKI 306X, a new herbal anti-arthritic agent, in patients with osteoarthritis of the knee: a double-blind placebo controlled study. | Am J Chin Med
+- new | 2001 | 11694032 | Research Support, Non-U.S. Gov't | Inhibition of immediate-type allergic reactions by Prunella vulgaris in a murine model. | Immunopharmacol Immunotoxicol
+- new | 2001 | 11411551 | Research Support, Non-U.S. Gov't | Effects of Shikunshito-Kamiho on fecal enzymes and formation of aberrant crypt foci induced by 1,2-dimethylhydrazine. | Biol Pharm Bull
+- new | 2000 | 10865455 | Letter/Research Support, Non-U.S. Gov't | Anti-allergic and anti-inflammatory triterpenes from the herb of Prunella vulgaris. | Planta Med
+
+### PubMed OBS - 15 hits, 12 not already listed above, 12 new
+- new | 2026 | 42868067 |  | Does Time Truly Heal All? A Prospective Cohort Study of 6- To 12-Month Recovery Transitions After Traumatic Injury. | J Am Coll Surg
+- new | 2025 | 40551889 |  | Effectiveness of Xiakucao Oral Liquid combined with methimazole on early thyroid function recovery and treatment compliance in Graves' disease: a real-world retrospective cohort st | Front Endocrinol (Lausanne)
+- new | 2025 | 41367473 |  | Evaluating Community Awareness of Osteopathic Manipulative Medicine and New Educational Programs in Fresno County, United States: A Cross-Sectional Survey. | Cureus
+- new | 2024 | 35482973 |  | Does 'Time Heal all Wounds?' The Prevalence and Predictors of Prolonged Grief Among Drug-Death Bereaved Family Members: A Cross-Sectional Study. | Omega (Westport)
+- new | 2023 | 37575582 |  | Time doesn't heal all: PTSD symptoms exacerbate the relationship between age and pain intensity. | Front Psychiatry
+- new | 2022 | 35392393 |  | Cannabidiol (CBD) in the Self-Treatment of Depression-Exploratory Study and a New Phenomenon of Concern for Psychiatrists. | Front Psychiatry
+- new | 2022 | 35449810 |  | The Utilization of Chinese Herbal Products for Hyperthyroidism in National Health Insurance System (NHIRD) of Taiwan: A Population-Based Study. | Evid Based Complement Alternat Med
+- new | 2021 | 34803004 |  | The incidence and awareness of Rhegmatogenous retinal detachment in Pakistani population. | Pak J Pharm Sci
+- new | 2021 | 33816748 |  | Does time heal all wounds? Life course associations between child welfare involvement and mortality in prospective cohorts from Sweden and Britain. | SSM Popul Health
+- new | 2019 | 30658291 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Can time heal all wounds? An empirical assessment of adaptation to functional limitations in an older population. | Soc Sci Med
+- new | 2006 | 16393344 |  | Parental use of the term "Hot Qi" to describe symptoms in their children in Hong Kong: a cross sectional survey "Hot Qi" in children. | J Ethnobiol Ethnomed
+- new | 2005 | 16313658 |  | Time does not heal all wounds. | Psychol Sci
+
+### PubMed REV - 75 hits, 24 not already listed above, 23 new
+- new | 2025 | 39964000 | Review/Research Support, Non-U.S. Gov't | Smart self-healing hydrogel wound dressings for diabetic wound treatment. | Nanomedicine (Lond)
+- new | 2025 | 39535398 | Review | Advances in Self-Healing Perovskite Solar Cells Enabled by Dynamic Polymer Bonds. | Macromol Rapid Commun
+- new | 2024 | 38801589 | Review | Natural Immunomodulatory Agents as a Complementary Therapy for Poxviruses. | Adv Exp Med Biol
+- new | 2024 | 39731690 | Review | Viral infections in celiac disease: what should be considered for better management. | Clin Exp Med
+- new | 2023 | 36815893 | Review | Biomaterial scaffolds regulate macrophage activity to accelerate bone regeneration. | Front Bioeng Biotechnol
+- new | 2023 | 36373498 | Review | 3D printing technology and applied materials in eardrum regeneration. | J Biomater Sci Polym Ed
+- new | 2023 | 35930422 | Review/Research Support, Non-U.S. Gov't | Self-Healing Injectable Hydrogels for Tissue Regeneration. | Chem Rev
+- new | 2023 | 35156475 | Review | Immobilized enzyme for screening and identification of anti-diabetic components from natural products by ligand fishing. | Crit Rev Biotechnol
+- new | 2022 | 33683146 | Review/Research Support, Non-U.S. Gov't | The Therapeutic Potential of Hematopoietic Stem Cells in Bone Regeneration. | Tissue Eng Part B Rev
+- new | 2022 | 35921834 | Review/Research Support, Non-U.S. Gov't | A review of bioceramics scaffolds for bone defects in different types of animal models: HA andβ-TCP. | Biomed Phys Eng Express
+- new | 2022 | 35855633 | Review | Mesenchymal stem cell treatment for hyperactive immune response in patients with COVID-19. | Immunotherapy
+- new | 2021 | 35024180 | Research Support, Non-U.S. Gov't/Review | Activation of Nrf2/HO-1 signaling: An important molecular mechanism of herbal medicine in the treatment of atherosclerosis via the protection of vascular endothelial cells from oxi | J Adv Res
+- new | 2021 | 34202537 | Review | Liver Disease: Induction, Progression, Immunological Mechanisms, and Therapeutic Interventions. | Int J Mol Sci
+- new | 2021 | 34194049 | Research Support, Non-U.S. Gov't/Review | Synthesis and characterization of chemically fueled supramolecular materials driven by carbodiimide-based fuels. | Nat Protoc
+- new | 2021 | 34299020 | Review | From Supramolecular Hydrogels to Multifunctional Carriers for Biologically Active Substances. | Int J Mol Sci
+- new | 2020 | 32596120 | Review | Attributes, Fabrication, and Applications of Gallium-Based Liquid Metal Particles. | Adv Sci (Weinh)
+- new | 2020 | 32831922 | Review | BRM270 targets cancer stem cells and augments chemo-sensitivity in cancer. | Oncol Lett
+- new | 2019 | 31267628 | Review | Living Materials Herald a New Era in Soft Robotics. | Adv Mater
+- HELD REF-2423 | 2019 | 30864498 | Research Support, Non-U.S. Gov't/Review | Prunella vulgaris: A Comprehensive Review of Chemical Constituents, Pharmacological Effects and Clinical Applications. | Curr Pharm Des
+- new | 2017 | 29018186 | Research Support, Non-U.S. Gov't/Review | Microfluidics with fluid walls. | Nat Commun
+- new | 2016 | 33157856 | Review/Research Support, Non-U.S. Gov't | Soft robotics: Technologies and systems pushing the boundaries of robot abilities. | Sci Robot
+- new | 2015 | 26199629 | Review | Advances and Prospects in Tissue-Engineered Meniscal Scaffolds for Meniscus Regeneration. | Stem Cells Int
+- new | 2014 | 24782412 | Research Support, Non-U.S. Gov't/Review | State-of-the-art analytical methods for assessing dynamic bonding soft matter materials. | Adv Mater
+- new | 2014 | 25911798 | Research Support, Non-U.S. Gov't/Review | [Identification of chemical signals and haustorium induced of Thesium chinense]. | Zhongguo Zhong Yao Za Zhi [chi]
+
+### ClinicalTrials.gov - 32 registered studies
+- NCT07374653 | NOT_YET_RECRUITING | results=False | NA | Online Self-healing Program | conds: Mild to Moderate Depressive Symptoms | intr: Online Cognitive Behaviural Therapy, Online Relaxation | pubs: ['36958770:RESULT (new)', '35404263:RESULT (new)', '34369987:RESULT (new)', '34079068:RESULT (new)', '37654623:RESULT (new)', '35885751:RESULT (new)', '30229343:RESULT (new)', '37679819:RESULT (new)', '32673212:RESULT (new)', '28771502:RESULT (new)', ':RESULT (-)']
+- NCT06492590 | COMPLETED | results=False | NA | Long COVID-19 Intervention (COVIDL/MIQoL) | conds: Long COVID-19 | intr: Multicomponent intervention | pubs: ['40458104:DERIVED (new)']
+- NCT07728461 | NOT_YET_RECRUITING | results=False | NA | Menopause and Compassionate Living Education | conds: Mindfulness Compassionate Living Training | intr: Session 1: How We Evolved - Threat, Impulse, and Soothing Systems, Session 2: Threat and Self-Compas
+- NCT05891223 | UNKNOWN | results=False | NA | The Effect of "Mindfulness-Based Compassionate Life Training" for University Students Affected by the Earthquake | conds: Earthquake, Trauma, Stress, Psychological | intr: Session 1: How We Evolved - Threat, Impulse, and Soothing Systems, Session 2: Threat and Self-Compas | pubs: ['40892898:DERIVED (new)']
+- NCT03783624 | COMPLETED | results=False | NA | Measuring the Effects of Complementary Therapies in Chronic Neuropathic Pain | conds: Neuropathic Pain | intr: Hypnosis, Open label placebo
+- NCT06449105 | UNKNOWN | results=False | NA | The Effect of Mindfulness Compassionate Living Practice on Hemodialysis Patients | conds: Hemodialysis Patients | intr: 1: How We Evolved - Threat, Impulse, and Soothing Systems, Session 2: Threat and Self-Compassion, Se
+- NCT04201106 | TERMINATED | results=False | NA | A Neuroimaging Study of Open-label Placebo in Depressed Adolescents | conds: Depression | intr: Open Label Placebo with Rationale, Open Label Placebo without Rationale
+- NCT05023902 | COMPLETED | results=False | NA | Comparison of Neuromuscular Integrative Activity and Pilates on Sedentary Females | conds: Womens's Health, Healthy, Sedentary Behavior | intr: Pilates, Neuromuscular Integrative Action
+- NCT03712800 | COMPLETED | results=False | NA | Rhythmical Massage Compared With Heart Rate Variability Biofeedback in Women With Menstrual Pain (Dysmenorrhea) | conds: Primary Dysmenorrhea | intr: Rhythmical massage, HRV biofeedback
+- NCT06440668 | UNKNOWN | results=False | NA | Management of Chronic Non-Cancer Pain With Non-Pharmacological Therapies | conds: Chronic Pain Syndrome, Sensitization, Central, Quality of Life, Patient Empowerment | intr: Chronic Pain Management Workshop with Non-Pharmacological Therapies | pubs: ['42793601:DERIVED (new)']
+- NCT00565305 | COMPLETED | results=False | NA | Healing Touch, Quality of Life, and Immunity During Breast Cancer Treatment | conds: Breast Cancer | intr: Healing Touch, Standard Treatment | pubs: ['10673515:RESULT (new)', '9552041:RESULT (new)', '2044064:RESULT (new)', '1532109:RESULT (new)', '25344282:RESULT (new)', '9858522:RESULT (new)', '4018006:RESULT (new)', '3546612:RESULT (new)', '2077396:RESULT (new)', '2460239:RESULT (new)', '10930491:RESULT (new)', ':RESULT (-)', ':RESULT (-)', ':RESULT (-)', ':RESULT (-)', '6322674:RESULT (new)', '3633503:RESULT (new)']
+- NCT02737735 | UNKNOWN | results=False | PHASE1 | The Effect on Decreasing Chemotherapeutic Toxicity and Increasing Anti-tumor Effect of Chinese Herbs Based on Syndrome Differentiation | conds: Carcinoma, Non-Small-Cell Lung | intr: standard chemotherapy medicine combined with Chinese herbs, standard chemotherapy medicine
+- NCT03398486 | COMPLETED | results=False | NA | The Effectiveness of Kinesiotaping and Inactivation of Trigger Points in Chronic Myofascial Pain of TMD | conds: Myofascial Pain, TMD | intr: Kinesiotaping, inactivation of trigger points (TrP)
+- NCT05898334 | COMPLETED | results=False | NA | Impact of Biophoton Generator on Chronic-Stroke Patients' Recovery | conds: Chronic Stroke, Paralysis | intr: Active Biophoton Generators, Inactive Biophoton Generators
+- NCT05483842 | COMPLETED | results=False | NA | Reiki Effects on Heart Rhythm, Biochemistry and Cortisol Findings, and Anxiety | conds: Anxiety, Heart Diseases | intr: Reiki, Sham Reiki | pubs: ['38652801:DERIVED (new)']
+- NCT05288036 | COMPLETED | results=False | NA | Effectiveness of PNF Training for Improving for Muscle Strength, Function, and Pain After Axillary Lymph Node Dissection | conds: Breast Cancer, Muscle Strength | intr: Proprioceptive Neuromuscular Rehabilitation group, Progressive Resistance Exercise Group, Control Gr | pubs: ['36528984:DERIVED (new)']
+- NCT07394023 | NOT_YET_RECRUITING | results=False | NA | The Effect of Mindfulness-Based Compassionate Living Practice on Primary Dysmenorrhea | conds: Mindfulness Training | intr: Session 1: How We Evolved - Threat, Impulse, and Soothing Systems, Session 2: Threat and Self-Compas
+- NCT07394634 | ENROLLING_BY_INVITATION | results=False | NA | Efficiency of Self Extracted Tooth Graft in Extraction Socket : A Clinical and Radiographic Study | conds: Healthy | intr: autogenous tooth graft | pubs: ['33565656:RESULT (new)']
+- NCT07117019 | COMPLETED | results=False | NA | Effect of Myofascial Release Combined With Acupressure on BL23 On Chronic Perineal Pain | conds: Chronic Perineal Pain | intr: Self-care and lifestyle intervention advice, Myofascial release, Acupressure
+- NCT06006338 | UNKNOWN | results=False | PHASE1 | 3D Printed Models for Liver Surgery | conds: Liver Cancer | intr: 3D Printed Model for preoperative planning | pubs: ['38114507:DERIVED (new)']
+- NCT05886959 | COMPLETED | results=False | NA | The Effect of Mindfulness-Based Compassionate Living Training Given to Caregivers of Inpatients in Palliative Clinic | conds: Informal Caregiver | intr: Session 1: How We Evolved - Threat, Impulse, and Soothing Systems, Session 2: Threat and Self-Compas | pubs: ['38411949:DERIVED (new)']
+- NCT00278837 | COMPLETED | results=False | NA | Avon Foundation Program to Improve Quality of Life in Breast Cancer Survivors | conds: Breast Cancer | intr: Mindfulness based meditation program | pubs: ['25249005:DERIVED (new)']
+- NCT04852939 | COMPLETED | results=False | NA | Bowen's Technique in Patients With Adhesive Capsulitis | conds: Adhesive Capsulitis | intr: Bowen's technique, Conventional physical therapy
+- NCT05693662 | COMPLETED | results=False | NA | The Effect of Mindfulness-Based Self-Compassion Education Given to Parents of Children With Autism Spectrum Disorder | conds: Autism Spectrum Disorder | intr: Session 1, Session 2, Session 3, Session 4
+- NCT06911086 | NOT_YET_RECRUITING | results=False | PHASE2,PHASE3 | SH-LPS System in Preoperative Planning for Liver Resection | conds: Liver Tumor; Surgery, 3D Printing, Preoperative Planning | intr: 3D printed models, CT or MRI image
+- NCT06147999 | RECRUITING | results=False | NA | Impact of a Biophoton Therapy on Patients With Brain Disorders | conds: Brain Disorders - Alzheimer's Disease, Dementia, Parkinson's Disease, Traumatic Brain Injury | intr: Biophotonizer - a Biophoton Generator
+- NCT06020040 | UNKNOWN | results=False | NA | Bone Particles Sizes and the Stability of Soft and Hard Tissue in Aesthetic Area | conds: Implant Site Reaction | intr: Heterograft
+- NCT06473636 | COMPLETED | results=False | NA | Mindfulness Training Improves Emotions Among Female Abdominal Cancer Patients | conds: Mindfulness Training | intr: Mindfulness training
+- NCT02578420 | COMPLETED | results=False | NA | Back to Basics - Effects, Narratives and Routes of Administration of Open-label Placebo | conds: Placebo Effect, Pain, Expectancy | intr: open-label placebo, deceptive placebo | pubs: ['34408060:DERIVED (new)']
+- NCT07451418 | NOT_YET_RECRUITING | results=False | NA | The Effect of Mindfulness Compassionate Living Training on Unwanted Pregnancies | conds: Mindfulness Compassionate Living Training | intr: Session 1: How We Evolved - Threat, Impulse, and Soothing Systems, Session 2: Threat and Self-Compas
+- NCT06840301 | COMPLETED | results=False | NA | The Effect of Mindfulness Compassionate Living Training on Ruminative Thinking and Sleep Quality | conds: Mindfulness Compassionate Living Training | intr: Session 1: How We Evolved - Threat, Impulse, and Soothing Systems, Session 2: Threat and Self-Compas
+- NCT04995354 | UNKNOWN | results=False | PHASE2,PHASE3 | Efficacy of EGF-loaded Self Healing Gel in Treatment of Oral Mucositis | conds: Oral Mucositis | intr: EGF loaded Hydrogel, Hydrogel
+
+### OpenAlex no-PMID trial-worded - 883 hits, 33 without PMID, 33 new
+- new | 2026 | 10.5281/zenodo.24222851 | dataset | A Chinese Herbal Composition for Benign Prostatic Hyperplasia with Qi Deficiency and Blood Stasis Pattern: A Single-Centre, Open-Label, Randomised Controlled Trial | Zenodo (CERN European Organization for N
+- new | 2026 | 10.12677/acm.2026.162460 | article | Study on the Effect of Prunella vulgaris Oral Liquid and Vitamin D in Reducing TRAb Levels in Patients with Graves’ Disease | Advances in Clinical Medicine
+- new | 2026 | 10.12677/tcm.2026.158404 | article | Research Progress on Pharmacological Action and Mechanism of Prunella vulgaris in the Treatment of Hashimoto’s Thyroiditis | Traditional Chinese Medicine
+- new | 2026 | 10.14738/bjhr.1305.12237 | article | Effectiveness of the Nutraceutical Prunella vulgaris on Auto-immunity and Quality of Life in Women with Hashimoto Thyroiditis: Case-Control Pilot Study | British journal of healthcare and medica
+- new | 2025 | 10.31058/j.bs.2025.61004 | article | The Applications of Prunella Vulgaris L. and Its Compound Formulations in the Treatment of Hashimot Thyroiditis | Biological Sciences
+- new | 2022 | 10.12677/tcm.2022.115138 | article | Application of Prunella vulgaris in Ophthalmology | Traditional Chinese Medicine
+- new | 2022 | 10.1177/1934578x221111032 | article | Network Pharmacology and Experimental Analyses of the Mechanism of Analgesic and Glucose Intolerance Through Glucocorticoid Signaling in C57 Mice Treated with Water Extract of Prun | Natural Product Communications
+- new | 2020 | 10.21203/rs.3.rs-96133/v1 | preprint | Effects of a Long-Term Administration of Aqueous Extract of Prunella vulgaris L. on Survival, Spontaneous Thyroid Carcinoma and Neoplastic C-cell Hyperplasia in Rats | Research Square
+- new | 2018 | 10.22270/ujpr.v3i3.160 | article | TREATMENT OF PATIENTS WITH ADVANCED CANCER FOLLOWING CHEMOTHERAPY AND TRADITIONAL MEDICINE - LONG TERM FOLLOW UP OF 75 CASES | Universal Journal of Pharmaceutical Rese
+- new | 2017 | 10.4314/tjpr.v16i4.20 | article | Effect of Prunella vulgaris L extract on hyperplasia of mammary gland in rats | Tropical Journal of Pharmaceutical Resea
+- new | 2017 | 10.15188/kjopp.2017.10.31.5.264 | article | Protective Effects of Prunella Vulgaris on Glomerular I njury in Streptozotocin-I nduced Diabetic Rats | 동의생리병리학회지
+- new | 2017 | 10.1089/act.2017.29123.eya | article | Herbs for Rheumatoid Arthritis | Alternative and Complementary Therapies
+- new | 2015 | 10.1007/s40495-015-0038-6 | article | Anti-tumor Properties of Prunella vulgaris | Current Pharmacology Reports
+- new | 2015 | 10.5772/60704 | book-chapter | Complementary Therapy with Traditional Chinese Medicine for Treating Atherosclerosis-Related Diseases | InTech eBooks
+- new | 2014 | https://openalex.org/W2359532383 | article | Effect of Prunella vulgaris alcohol component in on blood pressure in hypertensive rates | Strait Pharmaceutical Journal
+- new | 2014 | 10.3760/cma.j.issn.0253-3006.2014.12.007 | article | Effects of Prunella vulgaris L on the growth of hemangioma and the expression of Fas/FasL in nude mice | Zhonghua xiaoerwaike zazhi
+- new | 2013 | https://openalex.org/W2364339764 | article | Protection Effect of Prunella Vulgaris L. on Carbon Tetrachloride Induced Liver in Mice | Journal of Longyan University
+- new | 2013 | https://openalex.org/W2372655128 | article | Observation of the Clinical Efficacy on 42 Cases of Post-Herpetic Neuralgia Treated with Self-Prepared Jieyu Qingdu Powder | Shijie zhongxiyi jiehe zazhi
+- new | 2012 | https://openalex.org/W2392236433 | article | An Analysis of the Physicochemical Properties and Antioxidant Activity of Acidic Polysaccharide from Prunella vulgaris Linn | Fain kemikaru
+- new | 2011 | 10.5897/jmpr.9000447 | article | Development of species and region specific random amplification of polymorphic DNA- sequence characterized amplified region (RAPD-SCAR) markers for identification of the genuinenes | Journal of Medicinal Plants Research
+- new | 2011 | 10.3760/cma.j.issn.0254-5101.2011.10.008 | article | Effects of four extracts of Chinese herbal medicines on cellular immunity in rats induced by multiple drugs resistant bacillus tuberculosis among pneumoconiosis patients complicate | Zhonghua weishengwuxue he mianyixue zazh
+- new | 2011 | 10.1096/fasebj.25.1_supplement.1115.23 | conference-abstract | Effects of Prunella vulgaris in high glucose‐induced vascular dysfunction | The FASEB Journal
+- new | 2011 | 10.31274/etd-180810-3048 | dissertation | Nutraceutical efficacy in experimental animal models of inflammatory bowel disease: Echinacea angustifolia, Prunella vulgaris and Hypericum gentianoides | Iowa State University Digital Repository
+- new | 2009 | https://openalex.org/W2357738975 | article | Efficacy of Prunella vulgaris L. (EPVL) as an Adjuvant for Patients with Naive Indolent Lymphoma | Lishizhen Medicine and Materia Medica Re
+- new | 2009 | 10.1016/j.jnc.2009.04.007 | article | Seed introduction and gap creation facilitate restoration of meadow species richness | Journal for Nature Conservation
+- new | 2008 | https://openalex.org/W3027111481 | article | The Study on the Potential Anti-aging Properties of Prunella vulgaris Extract In Vitro and In Vivo | Journal of the Society of Cosmetic Scien
+- new | 2008 | https://openalex.org/W2375026853 | article | Effects of extracts from Prunella vulgaris on osteopontin expression in renal tissue of urolithiasis model rats with calcium oxalate stone | Zhongguo xiandai yixue/Zhongguo xiandai 
+- new | 2007 | https://openalex.org/W2379119290 | article | Extraction of Genomic DNA and Optimization of RAPD Reaction Condition for Prunella vulgaris L. | Tianran chanwu yanjiu yu kaifa
+- new | 2007 | https://openalex.org/W2350439656 | article | A clinical study on treating primary open-angle glaucoma by Prunella vulgaris L. | Journal of Traditional Chinese Ophthalmo
+- new | 2007 | 10.5657/kfas.2007.40.5.300 | article | Effects of Dietary Selfheal (Prunella vulgaris) Water Extracts and Its Culture Fluid with Lactobacillus rhamnosus on Growth and Immune Responses of Juvenile Olive Flounder | Korean Journal of Fisheries and Aquatic 
+- new | 2006 | https://openalex.org/W2348611112 | article | Mechanism of prunella vulgaris L and Kangyan No.1 infused via hepatic artery against primary liver cancer of rat | Journal of Modern Oncology
+- new | 2001 | https://openalex.org/W2386060578 | article | Treatment of Verruca Plana by Integrated Traditional Chinese and Western Medicine | Modern Diagnosis and Treatment
+- new | 1994 | 10.1002/j.1537-2197.1994.tb15401.x | article | The Effects of Density and Spatial Distribution on Selection for Emergence Time in Prunella vulgaris (Lamiaceae) | American Journal of Botany

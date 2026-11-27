@@ -67,3 +67,4 @@ rebased onto `osdb/main` before each push, because another session edits the mai
 | 23 | field restharrow, marjoram, oregano, yellow woodsorrel, European cranberry | REF-5545..5547 (3) | 1,498 -> 1,499 | `batches/r23_report.md` |
 | 24 | Asian ginseng, passionflower, guarana, pelargonium, butterbur | REF-5548..5569 (22) | 1,499 -> 1,503 | `batches/r24_report.md` |
 | 25 | parsley, anise, Scots pine, kava, ribwort plantain | REF-5570..5597 (28) | 1,503 -> 1,511 | `batches/r25_report.md` |
+| 26 | greater plantain, oyster mushroom, tormentil, cowslip, selfheal | REF-5598..5611 (14) | 1,511 -> 1,516 | `batches/r26_report.md` |

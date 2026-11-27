@@ -265,7 +265,6 @@ indications:
   - REF-0200
   - REF-0659
   status: needs-review
-  mechanistic_exclude_ids: []
 - condition: inflammation
   note: Extracts reduced inflammation in animal models of colitis, thyroiditis and uveitis (preclinical)
   reference_ids:
@@ -275,7 +274,6 @@ indications:
   - REF-0659
   - REF-0660
   status: needs-review
-  mechanistic_exclude_ids: []
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
@@ -329,6 +327,13 @@ indications:
   reference_ids:
   - REF-2919
   status: needs-review
+- condition: prostate-support
+  note: In a 2026 randomized double-blind trial in 80 men aged 40-75 with moderate urinary symptoms, selfheal
+    extract (600 mg daily) for 12 weeks improved prostate symptom scores (IPSS) and quality of life more
+    than placebo; urine flow and prostate size did not change
+  reference_ids:
+  - REF-5609
+  status: verified
 contraindications:
 - note: Generally very safe and well tolerated. No significant known toxicity or drug interactions. Safe
     for topical and internal use in normal medicinal doses. Suitable for most adults including children
@@ -347,6 +352,13 @@ contraindications:
   reference_ids:
   - REF-0200
   - REF-0063
+  status: verified
+- note: 'Long-term use: a person who took traditional Chinese medicines, mainly selfheal, for a long time,
+    together with vitamin D and calcium supplements, developed mesenteric phlebosclerosis, in which the
+    veins of the bowel calcify (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5610
   status: verified
 references:
 - REF-0659
@@ -413,4 +425,19 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   replaced by Grieve''s Self-Heal entry REF-4304 on vulnerary, bruising and wounds (wound herb;
   ''bruises or falls and hurts''); removed from the anti-inflammatory, antimicrobial, antioxidant,
   antiviral and immunomodulator actions and the cautions, which Grieve does not state. Same tier, so
-  no score change.'
+  no score change.
+  | 2026-11-27: symptom-source audit research-deepening batch 26 - Searched PubMed (Prunella
+  vulgaris / self-heal / selfheal / heal-all / Spica Prunellae / Xiakucao tiab; "heal-all" also
+  matched "time heals all wounds" prose: 36 HT (all already held), 15 SR, 85 SAFE hits), Europe
+  PMC, ClinicalTrials.gov (32) and OpenAlex. Added: NEW prostate-support pair (2026 LUTS RCT);
+  2024 mesenteric phlebosclerosis case as a caution. GAPS: thyroid - two meta-analyses (2025,
+  2027) report that Prunella preparations added to antithyroid drugs lowered thyroid hormones and
+  antibodies in Graves'' disease and hyperthyroidism (a 2026 meta-analysis of TCM formulas and a
+  2020 Hashimoto''s review also cover Xiakucao), but the vocabulary has no thyroid condition.
+  Cancer - a 2018 Frontiers trial in 424 breast cancer patients reported better pathological
+  response and survival with Prunella oral solution plus taxane, but neither the abstract nor the
+  full text states randomization or blinding, no trial registration is given, and the regimen is
+  described inconsistently, so it was not added. Not added: SKI 306X / SKCPT (Clematis +
+  Trichosanthes + Prunella combination) knee OA trials, Xiakucao + methimazole retrospective
+  study, 2019 subacute thyroiditis study (no vocabulary condition), 2024 heavy-metal risk
+  assessment (risks within acceptable limits), lab and animal studies.'

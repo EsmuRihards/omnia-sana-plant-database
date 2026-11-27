@@ -48036,15 +48036,16 @@
     },
     {
      "condition": "bronchitis",
-     "note": "Traditionally used in mild bronchitis (Herbal Reality)",
+     "note": "Traditionally used in mild bronchitis (Herbal Reality); in a 2024 randomized double-blind trial in 80 adults with acute bronchitis, plantain syrup for 10 days lowered bronchitis severity, cough frequency and sputum more than placebo",
      "reference_ids": [
-      "REF-0358"
+      "REF-0358",
+      "REF-5598"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0364"
      ],
-     "evidence": 1,
+     "evidence": 5,
      "label": "Bronchitis"
     },
     {
@@ -48077,16 +48078,17 @@
     },
     {
      "condition": "cough",
-     "note": "Demulcent / expectorant (coughs, catarrh, irritated airways)",
+     "note": "Demulcent / expectorant (coughs, catarrh, irritated airways); in a 2024 randomized double-blind trial in adults with acute bronchitis, plantain syrup reduced cough frequency more than placebo",
      "reference_ids": [
       "REF-0358",
-      "REF-1758"
+      "REF-1758",
+      "REF-5598"
      ],
      "status": "verified",
      "mechanistic_exclude_ids": [
       "REF-1769"
      ],
-     "evidence": 2,
+     "evidence": 5,
      "label": "Cough"
     },
     {
@@ -48196,6 +48198,26 @@
      "status": "needs-review",
      "evidence": 2,
      "label": "Cardiovascular / heart health"
+    },
+    {
+     "condition": "oral-health",
+     "note": "In a 2020 randomized double-blind trial in 46 people with head and neck cancer, plantain syrup during radiotherapy lowered the severity of mouth sores (oral mucositis) and mouth pain compared with placebo",
+     "reference_ids": [
+      "REF-5599"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Oral & throat health"
+    },
+    {
+     "condition": "liver-support",
+     "note": "In a 2021 randomized double-blind trial in 74 people with non-alcoholic fatty liver disease, plantain seed (2 g twice daily) for 12 weeks lowered liver enzymes and improved the ultrasound grade of fatty liver more than placebo",
+     "reference_ids": [
+      "REF-5600"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Liver support"
     }
    ],
    "contraindications": [
@@ -48250,6 +48272,15 @@
       "REF-0363",
       "REF-0366",
       "REF-0367"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Lab safety: a water extract of plantain was genotoxic in fruit flies, while a hydroalcoholic extract was not mutagenic in another test (lab and insect studies).",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5601",
+      "REF-5602"
      ],
      "status": "verified"
     }
@@ -48508,24 +48539,28 @@
       "REF-3399"
      ],
      "status": "verified",
-     "note": "Eating oyster mushroom lowered cholesterol and triglycerides, and in some trials blood pressure (systematic review; low-quality evidence)",
+     "note": "Eating oyster mushroom lowered cholesterol and triglycerides, and in some trials blood pressure (systematic review; low-quality evidence); in a 2026 double-blind RCT, 8.4 g of oyster mushroom powder daily for 4 weeks did not lower LDL cholesterol in adults with moderately raised LDL",
+     "null_result_ids": [
+      "REF-5606"
+     ],
      "evidence": 7,
      "label": "Cardiovascular / heart health"
     },
     {
      "condition": "cold",
-     "note": "Pleuran, the beta-glucan from oyster mushroom, reduced respiratory infection symptoms in placebo-controlled trials in athletes and children (compound evidence)",
+     "note": "Pleuran, the beta-glucan from oyster mushroom, reduced respiratory infection symptoms in placebo-controlled trials in athletes and children; in a 2025 randomized double-blind trial in 249 children, a chewable pleuran supplement cut respiratory infections and colds compared with an active placebo containing the same vitamin D and zinc (compound evidence)",
      "reference_ids": [
       "REF-2597",
       "REF-3400",
-      "REF-3401"
+      "REF-3401",
+      "REF-5603"
      ],
      "status": "needs-review",
      "mechanistic_exclude_ids": [
       "REF-0300",
       "REF-1497"
      ],
-     "evidence": 6,
+     "evidence": 7,
      "label": "Cold & flu"
     },
     {
@@ -48569,6 +48604,26 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Skin irritation"
+    },
+    {
+     "condition": "asthma",
+     "note": "In a 2025 randomized double-blind multicentre trial in 230 children with partly controlled asthma, pleuran (oyster mushroom beta-glucan) with vitamin C improved asthma control more than vitamin C alone, mainly in children under 12, and reduced respiratory infections in children aged 12 and over (compound evidence)",
+     "reference_ids": [
+      "REF-5604"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Asthma"
+    },
+    {
+     "condition": "memory",
+     "note": "In a 2026 randomized controlled trial in 80 healthy adults aged 60-80, eating oyster mushroom four times a week for 12 weeks improved delayed word recall and recognition compared with a placebo food",
+     "reference_ids": [
+      "REF-5605"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Memory"
     }
    ],
    "contraindications": [
@@ -48576,7 +48631,8 @@
      "note": "Generally very safe as a food. Rare cases of occupational asthma and allergy reported among people working with mushroom cultivation. Safe for culinary use without significant known interactions.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0300"
+      "REF-0300",
+      "REF-5607"
      ],
      "status": "verified"
     },
@@ -48586,6 +48642,14 @@
      "reference_ids": [
       "REF-0300",
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Food allergy: one person had an allergic reaction after eating oyster mushroom, confirmed by an oral food challenge (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5608"
      ],
      "status": "verified"
     }
@@ -49188,6 +49252,14 @@
       "REF-0063"
      ],
      "status": "verified"
+    },
+    {
+     "note": "Contamination: in a 2017 survey of 98 herbal medicines from German shops and pharmacies, fixed-combination products of cowslip with gentian, sorrel, vervain and elder were commonly contaminated with pyrrolizidine alkaloids from Senecio plants (ragworts and groundsels), often above German and EU recommended limits; these alkaloids can harm the liver (product analysis).",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5611"
+     ],
+     "status": "verified"
     }
    ],
    "references": [
@@ -49567,7 +49639,6 @@
       "REF-0659"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [],
      "evidence": 2,
      "label": "Infection (general)"
     },
@@ -49582,7 +49653,6 @@
       "REF-0660"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [],
      "evidence": 2,
      "label": "Inflammation (general)"
     },
@@ -49670,6 +49740,16 @@
      "status": "needs-review",
      "evidence": 2,
      "label": "Cognitive function"
+    },
+    {
+     "condition": "prostate-support",
+     "note": "In a 2026 randomized double-blind trial in 80 men aged 40-75 with moderate urinary symptoms, selfheal extract (600 mg daily) for 12 weeks improved prostate symptom scores (IPSS) and quality of life more than placebo; urine flow and prostate size did not change",
+     "reference_ids": [
+      "REF-5609"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Prostate support"
     }
    ],
    "contraindications": [
@@ -49687,6 +49767,14 @@
      "reference_ids": [
       "REF-0200",
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Long-term use: a person who took traditional Chinese medicines, mainly selfheal, for a long time, together with vitamin D and calcium supplements, developed mesenteric phlebosclerosis, in which the veins of the bowel calcify (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5610"
      ],
      "status": "verified"
     }

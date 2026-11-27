@@ -164,14 +164,20 @@ indications:
   - REF-3399
   status: verified
   note: Eating oyster mushroom lowered cholesterol and triglycerides, and in some trials blood pressure
-    (systematic review; low-quality evidence)
+    (systematic review; low-quality evidence); in a 2026 double-blind RCT, 8.4 g of oyster mushroom powder
+    daily for 4 weeks did not lower LDL cholesterol in adults with moderately raised LDL
+  null_result_ids:
+  - REF-5606
 - condition: cold
   note: Pleuran, the beta-glucan from oyster mushroom, reduced respiratory infection symptoms in placebo-controlled
-    trials in athletes and children (compound evidence)
+    trials in athletes and children; in a 2025 randomized double-blind trial in 249 children, a chewable
+    pleuran supplement cut respiratory infections and colds compared with an active placebo containing
+    the same vitamin D and zinc (compound evidence)
   reference_ids:
   - REF-2597
   - REF-3400
   - REF-3401
+  - REF-5603
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0300
@@ -201,12 +207,28 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids: []
   status: needs-review
+- condition: asthma
+  note: In a 2025 randomized double-blind multicentre trial in 230 children with partly controlled asthma,
+    pleuran (oyster mushroom beta-glucan) with vitamin C improved asthma control more than vitamin C alone,
+    mainly in children under 12, and reduced respiratory infections in children aged 12 and over (compound
+    evidence)
+  reference_ids:
+  - REF-5604
+  status: verified
+- condition: memory
+  note: In a 2026 randomized controlled trial in 80 healthy adults aged 60-80, eating oyster mushroom
+    four times a week for 12 weeks improved delayed word recall and recognition compared with a placebo
+    food
+  reference_ids:
+  - REF-5605
+  status: verified
 contraindications:
 - note: Generally very safe as a food. Rare cases of occupational asthma and allergy reported among people
     working with mushroom cultivation. Safe for culinary use without significant known interactions.
   severity: caution
   reference_ids:
   - REF-0300
+  - REF-5607
   status: verified
 - note: Duke (2002) does not include a dedicated entry for Oyster mushroom (Pleurotus ostreatus) in the
     Handbook of Medicinal Herbs, Second Edition.
@@ -214,6 +236,12 @@ contraindications:
   reference_ids:
   - REF-0300
   - REF-0063
+  status: verified
+- note: 'Food allergy: one person had an allergic reaction after eating oyster mushroom, confirmed by
+    an oral food challenge (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5608
   status: verified
 references:
 - REF-1496
@@ -308,4 +336,23 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   Jesenak 2013 REF-3401 (children with recurrent RTIs; placebo arm got the same vitamin C) for
   cold and immune-support (pleuran = signature compound, labelled). REF-2596 (immune profile in
   breast-cancer survivors; no tumour outcome) removed from cancer.
-  | 2026-11-19 (monograph-source audit): harvesting cited only REF-2627 (Japanese report on the 2004 Pleurocybella porrigens poisonings), which says nothing about when or how to pick oyster mushrooms. RE-SOURCED: Fungi Ally REF-3318 (harvest before the cap edges flatten), Wikipedia (REF-3965, new; grows on dying hardwood), mushroom-appreciation REF-2629 (angel wings on conifer wood, late summer to autumn); REF-2627 kept only for the poisonings. Dropped as unsupported: picked before tough or insect-damaged, season cooler moist months (autumn-spring).'
+  | 2026-11-19 (monograph-source audit): harvesting cited only REF-2627 (Japanese report on the 2004 Pleurocybella porrigens poisonings), which says nothing about when or how to pick oyster mushrooms. RE-SOURCED: Fungi Ally REF-3318 (harvest before the cap edges flatten), Wikipedia (REF-3965, new; grows on dying hardwood), mushroom-appreciation REF-2629 (angel wings on conifer wood, late summer to autumn); REF-2627 kept only for the poisonings. Dropped as unsupported: picked before tough or insect-damaged, season cooler moist months (autumn-spring).
+  | 2026-11-27: symptom-source audit research-deepening batch 26 - Searched PubMed (Pleurotus
+  ostreatus / oyster mushroom(s) tiab: 53 HT, 4 SR, 180 SAFE hits; most were cultivation,
+  bioremediation and feed studies), Europe PMC, ClinicalTrials.gov (13) and OpenAlex. Added: 2025
+  chewable pleuran RCT to cold (score was 6; the active placebo had the same vitamin D and zinc,
+  so pleuran is isolated); NEW asthma pair (2025 pleuran + vitamin C vs vitamin C RCT; benefit
+  partly in age subgroups); NEW memory pair (2026 OYSCOG whole-mushroom RCT in healthy older
+  adults; anxiety was not paired because the difference came from worsening on placebo); 2026
+  double-blind LDL trial as a NULL result on cardiovascular-support; inhalation anaphylaxis case
+  added to the occupational allergy caution; food-allergy case as a caution. GAP: diarrhoea - a
+  2025 double-blind pleuran RCT in 27 children with acute gastroenteritis (Europe PMC) found no
+  effect on duration or severity; there is no diarrhoea pair to attach it to. Not added: 2020
+  pleuran herpes (HSV-1) RCT (no herpes condition in the vocabulary), 2017 COPD exacerbation study
+  (non-randomized, open-label), 2016 pleuran cream in atopic dermatitis (open split-body, no
+  randomization stated), 2014 anti-allergic pleuran RCT (eosinophils and IgE only, surrogate),
+  2010 athletes immune-cell study (surrogate), 2022 Mexican diet study (results within-group),
+  2011 HIV lipid study (single-arm; non-HDL cholesterol unchanged), Tamogitake extract (Pleurotus
+  cornucopiae, other species), Mediterranean-diet mushroom trials (white button and oyster
+  together), fungal beta-glucan and mushroom-intake systematic reviews (pool other species),
+  single-meal GLP-1 studies (acute, surrogate), 2026 occupational allergy letter (no abstract).'

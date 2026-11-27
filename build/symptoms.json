@@ -8923,6 +8923,49 @@
    "wp_post_id": 179,
    "indications": [
     {
+     "condition": "bronchitis",
+     "label": "Bronchitis",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0358",
+      "REF-5598"
+     ]
+    },
+    {
+     "condition": "cough",
+     "label": "Cough",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0358",
+      "REF-1758",
+      "REF-5598"
+     ]
+    },
+    {
+     "condition": "liver-support",
+     "label": "Liver support",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5600"
+     ]
+    },
+    {
+     "condition": "oral-health",
+     "label": "Oral & throat health",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5599"
+     ]
+    },
+    {
      "condition": "cancer",
      "label": "Cancer (anticancer research)",
      "evidence": 2,
@@ -8950,17 +8993,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-1758"
-     ]
-    },
-    {
-     "condition": "cough",
-     "label": "Cough",
-     "evidence": 2,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0358",
       "REF-1758"
      ]
     },
@@ -9052,16 +9084,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": []
-    },
-    {
-     "condition": "bronchitis",
-     "label": "Bronchitis",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0358"
-     ]
     },
     {
      "condition": "bruising",
@@ -12643,6 +12665,19 @@
      ]
     },
     {
+     "condition": "cold",
+     "label": "Cold & flu",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2597",
+      "REF-3400",
+      "REF-3401",
+      "REF-5603"
+     ]
+    },
+    {
      "condition": "immune-support",
      "label": "Immune support",
      "evidence": 7,
@@ -12666,15 +12701,23 @@
      ]
     },
     {
-     "condition": "cold",
-     "label": "Cold & flu",
-     "evidence": 6,
-     "status": "needs-review",
-     "inferred": true,
+     "condition": "asthma",
+     "label": "Asthma",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
      "references": [
-      "REF-2597",
-      "REF-3400",
-      "REF-3401"
+      "REF-5604"
+     ]
+    },
+    {
+     "condition": "memory",
+     "label": "Memory",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5605"
      ]
     },
     {
@@ -15024,6 +15067,16 @@
    "common_slug": "selfheal",
    "wp_post_id": null,
    "indications": [
+    {
+     "condition": "prostate-support",
+     "label": "Prostate support",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5609"
+     ]
+    },
     {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",

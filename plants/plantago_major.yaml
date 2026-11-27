@@ -243,9 +243,12 @@ indications:
   - REF-3010
   - REF-0364
 - condition: bronchitis
-  note: Traditionally used in mild bronchitis (Herbal Reality)
+  note: Traditionally used in mild bronchitis (Herbal Reality); in a 2024 randomized double-blind trial
+    in 80 adults with acute bronchitis, plantain syrup for 10 days lowered bronchitis severity, cough
+    frequency and sputum more than placebo
   reference_ids:
   - REF-0358
+  - REF-5598
   status: needs-review
   mechanistic_exclude_ids:
   - REF-0364
@@ -267,10 +270,12 @@ indications:
   - REF-1769
   - REF-0358
 - condition: cough
-  note: Demulcent / expectorant (coughs, catarrh, irritated airways)
+  note: Demulcent / expectorant (coughs, catarrh, irritated airways); in a 2024 randomized double-blind
+    trial in adults with acute bronchitis, plantain syrup reduced cough frequency more than placebo
   reference_ids:
   - REF-0358
   - REF-1758
+  - REF-5598
   status: verified
   mechanistic_exclude_ids:
   - REF-1769
@@ -339,6 +344,20 @@ indications:
   - REF-3002
   - REF-3003
   status: needs-review
+- condition: oral-health
+  note: In a 2020 randomized double-blind trial in 46 people with head and neck cancer, plantain syrup
+    during radiotherapy lowered the severity of mouth sores (oral mucositis) and mouth pain compared with
+    placebo
+  reference_ids:
+  - REF-5599
+  status: verified
+- condition: liver-support
+  note: In a 2021 randomized double-blind trial in 74 people with non-alcoholic fatty liver disease, plantain
+    seed (2 g twice daily) for 12 weeks lowered liver enzymes and improved the ultrasound grade of fatty
+    liver more than placebo
+  reference_ids:
+  - REF-5600
+  status: verified
 contraindications:
 - note: Extremely safe; one of the most widely used edible and medicinal plants in the world. Psyllium
     seeds (closely related) are well-studied as a bulk laxative but should always be taken with adequate
@@ -389,6 +408,13 @@ contraindications:
   - REF-0363
   - REF-0366
   - REF-0367
+  status: verified
+- note: 'Lab safety: a water extract of plantain was genotoxic in fruit flies, while a hydroalcoholic
+    extract was not mutagenic in another test (lab and insect studies).'
+  severity: info
+  reference_ids:
+  - REF-5601
+  - REF-5602
   status: verified
 references:
 - REF-0354
@@ -459,4 +485,26 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-0354 (antidiarrhoeal, anti-inflammatory), Grieve REF-0098 Common Plantain (inflammation of
   the skin; diarrhoea). Note: REF-3010 carries its journal''s published abstract, which reads like
   a copy of earlier reviews, not the in-vitro study its title describes (left as mechanistic
-  card).'
+  card).
+  | 2026-11-27: symptom-source audit research-deepening batch 26 - Searched PubMed (Plantago major
+  / greater, broadleaf, broad-leaved or common plantain tiab; bare "plantain" was not searched
+  because it also matches banana plantains and psyllium: 20 HT, 11 SR, 39 SAFE hits), Europe PMC,
+  ClinicalTrials.gov (2) and OpenAlex. Added: 2024 acute bronchitis RCT to bronchitis and cough
+  (both previously rested only on traditional sources); NEW oral-health pair (2020 radiation
+  mucositis RCT; two systematic reviews of natural products for radiation mucositis were not
+  cited); NEW liver-support pair (2021 NAFLD RCT: enzymes and ultrasound grade); genotoxicity lab
+  studies as an info note. GAPS: heavy-bleeding - the 2020 oral syrup trial compared only with
+  mefenamic acid (active comparator) and was not better for severity; the 2026 systematic review
+  mixes oral syrup with vaginal and rectal suppositories and postpartum bleeding, and reports
+  haemoglobin falling in the treated groups, so no pair. IBD - in the 2021 ulcerative colitis seed
+  RCT some symptoms (abdominal tenderness, reflux, gastric pain) were milder than placebo, but
+  blood in stool and distension improved only within-group and no total activity index difference
+  is reported, so no pair. Kidney - 2024 diabetic nephropathy trial was open-label with
+  proteinuria only (surrogate). Urinary - a 1992 double-blind placebo crossover found no diuretic
+  effect for Plantago major (there is no urinary pair to attach it to). Not added: Aloe vera +
+  plantain diabetic-foot gel, plantain + mallow + honey radiation dermatitis cream, KalobaTUSS and
+  Butirprost (combinations), 2021 obese-women leptin/VEGF trial (surrogate), 2009 irritant contact
+  dermatitis letter (no abstract), 1982 Bulgarian chronic bronchitis series (25 patients, no
+  control group; Europe PMC), psyllium meta-analyses (Plantago ovata, other species), 2019
+  Lebanese blood-pressure RCT (tested mint, nettle and violet, not plantain), phytoremediation and
+  veterinary studies.'

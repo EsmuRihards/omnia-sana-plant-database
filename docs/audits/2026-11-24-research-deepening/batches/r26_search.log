@@ -1,0 +1,41 @@
+   plantago-major HT 20
+   plantago-major SR 11
+   plantago-major SAFE 39
+   plantago-major OBS 4
+   plantago-major REV 21
+plantago-major done
+   pleurotus-ostreatus HT 53
+   pleurotus-ostreatus SR 4
+   pleurotus-ostreatus SAFE 180
+   pleurotus-ostreatus OBS 3
+   pleurotus-ostreatus REV 93
+pleurotus-ostreatus done
+   potentilla-erecta HT 10
+   potentilla-erecta SR 3
+   potentilla-erecta SAFE 8
+   potentilla-erecta OBS 0
+   potentilla-erecta REV 8
+potentilla-erecta done
+   primula-veris HT 3
+   primula-veris SR 0
+   primula-veris SAFE 3
+   primula-veris OBS 0
+   primula-veris REV 3
+primula-veris done
+  !! request failed: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi <urlopen error [Errno 11001] getaddrinfo failed>
+   prunella-vulgaris HT 36
+   prunella-vulgaris SR 15
+   prunella-vulgaris SAFE 85
+   prunella-vulgaris OBS 15
+   prunella-vulgaris REV 75
+prunella-vulgaris done
+
+PUBMED-DONE
+plantago-major done
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22Pleurotus+ostreatus%22+OR+TITLE%3A%22Oys HTTP Error 503: Service Temporarily Unavailable
+pleurotus-ostreatus done
+potentilla-erecta done
+primula-veris done
+prunella-vulgaris done
+# Research-deepening batch 26 - Europe PMC
+SEARCH-DONE

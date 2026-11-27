@@ -177,6 +177,14 @@ contraindications:
   - REF-0235
   - REF-0063
   status: verified
+- note: 'Contamination: in a 2017 survey of 98 herbal medicines from German shops and pharmacies, fixed-combination
+    products of cowslip with gentian, sorrel, vervain and elder were commonly contaminated with pyrrolizidine
+    alkaloids from Senecio plants (ragworts and groundsels), often above German and EU recommended limits;
+    these alkaloids can harm the liver (product analysis).'
+  severity: info
+  reference_ids:
+  - REF-5611
+  status: verified
 references:
 - REF-0870
 - REF-0871
@@ -230,4 +238,10 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0075 is the EU monograph
   on Primula veris/elatior root (title and link corrected). It states only use as an expectorant in
   cough with a cold, so the anti-inflammatory and sedative actions it alone carried are removed (no
-  other source on the record names them); the respiratory pair keeps it.'
+  other source on the record names them); the respiratory pair keeps it.
+  | 2026-11-27: symptom-source audit research-deepening batch 26 - Searched PubMed (Primula veris
+  / Primula officinalis / Primulae radix / cowslip tiab; marsh cowslip, Caltha, is a different
+  plant: 3 HT, 0 SR, 3 SAFE hits), Europe PMC, ClinicalTrials.gov (0) and OpenAlex. Added: 2017
+  German market survey of pyrrolizidine-alkaloid contamination as an info note. Not added:
+  Sinupret, Cardiodoron and a heart-rate-variability herbal composition (combinations), thymol
+  cough review. Settled for human efficacy evidence: no trial of cowslip alone was found.'

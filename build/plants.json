@@ -51512,6 +51512,22 @@
       "REF-0063"
      ],
      "status": "verified"
+    },
+    {
+     "note": "Medicines: in a randomized crossover study in 13 healthy volunteers, rhodiola reduced the activity of the liver enzyme CYP2C9 by about 21% (losartan probe), with no effect on CYP1A2, 2C19, 2D6 or 3A4; the authors note this could matter for CYP2C9-metabolised drugs with a narrow safety margin (pharmacokinetic study).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5627"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Product quality: in a 2026 analysis of US rhodiola supplements, rosavin and salidroside content ranged from almost none to about 3% and often differed from the label, one product appeared to contain added synthetic salidroside, and all capsule products had trace arsenic, cobalt and lead (two at notably higher levels) (product analysis).",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5628"
+     ],
+     "status": "verified"
     }
    ],
    "references": [
@@ -51870,6 +51886,7 @@
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-08-15",
+   "drug_class_interactions": [],
    "common_slug": "labrador-tea"
   },
   {
@@ -52096,11 +52113,12 @@
       "REF-0097",
       "REF-1248",
       "REF-1249",
-      "REF-1250"
+      "REF-1250",
+      "REF-5633"
      ],
      "status": "verified",
-     "note": "Blackcurrant extract lowered cholesterol in a small pilot study in women and protected blood vessels in animal studies; cardiovascular uses reviewed (review)",
-     "evidence": 3,
+     "note": "Blackcurrant extract lowered cholesterol in a small pilot study in women and protected blood vessels in animal studies; in a 2023 six-month randomized placebo-controlled pilot trial in 38 women in the menopause transition, blackcurrant anthocyanins lowered triglycerides and inflammatory markers dose-dependently; cardiovascular uses reviewed (review)",
+     "evidence": 6,
      "label": "Cardiovascular / heart health"
     },
     {
@@ -52178,6 +52196,20 @@
      "status": "verified",
      "evidence": 5,
      "label": "Blood sugar / diabetes support"
+    },
+    {
+     "condition": "muscle-soreness",
+     "note": "In a 2021 randomized double-blind trial in 27 untrained adults, New Zealand blackcurrant extract taken before and after strenuous arm exercise reduced muscle soreness at 24 and 48 hours and sped recovery of strength compared with placebo; a 2016 nectar trial and a 2020 half-marathon trial found no difference in soreness",
+     "reference_ids": [
+      "REF-5630"
+     ],
+     "status": "verified",
+     "null_result_ids": [
+      "REF-5631",
+      "REF-5632"
+     ],
+     "evidence": 5,
+     "label": "Muscle soreness"
     }
    ],
    "contraindications": [
@@ -52475,11 +52507,12 @@
       "REF-0051",
       "REF-0991",
       "REF-0994",
-      "REF-3111"
+      "REF-3111",
+      "REF-5634"
      ],
      "status": "verified",
-     "note": "Rose hip flesh and extracts reduced fat build-up and improved blood sugar in animal studies (preclinical); seed lipid-lowering effects reviewed (systematic review)",
-     "evidence": 7,
+     "note": "Rose hip flesh and extracts reduced fat build-up and improved blood sugar in animal studies (preclinical); seed lipid-lowering effects reviewed (systematic review); in a 2015 randomized double-blind trial in 32 pre-obese adults, rose hip extract for 12 weeks reduced abdominal visceral fat, body weight and BMI more than placebo",
+     "evidence": 8,
      "label": "Metabolic support"
     },
     {
@@ -52505,6 +52538,26 @@
      "status": "verified",
      "evidence": 5,
      "label": "Urinary tract infection (UTI)"
+    },
+    {
+     "condition": "high-cholesterol",
+     "note": "In a 2012 randomized double-blind crossover trial in 31 obese adults, a rose hip powder drink for 6 weeks lowered total cholesterol by 4.9% and LDL cholesterol by 6% compared with a control drink; a 2023 systematic review found mixed effects on blood lipids across trials",
+     "reference_ids": [
+      "REF-5635"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "High cholesterol"
+    },
+    {
+     "condition": "high-blood-pressure",
+     "note": "In the same 2012 randomized double-blind crossover trial in obese adults, the rose hip drink lowered systolic blood pressure by 3.4% compared with a control drink; diastolic pressure did not change",
+     "reference_ids": [
+      "REF-5635"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "High blood pressure"
     }
    ],
    "contraindications": [

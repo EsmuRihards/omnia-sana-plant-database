@@ -2987,6 +2987,20 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "cardiovascular-support",
+     "label": "Cardiovascular / heart health",
+     "evidence": 6,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0097",
+      "REF-1248",
+      "REF-1249",
+      "REF-1250",
+      "REF-5633"
+     ]
+    },
+    {
      "condition": "blood-sugar",
      "label": "Blood sugar / diabetes support",
      "evidence": 5,
@@ -2997,16 +3011,13 @@
      ]
     },
     {
-     "condition": "cardiovascular-support",
-     "label": "Cardiovascular / heart health",
-     "evidence": 3,
+     "condition": "muscle-soreness",
+     "label": "Muscle soreness",
+     "evidence": 5,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0097",
-      "REF-1248",
-      "REF-1249",
-      "REF-1250"
+      "REF-5630"
      ]
     },
     {
@@ -6592,14 +6603,15 @@
     {
      "condition": "metabolic-support",
      "label": "Metabolic support",
-     "evidence": 7,
+     "evidence": 8,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0051",
       "REF-0991",
       "REF-0994",
-      "REF-3111"
+      "REF-3111",
+      "REF-5634"
      ]
     },
     {
@@ -6610,6 +6622,26 @@
      "inferred": true,
      "references": [
       "REF-0051"
+     ]
+    },
+    {
+     "condition": "high-blood-pressure",
+     "label": "High blood pressure",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5635"
+     ]
+    },
+    {
+     "condition": "high-cholesterol",
+     "label": "High cholesterol",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5635"
      ]
     },
     {

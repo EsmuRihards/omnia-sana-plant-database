@@ -174,9 +174,12 @@ indications:
   - REF-1248
   - REF-1249
   - REF-1250
+  - REF-5633
   status: verified
   note: Blackcurrant extract lowered cholesterol in a small pilot study in women and protected blood vessels
-    in animal studies; cardiovascular uses reviewed (review)
+    in animal studies; in a 2023 six-month randomized placebo-controlled pilot trial in 38 women in the
+    menopause transition, blackcurrant anthocyanins lowered triglycerides and inflammatory markers dose-dependently;
+    cardiovascular uses reviewed (review)
 - condition: cold
   note: inferred from antiviral action
   reference_ids: []
@@ -219,6 +222,17 @@ indications:
   reference_ids:
   - REF-1247
   status: verified
+- condition: muscle-soreness
+  note: In a 2021 randomized double-blind trial in 27 untrained adults, New Zealand blackcurrant extract
+    taken before and after strenuous arm exercise reduced muscle soreness at 24 and 48 hours and sped
+    recovery of strength compared with placebo; a 2016 nectar trial and a 2020 half-marathon trial found
+    no difference in soreness
+  reference_ids:
+  - REF-5630
+  status: verified
+  null_result_ids:
+  - REF-5631
+  - REF-5632
 contraindications:
 - note: 'Fruit (berries) • Generally safe as food for most people; adverse effects mainly GI discomfort
     or allergy in sensitive individuals. • If using high-dose extracts, use extra caution with blood-thinners/anticoagulants
@@ -289,4 +303,21 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): REF-0302 (Watson 2015)
   metadata corrected from Crossref (J Funct Foods 17:524-539, DOI 10.1016/j.jff.2015.06.005). It is an
   acute berry-extract cognition trial, so it is removed from the leaf infusion, leaf dose, traditional
-  uses and cautions and kept in the references.'
+  uses and cautions and kept in the references.
+  | 2026-11-27: symptom-source audit research-deepening batch 28 - Searched PubMed (Ribes nigrum /
+  blackcurrant(s) / black currant(s) tiab: 206 HT (listing capped at 200), 20 SR, 79 SAFE hits),
+  Europe PMC, ClinicalTrials.gov (57) and OpenAlex. Most trials were sport-performance studies of
+  New Zealand blackcurrant extract (no vocabulary condition). Added: NEW muscle-soreness pair
+  (2021 RCT) with two null RCTs recorded alongside (2016 nectar, 2020 half-marathon); 2023
+  menopause-transition RCT (triglycerides, inflammation) to cardiovascular-support. GAPS: high
+  blood pressure - a 2023 meta-analysis of four blackcurrant RCTs found no effect on systolic or
+  diastolic pressure (a 2020 7-day crossover in 14 older adults was positive), so no pair; eczema
+  - a 2010 RCT of blackcurrant seed oil (vs olive oil) given to mothers from early pregnancy and
+  then to infants lowered atopic dermatitis at 12 but not 24 months, but the record cautions that
+  maternal trials do not mean use in pregnancy is recommended (inv. 12d), so no pair; glaucoma - a
+  2012 two-year RCT slowed visual-field loss, but there is no glaucoma condition (eye-strain is
+  not a match). Not added: acute cognition and mood studies in healthy young adults, exercise
+  GI-symptom trial, osteoporosis pilot (no vocabulary condition), asthma feasibility study (5
+  people), Chinese blackcurrant-oil capsule study (observational), postprandial glucose studies
+  (blood-sugar not padded), mixed berry, polyphenol-juice and anthocyanin-blend trials
+  (combinations).'

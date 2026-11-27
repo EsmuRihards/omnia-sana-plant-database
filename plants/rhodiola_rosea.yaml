@@ -266,8 +266,8 @@ indications:
   - REF-3733
   status: verified
 contraindications:
-- note: Generally well tolerated. May cause agitation, insomnia, or vivid dreams in sensitive individuals -
-    take in the morning. Avoid in manic episodes or severe anxiety. Theoretical interactions with MAOIs,
+- note: Generally well tolerated. May cause agitation, insomnia, or vivid dreams in sensitive individuals
+    - take in the morning. Avoid in manic episodes or severe anxiety. Theoretical interactions with MAOIs,
     SSRIs, and CNS stimulants. Avoid during pregnancy and breastfeeding.
   severity: caution
   reference_ids:
@@ -282,6 +282,22 @@ contraindications:
   - REF-0132
   - REF-1528
   - REF-0063
+  status: verified
+- note: 'Medicines: in a randomized crossover study in 13 healthy volunteers, rhodiola reduced the activity
+    of the liver enzyme CYP2C9 by about 21% (losartan probe), with no effect on CYP1A2, 2C19, 2D6 or 3A4;
+    the authors note this could matter for CYP2C9-metabolised drugs with a narrow safety margin (pharmacokinetic
+    study).'
+  severity: caution
+  reference_ids:
+  - REF-5627
+  status: verified
+- note: 'Product quality: in a 2026 analysis of US rhodiola supplements, rosavin and salidroside content
+    ranged from almost none to about 3% and often differed from the label, one product appeared to contain
+    added synthetic salidroside, and all capsule products had trace arsenic, cobalt and lead (two at notably
+    higher levels) (product analysis).'
+  severity: info
+  reference_ids:
+  - REF-5628
   status: verified
 references:
 - REF-1526
@@ -363,4 +379,21 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   SHR-5 night-duty trial) now has PMID/DOI/abstract. It tested mental fatigue in physicians, so it is
   removed from the ergogenic (physical performance) and neuroprotective actions and from the Duke
   note; it stays on cognitive-function, fatigue and memory and on the general tolerability caution (no
-  side-effects reported).'
+  side-effects reported).
+  | 2026-11-27: symptom-source audit research-deepening batch 28 - Searched PubMed (Rhodiola rosea
+  / roseroot / golden root / Arctic root / SHR-5 / WS 1375 tiab; bare "rhodiola" was not searched
+  because Chinese rhodiola products are often R. crenulata or R. wallichiana: 134 HT, 27 SR, 139
+  SAFE hits), Europe PMC, ClinicalTrials.gov (29) and OpenAlex; stress/anxiety RCTs were also
+  searched directly. Fatigue (7), cognitive-function (6) and depression (5) were not padded: the
+  2009 SHR-5 stress-fatigue RCT and 2000 exam-stress RCT fit fatigue, and the 2025
+  milder-depression meta-analysis rests on a single rhodiola placebo RCT. Added: 2016 human CYP
+  cocktail crossover (CYP2C9 inhibition) as a medicines caution; 2026 US supplement quality
+  analysis as an info note. GAP: stress/anxiety - the 2015 Vitano trial (held as
+  cropley2015rhodiola) randomized 80 mildly anxious adults to rhodiola or no treatment (not
+  placebo), outcomes were self-reported and the authors state they cannot determine a causal
+  relationship, so no pair; the burnout, life-stress (WS 1375), GAD and chronic-fatigue studies
+  were open-label or single-arm. Not added: sport-performance RCTs and the 2026 Rhodiola-species
+  meta-analysis (antioxidant only, no ergogenic effect; no vocabulary condition), caffeine +
+  rhodiola, rhodiola + saffron, Cimicifuga + rhodiola, ADAPT-232 and other combinations, Chinese
+  "rhodiola" injections and capsules (species not R. rosea or not stated), R. crenulata trials
+  (other species), healthy-volunteer reaction-time study (not padded), preprints.'

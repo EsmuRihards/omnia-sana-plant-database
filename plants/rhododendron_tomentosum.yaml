@@ -253,4 +253,21 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   Labrador Tea entry is Ledum latifolium and gives L. palustre no medicinal use (narcotic; used to
   strengthen beer). Dampc 2013 review REF-0053 (PMID 23352748, retagged narrative-review) names
   rheumatism, cough, cold and insect bites - removed from swelling, urinary-support and uti and
-  from the diuretic action; urinary-support and uti dropped (no source names them).'
+  from the diuretic action; urinary-support and uti dropped (no source names them).
+  | 2026-11-27: symptom-source audit research-deepening batch 28 - Searched PubMed (Rhododendron
+  tomentosum / Ledum palustre / marsh Labrador tea / marsh tea tiab, "Labrador tea" in titles; bog
+  Labrador tea, R. groenlandicum, is a different species: 4 HT, 0 SR, 10 SAFE hits), Europe PMC,
+  ClinicalTrials.gov (2) and OpenAlex. Added: 2011 CYP3A4 inactivation lab study as a DRAFT
+  cyp3a4-substrates interaction (insufficient; needs owner approval). Not added: homeopathic Ledum
+  trials and the Arnica + Ledum bruising study (homeopathy / combination), 1996 homeopathic
+  after-bite gel trial (homeopathy), the 2014 Cree tea CYP3A4 study (its conclusion names R.
+  groenlandicum and juniper, not marsh Labrador tea), Ledum palustre var. diversipilosum
+  dermatitis study (animal), methylmercury rat study. Settled for human efficacy evidence.'
+drug_class_interactions:
+- drug_class: cyp3a4-substrates
+  severity: insufficient
+  mechanism: In lab tests of 17 Cree medicinal plants, an ethanol extract of marsh Labrador tea was a
+    weak mechanism-based inactivator of the drug-metabolising enzyme CYP3A4 (lab study); no human data.
+  reference_ids:
+  - REF-5629
+  status: draft

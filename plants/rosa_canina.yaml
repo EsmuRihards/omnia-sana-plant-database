@@ -212,9 +212,12 @@ indications:
   - REF-0991
   - REF-0994
   - REF-3111
+  - REF-5634
   status: verified
   note: Rose hip flesh and extracts reduced fat build-up and improved blood sugar in animal studies (preclinical);
-    seed lipid-lowering effects reviewed (systematic review)
+    seed lipid-lowering effects reviewed (systematic review); in a 2015 randomized double-blind trial
+    in 32 pre-obese adults, rose hip extract for 12 weeks reduced abdominal visceral fat, body weight
+    and BMI more than placebo
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
@@ -230,6 +233,19 @@ indications:
     population; not evidence for treating an established UTI.
   reference_ids:
   - REF-3105
+  status: verified
+- condition: high-cholesterol
+  note: In a 2012 randomized double-blind crossover trial in 31 obese adults, a rose hip powder drink
+    for 6 weeks lowered total cholesterol by 4.9% and LDL cholesterol by 6% compared with a control drink;
+    a 2023 systematic review found mixed effects on blood lipids across trials
+  reference_ids:
+  - REF-5635
+  status: verified
+- condition: high-blood-pressure
+  note: In the same 2012 randomized double-blind crossover trial in obese adults, the rose hip drink lowered
+    systolic blood pressure by 3.4% compared with a control drink; diastolic pressure did not change
+  reference_ids:
+  - REF-5635
   status: verified
 contraindications:
 - note: Rosa canina (dog rose) hips are generally recognized as safe (GRAS) for consumption, widely used
@@ -323,4 +339,18 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   confirmed.
   | 2026-11-13: symptom-source audit deep audit batch 14 - Deep audit. RA add-on RCT REF-3734
   added to arthritis. Notes rewritten.
-  | 2026-11-19 (monograph-source audit): botanical_description and habitat cited only REF-0990 (osteoarthritis mechanism review), harvesting only REF-0993 (Chilean fruit chemistry), traditional_uses REF-0990 + REF-0989, preparations[0]/dosage[0] only REF-0989 (meta-analysis; abstract gives no dose). RE-SOURCED: Wikipedia Rosa canina (REF-3966, new), PFAF REF-3322 (range, habitat, harvest, irritant seed hairs, medicinal uses, vitamin C 0.2-2.4%), trials Winther 2005 REF-3106 and Rein 2004 REF-3107 (5 g/day of a SEEDS-AND-SHELLS powder for 3 months). Corrected: the trial powder was labelled seedless; it contains seeds and shells. constituents[1] kept on REF-0990 but rewritten to what it says (galactolipids among jointly responsible compounds; GOPO is not named in the abstract). Dropped as unsupported: toothed oval leaflets, deep woody root, accessory-fruit wording, wide range of soils, dried for powder, vitamin-C tonic for general immunity.'
+  | 2026-11-19 (monograph-source audit): botanical_description and habitat cited only REF-0990 (osteoarthritis mechanism review), harvesting only REF-0993 (Chilean fruit chemistry), traditional_uses REF-0990 + REF-0989, preparations[0]/dosage[0] only REF-0989 (meta-analysis; abstract gives no dose). RE-SOURCED: Wikipedia Rosa canina (REF-3966, new), PFAF REF-3322 (range, habitat, harvest, irritant seed hairs, medicinal uses, vitamin C 0.2-2.4%), trials Winther 2005 REF-3106 and Rein 2004 REF-3107 (5 g/day of a SEEDS-AND-SHELLS powder for 3 months). Corrected: the trial powder was labelled seedless; it contains seeds and shells. constituents[1] kept on REF-0990 but rewritten to what it says (galactolipids among jointly responsible compounds; GOPO is not named in the abstract). Dropped as unsupported: toothed oval leaflets, deep woody root, accessory-fruit wording, wide range of soils, dried for powder, vitamin-C tonic for general immunity.
+  | 2026-11-27: symptom-source audit research-deepening batch 28 - Searched PubMed (Rosa canina /
+  dog rose / rosehip(s) / rose hip(s) / LitoZin / Hyben Vital tiab; species confirmed in the full
+  text for the two new trials: 58 HT, 15 SR, 61 SAFE hits), Europe PMC, ClinicalTrials.gov (5) and
+  OpenAlex. Arthritis (10) and inflammation (8) were not padded (2003 OA RCT, gait study and
+  Litozin re-analysis). Added: 2015 visceral-fat RCT to metabolic-support (previously preclinical
+  and reviews only); NEW high-cholesterol and high-blood-pressure pairs (2012 Lund crossover; rose
+  hips from Chile, Rosa canina). Not added: 2023 rosehip lipid and glucose systematic review
+  (mixed results; mentioned in the note), 2026 orthostatic-intolerance RCT in type 2 diabetes (no
+  vocabulary condition), rosehip seed oil trials (2020 hand-lesion RCT was open-label and favoured
+  the control; 2016 radiotherapy epithelitis study not randomized; species not stated), Rosa
+  mosqueta oil dermatitis (other species), false-positive digoxin assay letter (no abstract;
+  hibiscus + rose hip tea), 2021 liver-injury case (multi-herb collection), Lady Prelox and
+  cartilage + rosehip products (combinations), standardized extract toxicity study (species not
+  stated in the abstract).'

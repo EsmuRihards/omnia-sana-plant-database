@@ -1,0 +1,1171 @@
+# Research-deepening batch 28 - search
+
+## rhodiola-rosea (Rhodiola rosea) - name clause: "Rhodiola rosea"[tiab] OR "roseroot"[tiab] OR "golden root"[tiab] OR "Arctic root"[tiab] OR "SHR-5"[tiab] OR "WS 1375"[tiab] OR "Rhodiolae roseae"[tiab]
+
+### PubMed HT - 134 hits, 134 not already listed above, 121 new
+- new | 2026 | 42261166 | Systematic Review | Salidroside's Multi-Faceted Attack on Cancer: Insights from A Systematic Review of Preclinical Studies. | Curr Med Chem
+- new | 2026 | 42696279 |  | Perioperative Management of Anticoagulation in Patients With Mechanical Heart Valves. | JAMA Netw Open
+- new | 2026 | 42829807 | Randomized Controlled Trial | Modulating stress and sleep through a multi-compound dietary supplement: a randomized, double-blind, placebo-controlled trial. | J Int Soc Sports Nutr
+- new | 2026 | 42123940 | Randomized Controlled Trial | Effects of Combined Caffeine and Rhodiola rosea Supplementation on Repeated Aerial Duel Performance and Neck Neuromuscular Function in Soccer Players. | Nutrients
+- new | 2026 | 42821324 | Systematic Review/Network Meta-Analysis | Effects of dietary supplements on lower-limb power and jump performance in physically active individuals and athletes: a systematic review and Bayesian network meta-analysis. | J Int Soc Sports Nutr
+- new | 2026 | 42898563 | Review | Cognitive frailty and mortality among patients on the heart transplant waiting list: A prospective cohort study. | JHLT Open
+- new | 2026 | 42908635 | Systematic Review | Antioxidant but not ergogenic or altitude-protective: a meta-analysis of Rhodiola species in healthy adults. | Front Physiol
+- new | 2026 | 41901106 | Review | System-Level, Molecular and Cellular Mechanisms of Selected Plant Adaptogens-A Review. | Nutrients
+- new | 2026 | 42882016 |  | Association of 24 h Pulse Pressure Derived from Ambulatory Blood Pressure Monitoring with All-Cause and Cardiovascular Mortality in Patients Undergoing Peritoneal Dialysis: A Prosp | J Clin Med
+- new | 2026 | 41944097 |  | Chronic Care Management and Mortality Among Diabetic Patients with Multiple Chronic Conditions. | Popul Health Manag
+- new | 2026 | 41559802 |  | Rhodiola rosea L. roots powder strongly reduces anxiety and corticosterone level induced by chronic stress in a murine model. | J Pharm Health Care Sci
+- new | 2026 | 42738995 | Randomized Controlled Trial | Effects of Caffeine and Rhodiola rosea, Alone and Combined, on DanceSport-Specific Jive Performance: A Randomized, Blinded, Placebo-Controlled Trial. | Nutrients
+- new | 2026 | 42973831 |  | Effects of Rhodiola rosea and caffeine, alone and in combination, on Wingate performance and physiological stress responses in soccer players. | Front Physiol
+- new | 2026 | 40360345 |  | Predictive factors and clinical outcomes in decompensated non-cirrhotic chronic hepatitis B patients treated with entecavir or tenofovir disoproxil fumarate. | J Formos Med Assoc
+- new | 2026 | 43013144 | Randomized Controlled Trial | Effects on Sleep Quality and Bioelectrical Parameters of Cellular Health After Administration of a Plant Protein Supplement Combined with Ashwagandha and Rhodiola: A Randomized Con | Plant Foods Hum Nutr
+- new | 2026 | 42588175 | Review | Current Evidence and Practical Considerations for Adaptogen Use in Exercise Recovery, Training Adaptation, and Exercise Performance in Athletes: A Narrative Review. | Nutrients
+- new | 2026 | 41656107 |  | Whole Heart Dose Parameters Predict Severe Arrhythmias After Neoadjuvant Chemoradiotherapy for Esophageal Squamous Cell Cancer: A Competing Risk Analysis of 358 Patients. | Cancer Med
+- HELD REF-3732 | 2026 | 42879451 | Randomized Controlled Trial | Short-term Rhodiola rosea supplementation improves premenstrual symptoms, reaction time, and perceived exertion in female taekwondo athletes: a randomised double-blind placebo-cont | J Int Soc Sports Nutr
+- new | 2026 | 41656269 | Randomized Controlled Trial | Effects of multi-herb and ashwagandha root formulas on stress modulation: a randomized, double-blind, placebo-controlled clinical study. | Trials
+- new | 2026 | 41991307 | Multicenter Study | [Impact of conditioning intensity on transplant outcomes following allogeneic hematopoietic stem cell transplantation in patients with myelodysplastic neoplasms: a multicenter retr | Zhonghua Xue Ye Xue Za Zhi [chi]
+- new | 2026 | 41829897 | Randomized Controlled Trial | Effects of Rhodiola rosea on Physical and Decision-Making Performance in Football Players: A Randomised Controlled Trial. | Nutrients
+- new | 2026 | 43092968 | Randomized Controlled Trial | Effects of Short-Term Rhodiola rosea Supplementation on Anaerobic Performance and Serial Post-Exercise Blood Lactate Responses in Trained Men: A Randomized, Double-Blind, Placebo-C | Nutrients
+- new | 2026 | 42838103 |  | Additional Gastrectomy Versus Surveillance After Non-curative Endoscopic Resection in Patients Aged 75 Years or Older: A Nationwide Multicenter Cohort Study. | Endoscopy
+- new | 2026 | 41906501 | Systematic Review | Clinical evidence for the adaptogenic effects of Withania somnifera and Rhodiola rosea - A systematic review with molecular interpretation of psychometric outcomes. | Ann Agric Environ Med
+- new | 2026 | 42527974 |  | The Activity Measure for Postacute Care "6-Clicks" Basic Mobility Score is Associated With Pre- and Posttransplant Mortality in Hospitalized Patients with Cirrhosis. | Transplantation
+- HELD REF-3733 | 2025 | 40873122 | Randomized Controlled Trial | Can Rhodiola rosea supplementation mitigate digital eye strain? A triple-blinded placebo-controlled study. | Ophthalmic Physiol Opt
+- new | 2025 | 40289957 | Randomized Controlled Trial | The Impact of Rhodiola Rosea Extract on Strength Performance in Alternative Bench-Press and Bench-Pull Exercises Under Resting and Mental Fatigue Conditions: A Randomized, Triple-B | Nutrients
+- new | 2025 | 40005009 | Randomized Controlled Trial | Effects of the Combined Supplementation of Caffeine and Rhodiola Rosea with Resistance Training on Lower Limb Explosive Power in Male Volleyball Players. | Nutrients
+- new | 2025 | 40584626 | Systematic Review | Efficacy and safety of Rhodiola crenulata extract in the treatment of acute high altitude disease, based on studies involving populations in China: A systematic review and meta-ana | Front Pharmacol
+- new | 2025 | 41373984 | Randomized Controlled Trial | The Effect of Short-Term Rhodiola rosea Supplementation on Simulated Game Time, Perceived Fatigue, and Performance in Basketball Players. | Nutrients
+- new | 2025 | 40098619 | Systematic Review | Standardized Rhodiola rosea injection for left ventricular remodeling and inflammation in patients with HFrEF: a systematic review and meta-analysis. | Front Pharmacol
+- new | 2025 | 41167495 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Integrative therapy for lower limb venous thrombosis in patients with COPD: a trial of Rhodiola rosea polyglucoside and pulmonary rehabilitation as a synergistic combination. | Respir Med
+- new | 2025 | 40988719 |  | Combined Rhodiola rosea and eccentric training boost endurance performance and lower-limb reactive strength in recreationally active women. | Front Physiol
+- new | 2025 | 39039933 | Randomized Controlled Trial | Immediate and residual effects of functional chewing gum on sustained attention and mood. | Nutr Neurosci
+- new | 2025 | 41695889 |  | Kiperin Mind Focus supplement mitigates chronic stress-induced neuroinflammation and molecular dysregulation and improves stress-related affective and exploratory behaviors in rats | Front Integr Neurosci
+- new | 2025 | 41374026 | Randomized Controlled Trial | Dose-Response Effects of Short-Term Rhodiola rosea (Golden Root Extract) Supplementation on Anaerobic Exercise Performance and Cognitive Function in Resistance-Trained Athletes: A  | Nutrients
+- new | 2025 | 39829722 |  | Risk of hepatocellular carcinoma in Asian patients with primary biliary cholangitis: A nationwide and hospital cohort study. | JHEP Rep
+- new | 2025 | 40278391 |  | Combined Effects of Rhodiola Rosea and Caffeine Supplementation on Straight Punch Explosive Power in Untrained and Trained Boxing Volunteers: A Synergistic Approach. | Metabolites
+- new | 2025 | 41080184 | Systematic Review | The effect of Rhodiola rosea supplementation on endurance performance and related biomarkers: a systematic review and meta-analysis. | Front Nutr
+- new | 2025 | 40014460 | Systematic Review/Meta-Analysis | Efficacy of Pharmacological Interventions in Milder Depression: A Systematic Review and Meta-Analysis. | Neuropsychopharmacol Rep
+- new | 2024 | 38213037 | Randomized Controlled Trial | Effects of the PREMEN-CALM® in the Management of the Premenstrual Syndrome: A Randomized, Double-Blind, Placebo-Controlled Pilot Study. | J Diet Suppl
+- new | 2024 | 39601362 | Randomized Controlled Trial | Salidroside and exercise performance in healthy active young adults - an exploratory, randomized, double-blind, placebo-controlled study. | J Int Soc Sports Nutr
+- new | 2024 | 38823501 | Multicenter Study | Hepatic venous pressure gradient predicts risk of hepatic decompensation and liver-related mortality in patients with MASLD. | J Hepatol
+- new | 2024 | 39258175 |  | Spontaneous bleeding in chronic kidney disease: global coagulation assays may predict bleeding risk. | Res Pract Thromb Haemost
+- new | 2024 | 38708504 | Randomized Controlled Trial | [Effects of Rhodiola rosea injection on intrapulmonary shunt and blood IL-6 and TNF-α levels during single lung ventilation in patients undergoing radical resection of esophageal c | Nan Fang Yi Ke Da Xue Xue Bao [chi]
+- new | 2024 | 38447019 | Multicenter Study/Research Support, Non-U.S. Gov't | Predictive factors for decompensating events in patients with cirrhosis with primary biliary cholangitis under different lines of therapy. | Hepatology
+- new | 2024 | 39110739 | Research Support, Non-U.S. Gov't | Risk factors of bloodstream infection after allogeneic hematopoietic cell transplantation in children/adolescent and young adults. | PLoS One
+- new | 2023 | 37495266 | Systematic Review | Rhodiola rosea supplementation on sports performance: A systematic review of randomized controlled trials. | Phytother Res
+- new | 2023 | 37419133 | Meta-Analysis/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Type 2 diabetes, hepatic decompensation, and hepatocellular carcinoma in patients with non-alcoholic fatty liver disease: an individual participant-level data meta-analysis. | Lancet Gastroenterol Hepatol
+- new | 2023 | 37736690 |  | Outcome of cancer patients after atrial fibrillation ablation: Insights from the China-AF registry. | Pacing Clin Electrophysiol
+- new | 2023 | 36771289 |  | Synergistic Effect of Rhodiola rosea and Caffeine Supplementation on the Improvement of Muscle Strength and Muscular Endurance: A Pilot Study for Rats, Resistance Exercise-Untraine | Nutrients
+- new | 2022 | 33650944 | Systematic Review | Modulation of the hypothalamic-pituitary-adrenal (HPA) axis by plants and phytonutrients: a systematic review of human trials. | Nutr Neurosci
+- new | 2022 | 35699864 |  | Comparable outcomes of decompensated chronic hepatitis B patients treated with entecavir or tenofovir: an 8-year cohort study. | Hepatol Int
+- new | 2021 | 34306163 | Review | Quality Evaluation of Randomized Controlled Trials of Rhodiola Species: A Systematic Review. | Evid Based Complement Alternat Med
+- new | 2021 | 34370563 | Systematic Review | Dietary Supplement Ingredients for Optimizing Cognitive Performance Among Healthy Adults: A Systematic Review. | J Altern Complement Med
+- new | 2021 | 34209617 | Randomized Controlled Trial | Effects of Short-Term Golden Root Extract (Rhodiola rosea) Supplementation on Resistance Exercise Performance. | Int J Environ Res Public Health
+- new | 2021 | 32723193 | Randomized Controlled Trial | The Acute Effects of a Multi-Ingredient Herbal Supplement on Performance Fatigability: A Double-Blind, Randomized, and Placebo-Controlled Trial. | J Diet Suppl
+- new | 2021 | 34152697 | Research Support, Non-U.S. Gov't | Safety of direct oral anticoagulants in patients with advanced liver disease. | Liver Int
+- new | 2021 | 34268198 |  | Efficacy of Complex Phytoadaptogens as an Adjunct to Non-surgical Treatment of Chronic Periodontitis: A Randomized Clinical Trial. | J Int Soc Prev Community Dent
+- new | 2021 | 33078636 | Randomized Controlled Trial | Effects of Concurrent Training and a Multi-Ingredient Performance Supplement Containing Rhodiola rosea and Cordyceps sinensis on Body Composition, Performance, and Health in Active | J Diet Suppl
+- new | 2021 | 34712282 |  | The efficacy of Rhodiola Rosea based on DTI image Segmentation Algorithm for patients with delayed Encephalopathy caused by CO poisoning. | Pak J Med Sci
+- new | 2021 | 34714793 |  | A Competing Risk-based Prognostic Model to Predict Cancer-specific Death of Patients with Spinal and Pelvic Chondrosarcoma. | Spine (Phila Pa 1976)
+- new | 2020 | 32455817 |  | Actaea racemosa L. Is More Effective in Combination with Rhodiola rosea L. for Relief of Menopausal Symptoms: A Randomized, Double-Blind, Placebo-Controlled Study. | Pharmaceuticals (Basel)
+- new | 2020 | 32083548 |  | Ankle-brachial index and arterial vascular events in systemic lupus erythematosus patients: a 5-year prospective cohort. | Clin Exp Rheumatol
+- new | 2020 | 32592534 |  | Effects of a Rhodiola rosea extract on mental resource allocation and attention: An event-related potential dual task study. | Phytother Res
+- new | 2019 | 30371146 | Randomized Controlled Trial | Effects of short-term Rhodiola Rosea (Golden Root Extract) supplementation on anaerobic exercise performance. | J Sports Sci
+- new | 2019 | 31623042 | Randomized Controlled Trial | [Effects of rhodiola rosea on oxidative stress and negative emotional states in patients with obstructive sleep apnea]. | Lin Chuang Er Bi Yan Hou Tou Jing Wai Ke [chi]
+- new | 2019 | 31915506 | Review | New Insights for Cellular and Molecular Mechanisms of Aging and Aging-Related Diseases: Herbal Medicine as Potential Therapeutic Approach. | Oxid Med Cell Longev
+- new | 2019 | 31087772 | Multicenter Study/Observational Study | The Intention-to-Treat Effect of Bridging Treatments in the Setting of Milan Criteria-In Patients Waiting for Liver Transplantation. | Liver Transpl
+- new | 2018 | 29846749 | Review | [Herbal medicines for psychiatric disorders]. | Nervenarzt [ger]
+- new | 2018 | 30477830 |  | Exploring the effect of adaptogenic Rhodiola Rosea extract on neuroplasticity in humans. | Complement Ther Med
+- new | 2018 | 30320658 | Clinical Trial/Multicenter Study | Burnout: A Multicenter Exploratory Clinical Trial With a Proprietary Extract of Rhodiola rosea in Patients With Burnout Syndrome. | Holist Nurs Pract
+- new | 2018 | 28873320 | Controlled Clinical Trial | Influence of Rhodiola rosea on the heat acclimation process in young healthy men. | Appl Physiol Nutr Metab
+- new | 2018 | 30450257 |  | Effects of Rhodiola rosea supplementation on mental performance, physical capacity, and oxidative stress biomarkers in healthy men. | J Sport Health Sci
+- new | 2018 | 29573476 | Clinical Trial | The multidisciplinary support in preventing alcohol relapse after liver transplantation: A single-center experience. | Clin Transplant
+- new | 2018 | 30034237 |  | A preliminary assessment of a combination of rhodiola and saffron in the management of mild-moderate depression. | Neuropsychiatr Dis Treat
+- new | 2018 | 28860348 | Research Support, Non-U.S. Gov't | Assessment of Sepsis-3 criteria and quick SOFA in patients with cirrhosis and bacterial infections. | Gut
+- new | 2018 | 30200166 |  | Risk of diabetes mellitus in HIV-infected patients receiving highly active antiretroviral therapy: A nationwide population-based study. | Medicine (Baltimore)
+- new | 2017 | 28367055 |  | Multicenter, open-label, exploratory clinical trial with Rhodiola rosea extract in patients suffering from burnout symptoms. | Neuropsychiatr Dis Treat
+- new | 2017 | 28219059 | Clinical Trial/Multicenter Study | Rhodiola rosea in Subjects with Prolonged or Chronic Fatigue Symptoms: Results of an Open-Label Clinical Trial. | Complement Med Res
+- new | 2017 | 28029329 | Clinical Trial, Phase III/Multicenter Study/Randomized Controlled Trial | Tissue Factor As a Predictor of Recurrent Venous Thromboembolism in Malignancy: Biomarker Analyses of the CATCH Trial. | J Clin Oncol
+- new | 2017 | 28534524 |  | Competing Risks for Mortality in Patients With Asymptomatic Pancreatic Cystic Neoplasms: Implications for Clinical Management. | Am J Gastroenterol
+- new | 2017 | 28607011 | Research Support, Non-U.S. Gov't | Retrospective Cohort Analysis of Liposomal Amphotericin B Nephrotoxicity in Patients with Hematological Malignancies. | Antimicrob Agents Chemother
+- new | 2016 | 26799117 | Clinical Trial, Phase II/Clinical Trial, Phase III/Randomized Controlled Trial | Single-fraction versus multifraction spinal stereotactic radiosurgery for spinal metastases from renal cell carcinoma: secondary analysis of Phase I/II trials. | J Neurosurg Spine
+- new | 2016 | 26613955 | Randomized Controlled Trial | Effect of commercial Rhodiola rosea on CYP enzyme activity in humans. | Eur J Clin Pharmacol
+- new | 2016 | 27069717 |  | Central additive effect of Ginkgo biloba and Rhodiola rosea on psychomotor vigilance task and short-term working memory accuracy. | J Intercult Ethnopharmacol
+- new | 2016 | 27698696 |  | Rhodiola rosea, folic acid, zinc and biotin (EndEP(®)) is able to improve ejaculatory control in patients affected by lifelong premature ejaculation: Results from a phase I-II stud | Exp Ther Med
+- new | 2016 | 27176566 |  | Differential effects of Rhodiola rosea on regulatory T cell differentiation and interferon‑γ production in vitro and in vivo. | Mol Med Rep
+- new | 2016 | 27224273 | Review | Immunmodulatory and Antiproliferative Properties of Rhodiola Species. | Planta Med
+- HELD REF-1531 | 2016 | 27013349 | Review | Rhodiola rosea L. as a putative botanical antidepressant. | Phytomedicine
+- HELD REF-1530 | 2015 | 26502953 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The Effects of Rhodiola rosea L. Extract on Anxiety, Stress, Cognition and Other Mood Symptoms. | Phytother Res
+- HELD REF-3728 | 2015 | 25837277 | Clinical Trial, Phase II/Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Rhodiola rosea versus sertraline for major depressive disorder: A randomized placebo-controlled trial. | Phytomedicine
+- new | 2015 | 26284250 |  | Rhodiola rosea Exerts Antiviral Activity in Athletes Following a Competitive Marathon Race. | Front Nutr
+- new | 2014 | 24722617 | Randomized Controlled Trial | Rhodiola rosea (SHR-5), Part 2: A standardized extract of Rhodiola rosea is shown to be effective in the treatment of mild to moderate depression. | Holist Nurs Pract
+- new | 2014 | 24503750 | Randomized Controlled Trial | Rhodiola rosea (SHR-5), Part I: a proprietary root extract of Rhodiola rosea is found to be effective in the treatment of stress-related fatigue. | Holist Nurs Pract
+- HELD REF-3730 | 2014 | 25268730 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Rhodiola rosea for mental and physical fatigue in nursing students: a randomized controlled trial. | PLoS One
+- new | 2014 | 24946435 | Review | [Herbal remedies in depression--state of the art]. | Psychiatr Pol [pol]
+- new | 2014 | 25610752 |  | Rhodiola rosea therapy for major depressive disorder: a study protocol for a randomized, double-blind, placebo- controlled trial. | J Clin Trials
+- HELD REF-3731 | 2014 | 24055627 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Evaluation of Rhodiola rosea supplementation on skeletal muscle damage and inflammation in runners following a competitive marathon. | Brain Behav Immun
+- new | 2014 | 26464892 |  | The Effect of Acute Rhodiola rosea Ingestion on Exercise Heart Rate, Substrate Utilisation, Mood State, and Perceptions of Exertion, Arousal, and Pleasure/Displeasure in Active Men | J Sports Med (Hindawi Publ Corp)
+- new | 2014 | 24924553 | Multicenter Study/Comment | Predictors of cancer-specific mortality after disease recurrence in patients with squamous cell carcinoma of the penis. | Eur Urol
+- new | 2013 | 24143230 | Clinical Trial/Research Support, Non-U.S. Gov't | Changes of cytokines during a spaceflight analog--a 45-day head-down bed rest. | PLoS One
+- new | 2013 | 23443221 | Randomized Controlled Trial | The effects of an acute dose of Rhodiola rosea on endurance exercise performance. | J Strength Cond Res
+- HELD REF-1533 | 2012 | 22643043 | Research Support, Non-U.S. Gov't/Systematic Review | Rhodiola rosea for physical and mental fatigue: a systematic review. | BMC Complement Altern Med
+- new | 2012 | 22228617 | Clinical Trial/Multicenter Study | Therapeutic effects and safety of Rhodiola rosea extract WS® 1375 in subjects with life-stress symptoms--results of an open-label study. | Phytother Res
+- new | 2012 | 23010378 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Patients' demographic and clinical characteristics and level of care associated with lost to follow-up and mortality in adult patients on first-line ART in Nigerian hospitals. | J Int AIDS Soc
+- new | 2012 | 22984372 |  | Therapy of the burnout syndrome. | GMS Health Technol Assess
+- new | 2012 | 22770377 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Protective effects of salidroside on epirubicin-induced early left ventricular regional systolic dysfunction in patients with breast cancer. | Drugs R D
+- new | 2011 | 21036578 | Research Support, Non-U.S. Gov't/Systematic Review | The effectiveness and efficacy of Rhodiola rosea L.: a systematic review of randomized clinical trials. | Phytomedicine
+- new | 2011 | 21486552 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | [Three preparations of compound Chinese herbal medicines for de-adaptation to high altitude: a randomized, placebo-controlled trial]. | Zhong Xi Yi Jie He Xue Bao [chi]
+- HELD REF-1528 | 2010 | 20378318 | Review | Rosenroot (Rhodiola rosea): traditional use, chemical composition, pharmacology and clinical efficacy. | Phytomedicine
+- new | 2010 | 20374974 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Double-blind, placebo-controlled, randomised study of single dose effects of ADAPT-232 on cognitive functions. | Phytomedicine
+- new | 2010 | 20946017 |  | Exploring new applications for Rhodiola rosea: can we improve the quality of life of patients with short-term hypothyroidism induced by hormone withdrawal? | J Med Food
+- new | 2010 | 20308973 | Randomized Controlled Trial | Effects of chronic Rhodiola Rosea supplementation on sport performance and antioxidant capacity in trained male: preliminary results. | J Sports Med Phys Fitness
+- HELD REF-1532 | 2009 | 19016404 | Clinical Trial, Phase III/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A randomised, double-blind, placebo-controlled, parallel-group study of the standardised extract shr-5 of the roots of Rhodiola rosea in the treatment of subjects with stress-relat | Planta Med
+- new | 2009 | 19170145 | Randomized Controlled Trial | The influence of adaptogens on ultraweak biophoton emission: a pilot-experiment. | Phytother Res
+- new | 2009 | 19478343 | Randomized Controlled Trial | The influence of supplementation with Rhodiola rosea L. extract on selected redox parameters in professional rowers. | Int J Sport Nutr Exerc Metab
+- new | 2008 | 18307390 | Clinical Trial/Research Support, Non-U.S. Gov't | A pilot study of Rhodiola rosea (Rhodax) for generalized anxiety disorder (GAD). | J Altern Complement Med
+- new | 2008 | 18482014 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Neuroimmunomodulatory compound for sensitive skin care: in vitro and clinical assessment. | J Cosmet Dermatol
+- HELD REF-3727 | 2007 | 17990195 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Clinical trial of Rhodiola rosea L. extract SHR-5 in the treatment of mild to moderate depression. | Nord J Psychiatry
+- new | 2007 | 17901042 | Clinical Trial | Efficacy and tolerability of a Rhodiola rosea extract in adults with physical and cognitive deficiencies. | Adv Ther
+- new | 2007 | 21901061 |  | The adaptogens rhodiola and schizandra modify the response to immobilization stress in rabbits by suppressing the increase of phosphorylated stress-activated protein kinase, nitric | Drug Target Insights
+- new | 2007 | 17618958 | Randomized Controlled Trial | Failure of Rhodiola rosea to alter skeletal muscle phosphate kinetics in trained men. | Metabolism
+- new | 2006 | 16619374 |  | Effect of a combination of extract from several plants on cell-mediated and humoral immunity of patients with advanced ovarian cancer. | Phytother Res
+- new | 2005 | 16323290 | Clinical Trial, Phase III/Randomized Controlled Trial | Impact of Chisan (ADAPT-232) on the quality-of-life and its efficacy as an adjuvant in the treatment of acute non-specific pneumonia. | Phytomedicine
+- new | 2005 | 15903375 | Clinical Trial/Randomized Controlled Trial | Cordyceps sinensis- and Rhodiola rosea-based supplementation in male cyclists and its effect on muscle tissue oxygen saturation. | J Strength Cond Res
+- new | 2005 | 16329453 |  | [Natural remedies and hormone preparations--potential risk for breast cancer patients. A study surveys the use of agents which possibly counteract with the treatment]. | Lakartidningen [swe]
+- new | 2004 | 15076794 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Effects of a commercial herbal-based formula on exercise performance in cyclists. | Med Sci Sports Exerc
+- new | 2004 | 15256690 | Clinical Trial/Randomized Controlled Trial | Acute Rhodiola rosea intake can improve endurance exercise performance. | Int J Sport Nutr Exerc Metab
+- new | 2003 | 12659243 | Clinical Trial/Randomized Controlled Trial | Lack of effect of Rhodiola or oxygenated water supplementation on hypoxemia and oxidative stress. | Wilderness Environ Med
+- HELD REF-3729 | 2003 | 12725561 | Clinical Trial/Comparative Study/Randomized Controlled Trial | A randomized trial of two different doses of a SHR-5 Rhodiola rosea extract versus placebo and control of capacity for mental work. | Phytomedicine
+- HELD REF-0055 | 2000 | 11081987 | Clinical Trial/Randomized Controlled Trial | Rhodiola rosea in stress induced fatigue--a double blind cross-over study of a standardized extract SHR-5 with a repeated low-dose regimen on the mental performance of healthy phys | Phytomedicine
+- new | 2000 | 10839209 | Clinical Trial/Randomized Controlled Trial | A double-blind, placebo-controlled pilot study of the stimulating and adaptogenic effect of Rhodiola rosea SHR-5 extract on the fatigue of students caused by stress during an exami | Phytomedicine
+- new | 2000 | 10763116 | Clinical Trial/Comparative Study | [The effect of the preparation rodakson on the psychophysiological and physical adaptation of students to an academic load]. | Eksp Klin Farmakol [rus]
+
+### PubMed SR - 27 hits, 10 not already listed above, 9 new
+- new | 2026 | 42211549 | Review | Multimechanistic actions of functional factors in enhancing physical strength and endurance: a scoping review of nutritional basis and natural extracts. | Front Sports Act Living
+- new | 2024 | 38960222 | Systematic Review | Extraction, purification, structural characterization, and bioactivities of the genus Rhodiola L. polysaccharides: A review. | Int J Biol Macromol
+- new | 2023 | 36987052 | Review | Nootropic Herbs, Shrubs, and Trees as Potential Cognitive Enhancers. | Plants (Basel)
+- new | 2022 | 35799587 | Published Erratum | Corrigendum: Effects of Rhodiola Rosea Supplementation on Exercise and Sport: A Systematic Review. | Front Nutr
+- new | 2022 | 35464040 | Systematic Review | Effects of Rhodiola Rosea Supplementation on Exercise and Sport: A Systematic Review. | Front Nutr
+- HELD REF-0506 | 2021 | 34445021 | Historical Article/Meta-Analysis/Systematic Review | Plant Adaptogens-History and Future Perspectives. | Nutrients
+- new | 2021 | 34803686 | Review | Preclinical Evidence and Possible Mechanisms of Rhodiola rosea L. and Its Components for Ischemic Stroke: A Systematic Review and Meta-Analysis. | Front Pharmacol
+- new | 2018 | 30564123 |  | Rhodiola rosea L. Improves Learning and Memory Function: Preclinical Evidence and Possible Mechanisms. | Front Pharmacol
+- new | 2011 | 21601431 | Research Support, Non-U.S. Gov't/Systematic Review | Herbal medicine for depression, anxiety and insomnia: a review of psychopharmacology and clinical evidence. | Eur Neuropsychopharmacol
+- new | 2007 | 17562566 | Systematic Review | Herbal medicines in the treatment of psychiatric disorders: a systematic review. | Phytother Res
+
+### PubMed SAFE - 139 hits, 107 not already listed above, 106 new
+- new | 2026 | 42311410 | Review | Modulation of monoaminergic neurotransmission in substance use disorders: a neuropharmacological perspective focusing on plant-derived metabolites. | Front Pharmacol
+- new | 2026 | 41909050 | Review | Rhodiola rosea, Ginkgo biloba, and Ashwagandha as novel antidepressant supplements: converging monoaminergic, neurotrophic, anti-inflammatory, and brain health pathways in depressi | Front Nutr
+- new | 2026 | 41811662 |  | The effect of salidroside, an active component of Rhodiola rosea, on the metabolic activity of rat and human cytochromes P450 in preclinical studies. | Pharmacol Rep
+- new | 2026 | 42375548 | Review | Salidroside-Based Nanomedicines for Triple-Negative Breast Cancer: From Molecular Mechanisms to Clinical Translation. | Breast Cancer (Dove Med Press)
+- new | 2026 | 41750223 | Review | Medicinal Plants for Major Depressive Disorder. | Brain Sci
+- new | 2026 | 42883341 |  | Salidroside Represses the Viability of Mouse Sertoli Cell Line (TM4 Cells) via Repression of Ldha-Dependent Glycolysis. | Molecules
+- new | 2026 | 42404353 |  | Spatiotemporal Deep Video-Phenomapping Decodes Microvascular Rarefaction in Middle-Aged and Elder Renovascular Hypertension: A Multi-Modal Study Integrating Spatial Transcriptomics | Research (Wash D C)
+- new | 2026 | 42795719 |  | Comparative Outcomes of Heart Failure with Preserved vs. Mildly Reduced Ejection Fraction After Off-Pump Coronary Artery Bypass: A Single-Center Retrospective Study. | J Clin Med
+- new | 2026 | 42018209 | Review | Salidroside in heavy metal toxicity: a mechanistic review of antioxidant, anti-inflammatory, and anti-apoptotic pathways. | Biometals
+- new | 2026 | 41255304 |  | Predicting the Risk of Stillbirth for Small Infants Using Maternal and Pregnancy Characteristics. | Paediatr Perinat Epidemiol
+- new | 2026 | 42630185 |  | The clinical efficacy and mechanism of Rhodiola rosea in treating rheumatoid arthritis in high-altitude areas by regulating the HIF-1α signaling pathway. | Front Med (Lausanne)
+- new | 2026 | 42546933 | Review | Modulation of pancreatic β-cell function by adaptogens: Emerging evidence and integrative therapeutic potential. | Fitoterapia
+- new | 2026 | 42421368 |  | Exploring the protective impacts of Rhodiola rosea extract against vancomycin-induced hepatic and renal toxicity through the activation of Nrf2/HO-1 and MAPK kinases, inhibition of | Drug Chem Toxicol
+- new | 2026 | 42889017 |  | Salidroside inhibits glioma cell migration and proliferation through CYP2E1-neuroglobin-cytochrome c mediated redox axis. | Front Oncol
+- new | 2026 | 41544018 | Research Support, Non-U.S. Gov't | The quality and safety of Rhodiola rosea supplements on the U.S. market: An analysis of biomarkers, heavy metals, and pesticide residues. | PLoS One
+- new | 2026 | 42786658 |  | Septal Nonischemic Late Gadolinium Enhancement After Myocardial Infarction Is Associated With Adverse Remodeling and Improves Risk Stratification for Heart Failure Outcomes. | J Am Heart Assoc
+- new | 2026 | 42263880 |  | Rosavin ameliorates alcoholic fatty liver disease through PPARG-dependent inhibition of the p38 MAPK and IGF-1 pathways. | Biochem Pharmacol
+- new | 2026 | 42753531 |  | Association between the malnutrition universal screening tool and stroke-associated infection in acute ischemic stroke: A retrospective cohort study. | J Clin Neurosci
+- new | 2026 | 43012273 |  | Adaptogens in Stress-Related Disorders: Scientific and Pharmacological Review. | Cent Nerv Syst Agents Med Chem
+- new | 2025 | 40906064 |  | Genetic and clinical risk factors for anti-tuberculosis drug-induced liver injury: insights from a prospective cohort study in central Ethiopia. | Infection
+- new | 2025 | 40438595 |  | Salidroside can protect against ferroptosis in cardiomyocytes and may be related to the regulation of GGT1. | Front Pharmacol
+- new | 2025 | 41143958 | Expression of Concern | Editorial Expression of Concern: Screening impacts of Tilmicosin-induced hepatic and renal toxicity in rats: protection by Rhodiola rosea extract through the involvement of oxidati | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2025 | 41300272 |  | Heavy Metal Contamination in Adaptogenic Herbal Dietary Supplements: Experimental, Assessment and Regulatory Safety Perspectives. | Biology (Basel)
+- new | 2025 | 39970993 | Research Support, Non-U.S. Gov't | Study on the activity of targeted delivery of DOX against melanoma by exosome-like nanovesicles of Rhodiola rosea. | Biochim Biophys Acta Gen Subj
+- new | 2025 | 41141928 | Case Reports | Molecular hydrogen-rhodiola as an adjuvant therapy for ischemic stroke in internal carotid artery occlusion: A case report. | Open Med (Wars)
+- new | 2024 | 38972090 | Letter/Comment | Rhodiola Rosea L.: potential herbal-drug interactions in perioperative medicine. | J Clin Anesth
+- new | 2024 | 39243731 |  | Salidroside prevents cadmium chloride-induced DNA damage in human fetal lung fibroblasts. | J Trace Elem Med Biol
+- new | 2024 | 39270555 | Research Support, Non-U.S. Gov't | Salidroside promotes liver regeneration after partial hepatectomy in mice by modulating NLRP3 inflammasome-mediated pyroptosis pathway. | Biochem Biophys Res Commun
+- new | 2024 | 38333759 |  | Salidroside alleviates LPS-induced liver injury and inflammation through SIRT1- NF-κB pathway and NLRP3 inflammasome. | Iran J Basic Med Sci
+- new | 2024 | 38847832 | Published Erratum | Correction to: Screening impacts of Tilmicosin-induced hepatic and renal toxicity in rats: protection by Rhodiola rosea extract through the involvement of oxidative stress, antioxi | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2024 | 38675443 | Review | State-of-the-Art Review on Botanical Hybrid Preparations in Phytomedicine and Phytotherapy Research: Background and Perspectives. | Pharmaceuticals (Basel)
+- new | 2024 | 38931222 |  | Mixture of Rhodiola rosea and Nelumbo nucifera Extracts Ameliorates Sleep Quality of Adults with Sleep Disturbance. | Nutrients
+- new | 2024 | 38689072 | Research Support, Non-U.S. Gov't | Screening impacts of Tilmicosin-induced hepatic and renal toxicity in rats: protection by Rhodiola rosea extract through the involvement of oxidative stress, antioxidants, and infl | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2023 | 36902200 | Review | Depression and Its Phytopharmacotherapy-A Narrative Review. | Int J Mol Sci
+- new | 2023 | 37627598 | Review | From Plants to Psycho-Neurology: Unravelling the Therapeutic Benefits of Bioactive Compounds in Brain Disorders. | Antioxidants (Basel)
+- new | 2023 | 36976074 |  | Anti-Inflammatory Salidroside Delivery from Chitin Hydrogels for NIR-II Image-Guided Therapy of Atopic Dermatitis. | J Funct Biomater
+- new | 2023 | 37686755 |  | In Vitro Evaluation of the Potential for Drug Interactions by Salidroside. | Nutrients
+- new | 2023 | 37457904 |  | Effect of Rhodiola rosea Rhizome and Punica granatum Fruit Peel on the Metabolic Processes and Physiological Activity of Rats Fed with Excessively Fat Diet. | Food Technol Biotechnol
+- new | 2023 | 36670480 |  | Functional testing, coronary artery calcifications, and outcomes in Hodgkin lymphoma survivors treated with chest radiation. | Cardiooncology
+- new | 2023 | 37888707 |  | Exploration of Tilmicosin Cardiotoxicity in Rats and the Protecting Role of the Rhodiola rosea Extract: Potential Roles of Cytokines, Antioxidant, Apoptotic, and Anti-Fibrotic Path | Toxics
+- new | 2023 | 36838523 |  | Bioactivity Profiles on 15 Different Effect Mechanisms for 15 Golden Root Products via High-Performance Thin-Layer Chromatography, Planar Assays, and High-Resolution Mass Spectrome | Molecules
+- new | 2023 | 37224954 |  | Salidroside alleviates acetaminophen-induced hepatotoxicity via Sirt1-mediated activation of Akt/Nrf2 pathway and suppression of NF-κB/NLRP3 inflammasome axis. | Life Sci
+- new | 2022 | 35684130 |  | Safety of a Sustainably Produced, Bioengineered, Nature-Identical Salidroside Compound. | Nutrients
+- new | 2022 | 35855862 |  | The Combination of Rhodosin and MMF Prolongs Cardiac Allograft Survival by Inhibiting DC Maturation by Promoting Mitochondrial Fusion. | Oxid Med Cell Longev
+- new | 2022 | 34788575 | Review | A Practical Perspective on the Use of Botanicals During the COVID-19 Pandemic: From Proven to Potential Interactions. | J Med Food
+- new | 2022 | 36420369 | Case Reports | Management of Hyperhomocysteinemia, Low Vitamin Levels, and Low Cortisol in Cannabis Users: A Report of 2 Cases. | J Chiropr Med
+- new | 2022 | 35026589 |  | Salidroside prevents PM2.5-induced BEAS-2B cell apoptosis via SIRT1-dependent regulation of ROS and mitochondrial function. | Ecotoxicol Environ Saf
+- new | 2022 | 35583558 |  | Salidroside alleviates cadmium-induced toxicity in mice by restoring the notch/HES-1 and RIP1-driven inflammatory signaling axis. | Inflamm Res
+- new | 2022 | 35732671 | Research Support, Non-U.S. Gov't | The impact of Rhodiola rosea on biomarkers of diabetes, inflammation, and microbiota in a leptin receptor-knockout mouse model. | Sci Rep
+- new | 2021 | 34541370 | Review | The effects of twenty-one nutrients and phytonutrients on cognitive function: A narrative review. | J Clin Transl Res
+- new | 2021 | 32924860 |  | Diet and Botanical Supplementation: Combination Therapy for Healthspan Improvement? | Rejuvenation Res
+- new | 2021 | 34465263 |  | Long-term toxicological studies on the Chinese medicine 2036 Specialty-Qiangxin recipe in rats. | Pharm Biol
+- new | 2021 | 34532015 |  | Protective effect of Salidroside on hypoxia-related liver oxidative stress and inflammation via Nrf2 and JAK2/STAT3 signaling pathways. | Food Sci Nutr
+- new | 2021 | 34754437 |  | Multimorbidity and the risk of major adverse kidney events: findings from the UK Biobank cohort. | Clin Kidney J
+- new | 2020 | 32070919 |  | Salidroside suppresses group 2 innate lymphoid cell-mediated allergic airway inflammation by targeting IL-33/ST2 axis. | Int Immunopharmacol
+- new | 2020 | 31973615 |  | Can the biological mechanisms of ageing be corrected by food supplementation. The concept of health care over sick care. | Aging Male
+- new | 2020 | 32883127 | Review | Chinese medicinal plants for the potential management of high-altitude pulmonary oedema and pulmonary hypertension. | Pharm Biol
+- new | 2020 | 32560471 |  | Protective Evaluation of Compounds Extracted from Root of Rhodiola rosea L. against Methylglyoxal-Induced Toxicity in a Neuronal Cell Line. | Molecules
+- new | 2020 | 32603893 | Review | Salidroside as a potential neuroprotective agent for ischemic stroke: a review of sources, pharmacokinetics, mechanism and safety. | Biomed Pharmacother
+- new | 2020 | 32992083 |  | Systems pharmacology unravels the synergic target space and therapeutic potential of Rhodiola rosea L. for non-small cell lung cancer. | Phytomedicine
+- new | 2020 | 32304408 | Research Support, Non-U.S. Gov't | Salidroside suppresses nonsmall cell lung cancer cells proliferation and migration via microRNA-103-3p/Mzb1. | Anticancer Drugs
+- new | 2019 | 30654097 |  | Ameliorative effect of salidroside from Rhodiola Rosea L. on the gut microbiota subject to furan-induced liver injury in a mouse model. | Food Chem Toxicol
+- new | 2019 | 31446039 | Research Support, Non-U.S. Gov't/Review | Natural medicines for the treatment of fatigue: Bioactive components, pharmacology, and mechanisms. | Pharmacol Res
+- new | 2018 | 29325481 | Review | Stress management and the role of Rhodiola rosea: a review. | Int J Psychiatry Clin Pract
+- new | 2018 | 30659561 |  | Unwanted effects of psychotropic drug interactions with medicinal products and diet supplements containing plant extracts. | Psychiatr Pol [eng,pol]
+- new | 2018 | 29805476 |  | Salidroside mediates apoptosis and autophagy inhibition in concanavalin A-induced liver injury. | Exp Ther Med
+- new | 2018 | 29693192 |  | Salidroside prevents skin carcinogenesis induced by DMBA/TPA in a mouse model through suppression of inflammation and promotion of apoptosis. | Oncol Rep
+- new | 2017 | 29464125 | Research Support, Non-U.S. Gov't/Review | Botanicals as Modulators of Neuroplasticity: Focus on BDNF. | Neural Plast
+- new | 2017 | 28805981 |  | Noncompetitive inhibition of human CYP2C9 in vitro by a commercial Rhodiola rosea product. | Pharmacol Res Perspect
+- new | 2016 | 27329331 | Review | Network pharmacology of cancer: From understanding of complex interactomes to the design of multi-target specific therapeutics from nature. | Pharmacol Res
+- new | 2016 | 26776957 | Review | Pause menopause with Rhodiola rosea, a natural selective estrogen receptor modulator. | Phytomedicine
+- new | 2016 | 27059687 | Review | Rhodiola rosea L. and Alzheimer's Disease: From Farm to Pharmacy. | Phytother Res
+- new | 2016 | 27048645 |  | A Simple and Rapid UPLC Method for the Determination of Rosavin in Rat Plasma and Its Application to a Pharmacokinetic Study. | J Chromatogr Sci
+- new | 2016 | 27572116 |  | In vitro inhibition of cytochrome P-450 activities and quantification of constituents in a selection of commercial Rhodiola rosea products. | Pharm Biol
+- new | 2016 | 26497336 | Research Support, Non-U.S. Gov't | Rhodiola rosea extends lifespan and improves stress tolerance in silkworm, Bombyx mori. | Biogerontology
+- new | 2016 | 27854435 |  | [Rhodiola rosea and its neuropsychotropic effects]. | Ceska Slov Farm [cze]
+- new | 2015 | 25878948 |  | A molecular docking study of phytochemical estrogen mimics from dietary herbal supplements. | In Silico Pharmacol
+- new | 2015 | 26094524 | Review | Approaches of Rhodiola kirilowii and Rhodiola rosea field cultivation in Poland and their potential health benefits. | Ann Agric Environ Med
+- new | 2015 | 25772255 | Research Support, Non-U.S. Gov't | Salidroside attenuates chronic hypoxia-induced pulmonary hypertension via adenosine A2a receptor related mitochondria-dependent apoptosis pathway. | J Mol Cell Cardiol
+- new | 2015 | 24913834 | Research Support, Non-U.S. Gov't | Protective effects of salidroside in the MPTP/MPP(+)-induced model of Parkinson's disease through ROS-NO-related mitochondrion pathway. | Mol Neurobiol
+- HELD REF-2483 | 2015 | 25413939 | Case Reports | [The interaction of Rhodiola rosea and antidepressants. A case report]. | Neuropsychiatr [ger]
+- new | 2015 | 25849560 | Evaluation Study/Research Support, Non-U.S. Gov't | Evaluation of the medicinal herb Graptopetalum paraguayense as a treatment for liver cancer. | PLoS One
+- new | 2014 | 24918543 | Research Support, Non-U.S. Gov't | Salidroside protects Caenorhabditis elegans neurons from polyglutamine-mediated toxicity by reducing oxidative stress. | Molecules
+- new | 2014 | 25341565 | Research Support, Non-U.S. Gov't | Salidroside attenuates allergic airway inflammation through negative regulation of nuclear factor-kappa B and p38 mitogen-activated protein kinase. | J Pharmacol Sci
+- new | 2014 | 24944685 |  | Anticancer effect of salidroside on A549 lung cancer cells through inhibition of oxidative stress and phospho-p38 expression. | Oncol Lett
+- new | 2013 | 23327826 |  | Pharmacokinetic interaction between losartan and Rhodiola rosea in rabbits. | Pharmacology
+- new | 2013 | 23574283 | Review | New insights into dietary supplements used in sport: active substances, pharmacological and side effects. | Curr Drug Targets
+- new | 2013 | 24174979 |  | Rhodiola rosea Impairs Acquisition and Expression of Conditioned Place Preference Induced by Cocaine. | Evid Based Complement Alternat Med
+- new | 2013 | 24400445 | Research Support, Non-U.S. Gov't | Two potent cytochrome P450 2D6 inhibitors found in Rhodiola rosea. | Pharmazie
+- new | 2013 | 23920277 | Research Support, Non-U.S. Gov't | Synergistic interactions between the antinociceptive effect of Rhodiola rosea extract and B vitamins in the mouse formalin test. | Phytomedicine
+- new | 2013 | 23746567 | Research Support, N.I.H., Extramural | Citrus aurantium and Rhodiola rosea in combination reduce visceral white adipose tissue and increase hypothalamic norepinephrine in a rat model of diet-induced obesity. | Nutr Res
+- new | 2013 | 23700366 |  | Mood disorders and complementary and alternative medicine: a literature review. | Neuropsychiatr Dis Treat
+- new | 2012 | 21520297 | Research Support, N.I.H., Extramural | Rhodiola rosea extracts and salidroside decrease the growth of bladder cancer cell lines via inhibition of the mTOR pathway and induction of autophagy. | Mol Carcinog
+- new | 2011 | 20579741 | Review | Second-tier natural antidepressants: review and critique. | J Affect Disord
+- new | 2010 | 20307149 | Research Support, Non-U.S. Gov't | Evaluation of salidroside in vitro and in vivo genotoxicity. | Drug Chem Toxicol
+- new | 2010 | 19790032 | Research Support, Non-U.S. Gov't | Potent in vitro inhibition of CYP3A4 and P-glycoprotein by Rhodiola rosea. | Planta Med
+- new | 2010 | 19705137 |  | Rhodiola rosea ability to enrich cellular antioxidant defences of cultured human keratinocytes. | Arch Dermatol Res
+- new | 2009 | 18844284 | Research Support, Non-U.S. Gov't | Pharmacokinetic and pharmacodynamic study of interaction of Rhodiola rosea SHR-5 extract with warfarin and theophylline in rats. | Phytother Res
+- new | 2008 | 18054474 | Comparative Study/Research Support, Non-U.S. Gov't | Comparative study of Rhodiola preparations on behavioral despair of rats. | Phytomedicine
+- new | 2008 | 18088572 |  | Development and validation of a liquid chromatographic/electrospray ionization mass spectrometric method for the determination of salidroside in rat plasma: application to the phar | J Chromatogr B Analyt Technol Biomed Lif
+- new | 2005 | 16261511 | Review | Stimulating effect of adaptogens: an overview with particular reference to their efficacy following single dose administration. | Phytother Res
+- new | 2005 | 33430554 |  | Rhodiola rosea: A Versatile Adaptogen. | Compr Rev Food Sci Food Saf
+- new | 2004 | 15252224 | Review | [Experimental analysis of therapeutic properties of Rhodiola rosea L. and its possible application in medicine]. | Medicina (Kaunas) [lit]
+- new | 2003 | 14558354 | Comparative Study | [Comparative evaluation of effects of p-tyrosol and Rhodiola rosea extract on bone marrow cells in vivo]. | Eksp Klin Farmakol [rus]
+- new | 2003 | 12939232 | Comparative Study/Research Support, U.S. Gov't, P.H.S. | 5,6-epoxyeicosatrienoic acid mediates the enhanced renal vasodilation to arachidonic acid in the SHR. | Hypertension
+- new | 2000 | 11081990 |  | Phyto-adaptogens protect against environmental stress-induced death of embryos from the freshwater snail Lymnaea stagnalis. | Phytomedicine
+- new | 1995 | 9072339 | Research Support, Non-U.S. Gov't | Effects of recombinant human erythropoietin on blood pressure and renal function in SHR with chronic renal failure. | Clin Exp Pharmacol Physiol Suppl
+
+### PubMed OBS - 72 hits, 39 not already listed above, 39 new
+- new | 2026 | 42020485 | Observational Study | Impact of liver cirrhosis etiology on results of diagnostic tests for minimal hepatic encephalopathy. | Sci Rep
+- new | 2026 | 41886024 | Multicenter Study | FoxP3+ Cells and PNAd+ Tumour-Associated High Endothelial Venules: Synergistic Prognostic Markers in Oral Tongue Squamous Cell Carcinoma. | Head Neck Pathol
+- new | 2026 | 41475682 | Multicenter Study | Adjuvant Chemotherapy in Retinoblastoma with Postlaminar Optic Nerve Invasion: A Global Multicenter Study. | Ophthalmol Retina
+- new | 2026 | 42279250 |  | Ten-Year Outcomes in Colorectal Cancer-Competing Risks and Patient Vulnerability: A Prospective Multicenter Observational Study. | J Clin Med
+- new | 2026 | 42282159 | Preprint | Incidence and Predictors of IOP-Lowering Treatment Following Detection of Referable Glaucoma in a Teleretinal Screening Program. | medRxiv
+- new | 2026 | 42385956 |  | Anemia and hypoalbuminemia are associated with hepatic encephalopathy and mortality after portal hypertension-related bleeding. | Gastroenterol Hepatol [eng,spa]
+- new | 2026 | 43053016 | Multicenter Study | Spliceosome gene mutations synergize with anthracyclines to amplify atrial fibrillation risk in hematologic malignancies: a multicenter cohort study with discovery and validation. | BMC Med
+- new | 2026 | 41707339 | Observational Study/Research Support, Non-U.S. Gov't | Patient-reported EORTC QLQ C-30 global health status decline predicts survival after video-assisted thoracoscopic (VATS) lung resection and stereotactic ablative radiotherapy (SABR | Lung Cancer
+- new | 2026 | 42988359 |  | Incidence and Predictors of IOP-Lowering Treatment Following Detection of Referable Glaucoma in a Teleretinal Screening Program. | Ophthalmol Glaucoma
+- new | 2026 | 42421681 |  | Trends, survival and regional control of sentinel lymph node biopsy versus axillary dissection in cN0 breast cancer: a multicenter cohort in China. | Front Oncol
+- new | 2026 | 42733694 |  | Risk factors, incidence, and outcomes of bladder and ureteral cancer in lung transplant recipients: A single-center cohort study. | JHLT Open
+- new | 2025 | 41161920 | Observational Study/Research Support, Non-U.S. Gov't | Impact of Early Hemodynamic Valve Deterioration on Long-Term Outcomes Following Transcatheter Aortic Valve Replacement. | JACC Cardiovasc Interv
+- new | 2025 | 39036869 | Observational Study/Multicenter Study | Histological deep margins in cutaneous squamous cell carcinoma of the scalp and risk of recurrence. | J Eur Acad Dermatol Venereol
+- new | 2025 | 41310722 |  | Cause-specific mortality in lean individuals with metabolic dysfunction-associated steatotic liver disease. | Lipids Health Dis
+- new | 2025 | 41348218 | Research Support, Non-U.S. Gov't | Use of Analgesics in Osteogenesis Imperfecta in Denmark-A Nationwide Register-based Cohort Study. | Calcif Tissue Int
+- new | 2025 | 39356982 | Research Support, Non-U.S. Gov't | Long-Term Risk of Subsequent Neoplasms in 5-Year Survivors of Childhood Neuroblastoma: A Dutch Childhood Cancer Survivor Study-LATER 3 Study. | J Clin Oncol
+- new | 2025 | 40674738 |  | Utility of IDH1/2 mutations as biomarkers for detection of measurable residual disease in acute myeloid leukemia. | Blood Adv
+- new | 2024 | 38602683 | Research Support, Non-U.S. Gov't | Second Primary Breast Cancer in Young Breast Cancer Survivors. | JAMA Oncol
+- new | 2024 | 38170290 |  | Three-year incidence and acute setting predictors of epilepsy after neonatal and childhood arterial ischaemic stroke: a disease-based cohort study. | Eur J Pediatr
+- new | 2024 | 38875722 |  | Stereotactic radiosurgery for prostate cancer spine metastases: local control and fracture risk using a simultaneous integrated boost approach. | J Neurosurg Spine
+- new | 2023 | 37063771 |  | Atrial fibrillation in cancer: thromboembolism and bleeding in daily practice. | Res Pract Thromb Haemost
+- new | 2023 | 35323977 | Research Support, Non-U.S. Gov't | Biopsy-proven CKD etiology and outcomes: the Chronic Kidney Disease Japan Cohort (CKD-JAC) study. | Nephrol Dial Transplant
+- new | 2023 | 36656600 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Malignant Neoplasms of the Gastrointestinal Tract After Blood or Marrow Transplant. | JAMA Oncol
+- new | 2023 | 36650482 |  | Colon and rectal cancer treatment patterns and their associations with clinical, sociodemographic and lifestyle characteristics: analysis of the Australian 45 and Up Study cohort. | BMC Cancer
+- new | 2022 | 35873847 |  | Risk Factors Associated with Malignant Transformation of Astrocytoma: Competing Risk Regression Analysis. | Asian J Neurosurg
+- new | 2022 | 35360522 |  | R3-AFP score is a new composite tool to refine prediction of hepatocellular carcinoma recurrence after liver transplantation. | JHEP Rep
+- new | 2022 | 34529111 |  | The impact of PIPs on mortality and readmissions in older adults: a retrospective cohort study. | Eur J Clin Pharmacol
+- new | 2022 | 34607072 | Research Support, Non-U.S. Gov't | Risk Factors for the Incidence of and the Mortality due to Post-Transplant Lymphoproliferative Disorder after Hematopoietic Cell Transplantation. | Transplant Cell Ther
+- new | 2021 | 35071077 |  | Risk Factors Associated with Malignant Transformation of Astrocytoma: Competing Risk Regression Analysis. | Asian J Neurosurg
+- new | 2021 | 34559226 | Research Support, Non-U.S. Gov't | Incidence of and Factors Associated With Nonfatal Self-injury After a Cancer Diagnosis in Ontario, Canada. | JAMA Netw Open
+- new | 2021 | 34342334 |  | Outcomes of oesophageal cancer treated with neoadjuvant compared with definitive chemoradiotherapy. | Ann Acad Med Singap
+- new | 2021 | 32683688 | Research Support, Non-U.S. Gov't | Risk of cerebrovascular disease among 13 457 five-year survivors of childhood cancer: A population-based cohort study. | Int J Cancer
+- new | 2021 | 32997892 |  | Acute rejection in pediatric renal transplantation: Retrospective study of epidemiology, risk factors, and impact on renal function. | Pediatr Transplant
+- new | 2021 | 33990493 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Trends in Follow-Up Visits Among People Living With HIV: Results From the TREAT Asia and Australian HIV Observational Databases. | J Acquir Immune Defic Syndr
+- new | 2020 | 32385906 |  | Diagnostic conversion from unipolar depression to bipolar disorder, schizophrenia, or schizoaffective disorder: A nationwide prospective 15-year register study on 43 495 inpatients | Bipolar Disord
+- new | 2019 | 31053064 |  | Labor market situation after an episode of sickness absence due to malignant neoplasia. Evidence from a Spanish cohort. | BMC Public Health
+- new | 2017 | 28428877 |  | P. aeruginosa colonization at ICU admission as a risk factor for developing P. aeruginosa ICU pneumonia. | Antimicrob Resist Infect Control
+- new | 2013 | 23946224 | Research Support, Non-U.S. Gov't | Risk of liver decompensation among HIV/hepatitis C virus-coinfected individuals with advanced fibrosis: implications for the timing of therapy. | Clin Infect Dis
+- new | 2003 | 12917301 | Research Support, Non-U.S. Gov't | Psychiatric hospitalizations among survivors of cancer in childhood or adolescence. | N Engl J Med
+
+### PubMed REV - 93 hits, 15 not already listed above, 12 new
+- new | 2026 | 40418260 | Review | Dietary Protocols to Promote and Improve Restful Sleep: A Narrative Review. | Nutr Rev
+- HELD REF-1529 | 2024 | 37641937 | Review/Research Support, Non-U.S. Gov't | Rhodiola rosea as an adaptogen to enhance exercise performance: a review of the literature. | Br J Nutr
+- new | 2024 | 38396794 | Review | The Role of Rosavin in the Pathophysiology of Bone Metabolism. | Int J Mol Sci
+- new | 2024 | 38841616 | Review | Rhodiola rosea: a review in the context of PPPM approach. | EPMA J
+- new | 2024 | 38752614 | Review | Therapeutic Promises of Bioactive Rosavin: A Comprehensive Review with Mechanistic Insight. | Chem Biodivers
+- new | 2023 | 36641978 | Review | Phytotherapy of mood disorders in the light of microbiota-gut-brain axis. | Phytomedicine
+- new | 2023 | 38259279 | Review | Pharmacological functions of salidroside in renal diseases: facts and perspectives. | Front Pharmacol
+- new | 2023 | 37169278 | Review | Rhodiola rosea and salidroside commonly induce hormesis, with particular focus on longevity and neuroprotection. | Chem Biol Interact
+- new | 2023 | 36437553 | Review | Research Progress of Chinese Medicine in the Treatment of Myocardial Ischemia-Reperfusion Injury. | Am J Chin Med
+- HELD REF-1526 | 2022 | 35745023 | Review | The Effectiveness of Rhodiola rosea L. Preparations in Alleviating Various Aspects of Life-Stress Symptoms and Stress-Induced Conditions-Encouraging Clinical Evidence. | Molecules
+- new | 2022 | 35956482 | Review | Pharmaceutical Potential of High-Altitude Plants for Fatigue-Related Disorders: A Review. | Plants (Basel)
+- HELD REF-1527 | 2020 | 31715370 | Review | Anti-inflammatory effects of Rhodiola rosea L.: A review. | Biomed Pharmacother
+- new | 2019 | 30705774 | Review | Rosenroot (Rhodiola): Potential Applications in Aging-related Diseases. | Aging Dis
+- new | 2017 | 28095073 | Review | Preclinical and Potential Applications of Common Western Herbal Supplements as Complementary Treatment in Parkinson's Disease. | J Diet Suppl
+- new | 2009 | 19468971 | Review | Perspective on Roseroot (Rhodiola rosea) studies. | Planta Med
+
+### ClinicalTrials.gov - 29 registered studies
+- NCT06176599 | UNKNOWN | results=False | NA | Clinical Study on the Treatment of Diabetic Kidney Disease With Shenxiao Yuning Decoction With Syndrome of Qi and Yin Deficiency and Blood S | conds: Diabetic Kidney Disease | intr: Shenxiao Yuning decoction, Symptomatic treatment
+- NCT01278992 | UNKNOWN | results=False | PHASE2 | Rhodiola Rosea for Mental and Physical Fatigue | conds: Fatigue | intr: Rhodiola rosea | pubs: ['25268730:DERIVED (HELD REF-3730)']
+- NCT07690085 | COMPLETED | results=False | NA | Effects of Combined Rhodiola Rosea and Caffeine Supplementation on Dancesport Performance | conds: Dancesport Performance | intr: Placebo, Caffeine, Rhodiola Rosea Capsules, Standardized cowboy-dance-specific training program | pubs: ['33388079:RESULT (new)', '42738995:DERIVED (new)']
+- NCT07319117 | RECRUITING | results=False | NA | Evaluation of the Impact of a Nutritional Formulation on Cognitive Performance Following Stress Exposure. | conds: Cognitive Assessment, Working Memory, Executive Function (Cognition), Sustained Attention | intr: Skoshify 'Think Tank' Formulation, Placebo
+- NCT03633890 | UNKNOWN | results=False | PHASE4 | DaZhu Rhodiola Rosea Capsule for Coronary Artery Disease With Angina Pectoris | conds: Coronary Artery Disease | intr: DaZhu Rhodiola Rosea Capsule, DaZhu Rhodiola Rosea Simulation Capsule
+- NCT07937527 | COMPLETED | results=False | NA | Effects of Rhodiola Rosea Supplementation on Anaerobic Performance and Blood Lactate in Trained Men | conds: Anaerobic Exercise Performance, Post-Exercise Blood Lactate Response | intr: Rhodiola rosea Extract, Placebo Beverage
+- NCT03461380 | COMPLETED | results=False | PHASE2 | Effect of Menopause Relief EP-40 in Women With Menopausal Symptoms | conds: Menopause | intr: Menopause Relief EP-40, Low Dose Black Cohosh, High Dose Black Cohosh, Placebo
+- NCT05199545 | COMPLETED | results=False | NA | Efficacy Study in Phytotherapy of an Association of Plants in the Improvement of Psychological Well-being | conds: Psychological Well-being | intr: Dietary supplement, Placebo
+- NCT07461402 | COMPLETED | results=False | NA | Plant Protein With Ashwagandha-Rhodiola for Sleep Quality | conds: Sleep Quality, Sleep Disorders, Insomnia | intr: Plant Protein Supplement, Rhodiola rosea Extract, Ashwagandha KSM-66, Placebo | pubs: [':RESULT (-)']
+- NCT07860242 | COMPLETED | results=False | NA | Combined Rhodiola Rosea and Caffeine Supplementation for Aerobic Gymnastics Performance | conds: Aerobic Gymnastics Performance, Sports Performance, Exercise Recovery, Nutritional Supplementation | intr: Rhodiola rosea Supplementation, Caffeine Supplementation, Placebo, Standardized Aerobic Gymnastics T
+- NCT02737033 | UNKNOWN | results=False | PHASE4 | Effects of 800mg of Rhodiola Rosea in Attention in Adults With Attention-Deficit/Hyperactivity Disorder | conds: Attention Deficit Hyperactivity Disorder | intr: Rhodiola, Placebo
+- NCT03850275 | COMPLETED | results=True | NA | The Effects of e+Shots Energy Beverage on Mental Energy | conds: Caffeine | intr: Intervention/treatment
+- NCT01006460 | COMPLETED | results=False | NA | A Study With Arctic Root Compared With the Extract When Combined With Schizandra and Russian Root (Adapt 232), Standardized Ginseng Extract  | conds: Depression, Stress | intr: Rhodiola rosea, L, Rhodiola rosea, L., Eleutherococcus senticosus, Schisandra chinensis, Panax ginse
+- NCT07366320 | COMPLETED | results=False | NA | Effects of Four-Week Rhodiola Rosea Supplementation on Physical Fitness, Neuromuscular Performance, and Decision-Making in Competitive Footb | conds: Physical Performance and Fatigue in Competitive Football Players | intr: Rhodiola rosea extract, Placebo
+- NCT07458594 | COMPLETED | results=False | NA | Combined Caffeine and Rhodiola Rosea on Aerial Duel Performance in Soccer | conds: Aerial Duel Performance in Soccer Players | intr: Caffeine, Rhodiola rosea extract, Placebo
+- NCT02641886 | COMPLETED | results=False | NA | The Study of Jian Pi Yi Shen Hua Tan Granules in Cognitive Impairment After Acute Cerebral Infarction | conds: Cognitive Impairment | intr: Jian Pi Yi Shen Hua Tan Granules, the placebo group
+- NCT07225413 | COMPLETED | results=False | NA | Short-Term Rhodiola Rosea for Anaerobic Performance and Cognitive Function in Resistance-Trained Adults | conds: Healthy Volunteers | intr: Rhodiola rosea (low dose), Rhodiola rosea (high dose), Placebo capsules
+- NCT02737020 | UNKNOWN | results=False | PHASE4 | Rhodiola Rosea in Adults With Attention Deficit/Hyperactivity Disorder | conds: Attention Deficit/Hyperactivity Disorder | intr: Rhodiola, Placebo
+- NCT04795557 | COMPLETED | results=False | PHASE2,PHASE3 | Efficacy of Adaptogens in Patients With Long COVID-19 | conds: Covid19 | intr: ADAPT-232 oral solution, Placebo oral solution
+- NCT06889584 | COMPLETED | results=False | NA | Supplement Combination on Stress and Sleep | conds: Healthy | intr: All Active Supplement Combinations (Ashwagandha, Rhodiola rosea, magnesium threonate, L-theanine, an
+- NCT03034668 | COMPLETED | results=False | NA | Botanical Supplement Muscle Function and Lean Body Mass | conds: Healthy Volunteers | intr: CS16-003 Full dose, CS16-003 Half dose, Placebo
+- NCT01098318 | COMPLETED | results=True | PHASE3 | Rhodiola Rosea Therapy of Major Depressive Disorder | conds: Depression | intr: Herbal extract, Sertraline, Lactose monohydrate | pubs: ['25837277:DERIVED (HELD REF-3728)']
+- NCT07239960 | COMPLETED | results=False | NA | Short-Term Rhodiola Rosea: Effects on Hoops Players' Game Time, Fatigue & Performance | conds: Healthy | intr: Rhodiola rosea, L, Placebo Comparator
+- NCT02752867 | UNKNOWN | results=False | NA | An fMRI Study of Jianpi Yishen Huatan Granules for Cognitive Impairment After Acute Cerebral Infarction | conds: Cognitive Impairment | intr: Jianpi Yishen Huatan Granules, the placebo
+- NCT07924020 | NOT_YET_RECRUITING | results=False | NA | Acute Effects of Rhodiola Rosea and Caffeine on Mean Propulsive Velocity Loss in Resistance Training | conds: Muscle Fatigue (C23.888.592.612.612) | intr: Rhodiola Rosea Capsules, Caffeine, Rhodiola Placebo, Caffeine Placebo
+- NCT04623164 | COMPLETED | results=False | PHASE4 | Complex Phytoadaptogenes in Chronic Periodontitis Treatment. | conds: Chronic Periodontitis | intr: Cocktail from complex phytoadaptogens (CFA), Standard non-surgical periodontal treatment (NSPT)
+- NCT07225608 | COMPLETED | results=False | NA | The Acute Effects of Liquid IV's Pre-Workout Supplement on Muscle Endurance & Strength, Energy, and Cognition | conds: Physical Performance, Exercise Performance, Endurance Exercise, Perceived Exertion | intr: proprietary pre-workout supplement, Control placebo
+- NCT06853600 | COMPLETED | results=False | NA | Effects of Rhodiola Rosea Supplementation on Mental Fatigue, Visuo-cognitive Processing, and Strength Performance | conds: Sport Medicine | intr: Rhodiola Rosea Capsules | pubs: ['12725561:RESULT (HELD REF-3729)', '10839209:RESULT (new)']
+- NCT04218916 | UNKNOWN | results=False | PHASE2,PHASE3 | Rhodiola Rosea for Coronary Microvascular Disease | conds: Coronary Microvascular Disease | intr: Rhodiola Rosea Capsules, Placebo
+
+### OpenAlex no-PMID trial-worded - 1416 hits, 27 without PMID, 26 new
+- new | 2026 | 10.3390/nu18223851 | article | Effects of Short-Term Rhodiola rosea Supplementation on Anaerobic Performance and Serial Post-Exercise Blood Lactate Responses in Trained Men: A Randomized, Double-Blind, Placebo-C | Nutrients
+- new | 2026 | 10.17605/osf.io/2uj34 | study-registration | Effects of Rhodiola rosea Supplementation on Maximal Strength, Explosive Performance, Muscular Endurance, and High-Intensity Exercise Performance in Healthy Adults: A Systematic Re | Open Science Framework
+- new | 2026 | 10.20944/preprints202611.0650.v1 | preprint | Clinical Efficacy and Safety of Rhodiola rosea Extract Supplementation in Enhancing Physical and Mental Well-Being, in Physically Inactive Older Adults: A Randomized Double Blind,  | Preprints.org
+- new | 2026 | 10.5281/zenodo.22094029 | article | What is the effectiveness of Rhodiola rosea for improving kidney function in patients with chronic kidney disease? | Zenodo (CERN European Organization for N
+- new | 2026 | 10.22141/2224-0713.22.1.2026.1232 | article | Effects of using a phytocombination of Ungernia Victoris, Rhodiola rosea, and ginseng in patients with Lyme disease | INTERNATIONAL NEUROLOGICAL JOURNAL
+- new | 2025 | 10.17605/osf.io/t7fpc | study-registration | Efficacy of Rhodiola rosea as an actual alternative adaptogen: A Systematic Review of randomized clinical trials. | Open Science Framework
+- new | 2025 | 10.5281/zenodo.17839659 | other | NeuroStress Complex (TrueMedicalCare, Romania) for generalized anxiety symptoms: a randomized, double-blind, placebo-controlled trial | Zenodo (CERN European Organization for N
+- new | 2025 | 10.1192/j.eurpsy.2025.469 | conference-abstract | Clinical improvement of moderate depression with a combination of rhodiola and saffron in a non-student population: a double-blind, placebo-controlled study | European Psychiatry
+- new | 2024 | 10.1152/physiol.2024.39.s1.334 | article | Dose-Response Effects of Short-Term Rhodiola rosea Supplementation on Cognitive Function and Readiness to Perform in Athletes: A Randomized, Crossover, Double-Blind, and Placebo-Co | Physiology
+- new | 2024 | 10.1016/j.hermed.2024.100946 | article | Double-Blind, Randomised, Placebo-Controlled Study Evaluating the Efficacy of an Early Treatment Using Herbal Supplement in the Prevention of Post-traumatic Stress Disorder in the  | Journal of Herbal Medicine
+- new | 2024 | 10.1152/physiol.2024.39.s1.261 | article | Dose-Response Effects of Short-Term Rhodiola rosea Supplementation on Anaerobic Exercise Performance in Resistance-Trained Athletes: A Randomized, Crossover, Double-Blind, and Plac | Physiology
+- new | 2023 | 10.36000/hbt.2023.09.001 | article | The potential role of Rhodiola rosea L. extract WS® 1375 for patients with post-COVID-19 fatigue | 
+- new | 2023 | 10.1007/s12144-022-04206-4 | article | Placebo effects during the waiting period for psychotherapy in patients with depression | Current Psychology
+- new | 2022 | 10.1016/j.jtcms.2022.11.008 | review | Traditional Chinese medicine for acute mountain sickness prevention: A systematic review and meta-analysis of randomized controlled trials | Journal of Traditional Chinese Medical S
+- new | 2020 | 10.21638/11701/spbu02.2020.307 | article | Clinical Trials of Rhodiola rosea in Tomsk in the Late Soviet Period | Вестник Санкт-Петербургского университет
+- new | 2020 | https://openalex.org/W3145823055 | article | Homeopathic Clinical Drug Proving Trial on Rhodiola Rosea | European Journal of Molecular & Clinical
+- new | 2020 | 10.1016/j.nupar.2020.02.390 | article | Un traitement combiné de magnésium, vitamines B, rhodiola et thé vert améliore l’humeur subjective et le bien-être durant un stress aigu : résultats préliminaires d’un essai contrô | Nutrition Clinique et Métabolisme
+- new | 2020 | 10.52095/gpa.2020.1318 | review | The effects of Rhodiola Rosea supplementation on depression, anxiety and mood – A Systematic Review | GLOBAL PSYCHIATRY ARCHIVES
+- new | 2016 | 10.1007/s11101-016-9453-5 | article | Rhodiola rosea L.: from golden root to green cell factories | Phytochemistry Reviews
+- new | 2015 | 10.1111/fct.12199 | article | A proof‐of‐concept clinical trial for Rhodiola rosea in major depressive disorder | Focus on Alternative and Complementary T
+- new | 2014 | 10.1089/acm.2014.5065.abstract | article | A Randomized Placebo Controlled Trial of Rhodiola Rosea and Sertraline for Major Depressive Disorder | The Journal of Alternative and Complemen
+- new | 2014 | 10.11648/j.ijnfs.20140303.14 | article | Neurophysiological Effects of Rhodiola Rosea Extract Containing Capsules (A Double-Blind, Randomised, Placebo-Controlled Study) | International Journal of Nutrition and F
+- new | 2014 | 10.25903/vbtg-hx65 | dissertation | The efficacy of Garcinia mangostana L. (mangosteen) pericarp as an adjunctive to second-generation antipsychotics for the treatment of schizophrenia: a double blind, randomised, pl | ResearchOnline - JCU (James Cook Univers
+- new | 2014 | 10.1201/b17903-12 | book-chapter | Biotechnology of Rhodiola rosea | CRC Press eBooks
+- new | 2013 | 10.1186/isrctn31235821 | study-registration | Evaluating the efficacy and safety of Rhodiola rosea extract WS® 1375 in patients with burnout symptoms | 
+- new | 2011 | 10.1136/bjsports-2011-090606.2 | article | Effects of acute supplementation withRhodiola roseaand L-carnitine on exercise performance, cognitive function and cortisol in healthy active volunteers | British Journal of Sports Medicine
+- HELD REF-1532 | 2009 | 10.1055/s-0029-1235006 | article | A randomised, double-blind, placebo controlled, parallel group study of the standardised extract SHR-5 of the roots of Rhodiola rosea in the treatment of subjects with stress-relat | Planta Medica
+
+## rhododendron-tomentosum (Rhododendron tomentosum) - name clause: "Rhododendron tomentosum"[tiab] OR "Ledum palustre"[tiab] OR "marsh Labrador tea"[tiab] OR "marsh tea"[tiab] OR "Labrador tea"[ti]
+
+### PubMed HT - 4 hits, 4 not already listed above, 2 new
+- new | 2022 | 34176651 | Review | Homeopathic Agents or Vitamins in Reducing Ecchymosis after Oculofacial Surgery: A Report by the American Academy of Ophthalmology. | Ophthalmology
+- HELD REF-0880 | 2019 | 31672661 |  | Chemical variability of Rhododendron tomentosum (Ledum palustre) essential oils and their pro-apoptotic effect on lymphocytes and rheumatoid arthritis synoviocytes. | Fitoterapia
+- SEEN | 2017 | 26863038 |  | Assessing the Effectiveness of Arnica montana and Rhododendron tomentosum (Ledum palustre) in the Reduction of Ecchymosis and Edema After Oculofacial Surgery: Preliminary Results. | Ophthalmic Plast Reconstr Surg
+- new | 1996 | 8861830 | Clinical Trial/Randomized Controlled Trial | The efficacy of Prrrikweg gel in the treatment of insect bites: a double-blind, placebo-controlled clinical trial. | Pharm World Sci
+
+### PubMed SR - 0 hits, 0 not already listed above, 0 new
+
+### PubMed SAFE - 10 hits, 8 not already listed above, 6 new
+- new | 2026 | 42077774 |  | Ledum palustre var. diversipilosum attenuates DNFB-induced allergic contact dermatitis through regulation of NLRP3 inflammasome/IL-1β signaling. | Food Sci Biotechnol
+- new | 2018 | 30205426 | Validation Study | Simultaneous Determination of Aesculin, Aesculetin, Fraxetin, Fraxin and Polydatin in Beagle Dog Plasma by UPLC-ESI-MS/MS and Its Application in a Pharmacokinetic Study after Oral  | Molecules
+- new | 2016 | 27393196 | Comparative Study | Interspecific differences in foliar 1 PAHs load between Scots pine, birch, and wild rosemary from three polish peat bogs. | Environ Monit Assess
+- HELD REF-0884 | 2015 | 25156477 | Review | Labrador tea--the aromatic beverage and spice: a review of origin, processing and safety. | J Sci Food Agric
+- HELD REF-0888 | 2014 | 24214851 | Research Support, Non-U.S. Gov't/Review | Toxic compounds in honey. | J Appl Toxicol
+- new | 2014 | 24971793 | Research Support, Non-U.S. Gov't | The effect of Cree traditional medicinal teas on the activity of human cytochrome P450-mediated metabolism. | J Ethnopharmacol
+- new | 2011 | 21722698 | Research Support, Non-U.S. Gov't | Modulation of the effects of methylmercury on rat neurodevelopment by co-exposure with Labrador Tea (Rhododendron tomentosum ssp. subarcticum). | Food Chem Toxicol
+- new | 2011 | 21186373 | Comparative Study | Cree antidiabetic plant extracts display mechanism-based inactivation of CYP3A4. | Can J Physiol Pharmacol
+
+### PubMed OBS - 1 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 7 hits, 4 not already listed above, 2 new
+- new | 2024 | 39051241 | Review | The Paradigm Shift of Using Natural Molecules Extracted from Northern Canada to Combat Malaria. | Infect Dis Rep
+- HELD REF-0882 | 2024 | 38592945 | Review | Phytochemical Profiling and Biological Activities of Rhododendron Subsect. Ledum: Discovering the Medicinal Potential of Labrador Tea Species in the Northern Hemisphere. | Plants (Basel)
+- new | 2018 | 29932096 | Historical Article/Review | Ancient treatment for lice: a source of suggestions for carriers of other infectious diseases? | Infez Med
+- HELD REF-0053 | 2013 | 23352748 | Review | Rhododendron tomentosum (Ledum palustre). A review of traditional use based on current research. | Fitoterapia
+
+### ClinicalTrials.gov - 2 registered studies
+- NCT04533269 | UNKNOWN | results=False | NA | A Study of Topical Arnica & Ledum on Bruise Reduction in HNV | conds: Bruise, Contusion | intr: Arnica montana, Ledum palustre
+- NCT04677712 | COMPLETED | results=True | PHASE4 | Effects of Mitigation Treatments on Bruising of CCH-aaes Treatment of Buttock Cellulite | conds: Edematous Fibrosclerotic Panniculopathy (EFP), Cellulite | intr: CCH-aaes, Compression, Cold Packs, Arnica Gel
+
+### OpenAlex no-PMID trial-worded - 51 hits, 29 without PMID, 29 new
+- new | 2026 | 10.30574/ijsra.2026.20.1.1474 | article | From Injury to Recovery: Arnica montana and Calcarea sulphuricum in an Elderly Patient with Post-Traumatic Periorbital Ecchymosis | International Journal of Science and Res
+- new | 2026 | 10.3390/cosmetics13010029 | article | Development, Tolerability and In Vitro Effectiveness of a Natural Cosmetic Formulation for Mosquito Bites | Cosmetics
+- new | 2025 | 10.31989/ffhd.v15i10.1762 | article | Regulation of a synbiotic herbal-probiotic formula (HBF) on alcohol metabolism in human: A randomized controlled trial | Functional Foods in Health and Disease
+- new | 2025 | 10.47278/journal.ijab/2025.058 | article | Potential of Endophytic Fungi, Trichoderma harzianum Th-B18 and Dichotomomyces cejpii in Controlling Fusarium oxysporum, the Cause of Wilt Disease in Shallots (Allium ascalonicum L | International Journal of Agriculture and
+- new | 2025 | 10.56975/ijnrd.v10i12.311185 | article | AN EXPERIMENTAL STUDY ON ANTIHYPERURICEMIC ACTIVITY IN POTASSIUM OXONATE INDUCED RAT MODEL USING HOMOEOPATHIC MEDICINE LITHIUM CARBONICUM | International Journal of Novel Research 
+- new | 2025 | 10.5772/intechopen.1010782 | book | Pharmacology Annual Volume 2025 | Pharmaceutical science.
+- new | 2025 | 10.35629/4494-1003951974 | article | “Herbal Neurocosmatic Remedies to Prevent and Treat Epilepsy” | International Journal of Pharmaceutical 
+- new | 2024 | 10.1007/s11829-023-10033-6 | article | Intercropping organic broccoli with Rhododendron tomentosum and Fagopyrum esculentum: a test of bottom-up and top-down strategies for reducing herbivory | Arthropod-Plant Interactions
+- new | 2024 | 10.5152/b-ent.2024.221125 | article | Postoperative Treatment on Periorbital Edema and Ecchymosis in Functional Septorhinoplasty Patients | B-ENT
+- new | 2024 | 10.24179/kbbbbc.2023-99648 | article | Effect of a Combination of Bromelain and Arnica on Periorbital Edema and Ecchymosis in Septorhinoplasty | kulak burun boğaz ve baş boyun cerrahisi
+- new | 2024 | 10.1016/j.jag.2024.104043 | article | Comparing multispectral and hyperspectral UAV data for detecting peatland vegetation patterns | International Journal of Applied Earth O
+- new | 2024 | 10.3390/rs16122160 | article | The Physiology of Betula glandusa on Two Sunny Summer Days in the Arctic and Linkages with Optical Imagery | Remote Sensing
+- new | 2024 | 10.1002/ppp.2252 | article | Spatial Distribution of Thaw Depth in Palsas Estimated From Optical Unoccupied Aerial Systems Data | Permafrost and Periglacial Processes
+- new | 2024 | 10.5943/mycosphere/15/1/6 | article | Hyperdiverse Rhytismatales on twigs of Rhododendron spp. | Mycosphere
+- new | 2023 | 10.1007/s11842-023-09555-x | article | Non-industrial Private Forest Owners’ Knowledge and Forest Management Preferences Regarding Forest Damage in Northern Sweden | Small-scale Forestry
+- new | 2021 | 10.52711/0974-360x.2021.00510 | article | Hypouricemic Significance of Ledum Palustre (Marsh Tea): A Review | Research Journal of Pharmacy and Technol
+- new | 2021 | 10.22541/au.161166508.85220299/v1 | preprint | EFFECT OF BROMELAIN AND ARNICA COMBINATION ON PERIORBITAL EDEMA AND ECCHYMOSIS IN SEPTORHINOPLASTY | Authorea
+- new | 2021 | 10.3390/rs13112085 | article | Rapid Ecosystem Change at the Southern Limit of the Canadian Arctic, Torngat Mountains National Park | Remote Sensing
+- new | 2020 | 10.24189/ncr.2020.060 | article | Recommendations to unify phenological observations in Russia | Nature Conservation Research
+- new | 2020 | 10.24925/turjaf.v8i1.165-170.2894 | article | Striga hermonthica (Del.) Benth has Dual Negative Effect on its Host Sorghum bicolor (L.) Moench | Turkish Journal of Agriculture - Food Sc
+- new | 2019 | 10.1016/j.rse.2019.05.026 | article | Data and resolution requirements in mapping vegetation in spatially heterogeneous landscapes | Remote Sensing of Environment
+- new | 2017 | https://openalex.org/W2766798602 | dissertation | Reindeer in the archipelago of Holmöarna : Abundance of habitats and how reindeer have utilized them during winter 2015-16 and summer 2016 | DiVA at Umeå University (Umeå University
+- new | 2016 | 10.1515/abcsb-2016-0019 | article | In Vitro Propagation of Rhododendron tomentosum – an Endangered Essential Oil Bearing Plant from Peatland | Acta Biologica Cracoviensia s Botanica
+- new | 2016 | https://openalex.org/W2602889174 | dissertation | Nest Site Selection In Hudsonian Godwits: Effects Of Habitat And Predation Risk | eCommons (Cornell University)
+- new | 2014 | 10.1159/000367978 | article | Phyto- und Mykotoxine (5) | Schweizerische Zeitschrift für Ganzheits
+- new | 2013 | https://openalex.org/W2273943296 | dataset | Rapid Biodiversity Assessment GRID Sampling (citizen science) in the White Mountains, northern Alaska, USA, June 2013 | ScholarWorks - UA (University of Alaska 
+- new | 2012 | 10.1080/21501203.2012.719042 | article | Induction of sporulation in plant pathogenic fungi | Mycology&#58 An International Journal on
+- new | 2011 | 10.1007/s13225-010-0087-4 | article | Bioactivity and genetic diversity of endophytic fungi in Rhododendron tomentosum Harmaja | Fungal Diversity
+- new | 2003 | https://openalex.org/W2393680420 | article | A clinical study on the treatment of maternal fetal blood group incompatibility with rhubarb rhizome and Chinese angelica root decoction | Shandong Journal of Traditional Chinese 
+
+## ribes-nigrum (Ribes nigrum) - name clause: "Ribes nigrum"[tiab] OR "blackcurrant"[tiab] OR "black currant"[tiab] OR "blackcurrants"[tiab] OR "black currants"[tiab]
+
+### PubMed HT - 206 hits, 200 not already listed above, 196 new
+- new | 2026 | 40999681 | Randomized Controlled Trial | Effects of blackcurrant juice on pre-frontal cortical haemodynamics and cognition in healthy young adults. | Nutr Neurosci
+- new | 2026 | 42371496 | Review | Effect of New Zealand Blackcurrant Supplementation on Sports Performance: A Systematic Review. | Curr Dev Nutr
+- new | 2026 | 42356316 | Randomized Controlled Trial | Effects of Short-Term Low- and High-Dose New Zealand Blackcurrant Supplementation on Exercise and Cognitive Performance in Resistance-Trained Adults: A Randomized, Double-Blind, Pl | Nutrients
+- new | 2026 | 42197091 | Randomized Controlled Trial | Acute Effects of Anthocyanin-Rich Blackcurrant Extract on Individual Cardiovascular and Metabolic Responses During Supine Rest and Moderate-Intensity Walking in Healthy Men. | Nutrients
+- new | 2026 | 41631820 | Systematic Review/Meta-Analysis | Blackcurrant Anthocyanin Supplementation Alters Exercise-Induced Substrate Utilization - A Systematic Review and Meta-Analysis. | J Diet Suppl
+- new | 2026 | 41915342 |  | Effects of New Zealand blackcurrant extract supplementation on muscle damage, oxidative stress, and inflammatory markers following high-intensity training in elite taekwondo athlet | Ir J Med Sci
+- new | 2026 | 41128911 | Randomized Controlled Trial | New Zealand blackcurrant extract augments muscle glycogen storage at rest and enhances intramuscular triglyceride degradation during prolonged exercise. | Eur J Appl Physiol
+- new | 2026 | 42797046 | Randomized Controlled Trial | Individual and Additive Effects of Acute Intake of New Zealand Blackcurrant Powder and Caffeine on High-Intensity Intermittent Running Performance. | Nutrients
+- new | 2026 | 42460269 |  | Effects of anthocyanin-rich blackcurrant extract on cardiovascular and metabolic responses during rest and treadmill running: a case study in an elite national level female Southea | Front Sports Act Living
+- new | 2026 | 42876903 | Clinical Trial | Four-week supplementation with a blackcurrant formulation enhances cognitive performance, reduces mental fatigue and modulates peripheral monoamine metabolism in older adults: a ra | Front Pharmacol
+- new | 2026 | 40982048 | Randomized Controlled Trial | New Zealand blackcurrant extract has no effect on physiological and cardiovascular responses during low-intensity sustained intermittent isometric contractions in men. | Eur J Appl Physiol
+- new | 2026 | 41931138 |  | Effect of New Zealand blackcurrant extract on rest and walking-induced cardiorespiratory and metabolic responses in young adult Southeast Asian women. | Eur J Appl Physiol
+- new | 2026 | 42892393 |  | The association between New Zealand Blackcurrant anthocyanins and airway inflammation, including PAI-1, in asthma: A placebo-controlled crossover feasibility study. | Respir Med
+- new | 2026 | 41620457 |  | Acute beetroot juice supplementation enhances short duration high-intensity exercise performance and influences muscle oxygenation in football players. | Sci Rep
+- new | 2026 | 41879044 | Randomized Controlled Trial/Multicenter Study | The effect of anthocyanins through diet and supplementation on cognitive function in older adults: a multi-centre randomised controlled clinical trial. | Food Funct
+- new | 2025 | 41228518 | Systematic Review | Berries derived Polyphenols and Bone Health: A Systematic Review. | Nutrients
+- new | 2025 | 40414296 | Randomized Controlled Trial | Acute Effects of an Anthocyanin-Rich Blackcurrant Beverage on Markers of Cardiovascular Disease Risk in Healthy Adults: A Randomized, Double-Blind, Placebo-Controlled, Crossover Tr | J Nutr
+- new | 2025 | 39746353 | Randomized Controlled Trial | Effects of New Zealand Black Currant Extract on Exercising Substrate Utilization and Postexercise Blood Pressure in Men and Women. | Int J Sport Nutr Exerc Metab
+- new | 2025 | 40762126 |  | Practical survey on the use of herbal medicine by patients with systemic sclerosis. | Vasc Dis (Paris)
+- new | 2025 | 39996414 | Randomized Controlled Trial | Anthocyanin-rich New Zealand blackcurrant extract reduces treadmill running-induced gastrointestinal symptoms in the heat: pilot observations. | Res Sports Med
+- new | 2025 | 40564070 |  | Impact of Oral Citicoline, Antioxidant Vitamins, and Blackcurrant Supplementation on Primary Open-Angle Glaucoma: An OCT and OCTA Study. | Biomedicines
+- new | 2025 | 39910796 | Randomized Controlled Trial | No Effect of Acute or Chronic New Zealand Blackcurrant Extract on Cycling Performance or Physiological Responses in Trained Cyclists. | Eur J Sport Sci
+- new | 2025 | 40732072 |  | Effects of Blackcurrant Extract and Partially Hydrolyzed Guar Gum Intake on Gut Dysbiosis in Male University Rugby Players. | Microorganisms
+- new | 2025 | 40290003 |  | Alterations of Exercise-Induced Carbohydrate and Fat Oxidation by Anthocyanin-Rich New Zealand Blackcurrant Are Associated with the Pre-Intervention Metabolic Function: A Secondary | Nutrients
+- new | 2025 | 40284482 |  | Investigating the Effect of Enzymatically-Derived Blackcurrant Extract on Skin Staphylococci Using an In Vitro Human Stratum Corneum Model. | Pharmaceutics
+- new | 2025 | 39896729 |  | Anthocyanin-Rich Blackcurrant Supplementation as a Nutraceutical Ergogenic Aid for Exercise Performance and Recovery: A Narrative Review. | Curr Dev Nutr
+- new | 2025 | 39865670 | Randomized Controlled Trial | Effect of one-week New Zealand blackcurrant extract on rowing performance and cognitive function in National team male rowers. | Res Sports Med
+- new | 2025 | 41283444 |  | Effects of Blackcurrant Extract During High-Intensity Intermittent Running: An Exploratory Study of Possible Muscle Fibre-Type Dependence. | Muscles
+- new | 2024 | 39019119 | Randomized Controlled Trial/Research Support, U.S. Gov't, Non-P.H.S. | Blackcurrants shape gut microbiota profile and reduce risk of postmenopausal osteoporosis via the gut-bone axis: Evidence from a pilot randomized controlled trial. | J Nutr Biochem
+- new | 2024 | 39275147 | Randomized Controlled Trial | Effect of Omega-3 Polyunsaturated Fatty Acid Supplementation on Clinical Outcome of Atopic Dermatitis in Children. | Nutrients
+- new | 2024 | 38448730 | Randomized Controlled Trial | New Zealand blackcurrant extract modulates the heat shock response in men during exercise in hot ambient conditions. | Eur J Appl Physiol
+- new | 2024 | 39655550 | Randomized Controlled Trial | [Christmas article: Can chili improve the performance of Santa Claus and goblins? A randomized study]. | Ugeskr Laeger [dan]
+- new | 2024 | 38200328 | Meta-Analysis/Systematic Review | The role of calcium in the prevention of erosive tooth wear: a systematic review and meta-analysis. | Evid Based Dent
+- new | 2024 | 38188663 |  | Effects of blackcurrant extract on indole and ammonia productions in an in vitro human fecal culture model. | Biosci Microbiota Food Health
+- new | 2024 | 38317475 | Randomized Controlled Trial | Blackcurrant Supplementation and Habitual Physical Activity Enhance Functional Capacity and Quality of Life in Previously Sedentary Older Women. | Curr Aging Sci
+- new | 2024 | 33865303 | Randomized Controlled Trial | A cream containing linoleic acid, 5% dexpanthenol and ceramide in the treatment of atopic dermatitis. | Asian Pac J Allergy Immunol
+- new | 2024 | 38716086 |  | Effects of a Flavonoid-Rich Blackcurrant Beverage on Markers of the Gut-Brain Axis in Healthy Females: Secondary Findings From a 4-Week Randomized Crossover Control Trial. | Curr Dev Nutr
+- new | 2024 | 39028868 | Randomized Controlled Trial | Identification of Sarmentosin as a Key Bioactive from Blackcurrants (Ribes nigrum) for Inhibiting Platelet Monoamine Oxidase in Humans. | J Agric Food Chem
+- new | 2024 | 39770875 | Randomized Controlled Trial | Individual Responses to Repeated Dosing with Anthocyanin-Rich New Zealand Blackcurrant Extract During High-Intensity Intermittent Treadmill Running in Active Males. | Nutrients
+- new | 2024 | 39452922 |  | Blackcurrant Anthocyanins Attenuate Estrogen -Deficiency-Induced Bone Loss through Modulating Microbial-Derived Short-Chain Carboxylic Acids and Phytoestrogen Metabolites in Peri-  | Metabolites
+- new | 2024 | 39189226 |  | Beneficial Physiological and Metabolic Effects with Acute Intake of New Zealand Blackcurrant Extract during 4 h of Indoor Cycling in a Male Ironman Athlete: A Case Study. | J Funct Morphol Kinesiol
+- new | 2024 | 38282655 | Clinical Trial Protocol/Research Support, Non-U.S. Gov't | The INHABIT (synergIstic effect of aNtHocyAnin and proBIoTics in) Inflammatory Bowel Disease trial: a study protocol for a double-blind, randomised, controlled, multi-arm trial. | J Nutr Sci
+- new | 2024 | 39260845 | Clinical Trial Protocol/Research Support, Non-U.S. Gov't | Assessing the effect of anthocyanins through diet and supplementation on cognitive function in older adults at risk for dementia: protocol for a randomised controlled trial. | BMJ Open
+- new | 2024 | 38008651 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of caloric and nutrient content of oral fluids on gastric emptying in volunteers: a randomised crossover study. | Br J Anaesth
+- new | 2024 | 39367530 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Acute impact of inorganic nitrate supplementation after ischemia and during small muscle mass exercise in postmenopausal females: A pilot study. | Physiol Rep
+- new | 2023 | 36958415 | Systematic Review | Phytotherapy in paediatric skin disorders - A systematic literature review. | Complement Ther Med
+- new | 2023 | 37414403 | Randomized Controlled Trial | New Zealand Blackcurrant Increases Postexercise Hypotension Following Sustained Moderate-Intensity Exercise. | Int J Sport Nutr Exerc Metab
+- new | 2023 | 34789542 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of electronic cigarette e-liquid flavouring on cigarette craving. | Tob Control
+- new | 2023 | 36793778 | Review | The Effects of Blackcurrant and Raspberry Consumption on Blood Pressure: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Clin Nutr Res
+- new | 2023 | 37902089 |  | Acute effects of drinks containing blackcurrant and citrus (poly)phenols and dietary fibre on postprandial glycaemia, gut hormones, cognitive function and appetite in healthy adult | Food Funct
+- new | 2023 | 37234049 |  | Acute Effects of New Zealand Blackcurrant Extract on Cycling Time-Trial Are Performance Dependent in Endurance-Trained Cyclists: A Home-Based Study. | Sports (Basel)
+- new | 2023 | 37893207 |  | Blackcurrant Anthocyanins Improve Blood Lipids and Biomarkers of Inflammation and Oxidative Stress in Healthy Women in Menopause Transition without Changing Body Composition. | Biomedicines
+- new | 2023 | 34791970 |  | Intake Duration of Anthocyanin-Rich New Zealand Blackcurrant Extract Affects Cardiovascular Responses during Moderate-Intensity Walking But Not at Rest. | J Diet Suppl
+- new | 2023 | 37648248 | Randomized Controlled Trial | The Effects of an Acute Dose of New Zealand Blackcurrant Extract on 5-km Running Performance. | Int J Sport Nutr Exerc Metab
+- new | 2022 | 36053364 | Randomized Controlled Trial | Efficacy of sodium bicarbonate ingestion strategies for protecting blinding. | Eur J Appl Physiol
+- new | 2022 | 36501004 | Randomized Controlled Trial | Blackcurrants Reduce the Risk of Postmenopausal Osteoporosis: A Pilot Double-Blind, Randomized, Placebo-Controlled Clinical Trial. | Nutrients
+- new | 2022 | 36287765 |  | Effects of New Zealand Blackcurrant Extract on Sequential Performance Testing in Male Rugby Union Players. | Sports (Basel)
+- new | 2022 | 35736015 |  | Effect of New Zealand Blackcurrant Extract on Force Steadiness of the Quadriceps Femoris Muscle during Sustained Submaximal Isometric Contraction. | J Funct Morphol Kinesiol
+- new | 2022 | 35981712 | Randomized Controlled Trial | The Effects of Blackcurrant and Caffeine Combinations on Performance and Physiology During Repeated High-Intensity Cycling. | Int J Sport Nutr Exerc Metab
+- new | 2022 | 35406087 | Randomized Controlled Trial | Enhanced Walking-Induced Fat Oxidation by New Zealand Blackcurrant Extract Is Body Composition-Dependent in Recreationally Active Adult Females. | Nutrients
+- new | 2022 | 36057629 |  | Effect of fruit smoothie supplementation on psychological distress among people with substance use disorders receiving opioid agonist therapy: protocol for a randomised controlled  | BMC Nutr
+- new | 2022 | 33118421 | Randomized Controlled Trial | Daily and Not Every-Other-Day Intake of Anthocyanin-Rich New Zealand Blackcurrant Extract Alters Substrate Oxidation during Moderate-Intensity Walking in Adult Males. | J Diet Suppl
+- new | 2022 | 33860732 |  | Intake of New Zealand Blackcurrant Powder Affects Skin-Borne Volatile Organic Compounds in Middle-Aged and Older Adults. | J Diet Suppl
+- new | 2022 | 35287112 | Randomized Controlled Trial | Anthocyanin-Rich Blackcurrant Extract Preserves Gastrointestinal Barrier Permeability and Reduces Enterocyte Damage but Has No Effect on Microbial Translocation and Inflammation Af | Int J Sport Nutr Exerc Metab
+- new | 2022 | 33949254 |  | Plasma uptake of selected phenolic acids following New Zealand blackcurrant extract supplementation in humans. | J Diet Suppl
+- new | 2021 | 34965876 | Meta-Analysis/Systematic Review | Effect of food sources of nitrate, polyphenols, L-arginine and L-citrulline on endurance exercise performance: a systematic review and meta-analysis of randomised controlled trials | J Int Soc Sports Nutr
+- HELD REF-1249 | 2021 | 34279425 |  | Hypocholesterolemic Effect of Blackcurrant (Ribes nigrum) Extract in Healthy Female Subjects: A Pilot Study. | Molecules
+- new | 2021 | 32602793 | Randomized Controlled Trial | Blackcurrant extract does not affect the speed-duration relationship during high-intensity running. | Eur J Sport Sci
+- new | 2021 | 34445035 | Randomized Controlled Trial | Consumption of New Zealand Blackcurrant Extract Improves Recovery from Exercise-Induced Muscle Damage in Non-Resistance Trained Men and Women: A Double-Blind Randomised Trial. | Nutrients
+- new | 2021 | 32578472 | Randomized Controlled Trial | Intake Duration of Anthocyanin-Rich New Zealand Blackcurrant Extract Affects Metabolic Responses during Moderate Intensity Walking Exercise in Adult Males. | J Diet Suppl
+- HELD REF-1247 | 2021 | 33161904 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Blackcurrant (Ribes nigrum) lowers sugar-induced postprandial glycaemia independently and in a product with fermented quinoa: a randomised crossover trial. | Br J Nutr
+- new | 2021 | 33201779 | Randomized Controlled Trial | New Zealand blackcurrant extract enhances muscle oxygenation during repeated intermittent forearm muscle contractions in advanced and elite rock climbers. | Eur J Sport Sci
+- new | 2021 | 32648022 |  | Short-term, but not acute, intake of New Zealand blackcurrant extract improves insulin sensitivity and free-living postprandial glucose excursions in individuals with overweight or | Eur J Nutr
+- new | 2021 | 33186898 |  | No Effects of Different Doses of New Zealand Blackcurrant Extract on Cardiovascular Responses During Rest and Submaximal Exercise Across a Week in Trained Male Cyclists. | Int J Sport Nutr Exerc Metab
+- new | 2020 | 32460241 | Randomized Controlled Trial | New Zealand Blackcurrant Extract Enhances Muscle Oxygenation During Forearm Exercise in Intermediate-Level Rock Climbers. | Int J Sport Nutr Exerc Metab
+- new | 2020 | 31515632 | Randomized Controlled Trial | Effects of New Zealand blackcurrant extract on sport climbing performance. | Eur J Appl Physiol
+- new | 2020 | 32542334 | Research Support, Non-U.S. Gov't/Review | A novel botanical formula improves eye fatigue and dry eye: a randomized, double-blind, placebo-controlled study. | Am J Clin Nutr
+- new | 2020 | 31634878 |  | Assessment of in vitro Effects of Anthocyanins on Platelet Function. | Altern Ther Health Med
+- new | 2020 | 33304916 |  | A Machine Learning Based Dose Prediction of Lutein Supplements for Individuals With Eye Fatigue. | Front Nutr
+- new | 2020 | 32537457 |  | Anthocyanin-Rich New Zealand Blackcurrant Extract Supports the Maintenance of Forearm Blood-Flow During Prolonged Sedentary Sitting. | Front Nutr
+- new | 2020 | 32460873 | Meta-Analysis/Systematic Review | The effect of New Zealand blackcurrant on sport performance and related biomarkers: a systematic review and meta-analysis. | J Int Soc Sports Nutr
+- new | 2020 | 31776695 | Published Erratum | Correction to: Effects of New Zealand blackcurrant extract on sport climbing performance. | Eur J Appl Physiol
+- new | 2020 | 32396017 | Randomized Controlled Trial | Effects of blackcurrant extract on arterial functions in older adults: A randomized, double-blind, placebo-controlled, crossover trial. | Clin Exp Hypertens
+- new | 2020 | 32175326 |  | Daily Consumption of an Anthocyanin-Rich Extract Made From New Zealand Blackcurrants for 5 Weeks Supports Exercise Recovery Through the Management of Oxidative Stress and Inflammat | Front Nutr
+- new | 2020 | 32171647 | Randomized Controlled Trial | Dietary supplementation with New Zealand blackcurrant extract enhances fat oxidation during submaximal exercise in the heat. | J Sci Med Sport
+- new | 2020 | 32470924 | Randomized Controlled Trial | No Effect of New Zealand Blackcurrant Extract on Recovery of Muscle Damage Following Running a Half-Marathon. | Int J Sport Nutr Exerc Metab
+- new | 2020 | 30289026 | Randomized Controlled Trial | The pharmacodynamic profile of "Blackadder" blackcurrant juice effects upon the monoamine axis in humans: A randomised controlled trial. | Nutr Neurosci
+- new | 2020 | 32326538 |  | Improving Mental Performance in an Athletic Population with the Use of Ārepa(®), a Blackcurrant Based Nootropic Drink: A Randomized Control Trial. | Antioxidants (Basel)
+- new | 2020 | 32823733 |  | No Effects of New Zealand Blackcurrant Extract on Physiological and Performance Responses in Trained Male Cyclists Undertaking Repeated Testing across a Week Period. | Sports (Basel)
+- new | 2020 | 31913252 | Clinical Trial | Effect of Acute Beetroot Juice Supplementation on Bench Press Power, Velocity, and Repetition Volume. | J Strength Cond Res
+- new | 2020 | 31902311 | Randomized Controlled Trial | Effect of New Zealand Blackcurrant on Blood Pressure, Cognitive Function and Functional Performance in Older Adults. | J Nutr Gerontol Geriatr
+- new | 2020 | 33076273 |  | Effect of New Zealand Blackcurrant Extract on Isometric Contraction-Induced Fatigue and Recovery: Potential Muscle-Fiber Specific Effects. | Sports (Basel)
+- new | 2019 | 31134806 |  | Absorption of Anthocyanin Rutinosides after Consumption of a Blackcurrant ( Ribes nigrum L.) Extract. | J Agric Food Chem
+- new | 2019 | 31775353 | Randomized Controlled Trial | Effects of Blackcurrant Anthocyanin on Endothelial Function and Peripheral Temperature in Young Smokers. | Molecules
+- new | 2019 | 29343201 | Randomized Controlled Trial | The impact of blackcurrant juice on attention, mood and brain wave spectral activity in young healthy volunteers. | Nutr Neurosci
+- new | 2019 | 30884866 |  | Effect of New Zealand Blackcurrant Extract on Cycling Performance and Substrate Oxidation in Normobaric Hypoxia in Trained Cyclists. | Sports (Basel)
+- new | 2019 | 31375128 | Randomized Controlled Trial | Timed consumption of a New Zealand blackcurrant juice support positive affective responses during a self-motivated moderate walking exercise in healthy sedentary adults. | J Int Soc Sports Nutr
+- new | 2019 | 31192216 |  | Consumption of an Anthocyanin-Rich Extract Made From New Zealand Blackcurrants Prior to Exercise May Assist Recovery From Oxidative Stress and Maintains Circulating Neutrophil Func | Front Nutr
+- new | 2018 | 29619595 | Randomized Controlled Trial | New Zealand blackcurrant extract enhances fat oxidation during prolonged cycling in endurance-trained females. | Eur J Appl Physiol
+- new | 2018 | 29486772 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Probiotic fruit beverages with different polyphenol profiles attenuated early insulin response. | Nutr J
+- new | 2018 | 29601488 | Comparative Study/Randomized Controlled Trial | A Comparison of the Satiety Effects of a Fruit Smoothie, Its Fresh Fruit Equivalent and Other Drinks. | Nutrients
+- new | 2018 | 30424482 | Randomized Controlled Trial | Effect of New Zealand Blackcurrant Extract on Physiological Responses at Rest and during Brisk Walking in Southeast Asian Men: A Randomized, Double-Blind, Placebo-Controlled, Cross | Nutrients
+- new | 2018 | 29751776 | Research Support, Non-U.S. Gov't | Negative effects of a high tumour necrosis factor-α concentration on human gingival mesenchymal stem cell trophism: the use of natural compounds as modulatory agents. | Stem Cell Res Ther
+- new | 2018 | 29549005 | Randomized Controlled Trial | Influence of dietary nitrate supplementation on lung function and exercise gas exchange in COPD patients. | Nitric Oxide
+- new | 2018 | 29958758 |  | The use of dietary supplements and perceived quality of life in patients with Parkinson's disease. | J Clin Neurosci
+- new | 2018 | 29865234 | Clinical Trial | Supplementation of Blackcurrant Anthocyanins Increased Cyclic Glycine-Proline in the Cerebrospinal Fluid of Parkinson Patients: Potential Treatment to Improve Insulin-Like Growth F | Nutrients
+- new | 2017 | 28620479 |  | Postprandial glycaemic response to berry nectars containing inverted sucrose. | J Nutr Sci
+- new | 2017 | 29141041 | Randomized Controlled Trial | Effects of a mixed berry beverage on cognitive functions and cardiometabolic risk markers; A randomized cross-over study in healthy older adults. | PLoS One
+- new | 2017 | 29910385 |  | Effect of New Zealand Blackcurrant Extract on Repeated Cycling Time Trial Performance. | Sports (Basel)
+- new | 2017 | 29910429 |  | Effect of New Zealand Blackcurrant Extract on Performance during the Running Based Anaerobic Sprint Test in Trained Youth and Recreationally Active Male Football Players. | Sports (Basel)
+- new | 2017 | 28555052 | Randomized Controlled Trial | Blackcurrant Alters Physiological Responses and Femoral Artery Diameter during Sustained Isometric Contraction. | Nutrients
+- new | 2017 | 28886437 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Apple and blackcurrant polyphenol-rich drinks decrease postprandial glucose, insulin and incretin response to a high-carbohydrate meal in healthy men and women. | J Nutr Biochem
+- new | 2017 | 28212306 |  | Metabolic Effects of Berries with Structurally Diverse Anthocyanins. | Int J Mol Sci
+- new | 2017 | 28391393 | Randomized Controlled Trial | Dose effects of New Zealand blackcurrant on substrate oxidation and physiological responses during prolonged cycling. | Eur J Appl Physiol
+- new | 2017 | 28013387 | Randomized Controlled Trial | Cardiovascular function during supine rest in endurance-trained males with New Zealand blackcurrant: a dose-response study. | Eur J Appl Physiol
+- new | 2016 | 26581666 | Letter/Randomized Controlled Trial | Can antioxidant-rich blackcurrant juice drink consumption improve photoprotection against ultraviolet radiation? | Br J Dermatol
+- new | 2016 | 25153307 | Randomized Controlled Trial | Black Currant Nectar Reduces Muscle Damage and Inflammation Following a Bout of High-Intensity Eccentric Contractions. | J Diet Suppl
+- new | 2016 | 27050244 | Randomized Controlled Trial | Ingestion of a Nitric Oxide Enhancing Supplement Improves Resistance Exercise Performance. | J Strength Cond Res
+- new | 2016 | 29910290 |  | Beneficial Effects of New Zealand Blackcurrant Extract on Maximal Sprint Speed during the Loughborough Intermittent Shuttle Test. | Sports (Basel)
+- new | 2016 | 27278405 | Randomized Controlled Trial | Polyphenol- and fibre-rich dried fruits with green tea attenuate starch-derived postprandial blood glucose and insulin: a randomised, controlled, single-blind, cross-over intervent | Br J Nutr
+- new | 2016 | 26563117 | Randomized Controlled Trial | Acute L-arginine supplementation has no effect on cardiovascular or thermoregulatory responses to rest, exercise, and recovery in the heat. | Eur J Appl Physiol
+- new | 2016 | 27593617 | Randomized Controlled Trial | Effects of dietary nitrate supplementation on symptoms of acute mountain sickness and basic physiological responses in a group of male adolescents during ascent to Mount Everest Ba | Nitric Oxide
+- new | 2015 | 25811286 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Beneficial Physiological Effects With Blackcurrant Intake in Endurance Athletes. | Int J Sport Nutr Exerc Metab
+- new | 2015 | 26228871 | Research Support, Non-U.S. Gov't | Application of Plant Extracts for the Prevention of Dental Erosion: An in situ/in vitro Study. | Caries Res
+- new | 2015 | 26175097 | Randomized Controlled Trial | New Zealand blackcurrant extract improves cycling performance and fat oxidation in cyclists. | Eur J Appl Physiol
+- new | 2015 | 25997043 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A CONSORT-compliant, randomized, double-blind, placebo-controlled pilot trial of purified anthocyanin in patients with nonalcoholic fatty liver disease. | Medicine (Baltimore)
+- new | 2015 | 25761786 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A Randomised trial to investigate the erosive effect of hot drinks. | J Oral Rehabil
+- new | 2015 | 26227795 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Polyphenol-rich juices reduce blood pressure measures in a randomised controlled trial in high normal and hypertensive volunteers. | Br J Nutr
+- new | 2015 | 25812064 | Randomized Controlled Trial | New Zealand Blackcurrant Extract Improves High-Intensity Intermittent Running. | Int J Sport Nutr Exerc Metab
+- new | 2015 | 26629926 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Assessment of the Effect of Intestinal Permeability Probes (Lactulose And Mannitol) and Other Liquids on Digesta Residence Times in Various Segments of the Gut Determined by Wirele | PLoS One
+- new | 2014 | 23930843 | Clinical Trial/Research Support, Non-U.S. Gov't | Fruit juice drinks prevent endogenous antioxidant response to high-fat meal ingestion. | Br J Nutr
+- new | 2014 | 23600891 | Research Support, Non-U.S. Gov't | Effects of dietary antioxidants on training and performance in female runners. | Eur J Sport Sci
+- new | 2014 | 24742818 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Lowering of oxidative stress improves endothelial function in healthy subjects with habitually low intake of fruit and vegetables: a randomized controlled trial of antioxidant- and | Free Radic Biol Med
+- new | 2014 | 25294299 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Beetroot supplementation lowers daily systolic blood pressure in older, overweight subjects. | Nutr Res
+- new | 2014 | 23674271 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Evaluation of the effect of blackcurrant products on gut microbiota and on markers of risk for colon cancer in humans. | Phytother Res
+- new | 2013 | 23046438 | Randomized Controlled Trial | Effects of black currant anthocyanins on intraocular pressure in healthy volunteers and patients with glaucoma. | J Ocul Pharmacol Ther
+- new | 2013 | 23259919 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Black currant anthocyanins normalized abnormal levels of serum concentrations of endothelin-1 in patients with glaucoma. | J Ocul Pharmacol Ther
+- new | 2013 | 23682371 | Systematic Review | Effect of nutrient supplementation on atopic dermatitis in children: a systematic review of probiotics, prebiotics, formula, and fatty acids. | JAMA Dermatol
+- new | 2013 | 23365108 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Berries reduce postprandial insulin responses to wheat and rye breads in healthy women. | J Nutr
+- new | 2013 | 23980846 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Black currant seed oil supplementation of mothers enhances IFN-γ and suppresses IL-4 production in breast milk. | Pediatr Allergy Immunol
+- new | 2013 | 23020760 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Influence of nitrate supplementation on VO₂ kinetics and endurance of elite cyclists. | Scand J Med Sci Sports
+- new | 2013 | 23633272 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Short-term alcohol consumption may have detrimental effect on fibrinolysis and endothelial function: preliminary report of prospective randomised study. | Kardiol Pol
+- new | 2012 | 22098442 | Controlled Clinical Trial/Research Support, Non-U.S. Gov't | The fibres and polyphenols in sea buckthorn (Hippophaë rhamnoides) extraction residues delay postprandial lipemia. | Int J Food Sci Nutr
+- new | 2012 | 22377796 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Two-year randomized, placebo-controlled study of black currant anthocyanins on visual field in glaucoma. | Ophthalmologica
+- new | 2012 | 22994344 | Research Support, Non-U.S. Gov't | Pro-inflammatory and Th2-type cytokine responses in PBMC in infants are associated with parental smoking. | Clin Exp Allergy
+- new | 2012 | 22854401 | Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Postprandial glucose, insulin, and free fatty acid responses to sucrose consumed with blackcurrants and lingonberries in healthy women. | Am J Clin Nutr
+- new | 2012 | 22011640 | Clinical Trial/Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Effects of blackcurrant-based juice on atherosclerosis-related biomarkers in cultured macrophages and in human subjects after consumption of a high-energy meal. | Br J Nutr
+- new | 2012 | 21929838 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Postprandial glucose, insulin and glucagon-like peptide 1 responses to sucrose ingested with berries in healthy subjects. | Br J Nutr
+- HELD REF-5205 | 2011 | 21328257 | Meta-Analysis/Systematic Review | Herbal therapy for treating rheumatoid arthritis. | Cochrane Database Syst Rev
+- new | 2011 | 21540876 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A randomised trial to investigate the effects of acute consumption of a blackcurrant juice drink on markers of vascular reactivity and bioavailability of anthocyanins in human subj | Eur J Clin Nutr
+- new | 2010 | 20073463 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Bioavailability of various polyphenols from a diet containing moderate amounts of berries. | J Agric Food Chem
+- new | 2010 | 20545710 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Blackcurrant seed oil for prevention of atopic dermatitis in newborns: a randomized, double-blind, placebo-controlled trial. | Clin Exp Allergy
+- new | 2010 | 20041414 | Clinical Trial/Multicenter Study | Efficacy of blackcurrant oil soft capsule, a Chinese herbal drug, in hyperlipidemia treatment. | Phytother Res
+- new | 2010 | 21776460 | Research Support, Non-U.S. Gov't | Consumption of polyphenolic-rich beverages (mostly pomegranate and black currant juices) by healthy subjects for a short term increased serum antioxidant status, and the serum's ab | Food Funct
+- new | 2010 | 19930765 | Research Support, Non-U.S. Gov't | Berries modify the postprandial plasma glucose response to sucrose in healthy subjects. | Br J Nutr
+- new | 2009 | 19661447 | Randomized Controlled Trial | Dietary nitrate supplementation reduces the O2 cost of low-intensity exercise and enhances tolerance to high-intensity exercise in humans. | J Appl Physiol (1985)
+- new | 2009 | 19941324 | Meta-Analysis/Systematic Review | Evidence of effectiveness of herbal medicinal products in the treatment of arthritis. Part 2: Rheumatoid arthritis. | Phytother Res
+- new | 2009 | 19541291 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effect of lutein supplementation on visual fatigue: a psychophysiological analysis. | Appl Ergon
+- new | 2009 | 18507878 | Randomized Controlled Trial/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Supplementation with orange and blackcurrant juice, but not vitamin E, improves inflammatory markers in patients with peripheral arterial disease. | Br J Nutr
+- new | 2009 | 19403859 | Clinical Trial/Research Support, Non-U.S. Gov't | Short-term blackcurrant extract consumption modulates exercise-induced oxidative stress and lipopolysaccharide-stimulated inflammatory responses. | Am J Physiol Regul Integr Comp Physiol
+- new | 2009 | 19523725 | Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Tocopherol isomer pattern in serum and stool of human following consumption of black currant seed press residue administered in whole grain bread. | Clin Nutr
+- new | 2008 | 18817894 | Randomized Controlled Trial | Effects of a new nutraceutical ingredient on allergen-induced sulphidoleukotrienes production and CD63 expression in allergic subjects. | Int Immunopharmacol
+- new | 2007 | 17712585 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | No influence of increased intake of orange and blackcurrant juices and dietary amounts of vitamin E on paraoxonase-1 activity in patients with peripheral arterial disease. | Eur J Nutr
+- new | 2007 | 18071252 | Randomized Controlled Trial | Effects of polysaccharide derived from black currant on relieving clinical symptoms of Japanese cedar pollinosis: a randomized double-blind, placebo-controlled trial. | Biosci Biotechnol Biochem
+- new | 2007 | 17634269 | Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Anthocyanins inhibit nuclear factor-kappaB activation in monocytes and reduce plasma concentrations of pro-inflammatory mediators in healthy adults. | J Nutr
+- new | 2006 | 16800769 | Comparative Study/Research Support, Non-U.S. Gov't/Review | Bioavailability of quercetin from berries and the diet. | Nutr Cancer
+- new | 2005 | 24678073 |  | Open-label, randomized, controlled pilot study of the effects of a glucosamine complex on Low back pain. | Curr Ther Res Clin Exp
+- new | 2005 | 15936647 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Black currant seed oil and fish oil supplements differ in their effects on fatty acid profiles of plasma lipids, and concentrations of serum total and lipoprotein lipids, plasma gl | J Nutr Biochem
+- new | 2005 | 15605279 | Clinical Trial/Controlled Clinical Trial | Effects of blackcurrant anthocyanin intake on peripheral muscle circulation during typing work in humans. | Eur J Appl Physiol
+- new | 2005 | 16451371 | Comparative Study/Randomized Controlled Trial | A study in vitro of the combined effects of soft drinks and tooth brushing with fluoride toothpaste on the wear of dentine. | Int J Dent Hyg
+- new | 2004 | 15182397 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Oxidative stress status in an institutionalised elderly group after the intake of a phenolic-rich dessert. | Br J Nutr
+- HELD REF-0408 | 2004 | 14711439 | Systematic Review | Anthocyanosides of Vaccinium myrtillus (bilberry) for night vision--a systematic review of placebo-controlled trials. | Surv Ophthalmol
+- new | 2004 | 15105863 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Modification of soft drinks with xanthan gum to minimise erosion: a study in situ. | Br Dent J
+- new | 2004 | 15176653 | Clinical Trial/Research Support, Non-U.S. Gov't | Bioavailability of anthocyanidin-3-glycosides following consumption of elderberry extract and blackcurrant juice. | Int J Clin Pharmacol Ther
+- new | 2003 | 12548295 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Consumption of black currants, lingonberries and bilberries increases serum quercetin concentrations. | Eur J Clin Nutr
+- new | 2003 | 12696978 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Absorption and excretion of black currant anthocyanins in humans and watanabe heritable hyperlipidemic rabbits. | J Agric Food Chem
+- new | 2003 | 12799121 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Development of low erosive carbonated fruit drinks 2. Evaluation of an experimental carbonated blackcurrant drink compared to a conventional carbonated drink. | J Dent
+- new | 2002 | 12406587 | Clinical Trial/Controlled Clinical Trial/Research Support, Non-U.S. Gov't | Urinary excretion of cyanidin glycosides. | J Biochem Biophys Methods
+- new | 2002 | 16290729 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Influence of soft drinks on the thickness and morphology of in situ acquired pellicle layer on enamel. | J Colloid Interface Sci
+- new | 2002 | 11961334 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Further modification to soft drinks to minimise erosion. A study in situ. | Caries Res
+- new | 2001 | 11506819 | Clinical Trial/Randomized Controlled Trial | Dietary supplementation with the anti-tumour promoter quercetin: its effects on matrix metalloproteinase gene regulation. | Mutat Res
+- new | 2001 | 11394716 | Research Support, Non-U.S. Gov't | Bioactive anthocyanins detected in human urine after ingestion of blackcurrant juice. | J Environ Pathol Toxicol Oncol
+- new | 2000 | 11302008 | Clinical Trial/Randomized Controlled Trial | Partial resistance of low density lipoprotein to oxidation in vivo after increased intake of berries. | Nutr Metab Cardiovasc Dis
+- new | 2000 | 11134978 | Clinical Trial/Controlled Clinical Trial | Effects of black current anthocyanoside intake on dark adaptation and VDT work-induced transient refractive alteration in healthy humans. | Altern Med Rev
+- new | 2000 | 10745678 | Clinical Trial/Randomized Controlled Trial | [Polyphenolic antioxidants in fruit juice. Urinary excretion and effects on biological markers for antioxidative status]. | Ugeskr Laeger [dan]
+- new | 1999 | 10425807 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect on plaque pH of fruit drinks with reduced carbohydrate content. | Br Dent J
+- new | 1999 | 10500023 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, Non-P.H.S. | Effect of dietary supplementation with black currant seed oil on the immune response of healthy elderly subjects. | Am J Clin Nutr
+- new | 1999 | 10377608 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Development and evaluation of a low erosive blackcurrant juice drink. 2. Comparison with a conventional blackcurrant juice drink and orange juice. | J Dent
+- new | 1999 | 10193106 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Development and evaluation of a low erosive blackcurrant juice drink in vitro and in situ. 1. Comparison with orange juice. | J Dent
+- new | 1999 | 9925128 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of fruit juice intake on urinary quercetin excretion and biomarkers of antioxidative status. | Am J Clin Nutr
+- new | 1999 | 10377609 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Development and evaluation of a low erosive blackcurrant juice drink. 3. Final drink and concentrate, formulae comparisons in situ and overview of the concept. | J Dent
+- new | 1996 | 8641247 | Clinical Trial/Randomized Controlled Trial | Plasma ascorbic acid concentrations in the Republic of Karelia, Russia and in North Karelia, Finland. | Eur J Clin Nutr
+- new | 1996 | 8877087 | Comparative Study | Comparison of the plaque pH response to an acidogenic challenge in children and adults. | Caries Res
+- new | 1995 | 7867055 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of addition of 0.103% citrate to a blackcurrant drink on plaque pH in vivo. | Caries Res
+- new | 1995 | 8821120 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | The effects of n-3 and n-6 polyunsaturated fatty acids on plasma lipids and fatty acids of treated phenylketonuric children. | Prostaglandins Leukot Essent Fatty Acids
+- new | 1993 | 8252313 | Research Support, Non-U.S. Gov't | Cytokine and prostaglandin production by monocytes of volunteers and rheumatoid arthritis patients treated with dietary supplements of blackcurrant seed oil. | Br J Rheumatol
+- new | 1993 | 8400591 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Soybean oil, blackcurrant seed oil, medium-chain triglycerides, and plasma phospholipid fatty acids of stressed patients. | Nutrition
+- new | 1992 | 1397534 | Clinical Trial/Comparative Study/Research Support, Non-U.S. Gov't | Blackcurrant seed oil as a source of polyunsaturated fatty acids in the treatment of inflammatory disease. | Biochem Soc Trans
+- new | 1992 | 1556808 | Research Support, Non-U.S. Gov't | Composition of phospholipid fatty acids in red blood cell membranes of patients in intensive care units: effects of different intakes of soybean oil, medium-chain triglycerides, an | JPEN J Parenter Enteral Nutr
+- new | 1992 | 1528969 | Clinical Trial/Comparative Study/Randomized Controlled Trial | [Comparative study of the effectiveness of continuous or intermittent courses of a phlebotonic drug on venous disorders disclosed or aggravated by oral, estrogen-progesterone contr | Phlebologie [fre]
+
+### PubMed SR - 20 hits, 8 not already listed above, 8 new
+- new | 2024 | 38442431 | Systematic Review | Intranasal delivery of herbal medicine for disease treatment: A systematic review. | Phytomedicine
+- new | 2024 | 38439218 | Scoping Review | Addition of substances to reduce the erosive potential of acidic beverages to tooth enamel: A scoping review. | Int J Dent Hyg
+- new | 2024 | 39063294 | Review | Berry Fruits and Their Improving Potential on Skeletal Muscle Health and Performance: A Systematic Review of the Evidence in Animal and in Human Studies. | Foods
+- new | 2023 | 37097415 | Systematic Review/Network Meta-Analysis | Acute and Chronic Performance Enhancement in Rowing: A Network Meta-analytical Approach on the Effects of Nutrition and Training. | Sports Med
+- new | 2023 | 37499164 | Systematic Review | Biomarkers of Berry Intake: Systematic Review Update. | J Agric Food Chem
+- new | 2021 | 33430883 | Published Erratum | Correction to: The effect of New Zealand blackcurrant on sport performance and related biomarkers: a systematic review and meta-analysis. | J Int Soc Sports Nutr
+- new | 2021 | 34067538 | Systematic Review | Efficacy of Bilberry and Grape Seed Extract Supplement Interventions to Improve Glucose and Cholesterol Metabolism and Blood Pressure in Different Populations-A Systematic Review o | Nutrients
+- new | 2018 | 29579903 | Research Support, Non-U.S. Gov't/Systematic Review | Berries extracts as natural antioxidants in meat products: A review. | Food Res Int
+
+### PubMed SAFE - 79 hits, 59 not already listed above, 57 new
+- new | 2026 | 42838011 |  | Sequential supercritical CO₂ and microwave-assisted extraction for dual valorization of berry pomace. | Food Chem
+- new | 2026 | 42739024 | Review | The Nutraceutical Potential of Blackcurrant (Ribes nigrum) for Glycemic Control and Metabolic Health: Mechanistic and Translational Insights. | Nutrients
+- new | 2026 | 42317865 | Review | Ribes nigrum L. polysaccharides as multifunctional bioactive agents: current advances, challenges, and future directions in functional food and pharmaceutical development. | Front Nutr
+- new | 2026 | 42653871 | Review | Potential of Berry Fruit Pomace for Application in Processed Meat as Natural Alternative to Nitrates and Nitrites. | Molecules
+- new | 2025 | 40551695 | Review | Modern Approaches to Diabetes: The Role of Phytochemicals in Targeting Molecular Receptors. | Curr Top Med Chem
+- new | 2025 | 40073880 | Comparative Study | The Oral Glucose Tolerance Test: Changed Results Using Different Drinking Solutions? | Exp Clin Endocrinol Diabetes
+- new | 2025 | 40015390 |  | Structure characterization of polysaccharide isolated from Ribes nigrum L. and it's bioactivity against gout. | Int J Biol Macromol
+- new | 2025 | 41296469 |  | Evaluation of the Antihistamine and Anti-Inflammatory Effects of a Nutraceutical Blend Based on Quercetin, Perilla frutescens, Boswellia serrata, Blackcurrant, Parthenium, Helichry | Curr Issues Mol Biol
+- new | 2025 | 40264327 | Review | Phytomolecules from Herbs: Possible Effective Way for the Treatment of Liver Cancer. | Curr Top Med Chem
+- new | 2025 | 41155267 |  | Radioprotective Potential of a Polyphenol-Rich Extract Blend: Preclinical Evaluation in Female Balb/c Mice Exposed to Ionizing Radiation. | Int J Mol Sci
+- new | 2024 | 38391567 |  | Specific Antimicrobial Activities Revealed by Comparative Evaluation of Selected Gemmotherapy Extracts. | Antibiotics (Basel)
+- new | 2024 | 39061915 |  | Anthocyanin-Rich Berry Extracts Affect SN-38-Induced Response: A Comparison of Non-Tumorigenic HCEC-1CT and HCT116 Colon Carcinoma Cells. | Antioxidants (Basel)
+- new | 2024 | 37755640 | Review | Comprehensive Review on Fruit Seeds: Nutritional, Phytochemical, Nanotechnology, Toxicity, Food Biochemistry, and Biotechnology Perspective. | Appl Biochem Biotechnol
+- new | 2024 | 38919261 |  | Exploring the Potential of Ribes nigrum L., Aronia melanocarpa (Michx.) Elliott, and Sambucus nigra L. Fruit Polyphenol-Rich Composition and Metformin Synergy in Type 2 Diabetes Ma | J Diabetes Res
+- new | 2023 | 37854313 | Review | Potential Implications of Hyperoside on Oxidative Stress-Induced Human Diseases: A Comprehensive Review. | J Inflamm Res
+- new | 2023 | 38067418 |  | In Vitro Inhibitory Potential of Different Anthocyanin-Rich Berry Extracts in Murine CT26 Colon Cancer Cells. | Molecules
+- new | 2023 | 36838736 |  | Reduction of Nitrite in Canned Pork through the Application of Black Currant (Ribes nigrum L.) Leaves Extract. | Molecules
+- HELD REF-2579 | 2023 | 37043584 | Case Reports | Case study of clinical improvement of atopic dermatitis in a patient treated with herbal-based parapharmaceuticals. | J Complement Integr Med
+- new | 2023 | 37316039 | Research Support, Non-U.S. Gov't | From waste to the gut: Can blackcurrant press cake be a new functional ingredient? Insights on in vivo microbiota modulation, oxidative stress, and inflammation. | Food Res Int
+- new | 2022 | 36846023 |  | Improvement of Caciotta-like cheese nutritional value by means of enrichment with blackcurrant (Ribes nigrum) and Cornelian cherry (Cornus mas). | Front Nutr
+- new | 2022 | 35455979 |  | The Chemopreventive Effects of Polyphenols and Coffee, Based upon a DMBA Mouse Model with microRNA and mTOR Gene Expression Biomarkers. | Cells
+- new | 2021 | 34451903 | Review | Pharmaceutical Drugs and Natural Therapeutic Products for the Treatment of Type 2 Diabetes Mellitus. | Pharmaceuticals (Basel)
+- new | 2021 | 34554479 |  | Fruit juices are effective anti-amyloidogenic agents. | Biol Futur
+- new | 2021 | 33073617 | Review | Herbal and Natural Dietary Products: Upcoming Therapeutic Approach for Prevention and Treatment of Hepatocellular Carcinoma. | Nutr Cancer
+- new | 2020 | 32847029 |  | Antimicrobial Effect of Natural Berry Juices on Common Oral Pathogenic Bacteria. | Antibiotics (Basel)
+- HELD REF-1536 | 2020 | 32059465 | Review | Phenolic Composition, Mineral Content, and Beneficial Bioactivities of Leaf Extracts from Black Currant (Ribes nigrum L.), Raspberry (Rubus idaeus), and Aronia (Aronia melanocarpa) | Nutrients
+- new | 2020 | 32380485 | Review | Strategies to improve ellagic acid bioavailability: from natural or semisynthetic derivatives to nanotechnological approaches based on innovative carriers. | Nanotechnology
+- new | 2019 | 31685083 |  | Interaction with St. John's wort due to exposure with blackcurrant aroma? How not to present a case report of an adverse event. | Pharmazie
+- new | 2018 | 29387518 |  | Effect of administrating polysaccharide from black currant (Ribes nigrum L.) on atopic dermatitis in NC/Nga mice. | Biosci Microbiota Food Health
+- new | 2018 | 30400569 |  | Blackcurrant Supplementation Improves Trabecular Bone Mass in Young but Not Aged Mice. | Nutrients
+- new | 2018 | 29134748 |  | Novel topical agent containing superoxide dismutase 100 000 IU and 4% of plant extracts as a mono-therapy for atopic dermatitis. | J Cosmet Dermatol
+- new | 2017 | 28974032 | Review | Dietary Anthocyanins against Obesity and Inflammation. | Nutrients
+- new | 2017 | 29140397 | Review | Progress in the understanding of the pathology of allergic asthma and the potential of fruit proanthocyanidins as modulators of airway inflammation. | Food Funct
+- new | 2017 | 28736984 | Randomized Controlled Trial | Randomized, double-blinded, placebo-controlled pilot study on the effects of topical blackcurrant emulsion enriched in essential fatty acids, ceramides and 18-beta glycyrrhetinic a | Vet Dermatol
+- new | 2017 | 28393456 |  | Blackcurrant anthocyanins modulate CCL11 secretion and suppress allergic airway inflammation. | Mol Nutr Food Res
+- new | 2016 | 26978396 | Research Support, Non-U.S. Gov't/Review | Dietary Natural Products for Prevention and Treatment of Liver Cancer. | Nutrients
+- new | 2016 | 26998559 |  | Protective activity of an anthocyanin-rich extract from bilberries and blackcurrants on acute acetaminophen-induced hepatotoxicity in rats. | Nat Prod Res
+- new | 2015 | 26395027 | Research Support, Non-U.S. Gov't | Phytoestrogenic activity of blackcurrant (Ribes nigrum) anthocyanins is mediated through estrogen receptor alpha. | Mol Nutr Food Res
+- new | 2015 | 25311060 | Research Support, Non-U.S. Gov't | Disparate metabolic effects of blackcurrant seed oil in rats fed a basal and obesogenic diet. | Eur J Nutr
+- new | 2015 | 25818139 | Research Support, Non-U.S. Gov't | Rapid liquid chromatography-tandem mass spectrometry analysis of 4-hydroxynonenal for the assessment of oxidative degradation and safety of vegetable oils. | Anal Chim Acta
+- new | 2014 | 25228511 | Research Support, Non-U.S. Gov't | Biological activity and stability in vitro of polyphenolic extracts as potential dietary supplements. | Postepy Hig Med Dosw (Online)
+- new | 2013 | 23700985 | Research Support, Non-U.S. Gov't/Review | The pharmacological use of ellagic acid-rich pomegranate fruit. | Int J Food Sci Nutr
+- new | 2013 | 22213170 | Research Support, Non-U.S. Gov't | Black currant phytoconstituents exert chemoprevention of diethylnitrosamine-initiated hepatocarcinogenesis by suppression of the inflammatory response. | Mol Carcinog
+- new | 2013 | 24283421 |  | Black-currant protection against oxidative stress formation. | J Toxicol Environ Health A
+- new | 2012 | 23185422 | Research Support, Non-U.S. Gov't | Persistence of anticancer activity in berry extracts after simulated gastrointestinal digestion and colonic fermentation. | PLoS One
+- new | 2012 | 22527605 |  | Protective effect of blackcurrant on liver cell membrane of rats intoxicated with ethanol. | J Membr Biol
+- new | 2012 | 23063958 | Comparative Study/Research Support, Non-U.S. Gov't | Application of microdialysis for elucidating the existing form of hyperoside in rat brain: comparison between intragastric and intraperitoneal administration. | J Ethnopharmacol
+- new | 2012 | 22873220 | Research Support, Non-U.S. Gov't | Black currant anthocyanins abrogate oxidative stress through Nrf2- mediated antioxidant mechanisms in a rat model of hepatocellular carcinoma. | Curr Cancer Drug Targets
+- new | 2011 | 21216582 | Research Support, Non-U.S. Gov't | Anthocyanin-rich black currant (Ribes nigrum L.) extract affords chemoprevention against diethylnitrosamine-induced hepatocellular carcinogenesis in rats. | J Nutr Biochem
+- new | 2010 | 20713174 | Research Support, Non-U.S. Gov't | Fruits and vegetables protect against the genotoxicity of heterocyclic aromatic amines activated by human xenobiotic-metabolizing enzymes expressed in immortal mammalian cells. | Mutat Res
+- new | 2009 | 19302719 | Research Support, Non-U.S. Gov't | Blackcurrant seed press residue increases tocopherol concentrations in serum and stool whilst biomarkers in stool and urine indicate increased oxidative stress in human subjects. | Br J Nutr
+- new | 2007 | 18209270 | Review | Anthocyanins and heart health. | Ann Ist Super Sanita
+- new | 2007 | 16495095 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Conjugated linoleic acid and black currant seed oil in the treatment of canine atopic dermatitis: a preliminary report. | Vet J
+- new | 2007 | 17521033 | Case Reports | Currant allergy and the Rosaceae-grass pollen allergy syndrome: a case report. | Ann Allergy Asthma Immunol
+- new | 2005 | 15759306 | Research Support, Non-U.S. Gov't | Anthocyanins increase low-density lipoprotein and plasma cholesterol and do not reduce atherosclerosis in Watanabe Heritable Hyperlipidemic rabbits. | Mol Nutr Food Res
+- new | 2003 | 12678660 | Comparative Study/Research Support, Non-U.S. Gov't | Antioxidant status, lipoprotein profile and liver lipids in rats fed on high-cholesterol diet containing currant oil rich in n-3 and n-6 polyunsaturated fatty acids. | Physiol Res
+- new | 2002 | 12438004 | Research Support, Non-U.S. Gov't | Protection by beverages, fruits, vegetables, herbs, and flavonoids against genotoxicity of 2-acetylaminofluorene and 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine (PhIP) in metab | Mutat Res
+- new | 1999 | 10690177 | Case Reports/Research Support, Non-U.S. Gov't | Cutaneous Scedosporium apiospermum infection in an immunocompromised patient. | J Clin Pathol
+- new | 1994 | 8081671 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Treatment of rheumatoid arthritis with blackcurrant seed oil. | Br J Rheumatol
+
+### PubMed OBS - 18 hits, 4 not already listed above, 4 new
+- new | 2023 | 37109265 |  | A Supplement with Ribes Nigrum, Boswellia Serrata, Bromelain and Vitamin D to Stop Local Inflammation in Chronic Sinusitis: A Case-Control Study. | J Clin Med
+- new | 2022 | 35626816 |  | Ultrasound-Determined Residual Gastric Volume after Clear-Fluid Ingestion in the Paediatric Population: Still a Debatable Issue. | Children (Basel)
+- new | 2021 | 34960000 | Observational Study | A Pilot, Phase II, Observational, Case-Control, 1-Month Study on Asthenopia in Video Terminal Operators without Dry Eye: Contrast Sensitivity and Quality of Life before and after t | Nutrients
+- new | 2001 | 11338496 | Review | [Experience in using phytopreparations to prevent and correct inflammatory urinary tract diseases]. | Vestn Ross Akad Med Nauk [rus]
+
+### PubMed REV - 76 hits, 19 not already listed above, 18 new
+- new | 2024 | 39765886 | Review | Berries and Their Active Compounds in Prevention of Age-Related Macular Degeneration. | Antioxidants (Basel)
+- new | 2024 | 39664911 | Review | Enriching the Mediterranean diet could nourish the brain more effectively. | Front Nutr
+- new | 2024 | 38790578 | Review | Well-Established and Traditional Use of Vegetal Extracts as an Approach to the "Deep Roots" of Cough. | Children (Basel)
+- new | 2023 | 37958865 | Review | Monoterpene Thiols: Synthesis and Modifications for Obtaining Biologically Active Substances. | Int J Mol Sci
+- new | 2023 | 37823094 | Review | Biological activities, therapeutic potential, and pharmacological aspects of blackcurrants (Ribes nigrum L): A comprehensive review. | Food Sci Nutr
+- new | 2022 | 35204268 | Review | Fruit-Derived Anthocyanins: Effects on Cycling-Induced Responses and Cycling Performance. | Antioxidants (Basel)
+- new | 2021 | 34573028 | Review | Natural Antioxidants from Endemic Leaves in the Elaboration of Processed Meat Products: Current Status. | Antioxidants (Basel)
+- new | 2021 | 34070362 | Review | Potential of Beetroot and Blackcurrant Compounds to Improve Metabolic Syndrome Risk Factors. | Metabolites
+- new | 2019 | 31454085 | Review | Blackcurrants (Ribes nigrum): A Review on Chemistry, Processing, and Health Benefits. | J Food Sci
+- new | 2018 | 28847284 | Review | Modulation of Inflammation as a Way of Delaying Alzheimer's Disease Progression: The Diet's Role. | Curr Alzheimer Res
+- new | 2014 | 24917873 | Review | Epigenetic regulation of bud dormancy events in perennial plants. | Front Plant Sci
+- HELD REF-0097 | 2012 | 22673662 | Research Support, Non-U.S. Gov't/Review | The health benefits of blackcurrants. | Food Funct
+- new | 2010 | 20955650 | Research Support, Non-U.S. Gov't/Review | Colonic metabolites of berry polyphenols: the missing link to biological activity? | Br J Nutr
+- new | 2007 | 17492800 | Review | Antioxidant activity and antimicrobial effect of berry phenolics--a Finnish perspective. | Mol Nutr Food Res
+- new | 2007 | 18065095 | Review | Anthocyanin- and proanthocyanidin-rich extracts of berries in food supplements--analysis with problems. | Pharmazie
+- new | 2006 | 29999722 | Review | Black Currant Seed Oil. | 
+- new | 2005 | 16194041 | Review | [The use of anthocyanins in the treatment of cardiovascular diseases]. | Pol Merkur Lekarski [pol]
+- new | 2001 | 11359029 | Review | Potential of evening primrose, borage, black currant, and fungal oils in human health. | Ann Nutr Metab
+- new | 2000 | 11137163 | Research Support, Non-U.S. Gov't/Review | Black currant reversion disease--the probable causal agent, eriophyid mite vectors, epidemiology and prospects for control. | Virus Res
+
+### ClinicalTrials.gov - 57 registered studies
+- NCT06804083 | COMPLETED | results=False | PHASE4 | Bovine Colostrum Efficacy for the Treatment of Chronic Prostatitis Symptoms. | conds: Chronic Prostatitis (CP), Chronic Prostatitis With Chronic Pelvic Pain Syndrome, Chronic Prostatitis/ Pelvic Pain Syndrome | intr: oral combination of colostrum and Serenoa repens extracts (PROSTYM®) | pubs: ['19524353:RESULT (new)', '10411041:RESULT (new)', '23334883:RESULT (new)', '31937091:RESULT (new)']
+- NCT05873933 | WITHDRAWN | results=False | NA | An Investigation of a Multi-Function Skincare Product to Improve Aging, Eczema, and Acne Outcomes | conds: Acne, Eczema, Skin Aging | intr: Hemptress Oil
+- NCT07166835 | NOT_YET_RECRUITING | results=False | NA | Exploring the Cognitive Benefits of a Blackcurrant-Based Supplement in Normobaric Hypoxia | conds: Cognitive Performance, Executive Function (Cognition), Working Memory, Hypoxia Induced Cognitive Impairment | intr: Nootropics (ginkgo biloba, nicergoline, piracetam, or others), Placebo
+- NCT07853274 | COMPLETED | results=False | NA | Dose-Response Effects of Short-Term Ashwagandha on Anaerobic Exercise and Cognitive Function in Resistance-Trained Athletes | conds: Resistance Exercise Performance, Cognitive Functions, Anaerobic Performance, Dietary Supplementation Athletic Performance | intr: Low-dose Ashwagandha Supplement, High-dose Ashwagandha Supplement, Maltodextrin (Placebo)
+- NCT07951697 | COMPLETED | results=False | NA | Effects of Caffeine and New Zealand Blackcurrant on Endurance Performance in Women | conds: Physical Performance, Exercise Metabolism, Cognitive Function | intr: Caffeine (6mg/kg), New Zealand blackcurrant, Maltodextrin (Placebo), Caffeine and New Zealand Blackc
+- NCT05517005 | COMPLETED | results=False | NA | An Exploratory Investigation of a B12 Vitamin to Increase Energy and Focus | conds: B12 Deficiency Vitamin, Energy Supply; Deficiency, Mood | intr: Hype Bites Supplement
+- NCT07513597 | COMPLETED | results=False | NA | Assessment of the Effects of a Daily Supplement 4Life Transfer Factor Vista Containing AREDS2 Formula on Skin Carotenoid Levels Using a Non- | conds: Skin Carotenoids | intr: Dietary Supplement
+- NCT02019680 | WITHDRAWN | results=False |  | Study of the Effects of Blackcurrant Extract and Omega-3 Fats on the Health of the Heart and Blood Vessels | conds: Abnormalities, Hyperlipidemia, Cardiovascular Disease, Arteriosclerosis | intr: 
+- NCT02459756 | COMPLETED | results=False | NA | Anthocyanin-rich Blackcurrant and Vascular Function | conds: Vascular Stiffness, Inflammation | intr: Beverage: Spray dried blackcurrant powder dissolved in water, Beverage: Placebo (sucrose, glucose, f | pubs: ['40414296:DERIVED (new)']
+- NCT06355765 | COMPLETED | results=False |  | Citicoline & Antioxidants in Glaucoma | conds: Glaucoma, Open-Angle | intr: Citicoline blackcurrant supplement
+- NCT04987619 | COMPLETED | results=False | NA | Effect of Beetroot Juice Supplements on Lower-limb Strength in Females | conds: Muscular Endurance | intr: Beetroot juice, Capri-Sun
+- NCT03416361 | NOT_YET_RECRUITING | results=False | NA | VItamiN D treatIng Chronic heArT Failure (the Effect of Vitamin D Supplementation in Patients With Heart Failure) | conds: Chronic Heart Failure | intr: 4000IU Vitamin D3
+- NCT02469285 | COMPLETED | results=False | NA | The Effect of Pork With Modified Fat Composition and Berries on Plasma Fatty Acids and Fecal Compounds in Healthy Adults | conds: Cardiovascular Diseases | intr: Modified pork, Pork, Pork and berries | pubs: ['40120775:DERIVED (new)']
+- NCT04175353 | COMPLETED | results=False | NA | Effects of Dairy- and Berry-based Snacks on Postprandial Glucose Metabolism in Older People | conds: Postprandial Hyperglycemia | intr: Dairy snack, Berry snack | pubs: ['36184209:DERIVED (new)']
+- NCT07024940 | COMPLETED | results=False | NA | Short-term Effects of Caffeine and a Multi-ingredient Pre-workout on Exercise Performance | conds: Coffee, Anthocyanins, Exercise Performance | intr: Ethiopian Coffee, Supplement, Water (Placebo)
+- NCT05926947 | ACTIVE_NOT_RECRUITING | results=False | NA | OXXYNEA® GS: Study for Glycaemia Management | conds: Prediabetic State, Overweight | intr: Verum A, Verum B, Placebo
+- NCT04150926 | COMPLETED | results=False | NA | The Effect of Black Currant on Postprandial Glucose Metabolism | conds: Postprandial Hyperglycemia, Prediabetic State | intr: Black currant, Black currant-quinoa product, Quinoa base
+- NCT01005342 | COMPLETED | results=False | NA | Influence of Dietary Fiber-rich Meals on Gene Expression and Postprandial Glucose and Lipid Response | conds: Hypoglycemia, Hyperglycemia | intr: Oat bran, Spray-dried oat drink, Rye bran, Sugar beet fiber | pubs: ['19415409:RESULT (new)']
+- NCT06014216 | COMPLETED | results=False | NA | Treating Post-Operative Thirst With Flavoured Ice Lollies or Water - a Comparative Study to Improve Post-operative Discomfort | conds: Postoperative Thirst | intr: Flavoured ice lollies (popsicles), Water
+- NCT00662766 | COMPLETED | results=False | NA | Intervention With Black Currant Seed Press Residues in Healthy Subjects | conds: Smoking | intr: black currant seed press residue, Bread without black currant seed press residues, Baseline data | pubs: ['19523725:DERIVED (new)']
+- NCT02075333 | COMPLETED | results=False | NA | The Effect of Ingesting or Rinsing Sucrose and Sucralose on Self-control, Cognitive Performance, and Blood Glucose | conds: Self-control, Cognitive Performance, Blood Glucose Response | intr: Ingestion of solution, Rinising of solution
+- NCT02962752 | COMPLETED | results=False | NA | Pharmacodynamic Profile of 'Blackadder' Blackcurrant Juice Effects Upon the Monoamine Axis in Humans | conds: Monoamine Oxidase Inhibitor Activity, Prolactin Levels, Postprandial Blood Glucose | intr: Blackadder Juice, Placebo
+- NCT05067062 | COMPLETED | results=False | NA | Intake Duration Effects of Blackcurrant on Cardiovascular and Metabolic Responses | conds: no Conditions | intr: New Zealand blackcurrant extract | pubs: ['33118421:RESULT (new)']
+- NCT03572296 | COMPLETED | results=False | NA | Effect of Drinks Containing Fruit Polyphenol Extracts and Fibre on Postprandial Glycaemia. (Glu-MIX) | conds: Postprandial Period | intr: Placebo, Polyphenol and fibre, Fibre | pubs: ['37902089:DERIVED (new)']
+- NCT03415503 | COMPLETED | results=False | PHASE3 | Dietary Anthocyanins Improve Lipid Metabolism in a Dose - Dependent Manner | conds: Dyslipidemias | intr: Medox® Anthocyanin capsules | pubs: ['33131908:DERIVED (new)']
+- NCT04596553 | COMPLETED | results=False | NA | Effects of Essential and Non-Essential Amino Acids on Post-Exercise Muscle Collagen Synthesis in Young Men | conds: Skeletal Muscle, Extracellular Matrix, Amino Acids Metabolism, Exercise | intr: Essential Amino Acid, Collagen Peptide, Maltodextrin Placebo
+- NCT05890014 | UNKNOWN | results=False | NA | Effects of Diet on Perinatal Mood and Cognition | conds: Mood, Mothers, Healthy | intr: Flavonoid-rich diet
+- NCT04431960 | COMPLETED | results=True | PHASE1 | Blackcurrants Modify Gut Microbiota and Reduce Osteoporosis and CVD Risk | conds: Postmenopausal Osteoporosis, Gut Microbiota, Cardiovascular Diseases | intr: blackcurrant (BC) extract | pubs: ['39019119:DERIVED (new)']
+- NCT04775654 | COMPLETED | results=False | NA | The Effects of Blackcurrant Supplementation on Eye Health | conds: Eye Strain, Eye Fatigue | intr: Blackcurrant, Placebo
+- NCT04637945 | UNKNOWN | results=False | NA | Inflammatory and Metabolic Responses to Long-term Dietary Supplementation With Anthocyanin-rich Blend | conds: Anthocyanins | intr: ACRB, Placebo
+- NCT02291250 | UNKNOWN | results=False | NA | Effect of Soft Fruit on Postprandial Blood Glucose | conds: Type 2 Diabetes | intr: Blackcurrants with polycal OGTT, Greencurrants with polycal OGTT, Blackcurrants with glucose OGTT, S
+- NCT07489118 | ACTIVE_NOT_RECRUITING | results=False | NA | Impact of Protein Source and Polyphenol Complexation in Protein Bars on Metabolic Health | conds: Food Acceptance, Metabolic Health, Immune Cells Activity, Microbiome Composition | intr: Whey protein bar, Pea protein bar, Pea protein with complexed polyphenols bar, Pea protein with free
+- NCT07365514 | RECRUITING | results=False | PHASE1 | Blackcurrants Modify Gut Microbiota and Reduce Osteoporosis Risk in Postmenopausal Females | conds: Postmenopausal Osteoporosis, Gut Microbiome, Menopause | intr: Blackcurrant (BC) extract, Blackcurrant (BC) extract, Placebo
+- NCT03159065 | COMPLETED | results=False | NA | Postprandial Efficacy of Probiotic Fruit Beverages on Glucose Tolerance and Insulin Resistance | conds: Postprandial Hyperglycemia | intr: Bilberry, Blackcurrant, Mango, Beetroot | pubs: ['29486772:DERIVED (new)']
+- NCT02743130 | COMPLETED | results=False | NA | Effects of Berry Nectars Sweetened With Inverted Sugar on Post-meal Blood Sugar | conds: Hyperglycemia, Postprandial | intr: Blackcurrant Nectar, Lingonberry Nectar, Reference
+- NCT02370966 | COMPLETED | results=False | PHASE1,PHASE2 | Berry Intake - Effects on Systemic and Oral Inflammation | conds: Inflammation | intr: Berry powder
+- NCT02743195 | COMPLETED | results=False | NA | Polyphenol/Prebiotic Blend Effects on GI Health and Microbial Composition | conds: GI Health, Microbial Composition | intr: Polyphenol/prebiotic blend
+- NCT07619976 | COMPLETED | results=False | NA | Effects of New Zealand Blackcurrant Supplementation on Exercise and Cognitive Performance in Resistance-Trained Adults | conds: Resistance Exercise Performance, Cognitive Function, Anaerobic Performance, Dietary Supplementation Athletic Performance | intr: Low-dose Blackcurrant Supplement, High-dose Blackcurrant Supplement, Maltodextrin (Placebo)
+- NCT04914416 | COMPLETED | results=False | NA | Evaluation of OxxyneaGS in Acute Glycemic Regulation on Light Hyperglycemic Subjects | conds: Hyperglycemia, Postprandial | intr: Verum T1, Verum T2, Verum T3, Verum T4
+- NCT05164861 | COMPLETED | results=False | NA | Safety and Efficacy of Non-alcoholic Beverage Based on Kombucha in Patients With Constipations | conds: Irritable Bowel Syndrome With Constipation, Constipation-predominant Irritable Bowel Syndrome | intr: kombucha-based beverage | pubs: ['38149073:DERIVED (new)', '36394933:DERIVED (new)']
+- NCT07753395 | COMPLETED | results=False | NA | Effects of New Zealand Blackcurrant on Athletic Performance and Physiological Stress in Simulated Volleyball Matches | conds: Athletic Performance | intr: Placebo, New Zealand blackcurrant (NZBC)
+- NCT03309982 | COMPLETED | results=False | NA | Intestinal Inflammatory and Metabolic Responses to a High Fat Meal and Plant Polyphenol Blend | conds: Anthocyanins | intr: Plant polyphenol blend, Placebo
+- NCT05010057 | COMPLETED | results=False | NA | The Effect of New Zealand Blackcurrant (NZBC) Supplementation on Recovery Following Strenuous Exercise | conds: Muscle Damage | intr: New Zealand blackcurrants (NZBC), Placebo (PLA)
+- NCT02340039 | COMPLETED | results=False | NA | Effects of Fruit Extracts on Glycaemia: The GLU-FRU Study | conds: Postprandial Hyperglycemia | intr: Polyphenols
+- NCT06244186 | COMPLETED | results=False | NA | The Effect of Lactobacillus Delbrueckii Subsp. Bulgaricus on Human's Weight Reduction | conds: Overweight and Obesity | intr: Probiotics, Placebo
+- NCT07048912 | COMPLETED | results=False | NA | The Effect of Acute Beetroot Juice Supplementation on Anaerobic Performance in Football Players | conds: Exercise Performance, Supplementation | intr: Beetroot Juice (BJ), Blackcurrant Juice (Placebo)
+- NCT02617511 | COMPLETED | results=True | NA | Omega-3 Supplementation and Resistance Training | conds: Sarcopenia, Dynapenia, Inflammation | intr: Omega-3 Supplementation, Placebo
+- NCT02148289 | COMPLETED | results=False | NA | Dietary Nitrate in COPD | conds: Chronic Obstructive Pulmonary Disease | intr: Nitrate rich beverage, Nitrate free beverage
+- NCT05567926 | COMPLETED | results=False | NA | Acute Effects of Beetroot Juice on Isometric Knee Extension Strength, Explosive Strength and Local Muscular Endurance | conds: Healthy Adults | intr: Beetroot juice concentrate (140 ml), Blackcurrant juice (placebo)
+- NCT03184064 | COMPLETED | results=False | NA | Acute Effects of Blackcurrant and Citrus Polyphenol Extracts on Postprandial Glycaemia | conds: Postprandial Period | intr: Blackcurrant extract (low dose), Placebo, Citrus extract (low dose), Blackcurrant extract (high dose | pubs: ['37902089:DERIVED (new)']
+- NCT03776149 | COMPLETED | results=False | NA | Cardiovascular Function in Cancer Survivors | conds: Cancer Survivor With History of Anthracycline Chemotherapy | intr: Beetroot juice, Black currant juice
+- NCT07859319 | NOT_YET_RECRUITING | results=False | PHASE4 | Evaluation of the Efficacy and Acceptability of a Phytotherapy Combining Devil's Claw, Blackcurrant and Meadowsweet for the Management of Ar | conds: Hormone Therapy-induced Arthralgia, Phytotherapy, Symptom Management, Adjuvant Treatment | intr: Phytotherapy Dietary Supplement (Harpagophytum, Meadowsweet, and Blackcurrant), Patient Experience Q
+- NCT07840014 | COMPLETED | results=False | NA | Effects of Acute Beetroot Juice on Aerobic Performance and Muscle Oxygenation in Amateur Female Soccer Players | conds: Exercise Physiology, Sports Nutrition, Cardiorespiratory Fitness | intr: Nitrate-rich beetroot juice, Low-nitrate blackcurrant placebo beverage
+- NCT07828444 | COMPLETED | results=False | NA | New Zealand Blackcurrant and Recovery in Elite Taekwondo | conds: Exercise-induced Muscle Damage, Oxidative Stress, Inflammation, Recovery After Exercise | intr: New Zealand Blackcurrant Extract (CurraNZ®), Placebo (Maltodextrin)
+- NCT05229770 | COMPLETED | results=False | NA | Effect of Fruit Smoothie Supplementation on Psychological Distress Among People Receiving Opioid Agonist Therapy | conds: Substance-Related Disorders | intr: Fruit smoothie | pubs: ['40877839:DERIVED (new)', '36057629:DERIVED (new)']
+- NCT06758323 | COMPLETED | results=False | NA | Acute Effects of Beetroot Juice and Caffeine Co-ingestion on Lower-limb Strength and Muscular Endurance in Females | conds: Beetroot Juice, Caffeine, Placebo, Beetroot Juice with Caffeine Co-ingestion | intr: Beetroot juice combined with caffeine (COM), Beetroot juice placebo with caffeine (CAF), Beetroot ju
+- NCT01568983 | COMPLETED | results=False | PHASE3 | The Effects of Polyphenol-rich Berry Juice on Blood Pressure in Hypertensive Subjects | conds: Pre-hypertension, Hypertension | intr: Placebo, Mana-juice, Optijuice
+
+### OpenAlex no-PMID trial-worded - 768 hits, 49 without PMID, 49 new
+- new | 2026 | 10.3390/cosmetics13030143 | article | A Randomized, Double-Blind, Placebo-Controlled Study Evaluating the Effects of a Polyphenol-Rich Fruit Extract Combined with Biotin on Wrinkle Morphology, Skin Surface Roughness, a | Cosmetics
+- new | 2025 | 10.33514/1694-7851-2025-3/2-230-237 | article | PRIMARY INTRODUCTION TRIALS OF BLACK CURRANT IN THE CONDITIONS OF THE CHUI VALLEY | Bulletin of Kyrgyz State University name
+- new | 2024 | 10.1101/2024.12.15.24319053 | preprint | Effect of Redcurrant (Ribes rubrum) fruit powder on patients with COVID-19, A randomized double-blinded clinical trial | medRxiv
+- new | 2022 | 10.23736/s1128-9155.22.00529-5 | article | Ribes nigrum in atopic dermatitis: a pilot study | Esperienze Dermatologiche
+- new | 2021 | 10.7324/japs.2021.110703 | review | A systematic review of randomized controlled trials assessing phytochemicals and natural ingredients for skin and hair care | Journal of Applied Pharmaceutical Scienc
+- new | 2021 | 10.17221/145/2020-cjfs | article | Production of low protein and gluten-free cookies for phenylketonuria (PKU) and/or celiac patients | Czech Journal of Food Sciences
+- new | 2020 | https://openalex.org/W3060185800 | dissertation | The Impact of Blackcurrant on Cognitive Performance A Randomised Control Trial and Meta-Analysis | ResearchSpace (University of Auckland)
+- new | 2020 | 10.26021/10306 | dissertation | Investigation into the enzyme-aided extraction and macroporous resin purification of anthocyanins from blackcurrants (ribes nigrum) | University of Canterbury Research Reposi
+- new | 2018 | https://openalex.org/W3114689181 | dissertation | Case Report on the Efficacy of Perna canaliculus, Curcuma longa and Ribes nigrum (Synopet©) Supplementation in a 11-Year-Old Canine with Moderate Osteoarthritis | Utrecht University Repository (Utrecht U
+- new | 2018 | 10.21608/edj.2018.76813 | article | Clinical evaluation of Ribes nigrum and Vaccinium myrtillus extract on the healing of gingivectomy wounds | Egyptian Dental Journal /Egyptian Dental
+- new | 2018 | https://openalex.org/W7217301287 | dissertation | Production of cookies for phenylketonuric (PKU) and celiac patients | Bursa Technical University Institutional
+- new | 2018 | 10.1155/2018/3403975 | article | Oxidative Stability of the Meat of Broilers Fed Diets Supplemented with Various Levels of Blackcurrant Extract (Ribes nigrum L.) during Different Time Period | Journal of Chemistry
+- new | 2017 | 10.1515/prolas-2017-0032 | article | Qualitative Properties of the Fruits of Blackcurrant Ribes Nigrum L. Genotypes in Conventional and Organic Cultivation | Proceedings of the Latvian Academy of Sc
+- new | 2017 | https://openalex.org/W2962898495 | article | 블랙커런트 추출물(Ribes nigrum L.)의 항산화 및 항염증 효과 | 
+- new | 2017 | https://openalex.org/W2808995898 | article | РАЗМНОЖЕНИЕ СОРТОВ СМОРОДИНЫ ЧЕРНОЙ (RIBES NIGRUM L.) БАШКИРСКОЙ СЕЛЕКЦИИ В КУЛЬТУРЕ IN VITRO | Bulletin of Udmurt University Series Bio
+- new | 2014 | 10.30843/nzpp.2014.67.5731 | article | Evaluation of Engulfreg; adjuvant with nitrogen for breaking dormancy in blackcurrant (Ribes nigrum) | Proceedings of the New Zealand Weed Cont
+- new | 2013 | 10.17660/actahortic.2013.1001.22 | conference-paper | CHARACTERIZATION OF RIBES NIGRUM IN RELATION TO FRUIT MATURITY AND GENOTYPE | Acta Horticulturae
+- new | 2012 | 10.1055/s-0031-1298204 | article | A Randomized Controlled Clinical Trial Comparing the Outcomes of Homeopathic-phytotherapeutic and Conventional Therapy of Whiplash in an Emergency Department | Homœopathic Links
+- new | 2009 | 10.71318/apom.2009.63.4.142 | article | Inheritance of the CrGene in Ribes Nigrum | Journal of the American Pomological Soci
+- new | 2008 | 10.17660/actahortic.2008.777.4 | conference-paper | GENERAL COMBINING ABILITY OF SELECTED BLACKCURRANT (RIBES NIGRUM L.) GENOTYPES IN BREEDING FOR DESSERT QUALITY FRUIT | Acta Horticulturae
+- new | 2007 | 10.1080/09064710600984171 | article | Effects of fertilization and climatic factors in a long-term experiment with blackcurrant (Ribes nigrum L.) cv. Ben Tron | Acta Agriculturae Scandinavica Section B
+- new | 2006 | https://openalex.org/W2128630433 | conference-paper | Inheritance of Antioxidants in a New Zealand Blackcurrant (Ribes nigrum L.) population | UC Research Repository  (University of C
+- new | 2006 | https://openalex.org/W2126695183 | article | The influence of supplementation with the black currant (Ribes nigrum) extract on selected prooxidative-antioxidative balance parameters in rowers | Studies in physical Culture &Tourism
+- new | 2004 | 10.4314/mjar.v4i1.31763 | article | Effects of defoliation on black currant (Ribes nigrum l.) infection by Armillaria species | Moor Journal of Agricultural Research
+- new | 2002 | 10.17660/actahortic.2002.585.104 | conference-paper | COVERCROPS IN BLACKCURRANT (RIBES NIGRUM) | Acta Horticulturae
+- new | 2002 | 10.17660/actahortic.2002.585.36 | conference-paper | BLACKCURRANT RESEARCH TRIALS IN THE PROVINCE OF QUEBEC, CANADA WITH SPECIAL REFERENCE TO FOLIAR DISEASES | Acta Horticulturae
+- new | 2002 | 10.17660/actahortic.2002.585.107 | conference-paper | RESPONSE OF BLACK CURRANT (RIBES NIGRUM L.) CV. 'TITANIA' TO MICROIRRIGATION UNDER LOOSE SANDY SOIL CONDITIONS | Acta Horticulturae
+- new | 2002 | 10.17660/actahortic.2002.585.70 | conference-paper | DETERMINATION OF LEAF DAMAGE LEVELS TOLERATED IN A LOW PESTICIDE PRODUCTION SYSTEM OF BLACKCURRANTS (RIBES NIGRUM) | Acta Horticulturae
+- new | 1999 | 10.17660/actahortic.1999.505.53 | conference-paper | GENETIC CHARACTERISATION OF RIBES NIGRUM, RIBES RUBRUM AND RIBES GROSSULARIA USING MOLECULAR MARKERS | Acta Horticulturae
+- new | 1993 | 10.17660/actahortic.1993.352.1 | conference-paper | THE EFFECT OF FERTILIZATION ON LEAF AND SOIL ANALYSES OF RIBES RUBRUM L. AND RIBES NIGRUM L. | Acta Horticulturae
+- new | 1990 | https://openalex.org/W290774450 | article | How has irrigation affected growth of black currants in Danish trials | 
+- new | 1988 | https://openalex.org/W268900787 | article | Trials with new black currant varieties. | Erwerbsobstbau
+- new | 1984 | https://openalex.org/W1151746934 | article | Trials of fungicides against mildew on black currants. | Gartneryrket
+- new | 1980 | https://openalex.org/W2599138062 | article | Trials of black currant in Siberia. | 
+- new | 1980 | https://openalex.org/W2977891921 | article | Varietal trial of black currant in the Buryat ASSR. | 
+- new | 1980 | https://openalex.org/W2579279169 | article | Variety trials of black currant in Tyumen' province. | 
+- new | 1980 | https://openalex.org/W2605565127 | article | Breeding and varietal trials of black currant in Chelyabinsk province. | 
+- new | 1980 | https://openalex.org/W915801207 | article | Varietal trial of black currant at the Bakchar Base for Northern Horticulture. | 
+- new | 1973 | https://openalex.org/W3034485797 | article | Variety trials with black-currants conducted in Finland, 1959-1969 | Jukuri (Natural Resources Institute Finl
+- new | 1970 | https://openalex.org/W2553175479 | article | A ten year trial of Blackcurrant cultivars. | 
+- new | 1970 | https://openalex.org/W287116865 | article | Cultivar trials with raspberries, gooseberries and black currants. | 
+- new | 1969 | https://openalex.org/W325182811 | article | Blackcurrant cultivar trials at Experimental Horticulture Stations. | 
+- new | 1968 | https://openalex.org/W2564353173 | article | Spacing trial with black currant. | 
+- new | 1963 | https://openalex.org/W2554047007 | article | Black currant leaf spot: supplementary note on 1959-61 spray trial. | 
+- new | 1962 | https://openalex.org/W2546747840 | article | Black Currant leaf spot: spray trial 1959-61. | 
+- new | 1962 | https://openalex.org/W2550917780 | article | Tasting tests on black currants and strawberries from field spraying trials. | 
+- new | 1960 | https://openalex.org/W2598071495 | article | Variety trial: black currants. | 
+- new | 1960 | https://openalex.org/W2233571997 | article | Field trials with black currants. II. | 
+- new | 1925 | 10.1080/03683621.1925.11513282 | article | Black Currant Variety Trials: Reliability of Results. | Journal of Pomology and Horticultural Sc
+
+## rosa-canina (Rosa canina) - name clause: "Rosa canina"[tiab] OR "dog rose"[tiab] OR "rosehip"[tiab] OR "rose hip"[tiab] OR "rosehips"[tiab] OR "rose hips"[tiab] OR "LitoZin"[tiab] OR "Hyben Vital"[tiab]
+
+### PubMed HT - 58 hits, 58 not already listed above, 48 new
+- new | 2026 | 41599942 | Randomized Controlled Trial/Multicenter Study | Using Dose-Response Correlation Re-Analyzing to Distinguish Placebo from Standardized Rose-Hip Powder (Lito) in a Clinical Trial on Osteoarthritis Where Data Initially Looked Ident | Nutrients
+- new | 2026 | 42997329 | Clinical Trial | Supplementation with cartilage hydrolysate and rosehip peel extract in physically active adults: main outcomes and exploratory findings of a randomized, placebo-controlled study on | Front Sports Act Living
+- new | 2026 | 42831964 | Randomized Controlled Trial | Effects of rosehip (Rosa canina) supplementation on orthostatic intolerance symptoms in patients with type 2 diabetes: a randomized double-blind placebo-controlled clinical trial. | Daru
+- HELD REF-3109 | 2025 | 40751509 | Randomized Controlled Trial | Efficacy and Safety of Rosa canina L. and a Traditional Polyherbal Formulation Syrup in Children and Adolescents With Attention-Deficit/Hyperactivity Disorder: A Factorial Randomiz | Phytother Res
+- new | 2025 | 40292268 |  | Investigating the effect of a herbal cream containing rose essence in an animal model of eczema. | Avicenna J Phytomed
+- new | 2024 | 38675423 |  | Potential Anti-Inflammatory and Anti-Fatigue Effects of an Oral Food Supplement in Long COVID Patients. | Pharmaceuticals (Basel)
+- SEEN | 2023 | 36268807 | Randomized Controlled Trial | Therapeutic effects of Rosa canina, Urtica dioica and Tanacetum vulgare herbal combination in treatment of tinnitus symptoms: A double-blind randomised clinical trial. | Clin Otolaryngol
+- new | 2023 | 38283449 | Review | Effects of Daily Intake of Rosehip Extract on Low-Density Lipoprotein Cholesterol and Blood Glucose Levels: A Systematic Review. | Cureus
+- new | 2022 | 36559109 |  | In Vitro and In Vivo Characteristics of Olive Oil as Excipient for Topical Administration. | Pharmaceutics
+- new | 2022 | 33811776 | Randomized Controlled Trial | A randomized controlled trial to compare the effectiveness and safety of adsorbent lotion containing tapioca starch, spent grain wax, Butyrospermum parkii extract, argania spinosa  | J Cosmet Dermatol
+- new | 2022 | 35606864 | Clinical Trial Protocol | The effect of Rosa canina L. and a polyherbal formulation syrup in patients with attention-deficit/hyperactivity disorder: a study protocol for a multicenter randomized controlled  | Trials
+- new | 2022 | 36010501 |  | Application of Aloe vera Gel Coating Enriched with Cinnamon and Rosehip Oils to Maintain Quality and Extend Shelf Life of Pomegranate Arils. | Foods
+- new | 2022 | 36345487 | Review | Effectiveness of herbal medicines to prevent and control symptoms of urinary tract infections and to reduce antibiotic use: A literature review. | Integr Med Res
+- new | 2021 | 32081056 | Randomized Controlled Trial | Efficacy and Safety of a Traditional Herbal Combination in Patients with Type II Diabetes Mellitus: A Randomized Controlled Trial. | J Diet Suppl
+- new | 2021 | 33990887 |  | Complementary, Traditional and Spiritual Practices Used by Cancer Patients in Turkey When Coping with Pain: An Exploratory Case Study. | J Relig Health
+- new | 2020 | 31235400 | Randomized Controlled Trial | Efficacy and safety of a rosehip seed oil extract in the prevention and treatment of skin lesions in the hands of patients with type 1 diabetes mellitus caused by finger prick bloo | Endocrinol Diabetes Nutr (Engl Ed) [eng,spa]
+- new | 2020 | 32664308 |  | A Pilot Study of a Natural Food Supplement as New Possible Therapeutic Approach in Chronic Kidney Disease Patients. | Pharmaceuticals (Basel)
+- HELD REF-0990 | 2019 | 31138475 | Systematic Review | Rosa canina - Rose hip pharmacological ingredients and molecular mechanics counteracting osteoarthritis - A systematic review. | Phytomedicine
+- new | 2019 | 30986310 | Systematic Review | Dietary Ingredients Requiring Further Research Before Evidence-Based Recommendations Can Be Made for Their Use as an Approach to Mitigating Pain. | Pain Med
+- new | 2019 | 32064827 |  | Prevention of vaginal dryness in perimenopausal women. Supplementation with Lady Prelox®. | Minerva Ginecol
+- new | 2019 | 30986309 | Consensus Statement/Research Support, U.S. Gov't, Non-P.H.S. | Dietary Ingredients as an Alternative Approach for Mitigating Chronic Musculoskeletal Pain: Evidence-Based Recommendations for Practice and Research in the Military. | Pain Med
+- new | 2018 | 30317989 | Research Support, Non-U.S. Gov't/Review | Phytochemistry, Traditional Uses and Pharmacological Profile of Rose Hip: A Review. | Curr Pharm Des
+- new | 2018 | 29486772 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Probiotic fruit beverages with different polyphenol profiles attenuated early insulin response. | Nutr J
+- HELD REF-3105 | 2018 | 29024081 | Randomized Controlled Trial | The effect of Rosa (L. Rosa canina) on the incidence of urinary tract infection in the puerperium: A randomized placebo-controlled trial. | Phytother Res
+- SEEN | 2017 | 28614869 | Randomized Controlled Trial | A Rosa canina - Urtica dioica - Harpagophytum procumbens/zeyheri Combination Significantly Reduces Gonarthritis Symptoms in a Randomized, Placebo-Controlled Double-Blind Study. | Planta Med
+- new | 2016 | 26996043 | Controlled Clinical Trial | [EVALUATION OF THE EFFECTIVENESS OF AN OIL EXTRACT OF ROSEHIP IN THE PREVENTION OF EPITHELITIS DUE TO RADIOTHERAPY IN PATIENTS WITH HEAD AND NECK CANCER]. | Rev Enferm [spa]
+- HELD REF-3108 | 2015 | 26604725 | Comparative Study/Randomized Controlled Trial | The effectiveness of a standardized rose hip powder, containing seeds and shells of Rosa canina, on cell longevity, skin wrinkles, moisture, and elasticity. | Clin Interv Aging
+- new | 2015 | 25834460 |  | Daily intake of rosehip extract decreases abdominal visceral fat in preobese subjects: a randomized, double-blind, placebo-controlled clinical trial. | Diabetes Metab Syndr Obes
+- new | 2015 | 26234471 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Improved gait in persons with knee related mobility limitations by a rosehip food supplement: A randomized, double-blind, placebo-controlled trial. | Gait Posture
+- new | 2014 | 25043856 | Observational Study | A pilot study on the effectiveness of a rose hip shell powder in patients suffering from chronic musculoskeletal pain. | Phytother Res
+- new | 2014 | 24291404 | Research Support, Non-U.S. Gov't | Quinine sensitivity influences the acceptance of sea-buckthorn and grapefruit juices in 9- to 11-year-old children. | Appetite
+- new | 2013 | 23237514 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Use of a specific anti-stretch mark cream for preventing or reducing the severity of striae gravidarum. Randomized, double-blind, controlled trial. | Int J Cosmet Sci
+- new | 2013 | 24051943 | Clinical Trial | Lady Prelox® improves sexual function in generally healthy women of reproductive age. | Minerva Ginecol
+- new | 2012 | 22166897 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of rose hip intake on risk markers of type 2 diabetes and cardiovascular disease: a randomized, double-blind, cross-over investigation in obese persons. | Eur J Clin Nutr
+- new | 2012 | 22762068 |  | Rosehip - an evidence based herbal medicine for inflammation and arthritis. | Aust Fam Physician
+- new | 2011 | 21169345 | Research Support, Non-U.S. Gov't/Systematic Review | Evidence for the efficacy of complementary and alternative medicines in the management of osteoarthritis: a systematic review. | Rheumatology (Oxford)
+- new | 2011 | 21420288 | Research Support, Non-U.S. Gov't | The effects of rose hip (Rosa canina) on plasma antioxidative activity and C-reactive protein in patients with rheumatoid arthritis and normal controls: a prospective cohort study. | Phytomedicine
+- new | 2010 | 20490321 |  | Increase in plasma concentrations of geranylgeranoic Acid after turmeric tablet intake by healthy volunteers. | J Clin Biochem Nutr
+- HELD REF-3734 | 2010 | 19818588 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Rose hip herbal remedy in patients with rheumatoid arthritis - a randomised controlled trial. | Phytomedicine
+- new | 2009 | 19856319 | Systematic Review | Evidence of effectiveness of herbal medicinal products in the treatment of arthritis. Part I: Osteoarthritis. | Phytother Res
+- new | 2009 | 19336626 | Comparative Study/Randomized Controlled Trial | The effect of herbal teas on the shear bond strength of orthodontic brackets. | Eur J Orthod
+- new | 2009 | 19298683 |  | Influence of fruit drinks with or without lactobacillus Lp299v on the gastrointestinal uptake of paracetamol in man. | BMC Res Notes
+- HELD REF-0989 | 2008 | 18407528 | Meta-Analysis/Research Support, Non-U.S. Gov't/Review | Does the hip powder of Rosa canina (rosehip) reduce pain in osteoarthritis patients?--a meta-analysis of randomized controlled trials. | Osteoarthritis Cartilage
+- new | 2007 | 17619600 | Systematic Review | [The clinical effectiveness of rosehip powder in patients with osteoarthritis. A systematic review]. | MMW Fortschr Med [ger]
+- new | 2007 | 17884346 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Interleukin-1 genotype-selective inhibition of inflammatory mediators by a botanical: a nutrigenetics proof of concept. | Nutrition
+- new | 2006 | 16395741 | Systematic Review | The evidence for clinical efficacy of rose hip and seed: a systematic review. | Phytother Res
+- HELD REF-3106 | 2005 | 16195164 | Clinical Trial/Comparative Study/Randomized Controlled Trial | A powder made from seeds and shells of a rose-hip subspecies (Rosa canina) reduces symptoms of knee and hip osteoarthritis: a randomized, double-blind, placebo-controlled clinical  | Scand J Rheumatol
+- HELD REF-3107 | 2004 | 15330493 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A herbal remedy, Hyben Vital (stand. powder of a subspecies of Rosa canina fruits), reduces pain and improves general wellbeing in patients with osteoarthritis--a double-blind, pla | Phytomedicine
+- new | 2004 | 15460985 |  | [Use of the syrup prepared on the basis of wild-growing grasses of the Far East, in preventive maintenance of respiratory diseases and microelementoza at children]. | Vopr Pitan [rus]
+- new | 2003 | 24944354 |  | The Effects of a Standardized Herbal Remedy Made from a Subtype of Rosa canina in Patients with Osteoarthritis: A Double-Blind, Randomized, Placebo-Controlled Clinical Trial. | Curr Ther Res Clin Exp
+- new | 2002 | 12450890 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effect of Lactobacillus plantarum 299v on cardiovascular disease risk factors in smokers. | Am J Clin Nutr
+- new | 2001 | 11467225 |  | [Value of complementary medicine exemplified by rose-hips]. | Gesundheitswesen [ger]
+- new | 2000 | 10811333 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Alteration of intestinal microflora is associated with reduction in abdominal bloating and pain in patients with irritable bowel syndrome. | Am J Gastroenterol
+- new | 1999 | 17657440 |  | Rose hip inhibits chemotaxis and chemiluminescence of human peripheral blood neutrophils in vitro and reduces certain inflammatory parameters in vivo. | Inflammopharmacology
+- new | 1999 | 17657447 |  | The anti-inflammatory properties of rose-hip. | Inflammopharmacology
+- new | 1998 | 9706795 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Survival of Lactobacillus plantarum DSM 9843 (299v), and effect on the short-chain fatty acid content of faeces after ingestion of a rose-hip drink with fermented oats. | Int J Food Microbiol
+- new | 1989 | 2684553 | Research Support, Non-U.S. Gov't/Research Support, U.S. Gov't, P.H.S. | Acute effects of herbal tea dust extracts on lung function. | Chest
+- new | 1985 | 4074461 | Research Support, Non-U.S. Gov't | Effects of coffee and tea on lipoproteins and prostanoids. | Atherosclerosis
+
+### PubMed SR - 15 hits, 4 not already listed above, 3 new
+- new | 2023 | 37111865 |  | A Multifaceted Evaluation Approach for Greek Native Neglected and Underutilized Forest Fruit Trees and Shrubs as Natural Sources of Antioxidants: Consolidating the Framework for Th | Plants (Basel)
+- new | 2014 | 24462672 | Practice Guideline/Research Support, Non-U.S. Gov't | OARSI guidelines for the non-surgical management of knee osteoarthritis. | Osteoarthritis Cartilage
+- new | 2011 | 20632303 | Research Support, Non-U.S. Gov't | Isolation of immunomodulatory triterpene acids from a standardized rose hip powder (Rosa canina L.). | Phytother Res
+- HELD REF-0051 | 2008 | 18384191 | Systematic Review | A systematic review on the Rosa canina effect and efficacy profiles. | Phytother Res
+
+### PubMed SAFE - 61 hits, 51 not already listed above, 51 new
+- new | 2026 | 40770474 | Review | Natural Oil and Polycystic Ovary Syndrome: A Comprehensive Review of Therapeutic Benefits. | Curr Top Med Chem
+- new | 2026 | 42883333 |  | Analysis of Mercury Content in Medicinal Plants Popular in Poland. | Molecules
+- new | 2026 | 42771964 |  | Volatile and phenolic profiles, instrumental color, and microbiological safety of selected foods from Tajikistan: A chemometric study. | Food Chem
+- new | 2026 | 41108356 | Review | Exploring myricetin: A comprehensive review of its pharmacological potential, formulation strategies, and clinical outlook. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2026 | 42588522 |  | ICP-MS Elemental Profiling and Antioxidant Characterization of Romanian Artisanal Pălincă-Based Beverages Enriched with Honey, Wild Fruits, and Wood Materials. | Molecules
+- new | 2026 | 43042170 |  | Safety and efficacy of feed additives consisting of tinctures from Rosa canina L.: Rosehip shell tincture for horses and rosehip tincture for all animal species (FEFANA asbl). | EFSA J
+- new | 2025 | 41487226 |  | Polymeric Nanocapsules Containing Kojic Acid Dipalmitate and Rosehip Oil: Development and Evaluation of Preliminary Efficacy and Safety for Skin Whitening. | ACS Omega
+- new | 2025 | 40512464 |  | Bioactive Compounds From Rosa canina L. Roots With Anti-Collagenase, Anti-Tyrosinase, and Antioxidant Activities: In Vitro and In Silico Approaches. | Chem Biodivers
+- new | 2025 | 41011697 |  | Impact of Thermal Processing and Carbohydrate Carriers on Amino Acids, Sugars, Phenolic Compounds, and Maillard Reaction Markers Relevant to Nutritional Quality and Safety of Rosa  | Molecules
+- new | 2025 | 40028155 |  | Unveiling the effects of Rosa canina oligosaccharide liposome on neuropathic pain and motor dysfunction following spinal cord injury in rats: relevance to its antioxidative effects | Front Pharmacol
+- new | 2025 | 40095053 |  | An oligosaccharide isolated from Rosa canina ameliorates lipid profile and liver damage in MASLD modeled rabbits: in vivo and in silico studies. | Naunyn Schmiedebergs Arch Pharmacol
+- new | 2025 | 41125087 |  | Evaluation of a Retinol Nanoemulsion Gel Enriched with Black Seed and Rosehip Oils for Acne Management. | Drug Res (Stuttg)
+- new | 2025 | 40022036 |  | Antitumor activity of gamma-irradiated Rosa canina L. against lung carcinoma in rat model: a proposed mechanism. | BMC Complement Med Ther
+- new | 2025 | 41086102 |  | Assessment of mineral nutrition level and heavy metals toxicity in Kosovo herbal remedies. | J Environ Sci Health B
+- new | 2024 | 39092498 | Research Support, Non-U.S. Gov't | Antitumoral melatonin-loaded nanostructured lipid carriers. | Nanomedicine (Lond)
+- new | 2024 | 39124271 |  | Ethnobotany around the Virovitica Area in NW Slavonia (Continental Croatia)-Record of Rare Edible Use of Fungus Sarccoscypha coccinea. | Plants (Basel)
+- new | 2024 | 38488727 |  | Improving fried burger quality and modulating acrylamide formation by active coating containing Rosa canina L. extract nanoemulsions. | J Food Sci
+- new | 2024 | 39339584 |  | Design and Characterization of Liposomal-Based Carriers for the Encapsulation of Rosa canina Fruit Extract: In Vitro Gastrointestinal Release Behavior. | Plants (Basel)
+- new | 2023 | 38026534 |  | Dually Active Apigenin-Loaded Nanostructured Lipid Carriers for Cancer Treatment. | Int J Nanomedicine
+- new | 2023 | 36698735 |  | Protective effects of hydroalcoholic extract of Rosa canina L. fruit on cyclophosphamide-induced testicular toxicity in mice. | Avicenna J Phytomed
+- new | 2023 | 37835225 |  | Assessment of Toxic Pyrrolizidine and Tropane Alkaloids in Herbal Teas and Culinary Herbs Using LC-Q-ToF/MS. | Foods
+- new | 2022 | 35531605 | Research Support, Non-U.S. Gov't | Safety Assessment of Rosa canina-derived Ingredients as Used in Cosmetics. | Int J Toxicol
+- new | 2022 | 35875223 |  | Investigation of carbonate addition on risk element concentrations in various teas. | J Food Sci Technol
+- new | 2022 | 36942078 |  | Improvement of Phenolic Compound Extraction by Using Ion Exchange Chromatography and Evaluation of Biological Activities of Polyphenol-enriched Fraction of Rosa canina Fruits. | Iran J Pharm Res
+- new | 2022 | 35167020 |  | Effect of the green synthesized rGO and Mg/rGO nanocomposites on the phytochemical assay, toxicity, and metabolism of Mentha longifolia in vitro cultures. | Environ Sci Pollut Res Int
+- new | 2022 | 35267282 |  | The Effect of High Voltage Electrical Discharge on the Physicochemical Properties and the Microbiological Safety of Rose Hip Nectars. | Foods
+- new | 2022 | 36699555 |  | The effect of endurance exercise and rosehip extract supplementation on the expression of P53 and cytochrome C genes in male rat heart. | J Cardiovasc Thorac Res
+- new | 2021 | 32882361 | Review | Potential anti-influenza effective plants used in Turkish folk medicine: A review. | J Ethnopharmacol
+- new | 2021 | 36286888 | Case Reports | [A medicinal liver injury with an immunomodulatory drug of natural origin. Case report]. | Ter Arkh [rus]
+- new | 2021 | 33129004 |  | Assessment of the effect of marination with organic fruit vinegars on safety and quality of beef. | Int J Food Microbiol
+- new | 2020 | 32379993 |  | Chemical Characterization of Bioactive Components of Rosa canina Extract and Its Protective Effect on Dextran Sulfate Sodium-Induced Intestinal Bowel Disease in a Mouse Model. | J Med Food
+- new | 2020 | 33396942 |  | Self-Nanoemulsion Loaded with a Combination of Isotretinoin, an Anti-Acne Drug, and Quercetin: Preparation, Optimization, and In Vivo Assessment. | Pharmaceutics
+- new | 2020 | 31944077 |  | Effect of Rosa canina Distilled Water on Tamoxifen-treated Male Wistar Rats. | Pak J Biol Sci
+- new | 2019 | 30923767 |  | Herbal medicine against genotoxicity of dimethoate, an insecticide, in mammalian somatic cells. | Heliyon
+- new | 2019 | 31349429 |  | Ketoprofen-loaded rose hip oil nanocapsules attenuate chronic inflammatory response in a pre-clinical trial in mice. | Mater Sci Eng C Mater Biol Appl
+- new | 2019 | 31878141 |  | A Combination of Rosa Canina Extracts and Gold Complex Favors Apoptosis of Caco-2 Cells by Increasing Oxidative Stress and Mitochondrial Dysfunction. | Antioxidants (Basel)
+- new | 2018 | 30449982 | Review | Current status of top 10 nutraceuticals used for Knee Osteoarthritis in India. | J Clin Orthop Trauma
+- new | 2018 | 28920463 |  | Evaluation of genotoxicity and subchronic toxicity of standardized rose hip extract. | Hum Exp Toxicol
+- new | 2018 | 30022513 | Case Reports | Allergic contact dermatitis caused by "Rosa mosqueta" oil. | Contact Dermatitis
+- new | 2017 | 28587101 | Review | Therapeutic Applications of Rose Hips from Different Rosa Species. | Int J Mol Sci
+- new | 2017 | 28529735 |  | Rosehip inhibits xanthine oxidase activity and reduces serum urate levels in a mouse model of hyperuricemia. | Biomed Rep
+- new | 2016 | 27222831 |  | Hepatoprotective effect of Rosa canina fruit extract against carbon tetrachloride induced hepatotoxicity in rat. | Avicenna J Phytomed
+- new | 2015 | 25330814 |  | Mutagenic biomonitoring of pirethroid insecticides in human lymphocyte cultures: use of micronuclei as biomarkers and recovery by Rosa canina extracts of mutagenic effects. | Pharm Biol
+- new | 2014 | 25228511 | Research Support, Non-U.S. Gov't | Biological activity and stability in vitro of polyphenolic extracts as potential dietary supplements. | Postepy Hig Med Dosw (Online)
+- new | 2014 | 24365615 | Case Reports/Letter | The role of flavonoids in false positive digoxin assays caused by the consumption of hibiscus flower and rose hip tea. | Int J Cardiol
+- new | 2013 | 23561167 | Research Support, Non-U.S. Gov't | Aluminium and other elements in selected herbal tea plant species and their infusions. | Food Chem
+- new | 2012 | 22353002 | Review | Safety and efficacy of Setarud (IMOD TM ) among people living with HIV/AIDS: a review. | Recent Pat Antiinfect Drug Discov
+- new | 2008 | 18729248 |  | A one-year survey on the use of a powder from Rosa canina lito in acute exacerbations of chronic pain. | Phytother Res
+- new | 2005 | 15467705 | Case Reports/Letter | Rose-hip keratitis. | Eye (Lond)
+- new | 2004 | 15229712 | Review | [Antioxidants and oxidative stress]. | Tidsskr Nor Laegeforen [nor]
+- new | 1990 | 2324410 | Case Reports | Rose hips: a new occupational allergen. | J Allergy Clin Immunol
+
+### PubMed OBS - 8 hits, 4 not already listed above, 4 new
+- new | 2024 | 36148839 |  | Dietary anthocyanins balance immune signs in osteoarthritis and obesity - update of human in vitro studies and clinical trials. | Crit Rev Food Sci Nutr
+- new | 2022 | 35942376 |  | Research on Herbal Therapies for Osteoarthritis in 2004-2022: A Web of Science-Based Cross-Sectional Bibliometric Analysis. | Evid Based Complement Alternat Med
+- new | 2019 | 31780029 |  | Herbal supplement products used by mothers to cope with the common health problems in childhood. | Complement Ther Med
+- new | 2010 | 20345888 |  | Knowledge and behaviours related to herbal remedies: a cross-sectional epidemiological study in adults in Middle Anatolia, Turkey. | Health Soc Care Community
+
+### PubMed REV - 37 hits, 16 not already listed above, 15 new
+- new | 2025 | 41302441 | Review | Oil from Cornelian Cherry Kernels. | Molecules
+- new | 2024 | 37918157 | Review | New horizon of rosehip seed oil: Extraction, characterization for its potential applications as a functional ingredient. | Food Chem
+- new | 2024 | 37937578 | Review | A Comprehensive Review on Phytochemistry and Pharmacology of Rosa Species (Rosaceae). | Curr Top Med Chem
+- new | 2024 | 37605366 | Review | Rosehip extract and wound healing: A review. | J Cosmet Dermatol
+- new | 2024 | 38666029 | Review | Unveiling the mechanisms for the development of rosehip-based dermatological products: an updated review. | Front Pharmacol
+- new | 2023 | 36839954 | Review | The Potential of Medicinal Plants and Natural Products in the Treatment of Burns and Sunburn-A Review. | Pharmaceutics
+- new | 2023 | 36065571 | Review | High pressure homogenization applied to fruit juices: Effects on microbial inactivation and on maintenance of bioactive components. | Food Sci Technol Int
+- new | 2022 | 36365189 | Review | Evidence-Based Anti-Diabetic Properties of Plant from the Occitan Valleys of the Piedmont Alps. | Pharmaceutics
+- new | 2021 | 34348637 | Review | Anti-Inflammatory and Analgesic Effects of Rosehip in Inflammatory Musculoskeletal Disorders and Its Active Molecules. | Curr Mol Pharmacol
+- new | 2017 | 29280987 | Review | Anti-Inflammatory and Skin Barrier Repair Effects of Topical Application of Some Plant Oils. | Int J Mol Sci
+- new | 2016 | 27816506 | Review/Research Support, Non-U.S. Gov't | The genus Rosa and arthritis: Overview on pharmacological perspectives. | Pharmacol Res
+- new | 2009 | 20653526 | Review | Galactolipids as potential health promoting compounds in vegetable foods. | Recent Pat Food Nutr Agric
+- new | 2008 | 18585855 | Review | Multitargeted therapy of cancer by lycopene. | Cancer Lett
+- HELD REF-0050 | 2007 | 17444576 | Review | Evidence of effectiveness of herbal antiinflammatory drugs in the treatment of painful osteoarthritis and chronic low back pain. | Phytother Res
+- new | 2007 | 17433114 | Historical Article/Review | Wild vascular plants gathered for consumption in the Polish countryside: a review. | J Ethnobiol Ethnomed
+- new | 2003 | 14585309 | Review | Rosehip -- a "new" source of lycopene? | Mol Aspects Med
+
+### ClinicalTrials.gov - 5 registered studies
+- NCT05272228 | COMPLETED | results=False | NA | Comparative Single-dose Bioavailability Clinical Study of Different Coenzyme Q10 Products | conds: Coenzyme Q Deficiency | intr: Dietary supplement - standard product, Dietary supplement - Investigational product IP1, Dietary sup
+- NCT01927848 | COMPLETED | results=False | PHASE4 | Improving Gait in Persons With Knee Related Mobility Limitations by Rosenoids® Food Supplement: a Randomized Double-blind Placebo-controlled | conds: Knee Related Walking Limitations | intr: Rosehip, Placebo | pubs: ['26234471:DERIVED (new)']
+- NCT00303238 | COMPLETED | results=False | NA | Study to Evaluate the Effect of Botanical Dietary Supplements on Inflammation in Healthy People | conds: Healthy | intr: Rose hips extract + blueberry/blackberry extract + resveravine, Rose hips extract + blueberry/blackb
+- NCT01430481 | COMPLETED | results=False | PHASE2 | Rosehip Powder for Knee Osteoarthritis | conds: Osteoarthritis | intr: Rosehip powder
+- NCT05700513 | UNKNOWN | results=False | PHASE1,PHASE2 | Dog-rose, Cranberry Leaves, Cranberry Berries, Alfalfa, Fenugreek, Lemon Beebrush, Urtica and Sumac in Diabetes Mellitus | conds: Type 2 Diabetes | intr: Capsules containing the combination products, Placebo capsules
+
+### OpenAlex no-PMID trial-worded - 813 hits, 55 without PMID, 54 new
+- new | 2026 | 10.31989/ffhd.v16i9.2042 | article | Effects of consuming foods containing rosehip-derived tiliroside on abdominal visceral fat: A randomized, double-blind, placebo-controlled, parallel-group trial | Functional Foods in Health and Disease
+- new | 2026 | 10.31015/jaefs.2026.1.9 | article | Evaluation of physico-mechanical properties of Rosehip (Rosa canina L.) fruits | International Journal of Agriculture Env
+- new | 2025 | 10.53463/tafor.2025vol5iss1pp11-14 | article | Growth and fruit characteristics in Rosa canina L. | Theoretical and Applied Forestry
+- new | 2025 | 10.59463/entf4625 | article | Fruit size variability in rosehip (Rosa canina L.) populations from Arad County | JOURNAL OF HORTICULTURE FORESTRY AND BIO
+- new | 2025 | 10.59463/eqg3ee21 | article | Assessment of pomological diversity between rosehip (Rosa canina L.) populations from Arad County | JOURNAL OF HORTICULTURE FORESTRY AND BIO
+- new | 2024 | 10.15406/ijcam.2024.17.00687 | article | A double-blinded, randomized, parallel grouped, phase III comparative study of Japanese White Turmeric extract and placebo in patients with mild to moderate osteoarthritis of the k | International Journal of Complementary &
+- new | 2024 | 10.23958/ijirms/vol09-i06/1903 | article | Clinical Improvement in Knee Osteoarthritis Patients Supplemented with Nutritional Formula with Botanic Actives & Micronutrients; Supporting Joint Health: A Randomized, Double-Blin | International Journal of Innovative Rese
+- new | 2023 | 10.3390/agronomy14010025 | article | Enhancing the Propagation and Cultivation Framework of Greek Rosa canina L. Germplasm via Sustainable Management Techniques | Agronomy
+- new | 2022 | 10.5603/dk.a2022.0028 | article | The Safety and Effectiveness of a Polysaccharide Extracted from Rosa Canina in Patients with NAFLD: A Randomized Trial | Clinical Diabetology
+- new | 2022 | 10.1016/j.hermed.2022.100556 | article | Therapeutic efficacy of Urtica dioica and evening primrose in patients with rheumatoid arthritis: A randomized double-blind, placebo-controlled clinical trial | Journal of Herbal Medicine
+- new | 2022 | 10.1007/978-3-031-07753-1_33 | book-chapter | Rosa canina L. | Springer eBooks
+- new | 2022 | 10.20885/jstl.vol14.iss1.art3 | article | RESPONSE SURFACE OPTIMIZATION FOR THE EXTRACTION OF OIL FROM DOG ROSE SEED (ROSA CANINA) | Jurnal Sains &Teknologi Lingkungan
+- new | 2020 | https://openalex.org/W3111677620 | article | Effect of Moderate Endurance Training and Consumption of Rosa Canina L. Extract on Liver Enzyme Profile in Male Rats | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2019 | https://openalex.org/W7217476631 | article | Subjective Symptom Relief in Patients with Grade 3 Knee Osteoarthritis Treated with Oral Rosehip Aqueous Extract | International Journal of Pharmaceutical 
+- new | 2019 | https://openalex.org/W2994737195 | dissertation | Morfološka, pomološka i genetska varijabilnost genotipova divlje ruže (Rosa canina L.) | 
+- new | 2018 | 10.1016/j.hermed.2018.04.003 | article | Effect of Rosa canina L. (Rose-hip) on cold during winter season in a middle-class population: A randomized, double-blinded, placebo-controlled trial | Journal of Herbal Medicine
+- new | 2018 | 10.1016/j.joca.2018.02.685 | article | Rosa canina fruit (rosehip) for osteoarthritis: a cochrane review | Osteoarthritis and Cartilage
+- new | 2018 | https://openalex.org/W3011964164 | article | Effect of alcoholic extracts of Rosa canina L fruit on hippocampus neuronal density in mice | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2016 | 10.2147/btat.s55573 | article | The role of rose hip (Rosa canina L) powder in alleviating arthritis pain and inflammation – part II animal and human studies | Botanics Targets and Therapy
+- new | 2015 | https://openalex.org/W2257305003 | article | Effects of Rosa canina L. Fruit on Glycemia and Lipid Profile in Type 2 Diabetic Patients: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial | Journal of Medicinal Plants
+- new | 2015 | 10.12692/ijb/7.2.216-224 | article | Anti-hyperglycemic effect of aqueous extract of Rosa canina L. fruit in type 2 diabetic patients: A randomized double- blind placebo controlled clinical trial | International Journal of Biosciences (IJ
+- new | 2015 | 10.7575/aiac.abcmed.15.03.01.14 | article | Rosa canina as an adjunctive treatment of asthma: A hypothesis | Advances in Bioscience and Clinical Medi
+- new | 2015 | 10.15547/tjs.2015.02.006 | article | Effects Of The Ethanolic Extract Of Rosa Canina On Some Serum Biochemical Factors In Diabetic Adult Male Rats | Trakia Journal of Sciences
+- new | 2015 | https://openalex.org/W2586232141 | dissertation | ANKETNO ISPITIVANJE POTROŠAČA PREMA ŠIPKOVIM (Rosa canina L.) PROIZVODIMA U REPUBLICI HRVATSKOJ | 
+- new | 2014 | 10.1016/j.joca.2014.02.594 | article | Shells from rose-hip (Rosa canina) do not reduce symptom scores or improve anti-inflammatory property in patients with osteoarthritis – a double-blind, placebo-controlled, randomiz | Osteoarthritis and Cartilage
+- new | 2014 | 10.1016/j.joca.2014.02.595 | article | Low-dose seed and shell powder from rose-hip (Rosa canina) can aleviate symptoms of osteoarthritis and reduce c-reactive protein in patients suffering from osteoarthritis | Osteoarthritis and Cartilage
+- new | 2014 | 10.9734/ajea/2014/8542 | article | Rooting Response of Rosa canina and Cotoneaster acuminatus to Different in vitro Factors | Journal of Experimental Agriculture Inte
+- new | 2014 | 10.1016/j.powtec.2014.12.005 | article | Microwave-assisted functionalization of Rosa Canina-L fruits activated carbon with tetraethylenepentamine and its adsorption behavior toward Ni(II) in aqueous solution: Kinetic, eq | Powder Technology
+- new | 2013 | 10.4236/ojra.2013.33027 | article | Rose Hip Powder That Contains the Natural Amount of Shells and Seeds Alleviates Pain in Osteoarthritis of the Dominant Hand—A Randomized, Double-Blind, Placebo-Controlled, Cross-Ov | Open Journal of Rheumatology and Autoimm
+- new | 2013 | https://openalex.org/W2184450543 | article | Superiority trials in osteoarthritis using glucosamine hydrochloride as comparator: an overview of reviews and indirect comparison with Rosa canina | Research at the University of Copenhagen
+- new | 2013 | 10.13172/2052-9554-1-1-305 | article | Superiority trials in osteoarthritis using glucosamine hydrochloride as comparator: Overview of reviews and indirect comparison with Rosa canina (a novel nutraceutical) | OA Arthritis
+- new | 2013 | https://openalex.org/W2183973249 | article | Original Contribution EFFECT OF GAMMA RADIATION ON CALLUS INDUCTION AND REGENERATION OF ROSA CANINA THROUGH INVITRO CULTURE | 
+- new | 2013 | https://openalex.org/W2357747452 | article | A Preliminary Report on Cultivation and Propagation on Introduced Rosa canina of Rose Standards' rootstock in Nangchang,Jiangxi | Jiangxi kexue
+- new | 2012 | 10.1016/j.eujim.2012.07.533 | conference-abstract | Rosa canina L. extract in the treatment of orthopaedic chronic pain: result of a clinical trial | European Journal of Integrative Medicine
+- new | 2012 | https://openalex.org/W1572238096 | article | Clinical trial of a herbal topical cream in treatment of acne vulgaris | Research in Pharmaceutical Sciences
+- new | 2012 | 10.3920/cep12006 | article | The absorption of natural vitamin C in horses and anti-oxidative capacity: a randomised, controlled study on trotters during a three-month intervention period | Comparative Exercise Physiology
+- new | 2012 | 10.4236/jct.2012.35069 | article | Effect of Rosehip (Rosa Canina) Extracts on Human Brain Tumor Cell Proliferation and Apoptosis | Journal of Cancer Therapy
+- new | 2012 | https://openalex.org/W2292400408 | article | Fruit quality of dog rose seedlings (Rosa canina L) Kakvoća plodova sjemenjaka pasje ruže (Rosa canina L) | 
+- new | 2012 | 10.5513/jcea01/13.2.1053 | article | Fruit quality of dog rose seedlings (Rosa canina L) | Journal of Central European Agriculture
+- new | 2012 | https://openalex.org/W2187315920 | article | Original Contribution DIRECT REGENERATION OF ROSA CANINA THROUGH TISSUE CULTURE | 
+- new | 2010 | https://openalex.org/W133416807 | article | A randomised placebo controlled double blind study on the effect of subspecies of rose hip (Rosa canina) on the immune system, working capacity and behaviour of horses. | 
+- new | 2010 | 10.1016/s1063-4584(10)60363-9 | article | A HERBAL REMEDY DERIVED FROM SUBSPECIES OF ROSA CANINA, IMPROVES THE IMMUNE RESPONSE, WORKING CAPACITY AND WELL-BEING OF DOGS? A PARALLEL, PLACEBO-CONTROLLED, DOUBLE-BLIND, RANDOMI | Osteoarthritis and Cartilage
+- new | 2010 | 10.1211/fact.15.2.0010 | article | Patients with rheumatoid arthritis may benefit from a standardised powder of Rosa canina (rose hip) | Focus on Alternative and Complementary T
+- new | 2010 | 10.5897/jmpr.9000306 | article | Biological characteristics of pollens in some genotypes of Rosa canina as main factors affecting fruit set | Journal of Medicinal Plants Research
+- new | 2010 | 10.1055/s-0030-1264213 | article | Characterization of anti-inflammatory triterpene acids from rose hip powder (Rosa canina L.) | Planta Medica
+- new | 2009 | 10.1016/s1063-4584(09)60495-7 | article | A DOSE-DEPENDENT IMPACT OF A STANDARDIZED POWDER MADE FROM HIPS OF A ROSE SUBSPECIES (ROSA canina) ON WOMAC PAIN SCORES IN PATIENTS WITH OSTEOARTHRITIS OF THE HIP AND/OR KNEE | Osteoarthritis and Cartilage
+- HELD REF-0989 | 2008 | 10.1016/s1063-4584(08)60552-x | review | DOES THE HIP POWDER OF ROSA CANINA (ROSEHIP) REDUCE PAIN IN OSTEOARTHRITIS PATIENTS? – A META-ANALYSIS OF RANDOMIZED CONTROLLED TRIALS | Osteoarthritis and Cartilage
+- new | 2008 | 10.1016/s1063-4584(08)60116-8 | article | DOES LITOVET, A HERBAL REMEDY MADE FROM ROSA CANINA, ACT AS AN ANTI-INFLAMMATORY AGENT IN HORSES EXPOSED TO STRENUOUS EXERCISE – A RANDOMIZED, PLACEBO-CONTROLLED, PARALLEL, DOUBLE- | Osteoarthritis and Cartilage
+- new | 2008 | 10.1016/j.eujim.2008.08.030 | other | Clinical efficacy of rose hip powder in patients with arthrosis—A systematic review | European Journal of Integrative Medicine
+- new | 2008 | 10.1016/s1063-4584(08)60004-7 | article | A standardized powder made from rosehips (Rosa canina L.) improves function and reduces pain and the consumption of rescue medication in osteoarthritis | Osteoarthritis and Cartilage
+- new | 2007 | 10.1016/s1063-4584(07)62016-0 | article | A STANDARDISED HERBAL REMEDY MADE FROM ROSA CANINA REDUCES PAIN IN PATIENTS SUFFERING FROM OSTEOARTHRITIS | Osteoarthritis and Cartilage
+- new | 2005 | 10.17660/actahortic.2005.690.24 | conference-paper | PROPAGATION OF DOG ROSES (ROSA CANINA L.) BY SEED | Acta Horticulturae
+- new | 2005 | 10.1016/s1063-4584(05)80526-6 | conference-abstract | A powder made from a subspecies of rose hip (Rosa canina), reduces womac symptoms score as well as cholesterol level in patients suffering from osteoarthritis | Osteoarthritis and Cartilage
+- new | 2000 | https://openalex.org/W228120577 | article | A Herbal remedy. Hyben Vital reduces osteoarthritic pain and Stiffness in a group of patients suffering from severe osteoar- throsis. | 
+- new | 1986 | 10.17660/actahortic.1986.189.8 | conference-paper | ROSE INVESTIGATIONAL WORK IN GUERNSEY. ROOTSTOCK AND VARIETY TRIALS; GROWING IN ROCKWOOL | Acta Horticulturae
+
+## rosa-rugosa (Rosa rugosa) - name clause: "Rosa rugosa"[tiab] OR "rugosa rose"[tiab]
+
+### PubMed HT - 2 hits, 2 not already listed above, 1 new
+- new | 2025 | 40749807 |  | Regulation of emotional states by volatile herbal extracts: Multisystem physiological evidence from Rosa rugosa, Acorus tatarinowii, and Cyperus rotundus. | Complement Ther Med
+- HELD REF-0857 | 2023 | 37325306 | Systematic Review/Research Support, Non-U.S. Gov't/Network Meta-Analysis | Essential oils for treating anxiety: a systematic review of randomized controlled trials and network meta-analysis. | Front Public Health
+
+### PubMed SR - 1 hits, 0 not already listed above, 0 new
+
+### PubMed SAFE - 15 hits, 15 not already listed above, 12 new
+- new | 2026 | 42792257 |  | Differential ROS Accumulation, Antioxidant Defense, and Physiological Adaptation in Two Rosa rugosa Cultivars Under Sustained Salt Stress. | Antioxidants (Basel)
+- new | 2025 | 40644689 |  | Antidepressant-like Effects of Five Essential Oils Inhaled in Reserpine-induced Depressed Mouse Models. | Chem Biodivers
+- HELD REF-1010 | 2025 | 40813589 |  | Polysaccharides derived from Rosa rugosa cv. Plena ameliorate colorectal cancer by regulating intestinal microbiota composition and lipid metabolism pathway. | NPJ Sci Food
+- HELD REF-1011 | 2025 | 40618804 |  | Therapeutic potential of Rosa rugosa polysaccharide and its nanofiber membrane in psoriasis via PI3K-AKT/mTOR pathway inhibition. | Int J Biol Macromol
+- new | 2025 | 40725209 |  | Anti-Obesity Effects of Rosa rugosa Thunb. Flower Bud Extracts on Lipid Metabolism Regulation in 3T3-L1 Adipocytes and Sprague Dawley Rats. | Int J Mol Sci
+- new | 2025 | 40831339 | Research Support, Non-U.S. Gov't | Effectiveness of Ethanol Extract of Rosa rugosa Thunb. on Ear Edema. | Mol Nutr Food Res
+- new | 2024 | 39848678 | Comparative Study | Comparing Effects of Aromatherapy with Five Herbs Essential Oils on PCPA-induced Insomnia Mice. | J Microbiol Biotechnol
+- new | 2023 | 37854313 | Review | Potential Implications of Hyperoside on Oxidative Stress-Induced Human Diseases: A Comprehensive Review. | J Inflamm Res
+- HELD REF-1009 | 2023 | 37959727 |  | Ethanol Extract of Rosa rugosa Ameliorates Acetaminophen-Induced Liver Injury via Upregulating Sirt1 and Subsequent Potentiation of LKB1/AMPK/Nrf2 Cascade in Hepatocytes. | Molecules
+- new | 2016 | 26840288 | Research Support, Non-U.S. Gov't | Inhibitory Effect of Rosa rugosa Tea Extract on the Formation of Heterocyclic Amines in Meat Patties at Different Temperatures. | Molecules
+- new | 2012 | 23063753 | Research Support, Non-U.S. Gov't | Antihypertensive activity of Rosa rugosa Thunb. flowers: angiotensin I converting enzyme inhibitor. | J Ethnopharmacol
+- new | 2009 | 19557358 | Research Support, Non-U.S. Gov't | Anti-allergic effects of white rose petal extract and anti-atopic properties of its hexane fraction. | Arch Pharm Res
+- new | 2004 | 15671686 | Research Support, Non-U.S. Gov't | Anti-hepatotoxic effects of Rosa rugosa root and its compound, rosamultin, in rats intoxicated with bromobenzene. | J Med Food
+- new | 2003 | 12646125 | Case Reports | A case of anaphylaxis due to rose pollen ingestion. | Allergol Immunopathol (Madr)
+- new | 2002 | 12269941 | Comparative Study | Allergy symptoms and IgE immune response to rose: an occupational and an environmental disease. | Allergy
+
+### PubMed OBS - 0 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 4 hits, 3 not already listed above, 0 new
+- HELD REF-1013 | 2025 | 41008184 | Review | Optimizing Extraction Methods for Bioactive Polysaccharides from Rosa rugosa and Rosa damascena. | Foods
+- HELD REF-1006 | 2025 | 39432067 | Review/Research Support, Non-U.S. Gov't | Total flavonoids from Rosa rugosa Thunb.: A comprehensive review of its extraction and purification process, chemical composition, biological effect and applications. | Naunyn Schmiedebergs Arch Pharmacol
+- HELD REF-1005 | 2024 | 39476919 | Review | Physicochemical properties, health benefits, and applications of the polysaccharides from Rosa rugosa Thunb.: A review. | Int J Biol Macromol
+
+### ClinicalTrials.gov - 3 registered studies
+- NCT07757724 | COMPLETED | results=False | NA | Chinese Herbal Sachet Therapy for Sleep Quality in Menopausal Women | conds: Sleep Initiation and Maintenance Disorders, Menopause | intr: Traditional Chinese medicine aromatic sachet, Placebo aromatic sachet
+- NCT05632068 | UNKNOWN | results=False | PHASE3 | Xian-Hua-Cha for Relieving Hyperlipidemia With Obesity | conds: Hyperlipidemias, Obesity, Body Fat Disorder | intr: Xian-Hua-Cha
+- NCT07778849 | COMPLETED | results=False | NA | Chinese Herbal Sachet Inhalation for Primary Dysmenorrhea in Female College Students | conds: Primary Dysmenorrhea | intr: Traditional Chinese herbal sachet (aromatic inhalation), Placebo sachets
+
+### OpenAlex no-PMID trial-worded - 349 hits, 70 without PMID, 70 new
+- new | 2026 | 10.21203/rs.3.rs-9481904/v1 | preprint | Current and future climatic suitability of Rosa rugosa along European coasts | Research Square
+- new | 2026 | 10.5281/zenodo.20834066 | article | Durabilispora carpatica Blaszk., Zubek, Niezgoda & B. T. Goto 2026, sp. nov. | 
+- new | 2026 | 10.3106/ms2025-0020 | article | Breeding Behavior and Growth of Young in Captive Slender Shrews, Sorex gracillimus | Mammal Study
+- new | 2026 | 10.58168/cctibspc2026_350-355 | conference-paper | BIOLOGICAL DIVERSITY OF PLANT COMMUNITIES IN KINDERGARTENS IN THE ARCTIC ZONE | Contemporary Challenges and Topical Issu
+- new | 2025 | 10.1111/1440-1703.12558 | article | Long‐distance endozoochory of fleshy‐fruited trees by sika deer in Hokkaido, Japan | Ecological Research
+- new | 2025 | 10.32782/2226-2008-2025-3-10 | article | ADJUNCT TO THE TREATMENT OF ANXIETY DISORDERS: INTEGRATION OF TRADITIONAL AND NON-PHARMACOLOGICAL APPROACHES | 
+- new | 2025 | 10.31989/afbc.v2i8.1681 | article | Food bioactive compounds and the management of arthritis and its symptoms | Agriculture and Food Bioactive Compounds
+- new | 2024 | 10.3390/fire7110408 | article | High-Resolution Mapping of Litter and Duff Fuel Loads Using Multispectral Data and Random Forest Modeling | Fire
+- new | 2024 | 10.17221/177/2022-hortsci | article | Improving photosynthesis and the ascorbate-glutathione cycle of own-root and grafted-root chrysanthemums by brassinolide under drought stress | Horticultural Science
+- new | 2023 | 10.1007/978-3-031-30329-6_103 | conference-paper | Characterization of a Multispectral Camera for Abiotic and Biotic Stress Detection in Greenhouse | Lecture notes in civil engineering
+- new | 2023 | 10.48269/2451-0858-pis-2023-1-006 | article | Freeze-dried rose hips decrease cortisol levels in students after the stress of exams | eRIKA repository (Jan Matejko Academy Of
+- new | 2023 | 10.1515/chem-2023-0130 | article | Treatment of denture stomatitis using iron nanoparticles green-synthesized by Silybum marianum extract | Open Chemistry
+- new | 2023 | 10.56093/ijans.v93i6.129139 | article | Effect of dietary supplementation of tannins, probiotics and antibiotic growth promoters on growth performance of broiler chicken | The Indian Journal of Animal Sciences
+- new | 2023 | 10.24425/jppr.2019.129753 | article | Monitoring and possibilities of controlling nematodes and fruit damaging pests of Rosa spp. with microbial-derived products | Journal of Plant Protection Research
+- new | 2022 | 10.1007/s42250-022-00529-8 | article | Exploring the Drug Potential of Phytochemicals as a Novel Therapeutic Drug Candidate for Herpesvirus: An In-silico Evaluation | Chemistry Africa
+- new | 2022 | 10.3375/22-2 | article | Floral Resources Used by the Endangered Rusty Patched Bumble Bee (Bombus affinis) in the Midwestern United States | Natural Areas Journal
+- new | 2021 | 10.31883/pjfns/142639 | article | Compositional Characteristics and Antioxidant Activity of Edible Rose Flowers and Their Effect on Phenolic Urinary Excretion | Polish Journal of Food and Nutrition Sci
+- new | 2021 | 10.1088/1755-1315/876/1/012008 | conference-paper | The history of development of three historical public gardens in the city of Perm | IOP Conference Series Earth and Environm
+- new | 2019 | 10.4236/ajmb.2020.101005 | article | Cloning and Analysis of RrF3’ H in Rosa rugosa | American Journal of Molecular Biology
+- new | 2019 | 10.33928/bib.2019.01.185 | article | Japanese Rose (Rosa rugosa): its invasion and colonisation of the Sefton Coast, north Merseyside, UK | British & Irish Botany
+- new | 2019 | 10.3897/neobiota.53.38183 | article | A preliminary field trial to compare control techniques for invasive Berberis aquifolium in Belgian coastal dunes | NeoBiota
+- new | 2019 | 10.3233/jbr-190429 | article | Berry fruit juices protect lymphocytes against DNA damage and ROS formation induced with heterocyclic aromatic amine PhIP | Journal of Berry Research
+- new | 2019 | https://openalex.org/W2954929701 | dissertation | Clareamento dental caseiro: microbiota, sensibilidade dental e eficácia | LA Referencia (Red Federada de Repositor
+- new | 2018 | 10.4236/as.2018.93026 | article | Cloning and Expression of Anthocyanin Biosynthesis Related Gene RrMYB6 in Rosa rugosa | Agricultural Sciences
+- new | 2018 | 10.4236/ajps.2018.913183 | article | Cloning and Expression Analysis of RrRUP2 Gene Related to Photomorphogenesis Biosynthesis in Rosa rugosa | American Journal of Plant Sciences
+- new | 2018 | 10.4236/ajps.2018.94055 | article | Cloning and Expression Analysis of RrMYB113 Gene Related to Anthocyanin Biosynthesis in Rosa rugose | American Journal of Plant Sciences
+- new | 2018 | 10.4236/ajps.2018.911162 | article | Cloning and Expression Analysis of RrG-Beta1 Gene Related to Anthocyanin Biosynthesis in Rosa rugose | American Journal of Plant Sciences
+- new | 2018 | 10.18174/446911 | report | Tiny Forest Zaanstad : citizen science and determining biodiversity in Tiny Forest Zaanstad | 
+- new | 2018 | 10.1007/s40097-018-0267-4 | article | Biogenesis of metal nanoparticles and their pharmacological applications: present status and application prospects | Journal of nanostructure in chemistry
+- new | 2017 | 10.4236/abb.2017.86014 | article | Cloning and Bioinformatics Analysis of Rosa rugosa TFL1 Gene (RrTFL1) | Advances in Bioscience and Biotechnology
+- new | 2017 | 10.4236/ajps.2017.87107 | article | Cloning and Bioinformatics Analysis of Rosa rugose S Locus F-Box Gene (RrSLF) | American Journal of Plant Sciences
+- new | 2017 | 10.1016/j.joca.2017.02.551 | article | Tormentic Acid Inhibits IL-1β-Induced Inflammatory Response in Human Osteoarthritic Chondrocytes | Osteoarthritis and Cartilage
+- new | 2017 | https://openalex.org/W2755687970 | article | Some reports from trial stations on new orchard fruits and shrubs. | Iowa State University Digital Repository
+- new | 2017 | 10.26512/2017.08.d.24888 | dissertation | Efeito da suplementação de β-hidroxi-β-metilbutirato ácido livre (hmb-fa) na recuperação do dano muscular induzido pelo exercício em homens fisicamente ativos | RIUnB Institutional Repository (Universi
+- new | 2016 | 10.4236/ajps.2016.73040 | article | Cloning and Bioinformatics Analysis of Rosa rugosa β-1,3-Glucanase Gene (RrGlu) | American Journal of Plant Sciences
+- new | 2016 | https://openalex.org/W2574535189 | article | Подвои шиповника для культурных роз в Приуралье | Известия Оренбургского государственного 
+- new | 2015 | 10.1111/bij.12518 | article | The contribution of volunteer recorders to our understanding of biological invasions | Biological Journal of the Linnean Societ
+- new | 2015 | 10.9715/kila.2015.43.3.001 | article | Analysis of Actual Flora and Landscape Planting Species of Donggung Palace and Wolji Pond in Gyeongju | Journal of the Korean Institute of Lands
+- new | 2015 | 10.17265/2159-5828/2015.02.006 | article | Antibacterial Effect of Lavender (Lavandula) Flavor (Volatile) | Journal of Food Science and Engineering
+- new | 2015 | 10.5897/ajb2015.14412 | article | Influence of various carbohydrates on the in vitro micropropagation of Nauclea diderrichii (De Wild T. Durand) Merrill, an endangered forest species in Togo | AFRICAN JOURNAL OF BIOTECHNOLOGY
+- new | 2014 | https://openalex.org/W2621049606 | dissertation | Characterization of Resistance to Black Spot Disease of Rosa Spp. | OakTrust (Texas A&M University Libraries
+- new | 2013 | https://openalex.org/W2392776578 | article | An influence on oxidative stress injury from Chinese rose pigment to motion rat skeletal muscle | Liaoning tiyu ke-ji
+- new | 2013 | https://openalex.org/W2620809355 | article | Signs of the Seasons: A New England Phenology Program Field Guide | DigitalCommons@UMaine (University of Mai
+- new | 2012 | https://openalex.org/W2384015669 | article | Effects of Salt Stress on Seedling Growth and Physiological Characteristics of Tangshan Rose(Rosa rugosa) | Anhui nongye kexue
+- new | 2011 | 10.1007/s13580-011-0148-y | article | Application of the septet classification system on rose cultivars | Horticulture Environment and Biotechnolo
+- new | 2010 | https://openalex.org/W2351906381 | article | Correlation Analysis of Rosa rugosa Flowers Modular Biomass in Chang-bai Mountain Area | Anhui nongye kexue
+- new | 2010 | https://openalex.org/W2376776810 | article | Correlation Analysis of Rosa rugosa Flowers Modular Biomass and Flowers Size in Chang-bai Mountain Area | Anhui nongye kexue
+- new | 2010 | 10.17660/actahortic.2010.870.13 | conference-paper | FIELD ASSESSMENT OF BLACK SPOT RESISTANCE IN ROSES IN A HOT HUMID CLIMATE | Acta Horticulturae
+- new | 2010 | 10.21273/hortsci.45.12.1779 | article | Evaluation of Roses from the Earth-Kind® Trials: Black Spot (Diplocarpon rosae Wolf) Resistance and Ploidy | HortScience
+- new | 2009 | 10.1111/j.1759-6831.2009.00049.x | article | Genetic diversity of the endangered speciesRosa rugosaThunb. in China and implications for conservation strategies | Journal of Systematics and Evolution
+- new | 2009 | https://openalex.org/W2532236575 | article | Review of the Breeding Systems of Wild Roses (Rosa spp.) | The Atrium (University of Guelph)
+- new | 2008 | 10.1016/j.flora.2008.03.002 | article | Invasion of coastal dunes by the alien shrub Rosa rugosa is associated with roads, tracks and houses | Flora
+- new | 2008 | https://openalex.org/W2350092364 | article | Analysis of Stability of Flower Yield of Rugosa Rose Cultivars with AMMI Model | Zhongguo nongye Kexue
+- new | 2008 | 10.1515/sg-2008-0010 | article | Construction of a Populus tremuloides Michx. BAC library | Silvae genetica/Silvae Genetica
+- new | 2007 | 10.17660/actahortic.2007.751.48 | conference-paper | REPRODUCTIVE SUCCESS AND INSECT VISITATION IN WILD ROSES (ROSA SPP.) - PRELIMINARY RESULTS FROM 2004 | Acta Horticulturae
+- new | 2006 | 10.1007/s10530-006-9003-y | article | Limiting factors for seedling emergence and establishment of the invasive non-native Rosa rugosa in a coastal dune system | Biological Invasions
+- new | 2004 | 10.3746/jfn.2004.9.2.167 | article | Antioxidant Activity of Medicinal Plant Extracts Used as Folk Remedies by Diabetic Patients | Preventive Nutrition and Food Science
+- new | 2004 | https://openalex.org/W608420881 | conference-paper | Insights Into Woody Plant Adaptation and Practical Applications | Iowa State University Digital Repository
+- new | 2003 | https://openalex.org/W2367164283 | article | Full - light cutting for common landscaping species | Forestry Science and Technology
+- new | 2003 | https://openalex.org/W80228198 | dissertation | Apple scab (Venturia inaequalis) and pests in organic orchards. | Epsilon Open Archive (Sveriges lantbruks
+- new | 2001 | 10.17660/actahortic.2001.547.53 | conference-paper | EVALUATION OF ROSE SPECIES AND CULTIVARS FOR RESISTANCE TO MARSSONINA ROSAE (Diplocarpon rosae) | Acta Horticulturae
+- new | 2001 | 10.4040/jkan.2001.31.1.7 | article | A Survey of Utilization of Complementary Alternative Medicine in Diabetes Mellitus | Daehan ganho haghoeji
+- new | 1998 | 10.24266/0738-2898-16.1.27 | article | Performance of Landscape Plants from Northern Japan in the North Central United States | Journal of Environmental Horticulture
+- new | 1997 | https://openalex.org/W2400601983 | article | A Study of the Application of Folk Medicine in Patients with Diabetes Mellitus | journal of east-west nursing research
+- new | 1996 | 10.1093/amt/21.1.359 | article | Control of Western Flower Thrips on Dwarf Roses, 1995 | Arthropod management tests
+- new | 1994 | https://openalex.org/W186968484 | conference-abstract | TB156: Woody Landscape Plant Cold-Hardiness Ratings | DigitalCommons@UMaine (University of Mai
+- new | 1985 | 10.2737/ne-rp-567 | report | Success of trees and shrubs in an 18-year-old planting on mine spoil | 
+- new | 1916 | 10.5962/bhl.title.111768 | book | Trees, shrubs, plants : wholesale price list spring of 1916 / | Biodiversity Heritage Library (Smithsoni
+- new | 1889 | 10.5962/bhl.title.33482 | book | The garden's story : for pleasures and trials of an amateur gardener / by George H. ELlwanger. | D. Appleton and company eBooks
+- new | 1889 | https://openalex.org/W2757245461 | article | No. 6 -- Meteorological Tables May--November, to accompany Garden Notes and other Field Observations. No. 7 - Notes on Small Fruits, the Orchard, and Ornamental Plants | Open PRAIRIE (South Dakota State Univers

@@ -1,0 +1,867 @@
+# Research-deepening batch 30 - Europe PMC
+
+## salvia-hispanica (Salvia hispanica)
+
+### non-MEDLINE, human-study wording - 7 hits
+- new | 2025 | PPR1110837 | PPR | <p class="MDPI12title">Study of the Oxidative Stability of Chia Oil (<em>Salvia hispanica L.</em>) at Various Concentrations of Alpha Tocopherol |  | doi 10.20944/preprints202510.2256.v1
+- new | 2023 | PPR616500 | PPR | Antifungal activity of a trypsin inhibitor from Salvia hispanica L.(chia) seeds against fluconazole-resistant strains of Candida spp. and evaluation of its toxicity in vi |  | doi 10.21203/rs.3.rs-2574274/v1
+- new | 2023 | PPR655722 | PPR | Chia Seed (Salvia hispanica L.), Incorporated Into Cookies, Reduces Postprandial Glycemic Variability but Has Little or No Ef-Fect on Subjective Appetite |  | doi 10.20944/preprints202305.0321.v1
+- new | 2021 | IND607499858 | AGR | Chia oil prevents chemical and immune-mediated inflammatory responses in mice: Evidence for the underlying mechanisms | Food Res Int
+- new | 2020 | IND607151226 | AGR | Response of chia (Salvia hispanica) to sowing times and phosphorus rates over two crop cycles | Heliyon
+- new | 2019 | IND606630318 | AGR | Dietary chia seeds (Salvia hispanica) improve acute dyslipidemia and steatohepatitis in rats | J Food Biochem
+- new | 2019 | PMC6575046 | PMC | Effect of Chia (Salvia hispanica L.) Flour on Glycemic Response and Energy Intake in Healthy Adults (P06-099-19) | Curr Dev Nutr | PMC6575046
+
+### non-MEDLINE, review / safety wording - 6 hits
+- new | 2026 | PPR1252514 | PPR | Comparative Evaluation of Chia (<em>Salvia hispanica</em>) and Moringa (<em>Moringa oleifera</em>) Seeds as Green Coagulants for Sustainable Textile Wastewater Treatment |  | doi 10.20944/preprints202606.0823.v1
+- new | 2025 | IND608826878 | AGR | Co-encapsulation of Lactobacillus acidophilus and different concentrations of chia oil (Salvia hispanica L.) by external ionic gelation | Food hydrocolloids.
+- new | 2023 | PPR616500 | PPR | Antifungal activity of a trypsin inhibitor from Salvia hispanica L.(chia) seeds against fluconazole-resistant strains of Candida spp. and evaluation of its toxicity in vi |  | doi 10.21203/rs.3.rs-2574274/v1
+- new | 2022 | IND607686098 | AGR | Effects of mucilage concentration at different water contents on mechanical stability and elasticity in a loamy and a sandy soil | European Journal of Soil Science.
+- new | 2020 | PMC7258498 | PMC | Protein Digests and Pure Peptides from Chia Seed (Salvia hispanica L) Prevented Adipogenesis and Its Associated Inflammation by Inhibition of PPAR-γ and NF-κB Pathways | Curr Dev Nutr | PMC7258498
+- new | 2015 | IND605415190 | AGR | Rheological properties of aqueous dispersions of chia (Salvia hispanica L.) mucilage | Journal of food engineering. | doi 10.1016/j.jfoodeng.2014.09.043
+
+### full text, trial in title - 14 hits
+- HELD REF-3739 | 2025 | 39672763 | MED | The Effects of Chia Seed (Salvia hispanica L.) Consumption on Blood Pressure and Body Composition in Adults: A Systematic Review and Meta-analysis of Randomized Controlle | Clin Ther | doi 10.1016/j.clinthera.2024.11.012
+- new | 2025 | 39225983 | MED | The Effect of Chia Seed on Blood Pressure, Body Composition, and Glycemic Control: A GRADE-Assessed Systematic Review and Dose-Response Meta-Analysis of Randomized Contro | Nutr Rev | doi 10.1093/nutrit/nuae113
+- new | 2025 | 39917276 | MED | Methodological insights into intervention and outcomes in randomised controlled trials of herbal medicine for obesity: a scoping review. | Ther Adv Chronic Dis | doi 10.1177/20406223241310206 | PMC11795625
+- new | 2024 | 39299649 | MED | The impact of chia seeds on diabetes, blood pressure, lipid profile, and obesity indicators: Systematic review and meta-regression analysis of 14 randomized controlled tr | Prostaglandins Other Lipid Mediat | doi 10.1016/j.prostaglandins.2024.106907
+- new | 2024 | 39620027 | MED | Lamiaceae plants improve serum cholesterol, triglyceride, and LDL in patients with metabolic syndrome: A systematic review and meta-analysis of randomized clinical trials | Food Sci Nutr | doi 10.1002/fsn3.4451 | PMC11606841
+- new | 2022 | 36432644 | MED | An Exploratory Study of the Safety and Efficacy of a <i>Trigonella foenum-graecum</i> Seed Extract in Early Glucose Dysregulation: A Double-Blind Randomized Placebo-Contr | Pharmaceutics | doi 10.3390/pharmaceutics14112453 | PMC9698270
+- new | 2022 | 35889936 | MED | Effect of Evening Primrose Oil Supplementation on Selected Parameters of Skin Condition in a Group of Patients Treated with Isotretinoin-A Randomized Double-Blind Trial. | Nutrients | doi 10.3390/nu14142980 | PMC9317771
+- HELD REF-3742 | 2021 | 33530854 | MED | Chia seed (<i>Salvia hispanica</i> L.) supplementation to the diet of adults with type 2 diabetes improved systolic blood pressure: A randomized controlled trial. | Nutr Health | doi 10.1177/0260106020981819
+- new | 2020 | 31928474 | MED | Assessing the Metabolic Impact of Ground Chia Seed in Overweight and Obese Prepubescent Children: Results of a Double-Blind Randomized Clinical Trial. | J Med Food | doi 10.1089/jmf.2019.0055
+- new | 2017 | 28989578 | MED | Chia seed (<i>Salvia Hispanica L.</i>) added yogurt reduces short-term food intake and increases satiety: randomised controlled trial. | Nutr Res Pract | doi 10.4162/nrp.2017.11.5.412 | PMC5621364
+- new | 2017 | 28089080 | MED | Salba-chia (Salvia hispanica L.) in the treatment of overweight and obese patients with type 2 diabetes: A double-blind randomized controlled trial. | Nutr Metab Cardiovasc Dis | doi 10.1016/j.numecd.2016.11.124
+- new | 2017 | 28000689 | MED | Comparison of flax (Linum usitatissimum) and Salba-chia (Salvia hispanica L.) seeds on postprandial glycemia and satiety in healthy individuals: a randomized, controlled, | Eur J Clin Nutr | doi 10.1038/ejcn.2016.148
+- new | 2013 | 23778782 | MED | Effect of whole and ground Salba seeds (Salvia Hispanica L.) on postprandial glycemia in healthy volunteers: a randomized controlled, dose-response trial. | Eur J Clin Nutr | doi 10.1038/ejcn.2013.103
+- new | 2007 | 17686832 | MED | Supplementation of conventional therapy with the novel grain Salba (Salvia hispanica L.) improves major and emerging cardiovascular risk factors in type 2 diabetes: resul | Diabetes Care | doi 10.2337/dc07-1144
+
+### full text, patients/volunteers in title - 14 hits
+- new | 2026 | 41859744 | MED | Complementary and Alternative Therapy Use Among Cancer Patients in Qassim: Patterns, Predictors, and Patient Perspectives. | Cancer Manag Res | doi 10.2147/cmar.s569861 | PMC12997773
+- new | 2025 | 41126329 | MED | The effects of salvia hispanica (chia seeds) on insulin sensitivity, hematological inflammatory indices and liver function in obese patients with non-alcoholic fatty live | Nutr Metab (Lond) | doi 10.1186/s12986-025-01012-0 | PMC12542053
+- new | 2025 | 40001044 | MED | Lifestyle interventions in later reproductive age women to offset cardiometabolic and bone disease: a scoping review. | Nutr Metab (Lond) | doi 10.1186/s12986-025-00908-1 | PMC11863863
+- new | 2024 | 39011534 | MED | Efficacy of a Combined Herbal Product Containing <i>Indigofera argentea, Pistacia atlantica</i> and <i>Salvia hispanica</i> in Zoonotic Cutaneous Leishmaniasis Patients T | Iran J Parasitol | doi 10.18502/ijpa.v19i2.15856 | PMC11246213
+- new | 2024 | 39620027 | MED | Lamiaceae plants improve serum cholesterol, triglyceride, and LDL in patients with metabolic syndrome: A systematic review and meta-analysis of randomized clinical trials | Food Sci Nutr | doi 10.1002/fsn3.4451 | PMC11606841
+- new | 2024 | 38130903 | MED | Ethnomedicinal evaluation of medicinal plants used for therapies by men and women in rural and urban communities in Makkah district. | Saudi Pharm J | doi 10.1016/j.jsps.2023.101881 | PMC10733703
+- new | 2023 | 36900727 | MED | The Use of Complementary and Alternative Medicine among Peritoneal Dialysis Patients at a Second-Level Hospital in Yucatán Mexico. | Healthcare (Basel) | doi 10.3390/healthcare11050722 | PMC10001407
+- new | 2022 | 35889936 | MED | Effect of Evening Primrose Oil Supplementation on Selected Parameters of Skin Condition in a Group of Patients Treated with Isotretinoin-A Randomized Double-Blind Trial. | Nutrients | doi 10.3390/nu14142980 | PMC9317771
+- new | 2018 | 30037019 | MED | Supplementation-Dependent Effects of Vegetable Oils with Varying Fatty Acid Compositions on Anthropometric and Biochemical Parameters in Obese Women. | Nutrients | doi 10.3390/nu10070932 | PMC6073593
+- new | 2018 | 29958393 | MED | The Impact of Maternal Diet during Pregnancy and Lactation on the Fatty Acid Composition of Erythrocytes and Breast Milk of Chilean Women. | Nutrients | doi 10.3390/nu10070839 | PMC6073898
+- new | 2017 | 28089080 | MED | Salba-chia (Salvia hispanica L.) in the treatment of overweight and obese patients with type 2 diabetes: A double-blind randomized controlled trial. | Nutr Metab Cardiovasc Dis | doi 10.1016/j.numecd.2016.11.124
+- new | 2015 | 26247968 | MED | Modification of Docosahexaenoic Acid Composition of Milk from Nursing Women Who Received Alpha Linolenic Acid from Chia Oil during Gestation and Nursing. | Nutrients | doi 10.3390/nu7085289 | PMC4555128
+- new | 2013 | 23778782 | MED | Effect of whole and ground Salba seeds (Salvia Hispanica L.) on postprandial glycemia in healthy volunteers: a randomized controlled, dose-response trial. | Eur J Clin Nutr | doi 10.1038/ejcn.2013.103
+- new | 2010 | 20548903 | MED | Effectiveness of Topical Chia Seed Oil on Pruritus of End-stage Renal Disease (ESRD) Patients and Healthy Volunteers. | Ann Dermatol | doi 10.5021/ad.2010.22.2.143 | PMC2883415
+
+## salvia-officinalis (Salvia officinalis)
+
+### non-MEDLINE, human-study wording - 9 hits
+- new | 2025 | IND609361777 | AGR | Metabolic and morpho-physiological responses of Salvia officinalis to superabsorbent polymer in combination with chemical and biological nitrogen nutrition | Industrial crops and products.
+- new | 2024 | PPR916146 | PPR | Development of a Herb-Based Dietary Ingredient with Potential Nootropic Properties: From Bench to Bedside |  | doi 10.20944/preprints202409.2075.v1
+- new | 2024 | IND608254215 | AGR | Study of timing of irrigation after foliar application of putrescine on phytochemical and physiological responses of sage | Crop Sci | doi 10.1002/csc2.21202
+- new | 2021 | PPR314702 | PPR | Reduction of Viral Load in Patients With Acute Sore Throats: Results From an Observational Clinical Trial With Echinacea and Salvia Lozenges |  | doi 10.21203/rs.3.rs-425085/v1
+- new | 2021 | PPR349881 | PPR | Assessment of the Effects of a Sage (  <i>Salvia officinalis</i>  ) Extract on Cognitive Performance in Adolescents and Young Adults |  | doi 10.1101/2021.05.28.21257776
+- new | 2021 | PPR315244 | PPR | Improving water deficit tolerance of Salvia officinalis L. using putrescine |  | doi 10.21203/rs.3.rs-428585/v1
+- new | 2021 | IND607360927 | AGR | Effects of emulsified essential oils blend on performance, blood metabolites, oxidative status and intestinal microflora of suckling calves | Anim Feed Sci Technol | doi 10.1016/j.anifeedsci.2021.114954
+- new | 2015 | IND605429192 | AGR | Comparing different soil fertility systems in Sage (Salvia officinalis) under water deficiency | Industrial crops and products. | doi 10.1016/j.indcrop.2015.04.053
+- new | 1999 | IND22030209 | AGR | Quercetin, luteolin, apigenin and kaempferol contents of some foods | Food Chem | doi 10.1016/s0308-8146(99)00049-7
+
+### non-MEDLINE, review / safety wording - 28 hits
+- new | 2026 | PPR1181540 | PPR | Interactive effects of citric acid and tryptophan on cobalt bioavailability and oxidative stress responses in Salvia officinalis under controlled contamination conditions |  | doi 10.21203/rs.3.rs-9167832/v1
+- new | 2026 | PPR1142908 | PPR | Ovicidal and Larvicidal Activity of the Impatiens rothii and Salvia officinalis extracts against Anopheles stephensi (Culicidae: Diptera) in Laboratory conditions |  | doi 10.21203/rs.3.rs-7820847/v2
+- new | 2025 | PPR1106860 | PPR | Ovicidal and Larvicidal Activity of the Impatiens rothii and Salvia officinalis extracts against Anopheles stephensi (Culicidae: Diptera) in Laboratory conditions |  | doi 10.21203/rs.3.rs-7820847/v1
+- new | 2025 | PPR1001850 | PPR | Evaluation of Toxicity of Origanum Vulgare, <i>Salvia rosmarinus</i> and <i>Salvia officinalis </i>Essential Oils on <i>Aculops lycopersici</i> in Laboratory Tests |  | doi 10.20944/preprints202504.0758.v1
+- new | 2024 | PPR907165 | PPR | Organic inputs and L-phenylalanine amino acid impacts on yield and essential oil compounds of sage (Salvia officinalis L.) under different soil moisture conditions |  | doi 10.21203/rs.3.rs-4861076/v1
+- new | 2024 | IND608383920 | AGR | The antimicrobial effectiveness of Rosmarinus officinalis, Lavandula angustifolia, and Salvia officinalis essential oils against Klebsiella pneumoniae and Pseudomonas aer | S Afr J Bot
+- new | 2024 | PPR940139 | PPR | Acaricidal and repellent activities of essential oils against the two-spotted spider mite |  | doi 10.21203/rs.3.rs-5362414/v1
+- new | 2024 | IND608309435 | AGR | Potency of emulsifiable concentrate and nanoemulsion formulations as green insecticides against two insects, Aphis craccivora and Liriomyza trifolii | Industrial crops and products.
+- new | 2024 | IND608267874 | AGR | Enhancing the antimicrobial efficacy of common herbs and spices through an optimized polyherbal approach | S Afr J Bot
+- new | 2022 | PPR564931 | PPR | Foliar application of silicon, selenium, and zinc nanoparticles modulate lead and cadmium toxicity in sage (Salvia officinalis L.) plants by optimizing growth and biochem |  | doi 10.21203/rs.3.rs-1953001/v1
+- new | 2022 | PPR576979 | PPR | Determination of fumigant toxicity of single, binary and tertiary mixtures of three essential oils against Frankliniella occidentalis Pergande (Thysanoptera: Thripidae) |  | doi 10.21203/rs.3.rs-2302494/v1
+- new | 2021 | IND607275764 | AGR | Insecticide activity and toxicity of essential oils against two stored-product insects | Crop Prot | doi 10.1016/j.cropro.2021.105575
+- new | 2021 | PPR314702 | PPR | Reduction of Viral Load in Patients With Acute Sore Throats: Results From an Observational Clinical Trial With Echinacea and Salvia Lozenges |  | doi 10.21203/rs.3.rs-425085/v1
+- new | 2021 | IND607523526 | AGR | Fumigant Activity and Chemical Composition of Three Essential Oils Used in Gelatin Capsules for the Control of Acanthoscelides obtectus (Say) (Coleoptera: Chrysomelidae)  | African entomology : journal of the Ento
+- new | 2021 | PPR315244 | PPR | Improving water deficit tolerance of Salvia officinalis L. using putrescine |  | doi 10.21203/rs.3.rs-428585/v1
+- new | 2021 | PPR349881 | PPR | Assessment of the Effects of a Sage (  <i>Salvia officinalis</i>  ) Extract on Cognitive Performance in Adolescents and Young Adults |  | doi 10.1101/2021.05.28.21257776
+- new | 2019 | PMC6574745 | PMC | Effectiveness of Salvia Officinalis on Mediation of Serum Lipid in Clinical Trials: Systematic Review and Meta-analysis (P12-004-19) | Curr Dev Nutr | PMC6574745
+- new | 2019 | IND606430368 | AGR | L-Phenylalanine and bio-fertilizers interaction effects on growth, yield and chemical compositions and content of essential oil from the sage (Salvia officinalis L.) leav | Industrial crops and products. | doi 10.1016/j.indcrop.2019.05.019
+- new | 2018 | IND606363854 | AGR | Essential oil composition and total phenolic, flavonoid contents, and antioxidant activity of sage (Salvia officinalis L.) extract under chitosan application and irrigati | Industrial crops and products. | doi 10.1016/j.indcrop.2018.03.021
+- new | 2016 | IND605265036 | AGR | Antioxidant and antibacterial activities of Thymus numidicus and Salvia officinalis essential oils alone or in combination | Industrial crops and products. | doi 10.1016/j.indcrop.2015.12.007
+- new | 2014 | IND605428233 | AGR | Total phenolic content, antioxidant activity and toxicity of aqueous extracts from selected Greek medicinal and aromatic plants | Industrial crops and products. | doi 10.1016/j.indcrop.2013.12.013
+- new | 2013 | IND500668475 | AGR | Effects of Rosmarinus officinalis and Salvia officinalis essential oils on Tetranychus urticae Koch (Acari: Tetranychidae) | Industrial crops and products. | doi 10.1016/j.indcrop.2013.04.011
+- new | 2013 | IND44801442 | AGR | Influencing the product quality by deliberately applying drought stress during the cultivation of medicinal plants | Industrial crops and products. | doi 10.1016/j.indcrop.2012.06.020
+- new | 2012 | PMC3472673 | PMC | Wild sage (Salvia officinalis) as a potential anti-malarial drug | Malar J | doi 10.1186/1475-2875-11-s1-p3 | PMC3472673
+- new | 2012 | IND44681346 | AGR | Arbuscular mycorrhizal fungi and soil microbial communities under contrasting fertilization of three medicinal plants | Appl Soil Ecol | doi 10.1016/j.apsoil.2012.04.008
+- new | 2010 | IND44313800 | AGR | Supercritical carbon dioxide extraction of antioxidant fractions from selected Lamiaceae herbs and their antioxidant capacity | Innovative food science & emerging techn | doi 10.1016/j.ifset.2009.08.013
+- new | 2008 | IND44070963 | AGR | Effect of some essential oils on mycelial growth of Penicillium digitatum Sacc | World J Microbiol Biotechnol | doi 10.1007/s11274-007-9636-8
+- new | 1998 | IND21966671 | AGR | Antifeedant effects of some essential oils on Ceratitis capitata Wied. (Diptera, Tephritidae) | Journal of essential oil research : JEOR | doi 10.1080/10412905.1998.9700930
+
+### full text, trial in title - 61 hits
+- new | 2026 | 42312188 | MED | An examination into the safety and efficacy of Khapregesic®, a Khaya senegalensis preparation, on physical and psychological wellbeing in women experiencing menopausal sy | Front Reprod Health | doi 10.3389/frph.2026.1824321 | PMC13269224
+- new | 2026 | 42011351 | MED | Almond for mild to moderate Alzheimer's disease: A randomized clinical trial. | Avicenna J Phytomed | doi 10.22038/ajp.2025.26297 | PMC13092157
+- new | 2026 | 41491579 | MED | Preliminary clinical evaluation of capsules containing standard hydroalcoholic extract of Myrtus communis L. in patients with mild to moderate Alzheimer' disease: a rando | BMC Complement Med Ther | doi 10.1186/s12906-025-04994-9 | PMC12870068
+- new | 2026 | 42474537 | MED | Complementary and alternative therapies in the management of menopausal symptoms: a systematic review and meta-analysis of randomised controlled trials. | Arch Gynecol Obstet | doi 10.1007/s00404-026-08517-w | PMC13668900
+- new | 2026 | 41901245 | MED | Topical Polyherbal Phytopreparation Reduces Gingival Inflammation: Evidence from a Randomized Controlled Clinical Study Supported by In Silico Analysis. | Pharmaceuticals (Basel) | doi 10.3390/ph19030398 | PMC13029446
+- new | 2025 | 40144179 | MED | A comparison of the effect of aromatherapy with Jasmine (Jasminum) and clary sage (Salvia officinalis) on sexual dysfunction in women of reproductive age: A randomized co | J Educ Health Promot | doi 10.4103/jehp.jehp_1175_23 | PMC11939992
+- new | 2025 | 40141012 | MED | Exploring the therapeutic impact of Salvia officinalis on lipid and oxidative stress markers in patients with polycystic ovary syndrome - a randomized placebo-controlled  | BMC Complement Med Ther | doi 10.1186/s12906-025-04858-2 | PMC11938573
+- HELD REF-3646 | 2025 | 41184820 | MED | The effect of Malva sylvestris mouthwash on chemotherapy-induced stomatitis and associated pain in patients with cancer: a triple-blind randomized clinical trial. | BMC Cancer | doi 10.1186/s12885-025-15158-w | PMC12581259
+- new | 2025 | 40312670 | MED | The effect of aromatherapy intervention with Bergamot and Grapefruit essential oils on premenstrual syndrome and menstrual symptoms: a randomized controlled trial. | BMC Complement Med Ther | doi 10.1186/s12906-025-04857-3 | PMC12044709
+- new | 2025 | 41640686 | MED | The effect of plant active substances on cognitive function in healthy older adults: a systematic review and network meta-analysis of randomized controlled trials. | Front Pharmacol | doi 10.3389/fphar.2025.1672171 | PMC12864429
+- new | 2025 | 40292261 | MED | Antimicrobial effectiveness of aqueous and alcoholic herbal extracts on &lt;i&gt;Streptococcus mutans&lt;/i&gt;: A systematic review and meta-analysis of randomized contr | Avicenna J Phytomed | doi 10.22038/ajp.2024.24314 | PMC12033017
+- new | 2024 | 38765348 | MED | Clinical Effectiveness of Salvia officinalis in Periodontitis: A Split-Mouth Randomized Controlled Trial. | Cureus | doi 10.7759/cureus.58582 | PMC11102653
+- new | 2024 | 39014507 | MED | The effect of oral capsules containing Ocimum basilicum leaf extract on menopausal symptoms in women: a triple-blind randomized clinical trial. | Eur J Med Res | doi 10.1186/s40001-024-01965-7 | PMC11253358
+- new | 2024 | 38901575 | MED | Speciation, phytoavailability, and accumulation of toxic elements and sulfur by humic acid-fertilized lemongrass and common sage in a sandy soil treated with heavy oil fl | Sci Total Environ | doi 10.1016/j.scitotenv.2024.173998
+- new | 2024 | 38229032 | MED | Use of over-the-counter mouthwashes as an additional measure in individual oral prophylaxis on adults with plaque-induced gingivitis: a double-blind, parallel, randomized | BMC Oral Health | doi 10.1186/s12903-023-03779-1 | PMC10790383
+- new | 2024 | 39620027 | MED | Lamiaceae plants improve serum cholesterol, triglyceride, and LDL in patients with metabolic syndrome: A systematic review and meta-analysis of randomized clinical trials | Food Sci Nutr | doi 10.1002/fsn3.4451 | PMC11606841
+- new | 2024 | 39949865 | MED | Improving cognitive impairment through chronic consumption of natural compounds/extracts: a systematic review and meta-analysis of randomized controlled trials. | Front Aging Neurosci | doi 10.3389/fnagi.2024.1531278 | PMC11821934
+- new | 2023 | 37612717 | MED | Effect of Salvia officinalis scent on postmenopausal women's sexual function and satisfaction: a randomized controlled trial. | BMC Womens Health | doi 10.1186/s12905-023-02605-8 | PMC10463902
+- new | 2023 | 36889292 | MED | Reduction of Viral Load in Patients with Acute Sore Throats: Results from an Observational Clinical Trial with Echinacea/Salvia Lozenges. | Complement Med Res | doi 10.1159/000530017 | PMC10664317
+- new | 2023 | 35960461 | MED | Natural remedies for Alzheimer's disease: A systematic review of randomized controlled trials. | Metab Brain Dis | doi 10.1007/s11011-022-01063-9
+- new | 2023 | 37469751 | MED | The Effect of Aromatherapy with <i>Citrus aurantium</i> Aroma on Pain after Orthopedic Surgery: A Randomized Clinical Trial. | J Caring Sci | doi 10.34172/jcs.2023.30120 | PMC10352639
+- new | 2023 | 36934268 | MED | The effect of sage (Salvizan gel) compared to triamcinolone acetonide on the treatment of recurrent aphthous stomatitis: a double-blinded randomized clinical trial. | BMC Oral Health | doi 10.1186/s12903-023-02861-y | PMC10024424
+- new | 2023 | 37049588 | MED | Effects of Free Linoleic Acid and Oleic Acid in Sesame Meal Extract as Pancreatic Lipase Inhibitors on Postprandial Triglyceridemia: A Randomized, Double-Blind, Placebo-C | Nutrients | doi 10.3390/nu15071748 | PMC10097160
+- new | 2022 | 35386141 | MED | A Randomized, Double-Blind, Placebo-Controlled Evaluation of the Safety and Efficacy of Wild Sage Metabolites in Preventing Snoring, Improving Sleep, and Activating Alpha | Cureus | doi 10.7759/cureus.22714 | PMC8967657
+- new | 2022 | 35419264 | MED | Comparing the Effectiveness of <i>Arnebia euchroma</i> with ClotrimazoleVaginal Cream for the Treatment of Vulvovaginal Candidiasis: A Randomized Controlled Triple-Blind  | Iran J Nurs Midwifery Res | doi 10.4103/ijnmr.ijnmr_330_20 | PMC8997174
+- new | 2022 | 35000582 | MED | Does application of honey improve surgical outcome in pilonidal cyst excision with secondary intention healing? A prospective randomized placebo-controlled clinical trial | Perioper Med (Lond) | doi 10.1186/s13741-021-00237-w | PMC8744332
+- new | 2022 | 35057248 | MED | Effect of Enamel Pretreatment with Pastes Presenting Different Relative Dentin Abrasivity (RDA) Values on Orthodontic Bracket Bonding Efficacy of Microfilled Composite Re | Materials (Basel) | doi 10.3390/ma15020531 | PMC8779612
+- new | 2021 | 33615001 | MED | Effectiveness of Menosan® <i>Salvia officinalis</i> in the treatment of a wide spectrum of menopausal complaints. A double-blind, randomized, placebo-controlled, clinical | Heliyon | doi 10.1016/j.heliyon.2021.e05910 | PMC7881233
+- new | 2021 | 34659415 | MED | Effect of Abdominal Massage with and without <i>Salvia officinalis</i> on Nausea and Vomiting in Patients with Cancer Undergoing Chemotherapy: A Randomized Clinical Trial | J Oncol | doi 10.1155/2021/9989228 | PMC8514906
+- new | 2021 | 33466627 | MED | The Acute and Chronic Cognitive Effects of a Sage Extract: A Randomized, Placebo Controlled Study in Healthy Humans. | Nutrients | doi 10.3390/nu13010218 | PMC7828691
+- SEEN | 2021 | 33586003 | MED | A mouth rinse based on a tea solution of Salvia officinalis for oral discomfort in palliative cancer care: a randomized controlled trial. | Support Care Cancer | doi 10.1007/s00520-021-06021-2 | PMC8295113
+- new | 2021 | 35028170 | MED | Chamomile Extract versus Clotrimazole Vaginal Cream in Treatment of Vulvovaginal Candidiasis: A Randomized Double-Blind Control Trial. | J Pharmacopuncture | doi 10.3831/kpi.2021.24.4.191 | PMC8716701
+- new | 2021 | 34926550 | MED | Acute Effects of <i>Salvia</i> Supplementation on Cognitive Function in Athletes During a Fatiguing Cycling Exercise: A Randomized Cross-Over, Placebo-Controlled, and Dou | Front Nutr | doi 10.3389/fnut.2021.771518 | PMC8671046
+- new | 2021 | PPR314702 | PPR | Reduction of Viral Load in Patients With Acute Sore Throats: Results From an Observational Clinical Trial With Echinacea and Salvia Lozenges |  | doi 10.21203/rs.3.rs-425085/v1
+- new | 2021 | 33477443 | MED | Ayurvedic Herbal Preparation Supplementation Does Not Improve Metabolic Health in Impaired Glucose Tolerance Subjects; Observations from a Randomised Placebo Controlled T | Nutrients | doi 10.3390/nu13010260 | PMC7830190
+- new | 2021 | 34835984 | MED | Effects of Nutrition on Cognitive Function in Adults with or without Cognitive Impairment: A Systematic Review of Randomized Controlled Clinical Trials. | Nutrients | doi 10.3390/nu13113728 | PMC8621754
+- new | 2020 | 31987228 | MED | Efficacy of Salvia officinalis extract on the prevention of insulin resistance in euglycemic patients with polycystic ovary syndrome: A double-blinded placebo-controlled  | Complement Ther Med | doi 10.1016/j.ctim.2019.102245
+- new | 2020 | 32575103 | MED | Effectiveness of Aromatherapy for Relief of Pain, Nausea, and Vomiting after Percutaneous Nephrolithotomy: A Randomized Controlled Trial. | Complement Med Res | doi 10.1159/000508333
+- new | 2020 | 33584955 | MED | An Herbal Extract Combination (Biochanin A, Acetyl tetrapeptide-3, and Ginseng Extracts) versus 3% Minoxidil Solution for the Treatment of Androgenetic Alopecia: A 24-wee | J Clin Aesthet Dermatol | PMC7840088
+- new | 2020 | 32409760 | MED | Comparison of Centella with Flavonoids for Treatment of Symptoms in Hemorrhoidal Disease and After Surgical Intervention: A Randomized Clinical Trial. | Sci Rep | doi 10.1038/s41598-020-64772-0 | PMC7224176
+- new | 2019 | 30663184 | MED | Comparing the effectiveness of Salvia officinalis, clotrimazole and their combination on vulvovaginal candidiasis: A randomized, controlled clinical trial. | J Obstet Gynaecol Res | doi 10.1111/jog.13918
+- new | 2019 | 31191341 | MED | Efficacy of an All-Natural Polyherbal Mouthwash in Patients With Periodontitis: A Single-Blind Randomized Controlled Trial. | Front Physiol | doi 10.3389/fphys.2019.00632 | PMC6540781
+- new | 2019 | 31687623 | MED | The neuroprotective role of citicoline treatment in glaucoma - 6 months results of a prospective therapeutic trial. | Rom J Ophthalmol | doi 10.22336/rjo.2019.34 | PMC6820495
+- new | 2018 | 29433682 | MED | A randomised double-blind placebo-controlled pilot trial of a combined extract of sage, rosemary and melissa, traditional herbal medicines, on the enhancement of memory i | Phytomedicine | doi 10.1016/j.phymed.2017.08.015
+- new | 2018 | 29556555 | MED | Randomized controlled trial to compare oral analgesic requirements and patient satisfaction in using oral non-steroidal anti-inflammatory drugs versus benzydamine hydroch | J Dent Anesth Pain Med | doi 10.17245/jdapm.2018.18.1.19 | PMC5858009
+- new | 2018 | 30050668 | MED | Novel Effects of <i>Rosa damascena</i> Extract on Patients with Neurocognitive Disorder and Depression: A Clinical Trial Study. | Int J Prev Med | doi 10.4103/ijpvm.ijpvm_199_17 | PMC6036771
+- new | 2017 | 28484502 | MED | Improved Lipid Profile Associated with Daily Consumption of Tri-Sura-Phon in Healthy Overweight Volunteers: An Open-Label, Randomized Controlled Trial. | Evid Based Complement Alternat Med | doi 10.1155/2017/2687173 | PMC5397647
+- HELD REF-5137 | 2017 | 26603219 | MED | The Effect of Hollyhock (Althaea officinalis L) Leaf Compresses Combined With Warm and Cold Compress on Breast Engorgement in Lactating Women: A Randomized Clinical Trial | J Evid Based Complementary Altern Med | doi 10.1177/2156587215617106 | PMC5871197
+- new | 2016 | 27942500 | MED | Salvia officinalis (Sage) Leaf Extract as Add-on to Statin Therapy in Hypercholesterolemic Type 2 Diabetic Patients: a Randomized Clinical Trial. | Int J Mol Cell Med | PMC5125366
+- new | 2016 | 27515877 | MED | Sage tea-thyme-peppermint hydrosol oral rinse reduces chemotherapy-induced oral mucositis: A randomized controlled pilot study. | Complement Ther Med | doi 10.1016/j.ctim.2016.05.010
+- new | 2015 | 26668706 | MED | The antibacterial effect of sage extract (Salvia officinalis) mouthwash against Streptococcus mutans in dental plaque: a randomized clinical trial. | Iran J Microbiol | PMC4676988
+- new | 2015 | 25978046 | MED | Pharmacokinetics, Safety and Tolerability of Melissa officinalis Extract which Contained Rosmarinic Acid in Healthy Individuals: A Randomized Controlled Trial. | PLoS One | doi 10.1371/journal.pone.0126422 | PMC4433273
+- HELD REF-3747 | 2013 | 24050577 | MED | Improved glycemic control and lipid profile in hyperlipidemic type 2 diabetic patients consuming Salvia officinalis L. leaf extract: a randomized placebo. Controlled clin | Complement Ther Med | doi 10.1016/j.ctim.2013.07.004
+- new | 2012 | 22945029 | MED | Promising therapeutics with natural bioactive compounds for improving learning and memory--a review of randomized trials. | Molecules | doi 10.3390/molecules170910503 | PMC6268692
+- HELD REF-3746 | 2011 | 21506190 | MED | Antihyperlipidemic effects of Salvia officinalis L. leaf extract in patients with hyperlipidemia: a randomized double-blind placebo-controlled clinical trial. | Phytother Res | doi 10.1002/ptr.3506
+- new | 2011 | 21052500 | MED | Treatment of upper respiratory tract infections in primary care: a randomized study using aromatic herbs. | Evid Based Complement Alternat Med | doi 10.1155/2011/690346 | PMC2967840
+- new | 2009 | 19748859 | MED | Echinacea/sage or chlorhexidine/lidocaine for treating acute sore throats: a randomized double-blind trial. | Eur J Med Res | doi 10.1186/2047-783x-14-9-406 | PMC3351972
+- HELD REF-3750 | 2006 | 16504956 | MED | Efficacy and tolerability of a spray with Salvia officinalis in the treatment of acute pharyngitis - a randomised, double-blind, placebo-controlled study with adaptive de | Eur J Med Res
+- new | 2004 | 24672091 | MED | Comparison of benzydamine hydrochloride and Salvia officinalis as an adjuvant local treatment to systemic nonsteroidal anti-inflammatory drug in controlling pain after to | Curr Ther Res Clin Exp | doi 10.1016/j.curtheres.2004.07.002 | PMC3964578
+- HELD REF-3751 | 2003 | 12605619 | MED | Salvia officinalis extract in the treatment of patients with mild to moderate Alzheimer's disease: a double blind, randomized and placebo-controlled trial. | J Clin Pharm Ther | doi 10.1046/j.1365-2710.2003.00463.x
+- new | 2003 | 12810768 | MED | Melissa officinalis extract in the treatment of patients with mild to moderate Alzheimer's disease: a double blind, randomised, placebo controlled trial. | J Neurol Neurosurg Psychiatry | doi 10.1136/jnnp.74.7.863 | PMC1738567
+
+### full text, patients/volunteers in title - 89 hits
+- new | 2026 | 41978070 | MED | The Use of Spice Herbs May Reduce Chronic Inflammation and Improve the Quality of Life of Women with Metabolic Syndrome-A Narrative Review. | Nutrients | doi 10.3390/nu18071018 | PMC13075058
+- new | 2026 | 41753785 | MED | In Vitro Evaluation of Ethanolic Medicinal Plant Extracts from the Aseer Region Against Selected Cultured Oral Bacterial Isolates from Healthy Volunteers. | Microorganisms | doi 10.3390/microorganisms14020499 | PMC12943456
+- new | 2026 | 42312188 | MED | An examination into the safety and efficacy of Khapregesic®, a Khaya senegalensis preparation, on physical and psychological wellbeing in women experiencing menopausal sy | Front Reprod Health | doi 10.3389/frph.2026.1824321 | PMC13269224
+- new | 2026 | 41491579 | MED | Preliminary clinical evaluation of capsules containing standard hydroalcoholic extract of Myrtus communis L. in patients with mild to moderate Alzheimer' disease: a rando | BMC Complement Med Ther | doi 10.1186/s12906-025-04994-9 | PMC12870068
+- new | 2026 | 41644666 | MED | Prevalence of complementary and alternative medicine use among osteoarthritis patients in a developing country and their level of satisfaction. | Sci Rep | doi 10.1038/s41598-026-37826-y | PMC12936103
+- new | 2026 | 41859744 | MED | Complementary and Alternative Therapy Use Among Cancer Patients in Qassim: Patterns, Predictors, and Patient Perspectives. | Cancer Manag Res | doi 10.2147/cmar.s569861 | PMC12997773
+- new | 2026 | 42871374 | MED | Prevalence, diagnosis, and management of dysmenorrhea among Polish women: a cross-sectional study. | Prz Menopauzalny | doi 10.5114/pm.2026.164753 | PMC13659213
+- new | 2026 | 42536629 | MED | Herbal medicine use disclosure, database-flagged potential herb-drug interactions, and inter - interaction database concordance among patients with non-communicable disea | PLoS One | doi 10.1371/journal.pone.0355046 | PMC13426966
+- new | 2026 | 41901245 | MED | Topical Polyherbal Phytopreparation Reduces Gingival Inflammation: Evidence from a Randomized Controlled Clinical Study Supported by In Silico Analysis. | Pharmaceuticals (Basel) | doi 10.3390/ph19030398 | PMC13029446
+- new | 2025 | 40144179 | MED | A comparison of the effect of aromatherapy with Jasmine (Jasminum) and clary sage (Salvia officinalis) on sexual dysfunction in women of reproductive age: A randomized co | J Educ Health Promot | doi 10.4103/jehp.jehp_1175_23 | PMC11939992
+- new | 2025 | 40141012 | MED | Exploring the therapeutic impact of Salvia officinalis on lipid and oxidative stress markers in patients with polycystic ovary syndrome - a randomized placebo-controlled  | BMC Complement Med Ther | doi 10.1186/s12906-025-04858-2 | PMC11938573
+- HELD REF-3646 | 2025 | 41184820 | MED | The effect of Malva sylvestris mouthwash on chemotherapy-induced stomatitis and associated pain in patients with cancer: a triple-blind randomized clinical trial. | BMC Cancer | doi 10.1186/s12885-025-15158-w | PMC12581259
+- new | 2025 | 40417217 | MED | An ethnopharmacological survey of herbal medicines use among pregnant and postpartum women in Souss Massa (Morocco). | Front Pharmacol | doi 10.3389/fphar.2025.1567930 | PMC12099448
+- new | 2024 | 39533447 | MED | The use of complementary and alternative medicine among surgical patients: a cross-sectional study. | Perioper Med (Lond) | doi 10.1186/s13741-024-00468-7 | PMC11559156
+- new | 2024 | 39014507 | MED | The effect of oral capsules containing Ocimum basilicum leaf extract on menopausal symptoms in women: a triple-blind randomized clinical trial. | Eur J Med Res | doi 10.1186/s40001-024-01965-7 | PMC11253358
+- new | 2024 | 38915834 | MED | Interventional Prospective Studies on Xerostomia in Patients Undergoing Palliative and End-of-Life Care: A Scoping Review. | Cureus | doi 10.7759/cureus.63002 | PMC11194537
+- new | 2024 | 39620027 | MED | Lamiaceae plants improve serum cholesterol, triglyceride, and LDL in patients with metabolic syndrome: A systematic review and meta-analysis of randomized clinical trials | Food Sci Nutr | doi 10.1002/fsn3.4451 | PMC11606841
+- new | 2024 | 39727435 | MED | Efficacy of a Herbal Toothpaste During Active Periodontal Treatment: A Clinical Study. | Dent J (Basel) | doi 10.3390/dj12120378 | PMC11674587
+- new | 2024 | 38328013 | MED | The Effect of Citrus Aurantium Vaginal Cream on Vaginal Atrophy in Postmenopausal Women: A Quasi-experimental Study. | Int J Community Based Nurs Midwifery | doi 10.30476/ijcbnm.2023.98670.2251 | PMC10844872
+- new | 2024 | 39339748 | MED | An Oral Botanical Supplement Improves Small Intestinal Bacterial Overgrowth (SIBO) and Facial Redness: Results of an Open-Label Clinical Study. | Nutrients | doi 10.3390/nu16183149 | PMC11435404
+- new | 2024 | 38976073 | MED | Exploring the integration of dentistry within a multidisciplinary palliative care team: does bedside dental care improve quality of life and symptom burden in inpatient p | Support Care Cancer | doi 10.1007/s00520-024-08671-4 | PMC11231016
+- new | 2024 | 38921830 | MED | Investigation of Antihypertensive Properties of Chios Mastic via Monitoring microRNA-21 Expression Levels in the Plasma of Well-Controlled Hypertensive Patients. | Noncoding RNA | doi 10.3390/ncrna10030033 | PMC11207086
+- new | 2024 | 38130903 | MED | Ethnomedicinal evaluation of medicinal plants used for therapies by men and women in rural and urban communities in Makkah district. | Saudi Pharm J | doi 10.1016/j.jsps.2023.101881 | PMC10733703
+- new | 2024 | 38881876 | MED | Safety classification of herbal medicine use among hypertensive patients: a systematic review and meta-analysis. | Front Pharmacol | doi 10.3389/fphar.2024.1321523 | PMC11176523
+- HELD REF-3744 | 2023 | 37489230 | MED | The Effect of &lt;i&gt;Salvia&lt;/i&gt; Officinalis on Hot Flashes in Postmenopausal Women: A Systematic Review and Meta-Analysis. | Int J Community Based Nurs Midwifery | doi 10.30476/ijcbnm.2023.97639.2198 | PMC10363264
+- new | 2023 | 35870011 | MED | Phytotherapy known and applied by head-neck cancer patients and medical students to treat oral discomfort in Germany: an observational study. | J Cancer Res Clin Oncol | doi 10.1007/s00432-022-04200-0 | PMC10097744
+- new | 2023 | 36889292 | MED | Reduction of Viral Load in Patients with Acute Sore Throats: Results from an Observational Clinical Trial with Echinacea/Salvia Lozenges. | Complement Med Res | doi 10.1159/000530017 | PMC10664317
+- new | 2023 | 37452524 | MED | Prevalence, motivation, and associated factors of medicinal herbs consumption in pregnant women from Eastern Mediterranean Regional Office: a systematic review. | Pharm Biol | doi 10.1080/13880209.2023.2229388 | PMC10351469
+- new | 2023 | 35106985 | MED | The effect of <i>Salvia officinalis</i> on blood glycemic indexes and blood lipid profile in diabetic patients: a systematic review and meta-analysis. | J Complement Integr Med | doi 10.1515/jcim-2021-0425
+- new | 2023 | 38054419 | MED | Comparison of the effect of dietary and herbal supplements on anthropometric, metabolic and androgenic profiles of women with polycystic ovary syndrome: a systematic revi | J Turk Ger Gynecol Assoc | doi 10.4274/jtgga.galenos.2023.2022-12-4 | PMC10702259
+- new | 2023 | 37049588 | MED | Effects of Free Linoleic Acid and Oleic Acid in Sesame Meal Extract as Pancreatic Lipase Inhibitors on Postprandial Triglyceridemia: A Randomized, Double-Blind, Placebo-C | Nutrients | doi 10.3390/nu15071748 | PMC10097160
+- new | 2023 | 36810432 | MED | Phytotherapy and Drugs: Can Their Interactions Increase Side Effects in Cancer Patients? | J Xenobiot | doi 10.3390/jox13010007 | PMC9945131
+- new | 2023 | PPR746904 | PPR | Patient-Physician Communication on the Use of Traditional and Complementary Medicine During the COVID-19 Outbreak: A Cross-Sectional Study on Pregnant Women in Bolivia |  | doi 10.2139/ssrn.4610003
+- new | 2023 | PPR694758 | PPR | A mixture of essential oils from three Cretan Aromatic Plants inhibits SARS-CoV-2 proliferation: A Proof-of-Concept intervention study in ambulatory patients |  | doi 10.20944/preprints202307.1239.v1
+- new | 2023 | 35731274 | MED | Homeopathy effects in patients during oncological treatment: a systematic review. | J Cancer Res Clin Oncol | doi 10.1007/s00432-022-04054-6 | PMC10097733
+- new | 2023 | 37606476 | MED | A Mixture of Essential Oils from Three Cretan Aromatic Plants Inhibits SARS-CoV-2 Proliferation: A Proof-of-Concept Intervention Study in Ambulatory Patients. | Diseases | doi 10.3390/diseases11030105 | PMC10443288
+- new | 2022 | 35624672 | MED | <i>Salvia officinalis</i> L. Essential Oil: Characterization, Antioxidant Properties, and the Effects of Aromatherapy in Adult Patients. | Antioxidants (Basel) | doi 10.3390/antiox11050808 | PMC9137537
+- new | 2022 | 36417646 | MED | Self-medication practices with conventional and herbal drugs among ear, nose, and throat patients. | Rev Assoc Med Bras (1992) | doi 10.1590/1806-9282.20220430 | PMC9683902
+- new | 2022 | 36011693 | MED | Clinical Effectiveness of Herbal Oral Care Products in Periodontitis Patients: A Systematic Review. | Int J Environ Res Public Health | doi 10.3390/ijerph191610061 | PMC9408146
+- new | 2022 | 35506677 | MED | Traditional Medicine Utilisation Among Pregnant Women in Sub-saharan African Countries: A Systematic Review of Literature. | Inquiry | doi 10.1177/00469580221088618 | PMC9073130
+- new | 2022 | 35571128 | MED | Examination of Complementary Medicine for Treating Urinary Tract Infections Among Pregnant Women and Children. | Front Pharmacol | doi 10.3389/fphar.2022.883216 | PMC9094615
+- new | 2022 | 35568834 | MED | A comprehensive evaluation of potentially significant drug-drug, drug-herb, and drug-food interactions among cancer patients receiving anticancer drugs. | BMC Cancer | doi 10.1186/s12885-022-09649-3 | PMC9107751
+- new | 2021 | 34659415 | MED | Effect of Abdominal Massage with and without <i>Salvia officinalis</i> on Nausea and Vomiting in Patients with Cancer Undergoing Chemotherapy: A Randomized Clinical Trial | J Oncol | doi 10.1155/2021/9989228 | PMC8514906
+- new | 2021 | PPR314702 | PPR | Reduction of Viral Load in Patients With Acute Sore Throats: Results From an Observational Clinical Trial With Echinacea and Salvia Lozenges |  | doi 10.21203/rs.3.rs-425085/v1
+- new | 2021 | 33727940 | MED | The Effects of Traditional Chinese Medicine-Associated Complementary and Alternative Medicine on Women with Polycystic Ovary Syndrome. | Evid Based Complement Alternat Med | doi 10.1155/2021/6619597 | PMC7935578
+- new | 2021 | 34168382 | MED | Patterns and Trends of Herbal Medicine Use among Patients with Gynecologic Cancer. | Geburtshilfe Frauenheilkd | doi 10.1055/a-1487-6284 | PMC8216777
+- new | 2021 | 34917428 | MED | Pattern and Factors Associated With the Utilization of Herbs As Medications Among Patients in a Tertiary Care Hospital in Western Saudi Arabia. | Cureus | doi 10.7759/cureus.19502 | PMC8668200
+- new | 2021 | 34093183 | MED | Estrogenic Plants: to Prevent Neurodegeneration and Memory Loss and Other Symptoms in Women After Menopause. | Front Pharmacol | doi 10.3389/fphar.2021.644103 | PMC8172769
+- new | 2021 | 34888079 | MED | Exploring the Use of Herbal Treatments During Pregnancy Among Saudi Women: An application of the knowledge-attitude-practice model. | Sultan Qaboos Univ Med J | doi 10.18295/squmj.4.2021.045 | PMC8631229
+- new | 2021 | 33397355 | MED | Use of complementary and alternative therapies by patients with eye diseases: a hospital-based cross-sectional study from Palestine. | BMC Complement Med Ther | doi 10.1186/s12906-020-03188-9 | PMC7784325
+- new | 2021 | 34055029 | MED | Prevalence of the Use of Herbal Medicines among Patients with Cancer: A Systematic Review and Meta-Analysis. | Evid Based Complement Alternat Med | doi 10.1155/2021/9963038 | PMC8149249
+- new | 2021 | 34454451 | MED | Nomograms predict survival of patients with lymph node-positive, luminal a breast cancer. | BMC Cancer | doi 10.1186/s12885-021-08642-6 | PMC8401066
+- new | 2020 | 32318472 | MED | The effect of Salvia officinalis extract on symptoms of flushing, night sweat, sleep disorders, and score of forgetfulness in postmenopausal women. | J Family Med Prim Care | doi 10.4103/jfmpc.jfmpc_913_19 | PMC7114003
+- new | 2020 | 31987228 | MED | Efficacy of Salvia officinalis extract on the prevention of insulin resistance in euglycemic patients with polycystic ovary syndrome: A double-blinded placebo-controlled  | Complement Ther Med | doi 10.1016/j.ctim.2019.102245
+- new | 2020 | 31952199 | MED | Anti-Bacterial and Anti-Inflammatory Effects of Toothpaste with Swiss Medicinal Herbs towards Patients Suffering from Gingivitis and Initial Stage of Periodontitis: from  | Dent J (Basel) | doi 10.3390/dj8010010 | PMC7148460
+- new | 2020 | 32617109 | MED | Concomitant Use of Herbal and Conventional Medicines among Patients with Diabetes Mellitus in Public Hospitals of Addis Ababa, Ethiopia: A Cross-Sectional Study. | Evid Based Complement Alternat Med | doi 10.1155/2020/4871459 | PMC7315266
+- new | 2019 | 31191341 | MED | Efficacy of an All-Natural Polyherbal Mouthwash in Patients With Periodontitis: A Single-Blind Randomized Controlled Trial. | Front Physiol | doi 10.3389/fphys.2019.00632 | PMC6540781
+- new | 2019 | 31435607 | MED | The effect of <i>Saliva officinalis</i> extract on the menopausal symptoms in postmenopausal women: An RCT. | Int J Reprod Biomed | doi 10.18502/ijrm.v17i4.4555 | PMC6686654
+- new | 2019 | 31998122 | MED | Use of Herbal Medicine by Pregnant Women: What Physicians Need to Know. | Front Pharmacol | doi 10.3389/fphar.2019.01483 | PMC6962104
+- new | 2018 | 30050668 | MED | Novel Effects of <i>Rosa damascena</i> Extract on Patients with Neurocognitive Disorder and Depression: A Clinical Trial Study. | Int J Prev Med | doi 10.4103/ijpvm.ijpvm_199_17 | PMC6036771
+- new | 2018 | 29314866 | MED | Spearmint Extract Improves Working Memory in Men and Women with Age-Associated Memory Impairment. | J Altern Complement Med | doi 10.1089/acm.2016.0379 | PMC5779242
+- new | 2018 | 28088871 | MED | Herbal Medicine Practices of Patients With Liver Cancer in Peru: A Comprehensive Study Toward Integrative Cancer Management. | Integr Cancer Ther | doi 10.1177/1534735416681642 | PMC5950939
+- new | 2017 | 29354615 | MED | Effect of Phytoestrogen on Depression and Anxiety in Menopausal Women: A Systematic Review. | J Menopausal Med | doi 10.6118/jmm.2017.23.3.160 | PMC5770525
+- new | 2017 | 29137614 | MED | Safety classification of herbal medicines used among pregnant women in Asian countries: a systematic review. | BMC Complement Altern Med | doi 10.1186/s12906-017-1995-6 | PMC5686907
+- new | 2017 | 28484502 | MED | Improved Lipid Profile Associated with Daily Consumption of Tri-Sura-Phon in Healthy Overweight Volunteers: An Open-Label, Randomized Controlled Trial. | Evid Based Complement Alternat Med | doi 10.1155/2017/2687173 | PMC5397647
+- HELD REF-5137 | 2017 | 26603219 | MED | The Effect of Hollyhock (Althaea officinalis L) Leaf Compresses Combined With Warm and Cold Compress on Breast Engorgement in Lactating Women: A Randomized Clinical Trial | J Evid Based Complementary Altern Med | doi 10.1177/2156587215617106 | PMC5871197
+- new | 2017 | 28465709 | MED | Aromatherapy and Aromatic Plants for the Treatment of Behavioural and Psychological Symptoms of Dementia in Patients with Alzheimer's Disease: Clinical Evidence and Possi | Evid Based Complement Alternat Med | doi 10.1155/2017/9416305 | PMC5390566
+- new | 2017 | 28951674 | MED | Prevalence of self-medication practice with herbal products among non-psychotic psychiatric patients from southeastern Serbia: A cross-sectional study. | Saudi Pharm J | doi 10.1016/j.jsps.2017.02.002 | PMC5605899
+- new | 2017 | 29216912 | MED | Changes in salivary oxytocin after inhalation of clary sage essential oil scent in term-pregnant women: a feasibility pilot study. | BMC Res Notes | doi 10.1186/s13104-017-3053-3 | PMC5721455
+- new | 2017 | 29149859 | MED | Medicinal plants used by women in Mecca: urban, Muslim and gendered knowledge. | J Ethnobiol Ethnomed | doi 10.1186/s13002-017-0193-4 | PMC5693532
+- new | 2016 | 27942500 | MED | Salvia officinalis (Sage) Leaf Extract as Add-on to Statin Therapy in Hypercholesterolemic Type 2 Diabetic Patients: a Randomized Clinical Trial. | Int J Mol Cell Med | PMC5125366
+- new | 2016 | 27400742 | MED | Use of complementary and alternative medicines in haemodialysis patients: a cross-sectional study from Palestine. | BMC Complement Altern Med | doi 10.1186/s12906-016-1196-8 | PMC4940841
+- new | 2015 | 26162600 | MED | Evaluation of potential drug- herb interactions among a group of Palestinian patients with chronic diseases. | BMC Complement Altern Med | doi 10.1186/s12906-015-0764-7 | PMC4702382
+- new | 2014 | 25558267 | MED | Comparison of the effect of aromatherapy with Jasminum officinale and Salvia officinale on pain severity and labor outcome in nulliparous women. | Iran J Nurs Midwifery Res | PMC4280734
+- new | 2013 | 25340127 | MED | Effect of Salvia officinalis on diabetic patients. | J Renal Inj Prev | doi 10.12861/jrip.2013.18 | PMC4206016
+- new | 2013 | 23933314 | MED | Use of herbal medicines during pregnancy in a group of Palestinian women. | J Ethnopharmacol | doi 10.1016/j.jep.2013.07.041
+- HELD REF-3747 | 2013 | 24050577 | MED | Improved glycemic control and lipid profile in hyperlipidemic type 2 diabetic patients consuming Salvia officinalis L. leaf extract: a randomized placebo. Controlled clin | Complement Ther Med | doi 10.1016/j.ctim.2013.07.004
+- new | 2012 | 21630361 | MED | Evaluation of the efficacy and safety of Salvia officinalis in controlling hot flashes in prostate cancer patients treated with androgen deprivation. | Phytother Res | doi 10.1002/ptr.3528
+- new | 2011 | 21630133 | MED | First time proof of sage's tolerability and efficacy in menopausal women with hot flushes. | Adv Ther | doi 10.1007/s12325-011-0027-z
+- HELD REF-3746 | 2011 | 21506190 | MED | Antihyperlipidemic effects of Salvia officinalis L. leaf extract in patients with hyperlipidemia: a randomized double-blind placebo-controlled clinical trial. | Phytother Res | doi 10.1002/ptr.3506
+- new | 2011 | 21185719 | MED | Herbal therapy use by cancer patients: a literature review on case reports. | Eur J Cancer | doi 10.1016/j.ejca.2010.11.018 | PMC3057114
+- new | 2009 | 19920896 | MED | Changes in CD4+ T-cells and HIV RNA resulting from combination of anti-TB therapy with Dzherelo in TB/HIV dually infected patients. | Drug Des Devel Ther | PMC2761183
+- HELD REF-3748 | 2008 | 18350281 | MED | An extract of Salvia (sage) with anticholinesterase properties improves memory and attention in healthy older volunteers. | Psychopharmacology (Berl) | doi 10.1007/s00213-008-1101-3
+- new | 2008 | 18854801 | MED | SOPHY project: an observational study of vaginal pH, lifestyle and correct intimate hygiene in women of different ages and in different physiopathological conditions. Par | Minerva Ginecol
+- new | 2006 | 17182483 | MED | The use of medicinal herbs by diabetic Jordanian patients. | J Herb Pharmacother | doi 10.1080/j157v06n02_03
+- new | 2005 | 15639154 | MED | Positive modulation of mood and cognitive performance following administration of acute doses of Salvia lavandulaefolia essential oil to healthy young volunteers. | Physiol Behav | doi 10.1016/j.physbeh.2004.09.010
+- HELD REF-3751 | 2003 | 12605619 | MED | Salvia officinalis extract in the treatment of patients with mild to moderate Alzheimer's disease: a double blind, randomized and placebo-controlled trial. | J Clin Pharm Ther | doi 10.1046/j.1365-2710.2003.00463.x
+- new | 2003 | 12810768 | MED | Melissa officinalis extract in the treatment of patients with mild to moderate Alzheimer's disease: a double blind, randomised, placebo controlled trial. | J Neurol Neurosurg Psychiatry | doi 10.1136/jnnp.74.7.863 | PMC1738567
+- new | 1990 | 2396397 | MED | [Inhalations of essential oils in the combined treatment of patients with chronic bronchitis]. | Vrach Delo
+
+## salvia-rosmarinus (Salvia rosmarinus)
+
+### non-MEDLINE, human-study wording - 9 hits
+- new | 2025 | PPR1080819 | PPR | Transcriptome Network Biology Reveals the Neuroprotective Potential of Rosmarinic Acid Against Frontotemporal Dementia |  | doi 10.1101/2025.09.05.674389
+- new | 2025 | IND609243506 | AGR | Optimizing camelina performance under drought conditions through the combined action of nanochitosan-encapsulated rosemary oil and arbuscular mycorrhizal fungi | Biocatalysis and Agricultural Biotechnol
+- new | 2025 | IND609005122 | AGR | Comparative LC–MS-based metabolite profiling of the Peppermint, Rosemary, Savory, and Thyme extracts and their potential role in germination and early growth of Adenium a | 3 Biotech
+- new | 2025 | PMC11847552 | PMC | The anti-depression effect and mechanism of harmonious rosemary essential oil and its application in microcapsules | Mater Today Bio | PMC11847552
+- new | 2022 | PMC9593369 | PMC | Tobacco product menthol and flavour bans: their utility for LMIC and lessons from the EU ban : Rosemary Hiscock | Eur J Public Health | PMC9593369
+- new | 2021 | PMC8104750 | PMC | 26 Extending the Shelf-life of Beef Bone-in Short Rib Steaks Using Acerola Cherry Powder and Rosemary Extract | J Anim Sci | PMC8104750
+- new | 2020 | PPR220945 | PPR | Cognition Enhancing Effect of Rosemary Plant (Rosmarinus officinalis, L) in Preclinical Studies: A Systematic Review and Meta-Analysis |  | doi 10.20944/preprints202009.0732.v1
+- new | 2005 | PMC545005 | PMC | Dame Rosemary Rue | BMJ | doi 10.1136/bmj.330.7484.199 | PMC545005
+- new | 2001 | PMC1121410 | PMC | Lynn Payer · Rosemary Biggs · Elizabeth Jane Bridger · Patricia Frances de Carteret Coles (née Falle) · Margaret Balfour Dempster · Pamela Jill Marsden (née Coope) · Vale | BMJ | doi 10.1136/bmj.323.7317.871 | PMC1121410
+
+### non-MEDLINE, review / safety wording - 50 hits
+- new | 2026 | PPR1314129 | PPR | <em>Salvia rosmarinus</em> Antinociceptive Efficacy Depends on Sex and Hormonal Mechanisms in Experimental Fibromyalgia |  | doi 10.20944/preprints202609.0453.v1
+- new | 2026 | PPR1372009 | PPR | Quantifying recorder effort, climate baselines, and urban infrastructure as drivers of the rosemary beetle invasion in the UK. |  | doi 10.32942/x2269q
+- new | 2026 | PMC13802362 | PMC | Activity of Protective Blends Comprised of Cinnamon, Clove, Rosemary, Eucalyptus and Lemon Essential Oils Against Clinical Escherichia coli Strains Isolated from Poultry | Int J Mol Sci | PMC13802362
+- new | 2025 | IND609361651 | AGR | Green synthesis of silver nanoparticles using salvia rosmarinus extract: Characterization, mechanistic antibacterial, antibiofilm, and in silico evaluation | Industrial crops and products.
+- new | 2025 | PPR1001850 | PPR | Evaluation of Toxicity of Origanum Vulgare, <i>Salvia rosmarinus</i> and <i>Salvia officinalis </i>Essential Oils on <i>Aculops lycopersici</i> in Laboratory Tests |  | doi 10.20944/preprints202504.0758.v1
+- new | 2025 | PPR1080819 | PPR | Transcriptome Network Biology Reveals the Neuroprotective Potential of Rosmarinic Acid Against Frontotemporal Dementia |  | doi 10.1101/2025.09.05.674389
+- new | 2025 | PPR1123802 | PPR | Synergistic and Additive Interactions in Essential Oils Obtained from Combined Plant Materials: Enhanced Control of Insect Pests |  | doi 10.20944/preprints202511.1533.v1
+- new | 2025 | PPR1111717 | PPR | Complete Disruption of Bacterial DNA Integrity by Rosemary Essential Oil Nanoparticles. |  | doi 10.21203/rs.3.rs-7900470/v1
+- new | 2025 | PMC11847552 | PMC | The anti-depression effect and mechanism of harmonious rosemary essential oil and its application in microcapsules | Mater Today Bio | PMC11847552
+- new | 2025 | IND609154352 | AGR | Comparative study of rosemary extract, TBHQ, citric acid and their composite antioxidants on the overall quality of peanuts and evaluation of their synergistic antioxidan | Food Research International.
+- new | 2025 | IND608907851 | AGR | Optimization of green tea extract, rosemary extract, and rice bran in multifunctional bread: A concept for reduction of acrylamide and phytic acid | Heliyon
+- new | 2024 | PPR950117 | PPR | Evaluation of Renal Toxicity Induced by Coartem® and Protective Effects of Salvia Rosmarinus L. Nanoemulsion in an Acute Kidney Injury Model |  | doi 10.21203/rs.3.rs-5511904/v1
+- new | 2024 | IND608753677 | AGR | Interactive effects of Orobanche latisquama parasitism and drought stress in Salvia rosmarinus plants growing under Mediterranean field conditions | Physiologia Plantarum.
+- new | 2024 | IND608717474 | AGR | Chemical profiling and bioactivities of common commercial essential oils against larvae and adults of Tribolium castaneum: Insecticidal, behavioral, and biochemical effec | Industrial crops and products.
+- new | 2024 | PPR959836 | PPR | Effects of Turmeric and Rosemary Extract on Oxidative Stress Markers in Goats |  | doi 10.20944/preprints202412.2092.v1
+- new | 2024 | IND608559332 | AGR | Melatonin alleviates UV‐B stress and enhances phenolic biosynthesis in rosemary (Rosmarinus officinalis) callus | Physiologia Plantarum.
+- new | 2023 | PPR651585 | PPR | Antimicrobial Properties of Free and Encapsulated-essential Oil into Chitosan of Rosemary |  | doi 10.21203/rs.3.rs-2646496/v1
+- new | 2023 | IND608696467 | AGR | Rosemary extract inhibitive behavior against mild steel corrosion in tempered 1 M HCl media | Industrial crops and products.
+- new | 2023 | IND608102675 | AGR | Melatonin enhances biomass, phenolic accumulation, and bioactivities of rosemary (Rosmarinus officinalis) in vitro shoots under UV‐B stress | Physiologia Plantarum.
+- new | 2023 | PPR624710 | PPR | Inhibition of corrosion of an aluminum alloy by Rosemary and Eucalyptus extracted oils in 1M hydrochloric acid medium: Experimental and theoretical study |  | doi 10.21203/rs.3.rs-2548472/v1
+- new | 2022 | PPR566520 | PPR | Simultaneous Hydrodistillation of Cedrus atlantica Manetti and Salvia rosmarinus Spenn: Optimization of anti-wood-decay fungal activity using mixture design methodology |  | doi 10.21203/rs.3.rs-2214590/v1
+- new | 2022 | IND607916985 | AGR | Repellent and toxic effects of Salvia rosmarinus oil against Liriomyza sativae | Ann Appl Biol | doi 10.1111/aab.12775
+- new | 2022 | PMC9593369 | PMC | Tobacco product menthol and flavour bans: their utility for LMIC and lessons from the EU ban : Rosemary Hiscock | Eur J Public Health | PMC9593369
+- new | 2022 | PPR525388 | PPR | Microencapsulation of rosemary Rosmarinus officinalis essential oil by Chitosan - gum Arabic and its application for the control of two secondary pests of stored cereals |  | doi 10.21203/rs.3.rs-1854496/v1
+- new | 2021 | PPR417238 | PPR | Comparative Immunomodulatory Efficacy of Rosemary and Fenugreek against Escherichia Coli-Infection via Suppression of Inflammation and Oxidative Stress in Broilers |  | doi 10.21203/rs.3.rs-243370/v2
+- new | 2020 | PPR220945 | PPR | Cognition Enhancing Effect of Rosemary Plant (Rosmarinus officinalis, L) in Preclinical Studies: A Systematic Review and Meta-Analysis |  | doi 10.20944/preprints202009.0732.v1
+- new | 2020 | IND606831473 | AGR | Effect of rosemary extract on lipid oxidation of cooked pork during simulated gastric digestion | Journal of the science of food and agric
+- new | 2020 | IND606983646 | AGR | Determining tolerance of Japanese quail to different dietary fat peroxidation values by supplementation with Rosemary and Aloe Vera on performance and meat quality | Anim Feed Sci Technol | doi 10.1016/j.anifeedsci.2020.114574
+- new | 2019 | IND606498068 | AGR | Antioxidant activity evaluation of rosemary ethanol extract and their cellular antioxidant activity toward HeLa cells | J Food Biochem
+- new | 2019 | IND606559971 | AGR | Improvement of antioxidant content and color stability in spice paprika powder by rosemary extract supplementation | Journal of food processing and preservat | doi 10.1111/jfpp.14000
+- new | 2019 | IND606624473 | AGR | Effect of rosemary (Rosmarinus officinalis) antioxidant in industrial processing of frozen‐mixed hamburger during shelf life | Journal of food processing and preservat | doi 10.1111/jfpp.14092
+- new | 2019 | IND606494470 | AGR | Ameliorative effect of diets supplemented with rosemary (Rosmarinus officinalis) on aflatoxin B1 toxicity in terms of the performance, liver histopathology, immunity and  | Aquaculture
+- new | 2019 | IND606216885 | AGR | Activity of chitosan-montmorillonite bionanocomposites incorporated with rosemary essential oil: From in vitro assays to application in fresh poultry meat | Food hydrocolloids. | doi 10.1016/j.foodhyd.2018.10.049
+- new | 2019 | IND606475262 | AGR | Interactive effects of genotype, seasonality and extraction method on chemical compositions and yield of essential oil from rosemary (Rosmarinus officinalis L.) | Industrial crops and products. | doi 10.1016/j.indcrop.2019.05.068
+- new | 2019 | IND606443403 | AGR | Effect of rosemary extract on microbial growth, pH, color, and lipid oxidation in cold plasma-processed ground chicken patties | Innovative food science & emerging techn
+- new | 2018 | IND606052384 | AGR | Toxicological effects and pharmacokinetics of rosemary (Rosmarinus officinalis) extract in common carp (Cyprinus carpio) | Aquaculture | doi 10.1016/j.aquaculture.2018.06.048
+- new | 2015 | IND601332098 | AGR | Anti‐inflammatory activity of rosemary extracts obtained by supercritical carbon dioxide enriched in carnosic acid and carnosol | International journal of food science an | doi 10.1111/ijfs.12656
+- new | 2014 | IND500723727 | AGR | Antioxidant Activity of Rosemary Extract in Soybean Oil Under Thermoxidation | Journal of food processing and preservat | doi 10.1111/j.1745-4549.2012.00755.x
+- new | 2014 | IND500897430 | AGR | Physical and chemical properties of encapsulated rosemary essential oil by spray drying using whey protein–inulin blends as carriers | International journal of food science an | doi 10.1111/ijfs.12449
+- new | 2013 | IND601242480 | AGR | Surface Contact Toxicity of Clove and Rosemary Oils Against American Cockroach, Periplaneta americana (L.) | African entomology : journal of the Ento
+- new | 2012 | WO2012017128 | PAT | COMPOSITION BASED ON ROSEMARY EXTRACT AND VITAMIN E AND USES THEREOF | 
+- new | 2012 | IND44683972 | AGR | Improvement of active chitosan film properties with rosemary essential oil for food packaging | International journal of food science an | doi 10.1111/j.1365-2621.2011.02917.x
+- new | 2012 | IND44686884 | AGR | A novel active bionanocomposite film incorporating rosemary essential oil and nanoclay into chitosan | Journal of food engineering. | doi 10.1016/j.jfoodeng.2012.02.012
+- new | 2009 | IND44147404 | AGR | Physical properties of biopolymers containing natamycin and rosemary extract | International journal of food science an | doi 10.1111/j.1365-2621.2008.01785.x
+- new | 2009 | IND44176782 | AGR | Synergistic antioxidant and antibacterial activity of rosemary plus butylated derivatives | Food Chem | doi 10.1016/j.foodchem.2008.12.029
+- new | 2009 | IND44090254 | AGR | Antioxidant properties of tuna-skin and bovine-hide gelatin films induced by the addition of oregano and rosemary extracts | Food Chem | doi 10.1016/j.foodchem.2008.05.034
+- new | 2009 | IND44169001 | AGR | Physical and chemical properties of tuna-skin and bovine-hide gelatin films with added aqueous oregano and rosemary extracts | Food hydrocolloids. | doi 10.1016/j.foodhyd.2008.09.013
+- new | 2009 | IND44198232 | AGR | Lipid and protein changes in chilled sea salmon (Pseudopercis semifasciata): effect of previous rosemary extract (Rossmarinus officinalis L.) application | International journal of food science an | doi 10.1111/j.1365-2621.2009.01955.x
+- new | 2008 | IND44111263 | AGR | Effects of pretreatment with rosemary (Rosmarinus officinalis L.) in the prevention of lipid oxidation in salted tilapia fillets | J Food Qual | doi 10.1111/j.1745-4557.2008.00222.x
+- new | 2008 | KR100820010B | PAT | ANTI-OXIDANT HERB COSMETIC COMPOSITION CONTAINING RAVENDOR, HORSEMINT, FREESIA, PEPPERMINT, CAMOMILE AND ROSEMARY FOR PROTECTING SKIN AND HAIR SKIN AND METHOD FOR PREPARI | 
+
+### full text, trial in title - 93 hits
+- new | 2026 | 41909864 | MED | Protective effects of rosemary and ginger extracts on DNA integrity, oxidative stress, and vascular endothelial function: a pilot randomized, double-blind, placebo-contro | Food Sci Biotechnol | doi 10.1007/s10068-026-02113-z
+- new | 2026 | 42796238 | MED | Evaluating the Efficacy and Safety of a Nasal Medical Device (NESOSPRAY HE-G) in Acute Rhinosinusitis: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial. | Medicina (Kaunas) | doi 10.3390/medicina62091631 | PMC13609523
+- new | 2026 | 42011351 | MED | Almond for mild to moderate Alzheimer's disease: A randomized clinical trial. | Avicenna J Phytomed | doi 10.22038/ajp.2025.26297 | PMC13092157
+- new | 2026 | 42608317 | MED | Oleanolic Acid-Enriched Olive Oil Attenuates Kidney Function Decline in Patients With Type 2 Diabetes: Results From the OLTRAD Randomised Controlled Trial. | Diabetes Obes Metab | doi 10.1111/dom.71206 | PMC13646337
+- new | 2026 | 42075753 | MED | Multivariate Assessment of Microbiological and Incubation Data from an Experimental Trial Evaluating Essential Oil-Based Sanitizers and Formaldehyde on Hatching Eggs. | Pathogens | doi 10.3390/pathogens15040426 | PMC13118539
+- new | 2026 | 42493591 | MED | Integrated Topical Skincare Enhances Picosecond Laser Treatment Outcomes for Photoaging: A Prospective Split-Face Trial. | Aesthetic Plast Surg | doi 10.1007/s00266-026-05993-y | PMC13630823
+- new | 2026 | 42299147 | MED | Effect of Nurse-Applied Aloe Vera and Rosemary Oil Combination on Pressure Injury Prevention in Orthopaedic Surgery: A Triple-Blind Randomized Trial. | SAGE Open Nurs | doi 10.1177/23779608261461045 | PMC13264662
+- SEEN | 2026 | 41983255 | MED | Efficacy of Plant-Derived Therapies for Primary Dysmenorrhea: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Phytother Res | doi 10.1002/ptr.70324 | PMC13254016
+- new | 2026 | 41901245 | MED | Topical Polyherbal Phytopreparation Reduces Gingival Inflammation: Evidence from a Randomized Controlled Clinical Study Supported by In Silico Analysis. | Pharmaceuticals (Basel) | doi 10.3390/ph19030398 | PMC13029446
+- new | 2025 | 41347039 | MED | Comparison of the Effects of Music Therapy and Aromatherapy on Physiological Indices in Surgical Patients: A Randomized Parallel-Group Trial. | Scientifica (Cairo) | doi 10.1155/sci5/6187659 | PMC12674869
+- new | 2025 | 41312013 | MED | Safety and stress-reducing effects of rosemary extract: an open-label trial and randomized double-blind crossover study. | J Clin Biochem Nutr | doi 10.3164/jcbn.25-157 | PMC12646844
+- new | 2025 | 40572759 | MED | Clinical Evaluation of NESOSPRAY HE-C, a Nasal Spray, for Rhinopharyngitis and Rhinosinusitis: A Randomized, Double-Blind, Placebo-Controlled Trial. | Medicina (Kaunas) | doi 10.3390/medicina61061071 | PMC12195266
+- new | 2025 | 40656290 | MED | Rosmagain™ as a Natural Therapeutic for Hair Regrowth and Scalp Health: A Double-Blind, Randomized, Three-Armed, Placebo-Controlled Clinical Trial. | Cureus | doi 10.7759/cureus.85906 | PMC12256010
+- new | 2025 | 40135175 | MED | A Single-center, Double-blinded, Randomized, Placebo-controlled Trial Evaluating the Safety and Efficacy of a Dietary Supplement Containing Rosemary Extract on Visible Fa | J Clin Aesthet Dermatol | PMC11932106
+- new | 2025 | 41640686 | MED | The effect of plant active substances on cognitive function in healthy older adults: a systematic review and network meta-analysis of randomized controlled trials. | Front Pharmacol | doi 10.3389/fphar.2025.1672171 | PMC12864429
+- new | 2025 | 39797321 | MED | Bayesian Sequential Pragmatic Cluster Randomized Clinical Trial Design for PrEventive Effect of MEditerranean Diet in Children: PEMED Trial Research Protocol. | J Clin Med | doi 10.3390/jcm14010240 | PMC11721821
+- new | 2025 | 40316554 | MED | The effects of an anti-inflammatory diet alone or in combination with acupuncture on mental health, anthropometric indices, and metabolic status in diabetic patients with | Nutr Diabetes | doi 10.1038/s41387-025-00373-y | PMC12048675
+- new | 2025 | 41477283 | MED | Efficacy of an Herbal Vaginal Tablet Containing Oregano and Lemon Balm on Bacterial Vaginosis in Comparison to Metronidazole: a non-inferiority triple-blind active-contro | J Pharmacopuncture | doi 10.3831/kpi.2025.28.4.321 | PMC12745365
+- HELD REF-5367 | 2025 | 40077714 | MED | Clinical Evaluation of &lt;i&gt;Ganoderma lucidum&lt;/i&gt; Spore Oil for Triglyceride Reduction: A Randomized, Double-Blind, Crossover Study. | Nutrients | doi 10.3390/nu17050844 | PMC11901880
+- new | 2025 | 40034703 | MED | Randomized clinical trial in cancer patients shows immune metabolic effects exerted by formulated bioactive phenolic diterpenes with potential clinical benefits. | Front Immunol | doi 10.3389/fimmu.2025.1519978 | PMC11872936
+- new | 2025 | 40754387 | MED | Gut microbial community and host intestinal gene expression with combined fish oil and soluble corn fiber compared with corn oil and maltodextrin: A randomized crossover  | Am J Clin Nutr | doi 10.1016/j.ajcnut.2025.04.031 | PMC12405781
+- new | 2025 | 40431357 | MED | Exploring the Health Effects of New Additive- and Allergen-Free Reformulated Cooked Meat Products: Consumer Survey, Clinical Trial, and Perceived Satiety. | Nutrients | doi 10.3390/nu17101616 | PMC12114518
+- HELD REF-3757 | 2024 | 38242798 | MED | Comparing the effects of rosemary aromatherapy and music therapy on anxiety levels in patients undergoing general surgery: A randomized controlled clinical trial. | Explore (NY) | doi 10.1016/j.explore.2024.01.002
+- HELD REF-3754 | 2024 | 37758539 | MED | The effect of rosemary hydroalcoholic extract on cognitive function and activities of daily living of patients with chronic obstructive pulmonary disease (COPD): A clinic | Explore (NY) | doi 10.1016/j.explore.2023.09.008
+- new | 2024 | 39652968 | MED | Efficacy of Topical Rosemary Extract Lotion versus Topical 2% Ketoconazole Lotion in the Treatment of Seborrheic Dermatitis: A Double-Blind Randomized Controlled Clinical | Dermatol Pract Concept | doi 10.5826/dpc.1404a242 | PMC11619942
+- HELD REF-3656 | 2024 | 39683592 | MED | Effects of <i>Melissa officinalis</i> Phytosome on Sleep Quality: Results of a Prospective, Double-Blind, Placebo-Controlled, and Cross-Over Study. | Nutrients | doi 10.3390/nu16234199 | PMC11644815
+- new | 2024 | 39180778 | MED | Effects of dietary rosemary ultrafine powder supplementation on aged hen health and productivity: a randomized controlled trial. | Poult Sci | doi 10.1016/j.psj.2024.104133 | PMC11385426
+- new | 2024 | 38236839 | MED | The impact of cineole treatment timing on common cold duration and symptoms: Non-randomized exploratory clinical trial. | PLoS One | doi 10.1371/journal.pone.0296482 | PMC10795983
+- new | 2024 | 37400355 | MED | The effect of Aromatherapy with Pelargonium graveolens (P. graveolens) on the fatigue and sleep quality of critical care nurses during the Covid-19 pandemic: A randomized | Explore (NY) | doi 10.1016/j.explore.2023.06.006 | PMC10281030
+- new | 2024 | 39135397 | MED | Aesthetic Radiofrequency Associated with <i>Rosmarinus officinalis</i> Supplementation is Safe and Reduces Oxidative Stress in Women: Randomized, and Double-Blind Clinica | J Evid Based Integr Med | doi 10.1177/2515690x241246293 | PMC11320689
+- new | 2024 | 38792964 | MED | Clinical and Ultrasound Efficacy of Topical Hypertonic Cream (Jovita Osmocell<sup>®</sup>) in the Treatment of Cellulite: A Prospective, Monocentric, Double-Blind, Placeb | Medicina (Kaunas) | doi 10.3390/medicina60050781 | PMC11122878
+- new | 2024 | 39620027 | MED | Lamiaceae plants improve serum cholesterol, triglyceride, and LDL in patients with metabolic syndrome: A systematic review and meta-analysis of randomized clinical trials | Food Sci Nutr | doi 10.1002/fsn3.4451 | PMC11606841
+- new | 2024 | 38887495 | MED | Dietary supplementation with plant extracts for amelioration of persistent myofascial discomfort in the cervical and back regions: a randomized double-blind controlled st | Front Nutr | doi 10.3389/fnut.2024.1403108 | PMC11182357
+- new | 2023 | 38104550 | MED | Turpentine Ointment for the Treatment of Folliculitis: An Open, Prospective, Randomized, Placebo- and Comparator-Controlled Multicenter Trial. | Skin Pharmacol Physiol | doi 10.1159/000535711 | PMC10836955
+- new | 2023 | 36417842 | MED | Turpentine Ointment in Bacterial Skin Infections: A Randomized, Placebo-Controlled, Double-Blind Clinical Trial. | Complement Med Res | doi 10.1159/000528220 | PMC11078321
+- new | 2023 | 37361940 | MED | Efficacy and Safety of Add-On Plant-Based Drugs for COVID-19 Patients: A Review of the Randomized Control Trials. | Infect Drug Resist | doi 10.2147/idr.s417727 | PMC10289101
+- new | 2023 | 38434502 | MED | <i>In vivo</i> efficacy of 2% povidone iodine, chlorhexidine gluconate, and herbal extract mouthwash on SARS-CoV-2 viral load in saliva: A randomized clinical trial. | J Indian Soc Periodontol | doi 10.4103/jisp.jisp_469_22 | PMC10906800
+- new | 2023 | 38024288 | MED | Effects of aromatherapy on sore throat, nasal symptoms and sleep quality in adults infected with COVID-19: A randomized controlled trial. | Integr Med Res | doi 10.1016/j.imr.2023.101001 | PMC10654541
+- new | 2023 | 37259343 | MED | A Dietary Plant Extract Formulation Helps Reduce Flea Populations in Cats: A Double-Blind Randomized Study. | Pharmaceuticals (Basel) | doi 10.3390/ph16020195 | PMC9963546
+- new | 2023 | 37168053 | MED | Healthy adults supplemented with a nutraceutical formulation containing <i>Aloe vera</i> gel, rosemary and <i>Poria cocos</i> enhances the effect of influenza vaccination | Front Nutr | doi 10.3389/fnut.2023.1116634 | PMC10165552
+- new | 2023 | 37072503 | MED | Randomized clinical trial on the clinical effects of a toothpaste containing extra virgin olive oil, xylitol, and betaine in gingivitis. | Sci Rep | doi 10.1038/s41598-023-33521-4 | PMC10113385
+- new | 2023 | 37699014 | MED | Rapid increase in immune surveillance and expression of NKT and γδT cell activation markers after consuming a nutraceutical supplement containing Aloe vera gel, extracts  | PLoS One | doi 10.1371/journal.pone.0291254 | PMC10497150
+- new | 2023 | 38247460 | MED | Diverse and Synergistic Actions of Phytochemicals in a Plant-Based Multivitamin/Mineral Supplement against Oxidative Stress and Inflammation in Healthy Individuals: A Sys | Antioxidants (Basel) | doi 10.3390/antiox13010036 | PMC10812391
+- new | 2023 | 37093367 | MED | Are there placebo or nocebo effects in balancing performance? | Cogn Res Princ Implic | doi 10.1186/s41235-023-00476-z | PMC10126169
+- new | 2023 | 36895452 | MED | Burn Wound Healing Effect of a Sterilized Traditional Formulation of <i>Boswellia carteri</i> vs. Silver Sulfadiazine Cream 1% in Patients Presenting Second-degree Burn W | Iran J Med Sci | doi 10.30476/ijms.2022.91853.2307 | PMC9989234
+- new | 2023 | 36706088 | MED | Comparative membrane incorporation of omega-3 fish oil triglyceride preparations differing by degree of re-esterification: A sixteen-week randomized intervention trial. | PLoS One | doi 10.1371/journal.pone.0265462 | PMC9882700
+- HELD REF-3753 | 2022 | 36343423 | MED | Rosemary as an adjunctive treatment in patients with major depressive disorder: A randomized, double-blind, placebo-controlled trial. | Complement Ther Clin Pract | doi 10.1016/j.ctcp.2022.101685
+- new | 2022 | 35318738 | MED | Effect of rosemary leaf powder with weight loss diet on lipid profile, glycemic status, and liver enzymes in patients with nonalcoholic fatty liver disease: A randomized, | Phytother Res | doi 10.1002/ptr.7446
+- new | 2022 | 35849434 | MED | Throat Spray With Blended Essential Oils Promotes Healthy Lung Function Among Women: A Randomized, Double Blinded, Placebo Controlled Clinical Trial. | J Evid Based Integr Med | doi 10.1177/2515690x221113335 | PMC9297472
+- new | 2022 | 35815287 | MED | The Effect of Inhalation Aromatherapy and Music Therapy on Anxiety in Patients Undergoing Shockwave Lithotripsy: A Randomized Controlled Clinical Trial. | Evid Based Complement Alternat Med | doi 10.1155/2022/8015798 | PMC9259239
+- new | 2022 | 36678373 | MED | Postoperative Prevention of Urinary Tract Infections in Patients after Urogynecological Surgeries-Nonantibiotic Herbal (Canephron) versus Antibiotic Prophylaxis (Fosfomyc | Pathogens | doi 10.3390/pathogens12010027 | PMC9864930
+- HELD REF-3755 | 2022 | 36028878 | MED | Effect of Rosemary Cream on Episiotomy Wound Healing in Primiparous Women: A Randomized Clinical Trial. | BMC Complement Med Ther | doi 10.1186/s12906-022-03675-1 | PMC9413876
+- new | 2022 | 35276467 | MED | Efficacy of a multiple-indication antiviral herbal drug (Saliravira®) for COVID-19 outpatients: A pre-clinical and randomized clinical trial study. | Biomed Pharmacother | doi 10.1016/j.biopha.2022.112729 | PMC8850097
+- new | 2022 | 36544511 | MED | Herbal therapy in opioid withdrawal syndrome: A systematic review of randomized clinical trials. | Addict Health | doi 10.22122/ahj.2022.195961.1247 | PMC9743811
+- new | 2022 | 35334829 | MED | Meta-Analysis of Randomized Clinical Trials Evaluating Effectiveness of a Multivitamin Supplementation against Oxidative Stress in Healthy Subjects. | Nutrients | doi 10.3390/nu14061170 | PMC8955918
+- new | 2022 | 36774112 | MED | Herbs and Spices Modulate Gut Bacterial Composition in Adults at Risk for CVD: Results of a Prespecified Exploratory Analysis from a Randomized, Crossover, Controlled-Fee | J Nutr | doi 10.1093/jn/nxac201 | PMC9644184
+- new | 2021 | 33550193 | MED | The effect of rosemary essential oil inhalation on sleepiness and alertness of shift-working nurses: A randomized, controlled field trial. | Complement Ther Clin Pract | doi 10.1016/j.ctcp.2021.101326
+- new | 2021 | 34050197 | MED | A single serving of mixed spices alters gut microflora composition: a dose-response randomised trial. | Sci Rep | doi 10.1038/s41598-021-90453-7 | PMC8163817
+- new | 2021 | 33889065 | MED | Antioxidant and reduced skin-ageing effects of a polyphenol-enriched dietary supplement in response to air pollution: a randomized, double-blind, placebo-controlled study | Food Nutr Res | doi 10.29219/fnr.v65.5619 | PMC8035891
+- new | 2021 | 34389753 | MED | Relative absorption of silicon from different formulations of dietary supplements: a pilot randomized, double-blind, crossover post-prandial study. | Sci Rep | doi 10.1038/s41598-021-95220-2 | PMC8363645
+- new | 2021 | 34835984 | MED | Effects of Nutrition on Cognitive Function in Adults with or without Cognitive Impairment: A Systematic Review of Randomized Controlled Clinical Trials. | Nutrients | doi 10.3390/nu13113728 | PMC8621754
+- new | 2020 | 33105885 | MED | A Randomized Clinical Trial to Evaluate the Effect of Canephron N in Comparison to Ciprofloxacin in the Prevention of Postoperative Lower Urinary Tract Infections after M | J Clin Med | doi 10.3390/jcm9113391 | PMC7690611
+- new | 2020 | 33233510 | MED | Effects of Continuous Intake of Rosemary Extracts on Mental Health in Working Generation Healthy Japanese Men: Post-Hoc Testing of a Randomized Controlled Trial. | Nutrients | doi 10.3390/nu12113551 | PMC7699484
+- new | 2020 | 32481760 | MED | Oral Intake of Hydrangea serrata (Thunb.) Ser. Leaves Extract Improves Wrinkles, Hydration, Elasticity, Texture, and Roughness in Human Skin: A Randomized, Double-Blind,  | Nutrients | doi 10.3390/nu12061588 | PMC7352416
+- new | 2020 | 32114287 | MED | Evaluation of a plant-based food supplement to control flea populations in dogs: A prospective double-blind randomized study. | Int J Parasitol Drugs Drug Resist | doi 10.1016/j.ijpddr.2020.02.001 | PMC7049570
+- new | 2020 | 32869564 | MED | Acute Cystitis Symptom Score questionnaire for measuring patient-reported outcomes in women with acute uncomplicated cystitis: Clinical validation as part of a phase III  | Investig Clin Urol | doi 10.4111/icu.20200060 | PMC7458871
+- HELD REF-3756 | 2019 | 30970057 | MED | Clinical Assessment of Rosemary-based Toothpaste (Rosmarinus officinalis Linn.): A Randomized Controlled Double-blind Study. | Braz Dent J | doi 10.1590/0103-6440201902164
+- new | 2019 | 30836363 | MED | Tomato Phytonutrients Balance UV Response: Results from a Double-Blind, Randomized, Placebo-Controlled Study. | Skin Pharmacol Physiol | doi 10.1159/000497104 | PMC6482986
+- new | 2019 | 30621298 | MED | Multivitamin and Mineral Supplementation Containing Phytonutrients Scavenges Reactive Oxygen Species in Healthy Subjects: A Randomized, Double-Blinded, Placebo-Controlled | Nutrients | doi 10.3390/nu11010101 | PMC6356358
+- new | 2019 | 31191341 | MED | Efficacy of an All-Natural Polyherbal Mouthwash in Patients With Periodontitis: A Single-Blind Randomized Controlled Trial. | Front Physiol | doi 10.3389/fphys.2019.00632 | PMC6540781
+- new | 2019 | 31817885 | MED | Effect of a Herbal Therapy on Clinical Symptoms of Acute Lower Uncomplicated Urinary Tract Infections in Women: Secondary Analysis from a Randomized Controlled Trial. | Antibiotics (Basel) | doi 10.3390/antibiotics8040256 | PMC6963539
+- new | 2019 | 31333746 | MED | Comparison of Rosemary and Mefenamic Acid Capsules on Menstrual Bleeding and Primary Dysmenorrhea: A Clinical Trial. | Iran J Nurs Midwifery Res | doi 10.4103/ijnmr.ijnmr_99_18 | PMC6621500
+- new | 2019 | 31143238 | MED | Effect of herbal antioxidant-rich formula on improvement of antioxidant defense system and heat shock protein-70 expression in recreational female athletes: A randomized  | J Res Med Sci | doi 10.4103/jrms.jrms_591_18 | PMC6521614
+- new | 2019 | 31450563 | MED | Tolerability and Safety of a Nutritional Supplement with Potential as Adjuvant in Colorectal Cancer Therapy: A Randomized Trial in Healthy Volunteers. | Nutrients | doi 10.3390/nu11092001 | PMC6769991
+- new | 2019 | 30259284 | MED | Dietary intervention among breast cancer survivors increased adherence to a Mediterranean-style, anti-inflammatory dietary pattern: the Rx for Better Breast Health Random | Breast Cancer Res Treat | doi 10.1007/s10549-018-4982-9 | PMC6387648
+- new | 2018 | 29433682 | MED | A randomised double-blind placebo-controlled pilot trial of a combined extract of sage, rosemary and melissa, traditional herbal medicines, on the enhancement of memory i | Phytomedicine | doi 10.1016/j.phymed.2017.08.015
+- HELD REF-1291 | 2018 | 29389474 | MED | Effects of Rosmarinus officinalis L. on memory performance, anxiety, depression, and sleep quality in university students: A randomized clinical trial. | Complement Ther Clin Pract | doi 10.1016/j.ctcp.2017.11.004
+- new | 2018 | 30541572 | MED | Efficacy of a nootropic spearmint extract on reactive agility: a randomized, double-blind, placebo-controlled, parallel trial. | J Int Soc Sports Nutr | doi 10.1186/s12970-018-0264-5 | PMC6291964
+- new | 2018 | 30214668 | MED | A Randomized, Active Comparator-controlled Clinical Trial of a Topical Botanical Cream for Skin Hydration, Elasticity, Firmness, and Cellulite. | J Clin Aesthet Dermatol | PMC6122510
+- new | 2018 | 29370120 | MED | Effects of Multivitamin, Multimineral and Phytonutrient Supplementation on Nutrient Status and Biomarkers of Heart Health Risk in a Russian Population: A Randomized, Doub | Nutrients | doi 10.3390/nu10020120 | PMC5852696
+- new | 2018 | 30231252 | MED | Non-Antibiotic Herbal Therapy (BNO 1045) versus Antibiotic Therapy (Fosfomycin Trometamol) for the Treatment of Acute Lower Uncomplicated Urinary Tract Infections in Wome | Urol Int | doi 10.1159/000493368 | PMC6262678
+- new | 2017 | 28287415 | MED | Dietary Buglossoides Arvensis Oil Increases Circulating n-3 Polyunsaturated Fatty Acids in a Dose-Dependent Manner and Enhances Lipopolysaccharide-Stimulated Whole Blood  | Nutrients | doi 10.3390/nu9030261 | PMC5372924
+- new | 2016 | 26850813 | MED | Evaluation of the efficacy of a polyherbal mouthwash containing Zingiber officinale, Rosmarinus officinalis and Calendula officinalis extracts in patients with gingivitis | Complement Ther Clin Pract | doi 10.1016/j.ctcp.2015.12.001
+- new | 2016 | 27266517 | MED | Adjunctive use of essential oils following scaling and root planing -a randomized clinical trial. | BMC Complement Altern Med | doi 10.1186/s12906-016-1117-x | PMC4897933
+- new | 2015 | 26151786 | MED | An Open Label Clinical Trial of a Multi-Ingredient Anti-Aging Moisturizer Designed to Improve the Appearance of Facial Skin. | J Drugs Dermatol
+- new | 2015 | 25978046 | MED | Pharmacokinetics, Safety and Tolerability of Melissa officinalis Extract which Contained Rosmarinic Acid in Healthy Individuals: A Randomized Controlled Trial. | PLoS One | doi 10.1371/journal.pone.0126422 | PMC4433273
+- new | 2015 | 25866811 | MED | A phase I trial to evaluate the multiple-dose safety and antitumor activity of ursolic acid liposomes in subjects with advanced solid tumors. | Biomed Res Int | doi 10.1155/2015/809714 | PMC4383362
+- new | 2013 | 24274317 | MED | The efficacy and safety of a proposed herbal moisturising cream for dry skin and itch relief: a randomised, double-blind, placebo-controlled trial--study protocol. | BMC Complement Altern Med | doi 10.1186/1472-6882-13-330 | PMC4222493
+- new | 2013 | 24352096 | MED | Daily nutritional dose supplementation with antioxidant nutrients and phytochemicals improves DNA and LDL stability: a double-blind, randomized, and placebo-controlled tr | Nutrients | doi 10.3390/nu5125218 | PMC3875922
+- new | 2013 | 24494164 | MED | Beneficial Effects of Rosmarinus Officinalis for Treatment of Opium Withdrawal Syndrome during Addiction Treatment Programs: A Clinical Trial. | Addict Health | PMC3905473
+- new | 2013 | 26784340 | MED | Determination of Radical Scavenging Activity and Total Phenols of Wine and Spices: A Randomized Study. | Antioxidants (Basel) | doi 10.3390/antiox2030110 | PMC4665441
+- new | 2012 | IND44688444 | AGR | Use of rosemary (Rosmarinus officinalis L.) leaf for improving oxidative stability of microwave‐precooked traditional Thai pork patty and its frozen storage trial | International journal of food science an | doi 10.1111/j.1365-2621.2012.03084.x
+- new | 2011 | 21052500 | MED | Treatment of upper respiratory tract infections in primary care: a randomized study using aromatic herbs. | Evid Based Complement Alternat Med | doi 10.1155/2011/690346 | PMC2967840
+
+### full text, patients/volunteers in title - 84 hits
+- new | 2026 | 40270131 | MED | The use of medicinal plants by cancer patients receiving chemotherapy: A cross-sectional study at a referral oncology hospital in Morocco. | J Oncol Pharm Pract | doi 10.1177/10781552251331920
+- new | 2026 | 42131823 | MED | Efficacy of &lt;i&gt;Lippia sidoides&lt;/i&gt; Containing-Dentifrice in Children With Dental Caries: A Clinical Study. | Int J Dent | doi 10.1155/ijod/4772820 | PMC13162128
+- new | 2026 | 41583539 | MED | Impacts of Herbal Medicine Use on Lipid Profiles in Type 2 Diabetic Patients in Northwest Ethiopia: A Comparative Cross-Sectional Study. | Biomed Res Int | doi 10.1155/bmri/1020727 | PMC12823775
+- new | 2026 | 41901245 | MED | Topical Polyherbal Phytopreparation Reduces Gingival Inflammation: Evidence from a Randomized Controlled Clinical Study Supported by In Silico Analysis. | Pharmaceuticals (Basel) | doi 10.3390/ph19030398 | PMC13029446
+- new | 2026 | 41978070 | MED | The Use of Spice Herbs May Reduce Chronic Inflammation and Improve the Quality of Life of Women with Metabolic Syndrome-A Narrative Review. | Nutrients | doi 10.3390/nu18071018 | PMC13075058
+- new | 2026 | 42653794 | MED | Antibiofilm Substantivity of AgNPs in Clinical Oral Biofilms from Patients with Motor and Intellectual Disabilities: An In Vitro and Exploratory Study. | Pharmaceuticals (Basel) | doi 10.3390/ph19081299 | PMC13516839
+- new | 2026 | 42608317 | MED | Oleanolic Acid-Enriched Olive Oil Attenuates Kidney Function Decline in Patients With Type 2 Diabetes: Results From the OLTRAD Randomised Controlled Trial. | Diabetes Obes Metab | doi 10.1111/dom.71206 | PMC13646337
+- new | 2025 | 41383467 | MED | Botanical drug preparations for alleviating hair loss in menopausal women: a global ethnopharmacological mini-review. | Front Pharmacol | doi 10.3389/fphar.2025.1725691 | PMC12689892
+- new | 2025 | 38970803 | MED | Investigation of the acute impact of rosemary consumption on brain activity in healthy volunteers. | Nutr Neurosci | doi 10.1080/1028415x.2024.2370729
+- new | 2025 | 41347039 | MED | Comparison of the Effects of Music Therapy and Aromatherapy on Physiological Indices in Surgical Patients: A Randomized Parallel-Group Trial. | Scientifica (Cairo) | doi 10.1155/sci5/6187659 | PMC12674869
+- new | 2025 | 40316554 | MED | The effects of an anti-inflammatory diet alone or in combination with acupuncture on mental health, anthropometric indices, and metabolic status in diabetic patients with | Nutr Diabetes | doi 10.1038/s41387-025-00373-y | PMC12048675
+- new | 2025 | 41514586 | MED | Nutritional Impact on Breast Cancer in Menopausal and Post-Menopausal Patients Treated with Aromatase Inhibitors. | Cancers (Basel) | doi 10.3390/cancers18010073 | PMC12785006
+- new | 2025 | 39996871 | MED | Comparing Perspectives on Traditional and Complementary Medicine Use in Oncology: Insights from Healthcare Professionals and Oncology Patients in Western Mexico. | Curr Oncol | doi 10.3390/curroncol32020071 | PMC11854627
+- new | 2025 | 40034703 | MED | Randomized clinical trial in cancer patients shows immune metabolic effects exerted by formulated bioactive phenolic diterpenes with potential clinical benefits. | Front Immunol | doi 10.3389/fimmu.2025.1519978 | PMC11872936
+- HELD REF-3757 | 2024 | 38242798 | MED | Comparing the effects of rosemary aromatherapy and music therapy on anxiety levels in patients undergoing general surgery: A randomized controlled clinical trial. | Explore (NY) | doi 10.1016/j.explore.2024.01.002
+- HELD REF-3754 | 2024 | 37758539 | MED | The effect of rosemary hydroalcoholic extract on cognitive function and activities of daily living of patients with chronic obstructive pulmonary disease (COPD): A clinic | Explore (NY) | doi 10.1016/j.explore.2023.09.008
+- new | 2024 | 39045978 | MED | Understanding intimate self-care among riverine women: qualitative research through the lens of the Sunrise Model. | Rev Bras Enferm | doi 10.1590/0034-7167-2023-0364 | PMC11259441
+- new | 2024 | 39339748 | MED | An Oral Botanical Supplement Improves Small Intestinal Bacterial Overgrowth (SIBO) and Facial Redness: Results of an Open-Label Clinical Study. | Nutrients | doi 10.3390/nu16183149 | PMC11435404
+- new | 2024 | 38130903 | MED | Ethnomedicinal evaluation of medicinal plants used for therapies by men and women in rural and urban communities in Makkah district. | Saudi Pharm J | doi 10.1016/j.jsps.2023.101881 | PMC10733703
+- new | 2024 | 39519412 | MED | Link Between Metabolic Syndrome, Blood Lipid Markers, Dietary Lipids, and Survival in Women with Early-Stage Breast Cancer. | Nutrients | doi 10.3390/nu16213579 | PMC11547724
+- new | 2024 | 38803424 | MED | The gut metabolome in a cohort of pregnant and lactating women from Antioquia-Colombia. | Front Mol Biosci | doi 10.3389/fmolb.2024.1250413 | PMC11128665
+- new | 2024 | 38473307 | MED | Self-Completion Questionnaire on Sleep Evaluation in Patients Undergoing Oxaliplatin Therapy: An Observational Study. | Cancers (Basel) | doi 10.3390/cancers16050946 | PMC10931406
+- new | 2024 | 38695094 | MED | Multidrug-Resistant Organisms: The Silent Plight of Burn Patients. | J Burn Care Res | doi 10.1093/jbcr/irae075 | PMC11303128
+- new | 2024 | 37544374 | MED | Energy-Adjusted Dietary Inflammatory Index and Diabetes Risk in Postmenopausal Hispanic Women. | J Acad Nutr Diet | doi 10.1016/j.jand.2023.08.002 | PMC10839112
+- new | 2024 | 39620027 | MED | Lamiaceae plants improve serum cholesterol, triglyceride, and LDL in patients with metabolic syndrome: A systematic review and meta-analysis of randomized clinical trials | Food Sci Nutr | doi 10.1002/fsn3.4451 | PMC11606841
+- new | 2024 | 39135397 | MED | Aesthetic Radiofrequency Associated with <i>Rosmarinus officinalis</i> Supplementation is Safe and Reduces Oxidative Stress in Women: Randomized, and Double-Blind Clinica | J Evid Based Integr Med | doi 10.1177/2515690x241246293 | PMC11320689
+- new | 2024 | 39590287 | MED | Neurofeedback Technology Reduces Cortisol Levels in Bruxismitle Patients: Assessment of Cerebral Activity and Anxiolytic Effects of <i>Origanum majorana</i> Essential Oil | Biomimetics (Basel) | doi 10.3390/biomimetics9110715 | PMC11591680
+- new | 2024 | 38881876 | MED | Safety classification of herbal medicine use among hypertensive patients: a systematic review and meta-analysis. | Front Pharmacol | doi 10.3389/fphar.2024.1321523 | PMC11176523
+- new | 2024 | 38592012 | MED | Assessment of Integrative Therapeutic Methods for Improving the Quality of Life and Functioning in Cancer Patients-A Systematic Review. | J Clin Med | doi 10.3390/jcm13051190 | PMC10931598
+- new | 2023 | 37361940 | MED | Efficacy and Safety of Add-On Plant-Based Drugs for COVID-19 Patients: A Review of the Randomized Control Trials. | Infect Drug Resist | doi 10.2147/idr.s417727 | PMC10289101
+- new | 2023 | 37141519 | MED | [Impact of essential oil vapors inhalation on blood pressure in patients with hypertension]. | Vopr Kurortol Fizioter Lech Fiz Kult | doi 10.17116/kurort202310002122
+- new | 2023 | 38201892 | MED | Diet Inflammatory Index among Regularly Physically Active Young Women and Men. | Nutrients | doi 10.3390/nu16010062 | PMC10780425
+- new | 2023 | 37544300 | MED | Phytotherapy (BNO 1045) of Acute Lower Uncomplicated Urinary Tract Infection in Women Normalizes Local Host Responses. | Urol Int | doi 10.1159/000531206 | PMC10614491
+- new | 2023 | 36617570 | MED | The relationship between the insulinemic potential of diet and lifestyle and risk of breast cancer: a case-control study among iranian adult women. | Arch Public Health | doi 10.1186/s13690-022-01016-9 | PMC9827678
+- new | 2023 | 36895452 | MED | Burn Wound Healing Effect of a Sterilized Traditional Formulation of <i>Boswellia carteri</i> vs. Silver Sulfadiazine Cream 1% in Patients Presenting Second-degree Burn W | Iran J Med Sci | doi 10.30476/ijms.2022.91853.2307 | PMC9989234
+- new | 2023 | 37764768 | MED | Potential of Dietary HDAC2i in Breast Cancer Patients Receiving PD-1/PD-L1 Inhibitors. | Nutrients | doi 10.3390/nu15183984 | PMC10537481
+- HELD REF-3753 | 2022 | 36343423 | MED | Rosemary as an adjunctive treatment in patients with major depressive disorder: A randomized, double-blind, placebo-controlled trial. | Complement Ther Clin Pract | doi 10.1016/j.ctcp.2022.101685
+- new | 2022 | 33565922 | MED | Rosemary Tea Consumption Alters Peripheral Anxiety and Depression Biomarkers: A Pilot Study in Limited Healthy Volunteers. | J Am Nutr Assoc | doi 10.1080/07315724.2021.1873871
+- new | 2022 | 35318738 | MED | Effect of rosemary leaf powder with weight loss diet on lipid profile, glycemic status, and liver enzymes in patients with nonalcoholic fatty liver disease: A randomized, | Phytother Res | doi 10.1002/ptr.7446
+- new | 2022 | 36678373 | MED | Postoperative Prevention of Urinary Tract Infections in Patients after Urogynecological Surgeries-Nonantibiotic Herbal (Canephron) versus Antibiotic Prophylaxis (Fosfomyc | Pathogens | doi 10.3390/pathogens12010027 | PMC9864930
+- HELD REF-3755 | 2022 | 36028878 | MED | Effect of Rosemary Cream on Episiotomy Wound Healing in Primiparous Women: A Randomized Clinical Trial. | BMC Complement Med Ther | doi 10.1186/s12906-022-03675-1 | PMC9413876
+- new | 2022 | 35849434 | MED | Throat Spray With Blended Essential Oils Promotes Healthy Lung Function Among Women: A Randomized, Double Blinded, Placebo Controlled Clinical Trial. | J Evid Based Integr Med | doi 10.1177/2515690x221113335 | PMC9297472
+- new | 2022 | 35815287 | MED | The Effect of Inhalation Aromatherapy and Music Therapy on Anxiety in Patients Undergoing Shockwave Lithotripsy: A Randomized Controlled Clinical Trial. | Evid Based Complement Alternat Med | doi 10.1155/2022/8015798 | PMC9259239
+- new | 2022 | 36501005 | MED | Role of Aromatic Herbs and Spices in Salty Perception of Patients with Hyposmia. | Nutrients | doi 10.3390/nu14234976 | PMC9740803
+- new | 2022 | 36254459 | MED | Use of Medicinal Plants by Cancer Patients Under Chemotherapy in the Northwest of Morocco (Rabat Area) : Cross-Sectional Study. | J Evid Based Integr Med | doi 10.1177/2515690x221128036 | PMC9580094
+- new | 2022 | 35320494 | MED | Anti-inflammatory response of cardamom extract and prediction of therapeutic window in COVID-19 patients by assessing inflammatory markers using RT-PCR. | Inflammopharmacology | doi 10.1007/s10787-022-00951-x | PMC8941370
+- new | 2021 | IND607276408 | AGR | A Novel Organic Composite Accelerates Wound Healing: Experimental and Clinical Study in Equine | J Equine Vet Sci
+- new | 2021 | 33781408 | MED | A Novel Organic Composite Accelerates Wound Healing: Experimental and Clinical Study in Equine. | J Equine Vet Sci | doi 10.1016/j.jevs.2021.103406
+- new | 2021 | 34917428 | MED | Pattern and Factors Associated With the Utilization of Herbs As Medications Among Patients in a Tertiary Care Hospital in Western Saudi Arabia. | Cureus | doi 10.7759/cureus.19502 | PMC8668200
+- new | 2021 | 33816085 | MED | Appropriate use of essential oils and their components in the management of upper respiratory tract symptoms in patients with COVID-19. | J Herb Med | doi 10.1016/j.hermed.2021.100451 | PMC7997686
+- new | 2021 | 34868678 | MED | Effect of Antioxidants in the Treatment of COPD Patients: Scoping Review. | J Nutr Metab | doi 10.1155/2021/7463391 | PMC8635900
+- new | 2021 | 34221157 | MED | MyrliMax® and Low Back Pain: A Multicentric, Observational, Post-Marketing Surveillance Study in Indian Patients Suffering from Chronic Low Back Pain of Various Pain Inte | Maedica (Bucur) | doi 10.26574/maedica.2020.16.1.54 | PMC8224715
+- new | 2021 | 34055029 | MED | Prevalence of the Use of Herbal Medicines among Patients with Cancer: A Systematic Review and Meta-Analysis. | Evid Based Complement Alternat Med | doi 10.1155/2021/9963038 | PMC8149249
+- new | 2021 | 33556053 | MED | The use of complementary and alternative medicine among hypertensive and type 2 diabetic patients in Western Jamaica: A mixed methods study. | PLoS One | doi 10.1371/journal.pone.0245163 | PMC7870151
+- new | 2021 | 33615017 | MED | Prospects of nutritional interventions in the care of COVID-19 patients. | Heliyon | doi 10.1016/j.heliyon.2021.e06285 | PMC7879162
+- new | 2020 | 32869564 | MED | Acute Cystitis Symptom Score questionnaire for measuring patient-reported outcomes in women with acute uncomplicated cystitis: Clinical validation as part of a phase III  | Investig Clin Urol | doi 10.4111/icu.20200060 | PMC7458871
+- new | 2020 | 30955051 | MED | Post-cancer diagnosis dietary inflammatory potential is associated with survival among women diagnosed with colorectal cancer in the Women's Health Initiative. | Eur J Nutr | doi 10.1007/s00394-019-01956-z | PMC6778721
+- new | 2020 | 32689988 | MED | Complementary and alternative medicine use in coronary heart disease patients: a cross-sectional study from Palestine. | BMC Complement Med Ther | doi 10.1186/s12906-020-03028-w | PMC7372840
+- new | 2019 | 31909576 | MED | A shortened treatment with rosemary tea (rosmarinus officinalis) instead of glucose in patients with diabetes mellitus type 2 (TSD). | J Popul Ther Clin Pharmacol | doi 10.15586/jptcp.v26i4.634
+- new | 2019 | 31817885 | MED | Effect of a Herbal Therapy on Clinical Symptoms of Acute Lower Uncomplicated Urinary Tract Infections in Women: Secondary Analysis from a Randomized Controlled Trial. | Antibiotics (Basel) | doi 10.3390/antibiotics8040256 | PMC6963539
+- new | 2019 | 31450563 | MED | Tolerability and Safety of a Nutritional Supplement with Potential as Adjuvant in Colorectal Cancer Therapy: A Randomized Trial in Healthy Volunteers. | Nutrients | doi 10.3390/nu11092001 | PMC6769991
+- new | 2019 | 31191341 | MED | Efficacy of an All-Natural Polyherbal Mouthwash in Patients With Periodontitis: A Single-Blind Randomized Controlled Trial. | Front Physiol | doi 10.3389/fphys.2019.00632 | PMC6540781
+- new | 2019 | 31354852 | MED | Traditional Medicine and Its Role in the Management of Diabetes Mellitus: "Patients' and Herbalists' Perspectives". | Evid Based Complement Alternat Med | doi 10.1155/2019/2835691 | PMC6637672
+- new | 2019 | 30909573 | MED | Antibacterial and Biofilm Inhibitory Activity of Medicinal Plant Essential Oils Against <i>Escherichia coli</i> Isolated from UTI Patients. | Molecules | doi 10.3390/molecules24061161 | PMC6471185
+- new | 2019 | 31730022 | MED | Metabolomic profiles of induced pluripotent stem cells derived from patients with rheumatoid arthritis and osteoarthritis. | Stem Cell Res Ther | doi 10.1186/s13287-019-1408-5 | PMC6858676
+- new | 2019 | 30709023 | MED | <i>Origanum majorana</i> Essential Oil Inhalation during Neurofeedback Training Reduces Saliva Myeloperoxidase Activity at Session-1 in Bruxistic Patients. | J Clin Med | doi 10.3390/jcm8020158 | PMC6406666
+- new | 2019 | 31014007 | MED | The Long-Term Algae Extract (<i>Chlorella and Fucus sp</i>) and Aminosulphurate Supplementation Modulate SOD-1 Activity and Decrease Heavy Metals (Hg<sup>++</sup>, Sn) Le | Antioxidants (Basel) | doi 10.3390/antiox8040101 | PMC6523211
+- new | 2018 | 30519569 | MED | Should We Always Use Antibiotics after Urodynamic Studies in High-Risk Patients? | Biomed Res Int | doi 10.1155/2018/1607425 | PMC6241335
+- new | 2018 | 30231252 | MED | Non-Antibiotic Herbal Therapy (BNO 1045) versus Antibiotic Therapy (Fosfomycin Trometamol) for the Treatment of Acute Lower Uncomplicated Urinary Tract Infections in Wome | Urol Int | doi 10.1159/000493368 | PMC6262678
+- new | 2018 | 29314866 | MED | Spearmint Extract Improves Working Memory in Men and Women with Age-Associated Memory Impairment. | J Altern Complement Med | doi 10.1089/acm.2016.0379 | PMC5779242
+- new | 2017 | 30549845 | MED | Antimicrobial Potential of Rosmarinus officinalis Commercial Essential Oil in the Treatment of Vaginal Infections in Pregnant Women. | Nat Prod Commun | doi 10.1177/1934578x1701200136
+- new | 2017 | 29184581 | MED | Comparison of the Effect of Topical Application of Rosemary and Menthol for Musculoskeletal Pain in Hemodialysis Patients. | Iran J Nurs Midwifery Res | doi 10.4103/ijnmr.ijnmr_163_16 | PMC5684790
+- new | 2016 | 26850813 | MED | Evaluation of the efficacy of a polyherbal mouthwash containing Zingiber officinale, Rosmarinus officinalis and Calendula officinalis extracts in patients with gingivitis | Complement Ther Clin Pract | doi 10.1016/j.ctcp.2015.12.001
+- new | 2015 | 25900255 | MED | Construct validation of the dietary inflammatory index among postmenopausal women. | Ann Epidemiol | doi 10.1016/j.annepidem.2015.03.009 | PMC4433562
+- new | 2014 | 24815058 | MED | Protective effects of citrus and rosemary extracts on UV-induced damage in skin cell model and human volunteers. | J Photochem Photobiol B | doi 10.1016/j.jphotobiol.2014.04.007
+- new | 2014 | 24738695 | MED | Effect of the herbal combination Canephron N on diabetic nephropathy in patients with diabetes mellitus: results of a comparative cohort study. | J Altern Complement Med | doi 10.1089/acm.2013.0400
+- new | 2014 | 24269249 | MED | Effectiveness of Rosmarinus officinalis essential oil as antihypotensive agent in primary hypotensive patients and its influence on health-related quality of life. | J Ethnopharmacol | doi 10.1016/j.jep.2013.11.006
+- new | 2014 | 24707312 | MED | Essential oils for complementary treatment of surgical patients: state of the art. | Evid Based Complement Alternat Med | doi 10.1155/2014/726341 | PMC3953654
+- new | 2012 | 22196568 | MED | Complementary and alternative medicine use amongst Palestinian diabetic patients. | Complement Ther Clin Pract | doi 10.1016/j.ctcp.2011.09.001
+- new | 2011 | 20734322 | MED | Rosemary extracts improve flow-mediated dilatation of the brachial artery and plasma PAI-1 activity in healthy young volunteers. | Phytother Res | doi 10.1002/ptr.3276
+- new | 2007 | 17684134 | MED | A pilot and feasibility study on the effects of naturopathic botanical and dietary interventions on sex steroid hormone metabolism in premenopausal women. | Cancer Epidemiol Biomarkers Prev | doi 10.1158/1055-9965.epi-06-0938
+- new | 2007 | 18389773 | MED | Role of multi-component functional foods in the complex treatment of patients with advanced breast cancer. | Rev Med Chir Soc Med Nat Iasi
+- new | 2001 | US6242012 | PAT | Herbal composition for promoting hormonal balance in women and methods of using same | 
+- new | 1997 | 9490339 | MED | [Effects of essential oil on lipid peroxidation and lipid metabolism in patients with chronic bronchitis]. | Klin Med (Mosk)
+
+## sambucus-nigra (Sambucus nigra)
+
+### non-MEDLINE, human-study wording - 207 hits
+- new | 2026 | PPR1348999 | PPR | Effectiveness of Remotely Monitored Home-Based Baduanjin using Wearable Devices for Elder Patients after coronary revascularization: A Study Protocol for a Randomized Con |  | doi 10.21203/rs.3.rs-6538568/v1
+- new | 2026 | PPR1317478 | PPR | Association between β blockers use and 30-day mortality in elder patients with sepsis complicated by atrial fibrillation: Data from the MIMIC-IV database |  | doi 10.21203/rs.3.rs-10030785/v1
+- new | 2026 | PPR1254974 | PPR | Beyond Elder Care: The Spillover Effects of Long-Term Care Insurance on Urban Public Services in China |  | doi 10.21203/rs.3.rs-9665043/v1
+- new | 2025 | PMC12759503 | PMC | Adapting Elder Mistreatment Screening for Home-Based Primary Care: The DETECT-RPC Project | Innov Aging | PMC12759503
+- new | 2025 | PMC12762471 | PMC | Multidisciplinary Clinicians’ Perspectives on Elder Mistreatment: Challenges and Opportunities in Primary Care | Innov Aging | PMC12762471
+- new | 2025 | PMC12761509 | PMC | Family Caregiver Perspectives on Elder Mistreatment and Caring for Older Adults with Cognitive Impairment | Innov Aging | PMC12761509
+- new | 2025 | PMC12763218 | PMC | Family System and Trauma-Informed Care for Elder Abuse Consultation Team Research | Innov Aging | PMC12763218
+- new | 2025 | PMC12759652 | PMC | Disseminating an Elder Mistreatment Electronic Health Record Tool in a National Health System | Innov Aging | PMC12759652
+- new | 2025 | PMC12759660 | PMC | Screening for Elder Mistreatment Risk in Caregivers: Clinician Perspectives on Barriers, Feasibility, & Response | Innov Aging | PMC12759660
+- new | 2025 | PMC12763148 | PMC | Leveraging the Elder Mistreatment Emergency Department Toolkit to Meet CMS’s Age-Friendly Hospital Measures | Innov Aging | PMC12763148
+- new | 2025 | PPR1114002 | PPR | IgM hyposialylation drives podocyte injury in pediatric and young adult patients with podocytopathies |  | doi 10.1101/2025.11.04.686538
+- new | 2025 | PPR1052512 | PPR | SAVE: Securing Avatars in Virtual Healthcare through Environmental Fingerprinting for Elder Safety Monitoring |  | doi 10.20944/preprints202507.1530.v1
+- new | 2024 | PMC11690693 | PMC | POLICY SERIES: TRENDS IN ELDER ABUSE AND INITIATIVES TO PREVENT ELDER ABUSE IN JAPAN DURING THE PAST 20 YEARS | Innov Aging | PMC11690693
+- new | 2024 | PMC11690732 | PMC | TRENDS IN NATIONWIDE RESEARCH OUTCOMES ON ELDER ABUSE AND POLICY DEVELOPMENT TO PREVENT ELDER ABUSE IN JAPAN | Innov Aging | PMC11690732
+- new | 2024 | PMC11689877 | PMC | A COMMUNITY APPROACH TO REDUCE AND PREVENT ELDER ABUSE | Innov Aging | PMC11689877
+- new | 2024 | PMC11690891 | PMC | INTERVENTIONS TO PREVENT ELDER MISTREATMENT WITH FAMILY CAREGIVERS OF PERSONS LIVING WITH DEMENTIA | Innov Aging | PMC11690891
+- new | 2024 | PPR833543 | PPR | The impact of elder abuse training on subacute health providers and older adults: Study protocol for a randomized control trial |  | doi 10.21203/rs.3.rs-3891479/v1
+- new | 2024 | PMC11688843 | PMC | APPROACHES FOR INCORPORATING OLDER ADULT PERSPECTIVES IN ELDER MISTREATMENT PREVENTION | Innov Aging | PMC11688843
+- new | 2024 | PMC11689643 | PMC | USE OF MOTIVATIONAL INTERVIEWING TO INTERVENE ELDER ABUSE: A RANDOMIZED CONTROL TRIAL | Innov Aging | PMC11689643
+- new | 2024 | PMC11689031 | PMC | THE ROLE OF APPRAISAL IN CAREGIVER CHARACTERISTICS ASSOCIATED WITH ELDER NEGLECT | Innov Aging | PMC11689031
+- new | 2024 | PMC11688955 | PMC | ELDER MISTREATMENT AND COGNITIVE FUNCTIONING: FINDINGS AMONG CHINESE OLDER ADULTS IN THE US | Innov Aging | PMC11688955
+- new | 2024 | PMC11690345 | PMC | IMPROVING ELDER MISTREATMENT SCREENING AND INTERVENTION IN DEMENTIA: EARLY NIA RESEARCH FINDINGS | Innov Aging | PMC11690345
+- new | 2024 | PMC11688937 | PMC | PREVENTING ELDER MISTREATMENT THROUGH THE COACH INTERVENTION: WHAT’S RISK GOT TO DO WITH IT? | Innov Aging | PMC11688937
+- new | 2024 | PMC11688763 | PMC | SELF-NEGLECT CO-OCCURS WITH AND IS A RISK FACTOR FOR ELDER MISTREATMENT | Innov Aging | PMC11688763
+- new | 2024 | PMC11690215 | PMC | RISK FACTORS AND PROTECTIVE FACTORS OF VICTIMS OF ELDER ABUSE IN THE PHILIPPINES | Innov Aging | PMC11690215
+- new | 2024 | PPR785284 | PPR | A Novel Fluorescent Immuno-Lectin Assay to Identify Osteoarthritis Associated Glycoforms of Lubricin |  | doi 10.1101/2024.01.02.23300279
+- new | 2024 | PMC11690252 | PMC | SOCIAL INVISIBILITY OF ELDER ABUSE IN FAMILIES: A PHENOMENON IN PHILIPPINE SOCIETY | Innov Aging | PMC11690252
+- new | 2024 | PMC11690592 | PMC | DEVELOPMENT OF A RISK SCREEN OF ELDER ABUSE IN CAREGIVERS OF PEOPLE LIVING WITH DEMENTIA | Innov Aging | PMC11690592
+- new | 2024 | PMC11691540 | PMC | ELDER MISTREATMENT RISK FACTORS AMONG HOME HEALTH CARE SERVICE RECIPIENTS | Innov Aging | PMC11691540
+- new | 2024 | PMC11690471 | PMC | DEVELOPING A RISK ASSESSMENT AND BRIEF INTERVENTION FOR ELDER MISTREATMENT: A MIXED-METHODS STUDY | Innov Aging | PMC11690471
+- new | 2024 | PMC11689110 | PMC | IMPACT OF GENDER FOR ELDER MISTREATMENT WITHIN DEMENTIA FAMILY CAREGIVING | Innov Aging | PMC11689110
+- new | 2024 | PMC11691801 | PMC | COLLABORATION FACTORS IN ADDRESSING ELDER IPV: COMMUNITY CENTERS AND DV SUPPORT AGENCIES IN JAPAN | Innov Aging | PMC11691801
+- new | 2024 | PPR832912 | PPR | Pancreatic surgery is safe in elder patients with PDAC |  | doi 10.21203/rs.3.rs-4144074/v1
+- new | 2024 | PMC11691575 | PMC | IMPROVING ELDER HEALTH BEHAVIORS AND STUDENT LEARNING OUTCOMES WITH HOPE-BASED INTERPROFESSIONAL EDUCATION PROGRAM | Innov Aging | PMC11691575
+- new | 2024 | PMC11689929 | PMC | US INDIAN HEALTH SERVICE: DEVELOPING A COMMUNITY OF PRIMARY CARE CHAMPIONS FOR TRIBAL ELDER CARE | Innov Aging | PMC11689929
+- new | 2024 | PMC11553177 | PMC | NCOG-22. ELDER AGE INSTEAD OF LOW EDUCATION PREDICTS POOR LANGUAGE FUNCTION IN RECURRENT LEFT HEMISPHERIC DIFFUSE GLIOMA PATIENTS | Neuro Oncol | PMC11553177
+- new | 2024 | PPR822411 | PPR | Awareness and knowledge of elder abuse and neglect among dental practitioners in Southwestern England. |  | doi 10.21203/rs.3.rs-3970640/v1
+- new | 2024 | PPR813376 | PPR | Development and Validation of a Nomogram Predicting Over all and Cancer-specific Survival in Elder Patients With Brain Ependymoma |  | doi 10.21203/rs.3.rs-3958265/v1
+- new | 2024 | PPR942700 | PPR | A single center cross-sectional study on the efficacy of low-dose cytarabine and aclramycin combined with granulocyte colony-stimulating factor (CAG regimen) in elder adu |  | doi 10.1101/2024.11.18.24317527
+- new | 2023 | PMC10736441 | PMC | PREVENTING ELDER MISTREATMENT THROUGH A CAREGIVER-FOCUSED INTERVENTION: THE COACH PROGRAM | Innov Aging | PMC10736441
+- new | 2023 | PPR625442 | PPR | Opioid-Free General Anesthesia for Elder Patient Undergoing Transurethral Urologic Surgery |  | doi 10.2139/ssrn.4345532
+- new | 2023 | PMC10737977 | PMC | RESEARCH ON SUPPORT FOR ELDER CARE IN DIFFERENT CULTURES AND SETTINGS | Innov Aging | PMC10737977
+- new | 2023 | PMC10738728 | PMC | HETERONORMATIVE SILENCES AND QUEER LONGINGS IN LGBTQ PEOPLE’S EXPERIENCES OF ELDER CARE AND HOME | Innov Aging | PMC10738728
+- new | 2023 | PMC10735509 | PMC | FEASIBILITY OF A DIGITAL ELDER MISTREATMENT INTERVENTION FOR COGNITIVELY IMPAIRED OLDER ADULTS | Innov Aging | PMC10735509
+- new | 2023 | PMC10736941 | PMC | THE EMED TOOLKIT: COLLABORATION TO IMPROVE ELDER MISTREATMENT SCREENING AND RESPONSE | Innov Aging | PMC10736941
+- new | 2023 | PMC10736940 | PMC | A RESEARCHER–PRACTITIONER COLLABORATION ON MEASURING SUCCESS IN ELDER MISTREATMENT INTERVENTION | Innov Aging | PMC10736940
+- new | 2023 | PMC10737477 | PMC | LOCKED IN SUFFERING: UNLOCKING HOPE AND IMPROVING CARE FOR ELDER INMATES: A CALL FOR ACTION | Innov Aging | PMC10737477
+- new | 2023 | PPR728040 | PPR | A clinical case report of Pneumonia caused by COVID-19 in a disabled elder |  | doi 10.21203/rs.3.rs-3279856/v1
+- new | 2023 | PPR610527 | PPR | Decreased Hospital-Acquired Respiratory Infections among elder Inpatients in General Hospital during the COVID-19 Pandemic |  | doi 10.21203/rs.3.rs-2521159/v1
+- new | 2023 | PMC10737523 | PMC | IDENTIFYING NEW INTERVENTION TARGETS TO REDUCE RISK OF ELDER ABUSE AND NEGLECT IN DEMENTIA FAMILY CAREGIVING | Innov Aging | PMC10737523
+- new | 2023 | PMC10737894 | PMC | SELF-COMPASSION, DAILY STRESS APPRAISALS, AND ODDS OF ELDER ABUSE AND NEGLECT IN DEMENTIA FAMILY CAREGIVING | Innov Aging | PMC10737894
+- new | 2023 | PMC10736323 | PMC | PREVALENCE OF ELDER ABUSE AND NEGLECT OF PERSONS WITH DEMENTIA: A SYSTEMATIC REVIEW AND META-ANALYSIS | Innov Aging | PMC10736323
+- new | 2023 | PMC10735944 | PMC | RELATIONSHIP BETWEEN INFORMAL AND FORMAL HELP-SEEKING BEHAVIORS FOR ELDER MISTREATMENT AMONG CHINESE IMMIGRANTS | Innov Aging | PMC10735944
+- new | 2023 | PMC10738042 | PMC | DEVELOPING A SCALE TO MEASURE NEGLECT SEVERITY: THE HEALTH-RELATED SEVERITY IN ELDER NEGLECT SCALE | Innov Aging | PMC10738042
+- new | 2023 | PMC10737422 | PMC | FACTORS ASSOCIATED WITH HELP-SEEKING AMONG US CHINESE OLDER ADULTS WHO REPORTED ELDER MISTREATMENT | Innov Aging | PMC10737422
+- new | 2022 | PPR555041 | PPR | Potential use of Immunodaat® (Botanical extract of Elderberry -Sambucus Nigra L.) in the management of Post Covid-19 symptoms- a comparative, multi-centric, randomized, c |  | doi 10.1101/2022.10.04.22280680
+- new | 2022 | PMC9770552 | PMC | INVESTIGATING THE CONNECTION BETWEEN AGEISM AND ELDER ABUSE | Innov Aging | PMC9770552
+- new | 2022 | PMC9766572 | PMC | SELF-ADMINISTRATED ELDER ABUSE INTERVENTION FOR OLDER ADULTS WITH COGNITIVE IMPAIRMENT | Innov Aging | PMC9766572
+- new | 2022 | PMC9765729 | PMC | ELDER MISTREATMENT, MORTALITY, AND HOSPITAL READMISSION AMONG MEDICARE BENEFICIARIES, 2015–2018 | Innov Aging | PMC9765729
+- new | 2022 | PMC9765826 | PMC | THE ELDER MISTREATMENT EMERGENCY DEPARTMENT TOOLKIT: ADDRESSING ELDER MISTREATMENT DURING COVID-19 AND BEYOND | Innov Aging | PMC9765826
+- new | 2022 | PMC9766766 | PMC | A DIGITAL ELDER ABUSE INTERVENTION FOR THE EMERGENCY DEPARTMENT | Innov Aging | PMC9766766
+- new | 2022 | PMC9766335 | PMC | IMPLEMENTATION OF THE ELDER MISTREATMENT EMERGENCY DEPARTMENT TOOLKIT AT HEYWOOD HOSPITAL | Innov Aging | PMC9766335
+- new | 2022 | PMC9766908 | PMC | ELDER ABUSE SCREENING PRACTICES IN THE VETERANS HEALTH ADMINISTRATION: RESULTS FROM A NATIONWIDE EVALUATION | Innov Aging | PMC9766908
+- new | 2022 | PMC9770147 | PMC | EMERGENCY DEPARTMENT: ADULT PROTECTIVE SERVICES RELATIONSHIP IN RESPONSE TO ELDER MISTREATMENT | Innov Aging | PMC9770147
+- new | 2022 | PMC9766138 | PMC | IMPLEMENTATION OF THE ELDER MISTREATMENT EMERGENCY DEPARTMENT TOOLKIT AT LYNDON B. JOHNSON HOSPITAL | Innov Aging | PMC9766138
+- new | 2022 | PMC9770428 | PMC | A POLICY ANALYSIS OF ELDER ABUSE PREVENTION LEGISLATION: TRANSLATION OF NATIONAL INITIATIVES TO THE STATE LEVEL | Innov Aging | PMC9770428
+- new | 2022 | PMC9770292 | PMC | COGNITIVE FUNCTION AND HELP-SEEKING AMONG US CHINESE OLDER ADULTS WITH ELDER MISTREATMENT | Innov Aging | PMC9770292
+- new | 2021 | PMC8682631 | PMC | Is “Culture” Needed in Aboriginal Elder Care Station? An Study from the Perspective of Service Providers | Innov Aging | PMC8682631
+- new | 2021 | PPR364280 | PPR | Social Care for the Elder Disabled Women in Urban China: The Roles of Community |  | doi 10.21203/rs.3.rs-649706/v1
+- new | 2021 | PMC9480164 | PMC | Paraphrenia in modern times? Revisiting an elder concept | Eur Psychiatry | PMC9480164
+- new | 2021 | PMC8970564 | PMC | The Elder Justice Act and the Pandemic | Innov Aging | PMC8970564
+- new | 2021 | PMC8680544 | PMC | Recognizing and Intervening on Elder Abuse, Neglect, and Exploitation in the Age of COVID-19 | Innov Aging | PMC8680544
+- new | 2021 | PMC8754727 | PMC | Elder Abuse During the COVID-19 Pandemic: Prevalence, Risk, and Protective Factors | Innov Aging | PMC8754727
+- new | 2021 | PMC8754726 | PMC | Changes in Elder Mistreatment Risk Factors Reported by Caregivers of Older Adults During the COVID‐19 Pandemic | Innov Aging | PMC8754726
+- new | 2021 | PMC8335434 | PMC | 66 Impact of COVID-19 on Home-Based Community Paramedicine and High-Risk Elder Patients | Ann Emerg Med | PMC8335434
+- new | 2021 | PMC8682507 | PMC | Patient-Centered Digital Screener for Elder Abuse in the Emergency Department | Innov Aging | PMC8682507
+- new | 2020 | PMC7347422 | PMC | Sambucus nigra (black elder) as alternative treatment for cold and flu | Advances in Traditional Medicine | PMC7347422
+- new | 2020 | PPR193121 | PPR | Effects of remifentanil-propofol combined with dexmedetomidine on cognitive dysfunction in elder patients after ureteroscopic holmium laser lithotripsy: A double-blind ra |  | doi 10.21203/rs.3.rs-19913/v1
+- new | 2020 | PPR234070 | PPR | Antiviral activity of plant juices and green tea against SARS-CoV-2 and influenza virus  <i>in vitro</i> |  | doi 10.1101/2020.10.30.360545
+- new | 2020 | PMC7740331 | PMC | Systems Addressing Frail Elder Care: An Implementation Study | Innov Aging | PMC7740331
+- new | 2020 | PPR133997 | PPR | Prevalence and Associated Factors for Frailty among Elder Patients in China: A multicenter cross-sectional study |  | doi 10.21203/rs.2.13603/v3
+- new | 2020 | PPR126897 | PPR | Durvalumab in frail and elder patients with stage four NSCLC: Study protocol of the randomized phase II DURATION trial |  | doi 10.21203/rs.2.16770/v3
+- new | 2020 | PMC7742274 | PMC | Concerned Family Members’ Help-Seeking in Elder Family Financial Exploitation | Innov Aging | PMC7742274
+- new | 2020 | PMC7743726 | PMC | Digital Health Tool to Assist Older Adults in Self-Disclosing Elder Mistreatment | Innov Aging | PMC7743726
+- new | 2019 | PMC7213274 | PMC | COT-16 INDICATION OF SYSTEMIC THERAPY FOR ELDER PATIENTS WITH BRAIN TUMORS: A SYSTEMATIC REVIEW AND PERSPECTIVE | Neurooncol Adv | PMC7213274
+- new | 2019 | PMC6845405 | PMC | WHAT DOES SUCCESS MEAN IN THE CONTEXT OF ELDER ABUSE INTERVENTION FROM THE PERSPECTIVE OF VICTIMS? | Innov Aging | PMC6845405
+- new | 2018 | PMC6228756 | PMC | Elder Abuse, Mistreatment, and Interventions | Innov Aging | PMC6228756
+- new | 2018 | PMC6228749 | PMC | ELDER ABUSE SUBTYPES REPORTED TO THE NATIONAL CENTER ON ELDER ABUSE | Innov Aging | PMC6228749
+- new | 2018 | PMC6239857 | PMC | MENTAL HEALTH AND ELDER ABUSE AMONG CONGREGATE MEAL PARTICIPANTS IN NYC | Innov Aging | PMC6239857
+- new | 2018 | PMC6228314 | PMC | SERVICE NEEDS AMONG OLDER ADULTS AT RISK FOR FINANCIAL ELDER ABUSE | Innov Aging | PMC6228314
+- new | 2018 | PMC6239772 | PMC | PTSD AMONG ELDER ABUSE VICTIMS WITH DEPRESSED MOOD | Innov Aging | PMC6239772
+- new | 2018 | PMC6228520 | PMC | PERSON-CENTRIC CARE OF ELDER MISTREATMENT: LESSONS LEARNED FROM A SERVICE ADVOCATE | Innov Aging | PMC6228520
+- new | 2017 | PMC6247297 | PMC | THE TRANSLATING RESEARCH IN ELDER CARE (TREC) PROGRAM: AN INTRODUCTION | Innov Aging | PMC6247297
+- new | 2017 | PMC6185424 | PMC | MEANS OF PREVENTION OF ELDER ABUSE—THE ISRAELI EXPERIENCE | Innov Aging | PMC6185424
+- new | 2017 | PMC6185317 | PMC | NON-GOVERNMENTAL ORGANIZATIONS AND VOLUNTEER ACTIONS TO COUNTER ELDER ABUSE | Innov Aging | PMC6185317
+- new | 2017 | PMC6184869 | PMC | INTERVENTIONS AND TRAINING TO PREVENT ELDER ABUSE: CANADIAN EXAMPLES | Innov Aging | PMC6184869
+- new | 2017 | PMC6241837 | PMC | CAREGIVER SUPPORT AFTER HOSPITAL DISCHARGE: THE DUKE ELDER FAMILY CAREGIVER TRAINING (DEFT) PROGRAM | Innov Aging | PMC6241837
+- new | 2017 | PMC6241589 | PMC | THE CONCEPTION OF ELDER CARE IN THE CONTEXT OF LONG-TERM CARE POLICY IN KOREA | Innov Aging | PMC6241589
+- new |  | PMC13442118 | PMC | Frailty and Elder Abuse Among Older Adults in Outpatient Settings in Nigeria: A Case-Control Study | Eur Psychiatry | PMC13442118
+- new |  | PMC10622101 | PMC | Elder Care in Crisis: How the Social Safety Net Fails Families | Fam Med | PMC10622101
+
+### non-MEDLINE, review / safety wording - 137 hits
+- new | 2026 | PMC13802705 | PMC | Dose-Related Effects of Sambucus nigra Fruit Extract on Metabolic Dysfunction, Gut-Barrier and Endocrine Markers, Redox Homeostasis, and Multiorgan Histology in High-Fat- | Life (Basel) | PMC13802705
+- new | 2026 | PPR1374037 | PPR | Protein–Single-Walled Carbon Nanotube Interfaces: An Exploratory Docking and Molecular Dynamics Study |  | doi 10.20944/preprints202611.2200.v1
+- new | 2026 | PPR1352903 | PPR | Elder Caregiving in Southeast Asia: A Systematic Review of Cultural Norms, Care Burdens, Carer Support and Policy Gaps |  | doi 10.21203/rs.3.rs-8671736/v1
+- new | 2026 | PPR1317478 | PPR | Association between β blockers use and 30-day mortality in elder patients with sepsis complicated by atrial fibrillation: Data from the MIMIC-IV database |  | doi 10.21203/rs.3.rs-10030785/v1
+- new | 2026 | PPR1266816 | PPR | Elder-Sim: A Psychometrically Validated Platform for Personality-Stable Elderly Digital Twins |  | doi 10.64898/2026.03.25.26349036
+- new | 2026 | PMC13787850 | PMC | Replicating the RISE-APS elder abuse and self-neglect intervention model in new contexts: a pre-implementation analysis | Innov Aging | PMC13787850
+- new | 2025 | PMC12760450 | PMC | Prevalence of Elder Abuse and Sub-types in South Asia: A Systematic Review and Meta-analysis | Innov Aging | PMC12760450
+- new | 2025 | PMC12436756 | PMC | Discrimination and Elder Abuse Toward Elderly LGBT Individuals:A Systematic Review | Eur Psychiatry | PMC12436756
+- new | 2025 | PMC12763075 | PMC | Social Networks Reshape the Impact of Elder Abuse on Social Well-being: Examining Urban-Rural Disparities in China | Innov Aging | PMC12763075
+- new | 2025 | PMC12761402 | PMC | Policy Series: Fifty Plus: Elder Abuse - Past, Present and Future | Innov Aging | PMC12761402
+- new | 2025 | PPR1020397 | PPR | Interaction of Ricin and RCA-I lectin with Human Serum Glycoproteins and Lung Cells |  | doi 10.1101/2025.05.08.652972
+- new | 2025 | PMC12777052 | PMC | 282 Hidden mechanisms and various faces of racism in elder care: lived experiences of racialized care recipients and care workers in Belgium | Eur J Public Health | PMC12777052
+- new | 2024 | PMC11689867 | PMC | ELDER ABUSE IN OLDER ADULTS WITH DEMENTIA: PROTECTIVE FACTORS AND ADVERSE EFFECTS | Innov Aging | PMC11689867
+- new | 2024 | PPR810406 | PPR | The effect of Sambucus nigra fruit extract in three chemotropic cycles of cisplatin drug on male reproductive system of mice |  | doi 10.21203/rs.3.rs-3974684/v1
+- new | 2024 | PMC11690671 | PMC | UPDATED SYSTEMATIC REVIEW TO IDENTIFY INTERVENTIONS TO COMBAT ELDER NEGLECT TARGETING CAREGIVERS | Innov Aging | PMC11690671
+- new | 2024 | PMC11691342 | PMC | THE EFFECT OF SOCIAL SUPPORT ON THE RELATIONSHIP BETWEEN ELDER MISTREATMENT AND HEALTH IN OLDER CHINESE IMMIGRANTS | Innov Aging | PMC11691342
+- new | 2024 | PMC11691265 | PMC | BARRIERS AND FACILITATORS TO HELP-SEEKING FOR ELDER ABUSE: A QUALITATIVE STUDY FROM THE PERSPECTIVE OF VICTIMS | Innov Aging | PMC11691265
+- new | 2024 | PMC11691363 | PMC | LONELINESS AND RISK OF ELDER ABUSE: DOES SIZE OF SOCIAL NETWORK MAKE A DIFFERENCE? | Innov Aging | PMC11691363
+- new | 2024 | PMC11713676 | PMC | Detecting Undue Harm Arising From Elder Abuse Screening: Innovative Methods from the EASI‐ltc© Pilot Study | Alzheimers Dement | PMC11713676
+- new | 2024 | PPR942700 | PPR | A single center cross-sectional study on the efficacy of low-dose cytarabine and aclramycin combined with granulocyte colony-stimulating factor (CAG regimen) in elder adu |  | doi 10.1101/2024.11.18.24317527
+- new | 2024 | PMC11553177 | PMC | NCOG-22. ELDER AGE INSTEAD OF LOW EDUCATION PREDICTS POOR LANGUAGE FUNCTION IN RECURRENT LEFT HEMISPHERIC DIFFUSE GLIOMA PATIENTS | Neuro Oncol | PMC11553177
+- new | 2023 | PMC10736323 | PMC | PREVALENCE OF ELDER ABUSE AND NEGLECT OF PERSONS WITH DEMENTIA: A SYSTEMATIC REVIEW AND META-ANALYSIS | Innov Aging | PMC10736323
+- new | 2023 | PPR671652 | PPR | The Relationship between Social Support and Dimensions of Elder Maltreatment: A Systematic Review and Meta-analysis |  | doi 10.21203/rs.3.rs-2911103/v1
+- new | 2023 | PMC10737977 | PMC | RESEARCH ON SUPPORT FOR ELDER CARE IN DIFFERENT CULTURES AND SETTINGS | Innov Aging | PMC10737977
+- new | 2023 | PPR728040 | PPR | A clinical case report of Pneumonia caused by COVID-19 in a disabled elder |  | doi 10.21203/rs.3.rs-3279856/v1
+- new | 2023 | PMC10737894 | PMC | SELF-COMPASSION, DAILY STRESS APPRAISALS, AND ODDS OF ELDER ABUSE AND NEGLECT IN DEMENTIA FAMILY CAREGIVING | Innov Aging | PMC10737894
+- new | 2023 | PMC9991287 | PMC | A70 FECAL-ADHERENT MUCUS IS A NON-INVASIVE SOURCE OF PRIMARY HUMAN MUC2 FOR STRUCTURAL AND FUNCTIONAL CHARACTERIZATION IN HEALTH AND DISEASE | J Can Assoc Gastroenterol | PMC9991287
+- new | 2023 | PMC10738872 | PMC | DETECTING UNDUE HARM ARISING FROM ELDER ABUSE SCREENING: INNOVATIVE METHODS FROM THE EASI-LTC© PILOT STUDY | Innov Aging | PMC10738872
+- new | 2023 | PMC10739208 | PMC | USING INTERPERSONAL RELATIONSHIPS AND SOCIAL NETWORK TO UNDERSTAND ELDER MISTREATMENT RECURRENCE | Innov Aging | PMC10739208
+- new | 2023 | PMC10738278 | PMC | MENTAL HEALTH RISKS SIGNIFIED BY THE CO-EXPERIENCE OF ELDER MISTREATMENT AND SOCIAL ISOLATION | Innov Aging | PMC10738278
+- new | 2023 | PMC10735808 | PMC | DYNAMIC IMPACTS OF FAMILY CONFLICT ON ELDER ABUSE AND NEGLECT AMONG ADRD CAREGIVERS | Innov Aging | PMC10735808
+- new | 2023 | PMC10735372 | PMC | CAREGIVER AND VETERAN PERCEPTIONS OF THE REFINING ELDER CARE IN AMERICA PROGRAM (RECAP) | Innov Aging | PMC10735372
+- new | 2023 | PPR625442 | PPR | Opioid-Free General Anesthesia for Elder Patient Undergoing Transurethral Urologic Surgery |  | doi 10.2139/ssrn.4345532
+- new | 2023 | PPR610527 | PPR | Decreased Hospital-Acquired Respiratory Infections among elder Inpatients in General Hospital during the COVID-19 Pandemic |  | doi 10.21203/rs.3.rs-2521159/v1
+- new | 2023 | PMC10737523 | PMC | IDENTIFYING NEW INTERVENTION TARGETS TO REDUCE RISK OF ELDER ABUSE AND NEGLECT IN DEMENTIA FAMILY CAREGIVING | Innov Aging | PMC10737523
+- new | 2023 | PMC10738741 | PMC | DISRUPTED SOCIAL LIFE MEDIATES ASSOCIATION BETWEEN PANDEMIC WORRIES AND RISK OF ELDER ABUSE | Innov Aging | PMC10738741
+- new | 2023 | PMC10738977 | PMC | A STUDY ON COOPERATION BETWEEN COMMUNITY COMPREHENSIVE SUPPORT CENTERS AND DV SUPPORT AGENCIES TO SOLVE ELDER ABUSE | Innov Aging | PMC10738977
+- new | 2023 | PMC10738650 | PMC | HOW FILIAL PIETY INFLUENCES THE LINKS BETWEEN ELDER ABUSE, SOCIAL WELL-BEING, AND DEPRESSION AMONG CHINESE SENIORS | Innov Aging | PMC10738650
+- new | 2023 | PMC10735970 | PMC | USING RISE IN CASES DIVERTING DEFENDANTS IN ELDER ABUSE SCENARIOS OUT OF THE CRIMINAL SYSTEM AND INTO TREATMENT | Innov Aging | PMC10735970
+- new | 2023 | PPR643901 | PPR | ­­Assessment of Joint and Interactive Effects of Multimorbidity and Chronic Pain on ADRD Risk in the Elder Population |  | doi 10.21203/rs.3.rs-2743755/v1
+- new | 2022 | PPR555041 | PPR | Potential use of Immunodaat® (Botanical extract of Elderberry -Sambucus Nigra L.) in the management of Post Covid-19 symptoms- a comparative, multi-centric, randomized, c |  | doi 10.1101/2022.10.04.22280680
+- new | 2022 | IND607953038 | AGR | Macroecological patterns of fruit infestation rates by the invasive fly Drosophila suzukii in the wild reservoir host plant Sambucus nigra | Agric For Entomol | doi 10.1111/afe.12520
+- new | 2022 | PMC9767169 | PMC | MOTIVATIONAL FACTORS AFFECTING THE INTENTION TO VOLUNTEER IN ELDER CARE AGENCIES: A PILOT STUDY | Innov Aging | PMC9767169
+- new | 2022 | PPR586281 | PPR | Elder abuse in Saudi Arabia: A systematic review |  | doi 10.12688/f1000research.128295.1
+- new | 2022 | PMC9765729 | PMC | ELDER MISTREATMENT, MORTALITY, AND HOSPITAL READMISSION AMONG MEDICARE BENEFICIARIES, 2015–2018 | Innov Aging | PMC9765729
+- new | 2022 | PMC9766572 | PMC | SELF-ADMINISTRATED ELDER ABUSE INTERVENTION FOR OLDER ADULTS WITH COGNITIVE IMPAIRMENT | Innov Aging | PMC9766572
+- new | 2022 | PMC9766766 | PMC | A DIGITAL ELDER ABUSE INTERVENTION FOR THE EMERGENCY DEPARTMENT | Innov Aging | PMC9766766
+- new | 2022 | PMC9765281 | PMC | INCREASING RISK FOR ELDER MISTREATMENT? A QUALITATIVE STUDY OF CAREGIVER EXPERIENCES DURING COVID-19 | Innov Aging | PMC9765281
+- new | 2022 | PPR526901 | PPR | Assessment of Joint and Interactive Effects of Multimorbidity and Chronic Pain on ADRD Risk in the Elder Population |  | doi 10.1101/2022.08.02.22278338
+- new | 2022 | PMC9301796 | PMC | Mortality of elder financial and psychological abuse victims in rural Malaysia: a prospective cohort study | BMJ Open | PMC9301796
+- new | 2021 | PMC9480164 | PMC | Paraphrenia in modern times? Revisiting an elder concept | Eur Psychiatry | PMC9480164
+- new | 2021 | PMC8679543 | PMC | A Scoping Review of Financial Elder Exploitation Interventions | Innov Aging | PMC8679543
+- new | 2021 | PPR279011 | PPR | Gastric Ganglioneuroblastoma in an Elder Man: A Case Report and Literature Review |  | doi 10.21203/rs.3.rs-191276/v1
+- new | 2021 | PMC8680997 | PMC | Structural and Individual Ageism Predicts Elder Abuse Proclivity and Perpetration | Innov Aging | PMC8680997
+- new | 2021 | PPR385381 | PPR | Venetoclax and Azacitidine Therapy in Elder Acute Myeloid Leukemia: A Retrospective Evaluation of Real-World Experience |  | doi 10.21203/rs.3.rs-738145/v1
+- new | 2021 | PMC8681006 | PMC | Interviewing an Elder: Students’ Perceptions of Change in an Introduction to Gerontology Classroom | Innov Aging | PMC8681006
+- new | 2021 | PPR356612 | PPR | Duration of Acute Kidney Injury and in-hospital Mortality in Elder Patients With Severe COVID-19: a Retrospective Cohort Study |  | doi 10.21203/rs.3.rs-580679/v1
+- new | 2021 | PMC8679613 | PMC | An Ecological Model of Risk Factors in Older Adults With Repeated Exposure to Elder Mistreatment | Innov Aging | PMC8679613
+- new | 2021 | PMC8680248 | PMC | Dehumanization of Older Family Members: Novel Determinants of Elder Abuse Proclivity by Caregivers | Innov Aging | PMC8680248
+- new | 2021 | PMC8680684 | PMC | Incidence and Risk Factors of Elder Mistreatment in the Community: A Longitudinal Population-Based Study | Innov Aging | PMC8680684
+- new | 2021 | PMC8681147 | PMC | Changing Family Relationships During the COVID-19 Pandemic: The Case of Elder Abuse | Innov Aging | PMC8681147
+- new | 2021 | PMC8682338 | PMC | Measuring Utility of VASS Elder Mistreatment Screener Within Community Dwelling U.S. Chinese Older Adults | Innov Aging | PMC8682338
+- new | 2021 | PPR393733 | PPR | Use, Usability, And Impact of A Tool To Support Conversations About End-of-Life Preferences In Residential Elder Care – A Qualitative Study of Staff Experiences |  | doi 10.21203/rs.3.rs-847408/v1
+- new | 2020 | PMC7347422 | PMC | Sambucus nigra (black elder) as alternative treatment for cold and flu | Advances in Traditional Medicine | PMC7347422
+- new | 2020 | IND606351879 | AGR | Microencapsulation of polyphenols - The specific case of the microencapsulation of Sambucus Nigra L. extracts - A review | Trends in food science & technology.
+- new | 2020 | PPR234070 | PPR | Antiviral activity of plant juices and green tea against SARS-CoV-2 and influenza virus  <i>in vitro</i> |  | doi 10.1101/2020.10.30.360545
+- new | 2020 | PMC7743825 | PMC | The Elder Justice Coalition and Reauthorizing the Elder Justice Act | Innov Aging | PMC7743825
+- new | 2020 | PMC7740715 | PMC | Wicked Problems: An Exploration of Elder Mistreatment Complexity | Innov Aging | PMC7740715
+- new | 2020 | PMC7743372 | PMC | Elder Justice and Nursing Home Reforms 2020 | Innov Aging | PMC7743372
+- new | 2020 | PPR193129 | PPR | A systematic review to assess the impact of the Elderly Health Care Voucher Scheme (EHCVS) and the feasibility to fully adopt in Hong Kong elder care services |  | doi 10.21203/rs.3.rs-48276/v1
+- new | 2020 | PMC7741421 | PMC | Elder Family Financial Exploitation: The Complexity of Roles and Family Context | Innov Aging | PMC7741421
+- new | 2020 | PPR126897 | PPR | Durvalumab in frail and elder patients with stage four NSCLC: Study protocol of the randomized phase II DURATION trial |  | doi 10.21203/rs.2.16770/v3
+- new | 2020 | PMC7740753 | PMC | Perceived Value of Using a Digital Tool to Screen for Elder Mistreatment in the Emergency Department | Innov Aging | PMC7740753
+- new | 2019 | PMC6840473 | PMC | ADDRESSING THE THEORETICAL GAPS IN ELDER FAMILY FINANCIAL EXPLOITATION | Innov Aging | PMC6840473
+- new | 2019 | PMC6840188 | PMC | CHALLENGES AND BARRIERS FOR SERVICE PROVIDERS IN RURAL SETTINGS: AN ELDER-ABUSE NEEDS ASSESSMENT | Innov Aging | PMC6840188
+- new | 2019 | PMC6840029 | PMC | ELDER FAMILY FINANCIAL EXPLOITATION BY POWER-OF-ATTORNEY AGENTS THROUGH THE LENS OF BRONFENBRENNER’S PPCT MODEL | Innov Aging | PMC6840029
+- new | 2019 | PMC7213274 | PMC | COT-16 INDICATION OF SYSTEMIC THERAPY FOR ELDER PATIENTS WITH BRAIN TUMORS: A SYSTEMATIC REVIEW AND PERSPECTIVE | Neurooncol Adv | PMC7213274
+- new | 2019 | PMC6840940 | PMC | EXAMINING THE NATURE AND ROLE OF FAMILY SYSTEM INTERACTIONS AND ELDER FAMILY FINANCIAL EXPLOITATION | Innov Aging | PMC6840940
+- new | 2019 | IND606272529 | AGR | Nutraceutical properties and phytochemical characterization of wild Serbian fruits | Eur Food Res Technol | doi 10.1007/s00217-018-3178-1
+- new | 2019 | PMC6840339 | PMC | PROTECTIVE EFFECTS OF NEIGHBORHOOD SOCIAL COHESION ON ELDER ABUSE IN INDIAN OLDER ADULTS | Innov Aging | PMC6840339
+- new | 2019 | PMC6846209 | PMC | DETECTION OF ELDER ABUSE BY FAMILY PHYSICIANS IN MONGOLIA: AN EXPLORATORY STUDY | Innov Aging | PMC6846209
+- new | 2019 | PMC6846814 | PMC | ELDER ABUSE AND NEGLECT IN URBAN AND RURAL AREAS IN CHINA: PREVENTION STRATEGIES | Innov Aging | PMC6846814
+- new | 2019 | PMC6846056 | PMC | THREE-YEAR EVALUATION OF THE DETECTION OF ELDER ABUSE THROUGH EMERGENCY CARE TECHNICIANS PROJECT | Innov Aging | PMC6846056
+- new | 2018 | PMC6227686 | PMC | THE RIPPLE EFFECTS OF ELDER FAMILY FINANCIAL EXPLOITATION ON FAMILY SYSTEMS | Innov Aging | PMC6227686
+- new | 2018 | PMC6239525 | PMC | EFFECTIVENESS OF NON-PHARMACOLOGICAL INTERVENTIONS FOR REDUCING ELDER DEPRESSION: A META-ANALYSIS | Innov Aging | PMC6239525
+- new | 2018 | PMC6228749 | PMC | ELDER ABUSE SUBTYPES REPORTED TO THE NATIONAL CENTER ON ELDER ABUSE | Innov Aging | PMC6228749
+- new | 2018 | PMC6227436 | PMC | EXPLORING RESTORATIVE JUSTICE AS A POTENTIAL REMEDY FOR ELDER ABUSE AND EXPLOITATION | Innov Aging | PMC6227436
+- new | 2018 | PMC6228756 | PMC | Elder Abuse, Mistreatment, and Interventions | Innov Aging | PMC6228756
+- new | 2018 | IND605858281 | AGR | Investigations on binding mechanism of bioactives from elderberry (Sambucus nigra L.) by whey proteins for efficient microencapsulation | Journal of food engineering. | doi 10.1016/j.jfoodeng.2017.10.019
+- new | 2018 | PMC6227279 | PMC | EXCLUSION FROM SUPPORTIVE SOCIAL RELATIONS - ELDER ABUSE IN FAMILY | Innov Aging | PMC6227279
+- new | 2017 | PMC6244245 | PMC | SYSTEMATIC REVIEW AND META-ANALYSIS OF ELDER ABUSE PREVALENCE | Innov Aging | PMC6244245
+- new | 2017 | PMC6248640 | PMC | PREVALENCE OF ELDER FINANCIAL FRAUD AND SCAMS: A SYSTEMATIC REVIEW AND META-ANALYSIS | Innov Aging | PMC6248640
+- new | 2017 | PMC6244594 | PMC | SYSTEMATIC REVIEW AND META-ANALYSIS OF ELDER ABUSE AMONG WOMEN | Innov Aging | PMC6244594
+- new | 2017 | PMC6248502 | PMC | A BULL MARKET FOR ELDER FINANCIAL ABUSE IN NORTH AMERICA | Innov Aging | PMC6248502
+- new | 2017 | PMC6244314 | PMC | SCREENING AND ASSESSMENT OF ELDER ABUSE: AN EVALUATION OF NICE TOOLS | Innov Aging | PMC6244314
+- new | 2017 | PMC6248756 | PMC | ELDER FINANCIAL ABUSE IN LOW- AND MIDDLE-INCOME COUNTRIES: AN UNCHARTED RESEARCH AGENDA | Innov Aging | PMC6248756
+- new | 2017 | PMC6244462 | PMC | ELDER ABUSE AMONG SEXUAL MINORITY OLDER ADULTS IN THE U.S. | Innov Aging | PMC6244462
+- new | 2017 | PMC6244380 | PMC | RISK AND PROTECTIVE FACTORS FOR ELDER FINANCIAL EXPLOITATION BY FAMILY POWER OF ATTORNEY AGENTS | Innov Aging | PMC6244380
+- new | 2017 | PMC6244369 | PMC | WHEN IT’S FAMILY: EXAMINING ENTITLEMENT AS A RISK FACTOR FOR ELDER FINANCIAL EXPLOITATION | Innov Aging | PMC6244369
+- new |  | PMC13442118 | PMC | Frailty and Elder Abuse Among Older Adults in Outpatient Settings in Nigeria: A Case-Control Study | Eur Psychiatry | PMC13442118
+
+### full text, trial in title - 44 hits
+- new | 2026 | 41897140 | MED | Evaluation of the Effects of an Immune-Boosting Food Supplement on the Severity and Frequency of Pediatric Respiratory Tract Infections: A Randomized, Double-Blind, Place | Children (Basel) | doi 10.3390/children13030428 | PMC13024742
+- new | 2026 | 42796238 | MED | Evaluating the Efficacy and Safety of a Nasal Medical Device (NESOSPRAY HE-G) in Acute Rhinosinusitis: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial. | Medicina (Kaunas) | doi 10.3390/medicina62091631 | PMC13609523
+- new | 2026 | 41312988 | MED | A retrospectively registered pilot randomized controlled trial of postbiotic administration during antibiotic treatment increases microbiome diversity and enriches health | Infect Immun | doi 10.1128/iai.00390-25 | PMC12797998
+- new | 2026 | 42748372 | MED | Evaluation of &lt;i&gt;Vamana&lt;/i&gt; and &lt;i&gt;Virechana&lt;/i&gt; as Interventions to Decelerate the Aging Process in Healthy Adult Volunteers: Protocol for an Exp | JMIR Res Protoc | doi 10.2196/99146 | PMC13581141
+- new | 2025 | 40693198 | MED | Effects of a polyphenol-rich extract blend, probiotics, and hydrolyzed fiber on quality of life and gut health markers in patients with irritable bowel syndrome-A randomi | Front Nutr | doi 10.3389/fnut.2025.1603011 | PMC12277158
+- new | 2025 | 41383798 | MED | Black mulberry syrup on reducing tonsillar hypertrophy and its clinical symptoms: A randomized, double-blind, controlled trial. | Caspian J Intern Med | doi 10.22088/cjim.16.4.731 | PMC12694769
+- new | 2025 | 40002317 | MED | Preliminary Effects of American Elderberry Juice on Cognitive Functioning in Mild Cognitive Impairment Patients: A Secondary Analysis of Cognitive Composite Scores in a R | Antioxidants (Basel) | doi 10.3390/antiox14020131 | PMC11851714
+- new | 2025 | 40117342 | MED | Modulating Brain Activity to Improve Goal-directed Physical Activity in Older Adults: A Pilot Randomized Controlled Trial. | J Gerontol A Biol Sci Med Sci | doi 10.1093/gerona/glaf039 | PMC12051861
+- new | 2025 | 40557765 | MED | Power calculation for cross-sectional stepped wedge cluster randomized trials with a time-to-event endpoint. | Biometrics | doi 10.1093/biomtc/ujaf074 | PMC12188223
+- new | 2025 | 37572422 | MED | A prospective randomized study examining the impact of intravenous versus inhalational anesthesia on postoperative cognitive decline and delirium. | Appl Neuropsychol Adult | doi 10.1080/23279095.2023.2246612 | PMC10859544
+- new | 2025 | 39920837 | MED | Understanding Cognition, Oxytocin, and Pain in Elders (UCOPE): protocol for a double-blinded cross-over trial in chronic knee osteoarthritis pain. | Trials | doi 10.1186/s13063-024-08715-4 | PMC11806790
+- new | 2024 | 38863743 | MED | A standardized combination of <i>Terminalia chebula</i> and <i>Withania somnifera</i> extracts enhances immune function in adults: a pilot randomized, double-blind, place | Food Nutr Res | doi 10.29219/fnr.v68.10297 | PMC11165258
+- new | 2024 | 38358084 | MED | The dementia care study (D-CARE): Recruitment strategies and demographic characteristics of participants in a pragmatic randomized trial of dementia care. | Alzheimers Dement | doi 10.1002/alz.13698 | PMC11032530
+- HELD REF-5273 | 2023 | 37710316 | MED | Chlorogenic acid in green bean coffee on body weight: a systematic review and meta-analysis of randomized controlled trials. | Syst Rev | doi 10.1186/s13643-023-02311-4 | PMC10503105
+- new | 2023 | 37110347 | MED | SYNBIO<sup>®</sup> Probiotic and Antioxidant Dietary Supplementation: Clinical Trial Evaluation of Potential Effects on Airline Flight Crew Members' Well-Being. | Microorganisms | doi 10.3390/microorganisms11040924 | PMC10145893
+- new | 2023 | 37679434 | MED | Senolytic therapy in mild Alzheimer's disease: a phase 1 feasibility trial. | Nat Med | doi 10.1038/s41591-023-02543-w | PMC10875739
+- new | 2022 | 36079732 | MED | Use of Nutraceuticals in Elderly to Fight Inflammation and Immuno-Senescence: A Randomized Case-Control Study. | Nutrients | doi 10.3390/nu14173476 | PMC9459752
+- new | 2022 | PPR555041 | PPR | Potential use of Immunodaat® (Botanical extract of Elderberry -Sambucus Nigra L.) in the management of Post Covid-19 symptoms- a comparative, multi-centric, randomized, c |  | doi 10.1101/2022.10.04.22280680
+- new | 2022 | 34995275 | MED | Effect of oseltamivir phosphate versus placebo on platelet recovery and plasma leakage in adults with dengue and thrombocytopenia; a phase 2, multicenter, double-blind, r | PLoS Negl Trop Dis | doi 10.1371/journal.pntd.0010051 | PMC8789129
+- new | 2022 | 35453239 | MED | Anti-Caries Effect of a Mouthwash Containing <i>Sambucus williamsii var. coreana</i> Extract: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial. | Antibiotics (Basel) | doi 10.3390/antibiotics11040488 | PMC9025877
+- new | 2022 | 35723714 | MED | Randomized Clinical Trial of a Topical Botanical Patch for the Adjunctive Management of Periodontitis. | Oral Health Prev Dent | doi 10.3290/j.ohpd.b3147141 | PMC11640858
+- new | 2022 | 33481463 | MED | Telehealth Exercise Intervention in Older Adults With HIV: Protocol of a Multisite Randomized Trial. | J Assoc Nurses AIDS Care | doi 10.1097/jnc.0000000000000235 | PMC8289938
+- new | 2022 | 35013909 | MED | Evaluation of a blood-based geroscience biomarker index in a randomized trial of caloric restriction and exercise in older adults with heart failure with preserved ejecti | Geroscience | doi 10.1007/s11357-021-00509-9 | PMC9135899
+- new | 2022 | 36160152 | MED | Randomized double-blind clinical study in patients with COVID-19 to evaluate the safety and efficacy of a phytomedicine (P2Et). | Front Med (Lausanne) | doi 10.3389/fmed.2022.991873 | PMC9494348
+- new | 2021 | 34204250 | MED | Effects of Berry Anthocyanins on Cognitive Performance, Vascular Function and Cardiometabolic Risk Markers: A Systematic Review of Randomized Placebo-Controlled Intervent | Int J Mol Sci | doi 10.3390/ijms22126482 | PMC8234025
+- new | 2021 | 33982141 | MED | Safety and tolerability of chronic intranasal oxytocin in older men: results from a randomized controlled trial. | Psychopharmacology (Berl) | doi 10.1007/s00213-021-05862-3 | PMC8115997
+- new | 2020 | 32498216 | MED | Difensil Immuno Reduces Recurrence and Severity of Tonsillitis in Children: A Randomized Controlled Trial. | Nutrients | doi 10.3390/nu12061637 | PMC7352765
+- HELD REF-3759 | 2020 | 32929634 | MED | Elderberry Extract Outpatient Influenza Treatment for Emergency Room Patients Ages 5 and Above: a Randomized, Double-Blind, Placebo-Controlled Trial. | J Gen Intern Med | doi 10.1007/s11606-020-06170-w | PMC7661609
+- new | 2020 | 32331341 | MED | Clinical Effectiveness of a Combination of Black Elder Berries, Violet Herb, and Calendula Flowers in Chronic Obstructive Pulmonary Disease: The Results of a Double-Blind | Biology (Basel) | doi 10.3390/biology9040083 | PMC7235828
+- new | 2020 | 31419323 | MED | Efficacy and safety of HAT1 compared with calcipotriol in the treatment of patients with mild to moderate chronic plaque psoriasis: results from an open-label randomized  | Clin Exp Dermatol | doi 10.1111/ced.14074 | PMC7154690
+- new | 2019 | 31364144 | MED | The effects of oral supplements with Sambucus nigra, Zinc, Tyndallized Lactobacillus acidophilus (HA122), Arabinogalactans, vitamin D, vitamin E and vitamin C in otitis m | Eur Rev Med Pharmacol Sci | doi 10.26355/eurrev_201907_18460
+- HELD REF-1016 | 2019 | 30670267 | MED | Black elderberry (Sambucus nigra) supplementation effectively treats upper respiratory symptoms: A meta-analysis of randomized, controlled clinical trials. | Complement Ther Med | doi 10.1016/j.ctim.2018.12.004
+- new | 2019 | 31763211 | MED | Effect of an herbal capsule on chronic constipation among menopausal women: A randomized controlled clinical trial. | Avicenna J Phytomed | doi 10.22038/ajp.2019.13109 | PMC6823525
+- new | 2018 | 30041685 | MED | Engaging family supporters of adult patients with diabetes to improve clinical and patient-centered outcomes: study protocol for a randomized controlled trial. | Trials | doi 10.1186/s13063-018-2785-2 | PMC6057090
+- new | 2017 | 28482053 | MED | A Four-Session Sleep Intervention Program Improves Sleep for Older Adult Day Health Care Participants: Results of a Randomized Controlled Trial. | Sleep | doi 10.1093/sleep/zsx079 | PMC5804980
+- HELD REF-3760 | 2016 | 27023596 | MED | Elderberry Supplementation Reduces Cold Duration and Symptoms in Air-Travellers: A Randomized, Double-Blind Placebo-Controlled Clinical Trial. | Nutrients | doi 10.3390/nu8040182 | PMC4848651
+- new | 2015 | 26266414 | MED | Multi-Sensor Approach for the Monitoring of Halitosis Treatment via Lactobacillus brevis (CD2)-Containing Lozenges--A Randomized, Double-Blind Placebo-Controlled Clinical | Sensors (Basel) | doi 10.3390/s150819583 | PMC4570386
+- new | 2015 | 25748580 | MED | Cognitive behavioral therapy and tai chi reverse cellular and genomic markers of inflammation in late-life insomnia: a randomized controlled trial. | Biol Psychiatry | doi 10.1016/j.biopsych.2015.01.010 | PMC4524803
+- new | 2013 | 23494931 | MED | The effect of testosterone on mood and well-being in men with erectile dysfunction in a randomized, placebo-controlled trial. | Andrology | doi 10.1111/j.2047-2927.2013.00075.x | PMC3630276
+- new | 2012 | 22820409 | MED | Mindfulness-Based Stress Reduction training reduces loneliness and pro-inflammatory gene expression in older adults: a small randomized controlled trial. | Brain Behav Immun | doi 10.1016/j.bbi.2012.07.006 | PMC3635809
+- new | 2011 | 21965490 | MED | A phase II trial of a transmucosal herbal patch for the treatment of gingivitis. | J Am Dent Assoc | doi 10.14219/jada.archive.2011.0086
+- new | 2011 | 21357809 | MED | Delivery and outcomes of a yearlong home exercise program after hip fracture: a randomized controlled trial. | Arch Intern Med | doi 10.1001/archinternmed.2011.15 | PMC3140167
+- new | 2010 | 20433751 | MED | Randomized clinical trial of a phytotherapic compound containing Pimpinella anisum, Foeniculum vulgare, Sambucus nigra, and Cassia augustifolia for chronic constipation. | BMC Complement Altern Med | doi 10.1186/1472-6882-10-17 | PMC2874511
+- HELD REF-0316 | 2004 | 15080016 | MED | Randomized study of the efficacy and safety of oral elderberry extract in the treatment of influenza A and B virus infections. | J Int Med Res | doi 10.1177/147323000403200205
+
+### full text, patients/volunteers in title - 120 hits
+- new | 2026 | 42318532 | MED | IgM Hyposialylation Modulates Podocyte Vulnerability in Patients With Idiopathic Nephrotic Syndrome. | Kidney Int Rep | doi 10.1016/j.ekir.2026.106598 | PMC13273652
+- new | 2026 | 42748372 | MED | Evaluation of &lt;i&gt;Vamana&lt;/i&gt; and &lt;i&gt;Virechana&lt;/i&gt; as Interventions to Decelerate the Aging Process in Healthy Adult Volunteers: Protocol for an Exp | JMIR Res Protoc | doi 10.2196/99146 | PMC13581141
+- new | 2026 | 42712628 | MED | Enhanced sialylation of bone marrow mesenchymal stromal cells contributes to immune remodeling through macrophage polarization in multiple myeloma patients. | Front Immunol | doi 10.3389/fimmu.2026.1919303 | PMC13550185
+- new | 2025 | PPR1114002 | PPR | IgM hyposialylation drives podocyte injury in pediatric and young adult patients with podocytopathies |  | doi 10.1101/2025.11.04.686538
+- new | 2025 | 41303427 | MED | Glycosylation Variability of Serum α1-Acid Glycoprotein in the Context of Developing Inflammation and Oxidative Stress in Patients with Severe COVID-19. | Int J Mol Sci | doi 10.3390/ijms262210946 | PMC12651980
+- new | 2025 | 40693198 | MED | Effects of a polyphenol-rich extract blend, probiotics, and hydrolyzed fiber on quality of life and gut health markers in patients with irritable bowel syndrome-A randomi | Front Nutr | doi 10.3389/fnut.2025.1603011 | PMC12277158
+- new | 2025 | 40002317 | MED | Preliminary Effects of American Elderberry Juice on Cognitive Functioning in Mild Cognitive Impairment Patients: A Secondary Analysis of Cognitive Composite Scores in a R | Antioxidants (Basel) | doi 10.3390/antiox14020131 | PMC11851714
+- new | 2025 | 41118640 | MED | Implementation of Integrative Nursing for Patients With Cancer Receiving Inpatient Care: Protocol for a Convergent Parallel Mixed Methods Evaluation. | JMIR Res Protoc | doi 10.2196/74405 | PMC12587014
+- new | 2025 | 39988192 | MED | Integrated Multiomics Reveals Alterations in Paucimannose and Complex Type N-Glycans in Cardiac Tissue of Patients with COVID-19. | Mol Cell Proteomics | doi 10.1016/j.mcpro.2025.100929 | PMC12131855
+- new | 2024 | 38720518 | MED | Changes in serum immunoglobulin G glycosylation patterns for antiphospholipid syndrome patients with lectin microarray. | Scand J Immunol | doi 10.1111/sji.13366
+- new | 2024 | 38673938 | MED | Feasibility and Preliminary Efficacy of American Elderberry Juice for Improving Cognition and Inflammation in Patients with Mild Cognitive Impairment. | Int J Mol Sci | doi 10.3390/ijms25084352 | PMC11050618
+- new | 2024 | 39382267 | MED | Preoperative Serum Glycan Levels Reflect Progression of Patients With Hepatocellular Carcinoma. | Cancer Med | doi 10.1002/cam4.70285 | PMC11462596
+- new | 2024 | 39373912 | MED | Pelvic Floor Muscle Evaluation in Older Women with Urinary Incontinence: A Feasibility Study. | Int Urogynecol J | doi 10.1007/s00192-024-05936-8 | PMC11884823
+- new | 2024 | 38721992 | MED | T-antigen as a biomarker of progression-free survival in patients with glioblastoma. | Ann Clin Transl Neurol | doi 10.1002/acn3.52082 | PMC11251471
+- new | 2024 | 38863743 | MED | A standardized combination of <i>Terminalia chebula</i> and <i>Withania somnifera</i> extracts enhances immune function in adults: a pilot randomized, double-blind, place | Food Nutr Res | doi 10.29219/fnr.v68.10297 | PMC11165258
+- new | 2024 | 39640837 | MED | The effectiveness of homeopathy in relieving symptoms and reducing antibiotic use in patients with otitis media: A systematic review and meta-analysis. | Heliyon | doi 10.1016/j.heliyon.2024.e39174 | PMC11620159
+- new | 2024 | 37844848 | MED | An exercise stress test for contrast-enhanced duplex ultrasound assessment of lower limb muscle perfusion in patients with peripheral arterial disease. | J Vasc Surg | doi 10.1016/j.jvs.2023.10.005 | PMC10969459
+- new | 2023 | 36672998 | MED | Clinical Value of Glycan Changes in Cerebrospinal Fluid for Evaluation of Post-Neurosurgical Bacterial Meningitis with Hemorrhagic Stroke Patients. | Diagnostics (Basel) | doi 10.3390/diagnostics13020187 | PMC9858593
+- new | 2023 | 37457741 | MED | Altered profile of glycosylated proteins in serum samples obtained from patients with Hashimoto's thyroiditis following depletion of highly abundant proteins. | Front Immunol | doi 10.3389/fimmu.2023.1182842 | PMC10348014
+- new | 2023 | 37163158 | MED | Dietary supplements used by otolaryngology patients in Turkey during the COVID-19 pandemic: A cross-sectional survey. | Eur J Integr Med | doi 10.1016/j.eujim.2023.102249 | PMC10077764
+- new | 2023 | 38008978 | MED | The Association of Bone Turnover Markers with Muscle Function, Falls, and Frailty in Older Women in Long-Term Care. | J Frailty Aging | doi 10.14283/jfa.2023.38 | PMC12233098
+- new | 2023 | 35896734 | MED | Gluteal muscle fatty infiltration, fall risk, and mobility limitation in older women with urinary incontinence: a pilot study. | Skeletal Radiol | doi 10.1007/s00256-022-04132-3 | PMC10091062
+- new | 2023 | 37432214 | MED | Significance of 1,25-Dihydroxyvitamin D<sub>3</sub> on Overall Mortality in Peritoneal Dialysis Patients with COVID-19. | Nutrients | doi 10.3390/nu15092050 | PMC10181384
+- new | 2022 | PPR555041 | PPR | Potential use of Immunodaat® (Botanical extract of Elderberry -Sambucus Nigra L.) in the management of Post Covid-19 symptoms- a comparative, multi-centric, randomized, c |  | doi 10.1101/2022.10.04.22280680
+- new | 2022 | 35807530 | MED | High Expression Level of α2-3-Linked Sialic Acids on Salivary Glycoproteins of Breastfeeding Women May Help to Protect Them from Avian Influenza Virus Infection. | Molecules | doi 10.3390/molecules27134285 | PMC9268398
+- new | 2022 | 36160152 | MED | Randomized double-blind clinical study in patients with COVID-19 to evaluate the safety and efficacy of a phytomedicine (P2Et). | Front Med (Lausanne) | doi 10.3389/fmed.2022.991873 | PMC9494348
+- new | 2022 | 35816437 | MED | Omalizumab added to allergen immunotherapy increased the effect of therapy in patients with severe local allergic rhinitis. | Hum Vaccin Immunother | doi 10.1080/21645515.2022.2097818 | PMC9746402
+- new | 2022 | 35842663 | MED | Modulation of B cell activation by extracellular vesicles and potential alteration of this pathway in patients with rheumatoid arthritis. | Arthritis Res Ther | doi 10.1186/s13075-022-02837-3 | PMC9287863
+- new | 2022 | 36044614 | MED | Glucocorticoid Receptor Function and Cognitive Performance in Women With HIV. | Psychosom Med | doi 10.1097/psy.0000000000001126 | PMC9553273
+- new | 2022 | 36009489 | MED | Characterization of Mesothelin Glycosylation in Pancreatic Cancer: Decreased Core Fucosylated Glycoforms in Pancreatic Cancer Patients' Sera. | Biomedicines | doi 10.3390/biomedicines10081942 | PMC9405996
+- new | 2021 | 33692455 | MED | Variability of serum IgG sialylation and galactosylation degree in women with advanced endometriosis. | Sci Rep | doi 10.1038/s41598-021-85200-x | PMC7970930
+- new | 2021 | 34680528 | MED | Longitudinal Pathogenic Properties and <i>N</i>-Glycosylation Profile of Antibodies from Patients with Pemphigus after Corticosteroid Treatment. | Biomedicines | doi 10.3390/biomedicines9101411 | PMC8533488
+- new | 2021 | 33992099 | MED | Epithelial apical glycosylation changes associated with thin endometrium in women with infertility - a pilot observational study. | Reprod Biol Endocrinol | doi 10.1186/s12958-021-00750-z | PMC8122553
+- new | 2021 | 34257421 | MED | Safety and efficacy of N-acetylmannosamine (ManNAc) in patients with GNE myopathy: an open-label phase 2 study. | Genet Med | doi 10.1038/s41436-021-01259-x | PMC8553608
+- new | 2021 | 34177889 | MED | Alternative Complement Pathway Is Activated and Associated with Galactose-Deficient IgA<sub>1</sub> Antibody in IgA Nephropathy Patients. | Front Immunol | doi 10.3389/fimmu.2021.638309 | PMC8223746
+- new | 2021 | 34109226 | MED | Novel Urinary Glycan Biomarkers Predict Cardiovascular Events in Patients With Type 2 Diabetes: A Multicenter Prospective Study With 5-Year Follow Up (U-CARE Study 2). | Front Cardiovasc Med | doi 10.3389/fcvm.2021.668059 | PMC8180567
+- new | 2021 | 34248947 | MED | Changes of Serum IgG Glycosylation Patterns in Primary Biliary Cholangitis Patients. | Front Immunol | doi 10.3389/fimmu.2021.669137 | PMC8267527
+- new | 2021 | 33963837 | MED | Physical Activity, Diet, and Incident Urinary Incontinence in Postmenopausal Women: Women's Health Initiative Observational Study. | J Gerontol A Biol Sci Med Sci | doi 10.1093/gerona/glab118 | PMC8555422
+- new | 2021 | 34093183 | MED | Estrogenic Plants: to Prevent Neurodegeneration and Memory Loss and Other Symptoms in Women After Menopause. | Front Pharmacol | doi 10.3389/fphar.2021.644103 | PMC8172769
+- HELD REF-3759 | 2020 | 32929634 | MED | Elderberry Extract Outpatient Influenza Treatment for Emergency Room Patients Ages 5 and Above: a Randomized, Double-Blind, Placebo-Controlled Trial. | J Gen Intern Med | doi 10.1007/s11606-020-06170-w | PMC7661609
+- new | 2020 | 31419323 | MED | Efficacy and safety of HAT1 compared with calcipotriol in the treatment of patients with mild to moderate chronic plaque psoriasis: results from an open-label randomized  | Clin Exp Dermatol | doi 10.1111/ced.14074 | PMC7154690
+- new | 2020 | 32576593 | MED | Reduced Sialylation and Bioactivity of the Antifibrotic Protein Serum Amyloid P in the Sera of Patients with Idiopathic Pulmonary Fibrosis. | Immunohorizons | doi 10.4049/immunohorizons.2000043 | PMC8500545
+- new | 2020 | 32376397 | MED | Seven recommendations to rescue the patients and reduce the mortality from COVID-19 infection: An immunological point of view. | Autoimmun Rev | doi 10.1016/j.autrev.2020.102570 | PMC7252097
+- new | 2020 | 32458096 | MED | Early changes in bone turnover predict longer-term changes in bone mineral density but not trabecular bone score in frail older women. | Arch Osteoporos | doi 10.1007/s11657-020-00749-w | PMC8006805
+- new | 2020 | 32536913 | MED | Analysis of the Targets and Glycosylation of Monoclonal IgAs From MGUS and Myeloma Patients. | Front Immunol | doi 10.3389/fimmu.2020.00854 | PMC7266999
+- new | 2020 | 32351875 | MED | Estimating cost implications of potentially avoidable hospitalizations among Oncology Care Model patients with prostate cancer. | J Cancer Policy | doi 10.1016/j.jcpo.2020.100218 | PMC7189771
+- new | 2020 | 32784866 | MED | Fibrinogen Fucosylation as a Prognostic Marker of End-Stage Renal Disease in Patients on Peritoneal Dialysis. | Biomolecules | doi 10.3390/biom10081165 | PMC7466146
+- new | 2019 | 31795149 | MED | Increase of MAL-II Binding Alpha2,3-Sialylated Glycan Is Associated with 5-FU Resistance and Short Survival of Cholangiocarcinoma Patients. | Medicina (Kaunas) | doi 10.3390/medicina55120761 | PMC6956088
+- new | 2019 | 30957134 | MED | Prevalence of herbal medicines in patients with chronic allergic disorders in Western Saudi Arabia. | Saudi Med J | doi 10.15537/smj.2019.4.24006 | PMC6506647
+- new | 2019 | 31763211 | MED | Effect of an herbal capsule on chronic constipation among menopausal women: A randomized controlled clinical trial. | Avicenna J Phytomed | doi 10.22038/ajp.2019.13109 | PMC6823525
+- new | 2019 | 30953118 | MED | Expression profiling of immune inhibitory Siglecs and their ligands in patients with glioma. | Cancer Immunol Immunother | doi 10.1007/s00262-019-02332-w | PMC6529385
+- new | 2019 | 30183373 | MED | Plasma glycomics predict cardiovascular disease in patients with ART-controlled HIV infections. | FASEB J | doi 10.1096/fj.201800923r | PMC6338643
+- new | 2019 | 31014007 | MED | The Long-Term Algae Extract (<i>Chlorella and Fucus sp</i>) and Aminosulphurate Supplementation Modulate SOD-1 Activity and Decrease Heavy Metals (Hg<sup>++</sup>, Sn) Le | Antioxidants (Basel) | doi 10.3390/antiox8040101 | PMC6523211
+- new | 2019 | 30778108 | MED | Multiple concomitant mechanisms contribute to low platelet count in patients with immune thrombocytopenia. | Sci Rep | doi 10.1038/s41598-018-38086-1 | PMC6379541
+- new | 2019 | 30582436 | MED | Body-weight goals, trends, and weight-loss techniques among patients with peripheral arterial disease. | Nutr Health | doi 10.1177/0260106018817190 | PMC6487636
+- new | 2019 | 30146695 | MED | Functional Decline and Resilience in Older Women Receiving Adjuvant Chemotherapy for Breast Cancer. | J Am Geriatr Soc | doi 10.1111/jgs.15493 | PMC6391210
+- new | 2019 | 30818380 | MED | Immunoglobulins G from patients with ANCA-associated vasculitis are atypically glycosylated in both the Fc and Fab regions and the relation to disease activity. | PLoS One | doi 10.1371/journal.pone.0213215 | PMC6395067
+- new | 2019 | 30770394 | MED | Increased galactose expression and enhanced clearance in patients with low von Willebrand factor. | Blood | doi 10.1182/blood-2018-09-874636 | PMC13127295
+- new | 2018 | 29600973 | MED | Signatures of anti-Thomsen - Friedenreich antigen antibody diversity in colon cancer patients. | Exp Oncol | doi 10.31768/2312-8852.2018.40(1):48-58
+- new | 2018 | 30105268 | MED | The Thomsen-Friedenreich Antigen-Specific Antibody Signatures in Patients with Breast Cancer. | Biomed Res Int | doi 10.1155/2018/9579828 | PMC6076901
+- new | 2018 | 30167081 | MED | Resistance to complement activation, cell membrane hypersialylation and relapses in chronic lymphocytic leukemia patients treated with rituximab and chemotherapy. | Oncotarget | doi 10.18632/oncotarget.25657 | PMC6114972
+- new | 2018 | 29720252 | MED | Estrogen induces St6gal1 expression and increases IgG sialylation in mice and patients with rheumatoid arthritis: a potential explanation for the increased risk of rheuma | Arthritis Res Ther | doi 10.1186/s13075-018-1586-z | PMC5932893
+- new | 2018 | 29596458 | MED | Quantitative N-glycoproteomics reveals altered glycosylation levels of various plasma proteins in bloodstream infected patients. | PLoS One | doi 10.1371/journal.pone.0195006 | PMC5875812
+- new | 2018 | 30093847 | MED | Oral Allergy Syndrome in Birch Pollen-Sensitized Patients from a Korean University Hospital. | J Korean Med Sci | doi 10.3346/jkms.2018.33.e218 | PMC6082810
+- new | 2017 | 28316982 | MED | Hidden IgG Antibodies to the Tumor-Associated Thomsen-Friedenreich Antigen in Gastric Cancer Patients: Lectin Reactivity, Avidity, and Clinical Relevance. | Biomed Res Int | doi 10.1155/2017/6097647 | PMC5339540
+- new | 2017 | 28543513 | MED | LC-MS/MS isomeric profiling of permethylated N-glycans derived from serum haptoglobin of hepatocellular carcinoma (HCC) and cirrhotic patients. | Electrophoresis | doi 10.1002/elps.201700025 | PMC5613657
+- new | 2017 | 28282148 | MED | Alterations in the Salivary Proteome and N-Glycome of Sjögren's Syndrome Patients. | J Proteome Res | doi 10.1021/acs.jproteome.6b01051 | PMC9668345
+- new | 2017 | 27975302 | MED | Vitamin D deficiency is associated with functional decline and falls in frail elderly women despite supplementation. | Osteoporos Int | doi 10.1007/s00198-016-3877-z | PMC6020826
+- new | 2017 | 28392937 | MED | Reduced LPL and subcutaneous lipid storage capacity are associated with metabolic syndrome in postmenopausal women with obesity. | Obes Sci Pract | doi 10.1002/osp4.86 | PMC5358073
+- new | 2016 | 27600584 | MED | Differential Expression of O-Glycans in CD4(+) T Lymphocytes from Patients with Systemic Lupus Erythematosus. | Tohoku J Exp Med | doi 10.1620/tjem.240.79
+- new | 2016 | 26876088 | MED | Changes of glycosylation of IgG in rheumatoid arthritis patients treated with methotrexate. | Adv Med Sci | doi 10.1016/j.advms.2015.12.009
+- new | 2016 | 27034286 | MED | Altered glycosylation, expression of serum haptoglobin and alpha-1-antitrypsin in chronic hepatitis C, hepatitis C induced liver cirrhosis and hepatocellular carcinoma pa | Glycoconj J | doi 10.1007/s10719-016-9658-2
+- new | 2016 | 26880719 | MED | Glycosylation status of serum immunoglobulin G in patients with prostate diseases. | Cancer Med | doi 10.1002/cam4.662 | PMC4924372
+- new | 2016 | 26981635 | MED | Sialyltransferase and Neuraminidase Levels/Ratios and Sialic Acid Levels in Peripheral Blood B Cells Correlate with Measures of Disease Activity in Patients with Systemic | PLoS One | doi 10.1371/journal.pone.0151669 | PMC4794174
+- new | 2016 | 27247577 | MED | Skin Prick Test Analysis in Allergic Rhinitis Patients: A Preliminary Study in Abuja, Nigeria. | J Allergy (Cairo) | doi 10.1155/2016/3219104 | PMC4877477
+- new | 2015 | 25408356 | MED | Structural heterogeneity of glycoform of alpha-1 Acid glycoprotein in alcoholic cirrhosis patients. | Adv Exp Med Biol | doi 10.1007/978-3-319-11280-0_24
+- new | 2015 | 25380293 | MED | Changes in anti-thyroglobulin IgG glycosylation patterns in Hashimoto's thyroiditis patients. | J Clin Endocrinol Metab | doi 10.1210/jc.2014-2921 | PMC4318900
+- new | 2015 | 26497387 | MED | Desialylation is associated with apoptosis and phagocytosis of platelets in patients with prolonged isolated thrombocytopenia after allo-HSCT. | J Hematol Oncol | doi 10.1186/s13045-015-0216-3 | PMC4619537
+- new | 2014 | 24841998 | MED | Comparison of sialylated N-glycopeptide levels in serum of pancreatic cancer patients, acute pancreatitis patients, and healthy controls. | Proteomics | doi 10.1002/pmic.201300270
+- new | 2014 | 25007177 | MED | The glycomic profile of invasive ductal carcinoma of the breast is altered in patients with hypoxic regions: implications for tumor behavior. | Folia Histochem Cytobiol | doi 10.5603/fhc.2014.0017
+- new | 2014 | 25276822 | MED | Increased sialylation of anti-Thomsen-Friedenreich antigen (CD176) antibodies in patients with gastric cancer: a diagnostic and prognostic potential. | Biomed Res Int | doi 10.1155/2014/830847 | PMC4168149
+- new | 2014 | 24937928 | MED | Hypersensitivity to aeroallergens in patients with nasobronchial allergy. | Med Arch | doi 10.5455/medarh.2014.68.86-89 | PMC4272505
+- new | 2014 | 25012067 | MED | Intravenous immunoglobulin-induced IL-33 is insufficient to mediate basophil expansion in autoimmune patients. | Sci Rep | doi 10.1038/srep05672 | PMC5375975
+- new | 2013 | 23801858 | MED | Aberrant glycosylation of the anti-Thomsen-Friedenreich glycotope immunoglobulin G in gastric cancer patients. | World J Gastroenterol | doi 10.3748/wjg.v19.i23.3573 | PMC3691035
+- new | 2012 | 22884472 | MED | Posttranslational modifications of the insulin-like growth factor-binding protein 3 in patients with type 2 diabetes mellitus assessed by affinity chromatography. | J Chromatogr B Analyt Technol Biomed Lif | doi 10.1016/j.jchromb.2012.07.028
+- new | 2012 | 25284963 | MED | <i>N</i>-glycan Cryptic Antigens as Active Immunological Targets in Prostate Cancer Patients. | J Proteomics Bioinform | doi 10.4172/jpb.1000218 | PMC4183219
+- new | 2012 | 22499445 | MED | Serum carotenoids and pulmonary function in older community-dwelling women. | J Nutr Health Aging | doi 10.1007/s12603-012-0034-z | PMC4035113
+- new | 2012 | 24163772 | MED | Financial Strain Is Associated with Malnutrition Risk in Community-Dwelling Older Women. | Epidemiol Res Int | doi 10.1155/2012/696518 | PMC3806140
+- new | 2011 | 21161373 | MED | Alterations of glycan branching and differential expression of sialic acid on alpha fetoprotein among hepatitis patients. | Glycoconj J | doi 10.1007/s10719-010-9316-z
+- new | 2009 | 19459043 | MED | Enhanced expression of alpha1-acid glycoprotein and fucosylation in hepatitis B patients provides an insight into pathogenesis. | Glycoconj J | doi 10.1007/s10719-009-9241-1
+- new | 2009 | 19407012 | MED | Mucin-type O-glycans in tears of normal subjects and patients with non-Sjögren's dry eye. | Invest Ophthalmol Vis Sci | doi 10.1167/iovs.09-3563 | PMC2751810
+- new | 2001 | 11419909 | MED | The interaction of selective plant lectins with neuraminidase-treated and untreated IgA1 from the sera of IgA nephropathy patients. | Immunol Invest | doi 10.1081/imm-100103688
+- new | 2001 | 11845304 | MED | Altered sialyl- and fucosyl-linkage on mucins in cystic fibrosis patients promotes formation of the sialyl-Lewis X determinant on salivary MUC-5B and MUC-7. | Pflugers Arch | doi 10.1007/s004240100645
+- new | 2000 | 10736100 | MED | Increased N-linked glycosylation leading to oversialylation of monomeric immunoglobulin A1 from patients with Sjögren's syndrome. | Scand J Immunol | doi 10.1046/j.1365-3083.2000.00685.x
+- new | 2000 | 10736101 | MED | Enhanced sialyltransferase activity in B lymphocytes from patients with primary Sjögren's syndrome. | Scand J Immunol | doi 10.1046/j.1365-3083.2000.00692.x
+- new | 2000 | 10864115 | MED | Glycohistochemical characteristics of nasal polyps from patients with and without cystic fibrosis. | Arch Otolaryngol Head Neck Surg | doi 10.1001/archotol.126.6.769
+- new | 1999 | 10609070 | MED | Sialic acid residues in the labial salivary glands from Sjögren's syndrome patients. | Clin Exp Rheumatol
+- new | 1999 | 10436264 | MED | Composition of the sugar moiety of Tamm-Horsfall protein in patients with urinary diseases. | Int J Clin Lab Res | doi 10.1007/s005990050066
+- new | 1997 | 9199529 | MED | Reduced sialylation of glycoproteins in nasal glands of patients with chronic sinusitis. | Acta Otolaryngol | doi 10.3109/00016489709113415
+- new | 1997 | 9046027 | MED | Identification of 45 kD antigen in immune complexes of patients of allergic bronchopulmonary aspergillosis. | Mol Cell Biochem | doi 10.1023/a:1006827126958
+
+## saponaria-officinalis (Saponaria officinalis)
+
+### non-MEDLINE, human-study wording - 0 hits
+
+### non-MEDLINE, review / safety wording - 3 hits
+- HELD REF-1025 | 2024 | IND608441943 | AGR | Saponaria officinalis saponins as a factor increasing permeability of Candida yeasts' biomembrane | World journal of microbiology & biotechn
+- new | 2017 | IND605605094 | AGR | Saponaria officinalis-synthesized silver nanocrystals as effective biopesticides and oviposition inhibitors against Tetranychus urticae Koch | Industrial crops and products. | doi 10.1016/j.indcrop.2016.12.046
+- new | 2013 | IND607513550 | AGR | Interaction between floral color change and gender transition in the protandrous weed Saponaria officinalis | Plant Species Biol
+
+### full text, trial in title - 2 hits
+- new | 2021 | 34316173 | MED | Addition of Valerian and Lemon Balm Extract to Quetiapine Reduces Agitation in Critically Ill Patients with Delirium: A Pilot Randomized Clinical Trial. | Indian J Crit Care Med | doi 10.5005/jp-journals-10071-23854 | PMC8286374
+- new | 2020 | 32695206 | MED | <i>In Vitro</i> and Randomized, Double-Blind, Placebo-Controlled Trial to Determine the Efficacy and Safety of Nine Antiacne Medicinal Plants. | Evid Based Complement Alternat Med | doi 10.1155/2020/3231413 | PMC7368212
+
+### full text, patients/volunteers in title - 3 hits
+- new | 2023 | 36891534 | MED | Study of the antibacterial effects of the starch-based zinc oxide nanoparticles on methicillin resistance <i>Staphylococcus aureus</i> isolates from different clinical sp | AIMS Microbiol | doi 10.3934/microbiol.2023006 | PMC9988410
+- new | 2021 | 34316173 | MED | Addition of Valerian and Lemon Balm Extract to Quetiapine Reduces Agitation in Critically Ill Patients with Delirium: A Pilot Randomized Clinical Trial. | Indian J Crit Care Med | doi 10.5005/jp-journals-10071-23854 | PMC8286374
+- new | 1989 | 2789938 | MED | An immunotoxin containing momordin suitable for bone marrow purging in multiple myeloma patients. | Br J Cancer | doi 10.1038/bjc.1989.277 | PMC2247190

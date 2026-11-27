@@ -162,8 +162,10 @@ indications:
   null_result_ids:
   - REF-3743
   - REF-3739
+  - REF-5650
   note: Chia reduced the blood sugar rise after a meal and prolonged fullness in a randomized trial; it
-    did not reduce body weight in trials or a meta-analysis
+    did not reduce body weight in trials or a meta-analysis, and a 2024 meta-analysis of 8 RCTs found
+    no effect on fasting blood sugar, HbA1c or insulin
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids: []
@@ -200,6 +202,13 @@ contraindications:
   - REF-0297
   - REF-0063
   status: verified
+- note: 'Allergy: chia seed can cause immediate IgE-mediated allergic reactions, including skin reactions
+    and anaphylaxis (case reports and a case series), and its proteins may cross-react with sesame (narrative
+    review).'
+  severity: caution
+  reference_ids:
+  - REF-5651
+  status: verified
 references:
 - REF-1263
 - REF-1264
@@ -235,4 +244,17 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   CV-risk effect) moved to no-effect; BP MAs REF-3739/REF-3740 added. New pair (owner rule):
   high-blood-pressure (2 MAs, 2 RCTs). Weight RCT REF-3743 and MA REF-3739 (no BMI/weight effect)
   no-effect for metabolic-support.
-  | 2026-11-19 (monograph-source audit): constituents[1] and [3] cited only REF-1264 (systematic review of animal diet studies). RE-SOURCED: mucilage Orifici 2018 (REF-3995, new) + Punia 2019 (REF-3996, new); protein and fibre reviews REF-1266 + REF-1272. Dropped as unsupported: seed coat, ''complete plant protein'', ''exceptionally high''.'
+  | 2026-11-19 (monograph-source audit): constituents[1] and [3] cited only REF-1264 (systematic review of animal diet studies). RE-SOURCED: mucilage Orifici 2018 (REF-3995, new) + Punia 2019 (REF-3996, new); protein and fibre reviews REF-1266 + REF-1272. Dropped as unsupported: seed coat, ''complete plant protein'', ''exceptionally high''.
+  | 2026-11-27: symptom-source audit research-deepening batch 30 - Searched PubMed (Salvia
+  hispanica / chia seed(s) / Salba tiab, "chia" in titles; Pistacia lentiscus var. Chia, mastic,
+  and the CHIA gene are not this plant: 55 HT, 23 SR, 73 SAFE hits), Europe PMC,
+  ClinicalTrials.gov (57) and OpenAlex. Cardiovascular-support and high-blood-pressure (9) were
+  not padded (2025 GRADE dose-response meta-analysis confirms the blood-pressure fall). Added:
+  2024 glycaemic meta-analysis as a NULL result on metabolic-support; 2026 chia allergy review as
+  a caution. GAPS: blood-sugar - three 2024-2025 meta-analyses found no effect on fasting glucose,
+  HbA1c or insulin, so no pair; high-cholesterol - a 2024 meta-regression of 14 RCTs found small
+  LDL and triglyceride falls at higher doses, but a 2024 meta-analysis in overweight adults found
+  no lipid change, so no pair; inflammation - a 2024 meta-analysis lowered CRP only (biomarker).
+  Not added: chia + fennel, nopal + chia + soy + oat, viscous fibre + Salba + ginseng
+  (combinations), satiety and postprandial single-meal studies, sport-performance trials, topical
+  chia oil pruritus study, a small HDL study without randomization details.'

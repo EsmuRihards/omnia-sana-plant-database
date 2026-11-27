@@ -185,9 +185,12 @@ indications:
   reference_ids:
   - REF-1276
   - REF-3744
+  - REF-5644
   status: needs-review
-  note: Sage reduced menopausal hot flashes in a meta-analysis of trials; its extract had estrogen-like
-    effects in rats (preclinical)
+  note: Sage reduced menopausal hot flashes in a meta-analysis of trials; in a 2021 randomized double-blind
+    trial in 80 menopausal women, fresh sage extract tablets (Menosan) for 4 weeks lowered the overall
+    menopause rating score by about 39% versus placebo, including physical and psychological symptoms;
+    its extract had estrogen-like effects in rats (preclinical)
 - condition: sore-throat
   note: A 15% sage spray relieved acute pharyngitis vs placebo in a randomized trial; traditional gargle
     for mouth and throat inflammation (EU herbal monograph)
@@ -201,21 +204,32 @@ indications:
   - REF-3745
   status: verified
 - condition: high-cholesterol
-  note: Sage leaf extract lowered total and LDL cholesterol and raised HDL vs placebo in randomized trials
+  note: Sage leaf extract lowered total and LDL cholesterol and raised HDL vs placebo in randomized trials;
+    a 2023 meta-analysis of three RCTs in diabetes found lower total and LDL cholesterol (triglycerides
+    and HDL unchanged)
   reference_ids:
   - REF-3746
   - REF-3747
+  - REF-5645
   status: verified
 - condition: blood-sugar
-  note: Sage leaves improved blood sugar control in hyperlipidaemic type 2 diabetes in a randomized trial
+  note: Sage leaves improved blood sugar control in hyperlipidaemic type 2 diabetes in a randomized trial;
+    a 2023 meta-analysis of three RCTs in diabetes found lower fasting blood sugar and HbA1c with sage
   reference_ids:
   - REF-3747
+  - REF-5645
   status: verified
 - condition: skin-irritation
   note: A sage extract cream reduced UV-induced skin redness as much as hydrocortisone vs placebo in a
     randomized trial
   reference_ids:
   - REF-3752
+  status: verified
+- condition: low-libido
+  note: In a 2023 randomized controlled trial in postmenopausal women, inhaling sage (Salvia officinalis)
+    scent for 6 weeks improved sexual function and satisfaction scores compared with a control group
+  reference_ids:
+  - REF-5646
   status: verified
 contraindications:
 - note: The essential oil contains thujone, which is neurotoxic and can trigger seizures in high doses
@@ -271,4 +285,22 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (
   group examined in the 2026 data-integrity analysis (Research Integrity and Peer Review, PMID
   42288935) questioned 223 RCTs from one psychopharmacology research group. Owner decision
   2026-11-25: leave existing pairs as they are and wait for the journals'' investigations; no new
-  support from that group is added meanwhile.'
+  support from that group is added meanwhile.
+  | 2026-11-27: symptom-source audit research-deepening batch 30 - Searched PubMed (Salvia
+  officinalis / common or garden sage / sage leaf, leaves, extract or tea tiab; bare "sage" was
+  not searched because it matches the SAGE publisher and acronyms, and Spanish sage S.
+  lavandulifolia is a different species: 72 HT, 20 SR, 151 SAFE hits), Europe PMC,
+  ClinicalTrials.gov (100) and OpenAlex. Research-integrity check: no new reference is first- or
+  last-authored by the flagged Tehran psychopharmacology group (author lists checked); existing
+  cognitive-function and memory pairs were left as they are. Cognitive-function and memory (9)
+  were not padded. Added: 2021 Menosan RCT to menopause (overall menopause rating; not added to
+  hot-flashes because the 2023 hot-flash meta-analysis already cited likely pools it); 2023
+  diabetes meta-analysis to blood-sugar and high-cholesterol (its pooled 2016 statin add-on RCT
+  was not cited separately); NEW low-libido pair (2023 aromatherapy RCT). Not added: 2019 and 2020
+  Iranian menopause studies (within-group or unclear between-group analysis), 2024 periodontitis
+  split-mouth gel trial (within-group), 2021 abdominal massage with sage oil for chemotherapy
+  nausea (no difference at one week), PCOS insulin-resistance and lipid trials (surrogate; no PCOS
+  condition), sage vs benzydamine and sage vs clotrimazole (active comparators), "clary sage"
+  study labelled S. officinalis (species unclear), sage + rosemary + melissa and other
+  mouthwash/lozenge combinations, 2012 ADT hot-flash pilot (single-arm), 2012 child seizure letter
+  (no abstract).'

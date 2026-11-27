@@ -54565,9 +54565,10 @@
      "status": "verified",
      "null_result_ids": [
       "REF-3743",
-      "REF-3739"
+      "REF-3739",
+      "REF-5650"
      ],
-     "note": "Chia reduced the blood sugar rise after a meal and prolonged fullness in a randomized trial; it did not reduce body weight in trials or a meta-analysis",
+     "note": "Chia reduced the blood sugar rise after a meal and prolonged fullness in a randomized trial; it did not reduce body weight in trials or a meta-analysis, and a 2024 meta-analysis of 8 RCTs found no effect on fasting blood sugar, HbA1c or insulin",
      "evidence": 5,
      "label": "Metabolic support"
     },
@@ -54615,6 +54616,14 @@
       "REF-0242",
       "REF-0297",
       "REF-0063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Allergy: chia seed can cause immediate IgE-mediated allergic reactions, including skin reactions and anaphylaxis (case reports and a case series), and its proteins may cross-react with sesame (narrative review).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5651"
      ],
      "status": "verified"
     }
@@ -54890,11 +54899,12 @@
      "condition": "menopause",
      "reference_ids": [
       "REF-1276",
-      "REF-3744"
+      "REF-3744",
+      "REF-5644"
      ],
      "status": "needs-review",
-     "note": "Sage reduced menopausal hot flashes in a meta-analysis of trials; its extract had estrogen-like effects in rats (preclinical)",
-     "evidence": 7,
+     "note": "Sage reduced menopausal hot flashes in a meta-analysis of trials; in a 2021 randomized double-blind trial in 80 menopausal women, fresh sage extract tablets (Menosan) for 4 weeks lowered the overall menopause rating score by about 39% versus placebo, including physical and psychological symptoms; its extract had estrogen-like effects in rats (preclinical)",
+     "evidence": 8,
      "label": "Menopause"
     },
     {
@@ -54920,23 +54930,25 @@
     },
     {
      "condition": "high-cholesterol",
-     "note": "Sage leaf extract lowered total and LDL cholesterol and raised HDL vs placebo in randomized trials",
+     "note": "Sage leaf extract lowered total and LDL cholesterol and raised HDL vs placebo in randomized trials; a 2023 meta-analysis of three RCTs in diabetes found lower total and LDL cholesterol (triglycerides and HDL unchanged)",
      "reference_ids": [
       "REF-3746",
-      "REF-3747"
+      "REF-3747",
+      "REF-5645"
      ],
      "status": "verified",
-     "evidence": 6,
+     "evidence": 9,
      "label": "High cholesterol"
     },
     {
      "condition": "blood-sugar",
-     "note": "Sage leaves improved blood sugar control in hyperlipidaemic type 2 diabetes in a randomized trial",
+     "note": "Sage leaves improved blood sugar control in hyperlipidaemic type 2 diabetes in a randomized trial; a 2023 meta-analysis of three RCTs in diabetes found lower fasting blood sugar and HbA1c with sage",
      "reference_ids": [
-      "REF-3747"
+      "REF-3747",
+      "REF-5645"
      ],
      "status": "verified",
-     "evidence": 5,
+     "evidence": 8,
      "label": "Blood sugar / diabetes support"
     },
     {
@@ -54948,6 +54960,16 @@
      "status": "verified",
      "evidence": 5,
      "label": "Skin irritation"
+    },
+    {
+     "condition": "low-libido",
+     "note": "In a 2023 randomized controlled trial in postmenopausal women, inhaling sage (Salvia officinalis) scent for 6 weeks improved sexual function and satisfaction scores compared with a control group",
+     "reference_ids": [
+      "REF-5646"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Low libido"
     }
    ],
    "contraindications": [
@@ -55227,7 +55249,6 @@
       "REF-0112"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [],
      "evidence": 1,
      "label": "Bloating"
     },
@@ -55276,7 +55297,6 @@
       "REF-4314"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [],
      "evidence": 1,
      "label": "Indigestion"
     },
@@ -55324,7 +55344,6 @@
       "REF-0112"
      ],
      "status": "needs-review",
-     "mechanistic_exclude_ids": [],
      "evidence": 1,
      "label": "Menstrual cramps"
     },
@@ -55357,11 +55376,12 @@
     },
     {
      "condition": "anxiety",
-     "note": "Rosemary reduced anxiety in randomized trials in students, in major depression as an add-on, and before surgery (aromatherapy)",
+     "note": "Rosemary reduced anxiety in randomized trials in students, in major depression as an add-on, and before surgery (aromatherapy); in a 2025 randomized double-blind placebo-controlled crossover trial in 40 healthy adults, rosemary extract for 4 weeks lowered trait anxiety",
      "reference_ids": [
       "REF-1291",
       "REF-3753",
-      "REF-3757"
+      "REF-3757",
+      "REF-5647"
      ],
      "status": "verified",
      "evidence": 7,
@@ -55397,6 +55417,26 @@
      "status": "verified",
      "evidence": 5,
      "label": "Oral & throat health"
+    },
+    {
+     "condition": "fatigue",
+     "note": "In a 2021 randomized controlled trial in 80 shift-working nurses, inhaling rosemary essential oil reduced night-shift sleepiness and increased alertness compared with no aroma",
+     "reference_ids": [
+      "REF-5648"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Fatigue / low energy"
+    },
+    {
+     "condition": "sore-throat",
+     "note": "In a 2025 randomized trial in 90 people having endotracheal intubation for kidney-stone surgery, gauze soaked in rosemary extract placed in the throat reduced post-operative sore throat and hoarseness compared with distilled water",
+     "reference_ids": [
+      "REF-5649"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Sore throat"
     }
    ],
    "contraindications": [
@@ -55756,6 +55796,22 @@
       "REF-0063"
      ],
      "status": "verified"
+    },
+    {
+     "note": "Pancreas: a 75-year-old woman taking daily black elderberry extract developed mild acute pancreatitis that settled after she stopped it; causality was rated possible because other causes could not be fully excluded (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5652"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Liver: a person developed autoimmune hepatitis while taking elderberry-containing supplements long term; the authors consider the association plausible (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5653"
+     ],
+     "status": "verified"
     }
    ],
    "references": [
@@ -55800,6 +55856,7 @@
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-08-15",
+   "drug_class_interactions": [],
    "common_slug": "elder"
   },
   {

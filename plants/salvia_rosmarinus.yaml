@@ -181,7 +181,6 @@ indications:
   reference_ids:
   - REF-0112
   status: needs-review
-  mechanistic_exclude_ids: []
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
@@ -210,7 +209,6 @@ indications:
   - REF-0112
   - REF-4314
   status: needs-review
-  mechanistic_exclude_ids: []
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
@@ -238,7 +236,6 @@ indications:
   reference_ids:
   - REF-0112
   status: needs-review
-  mechanistic_exclude_ids: []
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
@@ -256,11 +253,13 @@ indications:
   - REF-1286
 - condition: anxiety
   note: Rosemary reduced anxiety in randomized trials in students, in major depression as an add-on, and
-    before surgery (aromatherapy)
+    before surgery (aromatherapy); in a 2025 randomized double-blind placebo-controlled crossover trial
+    in 40 healthy adults, rosemary extract for 4 weeks lowered trait anxiety
   reference_ids:
   - REF-1291
   - REF-3753
   - REF-3757
+  - REF-5647
   status: verified
 - condition: depression
   note: Rosemary reduced depression scores in randomized trials in students and as an add-on in major
@@ -279,6 +278,19 @@ indications:
     trial
   reference_ids:
   - REF-3756
+  status: verified
+- condition: fatigue
+  note: In a 2021 randomized controlled trial in 80 shift-working nurses, inhaling rosemary essential
+    oil reduced night-shift sleepiness and increased alertness compared with no aroma
+  reference_ids:
+  - REF-5648
+  status: verified
+- condition: sore-throat
+  note: In a 2025 randomized trial in 90 people having endotracheal intubation for kidney-stone surgery,
+    gauze soaked in rosemary extract placed in the throat reduced post-operative sore throat and hoarseness
+    compared with distilled water
+  reference_ids:
+  - REF-5649
   status: verified
 contraindications:
 - note: Culinary use is entirely safe. Essential oil should not be ingested in large amounts; avoid during
@@ -349,4 +361,17 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (minor peripheral circulatory disorders) and indigestion (dyspepsia) pairs and the antispasmodic
   action (mild spasmodic disorders of the GI tract); traditional tier, no score change. The bloating,
   infection, menstrual-cramps and skin-irritation pairs rest only on Hoffmann (print, unreadable) and
-  are listed for owner review.'
+  are listed for owner review.
+  | 2026-11-27: symptom-source audit research-deepening batch 30 - Searched PubMed (Salvia
+  rosmarinus / Rosmarinus officinalis / rosemary tiab: 189 HT, 39 SR, 446 SAFE hits; most SAFE
+  hits were food-preservation and animal studies), Europe PMC, ClinicalTrials.gov (16) and
+  OpenAlex. Research-integrity check: none of the new trials is from the flagged group.
+  Cognitive-function and memory (9) were not padded. Added: 2025 Japanese crossover to anxiety;
+  NEW fatigue pair (2021 nurses inhalation RCT) and NEW sore-throat pair (2025 post-intubation
+  RCT). Not added: 2022 NAFLD rosemary powder + diet RCT (no difference from placebo except one
+  insulin index; there is no liver pair), 2019 rosemary tea in type 2 diabetes (single-arm), 2020
+  post-hoc mood subgroup (8 vs 13 people), rosemary vs minoxidil, vs mefenamic acid, vs
+  ketoconazole and vs menthol (active comparators), lavender + rosemary and other aromatherapy
+  blends, multi-ingredient supplements and toothpastes, 2013 opium withdrawal and 2014
+  low-blood-pressure studies (no vocabulary condition), hair-growth trials (no vocabulary
+  condition).'

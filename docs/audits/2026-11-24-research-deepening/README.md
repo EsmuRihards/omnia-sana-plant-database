@@ -71,3 +71,4 @@ rebased onto `osdb/main` before each push, because another session edits the mai
 | 27 | pygeum, wild cherry, psilocybin mushroom, lungwort, Japanese knotweed | REF-5612..5626 (15) | 1,516 -> 1,516 | `batches/r27_report.md` |
 | 28 | rhodiola, marsh Labrador tea, blackcurrant, dog rose, Japanese rose | REF-5627..5635 (9) | 1,516 -> 1,519 | `batches/r28_report.md` |
 | 29 | blackberry, raspberry leaf, sorrel, butcher's broom, white willow | REF-5636..5643 (8) | 1,519 -> 1,519 | `batches/r29_report.md` |
+| 30 | chia, sage, rosemary, elder, soapwort | REF-5644..5654 (11) | 1,519 -> 1,522 | `batches/r30_report.md` |

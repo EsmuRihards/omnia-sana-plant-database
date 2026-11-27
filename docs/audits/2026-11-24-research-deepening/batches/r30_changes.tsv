@@ -1,0 +1,18 @@
+plant	condition	ref	op
+salvia_hispanica	metabolic-support	REF-5650	nulladd
+salvia_hispanica	metabolic-support	-	note
+salvia_officinalis	menopause	REF-5644	add
+salvia_officinalis	menopause	-	note
+salvia_officinalis	blood-sugar	REF-5645	add
+salvia_officinalis	blood-sugar	-	note
+salvia_officinalis	high-cholesterol	REF-5645	add
+salvia_officinalis	high-cholesterol	-	note
+salvia_officinalis	low-libido	REF-5646	newpair
+salvia_rosmarinus	anxiety	REF-5647	add
+salvia_rosmarinus	anxiety	-	note
+salvia_rosmarinus	fatigue	REF-5648	newpair
+salvia_rosmarinus	sore-throat	REF-5649	newpair
+salvia_hispanica	cinew	Allergy: chia seed can cause immediate I	REF-5651
+sambucus_nigra	cinew	Pancreas: a 75-year-old woman taking dai	REF-5652
+sambucus_nigra	cinew	Liver: a person developed autoimmune hep	REF-5653
+sambucus_nigra	dcinew	chemotherapy-agents	REF-5654

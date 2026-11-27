@@ -14229,7 +14229,8 @@
      "references": [
       "REF-1291",
       "REF-3753",
-      "REF-3757"
+      "REF-3757",
+      "REF-5647"
      ]
     },
     {
@@ -14241,6 +14242,16 @@
      "references": [
       "REF-1291",
       "REF-3753"
+     ]
+    },
+    {
+     "condition": "fatigue",
+     "label": "Fatigue / low energy",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5648"
      ]
     },
     {
@@ -14261,6 +14272,16 @@
      "inferred": false,
      "references": [
       "REF-3756"
+     ]
+    },
+    {
+     "condition": "sore-throat",
+     "label": "Sore throat",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-5649"
      ]
     },
     {
@@ -14581,6 +14602,18 @@
      ]
     },
     {
+     "condition": "high-cholesterol",
+     "label": "High cholesterol",
+     "evidence": 9,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3746",
+      "REF-3747",
+      "REF-5645"
+     ]
+    },
+    {
      "condition": "memory",
      "label": "Memory",
      "evidence": 9,
@@ -14592,6 +14625,29 @@
       "REF-1279",
       "REF-3748",
       "REF-3751"
+     ]
+    },
+    {
+     "condition": "blood-sugar",
+     "label": "Blood sugar / diabetes support",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3747",
+      "REF-5645"
+     ]
+    },
+    {
+     "condition": "menopause",
+     "label": "Menopause",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1276",
+      "REF-3744",
+      "REF-5644"
      ]
     },
     {
@@ -14607,35 +14663,13 @@
      ]
     },
     {
-     "condition": "menopause",
-     "label": "Menopause",
-     "evidence": 7,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-1276",
-      "REF-3744"
-     ]
-    },
-    {
-     "condition": "high-cholesterol",
-     "label": "High cholesterol",
-     "evidence": 6,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-3746",
-      "REF-3747"
-     ]
-    },
-    {
-     "condition": "blood-sugar",
-     "label": "Blood sugar / diabetes support",
+     "condition": "low-libido",
+     "label": "Low libido",
      "evidence": 5,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-3747"
+      "REF-5646"
      ]
     },
     {

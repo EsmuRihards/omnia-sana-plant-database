@@ -244,6 +244,19 @@ contraindications:
   - REF-0316
   - REF-0063
   status: verified
+- note: 'Pancreas: a 75-year-old woman taking daily black elderberry extract developed mild acute pancreatitis
+    that settled after she stopped it; causality was rated possible because other causes could not be
+    fully excluded (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5652
+  status: verified
+- note: 'Liver: a person developed autoimmune hepatitis while taking elderberry-containing supplements
+    long term; the authors consider the association plausible (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5653
+  status: verified
 references:
 - REF-1015
 - REF-1016
@@ -319,4 +332,24 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   monograph REF-0085 (now linked) states use and posology only, so the description, habitat and
   harvest it carried are re-sourced to WHO Flos Sambuci REF-4308 and Grieve''s Elder REF-4309. Dropped
   as unsourced: 3-10 m, corky grey-brown bark, 5-7 leaflets, berry harvest timing, ''flu'' in the
-  infusion text.'
+  infusion text.
+  | 2026-11-27: symptom-source audit research-deepening batch 30 - Searched PubMed (Sambucus nigra
+  / elderberry / elderberries / black elderberry / European elder / Sambucol / elderflower tiab;
+  bare "elder" was not searched because it matches older people: 96 HT, 14 SR, 122 SAFE hits; many
+  hits use Sambucus nigra lectin as a laboratory glycan stain), Europe PMC, ClinicalTrials.gov
+  (11) and OpenAlex. Cold (9) and respiratory-support (8) were not padded. Added: 2026 possible
+  pancreatitis case and 2022 autoimmune hepatitis case as cautions; 2024 pazopanib liver-injury
+  case as a DRAFT chemotherapy-agents interaction (insufficient; needs owner approval). Not added:
+  American elderberry (Sambucus canadensis) cognition trials (other species), one-week elderberry
+  juice metabolic studies (surrogate), lutein + zeaxanthin + elderberry dry-eye trial, elderberry
+  + violet + calendula COPD study, Sinupret-type combinations and pediatric immune blends
+  (combinations), 2020 pancreatitis case (no abstract).'
+drug_class_interactions:
+- drug_class: chemotherapy-agents
+  severity: insufficient
+  mechanism: A woman who had taken elderberry flower supplements for years developed severe nausea, diarrhoea
+    and grade 3 liver injury four weeks after starting the cancer drug pazopanib; liver tests recovered
+    after both were stopped, and the authors suggest a possible interaction (case report).
+  reference_ids:
+  - REF-5654
+  status: draft

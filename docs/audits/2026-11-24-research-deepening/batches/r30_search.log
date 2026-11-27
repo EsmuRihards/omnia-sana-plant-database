@@ -1,0 +1,42 @@
+   salvia-hispanica HT 55
+   salvia-hispanica SR 23
+   salvia-hispanica SAFE 73
+   salvia-hispanica OBS 4
+   salvia-hispanica REV 69
+salvia-hispanica done
+   salvia-officinalis HT 72
+   salvia-officinalis SR 20
+   salvia-officinalis SAFE 151
+   salvia-officinalis OBS 15
+   salvia-officinalis REV 48
+salvia-officinalis done
+   salvia-rosmarinus HT 189
+   salvia-rosmarinus SR 39
+   salvia-rosmarinus SAFE 446
+   salvia-rosmarinus OBS 31
+   salvia-rosmarinus REV 291
+salvia-rosmarinus done
+   sambucus-nigra HT 96
+   sambucus-nigra SR 14
+   sambucus-nigra SAFE 122
+   sambucus-nigra OBS 19
+   sambucus-nigra REV 89
+sambucus-nigra done
+   saponaria-officinalis HT 2
+   saponaria-officinalis SR 1
+   saponaria-officinalis SAFE 18
+   saponaria-officinalis OBS 0
+   saponaria-officinalis REV 10
+saponaria-officinalis done
+
+PUBMED-DONE
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22Salvia+hispanica%22%29+AND+%28%22systema <urlopen error [Errno 11004] getaddrinfo failed>
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22Salvia+hispanica%22%29+AND+%28%22systema <urlopen error [Errno 11001] getaddrinfo failed>
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22Salvia+hispanica%22%29+AND+%28%22systema <urlopen error [Errno 11001] getaddrinfo failed>
+salvia-hispanica done
+salvia-officinalis done
+salvia-rosmarinus done
+sambucus-nigra done
+saponaria-officinalis done
+# Research-deepening batch 30 - Europe PMC
+SEARCH-DONE

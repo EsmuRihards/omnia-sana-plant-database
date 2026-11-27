@@ -166,6 +166,22 @@ contraindications:
   reference_ids:
   - REF-0424
   status: needs-review
+- note: 'Diabetes: a 39-year-old woman with diabetes developed diabetic ketoacidosis 5 days after starting
+    butcher''s broom for mild ankle swelling; butcher''s broom contains substances with alpha-adrenergic
+    stimulating effects (case report).'
+  severity: caution
+  reference_ids:
+  - REF-5636
+  status: verified
+- note: 'Bowel: long-term use of Cyclo 3 Fort, a product combining butcher''s broom extract with hesperidin
+    methyl chalcone and vitamin C, has been linked to chronic watery diarrhoea and lymphocytic colitis
+    starting 1 to 3 months after the first dose, with weight loss and low potassium in some people; it
+    resolved when the product was stopped (case series).'
+  severity: caution
+  reference_ids:
+  - REF-5637
+  - REF-5638
+  status: verified
 references:
 - REF-1553
 - REF-1554
@@ -206,4 +222,15 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Planta Medica p
   four-ingredient preparation REF-1560 removed from pairs/actions (kept in references) -
   combinations. The Ruscus-only placebo RCT REF-1554 (Vanscheidt 2002) wired to varicose-veins and
   swelling. Pain dropped: its only cards were the genus review, a Polish review and the
-  combination MA, none naming pain for Ruscus alone. Four reviews retagged narrative-review.'
+  combination MA, none naming pain for Ruscus alone. Four reviews retagged narrative-review.
+  | 2026-11-27: symptom-source audit research-deepening batch 29 - Searched PubMed (Ruscus
+  aculeatus / butcher''s broom / ruscogenin(s) / Cyclo 3 Fort tiab, "Ruscus" in titles: 27 HT, 8
+  SR, 39 SAFE hits), Europe PMC, ClinicalTrials.gov (7) and OpenAlex. Varicose-veins and swelling
+  (5) were not raised: nearly all trials and the 2017 meta-analysis test Cyclo 3 Fort or
+  Phlebodril (butcher''s broom + hesperidin methyl chalcone + vitamin C, combinations), and the
+  one butcher''s-broom-only RCT here (1990 topical cream in 18 healthy volunteers) measured vein
+  diameter only (surrogate). Added: 2013 diabetic ketoacidosis case and the Cyclo 3 Fort
+  lymphocytic colitis / chronic diarrhoea case series as cautions (the colitis caution names the
+  combination product). Not added: ruscogenin contact-dermatitis letters (no abstracts), diosmin +
+  Ruscus + Melilotus + grape and other phlebotonic blends, ruscogenin from Ophiopogon or Liriope
+  (other plants).'

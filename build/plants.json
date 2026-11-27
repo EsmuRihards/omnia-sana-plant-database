@@ -53724,6 +53724,14 @@
       "REF-0063"
      ],
      "status": "verified"
+    },
+    {
+     "note": "Foraging: a woman who made a smoothie from wild plants picked in the woods mistook foxglove (Digitalis purpurea) for common sorrel and developed foxglove poisoning, with persistent vomiting and ECG changes; a normal digoxin blood test does not rule this out (case report).",
+     "severity": "warning",
+     "reference_ids": [
+      "REF-5639"
+     ],
+     "status": "verified"
     }
    ],
    "references": [
@@ -53986,6 +53994,23 @@
       "REF-0424"
      ],
      "status": "needs-review"
+    },
+    {
+     "note": "Diabetes: a 39-year-old woman with diabetes developed diabetic ketoacidosis 5 days after starting butcher's broom for mild ankle swelling; butcher's broom contains substances with alpha-adrenergic stimulating effects (case report).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5636"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Bowel: long-term use of Cyclo 3 Fort, a product combining butcher's broom extract with hesperidin methyl chalcone and vitamin C, has been linked to chronic watery diarrhoea and lymphocytic colitis starting 1 to 3 months after the first dose, with weight loss and low potassium in some people; it resolved when the product was stopped (case series).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-5637",
+      "REF-5638"
+     ],
+     "status": "verified"
     }
    ],
    "references": [
@@ -54282,7 +54307,9 @@
      "note": "Because it works like aspirin, avoid willow bark if you are allergic to aspirin or salicylates, and do NOT give it to children or teenagers with a viral illness (risk of Reye's syndrome). Use caution in asthma (salicylate sensitivity).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0530"
+      "REF-0530",
+      "REF-5641",
+      "REF-5642"
      ],
      "status": "verified"
     },
@@ -54290,7 +54317,17 @@
      "note": "Avoid with anticoagulant/antiplatelet medicines (bleeding risk) and in active peptic ulcer; avoid in pregnancy (especially the third trimester) and breastfeeding.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0530"
+      "REF-0530",
+      "REF-5640",
+      "REF-5641"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Lab safety: white willow bark extract given to mice at up to 2,000 mg/kg daily for 7 days caused no DNA damage or chromosome changes in blood, liver, bone marrow, heart or testis cells (animal study).",
+     "severity": "info",
+     "reference_ids": [
+      "REF-5643"
      ],
      "status": "verified"
     }

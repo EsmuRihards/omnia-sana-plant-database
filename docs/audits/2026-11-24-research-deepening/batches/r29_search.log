@@ -1,0 +1,40 @@
+   rubus-fruticosus HT 12
+   rubus-fruticosus SR 1
+   rubus-fruticosus SAFE 37
+   rubus-fruticosus OBS 1
+   rubus-fruticosus REV 17
+rubus-fruticosus done
+   rubus-idaeus HT 63
+   rubus-idaeus SR 8
+   rubus-idaeus SAFE 142
+   rubus-idaeus OBS 12
+   rubus-idaeus REV 57
+rubus-idaeus done
+   rumex-acetosa HT 2
+   rumex-acetosa SR 1
+   rumex-acetosa SAFE 10
+   rumex-acetosa OBS 0
+   rumex-acetosa REV 6
+rumex-acetosa done
+   ruscus-aculeatus HT 27
+   ruscus-aculeatus SR 8
+   ruscus-aculeatus SAFE 39
+   ruscus-aculeatus OBS 5
+   ruscus-aculeatus REV 28
+ruscus-aculeatus done
+   salix-alba HT 36
+   salix-alba SR 10
+   salix-alba SAFE 66
+   salix-alba OBS 4
+   salix-alba REV 46
+salix-alba done
+
+PUBMED-DONE
+rubus-fruticosus done
+rubus-idaeus done
+rumex-acetosa done
+  !! request failed: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3A%22Ruscus+aculeatus%22+OR+TITLE%3A%22Butche The read operation timed out
+ruscus-aculeatus done
+salix-alba done
+# Research-deepening batch 29 - Europe PMC
+SEARCH-DONE

@@ -205,12 +205,22 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0530
+  - REF-5641
+  - REF-5642
   status: verified
 - note: Avoid with anticoagulant/antiplatelet medicines (bleeding risk) and in active peptic ulcer; avoid
     in pregnancy (especially the third trimester) and breastfeeding.
   severity: caution
   reference_ids:
   - REF-0530
+  - REF-5640
+  - REF-5641
+  status: verified
+- note: 'Lab safety: white willow bark extract given to mice at up to 2,000 mg/kg daily for 7 days caused
+    no DNA damage or chromosome changes in blood, liver, bone marrow, heart or testis cells (animal study).'
+  severity: info
+  reference_ids:
+  - REF-5643
   status: verified
 references:
 - REF-1253
@@ -251,4 +261,16 @@ internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (
   REF-3737 (no relevant efficacy) recorded as no-effect; rofecoxib-comparison LBP RCT REF-3738
   added. Inflammation now mechanistic (none of its cards names inflammation); calf PGE2 study
   REF-1256 removed from the action.
-  | 2026-11-19 (monograph-source audit): preparations[1] (''standardised to salicin, the form used in trials'') cited only REF-0529. Now WHO Cortex Salicis vol. 4 (REF-3994, new) + REF-0529 as it states (ethanolic extracts, up to 240 mg salicin/day, up to six weeks). Note WHO''s monograph covers several Salix species, S. alba among them; the dose is given per salicin, not per species.'
+  | 2026-11-19 (monograph-source audit): preparations[1] (''standardised to salicin, the form used in trials'') cited only REF-0529. Now WHO Cortex Salicis vol. 4 (REF-3994, new) + REF-0529 as it states (ethanolic extracts, up to 240 mg salicin/day, up to six weeks). Note WHO''s monograph covers several Salix species, S. alba among them; the dose is given per salicin, not per species.
+  | 2026-11-27: symptom-source audit research-deepening batch 29 - Searched PubMed (Salix alba /
+  white willow / willow bark / Salicis cortex tiab: 36 HT, 10 SR, 66 SAFE hits), Europe PMC,
+  ClinicalTrials.gov (6) and OpenAlex. Back-pain and pain (9) and arthritis (8) were not padded
+  (2023 Salix spp. arthritis meta-analysis of six RCTs, 2007/2016 Cochrane back-pain reviews, STW
+  33-I long-term and 2008 multicentre studies). Added: 2001 randomized platelet study (willow bark
+  with 240 mg salicin inhibited platelets far less than aspirin but more than placebo) and the
+  2019 USP safety review to the bleeding caution; the USP review and a 2003 anaphylaxis case
+  (willow-bark-containing supplement in a woman with aspirin allergy) to the aspirin-allergy
+  caution; 2022 mouse genotoxicity study as an info note. Not added: 2017 fatal infant liver
+  failure after willow bark tea + acetaminophen (no abstract), 2021 HepaRG CYP study (Salix
+  pentandra and an unspecified reference extract), fat-burner and weight-loss supplement cases
+  (multi-ingredient), willow pollen allergy (not related to use), topical and cosmetic blends.'

@@ -201,6 +201,13 @@ contraindications:
   - REF-0241
   - REF-0063
   status: verified
+- note: 'Foraging: a woman who made a smoothie from wild plants picked in the woods mistook foxglove (Digitalis
+    purpurea) for common sorrel and developed foxglove poisoning, with persistent vomiting and ECG changes;
+    a normal digoxin blood test does not rule this out (case report).'
+  severity: warning
+  reference_ids:
+  - REF-5639
+  status: verified
 references:
 - REF-0890
 - REF-0891
@@ -274,4 +281,12 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-11-20 locatorless-ref audit (scripts/audit_locatorless_refs.py): generic Grieve REF-0098
   replaced by Grieve''s Common Sorrel entry REF-3761 where it states the claim (Culpepper: ''to cool
   any inflammation''; appetite; refrigerant and diuretic) and removed elsewhere. Chevallier REF-0048
-  (print) kept.'
+  (print) kept.
+  | 2026-11-27: symptom-source audit research-deepening batch 29 - Searched PubMed (Rumex acetosa
+  / garden sorrel / common sorrel tiab; bare "sorrel" was not searched because it also means
+  Jamaican sorrel, Hibiscus sabdariffa: 2 HT, 1 SR, 10 SAFE hits), Europe PMC, ClinicalTrials.gov
+  (1) and OpenAlex. Added: 2020 Dutch case of foxglove mistaken for common sorrel as a foraging
+  WARNING (owner flag: a formal Dangerous Lookalikes entry for foxglove is queued). Not added:
+  2015 acute tubulointerstitial nephritis after a large sorrel intake (letter, no abstract),
+  periodontal proanthocyanidin extract RCT (held), veterinary and plant-genetics studies. Settled
+  for human efficacy evidence.'

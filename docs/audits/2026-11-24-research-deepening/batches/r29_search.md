@@ -1,0 +1,992 @@
+# Research-deepening batch 29 - search
+
+## rubus-fruticosus (Rubus fruticosus) - name clause: "Rubus fruticosus"[tiab] OR "blackberry leaf"[tiab] OR "blackberry leaves"[tiab] OR "bramble"[tiab] OR "European blackberry"[tiab] OR "blackberry"[ti]
+
+### PubMed HT - 12 hits, 12 not already listed above, 12 new
+- new | 2026 | 42391292 |  | Morpho-biochemical diversity and phytochemical profiling of Rubus fruticosus L. landraces. | PLoS One
+- new | 2026 | 42073244 | Review | Polyphenol Composition, Antioxidant Properties, and Health Benefits of Moroccan-Cultivated Raspberries, Blackberries, and Blueberries: A Comprehensive Review. | Foods
+- new | 2022 | 36037565 | Randomized Controlled Trial | Effect of chewing gum containing Xylitol and blackberry powder on oral bacteria: A randomized controlled crossover trial. | Arch Oral Biol
+- new | 2021 | 34082472 | Case Reports | Long-term effectiveness and safety of bladder augmentation in spina bifida patients. | Neurourol Urodyn
+- new | 2020 | 32583541 | Randomized Controlled Trial | A blackberry-dill extract combination synergistically increases skin elasticity. | Int J Cosmet Sci
+- new | 2018 | 30096878 | Randomized Controlled Trial | Blackberry Feeding Increases Fat Oxidation and Improves Insulin Sensitivity in Overweight and Obese Males. | Nutrients
+- new | 2016 | 27306520 | Randomized Controlled Trial | Pharmacokinetics of blackberry anthocyanins consumed with or without ethanol: A randomized and crossover trial. | Mol Nutr Food Res
+- new | 2015 | 26622259 |  | Effects of blackberry (Morus nigra L.) consumption on serum concentration of lipoproteins, apo A-I, apo B, and high-sensitivity-C-reactive protein and blood pressure in dyslipidemi | J Res Med Sci
+- new | 2012 | 22676379 |  | A usability study of patients setting up a cardiac event loop recorder and BlackBerry gateway for remote monitoring at home. | Telemed J E Health
+- new | 2008 | 19068938 | Evaluation Study/Research Support, Non-U.S. Gov't | Demonstrating the BlackBerry as a clinical communication tool: a pilot study conducted through the Centre for Innovation in Complex Care. | Healthc Q
+- new | 2005 | 16190623 |  | Blackberry anthocyanins are mainly recovered from urine as methylated and glucuronidated conjugates in humans. | J Agric Food Chem
+- new | 1992 | 1472880 | Interview | Sharon Schnare: advocate for women. Interview by Karna Bramble. | Nurse Pract Forum
+
+### PubMed SR - 1 hits, 0 not already listed above, 0 new
+
+### PubMed SAFE - 37 hits, 35 not already listed above, 34 new
+- new | 2026 | 41582460 | Case Reports | A 34-Year-Old Man With a Traumatic Penetrating Injury of the Buttock and Occult Retained Foreign Body Resulting in a High Anal Fistula Managed by Trans-Sphincteric Surgery. | Am J Case Rep
+- new | 2025 | 40368975 |  | Intranasal delivery of blackberry-loaded Chitosan nanoparticles for antipsychotic potential in Ketamine-induced schizophrenia in rats. | Sci Rep
+- new | 2025 | 40692537 |  | Blackberry-Like Doxorubicin Loaded Hyaluronic Acid/Zinc Phthalocyanine Loaded Mesoporous Silica Nanocomposites for Long-Term Tumor Photodynamic and Chemotherapy Synergistic Therapy | Int J Nanomedicine
+- new | 2024 | 38391567 |  | Specific Antimicrobial Activities Revealed by Comparative Evaluation of Selected Gemmotherapy Extracts. | Antibiotics (Basel)
+- new | 2024 | 37792428 |  | Effect of Blackberry Juice Consumption by Pregnant Rats on Brain Length and Cell Density of Dentate Gyrus in Male Wistar Pups. | J Med Food
+- new | 2023 | 36984859 |  | Blackberry-Loaded AgNPs Attenuate Hepatic Ischemia/Reperfusion Injury via PI3K/Akt/mTOR Pathway. | Metabolites
+- new | 2022 | 37044893 |  | Identification based on morphological and molecular characters of Phassus huebneri (Geyer) (Lepidoptera: Hepialidae), a ghost moth feeding on blackberry in Michoacán, Mexico: its b | Zootaxa
+- new | 2022 | 35455979 |  | The Chemopreventive Effects of Polyphenols and Coffee, Based upon a DMBA Mouse Model with microRNA and mTOR Gene Expression Biomarkers. | Cells
+- new | 2022 | 36035697 |  | Induced polyploidy deeply influences reproductive life cycles, related phytochemical features, and phytohormonal activities in blackberry species. | Front Plant Sci
+- new | 2021 | 35070554 | Case Reports | A Thorn in a Haystack: A Rare Case of Septic Arthritis. | Cureus
+- new | 2020 | 32258148 |  | Isolation of Quercetin from Rubus fruticosus, Their Concentration through NF/RO Membranes, and Recovery through Carbon Nanocomposite. A Pilot Plant Study. | Biomed Res Int
+- new | 2020 | 30717568 | Case Reports | A small blackberry-like nodule on the nipple in a pregnant affected by tuberous sclerosis complex. | G Ital Dermatol Venereol
+- new | 2020 | 32450572 |  | Wild Strawberry, Blackberry, and Blueberry Leaf Extracts Alleviate Starch-Induced Hyperglycemia in Prediabetic and Diabetic Mice. | Planta Med
+- new | 2020 | 32472770 | Case Reports | Balanitis Xerotica Obliterans Associated With Differentiated Penile Intraepithelial Neoplasia and "Bramble-Bush" Elastic Fibers Accumulation: A Finding Not Specific for Penicillami | Am J Dermatopathol
+- new | 2020 | 32892290 |  | Plant cell cultures as food-aspects of sustainability and safety. | Plant Cell Rep
+- new | 2020 | 32442568 |  | The efficiency of blackberry loaded AgNPs, AuNPs and Ag@AuNPs mediated pectin in the treatment of cisplatin-induced cardiotoxicity in experimental rats. | Int J Biol Macromol
+- new | 2016 | 27110970 | Research Support, Non-U.S. Gov't | Bioaccumulation of HMW PAHs in the roots of wild blackberry from the Bor region (Serbia): Phytoremediation and biomonitoring aspects. | Sci Total Environ
+- new | 2015 | 25918918 |  | Protective effects of blackberry and quercetin on sodium fluoride-induced oxidative stress and histological changes in the hepatic, renal, testis and brain tissue of male rat. | J Basic Clin Physiol Pharmacol
+- HELD REF-0713 | 2014 | 25072202 | Review | Rubus fruticosus L.: constituents, biological activities and health related uses. | Molecules
+- new | 2014 | 30708565 |  | A Conceptual Model to Describe the Decline of European Blackberry (Rubus anglocandicans), A Weed of National Significance in Australia. | Plant Dis
+- new | 2013 | 23711186 | Research Support, Non-U.S. Gov't | Protective effect of tropical highland blackberry juice (Rubus adenotrichos Schltdl.) against UVB-mediated damage in human epidermal keratinocytes and in a reconstituted skin equiv | Photochem Photobiol
+- new | 2013 | 22959097 | Case Reports | Blackberry pigment (whitlockite) gallstones in uremic patient. | Clin Res Hepatol Gastroenterol
+- new | 2013 | 23773797 | Research Support, Non-U.S. Gov't | Acute toxicity, brine shrimp cytotoxicity, anthelmintic and relaxant potentials of fruits of Rubus fruticosus Agg. | BMC Complement Altern Med
+- new | 2013 | 22812456 | Research Support, N.I.H., Extramural | Antibacterial effects of blackberry extract target periodontopathogens. | J Periodontal Res
+- new | 2011 | 21549078 | Case Reports/Review | D-penicillamine elastosis perforans serpiginosa: description of two cases and review of the literature. | Dermatol Online J
+- new | 2010 | 20226906 |  | What ring tone should be used for patient safety? Early results with a Blackberry-based telementoring safety solution. | Am J Surg
+- new | 2009 | 20351815 |  | Heralding new ringtones of patient safety: Blackberry-based clinical communication and telementoring in laparoscopic surgery. | AMIA Annu Symp Proc
+- new | 2009 | 19293020 | Case Reports | Penicillamine-induced elastosis of the mucosal lip. | J Am Acad Dermatol
+- new | 2009 | 18998055 | Case Reports/Research Support, Non-U.S. Gov't | Blackberry-induced hand-foot skin reaction to sunitinib. | Invest New Drugs
+- new | 2006 | 16618699 |  | Cyanidin-3-glucoside, a natural product derived from blackberry, exhibits chemopreventive and chemotherapeutic activity. | J Biol Chem
+- new | 2006 | 16455409 | Research Support, Non-U.S. Gov't | Blackberry (Rubus spp.): a pH-dependent oral contrast medium for gastrointestinal tract images by magnetic resonance imaging. | Magn Reson Imaging
+- new | 2004 | 15572301 |  | Blackberry extracts inhibit activating protein 1 activation and cell transformation by perturbing the mitogenic signaling pathway. | Nutr Cancer
+- new | 1992 | 1571366 |  | Plant sterol biosynthesis: 7-oxo-obtusifoliol analogues as potential selective inhibitors of cytochrome P-450 dependent obtusifoliol 14 alpha-demethylase. | Biochim Biophys Acta
+- new | 1983 | 6309111 | Case Reports | [Fungal osteoarthritis of the knee with joint destruction treated with ketoconazole]. | Arch Fr Pediatr [fre]
+- new | 1969 | 4975879 |  | [Action of 2 barbiturates on normal bramble tissue: toxicity and absorption]. | C R Acad Hebd Seances Acad Sci D [fre]
+
+### PubMed OBS - 1 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 17 hits, 14 not already listed above, 13 new
+- new | 2026 | 42739423 | Review | From Invasive Bramble to Functional Browse: A Translational Review of Rubus ulmifolius Schott for Sheep Nutrition. | Plants (Basel)
+- new | 2026 | 42299471 | Review | Dental Morphology of Prickly and Bramble Sharks (Echinorhinidae). | J Morphol
+- new | 2024 | 38073405 | Review | Rubus moluccanus L.: a valuable medicinal plant of traditional system of medicine. | Nat Prod Res
+- new | 2023 | 35209815 | Review | Nutraceutical Potential of High-latitude and High-altitude Berries Rich in Ellagitannins. | Curr Med Chem
+- new | 2023 | 37569399 | Review | Blackberries and Mulberries: Berries with Significant Health-Promoting Properties. | Int J Mol Sci
+- new | 2022 | 36365189 | Review | Evidence-Based Anti-Diabetic Properties of Plant from the Occitan Valleys of the Piedmont Alps. | Pharmaceutics
+- new | 2022 | 36615843 | Review | Selected Seeds as Sources of Bioactive Compounds with Diverse Biological Activities. | Nutrients
+- new | 2021 | 34959467 | Review | Can Plant Materials Be Valuable in the Treatment of Periodontal Diseases? Practical Review. | Pharmaceutics
+- new | 2018 | 29489353 | Review | Historical Review on the Identification of Mesifurane, 2,5-Dimethyl-4-methoxy-3(2 H)-furanone, and Its Occurrence in Berries and Fruits. | J Agric Food Chem
+- new | 2017 | 27704619 | Review | The contribution of policy, law, management, research, and advocacy failings to the recent extinctions of three Australian vertebrate species. | Conserv Biol
+- HELD REF-2549 | 2014 | 25125882 | Review | Rubus fruticosus (blackberry) use as an herbal medicine. | Pharmacogn Rev
+- new | 2012 | 22453643 | Review | Link technologies and BlackBerry mobile health (mHealth) solutions: a review. | IEEE Trans Inf Technol Biomed
+- new | 2012 | 22082199 | Review | The blackberry fruit: a review on its composition and chemistry, metabolism and bioavailability, and health benefits. | J Agric Food Chem
+- new | 2001 | 11509765 | Review | Where have all the flowers gone? Are our woodland flowers disappearing? | Biologist (London)
+
+### ClinicalTrials.gov - 27 registered studies
+- NCT05463835 | COMPLETED | results=False | NA | RubusElite Efficacy Testing of a Novel High Protein, Berry Polyphenol Enriched Dairy Beverage | conds: Muscle Damage, Muscle Soreness, Exercise Performance, Gut Microbiome | intr: RubusElite, 'Protein rich' dairy beverage, 'Low Protein' dairy beverage
+- NCT01932879 | COMPLETED | results=False | NA | Blackberry Polyphenol Intake and Fuel Management | conds: Fuel Management | intr: Blackberry, Jello
+- NCT07456683 | COMPLETED | results=False | NA | The Effect of Water With Anti-Inflammatory Capabilities on the Inflammatory Response to Heavy Resistance Exercise | conds: Systemic Inflammation, Hydration, Resting Metabolism | intr: We made a water with berry essence volatiles (cranberry, blackberry, and blueberry). This was consum
+- NCT01944579 | COMPLETED | results=False | NA | Blackberry Flavonoid Absorption and Effects on Intestinal Bacteria | conds: Metabolic Syndrome | intr: Blackberries, Control
+- NCT05133557 | COMPLETED | results=False | NA | Delivery of Polyphenols in Gum as an Anti-Caries Agent | conds: Dental Caries | intr: Chewing gum containing xylitol and blackberry extract (BBE)
+- NCT05589051 | COMPLETED | results=False | NA | Effect of Alpha Hope Dietary Supplement on Health and Cognitive Performance | conds: Cognitive Change | intr: Drink
+- NCT01293617 | COMPLETED | results=False | NA | Blackberry Intake and Biomarkers of Cancer Risk | conds: Healthy Volunteers | intr: Blackberries, Gelatin
+- NCT00303238 | COMPLETED | results=False | NA | Study to Evaluate the Effect of Botanical Dietary Supplements on Inflammation in Healthy People | conds: Healthy | intr: Rose hips extract + blueberry/blackberry extract + resveravine, Rose hips extract + blueberry/blackb
+- NCT03477305 | COMPLETED | results=False | NA | BerryCare: A Community Engagement Program | conds: Cardiovascular Risk Factor | intr: Blackberry Consumption
+- NCT05890014 | UNKNOWN | results=False | NA | Effects of Diet on Perinatal Mood and Cognition | conds: Mood, Mothers, Healthy | intr: Flavonoid-rich diet
+- NCT07164079 | COMPLETED | results=False | NA | Rubus Sanctus (Wild Blackberry) Root Extract as a Dietary Supplement for Graves' Disease | conds: Graves Disease (Basedow&#39;s Disease) | intr: blackberry root, black tea | pubs: ['26131218:RESULT (new)', '34221089:RESULT (new)']
+- NCT04005924 | COMPLETED | results=False | NA | Effect of an Arabinogalactan Product | conds: Postprandial Blood Glucose | intr: arabinogalactan
+- NCT01306695 | COMPLETED | results=False | NA | Northern Manhattan Caregiver Intervention Project | conds: Dementia | intr: New York University Caregiver Intervention (NYUCI), Community Health Worker (CHW) Case Management
+- NCT02613715 | COMPLETED | results=False | PHASE1 | Bioavailability of Blackberry Juice Anthocyanins | conds: Overweight and Obesity, Healthy | intr: Blackberry juice with 12% ethanol, Blackberry juice
+- NCT02355444 | COMPLETED | results=False | NA | Effects of Blackberry-derived Polyphenols on Cardiovascular Risk in Adults | conds: Hypertension | intr: blackberry polyphenol enriched beverage, blackberry beverage with minimal polyphenol concentrations
+- NCT01474525 | UNKNOWN | results=False | NA | Managing Diabetes During Pregnancy in the Wireless Age | conds: Gestational Diabetes Mellitus, Type 2 Diabetes Mellitus | intr: Home Blood Glucose Telemonitoring System
+- NCT07946640 | NOT_YET_RECRUITING | results=False | NA | A Clinical Study to Evaluate the Effects of Driscoll's Raspberries and Driscoll's Blackberries on Postprandial Glycemic Response, Satiety, a | conds: Postprandial Glycemic Response, Satiety, Blood Glucose | intr: Driscoll's Blackberries Intervention
+- NCT04341961 | COMPLETED | results=False | NA | Effect of Pomegranate Juice Consumption on the Health of Mothers and Infants During Breastfeeding | conds: Breastfeeding | intr: Pomegranate Juice
+- NCT04864574 | COMPLETED | results=False | NA | Childcare Outdoor Learning Environments as Active Food Systems | conds: Pediatric Obesity, Sedentary Behavior | intr: Garden installation | pubs: ['36438334:DERIVED (new)']
+- NCT01122160 | COMPLETED | results=True | NA | Gastric pH and Anthocyanin Absorption | conds: Anthocyanin Metabolism | intr: omeprazole, placebo
+- NCT02937298 | COMPLETED | results=False | NA | Thermic Effects of Some Scottish Plant Foods | conds: Diet Induced Thermogenesis, Obesity Control | intr: Control Meal, Berry Treatment, Sea Buckthorn Treatment, Wild Garlic Treatment
+- NCT04066816 | COMPLETED | results=False | NA | Ellagic Acid, Urolithin and Colonic Microbial Communities Affected by Walnut Consumption | conds: Colo-rectal Cancer, Colon Cancer, Diet Habit | intr: Walnuts
+- NCT05195970 | COMPLETED | results=False | NA | Walnuts and Colon Health (The WellNut Trial) | conds: Colorectal Cancer, Diet Habit | intr: Walnuts
+- NCT03526094 | COMPLETED | results=False | NA | Flavanol Absorption, Metabolism and Excretion From Fruit-based Drinks and Other Food Matrixes | conds: Healthy | intr: Flavanols-capsules, Flavanol-banana blend, Flavanol-high protein drink, Flavanol-berry blend
+- NCT06466408 | UNKNOWN | results=False | NA | Effect of Vegetable and Fruit Enzyme Supplementation on Muscle Activation, Aerobic Capacity, and Blood Biochemical Parameters After High-Int | conds: Overtraining Syndrome | intr: Supplementation Protocol, Blood Lactate Test, Training Impulse, Exergaming HIIE Test
+- NCT04990622 | COMPLETED | results=False | NA | The Effect of Diet on Parents' Mental Health in the Postnatal Period | conds: Mood, Healthy, Mothers, Fathers | intr: Flavonoid-rich diet | pubs: ['38577523:DERIVED (new)']
+- NCT01922869 | UNKNOWN | results=False | NA | An Acute Human Intervention With Flavonoid to Investigate Absorption, Metabolism and Excretion | conds: Pharmacokinetics of Flavonoids in Humans | intr: Flavonoids | pubs: ['40368267:DERIVED (new)']
+
+### OpenAlex no-PMID trial-worded - 356 hits, 68 without PMID, 68 new
+- new | 2026 | 10.1080/01647954.2026.2729231 | article | Mite fauna in blackberry, lemon, apple and blueberry orchards in northern Portugal: composition and diversity based on a point sample | International Journal of Acarology
+- new | 2026 | 10.2139/ssrn.7351928 | preprint | An explainable machine-learning framework for predicting antioxidant enzyme activity under chemical stress conditions in strawberry and blackberry tissues | SSRN Electronic Journal
+- new | 2026 | 10.31989/ffs.v6i9.2104 | article | Comparative evaluation of micropropagated and conventionally propagated thornless blackberry (Rubus spp.) cultivars: Agronomic performance, fruit biochemical quality, and functiona | Functional Food Science
+- new | 2026 | 10.36899/japs.2026.6.0138 | article | PROTECTIVE EFFECTS OF CARICA PAPAYA LEAF EXTRACT ON THE GUT–LUNG AXIS IN ASBESTOS-EXPOSED RATS | The Journal of Animal and Plant Sciences
+- new | 2025 | 10.17660/actahortic.2025.1444.16 | conference-paper | Yield and morphological response of two segregating lines of Rubus fruticosus with seminal origin to three times of cold treatment | Acta Horticulturae
+- new | 2025 | 10.51419/202155547. | article | Comparison of fruits of promising raspberry varieties (Rubus idaeus L.) under tunnel cultivation conditions in the Tambov region | АгроЭкоИнфо
+- new | 2025 | 10.56556/jase.v4i2.1332 | article | Influence of Different Planting Dates on Growth of Blackberry Cutting Under the Agro-Climatic Condition | Journal of Agriculture Sustainability an
+- new | 2025 | 10.14295/cs.v16.4348 | article | Effects of pruning and season on antioxidant and quality traits of blueberries | Comunicata Scientiae
+- new | 2024 | 10.47115/bsagriculture.1439305 | article | The Effect of Treated Wastewater Levels on the Rooting of Blackberry (Rubus fruticosus L.) Green Cuttings | Black Sea Journal of Agriculture
+- new | 2024 | 10.36077/kjas/2024/v16i1.10727 | article | Rooting of blackberry (Rubus fruticosus L.) hardwood cuttings as influenced by cutting time and cutting length | Kufa Journal for Agricultural Sciences
+- new | 2024 | https://openalex.org/W7132125404 | dissertation | Anti-inflammatory effects of aronia (Aronia melanocarpa) fruit in patients with chronic obstructive pulmonary disease | Dspace Repository (Marmara Üniversitesi)
+- new | 2023 | 10.62940/als.v10i1.1513 | article | Herbal therapy for hemorrhoids: An Overview of Medicinal Plants Affecting Hemorrhoids | Advancements in Life Sciences
+- new | 2023 | 10.1071/bt22041 | article | Improving weed management by targeting the seed ecology of blackberry (Rubus anglocandicans) in a biodiversity hotspot | Australian Journal of Botany
+- new | 2023 | 10.26599/fshw.2022.9250202 | article | Health effects of fruit juices and beverages with varying degrees of processing | Food Science and Human Wellness
+- new | 2022 | 10.3390/cosmetics9030050 | article | Anti-Wrinkle Effect of BB-1000: A Double-Blind, Randomized Controlled Study | Cosmetics
+- new | 2022 | 10.22271/tpr.2022.v9.i2.013 | article | Genetic analysis of micro propagated plants of Tinospora cordifolia (Willd.) Miers by using RAPD–PCR markers | Tropical Plant Research
+- new | 2021 | 10.30699/jambs.29.136.286 | article | Efficacy and Safety of TENS and Duloxetine in Patients with Painful Diabetic Neuropathy: A Single Blind Randomized Clinical Trial | Journal of Advances in Medical and Biome
+- new | 2021 | 10.1186/s40816-021-00273-5 | article | The protective effect of Rubus fruticosus L. on blood composition in cyclophosphamide treated male rats | Clinical Phytoscience
+- new | 2021 | 10.21203/rs.3.rs-239163/v2 | preprint | The interaction between brain-derived neurotrophic factor (BDNF) Val66met polymorphism and dietary indices, The Healthy Eating Index (HEI), The Diet Quality Index-International (DQ | Research Square
+- new | 2021 | 10.18474/jes21-46 | article | Role of Lygus hesperus (Hemiptera: Miridae) Adult Feeding on Deformation of Blackberry Fruits | Journal of Entomological Science
+- new | 2021 | https://openalex.org/W3209972363 | article | IMPACTS OF WATER STRESS AND HARVEST TIME ON PHYSIO-BIOCHEMICAL CHARACTERISTICS OF LETTUCE | International Journal of Agricultural an
+- new | 2020 | 10.22533/at.ed.7112027054 | book-chapter | PRODUÇÃO E QUALIDADE DE FRUTOS DE AMOREIRA-PRETA SUBMETIDA A DIFERENTES INTENSIDADES DE PODAS | 
+- new | 2020 | 10.3390/rs12030516 | article | Comparison of Support Vector Machine and Random Forest Algorithms for Invasive and Expansive Species Classification Using Airborne Hyperspectral Data | Remote Sensing
+- new | 2020 | 10.1111/icad.12436 | article | Thug life: bramble (Rubus fruticosus L. agg.) is a valuable foraging resource for honeybees and diverse flower‐visiting insects | Insect Conservation and Diversity
+- new | 2020 | 10.17660/actahortic.2020.1277.29 | conference-paper | Year round blackberry harvesting in the Netherlands | Acta Horticulturae
+- new | 2019 | https://openalex.org/W3045354632 | article | Shelterbelt trials in the Outer Hebrides after fifty years: a study in competition, survival and succession | ePrints Soton (University of Southampton
+- new | 2019 | 10.1016/j.cropro.2019.05.033 | article | Evaluation of hop (Humulus lupulus) as a repellent for the management of Drosophila suzukii | Crop Protection
+- new | 2018 | 10.1080/1065657x.2018.1471367 | article | Growth and Fruit Chemical Characteristics of Blackberry (Rubus Fruticosus) Cultivated with Vermicompost, Glomus Mosseae and Phosphate Rock | Compost Science & Utilization
+- new | 2018 | 10.17660/actahortic.2018.1205.113 | conference-paper | The effects of N fertiliser application rates on red drupelet disorder (reversion) in ‘Ouachita’ thornless blackberries grown under tunnels | Acta Horticulturae
+- new | 2018 | 10.31413/nativa.v6i2.5054 | article | SOLUÇÕES DE NIACINA E ESTACAS COM DIFERENTES NÚMEROS DE GEMAS PARA PROPAGAÇÃO DE AMORA-PRETA | Nativa
+- new | 2018 | 10.18174/446911 | report | Tiny Forest Zaanstad : citizen science and determining biodiversity in Tiny Forest Zaanstad | 
+- new | 2018 | 10.2298/jas1802153o | article | Effects of arbuscular mycorrhizal fungal inoculation on soil properties and yield of selected rice varieties | Journal of Agricultural Sciences Belgrad
+- new | 2018 | 10.1007/978-3-030-01771-2_13 | conference-paper | Exploiting the Web for Semantic Change Detection | Lecture notes in computer science
+- new | 2017 | 10.12657/denbio.079.001 | article | High genetic diversity promotes a common-garden trial of Quercus robur as a potential seed source | Dendrobiology
+- new | 2017 | 10.1016/j.foodcont.2017.07.021 | article | Reduced Campylobacter jejuni colonization in poultry gut with bioactive phenolics | Food Control
+- new | 2017 | 10.1186/s40490-016-0076-9 | article | Herbicide options for managing competitive vegetation during the establishment of Pinus radiata and Pseudotsuga menziesii var. menziesii in Southland, New Zealand | New Zealand journal of forestry science
+- new | 2015 | 10.18869/acadpub.cjns.1.1.27 | article | Effect of Hydroethanolic Extract of Rubus fruticosus on Neuropathic Pain in Wistar Diabetic Rats | Caspian Journal of Neurological Sciences
+- new | 2015 | https://openalex.org/W2400704628 | dissertation | Etude ethno-pharmacologique et évaluation de l’activité antimicrobienne et antioxydante de quelques plantes médicinales de la région de Tizi Ouzou - Algérie | Dépôt Institutionnel de lUniversité de T
+- new | 2015 | 10.1111/ppa.12436 | article | Isolation and pathogenicity of Phytophthora species from declining Rubus anglocandicans | Plant Pathology
+- new | 2015 | https://openalex.org/W2766247125 | article | Böğürtlende zararlı akar, Acalitus essigi (Hassan) (Acari:Eriophyidae)'nin mücadelesine yönelik bazı pestisitlerin etkinliklerinin belirlenmesi | Bahçe
+- new | 2015 | 10.22037/icnj.v2i3.9829 | article | Effect of Zingiber Officinale (Ginger Rhizomes) Hydroethanolic Extract on Hyoscine-Induced Memory Impairment in Adult Male Rats | International Clinical Neuroscience Jour
+- new | 2015 | 10.14471/2015.35.004 | article | Wiederansiedlungen von Gefäßpflanzenarten in Deutschland – eine Übersicht und statistische Auswertung | Publication Server of Goethe University 
+- new | 2013 | https://openalex.org/W194930085 | dissertation | Caracterização agronómica e fitoquímica de seis espécies silvestres de Rubus L. | Portuguese National Funding Agency for S
+- new | 2013 | https://openalex.org/W1926185461 | dissertation | The etiology and epidemiology of European Blackberry (Rubus anglocandicans) decline in South-West of Western Australia | Murdoch University Research Portal
+- new | 2012 | https://openalex.org/W1410410987 | dissertation | The importance and effectiveness of volunteer-collected data in ecology and conservation | Research Repository (University of Glouc
+- new | 2012 | https://openalex.org/W2568938961 | report | The possible role of honey bees in the spread of pollen from field trials | Wageningen University & Research Publica
+- new | 2012 | https://openalex.org/W2112830670 | article | Variation in Septocyta ruborum and its potential for biological control of European blackberry. | RMIT Research Repository (RMIT Universit
+- new | 2012 | 10.17660/actahortic.2012.926.96 | conference-paper | ALLERGOMICS OF BERRY FRUITS | Acta Horticulturae
+- new | 2012 | https://openalex.org/W2304264241 | dissertation | Exploration Of Floral Diversity Of District Kotli (Azad Jammu And Kashmir) And Evaluation Of Ethnopharmacological Effects Of Some Medicinal Plants Of The Area | HEC National Digital Library
+- new | 2010 | 10.3233/br-2010-012 | article | Awareness and knowledge of allergens: A need and a challenge to assure a safe and healthy consumption of small fruits | Journal of Berry Research
+- new | 2009 | https://openalex.org/W2532236575 | article | Review of the Breeding Systems of Wild Roses (Rosa spp.) | The Atrium (University of Guelph)
+- new | 2008 | https://openalex.org/W123185256 | article | Evaluating remote sensing data classification techniques for mapping freshwater habitats: Trial application in the Tongariro River delta, Lake Taupo | Research Commons (University of Waikato)
+- new | 2008 | 10.3797/scipharm.0807-17 | article | Comparative Study of Femineral® and Floradix® in Women of Child-Bearing Age and Adolescent Girls with Iron Deficiency Anaemia | Scientia Pharmaceutica
+- new | 2007 | 10.17660/actahortic.2007.751.48 | conference-paper | REPRODUCTIVE SUCCESS AND INSECT VISITATION IN WILD ROSES (ROSA SPP.) - PRELIMINARY RESULTS FROM 2004 | Acta Horticulturae
+- new | 2005 | 10.1016/j.cropro.2005.04.014 | article | The efficacy of pre-emergence herbicides on problem weeds in woodland regeneration | Crop Protection
+- new | 2005 | 10.5962/p.266547 | article | Effects of patch type and food specializations on fine spatial scale community patterns of nocturnal forest associated Lepidoptera | Journal of Research on the Lepidoptera
+- new | 2004 | 10.1111/j.0022-0477.2004.00892.x | article | Geranium robertianum L. | Journal of Ecology
+- new | 2002 | 10.1046/j.1365-2745.2002.00698.x | article | Sambucus nigraL. | Journal of Ecology
+- new | 2002 | 10.1080/00063650209461266 | article | Status of the NightingaleLuscinia megarhynchosin Britain at the end of the 20th Century with particular reference to climate change | Bird Study
+- new | 2002 | 10.1046/j.1365-2745.2002.00671.x | article | Phyteuma spicatum L. | Journal of Ecology
+- new | 2002 | 10.1080/00063650209461247 | article | The status and habitat of Spotted CrakesPorzana porzanain Britain in 1999 | Bird Study
+- new | 2001 | 10.1093/forestry/74.3.241 | article | Impact of muntjac deer (Muntiacus reevesi) at Monks Wood National Nature Reserve, Cambridgeshire, eastern England | Forestry An International Journal of For
+- new | 2000 | 10.1046/j.1365-2435.2000.00483.x | article | Forum | Functional Ecology
+- new | 2000 | 10.1046/j.1365-2745.2000.00477.x | article | Coincya wrightii (O.E. Schulz) Stace (Rhynchosinapis wrightii (O.E. Schulz) Dandy ex A.R. Clapham) | Journal of Ecology
+- new | 1997 | 10.1023/a:1018345915418 | article | A study of species richness and diversity in seed banks and its use for the environmental mitigation of a proposed holiday village development in a coniferized woodland in south ea | Biodiversity and Conservation
+- new | 1981 | 10.1071/ea9810614 | article | Effects of mowing and spraying of 2,4,5-T on blackberry (Rubus fruticosus agg.) and pasture species | Australian Journal of Experimental Agric
+- new | 1978 | 10.2307/3543662 | article | Standing Crop and Pattern in Pure Stands of Mercurialis Perennis and Rubus fruticosus in Mixed Deciduous Woodland | Oikos
+- new | 1968 | 10.1071/ea9680238 | article | Comparison of herbicides and times of spraying for the control of blackberry (Rubus fruticosus) | Australian Journal of Experimental Agric
+
+## rubus-idaeus (Rubus idaeus) - name clause: "Rubus idaeus"[tiab] OR "raspberry leaf"[tiab] OR "raspberry leaves"[tiab] OR "red raspberry"[tiab] OR "red raspberries"[tiab] OR "raspberry"[ti]
+
+### PubMed HT - 63 hits, 63 not already listed above, 57 new
+- new | 2026 | 42073244 | Review | Polyphenol Composition, Antioxidant Properties, and Health Benefits of Moroccan-Cultivated Raspberries, Blackberries, and Blueberries: A Comprehensive Review. | Foods
+- new | 2026 | 41905975 | Randomized Controlled Trial | Functional gut microbiome signatures underlying interindividual variability in metabolic responses to red raspberry consumption. | Sci Rep
+- new | 2026 | 41536265 |  | Red raspberry improves postprandial metabolic indices and cognitive function in older adults who are overweight or have obesity. | Br J Nutr
+- new | 2026 | 42514514 |  | Combined Selenium and Iodine Application Modulates Antioxidant and Photosynthetic Responses in Raspberry Seedlings Under Heat Stress. | Plants (Basel)
+- new | 2025 | 40944237 | Randomized Controlled Trial | Effects of Raspberry Leaf Tea Polyphenols on Postprandial Glucose and Insulin Responses in Healthy Adults. | Nutrients
+- new | 2025 | 39367810 | Clinical Trial/Research Support, N.I.H., Extramural | Inhibition of benzo[a]pyrene-induced DNA adduct in buccal cells of smokers by black raspberry lozenges. | Carcinogenesis
+- new | 2025 | 39939643 |  | Black raspberry supplementation on overweight and Helicobacter pylori infected mild dementia patients a pilot study. | NPJ Sci Food
+- HELD REF-0497 | 2024 | 38649906 | Observational Study | Raspberry leaf (Rubus idaeus) use in pregnancy: a prospective observational study. | BMC Complement Med Ther
+- new | 2024 | 38860149 | Review | The Effects of Raspberry Consumption on Glycemic Control and Inflammation Markers in Adults: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Curr Dev Nutr
+- new | 2024 | 39161910 | Systematic Review | The effects of raspberry consumption on anthropometric indices and liver function tests in adults: a GRADE-assessed systematic review and meta-analysis. | Front Nutr
+- new | 2024 | 38779578 |  | Black raspberry-mediated metabolic changes in patients with familial adenomatous polyposis associated with rectal polyp regression. | Food Front
+- new | 2024 | 38628181 | Review | The effects of raspberry consumption on lipid profile and blood pressure in adults: A systematic review and meta-analysis. | Food Sci Nutr
+- new | 2024 | 40040137 | Research Support, Non-U.S. Gov't | Profiling a Raspberry Pi-Based Motor Imagery Classification to Facilitate At-Home BCI for Children with Disabilities. | Annu Int Conf IEEE Eng Med Biol Soc
+- new | 2024 | 38286439 | Clinical Trial/Research Support, N.I.H., Extramural | The Effects of Black Raspberry as a Whole Food-Based Approach on Biomarkers of Oxidative Stress in Buccal Cells and Urine of Smokers. | Cancer Prev Res (Phila)
+- HELD REF-0970 | 2023 | 37896170 |  | Therapeutic Effects of Oral Application of Menthol and Extracts from Tormentil (Potentilla erecta), Raspberry Leaves (Rubus idaeus), and Loosestrife (Lythrum salicaria) during Acut | Pharmaceutics
+- new | 2023 | 36793778 | Review | The Effects of Blackcurrant and Raspberry Consumption on Blood Pressure: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. | Clin Nutr Res
+- new | 2023 | 36959959 |  | Herbal supplement use among reproductive-aged women in an academic infertility practice. | F S Rep
+- new | 2023 | 37571251 | Randomized Controlled Trial | Effects of Unripe Black Raspberry Extract Supplementation on Male Climacteric Syndrome and Voiding Dysfunction: A Pilot, Randomized, Double-Blind, Placebo-Controlled Trial. | Nutrients
+- new | 2023 | 35947008 |  | Development of Screening Assays for Pathogen Virulence and Resistance to Phytophthora Root Rot and Wilting Complex in Raspberry. | Plant Dis
+- new | 2023 | 37260690 |  | Arbuscular mycorrhizae influence raspberry growth and soil fertility under conventional and organic fertilization. | Front Microbiol
+- new | 2023 | 37084809 |  | Community pharmacist recommendations regarding raspberry leaf for induction of labor: A mystery caller approach. | J Am Pharm Assoc (2003)
+- new | 2023 | 37125033 |  | A discriminant analysis of plasma metabolomics for the assessment of metabolic responsiveness to red raspberry consumption. | Front Nutr
+- new | 2022 | 35016998 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Raspberry consumption: identification of distinct immune-metabolic response profiles by whole blood transcriptome profiling. | J Nutr Biochem
+- new | 2022 | 35421887 |  | Effects of red raspberry polyphenols and metabolites on the biomarkers of inflammation and insulin resistance in type 2 diabetes: a pilot study. | Food Funct
+- new | 2022 | 35208315 |  | Embedded Machine Learning Using a Multi-Thread Algorithm on a Raspberry Pi Platform to Improve Prosthetic Hand Performance. | Micromachines (Basel)
+- new | 2022 | 34864424 |  | Black raspberry extract shifted gut microbe diversity and their metabolic landscape in a human colonic model. | J Chromatogr B Analyt Technol Biomed Lif
+- new | 2022 | 35421233 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Red Raspberry and Fructo-Oligosaccharide Supplementation, Metabolic Biomarkers, and the Gut Microbiota in Adults with Prediabetes: A Randomized Crossover Clinical Trial. | J Nutr
+- new | 2022 | 35991427 |  | Evaluation of real-time nutrient analysis of fertilized raspberry using petiole sap. | Front Plant Sci
+- new | 2022 | 36061889 |  | Potential health benefits of blueberry and raspberry pomace as functional food ingredients: Dietetic intervention study on healthy women volunteers. | Front Nutr
+- new | 2022 | 34951097 | Research Support, Non-U.S. Gov't | Demographics, health literacy and health locus of control beliefs of Australian women who take complementary medicine products during pregnancy and breastfeeding: A cross-sectional | Health Expect
+- HELD REF-1538 | 2022 | 35799169 | Clinical Trial, Phase II/Randomized Controlled Trial | Rubus idaeus extract improves symptoms in knee osteoarthritis patients: results from a phase II double-blind randomized controlled trial. | BMC Musculoskelet Disord
+- HELD REF-0498 | 2022 | 35188267 | Randomized Controlled Trial | Survey of Raspberry Leaf Tea in pregnancy. | Aust N Z J Obstet Gynaecol
+- new | 2021 | 33321493 |  | Clinicopathological and Endoscopic Features of Raspberry-Shaped Gastric Cancer in Helicobacter pylori-Uninfected Patients. | Digestion
+- new | 2021 | 33436354 |  | A Low-Cost, Ear-Contactless Electronic Stethoscope Powered by Raspberry Pi for Auscultation of Patients With COVID-19: Prototype Development and Feasibility Study. | JMIR Med Inform
+- new | 2021 | 34043063 |  | Sporadic foveolar-type gastric adenoma with a raspberry-like appearance in Helicobacter pylori-naïve patients. | Virchows Arch
+- HELD REF-1539 | 2020 | 31975502 | Randomized Controlled Trial | Anti-aging and brightening effects of a topical treatment containing vitamin C, vitamin E, and raspberry leaf cell culture extract: A split-face, randomized controlled trial. | J Cosmet Dermatol
+- new | 2020 | 33080934 | Randomized Controlled Trial | Plasma and Urinary (Poly)phenolic Profiles after 4-Week Red Raspberry (Rubus idaeus L.) Intake with or without Fructo-Oligosaccharide Supplementation. | Molecules
+- new | 2020 | 33348685 | Randomized Controlled Trial | Effects of Daily Raspberry Consumption on Immune-Metabolic Health in Subjects at Risk of Metabolic Syndrome: A Randomized Controlled Trial. | Nutrients
+- new | 2020 | 32112501 | Clinical Trial, Phase I/Clinical Trial, Phase II/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Dose-Dependent Increases in Ellagitannin Metabolites as Biomarkers of Intake in Humans Consuming Standardized Black Raspberry Food Products Designed for Clinical Trials. | Mol Nutr Food Res
+- new | 2019 | 30969204 | Systematic Review | Herbal Medicinal Product Use During Pregnancy and the Postnatal Period: A Systematic Review. | Obstet Gynecol
+- new | 2019 | 30767409 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Attenuation of Postmeal Metabolic Indices with Red Raspberries in Individuals at Risk for Diabetes: A Randomized Controlled Trial. | Obesity (Silver Spring)
+- new | 2019 | 29958034 | Randomized Controlled Trial | A Purported Detoxification Supplement Does Not Improve Body Composition, Waist Circumference, Blood Markers, or Gastrointestinal Symptoms in Healthy Adult Females. | J Diet Suppl
+- new | 2018 | 30037097 |  | Antioxidant, Anti-Inflammatory, and Postulated Cytotoxic Activity of Phenolic and Anthocyanin-Rich Fractions from Polana Raspberry (Rubus idaeus L.) Fruit and Juice-In Vitro Study. | Molecules
+- new | 2018 | 28709778 |  | Midwives' personal use of complementary and alternative medicine (CAM) influences their recommendations to women experiencing a post-date pregnancy. | Women Birth
+- new | 2018 | 29802820 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Plasma urolithin metabolites correlate with improvements in endothelial function after red raspberry consumption: A double-blind randomized controlled trial. | Arch Biochem Biophys
+- new | 2016 | 26891216 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Black Raspberry Extract Increased Circulating Endothelial Progenitor Cells and Improved Arterial Stiffness in Patients with Metabolic Syndrome: A Randomized Controlled Trial. | J Med Food
+- new | 2016 | 26701664 | Research Support, N.I.H., Extramural | Suppression of Proinflammatory and Prosurvival Biomarkers in Oral Cancer Patients Consuming a Black Raspberry Phytochemical-Rich Troche. | Cancer Prev Res (Phila)
+- new | 2015 | 26246845 |  | Identification of a botanical inhibitor of intestinal diacylglyceride acyltransferase 1 activity via in vitro screening and a parallel, randomized, blinded, placebo-controlled clin | Nutr Metab (Lond)
+- new | 2015 | 26475039 | Clinical Trial | New insights into the bioavailability of red raspberry anthocyanins and ellagitannins. | Free Radic Biol Med
+- new | 2014 | 24486592 | Multicenter Study/Randomized Controlled Trial/Research Support, N.I.H., Extramural | Topical application of a mucoadhesive freeze-dried black raspberry gel induces clinical and histologic regression and reduces loss of heterozygosity events in premalignant oral int | Clin Cancer Res
+- new | 2014 | 24345009 | Clinical Trial | Characterization of black raspberry functional food products for cancer prevention human clinical trials. | J Agric Food Chem
+- new | 2014 | 24706588 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Effects of black raspberry on lipid profiles and vascular endothelial function in patients with metabolic syndrome. | Phytother Res
+- new | 2013 | 22928540 | Systematic Review | Herb remedies during pregnancy: a systematic review of controlled clinical trials. | J Matern Fetal Neonatal Med
+- new | 2011 | 21742280 | Research Support, Non-U.S. Gov't | Use of herbal drugs during pregnancy among 600 Norwegian women in relation to concurrent use of conventional drugs and pregnancy outcome. | Complement Ther Clin Pract
+- new | 2011 | 21622625 | Clinical Trial/Research Support, Non-U.S. Gov't | Colonic catabolism of ellagitannins, ellagic acid, and raspberry anthocyanins: in vivo and in vitro studies. | Drug Metab Dispos
+- new | 2009 | 19137418 | Clinical Trial/Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S. | Distribution of anthocyanins delivered from a bioadhesive black raspberry gel following topical intraoral application in normal healthy volunteers. | Pharm Res
+- new | 2009 | 19880082 | Review | Raspberry leaf--should it be recommended to pregnant women? | Complement Ther Clin Pract
+- new | 2009 | 18977389 | Research Support, Non-U.S. Gov't | Dynamic torque during a precision grip task comparable to picking a raspberry. | J Neurosci Methods
+- new | 2008 | 18321745 | Clinical Trial/Randomized Controlled Trial | Effect of topical application of raspberry ketone on dermal production of insulin-like growth factor-I in mice and on hair growth and skin elasticity in humans. | Growth Horm IGF Res
+- new | 2006 | 16780602 |  | Herbal medicine use during pregnancy in a group of Australian women. | BMC Pregnancy Childbirth
+- new | 2005 | 15656654 | Research Support, Non-U.S. Gov't | Metabolism of antioxidant and chemopreventive ellagitannins from strawberries, raspberries, walnuts, and oak-aged wine in humans: identification of biomarkers and individual variab | J Agric Food Chem
+- HELD REF-0607 | 2001 | 11370690 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Raspberry leaf in pregnancy: its safety and efficacy in labor. | J Midwifery Womens Health
+- new | 2000 | 12026546 | Clinical Trial/Controlled Clinical Trial | Labour and the raspberry leaf herb. | Pract Midwife
+
+### PubMed SR - 8 hits, 1 not already listed above, 0 new
+- HELD REF-3735 | 2021 | 33563275 | Systematic Review | Biophysical effects, safety and efficacy of raspberry leaf use in pregnancy: a systematic integrative review. | BMC Complement Med Ther
+
+### PubMed SAFE - 142 hits, 122 not already listed above, 121 new
+- new | 2026 | 41668030 |  | Beyond prescription medicine in pregnancy - raspberry leaf and other herbs in Australia. | BMC Complement Med Ther
+- new | 2026 | 41828812 |  | In Vitro Safety Profiling and Leukoderma-Relevant Hazard Assessment of Raspberry Ketone Versus Polygonum cillinerve Total Anthraquinones in a Keratinocyte-Melanocyte Co-Culture Mod | Molecules
+- new | 2026 | 41920483 | Case Reports | Case report: phlegmonous gastritis after endoscopic mucosal resection for a Helicobacter pylori-naïve foveolar-type gastric adenoma with a raspberry-like appearance. | Clin J Gastroenterol
+- new | 2026 | 42310564 |  | Exogenous salicylic acid alleviates high temperature-induced inhibition of flower bud differentiation in red raspberry by modulating anther development and phytohormone homeostasis | BMC Plant Biol
+- new | 2026 | 40670100 | Case Reports | Cold Forceps Polypectomy with Jumbo Forceps for Foveolar-type Gastric Adenoma with a Raspberry-like Appearance in an Outpatient Setting. | Intern Med
+- new | 2026 | 42456392 |  | Mitigation of cyclophosphamide-induced nephrotoxicity by raspberry ketones through modulating oxidative stress, inflammation, and apoptosis in rats. | Tissue Cell
+- new | 2025 | 40168586 |  | Therapeutic Potential of Raspberry Extract in High-Fat Diet-Induced Liver Injury via Apoptosis and AMPK/PPARα Pathways. | J Agric Food Chem
+- new | 2025 | 40544736 |  | Raspberry ketone alleviates radiation-induced lung injury through the STAT2-P2X7r/NLRP3 signaling pathway. | Phytomedicine
+- new | 2025 | 40481984 |  | Uncovering the efficacy of a natural homemade sunscreen in protection from ultraviolet radiation. | Photochem Photobiol Sci
+- new | 2025 | 40378529 |  | Metabolomics uncovers Rubus idaeus-mediated recovery of energy and arginine metabolism in liver injury. | J Pharm Biomed Anal
+- new | 2025 | 39824907 | Research Support, Non-U.S. Gov't | Biostimulants with glycine betaine or kelp extract alleviate heat stress in red raspberry (Rubus idaeus). | Sci Rep
+- new | 2025 | 40781711 |  | Herbal products use during pregnancy and postpartum: study of consumption and user profile in Catalonia. | BMC Complement Med Ther
+- new | 2025 | 39502024 |  | Black Raspberry Modulates Cecal and Oral Microbiomes at the Early Stage of a Dibenzo[def,p]chrysene-Induced Murine Oral Cancer Model. | Cancer Prev Res (Phila)
+- new | 2024 | 38970822 |  | Raspberry Ketone Attenuates Hepatic Fibrogenesis and Inflammation via Regulating the Crosstalk of FXR and PGC-1α Signaling. | J Agric Food Chem
+- new | 2024 | 38340928 |  | Raspberry polysaccharides attenuate hepatic inflammation and oxidative stress in diet-induced obese mice by enhancing butyrate-mediated intestinal barrier function. | Int J Biol Macromol
+- new | 2024 | 38970913 |  | Magnetic raspberry-like CuCo nanoalloy-embedded carbon as an enhanced activator of Oxone to degrade azo contaminant: Cu-induced hollowed structure and boosted activities. | J Colloid Interface Sci
+- new | 2023 | 37555703 | Letter/Comment | The toxic effect caused by raspberry leaf tea during pregnancy. | Aust N Z J Obstet Gynaecol
+- new | 2023 | 38205364 |  | Effects of Black Raspberry Supplementation on Methylation Pathways in Vav-creAsxl1(fl/fl)Tet2(fl/fl) Double Knockout Mice with Early-stage Myelodysplastic Syndrome. | J Cancer Prev
+- new | 2023 | 36476553 | Case Reports | Gastric Foveolar-type Adenocarcinoma with Raspberry-like Appearance in a Helicobacter pylori-uninfected Stomach: A Long-term Retrospective Follow-up of 16 Years. | Intern Med
+- new | 2023 | 36602148 |  | Red raspberry supplementation mitigates alcohol-induced liver injury associated with gut microbiota alteration and intestinal barrier dysfunction in mice. | Food Funct
+- new | 2023 | 36341819 | Review | Ethnopharmacology of Rubus idaeus Linnaeus: A critical review on ethnobotany, processing methods, phytochemicals, pharmacology and quality control. | J Ethnopharmacol
+- new | 2023 | 37009719 |  | The combined effect of Raspberry Ketone with Resveratrol against oxidative stress and steatohepatitis in rats: Pharmacokinetic and pharmacodynamic studies. | J Biochem Mol Toxicol
+- new | 2023 | 37570937 |  | Chemical Characterization, Bioactivity and Toxicity of European Flora Plant Extracts in Search for Potential Natural Origin Preservatives. | Plants (Basel)
+- new | 2023 | 36916612 |  | LC-MS/MS method for quantification of raspberry ketone in rat plasma: application to preclinical pharmacokinetic studies. | Bioanalysis
+- new | 2022 | 32482111 |  | Hepatoprotective effect of Raspberry ketone and white tea against acrylamide-induced toxicity in rats. | Drug Chem Toxicol
+- new | 2022 | 34714139 |  | Effect of Rubus idaeus L. Consumption During Pregnancy on Maternal Mice and Their Offspring. | J Med Food
+- new | 2022 | 35417803 | Case Reports | The value of 'raspberry bodies' in intraoperative cytologic evaluation of adnexal masses for the diagnosis of clear cell carcinoma of the ovary: A cytological-pathological correlat | Ann Diagn Pathol
+- new | 2022 | 35740977 | Review | The Benefits of Anthocyanins against Obesity-Induced Inflammation. | Biomolecules
+- new | 2022 | 35954108 |  | Effect of High Hydrostatic Pressure and Pulsed Electric Fields Processes on Microbial Safety and Quality of Black/Red Raspberry Juice. | Foods
+- new | 2022 | 36726887 | Case Reports | Resistant Polymorphic Ventricular Tachycardia in a Patient Taking Raspberry Ketones Weight Loss Supplement. | Cureus
+- new | 2022 | 35022373 | Case Reports | [A case of foveolar-type gastric adenocarcinoma with a raspberry-like appearance followed up by endoscopy]. | Nihon Shokakibyo Gakkai Zasshi [jpn]
+- new | 2022 | 34888650 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Modulation of the oral glucocorticoid system during black raspberry mediated oral cancer chemoprevention. | Carcinogenesis
+- new | 2022 | 36358482 |  | Treatment of Human HeLa Cells with Black Raspberry Extracts Enhances the Removal of DNA Lesions by the Nucleotide Excision Repair Mechanism. | Antioxidants (Basel)
+- new | 2022 | 36260657 | Research Support, N.I.H., Extramural | Black Raspberry Extract Enhances Glutathione Conjugation of the Fjord-Region Diol Epoxide Derived from the Tobacco Carcinogen Dibenzo[def,p]chrysene in Human Oral Cells. | Chem Res Toxicol
+- new | 2022 | 36016924 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Black raspberry extract inhibits regulatory T-cell activity in a murine model of head and neck squamous cell carcinoma chemoprevention. | Front Immunol
+- new | 2021 | 31603036 | Evaluation Study | Effect of Raspberry Ketone on Normal, Obese and Health-Compromised Obese Mice: A Preliminary Study. | J Diet Suppl
+- new | 2021 | 34501954 | Research Support, Non-U.S. Gov't/Review | Effects of Dietary Red Raspberry Consumption on Pre-Diabetes and Type 2 Diabetes Mellitus Parameters. | Int J Environ Res Public Health
+- new | 2021 | 33657483 | Comparative Study | Quantification of lectins in Synsepalum dulcificum and comparison with reference foods. | Food Chem
+- new | 2021 | 34160200 |  | Fabrication of Raspberry-like Cytochrome C Surface-Imprinted Nanoparticles Based on MOF Composites for High-Performance Protein Separation. | ACS Appl Mater Interfaces
+- new | 2021 | 34357772 |  | Pharmacokinetic Evaluation of Red Raspberry (Poly)phenols from Two Doses and Association with Metabolic Indices in Adults with Prediabetes and Insulin Resistance. | J Agric Food Chem
+- new | 2021 | 33513537 |  | A microfluidic biosensor for rapid and automatic detection of Salmonella using metal-organic framework and Raspberry Pi. | Biosens Bioelectron
+- new | 2021 | 34209554 | Review | Pharmacological Exploration of Phenolic Compound: Raspberry Ketone-Update 2020. | Plants (Basel)
+- new | 2021 | 33923467 |  | Multiple Roles of Black Raspberry Anthocyanins Protecting against Alcoholic Liver Disease. | Molecules
+- new | 2021 | 34690768 |  | Use of Herbal Medicines for the Treatment of Mild Mental Disorders and/or Symptoms During Pregnancy: A Cross-Sectional Survey. | Front Pharmacol
+- new | 2021 | 34784403 | Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Black raspberry restores the expression of the tumor suppressor p120ctn in the oral cavity of mice treated with the carcinogen dibenzo[a,l]pyrene diol epoxide. | PLoS One
+- new | 2020 | 32847029 |  | Antimicrobial Effect of Natural Berry Juices on Common Oral Pathogenic Bacteria. | Antibiotics (Basel)
+- new | 2020 | 32150783 |  | Immunochemical approaches for detection of aflatoxin B1 in herbal medicines. | Phytochem Anal
+- new | 2020 | 32245140 |  | The Interaction between Antioxidants Content and Allergenic Potency of Different Raspberry Cultivars. | Antioxidants (Basel)
+- new | 2020 | 32565406 |  | Acute feeding suppression and toxicity of raspberry ketone [4-(4-hydroxyphenyl)-2-butanone] in mice. | Food Chem Toxicol
+- new | 2020 | 32779896 | Case Reports | [Strawberry and raspberry anaphylaxis]. | Rev Med Liege [fre]
+- HELD REF-1536 | 2020 | 32059465 | Review | Phenolic Composition, Mineral Content, and Beneficial Bioactivities of Leaf Extracts from Black Currant (Ribes nigrum L.), Raspberry (Rubus idaeus), and Aronia (Aronia melanocarpa) | Nutrients
+- new | 2020 | 32870171 | Case Reports | Coronary vasospasm and raspberry ketones weight-loss supplement: Is there a connection? | Anatol J Cardiol
+- new | 2020 | 33238601 |  | Raspberry Ketones Attenuate Cyclophosphamide-Induced Pulmonary Toxicity in Mice through Inhibition of Oxidative Stress and NF-ΚB Pathway. | Antioxidants (Basel)
+- new | 2020 | 32833738 | Case Reports | A 70-Year Old Man With Raspberry-Like Tumors on the Nipples: Answer. | Am J Dermatopathol
+- new | 2020 | 31763724 | Research Support, Non-U.S. Gov't | Upregulation of DKK3 by miR-483-3p plays an important role in the chemoprevention of colorectal cancer mediated by black raspberry anthocyanins. | Mol Carcinog
+- new | 2020 | 32052560 | Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S. | Influence of Diet-Induced Obesity on the Bioavailability and Metabolism of Raspberry Ketone (4-(4-Hydroxyphenyl)-2-Butanone) in Mice. | Mol Nutr Food Res
+- new | 2020 | 31969344 | Research Support, N.I.H., Extramural | Black Raspberry Inhibits Oral Tumors in Mice Treated with the Tobacco Smoke Constituent Dibenzo(def,p)chrysene Via Genetic and Epigenetic Alterations. | Cancer Prev Res (Phila)
+- new | 2019 | 30990733 | Letter | Raspberry Allergen and Rosaceae Family Member Allergens: Clinical and Cellular Responses. | J Interferon Cytokine Res
+- new | 2019 | 31163684 | Review | Chemopreventive Effects of Strawberry and Black Raspberry on Colorectal Cancer in Inflammatory Bowel Disease. | Nutrients
+- new | 2019 | 30989891 |  | [Protective effect of raspberry extract on ConA-induced acute liver injuryin mice]. | Zhongguo Zhong Yao Za Zhi [chi]
+- new | 2019 | 31632379 |  | Microbial Safety of Dairy Manure Fertilizer Application in Raspberry Production. | Front Microbiol
+- new | 2019 | 30773526 |  | Isolation and molecular identification for autochthonous starter Saccharomyces cerevisiae with low biogenic amine synthesis for black raspberry (Rubus coreanus Miquel) wine ferment | J Gen Appl Microbiol
+- new | 2019 | 31336728 |  | Metabolic Regulation of Glycolysis and AMP Activated Protein Kinase Pathways during Black Raspberry-Mediated Oral Cancer Chemoprevention. | Metabolites
+- new | 2019 | 31588343 |  | Hepatoprotective activity of raspberry ketone is mediated via inhibition of the NF-κB/TNF-α/caspase axis and mitochondrial apoptosis in chemically induced acute liver injury. | Toxicol Res (Camb)
+- new | 2018 | 29787773 |  | An optimized dose of raspberry ketones controls hyperlipidemia and insulin resistance in male obese rats: Effect on adipose tissue expression of adipocytokines and Aquaporin 7. | Eur J Pharmacol
+- new | 2018 | 29476434 |  | Complementary medicines in pregnancy: recommendations and information sources of healthcare professionals in Australia. | Int J Clin Pharm
+- new | 2018 | 29897487 | Research Support, Non-U.S. Gov't | Dietary Red Raspberry Reduces Colorectal Inflammation and Carcinogenic Risk in Mice with Dextran Sulfate Sodium-Induced Colitis. | J Nutr
+- new | 2018 | 29158340 | Research Support, N.I.H., Extramural | Effects of Black Raspberry on Dibenzo[a,l]Pyrene Diol Epoxide Induced DNA Adducts, Mutagenesis, and Tumorigenesis in the Mouse Oral Cavity. | Cancer Prev Res (Phila)
+- new | 2018 | 29361151 | Research Support, Non-U.S. Gov't | Chemoprevention of colorectal cancer by black raspberry anthocyanins involved the modulation of gut microbiota and SFRP2 demethylation. | Carcinogenesis
+- new | 2018 | 29322691 | Research Support, Non-U.S. Gov't | Raspberry Supplementation Improves Insulin Signaling and Promotes Brown-Like Adipocyte Development in White Adipose Tissue of Obese Mice. | Mol Nutr Food Res
+- new | 2017 | 28476590 |  | Automating mouse weighing in group homecages with Raspberry Pi micro-computers. | J Neurosci Methods
+- new | 2017 | 28301143 |  | Ellagitannins from Rubus idaeus L. Exert Geno- and Cytotoxic Effects against Human Colon Adenocarcinoma Cell Line Caco-2. | J Agric Food Chem
+- new | 2017 | 28219012 | Research Support, Non-U.S. Gov't | Tyrosinase-Catalyzed Oxidation of the Leukoderma-Inducing Agent Raspberry Ketone Produces (E)-4-(3-Oxo-1-butenyl)-1,2-benzoquinone: Implications for Melanocyte Toxicity. | Chem Res Toxicol
+- new | 2017 | 28062780 | Case Reports/Letter | Raspberry ketone ingestion in dogs. | Vet Rec
+- new | 2017 | 28884768 |  | The composition of potentially bioactive triterpenoid glycosides in red raspberry is influenced by tissue, extraction procedure and genotype. | Food Funct
+- new | 2017 | 28670523 |  | Evaluation of The Protective Effect of Hydro-Alcoholic Extract of Raspberry Fruit on Aquaporin1 Expression in Rats Kidney Treated by Methotrexate. | Cell J
+- new | 2017 | 28092946 | Research Support, N.I.H., Extramural | Carcinogenesis of the Oral Cavity: Environmental Causes and Potential Prevention by Black Raspberry. | Chem Res Toxicol
+- new | 2017 | 29068672 | Research Support, N.I.H., Extramural | Effects of Black Raspberry Extract and Berry Compounds on Repair of DNA Damage and Mutagenesis Induced by Chemical and Physical Agents in Human Oral Leukoplakia and Rat Oral Fibrob | Chem Res Toxicol
+- new | 2016 | 27267891 |  | Effects of Black Raspberry Extract and Protocatechuic Acid on Carcinogen-DNA Adducts and Mutagenesis, and Oxidative Stress in Rat and Human Oral Cells. | Cancer Prev Res (Phila)
+- new | 2016 | 26788245 | Research Support, Non-U.S. Gov't | Wild Raspberry Subjected to Simulated Gastrointestinal Digestion Improves the Protective Capacity against Ethyl Carbamate-Induced Oxidative Damage in Caco-2 Cells. | Oxid Med Cell Longev
+- new | 2016 | 26991285 | Research Support, Non-U.S. Gov't | Bacteria isolated from Korean black raspberry vinegar with low biogenic amine production in wine. | Braz J Microbiol
+- new | 2016 | 26440747 |  | Different effects of five depigmentary compounds, rhododendrol, raspberry ketone, monobenzone, rucinol and AP736 on melanogenesis and viability of human epidermal melanocytes. | Exp Dermatol
+- new | 2016 | 27824754 | Case Reports | Raspberry Leaf and Hypoglycemia in Gestational Diabetes Mellitus. | Obstet Gynecol
+- new | 2015 | 26160596 | Research Support, Non-U.S. Gov't | Raspberry ketone in food supplements--High intake, few toxicity data--A cause for safety concern? | Regul Toxicol Pharmacol
+- new | 2015 | 25446010 | Comparative Study/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't | Anti inflammatory and anti angiogenic effect of black raspberry extract on human esophageal and intestinal microvascular endothelial cells. | Microvasc Res
+- new | 2014 | 24458977 | Research Support, Non-U.S. Gov't | Fennel and raspberry leaf as possible inhibitors of acetaminophen oxidation. | Phytother Res
+- new | 2014 | 24853573 | Case Reports | Anaphylactic shock to raspberry. | Eur Ann Allergy Clin Immunol
+- new | 2014 | 25255087 | Research Support, Non-U.S. Gov't | Hepatoprotective effect of Schisandra chinensis (Turcz.) Baill. lignans and its formula with Rubus idaeus on chronic alcohol-induced liver injury in mice. | Food Funct
+- new | 2014 | 23843424 | Research Support, Non-U.S. Gov't | In vitro inhibition of human CYP1A2, CYP2D6, and CYP3A4 by six herbs commonly used in pregnancy. | Phytother Res
+- new | 2014 | 25566130 |  | Raspberry, not a car: context predictability and a phonological advantage in early and late learners' processing of speech in noise. | Front Psychol
+- new | 2014 | 23161848 | Case Reports | "Raspberry bodies," extracellular hyaline globules and branching hyaline stromal fragments in a fine-needle aspirate of metastatic clear cell carcinoma of the ovary. | Diagn Cytopathol
+- new | 2014 | 24911141 | Research Support, Non-U.S. Gov't | The effect of black raspberry extracts on MnSOD activity in protection against concanavalin A induced liver injury. | Nutr Cancer
+- new | 2014 | 24590004 | Research Support, Non-U.S. Gov't | Rice bran and raspberry seed oil-based nanocarriers with self-antioxidative properties as safe photoprotective formulations. | Photochem Photobiol Sci
+- new | 2014 | 24997313 | Research Support, Non-U.S. Gov't | Evaluation of the in vitro/in vivo potential of five berries (bilberry, blueberry, cranberry, elderberry, and raspberry ketones) commonly used as herbal supplements to inhibit urid | Food Chem Toxicol
+- new | 2013 | 23514071 | Evaluation Study/Research Support, Non-U.S. Gov't | Effects of gamma radiation on raspberries: safety and quality issues. | J Toxicol Environ Health A
+- new | 2011 | 21115944 | Research Support, Non-U.S. Gov't | Effects in rats of maternal exposure to raspberry leaf and its constituents on the activity of cytochrome p450 enzymes in the offspring. | Int J Toxicol
+- new | 2011 | 19782445 |  | Safety and efficacy of herbal remedies in obstetrics-review and clinical implications. | Midwifery
+- new | 2011 | 21558412 | Research Support, N.I.H., Extramural | Effects of human oral mucosal tissue, saliva, and oral microflora on intraoral metabolism and bioactivation of black raspberry anthocyanins. | Cancer Prev Res (Phila)
+- new | 2011 | 21831414 | Research Support, N.I.H., Extramural | A black raspberry extract inhibits proliferation and regulates apoptosis in cervical cancer cells. | Gynecol Oncol
+- new | 2011 | 20538426 |  | Dietary freeze-dried black raspberry's effect on cellular antioxidant status during reflux-induced esophagitis in rats. | Nutrition
+- new | 2010 | 20232121 | Comparative Study/Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S. | Multiple berry types prevent N-nitrosomethylbenzylamine-induced esophageal cancer in rats. | Pharm Res
+- new | 2009 | 19538045 |  | The use and the user of herbal remedies during pregnancy. | J Altern Complement Med
+- new | 2009 | 19276407 | Comparative Study/Research Support, Non-U.S. Gov't | Effect of maternal raspberry leaf consumption in rats on pregnancy outcome and the fertility of the female offspring. | Reprod Sci
+- new | 2009 | 19584078 | Research Support, N.I.H., Extramural | Topical treatment with black raspberry extract reduces cutaneous UVB-induced carcinogenesis and inflammation. | Cancer Prev Res (Phila)
+- new | 2009 | 20155622 | Comparative Study/Research Support, N.I.H., Extramural/Research Support, U.S. Gov't, Non-P.H.S. | Black raspberry components inhibit proliferation, induce apoptosis, and modulate gene expression in rat esophageal epithelial cells. | Nutr Cancer
+- new | 2008 | 18211019 | Review | Berry fruits for cancer prevention: current status and future prospects. | J Agric Food Chem
+- new | 2008 | 18683824 |  | Identification of four IgE-reactive proteins in raspberry (Rubus ideaeus L.). | Mol Nutr Food Res
+- new | 2008 | 19003582 | Research Support, N.I.H., Extramural | Effects of a black raspberry diet on gene expression in the rat esophagus. | Nutr Cancer
+- new | 2008 | 18085529 | Comparative Study/Research Support, N.I.H., Extramural | Differential effects of black raspberry and strawberry extracts on BaPDE-induced activation of transcription factors and their target genes. | Mol Carcinog
+- new | 2007 | 17682774 |  | Gene flow analysis demonstrates that Phytophthora fragariae var. rubi constitutes a distinct species, Phytophthora rubi comb. nov. | Mycologia
+- new | 2007 | 17442116 |  | Colon-available raspberry polyphenols exhibit anti-cancer effects on in vitro models of colon cancer. | J Carcinog
+- new | 2006 | 30000844 | Review | Raspberry. | 
+- new | 2006 | 16800774 | Research Support, N.I.H., Extramural | Molecular mechanisms involved in chemoprevention of black raspberry extracts: from transcription factors to their target genes. | Nutr Cancer
+- new | 2003 | 12839326 | Case Reports | Occupational asthma due to freeze-dried raspberry. | Ann Allergy Asthma Immunol
+- new | 2002 | 12495093 |  | Patterns of vitamin, mineral and herbal supplement use prior to and during pregnancy. | Aust N Z J Obstet Gynaecol
+- new | 2002 | 12460899 | Research Support, U.S. Gov't, P.H.S. | Inhibition of benzo(a)pyrene diol-epoxide-induced transactivation of activated protein 1 and nuclear factor kappaB by black raspberry extracts. | Cancer Res
+- new | 2001 | 12639287 |  | Anticarcinogenic Activity of Strawberry, Blueberry, and Raspberry Extracts to Breast and Cervical Cancer Cells. | J Med Food
+- new | 2001 | 11437920 | Research Support, Non-U.S. Gov't | Phylogeny of raspberry beetles and other Byturidae (Coleoptera). | Insect Mol Biol
+- new | 1999 | 10754818 |  | Raspberry leaf and its effect on labour: safety and efficacy. | Aust Coll Midwives Inc J
+- new | 1998 | 9790692 |  | Flower choices by raspberry beetles: cues for feeding and oviposition. | Anim Behav
+- new | 1996 | 8731783 | Case Reports | [A case of conjunctival raspberry tumor of viral origin]. | J Fr Ophtalmol [fre]
+- new | 1995 | 7792950 | Case Reports | Case for the panel. "Raspberry" particles in optic nerves from an AIDS patient. | Ultrastruct Pathol
+
+### PubMed OBS - 12 hits, 3 not already listed above, 3 new
+- new | 2025 | 40433648 |  | Rhinosporidiosis: A report of 104 cases from Raipur, Chhattisgarh (India). | Trop Parasitol
+- new | 2020 | 31550083 |  | Investigation and response to an outbreak of leptospirosis among raspberry workers in Australia, 2018. | Zoonoses Public Health
+- new | 2017 | 27914323 |  | Quantitative farm-to-fork human norovirus exposure assessment of individually quick frozen raspberries and raspberry puree. | Int J Food Microbiol
+
+### PubMed REV - 57 hits, 20 not already listed above, 19 new
+- new | 2026 | 41527457 | Review | Ellagitannins from red raspberry (Rubus idaeus L.): a comprehensive review on chemistry characteristics and beneficial effects. | Food Funct
+- new | 2026 | 41043662 | Review | Comprehensive characterization of Rubus idaeus L. Polysaccharides: Extraction, purification, structural diversity, biological efficacy, and structure-activity relationships. | J Ethnopharmacol
+- new | 2024 | 39500772 | Review | Aromatic plants as cosmeceuticals: benefits and applications for skin health. | Planta
+- new | 2023 | 37895122 | Review | Plant Extracts as Skin Care and Therapeutic Agents. | Int J Mol Sci
+- new | 2023 | 37630323 | Review | Yellow Himalayan Raspberry (Rubus ellipticus Sm.): Ethnomedicinal, Nutraceutical, and Pharmacological Aspects. | Molecules
+- new | 2023 | 37555470 | Review | Raspberry polyphenols alleviate neurodegenerative diseases: through gut microbiota and ROS signals. | Food Funct
+- HELD REF-2574 | 2023 | 37513625 | Review | Raspberry Leaves and Extracts-Molecular Mechanism of Action and Its Effectiveness on Human Cervical Ripening and the Induction of Labor. | Nutrients
+- new | 2022 | 34941428 | Review | Raspberry (Rubus idaeus L.), a Promising Alternative in the Treatment of Hyperglycemia and Dyslipidemias. | J Med Food
+- new | 2022 | 36365189 | Review | Evidence-Based Anti-Diabetic Properties of Plant from the Occitan Valleys of the Piedmont Alps. | Pharmaceutics
+- new | 2022 | 35740089 | Review | Antioxidant, Anti-Inflammatory and Cytotoxic Activity of Phenolic Compound Family Extracted from Raspberries (Rubus idaeus): A General Review. | Antioxidants (Basel)
+- new | 2022 | 34913499 | Research Support, Non-U.S. Gov't/Review | Potential metabolic activities of raspberry ketone. | J Food Biochem
+- new | 2022 | 35567211 | Review | Study on Supergenus Rubus L.: Edible, Medicinal, and Phylogenetic Characterization. | Plants (Basel)
+- new | 2022 | 34496265 | Review | Historical Review of Ethnopharmacology in Karelia (1850s-2020s): Herbs and healers. | J Ethnopharmacol
+- new | 2021 | 34065144 | Review | Red Raspberry (Rubus idaeus L.) Seed Oil: A Review. | Plants (Basel)
+- new | 2019 | 31886289 | Review | Evaluating Traditional Chinese Medicine and Herbal Products for the Treatment of Gestational Diabetes Mellitus. | J Diabetes Res
+- new | 2018 | 29725966 | Review | IoT in Radiology: Using Raspberry Pi to Automatically Log Telephone Calls in the Reading Room. | J Digit Imaging
+- new | 2016 | 26773014 | Research Support, Non-U.S. Gov't/Review | Red Raspberries and Their Bioactive Polyphenols: Cardiometabolic and Neuronal Health Links. | Adv Nutr
+- new | 2012 | 23170170 | Research Support, Non-U.S. Gov't/Review | Emaravirus: a novel genus of multipartite, negative strand RNA plant viruses. | Viruses
+- new | 2007 | 17492800 | Review | Antioxidant activity and antimicrobial effect of berry phenolics--a Finnish perspective. | Mol Nutr Food Res
+- new | 2000 | 10970756 | Review | What do we know about herbal morning sickness treatments? A literature survey. | Midwifery
+
+### ClinicalTrials.gov - 86 registered studies
+- NCT04087278 | COMPLETED | results=False | NA | Cardiovascular Health Arterial Stiffness Raspberry and Microbiome (CHARM) | conds: Healthy Volunteers | intr: Red Raspberry Ellagitannin Extract, Matching Placebo
+- NCT05873933 | WITHDRAWN | results=False | NA | An Investigation of a Multi-Function Skincare Product to Improve Aging, Eczema, and Acne Outcomes | conds: Acne, Eczema, Skin Aging | intr: Hemptress Oil
+- NCT01961869 | COMPLETED | results=False | PHASE1 | Black Raspberry Confection in Preventing Oral Cancer in Healthy Volunteers | conds: Healthy Volunteers | intr: Fast release BRB confection, Intermed release BRB confection, Prolong release BRB confection
+- NCT03671057 | UNKNOWN | results=False | NA | Effectiveness Study "HospiAvontuur": | conds: Children, Preoperative Anxiety, Surgery | intr: HospiAvontuur, Midazolam
+- NCT05558488 | COMPLETED | results=False | NA | The Effect of a Meatless,Keto Restrictive Diet on Body Composition,Strength Capacity,Oxidative Stress,Immune Response | conds: Body Weight, Oxidative Stress, Trimethylamine N-oxide, Immunologic Factors | intr: Meatless, restrictive ketogenic diet
+- NCT03703024 | COMPLETED | results=False | NA | An Intervention Study Evaluating the Effects of a Raspberry Leaf Extract in an Osteoarthritic Population. | conds: Osteoarthritis, Knee | intr: Raspberry Leaf Extract, Placebo | pubs: ['35799169:DERIVED (new)']
+- NCT03403582 | COMPLETED | results=False | NA | Raspberries and Postprandial Metabolism | conds: Type 2 Diabetes Mellitus | intr: Raspberries
+- NCT02520596 | COMPLETED | results=False | NA | Absorption and Metabolism of Dietary Phenolics From Raspberries | conds: Dietary Modifications | intr: Bioavailability of Raspberry polyphenols
+- NCT01823562 | COMPLETED | results=True | PHASE1 | Aborption and Metabolism of Lyophilized Black Raspberry Food Products in Men With Prostate Cancer Undergoing Surgery | conds: Stage I Prostate Cancer, Stage IIA Prostate Cancer, Stage IIB Prostate Cancer, Stage III Prostate Cancer | intr: lyophilized black raspberry confection, laboratory biomarker analysis, dietary intervention, dietary | pubs: ['27813248:RESULT (new)', '32112501:RESULT (new)']
+- NCT04306406 | COMPLETED | results=False | NA | Molecular Mechanisms of Raspberries Effect on Insulin Resistance and Inflammation | conds: Inflammation, Insulin Resistance | intr: Raspberries
+- NCT03263065 | COMPLETED | results=False | NA | A Study of the Effect of Bran, Psyllium and Nopal on Intestinal Water Content Using Magnetic Resonance Imaging | conds: Constipation, Diet Modification | intr: Bran, Nopal, Psyllium | pubs: ['32619212:DERIVED (new)']
+- NCT07120347 | RECRUITING | results=False | NA | Remote Sensing for ADRD-Specific Activities Identification in Older Adults | conds: Alzheimer Disease and Related Dementias (ADRD), Mild Cognitive Impairment (MCI) | intr: Remote Ambient Sensor System
+- NCT03620617 | ACTIVE_NOT_RECRUITING | results=False | NA | Effect of Raspberry on Gut Microbiota and Metabolic Syndrome | conds: Gut Microbiota, Metabolic Syndrome | intr: Raspberry supplement | pubs: ['35016998:DERIVED (new)']
+- NCT02763020 | COMPLETED | results=False | NA | Postprandial Glycemic Response to Polyphenol-fortified Snack Bars | conds: Blood Sugar Response | intr: Fruit extracts high in polyphenols, placebo
+- NCT01568827 | COMPLETED | results=True | PHASE1,PHASE2 | Inflammation, Polyphenols, and Genetics | conds: Overweight, Obese | intr: Blackraspberry Slurry | pubs: ['23982695:RESULT (new)']
+- NCT07819539 | COMPLETED | results=False | NA | Anthocyanin-Rich Berry Supplementation in Patients With Colorectal Cancer | conds: Colorectal Cancer | intr: Anthocyanin-Rich Freeze-Dried Berry Supplement
+- NCT07399886 | RECRUITING | results=False | NA | Plant-based Versus Animal-based Oral Nutritional Supplements | conds: Risk of Malnutrition | intr: Fresubin Plant-based drink vanilla©, Fresubin Yodrink raspberry©
+- NCT02267694 | COMPLETED | results=False | PHASE1 | Study of Freeze-dried Black Raspberry in Maintenance of Ulcerative Colitis | conds: Ulcerative Colitis | intr: Freeze-dried black raspberry powder
+- NCT06869824 | COMPLETED | results=False | NA | The Efficacy of Minayo Iron-rich Nutritional Gummies on Female Anemia, Skin Condition and Qi-blood Deficiency Syndrome | conds: Anemia, Skin Condition, Qi-blood Deficiency Syndrome | intr: Minayo Iron-rich Nutritional Gummies, Common Gummies
+- NCT02469285 | COMPLETED | results=False | NA | The Effect of Pork With Modified Fat Composition and Berries on Plasma Fatty Acids and Fecal Compounds in Healthy Adults | conds: Cardiovascular Diseases | intr: Modified pork, Pork, Pork and berries | pubs: ['40120775:DERIVED (new)']
+- NCT04236791 | ACTIVE_NOT_RECRUITING | results=False | NA | The ESTxENDS Trial- Electronic Nicotine Delivery Systems as an Aid for Smoking Cessation-extension of Follow-up | conds: Smoking Cessation | intr: ENDS (vaporizer/e-cig) and smoking cessation counseling, Smoking cessation counseling
+- NCT02479035 | COMPLETED | results=False | NA | Red Raspberries on Insulin Action and Oxidative Stress | conds: Insulin Resistant | intr: Red raspberry meal 1, Red raspberry meal 2, Control meal | pubs: ['30767409:DERIVED (new)']
+- NCT05976308 | UNKNOWN | results=False | PHASE1,PHASE2 | Efficacy of Bushen Huatan Decoction in the Treatment of Polycystic Ovary Syndrome | conds: Polycystic Ovary Syndrome | intr: Bushen Huatan Decoction, Placebo
+- NCT01425190 | TERMINATED | results=True | PHASE1 | Pharmacokinetics of Boceprevir in Pediatric Subjects With Chronic Hepatitis C Genotype 1 (P07614) | conds: Hepatitis C, Chronic | intr: Boceprevir
+- NCT01414647 | COMPLETED | results=False | NA | The Health Effect of Diet Rich in Nordic Berries | conds: Metabolic Syndrome, Impaired Glucose Tolerance, Low-grade Inflammation, Dyslipidemia | intr: 300 g of strawberry, raspberry and cloudberry, 400 g of bilberry, Control diet | pubs: ['23934737:DERIVED (new)', '22961907:DERIVED (HELD REF-3835)']
+- NCT01242033 | COMPLETED | results=False | NA | Effect of Acute Red Raspberry Consumption on Post-prandial Oxidative Stress | conds: Oxidative Stress, Antioxidants | intr: red raspberries, bread controls
+- NCT01668940 | TERMINATED | results=True | NA | Freezie Remedy to Alleviate Morning Sickness | conds: Morning Sickness | intr: Lillipops Iced Soothies (4 flavours), Mr. Freeze Freezies, Lillipop Iced Soothies (Ginger flavour)
+- NCT05513404 | COMPLETED | results=False | NA | The Scottish Fruit Study | conds: Postprandial Hypoglycemia, Age-Related Memory Disorders | intr: Honeyberry, Cherry, Raspberry
+- NCT06681597 | COMPLETED | results=False | EARLY_PHASE1 | Raspberry Ketone Intake Upregulates Circulating FGF21 and Induces Energy Expenditure in Humans | conds: Obesity, Diabetes, NAFLD (Nonalcoholic Fatty Liver Disease) | intr: Raspberry ketone
+- NCT01192204 | COMPLETED | results=True | PHASE1,PHASE2 | Clinical Evaluation of Bioadhesive Gels for Oral Cancer Chemoprevention | conds: Squamous Cell Carcinoma of Mouth, Intraepithelial Neoplasia | intr: 10% FBR containing bioadhesive gel, placebo gel | pubs: ['24486592:RESULT (new)']
+- NCT05577455 | UNKNOWN | results=False | PHASE3 | Efficacy of Traditional Chinese Medicine on Ameliorating IVF-ET Outcomes of Diminished Ovarian Reserve Patients | conds: Diminished Ovarian Reserve, Infertility, Female | intr: Medical prescription before ovulation, Medical prescription after ovulation
+- NCT00878462 | COMPLETED | results=False | PHASE2 | An Acceptability Study of Unflavored Asenapine Versus Raspberry Flavored Asenapine in Stable Patients With a Psychotic Disorder (P07010)(COM | conds: Psychosis | intr: Asenapine WHITE raspberry flavor (Treatment A), Asenapine RED raspberry flavor (Treatment B), Asenap
+- NCT03879213 | COMPLETED | results=False | NA | Acute Berry Intake on Metabolic Control and Cognitive Function | conds: Healthy | intr: Active breakfast, Control breakfast
+- NCT02439255 | COMPLETED | results=False | NA | Effect of Black Raspberry Phytochemicals on Oral Microbiome in Current Smokers and Non-smokers | conds: Healthy Subject, Tobacco Use Disorder | intr: Laboratory Biomarker Analysis, Phytochemical, Placebo, Screening Questionnaire Administration
+- NCT07495943 | NOT_YET_RECRUITING | results=False | NA | Effects of 2-Aticyto Complex and D-Ribose on Pain and Clinical Course in Patients With Fibromyalgia | conds: Fibromyalgia Syndrome, Fibromyalgia | intr: 2-Aticyto Complex and D-ribose Oral Supplement, Placebo syrup
+- NCT06733532 | COMPLETED | results=False | NA | Comparison of the Beverage Hydration Index of Different Solutions | conds: Hydration | intr: Berry Propel Fitness Water, Essentia Hydroboost Raspberry Pomegranate, Smart Water
+- NCT04372914 | COMPLETED | results=True | NA | Prevention of Oral DNA Damage by Black Raspberries | conds: Oral Cancer, Smoking, DNA Damage, Oxidative Stress | intr: BRB Lozenges
+- NCT04430673 | COMPLETED | results=False | NA | Virtual Rehabilitation Innovations for Motivation | conds: Virtual Rehabilitation, CP (Cerebral Palsy), Brain Injuries, Young Adult | intr: Home-School based VR system trial
+- NCT05013593 | COMPLETED | results=False | NA | Red Clover Isoflavones in Postmenopausal Women With Urge Urinary Incontinence and Overactive Bladder | conds: Urge Incontinence, Overactive Bladder | intr: Red Clover Extract (RCE), Placebo (PL)
+- NCT02173756 | TERMINATED | results=False | PHASE3 | Evaluation of Oral Morphine Gel in Oral Mucositis Induced by Chemotherapy in Children and Young Adults | conds: Cancer | intr: morphine gel, placebo gel
+- NCT04100200 | ACTIVE_NOT_RECRUITING | results=False | NA | Berries, Inflammation, and Gut Microbiome | conds: Overweight or Obesity, Healthy | intr: Mixed berries, FOS, Control, Combination
+- NCT06385626 | UNKNOWN | results=False | NA | The Effects of Raspberry Leaf Tea on Blood Glucose Control | conds: Type II Diabetes | intr: Raspberry leaf tea
+- NCT04267874 | COMPLETED | results=False | EARLY_PHASE1 | Black Raspberry Nectar for the Prevention of Lung Cancer, BE WELL Study | conds: Lung Carcinoma, Tobacco-Related Carcinoma | intr: Biospecimen Collection, Nutritional Supplementation, Placebo Administration, Questionnaire Administr
+- NCT04381546 | COMPLETED | results=False | NA | FES-induced Muscular Control of the Knee on Balance and Gait Retraining After a Stroke or a Cerebral Injury | conds: Hemiplegia, Gait, Hemiplegic, Gait, Unsteady, Rehabilitation | intr: Functional Electrical Stimulation FES
+- NCT04308980 | UNKNOWN | results=False | PHASE2,PHASE3 | Safety and Tolerability of Novel Medical Nutrition Products for NAFLD Treatment | conds: NAFLD, NASH - Nonalcoholic Steatohepatitis | intr: Specialized product for medical nutrition (SPP-1), individualized diet | pubs: ['35596633:DERIVED (new)']
+- NCT05680532 | COMPLETED | results=False | NA | The Improvement of Black Raspberry in Obese and Mild AZ Patients Infected With H. Pylori | conds: Alzheimer Disease, H Pylori Infection | intr: Black raspberry, Placebo | pubs: ['39939643:DERIVED (new)']
+- NCT03049631 | COMPLETED | results=False | NA | Red Raspberry Polyphenols on Gut Microbiome | conds: Healthy Subjects, Pre-diabetes | intr: Raspberry and fructooligosaccharide, Raspberry | pubs: ['35421233:DERIVED (new)']
+- NCT03745846 | UNKNOWN | results=False | PHASE2 | A Efficacy and Safety Study of Composite Gel Containing Black Raspberry Extract in Removing HPV From Patients With Cervical Intraepithelial  | conds: Cervical Intraepithelial Neoplasia, HPV | intr: Composite Gel Containing Black Raspberry, placebo
+- NCT05581108 | COMPLETED | results=False | NA | Enhancement of Learning and Memory Following Supplementation With Juice PLUS+® OMEGA in an Adolescent Population | conds: Cognitive Change, Development, Adolescent | intr: Juice PLUS+® OMEGA, Placebo | pubs: ['42371128:DERIVED (new)']
+- NCT06184061 | COMPLETED | results=False | NA | Acute Effects of Herbal Dietary Supplements on Aerobic Performance | conds: Diet, Healthy | intr: Herbal Supplement
+- NCT02333461 | COMPLETED | results=False | NA | Evaluation of Botanicals for Mechanisms Related to Appetite and Fat Metabolism | conds: Overweight, Obesity | intr: Placebo, Apple, Grape, Raspberry | pubs: ['26246845:DERIVED (new)']
+- NCT00876811 | COMPLETED | results=False | PHASE1 | Effect of Red Raspberry Consumption on Fasting Oxidative Stress Biomarkers | conds: Oxidative Stress | intr: individually quick frozen red raspberries, individually quick frozen red raspberries, individually q
+- NCT03573414 | UNKNOWN | results=False | NA | Gut Microbial Metabolism of Polyphenols and Cardiovascular Health (StratiPol) (Stratification Study) | conds: Healthy | intr: raspberry powder, milled flaxseed and soy milk
+- NCT06086925 | WITHDRAWN | results=False | EARLY_PHASE1 | A Window of Opportunity Study of Black Raspberry for Patients With HNSCC | conds: Squamous Cell Carcinoma of the Oral Cavity or Oropharynx | intr: Black Raspberry
+- NCT06680219 | COMPLETED | results=False | NA | Evaluation of the the Efficacy of a Digestive Health Supplement in Healthy Subjects | conds: Healthy Subjects | intr: Placebo, Active comparator
+- NCT01988558 | COMPLETED | results=False | PHASE1,PHASE2 | A Phase I/II to Assess Safety, Tolerability and Efficacy of DL-lactic Acid Syrup in Children With Recurrent Tonsillitis | conds: Recurrent Tonsillitis in Children | intr: DL - Lactic Acid, Raspberry flavored syrup
+- NCT05252013 | COMPLETED | results=False | NA | The Impact of Broad Bean Hull on Blood Glucose Control and Gut Health | conds: Healthy, Overweight | intr: Experimental: Bean Hull Bread, Experimental: Plain Bread
+- NCT04078971 | COMPLETED | results=False | NA | Effects of Ketogenic Diet on Body Composition and Performance in Soccer Players | conds: Athletic Performance | intr: Western diet, ketogenic diet | pubs: ['34530857:DERIVED (new)']
+- NCT01504932 | COMPLETED | results=False | NA | Freeze-Dried Black Raspberries in Preventing Oral Cancer Recurrence in High At-Risk Appalachian Patients Oral Cancer Survivors | conds: Stage I Squamous Cell Carcinoma of the Lip and Oral Cavity, Stage I Squamous Cell Carcinoma of the Oropharynx, Stage I Verrucous Carcinoma of the Oral Cavity, Stage II Squamous Cell Carcinoma of the Lip and Oral Cavity | intr: BRB Lozenge, Survey Administration, Laboratory Biomarker Analysis, pharmacological study
+- NCT06301113 | COMPLETED | results=False | NA | This Research Study Examines the Effects of Cannabidiol-infused Candy on Reducing the Bacteria Causing Tooth Decay, When Comparing it to a S | conds: Tooth Decay | intr: CBD infused candy, Sugar free Candy
+- NCT00770991 | COMPLETED | results=True | PHASE1 | Lyophilized Black Raspberries in Adults With Familial Adenomatous Polyposis (FAP) | conds: Familial Adenomatous Polyposis | intr: Black raspberry (BRB) Slurry, Black Raspberry (BRB) Suppositories, Black Raspberry (BRB) Placebo Slu
+- NCT07778823 | RECRUITING | results=False | NA | Augmented Reality-Cardiopulmonary Resuscitation Support for Pediatric Resuscitation | conds: Cardiac Arrest (CA), Pediatric Cardiac Arrest (Simulated), Cardiopulmonary Resuscitation (CPR) | intr: AR-CPR
+- NCT02734901 | COMPLETED | results=False | NA | Effects of Acute Red Raspberry Consumption on Vascular Function in Healthy Individuals | conds: Healthy | intr: 400 g frozen raspberries, 200 g frozen raspberries, Placebo | pubs: ['29802820:DERIVED (new)']
+- NCT02426632 | COMPLETED | results=False | PHASE1 | Study to Evaluate Taste Profile of Different JNJ-53718678 Oral Liquid Formulations in Healthy Participants | conds: Healthy | intr: Formulation A, Formulation B, Formulation C, Formulation D
+- NCT05401604 | COMPLETED | results=False | NA | Probiotic Beer to Enhance Gut Health and Immune System Function | conds: Inflammation, Nutrition, Healthy | intr: Moderate probiotic beer consumption, Moderate normal beer consumption
+- NCT06486935 | UNKNOWN | results=False |  | City For All Ages: Elderly-friendly City Services for Active and Healthy Ageing | conds: Baseline/Control Phase, Intervention Phase | intr: IoT sensors, Traditional/Manual elderly monitoring | pubs: ['40369868:DERIVED (new)']
+- NCT03743792 | COMPLETED | results=False | NA | Acute Raspberry Intake on Metabolic Control and Cognitive Function | conds: Aging, Age-related Cognitive Decline, Obesity | intr: Active breakfast, Control breakfast
+- NCT04988919 | COMPLETED | results=False | NA | Consumption of 4D Dietary Supplement on Perceptual-Cognitive and Visual-Motor Performance | conds: Dietary Supplementation | intr: 4D, placebo
+- NCT03140280 | COMPLETED | results=True | PHASE2 | Hypomethylating Properties of Freeze-dried Black Raspberries (BRB) in Patients With Myelodysplastic Syndrome or Myelodysplastic Syndrome/Mye | conds: Myelodysplastic Syndromes | intr: Freeze-Dried Black Raspberry Powder
+- NCT07270796 | NOT_YET_RECRUITING | results=False | PHASE1 | Safety and Immunogenicity Study of the DuoChol Oral Cholera Vaccine in Healthy Participants | conds: Cholera Vaccination Reaction | intr: DuoChol, Dukoral®
+- NCT01469429 | COMPLETED | results=False | PHASE1,PHASE2 | Phase 1b Food Based Modulation of Biomarkers in Human Tissues at High-Risk for Oral Cancer. | conds: Metastatic Squamous Neck Cancer With Occult Primary Squamous Cell Carcinoma, Salivary Gland Squamous Cell Carcinoma, Stage 0 Hypopharyngeal Cancer, Stage 0 Laryngeal Cancer | intr: placebo, laboratory biomarker analysis, questionnaire administration, chemoprevention
+- NCT07946640 | NOT_YET_RECRUITING | results=False | NA | A Clinical Study to Evaluate the Effects of Driscoll's Raspberries and Driscoll's Blackberries on Postprandial Glycemic Response, Satiety, a | conds: Postprandial Glycemic Response, Satiety, Blood Glucose | intr: Driscoll's Blackberries Intervention
+- NCT04341961 | COMPLETED | results=False | NA | Effect of Pomegranate Juice Consumption on the Health of Mothers and Infants During Breastfeeding | conds: Breastfeeding | intr: Pomegranate Juice
+- NCT02937298 | COMPLETED | results=False | NA | Thermic Effects of Some Scottish Plant Foods | conds: Diet Induced Thermogenesis, Obesity Control | intr: Control Meal, Berry Treatment, Sea Buckthorn Treatment, Wild Garlic Treatment
+- NCT01465776 | COMPLETED | results=False | NA | Freeze-Dried Black Raspberries in Treating Patients With Oral Squamous Cell Cancer Undergoing Surgery | conds: Squamous Cell Carcinoma of Mouth | intr: laboratory biomarker analysis, preventative dietary intervention
+- NCT04066816 | COMPLETED | results=False | NA | Ellagic Acid, Urolithin and Colonic Microbial Communities Affected by Walnut Consumption | conds: Colo-rectal Cancer, Colon Cancer, Diet Habit | intr: Walnuts
+- NCT05195970 | COMPLETED | results=False | NA | Walnuts and Colon Health (The WellNut Trial) | conds: Colorectal Cancer, Diet Habit | intr: Walnuts
+- NCT04453254 | COMPLETED | results=False | NA | The Thermogenic and Metabolic Effects of a Whole Food Meal Versus Its Supplemental Equivalent | conds: Weight Loss | intr: Whole Food Meal, Supplement Food Meal
+- NCT03526094 | COMPLETED | results=False | NA | Flavanol Absorption, Metabolism and Excretion From Fruit-based Drinks and Other Food Matrixes | conds: Healthy | intr: Flavanols-capsules, Flavanol-banana blend, Flavanol-high protein drink, Flavanol-berry blend
+- NCT04271904 | COMPLETED | results=False | NA | Effect of Sham Anti-inflammatory Diet on Inflammation After Spinal Cord Injury | conds: Spinal Cord Injury, Inflammation | intr: Placebo Diet
+- NCT04057456 | COMPLETED | results=False | PHASE3 | Cannabinoids and an Anti-inflammatory Diet for the Treatment of Neuropathic Pain After Spinal Cord Injury | conds: Spinal Cord Injuries, Neuropathic Pain | intr: Placebo diet, Anti-inflammatory diet, Nabilone Capsules, Placebo capsules
+- NCT06466408 | UNKNOWN | results=False | NA | Effect of Vegetable and Fruit Enzyme Supplementation on Muscle Activation, Aerobic Capacity, and Blood Biochemical Parameters After High-Int | conds: Overtraining Syndrome | intr: Supplementation Protocol, Blood Lactate Test, Training Impulse, Exergaming HIIE Test
+- NCT05500976 | UNKNOWN | results=False | NA | Metabolomics Initiative: Mediterranean-amplified vs Habitual Western Diet on Food Signatures, Health, and Microbiome | conds: Dietary Habits | intr: Semi-controlled dietary intervention - Western, Semi-controlled dietary intervention - MiniMed | pubs: ['38302990:DERIVED (new)', '37918675:DERIVED (new)']
+- NCT04308473 | COMPLETED | results=False | NA | Analysis of MicroBial Metabolites After Eating Refined Food | conds: Dietary Habits | intr: Ultra-processed Food Meal, Whole Food Meal
+- NCT04990622 | COMPLETED | results=False | NA | The Effect of Diet on Parents' Mental Health in the Postnatal Period | conds: Mood, Healthy, Mothers, Fathers | intr: Flavonoid-rich diet | pubs: ['38577523:DERIVED (new)']
+- NCT00681512 | TERMINATED | results=False | NA | The Effect of Berries on Lung Cancer Tumors | conds: Non Small Cell Lung Cancer | intr: berry powder
+
+### OpenAlex no-PMID trial-worded - 1072 hits, 68 without PMID, 67 new
+- new | 2026 | 10.21273/hortsci19350-26 | article | Genotypic Variation in Physiological and Yield Responses to Heat Stress Mitigation Strategies during Raspberry Establishment | HortScience
+- new | 2025 | https://openalex.org/W7220596710 | article | Multi-Ingredient Weight-Management Formulas [Raspberry+]: A Comparative Dose-Relevance and Evidence-Hierarchy Review of Raspberry, Coffee, Capsaicin, Tea, Garcinia, Cocoa and Zinc. | International Journal of Pharmacy and In
+- new | 2024 | 10.17660/actahortic.2024.1388.22 | conference-paper | Optimising plant density in long cane cultivation of red raspberries | Acta Horticulturae
+- HELD REF-0566 | 2022 | 10.1097/fjc.0000000000001161 | review | Efficacy of Hibiscus sabdariffa on Reducing Blood Pressure in Patients With Mild-to-Moderate Hypertension: A Systematic Review and Meta-Analysis of Published Randomized Controlled  | Journal of Cardiovascular Pharmacology
+- new | 2022 | 10.3390/agronomy12030672 | article | Reduced Nitrogen Fertilizer Rates Maintained Raspberry Growth in an Established Field | Agronomy
+- new | 2022 | 10.3390/cosmetics9030050 | article | Anti-Wrinkle Effect of BB-1000: A Double-Blind, Randomized Controlled Study | Cosmetics
+- new | 2021 | 10.1136/annrheumdis-2021-eular.1493 | conference-abstract | RUBUS IDAEUS LEAF EXTRACT IMPROVES SYMPTOMS IN KNEE OSTEOARTHRITIS PATIENTS: RESULTS FROM A DOUBLE BLIND RANDOMIZED CLINICAL STUDY | Annals of the Rheumatic Diseases
+- new | 2021 | 10.3233/jbr-200696 | article | Red raspberry (poly)phenolic extract improves diet-induced obesity, hepatic steatosis and insulin resistance in obese mice | Journal of Berry Research
+- new | 2020 | 10.3390/agronomy11010027 | article | Genome-Wide Association Study (GWAS) for Examining the Genomics Controlling Prickle Production in Red Raspberry (Rubus idaeus L.) | Agronomy
+- new | 2020 | 10.1016/j.jff.2020.103912 | review | Effect of dietary anthocyanins on biomarkers of oxidative stress and antioxidative capacity: A systematic review and meta-analysis of randomized controlled trials | Journal of Functional Foods
+- new | 2019 | 10.1093/cdn/nzz031.or29-03-19 | article | Effect of Red Raspberry (Rubus idaeus L.) Consumption With or Without Fructo-Oligosaccharide on Metabolic Indices: A Single-Blinded Randomized, Crossover Clinical Trial (OR29-03-19 | Current Developments in Nutrition
+- new | 2019 | https://openalex.org/W7132648185 | conference-abstract | Effect of Raspberry leaf blotch emaravirus on raspberry (Rubus idaeus L.) pollen performance in vitro | ReFRI - Repository of the Fruit Research
+- new | 2018 | 10.21273/horttech03971-18 | article | Contribution of a Winter Wheat Cover Crop to the Maintenance of Root Lesion Nematode Populations in the Red Raspberry Production System | HortTechnology
+- new | 2018 | 10.31390/gradschool_dissertations.4802 | dissertation | Effects of Red Raspberry Polyphenols and Metabolites on Biomarkers of Inflammation and Insulin Resistance in Prediabetes and Type 2 Diabetes | Louisiana State University
+- new | 2017 | 10.21273/hortsci11680-16 | article | Identification of Expressed Sequence Tag-simple Sequence Repeat Markers from the De Novo Transcriptome Sequence of Red Raspberry (Rubus idaeus L.) | HortScience
+- new | 2017 | 10.21273/hortsci11665-16 | article | Caneburning Effects on Weeds, Primocane Growth, and Fruit Yield in Pacific Northwest Red Raspberry | HortScience
+- new | 2017 | 10.1096/fasebj.31.1_supplement.965.29 | conference-abstract | The Reciprocal Interactions between Red Raspberry Polyphenols and Gut Microbiome Composition: Preliminary Findings | The FASEB Journal
+- new | 2017 | 10.1094/php-rs-16-0068 | article | Alternatives to Current Fumigation Practices in Western States Raspberry | Plant Health Progress
+- new | 2016 | https://openalex.org/W2738158001 | dissertation | High Tunnel Production Of Primocane Bearing Red Raspberries In Grow Bags | BearWorks (Missouri State University)
+- new | 2016 | 10.17660/actahortic.2016.1133.38 | conference-paper | Influence of position, age, and environmental factors on photosynthesis of red raspberry leaves | Acta Horticulturae
+- new | 2016 | 10.1016/j.agee.2016.02.024 | article | Compost and poultry manure as preplant soil amendments for red raspberry: Comparative effects on root lesion nematodes, soil quality and risk of nitrate leaching | Agriculture Ecosystems & Environment
+- new | 2016 | 10.1155/2016/2797125 | article | Effect of Two Biological Formulations Based onBacillus subtilisandPseudomonas fluorescenson Control ofDidymella applanata, the Causal Agent of Red Raspberry Cane Spur Blight | International Journal of Agronomy
+- new | 2015 | 10.1016/j.jff.2015.09.019 | article | Identifying the limits for ellagic acid bioavailability: A crossover pharmacokinetic study in healthy volunteers after consumption of pomegranate extracts | Journal of Functional Foods
+- new | 2015 | 10.13130/adobati-alessandro_phd2015-12-10 | dissertation | ACTIVE PACKAGING IN MASTER BAG SOLUTIONS AND SHELF LIFE EXTENSION OF RED RASPBERRIES AND STRAWBERRIES: A RELIABLE STRATEGY TO REDUCE FOOD LOSS | Archivio Istituzionale della Ricerca (Un
+- new | 2014 | 10.21273/hortsci.49.9.1128 | article | Host Status of Rubus Species and Hybrids for the Root Lesion Nematode, Pratylenchus penetrans | HortScience
+- new | 2014 | 10.17660/actahortic.2014.1017.21 | conference-paper | EFFECTS OF PREHARVEST FACTORS ON BERRY QUALITY | Acta Horticulturae
+- new | 2012 | 10.1016/j.apsoil.2012.10.013 | article | Integration of brassicaceous seed meals into red raspberry production systems | Applied Soil Ecology
+- new | 2012 | 10.17660/actahortic.2012.946.46 | conference-paper | ROOT TRAITS ASSOCIATED WITH PHYTOPHTHORA ROOT ROT RESISTANCE IN RED RASPBERRY | Acta Horticulturae
+- new | 2011 | 10.17660/actahortic.2011.918.98 | conference-paper | BERRY TRIALS IN THE AZORES | Acta Horticulturae
+- new | 2011 | 10.13140/rg.2.2.14354.66241 | article | Performance of red raspberry (Rubus idaeus L) in trans- Himalayan region of India | 
+- new | 2011 | 10.21273/horttech.21.4.412 | article | High Tunnel and Open Field Production of Floricane- and Primocane-fruiting Raspberry Cultivars | HortTechnology
+- new | 2010 | 10.21273/horttech.20.5.856 | article | Post-Plant Nematicides for the Control of Root Lesion Nematode in Red Raspberry | HortTechnology
+- new | 2010 | 10.21273/hortsci.45.8.1283 | article | ‘Jeanne d'Orléans’ Red Raspberry | HortScience
+- new | 2009 | 10.21273/horttech.19.1.44 | article | Small Fruit Production in High Tunnels | HortTechnology
+- new | 2008 | 10.17660/actahortic.2008.777.61 | conference-paper | A REVIEW OF NITROGEN NUTRITION OF RUBUS | Acta Horticulturae
+- new | 2007 | 10.1080/00103620701216054 | article | Soil Inorganic Nitrogen Content and Indices of Red Raspberry Yield, Vigor, and Nitrogen Status as Affected by Rate and Source of Nitrogen Fertilizer | Communications in Soil Science and Plant
+- new | 2005 | 10.1300/j301v04n02_06 | article | Performance of Eleven Floricane Fruiting Red Raspberry Cultivars in New York | Small Fruits Review
+- new | 2002 | 10.4141/s01-086 | article | Spatial and temporal variation in soil inorganic n concentration, and soil test P and K, in red raspberry fields and implications for soil sampling strategies | Canadian Journal of Soil Science
+- new | 2002 | 10.1603/0046-225x-31.5.895 | article | Evaluation of Entomopathogenic Nematodes to Manage Root Weevil Larvae in Washington State Cranberry, Strawberry, and Red Raspberry | Environmental Entomology
+- new | 2000 | 10.4141/p99-136 | article | Poultry manure effects on soil nitrogen processes and nitrogen accumulation in red raspberry | Canadian Journal of Plant Science
+- new | 2000 | 10.1016/s0378-1127(99)00176-0 | article | Density-dependent effects of northern hardwood competition on selected environmental resources and young white spruce (Picea glauca) plantation growth, mineral nutrition, and stand | Forest Ecology and Management
+- new | 2000 | 10.4141/p99-094 | article | Comparison of nitrogen application via a trickle irrigation system with surface banding of granular fertilizer on red raspberry | Canadian Journal of Plant Science
+- new | 1999 | 10.5558/tfc75973-6 | article | Dégagement chimique ou manuel de plantations d'épinette noire? Étude de cas dans le domaine de la sapinière à bouleau blanc au Québec | The Forestry Chronicle
+- new | 1999 | 10.71318/apom.1999.53.1.32 | article | Performance of Primocane Fruiting Red Raspberries | Journal of the American Pomological Soci
+- new | 1998 | 10.21273/hortsci.33.3.468b | article | Impact of an Open Trellis on Canopy Growth, Light Interception, Yield, and Leaf Physiology of Red Raspberry (Rubus idaeus) | HortScience
+- new | 1998 | 10.2307/3496092 | article | A New Host Record for the Caribbean Fruit Fly (Diptera: Tephritidae) | Florida Entomologist
+- new | 1997 | 10.21273/hortsci.32.3.537a | article | Effect of the Split Trellis on Growth and Yield of Red Raspberry (Rubus idaeus) | HortScience
+- new | 1997 | https://openalex.org/W2721873139 | article | Preliminary results on small fruit [Rubus idaeus - Rubus chamaemorus] plantation trials in a mountain area of Liguria | 
+- new | 1996 | https://openalex.org/W2777523134 | article | Cultivar trial in red raspberry | 
+- new | 1996 | 10.5154/r.rchsh.1994.11.079 | article | Enraizamieto de estacas de frambuesa roja (Rubus idaeus), cv. Heritage mediante el uso de kaib1 | Revista Chapingo Serie Horticultura
+- new | 1996 | 10.1016/s0953-7562(96)80158-4 | article | Relatedness of Group I species of Phytophthora as assessed by randomly amplified polymorphic DNA (RAPDs) and sequences of ribosomal DNA | Mycological Research
+- new | 1996 | 10.1093/amt/21.1.67 | article | Root Weevil Control on Red Raspberry, 1995 | Arthropod management tests
+- new | 1995 | 10.21273/hortsci.30.4.833g | article | Distinguishing Pacific Northwest Red Raspberry Cultivars using RAPD Markers | HortScience
+- new | 1995 | 10.21273/hortsci.30.4.834d | article | Twospotted Spider Mite Presence on 40 Rubus Species. | HortScience
+- new | 1995 | 10.1007/bf00025426 | article | Genetic variation for resistance to Phytophthora fragariae var. rubi in red raspberries | Euphytica
+- new | 1994 | 10.1080/14620316.1994.11515257 | article | Identification of red raspberry cultivars and an assessment of their relatedness using fingerprints produced by random primers | Journal of Horticultural Science
+- new | 1991 | https://openalex.org/W2283342531 | article | [Effect of the application of hydrogen cyanamide [Dormex] on two cultivars of red raspberry (Rubus idaeus L.)] | 
+- new | 1990 | 10.21273/hortsci.25.9.1156 | article | ON FARM TRIALS WORK | HortScience
+- new | 1988 | 10.1007/bf00036855 | article | Resistance to cane spot (Elsinoë veneta) in the red raspberry and its relationship to resistance to yellow rust (Phragmidium rubi-idaei) | Euphytica
+- new | 1987 | 10.1080/14620316.1987.11515812 | article | Light interception and distribution in horizontal and vertical canopies of red raspberries | Journal of Horticultural Science
+- new | 1986 | 10.71318/apom.1986.40.2.39 | article | Red Raspberry Yield Trials in Southwestern and Western Montana | Journal of the American Pomological Soci
+- new | 1986 | 10.21273/hortsci.21.6.1435 | article | Relative Resistance of Red Raspberry and Related Genotypes to the Root Lesion Nematode | HortScience
+- new | 1983 | 10.17660/actahortic.1983.140.18 | conference-paper | BREEDING RASPBERRIES FOR TOLERANCE TO ADVERSE CLIMATIC CONDITIONS | Acta Horticulturae
+- new | 1982 | 10.21273/hortsci.17.4.645 | article | Effects of Raspberry Bushy Dwarf Virus on Yield and Cane Growth in Susceptible Red Raspberry Cultivars1 | HortScience
+- new | 1980 | 10.17660/actahortic.1980.112.8 | conference-paper | RED RASPBERRY CULTIVAR DEVELOPMENT IN BRITISH COLUMBIA WITH SPECIAL REFERENCE TO PEST RESPONSE AND GERMPLASM EXPLOITATION | Acta Horticulturae
+- new | 1976 | 10.1111/j.1744-7348.1976.tb01773.x | article | Ultrastructural changes and small bacilliform particles associated with infection by rubus yellow net virus | Annals of Applied Biology
+- new | 1974 | 10.1139/g74-044 | article | THREE GENERATIONS OF INBREEDING AND S2 FACTORIAL TEST CROSSES IN RED RASPBERRY CULTIVARS | Canadian Journal of Genetics and Cytolog
+- new | 1970 | 10.4141/cjps70-099 | article | EFFECTS OF RASPBERRY MOSAIC VIRUSES ON YIELD AND GROWTH OF RED RASPBERRIES | Canadian Journal of Plant Science
+
+## rumex-acetosa (Rumex acetosa) - name clause: "Rumex acetosa"[tiab] OR "garden sorrel"[tiab] OR "common sorrel"[tiab]
+
+### PubMed HT - 2 hits, 2 not already listed above, 1 new
+- new | 2024 | 39676949 |  | Agronomic Biofortification of Unconventional Food Plants with Zinc. | ACS Omega
+- HELD REF-0894 | 2023 | 34953469 | Randomized Controlled Trial | Microbiological and Clinical Effects of a Proanthocyanidin-enriched Extract from Rumex acetosa in Periodontally Healthy Carriers of Porphyromonas gingivalis: a Randomized Controlle | Planta Med
+
+### PubMed SR - 1 hits, 1 not already listed above, 1 new
+- new | 2025 | 39720831 | Review | Multiple benefits of herbs: Polygonaceae species in veterinary pharmacology and livestock nutrition. | Vet Anim Sci
+
+### PubMed SAFE - 10 hits, 9 not already listed above, 7 new
+- new | 2021 | 33535414 |  | Detection of Serum Allergen-Specific IgE in Atopic Dogs Tested in Northern Italy: Preliminary Study. | Animals (Basel)
+- new | 2021 | 32557099 |  | Environment-Based Impairment in Mineral Nutrient Status and Heavy Metal Contents of Commonly Consumed Leafy Vegetables Marketed in Kyrgyzstan: a Case Study for Health Risk Assessme | Biol Trace Elem Res
+- HELD REF-0895 | 2020 | 32545588 |  | Effect of Rumex Acetosa Extract, a Herbal Drug, on the Absorption of Fexofenadine. | Pharmaceutics
+- new | 2020 | 33331728 | Case Reports | [A poisonous spring smoothie with wild herbs: accidental intoxication with foxglove (Digitalis purpurea)]. | Ned Tijdschr Geneeskd [dut]
+- new | 2018 | 30037041 |  | A Simple and Sensitive Liquid Chromatography with Tandem Mass Spectrometric Method for the Simultaneous Determination of Anthraquinone Glycosides and Their Aglycones in Rat Plasma: | Pharmaceutics
+- HELD REF-5611 | 2017 | 28960556 |  | Incidence of Pyrrolizidine Alkaloids in Herbal Medicines from German Retail Markets: Risk Assessments and Implications to Consumers. | Phytother Res
+- new | 2015 | 25854206 | Research Support, Non-U.S. Gov't | The phytotoxicity of ionic liquids from natural pool of (-)-menthol with tetrafluoroborate anion. | Environ Sci Pollut Res Int
+- new | 2015 | 25874577 | Case Reports/Letter | Acute tubulointerstitial nephritis due to large amount of sorrel (Rumex acetosa) intake. | Clin Toxicol (Phila)
+- new | 2009 | 19529968 | Research Support, Non-U.S. Gov't | The role of cytochromes P450 and peroxidases in the detoxification of sulphonated anthraquinones by rhubarb and common sorrel plants cultivated under hydroponic conditions. | Environ Sci Pollut Res Int
+
+### PubMed OBS - 0 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 6 hits, 5 not already listed above, 5 new
+- new | 2017 | 29104214 | Review | Impact of Repetitive Elements on the Y Chromosome Formation in Plants. | Genes (Basel)
+- new | 2015 | 26025526 | Research Support, Non-U.S. Gov't/Review | The genomics of plant sex chromosomes. | Plant Sci
+- new | 2015 | 25637505 | Historical Article/Review | Scientific evaluation of medicinal plants used for the treatment of abnormal uterine bleeding by Avicenna. | Arch Gynecol Obstet
+- new | 2008 | 18504355 | Research Support, Non-U.S. Gov't/Review | Plant sex chromosomes: molecular structure and function. | Cytogenet Genome Res
+- new | 2007 | 17433114 | Historical Article/Review | Wild vascular plants gathered for consumption in the Polish countryside: a review. | J Ethnobiol Ethnomed
+
+### ClinicalTrials.gov - 1 registered studies
+- NCT02039648 | COMPLETED | results=False | EARLY_PHASE1 | The Influence of Rumex Acetosa L on the Intraoral Colonization With Porphyromonas Gingivalis | conds: Periodontitis | intr: Rumex acetosa L. extract, Placebo
+
+### OpenAlex no-PMID trial-worded - 300 hits, 74 without PMID, 74 new
+- new | 2026 | 10.21203/rs.3.rs-11535337/v1 | preprint | Between Folk Medicine and Pharmacological Risk: Non-Conventional Food Plants in Cancer-Associated Thrombosis | Research Square
+- new | 2026 | 10.62991/af1997502606 | article | ISSUES REGARDING THE EFFECTIVENESS OF GLYPHOSATE ON UNCULTIVATED LANDS IN ACCORDANCE WITH THE EU REGULATIONS | Agriculture & Food
+- new | 2026 | https://openalex.org/W7217550341 | article | Comparative Evaluation of Acepromazine–Ketamine and Medetomidine–Ketamine Anaesthetic Combinations in New Zealand White Rabbits: Effects on Anaesthetic Performance and Physiologica | Nigerian Journal of Animal Science and T
+- new | 2025 | 10.1111/gfs.12715 | article | Herbage Nutritive Value in Extensively Grazed Grassland as Affected by Botanical Composition, Sward Heterogeneity and Grazing Intensity | Grass and Forage Science
+- new | 2025 | 10.24193/contrib.bot.60.1 | article | GENETIC VARIATION OF SOME QUANTITATIVE AND QUALITATIVE CHARACTERISTICS OF SORRELS GERMPLASM | Contributii Botanice
+- new | 2025 | 10.24193/contrib.bot.60 | paratext |  | Contributii Botanice
+- new | 2024 | 10.1016/j.jff.2024.106572 | article | Modulation of cognitive functions by Rumex acetosa L. against scopolamine-induced memory impairment | Journal of Functional Foods
+- new | 2024 | 10.61186/yujs.11.1.61 | article | Response of germination and growth indices of seedlings of five weed species as affected by leaf extract allelopathy of Thuja orientalis | Journal of Seed Research
+- new | 2024 | 10.24996/ijs.2024.65.7.1 | article | Assessing the Effect of Fe2O3 Nanoparticles on Catalase Activity in Patients with Chronic Periodontitis: In Vitro study and Molecular Docking | Iraqi Journal of Science
+- new | 2024 | 10.18174/647596 | report | Pilot beheer en inzaaien bloemrijke dijken Amsterdam-Rijnkanaal : rapportage 2023 | 
+- new | 2024 | 10.18174/679509 | report | Monitoring gras/kruidenmengsels Waddenzeedijken : Project Gras op Klei Fase D (2019-2024), eindrapportage en synthese | 
+- new | 2023 | 10.1016/j.focha.2023.100394 | article | Effect of hydrocooling on postharvest storage of sorrel (Rumex acetosa L.) | Food Chemistry Advances
+- new | 2023 | 10.47328/ufvbbt.2023.611 | dissertation | Plant spacing and organic fertilization of sorrel (Rumex Acetosa L.) | 
+- new | 2023 | 10.37360/blacpma.23.22.1.1 | article | Screening for acetylcholinesterase inhibition, lipid peroxidation inhibition and antioxidant activity of medicinal plants from Morocco | Boletin Latinoamericano y del Caribe de 
+- new | 2023 | 10.3390/d15121164 | article | Divergence of Seed Mass in Riparian Plant Communities Dominated by Filtering and Random Processes | Diversity
+- new | 2023 | 10.51699/cajmns.v4i4.1676 | article | Clinical and Diagnostic Significance of Signs of Systemic Inflammatory Response Syndrome and Cytokine Levels in Patients with Purulent Rhinosinusitis | CENTRAL ASIAN JOURNAL OF MEDICAL AND NAT
+- new | 2023 | 10.47363/jdat/2023(4)140 | article | Chinese Medicine Treatment for Cannabis Drug Abuse --- An Early Exploration | Journal of Drugs Addiction & Therapeutic
+- new | 2022 | 10.56557/jafsat/2022/v9i47989 | article | SENSORY EVALUATION AND CONSUMER AWARENESS TOWARDS RAGI FLOUR DUMPLINGS BY USING TRADITIONAL HERBS | Journal of Advances in Food Science & Te
+- new | 2022 | 10.18174/571147 | report | Tiny Forests: groene mini-oases in de stad : Monitoring van biodiversiteit en bijdragen aan CO2-opslag, wateropvang en tegengaan hittestress in elf Tiny Forests | 
+- new | 2022 | 10.31489/2022bmg3/123-126 | article | Cenopopulations of Adonis wolgensis Stev. in the conditions of Northern Kazakhstan | Bulletin of the Karaganda University “Bi
+- new | 2022 | 10.1007/s42250-022-00529-8 | article | Exploring the Drug Potential of Phytochemicals as a Novel Therapeutic Drug Candidate for Herpesvirus: An In-silico Evaluation | Chemistry Africa
+- new | 2021 | 10.1590/1983-40632021v5166508 | article | Organic fertilization in the production and chemical composition of non-conventional leafy vegetables | Pesquisa Agropecuária Tropical
+- new | 2021 | 10.21518/2079-701x-2021-6-12-19 | article | Rhinitis, rhinosinusutus and phytotherapy | Meditsinskiy sovet = Medical Council
+- new | 2021 | 10.5812/semj.102127 | review | A Mini-review on Medicinal Plants Used for the Treatment of Jaundice in the Canon of Medicine | Shiraz E-Medical Journal
+- new | 2020 | 10.37951/2595-6906.2019v3i2.5320 | article | INFLUENCE OF INSECTICIDES AND FUNGICIDES IN THE RIZOSPHERE OF UNCONVENTIONAL FOOD PLANTS (UFP's) | Ipê Agronomic Journal
+- new | 2020 | 10.21518/2079-701x-2020-6-7-13 | article | Rational approach to the treatment of acute rhinosinusitis in comorbides with dysosmia | Meditsinskiy sovet = Medical Council
+- new | 2020 | 10.5606/tr-ent.2019.85856 | article | Evaluation of neutrophil-to-lymphocyte ratio in patients with symptomatic rhinitis | The Turkish Journal of Ear Nose and Thro
+- new | 2020 | 10.24959/cphj.20.1526 | article | Phytoneering medicines in the treatment of acute rhinosinusitis: an emphasis on effectiveness and safety of application | Clinical pharmacy
+- new | 2020 | 10.4236/jep.2020.113011 | article | Effectiveness of Grassed Buffer in Reducing Spinosad Runoff: Real Data and FOCUS Output | Journal of Environmental Protection
+- new | 2019 | 10.5539/jas.v11n4p262 | article | Vegetative Development and Nutrient Absorption March of Sorrel (Rumex acetosa L.) | Journal of Agricultural Science
+- new | 2019 | 10.14393/bj-v35n3a2019-41890 | article | Profile of phytochemistry and antioxidant activity of sorrel in function of organic fertilization and density of plantio | Bioscience Journal
+- new | 2019 | 10.1007/s13595-019-0799-x | article | Negative correlation between ash dieback susceptibility and reproductive success: good news for European ash forests | Annals of Forest Science
+- new | 2019 | 10.3389/fmats.2019.00179 | article | A Comprehensive Review of Magnetic Nanomaterials Modern Day Theranostics | Frontiers in Materials
+- new | 2018 | 10.19084/rca17176 | article | Nutrição mineral, densidade de plantio, caracterização biométrica e fenológica de Rumex acetosa L. | Revista de Ciências Agrárias
+- new | 2018 | 10.18805/ag.d-4382 | article | Diversity of weed species in wheat fields of district Rajouri, Jammu and Kashmir | Agricultural Science Digest - A Research
+- new | 2018 | 10.29050/harranziraat.329976 | article | Biocontrol of Alternaria alternata Causing Leaf Spot Disease on Faba Bean (Vicia faba L.) Using Some Trichoderma harzianum Isolates Under In vitro Condition | Harran Tarım ve Gıda Bilimleri Dergisi
+- new | 2017 | 10.30574/gscbps.2017.1.1.0006 | article | Activities of neem and wood ash as biopesticides in the control of insect pests on vegetable crops in Mubi | GSC Biological and Pharmaceutical Scienc
+- new | 2016 | 10.3390/su8040357 | article | Phytoremediation Opportunities with Alimurgic Species in Metal-Contaminated Environments | Sustainability
+- new | 2015 | https://openalex.org/W2493896848 | article | Phytoremediation potential of common Sorrel (Rumex acetosa) and Corn (Zea myse) in decomposing synthetic Sulphonated Anthraquinon | 
+- new | 2015 | 10.1007/s11240-015-0826-z | article | Male adventitious roots of Rumex thyrsiflorus Fingerh. as a source of genetically stable micropropagated plantlets | Plant Cell Tissue and Organ Culture (PCT
+- new | 2014 | 10.1016/j.agee.2014.03.007 | article | Agrochemicals in field margins—Field evaluation of plant reproduction effects | Agriculture Ecosystems & Environment
+- new | 2014 | 10.1111/icad.12087 | article | Lycaena dispar on its northern distribution limit: an expansive generalist | Insect Conservation and Diversity
+- new | 2013 | 10.1055/s-0033-1351947 | article | Proanthocyanidin-enriched extract from Rumex acetosa L. as a prophylactic agent against Porphyromonas gingivalis: a clinical pilot trial | Planta Medica
+- new | 2013 | 10.1590/s0102-05362013000200025 | article | Characterization of two types of azedinha in the region of Sete Lagoas, Brazil | Horticultura Brasileira
+- new | 2013 | https://openalex.org/W3150257049 | dissertation | Vegetation dynamics and restoration trials in limestone quarries: the botticino case study (Brescia, Italy) | BOA (University of Milano-Bicocca)
+- new | 2011 | https://openalex.org/W1517492672 | dissertation | GENOMIC STUDIES AND IDENTIFICATION OF SEX AT SEEDLING STAGE IN SOME DIOECIOUS PLANTS THROUGH PCR BASED DNA MARKERS | University
+- new | 2011 | 10.5772/29524 | book-chapter | Mediators and Some Cytokines in Tears During the Late Conjunctival Response Induced by Primary Allergic Reaction in the Nasal Mucosa | InTech eBooks
+- new | 2011 | 10.56093/ijas.v81i8.8403 | article | A highly reliable DNA marker in dioecious plant Japanese hop (Humulus scandens) | The Indian Journal of Agricultural Scien
+- new | 2009 | 10.1111/j.1601-5223.1970.tb02347.x | article | Induced asynaptic mutants in Vicia faba L. | Hereditas
+- new | 2008 | https://openalex.org/W233374361 | article | Introduction experiment of 20 perennial grass in Yiliang and Jinning county of Kunming. | Xi'nan nongye xuebao
+- new | 2008 | https://openalex.org/W4327889578 | article | A Study on Effective Factors in Gene Transformation to Dioecious Plant | Journal of Crop production and processin
+- new | 2007 | https://openalex.org/W3161365225 | article | 소루쟁이 차의 음용이 여대생의 배변습관 개선 및 변비완화에 미치는 영향 | 생활과학논집
+- new | 2007 | 10.1002/jpln.200625222 | article | Growth of legume and nonlegume catch crops and residual‐N effects in spring barley on coarse sand | Journal of Plant Nutrition and Soil Scie
+- new | 2007 | 10.1016/b978-0-323-02998-8.50024-x | book-chapter | Veterinary Herbal Medicine: A Systems-Based Approach | Elsevier eBooks
+- new | 2004 | 10.1017/s0962728600026853 | article | Environmental enrichment for ostrich, Struthio camelus, chicks | Animal Welfare
+- new | 2004 | 10.1023/b:coge.0000031144.95293.1b | article | Low RAPD Variation and Female-Biased Sex Ratio Indicate Genetic Drift in Small Populations of the Dioecious Conifer Taxus Baccata in Switzerland | Conservation Genetics
+- new | 2003 | https://openalex.org/W1907262395 | article | 자웅이주 식물 수영 (Rumex acetosa L.)에서 암ㆍ수에 따른 RAPD pattern의 다양성 분석 | 한국자원식물학회지
+- new | 2003 | 10.1046/j.1365-2664.2003.00848.x | article | Microsite availability and establishment of native species on degraded and reclaimed sites | Journal of Applied Ecology
+- new | 2003 | https://openalex.org/W2591603064 | article | A Patient's Point of View Nineteenth-Century Syphilis Treatment | Lincoln (University of Nebraska)
+- new | 2002 | 10.1046/j.1365-2664.2002.00715.x | article | Soil seed banks and the effects of meadow management on vegetation change in a 10‐year meadow field trial | Journal of Applied Ecology
+- new | 2000 | 10.1046/j.1365-2664.2000.00566.x | article | The interactive effects of management on the productivity and plant community structure of an upland meadow: an 8‐year field trial | Journal of Applied Ecology
+- new | 2000 | 10.1006/anbo.2000.1166 | article | Spatial Autocorrelation of Genetic Variation in Three Stands of Ophiopogon xylorrhizus(Liliaceaes.l. ) | Annals of Botany
+- new | 1997 | 10.1080/12538078.1997.10515759 | article | Reproductive biology of Corema album (L.) D. Don (Empetraceae) in the northwest Iberian Peninsula | Acta Botanica Gallica
+- new | 1996 | 10.2307/2404682 | article | The Effects of Nitrogen, Potassium and Phosphorus Addition on the Vegetation of a Somerset Peat Moor Under Cutting Management | Journal of Applied Ecology
+- new | 1993 | 10.1038/hdy.1993.4 | article | The effect of zinc contamination from electricity pylons. Genetic constraints on selection for zinc tolerance | Heredity
+- new | 1992 | 10.21273/hortsci.27.7.831 | article | Cytological Mechanism of 2n Microscope Formation in Garden Asparagus | HortScience
+- new | 1991 | 10.1038/hdy.1991.49 | article | The frequency and meiotic behaviour of structural chromosome variants in natural populations of Allium schoenoprasum L. (wild chives) in Europe | Heredity
+- new | 1972 | 10.1508/cytologia.37.119 | article | Karyotype and Prometaphase Analysis in Rumex acetosa L | CYTOLOGIA
+- new | 1971 | 10.1038/hdy.1971.55 | article | Nucleolar suppression, its inheritance and association with taxonomy and sex in the genus Ribes | Heredity
+- new | 1959 | 10.18174/njas.v7i1.17692 | article | Influence of phosphate on the botanical composition and on the grade of quality of herbage. | Netherlands Journal of Agricultural Scie
+- new | 1947 | 10.23986/afsci.71243 | article | Hormonivalmisteiden vaikutuksesta rikkaruohoihin ja hyötykasveihin | Agricultural and Food Science
+- new | 1928 | 10.18174/163386 | dissertation | Bijdrage tot de kennis van de chemische en botanische samenstelling van het hooi en van den invloed, welke enkele meststoffen daarop uitoefenen | 
+- new | 1887 | 10.1001/jama.1887.02391280026011 | article | RUMEX ACETOSA FOR REMOVAL OF MORBID GROWTHS. | JAMA
+- new | 1886 | 10.1136/bmj.2.1339.436-a | article | Naval and Military Medical Services | BMJ
+
+## ruscus-aculeatus (Ruscus aculeatus) - name clause: "Ruscus aculeatus"[tiab] OR "butcher's broom"[tiab] OR "butchers broom"[tiab] OR "ruscogenin"[tiab] OR "ruscogenins"[tiab] OR "Cyclo 3 Fort"[tiab] OR "Ruscus"[ti]
+
+### PubMed HT - 27 hits, 27 not already listed above, 25 new
+- new | 2026 | 41716640 |  | Real-world effectiveness of a phlebotonic formulation combining diosmin, Ruscus, Melilotus and Vitis vinifera on symptoms and quality of life in patients with chronic venous and ly | Drugs Context
+- new | 2022 | 35893088 | Review | Clinical Perspectives and Management of Edema in Chronic Venous Disease-What about Ruscus? | Medicines (Basel)
+- new | 2020 | 32052951 | Review | CEAP clinical classes C0S-C4: differences, similarities and role of Ruscus + HMC + vitamin C in patients with chronic venous disease. | Int Angiol
+- new | 2017 | 28225220 | Meta-Analysis/Systematic Review | Efficacy of Ruscus extract, HMC and vitamin C, constituents of Cyclo 3 fort®, on improving individual venous symptoms and edema: a systematic review and meta-analysis of randomized | Int Angiol
+- new | 2016 | 26406967 | Multicenter Study/Observational Study/Research Support, Non-U.S. Gov't | Patients' satisfaction with therapy methods of advanced chronic venous disease. | Int Angiol
+- new | 2015 | 26722401 | Research Support, Non-U.S. Gov't | Ruscogenin exerts beneficial effects on monocrotaline-induced pulmonary hypertension by inhibiting NF-κB expression. | Int J Clin Exp Pathol
+- new | 2012 | 22801406 | Research Support, Non-U.S. Gov't | Compliance in pharmacotherapy in patients with chronic venous disorders. | Int Angiol
+- new | 2011 | 21617611 | Clinical Trial | Correlation between improvement in functional signs and plethysmographic parameters during venoactive treatment (Cyclo 3 Fort). | Int Angiol
+- new | 2010 | 21173734 | Clinical Trial/Multicenter Study | Quality of life improvement in Latin American patients suffering from chronic venous disorder using a combination of Ruscus aculeatus and hesperidin methyl-chalcone and ascorbic ac | Int Angiol
+- new | 2010 | 20707877 | Research Support, Non-U.S. Gov't/Review | Which plant for which skin disease? Part 2: Dermatophytes, chronic venous insufficiency, photoprotection, actinic keratoses, vitiligo, hair loss, cosmetic indications. | J Dtsch Dermatol Ges [eng,ger]
+- new | 2009 | 19620698 | Clinical Trial/Multicenter Study | Assessment of quality of life in Mexican patients suffering from chronic venous disorder - impact of oral Ruscus aculeatus-hesperidin-methyl-chalcone-ascorbic acid treatment - 'QUA | Phlebology
+- new | 2009 | 20109380 | Controlled Clinical Trial/Multicenter Study | [Multicentric study on a topical compound with lymph-draining action in the treatment of the phlebostatic ulcer of the inferior limbs]. | G Chir [ita]
+- new | 2009 | 19506542 | Clinical Trial/Comparative Study/Research Support, Non-U.S. Gov't | Changes on venous diameter and leg perimeter with different clinical treatments for moderate chronic venous disease: evaluation using Duplex scanning and perimeter measurements. | Int Angiol
+- new | 2008 | 18423497 | Clinical Trial/Research Support, Non-U.S. Gov't | Use of microcirculatory parameters to evaluate clinical treatments of chronic venous disorder (CVD). | Microvasc Res
+- new | 2007 | 18091707 |  | Clinical and capillaroscopic evaluation in the treatment of chronic venous insufficiency with Ruscus aculeatus, hesperidin methylchalcone and ascorbic acid in venous insufficiency  | Int Angiol
+- new | 2004 | 15106192 | Systematic Review | Benzo-pyrones for reducing and controlling lymphoedema of the limbs. | Cochrane Database Syst Rev
+- HELD REF-0595 | 2003 | 14612852 | Meta-Analysis/Research Support, Non-U.S. Gov't | Meta-analysis of clinical trials of Cyclo 3 Fort in the treatment of chronic venous insufficiency. | Int Angiol
+- new | 2003 | 12900723 | Clinical Trial | [Chronic venous insufficiency: an open trial of FLEBS Crema]. | Minerva Cardioangiol [ita]
+- HELD REF-1554 | 2002 | 12040966 | Clinical Trial/Multicenter Study/Randomized Controlled Trial | Efficacy and safety of a Butcher's broom preparation (Ruscus aculeatus L. extract) compared to placebo in patients suffering from chronic venous insufficiency. | Arzneimittelforschung
+- new | 2000 | 10917578 | Clinical Trial/Comparative Study/Multicenter Study/Randomized Controlled Trial | An open-label, randomized multicenter study comparing the efficacy and safety of Cyclo 3 Fort versus hydroxyethyl rutoside in chronic venous lymphatic insufficiency. | Angiology
+- new | 1999 | 10811525 | Clinical Trial/Multicenter Study/Randomized Controlled Trial | An open-label, randomised multicentre study comparing the efficacy and safety of CYCLO 3 FORT versus hydroxyethyl rutoside in chronic venous lymphatic insufficiency. | Int Angiol
+- new | 1998 | 9821028 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Comparative efficacy of a single daily dose of two capsules Cyclo 3 Fort in the morning versus a repeated dose of one capsule morning and noon. A one-month study. | Int Angiol
+- new | 1996 | 8721977 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Treatment of secondary lymphedema of the upper limb with CYCLO 3 FORT. | Lymphology
+- new | 1990 | 2227746 | Clinical Trial/Randomized Controlled Trial | [Venous constriction by local administration of ruscus extract]. | Fortschr Med [ger]
+- new | 1989 | 2668140 | Clinical Trial/Controlled Clinical Trial | [Improving venous tone and capillary sealing. Effect of a combination of Ruscus extract and hesperidine methyl chalcone in healthy probands in heat stress]. | Fortschr Med [ger]
+- new | 1988 | 3048951 | Clinical Trial/Controlled Clinical Trial | Use of extract of Ruscus aculeatus in venous disease in the lower limbs. | Drugs Exp Clin Res
+- new | 1987 | 3554800 | Clinical Trial/Randomized Controlled Trial | [Controlled study of increasing venous tone in primary varicose veins by oral administration of Ruscus aculeatus and trimethylhespiridinchalcone]. | Z Hautkr [ger]
+
+### PubMed SR - 8 hits, 4 not already listed above, 3 new
+- new | 2023 | 36854203 | Review | Ophiopogon japonicus and its active compounds: A review of potential anticancer effects and underlying mechanisms. | Phytomedicine
+- new | 2021 | 34166347 | Systematic Review | [Efficacy of combination of needle extract, hesperidin and vitamin C in treatment of chronic venous diseases]. | Angiol Sosud Khir [rus]
+- new | 2018 | 29063748 | Review | New data on chronic venous disease: a new place for Cyclo 3® Fort. | Int Angiol
+- HELD REF-1556 | 2017 | 28124877 | Review | The place of Ruscus extract, hesperidin methyl chalcone, and vitamin C in the management of chronic venous disease. | Int Angiol
+
+### PubMed SAFE - 39 hits, 31 not already listed above, 30 new
+- new | 2026 | 42478061 |  | Antimutagenic and Antigenotoxic Effects of Ruscus aculeatus L. Rhizomes and Roots. | Turk J Pharm Sci
+- new | 2026 | 42205186 |  | Evaluating the effectiveness of oral phlebotonics for the conservative management of hemorrhoidal disease: insights from the VIVI2022/01/VIVALDI study. | Front Surg
+- new | 2026 | 42274044 |  | A Retrospective Pharmacovigilance Disproportionality Analysis of Possible Nephrotoxicity and Natural Products Using Data from the FDA Adverse Event Reporting System. | J Integr Complement Med
+- new | 2025 | 40844869 |  | Toward Natural Products-Based Drug Development for Erectile Dysfunction: A Molecular Candidate from Plant Tribulus terrestris Identified by an Integrated In Silico Study. | OMICS
+- new | 2024 | 39267167 |  | Ruscogenin Exerts Anxiolytic-Like Effect via Microglial NF-κB/MAPKs/NLRP3 Signaling Pathways in Mouse Model of Chronic Inflammatory Pain. | Phytother Res
+- new | 2024 | 39561160 | Research Support, Non-U.S. Gov't | Role of ruscogenin extracted from Radix Ophiopogon Japonicus in antagonizing 5-hydroxytryptamine and dopamine receptors through computational screening. | PLoS One
+- new | 2023 | 37347409 |  | Ruscogenin ameliorates dasatinib-induced intestinal barrier dysfunction via ErbB4/YAP and ROCK/MLC pathways. | J Nat Med
+- new | 2022 | 36247053 |  | Ruscogenin Protects Against Deoxynivalenol-Induced Hepatic Injury by Inhibiting Oxidative Stress, Inflammation, and Apoptosis Through the Nrf2 Signaling Pathway: An In vitro Study. | Saudi J Med Med Sci
+- new | 2020 | 32798918 |  | Quantum dots combined with a fluorescence-linked immunosorbent assay for detecting the metabolic balance of DT-13 excretion in rats. | J Pharm Biomed Anal
+- new | 2016 | 26563681 | Review | Contact dermatitis as an adverse reaction to some topically used European herbal medicinal products - Part 3: Mentha × piperita - Solanum dulcamara. | Contact Dermatitis
+- new | 2015 | 25304453 |  | [Poisonous plants: An ongoing problem]. | An Pediatr (Barc) [spa]
+- new | 2015 | 25660717 |  | Rapid determination of ruscogenin in rat plasma with application to pharmacokinetic study. | J Chromatogr B Analyt Technol Biomed Lif
+- new | 2014 | 24719702 |  | Hepatoprotective herbs, avicenna viewpoint. | Iran Red Crescent Med J
+- new | 2014 | 25443374 | Evaluation Study/Research Support, Non-U.S. Gov't | A monoclonal antibody-based competitive ELISA for the determination of ruscogenin in Chinese traditional medicines and biological samples. | Chin J Nat Med
+- new | 2013 | 23849361 | Case Reports | An unusual case of Butcher's Broom precipitating diabetic ketoacidosis. | J Emerg Med
+- new | 2011 | 21693163 | Research Support, Non-U.S. Gov't | Safety evaluation of steroidal saponin DT-13 isolated from the tuber of Liriope muscari (Decne.) Baily. | Food Chem Toxicol
+- new | 2010 | 20686523 | Research Support, Non-U.S. Gov't | A sensitive indirect competitive enzyme-linked immunosorbent assay for the detection of sarsasapogenin in rat plasma. | Acta Pharmacol Sin
+- new | 2009 | 19258243 | Case Reports/Letter | Contact dermatitis from an anti-haemorroidal cream containing ruscogenin. | Eur J Dermatol
+- new | 2006 | 16426297 | Case Reports | Allergic contact dermatitis to ruscogenins. | Contact Dermatitis
+- new | 2006 | 16957914 | Research Support, Non-U.S. Gov't | Determination of ruscogenin in crude Chinese medicines and biological samples by immunoassay. | Anal Bioanal Chem
+- new | 2004 | 15180742 | Comparative Study/Review | Colonic toxicity of administered drugs and chemicals. | Am J Gastroenterol
+- new | 2003 | 14506442 | Case Reports/Letter | [Lymphocytic colitis following administration of Cyclo 3 fort]. | Presse Med [fre]
+- new | 2001 | 11370707 | Research Support, Non-U.S. Gov't | Ruscogenin glycoside (Lm-3) isolated from Liriope muscari improves liver injury by dysfunctioning liver-infiltrating lymphocytes. | J Pharm Pharmacol
+- HELD REF-1558 | 2000 | 11152059 | Case Reports | Ruscus aculeatus (butcher's broom) as a potential treatment for orthostatic hypotension, with a case report. | J Altern Complement Med
+- new | 2000 | 10755863 | Case Reports/Letter | [Cyclo 3 Fort-induced lymphocytic colitis associated with ileal villous atrophy]. | Gastroenterol Clin Biol [fre]
+- new | 2000 | 10881520 | Review | [Drug-induced enterocolitis. Important differential diagnosis in the investigation of diarrhea and intestinal hemorrhage]. | Lakartidningen [swe]
+- new | 1996 | 8959138 | Case Reports/Letter | [Lymphocytic colitis caused by Cyclo 3 Fort]. | Rev Med Interne [fre]
+- new | 1994 | 8150360 | Case Reports | Drug induced lymphocytic colitis. | Gut
+- new | 1993 | 8467976 | Case Reports/Letter | [Diarrhea induced by Cyclo 3 fort and lymphocytic colitis]. | Gastroenterol Clin Biol [fre]
+- new | 1993 | 8378650 | Case Reports/Review | [Unexplained chronic diarrhea, apropos of 4 new cases under Cyclo 3 fort and review of the literature]. | Rev Med Interne [fre]
+- new | 1991 | 1792661 | Case Reports/Letter | [Diarrhea caused by Cyclo 3 fort]. | Therapie [fre]
+
+### PubMed OBS - 5 hits, 0 not already listed above, 0 new
+
+### PubMed REV - 28 hits, 16 not already listed above, 10 new
+- new | 2025 | 41302473 | Review | Current Insights into the Phytochemistry and Pharmacological Properties of Ruscus aculeatus. | Molecules
+- new | 2025 | 40196368 | Review | Potential bidirectional regulatory effects of botanical drug metabolites on tumors and cardiovascular diseases based on the PI3K/Akt/mTOR pathway. | Front Pharmacol
+- HELD REF-2590 | 2024 | 39419127 | Review | Herbal drugs in chronic venous disease treatment: An update. | Fitoterapia
+- new | 2023 | 37646141 | Review | Effects of Chinese Medicine on Pyroptosis in Coronary Heart Disease. | Am J Chin Med
+- new | 2022 | 34952766 | Review | Anti-inflammatory and modulatory effects of steroidal saponins and sapogenins on cytokines: A review of pre-clinical research. | Phytomedicine
+- new | 2021 | 34356471 | Review | The Role of Food Supplementation in Microcirculation-A Comprehensive Review. | Biology (Basel)
+- HELD REF-2591 | 2019 | 31096120 | Review | Therapeutic potential of natural compounds in inflammation and chronic venous insufficiency. | Eur J Med Chem
+- new | 2019 | 30790614 | Review | Beyond tribulus (Tribulus terrestris L.): The effects of phytotherapics on testosterone, sperm and prostate parameters. | J Ethnopharmacol
+- new | 2018 | 30525898 | Review | Pharmacological Effects and Mechanisms of Chinese Medicines Modulating NLRP3 Inflammasomes in Ischemic Cardio/Cerebral Vascular Disease. | Am J Chin Med
+- HELD REF-0424 | 2016 | 27825178 | Review | Ruscus Genus: A Rich Source of Bioactive Steroidal Saponins. | Planta Med
+- HELD REF-1555 | 2016 | 26928296 | Review | Combination of Ruscus aculeatus extract, hesperidin methyl chalcone and ascorbic acid: a comprehensive review of their pharmacological and clinical effects and of the pathophysiolo | Int Angiol
+- new | 2013 | 23614519 | Research Support, Non-U.S. Gov't/Review | Phlebotonic and compression stocking therapy in venous edema management: an overview of recent advances with a focus on Cyclo 3 Fort® and progressive compression stockings. | Womens Health (Lond)
+- new | 2005 | 15664457 | Review | Traditional phytotherapy in Central Italy (Marche, Abruzzo, and Latium). | Fitoterapia
+- HELD REF-0425 | 2005 | 16245442 | Review | [Butcher's Broom, in the treatment of venous insufficiency]. | Pol Merkur Lekarski [pol]
+- new | 2001 | 11302778 | Review | Hemorrhoids and varicose veins: a review of treatment options. | Altern Med Rev
+- HELD REF-1553 | 2001 | 11804550 | Review | Ruscus aculeatus (butcher's broom). Monograph. | Altern Med Rev
+
+### ClinicalTrials.gov - 7 registered studies
+- NCT02498327 | COMPLETED | results=False | PHASE2 | The Efficacy of Venavine Intensive® on the Quality of Life in Females With Chronic Venous Insufficiency | conds: Venous Insufficiency | intr: Gelatine Capsule, Venavine Intensive®
+- NCT07919132 | COMPLETED | results=False | NA | Effects of One Dietary Supplement Tablet of VESVEIN on the Quality of Life in Lower-limb Disorders | conds: Chronic Venous Disease of Lower Limbs | intr: Fixed combination of diosmin (450 mg), Hesperidin (50 mg), bromelain (75 mg, 2500 GDU/g), ananas com
+- NCT02483962 | COMPLETED | results=False | PHASE2 | Venavine Intensive® in the Treatment of Symptoms Associated With Chronic Venous Insufficiency | conds: Venous Insufficiency | intr: Gelatine capsule, Venavine Intensive®
+- NCT07185386 | COMPLETED | results=False | NA | Effects of a Dietary Supplement Composed of Diosmin, Hesperidin, Bromelain, and Ruscus Aculeatus on the Quality of Life in Subjects With Low | conds: Prodromal to Chronic Venous Disease | intr: combination of diosmin, hesperidin, bromelain, and Ruscus aculeatus (Vesvein Gambe)
+- NCT07128979 | RECRUITING | results=False | PHASE4 | Efficacy and Safety Evaluation of Ruscus Aculeatus L in Patients With Hemorrhoids | conds: Hemorrhoid | intr: Neoven 225 mg capsules, Placebo
+- NCT07737236 | RECRUITING | results=False |  | Ruscus Evaluation for Symptom Control in Uncomplicated Chronic Venous Insufficiency | conds: Chronic Venous Disease | intr: 
+- NCT02907320 | WITHDRAWN | results=False | PHASE2 | EXPLORATORY ASSESSMENT OF THE EFFECTS OF CYCLO 3 ® FORT (Ruscus Extract, Hesperidin Methyl Chalcone, Ascorbic Acid) OR MICRONISED PURIFIED F | conds: Venous Disease Classification (CEAP): C2 or C3 | intr: CYCLO 3 ® FORT, MPFF, placebo CYCLO 3 ® FORT, placebo MPFF
+
+### OpenAlex no-PMID trial-worded - 216 hits, 41 without PMID, 41 new
+- new | 2026 | 10.37923/phle.2026.24.1.40 | article | The Postoperative Benefits of Ruscus Extract in Endovenous Laser Ablation Surgery: A Retrospective Analysis of 108 Patients | Annals of Phlebology
+- new | 2026 | 10.37923/phle.2026.24.1.11 | article | Venoactive Drugs for Chronic Venous Disease in South Korea: An Updated Review of Clinical Trials and National Practice | Annals of Phlebology
+- new | 2026 | 10.37319/iqnjm.8.1.17 | article | The Effectiveness of Aescin Diethylamine Salicylate in Alleviating Peri-orbital oedema ollowing Septorhinoplasty: Follow-up Study in Basrah, Iraq | Iraqi National Journal of Medicine
+- new | 2026 | 10.22271/plants.2026.v14.i1c.2039 | article | Most promising medicinal plants for hemorrhoids treatment: A critical evaluation of tradition, science, and safety | Journal of Medicinal Plants Studies
+- new | 2025 | 10.5281/zenodo.17656761 | article | EFFICACY AND SAFETY OF MELINE® TREAT MENTS IN PATIENTS WITH PERIOCULAR HYPERPIGMENTATION | Zenodo (CERN European Organization for N
+- new | 2025 | 10.1097/ia9.0000000000000070 | article | Multiple target oral therapy with diosmin, extract of Vitis vinifera, Ruscus aculeatus, and Melilotus officinalis for the conservative management of hemorrhoidal disease: Prelimina | Il Giornale di Chirurgia - Journal of th
+- new | 2025 | 10.21518/akh2025-056 | article | Phlebotropic therapy for early chronic venous diseases: The first clinical experience with a fixed-dose Ruscus aculeatus extract combination | Ambulatornaya khirurgiya = Ambulatory Su
+- new | 2025 | https://openalex.org/W7209610060 | article | Eficacia Comparada de los Tratamientos Médicos para la Insuficiencia Venosa Crónica: Revisión Integrativa de la Evidencia Disponible | Dialnet (Universidad de la Rioja)
+- new | 2024 | 10.1002/ecs2.4824 | article | Stand spatial structure and productivity based on random structural unit in Larix principis‐rupprechtii forests | Ecosphere
+- new | 2024 | 10.5152/b-ent.2024.221125 | article | Postoperative Treatment on Periorbital Edema and Ecchymosis in Functional Septorhinoplasty Patients | B-ENT
+- new | 2024 | 10.21518/akh2024-042 | article | Fixed-dose combinations in pharmacotherapy of chronic venous diseases | Ambulatornaya khirurgiya = Ambulatory Su
+- new | 2023 | 10.29228/jrp.457 | article | Progressive Journey of Phytosomes: Preparation, Characterization, Patents, Clinical trials & Commercial products | Journal of Research in Pharmacy
+- new | 2022 | 10.4103/fjs.fjs_79_22 | article | A combination of diosmin, hesperidin, and ruscogenin: Clinical effects in symptomatic hemorrhoidal disease | Formosan Journal of Surgery
+- new | 2022 | 10.3390/photonics9070482 | article | Quantitative Characterization of Age-Related Changes in Peripheral Vessels of a Human Palm Using Raster-Scan Optoacoustic Angiography | Photonics
+- new | 2020 | https://openalex.org/W3004089353 | article | Anti-nociceptive and anti-inflammatory effect of Ruscus aculeatus L hydroalcoholic extract in male NMRI mice | DOAJ (DOAJ: Directory of Open Access Jou
+- new | 2020 | 10.36290/med.2020.003 | article | Chronic venous disease underestimated by both patients and physicians: surprising results of a Czech survey | Medicína pro praxi
+- new | 2020 | 10.1201/9780429328541-11 | book-chapter | Potential of Phytochemicals in the Treatment of Hemorrhoids | Apple Academic Press eBooks
+- new | 2019 | 10.7241/ourd.2019e.30 | article | Andrija Kornhauser-Constantine Zervos’ actinic prophiria in Man treated with Talc de Trimouns-Luzenac and Oxymyrsine pungens Bubani glyceric extract | Our Dermatology Online
+- new | 2018 | 10.25135/jcm.17.18.05.094 | article | Comparative determination of ruscogenins content in Butcher’s Broom rhizome samples gathered from the populations grown in different soil conditions in the Marmara Region and attem | Journal of Chemical Metrology
+- new | 2018 | 10.1007/978-3-319-53357-5_6 | book-chapter | Medical Therapy of Hemorrhoidal Disease | Coloproctology
+- new | 2017 | 10.1007/978-3-319-51989-0_6-1 | book-chapter | Medical Therapy of Hemorrhoidal Disease | Coloproctology
+- new | 2017 | 10.4236/jcdsa.2017.71005 | article | Improving Skin Aging, Skin Hydration and Sensitive Skin with Four Specific Skin Care Products: Results from a Single-Centre, Observational, Prospective Study | Journal of Cosmetics Dermatological Scie
+- new | 2015 | 10.1016/j.bjp.2015.05.009 | article | Horse chestnut – efficacy and safety in chronic venous insufficiency: an overview | Revista Brasileira de Farmacognosia
+- new | 2014 | https://openalex.org/W1582232159 | dissertation | La place de la phytothérapie dans la prise en charge de l’insuffisance veineuse : étude de six plantes médicinales | HAL
+- new | 2014 | 10.14195/978-989-26-0884-6_61 | book-chapter | Experimental prescribed burning in Turkey oak forest of Cilento and Vallo di Diano National Park (Southern Italy): effects on vegetation and soil | Imprensa da Universidade de Coimbra eBoo
+- new | 2013 | https://openalex.org/W3150257049 | dissertation | Vegetation dynamics and restoration trials in limestone quarries: the botticino case study (Brescia, Italy) | BOA (University of Milano-Bicocca)
+- new | 2012 | 10.1016/j.jval.2012.03.684 | conference-abstract | PCV81 Impact of the Awareness of Cardiovascular Disease (CVD) Risk on the Management in Hypertensive Patient in Korea | Value in Health
+- new | 2012 | 10.1016/j.jval.2012.03.688 | conference-abstract | PCV85 Effect of Secondary Preventive Measures on the Health Related Quality of Life of Myocardial Infarction Patients | Value in Health
+- new | 2011 | https://openalex.org/W2743934780 | article | POSSIBILITIES OF REVITALIZING OČURA QUARRY, CROATIA, WITH AUTOCHTHONOUS TREE AND SHRUB SPECIES | 
+- new | 2010 | 10.1111/j.1610-0387.2010.07472_supp.x | article | Welche Pflanze für welche Hauterkrankung? Teil 2: Dermatophyten, chronisch‐venöse Insuffizienz, Photoprotektion, aktinische Keratosen, Vitiligo, Haarausfall, kosmetische Indikation | JDDG Journal der Deutschen Dermatologisc
+- new | 2009 | https://openalex.org/W158245585 | article | Improving lymphatic drainage with herbal preparations: a potentially novel approach to management of lymphedema | Macquarie University
+- new | 2009 | https://openalex.org/W2368576789 | review | A systematic review of post-breast cancer lymphoedema and its treatment with natural medicine | UWC Research Repository (University of t
+- new | 2008 | https://openalex.org/W7220878577 | review | A systematic review of post-cancer lymphoedema and its treatment with natural medicine | UWC Research Repository (University of t
+- new | 2007 | 10.2112/05-0589.1 | article | Coastal Vegetation Zonation and Dune Morphology in Some Mediterranean Ecosystems | Journal of Coastal Research
+- new | 2005 | 10.1089/act.2005.11.285 | article | Botanical Treatments for Hemorrhoids | Alternative and Complementary Therapies
+- new | 2004 | 10.15388/lietchirur.2004.4.2354 | article | Lėtinio venų nepakankamumo ir jo klinikių simptomų gydymas venotoniku Cyclo 3 Fort | Lietuvos chirurgija
+- new | 2003 | 10.17660/actahortic.2003.598.31 | conference-paper | GERMINATION TRIALS AND DOMESTICATION POTENTIAL OF THREE NATIVE SPECIES WITH EDIBLE SPROUTS: RUSCUS ACULEATUS L., TAMUS COMMUNIS L. AND SMILAX ASPERA L. | Acta Horticulturae
+- new | 2000 | 10.1111/j.1095-8339.2000.tb00541.x | article | Pollination failure in mediterranean Ruscus aculeatus L. | Botanical Journal of the Linnean Society
+- new | 1999 | 10.2165/00044011-199918040-00001 | article | A Study of the Efficacy and Tolerability of a Preparation Containing Ruscus aculeatus in the Treatment of Chronic Venous Insufficiency of the Lower Limbs | Clinical Drug Investigation
+- new | 1998 | 10.1016/s0335-7457(98)80016-6 | article | L'allergie de contact aux ruscogénines | Revue Française d Allergologie et d Immu
+- new | 1989 | 10.1016/s0335-7457(89)80021-8 | article | Allergie de contact à une pommade aux extraits de « petit houx | Revue Française d Allergologie et d Immu
+
+## salix-alba (Salix alba) - name clause: "Salix alba"[tiab] OR "white willow"[tiab] OR "willow bark"[tiab] OR "Salicis cortex"[tiab]
+
+### PubMed HT - 36 hits, 36 not already listed above, 26 new
+- new | 2026 | 42549247 |  | Propolis-Based Solution Application in Extraction Socket Healing: A 3D Split-Mouth Clinical Pilot Study. | Cureus
+- new | 2026 | 42505825 |  | Salix alba L. Leaf Volatiles Attract Nematus hequensis Xiao Adults: Sex-Specific Responses and Optimized Field Trapping Using (E)-2-Hexenal and O-Xylene. | Insects
+- new | 2025 | 41737916 |  | A randomized, double-blind, controlled study on the efficacy of an oral dietary supplement containing fish oil, ASU and phytotherapeutic extracts in canine osteoarthritis. | Front Vet Sci
+- new | 2025 | 39447632 |  | Cadmium (Cd) detoxification and activation of plant defense enzymes in wheat (Triticum aestivum) through the use of endophytic Bacillus thuringiensis and Salix alba root powder. | Environ Pollut
+- new | 2024 | 38140770 | Clinical Trial | The clinical efficacy of a new emulsion for acne and conspicuous facial pore amelioration. | J Cosmet Dermatol
+- new | 2023 | 37895439 | Review | Willow Bark (Salix spp.) Used for Pain Relief in Arthritis: A Meta-Analysis of Randomized Controlled Trials. | Life (Basel)
+- HELD REF-1256 | 2022 | 36340684 |  | Effects of oral white willow bark (Salix alba) and intravenous flunixin meglumine on prostaglandin E(2) in healthy dairy calves. | JDS Commun
+- new | 2020 | 32575480 | Randomized Controlled Trial | Pain Bloc-R Alleviates Unresolved, Non-Pathological Aches and Discomfort in Healthy Adults-A Randomized, Double-Blind, Placebo-Controlled, Crossover Study. | Nutrients
+- new | 2019 | 30022595 | Randomized Controlled Trial | Effect of a botanical cleansing lotion on skin sebum and erythema of the face: A randomized controlled blinded half-side comparison. | J Cosmet Dermatol
+- new | 2019 | 30690691 | Randomized Controlled Trial | Anti-Inflammatory Effect of a Novel Topical Herbal Composition (VEL-091604) Consisting of Gentian Root, Licorice Root and Willow Bark Extract. | Planta Med
+- new | 2019 | 30986309 | Consensus Statement/Research Support, U.S. Gov't, Non-P.H.S. | Dietary Ingredients as an Alternative Approach for Mitigating Chronic Musculoskeletal Pain: Evidence-Based Recommendations for Practice and Research in the Military. | Pain Med
+- new | 2017 | 29326584 |  | A Combined LC-MS Metabolomics- and 16S rRNA Sequencing Platform to Assess Interactions between Herbal Medicinal Products and Human Gut Bacteria in Vitro: a Pilot Study on Willow Ba | Front Pharmacol
+- new | 2016 | 26630428 | Systematic Review | Herbal Medicine for Low Back Pain: A Cochrane Review. | Spine (Phila Pa 1976)
+- HELD REF-1261 | 2014 | 25536022 | Meta-Analysis/Research Support, N.I.H., Extramural/Research Support, Non-U.S. Gov't/Systematic Review | Herbal medicine for low-back pain. | Cochrane Database Syst Rev
+- new | 2013 | 24146062 |  | Catechol conjugates are in vivo metabolites of Salicis cortex. | Planta Med
+- new | 2013 | 24274358 | Randomized Controlled Trial/Research Support, Non-U.S. Gov't | A commercialized dietary supplement alleviates joint pain in community adults: a double-blind, placebo-controlled community trial. | Nutr J
+- new | 2013 | 23731658 | Clinical Trial/Multicenter Study/Research Support, Non-U.S. Gov't | Willow bark extract STW 33-I in the long-term treatment of outpatients with rheumatic pain mainly osteoarthritis or back pain. | Phytomedicine
+- SEEN | 2013 | 24237191 | Randomized Controlled Trial | An in vivo study examining the antiinflammatory effects of chamomile, meadowsweet, and willow bark in a novel functional beverage. | J Diet Suppl
+- new | 2009 | 19856319 | Systematic Review | Evidence of effectiveness of herbal medicinal products in the treatment of arthritis. Part I: Osteoarthritis. | Phytother Res
+- new | 2008 | 18815018 | Controlled Clinical Trial/Multicenter Study/Research Support, Non-U.S. Gov't | Willow bark extract (Salicis cortex) for gonarthrosis and coxarthrosis--results of a cohort study with a control group. | Phytomedicine
+- new | 2007 | 17202897 | Research Support, Non-U.S. Gov't/Systematic Review | Herbal medicine for low back pain: a Cochrane review. | Spine (Phila Pa 1976)
+- new | 2007 | 18447304 | Biography/Historical Article/Portrait/Research Support, Non-U.S. Gov't | Hernquist's Animal Pharmacy--can any of the drugs sold there in the eighteenth century be of use to day? | Hist Med Vet
+- HELD REF-0269 | 2007 | 17723077 | Clinical Trial/Research Support, Non-U.S. Gov't | Risk of warfarin-related bleeding events and supratherapeutic international normalized ratios associated with complementary and alternative medicine: a longitudinal analysis. | Pharmacotherapy
+- SEEN | 2006 | 16625605 | Meta-Analysis/Systematic Review | Herbal medicine for low back pain. | Cochrane Database Syst Rev
+- SEEN | 2006 | 17163262 | Clinical Trial/Meta-Analysis/Research Support, Non-U.S. Gov't | Tanacetum parthenium and Salix alba (Mig-RL) combination in migraine prophylaxis: a prospective, open-label study. | Clin Drug Investig
+- HELD REF-3737 | 2004 | 15517622 | Clinical Trial/Multicenter Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy and safety of willow bark extract in the treatment of osteoarthritis and rheumatoid arthritis: results of 2 randomized double-blind controlled trials. | J Rheumatol
+- new | 2002 | 12017748 | Comparative Study/Review | [Pain management with herbal antirheumatic drugs]. | Wien Med Wochenschr [ger]
+- new | 2002 | 11921642 | Clinical Trial/Comparative Study/Letter/Randomized Controlled Trial | [Clinical trial of willow bark extract. We have by no means compared apples and pears]. | MMW Fortschr Med [ger]
+- new | 2002 | 12244878 |  | [Willow bark extract--effects and effectiveness. Status of current knowledge regarding pharmacology, toxicology and clinical aspects]. | Wien Med Wochenschr [ger]
+- HELD REF-3736 | 2001 | 11406860 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Efficacy and tolerability of a standardized willow bark extract in patients with osteoarthritis: randomized placebo-controlled, double blind clinical trial. | Phytother Res
+- new | 2001 | 11345689 | Clinical Trial/Randomized Controlled Trial | Effect of salicis cortex extract on human platelet aggregation. | Planta Med
+- HELD REF-3738 | 2001 | 11752510 | Clinical Trial/Comparative Study/Randomized Controlled Trial | Treatment of low back pain with a herbal or synthetic anti-rheumatic: a randomized controlled study. Willow bark extract for low back pain. | Rheumatology (Oxford)
+- new | 2001 | 11515713 | Clinical Trial/Controlled Clinical Trial | Potential economic impact of using a proprietary willow bark extract in outpatient treatment of low back pain: an open non-randomized study. | Phytomedicine
+- new | 2001 | 11599656 | Clinical Trial/Research Support, Non-U.S. Gov't | Pharmacokinetics of salicin after oral administration of a standardised willow bark extract. | Eur J Clin Pharmacol
+- HELD REF-0592 | 2000 | 10936472 | Clinical Trial/Comparative Study/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | Treatment of low back pain exacerbations with willow bark extract: a randomized double-blind study. | Am J Med
+- new | 2000 | 11142926 | Clinical Trial/Randomized Controlled Trial/Research Support, Non-U.S. Gov't | [Effectiveness and tolerance of standardized willow bark extract in arthrosis patients. Randomized, placebo controlled double-blind study]. | Z Rheumatol [ger]
+
+### PubMed SR - 10 hits, 2 not already listed above, 1 new
+- new | 2022 | 34766630 | Meta-Analysis | Should I GROW or should I SLOW: A meta-analysis of fast-growing tree-species grown in cadmium perturbed environment. | Physiol Plant
+- HELD REF-0529 | 2009 | 19140170 | Systematic Review | A systematic review on the effectiveness of willow bark for musculoskeletal pain. | Phytother Res
+
+### PubMed SAFE - 66 hits, 49 not already listed above, 46 new
+- new | 2026 | 42277079 |  | Antibacterial activity, phytochemical profiling and ADMET prediction of bioactive compounds in Origanum syriacum and Salix alba. | Sci Rep
+- new | 2026 | 42256707 |  | Green biosynthesized silver nanoparticles using aqueous extract of Salix alba: antimicrobial and cytogenetic effects on mitosis. | F1000Res
+- new | 2026 | 42003789 |  | Development and evaluation of a multifunctional natural composite microemulsion for anti-acne therapy: synergistic anti-inflammatory and antibacterial effects. | Drug Dev Ind Pharm
+- new | 2025 | 38591212 | Review | A Panoramic Review on the Management of Rheumatoid Arthritis through Herbalism. | Curr Rheumatol Rev
+- new | 2025 | 40129612 |  | The Treatment and Evaluation of Dandruff and Scalp Erythema with Fermented Salix purpurea Bark Extract. | Clin Cosmet Investig Dermatol
+- new | 2023 | 37757632 |  | Immunochemical Characterization of Salix alba (S. alba) Pollen Allergens and Evaluation of the Cross-Reactivity Pattern with Common Allergenic Pollen Grains. | Int Immunopharmacol
+- new | 2023 | 37109403 | Review | Anti-Inflammatory Properties of Plants from Serbian Traditional Medicine. | Life (Basel)
+- new | 2023 | 37864597 |  | Comparative evaluation of native top feeds of western Himalayas for utilization as goat's ration in mash and block form. | Trop Anim Health Prod
+- new | 2022 | 34674609 | Research Support, Non-U.S. Gov't | In vivo toxicogenic potential of Salix alba (Salicaceae) bark extract. | J Toxicol Environ Health A
+- new | 2022 | 36278236 |  | In vitro effects of European and Latin-American medicinal plants in CYP3A4 gene expression, glutathione levels, and P-glycoprotein activity. | Front Pharmacol
+- new | 2022 | 35257538 | Research Support, Non-U.S. Gov't | In vitro metabolic biomodulation of irinotecan to increase potency and reduce dose-limiting toxicity by inhibition of SN-38 glucuronide formation. | Drug Metab Pers Ther
+- new | 2021 | 34944032 | Review | From NSAIDs to Glucocorticoids and Beyond. | Cells
+- new | 2021 | 34867410 |  | Drug-Drug Interaction Potential, Cytotoxicity, and Reactive Oxygen Species Production of Salix Cortex Extracts Using Human Hepatocyte-Like HepaRG Cells. | Front Pharmacol
+- new | 2021 | 34598697 |  | Potential antiviral effects of some native Iranian medicinal plants extracts and fractions against influenza A virus. | BMC Complement Med Ther
+- new | 2020 | 32192741 | Case Reports | Acute Liver Failure Caused by Use of Fat Burner: A Case Report. | Transplant Proc
+- new | 2019 | 31081770 |  | Phytochemical screening and antipyretic effects of hydroalcoholic extracts of selected medicinal plants of Rawalakot, Azad Jammu and Kashmir in albino rats. | Pak J Pharm Sci
+- HELD REF-1254 | 2019 | 31906808 | Research Support, Non-U.S. Gov't | Salix alba (white willow) medicinal plant presents genotoxic effects in human cultured leukocytes. | J Toxicol Environ Health A
+- new | 2019 | 31491430 |  | Multiple pharmacological and toxicological investigations on Tanacetum parthenium and Salix alba extracts: Focus on potential application as anti-migraine agents. | Food Chem Toxicol
+- new | 2019 | 31604354 | Review | United States Pharmacopeia Safety Review of Willow Bark. | Planta Med
+- new | 2019 | 30849676 |  | Identification of phase-II metabolites from human serum samples after oral intake of a willow bark extract. | Phytomedicine
+- new | 2018 | 28699506 | Review | Natural or Plant Products for the Treatment of Neurological Disorders: Current Knowledge. | Curr Drug Metab
+- new | 2018 | 29131127 |  | Pleiotropic Effects of White Willow Bark and 1,2-Decanediol on Human Adult Keratinocytes. | Skin Pharmacol Physiol
+- HELD REF-1255 | 2018 | 32704312 |  | Risk assessment of white willow (Salix alba) in food. | EFSA J
+- new | 2017 | 28436611 | Case Reports | Co-ingestion of willow bark tea and acetaminophen associated with fatal infantile fulminant liver failure. | Pediatr Int
+- HELD REF-1253 | 2015 | 25997859 | Review | Efficacy and Safety of White Willow Bark (Salix alba) Extracts. | Phytother Res
+- new | 2014 | 23703781 | Letter | Pro and contra duration restriction of treatment with willow bark extract. | Phytother Res
+- new | 2013 | 23597204 | Review | Mechanisms of herb-induced nephrotoxicity. | Curr Med Chem
+- new | 2013 | 24501816 | Case Reports | [Acute poisoning with weight-loss dietary supplement falsely suggesting the use of amphetamine]. | Przegl Lek [pol]
+- new | 2012 | 22119042 | Research Support, Non-U.S. Gov't | Prediction of adverse events by in vivo gene expression profiling exemplified for phytopharmaceuticals containing salicylates and the antidepressant imipramine. | Phytomedicine
+- new | 2011 | 22117784 | Review | Herbs in dentistry. | Int Dent J
+- new | 2011 | 21226125 | Letter | Willow species and aspirin: different mechanism of actions. | Phytother Res
+- new | 2010 | 20648923 | Research Support, Non-U.S. Gov't | In vitro anti-proliferative effects of the willow bark extract STW 33-I. | Arzneimittelforschung
+- new | 2010 | 20598400 |  | Antiestrogenic and antigenotoxic activity of bee pollen from Cystus incanus and Salix alba as evaluated by the yeast estrogen screen and the micronucleus assay in human lymphocytes | Eur J Med Chem
+- new | 2010 | 20657891 | Historical Article/Portrait | [A short history of anti-rheumatic therapy. II. Aspirin]. | Reumatismo [ita]
+- new | 2009 | 19746265 | Research Support, Non-U.S. Gov't | Biological effects of an aqueous extract of Salix alba on the survival of Escherichia coli AB1157 cultures submitted to the action of stannous chloride. | Biol Res
+- new | 2007 | 17674056 | Historical Article | [From willow bark to the coxibs. Development of antiphlogistic analgesics]. | Schmerz [ger]
+- new | 2006 | 17126636 | Research Support, U.S. Gov't, P.H.S. | Availability of weight-loss supplements: Results of an audit of retail outlets in a southeastern city. | J Am Diet Assoc
+- new | 2006 | 16639491 | Biography/Historical Article/Portrait | [The Italian contributions to the history of salicylates]. | Reumatismo [ita]
+- new | 2006 | 17323609 | Historical Article | [Milestones of cardivascular pharmacotherapy: salicylates and aspirin]. | Cas Lek Cesk [cze]
+- new | 2005 | 15942912 | Review | Herbal medications commonly used in the practice of rheumatology: mechanisms of action, efficacy, and side effects. | Semin Arthritis Rheum
+- new | 2005 | 16366042 | Comparative Study | Mechanisms involved in the anti-inflammatory effect of a standardized willow bark extract. | Arzneimittelforschung
+- new | 2003 | 14592543 | Review | The mechanism of action of aspirin. | Thromb Res
+- new | 2003 | 12773073 | Case Reports | Anaphylactic reaction to a dietary supplement containing willow bark. | Ann Pharmacother
+- new | 2001 | 11165987 | Historical Article/Review | Nonsteroidal anti-inflammatory drug prescribing: past, present, and future. | Am J Med
+- new | 1998 | 9798291 | Case Reports | Quinine for cramps. | Aust Fam Physician
+- new | 1998 | 9586674 | Historical Article/Research Support, Non-U.S. Gov't | The early clinical history of salicylates in rheumatology and pain. | Clin Rheumatol
+- new | 1997 | 9353843 | Review | Aspirin for the second hundred years: new uses for an old drug. | Pharmacol Toxicol
+- new | 1996 | 8807513 | Case Reports | Anaphylaxis induced by ingestion of a pollen compound. | J Investig Allergol Clin Immunol
+- new | 1977 | 617799 |  | An overview of nonsteroidal antiinflammatory agents (NSAIA). | Inflammation
+
+### PubMed OBS - 4 hits, 1 not already listed above, 1 new
+- new | 2020 | 32440877 |  | Assessment of phytostabilization potential of two Salix L. clones based on the effects of heavy metals on the root anatomical traits. | Environ Sci Pollut Res Int
+
+### PubMed REV - 46 hits, 12 not already listed above, 12 new
+- new | 2025 | 38867521 | Review | Role of Plant Materials with Anti-inflammatory Effects in Phytotherapy of Osteoarthritis. | Curr Top Med Chem
+- new | 2022 | 35203473 | Review | Aspirin and Infection: A Narrative Review. | Biomedicines
+- new | 2021 | 33657423 | Review | Mechanisms of the antiangiogenic effects of aspirin in cancer. | Eur J Pharmacol
+- new | 2021 | 34279369 | Review | The Role of Organic Small Molecules in Pain Management. | Molecules
+- new | 2019 | 30391545 | Historical Article/Portrait/Review | The first 3500 years of aspirin history from its roots - A concise summary. | Vascul Pharmacol
+- new | 2012 | 22591976 | Historical Article/Review | Aspirin: a history, a love story. | Consult Pharm
+- new | 2006 | 30000964 | Review | Willow Bark. | 
+- new | 2004 | 15509455 | Review | Biologic poisons for pain. | Curr Pain Headache Rep
+- new | 2002 | 11941381 | Historical Article/Review | Next generation of everyday analgesics. | Am J Ther
+- new | 2001 | 11695885 | Review | Synergy and other interactions in phytomedicines. | Phytomedicine
+- new | 2001 | 11224737 | Review | Epidemiology, etiology, diagnostic evaluation, and treatment of low back pain. | Curr Opin Rheumatol
+- new | 2000 | 10902065 | Review | Potential interactions between alternative therapies and warfarin. | Am J Health Syst Pharm
+
+### ClinicalTrials.gov - 6 registered studies
+- NCT01956500 | COMPLETED | results=False | NA | Instaflex and Joint Pain in Community Adults | conds: Joint Pain, Stiffness, Function | intr: Instaflex, Placebo | pubs: ['24274358:DERIVED (new)']
+- NCT07665814 | COMPLETED | results=False | PHASE1,PHASE2 | Propolis-Based Solution Application in Extraction Socket Healing | conds: Healthy | intr: Propolis-based topical solution (52% propolis extract, clove oil [Eugenia caryophyllus], and white w
+- NCT03965819 | COMPLETED | results=False | NA | A Study to Investigate the Efficacy of Pain Bloc-R in Healthy Participants With Non-pathological Aches and Discomfort | conds: Healthy | intr: Pain Bloc-R, Active Comparator - Acetaminophen, Placebo
+- NCT00794456 | COMPLETED | results=False | PHASE3 | Association of Passiflora Incarnata L; Crataegus Oxyacantha L and Salix Alba L. on Mild and Moderate Anxiety | conds: Anxiety Disorder | intr: Passiflora ; Crataegus and Salix, Valeriana
+- NCT01271218 | COMPLETED | results=False | PHASE4 | Effects of Glucosamine and Chondroitin Supplementation in Women With Knee Osteoarthritis Participating in an Exercise and Weight Loss Progra | conds: Knee Osteoarthritis | intr: Diet, Exercise | pubs: ['21689421:DERIVED (new)']
+- NCT00944268 | UNKNOWN | results=False | PHASE3 | Efficacy and Tolerability Study to Treat Mild and Moderate Anxiety | conds: Anxiety, Efficacy, Tolerability | intr: Passiflora, Crataegus e Salix
+
+### OpenAlex no-PMID trial-worded - 726 hits, 68 without PMID, 68 new
+- new | 2026 | 10.5958/0975-928x.2017.00120.x | article | Selection, variation and heritability of candidate plus trees (CPT’s) of Salix alba | Electronic Journal of Plant Breeding
+- new | 2026 | https://openalex.org/W7153687218 | conference-paper | Traditional Medicine in Management of Headache Pain. Systematic Review | Lithuanian University of Health Sciences
+- new | 2026 | https://openalex.org/W7217870091 | article | The therapeutic effect of topical Hydnocarpus anthelminthicus oil in combination with 0.1% triamcinolone acetonide in psoriasis; A Randomized Control Trial | Thai Journal of Dermatology
+- new | 2026 | https://openalex.org/W7160673376 | dissertation | Tradicinė medicina galvos skausmo valdyme. Sisteminė apžvalga | Lithuanian University of Health Sciences
+- new | 2026 | 10.66204/gjpsr.437-2026-2-3-6 | article | EXPLORING HERBAL TREATMENT: A REVIEW OF EFFECTIVENESS AND THERAPY OF OSTEOARTHRITIS | GLOBAL JOURNAL OF PHARMACEUTICAL AND SCI
+- new | 2026 | 10.4206/bosque.e4703 | article | Biomass production in a high-density willow plantation through ten one-year rotation cycles in Central Argentina | Bosque (Valdivia)
+- new | 2026 | 10.64388/irev9i9-1715134 | article | Herbal Remedies in Plant Management Their Evidences and Challenges with A Focus On “White Willow Bark” | Iconic Research and Engineering Journals
+- new | 2025 | 10.63341/bmbr/2.2025.40 | article | Anti-inflammatory activity of willow bark extract (Salix alba) and its effect on inflammation markers in the human body | Bulletin Of Medical And Biological Resea
+- new | 2025 | 10.5958/2250-0499.2025.00005.3 | article | Variation evaluation in growth traits of selected Salix alba genotypes in cold desert of Himachal Pradesh | International Journal of Farm Sciences
+- new | 2025 | 10.3390/proceedings2025117028 | conference-paper | Woody Species Dynamics in the Priority Habitat 91E0* in Nestos, Greece | HAICTA
+- new | 2025 | 10.33545/26631067.2025.v7.i12c.700 | article | Optimizing heavy metal contamination of blueberry in the Black Sea Littoral | International Journal of Horticulture an
+- new | 2025 | 10.64252/2ytpqg04 | article | Formulation And Evaluation Of Fast Disintegrating Tablets Of Herbal Powder Extracts For Headache | International Journal of Environmental S
+- new | 2025 | 10.21608/sjsci.2025.411210.1304 | article | Diversity of Lignicolous Freshwater Fungi from Sohag Governorate, Egypt, with the Description of a New Record: Minutisphaera aspera | Sohag Journal of Sciences
+- new | 2025 | 10.3390/land15010057 | article | Ecological Insights from Above: Linking Habitat-Level NDVI Patterns with NDMI, LST and, Elevation in a Small Mediterranean City (Italy) | Land
+- new | 2025 | 10.61882/jgbfnm.22.2.44 | article | Comparing the effects of nettle extract with combined oral contraceptives on improving clinical and paraclinical symptoms of polycystic Ovary Syndrome: A triple-blind randomized co | Journal of Research Development in Nursi
+- new | 2024 | 10.5937/topola2413055k | article | Physiological responses of poplar and willow clones grown in pot trials on soil from landfills | Topola
+- new | 2024 | 10.18502/jpc.v12i1.16028 | article | The Effects of Combination Herbal Medicine Tablet on Migraine Headache: A Randomized, Double-blind, Placebo, Controlled Study | Journal of Pharmaceutical Care
+- new | 2024 | 10.31080/asmi.2024.07.1331 | review | Herbal as an Adjunct to Scaling and Root Planning (SRP) in Nonsurgical Periodontitis Treatment in Adult: A Systematic Review of Randomized Controlled Trials | ACTA SCIENTIFIC MICROBIOLOGY
+- new | 2024 | 10.1007/978-3-031-43922-3_165 | conference-paper | Woody Species Composition, Stand Structure and Growth Dynamics of the Habitat 91E0*—Alluvial Forest—in Nestos, Greece | Advances in Science, Technology & Innova
+- new | 2024 | 10.54615/2231-7805.17995 | article | HERBAMIG in the prevention of migraine headaches: results of a study based on real-life data. | ASEAN Journal of Psychiatry
+- new | 2023 | 10.26502/ami.936500133 | article | Anti-Inflammatory Properties of Glucosamine Used in Combination with Plants Extracts on Adjuvant Arthritis Rat | Archives of Microbiology & Immunology
+- new | 2023 | 10.15376/biores.18.3.6142-6154 | article | Ameliorative effect of micro-algal and medicinal plants on some biochemical properties of bean plants under salinity stress | BioResources
+- new | 2022 | 10.1016/j.hermed.2022.100556 | article | Therapeutic efficacy of Urtica dioica and evening primrose in patients with rheumatoid arthritis: A randomized double-blind, placebo-controlled clinical trial | Journal of Herbal Medicine
+- new | 2022 | 10.36632/mejas/2022.12.2.15 | article | Effect of some medicinal and algal extracts on some vegetative and biochemical growth characteristics of sunflower plants under water stress conditions | Middle East Journal of Applied Sciences
+- new | 2021 | 10.31579/2578-8868/192 | article | Mig-RL: a Natural Preventive Treatment Against Migraine. Outcomes of a Randomized, Double-Blind Clinical Trial | Neuroscience and Neurological Surgery
+- new | 2021 | 10.1007/s11756-021-00795-w | article | Effect of Salix alba leave extract on growth performance, antioxidant level and immune status of broiler chickens reared at high altitude cold desert | Biologia
+- new | 2021 | 10.22271/plants.2021.v9.i2b.1261 | article | Natural remedies to covid-19: An inflammatory disease | Journal of Medicinal Plants Studies
+- new | 2020 | 10.1016/j.eujim.2020.101060 | article | Vietnamese herbal medicine (TD0019) in the treatment of cervical radiculopathy: A double-blind phase-2 randomized controlled trial | European Journal of Integrative Medicine
+- new | 2020 | 10.70675/69bbb47ez268ez446bzb8b4z4135e0d05423 | dissertation | Association de l'écorce de Saule et de la Grande Camomille : une alternative thérapeutique aux traitements de fond de la migraine | theses.fr (ABES)
+- new | 2019 | 10.31018/jans.v11i3.2104 | article | Productivity and economic evaluation of Willow (Salix alba L.) based silvopastoral agroforestry system in Kashmir valley | Journal of Applied and Natural Science
+- new | 2019 | 10.4314/sajas.v49i5.18 | article | Use of a hydroalcoholic extract of Salix alba L. bark powder in diets of broilers exposed to high heat stress | South African Journal of Animal Science
+- new | 2019 | 10.26110/arctic.2019.105.4.003 | article | ОЦЕНКА ЭФФЕКТИВНОСТИ ИСПОЛЬЗОВАНИЯ ДИСПЕРСИЙ КОЛЛАГЕНА И КЕРАТИНА ИЗ ШКУРЫ СЕВЕРНОГО ОЛЕНЯ И РАСТИТЕЛЬНЫХ ЭКСТРАКТОВ ДЛЯ УЛУЧШЕНИЯ ФУНКЦИОНАЛЬНОГО СОСТОЯНИЯ КОЖИ | Научный вестник Ямало-Ненецкого автономн
+- new | 2018 | 10.2478/alife-2018-0023 | conference-paper | Effect of the Dietary Willow Bark Extract (Salix Alba) on the Caecal Microbial Population of Broilers (14-28 Days) Reared at 32˚C | “Agriculture for Life Life for Agricultu
+- new | 2018 | 10.3390/ijgi7120488 | article | Comparison of Independent Component Analysis, Principal Component Analysis, and Minimum Noise Fraction Transformation for Tree Species Classification Using APEX Hyperspectral Image | ISPRS International Journal of Geo-Infor
+- new | 2018 | 10.20944/preprints201806.0188.v1 | preprint | Spectral-Spatial Dimensionality Reduction of APEX Hyperspectral Imagery for Tree Species Classification; a Case Study of Salzach Riparian Mixed Forest | Preprints.org
+- new | 2018 | https://openalex.org/W2909259559 | article | Investigation of fast growing willow species with the aim of production wood In Ardabil province | 
+- new | 2018 | https://openalex.org/W7217584812 | conference-paper | The suitability of short rotation forestry for phytoremediation of urban soil, development of a protocol for urban areas | Institutional Research Information Syste
+- new | 2018 | 10.15835/buasvmcn-asb:2018.0011 | article | Dietary Willow Bark Extract for Broilers Reared Under Heat Stress | Bulletin of University of Agricultural S
+- new | 2017 | 10.5958/2455-7129.2017.00010.3 | article | Effect of Cutting Size and Different Doses of Nitrogen on Growth and Biomass of Salix alba in Nursery Stock | Journal of Tree Sciences
+- new | 2017 | 10.15666/aeer/1503_12271242 | article | Patterns of species richness and diversity of willow Salix alba L. pests in the West Azerbaijan Province of Iran | Applied Ecology and Environmental Resear
+- new | 2017 | 10.3390/su9010155 | article | Enhanced Nitrogen and Phosphorus Removal by Woody Plants with Deep-Planting Technique for the Potential Environmental Management of Carcass Burial Sites | Sustainability
+- new | 2017 | https://openalex.org/W2744978734 | dissertation | In vitro effects of selected medicinal plants shortlisted for clinical use in the Brazilian public health system in CYP3A4 mRNA gene expression, glutathione levels and P-glycoprote | UCL Discovery (University College London
+- new | 2016 | 10.1016/j.hermed.2016.01.001 | article | Clinical efficacy of an herbal mouth wash composed of Salix alba, Malva sylvestrais and Althaea officinalis in chronic periodontitis patients | Journal of Herbal Medicine
+- new | 2016 | https://openalex.org/W2349309224 | article | USE OF RAPD MARKERS TO ESTIMATE HYBRIDIZATION IN SALIX ALBA AND SALIX FRAGILIS | 
+- new | 2016 | 10.20546/ijcrbp.2016.305.017 | article | Application of Different Growth Media for Production of Quality Planting Stock in Salix alba Linn | International Journal of Current Researc
+- new | 2016 | https://openalex.org/W2756221581 | article | Biljni pripravci u samoliječenju virusnih bradavica | Farmaceutski glasnik : glasilo Hrvatskog
+- new | 2015 | 10.1016/j.ecoleng.2015.11.049 | article | Growth and nutrient uptake of perennial crops in a paludicultural approach in a drained Mediterranean peatland | Ecological Engineering
+- new | 2015 | 10.15587/2313-8416.2015.52001 | article | Analytical review of modern herbal medicines used in musculoskeletal system diseases | ScienceRise
+- new | 2015 | 10.1002/2015gl064857 | article | The signature of randomness in riparian plant root distributions | Geophysical Research Letters
+- new | 2014 | 10.5071/22ndeubce2014-1cv.4.40 | conference-paper | Influence of Yield Productivity of Understudied Wood Species on Self-Propelled Chipper Performances | ETA Florence
+- new | 2012 | https://openalex.org/W2145603307 | article | Multiplication and Rhizogenesis of the Salix alba Explants as affected by aquatic extract of Salix Spp gall's | International Journal of Agronomy and Pl
+- new | 2012 | https://openalex.org/W2108139445 | article | Wastewater treatment efficiency and biomass growth of short rotation bio-energy trees in modified overland flow land treatment system | International Journal on Environmental S
+- new | 2011 | https://openalex.org/W2339051891 | article | Leaf litter decomposition and nutrient release in Salix spp. under temperate conditions of Kashmir valley (India). | JOURNAL OF HORTICULTURE FORESTRY AND BIO
+- new | 2010 | https://openalex.org/W2889639389 | article | SCREENING OF ANTIACETYLCHOLINEESTERASE AND ANTIOXIDANT ACTIVITY OF EXTRACTS FROM SELECTED CROATIAN PLANTS | 
+- new | 2009 | 10.1016/j.envexpbot.2009.08.001 | article | Distribution, movement and availability of Cd and Zn in a dredged sediment cultivated with Salix alba | Environmental and Experimental Botany
+- new | 2009 | https://openalex.org/W2163893585 | article | Phytoextraction of Cd, Ni, and Pb using four willow clones (Salix spp.) | 
+- new | 2008 | 10.1007/s11676-008-0061-0 | article | Projected benefit-cost analysis of agri-silvicultural system: vegetable crops intercropping with Salix alba (Willow) | Journal of Forestry Research
+- new | 2008 | https://openalex.org/W51995092 | dissertation | Studio degli effetti del Cr(III) su piante di salice: confronto fra differenti specie e condizioni sperimentali | Padua Research Archive (University of Pa
+- new | 2008 | https://openalex.org/W7217178663 | book-chapter | Herbal therapy: an ancient and modern medicine for pain | UnissResearch (Università degli Studi di
+- new | 2007 | https://openalex.org/W23348181 | article | The Effect of Clove Bud, Nigella, Salix Alba and Olive Oil on Wart Treatment in Comparison with Conventional Treatment | یافته
+- new | 2004 | 10.6957/rbhdais.200408.0020 | article | 銀柳新品種「蘭陽一號」之育成及特性 | 
+- new | 2001 | 10.1007/s006060170062 | article | Hybridization in staminate and pistillate Salix alba and S. fragilis (Salicaceae): morphology versus RAPDs | Plant Systematics and Evolution
+- new | 1997 | https://openalex.org/W3110723297 | dissertation | Complementary medicine for canine osteoarthritis: A critical review and a clinical trial of asa, two herbal formulas and placebo | The Atrium (University of Guelph)
+- new | 1997 | 10.33338/ef.83928 | article | Willow tree shoot module length and the attack and survival pattern of a shoot-galling sawfly, Euura atra (Hymenoptera: Tenthredinidae) | Entomologica Fennica
+- new | 1995 | 10.1111/j.1365-3113.1995.tb00083.x | article | Dasineura ingeris sp.n. (Diptera: Cecidomyiidae) on Salix viminalis in Sweden, including comparisons with some other Dasineura species on Salix | Systematic Entomology
+- new | 1992 | https://openalex.org/W4313574878 | article | The importance of willow and poplar for afforestation of former marshlands in western France | HAL
+- new | 1990 | 10.1007/bf00033279 | article | Analysis and description of first year's growth of Salix alba L. clones | Euphytica
+- new | 1984 | 10.1111/j.1570-7458.1984.tb03372.x | article | Oviposition and larval performance of Rabdophaga terminalis on Salix spp. with special consideration to bud size of host plants | Entomologia Experimentalis et Applicata
